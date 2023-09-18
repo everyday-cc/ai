@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 webUrl: "https://time.com/6313588/california-ai-regulation-bill/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "California Has a New Bill to Ban Self-Driving Trucks"
-    excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
-    publishedDateTime: 2023-09-13T00:49:00Z
-    webUrl: "https://tech.co/news/california-bill-ban-self-driving-trucks"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 24
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
-        width: 1920
-        height: 960
         isCached: true
   - title: "California Set to Ban Self-Driving Trucks With No Safety Driver"
     excerpt: "The California Senate has passed a bill that requires autonomous trucks to have a human safety operator behind the wheel at all times while on public roads. Put simply, it's a ban on driverless trucks — a blow to an industry that has already struggled to ..."

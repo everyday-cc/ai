@@ -2,9 +2,9 @@
 category: news
 title: "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled"
 excerpt: "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers."
-publishedDateTime: 2023-09-13T08:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879923.htm"
+publishedDateTime: 2023-09-13T09:27:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm"
 type: article
 quality: 27
 heat: -1
@@ -117,6 +117,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Are AI chatbots more creative than humans? New study reveals surprising results"
+    excerpt: "The study published in Scientific Reports compared human and AI chatbot creativity using the alternate uses task (AUT), finding that AI chatbots generally outperformed humans in generating original and logical uses for everyday objects."
+    publishedDateTime: 2023-09-18T01:41:00Z
+    webUrl: "https://www.news-medical.net/news/20230917/Are-AI-chatbots-more-creative-than-humans-New-study-reveals-surprising-results.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_759144_16950011783825327.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
     excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
     publishedDateTime: 2023-09-16T16:24:00Z
@@ -149,15 +163,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 19
-  - title: "Wecover Platforms Rebrands as 'Linq', Unveiling an AI Chatbot Revolution"
-    excerpt: "SEOUL, South Korea, Sept. 13, 2023 /PRNewswire/ -- Wecover Platforms, a Boston -based conversational AI startup, is rebranding itself as 'Linq' to spearhead its expansion into the AI chatbot market. Recently, Linq has joined the 2023 Techstars Boston Accelerator program, reaffirming its commitment to advancing the AI chatbot industry."
-    publishedDateTime: 2023-09-13T07:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879910.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "Why Japan Is Building Its Own Version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
     publishedDateTime: 2023-09-15T14:04:00Z
@@ -168,6 +173,6 @@ related:
       domain: scientificamerican.com
     quality: 4
 
-secured: "kgmVDkAoPKSBU9PpiSZ3h8MuOPGWGIrFByVYSNNNL+xlBF8zeARwS+Jyhv1Oa+up1XI6w2JTWvnMIpnYGvlFoFeyXxIAYxQ+B9Z1RMz3oRrBdHXB7MjSTft2W9Pfh4fVo/yT56BBZiHgXn43x9zTfl/G2tNMsLhagFT63kC0dBB0U5SMJzCJbXuHnZ96gsoZQhb9uk1OXRiC4h9gdqrC3qlesjAELshjMUyPqgfX5xYkkUa5KbDBH0nRPWn0pUTlXNmb6A28J+XO7YBCG1zxTMvJUaN1Ylu9EJy5AhrXBzBnvW+enGd5h6UiU4nWK8cBOEikb34XQLUelMh/dvmjPoZ77D7cue1ah5ZhGxvx7YS7BSQOfOQ4xbRGvqB7+TaA7EAghndmeYcowTe3xV2xbI8rJKn8/XuWdiC71JV1VR/2naFIsiUbKhZ3a+C3UT7ZU0dWzlCSvZhVY4yMqyBt57nFe2rTsdeNNjnl3a4rmtshXnMMoWDVW0dgXJ15p6rfCsSQpNeepH/a2l4YMU6gog==;9LAZ4vMFQ13Dp9dmlClqkg=="
+secured: "/jqwIM5E7qGfV+5wMM69qfffdyW5H5Yr8V6+QbiUpkf4rSsHgpVlofNdtbk+4ZsyZCXSHaNvBdAhPjkpFOTEalWAR1brMqnFv50vvWXaGmWmFZ+quGTLMTwlIMT24CiaPlbEtEXybsJoimBrgF4V2jXhE+5EJ4/judyZGVGlRSjstps8kCvCCqABN9fsKDBkwIqzpl5tDCTpdegyjSbHsufrJuSFhdKTBvMUuW2s6J2A/UkPpIzxY1vw9LH5TPQ2t/aLPGwxQCChrxFJzBcO/lamKfufoCHjUa2CAmWKdJMDgEX0VC3CNW7HVzsU3kL8cmiYIoMrsxJN5TgZafqt5CFIEKTy6lev76aTyBKV+CQ=;wwQDw1PGM1qvvqj+k7feTw=="
 ---
 

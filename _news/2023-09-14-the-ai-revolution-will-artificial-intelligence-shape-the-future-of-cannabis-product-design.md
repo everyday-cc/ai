@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34506273"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506273"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
+    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
+    publishedDateTime: 2023-09-14T09:28:00Z
+    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
+        width: 346
+        height: 250
+        isCached: true
   - title: "Repentance and Revolution: A Teaching for Rosh Hashanah"
     excerpt: "Then I enter Rosh Hashanah services. As the ark is opened, the congregation recites Psalm 24. “Who may ascend the mountain of God? Who may stand in [God’s] holy place? One who has clean hands and a pure heart,"
     publishedDateTime: 2023-09-15T04:03:00Z

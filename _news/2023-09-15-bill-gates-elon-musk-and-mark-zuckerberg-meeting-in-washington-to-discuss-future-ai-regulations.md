@@ -50,20 +50,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Wall Street weighs pros and cons of AI as Washington gets to work"
-    excerpt: "AI industry juggernauts Google ... “There is plenty of money to be made in financial securities arena by doing things the right way, with ethics and morals, but there are always corner cutters out there. I would hope that regulation would stop this ..."
-    publishedDateTime: 2023-09-12T23:23:00Z
-    webUrl: "https://www.investmentnews.com/wall-street-weighs-pros-and-cons-of-ai-as-washington-gets-to-work-243429"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/08/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg-s1024x1024wisk20cMz2G15YAcE09_ywaRc43p9jmG2urk69uqyopTbaG4cI.jpg.optimal.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
     excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
     publishedDateTime: 2023-09-14T05:12:00Z
@@ -119,20 +105,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/14/eacff1ac-9102-4fb3-b092-bc52256724ed/thumbnail/1200x630/aa434577c43d08525c275a123239ce33/cbsn-fusion-what-concerns-major-issues-a-i-regulation-draws-thumbnail-2288760-640x360.jpg?v=b4264bc5922d2f5b2145bedc5a4d101e"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tech industry leaders endorse regulating artificial intelligence at rare summit in Washington"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for several months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and"
-    publishedDateTime: 2023-09-13T06:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/closed-forum-tech-titans-give-senators-advice-artificial-103142197"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 26
-    images:
-      - url: "https://i.abcnewsfe.com/a/da88065d-e58b-4c71-9de9-c23764279ca6/wirestory_efcfb1067d68ad2f595db7e92167943c_16x9.jpg?w=992"
-        width: 992
-        height: 558
         isCached: true
 
 secured: "wpMTdD0iyz6D+ox9247N+LvS5V4vDwGwCzYxTZHIPqK6V2iGyHlQgIyKF7YtENxiPjQA0TTz9HpU+7GsKxrBG/xs/+6znrtz028wlIQYi35QvPvZMYW3rJRrz9WDPO9JpBWK3mTFPh5gSqPcwdrG57wi98q+P9B8Rgs8ZVbajkZijcBFjIw9SdgFs6tRvKvpgKzmF2CF7Qfqdbn7Pptef7ZpG7TMH6WsfIzzZrb/Oziza2q3Ldq6XLvgIJ0Xmzsp8+EicnEaEGmnVMk6dQjdwLfE4oF6HaizKLN+8EtxzdHdpc6MesAD4CES+dEudRLfwnGYmQt2qoMDL9/91RVBpmHtHQkwNT1LIqCYzeEqNmgnLW97zJKNZkd6EwjzlD4z6b6WN6RmsSKnn2Yo9MYgNrXLDc8YeFhuraN/LjeXg6Yd4oBqt0xb+eapV9oO3m0eDvH0jOgdF3Mg2p+5tht2ifK8Y8aVVg07F5ZxEVks3oZzAuIsc8xB7PcUp7B54eUCvnQBvOHa9L7f0wuLY/dHEA==;PGYR2IeXx0rS3FWw8rJy2g=="

@@ -42,6 +42,15 @@ related:
         width: 988
         height: 719
         isCached: true
+  - title: "Brain inspires more robust AI"
+    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
+    publishedDateTime: 2023-09-17T23:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
 
 secured: "Bx4GMUw63wawmbRbmpSKgu1Qxjlopjwyz0YWocL2Gkj30O8vplxLAq7LEvLeB0T4BqJCVAYxHwry/Ua7e8dwv+5TrwYWtiqk9AVSPfQi5ZeP3NkgIZjG/XnFDTuGrBvkQF3yknEVV0S//qdlm8qTTCpuTGpweQiALeFdR5L7m0YN4HL33/CDPjrUQrBE63dREhmEX5X1EQ9YeMObQU4u1V4vLeK+Qf53dn7bC1u1lTWzV8kFG3YZSLMIkFyCETUZdeQzV0S8hSt15QTy4RlBAD5N/rhr3aF6ML99sijMbEz4h/CP6t/Dt21/VxABhYRs52Bmd1bJ/+ew6ZQunS4PAJpyQlA5xTJQl5QuvtAl+/UqAEDZY4fTc3bVb+2KiQeq1jd+1LWJ4RxJl9rI2pZt2++LweKID188YNXMFxbAQoGzTQlyVMpC0QbBpjt8boyXOq2AdcPSpODxNeOIqQ+GwGzT/Cd1iJrt7MaI5KSaoFY/X/R4LfF8vqNJjWgjzPLtMgzsgsbgyAXyYtPs/dYOBg==;kqfy9Osx/Opw29Vl3o0f/A=="
 ---

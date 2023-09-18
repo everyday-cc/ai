@@ -61,6 +61,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Qatar Unveils 5-Year Plan For Self-Driving Vehicle Regulations"
+    excerpt: "Minister of Transport HE Jassim Saif Ahmed Al-Sulaiti today inaugurated the MOT's“Sustainable Transportation and L"
+    publishedDateTime: 2023-09-17T18:34:00Z
+    webUrl: "https://menafn.com/1107084924/Qatar-Unveils-5-Year-Plan-For-Self-Driving-Vehicle-Regulations"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "4wz1pqzLVSzupApeLhgRQ33CCr7q5Y72PruqFNPVjX27qtw5j0/4/qg66yGyG1HVfXWgFOi+trEhKHK1PIw/z5PSdRPZl9ac39ERo9Uiq7sDcCqiXTW8hgzyAKR2ml//MOWWHrnOrkrCeTGWPl/GRLrEtUcP3lRGMMGfhYRo4thoQA0L/FHjRkkr2jOYalTWuHpafRWzgezl8y1YqacAN7obn6QCWdTkwQQhNM/w3G2ge88fVTv96bp1ey52o+BRwqI7Y6CvMPwWwAHcpbPFEtuDvEwn/AOkoFZlTsv4Ic/TQ5XDBB127HirKbqPhqJfclujsLcjvidu8MhEoL1bj3jmzzUDhfm1ppw34TWUBtA=;xaY+08S/Wmw/F74JT9UEcg=="
 ---

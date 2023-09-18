@@ -1,28 +1,22 @@
 ---
 category: news
 title: "As lawmakers eye regulation, AI could reshape Congress itself"
-excerpt: "As tech industry leaders and senators came to a consensus that government should regulate artificial intelligence, a group of lawmakers, staff and advocates leaned into the"
-publishedDateTime: 2023-09-15T15:58:00Z
-originalUrl: "https://www.securityinfowatch.com/cybersecurity/news/53072421/as-lawmakers-eye-regulation-ai-could-reshape-congress-itself"
-webUrl: "https://www.securityinfowatch.com/cybersecurity/news/53072421/as-lawmakers-eye-regulation-ai-could-reshape-congress-itself"
+excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
+publishedDateTime: 2023-09-15T10:11:00Z
+originalUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
+webUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Security
-  domain: securityinfowatch.com
+  name: Roll Call
+  domain: rollcall.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/09/16x9/US_NEWS_CONGRESS_AI_GET.65046a78450b8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "What Congress Can Get Done On AI Legislation"
@@ -95,6 +89,6 @@ related:
       domain: bizjournals.com
     quality: 12
 
-secured: "msbaTckTkJibq6odvgh5YNweFiNbjsqTTakZIHSt7gseICJmOBVNmM0lTSSZBU8kgr0/wOBh6FGAbluX14yZ5kS0Ix7avbxnUN0V7jjgwcLC39p0X8Y4xh8a5K1Pfge3x0SrdFwaPFne/b9b5cl62gy0JGlbogCc82y1EZb5JyvBaHHfnwhXcl3vxfH24NkDS429FzuHrcyYfJONDuLO1HJV+1kRqOhxFs4Qhnyv5ZMCiZxENlR9eeY9AF3Mw6pGkFoeBn1XChd5tU4vYf/KNv8XD2WKMQDcKuVokhc6hDJDNlp0YJouUyOMwDBLjEJpSyXCrK+1DvbIXO9gTx/aTbp9kO0y62147xB5pkMOTEo=;91p5XktPL0hbV9dW4ikLHw=="
+secured: "ssdZ1q94r3aaspY7Lqk5jLBFxDoUlOTP/g0nmLASXSsUefMp6oMM0w6ig5eNfznr+UGb5+oUE7iI1LwO/krv9TiXNmE9ckp6vhIJejtt+N7CO9PrP3n3Tis9M30Xut/tQDIlUOL2C0LeIk3fNiMtPjltdyh2k5nENP9SsqrPCoYU+65B4RaoaTt2kYJhv9URJZETKVtJfmpz8TMa752M3qOKc5LR5HHck4BQlkX/q9+BBQf8uIpL7v1iLBGZjKcUlJo6dOWpJeTW62T66q7pDrQUCu8OtaU39drc+LY4qTahDIoYaNycyUcJOGViSmveyLhP4Uodt/B36ikmYFIDaR3RZhgp8/HN5/ZL1TwTOFc=;RGadq/CPZSXAh8MoLmCMCA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-t
 webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Chattanooga Times Free Press
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
+    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
+    publishedDateTime: 2023-09-18T00:35:00Z
+    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
+    type: article
+    provider:
+      name: The Daily Pennsylvanian
+      domain: thedp.com
+    quality: 25
+    images:
+      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
     excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
     publishedDateTime: 2023-09-15T12:05:00Z

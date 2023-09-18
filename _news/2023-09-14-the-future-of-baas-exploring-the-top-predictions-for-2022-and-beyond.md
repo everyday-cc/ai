@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "How AI Can Revolutionize The Business Banking User Experience"
+    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
+    publishedDateTime: 2023-09-13T11:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
+        width: 500
+        height: 285
+        isCached: true
   - title: "As generative AI becomes a competitive advantage, how do you land a strategy right for your business?"
     excerpt: "Understanding how generative AI can transform the way your organization operates is crucial as it becomes ubiquitous across industries"
     publishedDateTime: 2023-09-13T13:54:00Z
@@ -80,6 +94,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
+  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
+    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
+    publishedDateTime: 2023-09-14T12:35:00Z
+    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
+    type: article
+    provider:
+      name: University of Texas at San Antonio
+      domain: utsa.edu
+    quality: 1
 
 secured: "gF7XESTLrehdgRuL58jE4vGennHI+OIz1SmiELv47nrCFUabGa2W38iQ30s0pvf8kyRGPlSb//jSK/TDqA9WLbIsN9E6lJYsDbx9QCm+5uGM+OPeTvLY98akOaP1sB8tiGQS5RkZJls+3qMddc2qcK78xd9/Y6nGge7QRAsbm7LdAMkZsbChIT7yRIrtGWmHdqyjEj13EQxT+e3zsDGRITgLiMdN1h1iaIgHp3THV6LUXw6p9CKk6H+a/7O/tUfZIxa6tYeZWxxmFMaQBCYgKrp8GPm9qUu55rJsA9DQXSeNeul3F2JGaW5QQ0ihiOPUs6gcyQnlUI02otDGfBT9pga0oyL5z5ZxZuAiie1wmsyxlz76wztZm471VHPZ0nKS2QvdECUbbuENMsLIlLA9i8aTG6uTKAQ1Mv2GYoCF8gubvQMN/XLwSyuhwfxYZs3a3dQnQKO1DTVGoW3hhuVohBvCeT64UCdF76v2NCaWApr/2gEcBg5MyKdJ201yUvOKoEdLG2dVJKtqHhdBu/shkw==;f9TedD+7vcHSLz0IBvuzOg=="
 ---

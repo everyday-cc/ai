@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/will-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/will-generative-ai-make-us-dumber/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The US Congress Has Trust Issues. Generative AI Is Making It Worse"
+    excerpt: "As senators meet with Silicon Valley's elite to learn how to deal with AI, experts are asking, can Congress tackle the rapidly emerging tech before working on itself?"
+    publishedDateTime: 2023-09-13T11:00:00Z
+    webUrl: "https://www.wired.com/story/congress-generative-ai-big-tech-briefing/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/6500f79413ef7587fbe19ff2/191:100/w_1280,c_limit/Can-Silicon-Valley-AI-fix-a-Senate-problem-Security-GettyImages-1660554150.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "dyty2zKBiJCzhVNPL/H3CfqhxSA7F4I/GCVvnpq9379SibRPJrEb7yZlhSz/axG+jjIdEpcKdrKC3cyqMYiw0LDCm11ftYjYyrMW8bVtTeqx9EptE24xq8zjO5Li52LevJq9/SHSVoGtNs+S/mlFoSamdOINbmYaWrjDIJCtIDTxgRQuicMIdkG4eZN0J8MiMZO6K8/Ixinc5yA2weWeHl8zsL80E1uHHMCda/9YwZxeq/KUW9joJFyKEfv7jcqeKFUsV2z/BNWGIlJdUMgevos9NMTBE4P8xCAJAT60QeV18HV0nidiOOI3G96bB0hBTpLRqrsHH38xibSnkobQY/iG/JWsJL1C/Zc88SLzaLI4EJ2dNu1IFe1gLkJfQgGxLnEepusnxnRIYCCwJfx9Rs5LWUWcWtCDM8wbj7HDsoTj4iBPi418nB6HpwYg9y6NJo8y7FK51jFoUDh26fTYrSFXMv+4JwdG9y6hLfiG9LycmeTQnqJivfgCi+Dw2ckPZtdYauHTFoLaN1k7zH/CyQ==;HVBJn/+8908aQaIZSmCpLw=="
 ---

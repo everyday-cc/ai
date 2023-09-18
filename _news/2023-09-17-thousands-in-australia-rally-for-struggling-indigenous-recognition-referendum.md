@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousan
 webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: scmp.com
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
-    excerpt: "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign."
-    publishedDateTime: 2023-09-13T05:16:00Z
-    webUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 57
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Voice can close economic gap for Indigenous Australians, says Julian Leeser"
     excerpt: "Former Liberal frontbencher supports referendum as a way of getting First Nations people ‘to the same starting line’ as other Australians"
     publishedDateTime: 2023-09-13T09:47:00Z
@@ -91,6 +75,20 @@ related:
         width: 1312
         height: 1325
         isCached: true
+  - title: "The Australian government has revived facial recognition as part of a national ID plan"
+    excerpt: "The FIS is a one-to-many facial recognition system, using a single photo to check against a database of images to identify them."
+    publishedDateTime: 2023-09-14T05:11:00Z
+    webUrl: "https://www.startupdaily.net/topic/politics-news-analysis/the-australian-government-has-revived-facial-recognition-as-part-of-a-national-id-plan/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 31
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2023/06/AdobeStock_605339354.jpeg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
     excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
     publishedDateTime: 2023-09-17T06:20:00Z
@@ -118,6 +116,36 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "A Voice for Australia’s aboriginal people?"
+    excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
+    publishedDateTime: 2023-09-18T00:14:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/09/18/a-voice-for-australias-aboriginal-people"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289778.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Voice referendum: Aboriginal traditional owner stands up in front of Australia's National Press Club and declares she opposes the Voice before man yells at her and tells her to ..."
+    excerpt: "But these are not promises the Government can make.' “Chapter IX Recognition of Aboriginal and Torres Strait Islander Peoples, 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First ..."
+    publishedDateTime: 2023-09-14T05:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12516779/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/09/14/06/75416699-0-image-a-7_1694668974805.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "6ONX22AkLB1gKttkDQhfQ2jf7SYzNhftfv02Qxd3iwhIaVLAEumKGqWEjv1TupiOU1Q4NjpdSqcPORVe81F25WGuQCTn6CIJRkFin28/5VUDKOvcsMrNzZXnHvIb0K/LP1ECqIxocYNzSeKZZ2KOdvWCJd65dYR9D46lNwt8HqoANYcqVdCYtHeyo3x8/IaKb/LNl5GPb2UO2iA4GELInxqW0LqcnbB2UeFBE0L2UekdEhBO5J9hxKwlMaVvsUppTUGW+EzB1y8H0UiuXkvUIXNEJKWaJH5UcLi8a6pmDFdxP2vHj9tpOTYFx0+F81rD6t/Kl4bwoWVlbq5vkraqBfDDw8OY8To2CyPB43H3eXz44I7mv/ooRMqipW5cDffG76vSGodkwVf8AnryL5LgCFhCSC/dyDwi5RIlH1VRRfleUvenQp+t/VAN/ohCU4YLSHH/jA1TDAIoBsdK2jQQaJQliRh9wiqjkxSNkzv8Io85EKClKg+bsCatbEpsMI4t/Bs2fKx0X+EHofgc6JP/YQ==;czbRjvZEHbNGuBaLY1czNQ=="
 ---

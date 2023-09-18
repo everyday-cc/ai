@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Salesforce CEO says Slack will play a prominent role in AI"
-    excerpt: "Benioff said Slack is not only a system of engagement, but a system of record, so the program itself can start managing data. Benioff also discussed the next iteration of Salesforce's Einstein, an AI program with capabilities aimed at assisting companies ..."
-    publishedDateTime: 2023-09-12T23:55:00Z
-    webUrl: "https://www.cnbc.com/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107248855-1685562177189-gettyimages-1485563103-dk020141_cdq4ldmt.jpeg?v=1694561844"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "How AI Is A Game Changer For Recruiting And Retention At Salesforce And Other Companies"
     excerpt: "AI has become a positive game changer for recruiting, retention, learning and development programs. In an exclusive interview with Salesforce interim chief people officer Nathalie Scardino, she discussed how the cloud computing and social enterprise software-as-a-service provider is leveraging AI for the company and its clients."
     publishedDateTime: 2023-09-13T15:00:00Z

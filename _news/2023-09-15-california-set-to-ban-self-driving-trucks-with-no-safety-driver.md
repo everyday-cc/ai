@@ -55,20 +55,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "California Has a New Bill to Ban Self-Driving Trucks"
-    excerpt: "California's Senate has passed a bill that would require the presence of a human safety operator whenever a self-driving truck is operating ... lot of the arguments that surround the rise of artificial intelligence across plenty of other industries."
-    publishedDateTime: 2023-09-13T00:49:00Z
-    webUrl: "https://tech.co/news/california-bill-ban-self-driving-trucks"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 24
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/07/21014335/truck-route-highway.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Exclusive: From back office to patient diagnostics, AI comes to health care"
     excerpt: "Artificial intelligence has existed for years, but hospital systems and health care providers are just now getting in on the tech."
     publishedDateTime: 2023-09-15T11:40:00Z

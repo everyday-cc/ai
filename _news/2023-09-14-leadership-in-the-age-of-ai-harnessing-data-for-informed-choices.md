@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
+    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
+    publishedDateTime: 2023-09-17T13:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
 secured: "dOJ8NSITKkHN5CRbnTvNbcWOkDq5ROMBQRTyxvTXgbOIxdlVMJozNNbq1iT534EPMi20oFiMx6fYv1kEbNyOffrUqm+90i/g+ri/rRlde33LG65xd82pnoPDXja4doNGd+V3J59EvPQaC712FeMyH3gj7vMdj2qKX1BUl8ZZFAiSSO+9coAl5XZiN7xoFO2ZhUiuizGj+VA+qQM01TsaGf4ucpUQBnbjq+XvBYBF0vUgsZtNEwAByGvBpC2c/nguiM3g+4a+qOx4qsFqdwmYIm27ipUQjaLf8V/qZZvef4FX8blYQrVi5/A0M23Cty5ZEMbefDIGlH34fStpZAcm2MxB3aJSl+92pqxwibyAh8ab+xQ7c6Z0m8egAKpzu/5TmydPcoeJLhVt2Xul7R71D2BsX2uxZw+Dj3EuXiDZwgqaPVvh4gVntEIDN8GY8nMGFva0HLN8Ni0Namm2nydoH3ThxwIK8cmGkoA2Drw5KdHLCNI/hRZqEGmR/bIfZevinWplNtM3jXcSgBOm5P64eQ==;afDAdQalD1Jk/VZ33KxFOw=="
 ---

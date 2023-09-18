@@ -27,61 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI is revolutionizing supply chain operations"
-    excerpt: "Generative AI accelerates conversations between supply chain decision makers and virtual assistants, enabling fast and fact-based actions.\nThe post How generative AI is revolutionizing supply chain operations appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-13T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-generative-ai-is-revolutionizing-supply-chain-operations/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions"
-    excerpt: "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible."
-    publishedDateTime: 2023-09-15T23:05:00Z
-    webUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/"
-    ampWebUrl: "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200"
-        width: 780
-        height: 439
-        isCached: true
-  - title: "Mind the trust gap: Data concerns prompt customer caution over generative AI"
-    excerpt: "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence."
-    publishedDateTime: 2023-09-14T16:13:00Z
-    webUrl: "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b7229e536aa765caeba8e4af11d71c48fdd64669/2023/09/14/ad2626bd-f76f-456d-bf28-e83d8935ee36/ailockgettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Simplify access to internal information using Retrieval Augmented Generation and LangChain Agents"
-    excerpt: "This post takes you through the most common challenges that customers face when searching internal documents, and gives you concrete guidance on how AWS services can be used to create a generative AI conversational bot that makes internal information more useful. Unstructured data accounts for 80% of"
-    publishedDateTime: 2023-09-14T16:47:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-access-to-internal-information-using-retrieval-augmented-generation-and-langchain-agents/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/DBSBLOG-14696_Image_10-1057x630.jpg"
-        width: 1057
-        height: 630
-        isCached: true
   - title: "Haltia.AI champions ethical AI revolution"
     excerpt: "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet."
     publishedDateTime: 2023-09-13T10:18:00Z
@@ -98,86 +43,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "The US Congress Has Trust Issues. Generative AI Is Making It Worse"
-    excerpt: "As senators meet with Silicon Valley's elite to learn how to deal with AI, experts are asking, can Congress tackle the rapidly emerging tech before working on itself?"
-    publishedDateTime: 2023-09-13T11:00:00Z
-    webUrl: "https://www.wired.com/story/congress-generative-ai-big-tech-briefing/"
+  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
+    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
+    publishedDateTime: 2023-09-17T09:43:00Z
+    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Impacts
+      domain: techbullion.com
+    quality: 71
     images:
-      - url: "https://media.wired.com/photos/6500f79413ef7587fbe19ff2/191:100/w_1280,c_limit/Can-Silicon-Valley-AI-fix-a-Senate-problem-Security-GettyImages-1660554150.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "How AI Can Revolutionize The Business Banking User Experience"
-    excerpt: "AI is poised to revolutionize the user experience in any field, including for small businesses in Business Banking. By leveraging cutting-edge technologies and advanced data analytics, the integration of AI by banks,"
-    publishedDateTime: 2023-09-13T11:03:00Z
-    webUrl: "https://www.finextra.com/blogposting/24880/how-ai-can-revolutionize-the-business-banking-user-experience"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/8912b45e-e69f-4108-a79d-f6764d2d493e.png"
-        width: 500
-        height: 285
-        isCached: true
-  - title: "Pinecone Working with AWS to Solve Generative AI Hallucination Challenges"
-    excerpt: "Pinecone, the vector database company providing long-term memory for artificial intelligence (AI), announced an integration"
-    publishedDateTime: 2023-09-13T16:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/pinecone-working-with-aws-to-solve-generative-ai-hallucination-challenges/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 53
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "Chatbot Summit Arrives at ExCeL London on Oct 11-12, Accelerating Conversational and Generative AI"
-    excerpt: "LONDON, Sept. 14, 2023 /PRNewswire/ -- Chatbot Summit, the world's leading Conversational AI Conference & Expo Series, is making its way to the UK for the first time, after previously bringing together an ecosystem of over 10,000 leaders at industry-defining events, held in Tel Aviv, Berlin and Tokyo."
-    publishedDateTime: 2023-09-14T09:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-summit-arrives-at-excel-london-on-oct-11-12-accelerating-conversational-and-generative-ai-1032629564"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/2210752/Chatbot_Summit.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "Indaru Revolutionizes Media Budget Optimization Through Cutting-Edge Machine Learning Solutions"
-    excerpt: "Indaru leverages the power of artificial intelligence and machine learning to provide advertisers with unparalleled insights, enabling data-driven decisions that maximize return on investment. With a mission to help brands extract maximum value from their ..."
-    publishedDateTime: 2023-09-15T19:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34628855/indaru-revolutionizes-media-budget-optimization-through-cutting-edge-machine-learning-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34628855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34628855"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.getnews.info/uploads/03076ad851048fbdad586e761f2d26e6.jpg"
-        width: 600
-        height: 240
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
+        width: 739
+        height: 415
         isCached: true
   - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
     excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
@@ -195,95 +73,34 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "6 Generative AI Jobs in India"
-    excerpt: "The role aims to contribute to Apple’s generative AI-based developer platform, collaborating with data scientists and software engineers to provide ML solutions for internal use, with a focus on improving the developer experience."
-    publishedDateTime: 2023-09-13T07:31:00Z
-    webUrl: "https://analyticsindiamag.com/6-generative-ai-jobs-in-india/"
+  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
+    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
+    publishedDateTime: 2023-09-15T05:11:00Z
+    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/6-Generative-AI-Jobs-in-India.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
+        width: 800
+        height: 543
         isCached: true
-  - title: "Generative AI in Manufacturing : A transformational alliance"
-    excerpt: "The manufacturing industry in Bharat can attempt to deploy basic AI / ML techniques far more creatively than it does today"
-    publishedDateTime: 2023-09-13T05:04:00Z
-    webUrl: "https://www.business-standard.com/opinion/columns/generative-ai-in-manufacturing-a-transformational-alliance-123091300235_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/opinion/columns/generative-ai-in-manufacturing-a-transformational-alliance-123091300235_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/opinion/columns/generative-ai-in-manufacturing-a-transformational-alliance-123091300235_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
-  - title: "Key Contractual Considerations for Health AI and Hospital Collaborations"
-    excerpt: "If artificial intelligence (AI) is the vehicle that will revolutionize health care, data is the fuel that will propel the revolution. Health AI startups have recognized an unprecedented opportunity to"
-    publishedDateTime: 2023-09-14T21:19:00Z
-    webUrl: "https://www.natlawreview.com/article/key-contractual-considerations-health-ai-and-hospital-collaborations"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 36
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/technology%20AI%20artificial%20intelligence%20machine%20learning%20computer_0.jpg?itok=S3Jc_0oL"
-        width: 500
-        height: 338
-        isCached: true
-  - title: "Leading The Fintech Revolution: Forms Syntron Presents Generative Ai And Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sectorHONG KONG SAR - Media OutReac"
-    publishedDateTime: 2023-09-14T09:28:00Z
-    webUrl: "https://menafn.com/1107066798/Leading-The-Fintech-Revolution-Forms-Syntron-Presents-Generative-Ai-And-Web-30-Financial-Platforms"
+  - title: "Ai That Matters: International Government Communication Forum 2023 Explores Practical, Ethical Complexities Of Artificial Intelligence"
+    excerpt: "SHARJAH, 13th September, 2023 (WAM) -- A thought-provoking session held on September 13, 2023, during the International Government Communication Forum (IGCF) in Sharjah brought together experts and thought leaders to explore the profound ethical questions raised by artificial intelligence (AI)."
+    publishedDateTime: 2023-09-14T04:53:00Z
+    webUrl: "https://menafn.com/1107065125/Ai-That-Matters-International-Government-Communication-Forum-2023-Explores-Practical-Ethical-Complexities-Of-Artificial-Intelligence"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 26
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?777459"
-        width: 346
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?875043"
+        width: 444
+        height: 249
         isCached: true
-  - title: "Adobe generative AI tool Firefly is now generally available"
-    excerpt: "The new generative AI image creation and editing tool has been trained on stock images and content in the public domain."
-    publishedDateTime: 2023-09-13T09:59:00Z
-    webUrl: "https://www.computerworld.com/article/3706648/adobe-generative-ai-tool-firefly-is-now-generally-available.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
-  - title: "Netcracker Expands Collaboration with Microsoft to Deliver High-Value Generative AI Solutions to Telecom Operators"
-    excerpt: "Netcracker Technology announced today that it has expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution, which unlocks the potential of generative AI technology to deliver exceptional business value to the telecom industry."
-    publishedDateTime: 2023-09-13T10:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/13/9879980.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-  - title: "Leading the Fintech Revolution: FORMS Syntron Presents Generative AI and Web 3.0 Financial Platforms"
-    excerpt: "Empowered by Microsoft, FORMS Syntron unleashes Banking Copilot and FINNOSafe to transform the financial sector HONG KONG SAR - Media OutReach - 13 September 2023 - Today, a leading fintech thought leader,"
-    publishedDateTime: 2023-09-13T08:10:00Z
-    webUrl: "https://www.asiaone.com/business/leading-fintech-revolution-forms-syntron-presents-generative-ai-and-web-30-financial"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 4
-  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
-    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
-    publishedDateTime: 2023-09-14T12:35:00Z
-    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 1
 
 secured: "Fa4wjHtLJPKNVMUYU/zwNB7hoxAW3PYhhhadG/v5OaRjzWyrLJ0vIrECSR8JKzBNTrzw9mUDS9kMSFnC/fGENozT+T2YAqKl1D+ZGe5LOY9ojFECr/aotyogvIKnxvxg0FsscbchJh3bSRyIPC2x7+M4Q4tDEok+wv+yVly5IXk9i6wD1IqC6sUmnhJ7CkbZ0Gx61QoDsV0PW/zDrTZbpCL0dUHNRfxQJflJ6oLp/1YoAq09nosJWOZM54EZ9eLg/jSpmoZaCpHWVeVW3vxBcVIR+qn/JqGuOkdelz+s5KXctV0aX+T4G3lFg5K4Ma8D1306+z3W0Cq0c+aXZnUatkUpgh8335HeN5Rkilva1nscObZgm+pynG3vIgpHeSJK/Y1hnOZcsRCe4qdKugammvUsEq6bpRxSZm3N+A+lV28emzihYxV9uELZAr4AyZSXjNUM36jAnus0dhmNpFn5Pk2D3nM3sgLBrl6ZkWFZV0RPUQrkp7GPVzqUdKBMTmnCjlLLQGBCH/jlYxU46J+ZVQ==;9UscOaW/3TkYCrHlTnW0gw=="
 ---

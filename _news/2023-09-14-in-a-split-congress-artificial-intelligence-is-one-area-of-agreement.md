@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "As lawmakers eye regulation, AI could reshape Congress itself"
-    excerpt: "As tech industry leaders and senators came to a consensus that government should regulate artificial intelligence, a group of lawmakers, staff and advocates leaned into the"
-    publishedDateTime: 2023-09-15T15:58:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/news/53072421/as-lawmakers-eye-regulation-ai-could-reshape-congress-itself"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/09/16x9/US_NEWS_CONGRESS_AI_GET.65046a78450b8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Congress Is Blowing It When It Comes to AI Regulation"
     excerpt: "Critics have likened the decision to invite tech CEOs like Elon Musk and Mark Zuckerberg to Capitol Hill to discuss regulating AI as akin to letting “the fox design the henhouse.”"
     publishedDateTime: 2023-09-13T21:10:00Z
@@ -84,6 +70,15 @@ related:
         width: 1480
         height: 832
         isCached: true
+  - title: "As lawmakers eye regulation, AI could reshape Congress itself"
+    excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
+    publishedDateTime: 2023-09-15T10:11:00Z
+    webUrl: "https://rollcall.com/2023/09/15/ai-could-reshape-congress-hackathon-2023/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 19
   - title: "Silicon Valley CEOs tell Congress that it's time to regulate artificial intelligence"
     excerpt: "Leaders of the United States' biggest tech companies appear to have agreed Wednesday that artificial intelligence (AI ... in various AI projects — from the programs behind Tesla's self-driving cars to being an early investor in OpenAI before being ..."
     publishedDateTime: 2023-09-14T14:43:00Z

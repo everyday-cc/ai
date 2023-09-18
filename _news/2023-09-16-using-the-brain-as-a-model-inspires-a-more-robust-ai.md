@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
 type: article
 quality: 61
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Brain inspires more robust AI"
+    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
+    publishedDateTime: 2023-09-17T23:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
   - title: "Brain inspires more robust AI"
     excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
     publishedDateTime: 2023-09-16T08:19:00Z

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Key Contractual Considerations for Health AI and Hospital Collaborations"
+    excerpt: "If artificial intelligence (AI) is the vehicle that will revolutionize health care, data is the fuel that will propel the revolution. Health AI startups have recognized an unprecedented opportunity to"
+    publishedDateTime: 2023-09-14T21:19:00Z
+    webUrl: "https://www.natlawreview.com/article/key-contractual-considerations-health-ai-and-hospital-collaborations"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 36
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/technology%20AI%20artificial%20intelligence%20machine%20learning%20computer_0.jpg?itok=S3Jc_0oL"
+        width: 500
+        height: 338
+        isCached: true
 
 secured: "2Of2lUtIBpwbIZ1YdCOrLi23gBmmefwLDsQUaWpW9bwCKl7TD1fRfCx7rQTv+qNVkeJaelNGjC+r6qwuFqnkp2xv7UVcfMY+cCqnkLzk4qulPgIFspgai/YiLAZpvbh2iN7Gyzqsz5gvU2QKD4EB7P82yGZhWVAo/SrL9j6IhSUgzub6rf5LmLG7JP88L7h034FSWrY/IoFOveqk7/yENtUJcEDGsnhALP0n1mCymyi4PGEgOK6Ggcg8Rix0b1KTwFKSyr7JBOlG+HP7uSD+nRfHOJ5xC0IUOnn9Exu2JMuYDgxcprRqzfhAjvArM3d9syDT1/px9Uy/YzJhvZQkBgS9tR7ajslmxCvHGMhOyV0=;EFECgLMdawcwkOipFu+3RQ=="
 ---

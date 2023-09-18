@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/chandigarh/artificial-intelligen
 webUrl: "https://www.tribuneindia.com/news/chandigarh/artificial-intelligence-to-help-humans-cant-replace-them-says-expert-545118"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI Can Grade a Student Essay as Well as a Human. But It Cannot Replace a Teacher"
-    excerpt: "Baffour: Technology can flag errors & give feedback, freeing up time for educators to motivate young writers and help those who are struggling."
-    publishedDateTime: 2023-09-17T12:37:00Z
-    webUrl: "https://www.the74million.org/article/ai-can-grade-a-student-essay-as-well-as-a-human-but-it-cannot-replace-a-teacher/"
+  - title: "Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-14T13:30:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/09/why-humans-cant-trust-ai/390282/"
     type: article
     provider:
-      name: The 74
-      domain: the74million.org
-    quality: 12
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/09/14/091423AING/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Why humans can’t trust AI Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-17T22:23:00Z
+    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 19
+  - title: "Why humans can't trust AI: You don't know how it works, what it's going to do or whether it'll serve your interests"
+    excerpt: "Trust relies not only on predictability, but also on normative or ethical motivations. You typically expect people to act not only as you assume they will, but also as they should. Human values are influenced by common experience, and moral reasoning is a dynamic process, shaped by ethical standards and others’ perceptions."
+    publishedDateTime: 2023-09-13T13:03:00Z
+    webUrl: "https://www.chron.com/news/article/why-humans-can-t-trust-ai-you-don-t-know-how-it-18363904.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 0
+  - title: "Why humans can't trust AI: You don't know how it works, what it's going to do or whether it'll serve your interests"
+    excerpt: "Trust relies not only on predictability, but also on normative or ethical motivations. You typically expect people to act not only as you assume they will, but also as they should. Human values are influenced by common experience, and moral reasoning is a dynamic process, shaped by ethical standards and others’ perceptions."
+    publishedDateTime: 2023-09-13T17:03:00Z
+    webUrl: "https://www.timesunion.com/news/article/why-humans-can-t-trust-ai-you-don-t-know-how-it-18363904.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 0
 
 secured: "gQ65NskNrIjNXT/SNGLvPmpHunTcAK2AZypiUlL1yW84H49vKU09jgZWa5kpXFPc1Cv9VPHe78eEcOhRocEJm857pMzxzDmzs7Nn4S4eZTSJpZblCypZO0yPwmLUtebMbW9qonY6FNGIRDU6yRwEoWigw07I0cNvD/qEVTR5G0jhyipMkVOX+mTVxBIF72QVzeqFKndbafhRnYuGz0fMoZ/a0i/QjNdt/+ntoxaC6t+5Uy4vSnAds9O77a5aSHq99oP0H0NuL5e6O6fmXHcZZaA8S7eq8jB/GYL/fi4RjhR9kYtj70dU+DuGtbpfnYm3QMdtQJfYXlzs9DLDJ4xCKduqGd3QIwkONWfzQZYOaSo=;OrufcsR4rM993Ga7aD+5ew=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
+    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
+    publishedDateTime: 2023-09-17T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "Artificial intelligence in schools is here to stay. How will teachers adjust?"
     excerpt: "AI tools are clearly the next big step in education, but to where? Are they digital cheating machines, or can they be used to enhance learning?"
     publishedDateTime: 2023-09-15T07:59:00Z

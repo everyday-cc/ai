@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/6-ai-tools-that-can-superch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

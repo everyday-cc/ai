@@ -21,24 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "In closed forum, tech titans to give senators advice on artificial intelligence"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: Passing bipartisan legislation within the next year that both encourages the rapid development of artificial intelligence and also mitigates its biggest risks."
-    publishedDateTime: 2023-09-13T06:31:00Z
-    webUrl: "https://lasvegassun.com/news/2023/sep/12/in-closed-forum-tech-titans-to-give-senators-advic/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 13
-  - title: "Tech titans will give senators advice on artificial intelligence in a closed-door forum"
-    excerpt: "Senate Majority Leader Chuck Schumer has been talking for months about accomplishing a potentially impossible task: passing bipartisan legislation within the next year that encourages the rapid develo"
-    publishedDateTime: 2023-09-13T04:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2023/09/13/schumer-artificial-intelligence-elon-musk-senate/aa38d8cc-51ea-11ee-accf-88c266213aac_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 9
   - title: "Tech titans have ‘civilized discussion’ with senators on artificial intelligence, Musk says"
     excerpt: "At a closed-door Senate forum on artificial intelligence, tech leaders are getting their chance to outline their views about possible oversight legislation."
     publishedDateTime: 2023-09-13T19:16:00Z

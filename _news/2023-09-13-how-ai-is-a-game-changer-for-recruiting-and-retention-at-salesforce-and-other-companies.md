@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Salesforce CEO says Slack will play a prominent role in AI"
-    excerpt: "Benioff said Slack is not only a system of engagement, but a system of record, so the program itself can start managing data. Benioff also discussed the next iteration of Salesforce's Einstein, an AI program with capabilities aimed at assisting companies ..."
-    publishedDateTime: 2023-09-12T23:55:00Z
-    webUrl: "https://www.cnbc.com/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/12/salesforce-ceo-says-slack-will-play-a-prominent-role-in-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107248855-1685562177189-gettyimages-1485563103-dk020141_cdq4ldmt.jpeg?v=1694561844"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "Here are the six AI nonprofits Salesforce is backing"
     excerpt: "The list includes Beyond 12, CareerVillage, CodePath, College Possible, Per Scholas and Teacher Development Trust, many education focused."
     publishedDateTime: 2023-09-14T01:38:00Z

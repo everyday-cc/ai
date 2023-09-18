@@ -25,66 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
+  - title: "Exploring Patient, Provider Perceptions of Healthcare AI"
+    excerpt: "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies."
+    publishedDateTime: 2023-09-13T13:29:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Robots, regulation and real people: managing AI in the workplace"
-    excerpt: "While touched upon by existing financial, intellectual property and data protection regulation, the rise of generative AI has prompted regulatory bodies to craft bespoke regulation for AI."
-    publishedDateTime: 2023-09-13T08:54:00Z
-    webUrl: "https://www.thebanker.com/Robots-regulation-and-real-people-managing-AI-in-the-workplace-1694591764"
+  - title: "Healthcare AI adoption hindered by 'switchover disruptions'"
+    excerpt: "The U.S. healthcare industry will struggle to adopt artificial intelligence due to \"switchover disruptions,\" the expensive implementation period for new technologies that can disrupt profitable operations, Harvard Business Review reported Sept. 14."
+    publishedDateTime: 2023-09-14T18:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-hindered-by-switchover-disruptions.html"
     type: article
     provider:
-      name: The Banker
-      domain: thebanker.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-in-the-workplace/13076761-1-eng-GB/Ai-in-the-workplace.jpg"
-        width: 3000
-        height: 1687
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "How AI and Blockchain are Changing the Tax Industry"
-    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
-    publishedDateTime: 2023-09-14T16:31:00Z
-    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Cash Treasury Trading in the Age of AI"
-    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
-    publishedDateTime: 2023-09-16T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
-  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
-    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "P4ktKSNrWwtSc/wiDP5cH86cHH7l2vpDz2RmsfAkJCcCz5mLjOqCqCK8CfvHMqc5zRUaHIpYcrMLiT6HwvW/lnJbFlzTH3SWI6nSb5P49uwOgtsidCEq+xoqegNZuVc70Df8bbHxWLGlKBkcXL7jTe4f9t0gfDB6ed85V5BKKe2Vy4QPWXy7t1PbEYrT9jeAPj7GEB59OpFS338kbOCNjZWPL0zccUpTYzBxcYaSfV3xXDpT/Do3puCE2/I78iVImRDXnHRRKlmNWFXiuChdmC3MEHm70SOAldTqrGx/dsDMPfaqhD637fW8uLu3XeEo79cUtg+0w0I1fQ7IXdnOL5SzA3P+7pS/JgU2UkhlG+4ahlBcPk7Nj0mDlsaa1PFyxue01FsMQUqcJeFsZ1X0xY850/CcLc5HlUyKSpWl+AW7CHneZiwwzA8YZMCMmx5fmXiq+b9C7+rpQRo9hy8nH+anGvXgLb3jR4xlRpwMkP9+2CNFPGsO0fj+uxqymx9sY7DhCjXofHTQAJRzGsZsEg==;kzAFh2fZJ0qMjxnwfF1p/Q=="
 ---

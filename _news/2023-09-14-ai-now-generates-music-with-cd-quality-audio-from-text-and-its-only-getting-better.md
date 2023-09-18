@@ -127,20 +127,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
-    excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
-    publishedDateTime: 2023-09-13T08:14:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-audio-bringing-text-to-audio-generation-to-the-masses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/robot-making-music.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
     excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
     publishedDateTime: 2023-09-16T23:47:00Z
@@ -185,20 +171,6 @@ related:
         width: 700
         height: 463
         isCached: true
-  - title: "How scientists are using artificial intelligence"
-    excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-    publishedDateTime: 2023-09-13T21:52:00Z
-    webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
-        width: 608
-        height: 739
-        isCached: true
   - title: "My life as an AI chatbot operator"
     excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
     publishedDateTime: 2023-09-15T10:52:00Z
@@ -221,6 +193,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 19
+  - title: "How scientists are using artificial intelligence"
+    excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
+    publishedDateTime: 2023-09-13T18:52:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
     quality: 19
   - title: "Bitcoin is the currency for AI"
     excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"

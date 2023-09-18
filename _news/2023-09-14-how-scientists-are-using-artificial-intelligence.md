@@ -1,28 +1,22 @@
 ---
 category: news
 title: "How scientists are using artificial intelligence"
-excerpt: "Automating and speeding up physical experiments and laboratory work is another area of interest. “Self-driving laboratories” can plan an experiment, execute it using a robotic arm, and then analyse the results. Automation can make discovering new compounds, or finding better ways of making old compounds, up to a thousand times faster."
-publishedDateTime: 2023-09-13T21:52:00Z
-originalUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
-webUrl: "https://www.aol.com/finance/scientists-using-artificial-intelligence-185204515.html"
+excerpt: "Once the AI spat out its shortlist, the scientists tested them in the lab and identified their antibiotics. If discovering new drugs is like searching for a needle in a haystack, says Regina Barzilay,"
+publishedDateTime: 2023-09-13T18:52:00Z
+originalUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
+webUrl: "https://www.economist.com/science-and-technology/2023/09/13/how-scientists-are-using-artificial-intelligence"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_the_economist_398/bae84b4d519fcdddc9fc85fd84d2acd5"
-    width: 608
-    height: 739
-    isCached: true
 
 related:
   - title: "Stability AI, gunning for a hit, launches an AI-powered music generator"
@@ -136,20 +130,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Stability AI debuts Stable Audio bringing text to audio generation to the masses"
-    excerpt: "Stability AI today announced the initial public release of its Stable Audio technology, providing anyone with ability to use simple text prompts to generate short audio clips."
-    publishedDateTime: 2023-09-13T08:14:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-audio-bringing-text-to-audio-generation-to-the-masses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/robot-making-music.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
     excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
@@ -273,6 +253,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "1IagvQmWYDoxjN92hwPgPrsmdZKZ7D/bL8Z5KUpCt/ke4NUa4KBCdUVn/XQONf0XGKoclBEXVmJL6TkxckvdirtlbYCTuzFkIKQlxs/SZdWnzlljSfgSlELwcDvdDCaPRhaip7D+W7ikGtLHMvjordAKwtRW8tnHikwSHwVbCZhQvuiMy7VnWtcfZKcfx53WcEnByrTwypnKFvAgVYRObyC43mL9eQ2gngHyV/zhcWaQ8yYRuBWM9PLcD176XH4gSEZpRTUPX8AihZxMmB3qMMBJwWA0RHsH/odITLpT44ciIdJnklQ7LfzUgsnypXb+nHBcVHJXXgK4XHnUpWRiU/Eu6ZEHkEb9h5rKqJn5jp0=;/UX95pCguY+ovjT94+iSZw=="
+secured: "LdA+WnVznv3m87K/bIx03JYvbC0rKTt2uHHYdL/h90ySbPzPioMEN0i5IRnf/t+jfMz0vwTMIMf4xJHB/2x3VdLK9hSSUZ8TtygM/g4Zf9WwICBwStY/jv3RHg+BV8DXX++f6JoX3epArPOxAWoMLPnKJ+TPebxCkEipXHENADPtFGzMG1QF0Czfbl39ta4Tays08bxUdKSxW/zw50sdN3hI8vJ9l17MpellQkXm7pGJJ/m+Y7zMn1PooqilaDsCf9VsS1a71+F3UzeH2+xIq8DUM5qQR4lq1w2rG50oqD4kvihDjN8IzxUogQSt932bSseP8BKOKc3c6gkO1RLKvPRmr+T6153xsRtyv+e34M/1fIu0oOvLfgqd9TGBqA4sjLdSFNX768ZZYMuVXMvTfeTjKchjzO0h9BpaQodTT6GADn5+cEspeyEIuADezZ+kYI5EE8pDb9RG/11zoXdA3aZJ/owuovgrRUfQSIQiNhjPGbtDYSPeZmVbvMKqjGJUSY1E0+Mq/mtoHM5ihbZcpg==;XpVBHYxGS1OnT6ygGnJecw=="
 ---
 

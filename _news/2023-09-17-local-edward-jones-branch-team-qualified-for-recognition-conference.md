@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-16T19:31:00Z
 originalUrl: "https://www.myrecordjournal.com/News/Front-Porch/FPN-Edward-RJ-091623.html"
 webUrl: "https://www.myrecordjournal.com/News/Front-Porch/FPN-Edward-RJ-091623.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "YpFApJ0T/hgFbF2vjIMvjAxcRJbfm9ziry3GCWhaqkjmB8v7GRJgoy8nbFq/tqU4urzoXHq8MwXPy5XAB/Bq7VpiOBqL4Fb2PUY0788myXJSdwPdO19KdUIan/QY75lOGI+mEqRRPzomr0tiiMDJpa+XurnQreup8I1wW36ZxEBYqTnKFDiXw8iDYYg7MG38RwwhG0ZAsfI3rRrtvjS0lz1rhlCUBqX+mv2jYJY0L4jIQEd9h/occ8f2vdBFa5T6C35jdyZvNA8FYr79iR6j0m5TfP0EicQVVAxnB7imjiGSPQ/5UYM/9bQ6hPv8WPcRlxrcCK3UgzzP1O1R2HpgZQTvSMjMwEQiwsNDT61BIZE=;WRKhDIo6sC0EQagrbrsaOQ=="
+images:
+  - url: "https://www.myrecordjournal.com/getattachment/2b90f430-e469-4900-be97-2f63c58b8390/attachment"
+    width: 940
+    height: 491
+    isCached: true
+
+secured: "kxaeH6hWX6h5sDrRuGCKbbBWVCwmWSCVkIrQhyqFtW0Cj65rFJ5gTS8UcoOl/Kq3aDZ4NaCyTcboUCKGk/O7iJmrx91VsMPPwcog0QJgQcUDlzQbj3NrAat1mEOW+7DQlF8MGbGvZCPMO+FlPUe8Aanox4D9sYxLl4N63PQWYPlnt4XYw7hA/t329twcaFEZgSbMkNmTfvCZiLVWABJxy4aOgHkxtUSUPRMc1+fGa1sCc+PVthKaMhJgbRk3fAktYqDHFPq+lZSm2pNiaWAcffu5fGKJ6YV1Nnkd7wX/ekHpII+GPeZorRuYRO3kC6QulK1ElGm+jcWE7zPBlPyXSfJ1lNyXCx/TrMjkXUsYfxQ=;vlIg6oazYoqMbgb0pMngHQ=="
 ---
 

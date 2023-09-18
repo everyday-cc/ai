@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Corporate Australia’s support for Indigenous Voice fails to win over public"
-    excerpt: "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign."
-    publishedDateTime: 2023-09-13T05:16:00Z
-    webUrl: "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 57
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Thousands in Australia rally for struggling indigenous recognition referendum"
     excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
     publishedDateTime: 2023-09-17T05:30:00Z
@@ -107,6 +91,20 @@ related:
         width: 1312
         height: 1325
         isCached: true
+  - title: "The Australian government has revived facial recognition as part of a national ID plan"
+    excerpt: "The FIS is a one-to-many facial recognition system, using a single photo to check against a database of images to identify them."
+    publishedDateTime: 2023-09-14T05:11:00Z
+    webUrl: "https://www.startupdaily.net/topic/politics-news-analysis/the-australian-government-has-revived-facial-recognition-as-part-of-a-national-id-plan/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 31
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2023/06/AdobeStock_605339354.jpeg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
     publishedDateTime: 2023-09-16T06:03:00Z
@@ -118,6 +116,36 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "A Voice for Australia’s aboriginal people?"
+    excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
+    publishedDateTime: 2023-09-18T00:14:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2023/09/18/a-voice-for-australias-aboriginal-people"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289778.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Voice referendum: Aboriginal traditional owner stands up in front of Australia's National Press Club and declares she opposes the Voice before man yells at her and tells her to ..."
+    excerpt: "But these are not promises the Government can make.' “Chapter IX Recognition of Aboriginal and Torres Strait Islander Peoples, 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First ..."
+    publishedDateTime: 2023-09-14T05:57:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12516779/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/09/14/06/75416699-0-image-a-7_1694668974805.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "qhACqFjw5Jz/E/8JGQJ22wxtdYzvymo+O9HrvKnN/Oj+A6tetEu4i79y47wL1Z+5wBlA18H/U4o1tCSyfWq7PQ9f0NZY2ASZ+Ihi9WGdzCBrQSyOjeM/IKFELoIjPWsoPda5eg2QiQBt4vyaOh7YKHp2l7ccFNBGaJ7pR2eWls8FxUxDtnTva+C89hO4bmzSfQ/03Ewk852bh7BtDCqoKl9z47RwaN/wXCb9lQtT/D5Mqe4rOf4DhcTHzhT/NDD6l/aiIVvjtV5cV6xHYLZ7uYzEqGIjbRjr7tKB9LHaLDGu0U9zlIKrwgntFpU02dOk2BfgzeSeaQiD8cOPSiFh5M4tHy0tDI0iJ3/pSh2GdpZu55U7972KEFZI1/GsSMIjU2HzdWKdeSyN8+nEYy9YimvKAkljgwf4KG3WRVLA7z978lgG9xtRAN74usmFczTaAgdmIBstV5ePKLOUl4TVtI2vUL4wqOBq8qtlkVZd3uwLCz49IBTxTJUl1c7DRKLVUyTY+ROyZheVHC/vWF4wDA==;FEBgFbwIjKHVJuqXdF00vQ=="
 ---

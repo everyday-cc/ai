@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/team-biden-conga-line-china-woke-ai-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/team-biden-conga-line-china-woke-ai-fox-news-opinion.amp"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Joe Biden collaborates with Vietnam to raise funds for AI chips"
-    excerpt: "Sources revealed that Joe Biden, President, the United States (US), mentioned that the move is a formal “upgrading” of the relationship between the two countries. This collaboration is also believed to highlight critical sectors, including cloud computing, semiconductors and AI, Cointelegraph added."
-    publishedDateTime: 2023-09-13T06:27:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-joe-biden-collaborates-with-vietnam-to-raise-funds-for-ai-chips-3242009/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Artificial-Intelligence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/DM1NOiQHkfqhKFyYoETQaU8wenXN3HQ3DJ1vDH3uRmHmLqARL/W/ASSXkKnOLHmQJ35Xy0G9QDyXnhQO3BcnBB23GbgvVJivf69ommKURtSkiZJZPMFbfQW03P9Ed8dNEz8ST+FLfVo6cJJLMvvWCg1v0ove8fFCvCt8aMQYMzEyX31w+scsHqsxzj/tVLUSG4yftZCAZCs7VC5Qk6P0Hzb9YQaVqUkc+bUCf4288GF/xcaPaF1wR7/BeG7oauCo9Ia9CCn7ySQgSXPL7WwAwd+R6tOPFlp4Yrz8151vpPfl0koI137rDsxEIuIyKYc6yZrbdISYOZGw21587pDRTJBOeWE/2cOQPUXe3AOQ0k=;c36rbL6hMc3vqbE/CScbLQ=="
 ---

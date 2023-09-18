@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://sentinelcolorado.com/wp-content/uploads/2023/09/AI.coverart.jpg"
         width: 648
         height: 431
+        isCached: true
+  - title: "Key Contractual Considerations for Health AI and Hospital Collaborations"
+    excerpt: "If artificial intelligence (AI) is the vehicle that will revolutionize health care, data is the fuel that will propel the revolution. Health AI startups have recognized an unprecedented opportunity to"
+    publishedDateTime: 2023-09-14T21:19:00Z
+    webUrl: "https://www.natlawreview.com/article/key-contractual-considerations-health-ai-and-hospital-collaborations"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 36
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/7612/technology%20AI%20artificial%20intelligence%20machine%20learning%20computer_0.jpg?itok=S3Jc_0oL"
+        width: 500
+        height: 338
         isCached: true
 
 secured: "N9L3xUKXSy0YvEKbkLy2e7Sr3OOu5h39/gINKAAx/ItvDYLHwekeQUq2gBZfd10ogVQ9CLkicjRGOXcj0Gbs/V+zHtk5GT4qDLdo9yMjr6JmPUew1Ln4Ny8fmeK6z4VEhkFEtixRUSj17qJYCgm2t4DMc5OKU+QbcKwBNdXEwzMfIS5q9eZAKydZYb0I66WgN8li3fciSg4Fejw9Vme7A9KjMV6Y+fLe/y4y8bGomZsf/q0LzYWBxMhvD3gBhgn7YiQsna3oW/j3zyuqe+diEfWQYiEErTtLkpuYaOUVpoCEwRnQKzVTUdcZoGFORWkUZsPDwZ//JUvfJi3/T12zAKBfFwjfRmXkfvoGbsrobGlHf9gVoIzroi6gwrGtPzKnGGzrM3KMRNrcU6/OdEPZVMOb1jD3YwYTd0KyPa84hv08NqBNJFsePNjjUCJwe+vddIxZeEtvrls/9MWPwQ3wAqWjq81M6MvsB+xYBhux2kvFlbM1M8SjRD0GHdYqfqtr7wOW3KZLyeS7mNFuLaIaNA==;9hFRMpA2MJRVR0PCrzD6OA=="

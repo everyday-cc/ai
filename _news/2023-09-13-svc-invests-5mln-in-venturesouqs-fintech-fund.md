@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Venture Capital invests $5m in VentureSouq FinTech fund"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-13T04:35:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/saudi-venture-capital-invests-5m-in-venturesouq-fintech-fund/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Crypto company with $3.4B valuation to invest in fintech, gaming and more"
     excerpt: "The Miami company is launching a new venture division focused on directing funds to early-stage fintech, gaming and web3 infrastructure startups. MoonPay Ventures has already invested in multiple businesses, including California-based Mythical Games and BeatClub, a digital marketplace for the music industry."
     publishedDateTime: 2023-09-13T16:26:00Z

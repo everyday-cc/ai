@@ -24,22 +24,6 @@ images:
     height: 750
     isCached: true
 
-related:
-  - title: "The Australian government has revived facial recognition as part of a national ID plan"
-    excerpt: "The FIS is a one-to-many facial recognition system, using a single photo to check against a database of images to identify them."
-    publishedDateTime: 2023-09-14T05:11:00Z
-    webUrl: "https://www.startupdaily.net/topic/politics-news-analysis/the-australian-government-has-revived-facial-recognition-as-part-of-a-national-id-plan/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 31
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2023/06/AdobeStock_605339354.jpeg"
-        width: 770
-        height: 513
-        isCached: true
-
 secured: "eqtMQ6gSxVIJEu6Cx+S+t7CHGLURLz968fL+BZw3/OPfWvjHDyrRTLLTimN4aXqbuwg3Xoolt3uhLWp0u/S4PNWSsE2wQyxa76KoCu8Le5bZR71EBFfZrD98a9VsPLOaSoWXnK5J4o7XV3OeH3DfQbXG20vHxUbSeiNkrtszDLaKsSO5gbefZqbM6yeUuW7pLAp6iWWON+v+0uxDkBy8+rMqUxnvTfcCvvSC4xng5w4xZlbNWEwPn+lqnk9N95HrhtHpo1uQGLZ2lmUbebNKhBNvAgCqHqBaH06bfBmf2zd3/BM8pvVxc8ksvs0hVoFcU8oCEcxEj1YZCCzXxaNmDX45gEZZxynkCNS8E4Gz8Idl7qSTdfjo+gofLpJt3EJUpwANdTzrHqQ3+ygNnbLyUz/F8DKpdEbs6IjI23RJhOLCEmNVJFNwhJCyHRYZRJnhhUSTa3blG7S2iG7YdDgpmcReeyabPI3oCbIi6zimjw41d57ln7IVDElwFk7elgo/Iq5byI0CjYuuPC0YygNyHQ==;d78u7jt8q/4hF5zxslLF6w=="
 ---
 

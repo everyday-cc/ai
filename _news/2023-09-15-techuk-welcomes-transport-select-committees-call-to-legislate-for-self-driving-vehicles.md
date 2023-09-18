@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Qatar Unveils 5-Year Plan For Self-Driving Vehicle Regulations"
+    excerpt: "Minister of Transport HE Jassim Saif Ahmed Al-Sulaiti today inaugurated the MOT's“Sustainable Transportation and L"
+    publishedDateTime: 2023-09-17T18:34:00Z
+    webUrl: "https://menafn.com/1107084924/Qatar-Unveils-5-Year-Plan-For-Self-Driving-Vehicle-Regulations"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "New report sets out Government steps to make self-driving cars a reality"
     excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
     publishedDateTime: 2023-09-15T11:43:00Z

@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
+    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
+    publishedDateTime: 2023-09-17T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
 
 secured: "2GBGnbte6mOCT223m+d2llLUiXtvIoB+bYK53Hyv7SUGaooVFIJf1TCBVusKi1v4i+pbYJYUNZSdOOZ3yg5hcPEVpL7QQ8+iqg3i5u5dL0MlqPg5oOW4JyuaZAPXfK0W/w5mmC8YNKbAfMn6Xi2pIxDhXoDPrEzMhvsM7QhPpUrY2p3CgGsLgkod10ri5C/gBlXWxuVUS/O+yhezaxNfXpnursb5RjvS1+3vjlEZGAHI4CjSiHgaeiTxOQ7fJ40Ry3G/eQiWkl+SAJ/JZwbZjIIvV1MFz3Q/J85rRr+gPM2B4D3xKAkgq3ZL9gylsHJufxWH52w9h8gp3i2eINDZX2Rn6OdR3uu5dcSEpCrzfA7dxQAhOSZcySaUq28siPvAZlww1yZcNTW6DZ4UFzBJl8LmrdTyTTlTdZnOLjY5qEAqQGGGhvZvAWpmSzxiaadcHpW7iE0zaeZNspq0/VACUAiTmLChg3BwGgCbHCycj5kxwBa0KNtJXqyJGH+cEoP6lSFKObwVWyR1fmG7B47Sxw==;Zd4VtFutnTd+8ydKfw6TXA=="
 ---

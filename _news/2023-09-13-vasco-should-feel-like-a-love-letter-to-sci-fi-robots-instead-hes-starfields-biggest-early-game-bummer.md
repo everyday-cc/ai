@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "The best Starfield quests, from corporate espionage to Alien-inspired horror"
+    excerpt: "Hop in your ship and hunt down these unmissable adventures."
+    publishedDateTime: 2023-09-14T13:52:00Z
+    webUrl: "https://www.pcgamer.com/the-best-starfield-quests-from-corporate-espionage-to-alien-inspired-horror/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 1
+
 secured: "KRL1XTlgBN32YAUrNrc+jA5GjtUrlR1nQTsBUc9Ae0rYW4TBvk8q6VuyJUYqLxegsA+jrjMsYmfddG+NpdgcEy5iwFAFt+aYK3Tkhe2/VqvEWYayOoVH4XI2bg03OSwZ+L+cgngTxm98dGLiXvotkgKbbYgKjHNrbLKoQHCMM5kYVKvu9dufZFy8B9qZTqOs3KycM0ZgWdUQhBwLyTifDq+z1SSOF228akaHjMLtPwhhN5c+8LLnXUAnpMoT+rQqdigizf8/uG+2IWXcxsh8DzCzGj0lf+0MWPNVq3QbYelhPrn5vd79o2m/OZxcqJmu1BAxJjUMhb64C1IxrQARLwU/SVmewTgwtiEZbsjmi40=;FO8oIwTx2hUdw86Kt5gGJQ=="
 ---
 
