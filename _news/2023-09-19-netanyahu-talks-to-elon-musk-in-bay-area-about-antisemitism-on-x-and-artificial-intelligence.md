@@ -35,6 +35,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Leader of Israel, Musk talk about AI"
+    excerpt: "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk."
+    publishedDateTime: 2023-09-19T07:28:00Z
+    webUrl: "https://www.nwaonline.com/news/2023/sep/19/leader-of-israel-musk-talk-about-ai/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205354564_2Dmusk0919_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Benjamin Netanyahu, Elon Musk talk about about antisemitism on X, artificial intelligence"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct."
+    publishedDateTime: 2023-09-18T21:35:00Z
+    webUrl: "https://www.pressherald.com/2023/09/18/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 30
+    images:
+      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/Netanyahu_Tech_Leaders_58635-1-1695066644.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
     excerpt: "Israeli Prime Minister Benjamin Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct."
     publishedDateTime: 2023-09-18T21:35:00Z

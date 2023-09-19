@@ -69,20 +69,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Enterprise-focused generative AI startup Writer raises $100M"
-    excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
-    publishedDateTime: 2023-09-19T00:01:00Z
-    webUrl: "https://siliconangle.com/2023/09/18/enterprise-focused-generative-ai-startup-writer-raises-100m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
-        width: 754
-        height: 416
-        isCached: true
 
 secured: "3j6vqRXmsJa2vKgx04tjps4y4ea1PLhvCVyfYMR8khGQSv02KmzeobLnQyMxFU2cK9OxNWzuBB0W5RqIpQ6BxSeCc442St7RNpP0shoQ5TnhXRdL4MA9kbET87IYXGVKZOeQnKkwbmPwCMnL8XZttW9RCIKxMWKgCFuzlVDyUMG47NBKnoTw0x7y9jYi4mOuVKK2gfx8Etd3tZZPrT+Tt56xBMWvF4ea/+TRIQL+PEllktYTOx7fL0ChRo9OkkcquWRWazzCyoaHZVMIipRFhZeYClxCfMFU3VllV65q1pQS1OtEXkVosd4swnbFiIYkRKz7AwQqMzvyeDSOH9WBknG/nTBpHGUcUkgB9OEdvDB4a8tBdr29pC7RYmrv1giNcavdfh20XlRtS7LgwSaKbTZOYEaa39oThOijkBou6MS4VB6oIvFeMzI3UUQcPC4CLXZ5T4FCxxLFXf/sta6QE6w6Doq/a4uTQ9HdnDFfkEkSKRz8/f/2N385vEmkdcpqVgRU/mxg+3LNFzZhKMIGqw==;JFBNNSIjIkkYJ7hIUHTM1Q=="
 ---

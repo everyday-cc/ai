@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-19-generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity.md",
+      "title": "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity",
+      "excerpt": "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
+      "publishedDateTime": "2023-09-19T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation.md",
+      "title": "Indian engineering student builds AI model for real-time sign language translation",
+      "excerpt": "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/",
+      "publishedDateTime": "2023-09-19T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how.md",
+      "title": "You can access Google's latest AI experiments with Google Labs. Here's how",
+      "excerpt": "Currently available on Google Labs are some of the company's latest projects, including: Search Labs, Google's new Search with AI; Workspace Labs, the AI-infused Google Workspace; Notebook LM, Google's first AI notebook; and MusicLM, Google's first AI music generator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
+      "originalUrl": "https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/195be14ac96fad1273c51f8408229e969f339db0/2023/09/18/c69521e3-7cbb-4726-8bf3-013869a5c217/unnamed.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/",
+      "publishedDateTime": "2023-09-19T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened.md",
+      "title": "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened",
+      "excerpt": "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html",
+      "originalUrl": "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/microsoft-ai-1280-31bc5370f0.jpeg",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened",
+      "publishedDateTime": "2023-09-19T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-pedophiles-on-dark-web-turning-to-ai-program-to-generate-sexual-abuse-content.md",
+      "title": "Pedophiles on dark web turning to AI program to generate sexual abuse content",
+      "excerpt": "The dark web has become a breeding ground for sex offenders who use open source artificial intelligence technology to generate and distribute child sexual abuse material.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
+      "originalUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/AI-makes-it-easier-for-fraudsters-to-create-fake-companies.gif",
+          "width": 602,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp",
+      "publishedDateTime": "2023-09-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-another-ai-hallucination-that-one-person-could-take-charge.md",
       "title": "Another AI Hallucination: That One Person Could Take Charge",
       "excerpt": "Artificial intelligence may have originated in technology sector, but it’s time for business leaders to step up and take charge.",
@@ -62,7 +303,7 @@
       "originalUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -95,6 +336,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-intels-china-specific-ai-chip-in-huge-demand.md",
+      "title": "Intel's China-specific AI chip in huge demand",
+      "excerpt": "Intel's China-specific version of its Habana Gaudi 2 AI processor has seen a sharp rise in demand, according to industry sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230918pd216_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -157,7 +441,7 @@
       "originalUrl": "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -556,7 +840,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -676,57 +960,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-taking-generative-ai-from-experiments-to-high-impact-production.md",
-      "title": "Taking generative AI from experiments to high-impact production",
-      "excerpt": "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/",
-      "originalUrl": "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -890,7 +1123,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 435,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -934,7 +1167,7 @@
       "originalUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -966,239 +1199,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions.md",
-      "title": "How AI Will Help Marketers Harness Psychology To Drive Consumer Purchase Decisions",
-      "excerpt": "Marketers can leverage AI to harness the power of these cognitive biases to drive better sales outcomes—here’s how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/amp/",
-      "publishedDateTime": "2023-09-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-beyond-algorithms-the-ai-era-in-investment-fintech.md",
-      "title": "Beyond Algorithms: The AI Era In Investment FinTech",
-      "excerpt": "Some other specific challenges to mitigate include:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-facial-recognition-scanners-in-supermarkets-security-measure-or-privacy-invasion.md",
-      "title": "Facial Recognition Scanners in Supermarkets: Security Measure or Privacy Invasion?",
-      "excerpt": "Major supermarkets such as John Lewis, Co-op, Waitrose, Next, Tesco, and Sainsbury's are joining forces with the police in a new data-sharing initiative called Project Pegasus. These retailers are collectively contributing £600,",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "originalUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/09/thom-bradley-Vi7qXASPu4g-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-how-to-establish-secure-ai-business-models.md",
-      "title": "How to establish secure AI+ business models",
-      "excerpt": "As AI adoption scales and innovations evolve, so will the security guidance mature. Consider these seven tips to secure AI for your business.\nThe post How to establish secure AI+ business models appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust.md",
-      "title": "iFoodDS and IBM forge new path to food safety with IBM Food Trust™",
-      "excerpt": "IBM and iFoodDS are rewriting the script, offering a solution that not only ensures compliance but also elevates food safety to new heights.\nThe post iFoodDS and IBM forge new path to food safety with IBM Food Trust™ appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
-      "originalUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-08-01-one-third-of-americans-see-ai-and-robotics-providing-future-care.md",
+      "title": "One-third of Americans see AI and robotics providing future care",
+      "excerpt": "Americans are increasingly open to the use of AI-based care as they age, with many willing to accept robots to help with dressing, bathroom use and emergency alerts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/of-americans-see-ai-and-robotics-providing-future-care.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter.md",
+      "title": "Deepmind unveils RT-2, a new AI that makes robots smarter",
+      "excerpt": "Deepmind released Robotics Transformer 2, a vision-language-action model enabling robots to perform novel tasks without explicit training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
+      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-rt-2-a-new-ai-that-makes-robots-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_a_humanoid_robot_ponders_as_a_glowing_yellow_incadescen_9b837456-86d9-4b82-bc17-e7d396153986.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-ad-verification-company-doubleverify-to-acquire-ai-firm-scibids-in-125-million-deal.md",
+      "title": "Ad verification company DoubleVerify to acquire AI firm Scibids in $125 million deal",
+      "excerpt": "Scibids uses AI to create customizable algorithms that marketers can use to optimize their ad campaigns and marketing budgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "originalUrl": "https://www.businessinsider.com/doubleverify-acquires-european-ai-firm-scibids-125-million-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/635ab992513e8f0019c97443?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-torch-startup-says-its-outdoor-sensors-can-help-snuff-out-wildfires.md",
       "title": "Torch Startup Says Its Outdoor Sensors Can Help Snuff Out Wildfires",
       "excerpt": "The California company is taking preorders for its first batch of 100,000 detectors. They plan to begin shipments in the fourth quarter.",
@@ -1033,154 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-new-controversy-over-facial-recognition-in-retail-stores.md",
-      "title": "New Controversy Over Facial Recognition In Retail Stores",
-      "excerpt": "As facial recognition technology shifts from the public sector into the private sector, questions are being raised about who is now policing Britain?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
-      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c78640314cf3c337c6f9a3/0x0.jpg?format=jpg&crop=3427,2283,x0,y148,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2023/07/31/new-controversy-over-facial-recognition-in-retail-stores/amp/",
-      "publishedDateTime": "2023-07-31T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-microsoft-teams-can-make-you-a-language-expert-but-only-if-you-pay.md",
-      "title": "Microsoft Teams can make you a language expert - but only if you pay",
-      "excerpt": "The tool was made possible with Microsoft Cognitive Service Speech Translation ... which it says offers powerful and fast translation services in real-time. Mike Moore is Deputy Editor at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/microsoft-teams-can-make-you-a-language-expert-but-only-if-you-pay",
-      "originalUrl": "https://www.techradar.com/pro/microsoft-teams-can-make-you-a-language-expert-but-only-if-you-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-i-drove-the-70000-genesis-gv60-see-inside-the-futuristic-tesla-rival-that-has-facial-recognition-and-a-crystal-ball.md",
-      "title": "I drove the $70,000 Genesis GV60: See inside the futuristic Tesla rival that has facial recognition and a crystal ball",
-      "excerpt": "The Genesis GV60 is a quirky, premium SUV packed with futuristic tech. It's also super quick and charges fast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
-      "originalUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c4240dcf0778001966e871?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-genesis-gv60-electric-suv-tesla-rival-review-2023-7?amp",
-      "publishedDateTime": "2023-07-31T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

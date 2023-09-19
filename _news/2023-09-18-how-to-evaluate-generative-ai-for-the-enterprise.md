@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-eva
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Forbes
@@ -31,74 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways generative AI can stimilate the creator economy"
-    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
-    publishedDateTime: 2023-09-14T21:02:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
+  - title: "The raw materials for creating AI"
+    excerpt: "Explore the resources and materials that are needed to create AI"
+    publishedDateTime: 2023-09-15T16:14:00Z
+    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "4 ways generative AI can stimulate the creator economy"
-    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
-    publishedDateTime: 2023-09-15T12:13:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+  - title: "Why B2C Brands Should Leverage Predictive AI Alongside Generative AI"
+    excerpt: "But generative AI is suitable for only a select number of B2C business use cases, such as summarizing and extracting information."
+    publishedDateTime: 2023-09-15T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65038164df7c18f7edfdab53/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
-  - title: "US State-by-State AI Legislation Snapshot"
-    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
-    publishedDateTime: 2023-09-18T21:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 900
         isCached: true
-  - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
-    excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
-    publishedDateTime: 2023-09-17T10:07:00Z
-    webUrl: "https://www.inc.com/heather-wilde/the-power-of-ai-for-content-creators-3-ways-to-enhance-your-work.html"
+  - title: "Riding the AI tsunami: The next wave of generative intelligence"
+    excerpt: "With an AI tsunami seemingly inevitable, we all must be rugged and flexible, adaptive and embracing of generative AI and other new tools."
+    publishedDateTime: 2023-09-18T01:40:00Z
+    webUrl: "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all"
+        width: 1000
+        height: 648
+        isCached: true
+  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
+    publishedDateTime: 2023-09-18T19:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
+    publishedDateTime: 2023-09-18T21:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
+    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
+    type: article
+    provider:
+      name: New
+      domain: bizneworleans.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
+    excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
+    publishedDateTime: 2023-09-18T07:11:00Z
+    webUrl: "https://techstory.in/pioneering-the-evolution-shifting-from-generative-to-interactive-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/1691002550874.jpg"
+        width: 612
+        height: 255
+        isCached: true
+  - title: "Enterprise-focused generative AI startup Writer raises $100M"
+    excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
+    publishedDateTime: 2023-09-19T00:01:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/enterprise-focused-generative-ai-startup-writer-raises-100m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1517482123_533630_ab4kkb.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
+        width: 754
+        height: 416
         isCached: true
 
 secured: "ef3kvw4pXHykwAGGFPSJ0RhyR80qAXwSfFyA7bDDD6tCD9AlxLMevlfPlcIxizjWAG+Ky57m3eqS2eh7SPrlLqzFit+fkC4Qf8aoIuWFuaB0EZeRYagKp3/u3S+khKt+nhJn/LfoK1+laZt53Ou7GwqOlwTxcvk6YmTu9jFwl2YYiGstt7f+3tfV3E2WkI0oKhJgcMJjyCybvDG1RQm9s6EZIcitDk7ksRT3UaOUR/YPaCAIIzHuU5d6RNZbP1PEC+4bUUVwl/NmIBP9rFnX9n3qDFfuFNmAMHP4e0q47oOfdKmDgoAXr47MXQjJMgq/X1OUeTu0TCZ70SBFSMUnjeHJvWLPndTEUJO4YkPF9tE=;GSlSn75a0eCKlHmPf9eqcQ=="

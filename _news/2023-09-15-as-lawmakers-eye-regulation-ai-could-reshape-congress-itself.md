@@ -65,6 +65,20 @@ related:
         width: 600
         height: 364
         isCached: true
+  - title: "US State-by-State AI Legislation Snapshot"
+    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
+    publishedDateTime: 2023-09-18T21:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Congress’s week of AI"
     excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
     publishedDateTime: 2023-09-15T18:09:00Z
@@ -74,15 +88,6 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 19
-  - title: "Silicon Valley CEOs tell Congress that it's time to regulate artificial intelligence"
-    excerpt: "Leaders of the United States' biggest tech companies appear to have agreed Wednesday that artificial intelligence (AI ... in various AI projects — from the programs behind Tesla's self-driving cars to being an early investor in OpenAI before being ..."
-    publishedDateTime: 2023-09-14T14:43:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/14/artiificial-intelligence-silicon-valley-congress.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 12
 
 secured: "ssdZ1q94r3aaspY7Lqk5jLBFxDoUlOTP/g0nmLASXSsUefMp6oMM0w6ig5eNfznr+UGb5+oUE7iI1LwO/krv9TiXNmE9ckp6vhIJejtt+N7CO9PrP3n3Tis9M30Xut/tQDIlUOL2C0LeIk3fNiMtPjltdyh2k5nENP9SsqrPCoYU+65B4RaoaTt2kYJhv9URJZETKVtJfmpz8TMa752M3qOKc5LR5HHck4BQlkX/q9+BBQf8uIpL7v1iLBGZjKcUlJo6dOWpJeTW62T66q7pDrQUCu8OtaU39drc+LY4qTahDIoYaNycyUcJOGViSmveyLhP4Uodt/B36ikmYFIDaR3RZhgp8/HN5/ZL1TwTOFc=;RGadq/CPZSXAh8MoLmCMCA=="
 ---

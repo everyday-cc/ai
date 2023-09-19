@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "How will AI really impact your job in the future?"
     excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
     publishedDateTime: 2023-09-14T20:41:00Z

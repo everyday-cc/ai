@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introdu
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
 type: article
 quality: 105
-heat: 435
+heat: 425
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/8834c381beb60e3e9d9e3d2e02c4d36345186b77/hub/2022/01/28/25862542-0ad9-4ab9-a880-1c16493e6c54/surface-studio-fresco-dsc00376.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Analysts left Microsoft's AI event feeling even more bullish about the stock"
-    excerpt: "Comments from a recent Microsoft event are giving Wall Street more reasons to get bullish on the technology giant."
-    publishedDateTime: 2023-09-14T14:02:00Z
-    webUrl: "https://www.cnbc.com/2023/09/14/microsoft-ai-event-analysts-feel-even-more-bullish-about-the-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107183316-16745955982023-01-24t210439z_1989498312_rc29ty9bgi4f_rtrmadp_0_microsoft-results.jpeg?v=1694709338&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
     excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."

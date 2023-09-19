@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
 
 secured: "5y/RiNALwH43W6xrEpsRtnPApddqescmLIQCpZ1Y9cPDde+Z0nS8yUVBiA5kN56ggp26en19kxtGExakcvvCeJakuACykxcTG4/oS4+Zz1bqIkv5MSlIF98TnIBjh1LYLpwlZBQ8SRW3xac3TYH1JT31x9J84933sNg0AGANY0NURRO8pgEUrVqLSn8gi0GYTMmTxIU0EB+B9CQj5xqEpWNbSyI6tuDLpFML8KUarnMYYQBBkHKKebgIUSndmgK9Gl2pS5oP3D2JcYbcK/zXWmnBlJ3zBCNZRBPQbdsIejXpDaMj1sWCzp5ciw2I6iGrdJzUMcnbt885OhXgpeM6Paho8gDY38Kgn7jKTW3OQdi9J1FVlNpXZMrwPxczryMOkVAd6WQEmYC/AcVGuE+jEklCwVXo76iQH/kei4OtZQqbQKv4hXTuistwVARUiMCU6ZFJ4UkqG6p5jbX1O+4cGNfn9vtKpcYQmjdtFcyO77K8iQW2Nb25qmSpXumexJqWJNiZ/WB4B7ByNoak8CzZYQ==;ljRO8ZDCPzIk53aj/2ssGw=="
 ---

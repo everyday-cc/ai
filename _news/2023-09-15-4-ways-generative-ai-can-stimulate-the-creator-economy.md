@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
+    excerpt: "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations."
+    publishedDateTime: 2023-09-19T07:53:00Z
+    webUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/"
+    ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
   - title: "4 ways generative AI can stimilate the creator economy"
     excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
     publishedDateTime: 2023-09-14T21:02:00Z
@@ -47,21 +63,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Evaluate Generative AI For The Enterprise"
-    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
-    publishedDateTime: 2023-09-18T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
+  - title: "Taking generative AI from experiments to high-impact production"
+    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
+    publishedDateTime: 2023-09-18T14:34:00Z
+    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
+        isCached: true
+  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
+    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
+    publishedDateTime: 2023-09-18T09:04:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Teachers Are Going All In on Generative AI"
     excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
@@ -72,33 +102,19 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "US State-by-State AI Legislation Snapshot"
-    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
-    publishedDateTime: 2023-09-18T21:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+  - title: "Health care and AI can be effective partners"
+    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
+    publishedDateTime: 2023-09-17T12:59:00Z
+    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
+      name: The Daily Item
+      domain: dailyitem.com
     quality: 39
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
-    excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
-    publishedDateTime: 2023-09-17T10:07:00Z
-    webUrl: "https://www.inc.com/heather-wilde/the-power-of-ai-for-content-creators-3-ways-to-enhance-your-work.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1517482123_533630_ab4kkb.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "p1aD2m8GegYMDzv9VtQBB6lrOVTf+Vpi7Hmv8+VUqzaZFF5skOh3u/NLfADsen9SScGDywsv6bLGZ/20Mh//HfQMirE+JWRRyQIuXPnFi/RfK6YzIZ2hgiFAWGL3vGan0SEmeMnR8/fhlV6+ay1DpER5rHBIWBIEImfbkB2g4anpLMtmuGv7rITMj9uM1+4ZIUdYOasD+67RzrhxkH7XtPN9kELp3VM/cuDzHXbyJUdN7lnhF9ACjUqkKs61JoYFFMGJu8VO8irY7IvE+0F2XEv8cAbAQ6xLqBtvLEXn6kd5i4J1Z4dcGNMNP7u2dghVYkTRrgd4R72QChJ1TSc1+bBiz9TkE6bpoLvsvO804toZTRhFKKrmdqyXvndPKK6GL7o67ePe/TjpBy0fKu+1BkF1U1KNOPW2OHbvWvUrZz4MUDMdAIn9fKQlToQ9N6cLR7wK8q5134/QVBAloZG9VP5olwy4CzSay8k42aKQDe1gu/+kyhhYzTOVqfXObv0xkn7jiOtzFvEKR4pQ6X9J2g==;UrdXcgJfnPFEClXrkAdtrQ=="

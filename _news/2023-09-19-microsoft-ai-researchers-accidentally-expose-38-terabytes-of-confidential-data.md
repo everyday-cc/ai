@@ -25,30 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily"
-    excerpt: "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market."
-    publishedDateTime: 2023-09-17T20:29:00Z
-    webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
+  - title: "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened"
+    excerpt: "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams."
+    publishedDateTime: 2023-09-19T07:29:00Z
+    webUrl: "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html"
+    ampWebUrl: "https://www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 60
+      name: Digit
+      domain: digit.in
+    quality: 64
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
-        width: 945
-        height: 533
+      - url: "https://static.digit.in/default/tr:w-1200/microsoft-ai-1280-31bc5370f0.jpeg"
+        width: 1200
+        height: 698
         isCached: true
-  - title: "Stocks like Microsoft offer 'double digit growth' ahead thanks to AI, Wall Street analysts say"
-    excerpt: "Wall Street analysts said this week there's a host of stocks that are positioned to profit from artificial intelligence."
-    publishedDateTime: 2023-09-16T10:23:00Z
-    webUrl: "https://www.cnbc.com/2023/09/16/stocks-like-microsoft-see-double-digit-growth-ahead-thanks-to-ai.html"
+  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
+    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
+    publishedDateTime: 2023-09-14T22:07:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 52
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
+        width: 1576
+        height: 837
+        isCached: true
+  - title: "Misconfigured SAS token by Microsoft’s AI team exposes 38TB of GitHub data"
+    excerpt: "While not technically exposed to the public, security researchers at Wiz say the lack of monitoring available for SAS tokens poses a security risk."
+    publishedDateTime: 2023-09-18T18:40:00Z
+    webUrl: "https://www.scmagazine.com/news/misconfigured-sas-token-by-microsofts-ai-team-exposes-38tb-of-github-data"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
+  - title: "Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz"
+    excerpt: "Here's a look at the fallout from Microsoft’s AI research team exposing 38 terabytes of private data including secrets, private keys, passwords, and over 30,000 internal Microsoft Teams messages."
+    publishedDateTime: 2023-09-18T19:08:00Z
+    webUrl: "https://www.crn.com/news/security/microsoft-ai-research-team-accidentally-exposes-38-terabytes-of-private-data-wiz"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 28
+  - title: "Microsoft accidentally exposes 38TB of internal data via GitHub repository"
+    excerpt: "Microsoft Corp. has accidentally made 38 terabytes of internal data, including passwords, publicly accessible through a GitHub repository."
+    publishedDateTime: 2023-09-18T17:56:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/microsoft-accidentally-exposes-38tb-internal-data-via-github-repository/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
-secured: "fhk3nXKcrjukREWwdLt5IQqB5MzwytQDe2DShJllakYmMcl6I6RnS9EOlvcjRT9gJmWhrPtvbyZqHHVdN7XaVkKmeWRhU4ByL43aHwgiBGDwBHOZRcYm3PtzHJ3KqjkpjrKxqVP4hWq0nOEUFuySQ15e9rmT9/2TzJ7nqcMnfkrv/lB2CYwPUKupcetMqF2S9ERx3uvneZp2xeDvDH06b9/RKq3lfsZXW/K1Nk/F92i1K8U1pvkEa89b3t76HNlEY3qw14YJCjJzqzY3AgXBrNs/R5VZ0vbvjLPT+Hquaght58GpIipoY19mXMTCestxcr1fe5Wn7jNUE9hWp4UIHRBCvYAZ17CcJhr5hlaiH3s=;SqsfaqmZDYvKl1gmaVICAA=="
+secured: "tL6UW7J0aVyd/LhGXV9dSh0/5SrihgdEYEru5GQh97tXxyguDcLND4fhlV9UGnMb5hiy2UT9Pd5fG6qPdHNIdLMKJ3s2Lab7EQ4u1wC5sCTxYhkrnc2Z53/JmxVUoIIdsB3LeRt8m1zt/5B+ZUOHX6Gg0SjtQN9qIEMh5MrrNcTC7Fm2c3rda88usWoyXTCXcoikTboj2NwswxxeWl3yljmbFdVpbWxGrWOqCSIFjl0axfVRJYOBdwoxV1/KZ5ZbL1azQiMxphdMYUdnmuGO1mfdKMBRHtoDBfR6ghHi/tsTk7lku/d8y8LZhp9pKSheZW01KKPXaigQDOb1feEm3n86IlG4LP9nOuZz56fl5fnJFEdEcViw1E2OgmOXDgUJnYeY+z6LCj1B6x25I4PzyOMy/PZ4ApMQo/UprgKcglg+/ngfF3mTkLBGUT3OLkNGX32Zmrhrc7jYKKsN9NDEIl2t28zFLd0nfPHzS1t1yJ64gfXaAMIJyEpxXDfNbcmbvPFCArntN8GaPXXohCUl5g==;6KKhRn2p2GYKH+C8S7aN4g=="
 ---
 

@@ -43,20 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
-    excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
-    publishedDateTime: 2023-09-18T07:11:00Z
-    webUrl: "https://techstory.in/pioneering-the-evolution-shifting-from-generative-to-interactive-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/09/1691002550874.jpg"
-        width: 612
-        height: 255
-        isCached: true
 
 secured: "yt1njPjHEgmy9JHrMreCnMYk+7nsDu/P1qM4rpinpF0nykBo/q+0cHKpXfRAjbRYX8h+DNKsbJVwqAH8ksv445oGa200U6MSfPgOpS8ZNYRpOnq2QLVlzk808DyGj61UGPrwf9nOZ6CODJcEGLSPCpLoUwih7t7h4UOPUMFNVp7pwY/GJAFaL6MyCFKlLPtBf2Ry36Ihr+A/94qUKDSwuTCwTD6oVfG8ROclBy9Rwv5KS+fAXV71DTD4Hn2UJC087+HjeTBzJ2gUXTkRr1ej8m4iL/aRQyR5WZkIKTy7SMFvVlDQztG8tG1hiNV80surHa9uZ6bwQDMrCTeeZSAHlZG3JmoQNUW7OMQp9EKSHFD2Bwi+Yy8nn7ygyoq6e/nuqanMZvJnQXqGynS9K4+pxbpMt3U9S/R1KcNrEMm4LKpxzc4YbsTmIhG9CHETsyuXGp8q8/kmRtqgZc5gsJEvJnnZxJhN4xY5wa4LasImZ1HYK5T1DnL4PNSuWz5/Zk5Ir2a5VPb9x7tOvsSb08ROgA==;RZpM28HJ/2z6y6VzS7i+9Q=="
 ---

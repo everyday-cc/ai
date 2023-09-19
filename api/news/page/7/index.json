@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-13-ai-chip-startup-enfabrica-raises-125-million-with-backing-from-nvidia.md",
+      "title": "AI chip startup Enfabrica raises $125 million, with backing from Nvidia",
+      "excerpt": "But Nvidia's graphics processing unit (GPU) chips face a problem ... \"It's no secret to Nvidia or anybody else out there that in order for AI computing to become truly ubiquitous, the cost ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-advancing-research-to-clear-humanoid-robots-for-takeoff.md",
+      "title": "Advancing Research to Clear Humanoid Robots for Takeoff",
+      "excerpt": "Adapted to the Cockpit David Shim, one of the researchers involved in the project told EuroNews, \"Pibot is a humanoid robot that can fly an airplane just like a human pilot by manipulating all the single controls in the cockpit, which is designed for humans.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
+      "originalUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodnet",
+        "domain": "goodnet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-samunnati-partners-with-singapore-headquartered-fintech-finbotsai-to-transform-credit-risk-management-using-ai.md",
+      "title": "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI",
+      "excerpt": "SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati, India's largest agri enterprises, today announced signing an agreement with Singapore -headquartered B2B SaaS FinTech finbotsAI, to transform credit risk management using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9880789.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9880789.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-ai-industrial-robotics-argentina.md",
       "title": "AI Industrial Robotics - Argentina",
       "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ...",
@@ -1060,152 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
-      "title": "An interactive platform that explains machine learning models to its users",
-      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
-          "width": 1280,
-          "height": 1239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday.md",
-      "title": "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday",
-      "excerpt": "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-849947/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
-      "title": "How Machine Learning And AI Could Solve Drug Shortages",
-      "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff387d1989d006addcb9c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

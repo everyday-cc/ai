@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defence AI startup Helsing breaks the record for European AI, raising a $223M Series B"
-    excerpt: "Helsing, a ‘Defence AI’ startup backed by Spotify founder Daniel Ek which had previosuly raised €102.5 million, has today pulled in another €209 million ($223 million) in a Series B funding round led by General Catalyst. Swedish heavy industry and ..."
-    publishedDateTime: 2023-09-14T13:05:00Z
-    webUrl: "https://techcrunch.com/2023/09/14/defence-ai-startup-helsing-breaks-the-record-for-european-ai-raising-a-223m-series-b/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
   - title: "Amid AI funding surge, defense technology startup Helsing raises €209M"
     excerpt: "Helsing GmbH, a startup developing artificial intelligence software for the defense sector, today announced that it has raised €209 million in funding."
     publishedDateTime: 2023-09-14T21:30:00Z
@@ -47,6 +38,17 @@ related:
         width: 1032
         height: 580
         isCached: true
+  - title: "Tailbox Raises $1.5 Million for AI-Based Tour Guide: Startup Funding Roundup"
+    excerpt: "Four travel tech startups have announced nearly $12 million in funding over the past week. >>Tailbox, a startup developing a platform for"
+    publishedDateTime: 2023-09-15T21:03:00Z
+    webUrl: "https://skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/"
+    ampWebUrl: "https://skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 34
 
 secured: "s7+fnBqza/kdmFY6zDFTgY6N6VB/3TXd6KkAu3bzmCrzGs04MDUBGVyG3KagvsqhSvUK4hHrPTk4eDtr5wyKLkGYwOixg8p87zo5ZXLRlQ3aFsF4JPuHv/oRrx3Zs1Xj4ae0JiC7XqwPO6j4kzPHPawO95keGj7GDyd36WVIEbiR/j/gIdpEH57l+l4TW9S4r/mgZo8BxWgv72nKLJNI6qB4ybrVz2QChotlzWig6FFdf4455rrjuOl7SDPUF20wlqiess8T9PCrSLPXEPXQjW5T5dkXINs5gNH2VdXAnHIY/Y4YXNJ/Tl8ECqKVzoSmB4w6IySUKZdvy/HXW6c9I79SES6xgw2TAsmKEMJZtOg57Aa2fpJckFnS4si8s44iTEtTF12fEJYNnuuVdptswJ7bAFe26T00Ye5rhQes11VmnsCkJWvtT0kQmLrDi3RuTe6OHohqYKm1N7SH0EX+TB5RtvFUi1q5elpJYFm4IFKo6vdxxwMuM8cK608LafB+NtgTCYqTflY9wo0M9PWmkA==;McI89EEGXk73kp8ob9CNuQ=="
 ---

@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-12-how-ai-agents-are-already-simulating-human-civilization.md",
+      "title": "How AI agents are already simulating human civilization",
+      "excerpt": "Each agent in the SmallVille environment is equipped with a memory stream, a comprehensive database that records the agent's experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/how-ai-agents-are-already-simulating-human-civilization/",
+      "originalUrl": "https://venturebeat.com/business/how-ai-agents-are-already-simulating-human-civilization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_isometric_a_diverse_collection_of_humanoid_robots_walks_084b21c7-b597-4b68-9c34-c06abcccbfc7.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
+      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
+      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
+      "publishedDateTime": "2023-09-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-investors-eye-mongodb-as-a-promising-ai-play.md",
+      "title": "Investors Eye MongoDB As A Promising AI Play",
+      "excerpt": "Customers are increasingly selecting MongoDB’s Atlas cloud database as a key platform to both build and run new AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff6a73a669b8403273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "publishedDateTime": "2023-09-11T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
       "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
       "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
@@ -1001,160 +1147,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-can-a-child-understand-everything-instantly-should-ai-be-different.md",
-      "title": "Can A Child Understand Everything Instantly? Should AI Be Different?",
-      "excerpt": "The lack of an intimate human fabric in the evolution of AI would be less than ideal for the future of the technology—and could prove dangerous for us, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb5b677db5811873f9e2d1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/amp/",
-      "publishedDateTime": "2023-09-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
-      "title": "A Vision Of AI-Enhanced Test Automation",
-      "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "publishedDateTime": "2023-09-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m.md",
-      "title": "Open Cosmos, a UK satellite startup focused on sustainability, raises $50M",
-      "excerpt": "Now, UK startup Open Cosmos, which is building what it describes as ... the amplifying effects of climate change and the rapidly growing number of AI/ML solutions that extract insights from this data that the market is now ready to reach its full ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/open-cosmos-data.jpg?resize=1200,611",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "publishedDateTime": "2023-09-11T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

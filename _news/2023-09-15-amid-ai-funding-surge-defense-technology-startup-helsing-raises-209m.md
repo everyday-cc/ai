@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/14/amid-ai-funding-surge-defense-
 webUrl: "https://siliconangle.com/2023/09/14/amid-ai-funding-surge-defense-technology-startup-helsing-raises-e209m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Defence AI startup Helsing breaks the record for European AI, raising a $223M Series B"
-    excerpt: "Helsing, a ‘Defence AI’ startup backed by Spotify founder Daniel Ek which had previosuly raised €102.5 million, has today pulled in another €209 million ($223 million) in a Series B funding round led by General Catalyst. Swedish heavy industry and ..."
-    publishedDateTime: 2023-09-14T13:05:00Z
-    webUrl: "https://techcrunch.com/2023/09/14/defence-ai-startup-helsing-breaks-the-record-for-european-ai-raising-a-223m-series-b/"
+  - title: "Tailbox Raises $1.5 Million for AI-Based Tour Guide: Startup Funding Roundup"
+    excerpt: "Four travel tech startups have announced nearly $12 million in funding over the past week. >>Tailbox, a startup developing a platform for"
+    publishedDateTime: 2023-09-15T21:03:00Z
+    webUrl: "https://skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/"
+    ampWebUrl: "https://skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/09/15/tailbox-raises-1-5-million-for-ai-based-tour-guide-startup-funding-roundup/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
+      name: Skift
+      domain: skift.com
+    quality: 34
   - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
     excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
     publishedDateTime: 2023-09-15T11:10:00Z

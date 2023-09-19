@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Dr. ChatGPT: How accurate are the new AI tools with medical capabilities?"
-    excerpt: "There are still many questions about how to integrate artificial intelligence into health care systems, however, the race is on: The Mayo Clinic is integrating a chatbot into its system."
-    publishedDateTime: 2023-09-14T15:14:00Z
-    webUrl: "https://www.benefitspro.com/2023/09/14/dr-google-meets-its-match-dr-chatgpt/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 38
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/09/Chat-GPT-Article-202307181246.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "ChatGPT masquerades as AI but is something much different, researcher says"
     excerpt: "“This stuff is not artificial intelligence, under any [common] definition of that term, and it’s definitely not artificial general intelligence, but it looks like it,” Bender said."
     publishedDateTime: 2023-09-18T15:39:00Z
@@ -162,15 +148,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 30
-  - title: "Gibberish or Genius? Verbal Nonsense Reveals Limitations of AI Chatbots"
-    excerpt: "In a new study, researchers tracked how current language models, such as ChatGPT, mistake nonsense sentences as meaningful. Can these AI flaws open new windows on the brain? We have now entered into a"
-    publishedDateTime: 2023-09-14T15:16:00Z
-    webUrl: "https://scitechdaily.com/gibberish-or-genius-verbal-nonsense-reveals-limitations-of-ai-chatbots/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
   - title: "Why Japan Is Building Its Own Version of ChatGPT"
     excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
     publishedDateTime: 2023-09-15T14:04:00Z

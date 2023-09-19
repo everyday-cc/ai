@@ -65,6 +65,20 @@ related:
         width: 600
         height: 364
         isCached: true
+  - title: "US State-by-State AI Legislation Snapshot"
+    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
+    publishedDateTime: 2023-09-18T21:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "As lawmakers eye regulation, AI could reshape Congress itself"
     excerpt: "I understand the fear,” Speaker Kevin McCarthy said at this year’s Congressional Hackathon. But AI is poised to change how the House works."
     publishedDateTime: 2023-09-15T10:11:00Z
@@ -74,15 +88,6 @@ related:
       name: Roll Call
       domain: rollcall.com
     quality: 19
-  - title: "Silicon Valley CEOs tell Congress that it's time to regulate artificial intelligence"
-    excerpt: "Leaders of the United States' biggest tech companies appear to have agreed Wednesday that artificial intelligence (AI ... in various AI projects — from the programs behind Tesla's self-driving cars to being an early investor in OpenAI before being ..."
-    publishedDateTime: 2023-09-14T14:43:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/14/artiificial-intelligence-silicon-valley-congress.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 12
 
 secured: "qjy2JBuqvuO/14A4IPYAyxQX4cum/zhITZTvxWJhM1TUt5+ana1CIqkhAOElk1+Dsvx7vhRMMHRo33fO7Upn7BbKFOK330rSMrMDs04n87x2G7fpkF0ZpAaZAwhuZLLThHEE+o5eNkrC67gjKldsu9c1KvnCC2um63DRGvv7ax77Ymw7Se7r02aIKD8uKNjISFJ/zxIAC7ZR2wTmI22u+c+RGXK7+OT7SDrKX4B96CMOpWG9Imy21Jz+inbaqO2nBLS5ZkpHIVfEbWkdF6IBw+dVyyTCgMLQk3iuJiUktAGQ8oK/XUUVNvpEd5ShhwjkblmWSIF9CUI3Rii+L9JvRPMoEpDZ8gfX7c2fQfaYQ14SYL8fn15Dz2VIe76RQ2bmk3R+fwckjxr4USFxVPQ4iekoT7XmBHsBYwccDbxCk2wnud/Flm46h90yPwPXrKZDVj7ZsARUlC29e47/6YDZButCFmfhE9JY3p8bSMvdEz6DywlQuRMpy9bqY2n28ys9CZOKzZK9p2+/7q7w5iTFYw==;RyNwL/uaE1DqEeqUa2HeGQ=="
 ---

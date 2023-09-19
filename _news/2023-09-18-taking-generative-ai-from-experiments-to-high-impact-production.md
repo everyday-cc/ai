@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-t
 webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,29 +28,93 @@ images:
     isCached: true
 
 related:
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
+  - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
+    excerpt: "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations."
+    publishedDateTime: 2023-09-19T07:53:00Z
+    webUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/"
+    ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
     type: article
     provider:
-      name: New
-      domain: bizneworleans.com
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
+  - title: "4 ways generative AI can stimilate the creator economy"
+    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
+    publishedDateTime: 2023-09-14T21:02:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-transform-the-creator-economy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "4 ways generative AI can stimulate the creator economy"
+    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
+    publishedDateTime: 2023-09-15T12:13:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
+    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
+    publishedDateTime: 2023-09-18T09:04:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Health care and AI can be effective partners"
+    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
+    publishedDateTime: 2023-09-17T12:59:00Z
+    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
     quality: 39
     images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
-    excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."
-    publishedDateTime: 2023-09-17T16:40:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/aimpact-2023-experience-our-ai-future-now-step-into-a-new-dimension-of-ai-learning/article_64bfbc4b-eb8b-542e-908d-42806fd90bd2.html"
-    type: article
-    provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
-    quality: 4
 
 secured: "tQPuJEWPCrYCoDpl933YSsDCcKvx037U2Q2bl6i52NU/Z2DhObcrXYya+HuDH6pBnexQhJm0V/2SFkA7+nCZqpohISCD4sl6mRwp/Hqmy7UJlG8sNb14wFyG44XrdT+ZPMF53Zr4JptXPS4eqhRZTLAqjpEQSLOB5sb/1jU6XMVl9oxVbqCSDcrf0gQgqIftQ6EGQszkICJP0IBDhjTl3C57+2s8+exUPrbl7KzUBGrjZIFkaH52+Qxf5LXI2gyTI2w+3+5DqjLOvPQ0RjAPjRtmMfS2KfjnhU7nVDJa6y+FqcVkh1XxcFJYbrEKz0wtV4JClfaXWeFw1dXwAbPKKjvtzkBnCDq4tny9yQTSjbR08gjJl/uvUE9W5NhigFRg+alBl7ssXwsh/eXdQwSlEjKw2BVUKayx2FjUn9JmxgNVJFBP86P961k5BMEEFaP3G91HRJw4Rj9kmTWrJmcWJTzAMVgKN3PELdz/XCBFR1Y0yVHNXCMypiFBZcbTSaJBNMZ8fVJb4RB3r0MI99e7Zw==;qSmAv6hPVgN58cf4ruiJvw=="
 ---

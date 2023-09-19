@@ -2,9 +2,9 @@
 category: news
 title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
 excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
-publishedDateTime: 2023-09-18T19:40:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/18/9882905.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/18/9882905.htm"
+publishedDateTime: 2023-09-18T20:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-commits-tra-2-million-artificial-intelligence-three-/2023/09/18/9882905.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-commits-tra-2-million-artificial-intelligence-three-/2023/09/18/9882905.htm"
 type: article
 quality: 30
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jmSN/a6lVhAiGMXzkxgf1uMRma/eWQgtTUCFZRC8ZYDwJav7s6bEF5oHUa6vL4lqnV8ktDfDjC+IqGJ/B3dG6sP7nGU8l6ch5uV86ogegVtBc4QedW4j9R1YwBN2HkfxfR2uyiWj8ZJ9VUZDzM693KyyARM9ibK4CJg5qmr14SxVdxMZM67f/YCmm4N3sugmJBq0qYvEquUyvMoJL9LaJoCi2a3v9E+Q8qSbpvrUWNMhvtoLIRWh8ENTVVMliauGozb2pUPdRuhia6bDYs2INfDietzK7k83XqzWK+bZAriRKwyLNULvbMYLg74/h2+4C+cGNIQum9jd0oaA6zkVN6traH6XBeSXxW0r6V181R37yDvM2DqRSkoWp2W+yyLKwTgI9GOQzQeJdSe65qVMYi4AMg2H3eOdDVNETqjNZFnFFdsZhCprRnnZ5rBBpvIfp+uUKDPDhsJjx/S7CzPfdqlQrU7jYiWs7d+k/L+PKOvyFg+r8C6NC4QGKS6P8V13++JKIZhKG4dUtGrv/FKoYA==;zJoLjhp9jz1kBwEupxVVBg=="
+secured: "raItqxgyOEWn7CQL9QO01qgdsK5NJpKkVhEHwxhGU0upHie8PIw26MZX+K/IbfdYCrNoVtBHqW6o9PDRdJRkBlNCHgwJigjv0tY2OTh+jiUb4wAt8soWvJlM+HaKhpa/FbYJt6Tk6gcaZjAmXjb9/3EjRuNR7yNcC/UBGv+39eiiXhthrNvedmCvSi6ltbe4JCAPmilpVjPobukPHQXB/0w85P2mCVFh6VhEQfJ/aDpC94irVP5cuEHnToISSULbO+7NiMs7YBO8TIuzg46p7NbDVQ3EGFQhsFOIBReAbriDJwhoSA5yjp5gzbu17R9NUjlxwTsqVIvXMMcUuZ/vniPyPp0J5cIzIySg6owQK/c=;qcWYeCPCUhH69Bx8c2J1Cw=="
 ---
 

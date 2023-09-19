@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-08-31-ais-impact-on-healthcare-potential-and-ethical-challenges.md",
+      "title": "AI's impact on healthcare: Potential and ethical challenges",
+      "excerpt": "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
+      "originalUrl": "https://myrepublica.nagariknetwork.com/news/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/uploads/media/AI_HealthCare_20230831072003.JPG",
+          "width": 925,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
+      "cdnAmpWebUrl": "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/ai-s-impact-on-healthcare-potential-and-ethical-challenges/",
+      "publishedDateTime": "2023-08-30T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myrepublica.nagariknetwork",
+        "domain": "nagariknetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-a-new-role-emerges-for-software-leaders-overseeing-generative-ai.md",
       "title": "A new role emerges for software leaders: Overseeing generative AI",
       "excerpt": "Most software leaders will manage generative AI efforts by 2025, Gartner predicts. This has implications for their roles well beyond application development.",
@@ -1397,50 +1441,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-education-20-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental.md",
-      "title": "Education 2.0: Is The Rise Of Writing Services And AI Writing Tools Beneficial Or Detrimental?",
-      "excerpt": "Dive into an exploration of how digital aides, like PerfectEssayWriter.ai, ChatGPT, etc., are altering the student experience. Also, discover whether they're leading us to a brighter future or casting shadows on the very essence of education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/free_files/jpg/ole_co_2023_07_31_084550.jpg?v=25022022",
-          "width": 400,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/education-2-0-is-the-rise-of-writing-services-and-ai-writing-tools-beneficial-or-detrimental--news-309730/amp",
-      "publishedDateTime": "2023-08-10T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

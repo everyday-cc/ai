@@ -19,75 +19,64 @@ topics:
   - AI
 
 related:
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+  - title: "Identity theft and the emergence of artificial intelligence"
+    excerpt: "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our"
+    publishedDateTime: 2023-09-14T15:29:00Z
+    webUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/"
+    ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: KHON2
+      domain: khon2.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
-    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
-    publishedDateTime: 2023-09-18T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: C&EN
+      domain: acs.org
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
         isCached: true
-  - title: "China's AI applications are coming — where it matters for monetization"
-    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
-    publishedDateTime: 2023-09-18T03:08:00Z
-    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Why picking the right AI-credit decisioning partner matters"
-    excerpt: "As financial institutions continue to evaluate AI underwriting solutions to incorporate into their lending strategies, recognizing the distinction between"
-    publishedDateTime: 2023-09-14T17:16:00Z
-    webUrl: "https://www.cuinsight.com/why-picking-the-right-ai-credit-decisioning-partner-matters/"
+  - title: "Alan Turing’s Influence on Artificial Intelligence and the Emergence of Transformers"
+    excerpt: "In today’s world, artificial intelligence (AI) plays an indispensable role in our daily lives. Acknowledging the pioneering minds that paved the way for this transformative technology is of utmost importance."
+    publishedDateTime: 2023-09-18T12:12:00Z
+    webUrl: "https://techbullion.com/alan-turings-influence-on-artificial-intelligence-and-the-emergence-of-transformers/"
     type: article
     provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/09/bigstock-Futuristic-Robot-Artificial-In-452602145.jpg"
-        width: 1000
-        height: 500
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T130507.267.png"
+        width: 800
+        height: 400
         isCached: true
-  - title: "AI is not just for cheating"
-    excerpt: "A district in the Inland Empire is testing what the superintendent calls an “Alexa for the classroom.” Los Angeles Unified has rolled out its own AI-powered virtual assistant. Silicon Valley-based Khan Academy is aggressively testing an AI tutor nationwide — after its founder had early reservations about mixing the tech with classroom learning."
-    publishedDateTime: 2023-09-18T23:20:00Z
-    webUrl: "https://www.politico.com/newsletters/california-playbook-pm/2023/09/18/ai-is-not-just-for-cheating-00116634"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
 
 secured: "kJ10q3drntM6wn2byKJPBzwtgVJudUXVLYUN86Da7gGhPgOXX2qLEa++fT/aQLaHRX457KHF17vTGJW78Om5MyDzxiANnWl7cVq+6P89lfWC0UsuourQG9AWx7/OL0YnkGWr5s9c94LPWdxLhAy2F4I9NjWsaGWCl0Xt1KfQU+eiirJ9jhQXSwxsZWO0WZdhlnQB374aHLKZfHIRDXI1o9JcxxO2PhmhGQechn8qh2/sdhgl/Zas8AMlAQuZbi0Vyybjfcj6Xg4abS8gSKx6du2L/4kuu57ZhGq0my22t53CdRusUC3x4uWwXoqzaVCgwx+QsSgruFt7LfkSY+w+WMKfvwEWBzMsyq5OKGyxe/A=;ErLXX5WMN9A4NFYt3euhwQ=="
 ---

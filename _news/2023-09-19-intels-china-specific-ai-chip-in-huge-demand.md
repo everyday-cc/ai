@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
 webUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digi Times
@@ -39,6 +39,15 @@ related:
         width: 927
         height: 522
         isCached: true
+  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
+    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
+    publishedDateTime: 2023-09-14T17:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "cBZ3zvMKFUFzXeblok4qoJvE/7mBjCm2WdL41gxcKRBr74yWNhFDBARH7OFIBC1j2gby9r75GJNCIVMk13j0eppUmhMYB9NlexqLKtUFPOh+ZGSNmxHU4VLf5zRcZ1usGLNFEOCE38wWvgAkrf5VtF4N3wkyVtm/iDvzIyyATd9AF0CwAArIkNNBGKgViKaGg9q82ogwSjfG/WZY2qiDUFIwv9q5FeIhRYYpaUH3BZP1tDCmxnroH+GHlCZCyc3v91IyIs1nCd5Fkt1nYAl/TYpmOAMwf//rQnQupIxYSE6hYvX2uVORl9cetRDR35i+cJhQ6IDoISLeuHOzj8qR2RMtob6TSL7lGw4tszcm77q7aI9AW5xIjtQ+yXvQxf9SZQ06AmV0nCezEMgVK3V7MBg3F5YMTO+NbfyP80KwsjcKRaS8vgVLa8lQ09bzHICGzdR3f+2NioVFeNO5oMN43E4Vi1OxfDeygkhtLyXRb21X/FmmyYdvubNYNP5TKo/WUEmRdpEDOX7jR3JgF9BCtA==;CbEyIuBLxnCGdtXO+0MKyw=="
 ---

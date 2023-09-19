@@ -24,17 +24,6 @@ images:
     height: 1366
     isCached: true
 
-related:
-  - title: "‘Unknown Voice entity’ attached to constitutional recognition: Jacinta Price"
-    excerpt: "Shadow Minister for Indigenous Australians Jacinta Nampijinpa Price says she has stated publicly she supports constitutional recognition of Aboriginal people, just not in the form the upcoming Voice referendum is proposing."
-    publishedDateTime: 2023-09-14T14:06:00Z
-    webUrl: "https://www.theaustralian.com.au/news/unknown-voice-entity-attached-to-constitutional-recognition-jacinta-price/video/640dd20b7cf8b2f3b82ef3c876b02e20"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 1
-
 secured: "hE95gHzKeZ80GOk4d5U8SZRwGgQcH6H92N5SU58SjM5BomvGZMh2S9HD3DS2HBoqysAvD93juX5T8XLoT2yXFTTpAdP36Q7YPEj1VTshdoRnhzjGWG2JHkurq0LWfR/y8jOVRwgf9HHTz53GrmR3PTrOwqaZ/NEfDrH7xIXbs7cvGgsja1iDqqvfNCpE3YtwAf1bReg/Y22gyJpBKuNyjgU3t4hMI1VNUrTfYJ2uj3A+WJGAYIxoAMYfkK0PhXRdNiXhPyIUO2DaPhmre9JNiz+tfrMW6fpbMs1Ou77TujcVkfIIFqYyp5zLmONOjrQyX6dFulKACqVPu4X2h5+EQuoKR1HiSaRUvv7z08Ba4SB/8AUZ6rgd1K7iR2KUfoR7ouviEjD129sZPw8K/RmNOW1JNb9kUbBfzEEDUu9g5B0PGPT1l1NS0A/TE91x8Av6vSEPlCJMLLzBVzmTuhAOxTrTwqlSW1rrRwvUi5dnmIh35BO9zyWtKsfjfvRBZ0WeTicvCDs4IbsdvUnW8f8/Qw==;KW5dChLITmYGtdRyuWLkYQ=="
 ---
 

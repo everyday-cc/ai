@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learn
 webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
 type: article
 quality: 71
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
         width: 945
         height: 630
+        isCached: true
+  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
+    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
+    publishedDateTime: 2023-09-18T22:16:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "Cash Treasury Trading in the Age of AI"
     excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"

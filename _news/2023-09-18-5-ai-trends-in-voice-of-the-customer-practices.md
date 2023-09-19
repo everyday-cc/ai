@@ -69,6 +69,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
 
 secured: "en3GlT83Yu9P4oFZhB30jCzVZexTNloKBKQ73t3r0PjrTLbrzjOOwjB8mXwMUgkMcd4TwosLDVEv0YQDasPCMp+EHHMgWiWA7wSrMVRxVZBuxUTqr8ScQnesYF49UTHk6F6wTElcjo+k7zyRYgOnPGOiFM6/SfewX4IgSyBXkvn1usypiJ+trdEenMlsu4Qd+FQ4piV845YJK/hS2w1gYI3JdHiPRoAV37Tr25y9FYvu8yKR39Kc2teSQzzqSw+2r+DEXqRvkXbVBgVY0HyrzUUgTVkBx8Qkw76MNcGpRA2d+pG1jIkUq9Y1LG9wpPXR6K+CWXG6YUgO+LVLMZ8SE67PaaEgvlicmLAh7eJMF1E=;kzE7srRW2S85mpWMmBbFAw=="
 ---

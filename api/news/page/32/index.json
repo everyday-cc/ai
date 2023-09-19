@@ -2,6 +2,146 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-08-26-uk-putting-100m-toward-ai-chips.md",
+      "title": "UK Putting £100m Toward AI Chips",
+      "excerpt": "NVIDIA, AMD and Intel are in the spotlight in the proposed deal. The global competition for semiconductor chips makes investment in innovation a priority for the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
+      "originalUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08252023-uk-ai-chips.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
+      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
+      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
+      "originalUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34045380",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380",
+      "publishedDateTime": "2023-08-25T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
+      "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
+      "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n34045931/baidu-becomes-first-in-china-to-offer-driverless-airport-rides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34045931",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045931",
+      "publishedDateTime": "2023-08-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-polestar-4-to-feature-mobileyes-hands-off-eyes-off-driving-tech.md",
       "title": "Polestar 4 to feature Mobileye’s hands-off, eyes-off driving tech",
       "excerpt": "Swedish electric vehicle maker Polestar wants to bring Mobileye's Chauffeur, a hands-off, eyes-off autonomous driving technology, to its Polestar 4",
@@ -1040,161 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence.md",
-      "title": "Five UK Companies Set To Make A Huge Splash In Artificial Intelligence",
-      "excerpt": "With the UK Government investing heavily in support for AI development, innovative new companies in the fields are mushrooming in number",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e87f5597824c7ea53b0612/0x0.jpg?format=jpg&crop=4000,1875,x0,y248,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-25T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-is-baidu-stock-a-buy-now.md",
-      "title": "Is Baidu Stock a Buy Now?",
-      "excerpt": "Baidu’s Q2 numbers easily beat analysts’ expectations. Its revenue growth is accelerating and its margins are expanding. The stock still looks cheap relative to its growth potential. Baidu's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/745130/two-friends-phones.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-the-best-movies-on-amazon-prime-video-august-2023.md",
-      "title": "The best movies on Amazon Prime Video (August 2023)",
-      "excerpt": "And they may not be able to go home. The premise of Amazon Prime Video‘s movie Red, White & Royal Blue is a bit far-fetched: the son of the U.S. President, Alex Claremont-Diaz, must befriend his ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/01/chinatown-movie.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-08-25T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

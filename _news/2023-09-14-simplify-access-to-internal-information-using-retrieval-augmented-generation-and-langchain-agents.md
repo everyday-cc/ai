@@ -31,8 +31,8 @@ images:
 related:
   - title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
     excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
-    publishedDateTime: 2023-09-18T19:40:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/18/9882905.htm"
+    publishedDateTime: 2023-09-18T20:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ibm-commits-tra-2-million-artificial-intelligence-three-/2023/09/18/9882905.htm"
     type: article
     provider:
       name: TMCnet
