@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Americans are over generative AI like ChatGPT, but their bosses are just getting started"
-    excerpt: "Many companies and bosses are still firming up their generative-AI plans. Employees will have to wait a bit longer to see if their fears materialize."
-    publishedDateTime: 2023-09-14T16:31:00Z
-    webUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-are-bored-with-chatgpt-generative-ai-bosses-are-not-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "10 Best AI Chatbots 2023"
     excerpt: "Generative AI chatbots are a major step forward in conversational AI. These chatbots are powered by large language models (LLMs) that can generate human-quality text, translate languages, write creative content, and provide informative answers to your ..."
     publishedDateTime: 2023-09-14T21:55:00Z
@@ -89,6 +73,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
+    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
+    publishedDateTime: 2023-09-19T08:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
     excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
     publishedDateTime: 2023-09-16T10:08:00Z

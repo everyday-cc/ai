@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-15T11:00:00Z
 originalUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
 webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
 type: article
-quality: 49
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
@@ -116,6 +123,6 @@ related:
         height: 315
         isCached: true
 
-secured: "oSF+Z3x+U8DWdMdnyHCXcbbX+wHytFPHuqYoaBe/Wx8KhFKpOXwI8f7+fWu0MkZ1J63C4ieHpdMbofeEMArXRTsdd0ZHI6iH66To0QNjw02MryGBcjJ/RZY5zepS2JlGioBD4ogwUndsmw0XfJCKUMS/zLWSzTFQ59+N2CCigjaEnSeJqsWbzqVqfyQo2l8xqKOvpnoLRq0mR/Z3yKHz5pKmwTET0DHsImbDGPsmHfV4wViqWM1gwJzYCrNmmjC0nNYEclJyOQ7wN4gK8yEPh3uwMk6SbVei2aEMcRiAdGdUM8TpjxRxNJMuSkjBK/J2NQ9SziswTR7A6OsaG50jATmA5CLcHmZaaG4gevlkor8MFV9EpExPI+oQLUgRn9iD7BhyMyco2MmpE6I4IGj5zroDqQi0SAcoOys78dPUZHr0HWbyKRM6bvbJdBlxPgK/w+SU0oCXCXKnpxnfVybcN7WW9AystanL7Wje/7Jd5L18dR+j1gd3ELcNEHyEWDutVjTdlnrYD/2sCXX0oZBQGQ==;jjxAsnyo7+hYcwwEz5dDVQ=="
+secured: "GbMKbbsMlTMzZsV7tqIDCGfxIFvzzCy6zMjDk8f7XwcIVaZHoVxhgEeS/QNVQCES77oM054G4HxLSQ/HPtkIbUaqijmtTPcM3u+mfuFTVKIrxM5Undq4NBDacPHbud2b2FEDcwd5Dxy/TLQJc1xfcsNFDTGr0xLjhbO/JN8gF/ROx1bJUaaXGa1v66O4vAPYf7CEvQJvHgLhuuYNHeO22A2uf4dEsfW0QudSYEwQmOwX61ia1yrPWVz6rao2c1/sUh4sIGkIa0o1LkhoG/uQ/JurSPaVO0OMYYtuQnw34KGNYWJ6/NUqXjOnVrbz/NbdzvCaJDi3IjdP8nvTn9OhXJK99sqSLjYOU2XFoMSwQek=;E+IBkecyJ8tpHMv8kcm3Ug=="
 ---
 

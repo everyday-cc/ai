@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-wat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -34,6 +34,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
+    excerpt: "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,"
+    publishedDateTime: 2023-09-19T07:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202309/eb1134433dae4c958b3dc6e8ae8a024a.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "AI for business: IBM is charting the path with watsonx"
     excerpt: "At Think Singapore, IBM spoke about its focus on AI for business amid the hype around commercial generative AI services by its rivals."
     publishedDateTime: 2023-09-19T01:02:00Z
@@ -47,6 +63,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/09/PaulBurton.jpg"
         width: 1200
         height: 813
+        isCached: true
+  - title: "IBM's Watsonx to help leverage AI for businesses"
+    excerpt: "IBM has introduced its AI foundation model, Watsonx, to help companies leverage the benefits of AI by providing solutions and services tailored for enterprises."
+    publishedDateTime: 2023-09-19T08:40:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/news/2023-09-19/business/tech/IBMs-Watsonx-to-help-leverage-AI-for-businesses/1873200"
+    type: article
+    provider:
+      name: 중앙일보
+      domain: joins.com
+    quality: 54
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2023/09/19/0828a37d-472e-48b6-98b3-d5f8eb7afe1f.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "8yteJjWdn6B8AxEH2okzX2o0qD39jwH0mV8fM3ypRYJkhQDfhRxcLwKiop/XS1BYEtt+1Gh93DJypGoVt4yuasET9OTR02HgYBelgAityQc4CFPtVBOGO6bAhT1eEA4CAo1olDN5HbF2Iwu+nduWCtJHfJ9AA48VhrC91HgTlPQzF0C06K2hHUgfI8yRqI6N3VkJKc/DIqJvvN/0a8RcWAzMuf/lQtEbbliQzKxOhffgtOkn/R5J5yu/lCGKOLyYmcsu6Y4RQ388/o3ec1rs6wRbrv54sf0zHLyulOFwNhrtO0R2snt3701AeMZhrAvHj+xy+f8iWgC8R/Z6v5daSPc9fDgpa9DN/9cHLT7s9Clv9ndGvH75ljHOYErQh7xqzCPKaGk16P1y43AJXP5j4wcfl3s+z6BmqHAOPBAyCAYkvclbJw5zEmO3xAZRxHICFQbwUIoNA0JedDX7d852dWgRho0haKYJh3XLm1XYmAK4NMVRv7fxhRoF1wLk+iufhpOMQmTbWHNe+rmBznYJWQ==;iWzlu7rVp+Mx6NwU4zAYGw=="

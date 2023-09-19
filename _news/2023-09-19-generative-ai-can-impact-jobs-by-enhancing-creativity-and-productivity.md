@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z
@@ -94,15 +108,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Health care and AI can be effective partners"
     excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
     publishedDateTime: 2023-09-17T12:59:00Z
@@ -118,6 +123,6 @@ related:
         height: 315
         isCached: true
 
-secured: "dDhWJemgLRoHxBLh+9IxoI9QwCcA5splVjXJkCDnOZP5PfICNVvhn5ZGyvOySvsj0ZOK8aLt2XHtPLEUwuY6Jv9xIKQaVAev55YVDHPzcKxCJLA8RIIcueB3rFeBefhjsSmqIMurbjDL5OETmYm6MImuqJ2gYzbTO93DUp2/UrLjbd6d2F6tFpA5nLBvMy8WoP6wowFaFF3Qdu8G/78omlZznZ+Fos+hrl0YSyvwPE70BHiT2DmT5hW6JdYpqogu/ZPkPQCAd8ICRGeP0Ns5qEc/W5CcMw0OoYafrxAcs1nBM0LnJFO+XaEz66dO9zPfXEnmIbyfNod9j/Rv17Oe3aJB9DFIzwMAx3vgQiO+STI=;eCEzB37vQa2mMdZrsgqSFA=="
+secured: "93e3wrRWKNv9yi3sygA9gV3N0Dr29YQ8Tw4+SRQ3cSheqV+o7uV5bnGe+cV4ovyCGqezj2Eu4IO0bIjhCUapHYN9WnbgUAS77EVR+9qS9DQ5GPl5jK2Yw3TPHEXfymsJCqWKmCozRITxX31Gv4eO2GEiOf+3D/D8dP6ZCtz16R/mFAm3axejD4KcybgzFHn23paRojhsvnH4+tyH+4F0KvtScgwbBvZlb7Yd+6yP5CuZj5CJ8FmWzZSVPCASahBD2Vu1TbsmhSDSk54eWxZ8Z/6gF4Vf4VAW3THOAoyh8sQBmrvxI2lIHx5DOs7b7IorvlGWK6wtLkAYfSjoHPinslLiMFfmmNXe7v5DHHjnGCUB/JLZ94sSPZFSsl40lPHfzPdPu7EdKqmqkS57bV3RuwmXwK0xn+vhrkpX5TaOK4kA1ovYyprcQr/OKpIZ4wGy5UwsUMSf5U6JfqMxQkTteEonSKmnHF/JxiEgQ7xcDcdJWzk+sii5Hs73VgYfvdlkOqG5H0g0iFqvuZkYMFbhJQ==;/w4jc/oTy3woTtTmrC/iXw=="
 ---
 

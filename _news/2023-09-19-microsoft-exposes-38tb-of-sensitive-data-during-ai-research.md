@@ -292,6 +292,20 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Microsoft AI team accidentally discloses 38 TB of private data"
+    excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
+    publishedDateTime: 2023-09-19T09:08:00Z
+    webUrl: "https://www.techzine.eu/news/security/111404/microsoft-ai-team-accidentally-discloses-38-tb-of-private-data/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/Ransomware.jpg"
+        width: 1000
+        height: 538
+        isCached: true
   - title: "Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links"
     excerpt: "Shared Access Signature (SAS) link exposed a storage bucket with 38TB of private data, including passwords, Teams messages, and the backups of two Microsoft AI research employees' workstations."
     publishedDateTime: 2023-09-18T21:11:00Z
@@ -305,6 +319,20 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt125542a64185f789/64d2addbf05519b482702dee/cloudconcept-ScimanSky-alamy.jpg"
         width: 646
         height: 430
+        isCached: true
+  - title: "Microsoft passwords and keys exposed through misconfigured Azure storage"
+    excerpt: "A misconfigured link enabled public access to 38TB of Microsoft's confidential data from two employees' workstations, opening up the potential for injecting malicious code into Microsoft's AI models."
+    publishedDateTime: 2023-09-19T07:11:00Z
+    webUrl: "https://www.computing.co.uk/news/4126373/microsoft-passwords-keys-exposed-misconfigured-azure-storage"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 53
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/bd1f38a/56c64fcb-5c30-4331-ac4c-15d10d825d8b/21/cybersecurity-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
     excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
@@ -379,6 +407,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 34
+  - title: "Microsoft AI Researchers Leak 38TB of Private Data"
+    excerpt: "“Our scan shows that this account contained 38TB of additional data – including Microsoft employees’ personal computer backups. The backups contained sensitive personal data, including passwords to Microsoft services, secret keys, and over 30,000 internal Microsoft Teams messages from 359 Microsoft employees,” it continued."
+    publishedDateTime: 2023-09-19T08:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/microsoft-ai-researcher-leaked/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
     quality: 34
   - title: "Microsoft Under Scrutiny After 38TB Data Leaked Via Azure Storage"
     excerpt: "Researchers have discovered, in July 2020, a misconfigured link exposed approximately 38TB of sensitive Microsoft data."

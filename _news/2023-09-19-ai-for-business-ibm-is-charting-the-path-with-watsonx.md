@@ -41,6 +41,36 @@ related:
         width: 936
         height: 526
         isCached: true
+  - title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
+    excerpt: "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,"
+    publishedDateTime: 2023-09-19T07:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202309/eb1134433dae4c958b3dc6e8ae8a024a.jpg"
+        width: 980
+        height: 653
+        isCached: true
+  - title: "IBM's Watsonx to help leverage AI for businesses"
+    excerpt: "IBM has introduced its AI foundation model, Watsonx, to help companies leverage the benefits of AI by providing solutions and services tailored for enterprises."
+    publishedDateTime: 2023-09-19T08:40:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/news/2023-09-19/business/tech/IBMs-Watsonx-to-help-leverage-AI-for-businesses/1873200"
+    type: article
+    provider:
+      name: 중앙일보
+      domain: joins.com
+    quality: 54
+    images:
+      - url: "https://koreajoongangdaily.joins.com/data/photo/2023/09/19/0828a37d-472e-48b6-98b3-d5f8eb7afe1f.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "K/p9r5vP1nR7vhl9BfOad8/oWUrKE7roVsQLG6oAfGo+ITEXAks+/dTggOGROxjCRS5f7HjI9TygJFXYwnqzpeoPBufMmMlwooMVeUTXiajzw4T4Vrpg0Zcxs6p/fSUg9TmdfA6yBkbB78U4FfeqcVMRcwXE5kNIll3jxCjOI8jIhsBjWzX2Na1LO423bpcmSAfjTmn3lEbza6s8XFS7zkmnBl615BX/4+7JxPN+W37vVg2MfO4f4uaYeIyuI0RHmC/E6eSqFOjSHiR0/AUrtwJIPJXZD38TqJDJ2uUMpt12Gpt1DsKmridGAcYdBooNPIzk8r5RP5CxfviEUuFeD9UqtV6H6baRgmVR9HU6W0/pbm6WK/m1+q58juSdkBUyQo0le6HrfrvSO+gRybKLggXBLakjet9l5hrHmxzhC2z/fHm3ZOplrs6I0rTZX2HUcQf9cdR7T1VDXrIsRfHxkQyiD+x0n8zB73Dt6ZdQyQ9hXc2+AE0vXDrY3ibcnEkRWGFlfvxXnIy6STElEgUQzw==;ilsWhtM25iRqVSA7+r4xGg=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "How AI and Blockchain are Changing the Tax Industry"
-    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
-    publishedDateTime: 2023-09-14T16:31:00Z
-    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Smart money is on learning about Artificial Intelligence"
     excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
     publishedDateTime: 2023-09-18T03:47:00Z

@@ -66,20 +66,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "How AI and Blockchain are Changing the Tax Industry"
-    excerpt: "Like many industries, tax is undergoing an AI and blockchain revolution. But the savvy tax professionals who embrace these technologies--and their clients--will be able to work more efficiently, reduce the risk of errors and concentrate on high-value work."
-    publishedDateTime: 2023-09-14T16:31:00Z
-    webUrl: "https://www.inc.com/inc-masters/how-ai-and-blockchain-are-changing-th.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1322421028_ulnbt4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
     excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
     publishedDateTime: 2023-09-18T22:16:00Z

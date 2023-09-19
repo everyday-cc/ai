@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "AAA-ICDR® Launches New Suite of Deposition & Hearing Services, Including AI-Powered Transcription"
-    excerpt: "Cutting-Edge Technology to be Offered Alongside Case Management Services, Domestically & Internationally, for Virtual, Hybrid & In-Person"
-    publishedDateTime: 2023-09-18T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aaa-icdr-launches-new-suite-of-deposition-hearing-services-including-ai-powered-transcription-1032637061"
+  - title: "Wondershare Virbo Unveils New Features to Democratize AI Video Creation"
+    excerpt: "VANCOUVER, BC, Sept. 19, 2023 /PRNewswire/ -- Wondershare Virbo, the leading AI avatar video creation platform, has unveiled new features aimed at simplifying the production of captivating and lifelike avatar videos. The updates encompass Talking Photo, AI Video Translation, and Speech to Video."
+    publishedDateTime: 2023-09-19T09:47:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/19/9883117.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/2214665/Virbo_New_Freatures.jpg"
+        width: 400
+        height: 268
+        isCached: true
 
 secured: "xKVI3LX31zcNQN1fJ9b5Ef7nfbRQPtckFTImmXYt7zJyWmr5770jh6CqGbLTie44HpAC23zK/+5ZQexaysYrt9+2f65t/FYm1L4XTLcZ3Bk4WWAXKw2BR1LrkNSYpQnwDD/CiRBqZOCJ9qeto1QX70ojs/O+r+Bz9+701JCdSMvnyxnEVNuwIiwFTA0DFlxS4lSVaMvY6CWOZ3oDelUZ27+k9CyQR8tyc3NEbtJF2PdmBfIScFuaBhGN88nJDmFJX1sifnZekRhSxZnUVVTtZZURSK42ykalIUMIfYi1wruafmBayegOLwRdJYZdv6z17V9ozi6mogJ20CZpmIu7152CA3BRTzR7DoOLVdC+GQQ=;GnO2BF2FLZ+tk9mZdXmEDA=="
 ---

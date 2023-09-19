@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "UK market authority lays down guidance for principled use of AI"
+    excerpt: "The UK Competition and Markets Authority (CMA) has released a report following a review of Foundation Models (FMs). It outlines a series of principles that it hopes will lead to measures that protect consumers, and foster healthy competition and responsible AI development."
+    publishedDateTime: 2023-09-19T08:33:00Z
+    webUrl: "https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wc6EUppheWKAiAJPQZJt3D-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "UK competition regulator lays out artificial intelligence principles"
     excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to"
     publishedDateTime: 2023-09-18T10:39:00Z
@@ -83,15 +97,6 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 16
-  - title: "Vector Institute partners with World Economic Forum on responsible artificial intelligence and ..."
-    excerpt: "Today, the Vector Institute announced a new partnership with the World Economic Forum. Through the collaboration, Vector's President and CEO Tony Gaffney will"
-    publishedDateTime: 2023-09-14T16:26:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/vector-institute-partners-with-world-economic-forum-on-responsible-artificial-intelligence-and/article_c0b0541c-3f8d-5c3f-a04e-28457c7dc93b.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 5
 
 secured: "4Wtseit8BcSzP1ODUxpOXKKNlWUSY/Omz3YO3FGuAyND6a6B38fS3Ypr8KfuYHSsM0NTc3P7AosS8W283jqA7X62hIt1qcYjl21mCbkSZ5ZWnpP55WCq0BwPd60FlenTvaj3GwHEf410iEPx9F8ZF0+93bOxP0sUH9e5y8cjyR9zSTwQoVENBfeJUD9br6F8dUsniJaPsIKKxOpWuRAeJUNN7U7kNIYSo/NE6z1Pq1a345KSDqCjZSfpa/ETUT/5m7eUM9pCrua9EDe4GtdUxSwiiKP8H+0XV6lMSx2l1TwKexcSGT3xTkTymzaRszQ2Lk5TqWHrUFsTpPbEBtqPd1aplbiu3jK4g4seKmqUAbW2iqEfvUZ2DnRzcsHrYmV9NC0Wdk8yeeRhRqhEx6ZrEZHzUyWpRj1IkknVhXu1AeAaN1drk9gZ+K/RPJx+Z2Z2rw9o+yWUATUYeL33qVK6DWWxZLYAC6+Yl9zc9dPvQfApYbhzPOTGHQbxGR9IsxkBJxi672mI0OuUhb9sQkjxgg==;v3yb3I76OL/Vn71rYWSmNg=="
 ---

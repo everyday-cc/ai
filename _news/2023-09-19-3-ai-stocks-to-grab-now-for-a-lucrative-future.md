@@ -110,6 +110,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Meet the next generation of AI superstars"
+    excerpt: "Richard Zhang, a senior research scientist at Adobe, invented the visual similarity algorithms underlying image-generating AI models like Stable Diffusion and StyleGAN. Without his work, we would not have the image-generating AI that has captivated the world."
+    publishedDateTime: 2023-09-19T08:37:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Ochsner to Integrate Generative AI into Patient Messaging"
     excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
     publishedDateTime: 2023-09-18T16:51:00Z

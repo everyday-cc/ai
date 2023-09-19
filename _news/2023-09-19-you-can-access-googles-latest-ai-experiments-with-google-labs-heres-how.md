@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-access-googles-late
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "B5dhTGWuRReZpZrY3qODqPJjGRye0QHzGh66hZPpV2MpZZMb5lvADjC3L09+Pacw4Fh03uUI9BiaR5+2FYKI6C3pYOo00yet5WjQ8SI9F4C8H6Bd/FAFb4mU0SQ9KkLMWWCNQumyXGgc8XoIB/V3VOiKNJKz7vD3KNU11dYRjsXB1RtTWp2aSEV0wzKG/avuk0zZ3AkmJGc+jkFjogYwEfkn4TG4qid1+IqcZNYk9xApTZjcxSlEaZcgdPun63DZ42EZXJ1eC0BmgRbaH5itMlUAwmLqA00mGKgQUgRmtSfV02Wco/KjjrpthuthQZobgS4dIXrbdjm4tJp7cnzwJcHGa6SKb8LespwenlTz078=;vBKNujQ58k1YEIG8CbnSEQ=="
+secured: "Ezbuj+thIrDIlv3WejMZAfsEVvUWF99F+dXMiaiaO7wydq0VtsN++6q5RLI1kWPEGg5dA+3Rm/wnkoamJc6uZJxy3VhMlNBBO+VtrKOuoGWnDdQz7DhKFuGdGi1GUns9RBHX/jfvNJtFw1i9gO1YLIUQ3PZS+XSeH9MKdZ2nqTjWxFouj9o62ribOlqCKsYleCQJpMbqRNcqS2yWFvcVsCjJlfKN/yGwENUoVAO3kq6huwRtHYyimzbDYTANp9teWXEj0X+C4ykAkFDXgWMD5AYgd1NFrOqq8G0pob9OJAcYAd95T8DDciRXmPIAMiLxREgoE+7VUjeDDuZP1WYzuMUW6jhL6r7SyuVwxoHnAxyrC/y7uWOV3w3UA0+vtH2AoGTwwEchhGnXrdB0G7RBT82+an9COfeK7w7wX4UleukXkI8BTNNN79b2bJldqsKcfXJYv80m7ztXNGGuvctckad0oodpGbnAZr0itIoNiYiIibDID7BOlfKXiWaJmjVK/LgqKtju/dEbKP9gozJ3FQ==;5G/4isKmEl2ujjzjaf6egw=="
 ---
 

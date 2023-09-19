@@ -56,6 +56,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UK market authority lays down guidance for principled use of AI"
+    excerpt: "The UK Competition and Markets Authority (CMA) has released a report following a review of Foundation Models (FMs). It outlines a series of principles that it hopes will lead to measures that protect consumers, and foster healthy competition and responsible AI development."
+    publishedDateTime: 2023-09-19T08:33:00Z
+    webUrl: "https://www.pcgamer.com/uk-market-authority-lays-down-guidance-for-principled-use-of-ai/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wc6EUppheWKAiAJPQZJt3D-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "EU to Offer High-Performance Computing Access to “Responsible” AI Startups"
     excerpt: "EU has announced access to its high-performance supercomputers to \"responsible\" AI startups to boost AI training and growth."
     publishedDateTime: 2023-09-14T23:30:00Z
@@ -79,15 +93,6 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 16
-  - title: "Vector Institute partners with World Economic Forum on responsible artificial intelligence and ..."
-    excerpt: "Today, the Vector Institute announced a new partnership with the World Economic Forum. Through the collaboration, Vector's President and CEO Tony Gaffney will"
-    publishedDateTime: 2023-09-14T16:26:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/vector-institute-partners-with-world-economic-forum-on-responsible-artificial-intelligence-and/article_c0b0541c-3f8d-5c3f-a04e-28457c7dc93b.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 5
 
 secured: "0iN7+eLpQjQDwc43yEOvjOdyYN9GKAtIu5clktmyClZCkIxUo6THV7Ocf9dvh1kn/SNLNAKfOq+HYYwQ+VxhCRvdwLgJQ38r6jPDaXAPYxJR907h1KCHRGvnvfhW6UsMhoJ7Et8NRoure7QPmEZhN1Yzk/Hm/v6yvZmubQoMQrUElvCeBDqVdXbOadfYW1szkdcNVB9hCaPRElVpyQrqLA7uqo+lLxSphZGoEOTpnk7PqOHsJ1nDJNAXgROiYR4UNabxt85fFfnbVfdWoRxHMWtovZnMlYEJV+mAfYa+U7f/dtyRp0y29aXlXt9e56TW4V3g4QdnGpw0n4ZXzmZMQc7yY5wLHI5oLhUBHC0WKgA=;Y/PTyRM66Vi41U9yyyg9SA=="
 ---

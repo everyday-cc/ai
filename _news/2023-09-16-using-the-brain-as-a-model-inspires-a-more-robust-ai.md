@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
         width: 640
         height: 360
+        isCached: true
+  - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
+    excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
+    publishedDateTime: 2023-09-19T05:01:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-pet-adoption-in-singapore/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/OIP-6.jpg"
+        width: 474
+        height: 276
         isCached: true
   - title: "The United States must win the AI race"
     excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."

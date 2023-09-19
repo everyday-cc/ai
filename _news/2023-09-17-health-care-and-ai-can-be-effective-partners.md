@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z
@@ -103,15 +117,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "ZSmn+uTid9ndQYtpD+7VMMThpKLT6tGUU6aoVjUue2Z52m1Dhl3Cvhby7lMPjHpsvysySU08FJmx7aFTAfj6pqZOvmLRKvX8WAAHou0F8GyIRUl+SCzNZdiRQZjjGH0Lr1q87UHA6w+OhLdWXfX2ohuqSRIsnyybJ7vv/IeupxMUY55h/EVaAEsUcb/Kxz21/gnmDRhJhAsGRVC221Qa8OeLf7L2h0HGpY8Ob2M0P7ryiVrMfzLwDS8G8IRRHX364YmmizI+YWw3S/9D72tMIqX4FaNpKzEUUoQAgMYHn/I2Iw0BsxfrVLZVjE9aGVtA8GphTEviZNKwYsh61TNBBOsqibRgnX9JMExh4FC/f2I=;tgf9iGapFB1rz1OiCF0RLA=="
 ---

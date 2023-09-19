@@ -65,6 +65,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
+    excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
+    publishedDateTime: 2023-09-19T05:01:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-pet-adoption-in-singapore/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/OIP-6.jpg"
+        width: 474
+        height: 276
+        isCached: true
   - title: "The United States must win the AI race"
     excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."
     publishedDateTime: 2023-09-19T04:18:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-stud
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Deloitte India collaborates with AWS to provide generative AI solutions for Indian companies"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) has announced a collaboration with Amazon Web Services (AWS), to enable generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T09:21:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 63
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
+    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
+    publishedDateTime: 2023-09-15T05:11:00Z
+    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
+        width: 800
+        height: 543
+        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z
@@ -45,16 +75,7 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
-  - title: "Google Debuts New Multilingual Machine Translation Model For Low Resource Languages"
-    excerpt: "Google created a new dataset for 400 languages and released a high-performing multilingual MT model trained on it."
-    publishedDateTime: 2023-09-19T07:17:00Z
-    webUrl: "https://slator.com/google-debuts-new-multilingual-machine-translation-model-for-low-resource-languages/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
 
-secured: "0ssACCYDWfOqDOsjA/p0N95S2m5xJVmgYJoWKgByi8fvsEvbHElDkDz/PTse1j9f6VvWuJVbvtfBJv3iqai5OEvDTDkVR9Mdu+hhUmr2aO8Lsr6GapICuzjoTXxIdHFEkZCZYuJthCQXtRWaDyQ8xQmYzkx0NK6qgrdVd9dcS4l9LrceoxQIelNrOwfxMbph/c4Ht3oiBsAhCPE9nRY/XSAV11aNRZkpUyDW7SlM1ad3POpFtKY55R9bMx8zu+YwCUYB6YGzye0Jv+aCq+XRZXc/6wo2kwBCyDB28ys7l3o4+3Fl06YJRjadb/DR/kr1PVIO8KfZ9kIahR90DtWvojfTL0g7GAFWHbQAqMzSzlw=;dJgohQKxGCOhTJgAyNdwpw=="
+secured: "JB+QrZ7nSwjTKT7bEaFIQxUTOqstscM7HSgXb+oiprtkKJJBHSyodMubNI51mSeR/8T7BkFhcyTArA6sBcJalzQX+LTgnhRa5LeqCLENZELi5YgY/l6fSQjZy5Sdxvdn5H+n93fx8Cm8ti6LXN3QDDJe3fu7TgN9mHegLrvTsb0x0JH2NpWSkGEYCi+NFP6NVm5ZnGWpPGG58Kqk2R9rcBEm8Km6gEyUeN2ZcdAQm8jPII3DfGmVGPghJhs65Mfc10a+jtiz7jvRoHllFIRfmVSr9wrRlEmWMdUqzaDEAEOHhOLrwIy6//iUyY2qssKGKR0hpGNotztNigJKf/vDuNyYehCo4brQqcVaaewiU3T0FE35sTqZ03naxsGL9xQv0oJluIlJCscZro1e/zoWf4rltN8f3/bd1MjUX0nxpIFFUrEBsl+WiYRvP6w17A9ahHAONY0n37MIXszb5faZqJ3v3nHuDyXsZX7yeic+rRbm/Y3PTFvbd1x7gRmD3sxgZr28Ivys1j1lnKd9vaWxEA==;NfGIba7dIUk8r6NCW7PfUw=="
 ---
 

@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence to help humans, can’t replace them, says expert"
-    excerpt: "Dr Tejinder Kaur, principal, Army Institute of Law, Mohali, in her inaugural address of the national seminar on “Prospects of Information Technology and Artificial Intelligence: Issue and Challenges”"
-    publishedDateTime: 2023-09-17T01:00:00Z
-    webUrl: "https://www.tribuneindia.com/news/chandigarh/artificial-intelligence-to-help-humans-cant-replace-them-says-expert-545118"
+  - title: "7 Ways CX Leaders Can Close The AI Trust Gap With Customers"
+    excerpt: "Few can deny the potential of AI to improve customer experiences, but many remain hesitant to trust it. That’s why building customer confidence in AI remains one of the biggest challenges facing CX leaders today."
+    publishedDateTime: 2023-09-15T19:26:00Z
+    webUrl: "https://www.forbes.com/sites/zendesk/2023/09/15/7-ways-cx-leaders-can-close-the-ai-trust-gap-with-customers/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_1477068911.jpg"
-        width: 670
-        height: 446
-        isCached: true
-  - title: "AI Can Grade a Student Essay as Well as a Human. But It Cannot Replace a Teacher"
-    excerpt: "Baffour: Technology can flag errors & give feedback, freeing up time for educators to motivate young writers and help those who are struggling."
-    publishedDateTime: 2023-09-17T12:37:00Z
-    webUrl: "https://www.the74million.org/article/ai-can-grade-a-student-essay-as-well-as-a-human-but-it-cannot-replace-a-teacher/"
-    type: article
-    provider:
-      name: The 74
-      domain: the74million.org
-    quality: 12
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "ReOal/kJgSgWQnGbfKuTUyDOoBcIbm83v5kV6Zw3LcINAYEKzqeDIB6BCen0wAM/0Ai6mCP31FGFyBi96I9/ZzV6s2B5rKKvWj22N11M2Wb9acRKZ7GSb/JmakpuI0re/lQ22IRU4IK7Nsf8caT/9f74/t0C8mffnFEqx+2zWtqoRIWI1IIyISIWfiQRm8tmyTolJ3uhxr0O58/VtG4Me66kA3MaUivclSnR71n63OK6niwbBAcD4DZuSGAOh3YTAaKIVEHX4FAcx87GJ/IifPRMzwHw9orlKF00TVCs52hwKh2oNQaYJd2dXQL3qebc9fk7QXtMPRFVpVa5xuvEDvVISbHV5BpbBelPjkoia0dDx6nxRDtUqtRhLH3pamB49L/aaz8WVE2zmz8oMmj4xfMfi3CjkSq9ov9NwuvFV5TPx6nwRdoyDxbYD45hsW5V8no2uCFI5HOIjjefi1b9N4fYD9DqF+9eQy+oHPjZxjFFO9z2HGeBLAXcUQXYjKG6Kt57lOhhgpkHAKA2h80j5A==;W/edCJ5MIh0JY/gIjtkW9g=="
 ---

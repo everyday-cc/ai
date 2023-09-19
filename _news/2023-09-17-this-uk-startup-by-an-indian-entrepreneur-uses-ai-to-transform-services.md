@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Deloitte India collaborates with AWS to provide generative AI solutions for Indian companies"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) has announced a collaboration with Amazon Web Services (AWS), to enable generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T09:21:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 63
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Indian engineering student builds AI model for real-time sign language translation"
     excerpt: "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words."
     publishedDateTime: 2023-09-19T07:33:00Z
@@ -34,6 +50,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
+    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
+    publishedDateTime: 2023-09-15T05:11:00Z
+    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
+        width: 800
+        height: 543
+        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z
@@ -43,15 +73,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
-  - title: "Google Debuts New Multilingual Machine Translation Model For Low Resource Languages"
-    excerpt: "Google created a new dataset for 400 languages and released a high-performing multilingual MT model trained on it."
-    publishedDateTime: 2023-09-19T07:17:00Z
-    webUrl: "https://slator.com/google-debuts-new-multilingual-machine-translation-model-for-low-resource-languages/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 13
 
 secured: "TV3Idx49fxp+ngk6wvjdF1N0zKecdNmRaXllECn8ISLYYGnxa37KxoGvpDcpLGbk7QG8WPVXcOJXALrPaL0ZmJkkiCzd3n1qyerpKA1VOZ67N4X5Ec2ZWAhtJyvR5AVmA+YOvh8TODKkcYeJJ3xZgvHsummVpE03nHfm4ZV3nLT3H1+jxj9ATxMecqYkPjgUDYg17glTJjdAfEj9URshc85M07k/d6oBpyWzx7DHQQ0izMxgfZE6tZeb1NGltzbm9v8zjBLLA9WRrUhY5GrNwCN4mIdxpv+QWIax0dh4ux589irmhQx7nC+Idr/Z4oRSrKgLQupccBbt0gF/lL+zMrZRwyDsKfjZJUY6CVsaWtO6RR5E109ENa96/FsmPLmCNgoXH8wnFcqJpK+qTGTQWqZG1rXd5qgs6NUgmVxt5fl/KpE3gWQLP0OVhy6YAMXk+O/c104Kd51qtKKvKPmBc6BbiIvmY03pPd9coOzMHewhzUXd/xTejEU8zlGUagZZo6lxcPnofX5YYtoddqcs5Q==;/uHTYasNd340WFQWBQ1pZg=="
 ---

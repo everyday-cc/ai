@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why humans can’t trust AI Why humans can’t trust AI"
-    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
-    publishedDateTime: 2023-09-17T22:23:00Z
-    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
   - title: "AI Can Grade a Student Essay as Well as a Human. But It Cannot Replace a Teacher"
     excerpt: "Baffour: Technology can flag errors & give feedback, freeing up time for educators to motivate young writers and help those who are struggling."
     publishedDateTime: 2023-09-17T12:37:00Z
