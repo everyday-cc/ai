@@ -81,6 +81,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Teamsters support California bill requiring a human in self-driving vehicles"
+    excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."
+    publishedDateTime: 2023-09-19T11:42:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 41
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SGT-L-TEAMSTERS-0919.jpeg?w=1024&h=768"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
     excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
     publishedDateTime: 2023-09-15T17:54:00Z
@@ -95,34 +111,6 @@ related:
         width: 1200
         height: 777
         isCached: true
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
-    publishedDateTime: 2023-09-15T05:44:00Z
-    webUrl: "https://www.aol.com/news/cyber-attacks-dozy-drivers-future-054453091.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
-        width: 1200
-        height: 901
-        isCached: true
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
-    publishedDateTime: 2023-09-17T09:29:00Z
-    webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
-        width: 1200
-        height: 901
-        isCached: true
   - title: "Researchers develop algorithm for safer self-driving cars"
     excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
     publishedDateTime: 2023-09-15T18:12:00Z
@@ -131,6 +119,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 4
+  - title: "Cruise self-driving cars cause traffic jam on Austin city street"
+    excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
+    publishedDateTime: 2023-09-19T10:00:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/self-driving-cars-austin-traffic-18373989.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
     quality: 4
 
 secured: "4wz1pqzLVSzupApeLhgRQ33CCr7q5Y72PruqFNPVjX27qtw5j0/4/qg66yGyG1HVfXWgFOi+trEhKHK1PIw/z5PSdRPZl9ac39ERo9Uiq7sDcCqiXTW8hgzyAKR2ml//MOWWHrnOrkrCeTGWPl/GRLrEtUcP3lRGMMGfhYRo4thoQA0L/FHjRkkr2jOYalTWuHpafRWzgezl8y1YqacAN7obn6QCWdTkwQQhNM/w3G2ge88fVTv96bp1ey52o+BRwqI7Y6CvMPwWwAHcpbPFEtuDvEwn/AOkoFZlTsv4Ic/TQ5XDBB127HirKbqPhqJfclujsLcjvidu8MhEoL1bj3jmzzUDhfm1ppw34TWUBtA=;xaY+08S/Wmw/F74JT9UEcg=="

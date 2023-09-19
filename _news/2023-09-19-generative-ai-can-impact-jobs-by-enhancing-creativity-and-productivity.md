@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Health care and AI can be effective partners"
-    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
-    publishedDateTime: 2023-09-17T12:59:00Z
-    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "93e3wrRWKNv9yi3sygA9gV3N0Dr29YQ8Tw4+SRQ3cSheqV+o7uV5bnGe+cV4ovyCGqezj2Eu4IO0bIjhCUapHYN9WnbgUAS77EVR+9qS9DQ5GPl5jK2Yw3TPHEXfymsJCqWKmCozRITxX31Gv4eO2GEiOf+3D/D8dP6ZCtz16R/mFAm3axejD4KcybgzFHn23paRojhsvnH4+tyH+4F0KvtScgwbBvZlb7Yd+6yP5CuZj5CJ8FmWzZSVPCASahBD2Vu1TbsmhSDSk54eWxZ8Z/6gF4Vf4VAW3THOAoyh8sQBmrvxI2lIHx5DOs7b7IorvlGWK6wtLkAYfSjoHPinslLiMFfmmNXe7v5DHHjnGCUB/JLZ94sSPZFSsl40lPHfzPdPu7EdKqmqkS57bV3RuwmXwK0xn+vhrkpX5TaOK4kA1ovYyprcQr/OKpIZ4wGy5UwsUMSf5U6JfqMxQkTteEonSKmnHF/JxiEgQ7xcDcdJWzk+sii5Hs73VgYfvdlkOqG5H0g0iFqvuZkYMFbhJQ==;/w4jc/oTy3woTtTmrC/iXw=="

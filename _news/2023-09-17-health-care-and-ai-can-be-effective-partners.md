@@ -25,98 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
-    excerpt: "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations."
-    publishedDateTime: 2023-09-19T07:53:00Z
-    webUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/"
-    ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+  - title: "Embracing A Human-AI Partnership To Harness The Power Of Healthcare Innovation"
+    excerpt: "Combining the best of advanced technology and human expertise creates a win-win situation for both economic prosperity and improved patient well-being."
+    publishedDateTime: 2023-09-19T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 100
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65087a353cc89f08cb01661d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 902
+        height: 800
         isCached: true
-  - title: "4 ways generative AI can stimilate the creator economy"
-    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
-    publishedDateTime: 2023-09-14T21:02:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
+  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
+    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
+    publishedDateTime: 2023-09-14T21:34:00Z
+    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
     images:
-      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "4 ways generative AI can stimulate the creator economy"
-    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
-    publishedDateTime: 2023-09-15T12:13:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+  - title: "Schneider Electric Issues Industry-first Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
+    excerpt: "Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to addressing new physical infrastructure design challenges for data centers to support the shift in artificial intelligence (AI)-driven workloads,"
+    publishedDateTime: 2023-09-18T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-schneider-electric-issues-industry-first-blueprint-optimizing-data-/2023/09/18/9882712.htm"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Taking generative AI from experiments to high-impact production"
-    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
-    publishedDateTime: 2023-09-18T14:34:00Z
-    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
-    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
-    publishedDateTime: 2023-09-18T09:04:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
-    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 53
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ZSmn+uTid9ndQYtpD+7VMMThpKLT6tGUU6aoVjUue2Z52m1Dhl3Cvhby7lMPjHpsvysySU08FJmx7aFTAfj6pqZOvmLRKvX8WAAHou0F8GyIRUl+SCzNZdiRQZjjGH0Lr1q87UHA6w+OhLdWXfX2ohuqSRIsnyybJ7vv/IeupxMUY55h/EVaAEsUcb/Kxz21/gnmDRhJhAsGRVC221Qa8OeLf7L2h0HGpY8Ob2M0P7ryiVrMfzLwDS8G8IRRHX364YmmizI+YWw3S/9D72tMIqX4FaNpKzEUUoQAgMYHn/I2Iw0BsxfrVLZVjE9aGVtA8GphTEviZNKwYsh61TNBBOsqibRgnX9JMExh4FC/f2I=;tgf9iGapFB1rz1OiCF0RLA=="
 ---

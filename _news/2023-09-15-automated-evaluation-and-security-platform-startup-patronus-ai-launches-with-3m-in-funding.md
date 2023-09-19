@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Betterleap leverages AI to revolutionize recruitment, launches with impressive $13M in seed funding"
-    excerpt: "Betterleap, a startup aiming to disrupt the recruitment industry, announced its launch today, backed by an impressive $13 million in seed funding from several leading venture capital firms including a16z and Peakstate Ventures."
-    publishedDateTime: 2023-09-18T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/betterleap-leverages-ai-to-revolutionize-recruitment-launches-with-impressive-13m-in-seed-funding/"
+  - title: "Security startup Discern launches AI-powered policy management platform"
+    excerpt: "The platform is designed to address three security policy challenges commonly faced by businesses."
+    publishedDateTime: 2023-09-19T10:59:00Z
+    webUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html"
+    ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
+      name: CSOonline
+      domain: csoonline.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_abstract_expressionist_painting_of_a_job_recruiter_fi_6e850ee9-9996-4b4f-97a7-66e5d4ee7d65-transformed.png?fit=750%2C420&#038;strip=all"
-        width: 749
-        height: 420
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/09/japan-control-center-man-computer-monitor-data-center_shutterstock_771481858-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Ernst & Young launches a new AI platform"
+    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
+    publishedDateTime: 2023-09-18T03:40:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "EY announces launch of artificial intelligence platform EY.ai"
+    excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"
+    publishedDateTime: 2023-09-18T15:43:00Z
+    webUrl: "https://business-review.eu/tech/ey-announces-launch-of-artificial-intelligence-platform-ey-ai-251787"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 54
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
+        width: 1773
+        height: 1182
         isCached: true
 
 secured: "oDQSj4hgLeXGsTC/AE9Qj/88nKZGZWN2uVUBA6pIQshFk8TUQorkUiRims6mNnpQFDLw4/EhbdSHMshFAW7+6xifCn3unX/Vr/OzaU400KsEIvf9Fq2/t+oc8idtI1rvRLDf5lCjJxFq0NfIRVrwDSyTRYIG2eJoBl3s8tqMJYXlXxehYhfOXUS5oTRKmLvJcVL2gZ58MQ0aeFXKyePuYoJg6YrccusKXtXNVpaZU0yFijeFNG1kic218kRdAHSLq6c0n43HKY37eKL60idzQDreDICo8tY/JrkYDcsjPDBAQ0zsLYkhaHXcHSO13smXG2UfvmP6XM9Fv41vFp99JRFBmUNVstDXLCEOdG5bF+TyoQCBCWuKvXtWz1mPc9VVm4X1dnqaf8a6QvpkL7jN8S6x0ahpwh3/cjT4/2e/Jq9upWP0dttW5GOxr/Zwjz0ufe/JJP/LrTGSFs3KwewVVHherf06RQB9JCgqXA7c399g1jyawsL3qs4t8viKFfniYdtHrtCYoB9LWrYK1cPLIQ==;yirlQaoMLvcjbBnW0shLCw=="

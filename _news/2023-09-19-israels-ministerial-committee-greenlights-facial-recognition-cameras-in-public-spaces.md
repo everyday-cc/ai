@@ -7,7 +7,7 @@ originalUrl: "https://themedialine.org/by-region/israels-ministerial-committee-g
 webUrl: "https://themedialine.org/by-region/israels-ministerial-committee-greenlights-facial-recognition-cameras-in-public-spaces/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Israeli government pushes bill for facial recognition surveillance cameras in public spaces"
+    excerpt: "The bill says a police officer of undetermined rank will be able to decide that a camera be placed in a public area and at protest demonstrations."
+    publishedDateTime: 2023-09-19T10:55:00Z
+    webUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/"
+    ampWebUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 29
   - title: "Proposal for Israeli police use of live public facial recognition goes before lawmakers"
     excerpt: "Israel’s government is moving forward with plans to deploy live facial recognition in public spaces for criminal investigations."
     publishedDateTime: 2023-09-18T22:12:00Z

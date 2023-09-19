@@ -112,7 +112,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
         width: 3000
@@ -168,6 +168,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
         width: 754
         height: 416
+        isCached: true
+  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
+    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
+    publishedDateTime: 2023-09-18T20:14:00Z
+    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 36
+    images:
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
+        width: 688
+        height: 507
         isCached: true
 
 secured: "0uMMHjGb4z7Tz2LyIZmWH8nM5uMMZ7Xq+zCaIn51O1byZQN81/GCxSzJaoc6spFdu+8Fs8Yo+EiXI1XVGku2CnR7m3qpE+vLiUEPdR6n1vfAqpPnAP01kexjZZYRMOeXyt8xup2IQRYYOK1IljqFQ3rwW2Jp4A4CyZJGXxU2ieWqxCrNUyUB0VDp5kt0sMLW3XAN/QI6K/piYc4aUWVJTA1bAdo+hB1QIQwWi8EmkcVtYxjjr9Grq14t8PYPkY+nbrzeyD+UErMMcy/JfpfdGDEdcrZLU5pANU1I+uv0556Ha2FR1vfj+6XQin4cboT0ZRdtHsShxG+9iVXzIGF9wg8A7+K5+gqjfnOep9FpYIc=;SUStLGPdQ9wp314Qnxreiw=="

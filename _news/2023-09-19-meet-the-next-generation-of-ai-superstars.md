@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-gener
 ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
@@ -165,7 +167,21 @@ related:
         width: 754
         height: 416
         isCached: true
+  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
+    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
+    publishedDateTime: 2023-09-18T20:14:00Z
+    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 36
+    images:
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
+        width: 688
+        height: 507
+        isCached: true
 
-secured: "CiJbMXuetOK0UpHMtMrmlEXWETx3UjwOYsqXbj0+N+v+46VofARBLyekkNvNy3s7lh+xVD9/M0hqUMQj2TOq3m4lmluTq2GrmYVNHs9o6apD9ECAaXt1i3i4AyR/Mt/hjTb6PJNFUShQL1AiM0/wKoWQkzvtPhNVxjdDkNTLxRgq/RPvai0ehAOVRKnqdqs8xQWbO1wxGVSl8uw3VP1uirwfVlgZPyzsKC/+bSuuLW60PhuGPl3OIdjWgZrLRob9TyFj+cKD3toBEk0LreL5nn5rUXqJ8hbCNF8NvfxWq3O2k4t1Py2Hb6bnOtA8ApfdNpSSB2xrH8LiP5FexjRi+mi1R796BAWhZOznF8SJo7M=;oPFfphJOJHJllsKiPgEkNw=="
+secured: "UQk8SPoRW2567qIPiRXAzNzyCp2VnWvLjy5rdGtSam06JBRQ/yq3hH0mQAlq0dx+zpgOfyt/+UqvqkdMlqs3ZbnGrLpp9nNMLxJraVuM81nu9VdWFkH4DZfJSc34ZWbV/lfXsJSfN6aQpC2w/R6E2omZDJyEBTyQEBj1VxtjFm/MGNmLmYz91Asg+psKohCrjlh4WiMMLp/IJbZB5Z1SWanJzotgl+foU2aWr1V+JDCGVRX3XER3UlRBcsGCeq9RmEOBd1SO9SgVb/oc9E4aH5wRZ047DoMn4xHt6tP8JpDDfUNrfBgmJ6c+LTTt6iJbQmdGdlegx8e6h8LTgKeHfBqfC/8yN0d+Hqva+jl6HTrfKAE06fFxgisGf7gbkFOdgO1lkdm5NDQGTDo2z1oME0zPTuZoy/LKj0Mi8HsO4PeNSo4O/AumEdRFzKmdwoBzuwHhO5vPjq0zfnKV8SBRKDgQQaEhsVtmfpRSylYPqzTCLngCiZ5kdb4wMdtk7CgK3SWx6gDlxRt+ejI1URBSMQ==;IZYzF3p+hg/slzPtwyr7QQ=="
 ---
 

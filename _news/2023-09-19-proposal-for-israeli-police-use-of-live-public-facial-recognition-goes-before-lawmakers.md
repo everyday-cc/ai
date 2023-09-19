@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Israeli government pushes bill for facial recognition surveillance cameras in public spaces"
+    excerpt: "The bill says a police officer of undetermined rank will be able to decide that a camera be placed in a public area and at protest demonstrations."
+    publishedDateTime: 2023-09-19T10:55:00Z
+    webUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/"
+    ampWebUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 29
   - title: "Israel’s Ministerial Committee Greenlights Facial Recognition Cameras in Public Spaces"
     excerpt: "The Ministerial Committee for Legislation gave preliminary approval on Monday for a bill that will legalize the use of facial recognition cameras in public places across Israel, allowing for use of the data to investigate criminal activities. The bill still needs to be approved by Israel’s parliament, the Knesset."
     publishedDateTime: 2023-09-18T19:08:00Z

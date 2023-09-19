@@ -2,9 +2,9 @@
 category: news
 title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
 excerpt: "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,"
-publishedDateTime: 2023-09-19T07:47:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
+publishedDateTime: 2023-09-19T07:54:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
@@ -72,6 +72,6 @@ related:
         height: 373
         isCached: true
 
-secured: "8ZH++NoHFyvpieFiNDe2+TdMPjwGFtbB7M4+S5vAFl2zoP3vqosZsmBvySGSumyftW1YnhlY2pra0CH/RXD4vZy4uGnoBJr3ySJTCAsJ6bqBc5Ah0GWNGtsOKWSRvInwPI4jynvnLfuh9HsAs9FOExBU6oyA/YSbBGHNZATzbDVF/JjQKFgQzaXrGYTh9hsjueV3VU6QXKtumT+J9OyyfebiCWCEifpSPkC61ci3kNSt47TPg1g9+sGMzrs5GpciU3TQtZQldsFLbMTNmeVQxg8bB5f32LGlYDMU57oJQlXqLhEGQhcziq+xdgVticoRqAFqPEBJMI+We56/vfjVPT3Hu/K+9zsfm9gEp1vNwkA=;ME+V9V5RHgx/6bPbcAtp1Q=="
+secured: "JXvZFYr+t01vnrBF2RL91arZS2UQGlz6O9R9Bb4+/Q55+twbL7rI5Tu/1Yn0OM1OnFLApBD3ksm14qdBmBXHkyZbYq+GGkN+8Bux/NPwEjaBiMh37LhlBxKsMQBXwIO360vSFTDmHFoNf+R1vwFSwmIrCv6AmI5K31+B2iQBUBiC8LRAh/i3ZIUK64weaoXokvay/eB8xogvEvgDMs1IMciPempHqLareyFRrd45DAR6Npv7bdzxE3CgH/u3h/hoL7iUFtsWdCAdcHif+0oaB3gr7Yte62CyT+lv0UPx6ygXGqMcBP1js5vdcum1midrVdyJDETQ3expTnOdGk/8denXQWYEA4kukt40jSpouP4=;SJssQCJqwCvta1+jMPMLRA=="
 ---
 

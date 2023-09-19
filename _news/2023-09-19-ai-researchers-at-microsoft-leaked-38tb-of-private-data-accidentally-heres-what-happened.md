@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/general/69001/ai-researchers-at-mic
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft AI researchers accidentally leaked 38TB data online; Includes passwords, secret keys, more"
+    excerpt: "In a blog post, Microsoft announced that researchers at cloud security firm Wiz discovered that Microsoft's AI division researchers accidentally leaked 38TB of data while contributing to a GitHub repository involving the development of open-source AI models."
+    publishedDateTime: 2023-09-19T11:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/19/1600x900/Europe-Microsoft-Investigation-0_1694134466952_1695122693587.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
     excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
     publishedDateTime: 2023-09-14T22:07:00Z

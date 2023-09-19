@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IntelePeer Announces New AI-Powered Analytics Engine for SmartFlows Platform"
-    excerpt: "IntelePeer, a leading provider of AI-powered communications automation solutions, announced today an extension to its SmartFlows platform, the Call Su"
-    publishedDateTime: 2023-09-14T17:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230914883718/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "9xrYO9LlQPVNb7s/4uJRexmyHiWMLvKAkV4DgTan31ZtTkn0c8dxYhTxGbQm2HeSyIjBCjpSWnC4MQtBNaqYoTD7t4vsQB29gSivvPh4pjTZF/VcS/ii9Fr/WXETPFXZBiD2l9AdzacGAsoVgp/cmXxIlQDs47+zLXMxnSZ5HJVxmaSnAi1AI/rkDeflDY4o372YfvL1a2afHfK19e0YG78S+mCefgr834CD23QHmvToM+mK0SUd6B9PRLWBPz26QLDJCs5WRdg+eaNaIZ0Z42alQU3VC8JAbKD03d25W0ZWJjrhK+9FhehX1+6bjIASjD59LVVIyAa9Kv+9qSG3oqKmeeOwS3EdxN3mpUlieO8=;wL809Q1fzfb7v4m4eLApeQ=="
 ---

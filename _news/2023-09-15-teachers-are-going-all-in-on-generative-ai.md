@@ -108,20 +108,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Health care and AI can be effective partners"
-    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
-    publishedDateTime: 2023-09-17T12:59:00Z
-    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "GbMKbbsMlTMzZsV7tqIDCGfxIFvzzCy6zMjDk8f7XwcIVaZHoVxhgEeS/QNVQCES77oM054G4HxLSQ/HPtkIbUaqijmtTPcM3u+mfuFTVKIrxM5Undq4NBDacPHbud2b2FEDcwd5Dxy/TLQJc1xfcsNFDTGr0xLjhbO/JN8gF/ROx1bJUaaXGa1v66O4vAPYf7CEvQJvHgLhuuYNHeO22A2uf4dEsfW0QudSYEwQmOwX61ia1yrPWVz6rao2c1/sUh4sIGkIa0o1LkhoG/uQ/JurSPaVO0OMYYtuQnw34KGNYWJ6/NUqXjOnVrbz/NbdzvCaJDi3IjdP8nvTn9OhXJK99sqSLjYOU2XFoMSwQek=;E+IBkecyJ8tpHMv8kcm3Ug=="
 ---

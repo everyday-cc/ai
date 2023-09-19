@@ -57,6 +57,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Deloitte and AWS join forces to enable Indian customers address real-world challenges using generative AI"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) announced a strategic collaboration with Amazon Web Services (AWS), to deepen generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T10:57:00Z
+    webUrl: "https://technuter.com/breaking-news/deloitte-and-aws-join-forces-to-enable-indian-customers-address-real-world-challenges-using-generative-ai.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 37
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/07/Deloitte.jpg"
+        width: 328
+        height: 277
+        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z

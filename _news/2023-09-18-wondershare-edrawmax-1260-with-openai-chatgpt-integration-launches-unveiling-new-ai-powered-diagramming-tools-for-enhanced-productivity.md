@@ -30,8 +30,8 @@ images:
 related:
   - title: "Wondershare Virbo Unveils New Features to Democratize AI Video Creation"
     excerpt: "VANCOUVER, BC, Sept. 19, 2023 /PRNewswire/ -- Wondershare Virbo, the leading AI avatar video creation platform, has unveiled new features aimed at simplifying the production of captivating and lifelike avatar videos. The updates encompass Talking Photo, AI Video Translation, and Speech to Video."
-    publishedDateTime: 2023-09-19T09:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/19/9883117.htm"
+    publishedDateTime: 2023-09-19T11:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883117.htm"
     type: article
     provider:
       name: TMCnet

@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "3 Blue-Chip Stocks to Watch in the ‘Green Zone’"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks represent ownership in established, financially sound"
-    publishedDateTime: 2023-09-14T19:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-watch-in-the-tradesmith-green-zone-1032631792"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"
     publishedDateTime: 2023-09-16T18:51:00Z

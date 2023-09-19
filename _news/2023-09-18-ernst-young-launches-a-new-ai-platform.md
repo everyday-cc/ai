@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ern
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Security startup Discern launches AI-powered policy management platform"
+    excerpt: "The platform is designed to address three security policy challenges commonly faced by businesses."
+    publishedDateTime: 2023-09-19T10:59:00Z
+    webUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html"
+    ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 74
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/09/japan-control-center-man-computer-monitor-data-center_shutterstock_771481858-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "EY announces launch of artificial intelligence platform EY.ai"
     excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"
     publishedDateTime: 2023-09-18T15:43:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
         width: 1773
         height: 1182
+        isCached: true
+  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
+    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
+    publishedDateTime: 2023-09-15T00:28:00Z
+    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
+        width: 2000
+        height: 1028
         isCached: true
 
 secured: "MqKwB7x33sJHeV7b0sUS6o6LbQkvGg18v7/nyIaeFWofxQg79JBt3TY5+K1ELtwhvwpmEVKaWncP71BTFdvzJBEuncrE5kBnboCMfGj5Z1qGK3eJXmPq1Vs5sc0afcsjdTdVEtkUbo9wHt4gEljxgIr9KGQu32Yh8pcFDFyp8bA1KjEc53UedKz6l6EhYzFg+no0Hb12xvLnWTgs/TPRDJNiQQr6Oc0OchGQwSY+Bwq0biX3AcJQtZhiB+HrUcUH0EV6/2G0w78imsE8FTgebjUmTPn/5zPu//vKMQLy+k4JzeOwG7P0zXVk8uFyeVG+fww25saNC8Ps8j0pXZ5DHfP7/wTZ3k521EpILU31d5E=;P8ROq2TtAizl10KL5maJLg=="

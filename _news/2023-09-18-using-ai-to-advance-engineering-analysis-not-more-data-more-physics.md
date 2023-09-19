@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinelink.com/amp/news/using-ai-advance-engineering-ana
 cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/using-ai-advance-engineering-analysis-not-508119"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 334
     isCached: true
+
+related:
+  - title: "Data science vs data analytics: Unpacking the differences"
+    excerpt: "Though often used interchangeably, \"data science\" vs \"data analytics\" are two distinctly different concepts. Let's explore.\nThe post Data science vs data analytics: Unpacking the differences appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-19T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/09/20_43_p_gorodenkoff-017.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
 
 secured: "BC9XrDrO4HNf1CEWtnDRmfkjfBnheY75CiD4H/tZLdcjb2pojMQL4hwfBKgEhzMzqg73zXRCV3ZFl+z1rzRWWLsgLyjaN0/dFoud/nfCo/69ECxh9uZQFHcJSnWpw1RKTEobH+JKSvapAJN97haDY8B+2as7iW4Nx3AgElEcu32iTA4c/7opis5EFqJdrUvnTpRVezMTGICc5SYJrwrV4TCB/5EfnDp42zXCk35eENmaZYSrWgb/FAaI3w0l+w8BL0RNokgygNqvsa8SFmHCD2H3x24kJjnZzKRm/wcnl4YbzRO5v5aidpHOW+XFF21wywMOwW8col50P9W9JBZ2hBZFZJ0wvW2EdrTMokLVM9QE34aH5nL9YYZ8+YivAyM+Mv/xpezngV+ekuLMG9wsYRKy8PV+XVPUBGaaubzJ8wq+KV6nsh7lpPAEsQNihUlJSNduHch5VHP1rQ7TCxpMuAfQFULi8NxefL6BQZALlUXLnhuC2jgqtIhbQOc4BdIAV/PNu7MWdxt1O498K1D/rA==;2yp1hgF3CQtuRAK190rS9g=="
 ---

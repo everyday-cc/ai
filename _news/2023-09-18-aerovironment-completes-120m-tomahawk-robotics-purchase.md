@@ -7,7 +7,7 @@ originalUrl: "https://insidedefense.com/insider/aerovironment-completes-120m-tom
 webUrl: "https://insidedefense.com/insider/aerovironment-completes-120m-tomahawk-robotics-purchase"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "AeroVironment Closes Tomahawk Robotics Acquisition"
+    excerpt: "AeroVironment (Nasdaq: AVAV) completed the purchase of Tomahawk Robotics less than a month after signing a definitive agreement to acquire the developer of artificial intelligence-enabled robotic control and integrated communications systems for $120 million."
+    publishedDateTime: 2023-09-19T09:53:00Z
+    webUrl: "https://www.govconwire.com/2023/09/aerovironment-closes-tomahawk-robotics-acquisition/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 54
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/09/00P4y00001NOI6zEAH.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "apnOb5nfbhZo1zkCxYuv49moXAqoNYqV03K1NLk+tnxwhMrX1Shg4fnHShYrzyeoZRCCKSmiXt7GoZvqxySQ4HU4EeMfieZpHV9BlhTYXB9Zlj+QScFdCOcqemRxMRFzfUWIHjGG7dksqCm9CjXIfMgHG66vPRG7HQ+Oy/RBtBgjQe+MQwO6Sr3ZZj3/nnz/6dNalIeFlf06EdcfRYxmcfJ3Iln8wmwJzDqCqqpctOc76ombKm3pnGQK5F7kaM7C5FaeyJX3FrgEofzlNj9u09Roo5k4/FPZzaXy0rmqfsvIYE4oFBBtGDLw0KMixnA9kwZ/miBMmIfBKmYUDrNnDvlgMgzW+GycZ2ISY5RgXzE=;kKtHF4/WRGr7TCXu4aoSwg=="
 ---

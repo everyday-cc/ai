@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Discern Security Thinks AI Can Defeat The Cyber Attackers"
+    excerpt: "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software"
+    publishedDateTime: 2023-09-19T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65095d4ddf493db59c935f69/0x0.jpg?format=jpg&crop=1280,600,x0,y114,safe&width=1200"
+        width: 1200
+        height: 563
+        isCached: true
   - title: "Artificial Intelligence Making Cyber Crime Harder to Fight"
     excerpt: "The rise of artificial intelligence brings tools that help cyber criminals clean up language, opening new doors for hackers to break into networks through emails that trick recipients into sharing personal info."
     publishedDateTime: 2023-09-18T16:07:00Z
@@ -45,6 +61,80 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/1f2ef88/2147483647/strip/true/crop/1170x610+0+134/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F89%2F6a%2Fd99b5d8e36b47f7b5d2a10a0a035%2Fshutterstock-160851050.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
+    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
+    publishedDateTime: 2023-09-15T20:30:00Z
+    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Duality Of AI In Cybersecurity: Risk Factor And Enabler"
+    excerpt: "What will define the cybersecurity sector is how we embrace AI, and how we think critically about it to better protect businesses and individuals."
+    publishedDateTime: 2023-09-15T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-duality-of-ai-in-cybersecurity-risk-factor-and-enabler/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
+    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
+    excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
+    publishedDateTime: 2023-09-18T07:01:00Z
+    webUrl: "https://semiengineering.com/quantum-plus-ai-widens-cyberattack-threat-concerns/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/quantumsecurity1.png?fit=1937%2C775&ssl=1"
+        width: 1937
+        height: 775
+        isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-15T05:44:00Z
+    webUrl: "https://www.aol.com/news/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
+        isCached: true
+  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
+    excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
+    publishedDateTime: 2023-09-17T09:29:00Z
+    webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+        width: 1200
+        height: 901
         isCached: true
 
 secured: "tqqLY5X8WRzuvejKbe9SMjsXU6R8RsZMUZixbqoLOgbdpGs1b9wLewuIVrtAQJW7PtJcFSMp4hYu90b75IC9fuwwkSB2qHuzHiPKyeIMkEb+tH0eP1dMg80X7xde86Q55myec8LRGR1lIHNjTz3Y3w0JkPq0OVoQd0Xp5Josrp5hDz452JTiYUUPooUOtAm9qapeBidCg9TwNDW1sG8FocBd34gQ5JKyIyDxKzOHr++PhC0TYJNaE9z1d6DTOWyH6lHMfZiva5Xc2XrM454X22xWmW6+EAuq/uILNIW3/FFKsidUGFEeynqI7E5SYikDDhryeCDygpLeo5Js6aBcWUvRo9qYy7SnshD8BUcImqo=;V+cTT63fOaozsoMZP7KGsg=="

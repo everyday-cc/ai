@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-del
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 800
         height: 543
         isCached: true
+  - title: "Deloitte and AWS join forces to enable Indian customers address real-world challenges using generative AI"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) announced a strategic collaboration with Amazon Web Services (AWS), to deepen generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T10:57:00Z
+    webUrl: "https://technuter.com/breaking-news/deloitte-and-aws-join-forces-to-enable-indian-customers-address-real-world-challenges-using-generative-ai.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 37
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/07/Deloitte.jpg"
+        width: 328
+        height: 277
+        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z
@@ -76,6 +90,6 @@ related:
       domain: indiatimes.com
     quality: 17
 
-secured: "vI0EJ9q3QjUv1Xtu1It/AnDCFRZV3cFrejm7iQN/Q9Urvlq/Z04WUFz3jS20YFKHahRWlyOCFhDayr73Vw1CpNWnjzTMpG9M20nfUdG+qNkieoHhHyD05Y8v5WZ+90Mcd8zlhll3Wpb+WbXH3WRa7k2oSmRpem5+xdhs9c3v4osarah9t7y9vV5gjNW18J/bp+JCRO5raxl3EXcCSo79CGQS7hRnImxVmaCLkSoxJWPbFxVNWYze/Qqlot3Sz8iDlWs21bkZCC3JRaX/4w+jGC9pFgNCAtPvzGZm2gggRIGAtV5M9FXEy3ZafHpIGXHZjzGEbVzPlwuYP//4XK5WYt1vyYnxNLI0ueRXhp9H5ds=;K8Z/ovghdX63h05KkPcP2Q=="
+secured: "fVfjq1w3SmzaPuWHS9SaKXt3Ybz6UxjRr6hzKPX4/JsAIEZ/II8uOURga24VRVYVUyxUK7yncIO/N/psLObBr1x0kivwX2LJeugitdvGUv37fjF7CbD0utF4YD1z2ERrEjGXZlcEL1SX2hDlvlP5rQ+wKJ43J9p9701PN40lus9HDn/UQo3wfgdjtRvAoLd0Yp6LBHJyPTQ0Wy98VCh47QC5nA/QetHqVkSMbJq7ekBOTdyWfYV0StTVbI1Q4tJOJtb7aeO9/tA6BOltADmW/Q+aV+oeeg7e5FMhVnqt5/FUCnr02jli6mMwGHGqHlSj9V/dQ1iS+im35X1zM/5baWndHqTG7XprhJqqpLdulD/YRZijdab4uHaBNy0HZ8TuvsfjC9+9/CRzq3PyWkwB2vK6rcXkHwIchYLpvipzhGRwqOtqHmSgeL9XuG3Nxohf2UC4akaHHv6wYDMZrBvSQupHwhr5C3zyMXB0+TxHQKJ6RF+24MJv0mR1fXY4zF7ZmINjffBogp+MZ42HhjJbTA==;TB1FK1QjC+RxmzaNsukQ6Q=="
 ---
 

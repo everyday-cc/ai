@@ -38,20 +38,6 @@ related:
         width: 739
         height: 415
         isCached: true
-  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
-    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
-    publishedDateTime: 2023-09-14T21:34:00Z
-    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "AI Can Revolutionize Mortgage Licensing"
     excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
     publishedDateTime: 2023-09-18T20:03:00Z

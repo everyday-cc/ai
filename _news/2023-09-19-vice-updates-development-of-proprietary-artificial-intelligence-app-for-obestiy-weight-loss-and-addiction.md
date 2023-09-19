@@ -1,29 +1,22 @@
 ---
 category: news
 title: "VICE UPDATES DEVELOPMENT OF PROPRIETARY ARTIFICIAL INTELLIGENCE APP FOR OBESTIY, WEIGHT-LOSS AND ADDICTION"
-excerpt: "Our Vice VeAI Application is designed to enhance personalized strategies for weight and addiction management, providing an unparalleled level of tailored support for users. We will continue to keep stakeholders informed with timely updates as we advance our strategic initiatives in artificial intelligence,"
-publishedDateTime: 2023-09-19T09:32:00Z
-originalUrl: "https://menafn.com/1107096198/VICE-UPDATES-DEVELOPMENT-OF-PROPRIETARY-ARTIFICIAL-INTELLIGENCE-APP-FOR-OBESTIY-WEIGHT-LOSS-AND-ADDICTION"
-webUrl: "https://menafn.com/1107096198/VICE-UPDATES-DEVELOPMENT-OF-PROPRIETARY-ARTIFICIAL-INTELLIGENCE-APP-FOR-OBESTIY-WEIGHT-LOSS-AND-ADDICTION"
+excerpt: "CNW/ - Vice Health and Wellness Inc. (\"Vice\" or the \"Company\") (CSE: VICE) (FSE: Z24) (OTC: VICFF) is thrilled to announce a substantial progress update on its newly formed, 100% owned and proprietary,"
+publishedDateTime: 2023-09-19T08:20:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/19/9883093.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/19/9883093.htm"
 type: article
-quality: 21
-heat: 21
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?981019"
-    width: 333
-    height: 250
-    isCached: true
-
-secured: "N9/aHli/4I97GXYCA1KbCQzlWQkkTFSslphJrWi065Rxypkr5dwG4PgXPTepUydZ4O80kpisbe3Cz4q6nXXaCwm2FLrpUozjMLpNu7lNtvzuPrtEnw9w/L+iNUi/Yw7EzRj5yg5rbqa2kDuAlTI0Bie/5tCfTn9TIUrAFiVmoMipkZeVGrxg+foiulGHUTXI2LwuLv86jJOaL7UsJ9pZLN6oOeXRk4qhw6SRnuQHci5YThqNqHNBwvW0y7Br8rbyfWppB92BADdLwyJsVAztH12UfqwK03VGK/kg06zV/GXpYNrbMXUe8qOYSv8T4NHGVCPpOw44zad9FuFt5GNsIzuxuU5H5s2TvbZpOlzz53w=;LR7uiT4y1N+LIGdbNqCNEw=="
+secured: "zVqPZwSmKJ0qW+T8hawZIJ3nWaEGDYXp8Z0RfC8FiFuMXUHw0mr8Ct5j87xPysmnsJygANEJKVrEPRUjW0DbrKqc1LzsE0rapgV7s6zyhM2OhdhjyRiP5rftruEINgLTXpTEkE46E6jtYEFrwTv84PAEnewuZgvrvAehA7RXa0xg5VFKtpFTgquza7vZeJCS4FcQ91KyPJfc/gF7iyC0pCXk1+aKwt0Hf2nKpInWtsUB8Vg9Lkq3YLcFcjwfDPbAtqwgO7/WQSj6xajQ3Mt14Z3RbdvdgThBvBVgllqxHtPQYQEuFBUHc4nSeM+uW3plST4XAa7uv5sjOcqU5WsZLbVP0peDoGo5+lYPek/TlhVUSlNclpo3QD48cwhV0ottTG/EsHkctDno32nuPXjYD9MpD7+bdB8Ak8yYpnJ+Tk66pMCLNlF8Fn/n1EDVtgbwfMTDB18q1UqB6CyccATYDgcf9mqMoXADX+ZUYP+vD2RXcWIPcAbsH7C5GSmQvWgmHBvBKwBxW/XHw3xWiSeGLA==;JrAFw9LSalJK9lTk0IuPcg=="
 ---
 

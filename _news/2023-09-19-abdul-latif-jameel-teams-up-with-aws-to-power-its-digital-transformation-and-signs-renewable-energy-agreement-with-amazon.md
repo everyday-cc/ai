@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS to power Abdul Latif Jameel digital transformation"
+    excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS"
+    publishedDateTime: 2023-09-19T10:15:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/N2ZmMDRhZDAtMjE2OC00/3/1410007281.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Abdul Latif Jameel teams up with AWS to power its digital transformation"
     excerpt: "Amazon to use renewable energy supplied by Abdul Latif Jameel Energy’s FRV as part of commitment to powering operations with 100% renewable energy DUBAI, UNITED ARAB EMIRATES — Amazon Web Services, Inc."
     publishedDateTime: 2023-09-18T10:04:00Z

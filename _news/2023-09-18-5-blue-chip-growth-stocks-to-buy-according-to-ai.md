@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth
 webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "3 Blue-Chip Stocks to Watch in the ‘Green Zone’"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks represent ownership in established, financially sound"
-    publishedDateTime: 2023-09-14T19:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-watch-in-the-tradesmith-green-zone-1032631792"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 3 Best Machine Learning Stocks to Buy Now: September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning has been the stuff of science fiction for longer than most of"
     publishedDateTime: 2023-09-18T09:01:00Z

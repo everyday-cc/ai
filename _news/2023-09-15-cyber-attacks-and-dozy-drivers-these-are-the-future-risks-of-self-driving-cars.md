@@ -25,81 +25,99 @@ images:
     isCached: true
 
 related:
-  - title: "How real-time machine learning can make the self-driving cars more smart"
-    excerpt: "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists."
-    publishedDateTime: 2023-09-18T16:59:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
+  - title: "Why Discern Security Thinks AI Can Defeat The Cyber Attackers"
+    excerpt: "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software"
+    publishedDateTime: 2023-09-19T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Self-Driving Cars Could Cause ‘Mass Casualties,’ Warns MP"
-    excerpt: "Lawmakers in the UK warn that self-driving cars could cause \"mass casualties\" if rolled out without strong new laws. \"Self-driving vehicles are a great British success story in the making, but they co"
-    publishedDateTime: 2023-09-15T15:30:00Z
-    webUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/"
-    ampWebUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 44
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/09/thisisengineering-raeng-GckgQqyHoa4-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Are Self-Driving Cars Really Safer? Exploring the Facts"
-    excerpt: "In recent years, self-driving cars have become a hot topic in the world of transportation and technology. Proponents argue that autonomous vehicles have the potential to revolutionize road safety by eliminating human error,"
-    publishedDateTime: 2023-09-19T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_09_2023_17_40_37_1760082.png?width=1280"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "With self-driving cars, it's the ethics we have to navigate"
-    excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
-    publishedDateTime: 2023-09-17T08:24:00Z
-    webUrl: "https://www.japantimes.co.jp/commentary/2023/09/17/world/self-driving-cars-ai-ethics/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 41
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/17/251977.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
-    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
-    publishedDateTime: 2023-09-15T17:54:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65095d4ddf493db59c935f69/0x0.jpg?format=jpg&crop=1280,600,x0,y114,safe&width=1200"
         width: 1200
-        height: 777
+        height: 563
+        isCached: true
+  - title: "Cyber AI: The Imperative To Be First"
+    excerpt: "Only AI can scale to provide fast analysis of the ever-increasing volumes of data being produced in today’s digital-first economy. AI has the ability to find the needle in the haystack—something that isn’t feasible for humans. AI can quickly see if there have been changes within the environment and surface them."
+    publishedDateTime: 2023-09-15T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65034ce6df7c18f7edfdab4d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 837
+        isCached: true
+  - title: "Artificial Intelligence Making Cyber Crime Harder to Fight"
+    excerpt: "The rise of artificial intelligence brings tools that help cyber criminals clean up language, opening new doors for hackers to break into networks through emails that trick recipients into sharing personal info."
+    publishedDateTime: 2023-09-18T16:07:00Z
+    webUrl: "https://www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight"
+    ampWebUrl: "https://www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1f2ef88/2147483647/strip/true/crop/1170x610+0+134/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F89%2F6a%2Fd99b5d8e36b47f7b5d2a10a0a035%2Fshutterstock-160851050.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
+    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
+    publishedDateTime: 2023-09-15T20:30:00Z
+    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Duality Of AI In Cybersecurity: Risk Factor And Enabler"
+    excerpt: "What will define the cybersecurity sector is how we embrace AI, and how we think critically about it to better protect businesses and individuals."
+    publishedDateTime: 2023-09-15T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-duality-of-ai-in-cybersecurity-risk-factor-and-enabler/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
+    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
+    excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
+    publishedDateTime: 2023-09-18T07:01:00Z
+    webUrl: "https://semiengineering.com/quantum-plus-ai-widens-cyberattack-threat-concerns/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/quantumsecurity1.png?fit=1937%2C775&ssl=1"
+        width: 1937
+        height: 775
         isCached: true
   - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
     excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
@@ -115,24 +133,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Researchers develop algorithm for safer self-driving cars"
-    excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
-    publishedDateTime: 2023-09-15T18:12:00Z
-    webUrl: "https://techxplore.com/news/2023-09-algorithm-safer-self-driving-cars.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
-  - title: "New report sets out Government steps to make self-driving cars a reality"
-    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
-    publishedDateTime: 2023-09-15T11:43:00Z
-    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 3
 
 secured: "yMHhalguMhVGHH2JN2OPQqXwE0TtNvRFyPMbmUE944c42iBlinUJgWF07Dn2u/nNpybTSi5R2x6yLghAl/JrtYRVm1BDN9LrQ82LQIFaZ/3JbVtsnKOuKiUvFh4F5EQ1p+RUZmbZ90lnox1mcAi3hHFw7BsDxxY2kdwhSEsSowRn/A6EmwICqwgw4SjWwfA/dHjQwZ5uzOqOuD9NFNoyvMjDpyyuXG36SuvbI6aYTN8VRhyWlM+9pwWGmWrTMMmZyuA2MGIFWwmZISoUpZCCG+35DuPzB2wvjWXGezmx6/blxNqstALleGqZEYKiIie2lfaB8QuhDYkqwNFT9VpTXIivjie+MPSzadpHCHGlSA1aG2ZCl1BZYQqvqx5iXZCvcPzjzX0pGpQ4Xl1ekHeBXDharnnHcUkZ6dxgMU3Z7MmCc1WVG1s58laJRE/hHIWu2EBwpeFmVe+wxR3RoIk0ylcO2aoelG2buDyg4jZjqt76G4T0EW4d3oaCYi+amRwD8mWD1UdbkGqxOhKafVfLHg==;kQbgSxsh5eUhS4AdT4nd6A=="
 ---

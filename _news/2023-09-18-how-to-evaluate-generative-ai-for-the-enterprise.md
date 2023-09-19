@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-eva
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -112,7 +112,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
         width: 3000
@@ -168,6 +168,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
         width: 754
         height: 416
+        isCached: true
+  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
+    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
+    publishedDateTime: 2023-09-18T20:14:00Z
+    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 36
+    images:
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
+        width: 688
+        height: 507
         isCached: true
 
 secured: "ef3kvw4pXHykwAGGFPSJ0RhyR80qAXwSfFyA7bDDD6tCD9AlxLMevlfPlcIxizjWAG+Ky57m3eqS2eh7SPrlLqzFit+fkC4Qf8aoIuWFuaB0EZeRYagKp3/u3S+khKt+nhJn/LfoK1+laZt53Ou7GwqOlwTxcvk6YmTu9jFwl2YYiGstt7f+3tfV3E2WkI0oKhJgcMJjyCybvDG1RQm9s6EZIcitDk7ksRT3UaOUR/YPaCAIIzHuU5d6RNZbP1PEC+4bUUVwl/NmIBP9rFnX9n3qDFfuFNmAMHP4e0q47oOfdKmDgoAXr47MXQjJMgq/X1OUeTu0TCZ70SBFSMUnjeHJvWLPndTEUJO4YkPF9tE=;GSlSn75a0eCKlHmPf9eqcQ=="
