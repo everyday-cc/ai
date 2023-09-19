@@ -37,6 +37,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Could OpenAI be the next tech giant?"
+    excerpt: "The creation of a new market is like the start of a long race. Competitors jockey for position as spectators excitedly clamour. Then, like races, markets enter a calmer second phase. The field orders itself into leaders and laggards. The crowds thin."
+    publishedDateTime: 2023-09-18T23:46:00Z
+    webUrl: "https://www.aol.com/finance/could-openai-next-tech-giant-204518392.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "RE9iuyGeyK7g4v1tHZucZL6AkZKSTptD7k3YlPg8iR/afdk4/5i8zYoW0SD9VgkhCMMZFH4GTSVWTKquuixMWc3jMTUmYjLVvgMQJKm5TqzF4q/QCwCDjDR8gih+5uN54VhIGO5NWmt838HQ2eNBG1zmz9Tv0NxqRoWHpKzDOf29s2tRGL8gxL6nm8eHZPQAvefbg7N8JZt45hKlAjKADl22uN5FbmfS1uxupzI6k5YzsMN/3KilLi5hfh5YTDRd3FdIv0hyAD3Oa/XALaI82Kz+Ex2o/CufEej+J/F9dhRSB9TSWWGK8KpVoJCaw0wPJkz9YLElUMk1O/9H8r0kp5u1VLPHpYwylp8qitKiQ9QRo3r4k981iMfb5urIWA0xVJcSe+K6POKnHIquYPiyuPThOcRyn2gqrKxTIJbgZt/tdNkfb4kXnVND3Nz+T0JGR/lMbX3XU1JMVm9MW/+PIPcJz17kVWSgAhL/rDeGvpdG/gSaY7shSvsoWJqYaF4Qge/gLZBnu83n+HlHwtMiYA==;AHZmNxlcn6e9YEbihNVZyQ=="
 ---

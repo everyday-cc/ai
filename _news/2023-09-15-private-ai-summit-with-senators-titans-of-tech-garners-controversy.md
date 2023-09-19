@@ -46,20 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tech Titans Meet Lawmakers On Ai Regulation"
-    excerpt: "Top executives from some of the world's largest tech and web companies have reportedly concluded a closed-door meeting with U.S. lawmakers in Washin"
-    publishedDateTime: 2023-09-14T08:33:00Z
-    webUrl: "https://menafn.com/1107066047/Tech-Titans-Meet-Lawmakers-On-Ai-Regulation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/14/C_11f78image_story.jpeg"
-        width: 678
-        height: 452
-        isCached: true
 
 secured: "MNRCKPEgwM3cLPU8ZKRPo3TQIxhhJ4ZPYADYuKP8dVXRkAiNnN6j89zXiZWTsrF+aEiANzMHOWI4xZVq+DBa0ah/jWeiiFFF3mnxoXMu5r8yvF+VB1kP2xW7nKWrVHVGf5J0kmaF3Eo2WMVzih1yGT4sG69cfx628DT30P8ztjA7zuknw7g8lGTfgudfVg2Wz/tZuREcjL4trfOi5TiAmAhY0L57sYP1FxZUPac218H2rEaphxparTcn6KoJbKGjCsI3Mo+XLtTYCyu5KBuhHuEQLYEewopqDl3BruFH7lQd7WgxKsw/UrUMzkY2KfL7b1IvjJGOcJhH4EZhGRs/Kg75zIGhNFSdUq70uHWdHUVmPICDXMVqO+EDNfUKk460aWE06xpsUtFjhtB0KgxnBHLrXVyRbkapnF5LpS4TydxRTfcpMbB7pdZWUHUHYktUVFkMqSiTruXNZ/+caUUlAV+dCid4rJY0G0/dFxqTSzXp0FB0OxLe6AdBgkmbHsGtcSoj4CbHXrOjFIfPYp5IJQ==;B/gF41idzAnwFmSQ7IqkvQ=="
 ---

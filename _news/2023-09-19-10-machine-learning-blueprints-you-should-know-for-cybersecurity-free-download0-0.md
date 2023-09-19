@@ -55,22 +55,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Mobilicom Is Leveraging A First Mover Position To Provide Robust Cybersecurity Solutions To Small-Drone And Antonymous Vehicle Markets ($MOB)"
-    excerpt: "Mobilicom Limited (NasdaqCM: MOB) is proving that pioneering a market has its advantages. A result of that, at least for publicly traded companies like MOB, is shown through an increasing share price,"
-    publishedDateTime: 2023-09-14T08:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34569734/mobilicom-is-leveraging-a-first-mover-position-to-provide-robust-cybersecurity-solutions-to-small"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34569734"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34569734"
+  - title: "Three insights you might have missed from the ‘Cybersecurity’ AWS Startup Showcase event"
+    excerpt: "In less than two weeks, the 20th annual Cybersecurity Awareness Month will kick off in an effort to raise awareness about the importance of cybersecurity. Now, more than ever, data protection has evolved as interconnected systems and networks become increasingly more complex and as the threat of ransomware evolves."
+    publishedDateTime: 2023-09-18T16:26:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/three-insights-you-might-have-missed-from-the-cybersecurity-aws-startup-showcase-event-awsshowcases3e3/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
-    images:
-      - url: "https://www.abnewswire.com/uploads/1694625298.jpeg"
-        width: 752
-        height: 408
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 10
 
 secured: "a6/ajZO8Shh7GQIzH3pyH9LVbSVVYNcL1RkD2Z4JZ7iti1rX7h6VhCWswEDY0KPMWARegs34w3o2EhgA/SnmTE5ejLgXOnakviB/3o6PYlvO3YICz/CNvnbXsK7VxiLqw5oXLzmnfouLvxMoHfrhux9cEAj/BSGW2FdcwtBuzY2cP3GHcgbqEt0ncwLxXHqp2cDoy1PUvpp7ty4qEDKhwg3Rw7EC2ebYx4zxuG9fcJbiu2CEjUzAbNDlH9FfMuOeFkr/a45/yG/ZEAANky+2+sW3I1AeYXXQBj33KmyZiaZQOEYDcBzRys8AQVOmAhd15O9kgZ0EN7GbC0oSazWhTv0nuFDKmVZEE1geSa6uAAQ=;Xx7OzpHaKcUzifjCHI/D5w=="
 ---

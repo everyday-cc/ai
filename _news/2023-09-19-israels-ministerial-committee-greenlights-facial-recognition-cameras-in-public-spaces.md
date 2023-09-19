@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Proposal for Israeli police use of live public facial recognition goes before lawmakers"
+    excerpt: "Israel’s government is moving forward with plans to deploy live facial recognition in public spaces for criminal investigations."
+    publishedDateTime: 2023-09-18T22:12:00Z
+    webUrl: "https://www.biometricupdate.com/202309/proposal-for-israeli-police-use-of-live-public-facial-recognition-goes-before-lawmakers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 11
+
 secured: "zp2SoenNq/LOyq0/cbkv+NQjKjtB4Les9J22+MIIXjm8F4HWR1LuDhRS1IWmCUfv95tUVd7uxktB8A50GTqSqA+JbmfbCohbjFGl0zN6tctaxkkcXIgjYPB3bWrjIIfugels0GWgot6Bf73ZxI+RB8k8ss3g6d+4AXxjHeG73oAZ1MzCgHVAjBKVVM/ADnBVbcwShTVznVHjzUAUrvvlyMexzwptS7ekNtGp9/i9FCurdKKRUZi3KY9grKn1AXAD9JR/8KPL8uIPP0nqQm9TZb9DA72kBZFgrpKhG0+1gNFTj4rl86qvYaPRTa/rlYtHinM3Q3qo36KZlddjxREQEvhlh6cTUcAbHYvx8uMjxT6VzgP5jicyQvkb/FeMiM1P4lZbWCyvIaib8VEOGonmnY9WPEmHlVjfmmlbT3pKR94hVe2K6abjIDvzM32Hf+nl0LZvjm5jU6wMhWIw4mSDITHezEsCDj9xOhYrX8kufYKxG7GeEOHwl7p6xn4iWj9iZNBTzrHtWZo2yategOX+tg==;VHvQr2ymItST1D7TPvvm8g=="
 ---
 

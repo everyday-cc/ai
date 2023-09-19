@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
         width: 700
         height: 350
+        isCached: true
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
         isCached: true
   - title: "Alan Turing’s Influence on Artificial Intelligence and the Emergence of Transformers"
     excerpt: "In today’s world, artificial intelligence (AI) plays an indispensable role in our daily lives. Acknowledging the pioneering minds that paved the way for this transformative technology is of utmost importance."

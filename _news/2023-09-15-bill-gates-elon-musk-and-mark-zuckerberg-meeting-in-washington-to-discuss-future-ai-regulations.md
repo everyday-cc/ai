@@ -34,20 +34,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
-    excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
-    publishedDateTime: 2023-09-14T05:12:00Z
-    webUrl: "https://cointelegraph.com/news/elon-musk-sam-altman-bill-gates-discusses-ai-with-congress"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "wpMTdD0iyz6D+ox9247N+LvS5V4vDwGwCzYxTZHIPqK6V2iGyHlQgIyKF7YtENxiPjQA0TTz9HpU+7GsKxrBG/xs/+6znrtz028wlIQYi35QvPvZMYW3rJRrz9WDPO9JpBWK3mTFPh5gSqPcwdrG57wi98q+P9B8Rgs8ZVbajkZijcBFjIw9SdgFs6tRvKvpgKzmF2CF7Qfqdbn7Pptef7ZpG7TMH6WsfIzzZrb/Oziza2q3Ldq6XLvgIJ0Xmzsp8+EicnEaEGmnVMk6dQjdwLfE4oF6HaizKLN+8EtxzdHdpc6MesAD4CES+dEudRLfwnGYmQt2qoMDL9/91RVBpmHtHQkwNT1LIqCYzeEqNmgnLW97zJKNZkd6EwjzlD4z6b6WN6RmsSKnn2Yo9MYgNrXLDc8YeFhuraN/LjeXg6Yd4oBqt0xb+eapV9oO3m0eDvH0jOgdF3Mg2p+5tht2ifK8Y8aVVg07F5ZxEVks3oZzAuIsc8xB7PcUp7B54eUCvnQBvOHa9L7f0wuLY/dHEA==;PGYR2IeXx0rS3FWw8rJy2g=="
 ---

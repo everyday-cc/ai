@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-09-07-5-neat-ai-startups-from-y-combinators-winter-2023-batch.md",
+      "title": "5 neat AI startups from Y Combinator’s Winter 2023 batch",
+      "excerpt": "Another intriguing Y Combinator startup tackling challenges in AI operations is Ceralyze, founded by ex-Peloton AI engineer Sarang Zambare. Ceralyze is Zambare’s second YC go-around after leading the AI team at cashier-less retail startup Caper.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "originalUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "publishedDateTime": "2023-09-06T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
       "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
       "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
@@ -350,6 +402,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
+      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
+      "excerpt": "FORT Robotics, a pioneer in robotic control solutions, announces that its Endpoint Controller received SIL 3 (safety integrity level 3) functional safety certification, as defined by IEC 61508 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1095,101 +1181,6 @@
         "IBM AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-baidu-launches-a-slew-of-ai-applications-after-its-ernie-chatbot-gets-public-approval.md",
-      "title": "Baidu launches a slew of AI applications after its Ernie chatbot gets public approval",
-      "excerpt": "Baidu also announced that more than 6 million users have used an AI-powered tool that sits inside its Google drive-like cloud product. At Tuesday's event, Baidu also showed off displayed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1693906127",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
-      "publishedDateTime": "2023-09-06T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-banks-must-promote-more-research-on-ai-usage-says-sbis-cto.md",
-      "title": "Banks must promote more research on AI usage, says SBI's CTO",
-      "excerpt": "“There is a need to promote more AI research and researchers in the banking and finance sector,” Balaji Rajagopalan, chief technical officer at the State Bank of India, told Moneycontrol on the sidelines of the Global Fintech Festival in Mumbai on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/SBI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "publishedDateTime": "2023-09-06T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -54,22 +54,15 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 43
-  - title: "Mobilicom Is Leveraging A First Mover Position To Provide Robust Cybersecurity Solutions To Small-Drone And Antonymous Vehicle Markets ($MOB)"
-    excerpt: "Mobilicom Limited (NasdaqCM: MOB) is proving that pioneering a market has its advantages. A result of that, at least for publicly traded companies like MOB, is shown through an increasing share price,"
-    publishedDateTime: 2023-09-14T08:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34569734/mobilicom-is-leveraging-a-first-mover-position-to-provide-robust-cybersecurity-solutions-to-small"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34569734"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34569734"
+  - title: "Three insights you might have missed from the ‘Cybersecurity’ AWS Startup Showcase event"
+    excerpt: "In less than two weeks, the 20th annual Cybersecurity Awareness Month will kick off in an effort to raise awareness about the importance of cybersecurity. Now, more than ever, data protection has evolved as interconnected systems and networks become increasingly more complex and as the threat of ransomware evolves."
+    publishedDateTime: 2023-09-18T16:26:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/three-insights-you-might-have-missed-from-the-cybersecurity-aws-startup-showcase-event-awsshowcases3e3/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
-    images:
-      - url: "https://www.abnewswire.com/uploads/1694625298.jpeg"
-        width: 752
-        height: 408
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 10
 
 secured: "4414G2clvk/n2b/DPufuISqt5BqBubliAFyyMiBB5W4w4U0btaYlzjz8CC5/36g4Chcy+yAfjVbjmaKDzqkZW7bCp1bOcqojkW0hUFGNKEz6d8WddEyIHDZNi6zEWy07zAfQirjskwyRXBTZedNgirzrNaVw+xAoGCItrxAlrQ2/bFeWxKH/2pbxhKMvWKD1ympHHV31iiVx3A8s+y2Ncgt/p2B6QhFBEl137xPRd0CdUd07kgY3m2DvvxmboCXUJe19Q0a1UUn3JrpdxsoPh9R5117xt1XdBaDBN31HAfqUc14HqI0iCCXangtp4vWJdp0l8OnQesdPzv7KM5uxAHp0Y/KBYWIAMQFumWsXxkv2GHUNYgZls1npjRpl7Xq65Sgcg2U8ikgNCwSDTgKG6HcLI3rnfmAZtAHeSZtq4Ypq2nqbHdYWkmjxBk0gpbb8w85XJiylU2hGlb0RVQMe3pYQWAa7tv9cm98XaNRTCgsUg/AOD1pcIGlFNl+zznOeAs/kW0GnOypP9OGo2QAOHA==;NLqFlTmMIoqjzL3nZWJrDg=="
 ---

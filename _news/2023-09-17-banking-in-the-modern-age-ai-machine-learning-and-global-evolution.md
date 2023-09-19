@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learn
 webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
 type: article
 quality: 71
-heat: 131
+heat: 133
 published: true
 
 provider:

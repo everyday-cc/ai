@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-br
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
+    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
+    publishedDateTime: 2023-09-18T22:16:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
 
 secured: "LUBgNY6ZsZpQbi+xurn1mESfqPf/62PHip/8BBb0DJSIG+9PzBtjV9Tr0W0C9etEPCWACvZTrXBwgS86Y+BW/x/QsFPw4Px1RjXF1X/eMVIle/XV7G9VHRlDnAnM3bTf4V0yP1hifp2B1qsaJBvLn45iLtumOZAZQ6ndxCCYBCXpDrm9fCETkmM0VY9PeW/ajGFiGyMFohJKkm2ROk6CBjuaiDnfUQbeiMMGBKt3MFlRqaK2/44adO3rO56rE9QOirU+n01EWw795yx9mekPjmduWA3uYXTrc6W4IlXB/9uDuwSkK4EB3r5FFjRi1hYdgSnSeXIh8o6TC1SIJBp0a7hbCPP53k1vCJsSFkn76wA=;g1mvSSh4t39KJ8t/oUjhWQ=="
 ---

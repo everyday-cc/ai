@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk, Mark Zuckerberg and Sam Altman talk AI regs in Washington"
-    excerpt: "The world’s web and tech leaders met with Congress to discuss the rise of artificial intelligence and the pressing need for its regulation."
-    publishedDateTime: 2023-09-14T05:12:00Z
-    webUrl: "https://cointelegraph.com/news/elon-musk-sam-altman-bill-gates-discusses-ai-with-congress"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvNGRkMDAwYWYtODdhZi00MWNiLWJhZDQtY2Y0YjAzNmI2ZDRhLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Bill Gates, Elon Musk and Mark Zuckerberg meeting in Washington to discuss future AI regulations"
     excerpt: "Spread the loveIn a groundbreaking meeting, three of the world’s most influential tech leaders – Microsoft co-founder Bill Gates, Tesla and SpaceX CEO Elon Musk, and Facebook CEO Mark Zuckerberg – convened in Washington,"
     publishedDateTime: 2023-09-15T14:20:00Z

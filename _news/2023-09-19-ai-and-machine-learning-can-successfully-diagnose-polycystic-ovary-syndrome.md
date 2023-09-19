@@ -2,30 +2,26 @@
 category: news
 title: "AI and machine learning can successfully diagnose polycystic ovary syndrome"
 excerpt: "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,"
-publishedDateTime: 2023-09-18T20:49:00Z
-originalUrl: "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html"
-webUrl: "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-ai-machine-successfully-polycystic-ovary.amp"
+publishedDateTime: 2023-09-18T22:09:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/09/230918153140.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/09/230918153140.htm"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-and-machine-learnin.jpg"
-    width: 1089
-    height: 1280
-    isCached: true
-
-secured: "09Ipm6Mz8VgH85LTE0qZq97FHOb9P+T7jayF4riE9fHvBlfkh+vnybS7cBBGLVSs9YIJJSmRzFR8KVsgHXZjgXHGhoKscOgNdzgtE9mPz7Vbmp2ZSnuKURA+DKhZOwKYHNtw9ZZmfb1LictaTaJFLs5zvH/g5ZFmCji2xfsPJt7t3tG9VjcfuFgAQNCRY0r2+sL/1GFhYgkFZRDuOAjEP62W8jga2FiZSzk1hZ1i+OYOnu09yMDUmxF/RYBo6JQBs+yiVNUyItQTSmzkqBIMpQDyibBOJYxXtfgqjlISVxZJ3iLWNBnG6Q+KFCuTVZ3rnvmunmtSnETF8o+c9GM7T3xeiAzA0coMgyJinjSMTdM=;OA0RFtx1yvNROGZLm1e2gw=="
+secured: "a7gPBIKqOjXAGkh5Czw/eQXv4hIKK02hmkjOqGUrZNkd+kUrf1qCI0nVDetJv3j7nY6LLOrut3xuT1ieicaDbvDjXm/lbLZjKrcU80PYITDxcxKL3E5Y8IRMWxe54W7bZOP0GalSmn6yf5v03ZMA4y/TFkqr/8vlAgPLA/fhwoJWnoxd5u8ckpsRIj2AlByJJUobBMn8v7LBU7WMdW+AWDaUXuxBOZmvjxGJ4rAfWqe72nHLJlE9IeiK5AzcScPV6eShQYTPEB6Zb8WG7VP6EPq8mQ+a66Tf9lyYUasKN8A7ciFqZYPPmhTPMYc8ssF58OSiyQ/GmoDT6Ol1nVQVhs2WZg9YIHXq7+zf2ShowqI=;6Nn4lP0euoGNuGsuCpBZlg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-07-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions.md",
+      "title": "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions",
+      "excerpt": "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-07T125734.136.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
+      "publishedDateTime": "2023-09-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
       "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
       "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
@@ -931,49 +974,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-07-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
-      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
-      "excerpt": "FORT Robotics, a pioneer in robotic control solutions, announces that its Endpoint Controller received SIL 3 (safety integrity level 3) functional safety certification, as defined by IEC 61508 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34292136",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34292136",
-      "publishedDateTime": "2023-09-06T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-07-synopsys-opens-the-next-chapter-of-ai-tools-for-chip-design-and-manufacturing.md",
       "title": "Synopsys Opens The Next Chapter Of AI Tools For Chip Design And Manufacturing",
       "excerpt": "The EDA leader has generated over $500M to date in AI tools and technologies. Now a new data analytics solution applies data management, curation, and analysis across the entire pipeline of chip creation. Synopsys was the first EDA company to apply ...",
@@ -1077,6 +1077,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-07-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
+      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
+      "excerpt": "FORT Robotics has announced that its Endpoint Controller—which brings safe, secure, dynamic wireless control to mobile, automated or autonomous machines—has received SIL 3 functional safety certification,",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety",
+      "originalUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-vision-guided-robotic-manipulation-a-pivotal-component-in-modern-robotics-renaissance.md",
       "title": "Vision Guided Robotic Manipulation: A pivotal component in modern robotics renaissance",
       "excerpt": "The DRC aimed to cultivate robotic systems capable of functioning as disaster response agents. The challenges in the competition spanned tasks like turning valves, climbing ladders, driving utility vehicles,",
@@ -1117,58 +1151,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-5-neat-ai-startups-from-y-combinators-winter-2023-batch.md",
-      "title": "5 neat AI startups from Y Combinator’s Winter 2023 batch",
-      "excerpt": "Another intriguing Y Combinator startup tackling challenges in AI operations is Ceralyze, founded by ex-Peloton AI engineer Sarang Zambare. Ceralyze is Zambare’s second YC go-around after leading the AI team at cashier-less retail startup Caper.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
-      "originalUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?resize=1200,674",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
-      "publishedDateTime": "2023-09-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

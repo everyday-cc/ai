@@ -34,20 +34,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 61
-  - title: "Patterns And Issues In AI Chip Design"
-    excerpt: "AI is becoming more than a talking point for chip and system design, taking on increasingly complex tasks that are now competitive requirements in many markets. But the inclusion of AI, along with its machine learning and deep learning subcategories ..."
-    publishedDateTime: 2023-09-14T07:08:00Z
-    webUrl: "https://semiengineering.com/patterns-and-issues-in-ai-chip-design/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Shares of AI chip designer Arm jump 16% after largest IPO in nearly two years"
     excerpt: "UK-based chip designer Arm made its Nasdaq debut on Thursday ... After a nearly two-year drought in the IPO market, AI kingmaker Arm started trading in New York on Thursday afternoon with 95.5 million shares under the ticker ‘ARM’ (ARM)."
     publishedDateTime: 2023-09-14T19:56:00Z

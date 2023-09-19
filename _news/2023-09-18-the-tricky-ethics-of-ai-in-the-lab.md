@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Alan Turing’s Influence on Artificial Intelligence and the Emergence of Transformers"
     excerpt: "In today’s world, artificial intelligence (AI) plays an indispensable role in our daily lives. Acknowledging the pioneering minds that paved the way for this transformative technology is of utmost importance."
     publishedDateTime: 2023-09-18T12:12:00Z

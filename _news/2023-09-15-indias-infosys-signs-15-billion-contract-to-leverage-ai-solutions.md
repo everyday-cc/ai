@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
 webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,53 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies"
-    excerpt: "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),"
-    publishedDateTime: 2023-09-14T06:42:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp"
+  - title: "Egnyte Announces Industry-Specific Artificial Intelligence Solutions"
+    excerpt: "Egnyte, the secure platform for content collaboration and governance, today announced vertical artificial intelligence (AI) solutions for the Architecture, Engineering, and Construction (AEC) industries. The new solutions will simplify AI deployment and improve model accuracy for customers in AEC industries."
+    publishedDateTime: 2023-09-18T21:37:00Z
+    webUrl: "https://www.constructiondive.com/press-release/20230918-egnyte-announces-industry-specific-artificial-intelligence-solutions/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bhashini Will Truly Democratise AI in India"
-    excerpt: "Bhashini leverages AI to break language barriers, enabling underserved communities to access government services seamlessly."
-    publishedDateTime: 2023-09-14T10:45:00Z
-    webUrl: "https://analyticsindiamag.com/bhashini-will-truly-democratise-ai-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/bhashini-AI.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Indian entrepreneur's UK start-up using AI to transform services"
-    excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
-    publishedDateTime: 2023-09-17T12:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/indian-entrepreneurs-uk-start-up-using-ai-to-transform-services/articleshow/103735266.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
-  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
-    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Construction Dive
+      domain: constructiondive.com
     quality: 17
 
 secured: "7zQtZ6wlY8Nqw1FbCk/YXwB5HF765+I4FqR8giNyt+b4qHXk8T44DRQwHz0Clh0D9y68/ZkRR8ZvyO2KY+ey6dG5BlTfQURbF89OcNxqkkNhTqUkwc3ptnEUWv1XV0QlALPmFeRJoEsdTiRZWiKMsS/LSk5R0oL6L6lpKRT5JxhAJCsSOYrHNmiobQC6NSyNhn0dpr9G7rPC0vGw2vqwAnbY8toDANmzvHp3J/BlXDLlX87zznsAUTMOAFIt0j+ox/H9HrFJwG9D7b74Q8I8YpWVbwEiNBlKcPW8VckRskmRucjKMGpPAxL17BxXV3POyCssWOXEdMQiQ531Qb/a464nLTRr04C8vhO7+AJJZLk=;+WwE/qam8nU61HCd08PpIA=="

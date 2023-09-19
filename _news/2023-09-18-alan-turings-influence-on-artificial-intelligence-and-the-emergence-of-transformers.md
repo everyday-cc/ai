@@ -57,6 +57,20 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "6DMxu2NYRtuPACo4d/+TuUoSoBfYm4YKcptc0wGBtnqO0QEfcVoHJzHlGYJH6dwfEXpxI65SV456OZ4GlgQC09kigjtU1W5SuhrNiIBwUGBQW9GQH2rHeLjTpEaj73drdyEmpjVIoos3BiVBMwLS076MkJ6CZxksdmNm82wsB1nTQyZfYOEyPZWN+CZpWNeFGzPUeWS00jfgFKrw1NeBPrru6mXcan9HbCoU/Oi2lrMXHf4SRJhlV7yboZzqd1KpErlM46xLH+HbrL+VCFgK6n9L9k632Eh6HmvoHJWdhWplpJjJoeV5Hgee3sp92QC4jVp2/s+Nx7NeqT9gUI44CbEDWG/KpZ+XeLqWAJndavTUNSR8GRUX5mBTZnJuC0Hnyi+dTk57AbNh+QJ1kSU348VaaRjMmaRTuotVXa0fw1qQJRq+kCyY5HQ36l5GKCPFOJ2bGgPnABjj5sLJQcR9Pm/z2i65ahYeiBiDQ586G8pI1K4B1y6MrP97L0+vYK0bmG7InoSXdlQ+rbatHJ+k0Q==;mgGQ8oCdwpIQFlGKmpyx2w=="
 ---

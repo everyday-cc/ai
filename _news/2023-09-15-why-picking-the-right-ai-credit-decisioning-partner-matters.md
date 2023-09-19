@@ -79,6 +79,15 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
+  - title: "AI is not just for cheating"
+    excerpt: "A district in the Inland Empire is testing what the superintendent calls an “Alexa for the classroom.” Los Angeles Unified has rolled out its own AI-powered virtual assistant. Silicon Valley-based Khan Academy is aggressively testing an AI tutor nationwide — after its founder had early reservations about mixing the tech with classroom learning."
+    publishedDateTime: 2023-09-18T23:20:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook-pm/2023/09/18/ai-is-not-just-for-cheating-00116634"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 19
 
 secured: "rrNZgyiAs59SiXKUpbzMeHi4JD05X2L8kkLS5Nc1J4L5a8TUyaZ7vDKo9ylo7GmZV0FURgtLGhy0m0/zZhyvAeOInsOrlQXr63bJdSHBqyM7TH+HgiiawFpWljYyJUyjsObtkJvSF85eaj2yGWjw9Rq7JjdL+sVu3hJMY9B2fSXvqxcwMSYUIn+ir82egpdEtoD6s7UwUNMtoZJUBTyDYwegpuY01Xa1xOwHMdzOGE66Fbk32uEjWC2JGxNl7xFYUUhGySkhQOvs1g1iqeFwR5qJAXJH8DV1iLzFMB4HGtI7H3C6j0LMH2Iaf1nJ1hq9EQkhFKXol6c4cMhVCrBPepBBLGfdMBKV6ttM1bOH5PU=;vChZOcVGPdxWyYyErLVNuA=="
 ---

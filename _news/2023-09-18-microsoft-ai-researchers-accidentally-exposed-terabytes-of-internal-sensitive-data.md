@@ -244,6 +244,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage"
+    excerpt: "The Microsoft leak, which stemmed from AI researchers sharing open-source training data on GitHub, has been mitigated."
+    publishedDateTime: 2023-09-18T22:15:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 59
   - title: "Microsoft Adds SMB Security Controls for Windows Insider Program Testers"
     excerpt: "Microsoft has added Server Message Block security measures for IT pros, which are now available as part of an early Windows preview release."
     publishedDateTime: 2023-09-15T22:29:00Z

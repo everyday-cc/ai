@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousan
 webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
 type: article
 quality: 51
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
         width: 620
         height: 372
-        isCached: true
-  - title: "The Australian government has revived facial recognition as part of a national ID plan"
-    excerpt: "The FIS is a one-to-many facial recognition system, using a single photo to check against a database of images to identify them."
-    publishedDateTime: 2023-09-14T05:11:00Z
-    webUrl: "https://www.startupdaily.net/topic/politics-news-analysis/the-australian-government-has-revived-facial-recognition-as-part-of-a-national-id-plan/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 31
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2023/06/AdobeStock_605339354.jpeg"
-        width: 770
-        height: 513
         isCached: true
   - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
     excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
@@ -114,21 +100,19 @@ related:
         width: 1400
         height: 642
         isCached: true
-  - title: "Voice referendum: Aboriginal traditional owner stands up in front of Australia's National Press Club and declares she opposes the Voice before man yells at her and tells her to ..."
-    excerpt: "But these are not promises the Government can make.' “Chapter IX Recognition of Aboriginal and Torres Strait Islander Peoples, 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First ..."
-    publishedDateTime: 2023-09-14T05:57:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12516779/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+  - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
+    excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
+    publishedDateTime: 2023-09-18T23:28:00Z
+    webUrl: "https://www.theguardian.com/australia-news/video/2023/sep/19/indigenous-voice-referendum-ama-what-will-happen-if-australia-votes-no"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
+      name: The Guardian
+      domain: theguardian.com
+    quality: 23
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/09/14/06/75416699-0-image-a-7_1694668974805.jpg"
-        width: 636
-        height: 382
+      - url: "https://i.guim.co.uk/img/media/5dfd425ce0915c0be8196f465ad2e10f0311db65/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc3eddd5dc9af7c524d8a1bfba322331"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6ONX22AkLB1gKttkDQhfQ2jf7SYzNhftfv02Qxd3iwhIaVLAEumKGqWEjv1TupiOU1Q4NjpdSqcPORVe81F25WGuQCTn6CIJRkFin28/5VUDKOvcsMrNzZXnHvIb0K/LP1ECqIxocYNzSeKZZ2KOdvWCJd65dYR9D46lNwt8HqoANYcqVdCYtHeyo3x8/IaKb/LNl5GPb2UO2iA4GELInxqW0LqcnbB2UeFBE0L2UekdEhBO5J9hxKwlMaVvsUppTUGW+EzB1y8H0UiuXkvUIXNEJKWaJH5UcLi8a6pmDFdxP2vHj9tpOTYFx0+F81rD6t/Kl4bwoWVlbq5vkraqBfDDw8OY8To2CyPB43H3eXz44I7mv/ooRMqipW5cDffG76vSGodkwVf8AnryL5LgCFhCSC/dyDwi5RIlH1VRRfleUvenQp+t/VAN/ohCU4YLSHH/jA1TDAIoBsdK2jQQaJQliRh9wiqjkxSNkzv8Io85EKClKg+bsCatbEpsMI4t/Bs2fKx0X+EHofgc6JP/YQ==;czbRjvZEHbNGuBaLY1czNQ=="

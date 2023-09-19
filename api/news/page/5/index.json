@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-14-eu-to-let-responsible-ai-startups-train-models-on-its-supercomputers.md",
+      "title": "EU to let ‘responsible’ AI startups train models on its supercomputers",
+      "excerpt": "The European Union has signalled a plan to expand access to its high performance computing (HPC) supercomputers by letting startups use the resource to train AI models. However there’s a catch: Startups wanting to gain access to the EU’s high power compute resource — which currently includes pre-exascale and petascale supercomputers — will need to get with the bloc’s program on AI governance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/",
+      "originalUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/",
+      "publishedDateTime": "2023-09-13T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-pitfalls-in-artificial-intelligence-at-least-for-now.md",
       "title": "Pitfalls In Artificial Intelligence (At Least, For Now)",
       "excerpt": "AI makes stuff up. It starts with one word and then predicts – based on biased data – what the next word should be ad infinitum. That’s what’s called a dumb system. But when you ask AI to explain how it arrived at its answer, it can’t. That requires intelligence, and it exposes AI as an impostor in the field of intelligence.",
@@ -1161,57 +1212,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-how-to-prevent-ai-from-eroding-employees-critical-thinking-skills.md",
-      "title": "How To Prevent AI From Eroding Employees' Critical Thinking Skills",
-      "excerpt": "As AI continues to change the workplace, companies must ensure their employees are empowered to think critically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65007fae9d3d8e4c8c3e6761/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
-      "publishedDateTime": "2023-09-13T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

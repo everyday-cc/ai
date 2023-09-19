@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
     provider:
       name: manilatimes
       domain: manilatimes.net
+    quality: 19
+  - title: "AI is not just for cheating"
+    excerpt: "A district in the Inland Empire is testing what the superintendent calls an “Alexa for the classroom.” Los Angeles Unified has rolled out its own AI-powered virtual assistant. Silicon Valley-based Khan Academy is aggressively testing an AI tutor nationwide — after its founder had early reservations about mixing the tech with classroom learning."
+    publishedDateTime: 2023-09-18T23:20:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook-pm/2023/09/18/ai-is-not-just-for-cheating-00116634"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 19
 
 secured: "dtbV+UEmEtiAGUZvd2+VljaBoJgN/LDge5ObeaTWuhEZa/8mLWXXekN+cil8mmyC3fgpnb1QRj5dOfGCKY5c62L3u8cB1ZbsjfW8dGToNI9wpwSEGGSYSmlI2T/U18zlN9gavIy6e4AjOt5GLSztx6x8EKowqQwyBEMpZp+uoplNQHNiKGlo6I10ru/haVDKGXQRvxzSYIvSq0pqPl5YX4NUYOBT/Po7vSXKJOpXVYZosW2Ygx3QX4ft4FFUDbHBZkpSf6oHW7MV+i7dQtQjuP4qmDAOG7Ko2KV16jCcPrpE5Fmi7cZRXBpCmSTKUPXvxcikMwfhm+WWHOo2hrbaNGEnLn3hi+3nANqrM39Is4ZMy9tQit4qeD3F+2CNUI76toWDPhIRm2Y0/f7+Xi/0kvPTsE5vPXKApD4xweCWpZJGO8kXDS4XJIXBO5nlyqjoChVdCWOxfZsEW9wMVS6erQc7hRnjJ9IxnpgfXRZIVl1njymAPfGxiGNbNN7OPy074t2LHe3DMP2Pa8ot1Z2kWw==;8k9nZzOdd9b5KB6shOC0Mw=="

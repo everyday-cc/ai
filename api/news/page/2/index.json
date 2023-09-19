@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-18-ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily.md",
+      "title": "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily",
+      "excerpt": "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/",
+      "originalUrl": "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png",
+          "width": 945,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution.md",
       "title": "5 Skills For The Future: How To Proof Your Career For The AI Revolution",
       "excerpt": "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -104,7 +148,7 @@
       "originalUrl": "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -199,7 +243,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -251,7 +295,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -302,7 +346,7 @@
       "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -345,7 +389,7 @@
       "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -447,7 +491,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -498,7 +542,7 @@
       "originalUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -594,7 +638,7 @@
       "originalUrl": "https://www.zdnet.com/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -699,7 +743,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -750,7 +794,7 @@
       "originalUrl": "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1194,50 +1238,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-deepminds-cofounder-generative-ai-is-just-a-phase-whats-next-is-interactive-ai.md",
-      "title": "DeepMind’s cofounder: Generative AI is just a phase. What’s next is interactive AI.",
-      "excerpt": "“This is a profound moment in the history of technology,” says Mustafa Suleyman.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/interactive-ai2.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/amp/",
-      "publishedDateTime": "2023-09-15T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

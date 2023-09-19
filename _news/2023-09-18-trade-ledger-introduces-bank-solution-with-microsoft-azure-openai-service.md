@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introdu
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
 type: article
 quality: 105
-heat: 435
+heat: 445
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage"
+    excerpt: "The Microsoft leak, which stemmed from AI researchers sharing open-source training data on GitHub, has been mitigated."
+    publishedDateTime: 2023-09-18T22:15:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 59
   - title: "Microsoft AI researchers accidentally exposed terabytes of internal sensitive data"
     excerpt: "Microsoft AI researchers accidentally exposed tens of terabytes of sensitive data, including private keys and passwords, while publishing a storage bucket of open-source training data on GitHub. In research shared with TechCrunch, cloud security startup ..."
     publishedDateTime: 2023-09-18T13:22:00Z

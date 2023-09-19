@@ -25,36 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Thailand's KBank Starts $100M Fund Targeting AI and Web3"
-    excerpt: "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services."
-    publishedDateTime: 2023-09-14T08:37:00Z
-    webUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/"
-    ampWebUrl: "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp"
+  - title: "Writer raises $100M to bring its ‘full stack’ AI models to more enterprises"
+    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
+    publishedDateTime: 2023-09-18T23:13:00Z
+    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
     type: article
     provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
     images:
-      - url: "https://www.coindesk.com/resizer/J4n2CZKpFIA_YB1uT9pyyAOfKd8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MT4473XFL5GDBHPET54LSUNLZU.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_flat_illustration_thick_line_a_human_hand_holds_a_penci_61b67bb0-0835-4cac-8a0f-ec1cecbd6351.png?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 672
         isCached: true
-  - title: "KBTG launches KXVC – a 100 million USD flagship fund targeting global AI, Web3, and Deep Tech startups and funds with potential synergy in APAC"
-    excerpt: "KASIKORN Business-Technology Group (KBTG) – a tech arm of KASIKORNBANK (KBank) – launches KXVC – 100 million USD flagship fund targeting AI, Web3, and Deep Tech fintech startups globally with potential synergy in APAC. Asia-Pacific, especially ..."
-    publishedDateTime: 2023-09-15T02:10:00Z
-    webUrl: "https://www.thaipr.net/en/finance_en/3383341"
+  - title: "Writer raises $100M to bring its ‘full stack’ AI model Palmyra to more enterprises"
+    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
+    publishedDateTime: 2023-09-18T20:10:00Z
+    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 3
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/TBN_Photo_BOT-Digital-Finance-Conference-2023-scaled-e1694758222637-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
+  - title: "AI Startup Writer Raises $100 Million to Pen Corporate Content"
+    excerpt: "Writer Inc., a startup that helps businesses write and summarize a wide range of content, has raised $100 million in a deal that values the company at more than $500 million."
+    publishedDateTime: 2023-09-18T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Enterprise-focused generative AI startup Writer raises $100M"
+    excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
+    publishedDateTime: 2023-09-19T00:01:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/enterprise-focused-generative-ai-startup-writer-raises-100m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
+        width: 754
+        height: 416
+        isCached: true
+  - title: "San Francisco generative AI writing assistant startup raises $100M"
+    excerpt: "A San Francisco generative AI startup that helps businesses write content like social media posts and emails has raised $100 million and more than tripled its valuation."
+    publishedDateTime: 2023-09-18T21:46:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/18/generative-ai-startup-writer-raises-100m-seriesb.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "8oCYPRW7Cabi+cmLur1qppIC14H/45gDMWthPHv+KdZ+UjxAe7PZHipNRcCzb9wSmrRO+4zrEkFsMKfODLq43O4gxatcqjqKNkVRX7VkrT1RPi1r+dbLEj9wy77GK+XXLv0y+EQUa6ruO9rrxktnFFmRur7EfLGZpF2ZkVKa0by54895odWwP897CtUuXgRE1h63tp3/gDOoKxHcEZchyEMPQY7E4HE3Ggvg9Id7cjCtABBGvfDEm2gNm3KyS2w2LPYsC5tvw5gzgimo3ftAKQe8LykSGN0ngyA2bE2/EXaCvjSELqkbsBfLh8bgqTbWaOQJGzI2N/Qe8aNica1/yA2mOuktk2PnC8iomXKJpEjwzkt0DSUnUXmbK48dXMLBx8HfrS6pfI5nvfSLePM2oYvEFP4sUQZTQ6n/qZwdS6VYylo81iIt3qm5NMmb/duTpueSSu/P1NB7UVwnxZaVJ0GDhsnLkXZ9QFpAoHyfFfNkiHZO50XfDRYianAspGAX5hlyFEN41gfmjH1uSJk0HA==;QJnxnqp0taQYkvR8x/AB8Q=="
 ---

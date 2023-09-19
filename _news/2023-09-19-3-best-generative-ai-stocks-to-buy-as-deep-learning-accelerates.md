@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
+    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
+    publishedDateTime: 2023-09-18T22:16:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
 
 secured: "0uMMHjGb4z7Tz2LyIZmWH8nM5uMMZ7Xq+zCaIn51O1byZQN81/GCxSzJaoc6spFdu+8Fs8Yo+EiXI1XVGku2CnR7m3qpE+vLiUEPdR6n1vfAqpPnAP01kexjZZYRMOeXyt8xup2IQRYYOK1IljqFQ3rwW2Jp4A4CyZJGXxU2ieWqxCrNUyUB0VDp5kt0sMLW3XAN/QI6K/piYc4aUWVJTA1bAdo+hB1QIQwWi8EmkcVtYxjjr9Grq14t8PYPkY+nbrzeyD+UErMMcy/JfpfdGDEdcrZLU5pANU1I+uv0556Ha2FR1vfj+6XQin4cboT0ZRdtHsShxG+9iVXzIGF9wg8A7+K5+gqjfnOep9FpYIc=;SUStLGPdQ9wp314Qnxreiw=="
 ---

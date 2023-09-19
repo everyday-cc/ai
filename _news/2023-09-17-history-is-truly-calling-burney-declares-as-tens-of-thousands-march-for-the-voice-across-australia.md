@@ -61,20 +61,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Australian government has revived facial recognition as part of a national ID plan"
-    excerpt: "The FIS is a one-to-many facial recognition system, using a single photo to check against a database of images to identify them."
-    publishedDateTime: 2023-09-14T05:11:00Z
-    webUrl: "https://www.startupdaily.net/topic/politics-news-analysis/the-australian-government-has-revived-facial-recognition-as-part-of-a-national-id-plan/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 31
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2023/06/AdobeStock_605339354.jpeg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "‘Not easy’: Country’s Voice lesson for Australia"
     excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
     publishedDateTime: 2023-09-16T06:03:00Z
@@ -114,21 +100,19 @@ related:
         width: 1400
         height: 642
         isCached: true
-  - title: "Voice referendum: Aboriginal traditional owner stands up in front of Australia's National Press Club and declares she opposes the Voice before man yells at her and tells her to ..."
-    excerpt: "But these are not promises the Government can make.' “Chapter IX Recognition of Aboriginal and Torres Strait Islander Peoples, 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First ..."
-    publishedDateTime: 2023-09-14T05:57:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12516779/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12516779/amp/Voice-referendum-Aboriginal-woman-tells-National-Press-Club-opposes.html"
+  - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
+    excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
+    publishedDateTime: 2023-09-18T23:28:00Z
+    webUrl: "https://www.theguardian.com/australia-news/video/2023/sep/19/indigenous-voice-referendum-ama-what-will-happen-if-australia-votes-no"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
+      name: The Guardian
+      domain: theguardian.com
+    quality: 23
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/09/14/06/75416699-0-image-a-7_1694668974805.jpg"
-        width: 636
-        height: 382
+      - url: "https://i.guim.co.uk/img/media/5dfd425ce0915c0be8196f465ad2e10f0311db65/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc3eddd5dc9af7c524d8a1bfba322331"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qhACqFjw5Jz/E/8JGQJ22wxtdYzvymo+O9HrvKnN/Oj+A6tetEu4i79y47wL1Z+5wBlA18H/U4o1tCSyfWq7PQ9f0NZY2ASZ+Ihi9WGdzCBrQSyOjeM/IKFELoIjPWsoPda5eg2QiQBt4vyaOh7YKHp2l7ccFNBGaJ7pR2eWls8FxUxDtnTva+C89hO4bmzSfQ/03Ewk852bh7BtDCqoKl9z47RwaN/wXCb9lQtT/D5Mqe4rOf4DhcTHzhT/NDD6l/aiIVvjtV5cV6xHYLZ7uYzEqGIjbRjr7tKB9LHaLDGu0U9zlIKrwgntFpU02dOk2BfgzeSeaQiD8cOPSiFh5M4tHy0tDI0iJ3/pSh2GdpZu55U7972KEFZI1/GsSMIjU2HzdWKdeSyN8+nEYy9YimvKAkljgwf4KG3WRVLA7z978lgG9xtRAN74usmFczTaAgdmIBstV5ePKLOUl4TVtI2vUL4wqOBq8qtlkVZd3uwLCz49IBTxTJUl1c7DRKLVUyTY+ROyZheVHC/vWF4wDA==;FEBgFbwIjKHVJuqXdF00vQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help
 cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

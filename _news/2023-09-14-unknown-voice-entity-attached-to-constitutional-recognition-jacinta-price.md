@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Unpacking five key claims from Jacinta Price’s National Press Club address on the voice"
-    excerpt: "We look at the shadow Indigenous Australians minister’s comments on issues including colonisation and the power and composition of the voice to parliament"
-    publishedDateTime: 2023-09-14T08:50:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/14/unpacking-five-key-claims-from-jacinta-prices-national-press-club-address-on-the-voice"
+  - title: "Problems in Argentina’s justice system exacerbated by public facial recognition: report"
+    excerpt: "A data entry error in a database used for facial recognition in Argentina has highlighted problems with the country’s justice system."
+    publishedDateTime: 2023-09-14T21:04:00Z
+    webUrl: "https://www.biometricupdate.com/202309/problems-in-argentinas-justice-system-exacerbated-by-public-facial-recognition-report"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
     images:
-      - url: "https://i.guim.co.uk/img/media/9b4449f199103d90285536814aabaa5e2ce492b0/0_237_4960_2976/master/4960.jpg?width=620&quality=85&auto=format&fit=max&s=cfc8498be2107dfad49887896b72a560"
-        width: 620
-        height: 372
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "ymiaLeCeq89behYPKfAKzzjbPdXtHAwoGgw8HfK7u6+AlZRNeLnZyS60aE2bbB6fn37MylUfskpmMbvSkPZN9Ed1rydrvsmia+KOgUDf5xjkb2GiqZfxhLXIPMikzPbeAZoh+Wv5m8Uj4f1sMFKkQG6hCtEF+XgVKQoMJ+b/xO6+QysLOk4/LIAN34RMctbFbghbhMJZrZkuh3BHuR7a2ftuYpSOzpMh0x28saMbH4DUVrVYXfu5iASylCUMoMl+W0JLuW7bg3PStZU8bSSR0NXLWeGALatCwdA3zx+O7vr2QmHT2lQQwweiVZA8MB2LS7ko2jP9Gux8d/jP2hZDBiqAi9ZF2mTWtATS7cuSTrHAf8W26a5Des0kcdLM0YXGmbraKL77W8zmERWOr3K0rkbN076Srf17mcB1wNUKW72hksrqjTy2DaBOO46Dn7EN6XlZYmLj+kSYwNFt786lGJ1OU6yZ7Mp5KPykuX54592y+OxHyI6OEd1/FZks+xR6XAqXUk/HZWBDryJqzkDEew==;KmnNpeoAe9kq2XIWU4fMEQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-f
 webUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-force-people-to-give-up-their-private-land-212784"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Yes campaigner Dean Parkin on why the Voice will come up with solutions that work"
-    excerpt: "St Georges Terrace, Perth. Picture: NCA NewsWIRE/Philip Gostelow Having worked on constitutional recognition through a Voice for several years now, it has always been clear to me that Australians have a lot of very reasonable and important questions about ..."
-    publishedDateTime: 2023-09-16T19:02:00Z
-    webUrl: "https://www.heraldsun.com.au/news/opinion/yes-campaigner-dean-parkin-on-why-the-voice-will-come-up-with-solutions-that-work/news-story/c42f20198ccae4b062d723cf1129dea9"
+  - title: "A First Nations Voice to Parliament"
+    excerpt: "Last weekend saw tens of thousands of Australians rally in support of a referendum on an Indigenous Voice to Parliament. The Voice would be a representative body comprised of Indigenous Australians empowered to make representations to Parliament and the federal government on matters that relate to Aboriginal and Torres Strait Islander people."
+    publishedDateTime: 2023-09-19T00:50:00Z
+    webUrl: "https://verfassungsblog.de/a-first-nations-voice-to-parliament/"
     type: article
     provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 14
+      name: verfassungsblog.de
+      domain: verfassungsblog.de
+    quality: 24
+    images:
+      - url: "https://verfassungsblog.de/wp-content/uploads/2023/09/gq7933us-e1695057456221.bmp"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "Indigenous voice to parliament: Libs and Nats bolster No campaign, as Yes23 launches new ad"
+    excerpt: "Liberal and Nationals divisions across the country have agreed to co-ordinate resources with the No campaign and boost volunteer stocks, as Yes23 launches a nationwide advertising blitz to claw back voters ahead of the ­October 14 voice referendum."
+    publishedDateTime: 2023-09-15T12:41:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-libs-and-nats-bolster-no-campaign-as-yes23-launches-new-ad/news-story/a7f886e0cc7607c16d1860a7d82afd60"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 9
   - title: "Indigenous voice to parliament: Linda Burney calls out vicious attacks"
     excerpt: "Racism takes its toll,” she said. “But I will never allow racism to weaken or diminish my resolve to see Australia embrace constitutional recognition through a voice. “My message to Aboriginal and Torres Strait Islander people who are experiencing ..."
     publishedDateTime: 2023-09-15T11:03:00Z
