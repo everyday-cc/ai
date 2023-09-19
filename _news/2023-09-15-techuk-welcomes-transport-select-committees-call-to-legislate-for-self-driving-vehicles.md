@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New laws needed to tackle safety concerns over self-driving vehicles"
-    excerpt: "Transport Committee calls for new legislation to tackle safety concerns over self-driving vehicles and urges caution about the speed of their deployment."
-    publishedDateTime: 2023-09-14T23:06:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/company-car-tax-and-legislation/2023/09/14/new-laws-needed-to-tackle-safety-concerns-over-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "MPs warn UK risks losing early advantage in self-driving vehicle technology"
     excerpt: "MPs have urged the government to update self-driving vehicle (SDV) legislation in order to maintain the competitive advantage the UK currently has in the sector."
     publishedDateTime: 2023-09-15T10:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wesh.com/amp/article/facial-recognition-epic-universe/45
 cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/facial-recognition-epic-universe/45145237"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1153
     height: 646
     isCached: true
-
-related:
-  - title: "ATO, MyGovID, banks, telecoms to rely more on facial recognition"
-    excerpt: "Identity verification laws introduced this week will allow data matching using systems being developed by the Attorney-General’s Department. The government has introduced laws it says will improve"
-    publishedDateTime: 2023-09-14T21:02:00Z
-    webUrl: "https://www.accountantsdaily.com.au/technology/19049-ato-mygovid-banks-telecoms-to-rely-more-on-facial-recognition"
-    type: article
-    provider:
-      name: accountantsdaily.com.au
-      domain: accountantsdaily.com.au
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1694676578/Accountants%20Daily/mark-dreyfus-ad_fw4ngg.jpg"
-        width: 1200
-        height: 776
-        isCached: true
 
 secured: "TiazXPIUt8hATfIPvwpDRnjA2Kbf3TdmfchctySFIF3lMS1Dj/EEEo+a9ewZN1imL7/NQHxxXzK20hrRwM93sDAqGKsa6Zf0TSlZbVBpUX+LqvNMcMkcwgiO0y6yWInGuQD7xWzZdLIwBcZ673v2p/hLiE9VQvpk6qf0f3YideSqavqlwVGTAjJNm4EU9ukQqIDaSfkCW7SoxFuN72jqrsvRxKZn6nfzVBrOBGPM5VAe78mkKbg/l02Z4y1vKY5rBzsc5wcgldkDzpWiAlgfZo4y8GDINpQAi9n3pF+7HpVv00WHWBNXFIsOKNqZStugMB0LrMkeq1++7xoMlNJgfUai2ErxBLilHdBOxOjrmtyuXDYXDVcmWq2qgcxwRZ0SVa9mMtVu2R6i5js7hpfu57paSX79ECAuqqdwyaKcvaj+LbZGvB+3xnOOcFajjQqL9msjuiHioVUJ3MaG2KR6OwiP3YAZJkg8PkkbCA/j1oSbNIAgNmPwhC9NJi64BgXccD3wVXkRx983r4Vtu5G42g==;amiyBUmocR/061bgO0N7hQ=="
 ---

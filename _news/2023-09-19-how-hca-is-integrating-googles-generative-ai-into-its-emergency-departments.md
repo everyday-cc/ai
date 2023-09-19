@@ -165,6 +165,34 @@ related:
         width: 612
         height: 255
         isCached: true
+  - title: "Ochsner Health launches generative AI pilot for patient messaging"
+    excerpt: "The Louisiana-based health system will use generative artificial intelligence to draft messages to patients, which will be reviewed and edited by clinicians."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.healthcaredive.com/news/ochsner-health-generative-ai-patient-messaging-pilot/694081/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/J_F4knKM-nNjRu6mABkXUCwAVsEuBPVs30XCllQXZCE/crop:7942:4487/g:nowe:7:206/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0Nzc0Njg3MDEuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Enterprise-focused generative AI startup Writer raises $100M"
     excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
     publishedDateTime: 2023-09-19T00:01:00Z
@@ -179,6 +207,29 @@ related:
         width: 754
         height: 416
         isCached: true
+  - title: "See How AI Generates Images from Text"
+    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
+        width: 790
+        height: 497
+        isCached: true
+  - title: "Accenture invests in generative AI startup Writer"
+    excerpt: "Global IT services company Accenture has made an undisclosed investment in Writer a generative AI startup for content"
+    publishedDateTime: 2023-09-19T11:37:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/accenture-invests-in-generative-ai-startup-writer/article67322420.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "wApciEFLhSZPeQQuKZ0OMPS10l/Oor5Vl79Tdsq00cJSyp9N+loi3Rsu7MBh2LeC9Rb8vIR31hipwFzHhfHgnPvAdKleC/5M/Evip4gIMmDrsM75aB/DXTsfNvdp8M86goRZhKWi1JqKD1pNOHWBGgSIeNmP/GjaVDLMW8IqcQqdYnQLYmvTxofIasPG7ovisQBYHvWOkO9VjO9KSUo1emcAXjlYQoDPVIH6emLuwJg52CXgEaqwunWeCErE7V+6o7tUebgez7mqGr/dnpovALhQKFiZqNfVs/4LW3UeOnTDu+78zHZGyxMYIA6bI4TRg3Ijam5A2hZhpD+5/Au/GPATjG9YAJpWv62kTT4QFIA=;FXNqzTglZyWFDor3KxHJtA=="
 ---

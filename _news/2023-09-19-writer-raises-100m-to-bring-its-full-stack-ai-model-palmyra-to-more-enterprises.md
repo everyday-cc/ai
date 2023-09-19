@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "HiddenLayer raises $50M to bolster defenses of enterprise AI models"
+    excerpt: "Texas-based cybersecurity startup born out of a cyberattack that exploited machine learning code at the founders’ prior company, has announced a $50 million Series A funding round today to further harden the defenses of the rapidly growing number of AI ..."
+    publishedDateTime: 2023-09-19T15:49:00Z
+    webUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_zero_trust_in_cybsecurity_acdae9a1-c7e2-4fba-9143-c1af5bde2caf.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Writer raises $100M to bring its ‘full stack’ AI models to more enterprises"
     excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
     publishedDateTime: 2023-09-18T23:13:00Z
@@ -42,38 +56,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "AI Startup Writer Raises $100 Million to Pen Corporate Content"
-    excerpt: "Writer Inc., a startup that helps businesses write and summarize a wide range of content, has raised $100 million in a deal that values the company at more than $500 million."
-    publishedDateTime: 2023-09-18T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "AI Startup Writer Pens $100M Round"
-    excerpt: "Generative AI platform Writer raised $100 million led by Iconiq Growth in a round that values the startup at $500 million."
-    publishedDateTime: 2023-09-18T17:26:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "San Francisco generative AI writing assistant startup raises $100M"
-    excerpt: "A San Francisco generative AI startup that helps businesses write content like social media posts and emails has raised $100 million and more than tripled its valuation."
-    publishedDateTime: 2023-09-18T21:46:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/18/generative-ai-startup-writer-raises-100m-seriesb.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "FEaGH0iQTcicoboVu6oZTiMJUYGq6uGJO71+eaFN4js0g19PgOk76XquQxmqzcy47t6IFaAv5HmpA/cw/hB3XauBi25ZwjhhCbMySy3ighWzDJhmO6s6wbnYHj+X4xGRfY0sXvkAzT3rbtBlVuhQ1+nfpDy8z/nKAj8iagCpgbSv6qwjmwNLP1PjpmCCFS2BABakX3OjTI3o1fPojZsx7+qnb8iNOMBTxj9XVQ1xRJzsHfg/oet7GP2jJU0ht+3LAjCgZAF/Yzj0uutJCbXbl0u20GWmjn90n3ZjaF0kATQK3oA84AsgAteE2K6STBMLH4VRVk412anNpU5TsVfXjj/ddQ5s3Hwj17cFUn6RE10=;RwO4eIqZWJjFS2FhvgzTVQ=="
 ---

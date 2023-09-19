@@ -36,21 +36,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Experts say Artificial Intelligence is coming into the workplace faster than previously thought"
-    excerpt: "The idea that AI can make work and tasks 100 times faster is appealing, especially for businesses looking to get ahead of competitors."
-    publishedDateTime: 2023-09-14T23:08:00Z
-    webUrl: "https://nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
+  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2023/09/NBC2-AI-in-the-workplace.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "3l8b8kpPjS1C3YmlrLUz2UvMR2D3g5SbOKxWJxAeNHGHKkeYvvk+Ed/47Z+8/szw6tGI3iBL3x0lEVk5VUGhowoLWAIG38y6fPbqLWw7+F4DYDC2+TS797krAHWYD3pC22ESHVd8cXBaIQJNLd1JYj4n+SRm6enBK1WKUAzXphEMKuraFDcVAflkydp92lWGj/j1k21loU/q+kE44Msv4hbUyJwV22KVDThd4bEeQT8XcJCkV84rOEWNOVL0MNU2lk5OWO2/ueRHFHKh+opJB3L8nsa8ug0LQO6Xjo/mJ379jTKfxKnELpJ1GHv5k8mF2qT6tsd8XXHSUQtjy0uC+epplu1OnkBCpw7WkZ8A1h8=;7SAxnoxs3i9n4/1usbANAw=="

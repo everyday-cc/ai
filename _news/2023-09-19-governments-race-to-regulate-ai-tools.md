@@ -28,22 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "6 AI tools to supercharge your work and everyday life"
-    excerpt: "Step aside ChatGPT, these helpful AI tools can automate daily tasks to make your life easier and your work more efficient."
-    publishedDateTime: 2023-09-14T21:08:00Z
-    webUrl: "https://www.zdnet.com/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/"
+  - title: "5 handy AI tools for school that students, teachers, and parents can use, too"
+    excerpt: "A common misconception is that generative AI can harm education by promoting cheating. However, when used properly, these tools have the potential to help students learn more efficiently. They can also help parents and teachers help students with projects, homework, and studying."
+    publishedDateTime: 2023-09-15T16:13:00Z
+    webUrl: "https://www.zdnet.com/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f583481f4204a7538fe857796bdf24b57f21e342/2023/09/05/9058882a-55a2-420d-af78-db5857491ec1/gettyimages-860802312.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/f403aba7bdf5bf4a54cce49ec3c079633af5da3d/2023/09/15/be9e1e9f-7e99-4681-887a-f4ad1e1adca2/gettyimages-1614030114.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
+    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
+    publishedDateTime: 2023-09-17T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Artificial intelligence in schools is here to stay. How will teachers adjust?"
+    excerpt: "AI tools are clearly the next big step in education, but to where? Are they digital cheating machines, or can they be used to enhance learning?"
+    publishedDateTime: 2023-09-15T07:59:00Z
+    webUrl: "https://www.newsday.com/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 38
+  - title: "46 ChatGPT alternatives and AI tools for teachers"
+    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
+    publishedDateTime: 2023-09-18T12:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "wu5tyTIIkojLxALleujyfI1lHcdXg0LDc5cdjoNSWu6b7zmsN+UBuw9sWVF9NWnv1JrMqlx2Zh266codUTEB2BA6TNDDcnCy8QfPCt2GI+G1T19Tsa+wd9gmsT7kynbXaSeU/inmmbHMh4WaK7x1GzYQLykneHfQBzPKQtNiUfs8cOjIR5IWgXB8O/LFWVB/GmEHRPOvGwNpSbjPlHRME35D/1jqfMHprxUo1cj+jbpmKiPLMqFKWN+TMgq3rj3u3vuFiCCUikPojM574ZYB2NGlzzHarldD7Gvd2vF83sxynux31Pjxf+nKTFNYw0ZlPR5WwlAKKoJN1ByL8dAFRjaU9UCEhSb98S1fZZlibQZqvHRFR0iODgeHRFWf3vZcBHLvHvUeZTAWryBKZP91/e1vJFQMMrm0ELru5Va8wFs/6e7SEGOAvepX9aqURtZHWYrd8A9Ol6zJlmX5rwtWSufFm2KkOk292JqX4c7Hf5eF+iNUiuObjW2iKoSVLtmH+DeqM5VkkoOvlmRl7Yg6TQ==;Kdfl72J3k/YXyADls5sbNw=="
 ---

@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "CIO Hysen Named First DHS Chief AI Officer as New Policies Released on AI Acquisition and Facial Recognition Technology"
-    excerpt: "An AI Policy Working Group is tasked with making recommendations to Mayorkas, in coordination with the AI Task Force, and a formal Directive and Instruction on AI/ML is due within 12 months."
-    publishedDateTime: 2023-09-14T20:41:00Z
-    webUrl: "https://www.hstoday.us/featured/cio-hysen-named-first-dhs-chief-ai-officer-as-new-policies-released-on-ai-acquisition-and-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 30
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/06/Screenshot-2023-06-05-at-122928-PM-e1685982969857.png"
-        width: 2421
-        height: 1556
-        isCached: true
-
 secured: "UszANEes+6yWlEVgt2VxuwrkH0WkJM/CLV/D1nVS6YcTfXhNUEYbkPFP3Y2XcywGixjkW0IZ4pzhl7q37SBKCHvFWxQopB5L8scixYONv23imP178LgWBJb47wvcVF/M6ONW9b9pUNMBabP4qVGK6xZyXZgPwETbm6GdNLqwuHORwYSJD9NjLbedN3uA1ohv7TY0/VhoIW93m4TJtrnmjUiqmytcoPV01iaxML9Hl9O9Agwdp8KyXaTlqv9Qc9Q+jp1IC8hkK1diGpc5sWY1S3WsGMiZqQyHObeXdwdR7v02P24ONs2wjcGzGRy/n1gjWRARkHDEF8wH5Dy9f8wWgR4uwbiiBVpbmNee/XbGwuI=;rXMKXdjnPxDCUSiKbB5z3A=="
 ---
 

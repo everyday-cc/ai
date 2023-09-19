@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
-    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
-    publishedDateTime: 2023-09-14T21:34:00Z
-    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Schneider Electric Issues Industry-first Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
     excerpt: "Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to addressing new physical infrastructure design challenges for data centers to support the shift in artificial intelligence (AI)-driven workloads,"
     publishedDateTime: 2023-09-18T15:03:00Z

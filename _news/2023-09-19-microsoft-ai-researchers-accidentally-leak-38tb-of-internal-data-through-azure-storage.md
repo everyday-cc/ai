@@ -115,38 +115,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Microsoft, Oracle deliver direct access to Oracle database services on Azure"
-    excerpt: "The hyperscalers are joining forces to help customers fully migrate to the cloud — and place their data closer to Microsoft services to facilitate cloud-native development and AI experimentation."
-    publishedDateTime: 2023-09-14T21:52:00Z
-    webUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html"
-    ampWebUrl: "https://www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/652442/microsoft-oracle-deliver-direct-access-to-oracle-database-services-on-azure.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 71
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/09/shutterstock_editorial_2110981163.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Why Oracle is putting OCI database services into Microsoft Azure data centers"
-    excerpt: "Oracle and Microsoft have announced Oracle Database@Azure, an offering to provide Oracle database services running on Oracle Cloud Infrastructure [OCI] and deployed in Microsoft Azure data centers. Azure becomes the only cloud platform other than Oracle Cloud Infrastructure to host Oracle services. According to the official announcement:"
-    publishedDateTime: 2023-09-14T21:12:00Z
-    webUrl: "https://diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers"
-    ampWebUrl: "https://diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-oracle-putting-oci-database-services-microsoft-azure-data-centers?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 71
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-14%20at%2013.54.50.png"
-        width: 1216
-        height: 682
-        isCached: true
   - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
     excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
     publishedDateTime: 2023-09-15T07:16:00Z
@@ -200,6 +168,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
+  - title: "Microsoft AI researchers leaked 38TB worth of private company data"
+    excerpt: "Wiz notified Microsoft of its findings on June 22, and the SAS token was revoked two days later. It took the company almost three weeks to run a thorough investigation, after which it concluded that the data hadn’t been accessed by any unauthorized third parties, TechCrunch said ."
+    publishedDateTime: 2023-09-19T13:04:00Z
+    webUrl: "https://www.techradar.com/pro/security/microsoft-ai-researchers-leaked-38tb-worth-of-private-company-data"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
   - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
     publishedDateTime: 2023-09-15T18:48:00Z
@@ -249,20 +226,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeServersSmall.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft and Oracle extend partnership with Oracle Database@Azure"
-    excerpt: "Microsoft and Oracle expand collaboration and make Oracle databases available within Azure. Larry Ellison, the founder of Oracle, said he was at"
-    publishedDateTime: 2023-09-14T20:55:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/111301/microsoft-and-oracle-extend-partnership-with-oracle-databaseazure/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2020/12/1-Microsoft-and-Oracle-1200x675-1.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft to offer Oracle cloud database on Azure"
     excerpt: "Oracle and Microsoft have trumpeted an expansion of their joint activity with the launch of an “Oracle Database@Azure” service. Microsoft will be the only other hyperscaler to offer OCI services."
@@ -453,15 +416,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 30
-  - title: "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure"
-    excerpt: "Microsoft joins Oracle as the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services to simplify cloud migration, multicloud deployment and management Austin, TX and Redmond, WA — September 14,"
-    publishedDateTime: 2023-09-14T20:00:00Z
-    webUrl: "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 7
 
 secured: "lRkc2fGWJDHVAv4iI1yGXLVLDe4dy+Qxw8mMvm/F4POkWHprTOGAbkDhvdDJqpDuoxGckCtB2AnjtIM4YVvyTSI4LSeFRSMy/iZsWVNTJ59SIH6X11WDvd1BvkftyxGK9cn+b/uKA7d1ixMc9mgor6NZ95QvJMHRXqvPbcE5F1O472HVnHYEAKgbGsf5GGkJYvKHFBnkqXnX6D3z7HXkc3KirbRjRYkRrrEq7NwHl6SR0r24IfMJ+CzzqCkteRJTH5n3X4oSBuZxtdT2c0huxsHYdwiJwmDBO+x8lp/vwsINF0zGPypJRPgnEyvjyUVKMu08lrqw5z0vyB83OUJUylNSjeYiLouuXPjc58FoazQBNTzciPvYtsexnZmU3WKBfFEsyOn5C1x2+ReZEPCqRKCW+oOqMmaU+rD95V2eAwIoNrT4IMrmmaWjPqmL0axRiXXLFndUgOi+1wDkU/sZaPG3bM0ShZxdK9TSPlRb+yHKIFCVyfxK/pzgCQM80H00g9KxddJSTFgtnDQLvvPkAg==;XRZbCo+SVxA3Q9LSZ88ZAw=="
 ---

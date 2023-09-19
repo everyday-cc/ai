@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-la
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Velocity Launches Global Expense Management (GEM) Through Acquisition of RPA, AI and Machine Learning Platform"
+    excerpt: "Velocity launching the GEM platform is a game-changer for the company to bolster in the expense management field, including the telecom expense management market. HOLLAND, Ohio, Sept. /PRNewswire/ -- Velocity,"
+    publishedDateTime: 2023-09-19T14:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34732100/velocity-launches-global-expense-management-gem-through-acquisition-of-rpa-ai-and-machine-learning"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34732100"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34732100"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "EY announces launch of artificial intelligence platform EY.ai"
     excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"

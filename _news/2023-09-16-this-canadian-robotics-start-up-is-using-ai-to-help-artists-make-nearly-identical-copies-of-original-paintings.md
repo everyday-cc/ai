@@ -3,8 +3,8 @@ category: news
 title: "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings"
 excerpt: "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces."
 publishedDateTime: 2023-09-15T19:30:00Z
-originalUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479"
-webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479"
+originalUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
+webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
 type: article
 quality: 29
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "HPgaTuW2e6bUSu859UhKAZXGASiRT1VmS39RTx+SfkkWJDm+5eXBy6AEO4eLY2+DPUnJoX85Seuz+j1iFFtAD6BxzKvmNYQ+d62qRCWUV4HM+QAsj/nluxZ15rbsnaenwh67Gq1LyYF0Jo/Pu28CC6Rtr3LyVVMpY1NIFHplfJGrJAd+xY5Y/YfmHcqLnGF0MsvgfB9mq5OI1xOf+VjhpD6ig398c9HoC5S6I9ZHEVAUjkIGdzJx5anWqmER2KvGPYQNjywf6I8Pb2vo93H7peqkW9pkE+sKbz150LNIDZfTGjDA01BosG3CB3GgZud/tWALHYolNeIwu1EYgEw46H9ya5tWtyTaGtfqlHX7WvzmcGklkh1Uc2Qt2EqthYsILrM1qA6/hZR08xn7bIH8fNRIHmFyY+aUjEMrsBwWLYz8Ogt+IC1ragkeuPyjN7+PHZ5oDTrFqTR9p8+NSv2OBwoJAKeo8jjSP568mrfuydODe0DrUCaQR32SlXd7dgnxmR7N4M1EXqn/Btg4OF9cwQ==;Tam6cFAqAZHAQSlU/T2KUQ=="
+secured: "SjtNz5tgY36KNumK/2GrQEVJreKOnqFP9mW5DT6hibaiexpjw+LsacstKDS098zp8IdaxIp2gmrBbc8aciSMrSu2ryKBFNZkWet/PBykaNo1z9BMDmXDYqmKD2oHf/eV51t9FR0E41yy90ADtb23YZj7brjtwU5B53KH3paf99fh23lfoU0zpY0hPDbcOn6uHQrsmnZokTGoyhx/WKhJMXo2J62UbKXCnZwz/J3+4abfRMzntFiVbR5to0jr6LNFmjvLzZMG3bA3F/tl6hKtgMYYXDW7s2wtCGpMzCAr2HirJ7MWmZiZkphBUuAmj7sNhmL+qVeppD8G2wzMj9FccDB2FWWV6P5TaV35q+62oG7WZgkIZURfSHaDjOYxbNZm4NKyFV6mBsiQuZzaF4tcD+onfRxrLPNY+zEhc53FtR66a2pXuuBsPi1RzDQqEd6Bcjwb7ZdFxIHrJ/A35quTvejmsdNSDSko2yc5PIk0ebrlIj+PGVRGMyy1CE9gY2M14G/bYsE4kbwla6bMtFZyQw==;KWiuujaxFY3MmtZGz9PFxA=="
 ---
 

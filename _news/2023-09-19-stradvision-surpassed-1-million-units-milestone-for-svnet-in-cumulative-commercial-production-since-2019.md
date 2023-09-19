@@ -1,0 +1,52 @@
+---
+category: news
+title: "STRADVISION Surpassed 1 million Units Milestone for SVNet in Cumulative Commercial Production Since 2019"
+excerpt: "SVNet is renowned for its ultra-lightweight design and exceptional efficiency, seamlessly integrating deep learning-based object recognition with minimal computational and power requirements. This advanced solution is compatible with over 18 System-on-Chip ..."
+publishedDateTime: 2023-09-19T15:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-surpassed-1-million-units-milestone-for-svnet-in-cumulative-commercial-production-since-2019-1032640893"
+webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-surpassed-1-million-units-milestone-for-svnet-in-cumulative-commercial-production-since-2019-1032640893"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "Legal AI Startup Paxton AI Announces $6 Million Seed Funding"
+    excerpt: "Legal artificial intelligence startup Paxton AI has raised $6 million in seed funding led by WVV Capital, with participation from Kyber Knight and 25Madison, the company said on Tuesday. Additional investors include former Citigroup chairman Richard Parsons, and former Goldman Sachs international compliance head Robert Mass."
+    publishedDateTime: 2023-09-19T13:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-09-19/legal-ai-startup-paxton-ai-announces-6-million-seed-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
+    excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
+    publishedDateTime: 2023-09-15T11:10:00Z
+    webUrl: "https://cointelegraph.com/news/ai-startup-helsing-raises-223-million-in-series-b-funding-for-defense-solutions"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMjVmOWYxODYtYmU0ZS00MmMyLThiNTItMGNlNTM2MjRiOGE5LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+
+secured: "NUBsemSBEjYg1+5lak01qxrgPsJT1xpYmEmmnyZPYqFljRzWEDHZmXIVfho1gXK4gNxIJBmrXt0ux8YOfqbzTAk6/eNkGmbZaEsEXPek3AezyCVi9aUZg71g80sciEol/ppjDh2P9zjBKtd/fmcLo6kaoM8NQ9kTVU5vYAqfrghEk5memMfZgLZfUYHa5DvYFLzl8tGcTuc0UdomuOJUNgicdIkw1POvrspLLDmOo/rwznHZctFHKjTlgfHdfBr27Ot8l//ub5tdN0xXYVv5Isu0SkAmVpOx/wWoNPrK22WxLD9Yv385kZzB8hoYptkN6jUrcNB+ZCI+q+EdvFKLDvRB++ir1J4nouLzKJwkK8MPtiWuqzpEVspmZR1VzFYhh0G5D/01TJ1oVEphwRnjahDfosvZW717FEorIYVP7BwwApKv5c4sYKfN8htSXbQh0LbBOcUb+2KVA5GBH1c6nyOd7WgzQrEaivwStXrJqYbfwlc0eSfeyNdCCsgta1BnGmabrol7ALPspoGrdl7fvg==;qytFWaGoQQ4G8OpW+XAwpA=="
+---
+

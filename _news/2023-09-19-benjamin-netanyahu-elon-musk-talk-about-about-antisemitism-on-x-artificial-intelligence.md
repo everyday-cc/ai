@@ -78,20 +78,6 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 19
-  - title: "These 3 science fiction authors inspired Elon Musk’s creation of SpaceX, fascination with AI, and quest to colonize Mars"
-    excerpt: "We are learning more and more just how much video games, science fiction, and fantasy shaped Elon Musk's worldview—and dreams for the future."
-    publishedDateTime: 2023-09-14T21:41:00Z
-    webUrl: "https://www.aol.com/finance/3-science-fiction-authors-inspired-184050734.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 16
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/CJc3ykrQeipMrb4GQe82yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjc-/https://media.zenfs.com/en/aol_fortune_385/bf505f01a7548a4727806b335a8a3e2d"
-        width: 1200
-        height: 827
-        isCached: true
   - title: "Netanyahu visits Elon Musk in Bay Area about antisemitism on X and artificial intelligence"
     excerpt: "Netanyahu said an important question about more advanced AI is: \"How do you get the international regime to control this thing?\" He said it starts by getting like-minded states to agree to a code of ethics and code of conduct to foster the benefits and ..."
     publishedDateTime: 2023-09-18T19:12:00Z

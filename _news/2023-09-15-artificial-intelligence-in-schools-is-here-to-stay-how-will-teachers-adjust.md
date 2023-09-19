@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-09-19T05:35:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
     excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
     publishedDateTime: 2023-09-17T17:12:00Z
@@ -47,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "46 ChatGPT alternatives and AI tools for teachers"
+    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
+    publishedDateTime: 2023-09-18T12:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "2GBGnbte6mOCT223m+d2llLUiXtvIoB+bYK53Hyv7SUGaooVFIJf1TCBVusKi1v4i+pbYJYUNZSdOOZ3yg5hcPEVpL7QQ8+iqg3i5u5dL0MlqPg5oOW4JyuaZAPXfK0W/w5mmC8YNKbAfMn6Xi2pIxDhXoDPrEzMhvsM7QhPpUrY2p3CgGsLgkod10ri5C/gBlXWxuVUS/O+yhezaxNfXpnursb5RjvS1+3vjlEZGAHI4CjSiHgaeiTxOQ7fJ40Ry3G/eQiWkl+SAJ/JZwbZjIIvV1MFz3Q/J85rRr+gPM2B4D3xKAkgq3ZL9gylsHJufxWH52w9h8gp3i2eINDZX2Rn6OdR3uu5dcSEpCrzfA7dxQAhOSZcySaUq28siPvAZlww1yZcNTW6DZ4UFzBJl8LmrdTyTTlTdZnOLjY5qEAqQGGGhvZvAWpmSzxiaadcHpW7iE0zaeZNspq0/VACUAiTmLChg3BwGgCbHCycj5kxwBa0KNtJXqyJGH+cEoP6lSFKObwVWyR1fmG7B47Sxw==;Zd4VtFutnTd+8ydKfw6TXA=="
 ---

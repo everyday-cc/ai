@@ -39,6 +39,15 @@ related:
         width: 739
         height: 415
         isCached: true
+  - title: "The Rise Of AI And The Impending Data Aggregation Wars"
+    excerpt: "I’ll go over how AI is disrupting typical attribution models in online marketing and how the companies dependent on them can take action before it’s too late."
+    publishedDateTime: 2023-09-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/the-rise-of-ai-and-the-impending-data-aggregation-wars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI Can Revolutionize Mortgage Licensing"
     excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
     publishedDateTime: 2023-09-18T20:03:00Z

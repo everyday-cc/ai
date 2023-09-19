@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 902
         isCached: true
-  - title: "4 ways generative AI can stimilate the creator economy"
-    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
-    publishedDateTime: 2023-09-14T21:02:00Z
-    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-transform-the-creator-economy/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "4 ways generative AI can stimulate the creator economy"
     excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
     publishedDateTime: 2023-09-15T12:13:00Z
@@ -75,6 +59,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Testing the limits of generative AI"
+    excerpt: "As part of the learning curve with AI and LLMs, experiment all you want, but take the results with some skepticism, especially if you’re using it to write your code."
+    publishedDateTime: 2023-09-18T09:01:00Z
+    webUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/03/crash-test-dummies-100752967-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Teachers Are Going All In on Generative AI"
     excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
@@ -103,6 +103,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
+    excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."
+    publishedDateTime: 2023-09-18T23:05:00Z
+    webUrl: "https://www.wired.com/sponsored/story/how-generative-ai-could-help-empower-the-next-generation-of-diverse-storytellers/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 64
+    images:
+      - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "3DK1SJHE4TlLwInZ7ILQha3t1ywNF77Wj4lEJRcgND4RrjRen6/OsFpNSP/PF6qsogoP6UkUgyjkaj9KIahza5JiFuaEgYI+KywXWNTP8ypZFuPeZhZeXw1AllKlQgVug6FD6sD7i48oYIb/mM2L7+3sdoywZ0WHAZwo/H8PF9NYjCYFrcmmFCT1xwjq0J0rIQwNtFZe700xiPDCf3RAtzliSHAIA8uwtqBdZWcbOUcCtXQj5MS6zrEEZX5bx8NHQYBouARFkhf4O8sDePHA/DU9xESbRDt+tiWchHLWZD+ON4Ig3+m3XU6hpyZVSzKaOPtgSYFjWnacMCr4gkTzRAMtqkdWZSfbQ0zALnjK3zs=;2eYLIywp5vEFDxIs4gkDLA=="

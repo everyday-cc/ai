@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/gxo-accelerates-de
 webUrl: "https://markets.businessinsider.com/news/stocks/gxo-accelerates-deployment-of-artificial-intelligence-solutions-in-the-u-k-1032639507"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Empowering Economic Resurgence With AI-Driven Supply Chain Solutions"
+    excerpt: "Efficient supply chain management and overall success are predicated on accurate data logging and categorization."
+    publishedDateTime: 2023-09-19T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/empowering-economic-resurgence-with-ai-driven-supply-chain-solutions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "GJwVBjqi6g4zG8QWYPqCc9/dybqxXq9TtHwv4JBTPZXFYX+Tl2Zr14Q5L6MBxrjLSQdqAN/b0ax/s6mHVK2xT9dS7FBYT9e8Zqx6s8fNkxqTBn47MkAlm3TonR0i5fA0ozS846F3PPXySgUJ9QdyytnKH971+4G2fj3iGaFEoF/Q1wvAJIGXIkUV+YkceT0vk5GHBm8h+2xWQVpwLWbTkFc5lfNBiaXTdvWTfcGnXF2t2R/0ZZnbbG26G1rdSOjfnYm2L2VwKVQT2szOn4EVFHALiH7WdBO2ydsnXFv+d7TObcpFh5bongrSVEwCPcP507rFTIesd7bTnJFfuDOG+s5x7TxOI7bDdB+0DznTvh8=;y6IiYngxjNqqX6/gv6NmWA=="
 ---

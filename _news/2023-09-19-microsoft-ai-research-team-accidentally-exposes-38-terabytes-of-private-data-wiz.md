@@ -51,20 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
-    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
-    publishedDateTime: 2023-09-14T22:07:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
-        width: 1576
-        height: 837
-        isCached: true
   - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
     excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
     publishedDateTime: 2023-09-19T04:06:00Z
@@ -97,6 +83,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "How to avoid the Microsoft GitHub goof that exposed 38TB of sensitive employee data"
+    excerpt: "Shared Access Signature (SAS) tokens with excessive permissions can be managed through proper configuration and constant monitoring."
+    publishedDateTime: 2023-09-19T13:44:00Z
+    webUrl: "https://www.csoonline.com/article/652825/how-to-avoid-the-microsoft-github-goof-that-exposed-38tb-of-sensitive-employee-data.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 15
 
 secured: "r/F7lpEBBM4lzHwYtByHCGtNe+6EgufGe3Fac6TjmPyWXMCAkHe6Q86WSb+0656Y13YnygOs83huuAr9PzkNzO0/emfAqzCnzjHFzbtsd9ebVFJZO9ePAMklg6KQciiUI3LHhCb1XOuTw44W/bhuBSl8GiRKZ0NM0iL/GL3Pr8x7PByeVmevEaJIKFpdpxIOtkOF9cZnncVOmFlTRUKzs4la0xRz1T82JwS/g3kD7GPcsmBTl2zgbLPTTCyZGPDrH2ttR5z1x2lNCfKQa6u0M+E4+Clr8+NoPpBPJG59QLwI1DJwZKi2vHS+gYnKlN/PaZ0ffUXaQY+cB1W7sZmzxhY5uT28LLOuOlmrk1n/PHL+t3J35Pzo6QywIPxjlr0ZKCdUH62awpLWkDy058VSz+Ke45twV6OAFqeAT19tJyyUdYOkLUvh9n5CUk5BM5IIkRrkNxgUTgZeUgyOcY3gzJBOonnPUPfBEJjtoiYD+rUw2BFuh6NuIBks+8qy4V3ABkkldfwTQlAO1FqlMvMhfQ==;3w8phruPkaeTbrGxxSJtbA=="
 ---

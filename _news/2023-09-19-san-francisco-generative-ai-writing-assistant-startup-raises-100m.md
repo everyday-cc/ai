@@ -18,34 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Writer raises $100M to bring its ‘full stack’ AI models to more enterprises"
-    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
-    publishedDateTime: 2023-09-18T23:13:00Z
-    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_flat_illustration_thick_line_a_human_hand_holds_a_penci_61b67bb0-0835-4cac-8a0f-ec1cecbd6351.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Writer raises $100M to bring its ‘full stack’ AI model Palmyra to more enterprises"
-    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
-    publishedDateTime: 2023-09-18T20:10:00Z
-    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "AI Startup Writer Raises $100 Million to Pen Corporate Content"
     excerpt: "Writer Inc., a startup that helps businesses write and summarize a wide range of content, has raised $100 million in a deal that values the company at more than $500 million."
     publishedDateTime: 2023-09-18T12:00:00Z
@@ -69,6 +41,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Raleigh AI startup Pryon raises $100 milion"
+    excerpt: "Pryon, a Raleigh-based artificial intelligence startup that makes a virtual assistant for companies, raised $100 million from investors in its most recent round of funding."
+    publishedDateTime: 2023-09-19T10:15:00Z
+    webUrl: "https://www.axios.com/local/raleigh/2023/09/19/pryon-ai-fundraising-tull-chatgpt"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "3j6vqRXmsJa2vKgx04tjps4y4ea1PLhvCVyfYMR8khGQSv02KmzeobLnQyMxFU2cK9OxNWzuBB0W5RqIpQ6BxSeCc442St7RNpP0shoQ5TnhXRdL4MA9kbET87IYXGVKZOeQnKkwbmPwCMnL8XZttW9RCIKxMWKgCFuzlVDyUMG47NBKnoTw0x7y9jYi4mOuVKK2gfx8Etd3tZZPrT+Tt56xBMWvF4ea/+TRIQL+PEllktYTOx7fL0ChRo9OkkcquWRWazzCyoaHZVMIipRFhZeYClxCfMFU3VllV65q1pQS1OtEXkVosd4swnbFiIYkRKz7AwQqMzvyeDSOH9WBknG/nTBpHGUcUkgB9OEdvDB4a8tBdr29pC7RYmrv1giNcavdfh20XlRtS7LgwSaKbTZOYEaa39oThOijkBou6MS4VB6oIvFeMzI3UUQcPC4CLXZ5T4FCxxLFXf/sta6QE6w6Doq/a4uTQ9HdnDFfkEkSKRz8/f/2N385vEmkdcpqVgRU/mxg+3LNFzZhKMIGqw==;JFBNNSIjIkkYJ7hIUHTM1Q=="
 ---

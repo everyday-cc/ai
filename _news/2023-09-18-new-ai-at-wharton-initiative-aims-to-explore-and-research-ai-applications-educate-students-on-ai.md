@@ -53,6 +53,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
+    excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
+    publishedDateTime: 2023-09-19T15:17:00Z
+    webUrl: "https://www.cmswire.com/the-wire/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 30
   - title: "Building autonomous AI Agents and potential applications"
     excerpt: "The script then uses OpenAI’s natural language processing (NLP) capabilities to create new tasks based on the objective, and Chroma/Weaviate to store and retrieve task results for context. “ Autonomous AI agents are essentially self-governing entities ..."
     publishedDateTime: 2023-09-17T11:36:00Z

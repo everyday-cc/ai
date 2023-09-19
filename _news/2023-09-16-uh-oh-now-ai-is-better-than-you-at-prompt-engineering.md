@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Experts say Artificial Intelligence is coming into the workplace faster than previously thought"
-    excerpt: "The idea that AI can make work and tasks 100 times faster is appealing, especially for businesses looking to get ahead of competitors."
-    publishedDateTime: 2023-09-14T23:08:00Z
-    webUrl: "https://nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/"
+  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2023/09/NBC2-AI-in-the-workplace.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
     excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"

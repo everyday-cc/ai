@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-alg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
+    excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
+    publishedDateTime: 2023-09-19T13:48:00Z
+    webUrl: "https://www.benzinga.com/markets/cryptocurrency/23/09/34727377/crypto-and-fintech-vets-form-ai-biotech-focused-oak-grove-ventures-amid-vc-drought"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34727377"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34727377"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/shutterstock_1464098960.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "g5nvQrKGs+P5TADAyTQXyN96ysuhOSMABvkWDy6G7NivE9THaG4mgPfV5neDaTqlRBxcbxMQIf4ZCo//XpXmq5erFaXpApMKQJ7GrGHq1cKHj0BwMEwTzhQ1wnuPSfWc/foZ1ISrnDESBPfXXFEfg6mvY3i+lQl24YrYyYdHzGA+MxTdaiSBN1pPrCK4mVc/ls1XKo5KehSAIZJ7VrQu9WjiIx1yxzzvTCn2ljWtWAAEBCmqiFzLAs3m+C3N9DMvueexW13l+c7v+CCEluJkFof16j6ffhHslKOD2ysZoQEfxGV9do8PgOVmMYN22MGPbqz/j9jN/Hoe7IIdEdpaYigGS+jQEsLe0XiDcpz5c2quGMEh8101E0Xr9AuyCLETnDNWykVZeZJC04VraIn6NqFXk3gbxLxwZItO0gFMrNAUwox/a1Lf4edYKqsW14Fud7qK25aOJ/W3hB8cTWo26/y5IPDajome4nKlKZxG+34x7f7KpIfohSmOpL7czSIvyUKNwAkInoUNF96ploh+Ww==;Ph/UW60Ra6/E8GCgMOli6g=="
 ---

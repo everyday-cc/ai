@@ -48,6 +48,15 @@ related:
       name: marketingtechnews.net
       domain: marketingtechnews.net
     quality: 34
+  - title: "The potential and pitfalls of artificial intelligence"
+    excerpt: "Artificial intelligence can help increase the efficiency in manufacturing, help personalize products, improve quality control and create smart factories by connecting machines and systems with seamless operation and real-time data analysis and optimizing production processes."
+    publishedDateTime: 2023-09-19T12:15:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/24681-the-potential-and-pitfalls-of-artificial-intelligence"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "en3GlT83Yu9P4oFZhB30jCzVZexTNloKBKQ73t3r0PjrTLbrzjOOwjB8mXwMUgkMcd4TwosLDVEv0YQDasPCMp+EHHMgWiWA7wSrMVRxVZBuxUTqr8ScQnesYF49UTHk6F6wTElcjo+k7zyRYgOnPGOiFM6/SfewX4IgSyBXkvn1usypiJ+trdEenMlsu4Qd+FQ4piV845YJK/hS2w1gYI3JdHiPRoAV37Tr25y9FYvu8yKR39Kc2teSQzzqSw+2r+DEXqRvkXbVBgVY0HyrzUUgTVkBx8Qkw76MNcGpRA2d+pG1jIkUq9Y1LG9wpPXR6K+CWXG6YUgO+LVLMZ8SE67PaaEgvlicmLAh7eJMF1E=;kzE7srRW2S85mpWMmBbFAw=="
 ---

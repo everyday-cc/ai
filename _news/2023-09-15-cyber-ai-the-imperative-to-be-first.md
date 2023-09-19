@@ -94,6 +94,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
+    excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
+    publishedDateTime: 2023-09-19T13:45:00Z
+    webUrl: "https://venturebeat.com/ai/ai-assisted-cybersecurity-3-key-components-you-cant-ignore/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
     excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
     publishedDateTime: 2023-09-18T07:01:00Z
@@ -108,6 +117,15 @@ related:
         width: 1937
         height: 775
         isCached: true
+  - title: "Mosyle launches AI-driven zero trust platform for securing macOS against cyber threats"
+    excerpt: "LeeryAI makes use of a number of different predictive AI techniques to build an AI model for each specific device of what should be running."
+    publishedDateTime: 2023-09-19T13:00:00Z
+    webUrl: "https://venturebeat.com/security/mosyle-launches-ai-driven-zero-trust-platform-for-securing-macos-against-cyber-threats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 39
   - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
     excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
     publishedDateTime: 2023-09-15T05:44:00Z

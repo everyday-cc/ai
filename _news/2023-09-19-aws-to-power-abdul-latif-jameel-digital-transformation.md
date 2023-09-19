@@ -37,15 +37,15 @@ related:
       domain: zawya.com
     quality: 18
   - title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-    excerpt: "One of the region’s leading internationally diversified businesses will use AWS analytics, machine learning, and generative AI to drive product innovation"
-    publishedDateTime: 2023-09-19T07:43:00Z
-    webUrl: "https://www.01net.it/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable-energy-agreement-with-amazon/"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
+    publishedDateTime: 2023-09-19T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
-secured: "TWkGCmRa8VkvVrjM3hOr51dviZEIUnuM9pQakxnHRkECopBVRwPiYDrjTfrUpKnmwhE/Zb/ctn3pYPb+c7+1x8IWoPMdzLFXxpsB9+Y5RFp9pKOXzpDcDn7LwzsUHNtfHn8NJI1Jo7CV2100EWebg4iaXqcv781Rtu8ErPI4pAZZHUTwg6xFuTmeyg+FmxfqZ2FdK1TYZ4G3P8xwmYb1iGwxYyXvnebUIX/eTzXnisW1qjgKeyS7bAQX7YtIqsrRe/yHBguDCB6zVEkCV/afuC7O1Pt1yKFVkpd6Wl/FYs0brX/vOZXPVmabTn0vucJhGb94md6mKOBBtIhHeFVVNK0jtSinrWzbvpI2W9UmGfM=;iSwyB1zK/UtFb7kJRfvYWQ=="
+secured: "WL7x61+FcqEATR4GCAJbxn7UM0A5V+oTanK0pVJZHhrh17loByvCjXlEkwoJ/cDubZ+hLWPVYri5OkbLjdzOO80HtTd3ryRME4pBDXJS0qf0iqLT7gZnxBl7aR+FSK1Dy/2chndgpjPfRWLZDKlgs4JHDGBMpOiUT3XGJZL9nRay4cOYSibV4/JsDkn2V9cbTtIR4UnkgxBicoaVr6sg8Dk7001MCC16FpLzR4co9tFCMncBWqLJHfHsyhM2yBBIxJb9bJUiijT8B+UG9QX4pDGzYnnavWiA09WF4QgOUHkzza/4HCskDvNmPW3kjfc6EVZs5cyisWD8AgLKnu5zvxFnOcZfgsf9xPs5MGY239Oglat8lGSGfxQFRJG9A3NpFqgZ6+x2bVi7pbW4qPNWNc6cZ13zuCCdVHrVX2lGnHZz9tyu2sJ4KZydC4dhF4ZtINZqkiR+s0DGd6M6XrjywahMJpZK/5huwDslASBYecb8/x81FoWwx7VV0845yzFOVTlTfuwD8OoBjH7J0cCcpg==;VZVqbQJ3xmqqoTtmf05tGA=="
 ---
 

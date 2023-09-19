@@ -39,6 +39,15 @@ related:
         width: 739
         height: 415
         isCached: true
+  - title: "The Rise Of AI And The Impending Data Aggregation Wars"
+    excerpt: "I’ll go over how AI is disrupting typical attribution models in online marketing and how the companies dependent on them can take action before it’s too late."
+    publishedDateTime: 2023-09-19T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/the-rise-of-ai-and-the-impending-data-aggregation-wars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Smart money is on learning about Artificial Intelligence"
     excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
     publishedDateTime: 2023-09-18T03:47:00Z

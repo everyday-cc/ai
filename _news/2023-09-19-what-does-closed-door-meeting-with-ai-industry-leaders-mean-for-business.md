@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-
 webUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Businesses are Using AI in 2023: The Companies Leading the Way"
+    excerpt: "The rise of artificial intelligence in the 21st century has started a new era that is expected to change the course of the world. AI is being hyped as it systematically changes the way things are done – or at least promises to. It affects people, processes, and systems significantly, which contributes to the fervor."
+    publishedDateTime: 2023-09-19T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-businesses-are-using-ai-in-2023-the-companies-leading-the-way"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Small businesses can learn about artificial intelligence"
     excerpt: "Small businesses will be able to learn about artificial intelligence at an event next week. E-Skills IOM, a local provider of technical training and support, will host a two-hour workshop about using free Artificial Intelligence (AI) tools."
     publishedDateTime: 2023-09-19T03:40:00Z

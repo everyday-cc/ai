@@ -7,7 +7,7 @@ originalUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/
 webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: marketingtechnews.net
       domain: marketingtechnews.net
     quality: 34
+  - title: "The potential and pitfalls of artificial intelligence"
+    excerpt: "Artificial intelligence can help increase the efficiency in manufacturing, help personalize products, improve quality control and create smart factories by connecting machines and systems with seamless operation and real-time data analysis and optimizing production processes."
+    publishedDateTime: 2023-09-19T12:15:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/24681-the-potential-and-pitfalls-of-artificial-intelligence"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "Q5K9VUUntNneb85eyMF7p5fsLMMWVAQUnU2ppniwExfIbBCDy/cyWgBBDx3AmP5a4/xQ8mE3ef+AtmNgVQW/zKfA3zW9Zkgo7koMRMv3jMI2ANy06R6op0uz3sUfSpC4H1Ev0S9bKAIh+pfnZRki2WE8mwmeeCPqNwJv2sNBKYdPBfCXkrCvKyBPLqzSKYZSGWwHjJvd7u4Z+1+8yBOJb+v1rQUaHm/CWRY8pM1d3zTqj+U671+Q7q/6NNVz8J53JgwnUBaG/cQrLdT6iBfyItGA05UMoVN3XUYh3+6ZSmyOMymJ0Uw8eODDnes+DaoRzwhdSXQ5sn4hUPumyIG+yr35Utwzl7niMH+Io//KGcZmAm5QUiKf1Usqjg8m4mqT5M03nM+nAf8+I7v77L+vbsHplD5CPYf3RKkHcm/Ta1k0zj6y+YeX5P06GMDsjFu0d62Lk76UvbRhTkD278cfwaiirGL1GTS82n/18CyrMVerEwJRGYpwdYN8osE4QuACvS+yr+oL/oN/B0Nlkw0T8w==;ECsL3JIGCWI654fnS+EBsA=="
 ---

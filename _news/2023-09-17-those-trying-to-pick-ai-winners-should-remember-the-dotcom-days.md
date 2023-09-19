@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/82168156-006f-4d75-a4e9-0b6bdccef3b2"
 webUrl: "https://www.ft.com/content/82168156-006f-4d75-a4e9-0b6bdccef3b2"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "You Don't Have to Pick a Winner in Artificial Intelligence (AI). Here's Why."
-    excerpt: "There's no shortage of hype over artificial intelligence (AI) this year. The launch of OpenAI's ChatGPT in late 2022 made it clear to tech CEOs and individual investors alike how powerful and potentially transformative the new generative AI technology is."
-    publishedDateTime: 2023-09-17T15:48:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ORCL-N/pressreleases/20337336/you-dont-have-to-pick-a-winner-in-artificial-intelligence-ai-heres-why/"
+  - title: "How AI Trading Could Change the Game"
+    excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
+    publishedDateTime: 2023-09-19T15:29:00Z
+    webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
+      name: Internet of People
+      domain: coinjournal.net
+    quality: 39
+    images:
+      - url: "https://coinjournal.net/wp-content/uploads/2023/07/1689852872303-5586e800-dd45-45da-8dc2-7a3d663229b6.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "How Big Tech Is Ruining the Dream of AI"
+    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
+    publishedDateTime: 2023-09-19T10:07:00Z
+    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 39
+    images:
+      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI is paying back ‘the toggling tax’"
+    excerpt: "A recent HR tech release from Microsoft and SAP uses AI to streamline platforms and restore time in the workday."
+    publishedDateTime: 2023-09-18T13:21:00Z
+    webUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
+    type: article
+    provider:
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 19
 
 secured: "ddI1uPaZN3D7ygz7QWM4+PhuvF3H5VpXXM1jNsr1jeD6420H5qI5Cmz4OUHLhiR7h/JbOhByPpkVrmMc0vOC8anL9JLL459e7c5yB/2I943uWgM62j7DjmE3dATxIfYbqkcNhcnU+qOVJXWpMODVH9+jrBCySazcgZQsid+HLKefyOR91DOGxNGJG9USIB9y3eAgdye2li2fEF/FCFbadfXvSCAnpg0Za7mBNDRZlnKgXIdzJnDDHZZf7EFu6RzPXpwfXjvxBROumfg80vx6p0gCOxc+SRgj8kLCGtqt+IQ52Gr6VgFyzuP198nkoqHvOCXMHLWRU4N0JTDUJ35+KixCfXtS1LoKA0HfXvPZ01K+vyxlXfVVM4Gy2lJKQxBzcdNHHIr3GQ45TnGUzeQJXqAEVQ8z8W9WBVdVKPAORJtRzp7uqqFblIOnAi9oFWKdCKs0enJ3Z07n9kbCORwQgqk6/2BqseXlcXfLxQDsHnfwG0IAXHxo1wsgwvQ8t51mtx4Ue1JAMbAe8mziZ3ROOw==;2uhPPhOmf2DG7WSaCEXuTg=="
 ---

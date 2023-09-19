@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How will AI really impact your job in the future?"
-    excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
-    publishedDateTime: 2023-09-14T20:41:00Z
-    webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 41
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
-        width: 1024
-        height: 778
-        isCached: true
   - title: "A new global map of the AI future"
     excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
     publishedDateTime: 2023-09-18T20:00:00Z

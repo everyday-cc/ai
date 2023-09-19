@@ -151,6 +151,34 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Ochsner Health launches generative AI pilot for patient messaging"
+    excerpt: "The Louisiana-based health system will use generative artificial intelligence to draft messages to patients, which will be reviewed and edited by clinicians."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.healthcaredive.com/news/ochsner-health-generative-ai-patient-messaging-pilot/694081/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 39
+    images:
+      - url: "https://www.healthcaredive.com/imgproxy/J_F4knKM-nNjRu6mABkXUCwAVsEuBPVs30XCllQXZCE/crop:7942:4487/g:nowe:7:206/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0Nzc0Njg3MDEuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Enterprise-focused generative AI startup Writer raises $100M"
     excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
     publishedDateTime: 2023-09-19T00:01:00Z
@@ -164,6 +192,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
         width: 754
         height: 416
+        isCached: true
+  - title: "See How AI Generates Images from Text"
+    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
+        width: 790
+        height: 497
         isCached: true
   - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
     excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
@@ -179,6 +221,15 @@ related:
         width: 688
         height: 507
         isCached: true
+  - title: "Accenture invests in generative AI startup Writer"
+    excerpt: "Global IT services company Accenture has made an undisclosed investment in Writer a generative AI startup for content"
+    publishedDateTime: 2023-09-19T11:37:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/accenture-invests-in-generative-ai-startup-writer/article67322420.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "+rA3rCB7QMeU95F+k7m25yFQHCgjtcK+2+gddC0ADzr2oQ6R62g46QsfHnv/mLd2kL5MWiClGfjXl0+mvo35x2UNcjyq3XTEjyrIrcC55gS9dwhrsYsMRFLLSzNk03+bIkr8ZgNiAvmGa9SvIT90PW1EKeCek+37JWA1p9aondtoDWjBezH2NR+8k7zApNWEbBevjtDSSKqHJbquHxEJLFIikGwujZUFFIbgkk+RF4Rm9XkJU+1kXgW4VAAIeRxCdaqxwNzx/FliFmIcmWnIMbJAKoiuLqmNeX6WkLmhMNuyIJnaXpa36yIyoJj4a3AXysD95iTCRIXUgodIu8czSnUtg6A/2sUYPpHO0qfcmRqmTvY88F5QzIokHIpmSVCUFnJhTTkOPBApzS9aBgISDLnZA1OZrAViPF7onHHLYTORW5QqNFjcTvtKKDOlenpcifD0FgJeesOBz97MBgTemC05nB0PQ/jX/qRxjfnBZBEfjWaWKe1H8dC2K4lVpqIwaUN56s6zT62VM+rW+996+g==;rHUHLffoBJ5Gzhfg7+/jWA=="
 ---

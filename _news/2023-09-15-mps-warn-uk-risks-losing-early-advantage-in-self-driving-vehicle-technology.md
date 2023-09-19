@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2023/09/mps-warn-uk-risk
 webUrl: "https://eandt.theiet.org/content/articles/2023/09/mps-warn-uk-risks-losing-early-advantage-in-self-driving-vehicle-technology/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New laws needed to tackle safety concerns over self-driving vehicles"
-    excerpt: "Transport Committee calls for new legislation to tackle safety concerns over self-driving vehicles and urges caution about the speed of their deployment."
-    publishedDateTime: 2023-09-14T23:06:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/company-car-tax-and-legislation/2023/09/14/new-laws-needed-to-tackle-safety-concerns-over-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "techUK welcomes Transport Select Committee’s call to legislate for self-driving vehicles"
     excerpt: "UK welcomes the House of Commons Transport Select Committee’s call to pass to create the regulatory and legal framework for self-driving vehicles in the UK."
     publishedDateTime: 2023-09-15T08:40:00Z

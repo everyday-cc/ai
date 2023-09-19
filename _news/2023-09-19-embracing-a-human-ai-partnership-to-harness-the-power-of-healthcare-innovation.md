@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Health Tech is Squashing AI Biases and Leveling the Playing Field in Healthcare"
-    excerpt: "By making large amounts of diverse data widely available, healthcare institutions can feel confident about the evaluation, creation, and validation of algorithms as they're transitioned from ideation to use."
-    publishedDateTime: 2023-09-14T21:34:00Z
-    webUrl: "https://medcitynews.com/2023/09/how-health-tech-is-squashing-ai-biases-and-leveling-the-playing-field-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-177052337.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Health care and AI can be effective partners"
     excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
     publishedDateTime: 2023-09-17T12:59:00Z
@@ -69,6 +55,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "4cYy7Fd8Y5pjXPvSjuvxBpV/2IIhpi+ahVlHCfC3Or5jPQAi+wNC7MTHUZNdGc+qL2bwEKaVZ7LiOPso+dt3nQM8Ma+o376Mb4WmmSbqXKOaeQ+6OxW6Jg+XqJ8sCqVS/WL9ejpup0htkbBWqhbraub5rQogROYWdTdaa6McyLfkHFCd60SIXWI0uh+CunUsdJkryRvZqe85NKgGYo/KaT2cQweDomvp5uNerZ5EZjbBsQZVeBG5AH3kL4gI4UyrLn9wOwph/MyH6s2x/eC2u1/23FQ/Fwm39Nrtul3laEBGvEGVe6RuEkpkteLQnCu+kl1UiwNHQIMr1Y9fOjVQU0LkqK4zBLeSMyfBIs7X+gw=;qolvolRqQteO8r4gydPCMw=="
+secured: "439bK+YJFuTq0+V3iDqlAWqSt2uDEAmowaON9F2SsYMF9uspKKDOKH9cr5txNyJJKZv1N6hy49tj2fOAN+cgLh0zeS4aM19mDG+iEuh2uojIvmcKBZChdt7W8orfmnJZOyaMap1uxbDF/lNU+MT5F9TlL25cki9yvMVUuX053XUXH7ZwaBIZ5sUtkkC3LaC8+Cq8o73nyA+eStupDDwCDMizqdl/KK3xBtuGerM491XBe+R98yn4SzCj1vi//sJmW5OB1/CprG2NGZDusxES5s9Q+/xz0nZ9dZcojSQC0/3HvPQ9tidZsS7f5U2X5wK/+LHhZpidjLA+N23+TJ2tUgvGzegeOPntEkd0PjHVbLw1tgsvj83RFv8s/J27DpCEFUyOOvLcO5HVtazLj60zpu67CdXE6Rm15Hsva3gXyMrdsmOT/hxc7kQqkdor6aZSE6+RsJdzILHMiD6WQTV9Nu1x01sgbnjbvyPde3Aigmf9SaHBLOlqn/pDPOOt5kWGvDLzpwqEHShMCz9QZN7Buw==;Ts7AbceExnqCVXZ8sY1YqQ=="
 ---
 

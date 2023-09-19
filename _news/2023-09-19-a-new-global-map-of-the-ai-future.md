@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "How will AI really impact your job in the future?"
-    excerpt: "\"AI will be at the core of everyone's job,\" said Dan Diasio, a global artificial intelligence consulting leader with EY."
-    publishedDateTime: 2023-09-14T20:41:00Z
-    webUrl: "https://technical.ly/professional-development/ai-job-future-impact-ey-dan-diasio/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 41
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/09/1rzo9eL5F9cwQ5IzA9rj-4-0w1dg.jpg"
-        width: 1024
-        height: 778
-        isCached: true
 
 secured: "/164+9CCiU2TgtDxYOJtONdufMs7sflJ6tlSd8R2AHG9IGAtI/ZdS2N0gDCEYxNvxQtcv/u6g5w+6tuaPwAE++gL6sL73Oz6DG44r1VWhtaZrYpwD24JPLB7Sm8MeKJ2PiOHMD8Q+lKEoIymVSr+/wOLx6qGFKwl2BQyHqxXtSMk7+Js/N93lx9xie0jqznrAUK4mQ/Q79AW3jk7iwxzCMNx9vpRHJ3ywRzUHKkr9Pv4qiO3dotcAQ3d3NbiOVh3TTfSFIWbRaKnNFjBS9jrImThD3QOZRirTAdbGfJ2aZBk91urlPVfrUuvg2A2sm+ZfxeVILHviuU1Nu/5J/JaZ4MkCBZlWAT6hrLgbxMKTkI=;w44trkkoYQs/uBSXXqNYFg=="
 ---

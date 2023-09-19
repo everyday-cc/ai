@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Psychology Today
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Emergence of Ethical Challenges in AI: The Imperative of Navigating the Moral Terrain"
+    excerpt: "We welcome you to the era of Artificial Intelligence (AI), where groundbreaking advancements are rapidly reshaping our world. With AI algorithms making decisions that significantly impact our daily lives,"
+    publishedDateTime: 2023-09-18T13:49:00Z
+    webUrl: "https://techbullion.com/the-emergence-of-ethical-challenges-in-ai-the-imperative-of-navigating-the-moral-terrain/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 45
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T144800.943.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Artificial intelligence: who are the leaders in autonomous delivery management for the consumer industry?"
     excerpt: "They usually comprise autonomous drones or robots that receive delivery instructions and payloads ... established consumer companies, and up-and-coming start-ups engaged in the development and application of autonomous delivery management."
     publishedDateTime: 2023-09-15T07:06:00Z

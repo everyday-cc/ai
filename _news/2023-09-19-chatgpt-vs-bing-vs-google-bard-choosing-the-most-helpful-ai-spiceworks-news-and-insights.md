@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
+    excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
+    publishedDateTime: 2023-09-15T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/claude-pro-vs-chatgpt-plus-comparison-which-ai-chatbot-is-better-for-you/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
+    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
+    publishedDateTime: 2023-09-19T08:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "xiEC+CIvAPNibvLhiyBp9z5TmBnc82yN4nznZwYhycPXEyBjVfk70vMje0aUELBvzXMBkwyOyJ7j3SvVZcshN6YiLdjDDMAf2c1upa/ywcKFVhb7H/3RmNn/RCHYs0UXex6o+esoQ60cZKh9LZIR9yWlFo1ICfH9hFFVj+L4qokV2Rd2BadWvzUZoYPfMTQLk7Hdn6Hz57Js5/B7TTYW+gqZXkWUhtNpobVh1HQYBrrXAHP0XDEDoidtCVXWzOZOM/wNT8FH9pdSK0le7WeVoQqvE4TRfmxV7AYH/RZxNtupXY0NKZxpmPT5tuqN388g4XzRQVKbvrJm+TPuFrCxXNuXRuutw9sNsjYHJReffwM=;lW5F304OD7vwlBRIT8qBZQ=="
 ---

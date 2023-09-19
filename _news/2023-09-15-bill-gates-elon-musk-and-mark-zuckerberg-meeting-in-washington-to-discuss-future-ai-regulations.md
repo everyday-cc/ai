@@ -7,7 +7,7 @@ originalUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuck
 webUrl: "https://www.thetechedvocate.org/bill-gates-elon-musk-and-mark-zuckerberg-meeting-in-washington-to-discuss-future-ai-regulations/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 660
     height: 400
     isCached: true
-
-related:
-  - title: "What Washington should be doing to tackle AI risks"
-    excerpt: "An over-reliance on feedback from industry leaders and choosing to reset the clock on AI policy may benefit tech companies."
-    publishedDateTime: 2023-09-14T20:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-14/what-washington-should-be-doing-to-tackle-ai-risks"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "wpMTdD0iyz6D+ox9247N+LvS5V4vDwGwCzYxTZHIPqK6V2iGyHlQgIyKF7YtENxiPjQA0TTz9HpU+7GsKxrBG/xs/+6znrtz028wlIQYi35QvPvZMYW3rJRrz9WDPO9JpBWK3mTFPh5gSqPcwdrG57wi98q+P9B8Rgs8ZVbajkZijcBFjIw9SdgFs6tRvKvpgKzmF2CF7Qfqdbn7Pptef7ZpG7TMH6WsfIzzZrb/Oziza2q3Ldq6XLvgIJ0Xmzsp8+EicnEaEGmnVMk6dQjdwLfE4oF6HaizKLN+8EtxzdHdpc6MesAD4CES+dEudRLfwnGYmQt2qoMDL9/91RVBpmHtHQkwNT1LIqCYzeEqNmgnLW97zJKNZkd6EwjzlD4z6b6WN6RmsSKnn2Yo9MYgNrXLDc8YeFhuraN/LjeXg6Yd4oBqt0xb+eapV9oO3m0eDvH0jOgdF3Mg2p+5tht2ifK8Y8aVVg07F5ZxEVks3oZzAuIsc8xB7PcUp7B54eUCvnQBvOHa9L7f0wuLY/dHEA==;PGYR2IeXx0rS3FWw8rJy2g=="
 ---

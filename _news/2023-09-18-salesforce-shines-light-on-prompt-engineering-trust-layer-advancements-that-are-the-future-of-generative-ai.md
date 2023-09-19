@@ -31,45 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce readies AI assistant for CRM"
-    excerpt: "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models."
-    publishedDateTime: 2023-09-14T19:49:00Z
-    webUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html"
+  - title: "Uh oh, now AI is better than you at prompt engineering"
+    excerpt: "As they put it, \"Each optimization step in our work generates new prompts that aim to increase the test accuracy based on a trajectory of previously generated prompts, instead of editing one input prompt according to natural language feedback or requiring the new prompt to follow the same semantic meaning.\""
+    publishedDateTime: 2023-09-15T17:38:00Z
+    webUrl: "https://www.zdnet.com/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 119
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/49e319eaf42408acb4fced89e8a5fdb0acb93884/2023/09/15/b313851f-5b91-46c9-b4f0-fc038679dd77/932743-a-computer-keyboard-as-big-as-a-football-field-wit-xl-1024-v1-0.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
-    excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
-    publishedDateTime: 2023-09-15T19:41:00Z
-    webUrl: "https://www.businessinsider.com/dreamforce-salesforce-ceo-marc-benioff-generative-ai-2023-9"
+  - title: "How Modern Data Engineering Brings AI, Machine Learning and Data Science to Life"
+    excerpt: "Don’t underestimate the value of artificial intelligence (AI), machine learning (ML) and data science. What once used to be figments of the imagination (like facial recognition, smartphones and driverless cars) are now reality. How did we get here?"
+    publishedDateTime: 2023-09-15T15:42:00Z
+    webUrl: "https://www.dbta.com/DBTA-Downloads/WhitePapers/How-Modern-Data-Engineering-Brings-AI-Machine-Learning-and-Data-Science-to-Life-13035.aspx"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Arm’s IPO rockets, gen AI explodes computing and Salesforce spotlights the AI trust gap"
-    excerpt: "In this year’s biggest IPO, Arm stock closes up 25% as chip designer raises $4.87B"
-    publishedDateTime: 2023-09-15T23:46:00Z
-    webUrl: "https://siliconangle.com/2023/09/15/arms-ipo-rockets-gen-ai-explodes-computing-salesforce-spotlights-ai-trust-gap/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: dbta
+      domain: dbta.com
     quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/explodingservers.jpeg"
-        width: 1020
-        height: 806
-        isCached: true
 
 secured: "mUolGF5bWhIHFMnxTgvGpp20lOrVZwZLcVfJn6CUuRcUr/RuKZkzDiXQ9a82R+7/+Mn9mpyqgQKkF+TumKL23hPyVI7itk0AEPGmUcW76OT/b2rlVEZm+kVmTRH4MeZIMY+EphFMi29YSbH9pWelYZwk8BIgIGYLpml5EhAXrGGusJQqZJr2GZT5bA7MzXlO7uGhU9zU8QwJh4G5j7/T82JjQB0ExCqedDvOqotNmGAC0/43YuRRAz7Iz+QRH/W26WfisPhsXYZvHpSwbSx2QILSfGEa9tIwybld8RaC78Bl0qj10Tkw2O3j26JWcg6tHSarVVzH3NRRxVUhgD7NBJjf86vSXdAdn1jof6TsN8xztibcJ2nSdmSEiDiAU9CJpNlSv17X84ncUTwipH3Vfvc2dLCdwZx7iAIrp6Q4lMMpI4f9jZCBatJC5IEFtMkgBB6JdEKQ88FTtrcexJYQj+yGEASJnROOGmvpIBkuwi3fKMFzB0XhyW7F0vWs0IoUuxd3jqqrFMOGlrI4o7mK3w==;V4YSHZMbQBRWTJc7prSMsA=="
 ---

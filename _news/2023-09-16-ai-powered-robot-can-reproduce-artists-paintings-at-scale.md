@@ -28,7 +28,7 @@ related:
   - title: "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings"
     excerpt: "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces."
     publishedDateTime: 2023-09-15T19:30:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479"
+    webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
     type: article
     provider:
       name: CTV News

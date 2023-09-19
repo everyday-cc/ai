@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 698
         isCached: true
-  - title: "Oracle to colocate in Azure data centers under expanded Microsoft partnership"
-    excerpt: "Oracle Corp. and Microsoft Corp. are expanding their four-year-old cloud relationship with a deal that will colocate Oracle’s Exadata database-optimized server and Real Application Clusters in Microsoft Azure data centers."
-    publishedDateTime: 2023-09-14T22:07:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/oracle-colocate-azure-data-centers-expanded-microsoft-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Nadella-Ellison.jpg"
-        width: 1576
-        height: 837
-        isCached: true
   - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
     excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
     publishedDateTime: 2023-09-19T04:06:00Z
@@ -98,6 +84,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "How to avoid the Microsoft GitHub goof that exposed 38TB of sensitive employee data"
+    excerpt: "Shared Access Signature (SAS) tokens with excessive permissions can be managed through proper configuration and constant monitoring."
+    publishedDateTime: 2023-09-19T13:44:00Z
+    webUrl: "https://www.csoonline.com/article/652825/how-to-avoid-the-microsoft-github-goof-that-exposed-38tb-of-sensitive-employee-data.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 15
 
 secured: "O5ZO3JQaHc1SfVGFRnVjw+g8rJI+O18uq1CjIRT2bs864kVilzNWTg3uELxcXl3+9EEkBPb3+TDoqPu1Nu01vy5KZGvrz235Cd5PtggFq3pPAUSNIgHNO67vQhDdXL1gJNGuZOanBvN2KK/A8tBINXKAF6K78VNbp5z7eGXDgh7Hdz2bKX1oJ87AojHs2G5PNyfpaqRDIh5mJS+zAAD36E3o55z9kUiO1sDZd3k0qENdNx4iQ95Ouy9iPnJk8OXl8RbUasqG3BpPXWjWLRpgfz35Li35PZ21N3Kqtkb3S1xRG+9qNe8hcb0sD86an0k94gVAmfkRDmGF+NIgEaoltPO4FTkshLFFjoEwM8NLejM=;8QHPrk40o0NnSnQcSCfWuw=="
 ---

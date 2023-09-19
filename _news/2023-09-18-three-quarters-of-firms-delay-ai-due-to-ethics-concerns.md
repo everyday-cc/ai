@@ -47,6 +47,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "The potential and pitfalls of artificial intelligence"
+    excerpt: "Artificial intelligence can help increase the efficiency in manufacturing, help personalize products, improve quality control and create smart factories by connecting machines and systems with seamless operation and real-time data analysis and optimizing production processes."
+    publishedDateTime: 2023-09-19T12:15:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/24681-the-potential-and-pitfalls-of-artificial-intelligence"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "F6WlTj4rSZFofF6Twhya04vLPXvVt2v27ilxwg1066GPY7LIiJpJD0vcNbjvnp5hODDqAFMkXZBcXxXYm9SL28ItWEp8aowDhXv4xhnBuYRG02ii+y2UxIzaSmV8sO4V8Ipnqow2GuTnKyl4aQvf62B9xA03iJ7FAOAaVmDpL7vCmDPgoId5iA0wS1QD76zDRNxBAqG9kgEI3HpzVfqQrPoJxGqIT9e3vu8POpicNpcKzTmQxRr1Mi7gjYtN+y/LVmnYscJ1wHdhwl5pxJowCmlQhJJ9lRdV2dKgfhtxWQ8TjZWSNPQORyue7s+4st0pTI6GpI4MGrF2FOiloaPuSkh4fa17i1bnwvbunhMaqvWhbsCXsiM8POcrw1cKXKQiLfHD4JxUH5uZQRqa7skEvT/TxtvGIFl/qWizbPoFD+OFBWK9PRFwM9VCQI4t031mbD6ObJP7S58xVahn0pW8jHSOlS/3DJGO7Dq4Hj7AE7jLMo604WjFRiz78Y59X5W63GxFJM/1ZPWqh0ptpp18pg==;t17nbsSjJ1FTbF7fEgKnjw=="
 ---

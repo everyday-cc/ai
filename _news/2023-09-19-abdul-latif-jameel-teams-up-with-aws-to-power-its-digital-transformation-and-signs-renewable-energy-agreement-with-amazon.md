@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-excerpt: "One of the region’s leading internationally diversified businesses will use AWS analytics, machine learning, and generative AI to drive product innovation"
-publishedDateTime: 2023-09-19T07:43:00Z
-originalUrl: "https://www.01net.it/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable-energy-agreement-with-amazon/"
-webUrl: "https://www.01net.it/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable-energy-agreement-with-amazon/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
+publishedDateTime: 2023-09-19T10:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
+webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -45,6 +45,6 @@ related:
       domain: zawya.com
     quality: 18
 
-secured: "2DYz5k1HA1wQiu2Rt3lwCJV83qJh/V4NH/WJd6x1BSWCkATC8Nx/onZHfK++4PSlRWoK3mX8tM9HglZzaIFhlWbKaOtxTs8+uiJ6PB0IfXyhkZkTrGUvhp15KKDYINoH1PW4gR5RgV8gDIy8xgsvU+TXop4qt5ovQ54AwMLrp31On4TFMmLz4A61SsHYh/mFPi0JP9GSjN9r1zoR1F3IoJK0dzSJBXSUTleD/PKa0FRK3vF6qrN3YYoDAqPhIj5sgI4enaYbYxhrrmdmxdYtxOwh9OjYlD/1EacArIhpuKL/pwwJTRlxIK/uM+lqPnhGFWgyrlmc1hENva8oy+hm1FsZlemadKYpOq80roFO4cU76XnlkiFMkICXVDD3iGIEDTWRuh6TPi4z2cZp2GOcHMQKm4iOx33q0pqfLrEFI8Fk/I1sjG7KtOZoNcu8E6qh88WtUwoDTnknX650dMR8u+s4PIm9ggQ/dsaolt83UlG5lqPZRJMi35dwL0aiiIPTtBHopLn6e8k5gpcttsGDLA==;+WJBwLG+ifR6cPXzEIAmdw=="
+secured: "9UekGpDRwKLSC1xjInhxuacXzmIdnn7dxrWcyK6VqthQhODhfel2JEyfAh7UyXo/JbU4TVDgDgtJtCZXwGQxbIEqiG5okXUfoklou0Ne+RJav7dxwLJ/DlrkB91xoDKbbTMRvqsGUCHJfaQk42mjBK64R020QCN5XzFKCeI2yUw/HZp0S1Bs/POdRhmxPJHHwWtXfcwJibN7DsGTMANCEAyY8hgSxkuHJ2wpWVoMQnkFwvnJYNJtZWKcI+UqnXIOPr3KZWaBLOOrE3JD/r6uoA/5AmeGPWHDt12+5ZQZDu2FvzAPMtmT4eD1rSYbrtc5Egrj3z154/345J4f5BKacTWNJxLiOEU1gl2WPuVmWzA=;oRedIH0b5U9HpvinLKwLNw=="
 ---
 

@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "The ethics of generative AI: How we can harness this powerful technology"
-    excerpt: "With the great power of generative AI comes great responsibility. Here's how researchers are addressing the ethical concerns and challenges -- the biggest questions of our time."
-    publishedDateTime: 2023-09-14T21:02:00Z
-    webUrl: "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/"
+  - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
+    excerpt: "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations."
+    publishedDateTime: 2023-09-19T07:53:00Z
+    webUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/"
+    ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
+  - title: "4 ways generative AI can stimulate the creator economy"
+    excerpt: "From generating video scripts to creating artwork, artificial intelligence tools are changing how content creators work in a big way."
+    publishedDateTime: 2023-09-15T12:13:00Z
+    webUrl: "https://www.zdnet.com/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/4-ways-generative-ai-can-stimulate-the-creator-economy/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 105
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/129698eae42671ce2b20b92978a585c39b18409c/2023/07/07/1c2e05f9-713c-4a92-87be-489899091f19/gettyimages-1206756458.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -61,19 +77,49 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Emergence of Ethical Challenges in AI: The Imperative of Navigating the Moral Terrain"
-    excerpt: "We welcome you to the era of Artificial Intelligence (AI), where groundbreaking advancements are rapidly reshaping our world. With AI algorithms making decisions that significantly impact our daily lives,"
-    publishedDateTime: 2023-09-18T13:49:00Z
-    webUrl: "https://techbullion.com/the-emergence-of-ethical-challenges-in-ai-the-imperative-of-navigating-the-moral-terrain/"
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 45
+      name: Wired
+      domain: wired.com
+    quality: 71
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T144800.943.png"
-        width: 800
-        height: 400
+      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Taking generative AI from experiments to high-impact production"
+    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
+    publishedDateTime: 2023-09-18T14:34:00Z
+    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
+    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
+    publishedDateTime: 2023-09-18T09:04:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "FH+mtBBgpPEbbmG5YgqD1fXLzSFCKg7wymPBW0X34YNLY5aSuCCL01T/hXpKlx/n1KXz2opv7b9c8BlkO5huSHt7xNxJJo50SkfbVzmlYRGUDen0uwi9IrggL6J7O0jOnqM5qZCRcwitmm0dgs6VQSdXkgh3BQ33lpogbm0F1sAJBVuj5gVgoGLZEjNNrTIm27DCKrK6pmrtkGrc3BEGKDMKDyjLcJjfoLJkzvYZcweVH92NiaVJltAJsI2Zn1J3XvNebFA0rwn5F+YM9z1xkNJLrcB4oKZGxc0de9+xGy06Fw8vg8YJV8jOWgPmnc3DQCwcDEWhp1k8GiBpr7R4+4X0kZ3e6NhO/suofg2YSdbIyhdw89EhdEyAvr9F6TocsO541Izt5pPGaOQn3Ghe0hXZ5IP6OmLMSN4Tcv67tvsyg6ijiqVRGny53pmqrDh2Wrb8eZ0p5B888snu1ysVfGwuuwfe4Qrgy1R9+SGHYXK7crhixYZ6SxxdNr8R+spcw0u2IwE49cSRIYDZebq+rQ==;1+r9UfSZRNzNvRK5xDF/Ow=="
