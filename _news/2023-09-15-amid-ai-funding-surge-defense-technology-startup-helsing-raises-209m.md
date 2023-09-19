@@ -33,20 +33,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 39
-  - title: "Curipod helps teachers make interactive lessons using generative AI. Check out the pitch deck it used to raise $4.6 million in seed funding."
-    excerpt: "Norwegian edtech startup Curipod helps teachers make interactive lessons using generative AI, and just raised seed funding led by Reach Capital."
-    publishedDateTime: 2023-09-14T10:00:00Z
-    webUrl: "https://www.businessinsider.com/pitch-deck-edtech-startup-curipod-raise-seed-funding-2023-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/6501fccc1afe8f0019e9c530?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
     excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
     publishedDateTime: 2023-09-15T11:10:00Z

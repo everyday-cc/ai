@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/stability-ai-just-unveiled-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How does Stable Audio generate AI music and sound effects"
-    excerpt: "A new AI sound generator has been released in the form of Stable Audio capable of rendering 95 secs of stereo audio at a 44.1 kHz in seconds"
-    publishedDateTime: 2023-09-14T10:13:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-sound-generator/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/How-does-Stable-Audio-generate-AI-sound.jpg"
-        width: 700
-        height: 463
-        isCached: true
 
 secured: "Ek2qqnA3DDPli+Dbf2G5a7GxN0UqjdDjowqEzgxODPqv2040UAgOIrkckJQvDVgxpPdLvd50GqziLItaw9bAgzdPK9GWeE/0onHTv01NtuC5FOpteCiocQVVtBa74XP/DmjuRqnn1AltLRG+FX0pOBWNhH5HUSvDz98UwQXCuy18N5ARj4x475jXAuXD1M8X2Yek9UZjOqM+yzk5+75o2y34qLXWIZiYmoiBDHRTO8cr1P7+J1DdNjn/bFjKNGeTKrcQb3zH4dY+n1S+4Cx/VXtmGrhfTC7R+XFenlZ9Dfj5DcKqRSQXCRUyV5Pj8pdIw4wGRhOmgtaCwwyFwX89RwpbFZm087F+n9p4mq2SqT8aauEFvoJMlqbh4XaSqrMTOVjNpmCUUc3HjrYGVBhJaTI02SJIae7avbjP+eHrKfjmN4hswQPeWbuplPJmuK5F5fn4465bu58LeW2S4MsLLvfrqRNMcPtXNn9VZhg79pC59EEdEJV8zBjgZfsz8C0zl08CTHhT4lmlr+U5V2UuUA==;TdlzidiGia+j9FEucRngaQ=="
 ---

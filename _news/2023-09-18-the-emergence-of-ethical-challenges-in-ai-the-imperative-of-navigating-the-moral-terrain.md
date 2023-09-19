@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
+    excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."
+    publishedDateTime: 2023-09-18T23:05:00Z
+    webUrl: "https://www.wired.com/sponsored/story/how-generative-ai-could-help-empower-the-next-generation-of-diverse-storytellers/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 62
+    images:
+      - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "Zj0hggDgo+ASYXy19s0r3WuWInmKU4/bSw6nsoIGa0ryyFaRV4UGhxeRq135MwnxokWO7yNRqS0rUrqdZmZGxzSBlnRzFYtEAgZKIjzfPjrF8F9dil0B0AhLa3zGNgXFJ+7Y4Y9ydBFFM8tTrY10GZpyVsGEJlBCH79Fm8B64oxqe1wzpDgVklX+iAtXGlc16w+1fevT7Z775XYdZbqtFn2KgWxLWFiQvD1Fgxt/O5/uEc0C2YptvDdp7Tq9Uq/a4bn2dPqNGv1w/1bnWSTU6vj7iz3RYyAm4a/5z2CdwYHx5wGapSlZLeYCufH2N5ifXcRVZCjgGT+50uigvbe8eLuNQALHLl/MtgToxD0Hs2Gtzqy1CGRuYp9nID9an2QHJG9Tc9ezX3P5zDbqR1KpkvlW4/7G+3jsldRTt0r1LgrHw5wpUNnnBqLllObPgQ4iZ8OOk1A+DOWNI9okvuVK0hEmcMWciSJQIvHpYuyedl+gRGI2nkwYOAuIu7cHAHuQDnQD1MAzIwOTbjE98sLTIA==;802msc4L7D8IWlrZEupQpQ=="
 ---

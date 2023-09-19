@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-f
 webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
 type: article
 quality: 65
-heat: 115
+heat: 116
 published: true
 
 provider:
@@ -89,6 +89,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "nEEBoCJcE4BYhnzK5xp95Fowt04Ck9TFDaz12cibNdR93EzJex4R+IeTcIEaNwCakSGVxyPWfQWWT76FvCsQwbGEX5MfoBE+6fz/YTqlvO9QoBPB4SrTeB6SYai+Z4i0mL6Sb6qIEVP7HgeunbMQxpZnzY8AWpxmvnjo4sZPuGv1nTL9DoDXOQirHMyeh5j920mue3UgBCCkQXujsf+oXwFsLG4bD7ntEfgkzxdnL4M2qEPW4NmVUhOo/HkXK2w9C8VfYYsuVll5227JSX81gekcqwP+6G1v4k0UDz9Gjc+cZjwnV+Q5Ym55YZbknUvsrV16DzIiU01TPNzrewtqj28kwMnyv0xiSw25MBYpJGQ=;CY860gxAgZ2Y/UBVABl32Q=="
+secured: "+miZcU6+JGytGBrJn+M1oZusQ/mw8aguAcEZ4noaNe/nKKSl1QfKzNNIH9OXWspWgWnh5Tj5/5Ed6kSd7mc8RxzDTNCdAyUH6Qwp+T9/yLvuEM3B6d8IUOj7DHCFnqFzOwsV3wgrXAry2Ih8Hz/++qyZohJH8gzt2ELg66YWt4/VnN0MchC7kkQqnPRiDevFWsnP/WZZ5jLSVvXC5j+SUEMcJ/urnZ4EoV0oeCasY1GzpQ9gg7EBs7GLHxFnM9K8wAwKzcu1CTebHKb6/rIgUyYUN1omm6AaFDfl0MA1rvd/B8MbJGc80fiDAniovKmjTtmWx09ijMBRp298YU0ydljL4KKYntQS1y2vxZebhabGFj1n4CHnlwkjYOWEMhKfLFUg5vJNyR3x8YohWwT1fGfue1QWbcv3hbuRjindGxBuMcius4BSoeZr/WBawZapZGxh4mMIol7BhdX4EWtusQuKAzn0tWe6pkJFmBXoNTIYxIfkcJY0eqsK7/uc/ZshgJEMCrsdNGNu93t2qK/a3g==;UWVh7IVbns4mxCoT4KDs3Q=="
 ---
 

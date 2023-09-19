@@ -36,20 +36,18 @@ related:
         height: 675
         isCached: true
   - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to"
-    publishedDateTime: 2023-09-18T19:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/netanyahu-visits-elon-musk-california-plans-talk-artificial-103282047"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/netanyahu-visits-elon-musk-california-plans-talk-artificial-103282047"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/netanyahu-visits-elon-musk-california-plans-talk-artificial-103282047"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct."
+    publishedDateTime: 2023-09-18T21:35:00Z
+    webUrl: "https://www.pressherald.com/2023/09/18/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 47
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 27
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/Netanyahu_Tech_Leaders_58635-1-1695066644.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
   - title: "Netanyahu meets with Musk, talks AI, antisemitism on X"
     excerpt: "SAN JOSE — Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel. The two also discussed artificial intelligence in a sparsely-attended livestream event Monday."
@@ -83,6 +81,15 @@ related:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
     quality: 8
+  - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
+    excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel."
+    publishedDateTime: 2023-09-18T16:11:00Z
+    webUrl: "https://www.seattletimes.com/business/netanyahu-visits-elon-musk-in-california-with-plans-to-talk-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 7
 
 secured: "hW756aXC4ZLFDxdypCfeAd8lTbs9mVDF5X4MY9wfZpropzxY9NSTSwbxYJ9Pl9GJedB/28uPpy8KLXhyhTXKTYJt0uZD5xG4d0aQv7nqFYynJy4dDk9RdXVDdvA8HyqTXlG1x8LpkuzT2KmwtrfCS9UNCvc461kYFFzZ3wJYCMTcmk4qVUZEJZ+Sas4FzhgC7wDf+x6aWEvuh0+gZn5c4NettviS41PK1Rg9BJxMB59BG3/wJ52RVT7S1R2AfkXzByh5f33p6HR4NKjqZD18VYYB5SOWHI64Qs2nw3f7/763Tc4TM1LLMogM+wVx7DLT6IWnY6NRnoDyt7dWDbFZtVd7poQQFx4eGysDwxuW4LPj0A3aeqiTKYTiCcw/P80+scjThkkr/dYxlP+nWdHiT72/rsdxZNEAXbIkC1ZDADIr+UHqXm2YptjnCT0FzqFpzDv2c3rHmn8442W9UQPiE85+dPg/Tr5kYReU7ljH5LzdKH+12w40MLsN3paclfC4O2Vje3NyiVu98Uj2jaPbng==;e/mBOHYTHO+d+8y7hSf9XQ=="
 ---

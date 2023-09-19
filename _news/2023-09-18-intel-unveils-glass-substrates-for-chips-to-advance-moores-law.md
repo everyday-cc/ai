@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Goodbye silicon: Intel unveils glass-based chips"
+    excerpt: "Intel isn’t the only company developing glass substrate solutions: Japanese firm Dai Nippon Printing, for one, outlined a glass core substrate (GCS) solution that, the company says, offers chip designers freedom to balance thickness, warpage, stiffness, and smoothness."
+    publishedDateTime: 2023-09-19T02:08:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/goodbye-silicon--intel-unveils-glass-based-chips.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 19
+
 secured: "mTDZdxkZPoSRp0IIEEYq+59vS9x1NHoxywCWNm3ldkM8yAaPjlSEIET5/sa6mikz8dw7GwekYtvpi4c4iSLCJaqxvM1dksFw+XNwq0w7aOtn9DfCZE7gc66CeDJ0AG2Qml/6ljf0oIwcnJ52wKf2vVDP6632gqaUh8QcMotPt9nJzTLjPW5kEB2cepZi/Eya5KBm56FPHsNsOt1OnR0TB69cRBL/yIyAPBZFme/c1RmWyl9ADq/o3g1T5bmQ21XSpF+VtRH1R/5I7X3ViLuupBSlXayglQt4GKv/l1Xfcnn7sC7FLsJV/iftQVy1n6SPA70KKgTODo9Tm3cWKFcWI1OArjDlh62Hu/uG3qCWxv0SmoN0JSMm8vJaJAnPZUAH56QTPmO4VgykcR7jSOp3jYZxDDVLR7gr8Mrrq+6629XVWX/GkABVFGxlZNTldtGaik1E6xhn79X0eEHZO4uTuUKRLGL2Jg/yMYG+pWKkCx9oXqfNNuq2zPfXzd3WvS6wkdZYD3sotDLbU3UxQ3MCww==;UO8VzY6PTrWorvu8GjcQhA=="
 ---
 

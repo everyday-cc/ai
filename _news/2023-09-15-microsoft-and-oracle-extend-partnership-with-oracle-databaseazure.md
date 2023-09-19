@@ -278,20 +278,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Viaccess-Orca, Microsoft, generative AI partnership"
-    excerpt: "Viaccess-Orca (VO), a specialist in providing OTT and TV platforms, content protection, and advanced data solutions, is collaborating with Microsoft on new adva"
-    publishedDateTime: 2023-09-14T10:17:00Z
-    webUrl: "https://advanced-television.com/2023/09/14/viaccess-orca-microsoft-generative-ai-partnership/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 54
-    images:
-      - url: "https://advanced-television.com/wp-content/uploads/2022/05/ViaccessOrca.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft to offer Oracle cloud database on Azure"
     excerpt: "Oracle and Microsoft have trumpeted an expansion of their joint activity with the launch of an “Oracle Database@Azure” service. Microsoft will be the only other hyperscaler to offer OCI services."
     publishedDateTime: 2023-09-15T10:45:00Z
@@ -332,20 +318,6 @@ related:
     images:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
         width: 1024
-        height: 768
-        isCached: true
-  - title: "Trade Ledger Announces Bank Solution with Microsoft Azure OpenAI Service to Empower Businesses with Faster Access to Working Capital Solutions"
-    excerpt: "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service, designed exclusively for Business Owners, CFOs and Financial Directors in small and medium-sized businesses (SMBs)."
-    publishedDateTime: 2023-09-14T10:56:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/trade-ledger-announces-bank-solution-microsoft-azure-openai-service"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 50
-    images:
-      - url: "https://financialit.net/sites/default/files/trade_ledger_2.png"
-        width: 1366
         height: 768
         isCached: true
   - title: "Microsoft and Oracle Partner on New 'Oracle Database at Azure' Service Offering"

@@ -2,9 +2,9 @@
 category: news
 title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
 excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
-publishedDateTime: 2023-09-18T20:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ibm-commits-tra-2-million-artificial-intelligence-three-/2023/09/18/9882905.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ibm-commits-tra-2-million-artificial-intelligence-three-/2023/09/18/9882905.htm"
+publishedDateTime: 2023-09-18T19:40:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/18/9882905.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/18/9882905.htm"
 type: article
 quality: 30
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yID+ovPKJOsV3I3DnLLSoRsGjN7RVe7xbpOdI16rNVf+s4zZVPoez114EQc3fdqxo2k6cxueYTROxdZqp6EJf7c3boj+v/75Ldmjq5tEkj2v1Vc3O5VaZlTfM44WTHtJWmvGFg0+qTDXS1jVPag25mrkbU+UG51BkmKqSqTHu7v8Lzv52TWBT4vOLR0HDiorW45ovuOySW3TSEOqJyDkCcJBHdgyo9W6l2u68c1UkAWwzNcLVpMQQ8czuLsvZwUwKiis2vUng+18+/kfUs/wO93mR8UfZZfscLjikEjczU5Yu8XCOgJyWXfY43Yg5GcHb/A5+N4AVekwSWlz5BjHhBlETH8ImkEU8ZVHlSq7VeHb3K9am3FFCN10AHS5JOgCeZ0dOQUgql44Welat7tvuLA0pnwbd7yPUcb+dKOMj1PNO4BNWyMFxg+H04OPc7FkUiH90CJJewiUJ3hzKmhHSRYeKha0Ha8KCAQgOmRMUMQA1h7jHljCWNlvuroerwuQWHR+YgiZxN2oH1/gxqm2LQ==;AGtwSuexn79KMSMsuANgkw=="
+secured: "n6CadYIx4g19jRrg7dQuloqNnDNJDuQN1tMxViByDFl05kxSHtnvgPUXa4zXijEqgxNZR3BrWtSUGKa9fyPAmdoAbivhVVWXRZrEKuzEuH7wdXL5NWoZRTZDtVFG6prZBMiF9tF+zBx30vvGJ+QKSHbuF2DUCAO7m9AZCqdO4K/wpQG1mbBF1BSaItCWgWOxsD9iXI4ublptYioGzIDZTPmxs6SB/Kt3XGa+s+d9xZSPjlZE3rSXX4kxQf85xLam29uhJ9wXOC3Cvvq5qhuIlhmAeCB+uLmopLpSNRVh5ExtrUB93Ha56sBJyE92cuUWlh6mSv+9WplB2mUOm2ZzsybQaiI/pfQSQNx+0MbdSec=;QLDhQf2Rxhv4neQ4YEQ9UQ=="
 ---
 

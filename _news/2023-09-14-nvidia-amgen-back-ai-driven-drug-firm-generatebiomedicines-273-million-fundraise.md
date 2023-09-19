@@ -39,29 +39,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Machine learning biotech raises $273 million in rare successful late-stage round"
-    excerpt: "Biotech startup Generate Biomedicines, which uses AI to find new drugs, raised $273 million in late-stage funding."
-    publishedDateTime: 2023-09-14T10:00:00Z
-    webUrl: "https://www.statnews.com/2023/09/14/generate-biomedicines-flagship-machine-learning-startup/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 49
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/02/AdobeStock_131082929-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Amgen-partnered AI biotech startup brings in $273M"
-    excerpt: "A biotech startup using generative AI to create new, protein-based medicines has closed on a $273 million round as it looks to expand its reach."
-    publishedDateTime: 2023-09-14T10:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/09/14/generate-biomedicines-flagship-273m-series-c.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "ZmmZFti3HHBvfUUszupihxiuGkHW9HLYal5Qa0boj5Fb4m2mUFSF/uX3T5gVA74ib5DmjOQrIVx4d/47mSckUXiig144yMlMF7DwXP0hAwKvKYvmf01R9Ine8tN2QZ5Jdmtb5aQzmEEFsB0taRXYwScMpIqciOlfH7ratCJc7b+ZbcpZl9Xw2g47EIKE9zdbag0RSnKLXGwFb75b2KorgO5DWJe7KjGpSoR3u3twFK9b3sFZrQXm+3SSHYpE84JUMjCBukVW6FCJfXmx7uOUwDEl826q5jgnmcdmaKKlmp8gZbMdqbzyex08X88hFx92xpxxmNFSi9VeIavuNDdsEQSbwBCUdgQXYwrDMhN7bFc=;FYmVmaigFTWjx38X45qYsA=="
 ---
