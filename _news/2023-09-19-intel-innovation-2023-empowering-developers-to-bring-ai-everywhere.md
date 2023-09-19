@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel pitches the 'AI PC' at software developer event"
+    excerpt: "A new Intel chip due in December will be able to run a generative artificial intelligence chatbot on a laptop rather than having to tap into cloud data centers for computing power, the company said on Tuesday."
+    publishedDateTime: 2023-09-19T21:17:00Z
+    webUrl: "https://www.aol.com/news/intel-pitches-ai-pc-software-153950235.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9d4d31b68853f177b1e082cede004480"
+        width: 800
+        height: 524
+        isCached: true
   - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
     excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."
     publishedDateTime: 2023-09-17T16:40:00Z
@@ -35,6 +49,6 @@ related:
       domain: record-eagle.com
     quality: 4
 
-secured: "0iPYEi049hvlvz6bSFrl610n2CU+xrM4m2XtmkwFAocYs5a9V2DDSW0lmGpwjsGjRvtK+VyPJBtWoE5tUQd20aHmlKguhuCJFsZps1msH0nKguWUkBFdp03aLHD1sFSiZmlRETJHa8LbQyfj+fKbGQAL3CqD3SeKBZX3knjOTKNv8TXRSCb+Rm0chnbs1R9i2TVQFDVZXMLIjrbTaKrQ0Sc4XYalJEFRiL1Su6391TgZxtqpUgwoGh1VeHmOHBw/NFmZm0UMCWyzu6RxfKlf+1Px2XxfYPgXkTWUB8mWdxxLKfmXz0McSztW1IMMY/gG5rIwXbxTIXETecGmqRJ4/QIV1SOb9fDxlqqTLhzw2C8=;xijuZEziLvIqqIaZxqfAkg=="
+secured: "X9v2qg/F5y+LKNtMuqpv++1xqxk8lEc26jcQrEkzloAiGoe/qWDiBeqSQP/bKntwahLRIY8Iv08dJsjW1Wh6j/9Q+mq4/ncAf/Kwm2CdHZColCoPDeNxFIsLXJGhTbIFROFG+xLKbv3IycO+dPZOxgswIr7vZDuNT2JYd8Z/XkmkUp9DnFdgs5fC/ooFbwmS2YgwoWqIc+2bh/Zmr12uNrXOCpwTDBoQW9OHJJXlZSgs9D/laaXtyW+C2f8hIf4mZnWMmB8an8hGta1j7X/kKLAIvIPWhiMHm4LcsTbEVfiHNYSfTFQL7s0O2u3MloJ5O4+aOyjkYjlQxQJZQgZuHBPjW7nLzxr0diM1Qkzgw4uSq41hlw0LCN+zI6O501v9DRrM/kma2+RUiuLE5W4FVxZ3DKWpugIO9uwbFP0JNN6C//Vgd2zzlblOE8/5bOrZrlP9taJIdr2VnY8oxh0GciAfrETl1QClWGMv5fZuHolLD5jfCH5LMc25asB8LR3UvIfrjR8wAKWRHbdUAJB2Hg==;nINi4AoegW1WpRcHDpHrXw=="
 ---
 

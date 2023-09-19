@@ -386,6 +386,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -417,6 +426,15 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
+    quality: 30
+  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
+    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
+    publishedDateTime: 2023-09-19T19:20:00Z
+    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 30
 
 secured: "aPIaDj9THMIeaaPt18y0dIOmCfmXUAllK46N82OhcfkZVB0H3jSpWJFgEPlkIdo9I+CUa+vSAwhxFfOcAkfQTvz2ekC7BmKK4b2E6jWPTigWzvPFUVOZXu/tlIisM2WZfZ/3U6dnI+QO9JSxQxTtGnLs2VZ0313OLVnKW7bvq/obDACmemcPjGqRgCksEcc7vqk61woVfRLIGhHCd1RUyMnTLvBL6DA6mqJoOp/cbHktIeiqldB7/WJHDcZoeiyaY2rGSlHAUgm59JNy6tJLJbS8TZLLSQKUTtHvp0yUWTfwVle0c6ckZ9S7lsR3u+v0XZ3QtAXEwMmybSG3nobS5Y2j1XM1GYkCUqBdR918qNBQ/r95nLCJfGTkJ75WAbbK4EZRZ83JXgVm+aATGv8vPsQug781gT7io4ThL2IIDUyw1k8+E6MlJrxPpHqGdSnJu4ndafSNSIV9nN2dnA/BrltpYcCOa3bqsHncQq1hX+poJkUbdfkF2VWR8HbdfxYQ7MnANxBirxmYviZ9kH4Y9Q==;CZ4aMohSSRHSv/qUVwBwkA=="

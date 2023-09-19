@@ -25,19 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Concerns over education system’s ability to handle issues of AI misuse"
-    excerpt: "Artificial intelligence (AI) like ChatGPT uses natural language processing to create human-like conversational dialogue. The tool can also be used in writing emails, articles, social media posts and essays on any given topic. The emergence of ChatGPT has ..."
-    publishedDateTime: 2023-09-18T05:51:00Z
-    webUrl: "https://www.citizen.co.za/witness/news/concerns-over-education-systems-ability-to-handle-issues-of-ai-misuse/"
+  - title: "Top 5 AI Stocks to Invest In for 2023"
+    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
+    publishedDateTime: 2023-09-18T20:08:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
     type: article
     provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 58
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
     images:
-      - url: "https://media-witness.citizen.co.za/wp-content/uploads/2023/04/2560px-Computer_lab_1.jpg"
-        width: 2134
-        height: 1200
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-09-18T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily"
+    excerpt: "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market."
+    publishedDateTime: 2023-09-17T20:29:00Z
+    webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 60
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
+        width: 945
+        height: 533
+        isCached: true
+  - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"
+    publishedDateTime: 2023-09-16T18:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-stocks-to-buy-in-september-2023-1032634932"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Five AI trends to look forward to in 2023 and beyond"
+    excerpt: "The potential of this still-nascent market is highlighted by Grand View Research in its recent report, which suggests that it will grow at a compound annual growth rate of 40.4% from 2023 to 2030, reaching a total capitalization of $439.85 billion by the end of the decade."
+    publishedDateTime: 2023-09-15T13:01:00Z
+    webUrl: "https://cointelegraph.com/news/five-ai-trends-to-look-forward-to-in-2023-and-beyond"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 41
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvZTA2MGI3OTItMjVjNC00OGMwLWJkYTYtNWZiMWNjNDI3ODk3LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
+    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
+    publishedDateTime: 2023-09-17T21:11:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
         isCached: true
 
 secured: "bLB8WCWk0NlhX5cpdlvQjEFkwlzul0/r/syqN05N6brxg7w5k/cHISEm7z/lKzRkLNbKiRPXjIdgE8fE1C2+tuCKBGHB/ud934sz4Mz9POzcwvzBChDXX2UIcTuDeI0RzXb9Vd8Vag6PSf0XzLIc9MzV4SO23w6oymz7JTmtwodKK2GKX87AKpL9aZtsOj9cKuNfyQIEiYyyFwTrTMK3osFsgB/cuu9A284O3YBZ5ZPhCVX3aaLPJejP9ZG05IhSdtBWkTlb4yz6GQImHTNLzsb8jmD7SGs0NABWwPfLuIIDUNGj5U+i600xSSZe/5VA9ULWleZpf81NngHoBkUCzGrpL1tacWR3fBq0825BB36nrTOmn4eOD4qFBxaMMp7G1g2WazzuVj5d/a7G3WGFu+ORdyhY+7NT4NqUT/sGjg80SrazI4Hvojy5PRk0VSvdTWPheejcbC9mJKYThaqgSub5NfEZa/paJi3jUDvPXrGX1xVRXUAJRfY9lMQFmjroDWze3mtckYOmo9ybOApCwA==;fH890P1hjkoPGD/JMwuV8A=="

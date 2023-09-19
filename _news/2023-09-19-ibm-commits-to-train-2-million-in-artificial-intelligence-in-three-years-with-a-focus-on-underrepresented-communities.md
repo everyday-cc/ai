@@ -18,6 +18,26 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
+    excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
+    publishedDateTime: 2023-09-19T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1347629&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 10
+  - title: "IBM commits to train 2 million in AI in 3 years, with focus on underrepresented communities"
+    excerpt: "To help close the global artificial intelligence (AI) skills gap, today IBM has announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities."
+    publishedDateTime: 2023-09-19T21:44:00Z
+    webUrl: "https://japantoday.com/category/tech/ibm-commits-to-train-2-million-in-artificial-intelligence-in-three-years-with-a-focus-on-underrepresented-communities"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 9
+
 secured: "JqtFqGco/LQntBYFOg304MAezdpAcwQ2KI/ZUw3/cDdwFpEoIRKHY794/vAXV1JOe29yk/dLD0Y6LpCiQwM9cerVKsic1W5T9qWsRdUoxzM/DKg4PdHsvAslHqhwGrnuA3kcZJEvxN9vCSAkg9UNw1LwXyCipoOT2XJknHSjg7nAbqrXdVmbHo9KBrLE5b2ptjoLeackrw3X5pxMMCgQlt0hCEBLexT0NFIGWTvjyPlZWa8uoEkLO4x72QCZpzdusC6QqMj0CShzUDjuBZ/XUtDCOEBlIPYIv2Iv3tSN9IIC8k0+mkUi40/tApZF0JcZEOhqfZQG5r71TOho0PJWynQMefJf1tLgnsYodWdWGck=;iK2YhHpLwXVPOBWBG65jWg=="
 ---
 

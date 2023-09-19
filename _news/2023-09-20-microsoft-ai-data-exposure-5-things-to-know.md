@@ -382,6 +382,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -414,7 +423,16 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 30
+  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
+    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
+    publishedDateTime: 2023-09-19T19:20:00Z
+    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
 
-secured: "+qPJX7PcHOPaKE0Qco1pZ5Ln12rVsnxY/PjTC4RqhnTDUf9X9Q6TwIMg5bTc66iFZm9+jQrN21St9JcaJWFGuIeHWvbreueH+clFanRpzYCyMqun7m1AVxLU6oZLs/xenQ84FRUN/1AizPAOv9+qyRMqdxjIafFsVmrq6L9FTjijsPmjBsFMnuSGGe+YVpngS16+YXNzNGIqlbN8+VkTe4IFXRPBhDa4hzXb9A2qXXTc30bWxZDamebDoTrOOVbYgraM0PPfSW1Yflg66gDXq51LF7ce+9wb+Yv5jqi7DJKq58j62S6oxp4NcyHaTWd61VcCzR8AoCs+vI1GLmVpmlpNHJgyte29LcSVCfIcpcU=;U/rHR6p1YqU/NfrUDE5k1w=="
+secured: "UH9f1sZ8E3O0ffiIPxzyBJuz4dQ3FRZR+KxjgyXfCXsillqwLOIG9Nd1tVBr0gPnxbegAQ5U7AQKjyN55MAgdemCck5FrRFmdKJ5JqPE49wSnqVQG71tx3sUGbwb7SVWMk0GtPm8IK8CI6V9550cx++F3/zSyGstYSvQjEiyqGLb74X1vliKvZVFa6y0LY9CvHlmQAfaYGcE4TD0uEkM4QgZe5bB+WH+34Zd6fjgORLsOZCI4MMrVPj1f3Ii2xn9V7T9KN+B4ziBIrGVuWPC1vKStkH4UOYOBQoyg7yBu6KANGjpoTlOBwwHQw2Mo58AJNFbKdy5fxXMCi7IhP8/8t6ne+b8dA/dfm/WBxmCmMscNbCMLOC9XU/GtybDGjm17PwtJ9pF1NRFjcudUy/QHGIZzAn/TybyrfkdriIJ+Kx/N9lsmcND6SGmPaH4+DcgQFw/8fULDF/qKWye8VEsIvINrR6a19wjeCBg9IZHSDvlxgO5KZ30yRBqaNivNZgQPYldHx2jTC//Zf9SiVqzkw==;gJTbgOHWy47MJWVX6col9Q=="
 ---
 

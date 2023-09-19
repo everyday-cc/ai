@@ -390,6 +390,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -413,6 +422,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
+  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
+    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
+    publishedDateTime: 2023-09-19T19:20:00Z
+    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
 
 secured: "hP0UJ/DJPvnwTRj6ZtglIFj+adlcu1f7emlqM2hAAHeysV5RlwVQCUt3iNI9Z8MFgS4SnX8EA82+DPW4m7jzLni2bfvrTYWH70rFMta1tmPL5cq95+UzWRwiSHeuILMMm6h2MoCkRseWui5cfzM9owoPvOgUCoutBRIlNSPu+K5+JCyuXG470Lmukbt2oqX6f9McmivLh3fTeTSfuq3SYmcjDTpKlTWNZ7mZvvRPwjWkhDgmEkWLiW8KIuP0uc8BJPZV6VTvVtrJ6uuUZhCThSraXazrAMEFJ091U0mHK30slVM4Xf0xe7O3DBoDNjxYiokQxYTKBrRLlasRToUoIaRspo7PTFFOw6bplV4+BDbbN1sblLSx331Wiokvmb6kjV6pQ6Acvp5KKin42GuPwMFpIsbwhdTJxbPYvuySLOCtnnVoN3npM43ZupXWq/KN8GjDvG47iyhafFgNbi3II+x+jZDvxgc/gXp7qPwEdI2D8NXtO3Kwa9cd447wF2PNqBasGAoECVpw/4MbugRrpw==;pfm05hePKiPC0KYXW6CdMw=="
 ---

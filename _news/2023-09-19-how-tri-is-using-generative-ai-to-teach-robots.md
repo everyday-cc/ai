@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-t
 webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 ways the generative AI boom is upending the advertising agency business"
+    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
+    publishedDateTime: 2023-09-19T18:30:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "TRI is developing a new method to teach robots overnight"
     excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
     publishedDateTime: 2023-09-19T13:00:00Z
@@ -49,6 +58,6 @@ related:
         height: 533
         isCached: true
 
-secured: "kMz0FPWEgKipeJLgiecxJ4dDYev91xDxQ3aQjgW0EWpGW74HXLg4RX+nLmv1JzOqekR8aFMFMsDOFd8ZdbqeYCB6HGqUY4Qii2n86RZBv2YlSNxYg48en0R8o3UKdRrCssFTxdOq1/6T0oy2qWLCTixEPGJ1KbsafiFtSm3fouiH3p/gLlMT697deLxJNZSzqyJJuG9fC6FqoLzl1ZIpwV7jKK6bMrCKoNAocnScw7F00cjL35a8viu9Pr4GJOwWwUzUaddzCVUxpc9w7Zj8NW/lSIyDDUGOulul9un2k0SD3XEkMv/BFe30J4+53AOiCYEOdCP1zYFtxq4ZllJXkGx1YS9FVdTPYZNUKfIyQJo=;UYBad1EDbOHwQKehztP5yg=="
+secured: "MWQp1PgLReDrz/Buw10wZ3dRgGCuKKdsFt+SHmKlaP1RstMC/X3Po7nYkY0HUutDHq9yhpvTZ8HkXeMxnJ6ePtROeAWDs+vFA+EqFHDFyxHbHzQwNqFAIrImxOhGRC/0RdMkk3Ag2MBJ8CFggMOHydcQ49/5ccO83djlCpHr33wsRcrTRHVXX6JrJkctY3xzukBGNFuC7PDtQP60fDRMOsoxJE1ROiHe5+UW0bfQn6HOxg7uQjcukU+BRNo8fDbT9KMEuHWnTH2mLoWPPqV+V4v5cCMVj29xiRzQrtQSpXuC6WvzQpjsgnyHjintk9IgJ7yxfKcJjx2md0ZTLWifRruQgVcqf0/Ewcicu43NvdO8RcV9kBgRazlIEvh6dNaJhgB2Apt68kY0vd216SfBWHxvXc09OUhbuIx41b2J3dfJHIJx8b56ooAEi8AjvpgyXACI+Oz9/HKX1V27uO85UW7+ehPkDJ9T/Ol8P6xI9gOtdIjXXPc+Wo+pFEyGYXwQJWPc7TOy9iFEuqObSkz1Aw==;X2fE4B+1G4mFrXXAIbFnxw=="
 ---
 

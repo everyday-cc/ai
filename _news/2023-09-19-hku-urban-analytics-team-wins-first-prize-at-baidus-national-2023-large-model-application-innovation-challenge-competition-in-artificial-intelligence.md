@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
+  - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
+    excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
+    publishedDateTime: 2023-09-19T20:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883291.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "XfOoudMfoyLL/NEjPWvpU21DKRzE7tNpQw9skq8nRSKziwQp2tlzBIjFLmwjDZtkoCx+30RrzRero2HfYDQlKStp09u5bfaDrCvKdIdOjPrYy58+H3IgHmCsGtJ7Y/Z5JGGugSqbiEb5meFkRVe+umTtUdnKBYkUqjMHgaMvWvszeTQcjlcGIwFXePI486nr+k4NpEpuTGQbDPNEjmxL4qtog540nQhsYSYKBP1PwirBzVAKeFsDVU5+D0qbWbOkNcKpxXqc/RObI61iK0IWiedT8cuj+HoontmlM0rt8Ah0HVUPuV3jhGMu6qa2cx0n+jn76/KoBDcmhvGE/VV32GCP05CaH/bxUcy/ViwPAhWmdwHqq8106UYPZH24vTni7V4bCIk8rN6dVqTNPv1qeLZF2QguEhnCahrPrB+DNUEZ4Vf3acWIpMXyxXA1SFOCgGMoUT7b9x1V45d8N9DMa8ux+tSkDAy6kYysRwr1+2oba9j4+XbqXwKVWOG1FAb6XfJ3CA/mI6vCQ9idmFvcHg==;lcQti23LYA5DRnSI2HUxyA=="
 ---

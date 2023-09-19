@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "think-cell acquires AI start-up AskBrian to revolutionize workplace productivity"
+    excerpt: "think-cell, the leading productivity software for creating data-driven presentations in Microsoft PowerPoint, announces the successful acquisition of AskBrian, a company specialized in applied AI for business professionals. This strategic move widens think ..."
+    publishedDateTime: 2023-09-19T21:06:00Z
+    webUrl: "https://www.afp.com/es/news/1313/think-cell-acquires-ai-start-askbrian-revolutionize-workplace-productivity-202309181944741"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 12
+
 secured: "TFnVnF8x+QDDeKTRbDT1PR+yNuOQfYoWIMUCsArz/yoLJBSf4/YhXLsfbiCc0jB2akiGVSaHPriFQQysma+h9b+fRhG4bMcKLfaxaekxssnfSdQLgoL+0wLYFUbOXLFCOFdqNwqIsnXGEgxm+IbtcSY5ohEZuZmYuK42AreNO4yiKcXIbtdf1Pi86lfdnI+aagaHy52gfOsSgBvMm9ee8Ik+wi/MycVerVloUgUjFrPC5FB5DPNFgFfRl07JPg0O7IrGWceCKpRSfdiBws7K7GEI/BThUcqo3hCzYOptlzEuD5bU0xEyRrx+DUkKdRvoV2nKFK6mBvUYUX314rZqIWQBn6sh0mw0lEa4s+yS4pg=;4woTDxbZObPEplVv5aZbwg=="
 ---
 

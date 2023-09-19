@@ -104,22 +104,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "DeepMind Decodes the Puzzle of ‘ Grokking ’ In Neural Network Generalization Through Circuit Efficiency"
-    excerpt: "One of the intriguing puzzles within the realm of neural network generalization is a phenomenon known as \"grokking.\" It involves a neural network achieving perfect training accuracy but displaying poor generalization capabilities."
-    publishedDateTime: 2023-09-15T04:00:00Z
-    webUrl: "https://syncedreview.com/2023/09/15/deepmind-decodes-the-puzzle-of-grokking-in-neural-network-generalization-through-circuit-efficiency/"
-    ampWebUrl: "https://syncedreview.com/2023/09/15/deepmind-decodes-the-puzzle-of-grokking-in-neural-network-generalization-through-circuit-efficiency/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/09/15/deepmind-decodes-the-puzzle-of-grokking-in-neural-network-generalization-through-circuit-efficiency/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 60
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/09/image-30.png?fit=950%2C496&ssl=1"
-        width: 949
-        height: 496
-        isCached: true
   - title: "DeepMind co-founder predicts \"third wave\" of AI: machines talking to machines and people"
     excerpt: "Suleyman gave his opinion on the state of AI in an interview with MIT Technology Review last week. He said the first wave of AI was"
     publishedDateTime: 2023-09-18T11:58:00Z
@@ -170,6 +154,20 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619
         height: 377
+        isCached: true
+  - title: "Google AI tool predicts danger of genetic mutations"
+    excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
+    publishedDateTime: 2023-09-19T20:54:00Z
+    webUrl: "https://briefly.co.za/business-economy/169193-google-ai-tool-predicts-danger-genetic-mutations/"
+    type: article
+    provider:
+      name: briefly
+      domain: briefly.co.za
+    quality: 39
+    images:
+      - url: "https://netstorage-briefly.akamaized.net/images/44ca0a0e521f7118.jpg"
+        width: 1016
+        height: 768
         isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"

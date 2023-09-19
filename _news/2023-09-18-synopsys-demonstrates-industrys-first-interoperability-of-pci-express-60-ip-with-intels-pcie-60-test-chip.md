@@ -53,6 +53,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
+    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
+    publishedDateTime: 2023-09-19T19:17:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "zhwXcKOw0LenIyFeNqPKVjS1Br0H0S3pFNOtcUc/myXBU1ocYtPStJyWTQ9uW8Xh3qFWObEFUcLkxlO1q3VyBI1M+UVIAuj+dzFje8vbHn0h5iLQjB9Mx6nsKLbw2TE8BshZPF3thGpddQ3QUkMVvP3lvD3kTOZAZ7qoJffDgIkeLNml9Of5a9A7T8SUpXgc5aj4CH8NrYvdPyo3AmtxbVWMdws+qRtWpIuBefCsCF/DdtN29/lsvWJbdC/tGY1k6oRai+uwJRHsL9599E/yGBQZvVm/z4r7q34ql0xxEdWmoGeiRib1CDK7gEjCK1jYhWDcmQa7n3inPko31qwpLWD5eD/VFwE6OhYDouPIUyeMndeiiln2xuQsOLLFulsMFfe4GcXLRB741h5/Nzj2hur1H+rckwWHTNZLrfIZh6CgJJNweIegEbDUN8cFRVNr8l7XmfMPrtCdT9zBM8tG0P19IMrKHHvD9WHcDHnyYKJqp0K/rGwocfd7brpIk0QI7qGL8YzxaKkye3PNw9TofA==;4PVaXGDfN3BmdGndF5IHZA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-enters-
 webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-enters-AI-powered-PC-race-with-its-first-EUV-made-chip"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 400
         height: 276
         isCached: true
+  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
+    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
+    publishedDateTime: 2023-09-19T19:17:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "hH1dpyaX66zDGDvb+vWA47SaWmbNMd+WEt/GHNNuN6tdnFnI0gTqqwxYKwmvZFMzNSz+Pcon1IxuzzdApXl5a6AhaH3IqFhgwPSFZCge9XY8+rTlXKlcWpVx7Dp+51/oodPBb4TG9+3gVXxvmATfAUQwUDe1Ynxzo+ZLZlra81CIMovCfAGocLydVOl5ktfk485ailyMGXtGrwWe53+rFwZMOkRoUl7F5MHihS0ssDSUDRqxFz9AWdpI3QPryu0VKCc9q1RV+rXaK/URTVhNFZS205naMT49yaVRUYvISo0PGF43gyDRHriBEaEnvQY9bSVTQtQ0534XNBWTkSyrLzkfasUWKypVsh55NktlBfQ=;C6w33Gv66JHVpb8gtgmhvA=="
 ---

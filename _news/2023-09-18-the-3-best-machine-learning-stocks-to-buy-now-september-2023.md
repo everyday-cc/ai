@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-09-18T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "The 3 Most Undervalued Robotics Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The technology sector will always be a sector of constant growth and never"
     publishedDateTime: 2023-09-18T11:26:00Z
@@ -41,46 +32,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Missed Out on NVDA and META? 3 More AI Stocks to Buy Before It’s Too Late"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) captured the imagination of investors this year"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-nvda-and-meta-3-more-ai-stocks-to-buy-before-its-too-late-1032637944"
+  - title: "Auto Workers Strike Seeking Pay Increase And Inflation Rises At Fastest Rate In A Year - Forbes AI Newsletter September 16th"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2023-09-18T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"
-    publishedDateTime: 2023-09-16T18:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-stocks-to-buy-in-september-2023-1032634932"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "The Next Nvidia: 3 AI Stocks That Could Break New Records"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence protocols requiring a ridiculous amount of"
-    publishedDateTime: 2023-09-16T19:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-nvidia-3-ai-stocks-that-could-break-new-records-1032634934"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Using artificial intelligence to predict heart attacks"
-    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
-    publishedDateTime: 2023-09-18T19:40:00Z
-    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
-    type: article
-    provider:
-      name: WINK NEWS
-      domain: winknews.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 60
     images:
-      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6508752e787e58e7f22250b8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 712
         isCached: true
 
 secured: "JIuX68TKYkDR9wscSKr9Er5tQWFda3d4oMelkFm+Kx6Op9oF0Wm5A1Nlu+qlpFRQ/p4zHopDwb8nV0sKr15lIJmI5E9mA1XB0+y46Yngo1JwhgR6uBVKdiVb/GaZcoeMoSr00PWL3RiP3KL1Ab/VmDNX7cQYRUw3uQC0DqwF6wsMkNdPeNddcl1FWH4abTTXon8148zPLJrmBNvlKPCS2jYZ+S3L1veQNn290MizQOuKBNznANVecD767wyVsXpM0V6HvkpERUquAbHjip3PqfeCeSATLGnNAgxUsMF5RbnfvRxradiCnU1I5dmCEap50+0gpweKp2D2SW48BymLmc1M5ZuWhkhWx2Z0jmk/WjkUiXsXzvqo/WNl+UpcGLJOXav1eYLs5Q6ZJNOSsVHQC2ijRzqXN+MA0/vlj76hzOkZNwB5ECTlx3zsaSkWeQnueGNxePa9pIr29FP5/hZBLjvoHxlJZA/ODp+Npmo7NoGkrSOyM3rb8QLRmVCCuiqA47v+Ucwh0qKkfvl6f51aLA==;dIdjw/KHnT1GIkSiH7Nh/A=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-onsight-technology-secures-seed-in
 webUrl: "https://www.tmcnet.com/usubmit/-onsight-technology-secures-seed-investment-support-its-growing-/2023/09/19/9883132.htm"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 400
     height: 215
     isCached: true
+
+related:
+  - title: "Folsom robotics startup OnSight Technology raises seed round from Moneta, Growth Factory, Stäubli"
+    excerpt: "The startup is based in Folsom and it has manufacturing in El Dorado Hills, where it assembles robots that can perform ground inspections of large-scale solar photovoltaic arrays."
+    publishedDateTime: 2023-09-19T18:51:00Z
+    webUrl: "https://www.bizjournals.com/sacramento/inno/stories/fundings/2023/09/19/onsight-technology-moneta-growth-factory-staubli.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
 
 secured: "7nJW9CiPiBUCV0aBKIZ/33T39HafNDpSExFG0qJT0MFcK4P4v6z2AvjVzwXZxLTd8qtReoLbOUU3vjX3qo0NVt4dicEX9NhKVYRrJbUWNyJAMSBB4hhCa+qQyEhIiqByNgfa0+TzsSQX3/7LNU7U0GWylIOd7odtsgyFfE9py3jxYd+UmdlW2hQkeYIyzTDiOK3tQ7mxmv8ajGR8M6NzTE3sX4dHEm3QOSCijeV92QihLGpXB/kLrHuk8vism0Jo3pqEdgrcnI/EUDJsBvIT/bZ38RmayWEEpJpfdI4Any0GqpEJBSJcL5R//CQsUNnIJw0bazY6LJKJRZAJohMfroqy3GLIUh6/Cza6nMXO274wcuSLDL9c3IHdNl2wNGO66JKrvSUShZF8zxg71daWhUinAhTEtK/wuAqHCcNbf8wLru3M+rI19RgUL3X5hQ7NdqPF2i9yY8l+1KRKaZgUrsrpVGl4au0JVlVkPHoef4Z1bupmfz3V4a4CMSNxdEiulzJOz3WqrQF+adoH/wEqXA==;A/S9vBhtAz0iy3xyyr1xtA=="
 ---

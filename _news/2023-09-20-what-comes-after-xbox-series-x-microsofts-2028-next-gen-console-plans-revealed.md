@@ -396,6 +396,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-09-17T01:16:00Z
@@ -414,7 +423,16 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 30
+  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
+    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
+    publishedDateTime: 2023-09-19T19:20:00Z
+    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
 
-secured: "4kfyohM1jCicnAOGR12QBjxQfe0BP+4H4lifOuRtTYi17/XHY9U3kh34QIEM3k6dqqXG9KLPbeCPwO0qc9Cq6lgE9gLWMiRSmkhXebZqYvw6GDWCcU3aSMDWrflO1wGsG5pmvrzIsPuAG5dLvt2qvzOkA2/uWrrtOLqYVb5LUZQQuuMZR14/r65vtLXs+bPx3QeMyRRwKtuRUNfcvocXS52uftJJc1lpG2qAsP14celX9gxX98++42oK39Je7a9Dp5I4P9v6TVCZawrn56vRGO+ECYhVNO5UebbpOp6Iqcb5VTepSfXNzJUbi/FOFNNgs6TXdNrC7CIqJ3KGq7tok0MQBZOh1l2NIfdhUQyJiZ8=;+o2sxrClkj+nVFoVOQ9+yQ=="
+secured: "e5unH4VEPVsApyMZyUF+XQvAon8cuqVQi8WTSARoWpFJDRn5dgZvPuNWsso3Gp7M+3iYEuOqUPT1PB+WdPTtvujca6KjIx88RZNZ7lvu9S9BjHck/OywEmfWDzP7KPqX5ja1VreiIP/1GOdq8AhN2JZ1zijz05h2ZbOkJZRUkWiBXq5GD7QVPm80ErkHmdxWtIECxUe9Qd6IjglcKzC37zo0DaZfUOvwF97nHe8njFRX0LRUVrv1ED5v6KEau/suBYokwCYhAPOCOuK1Zn0TYmRTbAX/MdKIZvAauPoB5UJv/m1ox/Hk/u7ZGnhUKGLFPXnignMmyOJqqAMSyQabcs7FEV5dgSZjjiVwBaOJHafWYgkc+psU3OdAmd7HbFfqisdw8CY11XQ3/9Hzg3+CsTfXyKAN1eHefIT4pm9F5atsAM+jJgpo/9T+Bbiwdpvlg+RWE5MNkXxnPuOPO7x2bmClQXQTJuS8jj0C9yKRwX0BCKihbm5LRHMNpT+icrwSYXQ87c3AwxT7JZ2hwMn8Zw==;QevtjK1AhDYe9PDvhQhSPg=="
 ---
 

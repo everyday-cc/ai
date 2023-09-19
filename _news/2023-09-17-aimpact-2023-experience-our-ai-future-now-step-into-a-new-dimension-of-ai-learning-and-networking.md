@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel pitches the 'AI PC' at software developer event"
+    excerpt: "A new Intel chip due in December will be able to run a generative artificial intelligence chatbot on a laptop rather than having to tap into cloud data centers for computing power, the company said on Tuesday."
+    publishedDateTime: 2023-09-19T21:17:00Z
+    webUrl: "https://www.aol.com/news/intel-pitches-ai-pc-software-153950235.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9d4d31b68853f177b1e082cede004480"
+        width: 800
+        height: 524
+        isCached: true
 
 secured: "B/PxjpIZW16OoavyRjPidhUzJQOM0znZg5O4z1445IYHtRVJfVyFCowO1bdOc+oG1cq0ot7SVVo09CtupqYnshBAu5Ajq7dVhFGOzA1w/9AEDbK5kz8IwotZRvX6WvhXDPJwFBIUNVLile+tEieHUnB5lH0iHrfPnPVSf8d0hWVU5NL4JDmZl7x/Kph63nqt7Df9qHEdpUFtexPAZN7ZdeelullmaHSHTMl/t8LeDhsmSl4x7J5Gz9bB1vfRewW0Uiw31pz0PgVNSnXNHJ+/Lk2KxgRXsFHOG+mEw/F+bP6+wMCIlgnb8AhrEsA/HRryqR2rqJ+DbfmTBQysrcX8kDPX8cZaOYI7hjtC/XELsI4=;vcSsD1kN00AUVXoglipJ1g=="
 ---

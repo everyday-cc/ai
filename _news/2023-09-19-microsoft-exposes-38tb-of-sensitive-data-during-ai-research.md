@@ -382,6 +382,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -413,6 +422,15 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
+    quality: 30
+  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
+    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
+    publishedDateTime: 2023-09-19T19:20:00Z
+    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 30
 
 secured: "0vsU/zYPQCMJPVoKTnmYSC8KyP6B1NWVuYRwMCuCdE66BlnUz4zV4yKEhIlUjFeVm4j0JA+z33YLemTZttY/CcrjKS1EJKb7Cg/MNv2XF0oRyVxaRctpDWeM+0G7MWOxQwgGIKLHlj0fmLuGlzW9N4wOh/1mlvdJ+vy2GjkjyMGknAg+CwnN+P4nb4OtVTPT6dNm5l4kRTeRRn46d9wIijIecQKgp1uITVHDyd0+NjN++9B8Wzie8K/EgctJR0I3VlQoe4G8k+7za1XKjWNYTgmhqcIyYl5wlqXOi1I5LoruWQpW8Fc8LHWrfqzmXHO4zT9ej/3yoSgfqDpeBgP03559Y3+Hyj24U0G+x62eZb8=;rWU+7mkIrc3qBmgBa1E2JA=="

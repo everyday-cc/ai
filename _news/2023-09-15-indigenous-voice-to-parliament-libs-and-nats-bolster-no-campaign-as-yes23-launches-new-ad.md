@@ -56,6 +56,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Voice to Parliament: Experts reveal what impact Voice could really have"
+    excerpt: "Picture: Supplied “This is happening regardless of the Voice, and it’s happening because of an evolution in Australian law, in relation to recognition of Indigenous rights. “This is a global trend, not just Australia. Indigenous people, when their ..."
+    publishedDateTime: 2023-09-19T19:02:00Z
+    webUrl: "https://www.dailytelegraph.com.au/news/national/voice-to-parliament-experts-reveal-what-impact-voice-could-really-have/news-story/ff64f884b215a6e0a5949fc8dd4e8ee3"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 4
 
 secured: "SZRNYFlY0dVM2fFnlIdQPOzrdvi2pzqm1Vx59VjAa/IGxKeMA0z1N23HhEYPzlJ3UMD8wDikCQ3nab6q85ZE6CPgIFISX7CW6gVlzjIAZ3b03X9ahAaV64kwQLOLKyzH0KOEpa7Dwgo39BxHwUyz8gbWEGD0YmmoWsewHk24raPlEZKv4OG4L45BBvZKmQ48fZFnNX7ERqqOIJ3jBkss7OS+W8HUoMxjHzNcsPA3j69ylAUShKljDsDNlfg+qaoEmclnbYdCCw9ejO+E17mrQf9t8F8J52z2ouQIwrX2uJQnSeklcbMnzXyYpSoXVt1S/ZSZfCjFR4e7QZa/NmOhNJWxC+X4/lFEU01F8r4OSX5RvCTuL2AWZOo2o4/E8K20cswhANH4etHrL9nUxDzDkysCW9HllgB6+LjBkuTl5J3jAy+ZnNMscTSrMEl85Ugc01EUAB1CBpnw1NXDSEuRZy5c/SaBO/OWrOLT6V2OpHoNY2cSZxdb3dWlwt2xREVkkmXcz9mU0V9HXUKYdzunhQ==;9sN8NJb95xYQhsx0IlQG0w=="
 ---

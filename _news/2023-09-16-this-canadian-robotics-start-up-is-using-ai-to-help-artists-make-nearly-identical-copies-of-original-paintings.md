@@ -33,6 +33,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "A robot that re-creates human painted artwork"
+    excerpt: "Canadian startup Acrylic Robotics has created a robot that uses artificial intelligence (AI) to reproduce existing artwork at scale. The AI-powered robots use a combination of machine learning and neural networks to create the reproduced artwork."
+    publishedDateTime: 2023-09-19T20:08:00Z
+    webUrl: "https://insights.globalspec.com/article/21163/a-robot-that-re-creates-human-painted-artwork"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 34
 
 secured: "SjtNz5tgY36KNumK/2GrQEVJreKOnqFP9mW5DT6hibaiexpjw+LsacstKDS098zp8IdaxIp2gmrBbc8aciSMrSu2ryKBFNZkWet/PBykaNo1z9BMDmXDYqmKD2oHf/eV51t9FR0E41yy90ADtb23YZj7brjtwU5B53KH3paf99fh23lfoU0zpY0hPDbcOn6uHQrsmnZokTGoyhx/WKhJMXo2J62UbKXCnZwz/J3+4abfRMzntFiVbR5to0jr6LNFmjvLzZMG3bA3F/tl6hKtgMYYXDW7s2wtCGpMzCAr2HirJ7MWmZiZkphBUuAmj7sNhmL+qVeppD8G2wzMj9FccDB2FWWV6P5TaV35q+62oG7WZgkIZURfSHaDjOYxbNZm4NKyFV6mBsiQuZzaF4tcD+onfRxrLPNY+zEhc53FtR66a2pXuuBsPi1RzDQqEd6Bcjwb7ZdFxIHrJ/A35quTvejmsdNSDSko2yc5PIk0ebrlIj+PGVRGMyy1CE9gY2M14G/bYsE4kbwla6bMtFZyQw==;KWiuujaxFY3MmtZGz9PFxA=="
 ---

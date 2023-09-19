@@ -70,6 +70,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 19
+  - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
+    excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
+    publishedDateTime: 2023-09-19T18:27:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/6-big-announcements-at-intel-innovation-2023-from-288-core-cpu-to-ai-supercomputer"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 13
 
 secured: "kvB0gZStyCb/9Ki66ZnHcpczKE40l9PWo39wOmTlKf/GIIP3RiXMl9+RhdJNTlrmWQ0NNgraU1PyxITrp0PSVLlr7JRfoILr4gyM54rbALvbxcWNsqU82kdLhr0jvNbbaieulx3kYxpPgOAz31f1rpB7hQ5W9JzIijjIvUOrsJKQfy4Bc/cBgqea/75+rj1TjwytTGEvwf+8XKKBi3W2cxNr+BBilNqYUt52ETwm5TFoyv4hBGsN2vybFhmYsPiD+GuualzMWsOp9H6OIMojbD7qI+f0VfshszrLTqV/cCh4lUjP1C1wIbbeFQvUvx2w8lWYp9iOjmn9XqWD4HMnw6yhp0N3YUf27Td+IZgFBR8=;/1GK/ONUNGObe1/f5GuF6g=="
 ---

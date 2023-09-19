@@ -38,6 +38,15 @@ related:
         width: 1261
         height: 1081
         isCached: true
+  - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
+    excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
+    publishedDateTime: 2023-09-19T20:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883291.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "pNBoSDqWeljllT4Elz672IlSuKZncmhw9Y8Ss9kGZE5hX+Dm1creK7+UQAlpIjkV/nAshwqFTju5kPKcY+rXjTctZmPplNfzlFhYppayH1N6w6KhSDxoKxZDknJaITGM3dTFLwRckLTFnEcATiKWFXDESExa0lE21PPJI4liYdtFpn1TL/+fUNhkKj0JDvW/xDhuVK9V2RY+x2Z69yRZ0zk2Kgemix4/7bT9zSbgfFenyWSqg1G96ejKN5D6IH4Hgex12L2mnsPIGRrkh7r5nT6thTiYAd21wNxOHfKR7pPSii4WcdtBi0brdYVyySIVECwv06/RfDiJrW18DM1dtSdgtsbPdmbZCjOsJ6az28Dvqd9bds1XPItaPABSNJnRUQig3IJCw/tNCIF/zpwniA2HzYnPsQX+s6vhsxq5m8EUXAUM0UNl4zzAhQzoFSeEiAC/JdYNE67A4NMrpAub3w50dRd1EZ1Hqh2t0WHeYXOPAAM4f2/TD0wsA22FnNBpSmZwr5q5t5QMKAXtdTokRQ==;gvZxno41EYBssN5egbkbSg=="
 ---
