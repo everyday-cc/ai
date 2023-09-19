@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Testing the limits of generative AI"
-    excerpt: "As part of the learning curve with AI and LLMs, experiment all you want, but take the results with some skepticism, especially if you’re using it to write your code."
-    publishedDateTime: 2023-09-18T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/03/crash-test-dummies-100752967-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z

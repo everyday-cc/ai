@@ -39,7 +39,39 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
+    excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
+    publishedDateTime: 2023-09-19T16:25:00Z
+    webUrl: "https://siliconangle.com/2023/09/19/intel-makes-progress-advanced-chip-manufacturing-process-strives-relevance-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/intelaieverywhere-gelsinger2023.png"
+        width: 2310
+        height: 1287
+        isCached: true
+  - title: "Intel Innovation 2023: Bringing AI Everywhere"
+    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
+    publishedDateTime: 2023-09-19T16:41:00Z
+    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
+  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
+    excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
+    publishedDateTime: 2023-09-19T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-innovation-2023-empowering-developers-bring-ai-everywhere-/2023/09/19/9883938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "v/PkAjCT+/VvBuD4oLYb0KqwT0drBp+2dFYIzgDsHyigWy9GBVFDaUxnZ1sk2YSP6au8nsiSHpWC/pdN0RdgMvYDO1jVqXe4QimAiFxVpXfU15JoV9TJrc0CtC0FIDiAbWthFDoLOF7n8F/AyAOshtaS1OfVBbxzKBcsske4OLeU1igQvsNSt8iUPKeN760avpRqiYJOog8Xpux8UrV6D0rIfX4OqqwRARtX3bDaBk8uEBy4wXDETb4Sho37ykS5uFa+3+sEkh15oOit4+lVYXEmXfENTrluHobr2x1VtcYb+oQdTqjSdvVu60+HFDJ/n3qq57nVVkFlmma4MogsUrabRtBb6aeU84EPh08C4Dg=;lD522RqMxjDpqiUP4TQ/qw=="
+secured: "sylWvoJzdAfWTFLMpPtdLD2cMRr83zMSy+rbFSWhXKFpjBKFqvaszK7aWXRMq0DBNlp76bNqZvFkVBcJgJDs83Os2XnGRQ+s5uL1O2Qfs/LIkz2eLJ48HqGCNrOeEgHQdWKjzLjAo9TZETedbdy8qrULM4bDmwN+hJyrWvQePs0u0LeRkpNR+tn5s9qOCQaA6cT6nCAUOMVLdLanKVx0R155pyJ6RulUQRZ/p4BlAsMr+RAyTqm63VyE3qtBeYpzNl4HM2V52PIlduakNR3K6c6YqLo6t9JoJAVg3MzZvlFNwBh2q2SnpQ6ecBst/zXQZw0KCpQ4jBoT2EPVBfbMJc4L6YgtZKrdM3xrmlRqYpepcxWgm6gmvwCcfQw2NT8F1UH9JBgW/PIBtFbfGt7+CzhuZ423FepwgDmgN9nHAIrHlXdlSV9sLEQqQWDOySmt+fj7XBhqaIlUNw4+rvrBk7atfVSxaV3HKE6f2VfzAbGfjD8a1x0XuKxey/W1u6KIKCwEAoOIFZycNkly6p3tXA==;YgoGu6PST4Lal1Jub8WnuA=="
 ---
 

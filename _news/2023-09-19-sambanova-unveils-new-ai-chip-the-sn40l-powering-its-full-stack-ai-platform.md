@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "SambaNova unveils new AI chip to power full-stack AI platform"
+    excerpt: "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite."
+    publishedDateTime: 2023-09-19T16:24:00Z
+    webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "SambaNova: New AI Chip Runs 5 Trillion Parameter Models"
     excerpt: "Specialty AI chip maker SambaNova Systems today announced the SN40L processor, which the company said will power SambaNova’s full stack large language model (LLM) platform, the SambaNova Suite. Manufactured by TSMC,"
     publishedDateTime: 2023-09-19T14:07:00Z

@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ally launches proprietary, enterprise AI platform"
+    excerpt: "Focus on internal problem solving, security and scalability underpins Ally's foray into generative AICHARLOTTE, N.C., Sept. 19, 2023 /PRNewswire/"
+    publishedDateTime: 2023-09-19T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ally-launches-proprietary-enterprise-ai-platform-1032640039"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1743708/Ally_Financial_Logo.jpg"
+        width: 400
+        height: 233
+        isCached: true
   - title: "Velocity Launches Global Expense Management (GEM) Through Acquisition of RPA, AI and Machine Learning Platform"
     excerpt: "Velocity launching the GEM platform is a game-changer for the company to bolster in the expense management field, including the telecom expense management market. HOLLAND, Ohio, Sept. /PRNewswire/ -- Velocity,"
     publishedDateTime: 2023-09-19T14:29:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
         width: 1773
         height: 1182
-        isCached: true
-  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
-    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
-    publishedDateTime: 2023-09-15T00:28:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
-        width: 2000
-        height: 1028
         isCached: true
 
 secured: "MqKwB7x33sJHeV7b0sUS6o6LbQkvGg18v7/nyIaeFWofxQg79JBt3TY5+K1ELtwhvwpmEVKaWncP71BTFdvzJBEuncrE5kBnboCMfGj5Z1qGK3eJXmPq1Vs5sc0afcsjdTdVEtkUbo9wHt4gEljxgIr9KGQu32Yh8pcFDFyp8bA1KjEc53UedKz6l6EhYzFg+no0Hb12xvLnWTgs/TPRDJNiQQr6Oc0OchGQwSY+Bwq0biX3AcJQtZhiB+HrUcUH0EV6/2G0w78imsE8FTgebjUmTPn/5zPu//vKMQLy+k4JzeOwG7P0zXVk8uFyeVG+fww25saNC8Ps8j0pXZ5DHfP7/wTZ3k521EpILU31d5E=;P8ROq2TtAizl10KL5maJLg=="

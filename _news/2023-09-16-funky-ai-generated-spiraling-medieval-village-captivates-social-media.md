@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 830
         isCached: true
+  - title: "See How AI Generates Images from Text"
+    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
+        width: 790
+        height: 497
+        isCached: true
   - title: "The Social Media Panic Mongers Have Pivoted to AI"
     excerpt: "The science populists who stoked a Reefer Madness-like hysteria about social media are onto their next target—and predictably predicting the imminent end of the world."
     publishedDateTime: 2023-09-19T05:05:00Z

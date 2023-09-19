@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Testing the limits of generative AI"
-    excerpt: "As part of the learning curve with AI and LLMs, experiment all you want, but take the results with some skepticism, especially if you’re using it to write your code."
-    publishedDateTime: 2023-09-18T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/03/crash-test-dummies-100752967-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Teachers Are Going All In on Generative AI"
     excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."

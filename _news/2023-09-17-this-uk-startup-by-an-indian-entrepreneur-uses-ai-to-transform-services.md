@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
+    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
+    publishedDateTime: 2023-09-19T17:24:00Z
+    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
+        width: 400
+        height: 220
+        isCached: true
   - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
     excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
     publishedDateTime: 2023-09-15T05:11:00Z

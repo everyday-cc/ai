@@ -2,9 +2,9 @@
 category: news
 title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
 excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-publishedDateTime: 2023-09-19T13:42:00Z
-originalUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
+publishedDateTime: 2023-09-19T14:26:00Z
+originalUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
+webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
@@ -60,6 +60,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_two_different_robots_in_a_garage._one_robot_holds_tools_db8e498a-83f3-4ac1-955b-b62a25b19298.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
+    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
+    publishedDateTime: 2023-09-19T16:19:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "DeepMind’s cofounder: Generative AI is just a phase. What’s next is interactive AI."
     excerpt: "“This is a profound moment in the history of technology,” says Mustafa Suleyman."
@@ -144,6 +160,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
+    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
+    publishedDateTime: 2023-09-19T16:05:00Z
+    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -163,6 +193,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "egDhuItGuOPe+4zPeURq12pkFhAn+E5u0x69i8Mg9gBLHMdwnLcdN3RJDsLTumDUk71uLTiMLD0gm04OLp85egRvzGkhCkmE+u72Oiqqlx5O5fjQXnllbpdbo4mdZ4FNQDepoBhdKOVMX1EgW+AJHyESTBoiT12s7Mn48K1tFJC3txyb5nHhyCpu/1OgHaOqkDzmv6K6WMbcWU5Ivn9cNyqVdiwsb+1pwLELm7wc/9hPBRjUyedM0NdGkjCXiDLNtv5ra+nRqDk2W9qUfsQWCF/4ZWeBt/Dwi9kLppKUswDWVt77nfKfBj/Up4InhatH8xFGsgd/myQnRAuii8Z+ImLjoaF/eYmOeOHak6EjlMo=;/i4kS8VBlyGHeja87pJa3g=="
+secured: "I6wt62mOXPh46Qkao85JxmqwCui8XSDzqzYCNtB+2d7BOPu9/4lESzDNbNNVhiKsJiGYuwizY6H7YGc6CpuWK0HZoDkwGBtOqgc1qha9E2FrBMdtq2ZJvzbiHtzCKPhz7+DefzXcS8N7byCE6tkg1sfzPHoXRdlJ1mB0TiLpnQmdqK7YmotcyPwKD+AyM63N+xq1E5W1Odw6CZPfvuHIsg/NfO+yfGcEe2zRkz/B4/KLWN1EASgIvTNLxgNzJxnwZVDHFSAXddPZWy5d4f7Y3RODy+lIfQ6PxctBaezGUxRb6xG4PeWjHcOJst31vT/Q5B72FNvJxx4W5nq5QyCbNyR+5MhZje5q2vAJ6LdcyMM=;0B/nhqfx9hPt8jvjTkEa4w=="
 ---
 

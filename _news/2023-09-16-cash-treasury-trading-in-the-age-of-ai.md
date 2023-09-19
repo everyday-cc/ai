@@ -19,70 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
+  - title: "Protect, an AI-powered phone app, is part of a \"public safety reboot\" in the age of AI"
+    excerpt: "CMO and co-founder of Protect Matt Frischer told Fox News Digital he hopes this app will save lives and eventually deter crime."
+    publishedDateTime: 2023-09-16T23:47:00Z
+    webUrl: "https://www.foxnews.com/video/6337296940112"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Fox News
+      domain: foxnews.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
-        isCached: true
-  - title: "The Rise Of AI And The Impending Data Aggregation Wars"
-    excerpt: "I’ll go over how AI is disrupting typical attribution models in online marketing and how the companies dependent on them can take action before it’s too late."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/the-rise-of-ai-and-the-impending-data-aggregation-wars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI Can Revolutionize Mortgage Licensing"
-    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
-    publishedDateTime: 2023-09-18T20:03:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
-    type: article
-    provider:
-      name: nationalmortgageprofessional.com
-      domain: nationalmortgageprofessional.com
-    quality: 39
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Smart money is on learning about Artificial Intelligence"
-    excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
-    publishedDateTime: 2023-09-18T03:47:00Z
-    webUrl: "https://www.heraldscotland.com/politics/23794564.smart-money-learning-artificial-intelligence/"
-    type: article
-    provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 37
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
-    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
-    publishedDateTime: 2023-09-18T22:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
-        width: 768
-        height: 633
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479b2543-f950-4f80-8286-2d387b67cccc/246197ca-db5e-47e1-b514-aa91d644b387/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Gearing up. Quantum computers in the age of artificial intelligence"
     excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."

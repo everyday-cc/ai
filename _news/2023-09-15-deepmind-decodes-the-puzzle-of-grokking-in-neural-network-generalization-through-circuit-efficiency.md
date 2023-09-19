@@ -58,10 +58,26 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
+    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
+    publishedDateTime: 2023-09-19T16:19:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
     excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T13:42:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
+    publishedDateTime: 2023-09-19T14:26:00Z
+    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     type: article
@@ -140,6 +156,20 @@ related:
       - url: "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
+    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
+    publishedDateTime: 2023-09-19T16:05:00Z
+    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"

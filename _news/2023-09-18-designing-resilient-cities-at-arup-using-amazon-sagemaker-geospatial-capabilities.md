@@ -43,6 +43,34 @@ related:
         width: 716
         height: 630
         isCached: true
+  - title: "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances"
+    excerpt: "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct"
+    publishedDateTime: 2023-09-19T16:16:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/virtuswap-sagemaker-studio.jpg"
+        width: 892
+        height: 444
+        isCached: true
+  - title: "Unlock ML insights using the Amazon SageMaker Feature Store Feature Processor"
+    excerpt: "Amazon SageMaker Feature Store provides an end-to-end solution to automate feature engineering for machine learning (ML). For many ML use cases, raw data like log files, sensor readings, or transaction records need to be transformed into meaningful features that are optimized for model training. Feature"
+    publishedDateTime: 2023-09-19T16:08:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unlock-ml-insights-using-the-amazon-sagemaker-feature-store-feature-processor/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/unlock-ml-insights-feature-store.jpg"
+        width: 893
+        height: 444
+        isCached: true
   - title: "Learn how to build and deploy tool-using LLM agents using AWS SageMaker JumpStart Foundation Models"
     excerpt: "Large language model (LLM) agents are programs that extend the capabilities of standalone LLMs with 1) access to external tools (APIs, functions, webhooks, plugins, and so on), and 2) the ability to plan and execute tasks in a self-directed fashion. Often, LLMs need to interact with other software, databases,"
     publishedDateTime: 2023-09-15T15:24:36Z

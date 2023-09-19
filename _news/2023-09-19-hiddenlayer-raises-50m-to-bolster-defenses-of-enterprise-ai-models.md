@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster
 webUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Enterprise-focused generative AI startup Writer raises $100M"
+    excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
+    publishedDateTime: 2023-09-19T00:01:00Z
+    webUrl: "https://siliconangle.com/2023/09/18/enterprise-focused-generative-ai-startup-writer-raises-100m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
+        width: 754
+        height: 416
         isCached: true
 
 secured: "iYhHQuK9QFg4DREnfKo9bL99apkdO+oxz/yYtp+abiEziojTg2vHxqYUdk6rMIsqi1C4wdu/kvHPtxGRXpgNZH8IsKQ513eBLs2DQATITLX4zccLswEH1utJzomZrw604Gvz6ecQHhVj/0OdD5TOsX4lxzmzVuO/il10jyXDdNqolRlpzCNJ4JTa26+YpaHuT1XFKSN0vNUIkh2/wgWLUYH3qyjAor5yr0B7fUXjtPPwrdqkxkeWWTWvIkY3uAHcy0CvI8YPQD/+HAIcxZL1pt5z3/QMqvnDMAMR0caML7YUFX8zuFuk0E2o19egsU7yzaRZKwjS+9Z3QKkY3m6cb89JBN8rZ/xCHfuSf4c+Fnw=;u1mw0D47bUKY3KvYuLc+Ng=="

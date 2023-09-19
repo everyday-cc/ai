@@ -65,6 +65,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "See How AI Generates Images from Text"
+    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
+        width: 790
+        height: 497
+        isCached: true
 
 secured: "CANAQZDMalD6v/ayja6CBoIPco5bPsH0crk9OSdJa/IA+7lSsNF31vd5J8XdA1FXq79LLWgh9twkZ2PA/JfPXTclK0mTu1BPGgk31FWq+uZA66F0QNI5JvZMMjTgyzt4qttUx6cWNuyWS6TlqmMv4giMo7/L5We+GN0A2Ari+Qixew35t7ytXQzhaUFK76dxa9BN3wzozYRtZe7RPx9niuBISmBHfnhS3lZBuqWlPPBpeS1ritxidF31dbkrU4i1dXWGReSUcjMZGRjfBz93BKxP7KbHLLl2qvcZagHxrJt+vopEyZgjK2oV9J1I6tU842xn/tlX4z0DxnzXTA7ROwJpTvG9JBEkTYMEyqZjUFqD5foJ+XKylIkJaT5wjQGOHfGwKYrm22AE5yk/QBZUZ7fGahRos8GZ2eN7mL4xrMjW8vd8Pb8cr3rFS7gqg1lkwpR9sT3CU/oPmi+JnXxiFequgE5Te+yR4ofZnxXfg6+hda86OMq0gBC/iJB8ittbRlw4aD1+r6VHjFnPYzPBnw==;9kDN11snfzZs3zgEuxg9PQ=="
 ---

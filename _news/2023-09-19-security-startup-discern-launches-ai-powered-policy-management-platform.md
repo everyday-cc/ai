@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ally launches proprietary, enterprise AI platform"
+    excerpt: "Focus on internal problem solving, security and scalability underpins Ally's foray into generative AICHARLOTTE, N.C., Sept. 19, 2023 /PRNewswire/"
+    publishedDateTime: 2023-09-19T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ally-launches-proprietary-enterprise-ai-platform-1032640039"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1743708/Ally_Financial_Logo.jpg"
+        width: 400
+        height: 233
+        isCached: true
   - title: "Ernst & Young launches a new AI platform"
     excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
     publishedDateTime: 2023-09-18T03:40:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
         width: 1773
         height: 1182
-        isCached: true
-  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
-    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
-    publishedDateTime: 2023-09-15T00:28:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
-        width: 2000
-        height: 1028
         isCached: true
 
 secured: "HULYDvkkbxfkdaC+wPAj47FZzH9oEVNHspTucxCPgtR9lgPvfI4wWhYD26QBQ8258oVtpnK4MNIwGuQnJYtSSBJsLicAIxuMdVWrRgI5+TIlzxkGsO+bqVeVTC9aq1+z+XVPMPxXiXJoP+ySTgapGbHney9DliR4RaQEd791qTrM0l8kBYTaKUVoL1uLcIJtRAtwAWOzlfM05JkBAj92IyR+PYxXOLVCZbkSTRjWaf6Us8pY6wqz+tbsVvogroySqKhnLpRlX69QgQIcUHmQpB1BuAv3Fhdd7UNbqdJ8u93MY/JlY+rdKflB2E8jwE+tteNGyextdwfTQiiJPly3H7UIkIpJksPRDPV5uEgfff0=;UBqIzlpD9huMFbd6QeZkmA=="

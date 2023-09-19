@@ -30,6 +30,20 @@ related:
       name: The Forward
       domain: forward.com
     quality: 29
+  - title: "Government Supports Police Use of Facial-Recognition Cameras in Israel"
+    excerpt: "Facial-recognition cameras will be employed to “prevent, thwart or uncover serious crime,\" according to the bill."
+    publishedDateTime: 2023-09-19T15:28:00Z
+    webUrl: "https://www.jewishpress.com/news/police-news/israeli-government-backs-police-use-of-facial-recognition-cameras/2023/09/19/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 24
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/2023/09/Security-Cameras.jpg"
+        width: 725
+        height: 482
+        isCached: true
   - title: "Israel’s Ministerial Committee Greenlights Facial Recognition Cameras in Public Spaces"
     excerpt: "The Ministerial Committee for Legislation gave preliminary approval on Monday for a bill that will legalize the use of facial recognition cameras in public places across Israel, allowing for use of the data to investigate criminal activities. The bill still needs to be approved by Israel’s parliament, the Knesset."
     publishedDateTime: 2023-09-18T19:08:00Z

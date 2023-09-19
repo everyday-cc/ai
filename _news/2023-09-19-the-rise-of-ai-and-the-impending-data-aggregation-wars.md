@@ -22,80 +22,22 @@ topics:
   - AI
 
 related:
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
+  - title: "Using data and AI to track progress toward the UN Global Goals"
+    excerpt: "Data Commons works with the UN and ONE to track progress toward the SDGs."
+    publishedDateTime: 2023-09-19T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-ai-data-un-global-goals/"
+    ampWebUrl: "https://blog.google/technology/ai/google-ai-data-un-global-goals/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-ai-data-un-global-goals/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_GlobalPovertySDGProgress_v2.width-1300.png"
+        width: 1300
+        height: 733
         isCached: true
-  - title: "AI Can Revolutionize Mortgage Licensing"
-    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
-    publishedDateTime: 2023-09-18T20:03:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
-    type: article
-    provider:
-      name: nationalmortgageprofessional.com
-      domain: nationalmortgageprofessional.com
-    quality: 39
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Smart money is on learning about Artificial Intelligence"
-    excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
-    publishedDateTime: 2023-09-18T03:47:00Z
-    webUrl: "https://www.heraldscotland.com/politics/23794564.smart-money-learning-artificial-intelligence/"
-    type: article
-    provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 37
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
-    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
-    publishedDateTime: 2023-09-18T22:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "Cash Treasury Trading in the Age of AI"
-    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
-    publishedDateTime: 2023-09-16T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
-  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
-    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "wigmbCiMt6ka6yxDACBcX/4RJy0TCcr7VQi0HRQ3V+/0FhHyRlxOv40ev7UdM2wUbyuFE1ZcTYhY5gRvDQZ3Bngl0dBsVUD/rHHjgs7MraWL8/a3oCI63HsWyF8FhUbhychDWmQ4RnGFAf/vwWnG7Sz+sqyWXOHFaP/RxTfvhdq9TA6mI0ZAh+alc5N2TW0MLHnMUlP+HfJcUoIG5WU4/d1173TPZUhdX7FAMaHGimCiHnlJqUR7M1fjk/VOSvw5DuUvCPwRm4ESfoEmHIonNSeBgrJIpXPB7PEofu0YJh4krA+lRgParkpygezZ2n3TXYMQoJqiigxApsOxMBvir/xkfrbxZiByVIFnZ3bbQUjeRsemGZrAZn4VZ7U7aVVAJXhue/zcyA0Qdq3k9GKlOWC87vd09WhdRVocrH74iXIjOQel9pk/5uf0JoQgTa3PPpkE4tXsvu5f7lindtiiwU0EygE4K3UsoizTMoeyrTyc7D9c0bzsTPmFHRCyNga3Z823nSGNNEGyz/wDot7mrQ==;RwCBEkraVQ0LRXJslB6VSw=="
 ---

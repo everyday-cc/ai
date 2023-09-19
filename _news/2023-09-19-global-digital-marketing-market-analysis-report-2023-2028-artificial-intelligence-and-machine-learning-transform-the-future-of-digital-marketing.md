@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Marketing
 
-related:
-  - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
-    excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."
-    publishedDateTime: 2023-09-17T16:40:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/aimpact-2023-experience-our-ai-future-now-step-into-a-new-dimension-of-ai-learning/article_64bfbc4b-eb8b-542e-908d-42806fd90bd2.html"
-    type: article
-    provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
-    quality: 4
-
 secured: "dNQY1AIMBTtGDpvRlSa1TLhAInv4KlCefM2kFDmJAjHxc54h71B6ClDZyadDqWFPwgdp3OY15cY1OxZFxZ1zob+EBP9/a+lO04SpMC2CCZQUly6kTOiliFY3xoTZSvQfVtgHvTJnMt0qbmwefnpz8VAap3Cm3sZYKyEhDYJhS2IIepXviUWDf7RmYSd1PiU6FbriHYzIjjTmsICO7pwX6F/paMUIL/T54kWva+pijpkTfkWd1wEk+8d/3yIp6iHJI39EbLo4ImRvWBlE6wNlBzNYKL+33k7uQ++Mh4J6v5rE+8d9wOawjHICkhVx561xosFwVFQZ9IelEQXkjd2tYMxW+4Age0fCEqXQtquPOgY=;HAxHbo1XtetpXCQkfWcyFw=="
 ---
 

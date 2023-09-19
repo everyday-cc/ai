@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel 14th Gen Meteor Lake Brings Arc GPU with Ray Tracing Support"
+    excerpt: "Intel has launched its 14th Gen Meteor Lake chipsets and brought Intel Arc graphics with Ray Tracing for the first time to Integrated chips."
+    publishedDateTime: 2023-09-19T15:00:00Z
+    webUrl: "https://beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/"
+    ampWebUrl: "https://beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/09/Intel-Arc-Featured.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Intel 14th Gen Meteor Lake Brings Dedicated NPU for Offline AI Processing"
     excerpt: "Intel's new 14th Gen Meteor Lake CPUs come with a ton of new additions including a dedicated NPU for on-device AI processing. Read more here."
     publishedDateTime: 2023-09-19T15:40:00Z
@@ -115,6 +131,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Intel Meteor Lake CPU Series: Technical Overview and AI Capabilities"
+    excerpt: "Intel has unveiled its next-generation mobile Core processors, known as Meteor Lake, slated for launch on December 14th. These processors mark a significant advancement in Intel's technology, harnessing the power of their new 4-process node,"
+    publishedDateTime: 2023-09-19T16:18:00Z
+    webUrl: "https://www.guru3d.com/story/intel-meteor-lake-cpu-series-technical-overview-and-ai-capabilities/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
   - title: "Intel Unveils Meteor Lake Architecture for AI, Efficiency, and Better Graphics"
     excerpt: "At today’s Innovation event, Intel is finally pulling the tarp off its Meteor Lake architecture. The company says it represents the most significant change to a CPU architecture it’s made in 40 years,"
     publishedDateTime: 2023-09-19T15:35:00Z
@@ -125,6 +150,6 @@ related:
       domain: extremetech.com
     quality: 15
 
-secured: "GBHE6thfq7ewrRmJY+8iyZMoetHCxwanNdF5kU/cOnriLbKfXBn+ycOqJHe+cxQ4ozhtyxeCBZWgCA9qzc/4A53lUNpMGxz9xxFlx+qX7TjFQL+zX5fpId0c2l3FNpxU05SonTwn7XCbSSsmCCrjMQEIFUCWlHKkvyvu6srB5f0C8JMARPzRa4yF3de1O6sOBhJPWCQhvqdEBX8PfeOh9E0R0x7VVrjgEnJbChGd3cRVg3hy5723CB1R1elVKwrHAYRY85iDhNleVL7oHrL4GORGuhcWPYjzPLbJLthzI6TkALXUGVY3bsChJrQ7eds/FNiLvNLIoEragsQO6BR0eCIz82TJZbb4Knx0O0eD3Yc=;qA3qu7AKpcE6Jikd97gXVw=="
+secured: "uPQ5PKjzUd98BfmZcQVz3TowNnXWZcYXa3px1fILv3djqS9xpj7sm+OrdfMp7z25QJhNiSAlQnGvEsBUu17dESjz2WOsAi3tcK3VcstiWtZAmN0+l39JvMkKLhuLwMqMQ5GYoWhAvp0RQUrNtk33yfM3Jxa9A+Xbz3RZwl8boJDU4SMIhXkcZ5jWRJZiB2YKMZWOHXWdBPd9sRCH8JxFt8SV1LIixM5kYum2+f7QpP3zda/9BjvsTc98MksNGRI0T7numqEOXf96mx936ynOXBfIxpV6t0hdpwFmGN9tATm98+xX4i8K+xlv0tJeDtTWJkS+1+geQUGkCgzEZEeSXP02mArkmc12BdMv1JZu+nAjeS8WKBW9UNEhTATV+WxKpEHoVrKEWBY+veDjVvtPoJTxLQQl1KBBV+Q5vobNNIz4jh+aVgdo7GT3CN7cBMrJSg5PPG1AyzKDGozFStIUDeucbAJyPCCkF0bO8fy9b/6hSnykgOpt2FFrSMvA4YdFcfAzx42/Hf9lqAmJMRLygg==;rMbIuqIbwpOTBQpjCRt/Ww=="
 ---
 

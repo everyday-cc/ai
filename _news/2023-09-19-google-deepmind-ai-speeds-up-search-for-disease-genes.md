@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
 type: article
 quality: 104
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -45,10 +45,26 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
+    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
+    publishedDateTime: 2023-09-19T16:19:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
     excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T13:42:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
+    publishedDateTime: 2023-09-19T14:26:00Z
+    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     type: article
@@ -144,6 +160,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
+    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
+    publishedDateTime: 2023-09-19T16:05:00Z
+    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -163,6 +193,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "+cGcJis+eUlO0QzZVKve9aPUVOZEq908uFR72awnTyXBG9D1n5/oLRKiVY463306dVmy8ogWIUKqbhzBL0bsX3xf42xbqKF+p/CDtHLPIf4lmBGzhpUHAFOscdg7yZC1jtiTtnSdcst30gPT6Lm/46KDHzMVC/mVqUlaU9UVVFA/k9aoyvAkCSGuPGN/+TjVkp2MaB+P8d8w7XO9ydsAXlkXL21EGnMcCRjQcpwjk4OeA9eKd8vVq2G48eZgteXOIbVPFkYACVmr1pZUiWtUcV13PBV7wa60QxRDGIiJtTsL2R7rcBOrK3q2Tmf0WJywkqJCllvUEfZy7IvGZFZRquf5HicY8npbpsBMLuspTks=;0sI6ZuYYVCX3holSE8JMVQ=="
+secured: "qYv76KrDacyOFT2f7qSBMsRrPFQR0li9EmAmnpgB70llgRG9Cl7+AdVv/9PtmAtXcx0u1HjMEZMRtgyoefR2t6iTS62dCcobiUv/VzW5Wgzz6MT8HgUhOYcyF5zhOKEc/qLj0qGU1zrgkzqQd6fwbJQtnF0tGfgiPXUXL+/nfTMch9ZseBszFMpx+nGaxn553L8g0HsxlyGC7wuEp+GiIBjOYYNQP+vljCnPwq0i4KDeMUrOBxpbG94N4mCF0uH6+6qwa0JRX8OIdsmdSUmvU8QpcbJfy4LvEfOnliAn8+Cn4EbTvlawO0PwCrXLa4CibNCGN18DSusom76qAjoQC6mChCvub82yMPQVfdViZ+NaY2ZwaSCKN9CyAIia4SGUO4btA7ITYiO0kGPp0PCQohI/2mPbQzRQwfPA0r5aZdGtQnTWT8U5une5iPUp1B8mauQSlMnupGJkz2LHUMsOJiLsw3GHfsOzKtWBCXc3s+5HPEGTQg8cbUZJHP+UND9ell92xMm9BpdGvT1ughSdLA==;5hQxdWyhjM1hRp3VE2vVtA=="
 ---
 

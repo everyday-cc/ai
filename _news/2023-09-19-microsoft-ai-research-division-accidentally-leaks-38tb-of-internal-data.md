@@ -35,22 +35,6 @@ related:
         width: 1125
         height: 849
         isCached: true
-  - title: "Oracle brings its database infrastructure to Microsoft Azure"
-    excerpt: "Oracle has announced a partnership with Microsoft to bring some of its database infrastructure, including hardware and services, to Azure."
-    publishedDateTime: 2023-09-14T23:48:00Z
-    webUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/"
-    ampWebUrl: "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-18T11:16:00Z
@@ -291,6 +275,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft AI Data Exposure: 5 Things To Know"
+    excerpt: "[RELATED: Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz] No customer data was exposed and no other internal services were at risk, according to Microsoft."
+    publishedDateTime: 2023-09-19T17:00:00Z
+    webUrl: "https://www.crn.com/news/security/microsoft-ai-data-exposure-5-things-to-know"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0284-18a8717027c5-4d44981de29d-1000/red-cybersecurity-lock.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Microsoft passwords and keys exposed through misconfigured Azure storage"
     excerpt: "A misconfigured link enabled public access to 38TB of Microsoft's confidential data from two employees' workstations, opening up the potential for injecting malicious code into Microsoft's AI models."
     publishedDateTime: 2023-09-19T07:11:00Z
@@ -318,20 +316,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft and Oracle Partner on New 'Oracle Database at Azure' Service Offering"
-    excerpt: "Microsoft and Oracle on Thursday announced 'Oracle Database@Azure,' a new collaborative infrastructure-as-a-service effort that lets Oracle database customers more easily tap Azure services."
-    publishedDateTime: 2023-09-14T23:34:00Z
-    webUrl: "https://redmondmag.com/articles/2023/09/14/oracle-database-at-azure.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 50
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/NadellaEllison.gif"
-        width: 647
-        height: 450
         isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
@@ -397,6 +381,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
+    excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
+    publishedDateTime: 2023-09-19T17:04:00Z
+    webUrl: "https://www.gamesradar.com/what-comes-after-xbox-series-x-microsofts-2028-next-gen-console-plans-revealed/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XmNzZKdLfTX3Wf9KNHvpwe-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-09-17T01:16:00Z

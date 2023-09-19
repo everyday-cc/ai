@@ -78,20 +78,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "EU to Offer High-Performance Computing Access to “Responsible” AI Startups"
-    excerpt: "EU has announced access to its high-performance supercomputers to \"responsible\" AI startups to boost AI training and growth."
-    publishedDateTime: 2023-09-14T23:30:00Z
-    webUrl: "https://techreport.com/news/eu-to-offer-high-performance-computing-access-to-responsible-ai-startups/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/09/shutterstock_2303459189.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "pw7ua5rBCWrgA78VOtQMO2OlpAtohrHJQ9VIYtwZQ4XzzF5WWLkOhSMLkvBsAxaAhDkTenYhYjdKCJ07ddk2FFsJzX2YWpH9R8S9nCESisuaQ9uYfGI9iWGNovrqaKlOQiHgzmzYi8e+BWUTd5Sm0vPuIuq6cqtLRreE1RgqCcbRICB12QffBZ0hu3p72q+v7BMByQbYVbi0kx+TqxrDHNtWL0B7l9urIVcCXjSvkEWINgWp6GdDMU8cJJ/vAyZ5+iOaZwX5d2rxkn13RT6QNyiDfGPklNWJRNTx1dWdKi8kdznlXT7m9O0f1gPoQ7ig3gKL3e1m4zRz/PO8pdlGjIKvToKKU1xPC9+aD8hYhY+j12RaKym2ufvvucf2H1FLS4sGmAr3TbY/aIAPRqrJviFlM+mGcEtdrWKxmFwCXWCPlv3EdR+qhJLm5xL2TGhLmLBBr2g5dH6vjl8L3Xygm3+/X+AkMF1JM6lFjLUknJdakcxGn7wclKhKnM3EijfwOFApKAniOGQqYDSvT1dt8w==;LQ6cy6B1gefOacc3IYrBrQ=="
 ---

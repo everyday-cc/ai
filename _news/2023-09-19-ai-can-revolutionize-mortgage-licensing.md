@@ -25,75 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
+  - title: "Indaru Revolutionizes Media Budget Optimization Through Cutting-Edge Machine Learning Solutions"
+    excerpt: "Indaru leverages the power of artificial intelligence and machine learning to provide advertisers with unparalleled insights, enabling data-driven decisions that maximize return on investment. With a mission to help brands extract maximum value from their ..."
+    publishedDateTime: 2023-09-15T19:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34628855/indaru-revolutionizes-media-budget-optimization-through-cutting-edge-machine-learning-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34628855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34628855"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
-        isCached: true
-  - title: "The Rise Of AI And The Impending Data Aggregation Wars"
-    excerpt: "I’ll go over how AI is disrupting typical attribution models in online marketing and how the companies dependent on them can take action before it’s too late."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/the-rise-of-ai-and-the-impending-data-aggregation-wars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 47
-  - title: "Smart money is on learning about Artificial Intelligence"
-    excerpt: "Sir Tom and Lord Haughey urge assistance for Scottish companies and entrepreneurs to help them better understand Artificial Intelligence (AI)"
-    publishedDateTime: 2023-09-18T03:47:00Z
-    webUrl: "https://www.heraldscotland.com/politics/23794564.smart-money-learning-artificial-intelligence/"
-    type: article
-    provider:
-      name: heraldscotland
-      domain: heraldscotland.com
-    quality: 37
     images:
-      - url: "https://www.heraldscotland.com/resources/images/14594922/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://www.getnews.info/uploads/03076ad851048fbdad586e761f2d26e6.jpg"
+        width: 600
+        height: 240
         isCached: true
-  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
-    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
-    publishedDateTime: 2023-09-18T22:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
+  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
+    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
+    publishedDateTime: 2023-09-15T19:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
-        width: 768
-        height: 633
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Cash Treasury Trading in the Age of AI"
-    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
-    publishedDateTime: 2023-09-16T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
-  - title: "Gearing up. Quantum computers in the age of artificial intelligence"
-    excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/business-tech/quantum-computers-in-the-age-of-artificial-intelligence/article67311129.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "Q/hP+TqBbWajsgkHtBPVbOUJdTEnoFMX9NBRDsdyK1vwIms1nJH9doB092BW1J6x6BCOvfe476shoqMQkgVWP9+y5jaQrYHy4pUdvp2xtEsF+Il9uaxg1LX4cTPJPTxvqCsD7cvt9j0nt5hnGDCa2Th5fGJORsEVunN6jqZcA8ZvLGKKtA6wa0gfeKiLHL3LcTZTSRUKx7EZTroH4Omz3PCMgHE0EmpquXGvb49bZUepns6m+vBafE6cCq7H7yWny14aGh+EnI3GbHFw5TXlTRbPEqsmWozm2MX8u0gsHkNR6q5jSv/0X0op5vwV0QS0MeNlhcJkG4KJrz4wHYauXo3qkDj2LDHVxnqf+UHRptMnr3A7T/s1XD4K0DRSO6lWKRRBk1dnbqpY8wm9GQmlyVEx4q8JjCvIoIXB85P/Pji7CiYSipXdAcP/N5XHfG6yNhizh3R3e/F2MM6KHQGR5yBl1bhbILBdF3swCacNo4jG5nuifzhv1XLkPbCWpN0jh3LgjFdkwG0paTcCBSpVOg==;EjiLA/qpSkG1e8Evzw0zhQ=="
 ---

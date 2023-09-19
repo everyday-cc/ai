@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-
 webUrl: "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -29,79 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Evaluate Generative AI For The Enterprise"
-    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
-    publishedDateTime: 2023-09-18T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why B2C Brands Should Leverage Predictive AI Alongside Generative AI"
-    excerpt: "But generative AI is suitable for only a select number of B2C business use cases, such as summarizing and extracting information."
-    publishedDateTime: 2023-09-15T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65038164df7c18f7edfdab53/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
-    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
-    publishedDateTime: 2023-09-18T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
-    publishedDateTime: 2023-09-18T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Meet the next generation of AI superstars"
     excerpt: "Richard Zhang, a senior research scientist at Adobe, invented the visual similarity algorithms underlying image-generating AI models like Stable Diffusion and StyleGAN. Without his work, we would not have the image-generating AI that has captivated the world."
     publishedDateTime: 2023-09-19T08:37:00Z
@@ -118,29 +45,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
     excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
     publishedDateTime: 2023-09-18T07:11:00Z
@@ -155,85 +59,20 @@ related:
         width: 612
         height: 255
         isCached: true
-  - title: "Ochsner Health launches generative AI pilot for patient messaging"
-    excerpt: "The Louisiana-based health system will use generative artificial intelligence to draft messages to patients, which will be reviewed and edited by clinicians."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.healthcaredive.com/news/ochsner-health-generative-ai-patient-messaging-pilot/694081/"
+  - title: "The era of generative AI: Driving transformation in financial services"
+    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
+    publishedDateTime: 2023-09-19T15:02:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 39
     images:
-      - url: "https://www.healthcaredive.com/imgproxy/J_F4knKM-nNjRu6mABkXUCwAVsEuBPVs30XCllQXZCE/crop:7942:4487/g:nowe:7:206/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0Nzc0Njg3MDEuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
+        width: 970
+        height: 628
         isCached: true
-  - title: "Ochsner to integrate AI into Epic"
-    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
-    publishedDateTime: 2023-09-19T14:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Enterprise-focused generative AI startup Writer raises $100M"
-    excerpt: "Generative artificial intelligence startup Writer Inc. has closed on a surprisingly large $100 million early-stage round of funding that values it at $500 million, Bloomberg reported."
-    publishedDateTime: 2023-09-19T00:01:00Z
-    webUrl: "https://siliconangle.com/2023/09/18/enterprise-focused-generative-ai-startup-writer-raises-100m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Screenshot-from-2023-09-19-06-48-18.png"
-        width: 754
-        height: 416
-        isCached: true
-  - title: "See How AI Generates Images from Text"
-    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
-        width: 790
-        height: 497
-        isCached: true
-  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
-    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
-    publishedDateTime: 2023-09-18T20:14:00Z
-    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 36
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
-        width: 688
-        height: 507
-        isCached: true
-  - title: "Accenture invests in generative AI startup Writer"
-    excerpt: "Global IT services company Accenture has made an undisclosed investment in Writer a generative AI startup for content"
-    publishedDateTime: 2023-09-19T11:37:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/accenture-invests-in-generative-ai-startup-writer/article67322420.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
 
 secured: "F9/uHgqwQ0j+GZE7sn+hEfg6dRCZUdz3wkAfQQyvhGPSg7ZKYVOilBtN8lOl0fAJC3GCXeOSYWUSTGHbX4691Pu85WhLBUxzGXKLDpl1LQ35Z+gbpQnrXn6OKwbeVvm2jEFl8P0RgDm3nWK/n0gNar3zNgy3u8lyW2+C/e4G6tqJPBy0j+XfB8h5DRGammoVtmrxR3Ynep4cdTeaACiTemHKcRUANL0nvTXX9NtXAgO24i1kd2NIGu4+EAdWNQDPpx49eukhra7/WwpiJy8+9BlTwO48/b2Tn/ZS9BOoLLQ4DPSU7Va8AqU9kKbw8xFJYWsVGCED3EEez5mjnochXYKaaOHGsIzbMAN723mamMaRlgZ5Bj96cBs7RnLWiObN9FkTPbQGsovR95DcmeE54YvOHQe+6k7pBG73aZScFNhu2KHJ+Xu55lZvVhYfzxopne3dxMMEgE8k65BtIJpUAP+c86ke+UK+ctiBVrJ7M2jUmNHFWWkH4Q4Outqu08vuLALC7dc6hw8bHH1kIzKQfQ==;Curmjb1YZDqNfBpoBcHBjg=="
 ---

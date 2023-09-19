@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Nears Release of AI Software Gemini - the Information"
-    excerpt: "(Reuters) - Alphabet's Google has given a small group of companies access to an early version of Gemini, its conversational artificial intelligence software, The Information reported on Thursday, citing people familiar with the matter. Gemini is intended to compete with OpenAI's GPT-4 model, according to the report."
-    publishedDateTime: 2023-09-15T00:49:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-14/google-nears-release-of-ai-software-gemini-the-information"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Google Gemini AI starts rolling out to businesses in early access"
     excerpt: "Google has started rolling out early access to its Google Gemini AI designed to compete with OpenAI and others and capable of accessing all"
     publishedDateTime: 2023-09-18T11:22:00Z

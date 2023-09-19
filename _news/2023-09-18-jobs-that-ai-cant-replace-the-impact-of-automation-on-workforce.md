@@ -9,7 +9,7 @@ ampWebUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Cleveland
       domain: news5cleveland.com
     quality: 19
+  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
+    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
+    publishedDateTime: 2023-09-15T12:05:00Z
+    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 11
 
 secured: "B6MBAaO7Z/PrNnZc18AlfUWz+ZXweNvkUl3vP3h8+KA0/YDcdcG5Mkut9KMiy+E6ThkwecE3k0q78zpul6cP5di/hAm2rKVx6KaYTIueVmGLAprJWgu8crJtCsC3/R5BhR1sGX0zH8wvOEKT6k7Tden/uB4SjJmQhiAB+t6n/dSVI7AFY8siUyy5TYS3GA81VEQdbV6UxrM/RBYGrCql3Jrhz1J1gINoexLkvhk+Mhqoq74Rog/S+dx6tciq/cZoP/RLZJ0+qqVLCKjbB599tQPWkbhpHcBQ6GqpSe87dxePzMNf0WAbuQRHfoKLsjzdVVZIOIz/06ll8C+IdK3Lx39iFFqHYOCoUh+WZE6aBF0=;nCbQEBfB0rsMe+LOpxyPYg=="
 ---

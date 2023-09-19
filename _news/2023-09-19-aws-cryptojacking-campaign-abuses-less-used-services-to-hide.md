@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Infrequently used AWS services subjected to new AMBERSQUID cryptojacking attacks"
+    excerpt: "Infrequently used Amazon Web Services products AWS Fargate, AWS Amplify, and Amazon SageMaker, have been targeted by the new Indonesian cloud-native cryptojacking operation AMBERSQUID for cryptomining activities,"
+    publishedDateTime: 2023-09-19T16:27:00Z
+    webUrl: "https://www.scmagazine.com/brief/infrequently-used-aws-services-subjected-to-new-ambersquid-cryptojacking-attacks"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 14
+
 secured: "6KV6QoJ65+OcR3DQlIg76psq2we/uaUqNpD7dpcjBNMFdhIK85ZHhM6jXoX9pNTLOUKzn2AQdsfAbI+kT/Uj2AN7gBVdphyaPFcJi77GT0Lz/pd+q3H/cEAF6YwabU7M4PXnZsJ4taMeDvh6XsN2kpTAWXCjBU2d0xgBRTh1Hkk63a1zTZshI1QhliLj0euxAFMVROpxwR2InNxIrhSkzvKsPvlzTtXXq3cBDuThSI+A2Lt1Z9oFEvztx0lPqr/XJRI33fiRwrjBZv2LAy1zyC/JJjvli69sDXBbnNpiaVLJFoP+OzAOXLrrmRTjX47+VmfEeoI8JKDGm0OOIqTxOVs+SIRCXx3mke5bAEOF2rhJEbso0iFb+j1nhu5Zwen/ZeK2I9GqfYopZnMAI1wuAKOupEYjF0cbOs36WadSh0Xrc4oPNdIRwBycspJTqpYxaGIGMV6KqJPdN8nDmIjYkUSSJuar2QZqOZ9kEf4LaPaYjF2/jt/Y+TtnuIQREn8ELOHevxW+adFPZJDN9vif0w==;ixDQJzJFyZ0TQPoOSIGmbw=="
 ---
 

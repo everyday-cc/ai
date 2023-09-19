@@ -1,22 +1,22 @@
 ---
 category: news
 title: "SpectraWAVE Secures 510(k) Clearance to Add Saline Imaging and Expanded Artificial Intelligence Features to the HyperVue™ Imaging System"
-excerpt: "SpectraWAVE, Inc., a medical imaging company focused on improving the treatment and outcomes for patients with coronary artery disease (CAD), today announced U.S. Food and Drug Administration (FDA) 510(k) clearance for product enhancements to the HyperVue™ Imaging System."
-publishedDateTime: 2023-09-19T12:08:00Z
-originalUrl: "https://www.eagletribune.com/region/spectrawave-secures-510-k-clearance-to-add-saline-imaging-and-expanded-artificial-intelligence-features-to/article_45fe23d8-bf99-598a-aff1-7ccd90e3d984.html"
-webUrl: "https://www.eagletribune.com/region/spectrawave-secures-510-k-clearance-to-add-saline-imaging-and-expanded-artificial-intelligence-features-to/article_45fe23d8-bf99-598a-aff1-7ccd90e3d984.html"
+excerpt: "SpectraWAVE secures 510(k) clearance to add saline imaging and expanded artificial intelligence features to the HyperVue Imaging System."
+publishedDateTime: 2023-09-19T12:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230919024305/en/"
+webUrl: "https://www.businesswire.com/news/home/20230919024305/en/"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-secured: "sXJzGoO92jArQgS3xvFU+aeOfppvwkN2NvQ55xstWULEsX5DZevb3e3EtBYlkfSZS8nhhMgUDEPmnPo+uOWSoDWNQgVEpQRR7yN1EvGaZ5HIjGa36bQ3Uef7bVhe062PZRjvCzyt1kdJYexOBSYi6EftLZP7gkDCKRNzIx/dpCM449jEhWP3NWOgfG4cwa3AqLtJ35D5+nAbni7otxtqWSPMKm4LCuwZ4ZfVst8E60KEkatRE++Lwto8TEPiqhOQsrOqG63hcl4d2hf533pGsW5cnAKXfw//BbVStSXqAJGVv1S//NBLIqYd8rCiECY7Qw/iqBjeBwNFLgScLpq9XUE37NC+cCk05NkVeNRJeUXJtd9j7pRTR9IG+Tzd92MD2GrxnW1OlSFmOumlgnHUbxd/FY7iNow/hRRxei4I/J1OriUVbFWskbypYCd3LwWevtUmg1CjCSU5EIMp7P26qj48lRm0pNspMkQGv7u9ucD35Spt2gFhkhEWcaRSc2SA03P7WDD21OyUvb4Byb/dXg==;LvM0Ft9yjeWwy0iGe3EQVA=="
+secured: "LkzacNBkAU8OChd1x2JYtfzZprBW1hC4resoEvTkFnVfG/GHkrAHFNZGnhPaDsKqKMi/33xGWGadXWDbKqbTqDjDKHDiF+MFWk1y+QgQ0e6xn+M4ry2zjZRr0Y0vxmXonVfTR5QDUwZuY4ku9NLISdP+3tKLswvuYmdE4tfwTboXJa+vq6F9w4FDz2z5V0UhoYnwuaCZMKhSky1X+E+NCQxm+os8itOmOZjWI1eh1qTrZDpECl6tTo/awcwJtJO8U8LZ/V+uoXeO9cdgSCvsAbKXp90T7cJtpbLyGpoTPb2dc0SboApQonwHqgxxwQaJ41aGWwQSeF4jrohXEeR9Aic7o0arKlqRTUvdemtpCdxOGTIfUNHC67LKLBNFSWvDXRgGmZDDqif6yA45gy/Q4+Vdb3nHNRYgn9DO1IraFIRy54VKLTc8VM/KJ5ynWuOrpAKmoZuB9wrff5TQGlXK4D8mgM7pz+ETsOlWg6+Txrq6QhYllbCNXCWjAUqMtaGa8UmWCBQg3jc3jTEOPG1Qxg==;2rhCF0l5TgrWggVe7dx/6Q=="
 ---
 

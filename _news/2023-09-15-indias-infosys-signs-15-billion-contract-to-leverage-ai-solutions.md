@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
+    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
+    publishedDateTime: 2023-09-19T17:24:00Z
+    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
+        width: 400
+        height: 220
+        isCached: true
   - title: "Deloitte and AWS join forces to enable Indian customers address real-world challenges using generative AI"
     excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) announced a strategic collaboration with Amazon Web Services (AWS), to deepen generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
     publishedDateTime: 2023-09-19T10:57:00Z

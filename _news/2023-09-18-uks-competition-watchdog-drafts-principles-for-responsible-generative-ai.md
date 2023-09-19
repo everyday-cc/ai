@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://business.inquirer.net/files/2023/09/2023-09-18T101515Z_3_LYNXMPEJ8H084_RTROPTP_4_USA-AI-ELECTION-620x413.jpg"
         width: 620
         height: 413
-        isCached: true
-  - title: "EU to Offer High-Performance Computing Access to “Responsible” AI Startups"
-    excerpt: "EU has announced access to its high-performance supercomputers to \"responsible\" AI startups to boost AI training and growth."
-    publishedDateTime: 2023-09-14T23:30:00Z
-    webUrl: "https://techreport.com/news/eu-to-offer-high-performance-computing-access-to-responsible-ai-startups/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/09/shutterstock_2303459189.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "UK competition regulator lays out new artificial intelligence principles"
     excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to foster competitive growth in the fast-moving technology. The Competition and ..."

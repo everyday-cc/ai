@@ -42,6 +42,20 @@ related:
         width: 600
         height: 240
         isCached: true
+  - title: "AI Can Revolutionize Mortgage Licensing"
+    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
+    publishedDateTime: 2023-09-18T20:03:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
+    type: article
+    provider:
+      name: nationalmortgageprofessional.com
+      domain: nationalmortgageprofessional.com
+    quality: 39
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "d7+zDaO3Qi9wVIrFEiAItyhizskDhU/b3bZR3+rGZgjW4GpWNavSq7DzZdzXaq99D3RZJn5P7i0IzN4u3Q2Gy14NqjIjk5Mo6qjHb54vgkGhmt1cXf6lMTEk8au3eGNz7Na2XccL8eT28lN4IN+n4+a9TE2/+/O1VV4ZjN4wTLGiqSMv0IIuKAcTYLaCKqRTnJX8hL8hYHMEYPz4kzqsUdoqlJ/fm509qSTWFzt8O7cyhMmBiofGJsRr4hD6bcJfghwAWXRV3f05BvZFtP0i3jrjBvFyimSjMEfNKpDyxGPn1+/71S64SkhWj6xNpwflscWJVUNOV6vGxnLG+AsUxKioycxD7Tf6XpcNrJaLxqw=;Gj6J/rVICioXJo76An2tUQ=="
 ---

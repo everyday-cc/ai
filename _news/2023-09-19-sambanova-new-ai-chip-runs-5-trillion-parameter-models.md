@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/09/sambanova-new-ai-chip-runs-5-trillio
 webUrl: "https://insidehpc.com/2023/09/sambanova-new-ai-chip-runs-5-trillion-parameter-models/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SambaNova unveils new AI chip to power full-stack AI platform"
+    excerpt: "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite."
+    publishedDateTime: 2023-09-19T16:24:00Z
+    webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
     excerpt: "SambaNova Systems, makers of the only purpose-built, full stack AI platform, announces a revolutionary new chip, the SN40L. The SN40L will power SambaNova's full stack large language model (LLM) platform,"
     publishedDateTime: 2023-09-19T15:51:00Z
@@ -35,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 31
 
-secured: "LZESSynoPOmoGYNvAm1LtrGDPGfVwqhqe+7kN72j94RvoMS5Wl8N67Iztp9tQHiXb5NnRpEHspA/m+5Ogvd6VaPCVYIW0McByvuDkc15f1+iu3lF05YFNoeY6DMgLxRBOA4hrhWmZtNBYgTsiM1H5ql7h2h2dejvU2phIlOhCm8uo47c8acwcejZeBdCnG7hKFGi+PtIBBSi88Px0kvSOQJu9D7KqDS7G+z0Ou6XV6NNKEm68rzxGNMhq6HqpD3ZgORNi2BoRgzMHGhGN09vySwpYJRdvMC4jL+jm0FtTzh7gNpW1o1n53qAqz1uP/DUHrtFf58gDFNHh4XdNQXhcvbGdUwoD36wRigdOygiBHQ=;YP5uYN0dq8MMzSLkfCscgQ=="
+secured: "G7gMwy0HYF5tLqWPKmEG1G+I7oqlR4pO0aPQ/NipXLW3dIt3eToaJiAb9n+WnHGhHoNNqtuDP/eIPR3BP9akP8XMCc5/qSAnbcR2r3Atf8n+HtkNblW5N09oTPtGeKIQmB80tFKx9bfRR5YhOxzXXU2axpBKM6Zr9Tp/TKBS44cfIiv5u/7Vyp7ug3P1ht3DiDoBHvmJRiY37kwpoKQcdCiRa0DoMzdGv0cjVN2myWBSyfTukbv/rwBSdKAxq4M9L6FkVrBrnGtObJH/df7lbxkGA/hG+YcI3BYbqdZZdwjsxeTnaQ1MghNd7IjFj1g2ACCj74dCySeTj7UyFibpXNhfrxUXiFOmBBBgWDJ2dnLWNB37gPU5hzwrBMNpY6CMwDESgUoM+vwCjA2TF0HGOuiwxTulcOLUam59WPC2IaVyfwk9tdbis00Kp9nORShh/ZRPPEBARFlZRzWqfipU6BSIwHB3biMIw9eRaYuzdtsNCvje2z0xQTFrXPuheb2DRFwxwvRW6lakez2qPo/xjw==;jl/XuU3TGTEpbAHOTbzKbQ=="
 ---
 

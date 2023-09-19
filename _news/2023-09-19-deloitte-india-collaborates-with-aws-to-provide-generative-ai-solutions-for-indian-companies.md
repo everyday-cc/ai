@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-del
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
         width: 1200
         height: 776
+        isCached: true
+  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
+    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
+    publishedDateTime: 2023-09-19T17:24:00Z
+    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
+        width: 400
+        height: 220
         isCached: true
   - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
     excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."

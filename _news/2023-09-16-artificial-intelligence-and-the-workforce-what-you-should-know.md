@@ -63,6 +63,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
+    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
+    publishedDateTime: 2023-09-15T12:05:00Z
+    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 11
 
 secured: "z35S/8DF66khpz73Zje1uYggTMkM06DK25/vrsTNIvxrTO2dyK4hT4vABoyojihgOuZriQ+lmtfEl0OawxXMQgahonsqmnEXZ9XUcDhfsXnBtbglNwcYFNqRI7Ins7UH1s159jsKCVmTnfGyvyLvNpojqJ0PmWAAv+87h4FEKbA2AJALx6l7CCMbpDfb6ffqUAA1wQjs3MjS7ZTvmKMPJP9ERKbpzyDczgvByrqfQk1cXDyAiYNiEtvBbott5bgCjMumTzyPeTfhJRCQv6lvTsYaXSS9f1CJ6mWqrRy89tbEjqGrMwFjImFkXZayHWSMBxspBkPkr9LbDveDLxDcly7qKvb4m46B8g2Wky47cP9wr7XVxAmAaZ+1eDVk2Dww7hv907HOApqZiJTwbxQ3qIIlORjBVN/cuM2lo9IM2avbVWgTwnsfNuDz99DJmWXm3Igcz9HdH8XPMP7ZNDC7M3XJWpVGStNjozlcubThj3GVa2pBhDxtFzWUv+CT9DZhE6TxtDao9SJrcLuel+MEiA==;g78giSSC4UfDO13Mxw902w=="
 ---

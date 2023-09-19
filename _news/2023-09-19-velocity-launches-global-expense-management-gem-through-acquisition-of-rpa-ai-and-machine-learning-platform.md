@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Ally launches proprietary, enterprise AI platform"
+    excerpt: "Focus on internal problem solving, security and scalability underpins Ally's foray into generative AICHARLOTTE, N.C., Sept. 19, 2023 /PRNewswire/"
+    publishedDateTime: 2023-09-19T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ally-launches-proprietary-enterprise-ai-platform-1032640039"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1743708/Ally_Financial_Logo.jpg"
+        width: 400
+        height: 233
+        isCached: true
   - title: "Ernst & Young launches a new AI platform"
     excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
     publishedDateTime: 2023-09-18T03:40:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
         width: 1773
         height: 1182
-        isCached: true
-  - title: "Automated evaluation and security platform startup Patronus AI launches with $3M in funding"
-    excerpt: "Automated evaluation and security platform Patronus AI Inc. today launched out of stealth mode and announced that it has raised $3 million in seed funding."
-    publishedDateTime: 2023-09-15T00:28:00Z
-    webUrl: "https://siliconangle.com/2023/09/14/automated-evaluation-security-platform-startup-patronus-ai-launches-3m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/patronusai.jpg"
-        width: 2000
-        height: 1028
         isCached: true
 
 secured: "CH0XfvhkhuzyZlYWMf3w0dthXYxQ1GWrrWj+9rFpPq1JU+f9qQzfcr4dFDtGWfylGmX4tFAkVLRr/X5MvUWgO9zSvfJYZJAt5KZkjAYJ469IS9a95izWVuKrMcxWydwM1Ov6HlmrxbR+RE+38k9sjYM1GsO4bmuhYql3pp4FzR1RJJVyoj9SZEM7IseTJ3RRCfqmgNxqNR2T9Gke4CTH44uSMcTuq7e9aSNWKgSQsDEr4rWBivTGAse2ct/dYM9srR+q1TWkVjSoqUhmsP9XVKBf0D/l7rPjmxzHSoyWN3HzEI3HCwSTRiHR8hJeDH9nF9PzfVyvyXRwizfSOHgK4vplmCfCamza3jB7CpcySe8=;lMOh/FBPjtGJoIBviJr22Q=="

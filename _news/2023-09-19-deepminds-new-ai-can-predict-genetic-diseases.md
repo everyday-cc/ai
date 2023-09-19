@@ -55,10 +55,26 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
+    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
+    publishedDateTime: 2023-09-19T16:19:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
     excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T13:42:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
+    publishedDateTime: 2023-09-19T14:26:00Z
+    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
     type: article
@@ -140,6 +156,20 @@ related:
         width: 1350
         height: 901
         isCached: true
+  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
+    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
+    publishedDateTime: 2023-09-19T16:05:00Z
+    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -159,6 +189,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "RNID3OrkSPELE8R8hfijcpa51j44f4Y1i0KVH/SKgtXtRUq1spm2hqGcKMWd/Rq3keFwdqnYpb7xfsKK8y1nrTqlNTQUIwvR/yV73l/vKul3wsV6LSRZNvNZ8A9MaT3FJXw27fu9g3DJYqEdyCdVoh9hdkyF3kJ4fhPbALwtpnmpIgvz/yaI4dIbQrTXsEsRzxU2e945uJV8CEJh0oA7N134OZDYBuNIFLhd8fIiFPZls5fu3vph41NQqxuZ4ZKzpmnnYxo6JlHDr0BbclGxXPjJggq22uTcg0o3Jgs3i2/bOfldKjyTyJxSAPpkzM+PnzI8pbgHXfOljIa9zu/vGzluNlnnFh2hSeL3lpzNPHw=;1Ote5gYiWjNyx9aTIK5ZGQ=="
+secured: "2yA4ZDbnVAvv9c+NJJ2t4G7KX0FCvL4E2u8mpeGScpVfmPmzGIn+7kdQHMumSry/UiAqrErIRHFaDAI2V/86EaoS63J2PVJKtIFZIke5Jo3svQ4o4ftyeLTbznLlz9wGxklaR7es5SZYtwjpsN0wsXtPBJecQ2xa5OZB4sR8vRfYcnvRRWBY0x9T2ONR1CRLL6WObIDk49EogWXcbAo0oly3U+e0bBopzUMzhziwmhmA5QNgykILt7KgsIsuM9c9BxL1iGK2VO3Jj7J8eFHDbPgg0LyepQaI14Uxpchc/oN+2IcJopNY/zsKUCDoUO/zXjT8DJCsncfj9FI1KTRd/lqjr0OFlgTKPMU8v+EKBEpY9+CkuJLpKWjnAMssJ9ZZ6Qsjl3u6zn2fc2KIAfV2uZLtr3ImB3QIxHvnAfuTiwPOLq9YdiN9R97qB2wUVsMS7B7Tr9IiAH0RjXv12+h4Z4098cB27fnVge53s2rm2pqPnxB+GTyJ7teWYSFMxUS1QfRlPGlsBDBReBhIBHi32w==;D8Ok5dammQOfSj/m4M4BPg=="
 ---
 

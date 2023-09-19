@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/google-gemini-ai-early-access/"
 webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-early-access/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Nears Release of AI Software Gemini - the Information"
-    excerpt: "(Reuters) - Alphabet's Google has given a small group of companies access to an early version of Gemini, its conversational artificial intelligence software, The Information reported on Thursday, citing people familiar with the matter. Gemini is intended to compete with OpenAI's GPT-4 model, according to the report."
-    publishedDateTime: 2023-09-15T00:49:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-14/google-nears-release-of-ai-software-gemini-the-information"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Google’s Gemini AI: Here’s what you should know"
     excerpt: "Google is introducing its AI model, Gemini, to compete with OpenAI’s GPT-4. Gemini AI, announced by Alphabet CEO Sundar Pichai in May 2023, offers features like content generation, code writing, and more."
     publishedDateTime: 2023-09-17T06:03:00Z
