@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The United States must win the AI race"
+    excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."
+    publishedDateTime: 2023-09-19T04:18:00Z
+    webUrl: "https://www.knoxvilledailysun.com/news/2023/september/us-must-win-ai-race.html"
+    type: article
+    provider:
+      name: Knoxville Daily Sun
+      domain: knoxvilledailysun.com
+    quality: 19
 
 secured: "YQjIPxNtvCNjltu1GzUWZxKEN59j4t83SJR24wA1TkFUYjWsD1ckM25KFU0gPitqGUs+jgDZVWlnGR2ahVOwncrE7SJ6RwRJE806hA9gOwGgz29Wo4l0ExDOkDujYMknl53clzJWdAv+B4umaTb41+S2T8JUK13qut5RER2hyHEsSwDQElxBMXe7AxJXOKPMs1gLUqC5oe/K+6/dciuXQMVZnGBHdmfhy5X7NRgWtILq3iL34WzlZtBc0XmhG9zUi0KM8pXDu4DZ2v/oENHJ7JqWfyxzJLmCII7sPPSIXBGdwyvSpkUFbCL69F1I/dvDNS9LlIxuxJnChZNym6kOb2Ilc2vsNr0HZFv8XpNul1qFpklbV7r7l6QAmdBX4bgRQKSPLOPxdSKe91Rf0eApUEt8U5MGX+dRaP2hv7xBLvlu+APXi+FsIEdmfKLEP6xezLrtu9BEakcaLDJp7EHdJ0DEpxHZsDhAxZfrwHNIWQnozKcssI0+RGRmwo9wLkysx5tdrxYtgEC0qg5UAb1uhA==;K0aES4tpjINbrh8O3ziCTg=="
 ---

@@ -37,6 +37,20 @@ related:
         width: 945
         height: 533
         isCached: true
+  - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
+    excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
+    publishedDateTime: 2023-09-19T04:06:00Z
+    webUrl: "https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 50
+    images:
+      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiyJyQb9mcfSjaCa17jIAuIuKveXmj16kftXN2B1lMd8fODbwIrboMDf1VP38_vIFpAb-J_rUVu-2mTraIhsYXVdyZc2bHh0vbDY0bxqCkNb2guDOAp-52gDutokkTKT12srlfZU_gnxTIOy15X9TzCdZWeX4TrEAgpQsMp2qTCkhicAv_DaH_y8kvRukSk/s728-e3650/wiz.jpg"
+        width: 728
+        height: 380
+        isCached: true
 
 secured: "sUzekUAkA3iMQd6+hNNniLriwRVCC1CufDSTiSajeX/ng1Lp1KUtfFVsl5JsSoEi6uAvLLhoDWYIGK76IAz+/u+a1bYsH4nA8DabVb9Y36/Ab4Eb6Ft/CBm6btd5vDl4pqUm7kuxsU8lGaVoC4kkaGC5fFP8lZmf9nJxW5TiKkPox2H20sVTTJYtBH0z2YLdE2RyFOEHa9h2kPpd82Z+qJFgbUX+7vDC2WsOga6RobrepG+14i9+D7cCam2gnH6yHdQcCIzlWXJgO4hy6kHKTlXrOSgnXTxcMbFc/5FYIaT/Pgd5EN5oyobrIFmkmGoHSohz7ub59cVx68C9mhdQZZmVnNBuAIg9UwZvgKWZ918YCUKiEI8XGpTG7tUdVE6GwFPME3QVBpIr3mcozfeI+3dEGs/O8j4gpQiS27jL4PvPHPY7Ci+R7/AMgpupfdXIcaTpty8yy/e8sufIlcdiZx2nEZf++8s7BuA/LGY9ddT5OwrTspe/HhQbNvKaWA2Nw7aGAa6Dc1xvdY1L5Yzybg==;uXhJ1BBozNCJeb90iu5ztg=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Are Self-Driving Cars Really Safer? Exploring the Facts"
+    excerpt: "In recent years, self-driving cars have become a hot topic in the world of transportation and technology. Proponents argue that autonomous vehicles have the potential to revolutionize road safety by eliminating human error,"
+    publishedDateTime: 2023-09-19T04:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_09_2023_17_40_37_1760082.png?width=1280"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "With self-driving cars, it's the ethics we have to navigate"
     excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
     publishedDateTime: 2023-09-17T08:24:00Z

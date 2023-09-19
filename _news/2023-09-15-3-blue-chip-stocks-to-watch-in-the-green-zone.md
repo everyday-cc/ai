@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "The 3 Most Undervalued AI Penny Stocks to Buy in September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Every savvy investor is looking for that golden opportunity in the dawn of the"
-    publishedDateTime: 2023-09-14T12:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-penny-stocks-to-buy-in-september-2023-1032630335"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The 3 Most Undervalued Machine Learning Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If you’re wondering if there is still time to invest in machine learning"
     publishedDateTime: 2023-09-14T13:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/1026553/nautic
 webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1026553/nauticus-robotics-stock-rises-on-shell-tie-up-in-gulf-of-mexico-1026553.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nauticus Robotics Announces Offshore Service Agreement with Shell"
-    excerpt: "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service"
-    publishedDateTime: 2023-09-14T11:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Nauticus Inks Service Deal with Shell to Deploy Autonomous Subsea Robot"
     excerpt: "Nauticus, a developer of ocean robots and artificial intelligence for autonomous services for offshore industries, said in a news release that the contract has the possibility for future inspection service projects. The contract value was not disclosed."
     publishedDateTime: 2023-09-18T12:18:00Z

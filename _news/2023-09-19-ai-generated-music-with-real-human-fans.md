@@ -55,6 +55,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "The Social Media Panic Mongers Have Pivoted to AI"
+    excerpt: "The science populists who stoked a Reefer Madness-like hysteria about social media are onto their next target—and predictably predicting the imminent end of the world."
+    publishedDateTime: 2023-09-19T05:05:00Z
+    webUrl: "https://www.thedailybeast.com/the-social-media-panic-mongers-have-pivoted-to-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1695073125/091923-ai-hero_jvzygr"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "QiVTa2CYhFLJr/sukeOj4vpiCGxjjaHJKvbW/k5VTYqSON3ybb9fjUYzA5AapD46/dHLP6Kntyi+j93Q5otYsh7Oh14HCD8WIaBEETDfGSdO5GR0FzN6yQH2NF7SiLpaVvRybrdpDUKzkdAkvdzmuVQ8SqHrT6/CByUQ1+o0D5lwhh7LqT2mua3fylFJP4cGWX274ubnphF0pc9QfJnCFyEwzUIFuybfLxtZPgjsgGDvek5aesuWJYGCuSSFiUoXWPWHx2RI0wYEfZ+v6SEYFNBpPP3szpK6tmQ1bdaf9AILXBtyrharDl8GZBzXDC1HxLWJF5yVjBpVd03oyBtvcQVV4AmCS9FM5dOwlLd5B572hzemtT+Gqdij6yEb7OCFsOKBBHvSFOH5N+ZHz3IjPGPSYSzQneNqcoHON+NnVoAO9bzWgvBT4lXzR6FhBH+SvYMTo2lIZHgVL13Tr6coGvK6eA6LhwJGrudD/dJtQSrZ6VYs3lUYZOe0KXtYhC0eVR1GgmKRvccF/pSmSzh30g==;Q6Hr9VhaYpMMu+FiTvLHlA=="
 ---

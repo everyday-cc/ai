@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-18T23:05:00Z
 originalUrl: "https://www.wired.com/sponsored/story/how-generative-ai-could-help-empower-the-next-generation-of-diverse-storytellers/"
 webUrl: "https://www.wired.com/sponsored/story/how-generative-ai-could-help-empower-the-next-generation-of-diverse-storytellers/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
@@ -75,6 +76,6 @@ related:
         height: 400
         isCached: true
 
-secured: "fzwjeHgOCmIyq+jqiSu2+IGQvVYcsnrydMJTvVIfIqd7ry3w0RAcmobfARmIynK683F/IAf/oHrOTbO2Onqb0kpdI4W3xtKgPJlz6vqB0LDEa9mlJ5ZE3l8hU2VkB8N/oPqFij+8f+xwX67A4yabkdfxBeM9iHbzPdjr3qvD2drgvkyA6X9jKnIj5gIdhU/j64odM/qQDa9boq9QwOGuwHExG9Gx78IWPVt62pPOsHHd4Ju+MwXMHJ2EEr4L9Ox9y4VMDwl0s/SHt1W7RaEZ9DAj15ICxdGs9/LcN9rY33scMixT3uj8BoFIg8dWOgCpWE0PPdYw/jgg9Srx9RANIVh9aEICg2TsLWrxwldflzk=;2lv8xaqv+TYBOcV9O/Atlw=="
+secured: "FH+mtBBgpPEbbmG5YgqD1fXLzSFCKg7wymPBW0X34YNLY5aSuCCL01T/hXpKlx/n1KXz2opv7b9c8BlkO5huSHt7xNxJJo50SkfbVzmlYRGUDen0uwi9IrggL6J7O0jOnqM5qZCRcwitmm0dgs6VQSdXkgh3BQ33lpogbm0F1sAJBVuj5gVgoGLZEjNNrTIm27DCKrK6pmrtkGrc3BEGKDMKDyjLcJjfoLJkzvYZcweVH92NiaVJltAJsI2Zn1J3XvNebFA0rwn5F+YM9z1xkNJLrcB4oKZGxc0de9+xGy06Fw8vg8YJV8jOWgPmnc3DQCwcDEWhp1k8GiBpr7R4+4X0kZ3e6NhO/suofg2YSdbIyhdw89EhdEyAvr9F6TocsO541Izt5pPGaOQn3Ghe0hXZ5IP6OmLMSN4Tcv67tvsyg6ijiqVRGny53pmqrDh2Wrb8eZ0p5B888snu1ysVfGwuuwfe4Qrgy1R9+SGHYXK7crhixYZ6SxxdNr8R+spcw0u2IwE49cSRIYDZebq+rQ==;1+r9UfSZRNzNvRK5xDF/Ow=="
 ---
 

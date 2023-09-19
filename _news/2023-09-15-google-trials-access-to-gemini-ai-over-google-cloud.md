@@ -19,40 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "The Next Generation Of Clinical Trials: AI And New Ways To Use Data"
-    excerpt: "With the advent and widespread use of wearable technologies and the adoption of decentralized clinical trials (DCTs) generating millions of data points for trial organizers, there is immense scope for AI to be deployed to generate valuable insights from this data."
-    publishedDateTime: 2023-09-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/"
+  - title: "Google Nears Release of AI Software Gemini - the Information"
+    excerpt: "(Reuters) - Alphabet's Google has given a small group of companies access to an early version of Gemini, its conversational artificial intelligence software, The Information reported on Thursday, citing people familiar with the matter. Gemini is intended to compete with OpenAI's GPT-4 model, according to the report."
+    publishedDateTime: 2023-09-15T00:49:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-14/google-nears-release-of-ai-software-gemini-the-information"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Google Gemini AI starts rolling out to businesses in early access"
+    excerpt: "Google has started rolling out early access to its Google Gemini AI designed to compete with OpenAI and others and capable of accessing all"
+    publishedDateTime: 2023-09-18T11:22:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ai-early-access/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c16b7f73a49bc1d8964a41/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Google-Gemini-AI.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Intel Celebrates AI Accessibility and Enables the Next Generation of Innovators"
-    excerpt: "About Intel's Role: Intel is committed to bringing AI skills everywhere, regardless of a person's ethnicity, age, gender or background. The AI Global Impact Festival provides opportunities and platforms for future innovators to learn, showcase and celebrate the impact of AI innovations."
-    publishedDateTime: 2023-09-14T17:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-celebrates-ai-accessibility-enables-next-generation-innovators-/2023/09/14/9881521.htm"
+  - title: "Google’s Gemini AI: Here’s what you should know"
+    excerpt: "Google is introducing its AI model, Gemini, to compete with OpenAI’s GPT-4. Gemini AI, announced by Alphabet CEO Sundar Pichai in May 2023, offers features like content generation, code writing, and more."
+    publishedDateTime: 2023-09-17T06:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/googles-gemini-ai-heres-what-you-should-know/article67317670.ece/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "Nation’s first dual degree in medicine and AI aims to prepare the next generation of health care providers"
-    excerpt: "AI’s presence can already be found in a variety of areas of the medical field including customized patient treatment plans, robotic surgeries and drug dosage. Additionally, UT Health San Antonio and UTSA have several research programs underway to improve health care diagnostics and treatment with the help of AI."
-    publishedDateTime: 2023-09-14T12:35:00Z
-    webUrl: "https://www.utsa.edu/today/2023/09/story/UTSA-UT-Health-first-dual-degree-in-medicine-and-AI.html"
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "Google Gemini: What We Know So Far"
+    excerpt: "What we know so far indicates Gemini could represent a significant advancement in natural language processing. The fusion of DeepMind’s latest AI research with Google’s vast computational resources makes the potential impact challenging to overstate."
+    publishedDateTime: 2023-09-15T19:55:00Z
+    webUrl: "https://www.searchenginejournal.com/google-gemini-what-we-know-so-far/496494/"
     type: article
     provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 1
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 26
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/09/google-gemini-what-we-know-so-far-6504ab728c86c-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "LUPAlsS+eQnX3eCeGOVXZNRVBeMa29fudvBBfbsQPSntr/nE5RVWVMiarkId7WJEcDpoiK1dWNUmp7lpqG9lETFlacuWBXiBgJGT/eS6IgyOvIix1JMPcSCQpQtBDLex/FUMa3XkJzP6oIr5dmE50ByvB4ffo1pJ5syryHxmi9Iskspze4TWMuM+X1W6gacSvb0ZdC/pKJ0yS2xPZI+kxHG6W5bHKU4YuRMD0u8kleN0TBzoP05fbA2MieDbeEOkB91W72q5aBObXapk51Zv6YmqHQ7nejniY1UU81tK1JvUXqgwMLodw892gdKkIdbN8mCOmQChwtn4i1ojV5yNERfp3Zh7WXoUTZG2OOw8j2td/8Z731qtUY9L/x50upphkkJ5knu6yHqbgnoYECJjldo+dVhYdAjUvMLI6Jd94X9aVsUAgLQsUruifeWnnBlvs0xL3e8JLdV6nTUiWugxpbQ9h/b7nxsEOCbq++KalhtZjdtcZanDV9EWuGdp9gDpLw868D2b2vbYm7WcMAswIQ==;jblvQ5WjGRatI3tjHqRx6g=="
 ---

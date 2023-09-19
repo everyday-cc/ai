@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/building-brain-capital/202
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Psychology Today
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leadership In The Age Of AI: Harnessing Data For Informed Choices"
-    excerpt: "The evolving landscape of AI, its impact on data-driven decision-making, and the importance of ethical AI practices in the professional realm is creating debate"
-    publishedDateTime: 2023-09-14T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/09/14/leadership-in-the-age-of-ai-harnessing-data-for-informed-choices/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial intelligence: who are the leaders in autonomous delivery management for the consumer industry?"
     excerpt: "They usually comprise autonomous drones or robots that receive delivery instructions and payloads ... established consumer companies, and up-and-coming start-ups engaged in the development and application of autonomous delivery management."
     publishedDateTime: 2023-09-15T07:06:00Z

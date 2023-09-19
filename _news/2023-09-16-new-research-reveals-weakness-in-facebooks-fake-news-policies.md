@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Facebook's design makes it unable to control misinformation, research suggests"
+    excerpt: "found that Facebook's efforts were undermined by the core design features of the platform itself. \"There is significant attention given to social media platforms and artificial intelligence governance today. However, this discussion largely focuses on ..."
+    publishedDateTime: 2023-09-15T23:27:00Z
+    webUrl: "https://phys.org/news/2023-09-facebook-unable-misinformation.html"
+    ampWebUrl: "https://phys.org/news/2023-09-facebook-unable-misinformation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-facebook-unable-misinformation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/facebook.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
 
 secured: "Fitp14wVU0gUlSPP4CljiT2rUnXgWglb2snRKs31kwAChNIeUfHXsb6U1dOLSN+iNLE7n0tlnxc6gVYldRHi7oJCZCddaB5ySZ/gFtDbHinmwPUcT2w97hsUnR0OYbHbeZJQocdmAWm0kx2Xji5cpFzB7/6RPo9IvRp2Vzn21g5l+fX6ZboyXo7sqTSucnHpEItCkMEorbRALyTsIh7TuqcxpUbTth6rFASNiigL9db0UuJMDNGy9ymy51emUx7D6dPSCRexFNjvMpHhQVZtmoZ+WOj1VRCy/Eg8r5qbsprl5XhBn3Kuaza35+lnR+CKW+JPPKhqBvaESIP83SUj4VQLRWh5vxWYqxjXB3gVY/bIR3hS62wPJHtSLRimvFbtqO0bvE8/FxoSxxrtTgwsxA8M0j8+84vzNTEW/wFGgqK2SRNERFL1Na+hw0UfeNrPbdBHZ2W+Iy1A96jkUg7/zM6DDArJHfnM6LgNmwbzX2zC489Wk4sktZcRwfWYu+o25tRXT9g8jBbksa/MG8S6KA==;2vEYB6SM7A9655ZUYc2j+g=="
 ---

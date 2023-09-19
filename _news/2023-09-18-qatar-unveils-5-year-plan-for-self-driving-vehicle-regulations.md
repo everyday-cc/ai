@@ -26,17 +26,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Cruise unveils self-driving vehicle that's wheelchair accessible"
-    excerpt: "Autonomous vehicle company Cruise on Thursday unveiled what it’s calling the world’s first purpose-built, wheelchair accessible, self-driving vehicle."
-    publishedDateTime: 2023-09-14T11:27:00Z
-    webUrl: "https://www.nbcbayarea.com/news/local/cruise-self-driving-vehicle-wheelchair-accessible/3318024/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 19
-
 secured: "6Y9mojUI7iLFT8KxYwk/ZRZ1/iS9dm1kNYEHjKKDErVC31lb1UEBPjc8Xj8dQLRDE0kcciSw6kmMOjBycjvv0JVZ09jft9zGR+e0fNRyRakmfOpmUEFs1WOj+pxP2cheGoX0NsYtORFJY8Lpmt4uVvP3gP/XzZ/i066MdU1toY6SNnufI1/iXMz/XgXmNBEdf8XXjpipU33l5IeD1ph3sa2UmbqOd/5mXiDCxWUIHkXuNSKjhS9BRX64L+FD+i+NIgZD26UlKLYPn0L3UQAs8dquh+/isYEHihAOfgdlM/wzZlfLmeHCM+nAf+Ej6EHJ8ZdfVyM1SLirKhamwEMJ9+9/Q5O0/pIOKUyfTdJ04qU=;3VoBYrPd7jZQHMAjruTGxA=="
 ---
 

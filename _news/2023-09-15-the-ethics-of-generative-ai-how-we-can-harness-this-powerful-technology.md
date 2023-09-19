@@ -56,7 +56,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
         width: 1280

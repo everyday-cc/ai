@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook's design makes it unable to control misinformation, research suggests"
+    excerpt: "found that Facebook's efforts were undermined by the core design features of the platform itself. \"There is significant attention given to social media platforms and artificial intelligence governance today. However, this discussion largely focuses on ..."
+    publishedDateTime: 2023-09-15T23:27:00Z
+    webUrl: "https://phys.org/news/2023-09-facebook-unable-misinformation.html"
+    ampWebUrl: "https://phys.org/news/2023-09-facebook-unable-misinformation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-facebook-unable-misinformation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/facebook.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
   - title: "New research reveals weakness in Facebook’s fake news policies"
     excerpt: "New research finds that the COVID-19 vaccine misinformation policies of Facebook failed to stop misinformation."
     publishedDateTime: 2023-09-15T19:54:00Z

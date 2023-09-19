@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/dreamy-ai-gen
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "The Social Media Panic Mongers Have Pivoted to AI"
+    excerpt: "The science populists who stoked a Reefer Madness-like hysteria about social media are onto their next target—and predictably predicting the imminent end of the world."
+    publishedDateTime: 2023-09-19T05:05:00Z
+    webUrl: "https://www.thedailybeast.com/the-social-media-panic-mongers-have-pivoted-to-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1695073125/091923-ai-hero_jvzygr"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "o0MmMqaJPk4pRa9jb7fVAoHi8yvUrSUSYl1Jq5uV4rxaLs+DAsdJEVsggLuh2GuOKOQhlofR73287OhQDFroeXL17wUZaObX0+h+f3gkoS6z5XtWz7G8Y7X4h4CtgKtiAWQdazSKiXCyYpZcZiaAgIvlTr3UAA/dkCqoJQNeQVLgMfBuYtqYck0qcHSQjgbKhvQXMu754XOT69r6KdpBWpprANzcuJ/ixFlpPoYXFFQWzQxPxgDUyET8NYDmbADpC5mocgq7nAASavmdyREPzhGvJS20w0JhisHLt9OYy18kfO+jKgpBqFUUvQXhMff3hTVRvhCXIR/Roxh7VfAY9yYDD7S35kFhCkDxp/dQwLa0C8KB3BMdfNf18uladNjeAJrfhtZYLE0w0g5dypd2P0toeO2rUiT7SldDmWzA8nri2tXKbHBC1xWI5JTbGyrL+r0gnBupoVY0IV1gvql60tB5kUoWu3ryuPYv+psi8VSQFyNWKEIo4THi7ctbAv2QqLH8kG1jFgqxmvu7MtL7lQ==;xCXjCARCTn6UWof6ZupNRA=="
 ---

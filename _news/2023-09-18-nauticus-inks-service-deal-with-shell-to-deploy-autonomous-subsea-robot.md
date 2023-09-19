@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nauticus Robotics Announces Offshore Service Agreement with Shell"
-    excerpt: "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service"
-    publishedDateTime: 2023-09-14T11:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Nauticus Robotics stock rises on Shell tie-up in Gulf of Mexico"
     excerpt: "SHEL), which will use the NASDAQ-listed firm’s marine technology and AI systems to maintain its offshore installations. The automated robot systems will start by inspecting some of Shell’s subsea infrastructure in the Gulf of Mexico. Aquanaut ..."
     publishedDateTime: 2023-09-14T13:23:00Z

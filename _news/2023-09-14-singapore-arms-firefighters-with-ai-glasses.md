@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
+    excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
+    publishedDateTime: 2023-09-19T05:01:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-pet-adoption-in-singapore/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/OIP-6.jpg"
+        width: 474
+        height: 276
+        isCached: true
   - title: "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI"
     excerpt: "With this, Samunnati becomes the first Agri Enterprise in India to incorporate advanced AI-based solutions into a key pillar of its business, supporting its mission to drive greater financial inclusion for smallholder farmers and agri enterprises. Through this partnership, Samunnati has become the first client of Accel-backed finbotsAI in India."
     publishedDateTime: 2023-09-15T01:48:00Z

@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Teachers Are Going All In on Generative AI"
+    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
+    publishedDateTime: 2023-09-15T11:00:00Z
+    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
     excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
     publishedDateTime: 2023-09-17T10:07:00Z

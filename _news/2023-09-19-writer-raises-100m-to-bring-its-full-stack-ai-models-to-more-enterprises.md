@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-f
 webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
 type: article
 quality: 65
-heat: 116
+heat: 117
 published: true
 
 provider:

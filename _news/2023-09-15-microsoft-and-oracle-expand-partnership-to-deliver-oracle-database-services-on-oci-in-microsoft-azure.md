@@ -320,6 +320,20 @@ related:
         width: 646
         height: 430
         isCached: true
+  - title: "Microsoft exposes 38TB of sensitive data during AI research"
+    excerpt: "A grave oversight by Microsoft's AI research division resulted in the leak of 38 terabytes (TB) of sensitive data, discovered nearly three years after"
+    publishedDateTime: 2023-09-19T04:42:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1026897/microsoft-exposes-38tb-of-sensitive-data-during-ai-research-1026897.html"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 54
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA5XC9NaWNyb3NvZnQtMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
     excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
     publishedDateTime: 2023-09-15T13:24:00Z
