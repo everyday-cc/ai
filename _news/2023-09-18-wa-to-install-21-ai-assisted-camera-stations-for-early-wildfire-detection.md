@@ -7,7 +7,7 @@ originalUrl: "https://www.seattletimes.com/seattle-news/environment/wa-to-instal
 webUrl: "https://www.seattletimes.com/seattle-news/environment/wa-to-install-21-ai-assisted-camera-stations-for-early-wildfire-detection/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Fighting Canada’s record wildfires with a combination of AI and intuition"
-    excerpt: "That’s where the AI tool can help. Powered by Microsoft Azure Machine Learning, an Azure AI service, AltaML’s wildfire occurrence prediction system can analyze granular data sources to give duty officers more specific insights about the regions they cover."
-    publishedDateTime: 2023-09-19T15:21:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/ai-alberta-canada-wildfire-firefighting/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
 
 secured: "gdZxEvXFGSX5Zgz/rqbY9pWUWUc2XU6MoI0InmmoqYf57ibsyq6SOoNEOGbA2eCOpMVCPhHpA0Qoi+v1bLcKdtTqaE2aU+w8+wuifkIoaTbs1lRbO4AEnXwwIakCfZ/eir3ks8NUrJRIarPE0BjKUPA6M1e0N931UyzJ/Bk0ZSnhKCyqUNPUrpKrN/bFiFx9PpEqNHSy+t9NuddR5zAi+39XRsHRyuPL2KqqlfQHA6XEkL+nQAX+MKHWMQMpCLZ9O8W+uPc8J3N+I6zyQPuwIBpupcgFWAXkcj7Fz5oCbiKaWf1SW6ugkK2TuyIr+sgV/qtvK9XUlgDzQtL6OVocCjGGCv3hrGLP3L//uPfsjeTjHZqtbmHkdyv5OEJAhf3acaBrzkiMKZrKfrjP6NEVNUYoyYeWswDwzshLmnl/Zz6VV2nWcuIYz7G0yMWm8jA3i5HcvkIlQWwdiYtDK5XwnO8MBzkFiq9ONi+gBl4zfTb2uLxjJ7rRNW4fZBYho2Ccgrr9NuGFx7xvWYC8D48p0Q==;baHNt3b6a6iggbrWh+qzxA=="
 ---

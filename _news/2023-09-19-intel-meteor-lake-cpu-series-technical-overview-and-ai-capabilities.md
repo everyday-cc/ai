@@ -93,6 +93,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Intel Core Ultra 'Meteor Lake' Chips Launch Date Set for December 14; to Feature Chiplet Design, AI Coprocessor"
+    excerpt: "Intel's \"Meteor Lake\" processors are the first to use the company's 7nm \"Intel 4\" technology and feature an NPU for improved AI performance."
+    publishedDateTime: 2023-09-20T06:11:00Z
+    webUrl: "https://www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026"
+    ampWebUrl: "https://www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 54
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meteor_lake_intel_core_ultra_1695188759047.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel unveils a chip that could run generative AI on a laptop"
     excerpt: "At the conference, Intel demonstrated laptops that could generate a song in the style of Taylor Swift and answer questions in a conversational style, all while disconnected from the Internet. Chief Executive Officer Pat Gelsinger said Microsoft's \"Copilot\" AI assistant will be able to run on Intel-based PCs."
     publishedDateTime: 2023-09-19T23:46:00Z

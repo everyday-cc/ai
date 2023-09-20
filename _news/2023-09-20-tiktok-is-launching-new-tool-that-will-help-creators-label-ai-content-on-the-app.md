@@ -1,28 +1,32 @@
 ---
 category: news
 title: "TikTok is launching new tool that will help creators label AI content on the app"
-excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content"
-publishedDateTime: 2023-09-19T20:06:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
-webUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+excerpt: "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce."
+publishedDateTime: 2023-09-19T18:59:00Z
+originalUrl: "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
+webUrl: "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
+ampWebUrl: "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 82
+heat: 92
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/wirestory_1ba5ee717832e41178e6a35cb0442e07_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186"
+    width: 5000
+    height: 3333
     isCached: true
 
 related:
@@ -41,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dFabS4x8rLRDXF1hg3EAirCNx5CC0TsLa9/pMYc1gcwbsh0y9nQlIzibDZqidPoFfHb1/m5EVnKhdBD+Y7lwuzpQ9AqGzSyHkcGL10W0ug7ESWNFfBRIwBFjb8wcuciq62DLrUV2Xh7+iJn4VcPhafgxqXg0pG0hybhDbX8A2OYBjSrB6uIK5p82v0mk6aALl08OHrM8to1qBlnzKV8HuPFHXu5qIK8FC/4uhy93GmZhrRmbKcbDYo3VAyf4PHVs+eaFWU4PoASYr1pIQSz42/zdS3BKF+GB2A1XHcA/LmuSn4XDg4awbbGdQsL8DRjl2BNONQvjhbj4qyY86svcRldxL1M7RpKpSrk55emtjrs=;HEET6YQ8WVEIVTlvFgZixg=="
+secured: "cN1bZXFE57Jg3gIRPd157+qy7nQFcJuEJO3nceTkEfg+QhsRgYcHBUHhUKSbWzlFX6/j1/b9t3gR0j5gBuHrv0Tkal0J+tsOPeiNMM2+Ov2Eh9pLq4LVTilYF6fYewT4Id5+7Y+gDTOMq6auCKwjneT6iL3STB0L/SRp2t+kbs3fpbg7jPpypaAOZOIpjLbvMRKflxHKRVgNf66nffGM/ar+eN+ThkMEMgwmplx1TNC70TCl6oQZcJ0FI+nTfgqjo0WsnZ4odItFzZ2gDZhTgivuXS8DW/9td2Rkng2njJSL3wg5utVJ6M8Kn0RHg957bkGdukX+ivAnVX+U/JjeeAquutc7JeC0/NGDcuZ4Dz8=;kf/BZPdxCEQI1El0vucnOw=="
 ---
 

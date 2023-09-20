@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Oracle launches generative AI healthcare assistant"
+    excerpt: "Oracle launched a new generative AI healthcare assistant to respond to voice commands, saving clinicians time with manual EHR tasks. The Oracle Clinical Digital"
+    publishedDateTime: 2023-09-18T14:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-launches-generative-ai-healthcare-assistant.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "3fgL6JLgSHdZCnTCJg54DwAbJh+tZe+CkUwRnJKcii4LvjA5FAlPF+9VTWtILmX/onKs3Qs66YbIodWHgtIIESRzRjh7FhZEEsHesAbgK/ZXlvAmtRsTN40R1160m9EknQUxYJFDTLurIeY0SB3oshp2bTWTxII6nV4bboRLyQH42FUjQEvfwR0TMEudlCZWFWvtLHIr4xhVFyu/Ukn6MGPtHuql//+0nKfftsVK+ZJWDIStxXW9aJ2lemIQzQSChBV5JQ/FwDHRuwjZ46Vu00QYRITzSu0PxK4S8XnRGUT2M+ehD5hIiAs6P5cX9x4Sa16Wotq+UXm48fOmPUy4H27Z6oEFFYkBTtfmLAAqQKQ=;7MfA0VJDXNnHWr9HEX5bDg=="
 ---

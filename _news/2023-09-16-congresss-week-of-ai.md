@@ -19,65 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "What Congress Can Get Done On AI Legislation"
-    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
-    publishedDateTime: 2023-09-15T14:37:00Z
-    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/"
-    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
+  - title: "Here Are the Top AI Stories You Missed This Week"
+    excerpt: "If you’re behind on what’s happening with the robot uprising, have no fear. Here’s a quick look at some of the weirdest and wildest artificial intelligence news from the past week. Also, don’t forget to check out our weekly AI write-up, which will go into more detail on this same topic."
+    publishedDateTime: 2023-09-16T15:40:00Z
+    webUrl: "https://gizmodo.com/here-are-the-top-ai-stories-you-missed-this-week-1850826077"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/414fe37a831cb894a0c9dea9595f551e.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "What Congress Can Get Done On AI"
-    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
-    publishedDateTime: 2023-09-15T14:37:00Z
-    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "FPT Corporation focuses on AI and chip expansion"
-    excerpt: "Truong Gia Binh, chairman of FPT, expressed confidence in Vietnam's capacity to forge a formidable stance in the AI sector. \"Vietnam, much like FPT, possesses an inherent potential to undergo even more rapid development in the digital technology sector,\" Binh said."
-    publishedDateTime: 2023-09-18T10:04:00Z
-    webUrl: "https://vir.com.vn/fpt-corporation-focuses-on-ai-and-chip-expansion-105229.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 54
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/092023/16/11/in_social/7977210c642e3983f84d71dc1639a5d8.jpg?randTime=1695038684"
-        width: 600
-        height: 364
-        isCached: true
-  - title: "US State-by-State AI Legislation Snapshot"
-    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
-    publishedDateTime: 2023-09-18T21:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
-        width: 1200
-        height: 900
+        height: 675
         isCached: true
 
 secured: "qjy2JBuqvuO/14A4IPYAyxQX4cum/zhITZTvxWJhM1TUt5+ana1CIqkhAOElk1+Dsvx7vhRMMHRo33fO7Upn7BbKFOK330rSMrMDs04n87x2G7fpkF0ZpAaZAwhuZLLThHEE+o5eNkrC67gjKldsu9c1KvnCC2um63DRGvv7ax77Ymw7Se7r02aIKD8uKNjISFJ/zxIAC7ZR2wTmI22u+c+RGXK7+OT7SDrKX4B96CMOpWG9Imy21Jz+inbaqO2nBLS5ZkpHIVfEbWkdF6IBw+dVyyTCgMLQk3iuJiUktAGQ8oK/XUUVNvpEd5ShhwjkblmWSIF9CUI3Rii+L9JvRPMoEpDZ8gfX7c2fQfaYQ14SYL8fn15Dz2VIe76RQ2bmk3R+fwckjxr4USFxVPQ4iekoT7XmBHsBYwccDbxCk2wnud/Flm46h90yPwPXrKZDVj7ZsARUlC29e47/6YDZButCFmfhE9JY3p8bSMvdEz6DywlQuRMpy9bqY2n28ys9CZOKzZK9p2+/7q7w5iTFYw==;RyNwL/uaE1DqEeqUa2HeGQ=="

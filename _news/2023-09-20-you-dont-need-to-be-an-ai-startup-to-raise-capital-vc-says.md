@@ -3,8 +3,8 @@ category: news
 title: "You don't need to be an AI startup to raise capital, VC says"
 excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
 publishedDateTime: 2023-09-19T22:43:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
 type: article
 quality: 17
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 841
         isCached: true
 
-secured: "Ihu1gSQKOZQ2BbUVTf+qFWYdCzSJoaQMDE0jiBfdNR4rgtrzLYcxe4tbsAtiWYFH2SENunROYxt+ue/5sf/Q02+w6Mpi5ZkvSPeJVsacC48LsgTZCUO4e/blJhDj4ofMZGAplLvkcqyTrx+oYtGXiAlrBLJ5bLZNsp7fUSpojlMV9u7euSmikryJMQhdmFCND/WuAjwEHjXVm4xP0rAR19snkxFE/fthOL4klskM9MRQSs6nzvwSI8tvqXa5Z21ScXKUrrDfzPtTuCk7IdQLnezF7CX14ttW+2mWFVfY8SNsHNDfoJchGmHUVbTZ9NqX5e5qyHxWKNzsXaoLs2hTLRz60P6+XNMF8icL0oeXamRUOF/984EgPGrU/dBuJTiyoF+ErcKxd0l47qO5Ligq8WQ3zI6IQHv4cfQL75lbVMpgkRUncT6kyhZVztYMPWMlPMSCMrbwzN91kV43LGORW7FnmWaMydZEqLxMnWGi/Pw//wgnFkf3JbE3e7foMvKXa3eP2zwnEnhCFE4lLRjCjA==;ux0kPKB+FRqeYkZ5UeZuJA=="
+secured: "Qu588FWqrpIzzmyEhdC6m0muUE7RftVNzTwvtSFxNeYHlXrocaXl67t9f/sCa9Ruqsscm8RlHcPllVrFhMpEfVXzmt4UNb6saOtiVQT4r1IuY2LZ7KRfe+r/4YNG/qGwvYwPYRa3Cpo8LD4Upfhi6fY1RGVlbfBNEGeyczsFg5zmWFXhkEwTsl4/ygc5UpbvAVFHHP0LAnJC4cjOz2G9MN8CS62J+7RI51IFkQFppco9j5t7Ev7eP9zrn/e43BzbNFD3Ddp8TBn7QXemWRoiaHFxQUJSj3M83bzKYWwIQOZc4pt/laFGUZQxP77SuUIO8L4hWaresw2ZINzZR/FKKew4LpRqg5W5VgOEtBE3IQdJptWc6rdCJcKypbC0bNmVvc/ELZbdKHDKjCcb8FPGqDsjagxeZ1XJYW5YEXUwqOI0yNE3IB3kxp4itzKXsM6EwHLqmQSsJsE18+cze3v1qAnWR6zFx+2kr9FATxbBPVKO1cADs+XBTMl+8QJWIpW8DB1z+e/YNLObs9ebUsVL6A==;p6I/6X6yeVCHU2u97mbitA=="
 ---
 

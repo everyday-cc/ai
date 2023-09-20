@@ -49,15 +49,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Google trials access to Gemini AI over Google Cloud"
-    excerpt: "Gemini is intended to compete with OpenAI’s GPT-4, which is available through Microsoft Azure. Gemini is made up of multiple large ... The company plans to make Gemini available through its Google Cloud Vertex AI service, and will offer access to models ..."
-    publishedDateTime: 2023-09-15T13:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-trials-access-to-gemini-ai-over-google-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 19
 
 secured: "NOEVaTBJKeC9s6I+u5trx9MB9TcPa404mfG3bagAPXk+cgP1JUqx8Sm1jYU1IbeTml6EszZ0UxjAF6osUKwam/cX7zVulXLreRrhTNF0I1pF2u4qB4hrWYgJ6LE04HRs8NYQCOA8yFgwQ7s1AIfYriQANk5ty9ypeB9NYnIcNKx4gujeGd4TjGmrEdwEc2IWG06QuxhC1R1GufLfctjmCH2UfeZX9cxdjbAdrqhEOCzumi1HuSvQsL2b9WAFAwYwGevHIDmhir+S8drG25T6ClVVO/nym6GGE1ZX3NymrpC5piKy0cLTFKzEH2CxwdBu+OMt28jRoDaPFEenZqkYNF9jqQ2gFlMXKP2JGsjogRYESav96YHvG7HyIjA2DLAfTNG8sIJ5gWcEXGYD9JoszgGqCE5HVZzERcpowZ7BjYSYOZuNOo4ovOECUvJfNAERbQ1+a701ybyX/2VBefpHdaqijWm8hy5bEWYeUdHK+5GbwkW2kphkfoy0LOp0M4OBctNAmMq6zEAMgd3fdwFCrQ==;KWmcWhtCdTiGOqUINFkEkw=="
 ---

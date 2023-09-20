@@ -47,6 +47,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
+    excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
+    publishedDateTime: 2023-09-20T06:26:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 44
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/From-CPUs-to-NPUs-Intel-announces-a-new-line-of-local-AI-focussed-PC-processors.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
     excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
     publishedDateTime: 2023-09-19T16:25:00Z

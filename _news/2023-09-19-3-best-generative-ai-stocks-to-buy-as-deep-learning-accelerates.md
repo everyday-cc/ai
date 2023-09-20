@@ -56,6 +56,20 @@ related:
         width: 900
         height: 503
         isCached: true
+  - title: "Oracle launches generative AI healthcare assistant"
+    excerpt: "Oracle launched a new generative AI healthcare assistant to respond to voice commands, saving clinicians time with manual EHR tasks. The Oracle Clinical Digital"
+    publishedDateTime: 2023-09-18T14:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-launches-generative-ai-healthcare-assistant.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "0uMMHjGb4z7Tz2LyIZmWH8nM5uMMZ7Xq+zCaIn51O1byZQN81/GCxSzJaoc6spFdu+8Fs8Yo+EiXI1XVGku2CnR7m3qpE+vLiUEPdR6n1vfAqpPnAP01kexjZZYRMOeXyt8xup2IQRYYOK1IljqFQ3rwW2Jp4A4CyZJGXxU2ieWqxCrNUyUB0VDp5kt0sMLW3XAN/QI6K/piYc4aUWVJTA1bAdo+hB1QIQwWi8EmkcVtYxjjr9Grq14t8PYPkY+nbrzeyD+UErMMcy/JfpfdGDEdcrZLU5pANU1I+uv0556Ha2FR1vfj+6XQin4cboT0ZRdtHsShxG+9iVXzIGF9wg8A7+K5+gqjfnOep9FpYIc=;SUStLGPdQ9wp314Qnxreiw=="
 ---

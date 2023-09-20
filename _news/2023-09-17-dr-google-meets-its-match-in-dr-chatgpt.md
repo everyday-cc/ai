@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Why Japan Is Building Its Own Version of ChatGPT"
-    excerpt: "Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture"
-    publishedDateTime: 2023-09-15T14:04:00Z
-    webUrl: "https://www.scientificamerican.com/article/why-japan-is-building-its-own-version-of-chatgpt/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 4
-
 secured: "jD3bh9dpCZRMBq97iiCM8eH03qNaPOxbHGfh1U9kIOJb+P6ljG2v6Fxp9Lr/blU968vuv0bqIoEGQXlV76XWKqiynpRNgxUR0rdpGkfPiI9RB8Pk+TUhuob5yWIrqdAONpeA/hby49w/SScNFcHPCy58oqJe22t1JFheNFVSeS30og4YBTsU+RU9mciFSk1XDcpfWm6kNIJSNbn+A1LKhqvQqoYZNVYKrXoOFPtSRrMQsuIP7JXLUG+ARybhAq5rFx+dVQkyrdSRktZW9dZuAulmtZquCGzC1+P0dPHfuc86y8l0EGIVnCBbZYt+x0zFhxwdLyVfvO/xK12bmq3yaAmQHwS7Nutgq8c402NLR/k=;/hnAAd3cVl7INyY+orUYAA=="
 ---
 

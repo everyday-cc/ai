@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-18T00:00:00Z
 originalUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
 webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"

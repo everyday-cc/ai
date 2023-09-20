@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-ministe
 cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1"
 type: article
 quality: 53
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/Netanyahu_Tech_Leaders_58635-1-1695066644.jpg?w=1000"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
+    excerpt: "The two also discussed artificial intelligence in a sparsely attended livestream ... Musk-centric for a world leader and was scheduled to include a demonstration of self-driving technology. Silicon Valley itineraries for visiting political dignitaries ..."
+    publishedDateTime: 2023-09-20T07:35:00Z
+    webUrl: "https://tulsaworld.com/ap/article_f9a9951c-4f95-553b-8487-04113079b8cc.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/c1/fc1c6d0b-1cdf-557b-b3fd-0f6d9158cdaa/6509d135a1b79.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
     excerpt: "Israeli Prime Minister Benjamin Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct."

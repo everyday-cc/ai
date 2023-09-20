@@ -61,22 +61,6 @@ related:
         width: 1400
         height: 642
         isCached: true
-  - title: "A voice will help make right this country’s history of division. Will Australians slap away our outstretched hand?"
-    excerpt: "We have asked only for recognition through an advisory voice in laws and policies made about us, so that the travesties of the past are less likely to be repeated. So that our future and outcomes are fairer and better than our past. So that our Indigenous ..."
-    publishedDateTime: 2023-09-15T15:04:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 22
-    images:
-      - url: "https://i.guim.co.uk/img/media/b3abd37e4abf4ee284eb78146d2be4b1e2a4c923/0_279_4256_2553/master/4256.jpg?width=620&quality=85&auto=format&fit=max&s=23eb01bdbe16647c287c97ea9ea2f6bb"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "fD2sROZ29316inGYVJ2QLOoJUEjwR9UByEaBZiW95Jb7rmVFOc34DUxsOiXFfGOP4mA/+ealW7FJJSMDrrD/3Nk++0TcOswD9HVVhIgcV/yMv1Q6qIWfFgamT9c5BI1SlsOs6fASLdneNouPL2y17u2FCZztMoM1nq4z59lLKyCpCQ4clNcVOkpHfo5jUqJ6i6B5GX96xD862JGxrEeoEB/2RTuopnlH5Ip6PSyXk/+2nIe3pTzDagGfHfXgJ2JIMRcaSOJHKYg/8GqOtKHgVvyeIVPJG2AobYQZ+rSQOC2Er38dkJfppDYDzEr105OPeDnulCMHrjpIVxVCnHe6godWMw/RgCCugB3aQyHp06/dagAJg5N96mVE/kktcbAy5RJebgvey2pR0SWyfX/pLoB1aT+CsOwtPiWB9eqRIrn7xvV003RtNdtIeUY2bLAVfy9Kpm8vgmXupC/n3WYwkHn4qyD4x/Yrf+FKlD+IYU7dst7+e/5RGJpt6SGzo7JKiwi0nh2c4C+/7vz5ACirfg==;S4heBhYhYNYtmJLz7JlHOw=="
 ---

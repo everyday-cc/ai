@@ -53,6 +53,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
+    excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
+    publishedDateTime: 2023-09-20T06:26:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 44
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/From-CPUs-to-NPUs-Intel-announces-a-new-line-of-local-AI-focussed-PC-processors.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Intel To ‘Usher Age Of AI PC’ With Core Ultra ‘Meteor Lake’ CPUs In December"
     excerpt: "Intel said it will “usher in the age of the AI PC” with its long-hyped Meteor Lake processors, which will be released under the new Intel Core Ultra brand name for laptops this December."
     publishedDateTime: 2023-09-19T15:35:00Z

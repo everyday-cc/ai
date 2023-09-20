@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-br
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
         width: 900
         height: 503
+        isCached: true
+  - title: "Oracle launches generative AI healthcare assistant"
+    excerpt: "Oracle launched a new generative AI healthcare assistant to respond to voice commands, saving clinicians time with manual EHR tasks. The Oracle Clinical Digital"
+    publishedDateTime: 2023-09-18T14:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-launches-generative-ai-healthcare-assistant.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "LUBgNY6ZsZpQbi+xurn1mESfqPf/62PHip/8BBb0DJSIG+9PzBtjV9Tr0W0C9etEPCWACvZTrXBwgS86Y+BW/x/QsFPw4Px1RjXF1X/eMVIle/XV7G9VHRlDnAnM3bTf4V0yP1hifp2B1qsaJBvLn45iLtumOZAZQ6ndxCCYBCXpDrm9fCETkmM0VY9PeW/ajGFiGyMFohJKkm2ROk6CBjuaiDnfUQbeiMMGBKt3MFlRqaK2/44adO3rO56rE9QOirU+n01EWw795yx9mekPjmduWA3uYXTrc6W4IlXB/9uDuwSkK4EB3r5FFjRi1hYdgSnSeXIh8o6TC1SIJBp0a7hbCPP53k1vCJsSFkn76wA=;g1mvSSh4t39KJ8t/oUjhWQ=="

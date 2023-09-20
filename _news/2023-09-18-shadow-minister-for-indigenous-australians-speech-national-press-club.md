@@ -57,22 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "A voice will help make right this country’s history of division. Will Australians slap away our outstretched hand?"
-    excerpt: "We have asked only for recognition through an advisory voice in laws and policies made about us, so that the travesties of the past are less likely to be repeated. So that our future and outcomes are fairer and better than our past. So that our Indigenous ..."
-    publishedDateTime: 2023-09-15T15:04:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/15/a-voice-will-help-make-right-this-countrys-history-of-division-will-australians-slap-away-our-outstretched-hand"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 22
-    images:
-      - url: "https://i.guim.co.uk/img/media/b3abd37e4abf4ee284eb78146d2be4b1e2a4c923/0_279_4256_2553/master/4256.jpg?width=620&quality=85&auto=format&fit=max&s=23eb01bdbe16647c287c97ea9ea2f6bb"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "GNOeoQa6F84jTuqEapOejWTPSk35qHfIazhRhxFY5SRJ/YZF6fQo670rurBrIl48rPZFAq2rpv2PL3v9isTbQgHVZpQwPKxo/R3aIvByj3WHOqc8HUf2iZoFGE+EGw0Bfth489Lfx7U90su2IHjzIvroVjoKoitYKorOaVDoZ1Xqlh+vsVvRRtotoU4egRW+2zNr5i7crwMkSgxdmH/nzovnxh/BuBXz5SYc+bDUkRRJe0/dCwppirs5I1ojVDsDZAJBAAvOGf4PrRUbHs5ogbgBx4fxfOICkzLaRmompHDC/+owspKNH9GXrWjVBq8884g6oeu/+P4+YSHDa5OBSoUoGeVZoFvUedu/FY4pegY=;43rlGv0sBI2c9dJrELm2gw=="
 ---

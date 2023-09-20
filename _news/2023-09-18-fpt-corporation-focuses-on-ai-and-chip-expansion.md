@@ -7,7 +7,7 @@ originalUrl: "https://vir.com.vn/fpt-corporation-focuses-on-ai-and-chip-expansio
 webUrl: "https://vir.com.vn/fpt-corporation-focuses-on-ai-and-chip-expansion-105229.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,61 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "What Congress Can Get Done On AI Legislation"
-    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
-    publishedDateTime: 2023-09-15T14:37:00Z
-    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/"
-    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai-legislation/amp/"
+  - title: "Fighting Canada’s record wildfires with a combination of AI and intuition"
+    excerpt: "That’s where the AI tool can help. Powered by Microsoft Azure Machine Learning, an Azure AI service, AltaML’s wildfire occurrence prediction system can analyze granular data sources to give duty officers more specific insights about the regions they cover."
+    publishedDateTime: 2023-09-19T15:21:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/ai-alberta-canada-wildfire-firefighting/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "What Congress Can Get Done On AI"
-    excerpt: "AI is the hottest topic in Congress, but what legislation has the best chance to pass amidst the heightened attention?"
-    publishedDateTime: 2023-09-15T14:37:00Z
-    webUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/owentedford/2023/09/15/what-congress-can-get-done-on-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65046bcf065b9ae61b52ccc5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "US State-by-State AI Legislation Snapshot"
-    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
-    publishedDateTime: 2023-09-18T21:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Congress’s week of AI"
-    excerpt: "Tech titans, developers and executives descended on Capitol Hill this week for a series of meetings exploring crucial safeguards for AI research and development."
-    publishedDateTime: 2023-09-15T18:09:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2023/09/congresss-week-ai/390336/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
 
 secured: "RuOI4FRp4/4r7KxkQwYUM8kt00MX8gMiEF4FqYt2ReDYbvbjAAppXIKHBQj0//EMG+Q2Gf3Giweq0nhqBifAaPF+A/wif4BNGJiBxQVlV5TN/qoIz3aRVDydjg43khHyfMtoeFihEXsskb2X5pWJHtz1hONDOrlhoDwnZXBy6DUGiucoXo+ucMzl3QE1I7CQzGz/CQ5GtMFRih49+wMHmrbTFZ99N7hYyi3TgsNqm1jOQgx6aK5tdT2c6nfs3itC7Ktr3CawMDqiXX9qRoijudWiK4KjkxwF7w7S4D7bl+g+JKNKfwbQdP4jT2FkS2qItg0mGlArELe+Sgve+eitTYfDMQDfqpk+GihUtjbwVsHryPbmOfmSUKdAlLaGIufKvUHQOVeIxNW0nK15Zg05GF+A82DZ7K0IS1Xy6ZHL19AI+bDUklFQdnRGsHex0yxGMLozuvtjoN8D1F5CjZ6h9l+SMfQ6/zwZNCx/JTPtU63i6uVUjNLGL5DzNIA3RONbjwXVIWALv5CjIb5xNEFC5Q==;h4F8OnoJcKu8woSny3FJvA=="
 ---

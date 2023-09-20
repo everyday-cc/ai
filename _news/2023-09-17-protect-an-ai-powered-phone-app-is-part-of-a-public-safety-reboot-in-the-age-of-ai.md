@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/video/6337296940112"
 webUrl: "https://www.foxnews.com/video/6337296940112"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Fox News
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cash Treasury Trading in the Age of AI"
-    excerpt: "In this contributed article, Shankar Narayanan, Head of Trading Research, Quantitative Brokers, discusses how In the era of artificial intelligence, cash treasury trading presents a unique opportunity to integrate new technologies,"
-    publishedDateTime: 2023-09-16T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/09/16/cash-treasury-trading-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
   - title: "Gearing up. Quantum computers in the age of artificial intelligence"
     excerpt: "Quantum computing and artificial intelligence (AI) are symbiotically-related technologies that hold the potential to revolutionise the way we live. Its ability to process vast amounts of data can significantly accelerate AI algorithms, enhance machine ..."
     publishedDateTime: 2023-09-17T13:06:00Z

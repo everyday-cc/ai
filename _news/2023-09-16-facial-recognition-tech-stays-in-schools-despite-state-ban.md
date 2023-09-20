@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "US State-by-State AI Legislation Snapshot"
+    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
+    publishedDateTime: 2023-09-18T21:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "BDAQv/tWBgebrRE7ZWbCw+cLgNveU4tY+fPj8q7bTOoK5EzxTBfikjTZe+Jr8NswB+sosXxLIvTq5puaFuQgyM0QG3vvMrtojxQxdT0ViarGvVA8Tdcr0ikTx5XAOG5T3KBWsIuzLC641i8D582rUmZjQiS5iIZWVSRNW0nQDU+2sm2y83SW472+BVsnl0+wgc+t/prbsWf4YurSrBRxxvS6kz9MO1htqb8qKJe8i1YdjPi06Y+s/P4ZoVbOmxAK5BHwFdnezdd+pexFsQ/DqYLdPsbtlgfBOMLlY+lTwoCLzQiPM0MGUbLMjoP8o9/szEaKIBCKTNJMQ5XO8YkK6Nj0sSu8FrvUoQEDKruslnA=;jypgle2RdHGjallmxEQk9A=="
 ---
 

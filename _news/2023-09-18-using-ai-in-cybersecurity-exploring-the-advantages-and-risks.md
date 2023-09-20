@@ -68,15 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Duality Of AI In Cybersecurity: Risk Factor And Enabler"
-    excerpt: "What will define the cybersecurity sector is how we embrace AI, and how we think critically about it to better protect businesses and individuals."
-    publishedDateTime: 2023-09-15T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-duality-of-ai-in-cybersecurity-risk-factor-and-enabler/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
     excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
     publishedDateTime: 2023-09-19T13:45:00Z

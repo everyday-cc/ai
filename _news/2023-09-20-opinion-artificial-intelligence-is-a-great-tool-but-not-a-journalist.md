@@ -38,15 +38,6 @@ related:
         width: 1000
         height: 520
         isCached: true
-  - title: "AI is already outpacing US legislators"
-    excerpt: "Senators listen to the story of AI from companies with the biggest interest in promoting itPrinciples of AI regulation enshrined in the Blumenthal-Hawley"
-    publishedDateTime: 2023-09-15T13:49:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/ai-is-already-outpacing-us-legislators-48493/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 19
 
 secured: "ejrGi8g7LSzDyvT4ptBdcby2mlmZ2bQoX6w93BCrEf4osOhUYZRiKrAacgZ6TAtsz7NOvDeK9/IqBgXTNXhURdHnlthaT2zRZg476al9isF0J515shhJQYYl033aaQFN87KHyqedFxZ7JGL2wqlGUoysXeJUtX7g1pdt49SikLd3SNygB/2f6gS6ARomalCCEGjI/tEW/i3tnXqe5Uxxt403YBx78K3oFA65Ovdi0IEVJMr8Nek7Oxz3Kdng7QXyzRIdBqOXypp2R7a9LUY2RRG38tS2hB2pD89GTuWprpw8RPtBtosUR7ZW30eLjw1nBMnRIaqVJJMVRj0ym0Ef5IRYkX7OMvvwy2w6efH7aX6DHvaiTQn3UDbl6E1hdndfmSVYi6G+sN+isY9mOj2YHFdgTLmrY3+kuBsIHECTM2OqUQeCqls8ifET6jon5/yP9MqE1eXnwmjQPMzt69aZfJ4p1y0IgAULfstA7jZev0aNTvzErUD/vjQZZ3DT+vUMrqJzgKwp+wHcxIYXBrDtpg==;DpKieLV3rUSa4FBRP40AkA=="
 ---

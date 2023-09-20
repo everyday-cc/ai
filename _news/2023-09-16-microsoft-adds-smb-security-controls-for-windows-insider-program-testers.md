@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
+    excerpt: "Moerdler’s research suggests that Microsoft has taken a significant lead in the development of Generative AI offerings, platform software, and design architectures. These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand."
+    publishedDateTime: 2023-09-20T07:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
     excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."
     publishedDateTime: 2023-09-18T15:18:00Z
@@ -265,20 +279,6 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/bd1f38a/56c64fcb-5c30-4331-ac4c-15d10d825d8b/21/cybersecurity-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Microsoft and Oracle’s secret is out as they announce Oracle Database@Azure"
-    excerpt: "Microsoft and Oracle have announced Oracle Database@Azure, a solution for running Oracle database services on Microsoft Azure, whose hints they dropped a"
-    publishedDateTime: 2023-09-15T13:24:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-and-oracles-secret-is-out-as-they-announce-oracle-databaseazure/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 52
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Microsoft-Oracle.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"

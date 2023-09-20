@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-tha
 webUrl: "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -29,20 +29,20 @@ images:
 
 related:
   - title: "TikTok is launching new tool that will help creators label AI content on the app"
-    excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content"
-    publishedDateTime: 2023-09-19T20:06:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+    excerpt: "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce."
+    publishedDateTime: 2023-09-19T18:59:00Z
+    webUrl: "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 52
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/wirestory_1ba5ee717832e41178e6a35cb0442e07_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186"
+        width: 5000
+        height: 3333
         isCached: true
 
 secured: "ZHuaNXfOhdE3aEkMx6hEfpXPqGF0cldyx8x+HiNJqqdCV1eoDUtizHW8PAT6Ic2pfyH+h9hkvFgUKipdy6ZAV/u4GFI7skRtpfohhZcmRHLaY5ldpT750t7/okFep69iadgEKlfB2Mzk9DtInENPHyLQBmntms4NKct/XnK2jA6iqvjA4mcy35c1aY/AULw4NRThL3nDke4xUYXzfko+WhdIaI5NbEL9LJcuMElXRjQCeorFBijSh+OaZk+jLbEns7eNLdE1hDkDJx46yonZFNE1ZIoga5Rzr7LgaZEGybZSh7+CQlJl6eY3OCe9L6eVO7aKtkyinfyMc6Ex4XpMkyo0JqYBOGjlAQyfOSo2Iz8=;DRmAFHvL8EAdsWEubCo4Sg=="
