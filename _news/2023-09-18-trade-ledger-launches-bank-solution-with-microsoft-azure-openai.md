@@ -86,22 +86,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Oracle and Microsoft expand partnership to its offer database services on Azure"
-    excerpt: "With this, Microsoft will be the only other hyperscaler to offer Oracle Cloud Infrastructure Database Services. The announcement comes less than a week after Oracle reported slowdown in cloud sales growth making investors question its market competitiveness."
-    publishedDateTime: 2023-09-15T07:16:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/oracle-and-microsoft-expand-partnership-to-its-offer-database-services-on-azure-11374351.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/04/larry-ellison.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft discount codes for September 2023"
     excerpt: "Can I get Microsoft 365 for free? Yes, Microsoft 365 has a free version for all of its separate apps. However, you can only use these apps on your web browser and they have limited functionalities ..."
     publishedDateTime: 2023-09-16T03:56:00Z

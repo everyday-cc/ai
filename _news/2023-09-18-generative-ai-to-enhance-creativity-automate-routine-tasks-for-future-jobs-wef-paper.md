@@ -102,6 +102,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Has AI Surpassed Human Creativity?"
+    excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
+    publishedDateTime: 2023-09-19T23:09:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pica14.jpg?itok=1NrgykyG"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "3DK1SJHE4TlLwInZ7ILQha3t1ywNF77Wj4lEJRcgND4RrjRen6/OsFpNSP/PF6qsogoP6UkUgyjkaj9KIahza5JiFuaEgYI+KywXWNTP8ypZFuPeZhZeXw1AllKlQgVug6FD6sD7i48oYIb/mM2L7+3sdoywZ0WHAZwo/H8PF9NYjCYFrcmmFCT1xwjq0J0rIQwNtFZe700xiPDCf3RAtzliSHAIA8uwtqBdZWcbOUcCtXQj5MS6zrEEZX5bx8NHQYBouARFkhf4O8sDePHA/DU9xESbRDt+tiWchHLWZD+ON4Ig3+m3XU6hpyZVSzKaOPtgSYFjWnacMCr4gkTzRAMtqkdWZSfbQ0zALnjK3zs=;2eYLIywp5vEFDxIs4gkDLA=="
 ---

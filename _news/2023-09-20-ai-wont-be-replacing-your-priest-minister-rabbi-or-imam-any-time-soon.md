@@ -1,23 +1,31 @@
 ---
 category: news
 title: "AI won't be replacing your priest, minister, rabbi or imam any time soon"
-excerpt: "It points to how religious leaders are still the ones influencing the latest technologies within their organizations. AI cannot simply displace humans, since storytelling and programming continue to be critical for its development and deployment. Here are three ways in which machines will need a priest."
-publishedDateTime: 2023-09-19T17:03:00Z
-originalUrl: "https://www.chron.com/news/article/ai-won-t-be-replacing-your-priest-minister-18375221.php"
-webUrl: "https://www.chron.com/news/article/ai-won-t-be-replacing-your-priest-minister-18375221.php"
+excerpt: "Early in the summer of 2023, robots projected on a screen delivered sermons to about 300 congregants at St. Paul's Church in Bavaria, Germany. Created by ChatGPT and Jonas Simmerlein, a theologian and philosopher from the University of Vienna,"
+publishedDateTime: 2023-09-19T18:23:00Z
+originalUrl: "https://techxplore.com/news/2023-09-ai-wont-priest-minister-rabbi.html"
+webUrl: "https://techxplore.com/news/2023-09-ai-wont-priest-minister-rabbi.html"
+ampWebUrl: "https://techxplore.com/news/2023-09-ai-wont-priest-minister-rabbi.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-wont-priest-minister-rabbi.amp"
 type: article
-quality: 18
-heat: 18
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "X+sBMR+ZL7bTMHrikFHo94LuJ5+/sp6bstXiVNUM4UOWGStdh9QP9rZrku/CfLXJSzEsYVlfZMsgI4VwDDYANFKH4OWQpIlPCTyFc8Wa/NLp8YQmkdK8a69d8WH+cdbeEqa2GOT0g3R/6nhry/RrhWDjo3Wa3za4oF2Cen8Lo0zfuNnbfWWGwt3XPHwg247ASdBRd49zyFmaiu3N6d+LKVpjYFRehks7CZIl3DifOhDCNyTUuTUg+hJy4UqoxAaOgSWyjrLlWNFtUGblEAdHB5NSSpXwNpONSOvBbWh27Y4YY1mxOXScexsQaqqCYWQQ994ZzSYYzh0GXeuQlZs0EDlrlVEAktwEA7uuhURLGdA=;1VUkyBsaZTyBoMgz/5pIjg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-robot-3.jpg"
+    width: 1272
+    height: 1920
+    isCached: true
+
+secured: "JvcK0pHREsbQ/mGiq46Hj+3C0W95Sjh78yBviHyRKsQwO8/b+JsxN4ExkGYd7jVQ2Y6ZmTJ7yvybFQO1f2d2/+CW33QUV4p1JHM/sK9gU4/GWx/nj6n/kB7ru005ieY7wibJWoBRIYnY56rhk+z/up3Sl23TPt4pp0T1Oxyqi0f2mqtd0ccKVoV8F1Bv3qik23bxu/ePKzmI5M6OnStO7ODkpQcj2oPN/VlUsp1H3BXoMtEZVV/OkMxrSTMRLugdDKQNbcUayzR31bmA5TxuCrCgiXw4jbSNAcHPrz0FD716m7jPBbRSqPca/zH5dsOxrJR5fvmfq8XXJ2ckRQgxlTJuzqaraawo/NHS5QU10+w=;lrLPe7mmgfVzD0ujBtFxBg=="
 ---
 

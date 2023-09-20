@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Has AI Surpassed Human Creativity?"
+    excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
+    publishedDateTime: 2023-09-19T23:09:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pica14.jpg?itok=1NrgykyG"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
     excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
     publishedDateTime: 2023-09-18T09:04:00Z

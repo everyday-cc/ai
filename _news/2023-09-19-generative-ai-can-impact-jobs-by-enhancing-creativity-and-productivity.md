@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Has AI Surpassed Human Creativity?"
+    excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
+    publishedDateTime: 2023-09-19T23:09:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pica14.jpg?itok=1NrgykyG"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
     excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"

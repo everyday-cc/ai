@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
+    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
+    publishedDateTime: 2023-09-20T01:16:00Z
+    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
+    type: article
+    provider:
+      name: GadgetGuy.com.au
+      domain: gadgetguy.com.au
+    quality: 54
+    images:
+      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
     excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
     publishedDateTime: 2023-09-19T16:25:00Z

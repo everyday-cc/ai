@@ -1,24 +1,27 @@
 ---
 category: news
 title: "AI model speeds up high-resolution computer vision"
-excerpt: "An autonomous vehicle must rapidly and accurately recognize objects that it encounters, from an idling delivery truck parked at the corner to a cyclist whizzing toward an approaching intersection."
-publishedDateTime: 2023-09-12T15:42:00Z
-originalUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
-webUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
+excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ..."
+publishedDateTime: 2023-09-12T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/1001258"
+webUrl: "https://www.eurekalert.org/news-releases/1001258"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - IBM AI
   - AI
   - Computer Vision
 
-secured: "06vvxJy0Pb/fhpYmf3URUv1ibNT952y392YLzoGwRnmsZ2j8hwPP4aqu3V/XBGk/P3jQet61EgGkP/7Fixa/okqa/CbIyBHSPvXF2dkO3kJbs7aCOl8/nyi6VfyXTUObHEynoHIQS1OAAOUIsYZMbO30vYLvBPbIWmxr19IK3079+2Mx9i8zQxELcUimh+U57AENa44AkH7aFUPjh9IyrxeE4qXi+jriY4jU3rjVlUadz37/NF2vNaIcs5eKmiMzQ60STccDPXNZmG8PRyehOUrScLlwwsWvH/ca2k78tzTLMI5SqpKnBvtYjQIuichLCAMAhV1bVWIJ1GQoQCGgEzk76w2t3enBXystj4YuzifloEEryoP9rYybg1mmmiflDKxP0BaXZUsBexqagvz4IsnS7Ahv2U7g4Pa7QXAy2h13Q9zyIu8xn8xLbeSO92f6MV6b8KfGSw4Yrd1OiUB3LxJdcN7hnd5ENBTclrXr5K7DFQBF/1kwtbb5hDcSMYAjK2W4zWM3HsWk8X298OuRPg==;xXZbm7zs5vqdakVEtd/8Og=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
+
+secured: "RyskWWimBirIAhGCU4jVjcvvkTKl/YC2gIbzczxiTu58V2KaZ7H09pQkHmT34V7buNOf2ZNgYNE6tDkAh0u/zjTqNS2XCfOiX4iOuXFMjapuIedyoZv0C0vU6FhCAWlSs7pjqN5kWtX80IKDmICOt8pRGcMI4W7ca3aa3PNSA3VN86E0ui/HnRccBHYLwsDtoUw6yFDFH9DU+YyGx7/v3ieIERGVYVkOpUGyeQhCA0qemog7oEl0/rvr2I7+4LKv16LB5nG815cZch6mxbdhgIPErTmnpELjkG/+yDE2CzIoxJD5R2Cn48LfGdHbP1XztuX4FCB60YgtmFt+Sc9rizsudDb5s/aVKl1A9IpJNX0=;wzLRRUnhsrmVfdahVZwhDw=="
 ---
 

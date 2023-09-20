@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Israeli Prime Minister and tech leaders discuss AI's impact on society"
+    excerpt: "Max Tegmark, a prominent figure in the field of AI ethics and cosmology, brought his insights to the discussion. Prime Minister Netanyahu emphasized the pivotal moment society stands upon, poised for a technological revolution driven by AI."
+    publishedDateTime: 2023-09-20T01:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230919/4120713.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+
 secured: "4fIPgVQfD+gx6sIY50/+YlE7uexdb/l+TJEyC5RKtqsqMiCYQWLPcJsqyiNRJl0EwhNCvY0slTK8eOu3cCpxdyAjxHG2l4Zvam5wba+t//GGEyU8ZvKW7s7Jrbmrh61t7JbQQeXJE75XsWFmfAjYWWJbld8qsVpZDLdTZ0rp0/2oiSoB7luT2kRQAljMl/yW/bdqZyq/hsG5U11xEoBJtaLxap0Wzv0XQWdk4pDJgw6ixMY5df9GLcJ7myTPpqXp9Z++YurVL1amLlCbKdCjxtUW2JhdRIOpoBg6ZuONwSS4R9oEgGGig9zE8znHl6u9UtU+a/aHV8seV9lWKCzznWLcIgPNyjH65R79oPsrDfY=;nLW+pf9FMVRUqFmKKVXW+w=="
 ---
 

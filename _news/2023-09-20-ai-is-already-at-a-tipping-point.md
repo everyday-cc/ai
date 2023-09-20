@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion | Artificial intelligence is a great tool, but not a journalist"
+    excerpt: "Journalists and writers fear artificial intelligence will take their jobs in the news industry, but AI isn’t going to be competition. According to NBC News, Google asserts that its AI tools are not intended to “replace the essential role journalists have in reporting,"
+    publishedDateTime: 2023-09-20T01:22:00Z
+    webUrl: "https://dailyiowan.com/2023/09/19/opinion-artificial-intelligence-is-a-great-tool-but-not-a-journalist/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 37
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/09/iStock-1492592644.jpg"
+        width: 1498
+        height: 1000
+        isCached: true
   - title: "AI is already outpacing US legislators"
     excerpt: "Senators listen to the story of AI from companies with the biggest interest in promoting itPrinciples of AI regulation enshrined in the Blumenthal-Hawley"
     publishedDateTime: 2023-09-15T13:49:00Z

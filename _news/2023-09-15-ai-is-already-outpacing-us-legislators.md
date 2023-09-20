@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 520
         isCached: true
+  - title: "Opinion | Artificial intelligence is a great tool, but not a journalist"
+    excerpt: "Journalists and writers fear artificial intelligence will take their jobs in the news industry, but AI isn’t going to be competition. According to NBC News, Google asserts that its AI tools are not intended to “replace the essential role journalists have in reporting,"
+    publishedDateTime: 2023-09-20T01:22:00Z
+    webUrl: "https://dailyiowan.com/2023/09/19/opinion-artificial-intelligence-is-a-great-tool-but-not-a-journalist/"
+    type: article
+    provider:
+      name: Univeristy of Iowa Daily Iowan
+      domain: dailyiowan.com
+    quality: 37
+    images:
+      - url: "https://dailyiowan.com/wp-content/uploads/2023/09/iStock-1492592644.jpg"
+        width: 1498
+        height: 1000
+        isCached: true
 
 secured: "I7rP+hoNj0KKvAYh8KNv9d7v+rtRjfoEWP5uT7HYoXGAWBNRTn3BhE4i3083FI8Ba3vRT6X9nZd/tUOBun8TLM8S1/RNCSYGiJW9xy2JdVoC6M589drAg0OcSbF1t4/pcsj7dnTIvRYZbEgoh1iNsqVum2CQdoh5W2zlHycx2i+4vDBmE7WrhYYrzjbAS84bz472lepoMHebHVel+EgH6s/r3FZjCOuIkrLwMtYI/Li7Gkd1PCutj6kL8wsEyYYvkdaZVE0ZkEkGCyq2+Y6GAJgyPxw/noZa9IRjGq+re/jQWvoaLIQb1NGoaheDOnedQHQ0uRMOX144E3kHxiasvMifncw4MSrAhabXdqo6rP8ES0J93ph+mpYR9vWLSJnGBV6Cr1vtRMHmbZRbBGTPJ/YaaQziEpY2H4hXFTMZrs2LvGWbdMJtOyuDefaPa7wZ/MjVUuZORWz1a9US6nYM+y9fbVvvMyG2TNBdsC+Rvj2wkWIHDU6zzRNVejPlu3apF7sd5Nw0KpA2MHkyurGD5g==;WcWKCoPSeCDsMPzyrRW2bw=="
 ---

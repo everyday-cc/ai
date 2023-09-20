@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community"
-excerpt: "AWS Marketplace includes tools and software ... and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems ..."
-publishedDateTime: 2023-09-06T13:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/b34277789/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community"
-ampWebUrl: "https://www.benzinga.com/amp/content/34277789"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34277789"
+excerpt: "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ..."
+publishedDateTime: 2023-09-06T15:43:00Z
+originalUrl: "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/"
+webUrl: "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "5ra4U7J2qz9TeFhxJk5iIYRzUrdVyA3EDo2QhXF6uH4spYMVM2LxKftPPH67EWjONiEwvxvmfmKTK1IputB3fif4iKqQL7TXExAv1YeXLOG91vhx4GmYZrRBvreZecNqjS/xqaOT96sGR4nJz2aM8MhZaQxHcS8XGqj4PP71oUbolcwSOI1Af7EDCrBhK4jqkT4wC94KsoAnfpuPYxdudtlk/4EQe4aqfqccKBOvafnfUbT/m1qpitm7Yl2UwZRCr9nD/NsAbsyzlCAah+4SAI2qYlKPM9KZKBrFGvojrTvXR40OBcUxLzpk9HkoIKNCFdU0xbCKumO5LufRKzdgu/HdYzmSVkpMxnWu/FBRHWQ=;4fmojLZfjP7KqrQssNQ0bQ=="
+secured: "89jUDUtolDVXusZV8y2XvqmEHiGak7p4V9jc56wYRjYxF0ty0pZsQ567nZQEYx70tL46yiyCQD+YvziIM+aWHq31O/F69THaSt7rC9a9DGfcfGCGxfuWmxLDbcJ+8qHqzdTa6V+CdNSjGAK6Igplxpdyp5LTeP11vuh8RZl90gWhEh0D7T+vX4m+xYzRWlyZA2FLC2ykqi4J84jHhkVFIYilQce836iV3rYjmkfeQ2hbsQKlVWX8YU8sHuvAiOIBB9ereT537OHB1LZ6p8/lKsDeb1QSewu8XPcACojDMtH4H3qlCTk9/WfRmDoR42ULIadZN7ACGOv8qoJJu3jNHqvcFDTOdH3SoYBOvdBlTeU=;jknoARLlEtx8/mqs5P2spQ=="
 ---
 

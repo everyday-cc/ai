@@ -58,17 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Artificial intelligence in schools is here to stay. How will teachers adjust?"
-    excerpt: "AI tools are clearly the next big step in education, but to where? Are they digital cheating machines, or can they be used to enhance learning?"
-    publishedDateTime: 2023-09-15T07:59:00Z
-    webUrl: "https://www.newsday.com/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/artificial-intelligence-schools-chatgpt-uhnxre5w"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 38
 
 secured: "TPfY8aJUh5JYKX/nzvFceaI++hvCIlEH6b4vwyBSHEPjZxAX8azy1p1XcKiu04Fxi2XOZqaDWu7MCuViQV7YNWYvUfDhjcW7b/jPFNR2FxeSu/f9bn+XrWNxbGvBWw2qv/40qBWMgipLOTrYekqqA+l1gBm3oaSAsYWnSnyzk0jLb24yPx12q8HHr+HuVDmtn5ib+vy5aY7LWwVu1h0axGKQAUAh4JJtLR7xOWAUoKnICgToEaexuAV4D2QZLTJxh02IZ9qK2K3uX3hmYCef2yJTCh0WzBbcfcYsOtp5D95u/v4Oav0goleB89g1ArWBVhcor+e/09uOSMRG+NS6pp1TqPoN9/G16Eg843JbJP5TWCiafx8+feMob/WAVtcEdQPOcXv+4n9c7OBZzDdSlf3UR1MeY/rB8rdm1WyRHOcvbrsaPVdU6PeLuCb7cCm+Z9jV/FwLZY7wMWZQwhIKPKF4TiTPv9syIPm8gAAYowmXxHm049zEsW19xzJaEHHPKJqboj9gv74fLIosB7FAnA==;YuUIt/pvQg5FR4HW3xrgEw=="
 ---

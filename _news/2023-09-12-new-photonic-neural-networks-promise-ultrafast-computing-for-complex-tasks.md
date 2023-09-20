@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "IwZch3d+I50r8UmcOQyBrS3PsT4RXrhzT18yPPM6tw3GUkqmdIAwAtTVnZqCoROt1NpuAcXmp9yKVX5MXZTDGDpd9cvVLZKArWRiOyi9/iplnpV4VjHqVaVJvMs+uVQxMDpfOPmdvi8y4hsUomWHWj1HRuyGPi0flhmU3+PdFxAWD7kP+ilCT9jp/sAWNOaAmqLtWWkW8Un0GOiklVsYcRzNR5zPnwT8BWc03eQXsYWgBeUvyz+68Yn0jawWKYiYmDUrHHnYGEMf/tewATNWWRN4StfLnANONjitGB/un21VVAmSUvzARzn1hMNMzgsuTE3V9oeLEjTEbtH2D/ro293H2A3s5cCBoXF2RGFN9ohOPoRmZ8cNm2PSyIjCxj397iG5eNcTgLuKkDCiFqnQ6lH3yNvLJwgFLhFdYmMWeicBB1yxTuJh79PIsDRhzM866jJIH9rBOMLlu9ZW/o8YupL0DfIjzIsp+7WyS8hKHhtsJ/D9+k7WkLg/wEUxTh47Uo+nTgYzVcrLHq2qlukd6g==;Lto7vRedBlDBj4faoPGqPA=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a7c8801d-67a7-4675-bfa1-8accecf582e7/Rendition/low-res/Content/Public"
+    width: 700
+    height: 437
+    isCached: true
+
+secured: "2u5UCpbtvNFfb2EoCSWnB1EtkXqPFlRP8hSF6noo/YkW1kiX/t7J26BEN+tnHmFsi+/sJXMuHdZKgPzueA6C09fnynBQJTrYuQrbzAHLmlPMnCW2SOmFxitZzZwzBbAkkn1UpPQ0C+yqEVbExvcTIImgPiE8pfpXpEnvNFqgpw1YLsRp6UQCNrlO1UgZCdlYaUnd6znoIXxmdrgo1xS675HbiqDI/j2cO98GwYycE1IDATcEXBihrCWbBeWRZCNc/HEosbRxcC/0GF4sWRxlOfu6sAtrm0B7VzMF6XwwTmlT3fAUkZ5jBKV0THqlOUAN9g1bFO3MEFXBSPZIhfWyDDyubt6WXg4alFh+nx3nPG4=;PSAA5Sz8ePoth3Ih+jSklA=="
 ---
 

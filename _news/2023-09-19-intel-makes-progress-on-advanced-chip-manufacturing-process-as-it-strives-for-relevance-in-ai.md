@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
+    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
+    publishedDateTime: 2023-09-20T01:16:00Z
+    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
+    type: article
+    provider:
+      name: GadgetGuy.com.au
+      domain: gadgetguy.com.au
+    quality: 54
+    images:
+      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Intel To ‘Usher Age Of AI PC’ With Core Ultra ‘Meteor Lake’ CPUs In December"
     excerpt: "Intel said it will “usher in the age of the AI PC” with its long-hyped Meteor Lake processors, which will be released under the new Intel Core Ultra brand name for laptops this December."
     publishedDateTime: 2023-09-19T15:35:00Z

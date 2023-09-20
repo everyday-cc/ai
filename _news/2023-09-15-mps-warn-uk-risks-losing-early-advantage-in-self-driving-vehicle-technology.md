@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "techUK welcomes Transport Select Committee’s call to legislate for self-driving vehicles"
-    excerpt: "UK welcomes the House of Commons Transport Select Committee’s call to pass to create the regulatory and legal framework for self-driving vehicles in the UK."
-    publishedDateTime: 2023-09-15T08:40:00Z
-    webUrl: "https://www.techuk.org/resource/techuk-welcomes-transport-select-committee-s-call-to-legislate-for-self-driving-vehicles.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 15
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/b14e9547-51ed-46d0-921f02f463ebccd3/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/iStock-1194791782-smaller.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Teamsters support bill requiring a human in self-driving vehicles"
     excerpt: "Teamsters and supporters rallied on Monday, Sept. 18 in Arcadia, supporting a Legislative bill that would require a human operator in self-driving vehicles weighing 10,001 pounds or more."
     publishedDateTime: 2023-09-18T23:28:00Z
