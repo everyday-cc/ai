@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Indaru Revolutionizes Media Budget Optimization Through Cutting-Edge Machine Learning Solutions"
-    excerpt: "Indaru leverages the power of artificial intelligence and machine learning to provide advertisers with unparalleled insights, enabling data-driven decisions that maximize return on investment. With a mission to help brands extract maximum value from their ..."
-    publishedDateTime: 2023-09-15T19:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34628855/indaru-revolutionizes-media-budget-optimization-through-cutting-edge-machine-learning-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34628855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34628855"
+  - title: "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look"
+    excerpt: "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI."
+    publishedDateTime: 2023-09-19T23:07:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34742974"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 47
+    quality: 61
     images:
-      - url: "https://www.getnews.info/uploads/03076ad851048fbdad586e761f2d26e6.jpg"
-        width: 600
-        height: 240
-        isCached: true
-  - title: "AI Can Revolutionize Mortgage Licensing"
-    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
-    publishedDateTime: 2023-09-18T20:03:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
-    type: article
-    provider:
-      name: nationalmortgageprofessional.com
-      domain: nationalmortgageprofessional.com
-    quality: 39
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
-        width: 1000
-        height: 563
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "d7+zDaO3Qi9wVIrFEiAItyhizskDhU/b3bZR3+rGZgjW4GpWNavSq7DzZdzXaq99D3RZJn5P7i0IzN4u3Q2Gy14NqjIjk5Mo6qjHb54vgkGhmt1cXf6lMTEk8au3eGNz7Na2XccL8eT28lN4IN+n4+a9TE2/+/O1VV4ZjN4wTLGiqSMv0IIuKAcTYLaCKqRTnJX8hL8hYHMEYPz4kzqsUdoqlJ/fm509qSTWFzt8O7cyhMmBiofGJsRr4hD6bcJfghwAWXRV3f05BvZFtP0i3jrjBvFyimSjMEfNKpDyxGPn1+/71S64SkhWj6xNpwflscWJVUNOV6vGxnLG+AsUxKioycxD7Tf6XpcNrJaLxqw=;Gj6J/rVICioXJo76An2tUQ=="

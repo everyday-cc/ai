@@ -92,7 +92,7 @@ related:
   - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
     excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
     publishedDateTime: 2023-09-15T17:54:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
+    webUrl: "https://www.aol.com/microsoft-backed-self-driving-car-153624442.html"
     type: article
     provider:
       name: AOL

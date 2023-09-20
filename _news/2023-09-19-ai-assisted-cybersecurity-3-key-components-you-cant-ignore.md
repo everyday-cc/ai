@@ -125,19 +125,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
-    publishedDateTime: 2023-09-15T05:44:00Z
-    webUrl: "https://www.aol.com/news/cyber-attacks-dozy-drivers-future-054453091.html"
+  - title: "AI cybersecurity startup HiddenLayer raises $50M"
+    excerpt: "HiddenLayer says its platform is used by Fortune 100 enterprises in multiple sectors. To advance its revenue growth plans, the company has nearly quadrupled its headcount over the 12 months. It will use the $50 million round announced today to hire an additional 40 staffers by year’s end, build new features and accelerate go-to-market initiatives."
+    publishedDateTime: 2023-09-19T21:17:00Z
+    webUrl: "https://siliconangle.com/2023/09/19/ai-cybersecurity-startup-hiddenlayer-raises-50m/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
-        width: 1200
-        height: 901
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/HiddenLayer.png"
+        width: 718
+        height: 400
         isCached: true
   - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
     excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."

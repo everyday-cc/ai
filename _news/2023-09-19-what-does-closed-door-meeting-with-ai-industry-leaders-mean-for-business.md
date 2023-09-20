@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-
 webUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/"
 type: article
 quality: 66
-heat: 86
+heat: 88
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-
 webUrl: "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics"
 type: article
 quality: 83
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2023/09/NPU.jpg?w=750&quality=75"
         width: 750
         height: 500
+        isCached: true
+  - title: "Intel unveils a chip that could run generative AI on a laptop"
+    excerpt: "At the conference, Intel demonstrated laptops that could generate a song in the style of Taylor Swift and answer questions in a conversational style, all while disconnected from the Internet. Chief Executive Officer Pat Gelsinger said Microsoft's \"Copilot\" AI assistant will be able to run on Intel-based PCs."
+    publishedDateTime: 2023-09-19T23:46:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/intel-unveils-a-chip-that-could-run-generative-ai-on-a-laptop-600435"
+    type: article
+    provider:
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
+        width: 801
+        height: 568
         isCached: true
   - title: "Intel unveils glass-based chips"
     excerpt: "Intel isn’t the only company developing glass substrate solutions: Japanese firm Dai Nippon Printing, for one, outlined a glass core substrate (GCS) solution that, the company says, offers chip designers freedom to balance thickness, warpage, stiffness, and smoothness."

@@ -171,6 +171,20 @@ related:
         width: 1016
         height: 768
         isCached: true
+  - title: "Google DeepMind could speed up the search for disease-causing genes"
+    excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
+    publishedDateTime: 2023-09-19T23:44:00Z
+    webUrl: "https://bgr.com/tech/google-deepmind-could-speed-up-the-search-for-disease-causing-genes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
+        width: 1750
+        height: 1118
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z

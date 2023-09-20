@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/09/17/is-this-artificial-intel
 webUrl: "https://www.fool.com/investing/2023/09/17/is-this-artificial-intelligence-ai-stock-worth-buy/"
 type: article
 quality: 79
-heat: 85
+heat: 83
 published: true
 
 provider:

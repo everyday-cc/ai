@@ -3,8 +3,8 @@ category: news
 title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
 excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
 publishedDateTime: 2023-09-15T17:54:00Z
-originalUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
-webUrl: "https://www.aol.com/finance/microsoft-backed-self-driving-car-153624442.html"
+originalUrl: "https://www.aol.com/microsoft-backed-self-driving-car-153624442.html"
+webUrl: "https://www.aol.com/microsoft-backed-self-driving-car-153624442.html"
 type: article
 quality: 34
 heat: -1
@@ -132,6 +132,6 @@ related:
       domain: carwow.co.uk
     quality: 3
 
-secured: "AQ+aOvZpsKXwaGNSfd61IjKb2sJOahCr+gVJewj85xfa21++kxuYgEUOy/nE0jK+dD9XR2FlhupbUvj6BCqo8X6paWkTcDbqDaximCikosugcUfNsjn7icZPGeLDxmn/vvFjg3CSl3Ou3os69OBXXVcgXemllx7ZHkd3e5Vv5MkIoklrxHk/SqFvuhLmTRYD+nOsZxnEw3tiDuZ0H+9zU0g/Ujdt6IePUXpS9CkekW19oMfLl6gCXWhm/icVUh8KWeWhgepShHrOqOWiOGMbps8MOof+8kWgKjiUlw5G77YBQZES94qsEfDJynhIMMrTE1Vd0QYRkdd1sgffuIcC6KdvuVQjxxeA+wZ5Wq547dfdmBWvL6mzBZ/AHOyofUD2O+armriu5ghc+VqW+NQvfu9ay3npWLxTf1qOwRbAodhPU1gu4NX3wTkVPzFwEtct0TjsIbjGJz8/nG8bYrnoM1/FB02sl6Sr1vaivUIYAegiHcGPrz4HK9yJ1sWvw+WOozOUAnFtqxDT8tcW4fA6Ag==;8JtBNh6ZvXZMM6P/y+Khuw=="
+secured: "F0o7k2iHApp1R4QK65ahWqZq+lyAG8vdkNpxIMQWduzZONShaY3UUWx7K00e9S9KO1KAUpg25FONgQwxTmeKoE5t07hGEzxBYQAoQ9XBlIoCY0e8f9Mr7f0+KLgvV2UDN5ssRaDIyKRvAWP2HNS/GhdsKretk1zAjdqNQuVtgporKSoD2OttRLSqxk2DT+4gM1if5ihY2jKCyIFyrRXBw3P15bkrFlP9cEtUEvrPvIGDPhpFiSvqwuyZyPgmpJNTtVbe35X+jl/dxOFnPi5J5gq2mX1H+BOIpCUfNcZTAv85hWjP5h8uvlJFUOM6ML7U9cAQtHFDrsO+m/myfWkTEFl1vsmoUYk6F5lV0RO7NS8=;iLyRvC0yLabidg7q362M3Q=="
 ---
 

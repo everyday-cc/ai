@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
-    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
-    publishedDateTime: 2023-09-15T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "AI Can Revolutionize Mortgage Licensing"
     excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
     publishedDateTime: 2023-09-18T20:03:00Z

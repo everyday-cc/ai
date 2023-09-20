@@ -7,7 +7,7 @@ originalUrl: "https://hechingerreport.org/opinion-america-should-learn-from-euro
 webUrl: "https://hechingerreport.org/opinion-america-should-learn-from-europe-and-adopt-tougher-regulations-on-artificial-intelligence/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "OPINION: The AI ate my homework, and my schoolwork too"
+    excerpt: "Big changes are in the offing, but they will arrive slowly. Classroom practices, for better or worse, are among the stickiest of human institutions."
+    publishedDateTime: 2023-09-19T21:59:00Z
+    webUrl: "https://www.adn.com/opinions/national-opinions/2023/09/19/opinion-the-ai-ate-my-homework-and-my-schoolwork-too/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 39
+    images:
+      - url: "https://www.adn.com/resizer//56-BdJzvGyUoHEAH8oK4CaBs97M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/4JUBBFWLKFB7ND3EOZS5ETCNRU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0RJQ/hWEs3KsJrr5m7NqAAOynv96VEOkBkcRCcePq7Yhttn4ZfDPCQtY19/W3D/x8XboAQZwe29Z3oXRivsd9D2Df7/aTyfFWUnFdOO0USGdCdf2c4/UZSkDPeiwlCSdvvdUkiOzWB4aF/hh3fPZooPgEh4+EjqJXUJp7NwrxU2LH8jWnXNK1fIDmy1r3xQJzx9hU42W+YoQeMbkqzscO4bmdIcIcnx+hSkXhbRSK2tCUDm5snHqY64N03vPEewESrvzSM1xbsyfe0G4DE2nXIqKBJ7CSYwpSZ0tFXfRrihIlxNof2ar3O9tYl1ruczBgbHoVq8V4jbetLxCjznyvbKsj48bVDMHWwDXFy1si0AX2druM7oIq3Gj/4tYES1fMWUr3clqrvd9VAr2D4UVyQ7uMpIcUlMMfzpV9Pqh4L9xILOrCPDxbk3VzjpZyDTGHAJYwKBrtvDAjffBAdEQzEEJSKzaEycUggNbD/3+Ll2q6DO621atDAxttXGkYTLojiClO7gso1Lrfpv8txYuvw==;W/4dzXcf9VGKH3eKIf613A=="
 ---

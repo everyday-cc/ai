@@ -172,6 +172,20 @@ related:
         width: 1016
         height: 768
         isCached: true
+  - title: "Google DeepMind could speed up the search for disease-causing genes"
+    excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
+    publishedDateTime: 2023-09-19T23:44:00Z
+    webUrl: "https://bgr.com/tech/google-deepmind-could-speed-up-the-search-for-disease-causing-genes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
+        width: 1750
+        height: 1118
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -191,6 +205,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "yAyEoplC2uBlP1OdNY+mUI/QGNwp5DWeA0m/O4bPn9Z3zh95AQ3Dk9iqHdQ4QNclLH0HCtIFhBHnpFzaWGEsiDncpchEuQsErCFiMvH+17doAXJ3AGtQtYWv3bA9bIeE6ukStL928Uve5i5IWY7wLrK4UXTW7xPGvMBMTZRU2rCcpjNPzE/A2Gj2aBvDpcMFUUFEEkEb8suhH4q1r3sNtvFEqZTBuFlRTSz1XDxODucGY5DUf3QgBgB68kn82Uu/RFOPKwBjRVyYeA/uuJ9LbtlVxH/72moDYMk8Se0AgXAyN3AKWb/LCGY59keet9xuN1zEMS2wm2dMgGREce+PWnsY9Ea33Q47xopkj+ftCNI=;ZShaV1u05N+6hJwSNd+txA=="
+secured: "dLmcNWfm/Jwy/kMNr7yGh75FdrsxrwqgWjgcFcVdtdZZ8AQzZZLfkj/2BDvoPcLEMe1jm/mANdgmE7qZNSi64+AOj6Ok7V43FKtsHAUCdyGUVStALHBi9J6Oc4O00gJP9EWv6g9M2ezfbP3fhCKM3UVcb+5eMpx+/y+qpe4YVdJnS3i5jUdsA7nvtRKV5ukb2m7kdbijhTnlHCH3Zhd+ZXxyBM4u2Bx5lASJ1VnK2MzsEY/31EEDbalF3ZSJNB0IonZU0PzCHDUJ/f/WpugLOg15UjpjNzBx0lnMXxSCsuVkIPhU9fWN7NiB/4z5sA9vwNe1BB2V6kUMosQXJDBeV0GhC121qpBzb67bRk5LIIKpXau7MrH8/8NOlgbLOnqtJdVJ31mBfaMr0JVtMdyt3361ibJ86iKl4kdTiVfB+EAMOBkQqCMpeFuA0cpOxiN5EtUOh4C/QIEfP7WGdm0pybpb4nfC/CHucuhByuL13xdvIk+3QUWLRNf1lbuxFttocLkJA4yV6GdJZIsIK5jKdA==;3IuCR1el8S1+NSpLEwTRKg=="
 ---
 

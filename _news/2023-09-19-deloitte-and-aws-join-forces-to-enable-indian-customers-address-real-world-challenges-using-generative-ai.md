@@ -71,20 +71,6 @@ related:
         width: 400
         height: 220
         isCached: true
-  - title: "India's Infosys signs $1.5 billion contract to leverage AI solutions"
-    excerpt: "Infosys did not name the company nor mention whether it is an existing client. Earlier in the month, U.S. chip maker Nvidia announced AI partnerships with Indian conglomerate Reliance Industries and the Tata group's Tata Consultancy Services to develop ..."
-    publishedDateTime: 2023-09-15T05:11:00Z
-    webUrl: "https://www.aol.com/news/indias-infosys-signs-1-5-044023191.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/b2bad645f2c7efb49959e2237419efef"
-        width: 800
-        height: 543
-        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z

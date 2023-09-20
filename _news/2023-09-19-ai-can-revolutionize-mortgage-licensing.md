@@ -41,22 +41,6 @@ related:
         width: 600
         height: 240
         isCached: true
-  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
-    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
-    publishedDateTime: 2023-09-15T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "Q/hP+TqBbWajsgkHtBPVbOUJdTEnoFMX9NBRDsdyK1vwIms1nJH9doB092BW1J6x6BCOvfe476shoqMQkgVWP9+y5jaQrYHy4pUdvp2xtEsF+Il9uaxg1LX4cTPJPTxvqCsD7cvt9j0nt5hnGDCa2Th5fGJORsEVunN6jqZcA8ZvLGKKtA6wa0gfeKiLHL3LcTZTSRUKx7EZTroH4Omz3PCMgHE0EmpquXGvb49bZUepns6m+vBafE6cCq7H7yWny14aGh+EnI3GbHFw5TXlTRbPEqsmWozm2MX8u0gsHkNR6q5jSv/0X0op5vwV0QS0MeNlhcJkG4KJrz4wHYauXo3qkDj2LDHVxnqf+UHRptMnr3A7T/s1XD4K0DRSO6lWKRRBk1dnbqpY8wm9GQmlyVEx4q8JjCvIoIXB85P/Pji7CiYSipXdAcP/N5XHfG6yNhizh3R3e/F2MM6KHQGR5yBl1bhbILBdF3swCacNo4jG5nuifzhv1XLkPbCWpN0jh3LgjFdkwG0paTcCBSpVOg==;EjiLA/qpSkG1e8Evzw0zhQ=="
 ---

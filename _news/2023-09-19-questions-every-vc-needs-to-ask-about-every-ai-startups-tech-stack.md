@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-
 webUrl: "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechCrunch
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 841
     isCached: true
+
+related:
+  - title: "You don't need to be an AI startup to raise capital, VC says"
+    excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
+    publishedDateTime: 2023-09-19T22:43:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "PPwIjq9EwYMz1JO4uwx35gW2QlBEJJXuA+Mnl3bPqcfx3Ead/f9p0Nhle3K9jzD1gE6iQ2+wpl6c0IfpKiJRtcYBXRxghzjw1bsJIq9IrgTEx3KjM2xVvRDVZ96Yfwgo1mz89Sk5yKCWVrZ+GUDzWVs2ft3F5z5QVVH4vqYMk1sHZi291noY2CRCpW+s53QKKcJ5uuZKvnmWEJfGDsAz/pPaI3SoOwlhtiJkzT+czgSwW5OGxUSUz+ZA+Erq0Azv25iYlv8E9NWDwn9OtAu8iltfR4mOzv4fxkU0JkC8LCHaXLmbhWwcL6RzPCMapzENCCqut/cwgE+Z7J8nOlsBeqjohqHf2XoVVQrxaElUdCk=;I88hYOUiBMEsTrmFhfcwDw=="
 ---

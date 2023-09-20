@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-19T21:17:00Z
 originalUrl: "https://www.aol.com/news/intel-pitches-ai-pc-software-153950235.html"
 webUrl: "https://www.aol.com/news/intel-pitches-ai-pc-software-153950235.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.zenfs.com/en/aol_reuters_29/9d4d31b68853f177b1e082cede004480"
@@ -48,6 +49,6 @@ related:
       domain: record-eagle.com
     quality: 4
 
-secured: "tPwDI/UANoKl0td0YxmOljMMIjxHYi/9qQQVilWdjm56SGRBphV/Vz2tDB3taEGn0lv/674GV9zrtveTjTgh6bujVMe1QKPKZvi0ZgHTqxcBPAaYdWmgCgNVG6wOvzewCIe+XtD5piaBWsxjSf3rDNxVVkMiV5r9AwEh9hkKrpGCgF1RKs4CyW2NzTX3XghVLurAhBNPtLfDFBRZEBjcFkTZsaNYAQWPo6jdrr6ZSV6vw8Wv6W5LTX1iFT1ywru3nsRoXJmXAVgqZIqXDlurhRYSNcyVvAE/m+AV/Qiw5ggEVJNaNs3dwz7xXw2eWBYW1h7ybQFie/pvouA68HCAWQqcSaIJ7M7uQesX9pPI4uY=;Lo3w4Bmxvsp5PlvdvAUTJQ=="
+secured: "z+NTJaN+NgaSWs/RCK6fDnPSAs1En55Yj0IkP/OS8xOKaWRH34n6cLpMMm+9jwYMJ47XU9HUUZVQsNKSq1JujIgedwaIrc9JleVnSd6JNyc+lw+3hFCKLmC6ZB/ojUlQBwa42zcVdI90rOjCoJ1zLhb13gU7AbpymWG+GckLwvI/VgV2Hm5VVmjizkcvi0QrtJ++7wLK1lR8LV4W/SAJFe6JT/No/jxbVj3uccyZb3eQaVlRhA0kv4/eONJVmWjDjw6EtpvUgsXKQwcx8VgfM8oQoyzXJc/RmRIvC6wmWroz4dU1wy3innGq+726lH3YidV6oWPLNTdVZXNbTwDxQKERdoji/c4fZr/oTSNN52PFWBiwXa3qnP0fi9Jgrb6yE5zCaQGPCWm8cE9esovg4ENZVhCn1yj7s8CphezKSOfK8aKOC5OYXUS9rHkjPmh2+Lo/6lcmmyiZP4s1fYNUhdyBlHYiEhJ6G9bZllRSJ8XgJKBwhNdrZu8NxoHiXMYv9Z9kDbQ6btIGuSyBPw1Zjw==;vroeJBuaUgyYXg5KPMD47w=="
 ---
 

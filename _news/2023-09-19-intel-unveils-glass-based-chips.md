@@ -99,6 +99,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Intel unveils a chip that could run generative AI on a laptop"
+    excerpt: "At the conference, Intel demonstrated laptops that could generate a song in the style of Taylor Swift and answer questions in a conversational style, all while disconnected from the Internet. Chief Executive Officer Pat Gelsinger said Microsoft's \"Copilot\" AI assistant will be able to run on Intel-based PCs."
+    publishedDateTime: 2023-09-19T23:46:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/intel-unveils-a-chip-that-could-run-generative-ai-on-a-laptop-600435"
+    type: article
+    provider:
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
+        width: 801
+        height: 568
+        isCached: true
   - title: "Intel's Meteor Lake to bring AI NPU to the masses"
     excerpt: "Intel Core Ultra processors – code named Meteor Lake – will be launched on 14 December 2023, \"ushering in a new age of the AI PC,\" according to CEO Pat Gelsinger. Intel corporate vice president and APJ general manager Steve Long described Meteor Lake as a \"generational shift\" for"
     publishedDateTime: 2023-09-19T14:35:00Z
