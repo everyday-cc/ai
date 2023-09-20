@@ -33,6 +33,20 @@ related:
         width: 480
         height: 281
         isCached: true
+  - title: "IBM CEO study: 75% of companies believe the organization with the most advanced generative AI wins in the long run"
+    excerpt: "According to IBM's annual study, CEO decision-making in the age of AI, Act with intention, 3 out of 4 (75%) of participating companies believe that the organization with the most advanced generative artificial intelligence will have a competitive advantage."
+    publishedDateTime: 2023-09-20T11:40:00Z
+    webUrl: "https://business-review.eu/tech/ibm-ceo-study-75-of-companies-believe-the-organization-with-the-most-advanced-generative-ai-wins-in-the-long-run-251891"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 17
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/IBM-1.jpg"
+        width: 1400
+        height: 1057
+        isCached: true
 
 secured: "y/vHSRtwdVSciYf9Z7p9qMzEqu19D8aZc6oo1pgF2Fko4v37t5/lWsYyb+JC95jjXwjjHhHQxaIIaP934iVoyS3hBt6BafVxArf0EYDTk8MZmQ1EG70uNVv3E6zbYP6yWQbvTZl5HUq3Xlv7uIYAgXh3XRYfzI3xpK+wSPIeogbRZf/R9mumcpcOQ/s2chwYfiQSzI8Pq/B4TV5LXJcdmAYO7Uqd+AhnYTpv5+3wzaOPLUAR0mv1ILfvh+ZP4E4+OfCQTGq1w+HtoFn8PuDcldc8/EeJmQmY2sNeMGlAmr2Iy3utHXFJbzAqGuscj84f0vu3huWyhoQ9/EefIWKnYaizfQtguqBjkm2bdbcm4RleTqVODtpEQ2b8EVdXCHyT45klufPJokLxMANdLsph3XbS3B4HqOzvMmvLzxHxCoXG8hnk5T1Ydb4ZXBZ1z2FLZELese4yUIkvTo2f6u95bzi/6Igppxd2rF1hd+P/3JypDLcU+XKbuwhtlKtQYlwyHvI1Pv71qq3ZnpPMj01FWA==;eCSh8VPad1PkqjYOUH2n7Q=="
 ---

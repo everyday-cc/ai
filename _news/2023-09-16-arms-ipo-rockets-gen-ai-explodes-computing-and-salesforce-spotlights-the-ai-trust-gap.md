@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce CEO Marc Benioff says AI models have 'stolen' copyrighted content from media companies"
-    excerpt: "Salesforce CEO Marc Benioff discusses ethical concerns and trust issues around generative AI at the company's Dreamforce conference."
-    publishedDateTime: 2023-09-15T19:41:00Z
-    webUrl: "https://www.businessinsider.com/dreamforce-salesforce-ceo-marc-benioff-generative-ai-2023-9"
+  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZAtnnhDD1HZpzo+zXL+Xj/XkbzNNxPmMmGwhWdESEj8eElrRdTX1ufLinYpugRNcjePsZSxjLCN8RyJv65KK1/uiiEVlRMFIUHU/uGD/UDuzg1hdfariErK4XQtXXVswm8EsMtvoLLcdb0ekEmhR61V1wSBzrY+4eaLdIvlRo6bZkKKGYos1PEmiFA03B06sgSxDC/ESi7uzvqxOoS7HO96/phUbP2py/nTZxxgNDMSW+rBE/nxIwRckM9dsA81wpoTZ78FB8TYn97oorA6kPRVzuNRa8UwUE95HBTFzwLEJSEnpWB4FfdybEQ2+hcZR1w2DAbn1/IP5rdGcAIam2TxfAFEZbs1ZpQVkSrAZJIgitAc9Uro9+6mTVtIeXCf+kQCVoTjAZruQF+758TLsHOcng1YoiFfp5EtMBpdPACY27Kej9knkCDWoGan7zDPx89jVzqRL/Rf2kPhC4M7+KVx1EI9LDnBZH1jVqxPudWaQabdsVhuSDxpBIjBhEXsG4cULidnKc0D86z5bEGUtQQ==;pQnH+23X3ALloh+yB+2OfA=="
 ---

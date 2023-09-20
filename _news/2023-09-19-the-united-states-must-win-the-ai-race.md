@@ -19,73 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Using the brain as a model inspires a more robust AI"
-    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
-    publishedDateTime: 2023-09-15T18:28:00Z
-    webUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
+  - title: "The new kid on the artificial intelligence block"
+    excerpt: "Generative AI is a subset of artificial intelligence (AI) that employs deep learning and neural network techniques on massive-scale data to “create” novel content of varied types — text, images, video,"
+    publishedDateTime: 2023-09-17T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/articleshow/103719000.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/amp_articleshow/103719000.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/amp_articleshow/103719000.cms"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/brain-inspires-more-ro.jpg"
-        width: 988
-        height: 719
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
         isCached: true
-  - title: "Brain inspires more robust AI"
-    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
-    publishedDateTime: 2023-09-17T23:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
+  - title: "3 New Types of Jobs Created by AI"
+    excerpt: "As per a new World Economic Forum white paper 'Jobs of Tomorrow: Large Language Models and Jobs', while old jobs disappear due to AI, new jobs are also being created."
+    publishedDateTime: 2023-09-20T11:17:00Z
+    webUrl: "https://www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
+    ampWebUrl: "https://www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
-  - title: "Brain inspires more robust AI"
-    excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
-    publishedDateTime: 2023-09-16T08:19:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1001677"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 218
-        isCached: true
-  - title: "Brain-Inspired Changes Could Make AI More Resilient"
-    excerpt: "AI systems are often built using artificial neural networks (ANN) analogous to those of the brain. Like the brain, ANNs can sometimes get confused, either by accident or by the deliberate actions of a third party."
-    publishedDateTime: 2023-09-18T09:34:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/brain-inspired-changes-could-make-ai-more-resilient-378930"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 41
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
+      - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/09/cropped-robot-g5a85824fd_640.jpg?size=*:900"
         width: 640
-        height: 360
+        height: 853
         isCached: true
-  - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
-    excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
-    publishedDateTime: 2023-09-19T05:01:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-pet-adoption-in-singapore/"
+  - title: "Is AI The Next Shadow IT?"
+    excerpt: "The pros and cons of AI are similar to that of Shadow IT. On one hand, AI presents a huge opportunity to increase efficiency and the speed of value creation. But on the flip side, AI can introduce significant risk to the organization if the wrong information is given to these models."
+    publishedDateTime: 2023-09-18T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/is-ai-the-next-shadow-it/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/OIP-6.jpg"
-        width: 474
-        height: 276
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "ZwqZBRsycIBYmwHEDKM8yjSFvKsU4PyzrM2b/SvOhaA4Wzog6ZGKwMiTzLYsgh76zaVMUcAXDXrpN1qMy2yB+EoRykEY6ai6sWfXUrxEY7qWu1oGBy6C1GPFKth8Fok7/fuvtRrDrinBeeBpQrva7GM/LsaBVlL1upPtGaK1xnVp2g3/i/IoEYXJi214ylPEDnjkEO4xTWYyYsKQ9IOmWmv+5pOFphmFp2Etc3ExG49xJA6/PU+88QwAueVnxXZDqyQQFGrPHewRjVAn9xLyMbULyPyuwEXwi3cYHU7nhemddUTz81g6rPD7Ipry46rJHrmtBzF7RkAHWFw4ruT76gTstWi5HOre8s6MBkngX3glSKiVKr/9uv3o0vk+9ajJL88bqK6OhKDAovR3dH65MYu7uJd9xZv9IEZGfn7PPX7BQL5A0jkXcvmC7fjOu7pAioYvrH8phhZIRQbHeqH6qegHNIYTIMgduWLBPscXFaFfzrbNF4+j372Y8Q8EyqFiwypxuAVkh7u7N5ATQmhM9g==;a934LXSRNGn/XOzod1k0yA=="
 ---

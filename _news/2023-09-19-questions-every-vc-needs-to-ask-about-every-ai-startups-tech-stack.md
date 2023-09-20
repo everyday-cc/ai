@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-
 webUrl: "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "13 Startups that Google Funded Under its First AI Startup Cohort"
+    excerpt: "Google's inaugural AI Startup Cohort features thirteen diverse startups that addresses important issues with AI. The 10-week program offers tailored support, mentoring, and technical expertise."
+    publishedDateTime: 2023-09-20T10:31:00Z
+    webUrl: "https://analyticsindiamag.com/13-startups-that-google-funded-under-its-first-ai-startup-cohort/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/3-Startups-that-Google-Funded-Under-its-First-AI-Startup-Cohort-by-Kruthikaa-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "You don't need to be an AI startup to raise capital, VC says"
     excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
     publishedDateTime: 2023-09-19T22:43:00Z
@@ -38,6 +52,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "PPwIjq9EwYMz1JO4uwx35gW2QlBEJJXuA+Mnl3bPqcfx3Ead/f9p0Nhle3K9jzD1gE6iQ2+wpl6c0IfpKiJRtcYBXRxghzjw1bsJIq9IrgTEx3KjM2xVvRDVZ96Yfwgo1mz89Sk5yKCWVrZ+GUDzWVs2ft3F5z5QVVH4vqYMk1sHZi291noY2CRCpW+s53QKKcJ5uuZKvnmWEJfGDsAz/pPaI3SoOwlhtiJkzT+czgSwW5OGxUSUz+ZA+Erq0Azv25iYlv8E9NWDwn9OtAu8iltfR4mOzv4fxkU0JkC8LCHaXLmbhWwcL6RzPCMapzENCCqut/cwgE+Z7J8nOlsBeqjohqHf2XoVVQrxaElUdCk=;I88hYOUiBMEsTrmFhfcwDw=="
+secured: "32OBjaoohf//DhnjgqnW5mt+Kc2Y171DucWx3MlTG47K6/OiII93+Zsv4Aik6z6d+bV9NCPP6Cff6NJy7mOElW4alLv8Xtb/sTBJ0AntGG0QRu0QrxbBEEZyYLXel0GH+zzQg++7azxPgtJZtjdFuePKHrIn1O4UkdLJ3Ki2nBVcjSRY8CUKlT+0ajkSYdqhLw3zGOsBFEaKGKwWk3leB5IgGUDxEb9TtBsJ0mMf7rryBacaNNk1p4MCMJBq96NZnLdY5QYIZKXuLPuNm0H3yYzggMrztazwbFcgIOBnmMyOHTeYVLZ3DolgiJpu57tQbwL4YbtMDH7yTmhsRNxVaqWHeaa2gNqUZnG2Kjize+zjluGaAAOkc+4ilJcviKxUqDqvtRys4ijMP4s3xM7CqxjGJzBl6DeuVVYR+jtwQ/xH7hdHHVnDstHBPSmR6Zo4V02Fwn1XA+wIYWOMWjigpQlfnqrVVOkzS8yt0i5OmEpfRBJuJfSIP7TB0DP+VE2MlK0A5Sky5nFH0yUNd3qBxg==;MsILG/QvvMh/Z6QUQQqVSg=="
 ---
 

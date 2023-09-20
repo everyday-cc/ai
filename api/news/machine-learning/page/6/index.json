@@ -2,6 +2,136 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-28-complex-domain-neural-network-advances-large-scale-coherent-imaging.md",
+      "title": "Complex-domain neural network advances large-scale coherent imaging",
+      "excerpt": "by combining artificial intelligence diagnosis, this technology may unlock the secrets of complex biological systems and push the boundaries of medical diagnostics. More information: Xuyang Chang et al, Complex-domain-enhancing neural network for large ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.html",
+      "originalUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/complex-domain-neural.jpg",
+          "width": 1280,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-complex-domain-neural-network-advances-large-scale.amp",
+      "publishedDateTime": "2023-07-27T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-machine-learning-megatrends-3-ai-stocks-set-to-dominate.md",
+      "title": "Machine Learning Megatrends: 3 AI Stocks Set to Dominate",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the strength and momentum we’ve seen in AI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/machine-learning-megatrends-3-ai-stocks-set-to-dominate-1032481671",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/machine-learning-megatrends-3-ai-stocks-set-to-dominate-1032481671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting.md",
+      "title": "Northern Arc’s ML tool NuScore to aid Pahal Financial Services’ underwriting",
+      "excerpt": "Northern Arc Capital's Nu Score, a machine-learning based analytical tool, will be used for underwriting and risk assessment by Pahal Financial Services, a Gujarat-based NBFC. Pahal aims disbursement of Rs 2,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47338,msid-102147852/isb-applied-business-analytics-drive-business-growth-with-the-power-of-data-analytics.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
+      "publishedDateTime": "2023-07-26T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
       "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
       "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",

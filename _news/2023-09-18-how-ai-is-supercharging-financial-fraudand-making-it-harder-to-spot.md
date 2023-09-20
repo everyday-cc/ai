@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-18T10:35:00Z
 originalUrl: "https://www.forbes.com/sites/jeffkauflin/2023/09/18/how-ai-is-supercharging-financial-fraudand-making-it-harder-to-spot/"
 webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/09/18/how-ai-is-supercharging-financial-fraudand-making-it-harder-to-spot/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65050d4b17a3814adb2250c0/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"

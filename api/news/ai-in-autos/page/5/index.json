@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-08-it-really-is-the-boogeyman-celebrities-who-fear-artificial-intelligence.md",
+      "title": "'It really is the boogeyman' - Celebrities who FEAR artificial intelligence",
+      "excerpt": "The threat of artificial intelligence has caused concern in all sorts of industries - and the showbiz world is no exception!",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyomingnews.com/lifestyles/entertainment/it-really-is-the-boogeyman---celebrities-who-fear-artificial-intelligence/collection_afc07547-03dc-50a7-8956-8745f8f2e751.html",
+      "originalUrl": "https://www.wyomingnews.com/lifestyles/entertainment/it-really-is-the-boogeyman---celebrities-who-fear-artificial-intelligence/collection_afc07547-03dc-50a7-8956-8745f8f2e751.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wyoming News",
+        "domain": "wyomingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-pope-issues-warning-on-artificial-intelligence-fears-logic-of-violence.md",
+      "title": "Pope issues warning on artificial intelligence, fears ‘logic of violence’",
+      "excerpt": "Pope Francis issued a warning on artificial intelligence Tuesday, urging those behind the technology to \"be vigilant\" during their work. The Pope made the statement in his message marking New Year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence",
+      "originalUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c49c55e-a09f-4f2c-9e7b-2a43273b3ba1/6c4c1b27-cf9f-4259-a835-00b1473bd394/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence.amp",
+      "publishedDateTime": "2023-08-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
       "title": "San Francisco drives tech; will it drive away robot taxis?",
       "excerpt": "SAN FRANCISCO, Aug 7 (Reuters) - San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence, but when it comes to self ...",
@@ -1259,101 +1345,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-self-driving-uber-that-killed-woman-pleads-guilty-to-endangerment.md",
-      "title": "Backup Driver In Self-Driving Uber That Killed Woman Pleads Guilty To Endangerment",
-      "excerpt": "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "originalUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64c4321d2700003500df18f5.jpeg?cache=9Ru4pUuEwC&ops=1200_630",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
-      "publishedDateTime": "2023-07-28T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-backup-driver-in-2018-uber-self-driving-crash-pleads-guilty.md",
-      "title": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty",
-      "excerpt": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty By David Shepardson (Reuters) -The backup safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "originalUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

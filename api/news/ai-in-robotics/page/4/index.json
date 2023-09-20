@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "AI Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "publishedDateTime": "2023-08-27T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-27-how-to-use-ai-for-marketing-without-sounding-like-a-robot.md",
       "title": "How to use AI for marketing without sounding like a robot",
       "excerpt": "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling.",
@@ -1312,6 +1278,58 @@
         "name": "WESH",
         "domain": "wesh.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-worlds-first-mass-produced-humanoid-robot-china-start-up-fourier-intelligence-eyes-two-legged-robots-with-ai-brains.md",
+      "title": "World’s first mass-produced humanoid robot? China start-up Fourier Intelligence eyes two-legged robots with AI brains",
+      "excerpt": "When Fourier Intelligence unveiled its lanky, jet-black humanoid robot GR-1 at the World Artificial Intelligence Conference (WAIC) in Shanghai in July, it instantly stole the show. While the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/11/8945fe8e-9967-46d4-881b-bf54fdddf29d_b80c6778.jpg?itok=qSSd2jDl&v=1691761856",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "publishedDateTime": "2023-08-15T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

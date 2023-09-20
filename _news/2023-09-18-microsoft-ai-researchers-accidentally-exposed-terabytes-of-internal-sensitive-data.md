@@ -157,15 +157,15 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 64
-  - title: "Everything we're expecting at Microsoft's Surface and AI event next week"
-    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events next week. Here's what we're expecting."
-    publishedDateTime: 2023-09-15T18:48:00Z
-    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-event-next-week/"
+  - title: "AI Startup Corti Raises $60 Million to Take on Microsoft in Health Care"
+    excerpt: "Corti ApS, a medical software startup, has raised $60 million to sell an AI “co-pilot” to more hospitals and compete with Microsoft, Amazon and other tech giants racing into health care."
+    publishedDateTime: 2023-09-20T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-20/ai-startup-corti-raises-60-million-to-take-on-microsoft-in-health-care"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Microsoft exposed 38 terabytes of sensitive data while working on AI model"
     excerpt: "Between July 20, 2020, and June 24, 2023, Microsoft exposed a vast trove of data to the public web through a GitHub public repository. Cloud security"
     publishedDateTime: 2023-09-18T19:28:00Z

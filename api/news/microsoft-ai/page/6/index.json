@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-31-amazon-investors-eye-revenue-cloud-growth-and-retail-margins-ahead-of-earnings.md",
+      "title": "Amazon investors eye revenue, cloud growth and retail margins ahead of earnings",
+      "excerpt": "Amazon on Monday said it hit record delivery speeds in the United States in the second-quarter while continuing to cut costs, as investors look for signs of growth in its e-commerce business when it reports its Q2 financials on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-investors-eye-revenue-cloud-growth-retail-margins-ahead-earnings-2023-07-31/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-investors-eye-revenue-cloud-growth-retail-margins-ahead-earnings-2023-07-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/S2HdjKr9zHQ87joJ9nWyA3r1JNE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XEFIQSSR7VKC5P7E44NYL5UJWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-microsoft-teams-can-make-you-a-language-expert-but-only-if-you-pay.md",
       "title": "Microsoft Teams can make you a language expert - but only if you pay",
       "excerpt": "The tool was made possible with Microsoft Cognitive Service Speech Translation ... which it says offers powerful and fast translation services in real-time. Mike Moore is Deputy Editor at ...",

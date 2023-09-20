@@ -3,10 +3,10 @@ category: news
 title: "Has AI Surpassed Human Creativity?"
 excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
 publishedDateTime: 2023-09-19T23:09:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
 type: article
 quality: 57
 heat: -1
@@ -41,6 +41,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 902
+        isCached: true
+  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
+    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
+    publishedDateTime: 2023-09-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
@@ -86,7 +102,23 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
+    excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
+    publishedDateTime: 2023-09-20T11:21:00Z
+    webUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 49
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
+        isCached: true
 
-secured: "xhyWAzzq3x2itRyj5+LaX3lfjTruNhc9wwejR1zSQlQOttuPwWNVrqd802z+DbHPsWd6viN3u2X4gknKdgVayDfjOXxUzuUyFuYGtHItqS2gNXLVHy9BAlcNMQPziQHjewVLTqv1M0rpta+IJaq/iRXLHBSQZJha7qP4CUqwazJX703di2qo/GrTlgYqn5zzPVf9Wr3UVWde2V0EiLQ8IKy9B5k/JlMImgFGONYYH3ALbkl4+cDeJTmSC+JE3GhQjU8JmQacy0j1KFUSKZMKbh3ukZQmY5GVCGcIxEC7fYOSwZWpY/mmpKPbSyPwafV7X8xyY9yuM5qFZ6PwNIzsKW7NMrfCLWU3iZAXowR4C9KxIcHnng3Ereh/Nw7tGJCO9pS++78TjOvQCDoEoRxS9YUgvJIeHWUhsIlMCQKXTRlKQldvcEFmqJho1/N5umbKdXn4paHWF8ry67ouoQ0l3dvn0mVDbz7Wdx/f6TbxHLgWIcTY5BANmCqY3hm0d2XnLr2jhXMfpYQMQtOsByf3pg==;FfI0ZciNe1w0SDOBmBJB4w=="
+secured: "rrmG9MYwxfJnkuRl9eiQZDVks/zyDOaOuBDQwLMYnODly5b/JUAC1mu9HbtdDPvqtUIQGAJWID+0K+xz3ZugMoqB48EW5wY+PHiErj9TfdSMqkY6KC9ACC/ihLe6tgBWOQ/SugVMBsywNvGqw1OkYXQTi9wybF02uEnF8bPeaPkwOW3kyobdO7D8HySUBt5/FuoLRdB/+BA36XCp4BNlzRpkmOxllLukm3r9Zy7pqUpCay5xk2+5zBaZb6dj8KqsTQk021ykK2ugNRho49iOmtFq6hzKzL26l+whr+CPf4i6KeEKJrrQrWKXPtz1i9YlufhnipzbEWpaYH0obtrpb9k/LxeA8LwhrKgT0u6fnfc=;J8dCwyd7fgcV7lBEL/4JuA=="
 ---
 

@@ -2,6 +2,401 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-07-29-walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers.md",
+      "title": "Walmart using AI to streamline organization – what will it mean for workers?",
+      "excerpt": "Walmart is using artificial intelligence to help streamline their product organization. That raises questions about how workers' jobs could change. NBC News’ Jacob Ward has more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/walmart-using-ai-to-streamline-organization-what-will-it-mean-for-workers-189519429834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1690586636299_nn_jwa_walmart_embraces_new_tech_230728_1920x1080-4596y2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo189519429834",
+      "publishedDateTime": "2023-07-28T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-gen-ai-movie-trailer-for-sci-fi-epic-genesis.md",
+      "title": "Gen-AI Movie Trailer For Sci Fi Epic “Genesis”",
+      "excerpt": "Genesis” trailer images we done in Midjourney and limited animation and camera moves added in Runway. The music is from Stringer_Bell via Pixabay. I messaged Neubert on Twitter and a few hours later we met on Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c440111ae988ddbd16a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/28/gen-ai-movie-trailer-for-sci-fi-epic-genesis/amp/",
+      "publishedDateTime": "2023-07-28T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-ai-productivity-gains-are-not-limited-to-big-tech.md",
+      "title": "AI Productivity Gains Are Not Limited To Big Tech",
+      "excerpt": "While Microsoft and Google are competing to roll out bigger and better AI engines, the real beneficiaries of AI technology might be in other sectors of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c4406c3e9ca5472f03e661/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/07/28/ai-productivity-gains-are-not-limited-to-big-tech/amp/",
+      "publishedDateTime": "2023-07-28T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e.md",
+      "title": "Google’s RT-2 AI model brings us one step closer to WALL-E",
+      "excerpt": "On Friday, Google DeepMind announced Robotic Transformer 2 (RT-2), a \"first-of-its-kind\" vision-language-action (VLA) model that uses data scraped from the Internet to enable better robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/rt2_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/googles-rt-2-ai-model-brings-us-one-step-closer-to-wall-e/amp/",
+      "publishedDateTime": "2023-07-28T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-backup-driver-in-self-driving-uber-that-killed-woman-pleads-guilty-to-endangerment.md",
+      "title": "Backup Driver In Self-Driving Uber That Killed Woman Pleads Guilty To Endangerment",
+      "excerpt": "PHOENIX (AP) — The backup Uber driver for a self-driving vehicle that killed a pedestrian in suburban Phoenix in 2018 pleaded guilty Friday to endangerment in the first fatal collision involving a fully autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
+      "originalUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64c4321d2700003500df18f5.jpeg?cache=9Ru4pUuEwC&ops=1200_630",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-us-autonomous-vehicle-fatality-uber_n_64c4306be4b03ad2b89868b3/amp",
+      "publishedDateTime": "2023-07-28T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-backup-driver-in-2018-uber-self-driving-crash-pleads-guilty.md",
+      "title": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty",
+      "excerpt": "Backup Driver in 2018 Uber Self-Driving Crash Pleads Guilty By David Shepardson (Reuters) -The backup safety driver behind the wheel of a self-driving Uber Technologies test vehicle that struck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
+      "originalUrl": "https://www.usnews.com/news/us/articles/2023-07-28/backup-driver-in-2018-uber-self-driving-crash-pleads-guilty",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-students-can-use-ai-on-applications-arizona-state-law-school-says.md",
+      "title": "Students can use AI on applications, Arizona State law school says",
+      "excerpt": "A week after The University of Michigan Law School banned the use of popular artificial intelligence tools like ChatGPT on student applications, at least one school is going in the other direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/students-can-use-ai-applications-arizona-state-law-school-says-2023-07-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/b2Anx_GTiPSvepG6KWEo6YSj1bs=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMVVTUJ5J5JXRFRVUHV5ZWIYMI.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-intel-ceo-get-ready-for-the-ai-pc.md",
+      "title": "Intel CEO: Get Ready for the 'AI PC'",
+      "excerpt": "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ...",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
+      "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking.md",
       "title": "HackerOne: How Artificial Intelligence Is Changing Cyber Threats and Ethical Hacking",
       "excerpt": "Security experts from HackerOne and beyond weigh in on malicious prompt engineering and other attacks that could strike through LLMs.",
@@ -782,397 +1177,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-us-lawmakers-urge-biden-administration-to-tighten-ai-chip-export-rules.md",
-      "title": "U.S. lawmakers urge Biden administration to tighten AI chip export rules",
-      "excerpt": "Two U.S. lawmakers who head a committee focused on China on Friday urged the Biden administration to tighten export restrictions on artificial intelligence chips in the wake of industry lobbying to leave the rules unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
-      "originalUrl": "https://www.reuters.com/technology/us-lawmakers-urge-biden-administration-tighten-ai-chip-export-rules-2023-07-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning.md",
-      "title": "IBM and AWS partnering to transform industrial welding with AI and machine learning",
-      "excerpt": "IBM Smart Edge for Welding on AWS uniquely leverages multi-modality and IBM Research’s patented multi-modal AI to provide accurate insights.\nThe post IBM and AWS partnering to transform industrial welding with AI and machine learning appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-and-aws-partnering-to-transform-industrial-welding-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-the-future-of-cloud-computing-ai-powered-and-driven-by-innovation.md",
-      "title": "The Future Of Cloud Computing: AI-Powered And Driven By Innovation",
-      "excerpt": "Tech giants Microsoft and Google report strong Q2 earnings, driven by AI innovations in their cloud businesses. AWS also invests heavily in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3aa8297c5886d5716a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/28/the-future-of-cloud-computing-ai-powered-and-driven-by-innovation/amp/",
-      "publishedDateTime": "2023-07-28T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo.md",
-      "title": "Chip Giant TSMC Determined To 'Keep Roots In Taiwan': CEO",
-      "excerpt": "Semiconductor giant TSMC said it was determined to \"keep its roots in Taiwan\" as it launched a massive facility in the island's north on Friday geared towards developing the world's most cutting-edge microchips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
-      "originalUrl": "https://www.barrons.com/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1113229468787666246496686568250953985199---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-tsmc-determined-to-keep-roots-in-taiwan-ceo-7435ab49",
-      "publishedDateTime": "2023-07-28T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives.md",
-      "title": "AI Vs. Hearing Loss: The Battle That's Transforming Millions Of Lives",
-      "excerpt": "Over 5% of the world’s population suffers from disabling hearing loss. Groundbreaking advances in AI are revolutionizing hearing and helping erase the social stigma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c39893bc808dac8016a7fe/0x0.jpg?format=jpg&crop=2908,1637,x0,y150,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2023/07/28/ai-vs-hearing-loss-the-battle-thats-transforming-millions-of-lives/amp/",
-      "publishedDateTime": "2023-07-28T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-ai-researchers-say-theyve-found-virtually-unlimited-ways-to-bypass-bard-and-chatgpts-safety-rules.md",
-      "title": "AI researchers say they've found 'virtually unlimited' ways to bypass Bard and ChatGPT's safety rules",
-      "excerpt": "The researchers found they could use jailbreaks they'd developed for open-source systems to target mainstream and closed AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c38afe048ff200190c7baa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researchers-jailbreak-bard-chatgpt-safety-rules-2023-7?amp",
-      "publishedDateTime": "2023-07-28T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-taiwan-semiconductors-sales-are-down-even-with-the-ai-boom.md",
-      "title": "Taiwan Semiconductor's Sales Are Down -- Even With the AI Boom",
-      "excerpt": "Investors have bid up computer chip stocks such as TSMC this year on the back of the artificial intelligence (AI) boom, which requires an immense amount of computing power to train and run. The iShares Semiconductor ETF is up 47.5% in 2023, outpacing the S&P 500 's (still impressive) return of 19%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/taiwan-semiconductors-sales-are-down-even-with-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741327/latex-glove-computer-chip.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-ai-sleeper-stock.md",
-      "title": "Qualcomm and Meta Team Up on AI -- 1 of These Is an AI Sleeper Stock",
-      "excerpt": "But Qualcomm and social media titan Meta Platforms just teamed up to bring AI-powered services to a device near you. Here's what you need to know about the AI sleeper stock Qualcomm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/28/qualcomm-and-meta-team-up-on-ai-1-of-these-is-an-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740917/smartphone-city-connectivity.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

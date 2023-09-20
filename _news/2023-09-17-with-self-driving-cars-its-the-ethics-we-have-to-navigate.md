@@ -88,29 +88,6 @@ related:
         width: 800
         height: 375
         isCached: true
-  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
-    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
-    publishedDateTime: 2023-09-15T17:54:00Z
-    webUrl: "https://www.aol.com/microsoft-backed-self-driving-car-153624442.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
-        width: 1200
-        height: 777
-        isCached: true
-  - title: "Researchers develop algorithm for safer self-driving cars"
-    excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
-    publishedDateTime: 2023-09-15T18:12:00Z
-    webUrl: "https://techxplore.com/news/2023-09-algorithm-safer-self-driving-cars.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z

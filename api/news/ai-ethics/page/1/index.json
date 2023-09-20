@@ -96,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -295,6 +295,58 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai.md",
+      "title": "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI",
+      "excerpt": "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/",
+      "publishedDateTime": "2023-09-18T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1379,58 +1431,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-pharma-ceo-dont-halt-ai-research-our-work-is-too-important.md",
-      "title": "Pharma CEO: Don't halt AI research, our work is too important",
-      "excerpt": "Recursion Pharmaceuticals uses machine learning to develop drugs with Bayer and Genentech. CEO Chris Gibson thinks proceeding with that work outweighs any risks a moratorium might prevent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/pharma-ceo-dont-halt-ai-research-our-work-is-too-important/",
-      "originalUrl": "https://www.zdnet.com/article/pharma-ceo-dont-halt-ai-research-our-work-is-too-important/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f544329f31089f6ed65d1fa911222e99427fd85f/2023/09/01/6a047a20-813d-4823-9eef-188154218b9a/recursion.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pharma-ceo-dont-halt-ai-research-our-work-is-too-important/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pharma-ceo-dont-halt-ai-research-our-work-is-too-important/",
-      "publishedDateTime": "2023-09-01T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

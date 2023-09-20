@@ -72,15 +72,6 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
-  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
-    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
-    publishedDateTime: 2023-09-15T18:13:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 18
 
 secured: "ZBKi2gnMKRb8FIDI/MyhGgbkSG9IbTLU0njsAkNufcLhSeobbSOzygngBUQzylyfq85WTAyL6GdlrI44qgBAy8Cmys8YE3bWbgq0vLMOVEzeAZDrIQP6GpYJ9OmVvWC217jmVunmxxH0Q8P2dUTNfRSHHeaO1Lc5A4HoOU2Ljm2WcyF/UcHqozfRdWTQMqsyI8FxDoUZO5rHHoW76SdUtRdwV2xW0rxiSN3i5kw7mptZPwpHV22aQ3pUp54Bfvtnxt2qFXrHd4j0veSHgcNCzsrVhCtuPrBCoDQenU/EZ1swqNBq2kTnrdDa+nibzH19EPcthXeE8qchyYmzdrNmoJiDJjTn6IXzjFwYxy4RQGQ=;+ViTvCKTLmkFuYliwz3VaQ=="
 ---

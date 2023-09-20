@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-a
 webUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM CEO study: 75% of companies believe the organization with the most advanced generative AI wins in the long run"
+    excerpt: "According to IBM's annual study, CEO decision-making in the age of AI, Act with intention, 3 out of 4 (75%) of participating companies believe that the organization with the most advanced generative artificial intelligence will have a competitive advantage."
+    publishedDateTime: 2023-09-20T11:40:00Z
+    webUrl: "https://business-review.eu/tech/ibm-ceo-study-75-of-companies-believe-the-organization-with-the-most-advanced-generative-ai-wins-in-the-long-run-251891"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 17
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/IBM-1.jpg"
+        width: 1400
+        height: 1057
+        isCached: true
   - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
     excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
     publishedDateTime: 2023-09-19T11:35:00Z

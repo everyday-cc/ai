@@ -28,7 +28,7 @@ related:
   - title: "Google DeepMind AI speeds up search for disease genes"
     excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
     publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.bbc.com/news/science-environment-66847977"
+    webUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
     ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
     type: article
@@ -214,6 +214,20 @@ related:
         width: 1750
         height: 1118
         isCached: true
+  - title: "Google DeepMind Releases AlphaFold Powered AlphaMissense"
+    excerpt: "The scientists employed AlphaMissense to evaluate 71 million single-letter mutations potentially impacting human proteins. When the precision of the program was adjusted to 90%, it estimated that 57% of missense mutations were likely safe,"
+    publishedDateTime: 2023-09-20T09:42:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-releases-alphafold-powered-alphamissense/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/AlphaFill-An-Upgraded-AI-Version-of-AlphaFold-is-Here.png"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -242,6 +256,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "Q0RKBOSNw//zKoYFRxvVwdx9VgzZr0iJRvwb6spTmDmjBqriLEqgwr9crp64GAOQmW+2O/J2XA78uF4wFN1BeSTzxqqTWqdb+bue5+SyHfBLF3r4Bwz38PywFc8TZpvtyt3CExJo7MRzAzY3vnH33hWWR9KyXc1ViSBNeeIOIT0d2LHgFL8zcF/HAlblnLPOQuXs4ZPrLx/5pL+iaAFDcygnHN8akWsMs9WRUq4XKuzNHNlPcWQLaabUTrXvCDczgJuapsyO+SwwILnuRBq5iKRrILj2cimECqKCZbvo3AuAwJ/YkUguGoLS1/smvuRM0poe7WfUWLJViztwicz34WtGLIQMnqecAAN8WyfmmIs=;nu990pAK+AbrlNjmCrQELg=="
+secured: "+u0xBnFUzy4zjNbWEizw7j1PEX2PWd+eZqN5PUz+yh21yG28jAcPOUe+qZ/wcn826PmO74xsWNjpTZ2+C5HAW2HQbaQpRB0E5KpX8d8n/nUdZj5P70XjHo3OGVSXkw2f7MqNRrYWMfNJoH+BpjRHfCQVh30qFfbZvSHVzZR2YtqCpAfZRIsBAJf+H92gjmwtf4El2vjYB/FeJ2l3BjS6cbcFyWrSyDgQOEDVDtTzpO3hOCCKvi21mGbkrDE/ZPL+oxc7RaZlfNknN8ZJg+aKo9dyrVNbzbez3rMns5IbWR83dY0Gjl+xskuq3j1AxZ/4z7yGN2J37MOvX/0AKi0JrrdUbmbYk+w8351Nrq9TY3VMJl5zZlq4BWEVt5YLFGl32Lvzar1dh+tuhTZyeyk+BGVpHKyPrbMBH+ms3O9yIE/GKXACGbuQz67Im0Zrk3iguQa3NFtgeRWdBScXcLFPDs9yzPJRASMf/fTfcLaHS0QNOvNt+OfACKP6ew58OXXk3BQtrH1guz/tC5bR7fnzRQ==;k9wUZirfF5SGXoyBsdDavQ=="
 ---
 

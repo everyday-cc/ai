@@ -22,15 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Empowering Economic Resurgence With AI-Driven Supply Chain Solutions"
-    excerpt: "Efficient supply chain management and overall success are predicated on accurate data logging and categorization."
-    publishedDateTime: 2023-09-19T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/empowering-economic-resurgence-with-ai-driven-supply-chain-solutions/"
+  - title: "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment"
+    excerpt: "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation."
+    publishedDateTime: 2023-09-20T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/"
+    ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 635
+        isCached: true
+  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
+    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
+    publishedDateTime: 2023-09-15T19:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "GJwVBjqi6g4zG8QWYPqCc9/dybqxXq9TtHwv4JBTPZXFYX+Tl2Zr14Q5L6MBxrjLSQdqAN/b0ax/s6mHVK2xT9dS7FBYT9e8Zqx6s8fNkxqTBn47MkAlm3TonR0i5fA0ozS846F3PPXySgUJ9QdyytnKH971+4G2fj3iGaFEoF/Q1wvAJIGXIkUV+YkceT0vk5GHBm8h+2xWQVpwLWbTkFc5lfNBiaXTdvWTfcGnXF2t2R/0ZZnbbG26G1rdSOjfnYm2L2VwKVQT2szOn4EVFHALiH7WdBO2ydsnXFv+d7TObcpFh5bongrSVEwCPcP507rFTIesd7bTnJFfuDOG+s5x7TxOI7bDdB+0DznTvh8=;y6IiYngxjNqqX6/gv6NmWA=="
 ---

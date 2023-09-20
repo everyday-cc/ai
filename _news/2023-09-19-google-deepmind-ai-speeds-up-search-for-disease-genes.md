@@ -3,13 +3,13 @@ category: news
 title: "Google DeepMind AI speeds up search for disease genes"
 excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
 publishedDateTime: 2023-09-19T14:31:00Z
-originalUrl: "https://www.bbc.com/news/science-environment-66847977"
-webUrl: "https://www.bbc.com/news/science-environment-66847977"
+originalUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
+webUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
         width: 1750
         height: 1118
         isCached: true
+  - title: "Google DeepMind Releases AlphaFold Powered AlphaMissense"
+    excerpt: "The scientists employed AlphaMissense to evaluate 71 million single-letter mutations potentially impacting human proteins. When the precision of the program was adjusted to 90%, it estimated that 57% of missense mutations were likely safe,"
+    publishedDateTime: 2023-09-20T09:42:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-releases-alphafold-powered-alphamissense/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/AlphaFill-An-Upgraded-AI-Version-of-AlphaFold-is-Here.png"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -246,6 +260,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "qYv76KrDacyOFT2f7qSBMsRrPFQR0li9EmAmnpgB70llgRG9Cl7+AdVv/9PtmAtXcx0u1HjMEZMRtgyoefR2t6iTS62dCcobiUv/VzW5Wgzz6MT8HgUhOYcyF5zhOKEc/qLj0qGU1zrgkzqQd6fwbJQtnF0tGfgiPXUXL+/nfTMch9ZseBszFMpx+nGaxn553L8g0HsxlyGC7wuEp+GiIBjOYYNQP+vljCnPwq0i4KDeMUrOBxpbG94N4mCF0uH6+6qwa0JRX8OIdsmdSUmvU8QpcbJfy4LvEfOnliAn8+Cn4EbTvlawO0PwCrXLa4CibNCGN18DSusom76qAjoQC6mChCvub82yMPQVfdViZ+NaY2ZwaSCKN9CyAIia4SGUO4btA7ITYiO0kGPp0PCQohI/2mPbQzRQwfPA0r5aZdGtQnTWT8U5une5iPUp1B8mauQSlMnupGJkz2LHUMsOJiLsw3GHfsOzKtWBCXc3s+5HPEGTQg8cbUZJHP+UND9ell92xMm9BpdGvT1ughSdLA==;5hQxdWyhjM1hRp3VE2vVtA=="
+secured: "HvT7gdIJJ2L/IhH0sKlk88AL5eZYyvHKluyj2CtdLDp8ogXmnhPlZHfXC963o3+fCLgsd/X41StqJWNQ0Il44tZBO5OQ7WVY6J6dRELPCJVRUjDUEfOpqvf/n4xBjXPcuyz9mnuCq7oXOnq8n8NNWxWH3Do9YsmyNEbmoM88SYksMlGSyQ9+VK/SrELs0z5R7OYwbxWzp9qOgmlWWFNIls9GUYymhE9wdqBntBekBkF5obHlAkCKveeN0jUkpW0TRQbmB10FwXckmytdD/ECxj58K2JnXcSGdVCLvzmF52jy9isv7lkHJVa5i7HFfon11oW7NGjXoCAF+JQtmgEbW73MQfJUPJMcjIF/GNTXPCU=;AZMTFH75YIRki6kM6ejV5g=="
 ---
 

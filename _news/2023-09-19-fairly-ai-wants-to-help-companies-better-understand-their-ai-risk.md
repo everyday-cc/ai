@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-bet
 ampWebUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738"
@@ -41,6 +42,6 @@ related:
       domain: jdsupra.com
     quality: 6
 
-secured: "GydeYp0ZpBaUCSsFaALhzlvelRdo43j+Meu4u77vFJtmsNR9GctBnfqTaReCZhstioSq/on5mGaZuy2G+RdUadtFoVU9pc8Y4okJjoR81eHgHcvUi0lFbV9u6OLl7Fvjf0McE8TULG8zkECMZkQQT+bgGPzIqYW0k+QUNgygDMlNR2TmkL1JVHj8UK/f5/DxwMxtCXb20JP13gjhWxAu6ukCE0CJyGFSuPq/jXmOlZRr3F1J2t+QIwj0KPPbASs+y/IEHwLNUnEXy+1Vcw10UNS3ahujmitZ3GCd8ZsYlZzTxYUYPQ0gYU4pMwBn+wTSU22Np5TUy0v31BL3JcIknYfaS8XKrZKAfshqxHxbD9I=;OVPqSXIaCVvxPVhwaIX0mg=="
+secured: "pyx70/DYJedvCgWluAoSBCsVwOiJxlloWDMRIHcz0DlxX3kPOhu3GHm5BkL79kA8ifJgu3TqwD+ahKy4cRHjVJS7iMttTLHZQHJI81RF60IhVtEj6e8EWa85nz7tTc3tceUe7er++QblkGwZOUY3KxbZgVtkdiq0xmiavkPMjQly9B2B5l2sVgzHti6Vj1FiomnP/MM6hEH9hEYqaSr9cnUNFIfQsWUEfkXSpNIX7BFul4n0W+VaSJpX6F4Wlj4BepqGmhShKYYMx1JFsQYGL3RSkf6HAka20ytpafd1ZW9awCros2FhUYvx5gAMcXskt+in+2IWNewA2qeiRzSmqFM1fmWQQBt9hzyuuD6tGWl+xts+8j7pFlD0RCR9JIIxYeCBXOkjqUfYXL+Sfq9lHiWp3LKUfjHmM4K1suglTmoAzvfUNyU6HGzxHD+2SxLQw88X5R6Gb201MXmrcOG7TS8EMe9gzv2bmoHKdd9MkPE9KOkgPHwzwuOWq7elyvdcP5jm+iv/TzvGKnNiinifUg==;KGdO4i32IJRT81Z7e0WU6Q=="
 ---
 

@@ -88,6 +88,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "The Emergence of AI in Cybersecurity: Revolutionizing Threat Detection through Machine Learning"
+    excerpt: "Fortunately, the advent of machine learning is offering a lifeline, equipping cybersecurity experts with unprecedented tools to pinpoint and combat digital threats effectively. In this blog post, we will delve into how AI and machine learning are ..."
+    publishedDateTime: 2023-09-20T08:03:00Z
+    webUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revolutionizing-threat-detection-through-machine-learning/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 42
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-20T090019.575.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
     excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
     publishedDateTime: 2023-09-18T07:01:00Z

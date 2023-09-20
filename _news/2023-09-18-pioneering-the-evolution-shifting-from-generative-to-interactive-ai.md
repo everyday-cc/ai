@@ -39,22 +39,6 @@ related:
         width: 1000
         height: 648
         isCached: true
-  - title: "Meet the next generation of AI superstars"
-    excerpt: "Richard Zhang, a senior research scientist at Adobe, invented the visual similarity algorithms underlying image-generating AI models like Stable Diffusion and StyleGAN. Without his work, we would not have the image-generating AI that has captivated the world."
-    publishedDateTime: 2023-09-19T08:37:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 63
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
     excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
     publishedDateTime: 2023-09-20T08:37:00Z

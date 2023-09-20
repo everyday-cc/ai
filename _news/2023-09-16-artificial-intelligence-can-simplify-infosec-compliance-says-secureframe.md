@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-15T19:40:00Z
 originalUrl: "https://siliconangle.com/2023/09/15/artificial-intelligence-can-simplify-infosec-compliance-says-secureframe-awsshowcases3e3/"
 webUrl: "https://siliconangle.com/2023/09/15/artificial-intelligence-can-simplify-infosec-compliance-says-secureframe-awsshowcases3e3/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Ruoting-Sun-AWS-Startup-Showcase-Segment-2023.jpg"

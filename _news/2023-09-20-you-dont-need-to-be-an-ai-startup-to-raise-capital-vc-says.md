@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 841
         isCached: true
+  - title: "13 Startups that Google Funded Under its First AI Startup Cohort"
+    excerpt: "Google's inaugural AI Startup Cohort features thirteen diverse startups that addresses important issues with AI. The 10-week program offers tailored support, mentoring, and technical expertise."
+    publishedDateTime: 2023-09-20T10:31:00Z
+    webUrl: "https://analyticsindiamag.com/13-startups-that-google-funded-under-its-first-ai-startup-cohort/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/3-Startups-that-Google-Funded-Under-its-First-AI-Startup-Cohort-by-Kruthikaa-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4U+POaMPg4sJRjYuNRvflrAmCw9pFxAgUd+cx/7oXrGuGRidTT6xvqjZUG94k/66gA/HacbkbnKhrUioNeEBfP+6/6KQq0OJ2tuej7NMl3dMN8GSI11L+Py0bzKPjRVSSmUTm4u9VBS0dIARTHXpg17Vg7rj08npnuQmKN1rkI7+c8K52k6X0NGfYr1W5ciRJYRc+uILsu32UKLfrouw5+yjKixAbobe+yS/2rXqoHgWGxKHvIwErtF5a+mZWvUer85H9uPSqP5yG0Tgk0X+uM8JrNb3zcnkxDVY5h1QVN+gsQDtthX52LgsBUc1hMx5UnMC81wAt5HKjSb2Te03a5GGXeJaNf4/jPnnfHxE4DXJa7Qj/90ohQgf5d/HJphizxEgh5LtFcsmEEixgrcJKt0Uor2ZLZjj4Y4UgxdFceD3L7yvgF5jLGd8W1x/74rhQOnQejZSeohtGe+VCDlU/uXAjmsrVovjPad0ov1+lJRl0xvCCpYQjfzerZrKx0nmm72GaOU0fBcRSG9XnTCQvA==;I0w0Qx/mj1iJ3d6ihVojEw=="
 ---

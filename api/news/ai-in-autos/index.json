@@ -117,7 +117,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -193,6 +193,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-brain-inspires-more-robust-ai.md",
+      "title": "Brain inspires more robust AI",
+      "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230916131430.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230916131430.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -855,6 +899,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-11-ecology-and-artificial-intelligence-stronger-together.md",
+      "title": "Ecology and artificial intelligence: Stronger together",
+      "excerpt": "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230911191010.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230911191010.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-ai-seeps-into-everyday-life-in-china.md",
       "title": "AI seeps into everyday life in China",
       "excerpt": "The country's strategic rivalry with the United States is threatening to curtail its ambitions. Read more at straitstimes.com.",
@@ -1257,83 +1344,6 @@
       "provider": {
         "name": "KHON2",
         "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-self-driving-car-revolution-is-coming-but-slowly.md",
-      "title": "Self-driving car revolution is coming, but slowly",
-      "excerpt": "MUNICH - In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly",
-      "originalUrl": "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-09/doc-33UF3KC-copy-%40photo0.jpg.webp?itok=digVIs_e",
-          "width": 480,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eNCA",
-        "domain": "enca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications.md",
-      "title": "The road ahead for self-driving vehicles is littered with complications",
-      "excerpt": "Recent developments in San Francisco highlight some of the controversies over self-driving cars. The California Public Utilities Commission authorized a 24/7 test deployment of 200 self-driving taxis.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
-      "originalUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
-      "publishedDateTime": "2023-09-07T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

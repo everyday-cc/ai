@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
-  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
-    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
-    publishedDateTime: 2023-09-15T18:13:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 18
 
 secured: "PObwZxhhvkv3ZZv5389RAJ5Jdd7RIddTN+YRhjROqWfNuVvkcvIvHTd/mNvxyHFvygvzH2kfdBvau3H9AXZXFEsWBka8QIiMdi7MB1reNSWibOL2htl/72Sys0WvjyCmdxVNlNeI4gpUD+IJRaSrZXlHG/tVyx7fIlF7mynr6MjDVmy2DvYiZlpE4CWHEsN53kyn0tVEEzb/NnOGS/9LJPprfhZT1eUyfUnx5rLDX5DD3EQuB1Rf8AHqOE0VDYxRz+FUCFhamXBJHsDkKZYNhCGIHFwP7d/nfjNqI8Ebigi42utP3rsCjsrnHo3oRcTrX+daVhymnKOt8SpwlNCf8MY2Fr+usXMpPo13OOQXGNDwj31Tz6JlVV8sEpfFlzOuq2O7WW44rgvfKP1WIdNFVA0qzHPjIovKbChuUR0fLglPECl08RoyrBf8NgxuMEm4eAGPvYn0k4oaTSGnvTBzQ3tX8NxtCeeu5gYtjS7xtlmYBw0866uiC/MaCSCqPQzvuVA4pt6x3QER2t1UM87igw==;XmaMpQyWFIks54H1Zul0+A=="
 ---

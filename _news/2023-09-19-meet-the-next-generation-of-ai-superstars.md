@@ -29,61 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the AI tsunami: The next wave of generative intelligence"
-    excerpt: "With an AI tsunami seemingly inevitable, we all must be rugged and flexible, adaptive and embracing of generative AI and other new tools."
-    publishedDateTime: 2023-09-18T01:40:00Z
-    webUrl: "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/"
+  - title: "AI startup speeds up the creation of climate-resilient crops"
+    excerpt: "Avalo is betting its machine learning models can speed up the process of creating climate-resilient crops, and make it way cheaper too."
+    publishedDateTime: 2023-09-19T22:02:00Z
+    webUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/"
+    ampWebUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all"
-        width: 1000
-        height: 648
-        isCached: true
-  - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
-    excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
-    publishedDateTime: 2023-09-20T08:37:00Z
-    webUrl: "https://trendydigests.com/2023/09/20/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips/"
-    type: article
-    provider:
-      name: trendydigests
-      domain: trendydigests.com
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/09/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips.jpg?fit=1200%2C675&#038;ssl=1"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/avalo.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
-    excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
-    publishedDateTime: 2023-09-18T07:11:00Z
-    webUrl: "https://techstory.in/pioneering-the-evolution-shifting-from-generative-to-interactive-ai/"
+  - title: "See the 10-slide presentation a startup used to land $8 million from General Catalyst to speed up rare-disease research with AI"
+    excerpt: "Medeloop plans to use the funding from the round led by General Catalyst for its AI-powered research platform."
+    publishedDateTime: 2023-09-20T11:00:00Z
+    webUrl: "https://www.businessinsider.com/medeloop-pitch-deck-raise-8-million-general-catalyst-ai-2023-9"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/09/1691002550874.jpg"
-        width: 612
-        height: 255
-        isCached: true
-  - title: "The era of generative AI: Driving transformation in financial services"
-    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
-    publishedDateTime: 2023-09-19T15:02:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
-        width: 970
-        height: 628
+      - url: "https://i.insider.com/6508859ecd637c0019c720cb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "UQk8SPoRW2567qIPiRXAzNzyCp2VnWvLjy5rdGtSam06JBRQ/yq3hH0mQAlq0dx+zpgOfyt/+UqvqkdMlqs3ZbnGrLpp9nNMLxJraVuM81nu9VdWFkH4DZfJSc34ZWbV/lfXsJSfN6aQpC2w/R6E2omZDJyEBTyQEBj1VxtjFm/MGNmLmYz91Asg+psKohCrjlh4WiMMLp/IJbZB5Z1SWanJzotgl+foU2aWr1V+JDCGVRX3XER3UlRBcsGCeq9RmEOBd1SO9SgVb/oc9E4aH5wRZ047DoMn4xHt6tP8JpDDfUNrfBgmJ6c+LTTt6iJbQmdGdlegx8e6h8LTgKeHfBqfC/8yN0d+Hqva+jl6HTrfKAE06fFxgisGf7gbkFOdgO1lkdm5NDQGTDo2z1oME0zPTuZoy/LKj0Mi8HsO4PeNSo4O/AumEdRFzKmdwoBzuwHhO5vPjq0zfnKV8SBRKDgQQaEhsVtmfpRSylYPqzTCLngCiZ5kdb4wMdtk7CgK3SWx6gDlxRt+ejI1URBSMQ==;IZYzF3p+hg/slzPtwyr7QQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-
 webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230913pd205_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
+    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
+    publishedDateTime: 2023-09-20T10:40:00Z
+    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 38
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"

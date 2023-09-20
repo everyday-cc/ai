@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using the brain as a model inspires a more robust AI"
-    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
-    publishedDateTime: 2023-09-15T18:28:00Z
-    webUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-brain-robust-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/brain-inspires-more-ro.jpg"
-        width: 988
-        height: 719
-        isCached: true
   - title: "Brain inspires more robust AI"
     excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
     publishedDateTime: 2023-09-17T23:16:00Z
@@ -77,14 +61,14 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The United States must win the AI race"
-    excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."
-    publishedDateTime: 2023-09-19T04:18:00Z
-    webUrl: "https://www.knoxvilledailysun.com/news/2023/september/us-must-win-ai-race.html"
+  - title: "Why humans can’t trust AI Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-17T22:23:00Z
+    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
     type: article
     provider:
-      name: Knoxville Daily Sun
-      domain: knoxvilledailysun.com
+      name: Oklahoma's News
+      domain: kfor.com
     quality: 19
 
 secured: "uhga7cEWTgfAPnNSmy1gSHqoLyeugtJYJUtExJ9+9xQD2tbRNaQH/GEA5CanUP0xtWFkIT6jbsGM64JMQrLK+MfF1DAzcFmaNQX+Wb4JIi9NGR26TBSLpVapDPNDPclQbYNeXWzxb8uJuIZIwowOCyV7Wzde7NSTKxw4chHCNYBb8UJRgstSVeOyxHMtiFrMu7Fj6ARmntWfYebUvb/e0Te0R9Z6g86W2YtJNfJrLuTDGNFeNqjl6n00MMxoIJij/PJucX324oR3+44FtW0UlXBRu3jH6XJ+mD50MkxMc96HGa1aYwuWd8UJPQiTrGoByLMx478WQEdDE4Wl7um0O70F/ITKhSm6ZowJehFi1mIs0k+svebaP82tQveWHhyNB+RHzMC1kdZNrjhcxbKVJNPmyDPiOfG+ZdTHbvczJ4FBX3mOzuLoUESd84+jH8XQ0XnH3B/i0MS/3Uzfx1lGlYEdUO+uRRkKlR0yCqIRoqyHuwVAcZwPeGUvIQZPr0M1nMfk9PiWQTq4pDt26lYZ6A==;xxo6GGCLB1vQ0iWEfG6dsQ=="

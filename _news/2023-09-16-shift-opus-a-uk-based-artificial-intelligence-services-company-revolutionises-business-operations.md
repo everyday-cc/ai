@@ -26,22 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look"
-    excerpt: "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI."
-    publishedDateTime: 2023-09-19T23:07:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34742974"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974"
+  - title: "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment"
+    excerpt: "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation."
+    publishedDateTime: 2023-09-20T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/"
+    ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop"
-        width: 860
-        height: 573
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 635
         isCached: true
+  - title: "GXO Accelerates Deployment of Artificial Intelligence Solutions in the U.K."
+    excerpt: "GXO is also using AI to transform its warehousing operations, working with a number of suppliers, such as Körber’s Operator Eye solution. GXO is committed to deploying AI to improve automation efficiency, picking accuracy and processing time while supporting the safety and wellbeing of its colleagues."
+    publishedDateTime: 2023-09-19T11:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gxo-accelerates-deployment-of-artificial-intelligence-solutions-in-the-u-k-1032639507"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "d7+zDaO3Qi9wVIrFEiAItyhizskDhU/b3bZR3+rGZgjW4GpWNavSq7DzZdzXaq99D3RZJn5P7i0IzN4u3Q2Gy14NqjIjk5Mo6qjHb54vgkGhmt1cXf6lMTEk8au3eGNz7Na2XccL8eT28lN4IN+n4+a9TE2/+/O1VV4ZjN4wTLGiqSMv0IIuKAcTYLaCKqRTnJX8hL8hYHMEYPz4kzqsUdoqlJ/fm509qSTWFzt8O7cyhMmBiofGJsRr4hD6bcJfghwAWXRV3f05BvZFtP0i3jrjBvFyimSjMEfNKpDyxGPn1+/71S64SkhWj6xNpwflscWJVUNOV6vGxnLG+AsUxKioycxD7Tf6XpcNrJaLxqw=;Gj6J/rVICioXJo76An2tUQ=="
 ---

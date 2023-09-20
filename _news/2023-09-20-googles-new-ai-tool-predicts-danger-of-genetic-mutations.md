@@ -30,7 +30,7 @@ related:
   - title: "Google DeepMind AI speeds up search for disease genes"
     excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
     publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.bbc.com/news/science-environment-66847977"
+    webUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
     ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
     type: article
@@ -213,6 +213,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
         width: 1750
         height: 1118
+        isCached: true
+  - title: "Google DeepMind Releases AlphaFold Powered AlphaMissense"
+    excerpt: "The scientists employed AlphaMissense to evaluate 71 million single-letter mutations potentially impacting human proteins. When the precision of the program was adjusted to 90%, it estimated that 57% of missense mutations were likely safe,"
+    publishedDateTime: 2023-09-20T09:42:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-releases-alphafold-powered-alphamissense/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/AlphaFill-An-Upgraded-AI-Version-of-AlphaFold-is-Here.png"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"

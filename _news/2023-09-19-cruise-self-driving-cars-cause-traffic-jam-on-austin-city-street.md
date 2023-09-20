@@ -95,29 +95,6 @@ related:
         width: 800
         height: 375
         isCached: true
-  - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
-    excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
-    publishedDateTime: 2023-09-15T17:54:00Z
-    webUrl: "https://www.aol.com/microsoft-backed-self-driving-car-153624442.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/DZ.dLTZ_itMvG7HvUqoe.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/en/aol_fortune_385/27e2c051011c7366fdffa7b151f52333"
-        width: 1200
-        height: 777
-        isCached: true
-  - title: "Researchers develop algorithm for safer self-driving cars"
-    excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
-    publishedDateTime: 2023-09-15T18:12:00Z
-    webUrl: "https://techxplore.com/news/2023-09-algorithm-safer-self-driving-cars.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "+hfsPbCsmrgmCzzrVy+z+yFrecwUyaLNFSiezC95CxWlsfAuRDMI+SNFJTS7huiAAlsnXATUkXD16vnpAvvjYXjav+SJonM2elut/IDh5DYdHE6RX68tKhSAcgV0ZuZjhRUij2EeX1eEeqAqUvPQ3WZZ3qp9r3OZNdaO/N/MkpDKOcVA2zeyGRaSd1jt+yysETV1jsfDSUilZ4jOCb/sG7PFku6F4XGi2h4tDY0/uh2zwx+Bvr8TJ5n3U2oHeYnt3d8EpNIXWgVKTGHrZfqKRFLDuGcSXCeeFbYuThVkHNIdEstDiNc0QOsG6e6Q09iib/Kw5aRAvY/5mqkTmX6BFzOLGVFqoTtmmJAlNsI8apodTX8zds/dyJc/brq0tLTEGSTzXsZBDpNa2hzpqt+IuN7EzrdZmdGB83k+dUltnvG5+c3Hq7zyka5+udTVL7KfNqSyEpt+w+/bs5SOYX8tmKD8DAC6Ba2Iz7Er4LkmtC9FlLi3xI2h1XbTkufwQRhJZPLne6bA6EDP7i8vJiKdNw==;a4BMlREf1g1qTk1Qz4sJcA=="
 ---

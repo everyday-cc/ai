@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-09-11-the-7-best-robotics-stocks-to-buy-now-september-2023.md",
-      "title": "The 7 Best Robotics Stocks to Buy Now: September 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence stocks have seen a meteoric rise in recent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-now-september-2023-1032618318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-08-embark-on-epic-adventures-filled-with-magic-thrill-and-intrigue-with-dungeon-robotics-and-revenge-of-the-sorcerer-king-by-matthew-peed.md",
       "title": "Embark On Epic Adventures Filled With Magic, Thrill, And Intrigue With \"Dungeon Robotics\" and \"Revenge of the Sorcerer King\" By Matthew Peed",
       "excerpt": "Are you ready to be transported to realms brimming with magic, mystery, and mind-bending quests? Prepare to immerse yourself in the captivating universes of \"Dungeon Robotics\" and \"Revenge of the Sorc",
@@ -1322,6 +1279,49 @@
       "provider": {
         "name": "WBHM",
         "domain": "wbhm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-remote-controlled-robot-has-tv-eyes-soft-touch.md",
+      "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
+      "excerpt": "This article was supported by readers like you. Our mission is to provide accurate, engaging news of science to the public. That mission has never been more important than it is today. As a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "originalUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2019/08/sn-fallback.png",
+          "width": 990,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
         "images": null,
         "publishers": null,
         "authors": null

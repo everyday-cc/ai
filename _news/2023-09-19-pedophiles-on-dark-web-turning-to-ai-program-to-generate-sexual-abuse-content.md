@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-ge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp"
 type: article
 quality: 84
-heat: 84
+heat: 88
 published: true
 
 provider:

@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Writer Raises $100 Million to Pen Corporate Content"
-    excerpt: "Writer Inc., a startup that helps businesses write and summarize a wide range of content, has raised $100 million in a deal that values the company at more than $500 million."
-    publishedDateTime: 2023-09-18T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content"
+  - title: "Raleigh AI startup lands $100M – here’s what big deal means in CEO’s own words"
+    excerpt: "Igor Jablokov is Pryon's founder and CEO. He published the following letter Tuesday explaining in his view what a new cash in fusion of $100 million means for his company - and artificial intelligence."
+    publishedDateTime: 2023-09-20T10:50:00Z
+    webUrl: "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/"
+    ampWebUrl: "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 53
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/machine-learning-ai-eye-e1687341786549.png"
+        width: 1264
+        height: 710
+        isCached: true
   - title: "Raleigh AI startup Pryon raises $100 milion"
     excerpt: "Pryon, a Raleigh-based artificial intelligence startup that makes a virtual assistant for companies, raised $100 million from investors in its most recent round of funding."
     publishedDateTime: 2023-09-19T10:15:00Z
@@ -42,15 +49,6 @@ related:
     provider:
       name: Axios
       domain: axios.com
-    quality: 17
-  - title: "San Francisco generative AI writing assistant startup raises $100M"
-    excerpt: "A San Francisco generative AI startup that helps businesses write content like social media posts and emails has raised $100 million and more than tripled its valuation."
-    publishedDateTime: 2023-09-18T21:46:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/18/generative-ai-startup-writer-raises-100m-seriesb.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
     quality: 17
 
 secured: "8oCYPRW7Cabi+cmLur1qppIC14H/45gDMWthPHv+KdZ+UjxAe7PZHipNRcCzb9wSmrRO+4zrEkFsMKfODLq43O4gxatcqjqKNkVRX7VkrT1RPi1r+dbLEj9wy77GK+XXLv0y+EQUa6ruO9rrxktnFFmRur7EfLGZpF2ZkVKa0by54895odWwP897CtUuXgRE1h63tp3/gDOoKxHcEZchyEMPQY7E4HE3Ggvg9Id7cjCtABBGvfDEm2gNm3KyS2w2LPYsC5tvw5gzgimo3ftAKQe8LykSGN0ngyA2bE2/EXaCvjSELqkbsBfLh8bgqTbWaOQJGzI2N/Qe8aNica1/yA2mOuktk2PnC8iomXKJpEjwzkt0DSUnUXmbK48dXMLBx8HfrS6pfI5nvfSLePM2oYvEFP4sUQZTQ6n/qZwdS6VYylo81iIt3qm5NMmb/duTpueSSu/P1NB7UVwnxZaVJ0GDhsnLkXZ9QFpAoHyfFfNkiHZO50XfDRYianAspGAX5hlyFEN41gfmjH1uSJk0HA==;QJnxnqp0taQYkvR8x/AB8Q=="

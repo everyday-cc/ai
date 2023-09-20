@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
+    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
+    publishedDateTime: 2023-09-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z
@@ -63,9 +79,9 @@ related:
   - title: "Has AI Surpassed Human Creativity?"
     excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
     publishedDateTime: 2023-09-19T23:09:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
     type: article
     provider:
       name: Psychology Today
@@ -91,6 +107,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
+    excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
+    publishedDateTime: 2023-09-20T11:21:00Z
+    webUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 49
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
         isCached: true
 
 secured: "93e3wrRWKNv9yi3sygA9gV3N0Dr29YQ8Tw4+SRQ3cSheqV+o7uV5bnGe+cV4ovyCGqezj2Eu4IO0bIjhCUapHYN9WnbgUAS77EVR+9qS9DQ5GPl5jK2Yw3TPHEXfymsJCqWKmCozRITxX31Gv4eO2GEiOf+3D/D8dP6ZCtz16R/mFAm3axejD4KcybgzFHn23paRojhsvnH4+tyH+4F0KvtScgwbBvZlb7Yd+6yP5CuZj5CJ8FmWzZSVPCASahBD2Vu1TbsmhSDSk54eWxZ8Z/6gF4Vf4VAW3THOAoyh8sQBmrvxI2lIHx5DOs7b7IorvlGWK6wtLkAYfSjoHPinslLiMFfmmNXe7v5DHHjnGCUB/JLZ94sSPZFSsl40lPHfzPdPu7EdKqmqkS57bV3RuwmXwK0xn+vhrkpX5TaOK4kA1ovYyprcQr/OKpIZ4wGy5UwsUMSf5U6JfqMxQkTteEonSKmnHF/JxiEgQ7xcDcdJWzk+sii5Hs73VgYfvdlkOqG5H0g0iFqvuZkYMFbhJQ==;/w4jc/oTy3woTtTmrC/iXw=="

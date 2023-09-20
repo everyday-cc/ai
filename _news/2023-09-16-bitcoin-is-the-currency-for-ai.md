@@ -72,15 +72,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
-    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
-    publishedDateTime: 2023-09-15T18:13:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 18
 
 secured: "kJ10q3drntM6wn2byKJPBzwtgVJudUXVLYUN86Da7gGhPgOXX2qLEa++fT/aQLaHRX457KHF17vTGJW78Om5MyDzxiANnWl7cVq+6P89lfWC0UsuourQG9AWx7/OL0YnkGWr5s9c94LPWdxLhAy2F4I9NjWsaGWCl0Xt1KfQU+eiirJ9jhQXSwxsZWO0WZdhlnQB374aHLKZfHIRDXI1o9JcxxO2PhmhGQechn8qh2/sdhgl/Zas8AMlAQuZbi0Vyybjfcj6Xg4abS8gSKx6du2L/4kuu57ZhGq0my22t53CdRusUC3x4uWwXoqzaVCgwx+QsSgruFt7LfkSY+w+WMKfvwEWBzMsyq5OKGyxe/A=;ErLXX5WMN9A4NFYt3euhwQ=="
 ---

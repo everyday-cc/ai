@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/robotics/toyota-large-behavior-model-robot-tr
 webUrl: "https://newatlas.com/robotics/toyota-large-behavior-model-robot-training/"
 type: article
 quality: 84
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Atlas
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The Financial Costs Of Deep Learning: What Businesses Should Consider"
+    excerpt: "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems."
+    publishedDateTime: 2023-09-20T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649f2a00eb04efff54d23657/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Kp5TW8mdAVSPSNHwgSD50++KSIdIYgAbJEPNVCpFw4UP5pWBxOkgII8kXZl2Sdmf4QZ9Lj0m0dJGZCU//zKGlADs9jmtE7cmbLFiEIr8FGrJHYiCXMLT4PXVyoGsC/nQKOSR7VmFLKzRNfv0ljAMTqVDd44UI+gj1h0sbME7C+PJeD9Y9Ne7Pkq9d7rvaxGO1TmRE/u3wuti5UMW0TtFRWYs8rLeIJZxO0CKgCyY2c6DUYAJ5fkGr/33wGjoqXtzfM6U+GFVWerOh/EXFYr2RUFSmZ6mc8NOLMFRK3LX2sXGOaLzPF0kKKdin81KGg8ggkmqPrAg5w4llVrWqOfOudxxAAbiMNbIoEaH94qlo7HDrtFsmlQtrpV84uiKsixbrObHbM/xEmVIvzYNR71O7vhc01vliOfDWqhEl25hFmfqqTb7viSilXcXs/SxnKzJnMSVxQs31d7ajKn1eIy6Wa42Ty4LsP4lVTR0qS7MEbU9Zgbvjp2/mmSUsX22eGTbSK5filsEKg1fRJzDaa+J/w==;advLxsPz9CLyQnDcfmEmPQ=="
 ---
