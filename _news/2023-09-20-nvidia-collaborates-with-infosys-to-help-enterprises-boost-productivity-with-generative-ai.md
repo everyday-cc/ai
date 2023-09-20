@@ -119,6 +119,61 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Amazon joins the chorus of companies adding generative AI to products"
+    excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"
+    publishedDateTime: 2023-09-20T20:10:00Z
+    webUrl: "https://www.onmsft.com/news/amazon-joins-the-chorus-of-companies-adding-generative-ai-to-products/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Amazon-Echo-Hub.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
+    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 29
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "Amazon's new Echo devices bring generative AI and new smart home features"
+    excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
+    publishedDateTime: 2023-09-20T18:18:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
+  - title: "Infosys, Nvidia Partner To Help Firms Adopt Generative AI, Boost Productivity"
+    excerpt: "Indian tech major Infosys and graphics chip giant Nvidia on Wednesday announced to expand their strategic collaboration with"
+    publishedDateTime: 2023-09-20T17:38:00Z
+    webUrl: "https://menafn.com/1107108236/Infosys-Nvidia-Partner-To-Help-Firms-Adopt-Generative-AI-Boost-Productivity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+  - title: "Artificial Intelligence, Real Productivity: Exploring Five Ways In Which AI Maximizes Productivity In The Cannabis Workplace"
+    excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
+    publishedDateTime: 2023-09-20T17:32:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "KgZWBH+srPIki6G17/bZy8Xiwarl32yq8TJD+YxxA6e/YXVeTbGhz0dBvxUgEo8tcyxH/omwzM2fPQ6pz6LB/ftdvkvnvPkoBdvod88B0iE/UWCHqjMu8sFE2mSt1q7RRZLyY0KLMzQ3MqiCgLOJyi8hLGsETUVg5Je0Bqil9ZgYL5VprOQMbVgf9WdbABWq31p2a7bjFz8WWCIHdE8CieCVoUmHQRRkLq/4ku0n2kFFmoDNJEDv+kWpuTIKxJxh7bpBd/e8zLpnJajbIeLrkYRttCUG/hl+pS4Nt8C8q446gq6naQMt4uFwe3AkrKrDkSwqoR6iOa9zYG8IRXuQ8mAtTLGtIdxQBFan8z4sPdw=;x1u4Mj2DEiMgkqtuDbr9jA=="
 ---

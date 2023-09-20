@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:59:00Z
 originalUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
 webUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: India Blooms
@@ -14,6 +17,53 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech"
+    excerpt: "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,"
+    publishedDateTime: 2023-09-20T11:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Infosys, NVIDIA to collaborate for generative AI applications, solutions"
+    excerpt: "Infosys: As part of the partnership, Infosys will have access to NVIDIA's full-stack gen AI program and will set up a NVIDIA Centre of Excellence"
+    publishedDateTime: 2023-09-20T11:11:00Z
+    webUrl: "https://www.business-standard.com/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+  - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
+    excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://www.crn.com/news/computing/infosys-to-train-50-000-staff-on-nvidia-ai-technology-in-new-tie-up"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+  - title: "Infosys and NVIDIA collaborate to help enterprises boost productivity with Gen AI"
+    excerpt: "Infosys and NVIDIA expand strategic collaboration to help enterprises drive productivity gains with generative AI applications and solutions. Infosys Topaz and NVIDIA AI Enterprise ecosystem to integrate,"
+    publishedDateTime: 2023-09-20T13:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/infosys-and-nvidia-collaborate-to-help-enterprises-boost-productivity-with-gen-ai/article67325931.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 14
 
 secured: "d6xzPOtPslD9k1QX/VR4WOMLolRxGpqyYO2sg3mJ9d5wORVKyLE5KCXMxtDGTciCcdUByldJHzAbmWab7lPWAdtFTXKrAJXFADwMFI7C/lobsinQ7R3LL8KmPJ2MeKhWz+BRi79FffSOSzHPKLFNYRvU6sYmphZxDJeXDNjzFOktcZqJClXQI4pMTQaCsSO2siS1i92Hcv/NT6sUNdXhJk3+5NIrX2vV+8Cl6z2zXNUX8xtgcmtOQMoaYkeelsBXMlmhnKR3bu2z9N4eibZBttLsGZ8Sny1eXCPwHgKxqxTex7Y2t9Om+LO2U8/S3XhpkRPrNvD/s4q7Sd8mSe6PyJowjjuI+SOkVA+yie4rXwc1+Fcm6B5YcjWVfPzkVync5RvOe3G/hcHVAQoP196L6p6pQ9U040gpJxsIgDtaYrpkp4jR3noyL+EgPsQVU0sGwiwC8o9RY+FvIC/5+fK0/wFBzNINFbOHOhD4uW8vezqnVu/KSwv7p4fNndqXf/pRFW4kx1daHjmP3jWjJjIKlA==;LQcV+JLQleiLAeB3TTmCIg=="
 ---

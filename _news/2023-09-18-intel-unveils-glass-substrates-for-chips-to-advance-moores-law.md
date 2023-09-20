@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Intel CTO highlights open and secure advances for AI deployment"
+    excerpt: "Intel CTO Greg Lavender detailed how Intel's developer-first, open ecosystem philosophy is enabling widespread accessibility to AI."
+    publishedDateTime: 2023-09-20T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/intel-cto-highlights-open-and-secure-advances-for-ai-deployment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Goodbye silicon: Intel unveils glass-based chips"
     excerpt: "Intel isn’t the only company developing glass substrate solutions: Japanese firm Dai Nippon Printing, for one, outlined a glass core substrate (GCS) solution that, the company says, offers chip designers freedom to balance thickness, warpage, stiffness, and smoothness."
     publishedDateTime: 2023-09-19T02:08:00Z

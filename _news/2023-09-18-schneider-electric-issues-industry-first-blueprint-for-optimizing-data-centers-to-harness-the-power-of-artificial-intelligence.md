@@ -67,6 +67,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Wondershare Filmora Takes Centre Stage at Intel Innovation Conference 2023, Demonstrating AI-Powered Features in Video Editing"
+    excerpt: "The Intel Innovation Conference is a hub for developers seeking the latest technological advancements. Wondershare Filmora joined Intel on stage to introduce the audience to its tools harnessing Intel's CPU, GPU, and NPU technologies on the Meteor Lake platform."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-filmora-takes-centre-stage-at-intel-innovation-conference-2023-demonstrating-ai-powered-features-in-video-editing-1032644591"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "cbknJ3QKBDPmiwp/LYjbR/TebTcUG5IY89YoRCvGOhIxkv/M5d1hFzMvbSh7PXivWLjRscp0ApirkaChms6oa2tCOnbh1JczHquOYOqIRJrKUWXFcXjhACe9bN2qGqaEWptAIdApQp2Un8uT150obAph4QGZ9pNV3F59WlLpvzPx6evJesZ+g1a2IiBInALzKXsb2aNKBfOBXFjipNusvcM8I2Iy/KvWZhy/3gaUQBNVm9gXr20bSFJj4oUZiZQNMGM/IRfnSRJLLtKV7dxJiwBBJ4CUhKzehYlsE5Qs1FCG/nzm/8QRWsfr8C2qxG6dFtYkpE7oKW0qD3ry9BORRF7qpeKwY+wxTb16OccRBQA=;xKBUuQn1Vnsmf36G4OgB3w=="
 ---

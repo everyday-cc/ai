@@ -42,6 +42,24 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
+    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles ... it was “the last thing on our minds,” - but artificial intelligence did end up being useful in some really concrete ways."
+    publishedDateTime: 2023-09-20T13:52:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
+    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles, and the kind of fulcrum that you hit, as Marc puts it, about 90% of the way in… First, there’s the timeline that we’re looking at ..."
+    publishedDateTime: 2023-09-20T17:56:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Are Self-Driving Cars Really Safer? Exploring the Facts"
     excerpt: "In recent years, self-driving cars have become a hot topic in the world of transportation and technology. Proponents argue that autonomous vehicles have the potential to revolutionize road safety by eliminating human error,"
     publishedDateTime: 2023-09-19T04:41:00Z
@@ -96,6 +114,15 @@ related:
     provider:
       name: San Antonio Express-News
       domain: mysanantonio.com
+    quality: 4
+  - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
+    excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
+    publishedDateTime: 2023-09-20T16:53:00Z
+    webUrl: "https://newstalk1290.com/self-driving-cars-barricade-austin-texas/"
+    type: article
+    provider:
+      name: NewsTalk 1290
+      domain: newstalk1290.com
     quality: 4
 
 secured: "dbp1TBNIvJ5Y5AwkYimK5LnoOhzvpkQrO6zQxZKyVhi/tfna49o4jezzCjjiWCR1dMMJx6Dj/9gVOhz7z2eKnajZZU/RHchdbfAtSWgqx6ujfnrhvE6hI6HP8ShxLhNHljZxvzrSj9hwH/GbewlH+Pq4IY8AiWZ4BH8yZz6GH2cEkDXOHh8hat5jcqDszvNPO+fJC9pQCLmZY5fLGQB2FqMbWishVA5XACW7iWzDo3BrdUeG3v0/K1Z/Xn0UPnmYzx7OhkRa9LfGav+/UsMezWfJPQI1OX8Q0FLIoMaiSfdpIJo0zqv//CD4AxXjI0w1eLsu70jgjdNEcO1oIjVhBub33RVajQeUg16Xu8Bf+PoLBQYS2QZW+rbQhfbGvup8OoozSzLaYKFiZPhjd/Qr9oaW0YegWqsZL7D/RPFoQv+e+V8CpCQ8fDvt+lYihNXU+lxh03VW7/8Vy3z//NAVmeVnypOrqh4lFKXlINwfoAD0W20kIYAU4xvP1lur0SYLgIrpJo+Ez3SIfMDH50ThNw==;vLnf36GgSULnCPVIVuE0yg=="

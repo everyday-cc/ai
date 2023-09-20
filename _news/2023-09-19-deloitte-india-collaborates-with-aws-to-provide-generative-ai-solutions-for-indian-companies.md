@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-del
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
 type: article
 quality: 63
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Media & Entertainment Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-09-20T19:22:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-1122807/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 8
 
 secured: "fVfjq1w3SmzaPuWHS9SaKXt3Ybz6UxjRr6hzKPX4/JsAIEZ/II8uOURga24VRVYVUyxUK7yncIO/N/psLObBr1x0kivwX2LJeugitdvGUv37fjF7CbD0utF4YD1z2ERrEjGXZlcEL1SX2hDlvlP5rQ+wKJ43J9p9701PN40lus9HDn/UQo3wfgdjtRvAoLd0Yp6LBHJyPTQ0Wy98VCh47QC5nA/QetHqVkSMbJq7ekBOTdyWfYV0StTVbI1Q4tJOJtb7aeO9/tA6BOltADmW/Q+aV+oeeg7e5FMhVnqt5/FUCnr02jli6mMwGHGqHlSj9V/dQ1iS+im35X1zM/5baWndHqTG7XprhJqqpLdulD/YRZijdab4uHaBNy0HZ8TuvsfjC9+9/CRzq3PyWkwB2vK6rcXkHwIchYLpvipzhGRwqOtqHmSgeL9XuG3Nxohf2UC4akaHHv6wYDMZrBvSQupHwhr5C3zyMXB0+TxHQKJ6RF+24MJv0mR1fXY4zF7ZmINjffBogp+MZ42HhjJbTA==;TB1FK1QjC+RxmzaNsukQ6Q=="
 ---

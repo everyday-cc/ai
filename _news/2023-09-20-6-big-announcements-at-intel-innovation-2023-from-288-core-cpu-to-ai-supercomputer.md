@@ -91,6 +91,15 @@ related:
         width: 600
         height: 513
         isCached: true
+  - title: "Intel details multiple new chip designs"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
+    publishedDateTime: 2023-09-20T17:34:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 34
   - title: "Intel Innovation 2023: Bringing AI Everywhere"
     excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
     publishedDateTime: 2023-09-19T16:41:00Z
@@ -108,6 +117,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "New chip designs on display at Intel Innovation 2023"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
+    publishedDateTime: 2023-09-20T17:40:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 19
 
 secured: "HbiKC5dv9I27m5UWFWP4YebfYx9dAnaUc34c1r4RpY5wGWi6HG0g/DJfbZuxi42ucMUVK2P0dTDiPmDUpRJu14h3qSb+nBwiKB6wJghNcwac0k0fT19Wr9QaA6+IbDZQuO6+SGsseFTr3YqEDyPxnjAtWIroLniloCxmr/09nbBUYQNKN6MkvoYuaQMmnpMzqVhEFYH+qa42/9MmmqWaL4Svr4f9valY00L44ndsVhwNHKu7WYA2rZCV4AQeSLQY+MZi5p4D1/VCiDv0A8/V5lRavsfAJ4yg2XyqvihIl3TL6ap4hG9XoazJWveL80Uo+LET8oG3ADZMRShwNB3yedI9RZBn6Hl71jAT7tFTAH0EbgLneAE1Usr+YORr0vhWwseCzh3+PWyk+4CaPR5F/OG+FJW5j/OysnaHc1NKIPApXDm9WlENLOv+t6PmfLrGb7ZCxbe/nDRFYZliWTkuxfLmn8OtqVyKKYcSJRQsSjPeEpSbEfxKxqo1eWkcHPfHWxB0PCdK+os8GbhpCDc59A==;seK4tXzUz1iZM3qfrR7a6w=="

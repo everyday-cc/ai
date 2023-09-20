@@ -85,6 +85,20 @@ related:
         width: 739
         height: 415
         isCached: true
+  - title: "Using generative AI to drive citizen engagement and empower the workforce"
+    excerpt: "Google Public Sector CEO Karen Dahut urges government leaders to get started with generative AI pointing to early successes of public agencies."
+    publishedDateTime: 2023-09-20T19:33:00Z
+    webUrl: "https://fedscoop.com/using-generative-ai-to-drive-citizen-engagement-and-empower-the-workforce/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 38
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/site//5/GettyImages-1245360295-2.jpg?w=507"
+        width: 507
+        height: 337
+        isCached: true
   - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
     excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
     publishedDateTime: 2023-09-18T22:16:00Z
@@ -99,6 +113,15 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Prompt Engineering New Chain-Of-Density Technique Prompts Generative AI Toward Smartly Jampacking Crucial Content"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-20T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/20/prompt-engineering-new-chain-of-density-technique-prompts-generative-ai-toward-smartly-jampacking-crucial-content/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 28
 
 secured: "wApciEFLhSZPeQQuKZ0OMPS10l/Oor5Vl79Tdsq00cJSyp9N+loi3Rsu7MBh2LeC9Rb8vIR31hipwFzHhfHgnPvAdKleC/5M/Evip4gIMmDrsM75aB/DXTsfNvdp8M86goRZhKWi1JqKD1pNOHWBGgSIeNmP/GjaVDLMW8IqcQqdYnQLYmvTxofIasPG7ovisQBYHvWOkO9VjO9KSUo1emcAXjlYQoDPVIH6emLuwJg52CXgEaqwunWeCErE7V+6o7tUebgez7mqGr/dnpovALhQKFiZqNfVs/4LW3UeOnTDu+78zHZGyxMYIA6bI4TRg3Ijam5A2hZhpD+5/Au/GPATjG9YAJpWv62kTT4QFIA=;FXNqzTglZyWFDor3KxHJtA=="
 ---

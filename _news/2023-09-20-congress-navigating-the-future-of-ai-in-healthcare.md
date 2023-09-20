@@ -62,6 +62,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Wondershare Filmora Takes Centre Stage at Intel Innovation Conference 2023, Demonstrating AI-Powered Features in Video Editing"
+    excerpt: "The Intel Innovation Conference is a hub for developers seeking the latest technological advancements. Wondershare Filmora joined Intel on stage to introduce the audience to its tools harnessing Intel's CPU, GPU, and NPU technologies on the Meteor Lake platform."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-filmora-takes-centre-stage-at-intel-innovation-conference-2023-demonstrating-ai-powered-features-in-video-editing-1032644591"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "Schneider Electric Issues Industry-first Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
     excerpt: "Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to addressing new physical infrastructure design challenges for data centers to support the shift in artificial intelligence (AI)-driven workloads,"
     publishedDateTime: 2023-09-18T15:03:00Z

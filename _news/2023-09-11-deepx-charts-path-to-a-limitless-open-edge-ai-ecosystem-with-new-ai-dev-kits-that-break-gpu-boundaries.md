@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "eAy54H7GgKxghibkewsufO17iyVlukKlgEAyQHZeNkIiKRSjKTjHlJ5hApQAKsGPseSNJEeMND+6gH9iFKzI6bKLUWASIPxX8sKtG0kqFWNY7nqOqn38Wz1k2M3xIZW70YhzOWyjqzVBVLVjd6+lGhQYVLXFIqTidc9NDZpP2YMFD6wIGur+XbKcm+hxtqBsKCRPPrmXjA86u6HtOMhFz+ihXzBIg47VIIq9Rg+S6rI6JEbWgckCEeePXOXA69PXmJ04E03HlZInMop4kqDlKqEeIoXOzf9B76gRFvRJCnz3UzaYncmzlb+zXrbNyql+Wlwjps+UZ415GH9HxvFOX6EPxdnniSGNw49g0PP2+Tu3nqUD6JS5lIpUF0fSw/orzdEzNDEWeLzUN9jp0pg9mS0rp1ik8Dpif+n3QOs371D0nUAKnhJaBsUiAzJqrR3SbgZw0b9w7s4WqHehHKs6XTMrL08o1khdpGe6lx+CCCInzcupvLSlL+xSEWw61QJfdgmGFhJzJfGrjxSqGD1cDw==;kXERf+Z8dk2cHlwTV64raA=="
+images:
+  - url: "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "HsFuRAkyPRZNf0gVJXD7U7tCpKVjXgndua2LXMyRLi92YzZvJwFFogBDOxdX7j+0cBRmiEthKoxAI2p6Er+0xALk19OqSWhixgJilgnvTauW3H/lZE5SQkC6N/Dh2HCoyz7q6VY0T2ewkdwzxLEZosqOVuiM3kEfnmGEQ9BGJrVhjYMbvQsJBJRIYgBWX9gBxSkVeSUETYJWCbpKu3AqloNlCbyi+SQxQJU9hlPILEIOr9PRwQ3mkXGvAnvcMpfJW+JEaVGePvqeKjkqhanbjhLzquOqPxrSs/I/z4qMVb+poM+zEXagvLVGg7lX7REWyjFfqC4u0gywDy6NboV7CWhBq1qY5aeQ3GD55ufkyTc=;OsyfTAdemTsEbP9w+uT9Bw=="
 ---
 

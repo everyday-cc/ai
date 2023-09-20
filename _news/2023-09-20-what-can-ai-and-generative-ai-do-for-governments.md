@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Pa. state government will prepare to start using AI in its operations"
+    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
+    publishedDateTime: 2023-09-20T21:31:00Z
+    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
+    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
+        width: 3807
+        height: 2538
+        isCached: true
   - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
     excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
     publishedDateTime: 2023-09-19T15:11:00Z
@@ -75,6 +91,15 @@ related:
     provider:
       name: Law
       domain: law.com
+    quality: 19
+  - title: "What’s Next in AI for State and Local Governments?"
+    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
+    publishedDateTime: 2023-09-20T18:32:00Z
+    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 19
 
 secured: "aTIdkft/ISb0gqUBlTdomE9kbot38v9X6E7JwPz8QiJ7UuRMriqb+346h4JtiK8IviG4vyi0eIv8Lku5m9VOZYQHeCA+WpkjlGtsHGZlSxIqylwLuTVW6QhI1sGSFkxIKNagKVDMgt5GBrczGoondT8idBT652mviOGRSg4Lz8FM7GrEaWQ7ZVnRvUOVHXeXHdKJnoewZWTCfDDQXltuvyd4rQaH/CK0XuLJVt0Eve+yinvcwexBAjeFFC8r/NaaPc/3TDitdM6S9+u7LcBzG+SlG6zgWThHltTD/nby5BY/fzjFbuzwkLnYeDCGmMw8A0r4xxWr8IUrqPgRQtNLl0D/5gZHfKLJ93f5aZdX1yw=;TuTuFVmzbg7A2NVyq9KJdw=="

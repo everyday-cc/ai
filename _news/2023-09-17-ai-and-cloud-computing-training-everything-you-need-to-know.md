@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "men and Republicans in particular causing the machine learning model to say more offensive things than it normally would. The research was conducted using the latest version, but not the model currently in preview based on OpenAI’s GPT-4. YC Demo Day’s ..."
+    publishedDateTime: 2023-09-20T19:20:00Z
+    webUrl: "https://techcrunch.com/2023/09/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
     excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
     publishedDateTime: 2023-09-18T03:00:00Z

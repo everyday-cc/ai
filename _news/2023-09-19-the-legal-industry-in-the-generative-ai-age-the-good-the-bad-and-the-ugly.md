@@ -85,6 +85,20 @@ related:
         width: 739
         height: 415
         isCached: true
+  - title: "Using generative AI to drive citizen engagement and empower the workforce"
+    excerpt: "Google Public Sector CEO Karen Dahut urges government leaders to get started with generative AI pointing to early successes of public agencies."
+    publishedDateTime: 2023-09-20T19:33:00Z
+    webUrl: "https://fedscoop.com/using-generative-ai-to-drive-citizen-engagement-and-empower-the-workforce/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 38
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/site//5/GettyImages-1245360295-2.jpg?w=507"
+        width: 507
+        height: 337
+        isCached: true
   - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
     excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
     publishedDateTime: 2023-09-18T20:14:00Z
@@ -99,6 +113,15 @@ related:
         width: 688
         height: 507
         isCached: true
+  - title: "Prompt Engineering New Chain-Of-Density Technique Prompts Generative AI Toward Smartly Jampacking Crucial Content"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-20T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/20/prompt-engineering-new-chain-of-density-technique-prompts-generative-ai-toward-smartly-jampacking-crucial-content/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 28
 
 secured: "V+7j/Ga7JPpsEGrPmFM5iqMfZqtlAG+Zr0i6jFIobviMU5+NTGQjeMTLw5VxgbV7mBShqCRg7e7BnEfnBr2EASFk5ExgJJH2+tZRaB4rM3FE5hhtoYUQxzQXLg6aVkVNfZv0oeHrpyAvhD+NU02ketO9fQ6wG1nGo+OcZtc6jvQ83gpp6ObJFrds/Z9VHHGAbZPqAYfL2BzItuQkZ/6qdjK5YDEQzCCHniCkJGiVFXwyvwbfIUNavmdyWOh4lI0IaRZ2iIY4wyqix1LPDhvLvbbhWULTffn99itR1JW1I5Nc9IWDZneMfVBMAquHIkkkEwllyH23kxpX7/23fy9iLvgDr2MGYF5ivnjsI06j9LM=;e/nBdKPNe4c/e0/Jxml2nw=="
 ---

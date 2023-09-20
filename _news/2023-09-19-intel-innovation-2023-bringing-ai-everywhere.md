@@ -91,6 +91,15 @@ related:
         width: 600
         height: 513
         isCached: true
+  - title: "Intel details multiple new chip designs"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
+    publishedDateTime: 2023-09-20T17:34:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 34
   - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
     excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -99,6 +108,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "New chip designs on display at Intel Innovation 2023"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
+    publishedDateTime: 2023-09-20T17:40:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 19
   - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
     excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."

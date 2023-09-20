@@ -24,43 +24,52 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Amazon announces new generative AI version of Alexa"
-    excerpt: "One developer that already has is the popular Character.AI startup, which lets users create and interact with different fictional characters and archetypes and offers 25 different personality types. Another developer, Splash, offers users the ability to ..."
-    publishedDateTime: 2023-09-20T15:49:00Z
-    webUrl: "https://venturebeat.com/business/amazon-announces-new-generative-ai-version-of-alexa/"
+  - title: "Docyt AI Enables True Real-Time Accounting with New Advanced Generative AI Capabilities"
+    excerpt: "Press Release Docyt, the frontrunner in AI-driven accounting automation technology, launched Docyt AI, incorporating advanced Generative AI features into its Precision AI-based platform to create the industry's most robust accounting intelligence and automation"
+    publishedDateTime: 2023-09-19T14:24:00Z
+    webUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_expressionist_painting_amazon_echo_device_surrounded_by_eaf8358e-d568-4240-80a8-5f8b6450451a.png?w=1200&strip=all"
-        width: 835
-        height: 468
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20230919254478/en/1893645/4/Docyt_AI.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 281
         isCached: true
-  - title: "Amazon's Alexa is a whole lot smarter and chattier thanks to AI"
-    excerpt: "Some days, when working from home I spend more time talking to robots than my fellow humans, so it's nice to see Amazon's Alexa given an AI upgrade that really helps ... Limp was even able to start talking to his Echo Show 8, walk away and then come ..."
-    publishedDateTime: 2023-09-20T15:52:00Z
-    webUrl: "https://www.t3.com/news/amazons-alexa-is-a-whole-lot-smarter-and-chattier-thanks-to-ai"
+  - title: "IBM CEO study: 75% of companies believe the organization with the most advanced generative AI wins in the long run"
+    excerpt: "According to IBM's annual study, CEO decision-making in the age of AI, Act with intention, 3 out of 4 (75%) of participating companies believe that the organization with the most advanced generative artificial intelligence will have a competitive advantage."
+    publishedDateTime: 2023-09-20T11:40:00Z
+    webUrl: "https://business-review.eu/tech/ibm-ceo-study-75-of-companies-believe-the-organization-with-the-most-advanced-generative-ai-wins-in-the-long-run-251891"
     type: article
     provider:
-      name: T3
-      domain: t3.com
-    quality: 39
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 17
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/uYBTwEH4r88cz67yQk35mT-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://business-review.eu/wp-content/uploads/2023/09/IBM-1.jpg"
+        width: 1400
+        height: 1057
         isCached: true
-  - title: "Procore Announces AI, GIS and Other Initiatives at Groundbreak"
-    excerpt: "The construction project management software leader came to Groundbreak with a massive traunch of AI functionality and partnerships, a new GIS offering and tools to improve user experience for subcontractors."
-    publishedDateTime: 2023-09-20T13:29:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/project-management/article/22873608/procore-technologies-inc-insights-from-procore-groundbreak-2023"
+  - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
+    excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
+    publishedDateTime: 2023-09-19T11:35:00Z
+    webUrl: "https://www.gadgets360.com/audio/news/airpods-pro-2-upgrade-new-features-ios-17-update-adaptive-audio-conversation-awareness-4403773"
     type: article
     provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 19
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 15
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "Tn9bAgjNcDhd+5tLMYUIh1dV5AzWk5SnQHwaSA+qytsL6wy0fRYW3qwKVr4Gws9FnHRnD39o2WieB51S06bl23ZhTbXb2cmZwhAbw1Gkmlya6Tbozo3J9mtVH/DUEx2nUffTYjAj1+MVuMClMJUrxwzrtCOMQe0Gf2qP9r05RXP/wG6yDPlAcLwfu5gv3vBkleWQmmia2u0TE4ZKoMmKmQIib14u4pCbiic3CNjy6zfG/aMBwF/2MIJu6iX0ILFIF4VQqfd48IemG6Fwem6MSmd2xdXmKOrGNSEnVoFMJl3aGk0Sl+lqlUdU60WZWP1VRx0vjgmm+12hKgijYDy9SMtmt7zRJ/lALksuHjkV3b8=;MYSGnJPVs7ranl30G/7nvA=="
 ---

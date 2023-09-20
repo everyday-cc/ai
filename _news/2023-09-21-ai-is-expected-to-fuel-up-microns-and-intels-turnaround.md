@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:48:00Z
 originalUrl: "https://www.benzinga.com/23/09/34769994/ai-is-expected-to-fuel-up-microns-and-intels-turnaround"
 webUrl: "https://www.benzinga.com/23/09/34769994/ai-is-expected-to-fuel-up-microns-and-intels-turnaround"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

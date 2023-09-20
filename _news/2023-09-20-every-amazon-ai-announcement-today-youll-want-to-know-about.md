@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:56:00Z
 originalUrl: "https://www.zdnet.com/article/every-amazon-ai-announcement-today-you-may-want-to-know-about/"
 webUrl: "https://www.zdnet.com/article/every-amazon-ai-announcement-today-you-may-want-to-know-about/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet

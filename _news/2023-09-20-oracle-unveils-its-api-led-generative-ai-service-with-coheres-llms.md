@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "ServiceNow targets service management with generative AI integrations"
+    excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
+    publishedDateTime: 2023-09-20T21:52:00Z
+    webUrl: "https://www.ciodive.com/news/ServiceNow-Now-Assist-ITSM-generative-AI/694275/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "BOSRhVJWKnbP4PbIIepzWcuKv43trqRmVpsa2ZveoGfkIWGacv6t/aC2NCJrPt3IyaVOSfXLDcUem2osc3VfDHEsnwEunTNeBMTsoI4s8Um5dfMEyF4TTcvlaDQcWGcA8qgAhXRSmg8lR9dBlUAd9KaHgqfkL2kuKK7tYCeUDn+O+PM7C+DH3h58l41uiJpKc+Qtcj9jkOK3NNWlJhjxz/L4QG44jNW29e/qs6TqmLlMId1z/+54kIDUNG9xVRC/lT1pONNV5InDi+ciMzs8/b76PWfLIero9PGuz8Bdynzs5EypdBN1HtHx6NRy7bVGDyzNmYl6tAZ80F6/y8+GNrSD6GaPNtHwdlG6enW/NdUFQG0xW2vYu/t4Pygi59WrKKzfK7/BAO27Vg7rTFdwYOhPNWkvXWuQRMj1ei4NmgEINfy0PH2hEqL/ivoWIPIRYJSI2vP4+okDdulu8xfaQak0cm60e/g0Qj/uqcBXx84nj+ETN6XKkVloJp87sMAU2r8kSq+DlHohabfwXC2qMQ==;oL/pNdADEnykx2RarQiFDw=="

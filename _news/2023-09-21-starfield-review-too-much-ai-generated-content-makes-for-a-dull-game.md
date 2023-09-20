@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:00:00Z
 originalUrl: "https://www.newscientist.com/article/mg25934570-700-starfield-review-too-much-ai-generated-content-makes-for-a-dull-game/"
 webUrl: "https://www.newscientist.com/article/mg25934570-700-starfield-review-too-much-ai-generated-content-makes-for-a-dull-game/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New Scientist

@@ -39,6 +39,15 @@ related:
         width: 480
         height: 281
         isCached: true
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support LAS VEGAS,"
+    publishedDateTime: 2023-09-20T12:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-1032643242"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
     excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
     publishedDateTime: 2023-09-19T11:35:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:03:00Z
 originalUrl: "https://www.fb.org/focus-on-agriculture/artificial-intelligence-a-sustainable-approach-to-todays-farming"
 webUrl: "https://www.fb.org/focus-on-agriculture/artificial-intelligence-a-sustainable-approach-to-todays-farming"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: American Farm Bureau Federation

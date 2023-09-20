@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T12:12:00Z
 originalUrl: "https://www.cnn.com/2023/09/20/europe/spain-deepfake-images-investigation-scli-intl/index.html"
 webUrl: "https://www.cnn.com/2023/09/20/europe/spain-deepfake-images-investigation-scli-intl/index.html"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: CNN

@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:50:00Z
 originalUrl: "https://www.jewishpress.com/news/israel/government-israel/israel-to-invest-nis-30m-in-17-projects-to-create-data-language-models-in-hebrew-arabic/2023/09/20/"
 webUrl: "https://www.jewishpress.com/news/israel/government-israel/israel-to-invest-nis-30m-in-17-projects-to-create-data-language-models-in-hebrew-arabic/2023/09/20/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Jewish Press

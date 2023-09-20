@@ -103,6 +103,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Media & Entertainment Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-09-20T19:22:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-1122807/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 8
 
 secured: "TV3Idx49fxp+ngk6wvjdF1N0zKecdNmRaXllECn8ISLYYGnxa37KxoGvpDcpLGbk7QG8WPVXcOJXALrPaL0ZmJkkiCzd3n1qyerpKA1VOZ67N4X5Ec2ZWAhtJyvR5AVmA+YOvh8TODKkcYeJJ3xZgvHsummVpE03nHfm4ZV3nLT3H1+jxj9ATxMecqYkPjgUDYg17glTJjdAfEj9URshc85M07k/d6oBpyWzx7DHQQ0izMxgfZE6tZeb1NGltzbm9v8zjBLLA9WRrUhY5GrNwCN4mIdxpv+QWIax0dh4ux589irmhQx7nC+Idr/Z4oRSrKgLQupccBbt0gF/lL+zMrZRwyDsKfjZJUY6CVsaWtO6RR5E109ENa96/FsmPLmCNgoXH8wnFcqJpK+qTGTQWqZG1rXd5qgs6NUgmVxt5fl/KpE3gWQLP0OVhy6YAMXk+O/c104Kd51qtKKvKPmBc6BbiIvmY03pPd9coOzMHewhzUXd/xTejEU8zlGUagZZo6lxcPnofX5YYtoddqcs5Q==;/uHTYasNd340WFQWBQ1pZg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T15:45:00Z
 originalUrl: "https://www.forbes.com/sites/michaelgale/2023/09/20/heres-how-aiml-challenges-nobel-laurette-daniel-kahnemans-view-of-predictability/"
 webUrl: "https://www.forbes.com/sites/michaelgale/2023/09/20/heres-how-aiml-challenges-nobel-laurette-daniel-kahnemans-view-of-predictability/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: Forbes

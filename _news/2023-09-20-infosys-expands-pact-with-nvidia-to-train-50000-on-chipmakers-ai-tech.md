@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infos
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -38,6 +38,24 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
+    excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://www.crn.com/news/computing/infosys-to-train-50-000-staff-on-nvidia-ai-technology-in-new-tie-up"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+  - title: "NVIDIA to train 50,000 Infosys employees in AI technologies"
+    excerpt: "Bengaluru: NVIDIA has announced its third significant collaboration in India this month, joining forces with leading IT firm Infosys to drive productivity improvements through generative AI applications and solutions for enterprises,"
+    publishedDateTime: 2023-09-20T17:59:00Z
+    webUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 19
   - title: "Infosys and NVIDIA collaborate to help enterprises boost productivity with Gen AI"
     excerpt: "Infosys and NVIDIA expand strategic collaboration to help enterprises drive productivity gains with generative AI applications and solutions. Infosys Topaz and NVIDIA AI Enterprise ecosystem to integrate,"
     publishedDateTime: 2023-09-20T13:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-base
 webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 893
         height: 444
         isCached: true
+  - title: "Train and deploy ML models in a multicloud environment using Amazon SageMaker"
+    excerpt: "In this post, we demonstrate one of the many options that you have to take advantage of AWS’s broadest and deepest set of AI/ML capabilities in a multicloud environment. We show how you can build and train an ML model in AWS and deploy the model in another platform. We train the model using Amazon SageMaker,"
+    publishedDateTime: 2023-09-20T16:56:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ml-models-in-a-multicloud-environment-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
   - title: "Designing resilient cities at Arup using Amazon SageMaker geospatial capabilities"
     excerpt: "This post is co-authored with Richard Alexander and Mark Hallows from Arup. Arup is a global collective of designers, consultants, and experts dedicated to sustainable development. Data underpins Arup consultancy for clients with world-class collection and analysis providing insight to make an impact."
     publishedDateTime: 2023-09-18T17:52:40Z

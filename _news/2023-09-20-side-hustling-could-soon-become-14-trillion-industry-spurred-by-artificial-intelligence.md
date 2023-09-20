@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:49:00Z
 originalUrl: "https://www.citizensvoice.com/news/nation-world/side-hustling-could-soon-become-1-4-trillion-industry-spurred-by-artificial-intelligence/video_bff963d7-aa95-53cc-95d5-fb3c68917cfc.html"
 webUrl: "https://www.citizensvoice.com/news/nation-world/side-hustling-could-soon-become-1-4-trillion-industry-spurred-by-artificial-intelligence/video_bff963d7-aa95-53cc-95d5-fb3c68917cfc.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Citizen's Voice

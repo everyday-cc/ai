@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:10:00Z
 originalUrl: "https://www.businessinsider.com/mark-zuckerberg-senate-ai-forum-llama-2-gives-anthrax-instructions-2023-9"
 webUrl: "https://www.businessinsider.com/mark-zuckerberg-senate-ai-forum-llama-2-gives-anthrax-instructions-2023-9"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Business Insider

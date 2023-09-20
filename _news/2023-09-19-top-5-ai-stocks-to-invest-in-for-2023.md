@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
+    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
+    publishedDateTime: 2023-09-20T18:22:00Z
+    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 9
 
 secured: "mOHXdS/MIcbx7NkgnYDp52snnv8Lki3us1qozONQX8jILg8/Ox/GKQl3MHdTiKtRvi8i4Q72CtEFNR/bRi+SpkvgOmlCwSCZqXXE48ggwZDfTN5zZZv35ybX4WVRtLD5zeDAcdp/hABGDC8jtfFDB8k4wd8SscCmbvFGINu9lt3eT6lPM/T9fuzcPGe0v+daQFRIsjOh2IBlJGUXYlKkY2I+y3IFcWDFViMvPaKRkYXOfO2XAMoHR4R0X3RZ6zY7RxiRNwtMMveaZ7f5HHwA39Otcq4+vMrsgi0Fk0zUiBd6vwcG5PIPSh5WvUeV98rQXISQ4+Wg3C/kNQNxuxhKSQI52LPJnatzLbhrPPnOhBrRrprXM62KozyeRdMZE71X5KhFeA/C6GW5aWlL+edi38U/yS0lrZay1ex/V9KYLfCLCJ5pY9rUHevwO2O/mI1lHW0RcUHf/M/N1N1bggHxnmHhsd45nOkUZZl7pY2Ic1r4WlRrklnYgAhI20dM79RAL1pFaZBWLWTQGuQaSblPgw==;wiUvTlqGr5/5zQryfu/z5Q=="
 ---

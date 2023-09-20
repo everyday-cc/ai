@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:01:00Z
 originalUrl: "https://techxplore.com/news/2023-09-flexible-robot-small-spaces.html"
 webUrl: "https://techxplore.com/news/2023-09-flexible-robot-small-spaces.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: techxplore

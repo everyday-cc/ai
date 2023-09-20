@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "men and Republicans in particular causing the machine learning model to say more offensive things than it normally would. The research was conducted using the latest version, but not the model currently in preview based on OpenAI’s GPT-4. YC Demo Day’s ..."
+    publishedDateTime: 2023-09-20T19:20:00Z
+    webUrl: "https://techcrunch.com/2023/09/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "X3WhVrugfSreGrPmLoEqLHVkerrwRq/WrsTb8kYk/XgC5d4I4cCZvB/JGGCoriTcHJNOd0CQRQCa7uQFpoC+UUWI+qteVed0zfFqwiinbE+HNGMl1xE2Lw0tz2JISnNL8JVIwzH4iggr/X8QKYZVQo91NC/ChGh6pKcuqabwhxYiHapsr2Ox383Pc0HuXW2X9hTzuotqyN9eScC5JuN/QgfprckTxxv4JFilC959j4ZxpqHEOXoCqXcm8H6Ou9R0pPcUG181RnlcxzK35oU9vcpYqBWwpnNJ8yc8Dm1KMqiDDnZLikzpvGVf2RHlu0pLQgHMYT3DFjMuXJWBIgzCeD6wW6gBDsDsA4tZdxcvYhGSYc6/zMWQG9izwNO9ua5JRB14mK/TreP9FeZJhe6cwRBIAGE2sdd3dbvB+4+/FXtrTnSWNLtNNJ/jBDImaaYXJVYOGMCdHpLJL83yDeKzlY59qcpl2RYr2GSDl6m2hPjOSsYvqcAJtenrgtrHU+djADKA9stGcoPK9Qcc9/l4HA==;LCjBeC94df86ra+tfdJUyw=="
 ---

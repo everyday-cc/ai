@@ -115,20 +115,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Microsoft discount codes for September 2023"
-    excerpt: "Can I get Microsoft 365 for free? Yes, Microsoft 365 has a free version for all of its separate apps. However, you can only use these apps on your web browser and they have limited functionalities ..."
-    publishedDateTime: 2023-09-16T03:56:00Z
-    webUrl: "https://www.techradar.com/coupons/microsoft"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/pyVpDffJrYez5pSno4oNfj-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
     excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
     publishedDateTime: 2023-09-17T06:01:00Z
@@ -281,15 +267,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Azure: Our AI Platform – Stories – Microsoft"
-    excerpt: "News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
-    publishedDateTime: 2023-09-16T03:44:00Z
-    webUrl: "https://www.inferse.com/717832/azure-our-ai-platform-stories-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
   - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
     excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
     publishedDateTime: 2023-09-20T09:51:00Z

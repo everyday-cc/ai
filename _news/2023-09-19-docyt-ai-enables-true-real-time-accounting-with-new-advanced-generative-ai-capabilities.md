@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-a
 webUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support LAS VEGAS,"
+    publishedDateTime: 2023-09-20T12:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-1032643242"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "IBM CEO study: 75% of companies believe the organization with the most advanced generative AI wins in the long run"
     excerpt: "According to IBM's annual study, CEO decision-making in the age of AI, Act with intention, 3 out of 4 (75%) of participating companies believe that the organization with the most advanced generative artificial intelligence will have a competitive advantage."
     publishedDateTime: 2023-09-20T11:40:00Z

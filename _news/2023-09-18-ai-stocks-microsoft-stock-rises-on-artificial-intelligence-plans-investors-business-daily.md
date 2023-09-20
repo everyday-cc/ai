@@ -58,6 +58,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
+    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
+    publishedDateTime: 2023-09-20T18:22:00Z
+    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 9
 
 secured: "nvqboxp3exh9VsNgmztk1fzYXeIubgfJljrfGbo1a+BaXdBtKma3TmXtqDuRLN1Q5CA2ox2k/Gkdcz+PRtWWEducUan68fQ5/5bYjXf/8th0VjNO4I5e0DNNvyE7F3ZlEILP/oqjG31NmDzQ7buWHr0ZB8Bhk3A0oM4sktsNT+mxF7myBQnTa3SfBQMWkT5hp431XouUddvB9kSb629Z4KwAP++tn4gd59IR0+RpROJCtDAqfjdRqWTAT6xvTG0w/s7S37w+l4Bs2spt8vvK8LolHe3PpqrztpnapChxq8BXhmQWKhrVRZOoH+wHCXeFI2f0gD1GePB6sr3Ojci5G6mtErTQsyDi1uYlbOD6iAE=;vqPguEZRPa8ttIpKr3HRXg=="
 ---

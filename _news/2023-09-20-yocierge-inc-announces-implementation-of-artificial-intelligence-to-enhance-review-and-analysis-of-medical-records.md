@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "PRNews OU: Behomes Announces Its AI-Based Proptech Startup for Mortgage Loans in the MENA Region"
-    excerpt: "Now, the launch of a fintech project is announced. AI has been implemented into an analytical tool of Behomes' service for determining the best cost of housing, including ones available for purchase on a mortgage. In addition to the AI-based proptech ..."
-    publishedDateTime: 2023-09-20T13:31:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60160600-prnews-ou-behomes-announces-its-ai-based-proptech-startup-for-mortgage-loans-in-the-mena-region-296.htm"
+  - title: "New artificial intelligence tool automates analysis of large-scale cardiac scan databases"
+    excerpt: "However, databases are often organized differently by separate organizations and may often contain missing or duplicated files, which presents a significant challenge for processing data. This work would previously have required a significant time investment for manual curation and analysis on the part of health care specialists, whereas an AI tool can be taught to efficiently \"data wrangle ..."
+    publishedDateTime: 2023-09-20T19:33:00Z
+    webUrl: "https://medicalxpress.com/news/2023-09-artificial-intelligence-tool-automates-analysis.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 10
 
 secured: "b0foWeuAmsW8JMjdeRstUdm4uP66WO++TD1JEqLpE7x0yCIe+usiVrAscQh2bUzjjXPAr15lPHCgxXSlZnmKThKNWRqoUH8aOa98q4kHhmIsr1klj7PPtpUUphYlPHMoFpi/C5qRnFQehbZxtFwn2lW6IYpAZyZopIDlutdF3mQnfQEtOBmzejTrlKVUp2qv6CIx/v17XnbD8n/9RC798uDZ4hXySzLt+n877QsNVXy5a4D5RrTeOH6mgArQ7VgkA6oNgtrKRUI2MbQE7fYEfUHZ7ks7ARjFlisFwT/xWDHuRw/t2hjaqnbYGtIeKtvZRq5arYR2Brnyn0u4Y238OALATjSF8b/rubLheBbjlgs=;8SYdvJVrlQuN7537TqjSew=="
 ---

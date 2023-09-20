@@ -22,6 +22,22 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Oracle’s MySQL HeatWave gets Vector Store, generative AI features"
+    excerpt: "Oracle is adding a Vector Store and new generative AI features to its data analytics cloud service MySQL HeatWave, the company said at its annual CloudWorld conference. The new Vector Store, which is also in private preview,"
+    publishedDateTime: 2023-09-20T21:33:00Z
+    webUrl: "https://www.reseller.co.nz/article/708844/oracle-mysql-heatwave-gets-vector-store-generative-ai-features/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vid-still-74-of-82-100714303-orig-100933218-orig-100942975-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
+
 secured: "UZRj6S+KMxvkK8DXSY3Je+hYQFzTVkIPIyq+J5gxnFXqHI8/BeH/Mf5Cf3mzP+w9yDka3r18vOGpw6E4e4RSUZNDTzeMC91U1XUswF1/4P3K+mvg5+gVeZqHRHerqxxw62WbsKqaR9neWcDbAvgoTMm6GtBwGrLgaKslzjeKm0bgnHhfSUnB5F4gAmR5FFveKdr9wybiKX/ZMllTDQhHB/tXgwQQiqG2alIzWHCPxB0LzuPr85vp/IKLGgLLiQ3T+BTyvk7QK9PDlvJrAUs2sEPL0NO+YPktfRhTcMhc5M0rRAx0EJzlVCKdNg3Xc+HBMsO5MLTbf/lIiNh8Vym6yrkMTyXG/iawSdDKe4boxra5/pWa6ljISlZ8or1xLLmDUdE0v3MvwB+BexUoaMK5LhDGpLPp0bFMUJaAaSjFTp2OxSoHGI5aApGTXZ98XT+tZvwvQ/B7MQQ8+LYNN1EHT19vEJhPVuQfeg617PcKt93OII1cSY0aWKdfbOydc1CjlyjMHPUUrtPqxV//xBioZw==;jgz0T5csFk43ncVPXyuKVA=="
 ---
 

@@ -18,17 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
-    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
-    publishedDateTime: 2023-09-20T13:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "KHk/uPvphjm8ltMejo+1dVB0LK3sxMI6HvfG40LmZ3LpPpR5iJi7StgQPbM/KcE9jLFYp8ldZue13vybFKK/b6xZgi8UjuSdkgtONFIGWNdj7JyuUPEqHOjmXjBSLivPb3LB/AshL/4DthOPStfOxy+DRk5IEOrSabXKxPf6DLTVlWCjFaPxgBhoXjNuqFkcrUQXTAbPxUiGROAJA+Jsh2dxAn0BQyP2HLltAk/QtC/ddvLGhGC+5woAz7R/i0jGWazuSLo7JLOzbS7nCM5sDeGZWGA1qktzxQGdkBy0zuAfl28rLc188Gq7U04LyvKHn1nUBpcWs76T3RVXaAUoLr8eSYA+CxvN/ac5hdiad9o=;/eLGdJ+2yA80rzOSnC7P2w=="
 ---
 

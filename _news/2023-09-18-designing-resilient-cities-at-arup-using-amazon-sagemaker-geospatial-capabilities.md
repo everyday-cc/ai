@@ -71,6 +71,15 @@ related:
         width: 893
         height: 444
         isCached: true
+  - title: "Train and deploy ML models in a multicloud environment using Amazon SageMaker"
+    excerpt: "In this post, we demonstrate one of the many options that you have to take advantage of AWS’s broadest and deepest set of AI/ML capabilities in a multicloud environment. We show how you can build and train an ML model in AWS and deploy the model in another platform. We train the model using Amazon SageMaker,"
+    publishedDateTime: 2023-09-20T16:56:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ml-models-in-a-multicloud-environment-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
 
 secured: "zeg9XOj+MnSYz0TBXkgjcVI+45S4/d914JHuvycrFoG93cSNdXvucNgS8OQn+RSRHi8opjVZ3s5Q/FhMavRBi+DyLzgxMtV3CQfG8EHQjtgGgvbpo/SCy8EcM6wLmrqSqfhJBA0h9P+nw8J8eveQ28kCPDvCvGtW+tIoZ5cN/8ROmClFnxQL71zT2bcXB1nIx5wCuDRWFpiZtZhkDj4QsJM8CsATY5g0qTONe9Kn2a3QLcQBvH9mea7r0Z1ofgwccMeFO1dcJEP+2PPXGGjulpzBgk94qL4VM0VMWJicy09Z4Q71MFejXowzuoXxnuam+7ZeKBZgDUA6MlyhMjG6FBV19FxyR24zf23cFPS3+U8=;kRVvkgUlshjhnORT6YibAw=="
 ---

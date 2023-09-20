@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:52:00Z
 originalUrl: "https://www.geekwire.com/2023/bean-box-is-the-latest-startup-using-crowdfunding-as-it-looks-to-charge-up-coffee-subscription-service/"
 webUrl: "https://www.geekwire.com/2023/bean-box-is-the-latest-startup-using-crowdfunding-as-it-looks-to-charge-up-coffee-subscription-service/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: GeekWire

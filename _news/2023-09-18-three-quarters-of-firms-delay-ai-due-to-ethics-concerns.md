@@ -47,6 +47,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware's AI"
+    excerpt: "By Enrique CorroNORTHAMPTON, MA / ACCESSWIRE / September 20, 2023 / VMware The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs),"
+    publishedDateTime: 2023-09-20T19:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60163857-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmware-s-ai-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 39
   - title: "The potential and pitfalls of artificial intelligence"
     excerpt: "Artificial intelligence can help increase the efficiency in manufacturing, help personalize products, improve quality control and create smart factories by connecting machines and systems with seamless operation and real-time data analysis and optimizing production processes."
     publishedDateTime: 2023-09-19T12:15:00Z

@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon gives Alexa an AI facelift as it launches new smart speakers"
+    excerpt: "At its annual devices bonanza on Wednesday, Amazon introduced new hardware and software with generative artificial intelligence features. Amazon introduced a “smarter and more conversational” version of its Alexa voice assistant that the company hopes will bolster its position in the tech industry’s artificial intelligence race."
+    publishedDateTime: 2023-09-20T18:25:00Z
+    webUrl: "https://www.cnbc.com/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107303841-1695228746907-gettyimages-1677738190-AMAZON_DEVICES.jpeg?v=1695243491"
+        width: 3436
+        height: 2291
+        isCached: true
+  - title: "Amazon is set to supercharge Alexa with generative AI"
+    excerpt: "Amazon’s Alexa is about to come out of its shell, and what emerges could be very interesting. At its fall hardware event Wednesday, the company revealed an all-new Alexa voice assistant powered by its new Alexa large language model."
+    publishedDateTime: 2023-09-20T16:15:00Z
+    webUrl: "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/NEICwmCcRyWZ11E1P45-YlSCWLw=/0x0:4240x2832/1200x628/filters:focal(2120x1416:2121x1417)/cdn.vox-cdn.com/uploads/chorus_asset/file/24937620/DSC00363.JPG"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Amazon announces new generative AI version of Alexa"
     excerpt: "One developer that already has is the popular Character.AI startup, which lets users create and interact with different fictional characters and archetypes and offers 25 different personality types. Another developer, Splash, offers users the ability to ..."
     publishedDateTime: 2023-09-20T15:49:00Z
@@ -39,24 +69,15 @@ related:
         width: 835
         height: 468
         isCached: true
-  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
-    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support LAS VEGAS,"
-    publishedDateTime: 2023-09-20T12:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-1032643242"
+  - title: "Amazon AI will drive ‘entirely new,’ chattier Alexa voice assistant"
+    excerpt: "Generative AI — the buzzy new artificial intelligence — will usher in the next generation of technology for customers, Amazon said at its annual devices event."
+    publishedDateTime: 2023-09-20T21:47:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-ai-will-drive-entirely-new-chattier-alexa-voice-assistant/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Procore Announces AI, GIS and Other Initiatives at Groundbreak"
-    excerpt: "The construction project management software leader came to Groundbreak with a massive traunch of AI functionality and partnerships, a new GIS offering and tools to improve user experience for subcontractors."
-    publishedDateTime: 2023-09-20T13:29:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/project-management/article/22873608/procore-technologies-inc-insights-from-procore-groundbreak-2023"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 19
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "AMBs2fJI7xBzHexXjpns4MZM9OjFMyt/PdvU9qOq4UYaSiHDorvpL6vV2wJxVeG+3+pbzgblm43QTVYJGsZhqsg13LHByM0uWCs8gTPz9/QxRN6YkH9qYexm49kxcvnW7Xql7w4ckHDToickCkxT+CzZCfzEaEAyuGaf+B++9PdT4RvSzDO7RKmcx2T1c85Ndo3BXlpFI4bqkcZlcItoFAtb7jd+JlmLpOqd7n9jkMoq2INkg6E3oYS+HO8z/JXJP3C3utZbgJ5XimbsbL9WnLuy7cA3uD0xsSz7k59x13Gzqa5Xw3dZX7HgTdZTf/YgRlN1AmuHHs/IcTPSu7uPn5FmdYh2/1YlOr/VVWyWfNc=;i8TmCeoybId0hqtH//SoYA=="
 ---

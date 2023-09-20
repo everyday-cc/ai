@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T15:06:00Z
 originalUrl: "https://www.theguardian.com/technology/2023/sep/20/it-could-have-me-read-porn-stephen-fry-shocked-by-ai-cloning-of-his-voice-in-documentary"
 webUrl: "https://www.theguardian.com/technology/2023/sep/20/it-could-have-me-read-porn-stephen-fry-shocked-by-ai-cloning-of-his-voice-in-documentary"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Guardian

@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:50:00Z
 originalUrl: "https://techcrunch.com/2023/09/20/capsule-introduces-its-ai-powered-video-editor-for-enterprise-teams/"
 webUrl: "https://techcrunch.com/2023/09/20/capsule-introduces-its-ai-powered-video-editor-for-enterprise-teams/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

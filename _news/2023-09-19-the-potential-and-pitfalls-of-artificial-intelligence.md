@@ -46,6 +46,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware's AI"
+    excerpt: "By Enrique CorroNORTHAMPTON, MA / ACCESSWIRE / September 20, 2023 / VMware The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs),"
+    publishedDateTime: 2023-09-20T19:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60163857-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmware-s-ai-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 39
   - title: "Three-quarters of firms delay AI due to ethics concerns"
     excerpt: "Cost is reported to be the leading challenge experienced by more than half (51.3%) of global marketing leaders."
     publishedDateTime: 2023-09-18T08:42:00Z

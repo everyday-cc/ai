@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/business-process-automation-fir
 webUrl: "https://venturebeat.com/automation/business-process-automation-firm-kyp-ai-raises-18-7m-from-europes-leading-deeptech-vcs/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 672
     isCached: true
 
-secured: "hXJ2q4/a2XqlJNamnhA+4ztMrdUC8D+RkmhHV8nvIjkFbC+CCDq1eFsqhklLnFlK/oguzse2QszoPgDzgT/cPCERMS+SH8xkBsSnjtylat0gOZxYRgHeAqzrwx0taNwzxtD5gTeBq9IscAC78LZeCdX8FTxAu2VV0efbp4J5ohD/JlvCceW5HtLQGbEQ1+MM5TmAbuniuDVpnt4FSi4DBd9kgDrE470rlijKD6wcRbh489oGML7yCsgHijO4Cn66XHKb3UnN3P2qqCgmLYOu4YuV29Ni9lUrlCJiDYgJxsWjcSJ+dgXsIavCQ1kfx8PbFPOJpMSaahyfiP/hRrk9/1Ix3NdZvPCV1Xb0x+WoQqo=;1+UEaemGMV/WyvaTgBKJPQ=="
+related:
+  - title: "KYP.ai raises $18.7M from Europe’s leading deeptech VCs"
+    excerpt: "KYP.ai's tools identify blockages and inefficiencies that could be solved through automator tools, and suggests them to the client."
+    publishedDateTime: 2023-09-20T21:35:00Z
+    webUrl: "https://venturebeat.com/automation/kyp-ai-raises-18-7m-from-europes-leading-deeptech-vcs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_abstract_painting_of_job_recruitment_45debb26-70b9-4261-b63e-2cb09a6c9fc5.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+
+secured: "+DXMOzeNDN1Ci8OgaLCMcXqH/s7e0hbKnglGppI/O1Un0eRcvJtf4/BeT4HM61QpXJBv5SCe/3FnVyEKpnO4WdlstX2czPsgLHv6okX0UOwytRCgGeOvMgPlnmnwn1gbDToqjr7JiowWL9H5gMNEL2SrmY756mczYTvHFn+uy5CpF7rmHczTqTrO4xK/ei3Xbs5VkdSL56+sj05jc7t2QujVzl+HyhJWOEsS0RB9FnsNNqBY0IcEYMEJZT33ggQESIO+01jZINCGO3jgVdPvuBMJbtgidO60XvP8Em6M2b+W1tMSAAO8R4Rwcgbbky5rhpEzS9Htgiv0J5CB0vpcQ1avPxwj/0n1Y2jx4fNWIa4wvsTYxbrq1T5dg6XRM6gRzGEJqSN+gZDT2Vh9HFkjjgLMCL/5Ez4FoNI0UXj3+Wu+drDsQW3CUs7aXD21UkMO1M3KbIaTsUqeELdLw7V/JH9XEab2LjCr2P5KLGV/Yhi1XcKKb7LNdWkWyGejfnRTS5PXFkpPQMLWyqZVb9UD0w==;ym3TyEYvlehfBkGk5egMbA=="
 ---
 

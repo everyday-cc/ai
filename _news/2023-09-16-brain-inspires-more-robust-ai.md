@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Brain-Inspired Changes Could Make AI More Resilient"
-    excerpt: "AI systems are often built using artificial neural networks (ANN) analogous to those of the brain. Like the brain, ANNs can sometimes get confused, either by accident or by the deliberate actions of a third party."
-    publishedDateTime: 2023-09-18T09:34:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/brain-inspired-changes-could-make-ai-more-resilient-378930"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 41
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378930/brain-inspired-changes-could-make-ai-more-resilient-378930-640x360.jpg?cb=20230918"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
     excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
     publishedDateTime: 2023-09-19T05:01:00Z

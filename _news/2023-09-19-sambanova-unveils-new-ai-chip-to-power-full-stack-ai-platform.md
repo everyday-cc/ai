@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-
 webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1065
         height: 642
         isCached: true
+  - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
+    excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
+    publishedDateTime: 2023-09-20T18:50:00Z
+    webUrl: "https://www.nextplatform.com/2023/09/20/sambanova-tackles-generative-ai-with-new-chip-and-new-approach/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 34
   - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
     excerpt: "SambaNova Systems, makers of the only purpose-built, full stack AI platform, announces a revolutionary new chip, the SN40L. The SN40L will power SambaNova's full stack large language model (LLM) platform,"
     publishedDateTime: 2023-09-19T15:51:00Z

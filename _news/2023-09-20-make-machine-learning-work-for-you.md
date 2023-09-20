@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:25:00Z
 originalUrl: "https://www.technologyreview.com/2023/09/20/1079506/make-machine-learning-work-for-you"
 webUrl: "https://www.technologyreview.com/2023/09/20/1079506/make-machine-learning-work-for-you"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MIT Technology Review

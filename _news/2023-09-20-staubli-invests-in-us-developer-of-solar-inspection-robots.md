@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T15:30:00Z
 originalUrl: "https://www.pv-magazine.com/2023/09/20/staubli-invests-in-us-developer-of-solar-inspection-robots/"
 webUrl: "https://www.pv-magazine.com/2023/09/20/staubli-invests-in-us-developer-of-solar-inspection-robots/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: pv magazine International

@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Intel CTO highlights open and secure advances for AI deployment"
+    excerpt: "Intel CTO Greg Lavender detailed how Intel's developer-first, open ecosystem philosophy is enabling widespread accessibility to AI."
+    publishedDateTime: 2023-09-20T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/intel-cto-highlights-open-and-secure-advances-for-ai-deployment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "i/ApVLc364mrGSd3rIPK5suQ99MlB7Vp5II3hzcLqrrhr//8aF2DOqFgOBEqK0oVD8Kw/kHZxC1EBaY6hCAPOlZ+DgOY8YB/MUNmxGL2QF1mrMkpG7rnjVb5JrmSH1tgVSgtFxDxPybrcUIp0SdN0Z0VuLmXuUWPyI5TYbWDtdVan4jx5xpYxbdX5XO5Vcs+xh2oFs6d4NWdZtuGFQFmITSx5TLjd6vItXeI7FhP8ZDBM0ZWHfPWCEkSp8bNHIlIPAgrwsUVWjSL+6W3fvjhLb47dnd0ZZMe0sYqW1EH4Q49RIfDLe5mvsk5YhCZ7jayY0fIr7byB1woin7B7QxriokZwyeZm2BKj50r02CISr9dbe7Sg/9esT5pDTkMZJIsFg0+d5tfBqlpTvuhiTYA3UV8szAZgeulCpCDVYCYIe8LhQ87FmKbe3svAVAx8EERuIagpC/U2JWfwU/+X22/Cd0gyVUxkhVLZPcr/upHbqmT7Szd33x7hXUlKfy5tZqlBAnhgVTdRGg7AMsEZP7wdA==;t3EFFi72pKucW2ufSfk5TQ=="
 ---

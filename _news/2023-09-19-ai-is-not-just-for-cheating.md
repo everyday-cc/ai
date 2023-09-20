@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "AI is evolving for its own benefit, not ours"
+    excerpt: "Our creation of artificial intelligence has unleashed a third evolutionary process that we don't understand and can't control, warns Susan Blackmore, author of The Meme Machine"
+    publishedDateTime: 2023-09-20T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25934573-800-ai-is-evolving-for-its-own-benefit-not-ours/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
+
 secured: "yQ0Vyl5M5bQ0OsUyDyWWY/ercKJADqylfEaUXoOdyBd3xljsjO0MdJZmUynBLTQpbgOlLXVxV/JRB8jmrekxP9iAJN0xFSaMYNIaTxhOT2nQKGUn+GG5t1Ne1GDuCmIARSK1xLV0ppN5Nw46514fE1TsxSm2V56Ga6mTQkNLOAB0fY1qppDPK+xJ7OmhYDf1xB2NAa2Mx0el/yzZnFQ40gityu8ZZfVZ/5KLpqR7MODSOdyPUvqoLPanfolI1zEeXe3vcMDqdm8AYCg6ed46QyNkAtf8E7a39Vyn3ytlirKWvJ4p4xVltqLyrBcE6wYu0u+XGQLn5Zdm3LMXANiRcY70vjdJ2slJz7KYkc98xHQ=;Qb6xpUVO6MCbB8C4+cIk/g=="
 ---
 

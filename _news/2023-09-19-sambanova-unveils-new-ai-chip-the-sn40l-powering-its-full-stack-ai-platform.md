@@ -75,6 +75,15 @@ related:
         width: 1065
         height: 642
         isCached: true
+  - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
+    excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
+    publishedDateTime: 2023-09-20T18:50:00Z
+    webUrl: "https://www.nextplatform.com/2023/09/20/sambanova-tackles-generative-ai-with-new-chip-and-new-approach/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 34
   - title: "SambaNova announces SN40L AI chip, capable of handling 5 trillion parameter models"
     excerpt: "SambaNova Systems has announced a new artificial intelligence chip capable of running models up to 5 trillion parameters. The SN40L is designed for training and inference, but is only available through the company's wider platform 'the SambaNova Suite' - a combined software and hardware offering."
     publishedDateTime: 2023-09-20T12:27:00Z

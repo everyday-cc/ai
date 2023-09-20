@@ -23,6 +23,17 @@ images:
     height: 497
     isCached: true
 
+related:
+  - title: "Spiff Updates Sales Commission Platform, Enhances Generative Artificial Intelligence Tool"
+    excerpt: "Spiff, the leading sales commission software for forward-thinking revenue and sales organizations, announced today a series of updates to its platform"
+    publishedDateTime: 2023-09-20T17:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230920598892/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
+
 secured: "wPDroJNhIqpwPuX+4yeUXbKbte/tGbkSC2M+Z65ctIVm4qGh7dxZ+uEHXetUoEsof2VxSmKlePs4GHEESNhZtPamw/xi1a2WAEp1xxAnzZk+IXVuV5i8T7MzbqU+zAHqDypABLyZg93XeCA/OzmBqtPcuV6QF9eaVVA+1OF9Yy8hRsBdNWyxHGBmy1Mn1rok0lz2iRsWXodtvqQ/CAeVAXhHOnwNlhwFdPEXI4vmGqeqv7fm8BHzeu2fD14VgXMTjlVluUdlxJi0SsfAkPalV7E1rMlpqylOH1fvRx9KlYogkndlyekCYtl9jXtqZoQ9DetaAhYa4f19QPiUFgw0jVytqguhHiCuN6bv/Tvjs7pKHpuDjptJG2Ofjg9os2fLjJQAnqs82/mCTTEHKZ7Wvg9WMYZ+vTsFgS9JEMR5rD0eHzPLSE76ZimBksyt3MA15HaQs1v++0ZCZCl9OPWJmzogQyHod5qe9DvUsPys1a/nLundAR6wmfJEnKc8K1MiEnt7zEEJF/HM54/otJlpgg==;rY4Tge0bOXwLi8KeKGOyvg=="
 ---
 

@@ -59,6 +59,15 @@ related:
         width: 945
         height: 533
         isCached: true
+  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
+    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
+    publishedDateTime: 2023-09-20T18:22:00Z
+    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 9
 
 secured: "b8cM2nwsCW0j6Icia8+Dc/hcAaEA0O2ufo0cYM7WH2iaZAo6SfQSjY74Hljn74CSjeN6nJ9ahT1U9U228cnRdO4FgCu4xJNcePoF1J++6U9HQVaqTvHv6uywcMiw9EEHkU4Sx0JLgkwlWvBQkksH8vbbov6G8QsEcW9WZ9f9htL3ZTc3SRSJ+53wgfelJSQYtOh2b/maMHB3Xp6wSgA4Xg0eSoAsIp+yKH59Gs/8xW2MKE5mILR3t0NWbmlCL5EGIaW8l8xCORrKV0TUvyYBsaGr/JU8oAvXjgtUrTyiXy9nnApIcbyYdqyTLTf7lEXAN7sgDIk90HimxFwxHg72ov6OCVO+ZBF/oQmi3h7RGr4coJe+egkKfw0oRYhzztNJh8TcvTjecM6Bgwi0RObYS41MaUdm7EcpIjrLpuOsFi94XrvLD6gC8sBUQpAPphO1jK4xLM/uQeIYqPr+SMMQhPFNLt1cNmjaw6EvH2ovYmPl8Ij4V4GZ2kXpNg004OIeJDU92Di5vqSTWOwL+ekc6Q==;qvHcdvD7ENsOaSYXmydhrw=="
 ---

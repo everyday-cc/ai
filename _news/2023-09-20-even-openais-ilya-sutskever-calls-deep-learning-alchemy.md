@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T16:07:00Z
 originalUrl: "https://venturebeat.com/business/even-openais-ilya-sutskever-calls-deep-learning-alchemy/"
 webUrl: "https://venturebeat.com/business/even-openais-ilya-sutskever-calls-deep-learning-alchemy/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

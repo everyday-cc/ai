@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-ge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/pedophiles-dark-web-turning-ai-program-generate-sexual-abuse-content.amp"
 type: article
 quality: 84
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 602
     height: 339
     isCached: true
+
+related:
+  - title: "Top Five AI Programs to Create Content for Real Estate Websites"
+    excerpt: "By utilizing these AI programs, real estate agents can save time, improve productivity, and ultimately achieve greater success in their business."
+    publishedDateTime: 2023-09-20T17:10:00Z
+    webUrl: "https://realtybiznews.com/top-five-ai-programs-to-create-content-for-real-estate-websites/98779341/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 19
 
 secured: "TOKujk2ItjA8XafjQYYDDxUGpZtG3z1fnPWrnUdgxjAa/cxbxNixkS3r9Kj7ImJwkmTO6v+9GAIEjLfpdOMmtHSdfBELJwfkx8aXo68QdSZQvEQ2nCjIPnBAM64WX8tuFmmSZ01Kp9kgV1dGMXp7NTw6tQA+og6lK8vIzAthjaSvnVneTUc9ibTy1n3HL0dwBJErLviMd/lt4K6DRNaoiNVOsRJccKwUCAcq0TBZZI6QW2LKMXqvk7sPd61MtvQ54aigGC+2MiamEal14IBA8ghpAQjY+evuU07cMN0FahgNugPFM8+56N/S87EIDYfOObPIixKVNdgt8npd7oNYHfuSrPzMNYx6RqPx/T9gjAM=;h1lAlful+Di78OmIq1vjNg=="
 ---

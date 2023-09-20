@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:17:00Z
 originalUrl: "https://www.aol.com/finance/cathie-wood-steered-clear-arm-141757469.html"
 webUrl: "https://www.aol.com/finance/cathie-wood-steered-clear-arm-141757469.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: AOL

@@ -6,6 +6,9 @@ publishedDateTime: 2023-09-20T17:50:00Z
 originalUrl: "https://venturebeat.com/ai/servicenow-vancouver-launches-with-domain-specific-generative-ai-smarts-new-automation-tools/"
 webUrl: "https://venturebeat.com/ai/servicenow-vancouver-launches-with-domain-specific-generative-ai-smarts-new-automation-tools/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: VentureBeat

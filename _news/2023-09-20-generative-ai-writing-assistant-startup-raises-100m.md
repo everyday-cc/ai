@@ -27,6 +27,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "Corti raises $60M in funding to expand its AI co-pilot for healthcare professionals"
+    excerpt: "Corti, the maker of an artificial intelligence assistant for healthcare professionals, today announced that it has raised $60 million in additional funding to support the growth of its technology that can understand patient needs and interact with doctors and other emergency workers."
+    publishedDateTime: 2023-09-20T16:32:00Z
+    webUrl: "https://siliconangle.com/2023/09/20/corti-raises-60m-funding-expand-ai-co-pilot-healthcare-professionals/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
   - title: "Corti, a health tech startup using AI to improve patient consultations, just raised $60 million with this 12-slide pitch deck"
     excerpt: "The Danish startup, founded in 2016, raised the funds in a Series B round co-led by Prosus Ventures and Atomico."
     publishedDateTime: 2023-09-20T12:00:00Z

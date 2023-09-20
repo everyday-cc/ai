@@ -53,6 +53,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Intel CEO says the chip maker's technology is central to AI boom"
+    excerpt: "Intel Corp. Chief Executive Officer Pat Gelsinger, plotting a comeback for the once-dominant chipmaker, made the case that the company's technology will be vital to an industrywide boom in artificial intelligence computing."
+    publishedDateTime: 2023-09-20T17:19:00Z
+    webUrl: "https://techxplore.com/news/2023-09-intel-ceo-chip-maker-technology.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
   - title: "Intel, playing catch-up, seeks to bring AI to the PC"
     excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
     publishedDateTime: 2023-09-19T19:17:00Z

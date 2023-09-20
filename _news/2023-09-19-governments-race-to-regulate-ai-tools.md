@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pa. state government will prepare to start using AI in its operations"
+    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
+    publishedDateTime: 2023-09-20T21:31:00Z
+    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
+    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
+        width: 3807
+        height: 2538
+        isCached: true
   - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
     excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
     publishedDateTime: 2023-09-19T15:11:00Z
@@ -75,6 +91,15 @@ related:
     provider:
       name: Law
       domain: law.com
+    quality: 19
+  - title: "What’s Next in AI for State and Local Governments?"
+    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
+    publishedDateTime: 2023-09-20T18:32:00Z
+    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 19
 
 secured: "wu5tyTIIkojLxALleujyfI1lHcdXg0LDc5cdjoNSWu6b7zmsN+UBuw9sWVF9NWnv1JrMqlx2Zh266codUTEB2BA6TNDDcnCy8QfPCt2GI+G1T19Tsa+wd9gmsT7kynbXaSeU/inmmbHMh4WaK7x1GzYQLykneHfQBzPKQtNiUfs8cOjIR5IWgXB8O/LFWVB/GmEHRPOvGwNpSbjPlHRME35D/1jqfMHprxUo1cj+jbpmKiPLMqFKWN+TMgq3rj3u3vuFiCCUikPojM574ZYB2NGlzzHarldD7Gvd2vF83sxynux31Pjxf+nKTFNYw0ZlPR5WwlAKKoJN1ByL8dAFRjaU9UCEhSb98S1fZZlibQZqvHRFR0iODgeHRFWf3vZcBHLvHvUeZTAWryBKZP91/e1vJFQMMrm0ELru5Va8wFs/6e7SEGOAvepX9aqURtZHWYrd8A9Ol6zJlmX5rwtWSufFm2KkOk292JqX4c7Hf5eF+iNUiuObjW2iKoSVLtmH+DeqM5VkkoOvlmRl7Yg6TQ==;Kdfl72J3k/YXyADls5sbNw=="
