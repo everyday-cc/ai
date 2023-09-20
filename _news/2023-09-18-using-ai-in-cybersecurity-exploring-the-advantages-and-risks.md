@@ -54,20 +54,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
-    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
-    publishedDateTime: 2023-09-15T20:30:00Z
-    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
     excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
     publishedDateTime: 2023-09-19T13:45:00Z

@@ -66,6 +66,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
+    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
+    publishedDateTime: 2023-09-20T13:19:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
 
 secured: "/164+9CCiU2TgtDxYOJtONdufMs7sflJ6tlSd8R2AHG9IGAtI/ZdS2N0gDCEYxNvxQtcv/u6g5w+6tuaPwAE++gL6sL73Oz6DG44r1VWhtaZrYpwD24JPLB7Sm8MeKJ2PiOHMD8Q+lKEoIymVSr+/wOLx6qGFKwl2BQyHqxXtSMk7+Js/N93lx9xie0jqznrAUK4mQ/Q79AW3jk7iwxzCMNx9vpRHJ3ywRzUHKkr9Pv4qiO3dotcAQ3d3NbiOVh3TTfSFIWbRaKnNFjBS9jrImThD3QOZRirTAdbGfJ2aZBk91urlPVfrUuvg2A2sm+ZfxeVILHviuU1Nu/5J/JaZ4MkCBZlWAT6hrLgbxMKTkI=;w44trkkoYQs/uBSXXqNYFg=="
 ---

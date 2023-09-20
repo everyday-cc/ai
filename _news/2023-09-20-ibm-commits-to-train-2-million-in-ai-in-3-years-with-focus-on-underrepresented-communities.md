@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IBM Commits to Train 2M in Artificial Intelligence in 3 Years, with a Focus on Underrepresented Communities"
+    excerpt: "To help close the global artificial intelligence (AI) skills gap, IBM announced a commitment to train two million learners in"
+    publishedDateTime: 2023-09-20T12:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-commits-to-train-2m-in-artificial-intelligence-in-3-years-with-a-focus-on-underrepresented-communities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
   - title: "IBM Commits To Train 2 Million in Artificial Intelligence in Three Years, With a Focus on Underrepresented Communities"
     excerpt: "To help close the global artificial intelligence (AI) skills gap, today IBM announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities."
     publishedDateTime: 2023-09-19T14:07:00Z

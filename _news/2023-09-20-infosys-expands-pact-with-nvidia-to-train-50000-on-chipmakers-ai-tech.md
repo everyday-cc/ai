@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infos
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "Infosys and NVIDIA collaborate to help enterprises boost productivity with Gen AI"
+    excerpt: "Infosys and NVIDIA expand strategic collaboration to help enterprises drive productivity gains with generative AI applications and solutions. Infosys Topaz and NVIDIA AI Enterprise ecosystem to integrate,"
+    publishedDateTime: 2023-09-20T13:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/infosys-and-nvidia-collaborate-to-help-enterprises-boost-productivity-with-gen-ai/article67325931.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 14
 
 secured: "2qAU+ugiXolXO8pmTQi+oDuLdO0Ij75nU9Bbvtl3D2Puwv0PqVbxUEEqJ5ivd41E+tiNWYEZFocQ/82SidlEFMJSlFIiQkv/5pMEFeuNv+G6y4II01j+7RY8NnRZV8wPSOGTZHTLFnTVJJarUf/dsolWuQN7uxCHZbn04ar2o5hsEweqNEM3SMcQIntVwgmjaOQTP7JCx/KgyK4L24VB87Wm9n6z4KMNIABsn+EOQQ+Z1wgVG+t8ezRueK7Y24XEOXrCu8muKgXUe8qhZZBjZcXuiTGKu0GGO7J/Aqm6QxV98gqr9RzRkKEbETZxVuVhnPWDGWp3RGSa/aBQKkGNPmg7P3HguROfnFm+YKqnxEY=;dJp81bg//gGPNTQEGoYa0g=="
 ---

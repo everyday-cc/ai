@@ -43,15 +43,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "New research reveals weakness in Facebook’s fake news policies"
-    excerpt: "New research finds that the COVID-19 vaccine misinformation policies of Facebook failed to stop misinformation."
-    publishedDateTime: 2023-09-15T19:54:00Z
-    webUrl: "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html"
-    type: article
-    provider:
-      name: Pacific Daily News
-      domain: guampdn.com
-    quality: 4
 
 secured: "Fenus0QameW8oiWUXP4AgnT5xzEC+w/povymd9PRKFNDRM+p5Wf2ofR2sX6HekS93PXkjZvuzEpngOWiVEgP/zxCxNJm5VPm0sdkjazLr0xFRewqRLHFnGGetpcm00FtpE2UO58E+0V6ebOTCpo1tIlZmAeCGvr7tuqa94U/6YxIVPjIFPTYz9kd4OJYOO/OVIiPlkAuWiBL2HZ6qL2vzM5NNWk/UEjDx8ezSPcaqlyZA5NlCVGDUBGIbNMq6ao6InZxwG6YoNkYWLnoN3sExbDzilN4qNzFlKcdrtAYmJD4FgZ7NPNRWBru53Sn3j5eoFRobr0P1ffNm8osLe+pVoXHspDDJQbmQJT4BhLMR9g=;F17bLoeuaAk7kEWQ9oZTFg=="
 ---

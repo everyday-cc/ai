@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
 type: article
 quality: 104
-heat: 274
+heat: 314
 published: true
 
 provider:
@@ -109,6 +109,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s new AI tool can predict genetic diseases"
+    excerpt: "DeepMind says its DNA mutation predective AI can be a game changer in the fast diagnosis and treatment of genetic diseases."
+    publishedDateTime: 2023-09-20T11:44:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-ai-tool-predicts-genetic-diseases"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 64
+  - title: "Google DeepMind's AI Tool Could Pinpoint Our Genetic Faults"
+    excerpt: "It’s becoming increasingly clear that scientists are only scratching the surface of what artificial intelligence can teach us about human biology and disease. Case in point: new work by Alphabet's AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease."
+    publishedDateTime: 2023-09-20T14:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-09-20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Google's New AI Tool Predicts Danger Of Genetic Mutations"
     excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
     publishedDateTime: 2023-09-20T01:51:00Z
@@ -250,6 +268,24 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Breakthrough: Google AI DeepMind successfully diagnoses genetic diseases"
+    excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases, a breakthrough is anticipated to accelerate the process of diagnosing"
+    publishedDateTime: 2023-09-20T13:41:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1111728-breakthrough-google-ai-deepmind-successfully-diagnoses-genetic-diseases"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 33
+  - title: "The Download: AI movie soundtracks, and DeepMind’s disease prediction tool"
+    excerpt: "The background: Back in 2021, DeepMind announced that its program AlphaFold was able to accurately predict the shape of proteins, a problem considered a “grand challenge” in biology. Now the company says it has fine-tuned that protein model to predict which misspellings found in human DNA are safe to ignore and which are likely to cause disease."
+    publishedDateTime: 2023-09-20T12:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/20/1079895/the-download-ai-movie-soundtracks-and-deepminds-disease-prediction-tool/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 32
   - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
     excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
     publishedDateTime: 2023-09-19T12:10:00Z
@@ -260,6 +296,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "HvT7gdIJJ2L/IhH0sKlk88AL5eZYyvHKluyj2CtdLDp8ogXmnhPlZHfXC963o3+fCLgsd/X41StqJWNQ0Il44tZBO5OQ7WVY6J6dRELPCJVRUjDUEfOpqvf/n4xBjXPcuyz9mnuCq7oXOnq8n8NNWxWH3Do9YsmyNEbmoM88SYksMlGSyQ9+VK/SrELs0z5R7OYwbxWzp9qOgmlWWFNIls9GUYymhE9wdqBntBekBkF5obHlAkCKveeN0jUkpW0TRQbmB10FwXckmytdD/ECxj58K2JnXcSGdVCLvzmF52jy9isv7lkHJVa5i7HFfon11oW7NGjXoCAF+JQtmgEbW73MQfJUPJMcjIF/GNTXPCU=;AZMTFH75YIRki6kM6ejV5g=="
+secured: "VvhJ8U4DgwQ3+t9AJqfCgZ5F/MAeLu0XN1w6i/AAEJOnzFGBmjh3/KbTGmLC1nVHGpxSyrH/cZVgzCJDxrzMMawX83klgtifXzRhbLq7//0V446vPn2wYuCejM4LEaqcQLzGUPNm72d4kcZX0uR6ToIYPOYZvf7pmdJ+rJGJPXUH9Zfiimnve3PMwBoiMBj4o3r5dUUI0zXvxZrxfUwnfOktu69nvS1sjQzKKLh12TD4L+BAuCMdtmrMd0hAXD644FnVPSw/1UHiaGQk+w20+f8lsIKvYzEx4/stLxcG39b40m+ks8/o4AxfS5ktQ0th5oVc+EvKoltNvPkWEGzGQBfXVmfbAt45YjOXNH9EFW9/sEzKkH2GvBuDSBmrGB5Zv1lcig//b+eF0Wlz8MaXtwQJvTrW7kx0twpQRIEShv5ZW+2PO8ifdk70sc+IQ4me4IY10Zi25jX4PV/i03VtKeLFQowiFKBJzNvu5qrChE3Hl85WGm1Dk9ArIORLe7kxJpvgea3Gf3N/VXHfjtDB8w==;MxLRzRWKualKOsZavhD0mg=="
 ---
 

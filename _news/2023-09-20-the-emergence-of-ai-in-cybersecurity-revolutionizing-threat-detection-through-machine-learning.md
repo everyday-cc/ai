@@ -57,20 +57,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
-    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
-    publishedDateTime: 2023-09-15T20:30:00Z
-    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
     excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
     publishedDateTime: 2023-09-18T13:00:00Z
@@ -141,6 +127,6 @@ related:
         height: 901
         isCached: true
 
-secured: "wek3xvXxCuDiv0oegE+jwcK8w0jIxBgCOpuGZJ6QtQbAtpOsPNXEAJQLmWrbNq5REePzOBXnHcY2NkO9EOOPwVKBn5oPPFTAowwhrvGlKgBAHTcT+Fsrq+tpgk55AnCCHxW9m7nUtCDaBNjy4zabv79ZVhSb16wwRgPAR9Brv4X+Ci9Ahc7gPIe2MhUvE+22/57W+z/dxwa8UPMmFGdvNe2LC/Zng8OZS2jeJhC729QKd/bCsHEDq5ac5zPM3nReVajuOb9W3RPJ3K2+lzRD5w7kYT76XH6P163Hxm9DIqo6b3UZjUyyxIbTrY87lnzGn+VHnu6kavQYTLs+Xd/4nVb/T2BlpC/hd1/TzUIvCWE=;WCiamcQqjw2ZuLzgKASgVw=="
+secured: "ST8X3NKMV0m8QgA7AqaO1VHOyV1Wf2RHQpTblCRdaBnf4mmrm+8g4euHkKFlulnP4rlUGNSU5bcHP1sU9pFyrdjIuhyLJVr9yqOFKg3cFZGhRcq28MfRk+X8ROq50S45Yot9xvshnGnvLdzpPClPwqfWUDC187GDZXMgUcr+o4Rxd5qnBLe9njGlX5MN+lvskslQsFc14MOwNMhevwxq99E1FVXNeEq2IzeATQdHXftD2CgDNJMKIfKcBjT/X5yYLMfRWDttZz2tDgnV1yUBjaQGhTZQ8my/etJXjw/62PV+Bu8AiTxcSG04Xp0cEpsJgAg9rfoQiYBH25QIX1DCUUZkaU1mLHOSC6/rAydCtjF8eZj8RvIKDruGZ49jM9H4oRFMCSStd3LG8G3/0ZChP4tXg4G8HZN0J4vcKZkP0XadVIqsP1uwbcFlIvcMdqvebNtzKkO+iWz6S+z0/SIw44hYKdAVLOP4GT2NbhblbKYK7OacOFZhoPXnIcClguIbLVIJ1UeRAUvG51DD/vP4+w==;NtO3GThDfRcY+1Hkvj8bUw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/ai-powered-robot-can
 webUrl: "https://interestingengineering.com/innovation/ai-powered-robot-can-reproduce-artists-paintings-at-scale"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Interesting Engineering
@@ -34,15 +34,6 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 34
-  - title: "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings"
-    excerpt: "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces."
-    publishedDateTime: 2023-09-15T19:30:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 29
 
 secured: "n1KxvHp52h4+ClsCL5vEtBLhPL8VD8gfgtmAsqz6K+24WtpGNDLKqgEbxgmG9cr+Iq+my4sf7HqgekcaYRUIxX7N9yMimELdPb0XLUaANAoT1ds/VPLlsytXckVB56N1arBI6ymRN2vQ0MXFgA5WNXXGhe259itWKA/ktrl/Kz7AMui/GqqfNtaf6bM5j0KO6cr6ySz0Fv0ybHafPOw2wlDOuKgPGW8gOcSmCvlLTbAwVPxVvMhzJjxrSONRvTx3FKbcleTW9Q/4hkbskuNiWBzKlHZy28NX7Vk3Mp8JIE0gsHMGFUhZHVB45NOIbvv61rCBH/8C0Agwt9ghnGzKPCyxKVp02pK6HptjGM3pHy498P1MUJEtWfbXVivZwfMzTQBuknfQVWBbW3cJbnhFY//ePEFPCuvEstXGVFV20g42Ba+AyAABv8cQ2+wXteRSNDlnqTB/BA3MMoOraXvwm7541kBLzItzeAMaUNwvwEy4LPgmwHvUUrMkVM/5XuTXAZL8X3NPIgE6sMbS0Ye3Pw==;6ennrZMdImewSPoawY6Jbw=="
 ---

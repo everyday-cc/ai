@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Deep Genomics to Present at the 2023 Elevate Festival"
-excerpt: "Deep Genomics, a leading AI drug development company focused on decoding biology to program life-changing medicines, announced today that its founder and Chief Innovation Officer, Brendan Frey, Ph.D., F.R.S.C., will present at the 2023 Elevate Festival in Toronto on Tuesday, September 26, 2022, at 6:35 PM EST."
-publishedDateTime: 2023-09-20T11:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/09/20/9884418.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884418.htm"
+excerpt: "Deep Genomics, a leading AI drug development company focused on decoding biology to program life-changing medicines, announced today that its founder"
+publishedDateTime: 2023-09-20T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230920974425/en/"
+webUrl: "https://www.businesswire.com/news/home/20230920974425/en/"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "sqV0NKGMhIsUlhv6LX+CPUsDAQrKdjZdFwzEXN7q5QkdVKCqMyKsZoQu6BFs3UuFqQqsdkFxe+wHc4eNOTU2u8r2jdUZqkahJPQTPUJQ2ta6RMzwN/9+PtShtG+SZ+VxJIf6Qsdiq8yhMba5BLJLYn2rbPrvdRq9+3TlGgNBvk1twpQYXXF4Mcg+3lfmRezClRYqXGWTKgVcdAEQSd1bIrNUgXtr1RNG3Rffmt7JDmUCoce2JWze3Yzyr2fj8n23WzlZi41zpfoY5rnCm76f5lOtO84POXj6KeHRRn4TijpWBtGSliaopzTBJ31wmk/MRiL0JNbZ8tq7M4COPNoHRseGtBTWojn9oG/AEfCMB3k=;umwq6rw23QCBr4z5J8Sx6A=="
+secured: "70xhZl0MpXjjdrsxDZbkP96SfNK4R7ME7mKiLo0+e6Sny4ZSUZVXWkidry//YWgn2WgD8EM4/uyh1uo4UMW2NqjXiZrqjiJxHHes5AIsQ/FAoczRGUJrszbhirHcto0QJAYh+k8imFLz/UMLo56TyIEoHow8/JeRRo1ro6qQJysEXGyaZOv3dMJKccPC0He9fPqLEMnm/LEScTAJtpXhqqH9wBetw+CFT6bDXNbSw8mhNcPplL5OLcgbSYb+1ah5Gu7kHYfvOUsb8U8F4iU8VmXyotZ08F6W4yS722H0XFtCIJzVnpkMnhbV7DPgFY/c4IjJbtFfq0ZYCj0rslHTUvQLt32603/yEuEpvnZ1ML0=;4MPPhgGqQSKllG4kwRw85g=="
 ---
 

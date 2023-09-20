@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "What Generative AI Can—and Can’t—Do for Contract Review"
+    excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
+    publishedDateTime: 2023-09-20T13:17:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/20/what-generative-ai-can-and-cant-do-for-contract-review/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "+SaVbg5Xeg/JWhlHrR03UaCsHSjvs0DI4W5FByPFe3JH83LVd1561cYZMr/6NrHWCAst9n+jAGQu2OB8kTBZiis1crNIgU3SuNULDFpkR5ZDlr9etV/CwK+LmmhYnx4lo/N6ddDHnf5riX3pvqw3nZ/rTwvH1smsGujVjyDIP6Tj0tTzRfKjvy8BtfEslTvxc5idHqv5Q07Zb4XJ1Wzb4n8y8dlW+s0deNAWc2f6S0e3Tk0Sq7aeUM0s2BuOW1xtXLnpgW72OUcTlbYyaMCwnwS7+KSpA3ftX5dPjfCgHokruis/yHW/Wf4KCkOgLgKnoBiFctPMakaJZmloSB4W6s6MxOrO80eG4CmWYXU4YSE=;vR7kLeTIeLSS+ihpdpGhBw=="
 ---

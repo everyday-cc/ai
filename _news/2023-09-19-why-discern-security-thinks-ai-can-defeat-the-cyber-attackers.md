@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-sec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/1f2ef88/2147483647/strip/true/crop/1170x610+0+134/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F89%2F6a%2Fd99b5d8e36b47f7b5d2a10a0a035%2Fshutterstock-160851050.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
-    excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
-    publishedDateTime: 2023-09-15T20:30:00Z
-    webUrl: "https://siliconangle.com/2023/09/15/redefining-cloud-security-aws-cribl-transforming-enterprise-cybersecurity-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Clint-Sharp-Ryan-Orsi-Clean.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
     excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."

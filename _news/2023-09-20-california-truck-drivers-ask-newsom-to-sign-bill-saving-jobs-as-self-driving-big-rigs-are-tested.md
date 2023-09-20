@@ -1,18 +1,18 @@
 ---
 category: news
 title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
-excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-publishedDateTime: 2023-09-20T04:26:00Z
-originalUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
-webUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+publishedDateTime: 2023-09-19T23:26:00Z
+originalUrl: "https://www.seattletimes.com/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+webUrl: "https://www.seattletimes.com/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
@@ -59,6 +59,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "ZX468ieDpQZm8sHNdMuG2C8YHhiDANoVZi1RJVHv7YKkPU0+1v/nBXmXyzFBVKp560zRFYpi8IIR7PCunThJkdu8uJ+JVLmouxXJmeKl6edQrX1zhCiL0anF8movk3zt/7avJJxwRIEpE/yl0k6KMxPXKd13drzjdYVEQ/6jlu2VsRuQFw9jVMg8AuO0905J1Kp8B6yBOvhVpfXsHCCLh0n/sJ0ZHW8GK0YOy+XlmZaH0ePcXmREJQOb4oHpS79iEwdxQuV+51i258jdjm/9BzXbQm368atiDhU+DvIb3wJnN8QEWT7ipt4T7t1HvFl/338RkBfJfacQp+M1Tra2w7YgcCdcpm32fEcOUxBOEomsxSxf42RwpBTigw8i9AqKFcmn/54zEEUT2FjIO4EgqZIoTpxzJ7COMFZCW2O3Hn8o/3ER/n09dkA042zpwiHBsLfWni2LoawwrEhzm12xglB6tEI8EwcD2wiQeakgseIaXsG1Lq2/S4nP/o6VpQWGmpR/cEeWIJ2lOr24ab1V9Q==;lR+ZhDxnaxVMw+Z3UYjjXA=="
+secured: "zXca3bSjfUaoGM+rdLoNfyjjc9tEjmPKABOFj4JCU1AHK/iDpNM4PkRYNx9X6IL4EJMAOVzMl6uygekHw5HAXS70ux4H/k/UwXAXnRgPLlwXqy6wCLDzCpDgVxz3v+NeyiE/NDzizxY/MFdR2LIYassZIrSv/4D54h1qym2ePDlVnhoWrGao5ixcTrINfPpA5/mwQ21mMdvBHCpvkSFhKij+ZYUxQbsVk5RJlje3M4eYlAHYGK9AG30FpArqKDAmmGe6n438I7NN/t419wSooGve9Lt7Lisw84P+mvgxtLY6Iac74sz51Blij1nB57WACbT86rAeHumJ58cUuSWa47PCSkbFuu5adGkcHMEzoTOPt6ev9/VNyx7fjq2cCaGogD1jEqtB6zydVu20BuIevzO3Ne+Mrm4nWA+POjZdGu3xFYXTmXLeO1CItl5F9K7CylOXzS71T8dSIqViBozPFcN86Sbld7YsrydXlBIEB1NdH7rEgOultsy4vR2dCiEL1sO4SLHHhGT0GAV7RbZoww==;MPAJz+fAmNL2ot8gPRkjPQ=="
 ---
 

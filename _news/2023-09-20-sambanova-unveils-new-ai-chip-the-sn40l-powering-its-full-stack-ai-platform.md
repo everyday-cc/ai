@@ -76,6 +76,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
+  - title: "SambaNova announces SN40L AI chip, capable of handling 5 trillion parameter models"
+    excerpt: "SambaNova Systems has announced a new artificial intelligence chip capable of running models up to 5 trillion parameters. The SN40L is designed for training and inference, but is only available through the company's wider platform 'the SambaNova Suite' - a combined software and hardware offering."
+    publishedDateTime: 2023-09-20T12:27:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/sambanova-announces-sn40l-ai-chip-capable-of-handling-5-trillion-parameter-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 28
 
 secured: "6CkeQEurHScae0Td6dm3UgAx1Iv4UYobDW1o+mfGPic1vBhFIUq57ODtGSNOqZ7Y204YcJCcBWoSabIT+ulgEyZ7CUQdK5s7SGwGJg3XJEqAbFFLmQaHSW/ERANOyAlYStOc5u7zy2SycINbfJidgwm+MCVTAw1Fh7JDn9CWmWW0obWD+Lq3SkD/nV7bGjLS/3dza7ihDqslCTY35qsy26a3UkVYX5+W4edYGUabEQp9OHeVgYK3bO2UWd7EeUF0rn84Mto091q5ILx5X/1nTu3K5gaZJbGlbtrue814EjO//5iPwMfyB82H0WfSlBlbHxWROKIS1RGe3wp6fd7gLnRUpXVzB79W+mZx4rMHIE03TyFj7hy+VtLncPUoHmn9dy0VHKBNpiRjqYXEhYSSDzns0HT8r/XbW0kKg8wauvADT2UHJBx5fKQAWokwmKFAxIGt/58fNQxIdGKYmJeTlR0n3Y0OZgU5YRTJ6psUBZuOLRObWaFQ3Rkc6XxwFfeDnm41Knk7eattnLS2i1AzHQ==;r5cotJsdTfXFAEWV2Jep7g=="
 ---

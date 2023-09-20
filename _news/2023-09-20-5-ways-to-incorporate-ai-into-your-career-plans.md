@@ -69,6 +69,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
+    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
+    publishedDateTime: 2023-09-20T13:19:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
 
 secured: "okNoXRGvZvrDsDVPXkJnmeugmMVhoi/vuK+TgDf704f76qRq+ZJ4ljH5ObREwvnGxnEzNI6sAYCPMoAlFNXdpnZGnuW29fwjpUg6Ihs9OloA+G3RAyaYH7RTFjR246MlIGxxSimijp+9chY/AgHXW4m6PhqRfwI1O6e9PhNCHeiHGz98+JG5WVfvsTqDMrLFX0P04pwo5FxwT3WKx76a7uDF9kQct1FKJg4nhkopaQl12VDrtzfVxEY+J4sWO1bVg9esVuzPppI0vvhoGYpj/2rtmZsnbLwvBemLFqE4wPd66oRf3RY1J3kLC620jbT5ZJsnUB6YZujsv3yh6kWT7L8Wep0PT00x7Wi+OKFz1eyu2/vfFvIK9ir/xJQCP6XQp/EYLA7KLgSh7idDBfYqDPujwvFwNXaV+592QKJyaRKd6QOFDr470rCThzdgfHHhjheBmcnRjIlXofOYAOFufyMVmcDTeSSe6woYCbxNsbV+iPxzTTFnbmR6b79pp4ScZLjCdGCOx2C2HwM+d7L2sQ==;tA60EoPh3Yxo9jT4v+ro6A=="
 ---

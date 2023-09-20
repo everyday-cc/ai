@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Shift Opus a UK Based Artificial Intelligence Services Company, Revolutionises Business Operations"
-    excerpt: "Leading the change in business optimisation, Shift Opus has announced its innovative solutions that redefine how companies perceive operational excellence. Offering an amalgamation of AI-driven automation,"
-    publishedDateTime: 2023-09-15T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34627949/shift-opus-a-uk-based-artificial-intelligence-services-company-revolutionises-business-operations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34627949"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34627949"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "dL0iom3JA2HZP+yu9ChzR1NIwXJDqr/3e2buzSasWNKib1SfUfUnMXSGdUwQCFzP4HwbSxADNNLx1wEsVZeb+HUR8C5OuzXAGqXN5XqXyCSmXH93mVTmrCOlRhz1oGzXct4b6pRzMEcG6EBqKFo16eLXwbpe5QnNVvU4sy9WbwWE1x/FczYOC6SLKrYGbywzhBVF1FZGMgU6i6cWsSQebUh0yG4XVnRzEjS4gTD7CCqPsxeItQovNuhfZ//jATdCzAlAOdHhKDAfCJoaNHRkqISMvbe5HRUGGxsFTPpxEh5UL8wwtXhlRdZ7DZiReZW/eI7oPmGZywCswgM9IyUWUdR5tm9B77vp1cysSenLq6o=;R2zPIeUuA3l/DmleV2FC6A=="
 ---

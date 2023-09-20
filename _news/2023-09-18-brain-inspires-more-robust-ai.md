@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 474
         height: 276
         isCached: true
-  - title: "Why humans can’t trust AI Why humans can’t trust AI"
-    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
-    publishedDateTime: 2023-09-17T22:23:00Z
-    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
 
 secured: "2iNp2/xGYyQysoJzirOOU9T59sugBsHTf3dwyq+cyZ6GmQWY/eWhCLm3h5qbKRK0vf0ho2tqZ07Q8w82Xzb8RyfK3i+jFTDtyVVTR++rUZTmtP44o4AB+a0gNmvbuGRgZvykR/xiXJOXs2NyOjPUJedRwi5ofYlokK0/cjE5HjoEq12XFhhozsoIYb9bcs/a1DTpnCQ9olbGuqjskqQZ7egK8fcnx7E+CkfytqD8oDPZkrJSElHhDLvvElGgWDBof9tf4Vo/NXVx87b4k9wMOSWNsuQix+OEQyZoLYMreh+NZ+SDScuYBOAts0jRiCd1Y3mHkS8YYIS182YVWzv2rMGFxcpHWlTp1Q7XyG+2xOA=;tj18dQYVY1V2HaO2s8V3KQ=="
 ---

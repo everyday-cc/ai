@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93302/redditor-looks-to-answer-the-
 webUrl: "https://www.tweaktown.com/news/93302/redditor-looks-to-answer-the-question-of-whether-or-not-dlss-needs-nvidias-ai-tensor-cores/index.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1440
     height: 756
     isCached: true
+
+related:
+  - title: "Nintendo Switch 2 to Feature Unique Custom DLSS Unavailable on Any Other NVIDIA GPU"
+    excerpt: "Of course, an NVIDIA GPU means that DLSS technology will also be included in ... If some of you are not aware, DLSS is a technology that uses AI to enhance both game performance and image quality. It accomplishes this by initially rendering the game ..."
+    publishedDateTime: 2023-09-20T12:12:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/20/nintendo-switch-2-custom-dlss/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 58
 
 secured: "P5bSHjdraqYcBt0iceAOiVHU6b83a+8veF7VNDhZXJMtcFdqje7l6UoBPzOILpP8u6tNAQGI7u1YULNwE7G+yT2nGWgH8g7NJKlHGP/z9xpBD/eB8ebw/8diYP6gjf5rApv9EBlk7VXgi0RbRHc2c+ZYeey6jKtCACz7I629c+cEVtSWnlzz4slO3EO5ScZ1Ee0rcT046TKv6iZxea59k+HsHK6XMAy0zSTiuBGcxQ+rbrSLCUV+cslrdabMqs1oAUGupbXF0+fe2OnHV7WnPc7H8BKDC0sh5AMJiqSouFIzstmrj2oUY+4ZOaAuZfd/n5+CqS4TFp3TeUf0hfSoTDAbNbHwedeA4B5ij/yNkg0+l+XjiYZn/vtjfxTu1GuEvktcNCADU4MEtIBCnWWOKjvth1nqfsw0cVViTf12jClFejtm18ZKuwTVpGQv/rY1YE4ksdTSfnGPMGPBGEQXMy+MS7QB/tefFyJdXfNpUfGBtkpuhz82/UwtOJV3BFXCGP/5KRkbMxig9y9qh7wvbw==;mju10i9zvn5112Wbnq6C0g=="
 ---

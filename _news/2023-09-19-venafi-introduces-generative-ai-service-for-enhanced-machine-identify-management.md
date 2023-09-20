@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Venafi taps generative AI to streamline machine identity management"
+    excerpt: "Venafi’s Athena, based on a new large language model (LLM), offers users a natural language interface and provides developers with automated code generation for important integrations."
+    publishedDateTime: 2023-09-20T15:45:00Z
+    webUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html"
+    ampWebUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 74
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2023/09/article-2-image-iStock-1354205086-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Venafi Leverages Generative AI to Manage Machine Identities"
     excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
     publishedDateTime: 2023-09-19T14:48:00Z

@@ -24,6 +24,17 @@ images:
     height: 249
     isCached: true
 
+related:
+  - title: "AI-based Surgical Robots Market Size to Register USD 23.8 Billion Globally, by 2030, at 18.6% CAGR Growth"
+    excerpt: "Global AI-based Surgical Robots Market is valued at USD 6.1 Billion in 2022. Global AI-based Surgical Robots Market valuation to reach USD 23.8 Billion by 2030. AI-based Surgical Robots sales to account for a significant CAGR of 18.6% during 2023 – 2030."
+    publishedDateTime: 2023-09-20T13:40:00Z
+    webUrl: "https://www.medgadget.com/2023/09/ai-based-surgical-robots-market-size-to-register-usd-23-8-billion-globally-by-2030-at-18-6-cagr-growth.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 17
+
 secured: "T2UvJlJKbX14E6Q63OF2l2hTdakiuL68+elmFTtDtUi2wzt2K8jkCWa16dOlGY+UaqTE2/uTbW5mnKaOW0Azs719d56dtTjt6O2tYBPqO51AuhYZRBBSOCTVVIceJZuXviAltCL3CDpX250sLh4NQoMeiHW0OqdxSUS+2WWuRF2sT4OYtFUQwMzA708hWI1eqjzNqmUod4UVJzStQz8USLZ2c0XkHQS+fYs9NjGFK/je8B3cCI0qIlQ6w8tzlf7BHNtlI+ECYMZ4Us1Uy/y/cmbbJ8KtU6YRwgXW92GDcFJq/9RZcdL0I4NOkIN6F8M1+yw2+8El8qcTOVTaVVKJGsBFhDGBWD82hpjUxOR99eM=;/alp4I8e95obDARqBrxuhg=="
 ---
 

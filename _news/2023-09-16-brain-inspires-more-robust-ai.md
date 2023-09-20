@@ -63,15 +63,6 @@ related:
         width: 474
         height: 276
         isCached: true
-  - title: "Why humans can’t trust AI Why humans can’t trust AI"
-    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
-    publishedDateTime: 2023-09-17T22:23:00Z
-    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
 
 secured: "Bx4GMUw63wawmbRbmpSKgu1Qxjlopjwyz0YWocL2Gkj30O8vplxLAq7LEvLeB0T4BqJCVAYxHwry/Ua7e8dwv+5TrwYWtiqk9AVSPfQi5ZeP3NkgIZjG/XnFDTuGrBvkQF3yknEVV0S//qdlm8qTTCpuTGpweQiALeFdR5L7m0YN4HL33/CDPjrUQrBE63dREhmEX5X1EQ9YeMObQU4u1V4vLeK+Qf53dn7bC1u1lTWzV8kFG3YZSLMIkFyCETUZdeQzV0S8hSt15QTy4RlBAD5N/rhr3aF6ML99sijMbEz4h/CP6t/Dt21/VxABhYRs52Bmd1bJ/+ew6ZQunS4PAJpyQlA5xTJQl5QuvtAl+/UqAEDZY4fTc3bVb+2KiQeq1jd+1LWJ4RxJl9rI2pZt2++LweKID188YNXMFxbAQoGzTQlyVMpC0QbBpjt8boyXOq2AdcPSpODxNeOIqQ+GwGzT/Cd1iJrt7MaI5KSaoFY/X/R4LfF8vqNJjWgjzPLtMgzsgsbgyAXyYtPs/dYOBg==;kqfy9Osx/Opw29Vl3o0f/A=="
 ---

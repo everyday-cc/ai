@@ -47,6 +47,22 @@ related:
         width: 1125
         height: 849
         isCached: true
+  - title: "Everything we're expecting at Microsoft's Surface and AI event this week"
+    excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this week. Here's what we're expecting."
+    publishedDateTime: 2023-09-20T13:59:00Z
+    webUrl: "https://www.zdnet.com/article/everything-were-expecting-at-microsofts-surface-and-ai-event-this-week/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-event-this-week/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-were-expecting-at-microsofts-surface-and-ai-event-this-week/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ae622570e582fe0a96fd327e4fc9a1568a6e55ad/2023/05/03/db1dd215-0cb0-424a-95e3-9ec44538759a/bing-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-18T11:16:00Z
@@ -74,20 +90,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06RB9Pdc5UaBy8fkYpbKaAj-1.fit_lim.size_1200x630.v1695053260.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event"
-    excerpt: "Some needed upgrades for the two-year-old Surface Laptop Studio seem to be imminent. Microsoft's upcoming special event on Sept. 21 is going to be more of the \"let us tell you about how wonderful our AI is\" that seems to be in this year's marketing playbook,"
-    publishedDateTime: 2023-09-15T21:57:00Z
-    webUrl: "https://www.cnet.com/tech/computing/microsoft-surface-laptop-studio-2-laptop-go-4-details-leak-ahead-of-ai-event/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 83
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8834c381beb60e3e9d9e3d2e02c4d36345186b77/hub/2022/01/28/25862542-0ad9-4ab9-a880-1c16493e6c54/surface-studio-fresco-dsc00376.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
     excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."
@@ -201,20 +203,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 58
-  - title: "Microsoft Adds SMB Security Controls for Windows Insider Program Testers"
-    excerpt: "Microsoft has added Server Message Block security measures for IT pros, which are now available as part of an early Windows preview release."
-    publishedDateTime: 2023-09-15T22:29:00Z
-    webUrl: "https://redmondmag.com/articles/2023/09/15/smb-security-controls-windows-insider-program.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 55
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/OrangeServersSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft AI team accidentally discloses 38 TB of private data"
     excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
     publishedDateTime: 2023-09-19T09:08:00Z

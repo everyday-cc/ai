@@ -37,6 +37,15 @@ related:
         width: 1000
         height: 529
         isCached: true
+  - title: "How AI is generating change in newsrooms worldwide"
+    excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
+    publishedDateTime: 2023-09-20T14:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
   - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
     publishedDateTime: 2023-09-18T19:05:00Z

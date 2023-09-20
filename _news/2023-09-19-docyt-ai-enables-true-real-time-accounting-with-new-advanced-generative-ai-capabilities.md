@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-a
 webUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 15
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "rd1mSjDb3qzZNVBeFgPTdmIZa1MLk2q39gI4vgvTcEqlNhuHYK5LhjNECNm3TCMqYElM9C/MFX3NBr68qcnieu3emfJ7NStD4l7B1jbIray/mv1o847qrX18gXNS9vrAh0sqdXs7B8q9HPSb56AN2fxNryvucQSNTluA4pYCyFC56q04UD/3fgXW2EiD8wW33e0IUTcmFUJgYFmDBYWgt9RV9nF4eItx00A7w1SLid3jfa1qtj1UC/uxDZChdbfRFMoKTbdYTQvm5tl5xq8yinWlr4v+2Ew8mm6gkz6FB245L71eJQ6CqZjBBahVRfBQ3bBCapqJ9Nqz5gFJXNYVUcIjf2zoAAXHH2J4rOnHRWY=;jzB0y23GdKs8LiCyH534IQ=="
 ---

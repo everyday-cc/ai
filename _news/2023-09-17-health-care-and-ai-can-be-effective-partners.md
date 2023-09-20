@@ -41,6 +41,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Congress Navigating The Future Of AI In Healthcare"
+    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Schneider Electric Issues Industry-first Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
     excerpt: "Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to addressing new physical infrastructure design challenges for data centers to support the shift in artificial intelligence (AI)-driven workloads,"
     publishedDateTime: 2023-09-18T15:03:00Z

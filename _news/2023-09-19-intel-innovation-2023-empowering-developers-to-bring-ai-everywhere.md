@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/intel-innovat
 webUrl: "https://www.joplinglobe.com/region/national_business/intel-innovation-2023-empowering-developers-to-bring-ai-everywhere/article_d5985576-3c70-5561-9bc5-4d0383f4af15.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel pitches the 'AI PC' at software developer event"
-    excerpt: "A new Intel chip due in December will be able to run a generative artificial intelligence chatbot on a laptop rather than having to tap into cloud data centers for computing power, the company said on Tuesday."
-    publishedDateTime: 2023-09-19T21:17:00Z
-    webUrl: "https://www.aol.com/news/intel-pitches-ai-pc-software-153950235.html"
+  - title: "Exploring the 7 Types of AI in 2023: Navigating the Artificial Intelligence Landscape"
+    excerpt: "Explore the diverse types of AI, from Narrow AI to Superintelligent AI. Gain insights into the characteristics and traits of these AI types."
+    publishedDateTime: 2023-09-20T13:24:00Z
+    webUrl: "https://opencv.org/blog/2023/09/20/exploring-the-7-types-of-ai/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: OpenCV
+      domain: opencv.org
+    quality: 47
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9d4d31b68853f177b1e082cede004480"
-        width: 800
-        height: 524
+      - url: "https://lh3.googleusercontent.com/m9t0uXZKngwJiQkj3b4BzoHB4cjmSVHvJeO8S0VebGCQwcgPHsQus8z8w_rJo1pI8lBAFG0bYUt7zI13xan1UDmfKOJHskO2_hOVY4hoROHWATJTb2712s2BAat9FZf9ybCOh9dMP9QD-XU7x8ftJKE"
+        width: 500
+        height: 281
         isCached: true
   - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
     excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."

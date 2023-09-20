@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-the
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-the-deep-learning-based-nonlinear-holographic-image-restoration-1032636674"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "WiMi Developed Deep Learning-based Holographic Reconstruction Network"
+    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a novel solution, deep learning-based holographic reconstruction network,"
+    publishedDateTime: 2023-09-20T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-deep-learning-based-holographic-reconstruction-network-1032643134"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "yLQKftZvLZ1MbI0XnqvZevPpqK1VSUiDD0cZfp+QqHtJ8Ls0ekuKdasZK8KSs+fj7s8De58jRN21jx+A6oet+nEBEAGYFluhOtXJHojfJN/HUPy3ebHAYmcQrnLs+hTwCP+DTI/may2pBFTsIoSMYi8WCyqPBFTtQmSD6fLcVNMeZHWbFwekYk1pTLfHFpFnDFjkMm+5DKDx6wr0My3ru5sfOEdvip7wXDfen56dL4WlBrGvCAe4UAUdEjs049ugNodcAWxzExlR2YUZLNqAKxqTlGfNDlSumcPAhrNspYEXQb1D3sN4xwHFQ63OHhJiM6L0HCzM/BzhMFH8OqqIpAcpj8ELAEneTmeub4cguvo=;xDwgmUMvkhIHaGXFBRwFeQ=="
 ---

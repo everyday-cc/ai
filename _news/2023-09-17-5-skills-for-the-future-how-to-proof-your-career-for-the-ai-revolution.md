@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
+    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
+    publishedDateTime: 2023-09-20T13:19:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
 
 secured: "fr0vHImJEQWnLOPsmUHAacU5bWzNwujFRgQQbih3wKbSc/SHn+j6FU5tSsJ0hCSQUpwrxg3kGDWTAv6XDwEl4sgmtzJCjOOcL0RG2s9002hP8P2dUJ+HWtKYhBl4rpNnO1aP2Rm+F0TuoHhcOuI6WNU9vkZKoxJIpc2SvqzRH9Vzypzinp44FvkrhQf4Z26BGeVwK3TIRyG4ADvdJB0gTeBfQ2+L8LTEe6XAxtW6AjuVIS/fVRhBs1/ZmYh8lov09QY/+WunMskoDuWDUwm/GtudFBkk6Yg//ZF+inru0k7MCw4ikRqTvfR36xrKYLq7ormHghsAiTtVz7KrNuMvdPYjnu9P6xgNFJyIyQhQNMruOm4utn/lkNAGYZfFbw/GcFnMuVqT1pjQiTPmsPQBWh5hvcGNFZpGgcCK5Nf+6k4njVMycHXDSDuo6mPO0amzZ2thKII5hiHg3WG7dutqSKJQKN/7OV5CLdg9YHZLqm+9wYP9O9MTpuVGw/DmYXHK/auk/kPul13G4qDrpkaU0A==;F3a+wXMpqId9iGyjbuXi6g=="
 ---

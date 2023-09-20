@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/783716-ibm-commits-train-2-
 webUrl: "https://www.csrwire.com/press_releases/783716-ibm-commits-train-2-million-artificial-intelligence-three-years-focus"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IBM Commits to Train 2M in Artificial Intelligence in 3 Years, with a Focus on Underrepresented Communities"
+    excerpt: "To help close the global artificial intelligence (AI) skills gap, IBM announced a commitment to train two million learners in"
+    publishedDateTime: 2023-09-20T12:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-commits-to-train-2m-in-artificial-intelligence-in-3-years-with-a-focus-on-underrepresented-communities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 16
   - title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
     excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
     publishedDateTime: 2023-09-19T19:37:00Z

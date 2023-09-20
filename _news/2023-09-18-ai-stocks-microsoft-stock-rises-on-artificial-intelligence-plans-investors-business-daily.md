@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
-    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
-    publishedDateTime: 2023-09-15T22:57:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 52
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 393
-        isCached: true
   - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"
     publishedDateTime: 2023-09-16T18:51:00Z

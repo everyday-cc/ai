@@ -3,12 +3,11 @@ category: news
 title: "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings"
 excerpt: "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces."
 publishedDateTime: 2023-09-15T19:30:00Z
-originalUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
-webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost"
+originalUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479"
+webUrl: "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479"
+ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479.amp.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479.amp.html"
 type: article
-quality: 29
-heat: -1
-published: false
 
 provider:
   name: CTV News
@@ -18,31 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "AI-powered robot can reproduce artists’ paintings at scale"
-    excerpt: "A new Canadian startup has invented just such a robot that uses artificial intelligence to mass produce artists' works."
-    publishedDateTime: 2023-09-16T14:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-powered-robot-can-reproduce-artists-paintings-at-scale"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/16/image/jpeg/sANf2kMTCylSRteuvVmyZV5KMnmsLsp4s0w23aEp.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "A robot that re-creates human painted artwork"
-    excerpt: "Canadian startup Acrylic Robotics has created a robot that uses artificial intelligence (AI) to reproduce existing artwork at scale. The AI-powered robots use a combination of machine learning and neural networks to create the reproduced artwork."
-    publishedDateTime: 2023-09-19T20:08:00Z
-    webUrl: "https://insights.globalspec.com/article/21163/a-robot-that-re-creates-human-painted-artwork"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 34
+images:
+  - url: "https://beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479/_jcr_content/root/responsivegrid/image.coreimg.png"
+    width: 1020
+    height: 574
+    isCached: true
 
-secured: "SjtNz5tgY36KNumK/2GrQEVJreKOnqFP9mW5DT6hibaiexpjw+LsacstKDS098zp8IdaxIp2gmrBbc8aciSMrSu2ryKBFNZkWet/PBykaNo1z9BMDmXDYqmKD2oHf/eV51t9FR0E41yy90ADtb23YZj7brjtwU5B53KH3paf99fh23lfoU0zpY0hPDbcOn6uHQrsmnZokTGoyhx/WKhJMXo2J62UbKXCnZwz/J3+4abfRMzntFiVbR5to0jr6LNFmjvLzZMG3bA3F/tl6hKtgMYYXDW7s2wtCGpMzCAr2HirJ7MWmZiZkphBUuAmj7sNhmL+qVeppD8G2wzMj9FccDB2FWWV6P5TaV35q+62oG7WZgkIZURfSHaDjOYxbNZm4NKyFV6mBsiQuZzaF4tcD+onfRxrLPNY+zEhc53FtR66a2pXuuBsPi1RzDQqEd6Bcjwb7ZdFxIHrJ/A35quTvejmsdNSDSko2yc5PIk0ebrlIj+PGVRGMyy1CE9gY2M14G/bYsE4kbwla6bMtFZyQw==;KWiuujaxFY3MmtZGz9PFxA=="
+secured: "QUV8RSEE06354NpkAQVU7VKU18YZ5Pf6X+5t9Ll7G39jhKsdURa4cXnab6clJ6KBFuMIOL0FcXJL6C4UATFKvXMdONwE6NSMK+vIrpJY49IIqc8LcAwSgj8GLMmA8WXAX6N3eNH/SuYfMI6RZpO3pHJgvSTV/TP3b8bUxvMUfZYikDT6dULUdjPoJ5+AthhqX+Nu30QgQXfXplEU5HY4vwo7TuKPoII7JvSb3pLv9tQADWrdFTgLEWvxvPdjXVV1uAJrKhOejhX6TST36TvPGn2PxfPIGOiQV669roK0b24FATdnlKR3v1ySq79aMFF1A91aRVJ8YakvB3o56smLAh6lE/J2QUQPh/ZyLI+HxQo=;f9891TvUHCPOh6kMuDiRTA=="
 ---
 

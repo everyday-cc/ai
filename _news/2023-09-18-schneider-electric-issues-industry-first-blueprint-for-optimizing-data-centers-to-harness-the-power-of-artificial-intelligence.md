@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Congress Navigating The Future Of AI In Healthcare"
+    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Health care and AI can be effective partners"
     excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
     publishedDateTime: 2023-09-17T12:59:00Z
@@ -49,6 +58,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "cbknJ3QKBDPmiwp/LYjbR/TebTcUG5IY89YoRCvGOhIxkv/M5d1hFzMvbSh7PXivWLjRscp0ApirkaChms6oa2tCOnbh1JczHquOYOqIRJrKUWXFcXjhACe9bN2qGqaEWptAIdApQp2Un8uT150obAph4QGZ9pNV3F59WlLpvzPx6evJesZ+g1a2IiBInALzKXsb2aNKBfOBXFjipNusvcM8I2Iy/KvWZhy/3gaUQBNVm9gXr20bSFJj4oUZiZQNMGM/IRfnSRJLLtKV7dxJiwBBJ4CUhKzehYlsE5Qs1FCG/nzm/8QRWsfr8C2qxG6dFtYkpE7oKW0qD3ry9BORRF7qpeKwY+wxTb16OccRBQA=;xKBUuQn1Vnsmf36G4OgB3w=="
 ---

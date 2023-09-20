@@ -48,6 +48,15 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 15
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "iQCCui9ihG9ttJezS655CNpuFZPNnEbtUYIDx27FwouCOw2gIhBq7Jq9vwcArNiz8aONlmZad68I0dh31IQFmmK04r3PGkRDbMTjYaC2d+YXXR6l4DEB1jo68SnYu/p5BUmlcQi0DvAisxoFS3XrT4JaiZNMHRwXBNZv83tHQCwQywhsvBoZpqgFXJckU3BY+oxBRXtYO+J8es+OtQ8KgdE47+edfaC6+FoZcxnCJNLLDFwuyyB7mXitJDzdFmDo1kiqGRS0uYzkroUaJ1PvfCtoCYiMrtB5AdMNNkZvYLZw7eu1zCqWmm0udJeyVfEqmg8PeEC8cbjRdEgsNPPXijqMuB3AgZFHv5odRQDg2Cw=;kalYQVDfVM3pAqXWmX09iA=="
 ---

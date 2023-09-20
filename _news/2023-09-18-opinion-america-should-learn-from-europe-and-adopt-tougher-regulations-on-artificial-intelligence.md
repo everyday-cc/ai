@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion: Artificial intelligence comes to the synagogue"
+    excerpt: "No sooner did I finish writing all the sermons for the Jewish High Holidays then I wondered what artificial intelligence would have produced on my themes. The High Holidays make for a busy fall for a synagogue rabbi,"
+    publishedDateTime: 2023-09-20T15:08:00Z
+    webUrl: "https://www.timesunion.com/opinion/article/the-value-drawbacks-call-preachgpt-18377937.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/34/02/57/24128455/3/rawImage.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0RJQ/hWEs3KsJrr5m7NqAAOynv96VEOkBkcRCcePq7Yhttn4ZfDPCQtY19/W3D/x8XboAQZwe29Z3oXRivsd9D2Df7/aTyfFWUnFdOO0USGdCdf2c4/UZSkDPeiwlCSdvvdUkiOzWB4aF/hh3fPZooPgEh4+EjqJXUJp7NwrxU2LH8jWnXNK1fIDmy1r3xQJzx9hU42W+YoQeMbkqzscO4bmdIcIcnx+hSkXhbRSK2tCUDm5snHqY64N03vPEewESrvzSM1xbsyfe0G4DE2nXIqKBJ7CSYwpSZ0tFXfRrihIlxNof2ar3O9tYl1ruczBgbHoVq8V4jbetLxCjznyvbKsj48bVDMHWwDXFy1si0AX2druM7oIq3Gj/4tYES1fMWUr3clqrvd9VAr2D4UVyQ7uMpIcUlMMfzpV9Pqh4L9xILOrCPDxbk3VzjpZyDTGHAJYwKBrtvDAjffBAdEQzEEJSKzaEycUggNbD/3+Ll2q6DO621atDAxttXGkYTLojiClO7gso1Lrfpv8txYuvw==;W/4dzXcf9VGKH3eKIf613A=="
 ---

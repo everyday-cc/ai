@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 129
+heat: 141
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 684
         height: 400
         isCached: true
+  - title: "What Generative AI Can—and Can’t—Do for Contract Review"
+    excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
+    publishedDateTime: 2023-09-20T13:17:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/20/what-generative-ai-can-and-cant-do-for-contract-review/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "aTIdkft/ISb0gqUBlTdomE9kbot38v9X6E7JwPz8QiJ7UuRMriqb+346h4JtiK8IviG4vyi0eIv8Lku5m9VOZYQHeCA+WpkjlGtsHGZlSxIqylwLuTVW6QhI1sGSFkxIKNagKVDMgt5GBrczGoondT8idBT652mviOGRSg4Lz8FM7GrEaWQ7ZVnRvUOVHXeXHdKJnoewZWTCfDDQXltuvyd4rQaH/CK0XuLJVt0Eve+yinvcwexBAjeFFC8r/NaaPc/3TDitdM6S9+u7LcBzG+SlG6zgWThHltTD/nby5BY/fzjFbuzwkLnYeDCGmMw8A0r4xxWr8IUrqPgRQtNLl0D/5gZHfKLJ93f5aZdX1yw=;TuTuFVmzbg7A2NVyq9KJdw=="
 ---

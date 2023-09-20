@@ -59,20 +59,6 @@ related:
         width: 945
         height: 533
         isCached: true
-  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
-    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
-    publishedDateTime: 2023-09-15T22:57:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 52
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 393
-        isCached: true
 
 secured: "b8cM2nwsCW0j6Icia8+Dc/hcAaEA0O2ufo0cYM7WH2iaZAo6SfQSjY74Hljn74CSjeN6nJ9ahT1U9U228cnRdO4FgCu4xJNcePoF1J++6U9HQVaqTvHv6uywcMiw9EEHkU4Sx0JLgkwlWvBQkksH8vbbov6G8QsEcW9WZ9f9htL3ZTc3SRSJ+53wgfelJSQYtOh2b/maMHB3Xp6wSgA4Xg0eSoAsIp+yKH59Gs/8xW2MKE5mILR3t0NWbmlCL5EGIaW8l8xCORrKV0TUvyYBsaGr/JU8oAvXjgtUrTyiXy9nnApIcbyYdqyTLTf7lEXAN7sgDIk90HimxFwxHg72ov6OCVO+ZBF/oQmi3h7RGr4coJe+egkKfw0oRYhzztNJh8TcvTjecM6Bgwi0RObYS41MaUdm7EcpIjrLpuOsFi94XrvLD6gC8sBUQpAPphO1jK4xLM/uQeIYqPr+SMMQhPFNLt1cNmjaw6EvH2ovYmPl8Ij4V4GZ2kXpNg004OIeJDU92Di5vqSTWOwL+ekc6Q==;qvHcdvD7ENsOaSYXmydhrw=="
 ---

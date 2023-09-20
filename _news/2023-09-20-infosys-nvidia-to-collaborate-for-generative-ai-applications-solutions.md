@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Infosys and NVIDIA collaborate to help enterprises boost productivity with Gen AI"
+    excerpt: "Infosys and NVIDIA expand strategic collaboration to help enterprises drive productivity gains with generative AI applications and solutions. Infosys Topaz and NVIDIA AI Enterprise ecosystem to integrate,"
+    publishedDateTime: 2023-09-20T13:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/infosys-and-nvidia-collaborate-to-help-enterprises-boost-productivity-with-gen-ai/article67325931.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 14
 
 secured: "6FdLf+RTWpq3XVX7k8vB0l0eTsODJ3/Qh+fJ2iiLTv1n4TcqpXLiFK18K32KQNbpOXiGDhKydVpV0K2PQ0We192l1Zw8v97GxCdN+2owkANzcTn5UShQxMpwEjJAMEXUTbmyVwyY+ggfPhBN3uYVe/DNvw4k3ckPiKeB7laWtyuFX68f/YJfxAQfj4amHIVcm3BZXXJl7ivxJLdKCNSlibUPv9KdDniGEqUUnOQnDwHSIo2aX2ngqn/v9Bf72jPXHJ6F6FfP7pfVhsCplPl3yVfjXDXBNrAGaiREyAissLgn+p1yTOtpP/EOXvFcIWHcZC/K1CEe6O1Ol8oRT2dk1UurmtsQFP2LMFvY+y12mUBetEjbkxb5ofQV7rc+OxSYt4VLLTJWXLVOJg7nYgYvUkZdIQPmBMKZQSTbWTt8F4fiwv9P2/ic1fO7cFbSXikznk282SfW6DDXasJx+dvJnYd1WcDKBMfT8Js6fzcO9eQv8wfX98gJI2BuTMQPsFm4MUTVJ6RnRpst5i+gbzaFvQ==;TFVhGrAYZ+C4QT10mHOHow=="
 ---

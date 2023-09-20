@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Artificial intelligence comes to the synagogue"
+    excerpt: "No sooner did I finish writing all the sermons for the Jewish High Holidays then I wondered what artificial intelligence would have produced on my themes. The High Holidays make for a busy fall for a synagogue rabbi,"
+    publishedDateTime: 2023-09-20T15:08:00Z
+    webUrl: "https://www.timesunion.com/opinion/article/the-value-drawbacks-call-preachgpt-18377937.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/34/02/57/24128455/3/rawImage.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OPINION: America should learn from Europe and adopt tougher regulations on artificial intelligence"
     excerpt: "AI has the potential to do harm through the use of biased and outdated data. Yet in K-12 education, it also holds the promise of revolutionizing how teachers teach and students learn. Legislators must begin regulating AI now."
     publishedDateTime: 2023-09-18T10:00:00Z

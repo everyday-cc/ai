@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
         width: 945
         height: 533
-        isCached: true
-  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
-    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
-    publishedDateTime: 2023-09-15T22:57:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 52
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 393
         isCached: true
   - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"

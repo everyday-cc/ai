@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-mus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,59 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Dreamy AI-generated geometric scenes mesmerize social media users"
-    excerpt: "Using ControlNet and similar prompts, it's easy to replicate Ugleh's work, and others have done so to amusing effect, including checkerboard anime characters, an animation, medieval village \"goatse \" (surprisingly safe for work), and a medieval village version of \" Girl with a Pearl Earring .\""
-    publishedDateTime: 2023-09-15T21:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/"
+  - title: "Why humans can’t trust AI Why humans can’t trust AI"
+    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
+    publishedDateTime: 2023-09-17T22:23:00Z
+    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/spiral_hero_2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Funky AI-generated spiraling medieval village captivates social media"
-    excerpt: "Using ControlNet and similar prompts, it's easy to replicate Ugleh's work, and others have done so to amusing effect, including checkerboard anime characters, an animation, medieval village \"goatse \" (surprisingly safe for work), and a medieval village version of \" Girl with a Pearl Earring .\""
-    publishedDateTime: 2023-09-15T21:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "See How AI Generates Images from Text"
-    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
-        width: 790
-        height: 497
-        isCached: true
-  - title: "The Social Media Panic Mongers Have Pivoted to AI"
-    excerpt: "The science populists who stoked a Reefer Madness-like hysteria about social media are onto their next target—and predictably predicting the imminent end of the world."
-    publishedDateTime: 2023-09-19T05:05:00Z
-    webUrl: "https://www.thedailybeast.com/the-social-media-panic-mongers-have-pivoted-to-ai"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1695073125/091923-ai-hero_jvzygr"
-        width: 1480
-        height: 832
-        isCached: true
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 19
 
 secured: "QiVTa2CYhFLJr/sukeOj4vpiCGxjjaHJKvbW/k5VTYqSON3ybb9fjUYzA5AapD46/dHLP6Kntyi+j93Q5otYsh7Oh14HCD8WIaBEETDfGSdO5GR0FzN6yQH2NF7SiLpaVvRybrdpDUKzkdAkvdzmuVQ8SqHrT6/CByUQ1+o0D5lwhh7LqT2mua3fylFJP4cGWX274ubnphF0pc9QfJnCFyEwzUIFuybfLxtZPgjsgGDvek5aesuWJYGCuSSFiUoXWPWHx2RI0wYEfZ+v6SEYFNBpPP3szpK6tmQ1bdaf9AILXBtyrharDl8GZBzXDC1HxLWJF5yVjBpVd03oyBtvcQVV4AmCS9FM5dOwlLd5B572hzemtT+Gqdij6yEb7OCFsOKBBHvSFOH5N+ZHz3IjPGPSYSzQneNqcoHON+NnVoAO9bzWgvBT4lXzR6FhBH+SvYMTo2lIZHgVL13Tr6coGvK6eA6LhwJGrudD/dJtQSrZ6VYs3lUYZOe0KXtYhC0eVR1GgmKRvccF/pSmSzh30g==;Q6Hr9VhaYpMMu+FiTvLHlA=="
 ---

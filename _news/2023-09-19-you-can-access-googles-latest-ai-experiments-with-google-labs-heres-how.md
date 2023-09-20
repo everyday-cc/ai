@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-access-googles-late
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/"
 type: article
 quality: 85
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "This ex-Googler helped launch the Gen AI boom. Now he wants to reinvent vaccines"
+    excerpt: "Former Google AI researcher Jakob Uszkoreit was one of the co-authors of the seminal Transfomers paper. Now he is on a mission to re-invent vaccines."
+    publishedDateTime: 2023-09-20T11:28:00Z
+    webUrl: "https://venturebeat.com/ai/this-ex-googler-helped-launch-the-gen-ai-boom-now-he-wants-to-reinvent-vaccines/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "Ezbuj+thIrDIlv3WejMZAfsEVvUWF99F+dXMiaiaO7wydq0VtsN++6q5RLI1kWPEGg5dA+3Rm/wnkoamJc6uZJxy3VhMlNBBO+VtrKOuoGWnDdQz7DhKFuGdGi1GUns9RBHX/jfvNJtFw1i9gO1YLIUQ3PZS+XSeH9MKdZ2nqTjWxFouj9o62ribOlqCKsYleCQJpMbqRNcqS2yWFvcVsCjJlfKN/yGwENUoVAO3kq6huwRtHYyimzbDYTANp9teWXEj0X+C4ykAkFDXgWMD5AYgd1NFrOqq8G0pob9OJAcYAd95T8DDciRXmPIAMiLxREgoE+7VUjeDDuZP1WYzuMUW6jhL6r7SyuVwxoHnAxyrC/y7uWOV3w3UA0+vtH2AoGTwwEchhGnXrdB0G7RBT82+an9COfeK7w7wX4UleukXkI8BTNNN79b2bJldqsKcfXJYv80m7ztXNGGuvctckad0oodpGbnAZr0itIoNiYiIibDID7BOlfKXiWaJmjVK/LgqKtju/dEbKP9gozJ3FQ==;5G/4isKmEl2ujjzjaf6egw=="
 ---

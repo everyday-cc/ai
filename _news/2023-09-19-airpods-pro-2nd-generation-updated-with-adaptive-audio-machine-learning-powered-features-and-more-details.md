@@ -47,6 +47,15 @@ related:
         width: 1400
         height: 1057
         isCached: true
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "y/vHSRtwdVSciYf9Z7p9qMzEqu19D8aZc6oo1pgF2Fko4v37t5/lWsYyb+JC95jjXwjjHhHQxaIIaP934iVoyS3hBt6BafVxArf0EYDTk8MZmQ1EG70uNVv3E6zbYP6yWQbvTZl5HUq3Xlv7uIYAgXh3XRYfzI3xpK+wSPIeogbRZf/R9mumcpcOQ/s2chwYfiQSzI8Pq/B4TV5LXJcdmAYO7Uqd+AhnYTpv5+3wzaOPLUAR0mv1ILfvh+ZP4E4+OfCQTGq1w+HtoFn8PuDcldc8/EeJmQmY2sNeMGlAmr2Iy3utHXFJbzAqGuscj84f0vu3huWyhoQ9/EefIWKnYaizfQtguqBjkm2bdbcm4RleTqVODtpEQ2b8EVdXCHyT45klufPJokLxMANdLsph3XbS3B4HqOzvMmvLzxHxCoXG8hnk5T1Ydb4ZXBZ1z2FLZELese4yUIkvTo2f6u95bzi/6Igppxd2rF1hd+P/3JypDLcU+XKbuwhtlKtQYlwyHvI1Pv71qq3ZnpPMj01FWA==;eCSh8VPad1PkqjYOUH2n7Q=="
 ---

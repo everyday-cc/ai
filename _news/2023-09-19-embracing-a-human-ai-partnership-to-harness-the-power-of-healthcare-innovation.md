@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Congress Navigating The Future Of AI In Healthcare"
+    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Health care and AI can be effective partners"
     excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
     publishedDateTime: 2023-09-17T12:59:00Z
@@ -45,6 +54,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Schneider Electric Issues Industry-first Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
     excerpt: "Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to addressing new physical infrastructure design challenges for data centers to support the shift in artificial intelligence (AI)-driven workloads,"
     publishedDateTime: 2023-09-18T15:03:00Z
