@@ -16,10 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "X7jIL4tco0To2zyc9ebNxtYAWx+eYo49jXS8VyNHYCuTxGzEKu2k6a7cOkU1ZiLARRignSc0yzeMi5LQ1+5Obfy5wEaUz3O5DJ+qxSi6CK8Z+OJBVXBfgQG+Cwtv7zDoe2ivgcv4kE/pMJAyOJvSzW2yKYZy16j4onn47TOQQjz9a+9PpA5L0oXaanXqtqJtsedV3r29wHhB0sexKEdPKly05AggfhMeSnapmsxj0Gt8OpbCq4ZjKRtoTxXqWj7cgBBBdzXY8JhlxbrGbu79XVHt8lG50R3QqZcuZwmfZuEzXVMoYEKIVJwHzN7SEGg9mi8ozGkBxZsQk8Y8IP1qnWTUEgB4XStnv7uZAv7ihBA=;PatlJdExsZiTpCwjeSSrBA=="
+secured: "K4r9xeF79jR5fNSPMccX1V14X5gBGroMpqP7tbjSIh+FZpmLZ3jjcRYHuq36sHwnJDfZgOTXyVWbW9e4YXLeDBrve0CgnV7MefV9QRsDefkaMcBdrXJt8eAaYWopEMmJ+4awTsbYpGZMwwddn46JSyXk8jtRJ+5NE0BMNOZoEBeLTcE0j1GgHf56BGezEAUJXmvcLXAQI2JHMWlZocEGEwcm1nyKStHxY3sxjA1cliCgcmPoLDHjYO9AT1Q6mj9JYjwQTYcgkLFObF/0qdXfJj53AWH0spS13I36V2qxq7tUEUTsqa0M/cJBnns3Tn4lWtbb1cGpOZZJ5ReBqbmk2/weRwltFSccn8CWvK9yKuQ=;pwCbXWC4l2f3p5ewUU5QqA=="
 ---
 

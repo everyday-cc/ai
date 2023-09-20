@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "My life as an AI chatbot operator"
-    excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
-    publishedDateTime: 2023-09-15T10:52:00Z
-    webUrl: "https://www.economist.com/1843/2023/09/15/my-life-as-an-ai-chatbot-operator"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/6500/3656/90/media-assets/image/1843_20230915_1843_CHATBOT_TEASER.jpg"
-        width: 6500
-        height: 3656
-        isCached: true
   - title: "The Future of Customer Service: 5 Ways Startups are Leveraging AI-Powered Chatbots"
     excerpt: "In today''s digital era, customer service is undergoing a transformative shift. As startups strive to differentiate themselves in a saturated market, many are turning to AI-powered chatbots. These intelligent virtual assistants are not just enhancing customer service;"
     publishedDateTime: 2023-09-18T14:51:00Z

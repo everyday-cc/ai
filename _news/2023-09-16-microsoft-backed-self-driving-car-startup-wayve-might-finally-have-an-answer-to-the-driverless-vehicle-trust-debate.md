@@ -104,6 +104,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Was The Self Driving Car Invented In The 1980s?"
+    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
+    publishedDateTime: 2023-09-18T00:00:00Z
+    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
+        width: 800
+        height: 375
+        isCached: true
   - title: "Researchers develop algorithm for safer self-driving cars"
     excerpt: "In a promising development for self-driving car technology, a research team at NYU Tandon School of Engineering has unveiled an algorithm—known as Neurosymbolic Meta-Reinforcement Lookahead Learning (NUMERLA)—that could address the long-standing challenge of adapting to unpredictable real-world scenarios while maintaining safety."
     publishedDateTime: 2023-09-15T18:12:00Z

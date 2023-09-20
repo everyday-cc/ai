@@ -56,15 +56,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 9
-  - title: "Indigenous voice to parliament: Linda Burney calls out vicious attacks"
-    excerpt: "Racism takes its toll,” she said. “But I will never allow racism to weaken or diminish my resolve to see Australia embrace constitutional recognition through a voice. “My message to Aboriginal and Torres Strait Islander people who are experiencing ..."
-    publishedDateTime: 2023-09-15T11:03:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-linda-burney-calls-out-vicious-attacks/news-story/03396e19f6fe02df7a1fbce38d6db18d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "ekXT/KkdHpmpgzfbgzEyhpIMZXxEeVfo5Ovy73rPasG3Q1xXjjRnlAO+LJGBOrH/L53hm1CrYAy8tU122JLTqN0Hqgtw9VOlBO8qnLDllWDlzIzhnchzU77C4B2AWYEFarpoBS0ybbs0qv9yqRGYuYFStMxcDZMA+os1uH4NySdUQy2pT6CUhcrVWEN7cjNjz0coJIoOodKAutXCXfCmg/L8ZDcPAgAkvghHXk/4hGSMFv33qsHKx8fBpI/zVk/sUeijpVryDajjIiclAfbXivAOsvQgSHLSdMZdK9XNjJM/b1cJbBLvHTQZz3IetAFHSk5B4HesWnty/wbBPUTFT8JAkhXwnM24EQzN+62EgaTEbm73dDmGW8WD5lRxlp7GfjJVQrkQhTgWEGSHHi0KH9tth24zD941oyaANt8q55dAuHH808mfEMepUgvMdPUhUC46PSJLP6Y8D+oAd9tjzeXPdSaS0P6O4KBci1tXWAVRjfMGSaX8YM7w0hnyrLSunp0VWd5ylL/VUzEbe8rMEA==;1ycLuQtgIUjpgk9HyG5Lig=="
 ---

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Helsing raises $223 million in Series B funding for defense solutions"
-    excerpt: "European artificial intelligence (AI) defense company Helsing revealed on Thursday, Sept.14, that it secured $223 million (approximately 209 million euros) in Series B funding, with General Catalyst, a venture capital firm, taking the lead. Swedish ..."
-    publishedDateTime: 2023-09-15T11:10:00Z
-    webUrl: "https://cointelegraph.com/news/ai-startup-helsing-raises-223-million-in-series-b-funding-for-defense-solutions"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvMjVmOWYxODYtYmU0ZS00MmMyLThiNTItMGNlNTM2MjRiOGE5LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "STRADVISION Surpassed 1 million Units Milestone for SVNet in Cumulative Commercial Production Since 2019"
     excerpt: "SVNet is renowned for its ultra-lightweight design and exceptional efficiency, seamlessly integrating deep learning-based object recognition with minimal computational and power requirements. This advanced solution is compatible with over 18 System-on-Chip ..."
     publishedDateTime: 2023-09-19T15:51:00Z

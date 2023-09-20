@@ -89,6 +89,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Was The Self Driving Car Invented In The 1980s?"
+    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
+    publishedDateTime: 2023-09-18T00:00:00Z
+    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
+        width: 800
+        height: 375
+        isCached: true
   - title: "Microsoft-backed self-driving car startup Wayve might finally have an answer to the driverless vehicle trust debate"
     excerpt: "Once the musings of movie makers and authors, self-driving cars are finally beginning to edge into reality. Yet autonomous vehicle (AV) makers have a problem: as exciting as the technology may be, many passengers don't want to put their lives in the ..."
     publishedDateTime: 2023-09-15T17:54:00Z

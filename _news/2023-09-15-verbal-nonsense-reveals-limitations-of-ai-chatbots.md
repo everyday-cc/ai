@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "My life as an AI chatbot operator"
-    excerpt: "Targeting writing and other humanities programmes was a canny recruiting decision. Aspiring writers and artists tend to be detail-oriented, emotionally astute and experienced in writing dialogue – useful traits to impart to a bot that is meant to emulate humans. And many want work that can complement and sustain creative projects or teaching."
-    publishedDateTime: 2023-09-15T10:52:00Z
-    webUrl: "https://www.economist.com/1843/2023/09/15/my-life-as-an-ai-chatbot-operator"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/6500/3656/90/media-assets/image/1843_20230915_1843_CHATBOT_TEASER.jpg"
-        width: 6500
-        height: 3656
-        isCached: true
   - title: "Are AI chatbots more creative than humans? New study reveals surprising results"
     excerpt: "The study published in Scientific Reports compared human and AI chatbot creativity using the alternate uses task (AUT), finding that AI chatbots generally outperformed humans in generating original and logical uses for everyday objects."
     publishedDateTime: 2023-09-18T01:41:00Z

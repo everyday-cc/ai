@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z
@@ -117,6 +103,6 @@ related:
         height: 853
         isCached: true
 
-secured: "JydgNCf1up/Tu9Y7ke23++DA1ghXx5+4z4rbTBIX54LzPYRMn00TzcQHMocOdoU35Z6wP0ksKb2JEnjDJ/0yzPGHxslJHJwrJExTW1oQwSCTq/VTBnoet+Kh/RaSniom6QcUCbyq9CvCXK7ACyPjLL9qFtTmuBCR/RVOFVXYTyQvMB3M5PTYfCoK6DnH08JYc0a/rxtkJqcPq0EEHZLD9xLunAwOKY/KXf18t9LTOUTSsG0ueeBlHtMuP1096ksZL7vkblrEFXzlh9wkj9JQ5/5c6davBishcgoJTwFUcVtFms0IHj+Svt/8tcIJfPTTkr9sUDSaMpUcCnTUuetoJ5IkzijcWL325cIR9tug+QY=;9IRa88yUGfbyk1M5D+O4sA=="
+secured: "xhyWAzzq3x2itRyj5+LaX3lfjTruNhc9wwejR1zSQlQOttuPwWNVrqd802z+DbHPsWd6viN3u2X4gknKdgVayDfjOXxUzuUyFuYGtHItqS2gNXLVHy9BAlcNMQPziQHjewVLTqv1M0rpta+IJaq/iRXLHBSQZJha7qP4CUqwazJX703di2qo/GrTlgYqn5zzPVf9Wr3UVWde2V0EiLQ8IKy9B5k/JlMImgFGONYYH3ALbkl4+cDeJTmSC+JE3GhQjU8JmQacy0j1KFUSKZMKbh3ukZQmY5GVCGcIxEC7fYOSwZWpY/mmpKPbSyPwafV7X8xyY9yuM5qFZ6PwNIzsKW7NMrfCLWU3iZAXowR4C9KxIcHnng3Ereh/Nw7tGJCO9pS++78TjOvQCDoEoRxS9YUgvJIeHWUhsIlMCQKXTRlKQldvcEFmqJho1/N5umbKdXn4paHWF8ry67ouoQ0l3dvn0mVDbz7Wdx/f6TbxHLgWIcTY5BANmCqY3hm0d2XnLr2jhXMfpYQMQtOsByf3pg==;FfI0ZciNe1w0SDOBmBJB4w=="
 ---
 

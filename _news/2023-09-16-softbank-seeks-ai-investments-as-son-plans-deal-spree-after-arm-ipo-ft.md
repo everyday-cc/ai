@@ -7,7 +7,7 @@ originalUrl: "https://www.shorenewsnetwork.com/2023/09/16/softbank-seeks-ai-inve
 webUrl: "https://www.shorenewsnetwork.com/2023/09/16/softbank-seeks-ai-investments/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut"
-    excerpt: "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings."
-    publishedDateTime: 2023-09-15T10:20:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
   - title: "SoftBank's Son plans AI deal spree after Arm IPO - FT"
     excerpt: "SoftBank's founder and chief executive, Masayoshi Son, is looking to invest tens of billions of dollars in AI, the newspaper said, citing two people familiar with Son's thinking. Son said in June that his tech investing conglomerate planned to shift its stance to \"offence mode\" amid excitement over advances in AI."
     publishedDateTime: 2023-09-16T14:21:00Z

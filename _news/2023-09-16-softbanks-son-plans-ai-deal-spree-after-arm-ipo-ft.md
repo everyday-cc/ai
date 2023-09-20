@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut"
-    excerpt: "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings."
-    publishedDateTime: 2023-09-15T10:20:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 63
   - title: "SoftBank seeks AI investments as Son plans deal spree after Arm IPO -FT"
     excerpt: "SoftBank is looking for deals in artificial intelligence (AI), including a potential investment in OpenAI, after the blockbuster listing of its"
     publishedDateTime: 2023-09-16T10:42:00Z

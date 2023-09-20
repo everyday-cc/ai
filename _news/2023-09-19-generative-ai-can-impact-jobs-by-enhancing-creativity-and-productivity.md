@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/545d626a671e93ea45491734ec6d6bc334ff44a1/2023/07/29/52728a8b-45ae-4dcb-a5a1-c5924246693f/maria-ai-image.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."

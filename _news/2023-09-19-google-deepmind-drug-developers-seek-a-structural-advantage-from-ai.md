@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
+    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
+    publishedDateTime: 2023-09-19T14:35:00Z
+    webUrl: "https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/635b055393ea9ed771dc518e/1:1/w_270%2Cc_limit/undefined"
+        width: 270
+        height: 270
+        isCached: true
   - title: "DeepMind discovers that AI large language models can optimize their own prompts"
     excerpt: "Researchers from DeepMind have proposed Optimization by PROmpting (OPRO), a method that uses AI large language models (LLM) as optimizers."
     publishedDateTime: 2023-09-15T16:48:00Z
@@ -171,20 +185,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/09/19142523/SEI_172303762.jpg"
         width: 1350
         height: 901
-        isCached: true
-  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
-    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
-    publishedDateTime: 2023-09-19T14:33:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google AI tool predicts danger of genetic mutations"
     excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."

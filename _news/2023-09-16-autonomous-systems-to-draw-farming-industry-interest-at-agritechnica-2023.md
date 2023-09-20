@@ -26,22 +26,6 @@ images:
     height: 1014
     isCached: true
 
-related:
-  - title: "Autonomous Systems at Agritechnica 2023"
-    excerpt: "Autonomous field work is no longer a distant prospect with robots increasingly finding their way into practical applications. However, further development work is needed before they can be used"
-    publishedDateTime: 2023-09-15T10:43:00Z
-    webUrl: "https://www.thenewsmarket.com/news/autonomous-systems-at-agritechnica-2023/s/13663362-ddf4-4796-aa7d-66527ca83d6a"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 24
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/DLEV/StillAssets/960x540/650032.jpg"
-        width: 1168
-        height: 657
-        isCached: true
-
 secured: "bmAN7LLo+WbDxWqIHoSq4PvvTwv7wONa5XGDTLvi0XcEoJvOEv4DTymM4SCEelMLibxaxowTmy/mJ0TvQeNpbeTY/oTrhJwWl41yn1+wh3HiFxMQeURwJXUB00lGMhvOg18lva0PhurTyMsdzbTtMY4r3a+3bCfF2TsHSNnoeKM2LKayJAjafuRoBqWmdpzWUFIDlmhMEucr62c8fmVETsqKacW44EWvA2YPHA5ynRSnLqtQ32DvATrIR+D70/Lk9YguF6L5qoV5zqaake5O73l5mXsbiqK8tlt7RCmHMaUipFk4mCWmh/vNy55mPb1ttra27gCC2f7CKV/he+DmbVrBggfsLdGhp38f2hACOS2DIrdRXH7uYRz5gtuE/zM6oowmYeQgagvka3JmQjFEhViU+BzsMjr6FAMjgBG9P0dMP4X+0qw1YQaNok5/9Xdqsj2Y3Aid2xpdymzx3AFAQwF2FCi9JhD2SlAlbp7xDi26y7DvjnmaOONYqdtxQAba59YouOeq2kTwLO3KJwClpw==;XmU3AJ/UTZo0p5cClFUxdA=="
 ---
 

@@ -40,14 +40,14 @@ related:
       domain: businessinsider.com
     quality: 64
   - title: "The 3 Best Machine Learning Stocks to Buy Now: September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning has been the stuff of science fiction for longer than most of"
+    excerpt: "John Blankenhorn is a neuroscientist at Emory University. He has significant experience in biochemistry, biotechnology and pharmaceutical research. The post The 3 Best Machine Learning Stocks to Buy Now: September 2023 appeared first on InvestorPlace."
     publishedDateTime: 2023-09-18T09:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-now-september-2023-1032636135"
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
 
 secured: "4BR1ZMR1ZVoBLC6O5E3CyI2ojwK04HHS6KLK+AZmRJ/TiNk7kHlh+zYx6fIhbdfyvZ37BOwNCBGDunYCSdWlmhjTT/Vdssxev4wwNIE30sidIPTI9OxkqmzU/8BL0x7Cah0BwWt+O4jj7jtxKbeZrFTkstWBhCLxKqkArrkPYkWsCQpFDpBya2m6Ig9E/kEvAmn/RYSsawvSyNkSY70lM8FLKIy0Evw7huSkq5NigUpEwiOhgPnndwCW8bU/jHlzPh4ZAKum3xfJatPwyaIPDS1D9tfoBWcyDH2ebKO5BuqnqI6MwcqbIdTiKs/XCDQN5pV7ptp8quJX9jnwllyR4if0xa5zIr3nOQ+qNm8i6Qc=;yEdVqSTkF9WSyG7ZJxYcUw=="
 ---

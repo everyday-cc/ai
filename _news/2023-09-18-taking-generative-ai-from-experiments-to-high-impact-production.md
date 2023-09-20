@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Teachers Are Going All In on Generative AI"
-    excerpt: "Surveys suggest teachers use generative AI more than students, to create lesson plans or more interesting word problems. Educators say it can save valuable time but must be used carefully."
-    publishedDateTime: 2023-09-15T11:00:00Z
-    webUrl: "https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/65036fe9a9b7ef08beca9ada/191:100/w_1280,c_limit/Techers-Use-AI-More-Than-Students-Business-1354831206.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
     excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."
     publishedDateTime: 2023-09-18T23:05:00Z

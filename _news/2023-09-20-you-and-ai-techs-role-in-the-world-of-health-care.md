@@ -8,8 +8,8 @@ webUrl: "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-
 ampWebUrl: "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1"
 cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.nbcchicago.com/2023/09/web-health-ai-9-19.jpg?quality=85&strip=all&resize=1200%2C675"

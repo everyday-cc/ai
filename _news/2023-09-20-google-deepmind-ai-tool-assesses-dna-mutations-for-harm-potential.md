@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
+    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
+    publishedDateTime: 2023-09-19T14:35:00Z
+    webUrl: "https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/635b055393ea9ed771dc518e/1:1/w_270%2Cc_limit/undefined"
+        width: 270
+        height: 270
+        isCached: true
   - title: "DeepMind discovers that AI large language models can optimize their own prompts"
     excerpt: "Researchers from DeepMind have proposed Optimization by PROmpting (OPRO), a method that uses AI large language models (LLM) as optimizers."
     publishedDateTime: 2023-09-15T16:48:00Z
@@ -162,20 +176,6 @@ related:
         width: 1350
         height: 901
         isCached: true
-  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
-    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
-    publishedDateTime: 2023-09-19T14:33:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
     excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
     publishedDateTime: 2023-09-19T16:05:00Z
@@ -237,6 +237,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "pNg5781p5voRIckkBWStnx3d0V4EDdiWVqeYPW4R4+2ZxjwhtpheNTj6F9CZnZaEYUqU847BAjg9SaX3NKPsdX1nrpqSrSJqYnN90e1cP6R7hk2rFjA/CW/Wu8Z1Icicz4vZcp1rC1H4ewsYHRLnapsXo+pF5l2U/FfzIrlaXBZisjt/rv0KrHC6HNHO95X+I5YHaY9qQ3h8mSDZlXTJdnI10uEDaZpUnAg41UaDXlae66YZncfrlNOz73fF+8WY4neM/KPOUkO62AoubvVC8QLLjokYjAWbMazkEdOx/z9f1Vz4jlJnbNjQ5/N4wIqJVnCj/AKHINvqKx3cPZ2hphaMvoZpVyAHAST3NMEdWvE=;J86bR/QI2b7Kkc4ORU5VTw=="
+secured: "Q8pARWgu4LG060pes600a7qJNtWqaEiPqBMiQFanh9/yzUc0K5jrJ5gbeyB1bjlgQZaPxe1sMRlCkn9kRsIArzZnWn3KJ+7ayfnuHLFShvF49ys7Lrb1eQ+WcVgN1/75QNgfF73VmV8gAjnuuAaVlhXWtG6cWlgU2OGkI3xVu49STK3X+Sxvf7zf/ApNk5nMLNOmmGWi9BOvOsVxnojI9oVY3xg0pdSJEilJ+O1xaRTu/LVE1bJpjcXE2MBlwUXsW/iGHaChPA1wrS0Lqdb2+2GzrYRWXg4dKjzR6TAg2w0JbHkoq5LRIA8yVolTcfoIfY1fd8MX35pRtKLxDU01LKnhPOBKDP0Zb/l3XPkzFw8cmldeXXKA53SSCl9pzVF1EYxd8C+TIb//J7cV3iLuakwarUlF/EC1OuhLXfubmZZir/XOKMg0hXctzoK1uBAZGGFptx/wa9+PD3iy+BmIAWi6ipRZImcbC9Mz6x4eXLGw+P6JG7P+JBFsaMbue/G/NbSDx9iFCUWxW8R3xhLeIg==;Yv/OqcL8bgT7lqCtKE+plA=="
 ---
 

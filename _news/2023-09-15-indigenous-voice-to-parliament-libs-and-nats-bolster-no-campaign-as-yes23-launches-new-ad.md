@@ -47,15 +47,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Indigenous voice to parliament: Linda Burney calls out vicious attacks"
-    excerpt: "Racism takes its toll,” she said. “But I will never allow racism to weaken or diminish my resolve to see Australia embrace constitutional recognition through a voice. “My message to Aboriginal and Torres Strait Islander people who are experiencing ..."
-    publishedDateTime: 2023-09-15T11:03:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-linda-burney-calls-out-vicious-attacks/news-story/03396e19f6fe02df7a1fbce38d6db18d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
   - title: "Voice to Parliament: Experts reveal what impact Voice could really have"
     excerpt: "Picture: Supplied “This is happening regardless of the Voice, and it’s happening because of an evolution in Australian law, in relation to recognition of Indigenous rights. “This is a global trend, not just Australia. Indigenous people, when their ..."
     publishedDateTime: 2023-09-19T19:02:00Z

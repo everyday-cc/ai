@@ -198,20 +198,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft to offer Oracle cloud database on Azure"
-    excerpt: "Oracle and Microsoft have trumpeted an expansion of their joint activity with the launch of an “Oracle Database@Azure” service. Microsoft will be the only other hyperscaler to offer OCI services."
-    publishedDateTime: 2023-09-15T10:45:00Z
-    webUrl: "https://www.computerweekly.com/news/366552212/Microsoft-to-offer-Oracle-cloud-database-on-Azure"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-120923-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "Microsoft AI team accidentally discloses 38 TB of private data"
     excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
     publishedDateTime: 2023-09-19T09:08:00Z
@@ -418,6 +404,15 @@ related:
     provider:
       name: The Tech Report
       domain: techreport.com
+    quality: 30
+  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
+    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
+    publishedDateTime: 2023-09-20T03:34:00Z
+    webUrl: "https://www.inferse.com/722932/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 30
 
 secured: "8bUNIPvlAVjlaYxCVTJl0U6t+laySu5GcXdfA3K59KZ0NCleYxzwRD/aBISDTB1y4LJT0GDAaQqfBZt0zGacHBizdJhKclRZjb9L/d4oN/k//FEH+hyYBKs6VCt7RZEosxRKRh15jOy1znAuwN5MA3gVTKq89vKxRNTBwnON4m23wPWGvXt0MbJdBNgjKjIGkpaDSkVhcpd+Vj2IiP1cLj4bzVwtFcKuIvCWWdQftSZLq7CtlXr8jC2aeLbU2SDeSq7gPc/uq68EOTD40rPheSVO3r2Rrwf+T/DXvezO7sqhawk1GevuZznvsk/F9eOTNYzwedP6rok92F610gbbZihXTIbCTIJZh2il7iNjUdCOD2qXmFD8+40V+o9f3mTi0vSiWCf0HGXUrAoiAP0yE5kzeDbyOyHnmOAEeHgE4dy4tE2ilewrB2BhfIt+WvlYU/ZLEHK+q/LacC3+V5m4idOgGGfTfB2hldg1NtLNxAP7+oww503skeRngUIhNzkruz0sYU/k0f5cgtMUd+bZZQ==;FoWBGx3Ape+DkbBmCgrQyw=="

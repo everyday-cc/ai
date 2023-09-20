@@ -1,21 +1,29 @@
 ---
 category: news
 title: "TikTok is launching new tool that will help creators label AI content on the app"
-excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content."
-publishedDateTime: 2023-09-19T19:53:00Z
-originalUrl: "https://apnews.com/article/tiktok-ai-label-creators-1ba5ee717832e41178e6a35cb0442e07"
-webUrl: "https://apnews.com/article/tiktok-ai-label-creators-1ba5ee717832e41178e6a35cb0442e07"
+excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content"
+publishedDateTime: 2023-09-19T20:01:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Entertainment/wirestory_1ba5ee717832e41178e6a35cb0442e07_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "TikTok to More Clearly Label Videos That Are AI-Generated"
@@ -33,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LU4NC2lno75OJerYOmtaSGaV5UL+HHfjTI264MK4jd6r8T0BVsCssu9Qp3cbyai/FqDTWGVek99v8sRfpt8RO9Vmp68FKXSqXO0/Ld2ekDzwHYvW1OvJX7HJDigZUoqdmgcOYO+Tpg8w7momgSwbnUWrCAJ4b0A9nIY68vWyNjfYV5p+p2GW8xslYiyZJfN2UBr9u6R1v7NbEtJ5Kt/GgfNrdQr56Pi84Vybzglw/7qFVzNJwjVwhuiORcoIiJ+sWCpN/nPQWWKM7A5okTxU7qNl8nVbWuoqYl5p50FXnAMQoWvO1tGD4aZMaOrSvKIOvkCwfzuRpDz/UBWWexA48prxEVBNKzTMeuNfNFB6CD25CTeLmkw40vxNbcCF9U9qjN7vXeUxZac3GsM5fx4YVtx+7jQLnWgrWeNiiLt1J9xtqaM7CdaBrwVQvd1tum727HZCNZ9SgvVD42UaWzHvTUSzUUST7dHXlZMrFkAFShZtMwXJ6PX5NxzfgaozuxeaKe2b4Fa14uZuKEKjtWEMbg==;/MmFy5bWDrpq6/bL9jELQA=="
+secured: "oCUfuDb64kqCbrmZYRbs7PX8Cca3KDIAhNs21D/6DBm53HlofjZVNBQTVRn6GNqO/ezGGIG6MaWCEEVBVOKOXqink88KOC4WlU25YCh1+UTEx8SQeLW4oRryT2x/OSRWz21DOJs3UlPsUoNwmUX2RpnQdlVyAIvg+JkOpPxKL/uJyjFyvOxun2vI0vDKwDL5KhxewDil1kyQCqyajIdknU7Z6g1I20LGQSvme7Zx6efLENJMo+GCBJzNaua3NVP2KiD6IFUaD9Zw1yWeoJ1PWjhPBdhg174UUul4AC+U77zN/+iuE6HnTvI+uE9fUB6jNbX/yiEvX3cOEKzBP+JDyXAZYBeGOAoqdEojy6Q/Afg=;Y4nPAJXHBi4JGnYxQhY2wA=="
 ---
 
