@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways the generative AI boom is upending the advertising agency business"
-    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
-    publishedDateTime: 2023-09-19T18:30:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
+  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
+    publishedDateTime: 2023-09-18T19:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 66
   - title: "TRI is developing a new method to teach robots overnight"
     excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
     publishedDateTime: 2023-09-19T13:00:00Z

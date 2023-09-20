@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 813
         isCached: true
+  - title: "IBM Launches Watsonx AI Platform at Seoul Tech Summit 2023; Collaboration with Hugging Face Announced"
+    excerpt: "At the IBM Tech Summit Seoul 2023, IBM introduced its innovative Watsonx AI platform, designed to streamline generative AI integration for enterprises. Lee Eun-joo, IBM Koreas General Manager, emphasized"
+    publishedDateTime: 2023-09-20T09:11:00Z
+    webUrl: "https://www.econotimes.com/IBM-Introduces-Watsonx-AI-Platform-to-Empower-Businesses-in-South-Korea-1662989"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/09/a3ah4nizx8_th_1024x0.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "vYsUz57GQw1jYXKJhxJT9Z2VgR7YmJxkoMPYK4C+rdk0l0b68kA+vxdy3+C/gEf7dviRcsNizET9BvIS+tWoR3NsTIsU5FouA6Mc41Af8jzAmn/JsKny1+8W6GZXgbNyJtpVurf/Ht8jSayRtysJEBbEQHuDlut/0eRbwDQyqyqzMUCOzCpHtDTHwJ/KHYeKzdPwB46+iBFMBaEEIyUWMt3eWra/CTcrouxM7msd7PgDaE2LYYzFmZMNWEBeOGzAcRV2Vunx73qnfnDlH4FphOcxJPKY6j2/eRJZrI/ZgEpT4lt3BUqAbLuhEMuAJtCsZlIbkj6iLSRKUEe4D0U18l0KGxOvW9WLxocFZBUfVKM=;YGVtpif3mVdYHIyYWTExyQ=="
 ---

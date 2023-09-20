@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-alg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/shutterstock_1464098960.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Is all fintech just AI now? A look at Finovate New York"
+    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
+    publishedDateTime: 2023-09-20T08:00:00Z
+    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
+        width: 2803
+        height: 1578
         isCached: true
 
 secured: "g5nvQrKGs+P5TADAyTQXyN96ysuhOSMABvkWDy6G7NivE9THaG4mgPfV5neDaTqlRBxcbxMQIf4ZCo//XpXmq5erFaXpApMKQJ7GrGHq1cKHj0BwMEwTzhQ1wnuPSfWc/foZ1ISrnDESBPfXXFEfg6mvY3i+lQl24YrYyYdHzGA+MxTdaiSBN1pPrCK4mVc/ls1XKo5KehSAIZJ7VrQu9WjiIx1yxzzvTCn2ljWtWAAEBCmqiFzLAs3m+C3N9DMvueexW13l+c7v+CCEluJkFof16j6ffhHslKOD2ysZoQEfxGV9do8PgOVmMYN22MGPbqz/j9jN/Hoe7IIdEdpaYigGS+jQEsLe0XiDcpz5c2quGMEh8101E0Xr9AuyCLETnDNWykVZeZJC04VraIn6NqFXk3gbxLxwZItO0gFMrNAUwox/a1Lf4edYKqsW14Fud7qK25aOJ/W3hB8cTWo26/y5IPDajome4nKlKZxG+34x7f7KpIfohSmOpL7czSIvyUKNwAkInoUNF96ploh+Ww==;Ph/UW60Ra6/E8GCgMOli6g=="

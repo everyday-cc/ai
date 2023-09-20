@@ -43,7 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Is all fintech just AI now? A look at Finovate New York"
+    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
+    publishedDateTime: 2023-09-20T08:00:00Z
+    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
+        width: 2803
+        height: 1578
+        isCached: true
 
-secured: "ORVzFzcmXtbyQexYqxcnv7RiTA5ODk2+ByroKflB/jEHkb03A83EITxo7YzCp4SqaGtRuM/iLZHT5ZJdf+c3xde0ozLOaJVmNFkJX4Yo4hQgOd3F7DvZCWwBoppMnP89qvUU1kPiVic9Ntot32kSLtnp1Ae04OO+PLX+Kep4Xo96f8Ska7qFlHwWwfI/MOjnDWJlEn4437ox09Mq9UUWziG48PCQ/9Kbr5Sz3fVTe6/5QSVlbvTuhGv0354fnaZfVVyGxxuM4O++gnrZa3SXGBFjYaHvmUVxzlmRE9GWaUicXczVoFGuoiStBAD4ozvfPbwvsqRdm+I5OOYVZYrCpoH4aT0h0a8ydQ6d6hLRAKM=;LPt4hTMtfITPnDyg3G7cSA=="
+secured: "LxY9fVIQKxkWOOl9mfOp3GSZ+LXyEme1jXxfMuZATiSL8HNWIZ0e0TbFwgBK4I2qT8nlj4ehoZnc24ys8EN6+U9Jwb2V9TFpRsW8VG3qkrwmSLFXhNYbVwbPJgvRyVPzVBmKUZshY4rrWzBXUbfDV1zJe+emN1x11IO1qV4vk9gEUmpSu1FLRmbg+XyThNt241biJXCGmZDj07577lGFAn4c2lEMokgtpwNYzBUr1GVhIUaj8WCp+deamIzODCgkslKfxgCN1gVckqkGuAoP4hNESKrH/VmLZnE/h5+qOQjUN1oRRpr0llXOLhBTlCmfJOLDPZxnYNsAa1kqW5x9824rrecSLdhFKfpFD2BEN9+HuzBzBJyzjJidUULWLmzyW77jSGhj2fbeNuA5ombGXEHN8L51tZ/xciXptUNICQYSue42YzXPRHxUQEeK6R0aktJEYOdx8vrljkJJ8FA+pTK/BEoY4mPbFQugS03YgZbqqMJFo0DPg/yF/jKwBLmzRAQsn7Ej6jWH5xe4V9085A==;aVgXYVc1426dQSI23IJbmw=="
 ---
 

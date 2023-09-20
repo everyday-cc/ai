@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-mu
 webUrl: "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Evaluate Generative AI For The Enterprise"
-    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
-    publishedDateTime: 2023-09-18T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Testing the limits of generative AI"
     excerpt: "As part of the learning curve with AI and LLMs, experiment all you want, but take the results with some skepticism, especially if you’re using it to write your code."
     publishedDateTime: 2023-09-18T09:01:00Z

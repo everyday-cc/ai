@@ -24,51 +24,42 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Why B2C Brands Should Leverage Predictive AI Alongside Generative AI"
-    excerpt: "But generative AI is suitable for only a select number of B2C business use cases, such as summarizing and extracting information."
-    publishedDateTime: 2023-09-15T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/"
+  - title: "How TRI is using Generative AI to teach robots"
+    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
+    publishedDateTime: 2023-09-19T15:43:00Z
+    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65038164df7c18f7edfdab53/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
+        width: 1000
+        height: 529
         isCached: true
-  - title: "Venafi Leverages Generative AI to Manage Machine Identities"
-    excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
-    publishedDateTime: 2023-09-19T14:48:00Z
-    webUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/"
-    ampWebUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
+  - title: "TRI is developing a new method to teach robots overnight"
+    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
+    publishedDateTime: 2023-09-19T13:00:00Z
+    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
-        width: 900
-        height: 503
-        isCached: true
-  - title: "Oracle launches generative AI healthcare assistant"
-    excerpt: "Oracle launched a new generative AI healthcare assistant to respond to voice commands, saving clinicians time with manual EHR tasks. The Oracle Clinical Digital"
-    publishedDateTime: 2023-09-18T14:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-launches-generative-ai-healthcare-assistant.html"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
+  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
+    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: New
+      domain: bizneworleans.com
+    quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
 
 secured: "0uMMHjGb4z7Tz2LyIZmWH8nM5uMMZ7Xq+zCaIn51O1byZQN81/GCxSzJaoc6spFdu+8Fs8Yo+EiXI1XVGku2CnR7m3qpE+vLiUEPdR6n1vfAqpPnAP01kexjZZYRMOeXyt8xup2IQRYYOK1IljqFQ3rwW2Jp4A4CyZJGXxU2ieWqxCrNUyUB0VDp5kt0sMLW3XAN/QI6K/piYc4aUWVJTA1bAdo+hB1QIQwWi8EmkcVtYxjjr9Grq14t8PYPkY+nbrzeyD+UErMMcy/JfpfdGDEdcrZLU5pANU1I+uv0556Ha2FR1vfj+6XQin4cboT0ZRdtHsShxG+9iVXzIGF9wg8A7+K5+gqjfnOep9FpYIc=;SUStLGPdQ9wp314Qnxreiw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-m
 webUrl: "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1600
     height: 1524
     isCached: true
+
+related:
+  - title: "Machine learning tool Alphamissense analyzes human mutations to predict diseases"
+    excerpt: "Proteome analysis with artificial intelligence has made it possible to create a catalog of all possible missense mutations in the human genome to predict diseases. The new Alphamissense tool from the technology company Google Deepmind,"
+    publishedDateTime: 2023-09-19T00:00:00Z
+    webUrl: "https://www.bioworld.com/articles/701027-machine-learning-tool-alphamissense-analyzes-human-mutations-to-predict-diseases"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 34
+    images:
+      - url: "https://www.bioworld.com/ext/resources/BWS/BWS-library/Digital-health-DNA-gene-therapy-research.jpg?height=635&t=1686951391&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "qsp0cCnJxGFADp0Yb5BaHXi8+FtMqpFglxPxW+rJ+iEJa3R6yJwxD7BhTEdWXk86rpZRzgBSDZo98vsxKUliq95nk06vIR4emDpHYxrEqq8iLZ1Qu5wIfGv8nnbsPr3aSKRzyH5CMcnu4zdiIYd1plcW4yoOtDvTndmlwdR/jqIqXDg2l7j+JjuO1+pyEKmvasNpFj1zXV6hYfmBZ28V3+rs7UXq5G7kM+6br+rJM8eD2dSOPlOaPewwAbnAhRJeNsbhXwffcYgSbLxmsJ/zgPRK+KryLNgHnCX5qQ/1iyYKzmhO0X7Fm0bPZBMDnBEl10AtFCjiD/TRDVtfJGf8bXM1rfwKGz6xqWyDQxQe5O4=;VCgEJxigxApX4yj9g1gPqA=="
 ---

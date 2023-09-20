@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-del
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
         width: 1200
         height: 776
+        isCached: true
+  - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
+    excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."
+    publishedDateTime: 2023-09-20T08:28:00Z
+    webUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757"
+    ampWebUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
+    type: article
+    provider:
+      name: abp LIVE
+      domain: abplive.com
+    quality: 53
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/20/a721dec2c2ea0e2c0b302672d26d6b061695198496524402_original.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
     excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"

@@ -2,230 +2,45 @@
 category: news
 title: "Google AI tool predicts danger of genetic mutations"
 excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
-publishedDateTime: 2023-09-19T20:54:00Z
-originalUrl: "https://briefly.co.za/business-economy/169193-google-ai-tool-predicts-danger-genetic-mutations/"
-webUrl: "https://briefly.co.za/business-economy/169193-google-ai-tool-predicts-danger-genetic-mutations/"
+publishedDateTime: 2023-09-20T08:35:00Z
+originalUrl: "https://phys.org/news/2023-09-google-ai-tool-danger-genetic.html"
+webUrl: "https://phys.org/news/2023-09-google-ai-tool-danger-genetic.html"
+ampWebUrl: "https://phys.org/news/2023-09-google-ai-tool-danger-genetic.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-google-ai-tool-danger-genetic.amp"
 type: article
-quality: 39
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: briefly
-  domain: briefly.co.za
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://netstorage-briefly.akamaized.net/images/44ca0a0e521f7118.jpg"
-    width: 1016
-    height: 768
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/googles-new-ai-tool-ca.jpg"
+    width: 1280
+    height: 967
     isCached: true
 
 related:
-  - title: "Google DeepMind AI speeds up search for disease genes"
-    excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
-    publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.bbc.com/news/science-environment-66847977"
-    ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg"
-        width: 1024
-        height: 576
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
-    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
-    publishedDateTime: 2023-09-19T14:35:00Z
-    webUrl: "https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/635b055393ea9ed771dc518e/1:1/w_270%2Cc_limit/undefined"
-        width: 270
-        height: 270
-        isCached: true
-  - title: "DeepMind discovers that AI large language models can optimize their own prompts"
-    excerpt: "Researchers from DeepMind have proposed Optimization by PROmpting (OPRO), a method that uses AI large language models (LLM) as optimizers."
-    publishedDateTime: 2023-09-15T16:48:00Z
-    webUrl: "https://venturebeat.com/business/deepmind-discovers-that-ai-large-language-models-can-optimize-their-own-prompts/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_two_different_robots_in_a_garage._one_robot_holds_tools_db8e498a-83f3-4ac1-955b-b62a25b19298.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
-    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
-    publishedDateTime: 2023-09-19T16:19:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
-    excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T14:26:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
-    excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T18:49:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Google's New AI Tool Predicts Danger Of Genetic Mutations"
-    excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
-    publishedDateTime: 2023-09-20T01:51:00Z
-    webUrl: "https://www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728"
-    ampWebUrl: "https://www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-09/40cmfqso_google-generic_625x300_04_September_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Google DeepMind Researcher Discusses Emergence of Reasoning in AI at Harvard ML Foundations Talk"
-    excerpt: "Zhou, the founder and lead of the reasoning team for Google DeepMind, outlined the way he trains emerging artificial intelligence LLMs to shrink the gap between machine and human intelligence. The lecture, titled “Teach Language Models to Reason,” is ..."
-    publishedDateTime: 2023-09-18T04:17:00Z
-    webUrl: "https://www.thecrimson.com/article/2023/9/18/denny-zhou-ai-talk/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 58
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/03/05/104409_1361761.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "DeepMind co-founder predicts \"third wave\" of AI: machines talking to machines and people"
-    excerpt: "Suleyman gave his opinion on the state of AI in an interview with MIT Technology Review last week. He said the first wave of AI was"
-    publishedDateTime: 2023-09-18T11:58:00Z
-    webUrl: "https://www.techspot.com/news/100179-deepmind-co-founder-predicts-third-wave-ai-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-  - title: "DeepMind AI can predict if DNA mutations are likely to be harmful"
-    excerpt: "By working out which small mutations will probably be damaging, DeepMind’s AlphaMissense system could help doctors identify the cause of genetic diseases"
-    publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.newscientist.com/article/2392821-deepmind-ai-can-predict-if-dna-mutations-are-likely-to-be-harmful/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/09/19142523/SEI_172303762.jpg"
-        width: 1350
-        height: 901
-        isCached: true
-  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
-    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
-    publishedDateTime: 2023-09-19T16:05:00Z
-    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Google DeepMind could speed up the search for disease-causing genes"
-    excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
-    publishedDateTime: 2023-09-19T23:44:00Z
-    webUrl: "https://bgr.com/tech/google-deepmind-could-speed-up-the-search-for-disease-causing-genes/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
-        width: 1750
-        height: 1118
-        isCached: true
-  - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
-    excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
-    publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
-    excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
-    publishedDateTime: 2023-09-20T05:16:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
-  - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
-    excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
-    publishedDateTime: 2023-09-19T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
-secured: "zBbF5y57RmVs2TBSWjfn45SkGvRB3OCsiP2qq+WTGxfGs4knoCbiN/poRA5nR8Auvq6swZnUbJh577cmaNQ5izseTV+R63UeL/GBNbKZB+KpYNcJ1fneNN32+MuNc1pbjCMkCw3mZvNvtAY/OzkkoT9DemNewa2ekcn1w/QrmOSIdFPjA4MI7BS3hmsDEavG3HhEUssakMHbfMHQv/xS2DNoB4YrbWRJ0kDBvuFANGtEByVddbpkCNoQa6olgWDb5yD0XZUFREq7CHSobZvEFduWVmEJJsTbpr9wbpjOo2xagNIog0mJQC3Q0l+xgZEyfcXCU0DyMvvh6krTP9+e2Zx2sWzCiYWWghN/a38r7/gEThoN7tt/sX0hp4o1lJfa+VzI6faselgoqSqlldLi0HZItS0GzdSihAsYwuvYRGZAKHTlxmTE9rOW5HYkovtKs4zE2mOqxVUAILshm0FYByJOjeOMWDLtaE12cj/sjX4Kmy67ARe1J6nm9uBwhC5rY+vQWAkP3RpsGcdJ7V1FIg==;3ZDjFmIHFQqZT9tp4O9hTQ=="
+secured: "zjD3ePMk2FRo1cwGHi8C2RHiWFsfQHuqCrQYyyHSCTUpVWJcg3Ccw1KEfTLUEUEr0mj17V/9ShQplyl+Fc1VmzpgZMbWQ1C7hHlvI+Ghwr0WRFT2Q2o1QOGT7caU6AoaxhY4z6+dj/BxF2IwNLsjJu/EHr1vYv86MikmRdL3a0VhqnIEPPmD7393I4GzEvlzGTKbPWnIrYFQ9vrZwH3bcr95Ar5zVOj1fHqpqi+eVHz7OaDfyQmLGn4g53a0/iExrlGij5JlZ1o7NfW2KC3XdwRVl8Be9th2LuUW7mXH6DjXrMzoAcMRpAylmjgs+cnWLGYPJbTnumA1vQmkopYtwyqSMgfHhZ7ZlOhufjq2ngY=;FgPc74jYxJF/TOx3RYSNNQ=="
 ---
 

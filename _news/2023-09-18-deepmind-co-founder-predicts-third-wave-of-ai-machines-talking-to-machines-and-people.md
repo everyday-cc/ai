@@ -53,20 +53,6 @@ related:
         width: 270
         height: 270
         isCached: true
-  - title: "DeepMind discovers that AI large language models can optimize their own prompts"
-    excerpt: "Researchers from DeepMind have proposed Optimization by PROmpting (OPRO), a method that uses AI large language models (LLM) as optimizers."
-    publishedDateTime: 2023-09-15T16:48:00Z
-    webUrl: "https://venturebeat.com/business/deepmind-discovers-that-ai-large-language-models-can-optimize-their-own-prompts/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_two_different_robots_in_a_garage._one_robot_holds_tools_db8e498a-83f3-4ac1-955b-b62a25b19298.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
     excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
     publishedDateTime: 2023-09-19T16:19:00Z
@@ -114,6 +100,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
         width: 620
         height: 372
+        isCached: true
+  - title: "Google DeepMind AI Tool Predicts Whether Genetic Mutations Are Likely to Cause Harm"
+    excerpt: "Four million of these mutations have been observed in humans Only two percent of them have been classified In all, there are 71 million such possible mutations"
+    publishedDateTime: 2023-09-20T06:22:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 68
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_reuters_1694582304835.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google's New AI Tool Predicts Danger Of Genetic Mutations"
     excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
@@ -173,19 +175,33 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Google AI tool predicts danger of genetic mutations"
-    excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
-    publishedDateTime: 2023-09-19T20:54:00Z
-    webUrl: "https://briefly.co.za/business-economy/169193-google-ai-tool-predicts-danger-genetic-mutations/"
+  - title: "DeepMind AI predicts millions of harmful DNA mutations"
+    excerpt: "Google-owned DeepMind has released a massive database of potentially harmful ‘missense’ mutations to help speed up disease diagnosis."
+    publishedDateTime: 2023-09-20T08:35:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-google-dna-missense-mutations"
     type: article
     provider:
-      name: briefly
-      domain: briefly.co.za
-    quality: 39
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://netstorage-briefly.akamaized.net/images/44ca0a0e521f7118.jpg"
-        width: 1016
-        height: 768
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/09/AdobeStock_237602801.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "DeepMind applies its AI expertise to genetic diseases"
+    excerpt: "Google’s DeepMind unit has used its artificial intelligence expertise to catalogue millions of ‘missense’ mutations in human DNA that may be related to the development of human diseases."
+    publishedDateTime: 2023-09-20T08:35:00Z
+    webUrl: "https://pharmaphorum.com/news/deepmind-applies-its-ai-expertise-genetic-diseases"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2021/11/genome-sequencing.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google DeepMind could speed up the search for disease-causing genes"
     excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."

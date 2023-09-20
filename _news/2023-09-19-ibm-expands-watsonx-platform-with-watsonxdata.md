@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-wat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://koreajoongangdaily.joins.com/data/photo/2023/09/19/0828a37d-472e-48b6-98b3-d5f8eb7afe1f.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "IBM Launches Watsonx AI Platform at Seoul Tech Summit 2023; Collaboration with Hugging Face Announced"
+    excerpt: "At the IBM Tech Summit Seoul 2023, IBM introduced its innovative Watsonx AI platform, designed to streamline generative AI integration for enterprises. Lee Eun-joo, IBM Koreas General Manager, emphasized"
+    publishedDateTime: 2023-09-20T09:11:00Z
+    webUrl: "https://www.econotimes.com/IBM-Introduces-Watsonx-AI-Platform-to-Empower-Businesses-in-South-Korea-1662989"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/09/a3ah4nizx8_th_1024x0.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "8yteJjWdn6B8AxEH2okzX2o0qD39jwH0mV8fM3ypRYJkhQDfhRxcLwKiop/XS1BYEtt+1Gh93DJypGoVt4yuasET9OTR02HgYBelgAityQc4CFPtVBOGO6bAhT1eEA4CAo1olDN5HbF2Iwu+nduWCtJHfJ9AA48VhrC91HgTlPQzF0C06K2hHUgfI8yRqI6N3VkJKc/DIqJvvN/0a8RcWAzMuf/lQtEbbliQzKxOhffgtOkn/R5J5yu/lCGKOLyYmcsu6Y4RQ388/o3ec1rs6wRbrv54sf0zHLyulOFwNhrtO0R2snt3701AeMZhrAvHj+xy+f8iWgC8R/Z6v5daSPc9fDgpa9DN/9cHLT7s9Clv9ndGvH75ljHOYErQh7xqzCPKaGk16P1y43AJXP5j4wcfl3s+z6BmqHAOPBAyCAYkvclbJw5zEmO3xAZRxHICFQbwUIoNA0JedDX7d852dWgRho0haKYJh3XLm1XYmAK4NMVRv7fxhRoF1wLk+iufhpOMQmTbWHNe+rmBznYJWQ==;iWzlu7rVp+Mx6NwU4zAYGw=="

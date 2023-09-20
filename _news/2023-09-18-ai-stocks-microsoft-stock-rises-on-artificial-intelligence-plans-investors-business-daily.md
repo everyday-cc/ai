@@ -72,20 +72,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
-    publishedDateTime: 2023-09-17T21:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "nvqboxp3exh9VsNgmztk1fzYXeIubgfJljrfGbo1a+BaXdBtKma3TmXtqDuRLN1Q5CA2ox2k/Gkdcz+PRtWWEducUan68fQ5/5bYjXf/8th0VjNO4I5e0DNNvyE7F3ZlEILP/oqjG31NmDzQ7buWHr0ZB8Bhk3A0oM4sktsNT+mxF7myBQnTa3SfBQMWkT5hp431XouUddvB9kSb629Z4KwAP++tn4gd59IR0+RpROJCtDAqfjdRqWTAT6xvTG0w/s7S37w+l4Bs2spt8vvK8LolHe3PpqrztpnapChxq8BXhmQWKhrVRZOoH+wHCXeFI2f0gD1GePB6sr3Ojci5G6mtErTQsyDi1uYlbOD6iAE=;vqPguEZRPa8ttIpKr3HRXg=="
 ---

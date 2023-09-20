@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20230919556062/en/"
 webUrl: "https://www.businesswire.com/news/home/20230919556062/en/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Venafi Leverages Generative AI to Manage Machine Identities"
+    excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
+    publishedDateTime: 2023-09-19T14:48:00Z
+    webUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/"
+    ampWebUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 59
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
+        width: 900
+        height: 503
+        isCached: true
   - title: "Venafi introduces generative AI service for enhanced machine identify management"
     excerpt: "Machine identity protection Venafi Inc. today unveiled a new generative artificial intelligence service that’s designed to make machine identity management easier and faster for security and platform teams."
     publishedDateTime: 2023-09-19T13:00:00Z

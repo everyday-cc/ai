@@ -43,22 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Self-Driving Cars Could Cause ‘Mass Casualties,’ Warns MP"
-    excerpt: "Lawmakers in the UK warn that self-driving cars could cause \"mass casualties\" if rolled out without strong new laws. \"Self-driving vehicles are a great British success story in the making, but they co"
-    publishedDateTime: 2023-09-15T15:30:00Z
-    webUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/"
-    ampWebUrl: "https://techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/self-driving-cars-could-cause-mass-casualties-warns-mp/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 44
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/09/thisisengineering-raeng-GckgQqyHoa4-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "With self-driving cars, it's the ethics we have to navigate"
     excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
     publishedDateTime: 2023-09-17T08:24:00Z

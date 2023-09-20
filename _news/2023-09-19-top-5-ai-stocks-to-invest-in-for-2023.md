@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
-    publishedDateTime: 2023-09-17T21:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "mOHXdS/MIcbx7NkgnYDp52snnv8Lki3us1qozONQX8jILg8/Ox/GKQl3MHdTiKtRvi8i4Q72CtEFNR/bRi+SpkvgOmlCwSCZqXXE48ggwZDfTN5zZZv35ybX4WVRtLD5zeDAcdp/hABGDC8jtfFDB8k4wd8SscCmbvFGINu9lt3eT6lPM/T9fuzcPGe0v+daQFRIsjOh2IBlJGUXYlKkY2I+y3IFcWDFViMvPaKRkYXOfO2XAMoHR4R0X3RZ6zY7RxiRNwtMMveaZ7f5HHwA39Otcq4+vMrsgi0Fk0zUiBd6vwcG5PIPSh5WvUeV98rQXISQ4+Wg3C/kNQNxuxhKSQI52LPJnatzLbhrPPnOhBrRrprXM62KozyeRdMZE71X5KhFeA/C6GW5aWlL+edi38U/yS0lrZay1ex/V9KYLfCLCJ5pY9rUHevwO2O/mI1lHW0RcUHf/M/N1N1bggHxnmHhsd45nOkUZZl7pY2Ic1r4WlRrklnYgAhI20dM79RAL1pFaZBWLWTQGuQaSblPgw==;wiUvTlqGr5/5zQryfu/z5Q=="
 ---

@@ -1,15 +1,17 @@
 ---
 category: news
 title: "AI model speeds up high-resolution computer vision"
-excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ..."
-publishedDateTime: 2023-09-12T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1001258"
-webUrl: "https://www.eurekalert.org/news-releases/1001258"
+excerpt: "An autonomous vehicle must rapidly and accurately recognize objects that it encounters, from an idling delivery truck parked at the corner to a cyclist whizzing toward an approaching intersection."
+publishedDateTime: 2023-09-12T15:42:00Z
+originalUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
+webUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.html"
+ampWebUrl: "https://techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-high-resolution-vision.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - IBM AI
@@ -17,11 +19,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
-secured: "fb26XjXcOR4emnYjPlGLQnQ9hJ8w6aOJXwVSgwO4jd+jjTA0vpA6kqYG8Ijlwm9DDUW+UlVVG3Yc+kTvtqs+7ZnRvln/n7Dn9Bm0RwMVLNt+1G3iipcKruVv8DQGedjXujmWHI19fZNqu1ZXwp1yxEUsSlQRO1D02i5BNgManykElgrKOvA+Nn+0mdC26l9BZHjSWOUYPNEqD49JDtkYYM9AHkd2HbnRsFjzoAevOQWT2o7htRP4kBUnBBUgdgW2duOEsTjSAONn298shio1TNPmqdzrOuicx27ubmc3cmbBNbJu8+kdHSnZ8ta/+xLqj73e1FTBu2IozXBmY4/tEWPrl8GScr/AL4J+gJ3fkMI=;8U6ESVLZFb0h4omVXQ9YSw=="
+secured: "0KxIsHKVtj5bOGdx9TcOlLmdbeago56D26GmIpT8opyNbgsZf3OsrrYXRn7B7Cl3FDf7JUgsJL6ksggkw80D/SDcvjwgCHiI+XkNPTSMe1Ze/QdqvsNOjJ/rBZ1LxG0xIZoYP0M6tLt0OnQ2TfIivsZaQ8XzwiwYKRXvq283dazGGdrdiJ8EN0oZEg7h/rcD102iwk0jv+L5k6e0LaLeoFR5msvfbplOi6U9OTi3kgt6+vlScDxuCIBh2amOS2Zj1x8gJWPKDVnTDzbU0WP2oivPlSUXy46ysaRG6eJXxSct2As3ui8WTXdeOiovXXZhQJLbM5uQ4F6uIlszyblD0bipDgJy45RPl5no1WECQS8=;gJupe+pFruAKeskleWc6qw=="
 ---
 

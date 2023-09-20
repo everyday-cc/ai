@@ -37,15 +37,15 @@ related:
         width: 1000
         height: 529
         isCached: true
-  - title: "3 ways the generative AI boom is upending the advertising agency business"
-    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
-    publishedDateTime: 2023-09-19T18:30:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
+  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
+    publishedDateTime: 2023-09-18T19:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 66
   - title: "Ochsner to Integrate Generative AI into Patient Messaging"
     excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
     publishedDateTime: 2023-09-18T16:51:00Z

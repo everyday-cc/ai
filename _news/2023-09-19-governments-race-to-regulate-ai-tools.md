@@ -28,40 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "5 handy AI tools for school that students, teachers, and parents can use, too"
-    excerpt: "A common misconception is that generative AI can harm education by promoting cheating. However, when used properly, these tools have the potential to help students learn more efficiently. They can also help parents and teachers help students with projects, homework, and studying."
-    publishedDateTime: 2023-09-15T16:13:00Z
-    webUrl: "https://www.zdnet.com/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+  - title: "What can AI and generative AI do for governments?"
+    excerpt: "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-20T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f403aba7bdf5bf4a54cce49ec3c079633af5da3d/2023/09/15/be9e1e9f-7e99-4681-887a-f4ad1e1adca2/gettyimages-1614030114.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
-    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
-    publishedDateTime: 2023-09-17T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How To Evaluate Generative AI For The Enterprise"
+    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
+    publishedDateTime: 2023-09-18T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 44
-  - title: "46 ChatGPT alternatives and AI tools for teachers"
-    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
-    publishedDateTime: 2023-09-18T12:04:00Z
-    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
+    excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
+    publishedDateTime: 2023-09-19T15:11:00Z
+    webUrl: "https://www.maltatoday.com.mt/business/business_news/125028/video_gaming_esport_and_ai_startups_to_benefit_from_government_venture_capital_fund"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
+      name: Malta Today
+      domain: maltatoday.com.mt
+    quality: 31
+    images:
+      - url: "https://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/digital_economy_mobile.png"
+        width: 684
+        height: 400
+        isCached: true
 
 secured: "wu5tyTIIkojLxALleujyfI1lHcdXg0LDc5cdjoNSWu6b7zmsN+UBuw9sWVF9NWnv1JrMqlx2Zh266codUTEB2BA6TNDDcnCy8QfPCt2GI+G1T19Tsa+wd9gmsT7kynbXaSeU/inmmbHMh4WaK7x1GzYQLykneHfQBzPKQtNiUfs8cOjIR5IWgXB8O/LFWVB/GmEHRPOvGwNpSbjPlHRME35D/1jqfMHprxUo1cj+jbpmKiPLMqFKWN+TMgq3rj3u3vuFiCCUikPojM574ZYB2NGlzzHarldD7Gvd2vF83sxynux31Pjxf+nKTFNYw0ZlPR5WwlAKKoJN1ByL8dAFRjaU9UCEhSb98S1fZZlibQZqvHRFR0iODgeHRFWf3vZcBHLvHvUeZTAWryBKZP91/e1vJFQMMrm0ELru5Va8wFs/6e7SEGOAvepX9aqURtZHWYrd8A9Ol6zJlmX5rwtWSufFm2KkOk292JqX4c7Hf5eF+iNUiuObjW2iKoSVLtmH+DeqM5VkkoOvlmRl7Yg6TQ==;Kdfl72J3k/YXyADls5sbNw=="
 ---

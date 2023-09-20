@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -108,7 +108,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -746,6 +746,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-microsoft-security-executive-when-it-comes-to-building-connections-authenticity-and-integrity-rule.md",
+      "title": "Microsoft Security executive: ‘When it comes to building connections, authenticity and integrity rule’",
+      "excerpt": "Hart is one of four panelists slated to speak at Atlanta Business Chronicle's Women Who Lead: Owning Your Seat at the Table event on Sept. 21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/atlanta/news/2023/09/11/women-who-lead-nicole-keaton-hart-microsoft.html",
+      "originalUrl": "https://www.bizjournals.com/atlanta/news/2023/09/11/women-who-lead-nicole-keaton-hart-microsoft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/atlanta/news/2023/09/11/women-who-lead-nicole-keaton-hart-microsoft.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2023/09/11/women-who-lead-nicole-keaton-hart-microsoft.amp.html",
+      "publishedDateTime": "2023-09-11T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1409,59 +1444,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup.md",
-      "title": "Qualcomm Upgrades And Expands Its Handheld Gaming Chip Lineup",
-      "excerpt": "Today, Microsoft and Nvidia rule the cloud gaming space ... Moor Insights & Strategy provides or has provided paid services to technology companies like all research and tech industry analyst firms. These services include research, analysis, advising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8db50a1eda175c6dcb95f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/06/qualcomm-upgrades-and-expands-its-handheld-gaming-chip-lineup/amp/",
-      "publishedDateTime": "2023-09-06T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

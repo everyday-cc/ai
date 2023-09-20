@@ -19,45 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "5 handy AI tools for school that students, teachers, and parents can use, too"
-    excerpt: "A common misconception is that generative AI can harm education by promoting cheating. However, when used properly, these tools have the potential to help students learn more efficiently. They can also help parents and teachers help students with projects, homework, and studying."
-    publishedDateTime: 2023-09-15T16:13:00Z
-    webUrl: "https://www.zdnet.com/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too/"
+  - title: "Is Tencent’s ChatGPT rival, Hunyuan, Set to Disrupt the AI Market?"
+    excerpt: "Tencent launches Hunyuan designed for natural language processing in Chinese to create a ChatGPT-like chatbot. Will it become a game-changer?"
+    publishedDateTime: 2023-09-16T10:08:00Z
+    webUrl: "https://www.techopedia.com/is-tencents-chatgpt-rival-hunyuan-set-to-disrupt-the-ai-market"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f403aba7bdf5bf4a54cce49ec3c079633af5da3d/2023/09/15/be9e1e9f-7e99-4681-887a-f4ad1e1adca2/gettyimages-1614030114.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/android_02.png"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-19T05:35:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-19/"
+  - title: "ChatGPT masquerades as AI but is something much different, researcher says"
+    excerpt: "“This stuff is not artificial intelligence, under any [common] definition of that term, and it’s definitely not artificial general intelligence, but it looks like it,” Bender said."
+    publishedDateTime: 2023-09-18T15:39:00Z
+    webUrl: "https://badgerherald.com/news/2023/09/18/chatgpt-masquerades-as-ai-but-is-something-much-different-researcher-says/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 37
     images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://badgerherald.com/wp-content/uploads/2023/04/IMG_1621-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
-  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
-    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
-    publishedDateTime: 2023-09-17T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
+  - title: "AI used in ChatGPT was built in Iowa"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-19T12:04:00Z
+    webUrl: "https://madison.com/ai-used-in-chatgpt-was-built-in-iowa/article_72b39369-f744-51da-93c4-3df1fab83363.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
+      name: Madison.com
+      domain: madison.com
+    quality: 19
 
 secured: "TPfY8aJUh5JYKX/nzvFceaI++hvCIlEH6b4vwyBSHEPjZxAX8azy1p1XcKiu04Fxi2XOZqaDWu7MCuViQV7YNWYvUfDhjcW7b/jPFNR2FxeSu/f9bn+XrWNxbGvBWw2qv/40qBWMgipLOTrYekqqA+l1gBm3oaSAsYWnSnyzk0jLb24yPx12q8HHr+HuVDmtn5ib+vy5aY7LWwVu1h0axGKQAUAh4JJtLR7xOWAUoKnICgToEaexuAV4D2QZLTJxh02IZ9qK2K3uX3hmYCef2yJTCh0WzBbcfcYsOtp5D95u/v4Oav0goleB89g1ArWBVhcor+e/09uOSMRG+NS6pp1TqPoN9/G16Eg843JbJP5TWCiafx8+feMob/WAVtcEdQPOcXv+4n9c7OBZzDdSlf3UR1MeY/rB8rdm1WyRHOcvbrsaPVdU6PeLuCb7cCm+Z9jV/FwLZY7wMWZQwhIKPKF4TiTPv9syIPm8gAAYowmXxHm049zEsW19xzJaEHHPKJqboj9gv74fLIosB7FAnA==;YuUIt/pvQg5FR4HW3xrgEw=="
 ---

@@ -24,43 +24,68 @@ topics:
   - AI Hardware
 
 related:
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "TRI is developing a new method to teach robots overnight"
-    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
+  - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
+    excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
+    publishedDateTime: 2023-09-17T10:07:00Z
+    webUrl: "https://www.inc.com/heather-wilde/the-power-of-ai-for-content-creators-3-ways-to-enhance-your-work.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1517482123_533630_ab4kkb.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
+    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
+    publishedDateTime: 2023-09-17T21:11:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
+  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
+    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
+    publishedDateTime: 2023-09-15T18:13:00Z
+    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 18
 
 secured: "7mXw8/oPkTuXBKOUlR7g6JpQ32q/Y4AUq3ghxSZNGhxA1B2KWASew2XT6o0SQIbRcxat5SXmWZaWBp0FMw9g2Vdp4OSWedj9Tb7lMvoacYh2668+vwpCL8RztN1Mi9x4SOKZJRiMsRdJau6KWQWr1bLa+iW0MQ+DS9xHDV1MqmYgjtDWHoqBzEeuPDyiSDSOHXDefO1MhzLV+x9RTrWyjs8JrGMCU065rleIe/yvHelhkSQ7HbboOJF1jbY4qJUzDGqkQaP9AsEkJAeiww4BM/juR9UAfhSJlnU9/YcfROOKusP/+quPKNlMgeiwp34Ch2NH+nMLFHe1WIpsGijOH3dKyqNLBx8cainhDjbblZnj9q76tYpRvEvrQM8fBlfggerjsQHCrauTjLjaRy42c+0WraxjIKiYVheLl08ZgTmY9ws3LpnlCKgOFjXJVJZc6lqcSUajh9a1t9wbPjLZEEkSacChko+HxPPtWpLZON63+YxCtxaXVa6GvO7Fct8i56cnW60/6TtAQko9RgweMw==;COjcyMHz5T0EqHjZYLhhNg=="
 ---

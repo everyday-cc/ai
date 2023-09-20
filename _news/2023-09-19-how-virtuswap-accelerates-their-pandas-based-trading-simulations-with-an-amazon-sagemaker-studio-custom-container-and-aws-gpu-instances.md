@@ -58,20 +58,6 @@ related:
         width: 893
         height: 444
         isCached: true
-  - title: "Learn how to build and deploy tool-using LLM agents using AWS SageMaker JumpStart Foundation Models"
-    excerpt: "Large language model (LLM) agents are programs that extend the capabilities of standalone LLMs with 1) access to external tools (APIs, functions, webhooks, plugins, and so on), and 2) the ability to plan and execute tasks in a self-directed fashion. Often, LLMs need to interact with other software, databases,"
-    publishedDateTime: 2023-09-15T15:24:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-build-and-deploy-tool-using-llm-agents-using-aws-sagemaker-jumpstart-foundation-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/31/ML-15042-solution-overview.jpg"
-        width: 821
-        height: 521
-        isCached: true
   - title: "Designing resilient cities at Arup using Amazon SageMaker geospatial capabilities"
     excerpt: "This post is co-authored with Richard Alexander and Mark Hallows from Arup. Arup is a global collective of designers, consultants, and experts dedicated to sustainable development. Data underpins Arup consultancy for clients with world-class collection and analysis providing insight to make an impact."
     publishedDateTime: 2023-09-18T17:52:40Z

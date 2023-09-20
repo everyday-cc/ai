@@ -31,7 +31,7 @@ related:
   - title: "You don't need to be an AI startup to raise capital, VC says"
     excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
     publishedDateTime: 2023-09-19T22:43:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
     type: article
     provider:
       name: The Business Journals

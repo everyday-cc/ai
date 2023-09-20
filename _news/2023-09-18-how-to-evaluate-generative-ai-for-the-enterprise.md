@@ -31,93 +31,42 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets"
-    excerpt: "Multi-modal data is a valuable component of the financial industry, encompassing market, economic, customer, news and social media, and risk data. Financial organizations generate, collect, and use this data to gain insights into financial operations, make better decisions, and improve performance. However,"
-    publishedDateTime: 2023-09-19T16:23:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/"
+  - title: "What can AI and generative AI do for governments?"
+    excerpt: "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-09-20T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/Picture1-6-1203x630.png"
-        width: 1203
-        height: 630
-        isCached: true
-  - title: "Testing the limits of generative AI"
-    excerpt: "As part of the learning curve with AI and LLMs, experiment all you want, but take the results with some skepticism, especially if you’re using it to write your code."
-    publishedDateTime: 2023-09-18T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706891/testing-the-limits-of-generative-ai.amp.html"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-09-19T05:35:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-19/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://images.idgesg.net/images/article/2018/03/crash-test-dummies-100752967-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "7 Steps To Update Courses In The Age Of Generative AI"
-    excerpt: "How to systematically use generative AI to refresh a course: objectives, topics, pedagogy, tools, policies, lessons & students' intrinsic motivation to be more effective."
-    publishedDateTime: 2023-09-20T03:28:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
+  - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
+    excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
+    publishedDateTime: 2023-09-19T15:11:00Z
+    webUrl: "https://www.maltatoday.com.mt/business/business_news/125028/video_gaming_esport_and_ai_startups_to_benefit_from_government_venture_capital_fund"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Malta Today
+      domain: maltatoday.com.mt
+    quality: 31
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508a58073f0584781935f6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Banking in the Modern Age: AI, Machine Learning, and Global Evolution"
-    excerpt: "Introduction The global banking industry is undergoing a profound transformation, driven by technological advancements, changing customer expectations, and regulatory developments. In this article, we will explore the current state of the banking industry worldwide,"
-    publishedDateTime: 2023-09-17T09:43:00Z
-    webUrl: "https://techbullion.com/banking-in-the-modern-age-ai-machine-learning-and-global-evolution/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-17-at-2.42.20-PM.jpeg"
-        width: 739
-        height: 415
-        isCached: true
-  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
-    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
-    publishedDateTime: 2023-09-18T22:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
-    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
-    publishedDateTime: 2023-09-18T20:14:00Z
-    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 36
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
-        width: 688
-        height: 507
+      - url: "https://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/digital_economy_mobile.png"
+        width: 684
+        height: 400
         isCached: true
 
 secured: "ef3kvw4pXHykwAGGFPSJ0RhyR80qAXwSfFyA7bDDD6tCD9AlxLMevlfPlcIxizjWAG+Ky57m3eqS2eh7SPrlLqzFit+fkC4Qf8aoIuWFuaB0EZeRYagKp3/u3S+khKt+nhJn/LfoK1+laZt53Ou7GwqOlwTxcvk6YmTu9jFwl2YYiGstt7f+3tfV3E2WkI0oKhJgcMJjyCybvDG1RQm9s6EZIcitDk7ksRT3UaOUR/YPaCAIIzHuU5d6RNZbP1PEC+4bUUVwl/NmIBP9rFnX9n3qDFfuFNmAMHP4e0q47oOfdKmDgoAXr47MXQjJMgq/X1OUeTu0TCZ70SBFSMUnjeHJvWLPndTEUJO4YkPF9tE=;GSlSn75a0eCKlHmPf9eqcQ=="

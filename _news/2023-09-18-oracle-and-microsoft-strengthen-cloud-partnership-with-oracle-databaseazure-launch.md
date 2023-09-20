@@ -91,7 +91,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
         width: 1024
@@ -302,20 +302,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
-  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on OCI in Microsoft Azure"
-    excerpt: "and best-in-class services of Microsoft Azure, including best-in-class AI services like Azure OpenAI. This combination provides customers with more flexibility regarding where they run their workloads. It also provides a streamlined environment that ..."
-    publishedDateTime: 2023-09-15T16:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oci-in-microsoft-azure/"
+  - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
+    excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
+    publishedDateTime: 2023-09-20T09:51:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/microsoft-surface-and-ai-event-on-sept-21-where-to-watch-what-to-expect-123092000590_1.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
   - title: "Microsoft AI Research Division Accidentally Leaks 38TB of Internal Data"
     excerpt: "Microsoft’s artificial intelligence research division accidentally leaked 38TB of internal sensitive data via GitHub, according to a cybersecurity startup. The compromised data includes passwords, access keys, computer backups, and thousands of Microsoft Teams messages."
     publishedDateTime: 2023-09-18T21:22:00Z

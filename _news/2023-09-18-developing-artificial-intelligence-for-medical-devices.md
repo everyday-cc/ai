@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/artificial-intelligence/developing-arti
 webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,86 +24,6 @@ images:
     width: 770
     height: 440
     isCached: true
-
-related:
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
-    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
-    publishedDateTime: 2023-09-18T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "China's AI applications are coming — where it matters for monetization"
-    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
-    publishedDateTime: 2023-09-18T03:08:00Z
-    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
-    excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
-    publishedDateTime: 2023-09-17T10:07:00Z
-    webUrl: "https://www.inc.com/heather-wilde/the-power-of-ai-for-content-creators-3-ways-to-enhance-your-work.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1517482123_533630_ab4kkb.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Bitcoin is the currency for AI"
-    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
-    publishedDateTime: 2023-09-16T13:15:00Z
-    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
-  - title: "AI is not just for cheating"
-    excerpt: "A district in the Inland Empire is testing what the superintendent calls an “Alexa for the classroom.” Los Angeles Unified has rolled out its own AI-powered virtual assistant. Silicon Valley-based Khan Academy is aggressively testing an AI tutor nationwide — after its founder had early reservations about mixing the tech with classroom learning."
-    publishedDateTime: 2023-09-18T23:20:00Z
-    webUrl: "https://www.politico.com/newsletters/california-playbook-pm/2023/09/18/ai-is-not-just-for-cheating-00116634"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
 
 secured: "Z7WiP+3L/2RDICY/zhinyrBik7gppqxkVtqOA8xaSAIYPYnGRbyxIFPXbdI/rhrDDXtSDh8TaKvi9TDkkW0dfFfzr7wQ1yp+nKDIFOATfKSnJx9JmjZDfM2DeVqwl5BbelHhxsitaJdJU3k2waHpLSEPM61/mDXTLtogmZrRWEB5Pm4LkWs+1AtAqLK1FVETlLHFeBdhqL/THH/nRcFSuEEwQxpvOl2+BcfHB+Ss2jZ1KsUiWs4RNhWXcbP9oi1JsJkgQgzvwWP/AkPZbpMmQ9hVGiAa4zYZ/GHUJXOKZECMRQS0S/fThMZC/jHcTeFadEpLlAxBsWhO3gAdxMDBnTmnMXOvTSmQgxN/oyk122I=;MrIszoFUTaLVz9OtfQ3KzA=="
 ---

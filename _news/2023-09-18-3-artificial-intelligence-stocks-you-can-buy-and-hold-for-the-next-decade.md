@@ -24,66 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 AI Stocks to Invest In for 2023"
-    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
-    publishedDateTime: 2023-09-18T20:08:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-09-18T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
+  - title: "3 ways the generative AI boom is upending the advertising agency business"
+    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
+    publishedDateTime: 2023-09-19T18:30:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 68
-  - title: "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily"
-    excerpt: "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market."
-    publishedDateTime: 2023-09-17T20:29:00Z
-    webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
+    quality: 50
+  - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
+    excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
+    publishedDateTime: 2023-09-17T10:07:00Z
+    webUrl: "https://www.inc.com/heather-wilde/the-power-of-ai-for-content-creators-3-ways-to-enhance-your-work.html"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 60
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
-        width: 945
-        height: 533
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1517482123_533630_ab4kkb.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "UTC to invest in teacher education, consider use of artificial intelligence"
-    excerpt: "UTC is also considering its use of artificial intelligence, Angle said. The university will host two open campus forums later this month on how it should use AI in its instruction, business operations and research."
-    publishedDateTime: 2023-09-15T22:57:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/sep/15/utc-to-invest-in-teacher-education-consider-ai-tfp/"
+  - title: "Bitcoin is the currency for AI"
+    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
+    publishedDateTime: 2023-09-16T13:15:00Z
+    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
     type: article
     provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 52
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102950134_State-of-the-University-23-3036_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 393
-        isCached: true
-  - title: "The 3 Most Undervalued AI Stocks to Buy in September 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although artificial intelligence has garnered tremendous interest for good"
-    publishedDateTime: 2023-09-16T18:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-ai-stocks-to-buy-in-september-2023-1032634932"
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 19
+  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
+    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
+    publishedDateTime: 2023-09-15T18:13:00Z
+    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 18
 
 secured: "ZBKi2gnMKRb8FIDI/MyhGgbkSG9IbTLU0njsAkNufcLhSeobbSOzygngBUQzylyfq85WTAyL6GdlrI44qgBAy8Cmys8YE3bWbgq0vLMOVEzeAZDrIQP6GpYJ9OmVvWC217jmVunmxxH0Q8P2dUTNfRSHHeaO1Lc5A4HoOU2Ljm2WcyF/UcHqozfRdWTQMqsyI8FxDoUZO5rHHoW76SdUtRdwV2xW0rxiSN3i5kw7mptZPwpHV22aQ3pUp54Bfvtnxt2qFXrHd4j0veSHgcNCzsrVhCtuPrBCoDQenU/EZ1swqNBq2kTnrdDa+nibzH19EPcthXeE8qchyYmzdrNmoJiDJjTn6IXzjFwYxy4RQGQ=;+ViTvCKTLmkFuYliwz3VaQ=="
 ---

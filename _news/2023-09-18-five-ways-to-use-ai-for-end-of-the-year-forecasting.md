@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,50 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "The raw materials for creating AI"
-    excerpt: "Explore the resources and materials that are needed to create AI"
-    publishedDateTime: 2023-09-15T16:14:00Z
-    webUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
+  - title: "3 ways the generative AI boom is upending the advertising agency business"
+    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
+    publishedDateTime: 2023-09-19T18:30:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "China's AI applications are coming — where it matters for monetization"
-    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
-    publishedDateTime: 2023-09-18T03:08:00Z
-    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Developing Artificial Intelligence for Medical Devices"
-    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 41
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
-        width: 770
-        height: 440
-        isCached: true
+    quality: 50
   - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
     excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."
     publishedDateTime: 2023-09-17T10:07:00Z
@@ -88,6 +53,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
+    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
+    publishedDateTime: 2023-09-17T21:11:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Bitcoin is the currency for AI"
     excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
     publishedDateTime: 2023-09-16T13:15:00Z
@@ -97,15 +76,15 @@ related:
       name: manilatimes
       domain: manilatimes.net
     quality: 19
-  - title: "AI is not just for cheating"
-    excerpt: "A district in the Inland Empire is testing what the superintendent calls an “Alexa for the classroom.” Los Angeles Unified has rolled out its own AI-powered virtual assistant. Silicon Valley-based Khan Academy is aggressively testing an AI tutor nationwide — after its founder had early reservations about mixing the tech with classroom learning."
-    publishedDateTime: 2023-09-18T23:20:00Z
-    webUrl: "https://www.politico.com/newsletters/california-playbook-pm/2023/09/18/ai-is-not-just-for-cheating-00116634"
+  - title: "Pandemic forecasting: Predicting events with the help of machine learning"
+    excerpt: "Researchers and data scientists at The Florey have found a way to harness artificial intelligence (AI) to improve people's accuracy at forecasting future events."
+    publishedDateTime: 2023-09-15T18:13:00Z
+    webUrl: "https://medicalxpress.com/news/2023-09-pandemic-events-machine.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 18
 
 secured: "PObwZxhhvkv3ZZv5389RAJ5Jdd7RIddTN+YRhjROqWfNuVvkcvIvHTd/mNvxyHFvygvzH2kfdBvau3H9AXZXFEsWBka8QIiMdi7MB1reNSWibOL2htl/72Sys0WvjyCmdxVNlNeI4gpUD+IJRaSrZXlHG/tVyx7fIlF7mynr6MjDVmy2DvYiZlpE4CWHEsN53kyn0tVEEzb/NnOGS/9LJPprfhZT1eUyfUnx5rLDX5DD3EQuB1Rf8AHqOE0VDYxRz+FUCFhamXBJHsDkKZYNhCGIHFwP7d/nfjNqI8Ebigi42utP3rsCjsrnHo3oRcTrX+daVhymnKOt8SpwlNCf8MY2Fr+usXMpPo13OOQXGNDwj31Tz6JlVV8sEpfFlzOuq2O7WW44rgvfKP1WIdNFVA0qzHPjIovKbChuUR0fLglPECl08RoyrBf8NgxuMEm4eAGPvYn0k4oaTSGnvTBzQ3tX8NxtCeeu5gYtjS7xtlmYBw0866uiC/MaCSCqPQzvuVA4pt6x3QER2t1UM87igw==;XmaMpQyWFIks54H1Zul0+A=="
 ---

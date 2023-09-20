@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-20T07:29:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
 webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
@@ -307,20 +308,15 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Microsoft and Oracle Expand Partnership to Deliver Oracle Database Services on OCI in Microsoft Azure"
-    excerpt: "and best-in-class services of Microsoft Azure, including best-in-class AI services like Azure OpenAI. This combination provides customers with more flexibility regarding where they run their workloads. It also provides a streamlined environment that ..."
-    publishedDateTime: 2023-09-15T16:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oci-in-microsoft-azure/"
+  - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
+    excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
+    publishedDateTime: 2023-09-20T09:51:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/microsoft-surface-and-ai-event-on-sept-21-where-to-watch-what-to-expect-123092000590_1.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
   - title: "Microsoft AI Research Division Accidentally Leaks 38TB of Internal Data"
     excerpt: "Microsoft’s artificial intelligence research division accidentally leaked 38TB of internal sensitive data via GitHub, according to a cybersecurity startup. The compromised data includes passwords, access keys, computer backups, and thousands of Microsoft Teams messages."
     publishedDateTime: 2023-09-18T21:22:00Z
@@ -417,6 +413,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "BVVYLVOABSltuvcOI5lrtwmmBjxeKXhqjBb22RkoxTXS4sqrZEKvOPZuD/3Cr3n1WopobNP6iYLyhLgUWL00FMU5uFnxzi5GFEVYrSV/AW4FzwXTRZtQ0NcU9GjRayUVA+Z47D+U+TL0ERP4Y7nnOqUh8R3JYVCF64I/OQHdcq23zT9QUnYS2TnQ1jRPszt6vCaq8jSRnDgqGJuQfRTFWNzsCKueDykZNoUl2dt/TqCdQngG32/4+mj96BZMT3mQ7MJS+Zr9m4rtlfKabdjdEd6GQiHAT6saj2ZgpTQhU+Rr+kBZpfxUcNC/6X0UX6QT/64Y9VVLwg+gZ2dxp++ZaL2+AuD4n7LpFFhAXCB7nAU=;N81k1ZcgF8IjqBxvE7nWRA=="
+secured: "hkxlAiFVsU4ESyIsd5H+Dm3r/GLHMJwOQAVO7MgCYuh0viiXFpXe0Z4A/XNx+uQg1h4sS0UROiSEeqBWnWZe4a00yo+edTGgfvGWoYe+HSFgkxfEOBjF+K83Q0LZdJNWkCI9MpPVl2JfLXpMiGPT1/Fwj0S1jgkRQMs1Vp6IdCtENEOiAyNX4eYocqFnp93Rz+ydqgmCs0042vdCnnGCvmAcXMbdjB3aLnSj4oDvTCO+flbawAwBWENcwDfZGFZXQE8tiQFRBpZ9nOrZ8Q5cLnOCKDyhMXTutKZUcH2jM30mtlv9fqsJH8TspuzNiWU87CeAzjo8lz/rWbJg3J2QN3rnU0jbD1EaqznDQI+kaOnW+LEESzJIkKeOnNHHt5hDm9E9vv/uSCLvi0Fdd0uthPMa8MHFGe217d++9F7hJwlJ7L0FqQcHCDdWTJ7clS7tB/fQg53c2gyboHaa3lmOTn8YGZdqK5YzJIzdyC6Sn8ioEne0/EQ86ERag0S97jgcRcnNOQrqUB6WZ0jfpj76pA==;6NPHApWhRTDVOuzhuFyZtw=="
 ---
 

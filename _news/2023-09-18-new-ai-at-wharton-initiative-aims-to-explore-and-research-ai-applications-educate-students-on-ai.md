@@ -25,23 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI And Others Help Educators Navigate AI"
-    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
-    publishedDateTime: 2023-09-17T18:13:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
+  - title: "China's AI applications are coming — where it matters for monetization"
+    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
+    publishedDateTime: 2023-09-18T03:08:00Z
+    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Could OpenAI be the next tech giant?"
-    excerpt: "The creation of a new market is like the start of a long race. Competitors jockey for position as spectators excitedly clamour. Then, like races, markets enter a calmer second phase. The field orders itself into leaders and laggards. The crowds thin."
-    publishedDateTime: 2023-09-18T23:46:00Z
-    webUrl: "https://www.aol.com/finance/could-openai-next-tech-giant-204518392.html"
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Chinese home appliance makers aim for vertical applications through self-developed chips"
+    excerpt: "As the smart home ecosystem continues to expand and the AI application trend rages on, many traditional Chinese home appliance makers like TCL, Hisense, Midea, and Gree are observing the massive business opportunity in the vertical application market."
+    publishedDateTime: 2023-09-18T04:38:00Z
+    webUrl: "https://www.digitimes.com/news/a20230913PD205/china-gree-hisense-home-appliances-midea-group-tcl.html?chid=10"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Digi Times
+      domain: digitimes.com
+    quality: 45
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230913pd205_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
+    excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
+    publishedDateTime: 2023-09-19T15:17:00Z
+    webUrl: "https://www.cmswire.com/the-wire/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 30
+  - title: "Building autonomous AI Agents and potential applications"
+    excerpt: "The script then uses OpenAI’s natural language processing (NLP) capabilities to create new tasks based on the objective, and Chroma/Weaviate to store and retrieve task results for context. “ Autonomous AI agents are essentially self-governing entities ..."
+    publishedDateTime: 2023-09-17T11:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/building-ai-agents/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 19
 
 secured: "jG9jO4Ov45VODYm+eeU9b7yxLKv2vpYopYKiqCvow4B8G3FNscZB2RER6Y1hNXjeE39576z9IRy89M0VUrWUe0hE11ApxAxL+xI5UiAdCM76j3/1PThdCNLGZcisJ2qZJSKSmkamX2+W7/cx09Nxecn5OJbO6iFaCuyCGX7ynZh5fa72OcxlXgQ6qZzlrng4rVdH3ek/s7lYolyHSJ9wRNK/kODgxO27X4XjsTof1UBeJMyc928yyIs0ex23+lUEvw8GFq8tGDGcEKKsFe9fHTYHWizFOEUnqbKo/WOyNVziSnURQQU1d3F560etmTKBUaxOaAI1DAh/TponP74rdaWi6UAfuTGcr2BlrZ84omOTxbzF3Tqtmlc/pn2C7Bo5wpIT8X+m/DNodIOuau3SzZ3G9H7YDPAEEodHnL5Y54k+94lEc5yJufmO1nHGZI00l3twqtJNMXV3Hz1IUjr5MsoDgwSdVPNBtp06AJuakHBghT7Py2pYl2K8UmmJL0j4Vbuin9srPBPOG9Ouj9PBfg==;JfBhq3P2NIZKZYPevN9vEw=="
