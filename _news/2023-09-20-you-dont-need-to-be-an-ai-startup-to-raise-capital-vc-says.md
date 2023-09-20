@@ -3,12 +3,9 @@ category: news
 title: "You don't need to be an AI startup to raise capital, VC says"
 excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
 publishedDateTime: 2023-09-19T22:43:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
   name: The Business Journals
@@ -17,36 +14,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Questions every VC needs to ask about every AI startup’s tech stack"
-    excerpt: "Leonard Wossnig is the CTO of LabGenius and former founder and CEO of Rahko and VP of AI at Odyssey Therapeutics. From fraud detection to agricultural crop monitoring, a new wave of tech startups has emerged, all armed with the conviction that their use of ..."
-    publishedDateTime: 2023-09-18T20:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-656781058.jpg?resize=1200,841"
-        width: 1200
-        height: 841
-        isCached: true
-  - title: "13 Startups that Google Funded Under its First AI Startup Cohort"
-    excerpt: "Google's inaugural AI Startup Cohort features thirteen diverse startups that addresses important issues with AI. The 10-week program offers tailored support, mentoring, and technical expertise."
-    publishedDateTime: 2023-09-20T10:31:00Z
-    webUrl: "https://analyticsindiamag.com/13-startups-that-google-funded-under-its-first-ai-startup-cohort/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/3-Startups-that-Google-Funded-Under-its-First-AI-Startup-Cohort-by-Kruthikaa-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "4U+POaMPg4sJRjYuNRvflrAmCw9pFxAgUd+cx/7oXrGuGRidTT6xvqjZUG94k/66gA/HacbkbnKhrUioNeEBfP+6/6KQq0OJ2tuej7NMl3dMN8GSI11L+Py0bzKPjRVSSmUTm4u9VBS0dIARTHXpg17Vg7rj08npnuQmKN1rkI7+c8K52k6X0NGfYr1W5ciRJYRc+uILsu32UKLfrouw5+yjKixAbobe+yS/2rXqoHgWGxKHvIwErtF5a+mZWvUer85H9uPSqP5yG0Tgk0X+uM8JrNb3zcnkxDVY5h1QVN+gsQDtthX52LgsBUc1hMx5UnMC81wAt5HKjSb2Te03a5GGXeJaNf4/jPnnfHxE4DXJa7Qj/90ohQgf5d/HJphizxEgh5LtFcsmEEixgrcJKt0Uor2ZLZjj4Y4UgxdFceD3L7yvgF5jLGd8W1x/74rhQOnQejZSeohtGe+VCDlU/uXAjmsrVovjPad0ov1+lJRl0xvCCpYQjfzerZrKx0nmm72GaOU0fBcRSG9XnTCQvA==;I0w0Qx/mj1iJ3d6ihVojEw=="
+secured: "yuTUrPmQPRt8TuxemUsvrRkGZnGz9OWyO2yc8ZH703ooj9o6gH1/qLx7nQ6fkrZ1cj2V1jBI/4Unh91Ia2amvBSzMzXpKFFBiQX+lUBVN/uJ3z/LaViFy9ezvd2zEY0SYqjFOYJ6wvjoU+SowRniJDxCPL8EleM3digI7eXpII5/o/N/bNxFSkBWjKRhnqgCUaV6it8dqRrDfkD2dySpgAh9exNOvIr307pXtsn5MGzWuHBdoE9ZedxfB9HrB3waEjV5EX0CD4tsM9m2dt9FpfFY2IQ/SWcgAPWLpQ0XlTAmVNV4acraJCXbnYD8pwyp9TnGP3s1+hlKddQAtIX4gqxPvj1P1LwlFKjVidlIzZnE5TTjao8iQmGdhrr8dR+T2h89Vdl9jSFSgOAJ/WF9JnGPbUN71EuKgl1HOr55gEo5sODvXCDjPqBvnBLRKYXeJspEwqfiyMDUcRfJld7iBIwUUcrzKypnT3liMqBw3M25J4WGkRNfsCIcjOxhNl7HGnD9PTUhTWXagenk3heuZQ==;ex+zU89PbnKojNmLEqQ1Dw=="
 ---
 

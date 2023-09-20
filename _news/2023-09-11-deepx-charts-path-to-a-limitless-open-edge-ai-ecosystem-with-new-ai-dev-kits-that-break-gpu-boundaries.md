@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "8ZHyriyibB2X8Buei9x4oVTMzBQB2eVSke+iURZWpzcyVfrOfh7m+Irs4Rd+viAuGiboG4DKZegZP7Mvu4k9SpSBOJoc03J5G4VSIxIcw41RmcQK8T1VWNUIFV5IWqngBdOYJgc5VxGx6LvRHjlPxDZeiLSizUrad8JOcKP/X9V2DrBPAa5puRhrGZjauegSLOnImdUHdPc5NXBZNTO8eCGge6Kp/mjHIyuPzvtEz0NuVqEgRpz9rt//uuDlf7y+sr9BLBj4Em1VzdWUZQJHiTomSlK61lPfhnFEC2aSXeHXS4+yyiW6z00Arz5mfn5kIsCpt/0k3eu+cL9LzvCtPRevIjHWC39kVQKnmV7WJYU=;13E5NB61OWe0tO0TpKpamw=="
+secured: "eAy54H7GgKxghibkewsufO17iyVlukKlgEAyQHZeNkIiKRSjKTjHlJ5hApQAKsGPseSNJEeMND+6gH9iFKzI6bKLUWASIPxX8sKtG0kqFWNY7nqOqn38Wz1k2M3xIZW70YhzOWyjqzVBVLVjd6+lGhQYVLXFIqTidc9NDZpP2YMFD6wIGur+XbKcm+hxtqBsKCRPPrmXjA86u6HtOMhFz+ihXzBIg47VIIq9Rg+S6rI6JEbWgckCEeePXOXA69PXmJ04E03HlZInMop4kqDlKqEeIoXOzf9B76gRFvRJCnz3UzaYncmzlb+zXrbNyql+Wlwjps+UZ415GH9HxvFOX6EPxdnniSGNw49g0PP2+Tu3nqUD6JS5lIpUF0fSw/orzdEzNDEWeLzUN9jp0pg9mS0rp1ik8Dpif+n3QOs371D0nUAKnhJaBsUiAzJqrR3SbgZw0b9w7s4WqHehHKs6XTMrL08o1khdpGe6lx+CCCInzcupvLSlL+xSEWw61QJfdgmGFhJzJfGrjxSqGD1cDw==;kXERf+Z8dk2cHlwTV64raA=="
 ---
 
