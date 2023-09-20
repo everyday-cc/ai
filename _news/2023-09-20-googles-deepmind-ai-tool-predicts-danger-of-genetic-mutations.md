@@ -1,21 +1,21 @@
 ---
 category: news
-title: "The Download: AI to cure diseases, and China’s deepfake influencers"
-excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
-publishedDateTime: 2023-09-19T12:10:00Z
-originalUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
-webUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
+title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
+excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
+publishedDateTime: 2023-09-20T05:16:00Z
+originalUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
+webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
 type: article
-quality: 19
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Free Malaysia Today
+  domain: freemalaysiatoday.com
 
 topics:
-  - AI Ethics
+  - Google AI
   - AI
 
 related:
@@ -215,16 +215,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
-    excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
-    publishedDateTime: 2023-09-20T05:16:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
+  - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
+    excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
+    publishedDateTime: 2023-09-19T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
-secured: "H+OhiBMyKS/AqOzwy490juj2cg19Dxhu2id2CmpojQdodf6BTRfGgn7jApniNbNyBUBZofyRbjwznF025w2Fh7WI+k+fTug2jD/an/SZRN6BaRW5onojTMkB2tdQbo+yMaao3KO/aoK2EQ7Q6xpmaFcDTibDr34iCXQcGEFKwRF9lmTfX00orNpr2wc1LrX840pAjrW0GKWJYtAltvDobGXNzo7bkZVV+6Bc5z7Ms5AYbkKi455X7KVgf8lvj0k/QYGYzSBHoSiRxSHObV3j+oqocEMmLQOKn0DAyWXeyoGbjkeM3pZVPZjMVqcNtOJ4v45H98Dr89Cuvtw80DliDYfJjWb9jTcfw0435OMcpAad9QEztQMaOHbU6LK/Lf3c+stGG+APUOR4ETVGr8t3nzn1gMmt24n2teq62dpbET0dFA+hwTaSFL2+DLPziooqsHH92w0/fPlV4OBdfKKMrGP3n34Tfqo5WLdy34a1SJXeq4P6CVapdTK3tOQXL0tjzE3B8s9zZM0KbwZ29U22Ww==;eRuvvg65y30iSOLjXhuCew=="
+secured: "ezYdsTW4w2e2Ur12uYPlus3pUVMfvQDUoOyfQAdLnh5RJQ25YGDjA35/pdT64+BP0OTkO0wUjLFZOajOUYVnYQ9ncAi57qskbaK4wR4tOgmqlgeNQS2VrkwWH3xydCAdvpy0DkVEbt6Nz2zvE9qAiYKOP/FJYfRDHpva/xrGfUN4z4fYkZOT/wS9tTQKpNnX8lWMxSHq5gMwc0+H8jMYTIg2qOpSMXPbyGmWBMenZEmjlqPp4cDHdIcLbYSCDwS4o8FNM5Lk3Mr4wH9V6NhwkDiG6WbkZY9Bp2Qr4sh3e2EtyFm6hWzRHOipUBzQcITx6mcz3cVr8OInTTJzzT6ACZj3+M20xl8jfjs4SJ+jg96vlT7e4V0p6H1vdLVDeKnt6SaPS+qntbV5i7bqW2TTY1k3KVpVPSw/afKS0vsKofC/kzmLI0KY7BbA0YN/21t87J8WLufwBsq9A7nAOKSXsF6jMSA+UQwHTkGktVoPXUQF6j45M95d0qzRpJJsSeJ1Xz37VA6Xun688/9voIDx9w==;bjXvLqyLsQXTFU1PgxX+HQ=="
 ---
 

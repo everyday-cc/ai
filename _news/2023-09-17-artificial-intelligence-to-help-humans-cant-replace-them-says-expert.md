@@ -63,15 +63,6 @@ related:
       name: Cleveland
       domain: news5cleveland.com
     quality: 19
-  - title: "The UAW and Other Unions Must Focus More on AI and Automation in Their Negotiations"
-    excerpt: "In its negotiations with the Big 3 car companies, the United Auto Workers’ priority is maximizing pay increases for its members. The UAW and many other trade unions should be equally concerned about the impact of AI and automation on jobs and how to prepare their members for this new world."
-    publishedDateTime: 2023-09-15T12:05:00Z
-    webUrl: "https://hbr.org/2023/09/the-uaw-and-other-unions-must-focus-more-on-ai-and-automation-in-their-negotiations"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 11
 
 secured: "gQ65NskNrIjNXT/SNGLvPmpHunTcAK2AZypiUlL1yW84H49vKU09jgZWa5kpXFPc1Cv9VPHe78eEcOhRocEJm857pMzxzDmzs7Nn4S4eZTSJpZblCypZO0yPwmLUtebMbW9qonY6FNGIRDU6yRwEoWigw07I0cNvD/qEVTR5G0jhyipMkVOX+mTVxBIF72QVzeqFKndbafhRnYuGz0fMoZ/a0i/QjNdt/+ntoxaC6t+5Uy4vSnAds9O77a5aSHq99oP0H0NuL5e6O6fmXHcZZaA8S7eq8jB/GYL/fi4RjhR9kYtj70dU+DuGtbpfnYm3QMdtQJfYXlzs9DLDJ4xCKduqGd3QIwkONWfzQZYOaSo=;OrufcsR4rM993Ga7aD+5ew=="
 ---

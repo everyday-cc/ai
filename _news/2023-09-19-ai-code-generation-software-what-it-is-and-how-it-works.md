@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-code-generation/"
 webUrl: "https://www.ibm.com/blog/ai-code-generation/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 98
+  - title: "Intel's newest laptop chips, software will handle generative AI"
+    excerpt: "The capability, which Intel was expected to show during a software developer conference held in Silicon Valley, could let businesses and consumers test ChatGPT-style technologies without sending sensitive data off of their own computer."
+    publishedDateTime: 2023-09-20T04:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai/103798682"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103798682,imgsize-76678,width-1200,height=765,overlay-etcio/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "qmT/SGdiay6d9mu7sHrXPfL2a0DG/vSYKvSayJf2pP+AIC6+FnvxC9svkw0ZUp5xq2GuWdjYTrEYRDYOahlx0mnZ2tiiOpQJHF7OogzQAvoeCW8GLKUawWwvIAFN4/STUOEpSFkf6rjVE66Inl1HA9WHOzqcMjdH/JGVo2vB+WfBJUWJ2uWIw5NZcHdjPsIcKfGX0BYL1JxFRXaMqV1obovyJfEKAa8JmrMy2XHE61R3IoPCuJA8TC0QaR2tSaVs48J0jxkzk0GJ9YK5j7h/tnWSECXSrxEuajdPvTkKE+tJJHFeDODKyraoIYL6U6hHwKNca6120g8N1F6sNWThr7mo5cHP8At3e3jmdWVuRGk=;6x+OI0UN5NUxwVTN7LK0xg=="
 ---

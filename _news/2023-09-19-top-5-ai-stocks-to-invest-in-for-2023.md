@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Five AI trends to look forward to in 2023 and beyond"
-    excerpt: "The potential of this still-nascent market is highlighted by Grand View Research in its recent report, which suggests that it will grow at a compound annual growth rate of 40.4% from 2023 to 2030, reaching a total capitalization of $439.85 billion by the end of the decade."
-    publishedDateTime: 2023-09-15T13:01:00Z
-    webUrl: "https://cointelegraph.com/news/five-ai-trends-to-look-forward-to-in-2023-and-beyond"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 41
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvZTA2MGI3OTItMjVjNC00OGMwLWJkYTYtNWZiMWNjNDI3ODk3LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
     excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
     publishedDateTime: 2023-09-17T21:11:00Z

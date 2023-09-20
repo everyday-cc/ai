@@ -3,8 +3,8 @@ category: news
 title: "You don't need to be an AI startup to raise capital, VC says"
 excerpt: "Raising capital is tough right now, unless you're building an AI company, but it's not impossible. Defy.vc partner Neil Sequeira dished out tips for founders at TechCrunch Disrupt in San Francisco."
 publishedDateTime: 2023-09-19T22:43:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/09/19/techcrunch-disrupt-tips-raising-capital.html"
 type: article
 quality: 17
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 841
         isCached: true
 
-secured: "xhI5jQmHTMr1ogf4h/ieL8u64VnpylgrzQXJevE/goMhYxSPC3QP1qNIwkvqxiOqCbvcPR8lothYyizPX+8pgs0THZYG9YYCdgoODA6nQW+9WI8sXa0WqsfQOvrhIqgIZXTF+7O4nM8aG3hCIp23ZoOFyPcfk0ouDrFIdzy7Yxu9wFnm6KM/1sMONekyiflV0eHCYWgk6XsInOORS1CUUBraKH1FXnOsPHAmb+ruV+v+cYeRKpkQwl1peplyOti6YaqPkl96IdrQkfROsttGFZwdlGaoGB/0zD2Ts09djmHCtIhOqrHS2y6n7FB38ItFPS1GIlj3E9UyrrFo1yYEMLRd2ggD7G6LMJn2siyD6yaDy8pQjeMkJwJ/egwvu2uoFYh3Sv43KkGoLMOfu652a640TxzSzjOBh72sUh0RO/v4x1jovUOmvtrzmky0gsF4mtIy0keaaVSQ4DaV7WKJuav0tlGLWTeqZBVj894u1VgyUsBs7LR+ngpYFSi5sGXUw59V4lDYELbwIt41wL4J2A==;dDFLIprQ/lZW6GkfpQzZGA=="
+secured: "Ihu1gSQKOZQ2BbUVTf+qFWYdCzSJoaQMDE0jiBfdNR4rgtrzLYcxe4tbsAtiWYFH2SENunROYxt+ue/5sf/Q02+w6Mpi5ZkvSPeJVsacC48LsgTZCUO4e/blJhDj4ofMZGAplLvkcqyTrx+oYtGXiAlrBLJ5bLZNsp7fUSpojlMV9u7euSmikryJMQhdmFCND/WuAjwEHjXVm4xP0rAR19snkxFE/fthOL4klskM9MRQSs6nzvwSI8tvqXa5Z21ScXKUrrDfzPtTuCk7IdQLnezF7CX14ttW+2mWFVfY8SNsHNDfoJchGmHUVbTZ9NqX5e5qyHxWKNzsXaoLs2hTLRz60P6+XNMF8icL0oeXamRUOF/984EgPGrU/dBuJTiyoF+ErcKxd0l47qO5Ligq8WQ3zI6IQHv4cfQL75lbVMpgkRUncT6kyhZVztYMPWMlPMSCMrbwzN91kV43LGORW7FnmWaMydZEqLxMnWGi/Pw//wgnFkf3JbE3e7foMvKXa3eP2zwnEnhCFE4lLRjCjA==;ux0kPKB+FRqeYkZ5UeZuJA=="
 ---
 

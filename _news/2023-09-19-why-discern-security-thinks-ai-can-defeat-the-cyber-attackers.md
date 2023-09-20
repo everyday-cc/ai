@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-sec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber AI: The Imperative To Be First"
-    excerpt: "Only AI can scale to provide fast analysis of the ever-increasing volumes of data being produced in today’s digital-first economy. AI has the ability to find the needle in the haystack—something that isn’t feasible for humans. AI can quickly see if there have been changes within the environment and surface them."
-    publishedDateTime: 2023-09-15T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65034ce6df7c18f7edfdab4d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 837
-        isCached: true
   - title: "Artificial Intelligence Making Cyber Crime Harder to Fight"
     excerpt: "The rise of artificial intelligence brings tools that help cyber criminals clean up language, opening new doors for hackers to break into networks through emails that trick recipients into sharing personal info."
     publishedDateTime: 2023-09-18T16:07:00Z

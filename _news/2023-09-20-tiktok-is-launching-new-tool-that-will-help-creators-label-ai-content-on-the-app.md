@@ -2,11 +2,11 @@
 category: news
 title: "TikTok is launching new tool that will help creators label AI content on the app"
 excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content"
-publishedDateTime: 2023-09-19T20:01:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
+publishedDateTime: 2023-09-19T20:06:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+webUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
 type: article
 quality: 52
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oCUfuDb64kqCbrmZYRbs7PX8Cca3KDIAhNs21D/6DBm53HlofjZVNBQTVRn6GNqO/ezGGIG6MaWCEEVBVOKOXqink88KOC4WlU25YCh1+UTEx8SQeLW4oRryT2x/OSRWz21DOJs3UlPsUoNwmUX2RpnQdlVyAIvg+JkOpPxKL/uJyjFyvOxun2vI0vDKwDL5KhxewDil1kyQCqyajIdknU7Z6g1I20LGQSvme7Zx6efLENJMo+GCBJzNaua3NVP2KiD6IFUaD9Zw1yWeoJ1PWjhPBdhg174UUul4AC+U77zN/+iuE6HnTvI+uE9fUB6jNbX/yiEvX3cOEKzBP+JDyXAZYBeGOAoqdEojy6Q/Afg=;Y4nPAJXHBi4JGnYxQhY2wA=="
+secured: "dFabS4x8rLRDXF1hg3EAirCNx5CC0TsLa9/pMYc1gcwbsh0y9nQlIzibDZqidPoFfHb1/m5EVnKhdBD+Y7lwuzpQ9AqGzSyHkcGL10W0ug7ESWNFfBRIwBFjb8wcuciq62DLrUV2Xh7+iJn4VcPhafgxqXg0pG0hybhDbX8A2OYBjSrB6uIK5p82v0mk6aALl08OHrM8to1qBlnzKV8HuPFHXu5qIK8FC/4uhy93GmZhrRmbKcbDYo3VAyf4PHVs+eaFWU4PoASYr1pIQSz42/zdS3BKF+GB2A1XHcA/LmuSn4XDg4awbbGdQsL8DRjl2BNONQvjhbj4qyY86svcRldxL1M7RpKpSrk55emtjrs=;HEET6YQ8WVEIVTlvFgZixg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
-    excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
-    publishedDateTime: 2023-09-15T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/claude-pro-vs-chatgpt-plus-comparison-which-ai-chatbot-is-better-for-you/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
     excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
     publishedDateTime: 2023-09-19T08:52:00Z

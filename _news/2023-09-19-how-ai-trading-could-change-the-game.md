@@ -53,6 +53,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
+    excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
+    publishedDateTime: 2023-09-20T05:00:00Z
+    webUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-cert-reforms-may-be-impacted-by-game-changing-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 33
+    images:
+      - url: "https://www.irishtimes.com/resizer/DA62EvHoLfiVrXB9Uh19O6X49fA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ZJIBKZZ7PRCEXJYCITS6WBNKAA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI is paying back ‘the toggling tax’"
     excerpt: "A recent HR tech release from Microsoft and SAP uses AI to streamline platforms and restore time in the workday."
     publishedDateTime: 2023-09-18T13:21:00Z

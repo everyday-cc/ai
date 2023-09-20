@@ -39,15 +39,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Indigenous voice to parliament: Libs and Nats bolster No campaign, as Yes23 launches new ad"
-    excerpt: "Liberal and Nationals divisions across the country have agreed to co-ordinate resources with the No campaign and boost volunteer stocks, as Yes23 launches a nationwide advertising blitz to claw back voters ahead of the ­October 14 voice referendum."
-    publishedDateTime: 2023-09-15T12:41:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-libs-and-nats-bolster-no-campaign-as-yes23-launches-new-ad/news-story/a7f886e0cc7607c16d1860a7d82afd60"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
   - title: "Voice to Parliament: Experts reveal what impact Voice could really have"
     excerpt: "Picture: Supplied “This is happening regardless of the Voice, and it’s happening because of an evolution in Australian law, in relation to recognition of Indigenous rights. “This is a global trend, not just Australia. Indigenous people, when their ..."
     publishedDateTime: 2023-09-19T19:02:00Z

@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "WiMi Developed Optimized Video Personalized Recommendation System Based on Multi-modal Deep Learning Method"
-    excerpt: "This recommendation system, uses deep learning and a holistic process model for multi-modal data. First, we collect datasets containing multi-modal information about users and videos. Then, we transform the parameters of users and videos into single-valued matrices containing non-zero singular values."
-    publishedDateTime: 2023-09-15T12:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-optimized-video-personalized-recommendation-system-based-on-multi-modal-deep-learning-method-1032633384"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-
 secured: "yLQKftZvLZ1MbI0XnqvZevPpqK1VSUiDD0cZfp+QqHtJ8Ls0ekuKdasZK8KSs+fj7s8De58jRN21jx+A6oet+nEBEAGYFluhOtXJHojfJN/HUPy3ebHAYmcQrnLs+hTwCP+DTI/may2pBFTsIoSMYi8WCyqPBFTtQmSD6fLcVNMeZHWbFwekYk1pTLfHFpFnDFjkMm+5DKDx6wr0My3ru5sfOEdvip7wXDfen56dL4WlBrGvCAe4UAUdEjs049ugNodcAWxzExlR2YUZLNqAKxqTlGfNDlSumcPAhrNspYEXQb1D3sN4xwHFQ63OHhJiM6L0HCzM/BzhMFH8OqqIpAcpj8ELAEneTmeub4cguvo=;xDwgmUMvkhIHaGXFBRwFeQ=="
 ---
 

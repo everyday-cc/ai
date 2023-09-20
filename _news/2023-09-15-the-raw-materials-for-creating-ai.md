@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-create-ai-materials-resources
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Developing Artificial Intelligence for Medical Devices"
+    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
+    publishedDateTime: 2023-09-18T00:00:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
+        width: 770
+        height: 440
         isCached: true
   - title: "The Power of AI for Content Creators: 3 Ways to Enhance Your Work"
     excerpt: "Explore the benefits of using AI in content creation, including idea generation, content enhancement, and accessibility improvements."

@@ -47,15 +47,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Indigenous voice to parliament: Libs and Nats bolster No campaign, as Yes23 launches new ad"
-    excerpt: "Liberal and Nationals divisions across the country have agreed to co-ordinate resources with the No campaign and boost volunteer stocks, as Yes23 launches a nationwide advertising blitz to claw back voters ahead of the ­October 14 voice referendum."
-    publishedDateTime: 2023-09-15T12:41:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-libs-and-nats-bolster-no-campaign-as-yes23-launches-new-ad/news-story/a7f886e0cc7607c16d1860a7d82afd60"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
 
 secured: "ekXT/KkdHpmpgzfbgzEyhpIMZXxEeVfo5Ovy73rPasG3Q1xXjjRnlAO+LJGBOrH/L53hm1CrYAy8tU122JLTqN0Hqgtw9VOlBO8qnLDllWDlzIzhnchzU77C4B2AWYEFarpoBS0ybbs0qv9yqRGYuYFStMxcDZMA+os1uH4NySdUQy2pT6CUhcrVWEN7cjNjz0coJIoOodKAutXCXfCmg/L8ZDcPAgAkvghHXk/4hGSMFv33qsHKx8fBpI/zVk/sUeijpVryDajjIiclAfbXivAOsvQgSHLSdMZdK9XNjJM/b1cJbBLvHTQZz3IetAFHSk5B4HesWnty/wbBPUTFT8JAkhXwnM24EQzN+62EgaTEbm73dDmGW8WD5lRxlp7GfjJVQrkQhTgWEGSHHi0KH9tth24zD941oyaANt8q55dAuHH808mfEMepUgvMdPUhUC46PSJLP6Y8D+oAd9tjzeXPdSaS0P6O4KBci1tXWAVRjfMGSaX8YM7w0hnyrLSunp0VWd5ylL/VUzEbe8rMEA==;1ycLuQtgIUjpgk9HyG5Lig=="
 ---

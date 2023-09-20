@@ -134,15 +134,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
-  - title: "New report sets out Government steps to make self-driving cars a reality"
-    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
-    publishedDateTime: 2023-09-15T11:43:00Z
-    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 3
 
 secured: "+hfsPbCsmrgmCzzrVy+z+yFrecwUyaLNFSiezC95CxWlsfAuRDMI+SNFJTS7huiAAlsnXATUkXD16vnpAvvjYXjav+SJonM2elut/IDh5DYdHE6RX68tKhSAcgV0ZuZjhRUij2EeX1eEeqAqUvPQ3WZZ3qp9r3OZNdaO/N/MkpDKOcVA2zeyGRaSd1jt+yysETV1jsfDSUilZ4jOCb/sG7PFku6F4XGi2h4tDY0/uh2zwx+Bvr8TJ5n3U2oHeYnt3d8EpNIXWgVKTGHrZfqKRFLDuGcSXCeeFbYuThVkHNIdEstDiNc0QOsG6e6Q09iib/Kw5aRAvY/5mqkTmX6BFzOLGVFqoTtmmJAlNsI8apodTX8zds/dyJc/brq0tLTEGSTzXsZBDpNa2hzpqt+IuN7EzrdZmdGB83k+dUltnvG5+c3Hq7zyka5+udTVL7KfNqSyEpt+w+/bs5SOYX8tmKD8DAC6Ba2Iz7Er4LkmtC9FlLi3xI2h1XbTkufwQRhJZPLne6bA6EDP7i8vJiKdNw==;a4BMlREf1g1qTk1Qz4sJcA=="
 ---

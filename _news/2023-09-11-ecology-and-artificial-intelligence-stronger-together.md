@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Ecology and artificial intelligence: Stronger together"
-excerpt: "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ..."
+title: "Ecology and artificial intelligence: stronger together"
+excerpt: "Many of today’s artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology — ecology — could inspire a whole new generation of AI to be more powerful,"
 publishedDateTime: 2023-09-11T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/09/230911191010.htm"
+originalUrl: "https://www.eurekalert.org/news-releases/1000768"
+webUrl: "https://www.eurekalert.org/news-releases/1000768"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "K4r9xeF79jR5fNSPMccX1V14X5gBGroMpqP7tbjSIh+FZpmLZ3jjcRYHuq36sHwnJDfZgOTXyVWbW9e4YXLeDBrve0CgnV7MefV9QRsDefkaMcBdrXJt8eAaYWopEMmJ+4awTsbYpGZMwwddn46JSyXk8jtRJ+5NE0BMNOZoEBeLTcE0j1GgHf56BGezEAUJXmvcLXAQI2JHMWlZocEGEwcm1nyKStHxY3sxjA1cliCgcmPoLDHjYO9AT1Q6mj9JYjwQTYcgkLFObF/0qdXfJj53AWH0spS13I36V2qxq7tUEUTsqa0M/cJBnns3Tn4lWtbb1cGpOZZJ5ReBqbmk2/weRwltFSccn8CWvK9yKuQ=;pwCbXWC4l2f3p5ewUU5QqA=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/482a6e50-c4e3-47da-8480-e13fa6d9a67d/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "lpPLwy/v6eooQVp3Q+gct0KU8F6pJmHX+o3ejSopx3nRl8b/+drSq35fQp1O3O1QQCT6wuRdzR7EEuw0oAdhiPKcMp5soqIeOqve7IgvA1zLnKcCTB1Y7r1eb+BvwUASQa20ohVR2oSEHm36hg/8EhnHYZznyV57B5D33V1F6fmw6e0vwf0Ws/oODbxuCYxV2QA7/aLEIGli6xFuWk+ft9T0vc99I4ztX/T1IrJ3P+47DKUmJHh1WWcXaGLc7kYugp6JA2A5aiYXvCASOAlrU8zi8H5EboiaIaQtuknXUOtwpi5AF58ChGMR+VmMafi7/1K2gXMF746Rek6VRQVTzi6SMR+MwvPCGPt83spy4u4=;ZmQS5p9pOpNvGF1M7a65FA=="
 ---
 

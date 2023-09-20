@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Verbal nonsense reveals limitations of AI chatbots"
-    excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
-    publishedDateTime: 2023-09-15T12:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/09/230914114704.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Are AI chatbots more creative than humans? New study reveals surprising results"
     excerpt: "The study published in Scientific Reports compared human and AI chatbot creativity using the alternate uses task (AUT), finding that AI chatbots generally outperformed humans in generating original and logical uses for everyday objects."
     publishedDateTime: 2023-09-18T01:41:00Z

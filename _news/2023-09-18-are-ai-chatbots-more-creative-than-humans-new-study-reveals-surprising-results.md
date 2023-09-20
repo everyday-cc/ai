@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230917/Are-AI-chatbots-more-cr
 webUrl: "https://www.news-medical.net/news/20230917/Are-AI-chatbots-more-creative-than-humans-New-study-reveals-surprising-results.aspx"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Verbal nonsense reveals limitations of AI chatbots"
-    excerpt: "The era of artificial-intelligence chatbots that seem to understand and use language the way we humans do has begun. Under the hood, these chatbots use large language models, a particular kind of neural network."
-    publishedDateTime: 2023-09-15T12:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/09/230914114704.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "The Future of Customer Service: 5 Ways Startups are Leveraging AI-Powered Chatbots"
     excerpt: "In today''s digital era, customer service is undergoing a transformative shift. As startups strive to differentiate themselves in a saturated market, many are turning to AI-powered chatbots. These intelligent virtual assistants are not just enhancing customer service;"
     publishedDateTime: 2023-09-18T14:51:00Z

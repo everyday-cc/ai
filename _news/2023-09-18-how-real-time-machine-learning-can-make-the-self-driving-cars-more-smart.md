@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-mac
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 type: article
 quality: 60
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -136,15 +136,6 @@ related:
       name: San Antonio Express-News
       domain: mysanantonio.com
     quality: 4
-  - title: "New report sets out Government steps to make self-driving cars a reality"
-    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
-    publishedDateTime: 2023-09-15T11:43:00Z
-    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 3
 
 secured: "cayO5HlXe8w3M3xsMwjU0yIszr423pzqpRpLeCSfzc1Zq5Yuk5lTIYMbuEt4YadCFCZdp+EYzzodcghSvuVXIAwMaUM7vDp76OsLi22oTx5Pylavw9h2murXqPincaFEdCBemiie0B4fjjpTUspGQcnJuCSDQRmSPte4sENrSz5SipT1AcJfX8kGYMh2A/4gs68R+kuAjrdTR6WD031+C4cwxdfb3wXcP/+3VbzhVeAclVyV1sZfjlmUwqBDRRpZNknbLzNBGqed1rdb7Juvp4EFeJxvnGGfW8bSoohApCsF6b9YcjCl5J/VKP8qEprPeEnvMa6MihWlvwcq2NSMvcYT5QJOv+G87qVqhesJNHrIfHBky2397Ky0cJcTVk8uBadeQTdCXZ5Ztig39SVNTUP+eC068x2KsNz7Cl7EAlM5etmklOpIV0+8myQTV/5eAWpV5JJ8QbqZeneFs+WhlAOgRjuT+jsrI+qzggiMKsP6CWHtind8waoK+miMp4M8nUzjnlTkNASYh44Mn5qSTw==;n0K018EcVAtPGaMH8gLdxg=="
 ---

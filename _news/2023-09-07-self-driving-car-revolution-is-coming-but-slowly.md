@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Self-driving car revolution is coming, but slowly"
-excerpt: "In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from the station to the Oktoberfest beer festival."
-publishedDateTime: 2023-09-07T08:01:00Z
-originalUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
-webUrl: "https://techxplore.com/news/2023-09-self-driving-car-revolution-slowly.html"
+excerpt: "MUNICH - In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from ..."
+publishedDateTime: 2023-09-07T13:29:00Z
+originalUrl: "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly"
+webUrl: "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: eNCA
+  domain: enca.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "HqXlz+JK1AxRtF5jN/N651ktAXNh8zNZZR/XDTP+LoXvc6ojb6DSX43j6FW0Xg6/8jClC/ZcwMQ4HFn7rx4d16viGX+zKfGwkm+FKlNDlxnBwwcS3LRi4uNPdl63GXUTJarEPQPzX6nPkD2bwVu/jH1rHG4YQeECVWA78/DA9miYUr/F71u9WwtXag/mezRoQ1HkfjAeBxXipEEZzAPQSViFYu16WxdUc874yAgpor4Li9Q0+jg9Q1hkinw/8qP6iSlpHOXqWg/qEyy9JAZqS5XhdTse0+E4wFHJhZa86E4Z3HwTPND72yDK2qT9nBVgrZ9dRNe4DZds6bU5nRsWTGGpu9UH3DNnlFGDdqPA8u/1h6XNURhIvbb01BQBT8zK+WV6/Zuuna5C2d9wHA1SJZcYE0ws3ciLTYQ5ytYmQllik5DpzS3vY2s1SAfjkXw//F4/pe/lhEl8zLafXQQ0vreVhHI/4D6zulty2Mroo9aqMJQIKqU5P2CRUBoPoVrouHfkW2HWyJyXoFJABBEfqw==;zCsEIOCg5k0uw5iGZLcQFw=="
+images:
+  - url: "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-09/doc-33UF3KC-copy-%40photo0.jpg.webp?itok=digVIs_e"
+    width: 480
+    height: 300
+    isCached: true
+
+secured: "iWOiiUN+rtx6VEiSU7RQLturrKqYoW68j77+nl3Ci7ybXEawXEIUGBxKYln+UxNzikDG6ZSjxY76IcLNhBTJrwy7aiC9DxoRmDKTeo6/SxHQOGUqrmubJU6l4vxUjMwJptqiWSrpwVxCll3+XCLMjzmukac05Hy6mSUw4g2DnjFnkcPhKt7yeMeRJJeBxWkvq1SJZ7uZDLblwwuR3XOxMvntt2Z+avegHnQDl59A9xhYxQSIlixSpc7QDYmRChaoPh9xwErgZMJ3YpUuiilUzOrBCMNs5nu+fIjid8LeM0afYfdERo+U5vLvj6KvRiylxrlGYHjvo07wBGhVoZqZq8Oi2ojlSzHD44s/LV487vA=;LIVqAG2JWMyRjqsiOBLm8A=="
 ---
 

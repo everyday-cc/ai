@@ -135,15 +135,6 @@ related:
       name: San Antonio Express-News
       domain: mysanantonio.com
     quality: 4
-  - title: "New report sets out Government steps to make self-driving cars a reality"
-    excerpt: "Lack of progress has bred public cynicism Small-scale schemes first Self-driving cars not likely for many years Road maintenance and better road markings crucial Changes to driving test and driver education proposed More work needed on legal,"
-    publishedDateTime: 2023-09-15T11:43:00Z
-    webUrl: "https://www.carwow.co.uk/news/7185/report-sets-out-pathway-to-self-driving-cars"
-    type: article
-    provider:
-      name: carwow
-      domain: carwow.co.uk
-    quality: 3
 
 secured: "IxZ0XSjIqEUTe0bm4Ddws0CvrgX7iv6HGmYyntl8AdXVggaqP09MqZ0aeoFog9IsBYi58XN2acqbi4g7Nt8rYFxetc2zSOAZ6M/8OemB3bfDMkuvLyytpgPV8PE32lCg2C06ll02sdlhn14zfZXV/4AJTzCHh9wWLBNGPilOZ7u6N8vltJ4sfqo22mZzTFOoUuHS3i9iT7MfaQFay1x1dzpR037MCLgj5Is8aXh4AegKsVF886QzHZJsdKL21DzddsmM6+icdpTtzoWXdb8TZx8tg6Ffys0vD6/PeR5HzMqfSU/n6hLekRD8CzdSZyBPvfbquav3W2AhbjEDsyaRJATNiAlFAcNOkR1iZRDVfrrATg+lQ7j+bBl7VZkRfBqCkvscjZQtm106bW6ivYIn7lEepoxmP/WO6HK1fdBNt+aXINxPNo57b1gkHGYaIOk7hKcgVN703bTPea1gIBFb4Cgga3J61EC3rBQfPZqg9LHHSq/6BT7Nfliy5yldpBinmbiQlu9Rcp9QGXuXdsAu3A==;64nHTKEJTJhMyRrXSE7KPA=="
 ---

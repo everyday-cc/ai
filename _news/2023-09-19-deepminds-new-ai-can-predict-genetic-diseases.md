@@ -107,22 +107,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "DeepMind’s cofounder: Generative AI is just a phase. What’s next is interactive AI."
-    excerpt: "“This is a profound moment in the history of technology,” says Mustafa Suleyman."
-    publishedDateTime: 2023-09-15T12:30:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 70
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/interactive-ai2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Google's New AI Tool Predicts Danger Of Genetic Mutations"
     excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
     publishedDateTime: 2023-09-20T01:51:00Z
@@ -227,6 +211,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
+    excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
+    publishedDateTime: 2023-09-20T05:16:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
     excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
     publishedDateTime: 2023-09-19T12:10:00Z
@@ -237,6 +230,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "92HTAjP7wKJvDcgFF8piO13sfeYK+wg8jlaLai/o45XhCoO9uJxgG1HsnIPpxZWnKH8XUZ7r731p9MFDmhB2Zhf0+kZhjgCdW1uFIrpt5eX6WSADtKJ4M38SbIP5RtCZShuwHZ4oE1+nbDRlRwPAfHOYBfqwe4ArHBvd1U5zCYs7zPw2jAF+hz58elOmiK7V5IzaXIIwEgwD/xj+y04uQocE7Y3d4zsepaiFtunpWOn+FVoD+Mef+g5n1psK3Ufyjwm0+16R/GmkvkL3UqZK6wWZZ79lmzX9GzxWA3WNT/WMu398y2GMxyONEXGQeUzCmEPWFHyNoqHmNAUd5v+IVPw0T2weFL4vwSGcMlpGJsY=;NPQa7Nw2PFHarf064TXJ/w=="
+secured: "ulzcbee//Cy7c4QwFZo6tOZRin3tMRy5PHA86vwHi+3UcnNbVG0Q0KLV6E45BjLCwu0QaqvnBSQPSi7wewWunCp6ODJpBNuQp6b6dxOKmED30j7ATJkWeryM9OUhbVGKJ2FvdyViyri1lk7r01t4ZmQg1J4sgqOIaWu6HZj3DmOiNtenedGk3s2JpR3x2JQr15hvsfUETt9KuVcSLK+E9n5I2MN8rmQNRXQG0qXAAMGLltOtld/X7BSZsQoahULLv2X7Atz2NTal1TIF/DF01CrsM4tt3Kzt0lIWICoD2Z/6QtFmwp06uWlCwX1CMfp/3J1dl2nP+spajBuyDghTpy3h8rnmFx6/8seH5Gv0rXZfsqN7in6LgHrqoDAKjf//9VIdOKYScJr919ap6l3V/8YOkEWemFWePItYSwVANaoLYd5b9SH7bIB/cf2dhGJ7W9B4snfCMOYrswbkSdfh/yLDgX38cPx2EkLyBLJrOU5tsEPwVUUPecCAGra3YrhcxVkt7iN/6gNMjgEgJNYGOQ==;nEMAlsAld9FKV56EhxGHTA=="
 ---
 

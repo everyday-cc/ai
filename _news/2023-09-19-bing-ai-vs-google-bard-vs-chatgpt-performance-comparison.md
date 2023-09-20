@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Claude Pro vs. ChatGPT Plus: Which AI chatbot is better for you?"
-    excerpt: "Claude Pro is a new paid subscription service from AI startup Anthropic and is set to compete directly with OpenAI's ChatGPT Plus."
-    publishedDateTime: 2023-09-15T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/claude-pro-vs-chatgpt-plus-comparison-which-ai-chatbot-is-better-for-you/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
     excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
     publishedDateTime: 2023-09-18T21:33:00Z

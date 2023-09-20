@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Cyber AI: The Imperative To Be First"
-    excerpt: "Only AI can scale to provide fast analysis of the ever-increasing volumes of data being produced in today’s digital-first economy. AI has the ability to find the needle in the haystack—something that isn’t feasible for humans. AI can quickly see if there have been changes within the environment and surface them."
-    publishedDateTime: 2023-09-15T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/cyber-ai-the-imperative-to-be-first/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65034ce6df7c18f7edfdab4d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 837
-        isCached: true
   - title: "Redefining cloud security: How AWS and Cribl are transforming enterprise cybersecurity"
     excerpt: "As a universal receiver that draws data from any observability source, Cribl Stream propels the centralization agenda for enhanced security, according to Sharp. As a result, it is proving to be a differentiator, because it takes the headache of having multiple data copies away."
     publishedDateTime: 2023-09-15T20:30:00Z

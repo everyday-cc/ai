@@ -30,10 +30,10 @@ images:
 related:
   - title: "TikTok is launching new tool that will help creators label AI content on the app"
     excerpt: "TikTok said on Tuesday it will begin launching a new tool that will help creators label their AI-generated content"
-    publishedDateTime: 2023-09-19T20:01:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322306"
+    publishedDateTime: 2023-09-19T20:06:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tiktok-launching-new-tool-creators-label-ai-content-103322378"
     type: article
     provider:
       name: ABC

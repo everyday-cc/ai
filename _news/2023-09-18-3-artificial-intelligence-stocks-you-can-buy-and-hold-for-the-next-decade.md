@@ -84,20 +84,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Five AI trends to look forward to in 2023 and beyond"
-    excerpt: "The potential of this still-nascent market is highlighted by Grand View Research in its recent report, which suggests that it will grow at a compound annual growth rate of 40.4% from 2023 to 2030, reaching a total capitalization of $439.85 billion by the end of the decade."
-    publishedDateTime: 2023-09-15T13:01:00Z
-    webUrl: "https://cointelegraph.com/news/five-ai-trends-to-look-forward-to-in-2023-and-beyond"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 41
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvZTA2MGI3OTItMjVjNC00OGMwLWJkYTYtNWZiMWNjNDI3ODk3LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "ZBKi2gnMKRb8FIDI/MyhGgbkSG9IbTLU0njsAkNufcLhSeobbSOzygngBUQzylyfq85WTAyL6GdlrI44qgBAy8Cmys8YE3bWbgq0vLMOVEzeAZDrIQP6GpYJ9OmVvWC217jmVunmxxH0Q8P2dUTNfRSHHeaO1Lc5A4HoOU2Ljm2WcyF/UcHqozfRdWTQMqsyI8FxDoUZO5rHHoW76SdUtRdwV2xW0rxiSN3i5kw7mptZPwpHV22aQ3pUp54Bfvtnxt2qFXrHd4j0veSHgcNCzsrVhCtuPrBCoDQenU/EZ1swqNBq2kTnrdDa+nibzH19EPcthXeE8qchyYmzdrNmoJiDJjTn6IXzjFwYxy4RQGQ=;+ViTvCKTLmkFuYliwz3VaQ=="
 ---
