@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Infosys and NVIDIA Collaborate to Help World’s Enterprises Boost Productivity with Generative AI"
-excerpt: "Using Infosys Cortex with NVIDIA Riva speech and translation AI, Infosys is developing AI-driven next-generation contact center solutions. These include language neutralization features for seamless multilingual support as well as equipping contact ..."
+excerpt: "The broadened alliance will bring the NVIDIA AI Enterprise ecosystem of models, tools, runtimes and GPU systems to Infosys Topaz– an AI-first set of services, solutions and platforms that accelerate business value using generative AI technologies."
 publishedDateTime: 2023-09-21T01:01:00Z
 originalUrl: "https://www.thaipr.net/en/it_en/3386305"
 webUrl: "https://www.thaipr.net/en/it_en/3386305"
@@ -15,13 +15,13 @@ provider:
   domain: thaipr.net
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2023/09/SASS_SEP_Launch_Launch_TH-e1695261363193-768x768.jpg"
+  - url: "https://www.thaipr.net/wp-content/uploads/2023/09/cover-1200x628_0-768x402.jpg"
     width: 768
-    height: 768
+    height: 402
     isCached: true
 
 related:
@@ -189,6 +189,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "BOW9I3qOdAze7mIp1lj4FIHHYbhoRwK12VolS63HFP4ovnshVxnzfqkGheRSXDqkKW07PbsGAVBcIGhpkyRjpa5wIgy6pz+U0q07MFNy5lza4QTIfrZIx9n8UzhBxdPl+EAOqg/ZScvHTsKUYCRyjjnDeACNEDK8MbqLtE53hi47iGNy6+cG4XrnU8Oh9Pd6CgImPYekvoj1Nq/CxWilhPufcaBfhprN0PWrdn5DdkOkT94XlhE/RbF59Vzm8LnTUyUaxtH8rS2wiGQoJWFhvNGDglIpyWTe0IzR5DL1o3s3dl4kvh96Jy5veK42GAjm6VBTeY2Qnraoefhv3RLCgyVV6XGt6Zqy4fTi0dlDDM0=;DoALaZrgMUl1dGY+ahfc/Q=="
+secured: "cYbwS4nN0pWwze6tf8IyXmQJzordyIi2zhVu6ZwprxzZL1prJvvhg3q96V1GwLvKU33iZ0K2noIlaIyeav9+3a5AuPESvAevLTdwirSV04/6JwA4BI8E6uu6ftZg0p36NOjE+7MRP90ko5P9NAXkYBY4x5ZEpvn1I2FdMqJaa5jwecD6ruQQjzpjmYeFY05beIIL7IPWDl9d1Php7ciArINHpyTstW1cu6x50f8xn3uuVUjkx8SxxqsX8d2et40LITOf0bzx9nQ8h3E7wBq+U4Wc6FTFchYDPUbvv6TgHodUbVET2Dzp8Tv2Jab7DJMNZXnC0SSrpvhd5azPD1e59geNKR7RlnONMTf7Ti02Hm4=;zht80neaQdLPAJEJL5ME3g=="
 ---
 

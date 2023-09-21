@@ -3,8 +3,8 @@ category: news
 title: "Google DeepMind AI speeds up search for disease genes"
 excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
 publishedDateTime: 2023-09-19T14:31:00Z
-originalUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
-webUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
+originalUrl: "https://www.bbc.com/news/science-environment-66847977"
+webUrl: "https://www.bbc.com/news/science-environment-66847977"
 ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
 type: article
@@ -296,6 +296,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "VvhJ8U4DgwQ3+t9AJqfCgZ5F/MAeLu0XN1w6i/AAEJOnzFGBmjh3/KbTGmLC1nVHGpxSyrH/cZVgzCJDxrzMMawX83klgtifXzRhbLq7//0V446vPn2wYuCejM4LEaqcQLzGUPNm72d4kcZX0uR6ToIYPOYZvf7pmdJ+rJGJPXUH9Zfiimnve3PMwBoiMBj4o3r5dUUI0zXvxZrxfUwnfOktu69nvS1sjQzKKLh12TD4L+BAuCMdtmrMd0hAXD644FnVPSw/1UHiaGQk+w20+f8lsIKvYzEx4/stLxcG39b40m+ks8/o4AxfS5ktQ0th5oVc+EvKoltNvPkWEGzGQBfXVmfbAt45YjOXNH9EFW9/sEzKkH2GvBuDSBmrGB5Zv1lcig//b+eF0Wlz8MaXtwQJvTrW7kx0twpQRIEShv5ZW+2PO8ifdk70sc+IQ4me4IY10Zi25jX4PV/i03VtKeLFQowiFKBJzNvu5qrChE3Hl85WGm1Dk9ArIORLe7kxJpvgea3Gf3N/VXHfjtDB8w==;MxLRzRWKualKOsZavhD0mg=="
+secured: "zxUAys9KIx523HqKDVoAg/49aeFtjGwCe9l4tPiBLsi0N13o8+fu9dlZn6Sx5ADfqA/2EEZFQLMEr3NxpgqTgu0KPiDhx7QRtQBAjoHR1szVhHAzaXS5/KiIxA/HTzj0L5843Z+Y6HTTvMxfY2sBTR2dPROYBxstsSOk+GmC8AvZYu6Vv+/c/psrPbEvVHCHnh3Q39MBzfJ/dorXra4m1DZ6jK740OLryIB8R2C4p4AMBDh2jMH6o9Mzo1gsMkX9oUgyPWBndlbkvCF0/71QbYO1ZASCrmivvdtzDZkvltG3VhinQb0GB3WER0TL1PXW6xrJXLm3mC3ji9bQ8NCF7UFhFmr0jF5BRLP4ltKkWkw=;9XUd7djEJ0GTRQkZWcWzXA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-alg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
         width: 2803
         height: 1578
+        isCached: true
+  - title: "Dubai To Lead Global Fintech Innovation"
+    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
+    publishedDateTime: 2023-09-21T03:47:00Z
+    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "g5nvQrKGs+P5TADAyTQXyN96ysuhOSMABvkWDy6G7NivE9THaG4mgPfV5neDaTqlRBxcbxMQIf4ZCo//XpXmq5erFaXpApMKQJ7GrGHq1cKHj0BwMEwTzhQ1wnuPSfWc/foZ1ISrnDESBPfXXFEfg6mvY3i+lQl24YrYyYdHzGA+MxTdaiSBN1pPrCK4mVc/ls1XKo5KehSAIZJ7VrQu9WjiIx1yxzzvTCn2ljWtWAAEBCmqiFzLAs3m+C3N9DMvueexW13l+c7v+CCEluJkFof16j6ffhHslKOD2ysZoQEfxGV9do8PgOVmMYN22MGPbqz/j9jN/Hoe7IIdEdpaYigGS+jQEsLe0XiDcpz5c2quGMEh8101E0Xr9AuyCLETnDNWykVZeZJC04VraIn6NqFXk3gbxLxwZItO0gFMrNAUwox/a1Lf4edYKqsW14Fud7qK25aOJ/W3hB8cTWo26/y5IPDajome4nKlKZxG+34x7f7KpIfohSmOpL7czSIvyUKNwAkInoUNF96ploh+Ww==;Ph/UW60Ra6/E8GCgMOli6g=="

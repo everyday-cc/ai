@@ -8,8 +8,8 @@ webUrl: "https://www.bridgemi.com/talent-education/excited-worried-michigan-teac
 ampWebUrl: "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp"
 type: article
-quality: 55
-heat: 65
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-09/Teacher%20session.jpg?itok=1zfFNAsA"

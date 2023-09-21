@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/softbanks-son-plans-ai-deal-094411236.htm
 webUrl: "https://www.aol.com/news/softbanks-son-plans-ai-deal-094411236.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 537
     isCached: true
-
-related:
-  - title: "SoftBank seeks AI investments as Son plans deal spree after Arm IPO -FT"
-    excerpt: "SoftBank is looking for deals in artificial intelligence (AI), including a potential investment in OpenAI, after the blockbuster listing of its"
-    publishedDateTime: 2023-09-16T10:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/09/16/softbank-seeks-ai-investments/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ8F02O-BASEIMAGE.jpg"
-        width: 800
-        height: 537
-        isCached: true
 
 secured: "BJijmaguC/MvBj0Umndj5MuIcwxseJKBXiU9GOeEr2+PLbb4l3xwLWpQ82qBBCvgqNd1f3psV1R8EPkg4GEPFz72/DELZIhvJ6pJUNniQGsekmLhUald53JAMpkoxkmZZPxMTeIGxmfwsYGCRMh6MsbClqFwKBVQdFIdD4T4O/r/gN+MW6O1KmNg+sOaqcXaZGh399uYoAoD++fAE+kQmZwp+V644ifMNPLuputvSqOMJGWYr+S1QuX22P5MU+4dKJyjn8D3gHC8V258WB+YtpLt7jQizx88vgmha4zpEEY4guFB5M5b+bII3HI+wDzLYGWC6zQNSEpgjulySEs+o4/9IDcibFeTLMwA5mfrbbM=;8No3dU/5NQFfj0jRo63L7Q=="
 ---

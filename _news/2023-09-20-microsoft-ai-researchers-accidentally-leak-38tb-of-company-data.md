@@ -115,6 +115,20 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "AI bubble? Speculation arises about Microsoft cutting AI chip orders"
+    excerpt: "Speculation has emerged that Microsoft has scaled down its orders for Nvidia's H100 AI chips, which some industry sources believe could help other companies get their hands on more."
+    publishedDateTime: 2023-09-21T01:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20230920PD207/nvidia-h100-gpu-microsoft-ai-chips-order-cuts-ai-server.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230920pd207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
     excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
     publishedDateTime: 2023-09-17T06:01:00Z
@@ -377,6 +391,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "uZY+2qaDbkyu70773iS1XdZg4sa47H8YlA6d2xqsYLklJZaomQqeuJc2ilrtJJx9J3JHlRRx/NgCd/6cny4QPBkgXUp7DcFBCibzz5T4fNLmu2iy4FBj/7mGhyY+Nj0mXS29whS1aO5swzpHdmgTn0Im9lROlcMzTvBri+GPEl5fQ9HLZjPTxnHS8oOcFtLTfjwsZNl7vBTDg/2EUcHEVDpaEgqrYUhd5DJqu6NWCnhZmg3/p82D7xrsdRT1l27wUs/B8TRCdAdSmD8yKBUlhYbjeC7ckVq2ZuEDmnZ+YFF/2F1/pz4E67b8PkS3au61t31t7nug+Rxt6hiPd9CGeB9+eP/ozS4x8+0P/4gUero=;dbvd3/+T1Lve/wsV8CDSNw=="
+secured: "Ol0uDa+T07MtSza0X9frR2GlIQP8lobEBhJG9pwHl3vms8RYQyo9fg+va5wLaH8Iq3MPL1HBcJmoWdu7zRU/Lx9Xjph+wqGsADxrjSn7YUCUpuOqh5Be4cpksKiFbGpI9gQPB7fDTEPXx84yc9WYuiC+pdJTXi4P9a0+bNW0mQhIfynDFQ65LPRmwBqf4V9EUqfKsuV4xByP7/cJlwZ1UYpE+sFuDl+6vF7Z/uIkwqqC+6ehbTZcSy6Mn5xc4py3a4C8E55u0QG5LzaOvXP8+bwtwtvuo+4Ed3U3Amrq3g9MI9DeS0Y2GGUMlq9CWfjB0HACStdLAqU6AewCfw/7BG/Ej8LpkwLIkgqwPeBalxB7+EIlEakZaQpX1Zcjp+V5x8mRpy+g8N6yxxJhNhsQ0s2PhtWyTn6BhX4efLZAGhIlelSVHHUeYPfQy06xnUmLKfRDdhHJ52X1EPMsSxuPiG+3pdHu6Zc/NCG69vpYmarkX5cXkS7iSBOq5OpPg36Ob2DzFj5B49SqyWeXaDDCIg==;qDVLGvWy/FJ+rscT3Q1b3g=="
 ---
 

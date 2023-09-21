@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introdu
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
 type: article
 quality: 105
-heat: 405
+heat: 415
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2023/06/12/microsoft-azure.jpg"
         width: 1600
         height: 800
+        isCached: true
+  - title: "AI bubble? Speculation arises about Microsoft cutting AI chip orders"
+    excerpt: "Speculation has emerged that Microsoft has scaled down its orders for Nvidia's H100 AI chips, which some industry sources believe could help other companies get their hands on more."
+    publishedDateTime: 2023-09-21T01:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20230920PD207/nvidia-h100-gpu-microsoft-ai-chips-order-cuts-ai-server.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230920pd207_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
     excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."

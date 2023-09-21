@@ -57,6 +57,20 @@ related:
         width: 2803
         height: 1578
         isCached: true
+  - title: "Dubai To Lead Global Fintech Innovation"
+    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
+    publishedDateTime: 2023-09-21T03:47:00Z
+    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "LxY9fVIQKxkWOOl9mfOp3GSZ+LXyEme1jXxfMuZATiSL8HNWIZ0e0TbFwgBK4I2qT8nlj4ehoZnc24ys8EN6+U9Jwb2V9TFpRsW8VG3qkrwmSLFXhNYbVwbPJgvRyVPzVBmKUZshY4rrWzBXUbfDV1zJe+emN1x11IO1qV4vk9gEUmpSu1FLRmbg+XyThNt241biJXCGmZDj07577lGFAn4c2lEMokgtpwNYzBUr1GVhIUaj8WCp+deamIzODCgkslKfxgCN1gVckqkGuAoP4hNESKrH/VmLZnE/h5+qOQjUN1oRRpr0llXOLhBTlCmfJOLDPZxnYNsAa1kqW5x9824rrecSLdhFKfpFD2BEN9+HuzBzBJyzjJidUULWLmzyW77jSGhj2fbeNuA5ombGXEHN8L51tZ/xciXptUNICQYSue42YzXPRHxUQEeK6R0aktJEYOdx8vrljkJJ8FA+pTK/BEoY4mPbFQugS03YgZbqqMJFo0DPg/yF/jKwBLmzRAQsn7Ej6jWH5xe4V9085A==;aVgXYVc1426dQSI23IJbmw=="
 ---

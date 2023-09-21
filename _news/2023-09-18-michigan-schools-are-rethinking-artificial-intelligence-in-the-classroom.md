@@ -29,7 +29,7 @@ related:
     provider:
       name: Bridge Magazine
       domain: bridgemi.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-09/Teacher%20session.jpg?itok=1zfFNAsA"
         width: 480

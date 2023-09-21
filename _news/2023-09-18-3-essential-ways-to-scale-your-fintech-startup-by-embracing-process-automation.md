@@ -24,6 +24,22 @@ images:
     height: 479
     isCached: true
 
+related:
+  - title: "Spend Management Fintech Brex Introduces Tool to Streamline Work Processes, Increase Productivity"
+    excerpt: "Brex, the unified global spend platform, announced the launch of Brex Assistant, a proactive assistant that simplifies expense management."
+    publishedDateTime: 2023-09-21T02:10:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/213189-spend-management-fintech-brex-introduces-tool-to-streamline-work-processes-increase-productivity/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
+        isCached: true
+
 secured: "AmkrEHC6ntIxiX9z/tu9qGKlABAlREwKIjlHB8owaf9JYJ8RiRE6vwxbjFssFZtB1/shS6Xkq7wqIspc7WnO2IaVSQ2XbGrPt993+Ph6Vxb+aHh/JFkKGLOeJkKs5Uraj5wGx3FCBg6OaDhSZdJDzcdS6k5FL6om+wabV4pzWj8cMWgN0aANaMj20jYjnjQdwwUnBUOyflYwVpN57m2HF1/EDdaTELLHSS8rTp/d5VpPyRzbxTliyxIC1a+IhFt+C9HrxhsolvnGcPtt2OSj8EV1euVh0N7KwESq+gRts24Ypewp3pbDzwht4WMQXTG56DHVYomGDhqkf/vkNEXW3yEBPJl3EHIwXD8YfZJL/2hVMGZuxMp9Y71BHxgsNwuf2KlVzs8mmAOArngDASQ+1OiHdJ6lUB8BvNzi/4JLa1iJeTlJi9o3kJXRKxF4bfZ6QU/JM+HZfBCiAm04OR7vcNejPS7WlwcOTHpcREw1HQMiAdpZovPeTPcWS5b7wptgHnka/jFcE2EAtfiyOMN68Q==;/Qd1fj7PhpHTm5aGvE/OKg=="
 ---
 
