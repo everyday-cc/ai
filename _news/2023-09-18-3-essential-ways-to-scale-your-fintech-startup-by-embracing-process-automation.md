@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Explore Why Your Fintech Startup Needs an Explainer Video Production Company"
+    excerpt: "Explainer videos for fintech. What’s the difference? Video explainers are content where companies, organizations, and communities tell a visual story revealing ideas behind a particular subject. Most often,"
+    publishedDateTime: 2023-09-21T12:26:00Z
+    webUrl: "https://www.bankingdive.com/press-release/20230921-explore-why-your-fintech-startup-needs-an-explainer-video-production-compan/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 16
   - title: "Spend Management Fintech Brex Introduces Tool to Streamline Work Processes, Increase Productivity"
     excerpt: "Brex, the unified global spend platform, announced the launch of Brex Assistant, a proactive assistant that simplifies expense management."
     publishedDateTime: 2023-09-21T02:10:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI beefs up its image generating AI tool with DALL-E 3"
+    excerpt: "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!"
+    publishedDateTime: 2023-09-21T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity"
     excerpt: "Like its predecessor, DALLE-3 is a text-to-image generator that creates novel images based on written descriptions called prompts. Although OpenAI released no technical details about DALL-E 3, the AI model at the heart of previous versions of DALL-E was trained on millions of images created by human artists and photographers,"
     publishedDateTime: 2023-09-20T22:34:00Z

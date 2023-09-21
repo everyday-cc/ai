@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-code-generation/"
 webUrl: "https://www.ibm.com/blog/ai-code-generation/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI as a catalyst for change in the telecommunications industry"
-    excerpt: "Reinvent how your business works with AI, transforming customer care, IT, network optimization and digital labor.\nThe post Generative AI as a catalyst for change in the telecommunications industry appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-19T18:28:30Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-as-a-catalyst-for-change-in-the-telecommunications-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 98
   - title: "Intel's newest laptop chips, software will handle generative AI"
     excerpt: "The capability, which Intel was expected to show during a software developer conference held in Silicon Valley, could let businesses and consumers test ChatGPT-style technologies without sending sensitive data off of their own computer."
     publishedDateTime: 2023-09-20T04:44:00Z

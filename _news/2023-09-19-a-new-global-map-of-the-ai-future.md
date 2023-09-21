@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress Navigating The Future Of AI In Healthcare"
+    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "3 AI Stocks to Grab Now for a Lucrative Future"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
     publishedDateTime: 2023-09-18T21:17:00Z

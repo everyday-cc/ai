@@ -57,6 +57,24 @@ related:
         width: 1200
         height: 875
         isCached: true
+  - title: "Google Discussed Dropping Broadcom as AI Chips Supplier -The Information"
+    excerpt: "(Reuters) - Alphabet-owned Google's executives have discussed dropping Broadcom as a supplier of artificial intelligence (AI) chips as early as 2027, The Information reported on Thursday."
+    publishedDateTime: 2023-09-21T08:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-09-21/google-discussed-dropping-broadcom-as-ai-chips-supplier-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
+  - title: "Google Likely To Replace Broadcom With Marvell As AI Chip Supplier; Stocks Move In Premarket"
+    excerpt: "Tech major Google, owned by Alphabet Inc. (GOOG), had discussions to drop Broadcom Inc. (AVGO) as its AI chip supplier as early as"
+    publishedDateTime: 2023-09-21T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-likely-to-replace-broadcom-with-marvell-as-ai-chip-supplier-stocks-move-in-premarket-1032646722"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
   - title: "Broadcom Takes a Hit on Potential Loss of Google as a Key AI Customer"
     excerpt: "Broadcom Inc. (AVGO) shares are lower in premarket activity here on Thursday following a Bloomberg report that said executives of Alphabet's (GOOGL) Google are considering dropping the company as an AI chips supplier as early as 2027."
     publishedDateTime: 2023-09-21T11:31:00Z
@@ -71,6 +89,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google may stop using broadcom’s AI chips, information Says"
+    excerpt: "It has gained 49% so far this year. Companies like Google and Microsoft Corp. have poured money into developing AI models, helping fuel a boom among semiconductor makers that can produce chips for the technology. Broadcom Chief Executive Officer Hock ..."
+    publishedDateTime: 2023-09-21T13:10:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/21/09/2023/google-may-stop-using-broadcoms-ai-chips-information-says"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 34
 
 secured: "I47pj/plut7WU2xrg17/eUAL341/g/BFlgVcQy4j1IuvJWjcNjcp8qiyGxx0irkWKoCX8pedZdsJGAwyL85bzuAmSbBYM/uRDeoTgICUf+EujOccaEIsceXWd8AD0E5mmBffgUmHAdFlkDdf8sINx/7OKWZdux3EC+4F7i6Uzm3YGfYUw6XnyhP5dYKsOzj6xGLgJJ/p88ak/jdW8GwbYC4lVxQAROB3SZJGT6GaOJU1HJWCLpw0iu0kzvgIRcAVzMJccOPQn6VnWt31HDjj2QkI7x+aA9d8jPOGtyESFbiqB9P4Kp6pm5plbI1F97Sj6b4V8Rr3XH8myDnxwWDAjIcYm0d2q4ibIW1WNjPpz/CQSb6Go1Y4LP9ZTp3gWsM6jNIelupgPbKEebXcJKVaHJFyztT686aC6p7WWLy/c5HuPM9w8Gp98hK+grb0l/lkAhYzJee89o7kfZVI/2caRmbGr7vQx+Ap48fAUGIzApA1BXAkFDKQFvM74ADxp0Xwq8ZtcXeR3ZnlVv8SufwC2A==;Buw1JazhH/jaGGr67kK3bQ=="
 ---

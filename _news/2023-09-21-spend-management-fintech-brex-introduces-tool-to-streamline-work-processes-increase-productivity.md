@@ -39,6 +39,15 @@ related:
         width: 638
         height: 479
         isCached: true
+  - title: "Explore Why Your Fintech Startup Needs an Explainer Video Production Company"
+    excerpt: "Explainer videos for fintech. What’s the difference? Video explainers are content where companies, organizations, and communities tell a visual story revealing ideas behind a particular subject. Most often,"
+    publishedDateTime: 2023-09-21T12:26:00Z
+    webUrl: "https://www.bankingdive.com/press-release/20230921-explore-why-your-fintech-startup-needs-an-explainer-video-production-compan/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 16
 
 secured: "7PzDRfB6AfO7CLYQFm25l5bo8Ri9lsxG29H1nFz96+rS+0VY2jXdoxd5nFXGjfigJXQ4w2cQVSwitD9HndGNUEhkFA6+m2LAllS8Wnm65ZsG6EhZMBssf19JTRAzohbLcnW1uaL5Og5uCyjDhnqozT3ZGHFioL3kKR3Jn5B0PWHGD4eiytCjGRrywzJzngfx+YltLZi1nG4LXBCV8lMiI67lOajjG9ECSntd2nmPRnYp0d0zDzsxdIgzoqpLchjB3uyypi6S6kTWs5+qXGmPTVsxfJ8mU9ADpymlbzi8JXcm+Ev4PXxnFNRncolIbo1Ag9rLgmfM7kPbpKGlRpQUqH6eNl0T4iPTYo38cN/r82w=;MMc205PA1vH7xtJW2O2jLQ=="
 ---

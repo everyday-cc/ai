@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-u
 webUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year"
 type: article
 quality: 65
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
-    excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
-    publishedDateTime: 2023-09-19T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-innovation-2023-empowering-developers-bring-ai-everywhere-/2023/09/19/9883938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "New chip designs on display at Intel Innovation 2023"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
     publishedDateTime: 2023-09-20T17:40:00Z

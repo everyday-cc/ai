@@ -50,7 +50,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/NEICwmCcRyWZ11E1P45-YlSCWLw=/0x0:4240x2832/1200x628/filters:focal(2120x1416:2121x1417)/cdn.vox-cdn.com/uploads/chorus_asset/file/24937620/DSC00363.JPG"
         width: 1200
@@ -79,6 +79,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Alexa Just Got an AI Makeover"
+    excerpt: "This week, we learn how Amazon is teaching Alexa more skills to help it better compete in a landscape lousy with chatbots."
+    publishedDateTime: 2023-09-21T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-613/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Amazon's Alexa is a whole lot smarter and chattier thanks to AI"
     excerpt: "Some days, when working from home I spend more time talking to robots than my fellow humans, so it's nice to see Amazon's Alexa given an AI upgrade that really helps ... Limp was even able to start talking to his Echo Show 8, walk away and then come ..."
     publishedDateTime: 2023-09-20T15:52:00Z

@@ -37,6 +37,22 @@ related:
         width: 1000
         height: 529
         isCached: true
+  - title: "YouTube Studio to give creators a generative AI tool to suggest video topics"
+    excerpt: "During a YouTube news event, CEO Neal Mohan revealed that the platform is testing a new generative AI powered tool in YouTube Studio that suggest video"
+    publishedDateTime: 2023-09-21T14:50:00Z
+    webUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/"
+    ampWebUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-21-at-10.29.03-AM-2.png?w=1170"
+        width: 1170
+        height: 692
+        isCached: true
   - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
     publishedDateTime: 2023-09-18T19:05:00Z

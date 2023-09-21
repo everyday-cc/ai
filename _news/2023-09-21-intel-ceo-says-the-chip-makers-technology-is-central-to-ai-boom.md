@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "+C8UxIJ1pCrz60JS9+R5OMiaHzNaeBzW6r1h4MPiordWGxgtVvfI3sLN+x0myVXYZqmmO3I01URdFj3CPwUzG++ldnfYQPJdWousnyZ83bccwY/UBldwWRng+WInQXGE04bwOJJTGfe4sQJSLgowMHfAg8S0sr+CLer5PRjii57PwzlEXU12r83EGMw/D93BBKNze13x5VVlZsGGv8+t20j4lT1Z4QbRr35seEq/C4EhZpJqRtCDCQkoVgI+KSPGZcUsWpTPwO698goYDA9O5e/9XJDML9Rk7uW0kxjbX43bc5XYldd7Wu/GAq72djZGyo99ivZoo+WUPqK52o9bOofro/N2F5By4WQtTBJ4BobCSmpXIIewKW+i/7ZcDmUDQ67HUloeGBarCYXOa8oNMZUx4eBNgBp5uBaXgPXDDb02Zkwan/rLG2Bt3Gr5EX58/v4sI34SK4Zt/DU5oAoNC/4C+lj5MuV8KsR5X0FDzJg31sYnctoTONRWTBb0WJSMJqt/LQgXnFXUwnp0FOUxWw==;dYRDAnOXLEJQQug8Doo5Ew=="
 ---

@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress Navigating The Future Of AI In Healthcare"
+    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "A new global map of the AI future"
     excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
     publishedDateTime: 2023-09-18T20:00:00Z

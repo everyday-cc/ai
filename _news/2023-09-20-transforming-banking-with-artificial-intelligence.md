@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Why managers must consider ethics when upskilling with AI"
-    excerpt: "Not another article about AI!’ I hear you say. Many of us are feeling a level of fatigue when it comes to this topic, such is its prevalence -"
-    publishedDateTime: 2023-09-20T07:01:00Z
-    webUrl: "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai"
-    ampWebUrl: "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai?amp"
-    cdnAmpWebUrl: "https://www-trainingzone-co-uk.cdn.ampproject.org/c/s/www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai?amp"
+  - title: "With A Little Help From My Bot: Joining Forces With AI"
+    excerpt: "Here are some ways in which workers across roles and industries will feel the benefits of generative AI in their jobs, professional development and career trajectories."
+    publishedDateTime: 2023-09-21T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/"
     type: article
     provider:
-      name: Training Zone
-      domain: trainingzone.co.uk
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.trainingzone.co.uk/sites/default/files/istock-1273822907.jpg"
-        width: 1335
-        height: 785
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d54262188e017c56d9d11b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 686
         isCached: true
 
 secured: "orDcVnaY7atDSVH8y4dA2NhG09y/oZE8+Zjmxnn7FWeuVZ/22Fk74sOzz913VkbbVJUQXEqrNrkqKWQ/P2UQ5d1fzS5VSk6P/azZWiWWQRn3ALfmSYp0YNDbCDsyN15oov2DKHYUTYwPdYv1II6KD9ORPXx+g+PJB9Q6JlwlPCmYuoFwU1+YO5hOo9iyDtfVBlS2Pbm6hSNzHx+Sw54PvnTPhjpODlY5LAYuNWaDmgAxyPbyPQTXEINXypqVqLX6JvK5OdyCdJOV/onYdiokObx0zPNb4Xi7He1lBo0qdNYCiQySVXbAtekpq0flvTVPqDX5GpEzMFmY6RqS1Fd2c8mX0JxooWbmZ3F+CoZTVQ8=;pAXhpNju3WRkGRvpV6nqPg=="

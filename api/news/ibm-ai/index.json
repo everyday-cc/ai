@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-21-ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation.md",
+      "title": "IBM TechXchange underscores the importance of AI skilling and partner innovation",
+      "excerpt": "As organizations race to adopt AI for business, the importance of a global ecosystem of partners with industry expertise is growing.\nThe post IBM TechXchange underscores the importance of AI skilling and partner innovation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/techxchange-2.jpg",
+          "width": 1280,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-teams-will-get-smarter-and-faster-a-conversation-with-eli-manning.md",
       "title": "“Teams will get smarter and faster”: A conversation with Eli Manning",
       "excerpt": "For three years, IBM has worked with two-time Super Bowl Champion Eli Manning to help spread the word about our partnership with ESPN.\nThe post “Teams will get smarter and faster”: A conversation with Eli Manning appeared first on IBM Blog.\n",
@@ -154,7 +206,7 @@
       "originalUrl": "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -197,7 +249,7 @@
       "originalUrl": "https://www.ibm.com/blog/ai-code-generation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -430,7 +482,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -558,49 +610,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce.md",
-      "title": "Jobs That AI Can’t Replace: The Impact of Automation on Workforce",
-      "excerpt": "As the relentless march of automation reshapes industries, its profound influence on the workforce becomes increasingly evident. In the world of Information Technology, where innovation...Read More The post Jobs That AI Can’t Replace: The Impact of Automation on Workforce appeared first on ISHIR | Software Development India.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/",
-      "originalUrl": "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ishir.com/wp-content/uploads/2023/09/Jobs-AI-Cant-Replace-ISHIR.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/",
-      "publishedDateTime": "2023-09-18T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {

@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-20T16:15:00Z
 originalUrl: "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home"
 webUrl: "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/NEICwmCcRyWZ11E1P45-YlSCWLw=/0x0:4240x2832/1200x628/filters:focal(2120x1416:2121x1417)/cdn.vox-cdn.com/uploads/chorus_asset/file/24937620/DSC00363.JPG"
@@ -68,6 +69,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Alexa Just Got an AI Makeover"
+    excerpt: "This week, we learn how Amazon is teaching Alexa more skills to help it better compete in a landscape lousy with chatbots."
+    publishedDateTime: 2023-09-21T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-613/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
     excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
     publishedDateTime: 2023-09-20T18:02:00Z
@@ -122,6 +132,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "cR/gN0M8d0yC52eWT3JDCBFxIls6pswBbmMvKXH6nzstGcTD+Jb89spSMR8V69KI4IdSxp6AcWylpciO3oSzsC/UDqU6dC/okGdzcMe0N6OmJvz1GnoWiidyUbhP4ELai2Cm40DBaU4W8A0h07mkLZiFHXLshmJvzOZ1A13nzRyK15jXPZv0osubO2QiLKvcq8innJkV1HsgM86KYsKDVuXUZ1jnS1bKAk4+oaHmlMebL7koHn+DqpPS3T8hEcxqgH2jOE8bUjQxUM7BKrWFxtIOSK2yDCoxGTxudZarUjzzfMgv6u1MzQM4rBfQ12fO9SnalpeL/BMptw12my6tYcX6PUO4Q2RZXdIaGC92F0M=;RmtQX0/pVjmBNe6eDR+1kQ=="
+secured: "+sF8roKWhwRuiR7RbqAsV2IUSq/6SI2B7EWTeJtB3Gf/BhDj2OPDbYzfNrSVTiY/t30Qce/HyHjNp0BKNcTaNisRh70wkSsTE8ac8fas1O8JxvJeDtx3xZvLQxqa097EuXpHNmT7liSXYmZw4ZD7sl31/FdM7awiKHa8KfqdZshfSrhUz8FMXkEgta4VptaTWZLcg/BGCkVVew5R3N08AEb45yBPSsWy14G/LfAJY/T2VQOh9bsi1WR2AXJoQBEK7IHRcSLSnznUkFhsBSy9GbrOcPt8/UDo1A1P9xGfiViUYWmE/CHC2yf+qmIp7ciluYRaX5IwIgDtk/0ZOhfo0dNSw90XLIh37psTHEln3S/HDdGSK1ujkVCI4H3EQuCcn3yP/qZxSmAc2g9bxHoHgZ5J2rPYeGTVbWDHPHzt1lDB2GxTkuvaN32qOxI8ruuEkaFWRfBJ3tp+EiBcc1kYR9/JGhM8hFASsLZv/aB6vbZPNWNUxzQM9k2cPREpFCI2byHQaa2HHywSUuGeKfq4Ig==;fU4HKRIzrEh/52G4nQVPuQ=="
 ---
 

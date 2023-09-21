@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Real Test of Government-Regulated AI"
+    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
+    publishedDateTime: 2023-09-21T14:13:00Z
+    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-855174/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "UK Government Announces Major Initiatives in Artificial Intelligence Policy"
     excerpt: "Viscount Camrose, Parliamentary Under Secretary of State for the Department for Science, Innovation and Technology in the UK government, revealed significant developments in the country's Artificial ... the Medicines and Healthcare Products Regulatory ..."
     publishedDateTime: 2023-09-21T10:04:00Z

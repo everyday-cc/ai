@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-21-japanese-researchers-say-they-used-ai-to-try-and-translate-the-noises-of-clucking-chickens-and-learn-whether-theyre-excited-hungry-or-scared.md",
+      "title": "Japanese researchers say they used AI to try and translate the noises of clucking chickens and learn whether they're excited, hungry, or scared",
+      "excerpt": "Researchers tested the system on 80 chickens for the study, which was led by a University of Tokyo professor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9",
+      "originalUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/650c309812dc4f001a177f5d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9?amp",
+      "publishedDateTime": "2023-09-21T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-khosla-backed-healthifyme-introduces-ai-powered-image-recognition-for-indian-food.md",
       "title": "Khosla-backed HealthifyMe introduces AI-powered image recognition for Indian food",
       "excerpt": "Vashisht said that the startup had tried implementing image-based food recognition over the years ... The company is working on a voice input feature along with improving its existing AI-powered assistant Ria. HealthifyMe, which has raised over $130 ...",
@@ -166,7 +218,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -219,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -607,49 +659,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-13-build-intelligent-ai-bots-that-speak-your-language-maqsams-ai-conversational-chatbot-unveiled.md",
-      "title": "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled",
-      "excerpt": "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-build-intelligent-ai-bots-that-speak-language-maqsams-/2023/09/13/9879923.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2208602/Maqsam.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-13-automatic-speech-recognition-market-with-latest-industry-trend-2031.md",
       "title": "Automatic Speech Recognition Market with Latest Industry Trend | 2031",
       "excerpt": "Automatic Speech Recognition Market Research Report with 107 pages (Analysis and Scope): In this report analysis, we thoroughly examine the Automatic Speech Recognition Market by exploring it into ...",
@@ -679,6 +688,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-build-intelligent-ai-bots-that-speak-your-language-maqsams-ai-conversational-chatbot-unveiled.md",
+      "title": "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled",
+      "excerpt": "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2208602/Maqsam.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1383,49 +1435,6 @@
       "provider": {
         "name": "FOX5 Las Vegas",
         "domain": "fox5vegas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-paradigm-shift-in-natural-language-processing.md",
-      "title": "Paradigm shift in natural language processing",
-      "excerpt": "In recent years, similar methods that reformulate a natural language processing (NLP) task as another one has achieved great success and gained increasing attention in the community. After the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1000840",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1000840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d6bbf00d-7771-48bf-8486-11a2d1294fae/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

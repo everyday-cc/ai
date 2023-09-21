@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
         width: 945
         height: 533
+        isCached: true
+  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
+    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
+    publishedDateTime: 2023-09-17T21:11:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
         isCached: true
   - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
     excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"

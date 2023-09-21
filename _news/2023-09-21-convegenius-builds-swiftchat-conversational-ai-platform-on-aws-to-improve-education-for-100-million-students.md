@@ -37,6 +37,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 54
+  - title: "ConveGenius builds SwiftChat Conversational AI platform on AWS"
+    excerpt: "Amazon Web Services (AWS) India on Thursday announced that edtech social enterprise ConveGenius has built a conversational artificial intelligence (AI) chatbot on its platform for government schools and low-free private schools."
+    publishedDateTime: 2023-09-21T12:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-3250673/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 34
 
 secured: "dH+vvv1KgMJWkUHQb9BCg+92Ho7qTgZ9gVvUANk2LlefUQzJv9GP4V5aa1jSZdNgZ7113kZDB2/mfn20EiUljXIenJqC9atoxUDeLoR7v194rLWdgcJUi5umAFrbS0v19vMV5lZKcqS9dVplhusgs7SWfiKEo7jtf95u3hxmXbs690bGdZ01InTw5ok5lehuiuE4VHfgZkxqCEzA2Q/towR9iELjNEKTI+h5MrM/+JHjMuj9AsmhnVmbJ1VhOsCYhPsB/lPvwALaqyTEk7MR9QPDWqLmRu/Ok2IYZecW9sEQ+i0H70boMEkPHIswW+4zfxaHZ8cr2kWTghZXbSlSrYwWarZ2sIvxOHRzWE9WJEc=;KFG3cFRyBY5mzFvQO9dsOw=="
 ---

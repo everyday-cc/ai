@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/local/pennsylvania-state-govern
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC 10 Philadelphia
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
-    excerpt: "We don’t want to let AI happen to us,” Shapiro said. “We want to be part of helping develop AI for the betterment of our citizens.”"
-    publishedDateTime: 2023-09-21T01:30:00Z
-    webUrl: "https://www.penncapital-star.com/blog/gov-shapiro-creates-ai-governing-board-to-help-steer-the-states-use-of-generative-artificial-intelligence/"
+  - title: "Pennsylvania state government operations to start using artificial intelligence"
+    excerpt: "The state of Pennsylvania, which plans to use artificial intelligence for its operations, is convening an AI governing board and developing training programs for state employees."
+    publishedDateTime: 2023-09-21T14:58:00Z
+    webUrl: "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp"
     type: article
     provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 34
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
     images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2023/09/shapiro-AI-photo-CMU-scaled.jpeg"
-        width: 2560
-        height: 1708
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f0a9906-43a7-48d5-a658-dbd6fd0bea08/b77c794b-84ab-46d3-a579-637681c78046/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pennsylvania state government will prepare to start using AI in its operations"
     excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."

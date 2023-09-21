@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ai-chickens-emotions-research-transl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9?amp"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -30,6 +30,17 @@ images:
     height: 600
     isCached: true
 
-secured: "PGDrMRIIT2NHDcmMy8KbKiIYKa3/1Eof6GLkzH92uYqKJgrujHZoLhbZKz+Pe8nG9Ij0xbvph8MxrAhKKViTJr/dQpG9aUrKGM2Xw3cO8dFZ5R6Vdl21v1L+EhYGM1II/XufpaDOj1eMQi7NIJrNmrzt/a23cANcTaEnWgpjY2QAK8ym2il4B74kPsBIYX/iGKJmU+Defr1ebPuq291JbDBX3J3xfebd/dLrhOZqlxNOghD9APzot8G/zP5IxMFBgXzoGWn+QrEfvURaELWeBl5X1Kp7aC+Y1PkFvg2zOdNJPtE7g4caZoanq3P8EvqkxihR3GPgWUUEWrTSoxW3OB4fcXfiu1PGRGsJ2svgdGY=;RsKZKLGb1eEk/KPbmklE/A=="
+related:
+  - title: "Researchers create new AI that can translate what chickens are saying"
+    excerpt: "A group of scientists claimed that a newly created artificial intelligence system is capable of translating chicken clucks into emotional states."
+    publishedDateTime: 2023-09-21T06:32:00Z
+    webUrl: "https://www.tweaktown.com/news/93384/researchers-create-new-ai-that-can-translate-what-chickens-are-saying/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+
+secured: "RyXfKkOk9evrLmGoZLUFW97K0wkRcAl+HIH8xklmgWJclRBYpNDdqEAqUoBeMB9BvS2p+WaiqeC7hIW2DRki9/FxaUqpOrwQt0hazKuKIVE9acpC5Q27vyrOLZtWbjfzj7stLPyo/d+GNieHcYySVzzYb0/qVX843uQm7AKXmO6GkA9+9KRQXt7G4e87DDrKM5Fe9zsFae/Z8/aLMKlMDRG7LHtt0JfdDdehQSVGBHo6uMtMTZcC+m+n3TMABpAw4EwsJfyps3EN1kYMUUowW7aDVDNQP7/fRkt3kMq1luPeGqMrZIJ8ICxuiopIhsCF2p1/d8GrWmngd7g/AkEdry0x0CcerrIZLQn7jDsbIf2TLC7AlQzKGPwGmjJcxJWA/kvPCPZNp+AXQCt/QAQMKPLkbVztXaxdGxCazLNNj45KGko7nKphVGojE+oXXNWq1XePDAcYbk3kdIYoLU9dbfO66VRBhZKxq1Nv2B7dB5HcH5iFgl+8FX3NiRusm6hu7wjPT1OjZGnOYawQUAQFJA==;Rtn8XPIkKoFwP4gEdFwUyw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everythi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/NEICwmCcRyWZ11E1P45-YlSCWLw=/0x0:4240x2832/1200x628/filters:focal(2120x1416:2121x1417)/cdn.vox-cdn.com/uploads/chorus_asset/file/24937620/DSC00363.JPG"
         width: 1200
@@ -67,6 +67,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Alexa Just Got an AI Makeover"
+    excerpt: "This week, we learn how Amazon is teaching Alexa more skills to help it better compete in a landscape lousy with chatbots."
+    publishedDateTime: 2023-09-21T12:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-613/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
     excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
     publishedDateTime: 2023-09-20T18:02:00Z

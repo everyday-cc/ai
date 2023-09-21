@@ -33,20 +33,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Cloud security powers CrowdStrike’s momentum. Gen AI is next"
-    excerpt: "This year has seen ups and downs for CrowdStrike and the cyber industry in general."
-    publishedDateTime: 2023-09-16T19:34:00Z
-    webUrl: "https://siliconangle.com/2023/09/16/cloud-security-powers-crowdstrikes-momentum-gen-ai-next/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/AdobeStock_415743482_Editorial_Use_Only.jpeg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "1V5ckPhawyqpG6Ib4ne+WZBFK/8ErlVrzZgIgUiXsBJKAOkKIkeywQZ2CTciAfiFE2rAMg/g5NAizJZXvx9rI6MIX+6wvcLs9+T9suQ/QB9qCVFst2T4GtbZAe1KWQKg3WltGI3h8AgZmnwy1bV2joTNiOpETKWqHJJCt/LmHX4u808y0TWsaLTALY/I5bCtG85kA8t70dCEIpl6n2SNyDYbXPyJhUqL6dCx0V/u96fOwXKIWy8ExeOtH8Cdaze+/EBlASvcjT8fDzuDLgE+LfTevkjD1afT+kqA+9gPBB3WIqfpwkbsIhBbZgpg3+OS0pNak4nl2LZaHR5ucbBXknnMuJBfysUurNj0St195Zc=;RmYshzalv/nJvqSk2qvyxw=="
 ---

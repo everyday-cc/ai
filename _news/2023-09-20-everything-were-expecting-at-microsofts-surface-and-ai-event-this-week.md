@@ -47,6 +47,38 @@ related:
         width: 1125
         height: 849
         isCached: true
+  - title: "Every product Microsoft unveiled at its Surface and AI event today"
+    excerpt: "Copilot will be available on Windows 11 devices, across Microsoft 365 services including Powerpoint, Excel, and Teams, and on Microsoft Edge. Because Copilot builds on Bing Chat, it shares similar AI-powered features like the ability to summarize and pinpoint key information of bodies of text, from websites to text messages."
+    publishedDateTime: 2023-09-21T14:42:00Z
+    webUrl: "https://www.zdnet.com/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/44ac5ceb6620b58be0b51f6933fe389c00a7b7bd/2023/09/21/ef52c87d-67e3-4dac-9f5a-013c9850287f/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft to Start Selling AI Package to Companies in November"
+    excerpt: "By Will Feuer Microsoft will begin selling Microsoft 365 Copilot, its generative AI-powered add-on to its core enterprise software bundle, to companies"
+    publishedDateTime: 2023-09-21T15:53:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-to-start-selling-ai-package-to-companies-in-november-c4dce15b"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-to-start-selling-ai-package-to-companies-in-november-c4dce15b"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-to-start-selling-ai-package-to-companies-in-november-c4dce15b"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-18T11:16:00Z
@@ -74,6 +106,20 @@ related:
       - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Adobe-SaaS-Solutions-with-Microsoft-Cloud-TEI-1024x417.jpg"
         width: 1024
         height: 417
+        isCached: true
+  - title: "Microsoft announces AI Copilot for Windows coming September 26th"
+    excerpt: "The announcement appears to bring Copilot to Windows 11 installed locally, and represents a deeper integration of the AI tool into the OS"
+    publishedDateTime: 2023-09-21T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-announces-ai-copilot-for-windows-coming-september-26th/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_flat_illustration_vector_art_minimal_a_long_haired_man__d8decbb7-baba-48b2-a24f-6799f86e86dc.png?w=1200&strip=all"
+        width: 835
+        height: 468
         isCached: true
   - title: "Microsoft AI Employee Accidentally Leaks 38TB of Data"
     excerpt: "A software repository on GitHub dedicated to supplying open-source code and AI models for image recognition was left open to manipulation by bad actors thanks to an insecure URL."
@@ -312,6 +358,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/Microsoft_Oracle.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Microsoft introduces ‘super realistic AI voices’, 400+ neural voices, 140 languages"
+    excerpt: "Microsoft is introducing new realistic voices designed specifically for conversational scenarios as part of Azure OpenAI GPT. These voices offer improved"
+    publishedDateTime: 2023-09-21T14:30:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-introduces-super-realistic-ai-voices-400-neural-voices-140-languages/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 48
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/ai-hand-touching-mechanical-hand.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
     excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"

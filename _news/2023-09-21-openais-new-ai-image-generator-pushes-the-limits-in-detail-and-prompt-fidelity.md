@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-announ
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
 type: article
 quality: 83
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI beefs up its image generating AI tool with DALL-E 3"
+    excerpt: "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!"
+    publishedDateTime: 2023-09-21T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI is building a red teaming network to tackle AI safety - and you can apply"
     excerpt: "OpenAI's Red Teaming Network members will be compensated for their time and prior experience with language models is not required."
     publishedDateTime: 2023-09-20T20:21:00Z

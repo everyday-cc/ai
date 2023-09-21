@@ -34,15 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Generative AI as a catalyst for change in the telecommunications industry"
-    excerpt: "Reinvent how your business works with AI, transforming customer care, IT, network optimization and digital labor.\nThe post Generative AI as a catalyst for change in the telecommunications industry appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-19T18:28:30Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-as-a-catalyst-for-change-in-the-telecommunications-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 98
 
 secured: "CM3+ZAyL8elPk4XfKEPtTc3SyNCuPoe13jMTm2/JPAi30pwG8tVMOl4rRVDqD2VBlfblXfzbhzN3EVBo/LSVhjkoc3ZzXVD2cul3Ch3YCylw2l9pPXVGmp2woANBg/62+h+ID5g8SRiBBL0uPeRriozPOgtqOr8KaDk1VbY62WZmZt3vU367u0Wg3SBIG5BND+SYpRSgJYzC300GESFpIHsMiQRFmXNFPrRJHzB+O+I9LFgBwLywIHaoExAUPO9wbYqwAIyUH9uc33NCXH614EUau7d+wwW/dD4iMUcaAgNqC8xcmCu+zxnh+PKTwm+kP9nTRU+zhQJ+/NtjAPbDUjFc4YNG8uL9747xMCcZbpDFrob1/EYDzUhXOuZJ7WcWa8Mz2TQiNjqMcPCJ27EDeeojAds+ZhEJDwQF6zrKDOcX0BhJxEkrDQq3CLfdVtJhqn6zyc8vdw7X7r3IakotLOyyAaOlZAtY5iJfqKXiUipR2x24SXlugcFQkeZmagxD7dblrcMVjcqasRiOyCZGNw==;kBQcuVfLRLkhijA4PWe4Tw=="
 ---

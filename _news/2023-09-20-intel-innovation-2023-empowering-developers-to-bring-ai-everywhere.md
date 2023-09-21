@@ -19,105 +19,122 @@ topics:
   - AI
 
 related:
-  - title: "Intel announces new Core Ultra CPU with AI processing engine coming in December"
-    excerpt: "Intel announced its newest processors, the Intel Core Ultra series, during the Intel Innovation keynote on Tuesday, which it says will usher in the age of the \"AI PC\" later this year when the chip hits the market."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year"
+  - title: "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace"
+    excerpt: "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies."
+    publishedDateTime: 2023-09-21T05:42:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HAvq6okpT4ZUYNJxoz4KsL-1200-80.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 653
         isCached: true
-  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
-    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
-    publishedDateTime: 2023-09-20T01:16:00Z
-    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
-    excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
-    publishedDateTime: 2023-09-20T06:26:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+  - title: "Jobs That AI Can’t Replace: The Impact of Automation on Workforce"
+    excerpt: "As the relentless march of automation reshapes industries, its profound influence on the workforce becomes increasingly evident. In the world of Information Technology, where innovation...Read More The post Jobs That AI Can’t Replace: The Impact of Automation on Workforce appeared first on ISHIR | Software Development India."
+    publishedDateTime: 2023-09-18T13:02:00Z
+    webUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/"
+    ampWebUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 44
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 59
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/From-CPUs-to-NPUs-Intel-announces-a-new-line-of-local-AI-focussed-PC-processors.jpg"
+      - url: "https://www.ishir.com/wp-content/uploads/2023/09/Jobs-AI-Cant-Replace-ISHIR.jpg"
         width: 640
-        height: 362
+        height: 426
         isCached: true
-  - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
-    excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
-    publishedDateTime: 2023-09-19T16:25:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/intel-makes-progress-advanced-chip-manufacturing-process-strives-relevance-ai/"
+  - title: "3 ways the generative AI boom is upending the advertising agency business"
+    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
+    publishedDateTime: 2023-09-19T18:30:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/intelaieverywhere-gelsinger2023.png"
-        width: 2310
-        height: 1287
-        isCached: true
-  - title: "Intel To ‘Usher Age Of AI PC’ With Core Ultra ‘Meteor Lake’ CPUs In December"
-    excerpt: "Intel said it will “usher in the age of the AI PC” with its long-hyped Meteor Lake processors, which will be released under the new Intel Core Ultra brand name for laptops this December."
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "How Businesses are Using AI in 2023: The Companies Leading the Way"
+    excerpt: "The rise of artificial intelligence in the 21st century has started a new era that is expected to change the course of the world. AI is being hyped as it systematically changes the way things are done – or at least promises to. It affects people, processes, and systems significantly, which contributes to the fervor."
+    publishedDateTime: 2023-09-19T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-businesses-are-using-ai-in-2023-the-companies-leading-the-way"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
+    excerpt: "At its third annual Intel Innovation event, Intel unveiled an array of technologies to bring artificial intelligence everywhere and make it more accessible across all workloads, from client and edge to network and cloud."
     publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-to-usher-age-of-ai-pc-with-core-ultra-meteor-lake-cpus-in-december"
+    webUrl: "https://www.joplinglobe.com/region/national_business/intel-innovation-2023-empowering-developers-to-bring-ai-everywhere/article_d5985576-3c70-5561-9bc5-4d0383f4af15.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
     images:
-      - url: "https://www.crn.com/resources/0285-190462f3d944-68ea851d1e44-1000/tel_core_ultra.png"
-        width: 600
-        height: 513
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/d1/5d1c2758-e4b5-58b9-b0c6-af6286e5ae6c/6509c1baa93ec.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Intel details multiple new chip designs"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
-    publishedDateTime: 2023-09-20T17:34:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
+  - title: "How COMPASS Pathways Is Leveraging AI To Revolutionize The Mental Healthcare Space"
+    excerpt: "Artificial Intelligence (AI) is rapidly penetrating a number of different sectors, including healthcare. The use of AI in mental health has opened up the possibility of new avenues of care, potentially allowing for more efficient diagnosis,"
+    publishedDateTime: 2023-09-21T11:37:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34788790/how-compass-pathways-is-leveraging-ai-to-revolutionize-the-mental-healthcare-space"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 34
-  - title: "New chip designs on display at Intel Innovation 2023"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
-    publishedDateTime: 2023-09-20T17:40:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+  - title: "How scientists are using artificial intelligence to fight pollution from coal trains"
+    excerpt: "A team of researchers is using artificial intelligence to help the city of Oakland figure out how much pollution coal trains leave behind in the communities they travel through."
+    publishedDateTime: 2023-09-20T12:59:00Z
+    webUrl: "https://www.kalw.org/climate/2023-09-20/how-scientists-are-using-artificial-intelligence-to-fight-pollution-from-coal-trains"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
+      name: KALW
+      domain: kalw.org
+    quality: 25
+  - title: "Trend Micro Launches Internal AI Contest to Drive Innovation"
+    excerpt: "Trend is a pioneer in the use of AI and machine learning for cybersecurity, having embedded the technology in products as far back as 2005 for early use in spam filtering. Over the years, the company expanded and matured its use of AI, developing new models to detect and contain unknown threats more effectively."
+    publishedDateTime: 2023-09-21T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
-  - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
-    excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
-    publishedDateTime: 2023-09-19T18:27:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/6-big-announcements-at-intel-innovation-2023-from-288-core-cpu-to-ai-supercomputer"
+  - title: "Eye Care Organizations Unite to Save Sight of Premature Infants Using Artificial Intelligence"
+    excerpt: "Eye care nonprofit Orbis International is excited to announce a new strategic partnership with Siloam Vision to use the company's cloud-based telemedicine platform to expand access to eye care and prevent blindness in premature infants living in hard-to-reach communities."
+    publishedDateTime: 2023-09-21T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885422.htm"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 13
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "kvB0gZStyCb/9Ki66ZnHcpczKE40l9PWo39wOmTlKf/GIIP3RiXMl9+RhdJNTlrmWQ0NNgraU1PyxITrp0PSVLlr7JRfoILr4gyM54rbALvbxcWNsqU82kdLhr0jvNbbaieulx3kYxpPgOAz31f1rpB7hQ5W9JzIijjIvUOrsJKQfy4Bc/cBgqea/75+rj1TjwytTGEvwf+8XKKBi3W2cxNr+BBilNqYUt52ETwm5TFoyv4hBGsN2vybFhmYsPiD+GuualzMWsOp9H6OIMojbD7qI+f0VfshszrLTqV/cCh4lUjP1C1wIbbeFQvUvx2w8lWYp9iOjmn9XqWD4HMnw6yhp0N3YUf27Td+IZgFBR8=;/1GK/ONUNGObe1/f5GuF6g=="
 ---

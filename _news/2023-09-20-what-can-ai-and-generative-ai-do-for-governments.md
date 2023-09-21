@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The Real Test of Government-Regulated AI"
+    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
+    publishedDateTime: 2023-09-21T14:13:00Z
+    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-855174/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Pa. state government will prepare to start using AI in its operations"
     excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."

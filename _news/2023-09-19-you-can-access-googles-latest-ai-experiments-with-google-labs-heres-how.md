@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-access-googles-late
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/"
 type: article
 quality: 85
-heat: 95
+heat: 98
 published: true
 
 provider:

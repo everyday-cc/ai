@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-hea
 webUrl: "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Easily transform ChatGPT into a voice-activated AI assistant"
+    excerpt: "This innovative approach leverages speech recognition and text-to-speech technologies, making the interaction with ChatGPT more dynamic and intuitive. The transformation of ChatGPT into a voice-activated AI assistant is not only innovative but also accessible."
+    publishedDateTime: 2023-09-21T13:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/chatgpt-voice-activated-ai-assistant/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Change-ChatGPT-into-a-voice-activated-AI-assistant.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Ge Healthcare Awarded A $44 Million Grant To Develop Artificial Intelligence-Assisted Ultrasound Technology Aimed At Imp..."
     excerpt: "GE HealthCare (Nasdaq: GEHC) today announced it received a grant from the Bill & Melinda Gates Foundation for more than"
     publishedDateTime: 2023-09-18T18:36:00Z

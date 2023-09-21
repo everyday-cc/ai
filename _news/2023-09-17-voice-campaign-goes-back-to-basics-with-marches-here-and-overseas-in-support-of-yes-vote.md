@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "YES23 LAUNCHES OFFICIAL YES ADVERTISING CAMPAIGN FOR THE VOICE REFERENDUM VIA CLEMENGER BBDO"
-    excerpt: "Clemenger BBDO has launched ‘Yes Makes It Possible’ - an evocative campaign for the Yes vote for constitutional recognition and a Voice to Parliament for Indigenous Australians after recently being appointed to the Yes23 account."
-    publishedDateTime: 2023-09-16T22:17:00Z
-    webUrl: "https://campaignbrief.com/yes23-launches-official-yes-advertising-campaign-for-the-voice-referendum-via-clemenger-bbdo/"
-    type: article
-    provider:
-      name: Campaign Brief
-      domain: campaignbrief.com
-    quality: 28
-    images:
-      - url: "https://asset-cdn.campaignbrief.com/wp-content/uploads/2023/09/17050257/YES-23-hero.jpg"
-        width: 1374
-        height: 748
-        isCached: true
-
 secured: "FmDefqPNUvW4vUOQ0mPNjfLM6aGmDTaUnWvwYqmvK+GHIgiyQgiXm6PTbJ9M3VcQcnerMbPjRCiitRDFrHKimINplko9cLaLnHj2NFkUuKatOJnrQ8zghn8e5MPr3+gAM/M2/BT7RAAC6fDqI/YWmlxk+UNDn7a1s9ELxHV1y8j+aXD+e15Ws62EB3hg/M2RRUqij77XUwXsD5soImv7EBm6dq1AnrWkdObI3OdzQkq/KnIwIs7pF/xdWHIn2a/gxbfKf8MC12KA5SbUX2kQC/8ajyGNTxO2tn68LxC1zKJ3GA7/ds2SQuSbtmWrg8lc53pH+AVGJjECgCo2iXbK6uSlc6s7o/hTUgOl5o77wDc=;00hJ3P1oX5sX9t0sLV1yWw=="
 ---
 

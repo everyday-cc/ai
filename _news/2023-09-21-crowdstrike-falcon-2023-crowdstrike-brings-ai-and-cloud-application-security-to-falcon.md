@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-anno
 webUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-announcements/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud security powers CrowdStrike’s momentum. Gen AI is next"
-    excerpt: "This year has seen ups and downs for CrowdStrike and the cyber industry in general."
-    publishedDateTime: 2023-09-16T19:34:00Z
-    webUrl: "https://siliconangle.com/2023/09/16/cloud-security-powers-crowdstrikes-momentum-gen-ai-next/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/AdobeStock_415743482_Editorial_Use_Only.jpeg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Intel Innovation 2023: Bringing AI Everywhere"
     excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
     publishedDateTime: 2023-09-19T16:41:00Z

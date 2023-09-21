@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 738
     isCached: true
+
+related:
+  - title: "Understanding The Human Element Of AI"
+    excerpt: "One of the most remarkable aspects of the AI debate is that it has managed to inject some genuine passion into discussions around enterprise tech. Some people think it is cool. Others say it is terrifying. Some people think it is both—like the first time you ride a roller coaster or get caught by a jump scare in a horror flick."
+    publishedDateTime: 2023-09-21T10:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650b1b28535d7d1f890c8736/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "pyx70/DYJedvCgWluAoSBCsVwOiJxlloWDMRIHcz0DlxX3kPOhu3GHm5BkL79kA8ifJgu3TqwD+ahKy4cRHjVJS7iMttTLHZQHJI81RF60IhVtEj6e8EWa85nz7tTc3tceUe7er++QblkGwZOUY3KxbZgVtkdiq0xmiavkPMjQly9B2B5l2sVgzHti6Vj1FiomnP/MM6hEH9hEYqaSr9cnUNFIfQsWUEfkXSpNIX7BFul4n0W+VaSJpX6F4Wlj4BepqGmhShKYYMx1JFsQYGL3RSkf6HAka20ytpafd1ZW9awCros2FhUYvx5gAMcXskt+in+2IWNewA2qeiRzSmqFM1fmWQQBt9hzyuuD6tGWl+xts+8j7pFlD0RCR9JIIxYeCBXOkjqUfYXL+Sfq9lHiWp3LKUfjHmM4K1suglTmoAzvfUNyU6HGzxHD+2SxLQw88X5R6Gb201MXmrcOG7TS8EMe9gzv2bmoHKdd9MkPE9KOkgPHwzwuOWq7elyvdcP5jm+iv/TzvGKnNiinifUg==;KGdO4i32IJRT81Z7e0WU6Q=="
 ---

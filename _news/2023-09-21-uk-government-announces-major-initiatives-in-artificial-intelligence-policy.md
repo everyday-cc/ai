@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Real Test of Government-Regulated AI"
+    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
+    publishedDateTime: 2023-09-21T14:13:00Z
+    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-855174/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pa. state government will prepare to start using AI in its operations"
     excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
     publishedDateTime: 2023-09-20T21:31:00Z

@@ -25,29 +25,117 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the 7 Types of AI in 2023: Navigating the Artificial Intelligence Landscape"
-    excerpt: "Explore the diverse types of AI, from Narrow AI to Superintelligent AI. Gain insights into the characteristics and traits of these AI types."
-    publishedDateTime: 2023-09-20T13:24:00Z
-    webUrl: "https://opencv.org/blog/2023/09/20/exploring-the-7-types-of-ai/"
+  - title: "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace"
+    excerpt: "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies."
+    publishedDateTime: 2023-09-21T05:42:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
     type: article
     provider:
-      name: OpenCV
-      domain: opencv.org
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://lh3.googleusercontent.com/m9t0uXZKngwJiQkj3b4BzoHB4cjmSVHvJeO8S0VebGCQwcgPHsQus8z8w_rJo1pI8lBAFG0bYUt7zI13xan1UDmfKOJHskO2_hOVY4hoROHWATJTb2712s2BAat9FZf9ybCOh9dMP9QD-XU7x8ftJKE"
-        width: 500
-        height: 281
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 653
         isCached: true
-  - title: "AImpact 2023: Experience Our AI Future Now – Step Into a New Dimension of AI Learning and Networking"
-    excerpt: "With an impressive ensemble of more than 35 of the industry’s leading experts, including Dr. Laura Palmer, a neuroscientist turned AI ethics consultant, and creative visionary, Lauren Wallett, the creator of the world’s first prescriptive AI software ..."
-    publishedDateTime: 2023-09-17T16:40:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/aimpact-2023-experience-our-ai-future-now-step-into-a-new-dimension-of-ai-learning/article_64bfbc4b-eb8b-542e-908d-42806fd90bd2.html"
+  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
+    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
+    publishedDateTime: 2023-09-18T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
     type: article
     provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Jobs That AI Can’t Replace: The Impact of Automation on Workforce"
+    excerpt: "As the relentless march of automation reshapes industries, its profound influence on the workforce becomes increasingly evident. In the world of Information Technology, where innovation...Read More The post Jobs That AI Can’t Replace: The Impact of Automation on Workforce appeared first on ISHIR | Software Development India."
+    publishedDateTime: 2023-09-18T13:02:00Z
+    webUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/"
+    ampWebUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 59
+    images:
+      - url: "https://www.ishir.com/wp-content/uploads/2023/09/Jobs-AI-Cant-Replace-ISHIR.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "3 ways the generative AI boom is upending the advertising agency business"
+    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
+    publishedDateTime: 2023-09-19T18:30:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "How Businesses are Using AI in 2023: The Companies Leading the Way"
+    excerpt: "The rise of artificial intelligence in the 21st century has started a new era that is expected to change the course of the world. AI is being hyped as it systematically changes the way things are done – or at least promises to. It affects people, processes, and systems significantly, which contributes to the fervor."
+    publishedDateTime: 2023-09-19T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-businesses-are-using-ai-in-2023-the-companies-leading-the-way"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "How COMPASS Pathways Is Leveraging AI To Revolutionize The Mental Healthcare Space"
+    excerpt: "Artificial Intelligence (AI) is rapidly penetrating a number of different sectors, including healthcare. The use of AI in mental health has opened up the possibility of new avenues of care, potentially allowing for more efficient diagnosis,"
+    publishedDateTime: 2023-09-21T11:37:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34788790/how-compass-pathways-is-leveraging-ai-to-revolutionize-the-mental-healthcare-space"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+  - title: "How scientists are using artificial intelligence to fight pollution from coal trains"
+    excerpt: "A team of researchers is using artificial intelligence to help the city of Oakland figure out how much pollution coal trains leave behind in the communities they travel through."
+    publishedDateTime: 2023-09-20T12:59:00Z
+    webUrl: "https://www.kalw.org/climate/2023-09-20/how-scientists-are-using-artificial-intelligence-to-fight-pollution-from-coal-trains"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 25
+  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
+    excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
+    publishedDateTime: 2023-09-19T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intel-innovation-2023-empowering-developers-bring-ai-everywhere-/2023/09/19/9883938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Trend Micro Launches Internal AI Contest to Drive Innovation"
+    excerpt: "Trend is a pioneer in the use of AI and machine learning for cybersecurity, having embedded the technology in products as far back as 2005 for early use in spam filtering. Over the years, the company expanded and matured its use of AI, developing new models to detect and contain unknown threats more effectively."
+    publishedDateTime: 2023-09-21T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Eye Care Organizations Unite to Save Sight of Premature Infants Using Artificial Intelligence"
+    excerpt: "Eye care nonprofit Orbis International is excited to announce a new strategic partnership with Siloam Vision to use the company's cloud-based telemedicine platform to expand access to eye care and prevent blindness in premature infants living in hard-to-reach communities."
+    publishedDateTime: 2023-09-21T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885422.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "X9v2qg/F5y+LKNtMuqpv++1xqxk8lEc26jcQrEkzloAiGoe/qWDiBeqSQP/bKntwahLRIY8Iv08dJsjW1Wh6j/9Q+mq4/ncAf/Kwm2CdHZColCoPDeNxFIsLXJGhTbIFROFG+xLKbv3IycO+dPZOxgswIr7vZDuNT2JYd8Z/XkmkUp9DnFdgs5fC/ooFbwmS2YgwoWqIc+2bh/Zmr12uNrXOCpwTDBoQW9OHJJXlZSgs9D/laaXtyW+C2f8hIf4mZnWMmB8an8hGta1j7X/kKLAIvIPWhiMHm4LcsTbEVfiHNYSfTFQL7s0O2u3MloJ5O4+aOyjkYjlQxQJZQgZuHBPjW7nLzxr0diM1Qkzgw4uSq41hlw0LCN+zI6O501v9DRrM/kma2+RUiuLE5W4FVxZ3DKWpugIO9uwbFP0JNN6C//Vgd2zzlblOE8/5bOrZrlP9taJIdr2VnY8oxh0GciAfrETl1QClWGMv5fZuHolLD5jfCH5LMc25asB8LR3UvIfrjR8wAKWRHbdUAJB2Hg==;nINi4AoegW1WpRcHDpHrXw=="
 ---

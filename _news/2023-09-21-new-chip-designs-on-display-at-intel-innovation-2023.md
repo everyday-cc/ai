@@ -100,15 +100,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
-    excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
-    publishedDateTime: 2023-09-19T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-innovation-2023-empowering-developers-bring-ai-everywhere-/2023/09/19/9883938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
     excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
     publishedDateTime: 2023-09-19T18:27:00Z

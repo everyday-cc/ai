@@ -7,7 +7,7 @@ originalUrl: "https://www.ksat.com/news/local/2023/09/20/san-antonians-fall-prey
 webUrl: "https://www.ksat.com/news/local/2023/09/20/san-antonians-fall-prey-to-scheme-involving-artificial-intelligence-voice-cloning/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Nation's first degree combining medicine, AI comes to San Antonio"
-    excerpt: "The first known dual degree in the U.S. to combine medicine and artificial intelligence is available in San Antonio. Driving the news: The University of Texas Health Science Center at San Antonio and UTSA are teaming up to offer a combined doctor of medicine and master of science in artificial intelligence to form a five-year program."
-    publishedDateTime: 2023-09-19T11:20:00Z
-    webUrl: "https://www.axios.com/local/san-antonio/2023/09/19/first-artificial-intelligence-medicine-degree-texas"
+  - title: "Musicians are eyeing a legal shortcut to fight AI voice clones"
+    excerpt: "As the debate around AI regulations rages on, creative industries are taking notice. Music is one of the biggest. In the past year alone, we’ve had AI covering popular songs or faking new releases, Grimes letting people use her voice for their creations, YouTube partnering with record labels to monetize AI music, and more."
+    publishedDateTime: 2023-09-21T15:00:00Z
+    webUrl: "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/KextqryeSw6CO8DgNHUhqLlH7ZA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16125019/acastro_190416_1777_music_ai_0001.0.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "tKxnvV4FuoB/fwXlnLu1WKUVWuIK057L+3eeawG166Tf4N+dE9N1sVh0fmT7fdZKrk1cyvNbU3DAklquFObSaodIMXS+ohZNF4+BwTpjy7zz9JeZA8tBpb1oi7qVJWJcPkE1K1kDv0qsMqOr93Mp7+zLhQEMxNSjA+st2mgJzK1INd6KnshJebe/Kt5GP3/mkgn1DzpN/VYPDcg1QRikxaG7Dpe8cQgW+mhGbyajMVxwmPllgn1barY6gb0aor1GMmNYz7WIbUzOq2SOgMRe9UOYDWn6G3VSaIte7iFvxhE8h6uG//wpi8LjjcsUVz5fILCWSfXoDpH5qN8KmkJxdp2xIdiG4T2q2WRoKesN6C0t/DFg961nHGkZsQp8POOtxmpmSZYLUEkgI2z7l14K2bwfohn2EqykoeXys2OSvX8C3jp0dEhmSaItQWclmopOLqb54esLJeuqwMASCJhBSNUaI7TrJQomjwOEjJNdnqsdsQaJ7gyHWgOblpynmgE1bpl8/PNlqHwW6hsFg7f3iQ==;f6eZVvua/iCMH7RXf10jtw=="
 ---

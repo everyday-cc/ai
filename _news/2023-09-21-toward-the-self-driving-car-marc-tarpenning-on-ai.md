@@ -108,6 +108,15 @@ related:
         width: 800
         height: 375
         isCached: true
+  - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
+    excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
+    publishedDateTime: 2023-09-21T12:00:00Z
+    webUrl: "https://www.motortrend.com/features/chris-urmson-self-driving-automobile-trailblazer/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 19
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z

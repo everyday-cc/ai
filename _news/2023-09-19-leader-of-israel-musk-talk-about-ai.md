@@ -70,18 +70,18 @@ related:
         height: 630
         isCached: true
   - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk"
-    publishedDateTime: 2023-09-18T19:39:00Z
-    webUrl: "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html"
+    excerpt: "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk. The Israeli leader posted Monday on Musk's social media platform X,"
+    publishedDateTime: 2023-09-18T22:38:00Z
+    webUrl: "https://www.aol.com/news/netanyahu-visits-elon-musk-california-161109171.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: AOL
+      domain: aol.com
     quality: 27
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/11/3119cde9-8a22-5ecf-b424-46b7a1a0784f/6509d3f080366.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://s.yimg.com/ny/api/res/1.2/vw9P0sdxRMAm.ckcJA2Q4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/aol_associated_press_484/5cb9b4a2d42759bf45aed70ea2c276a1"
         width: 1200
-        height: 630
+        height: 674
         isCached: true
   - title: "Netanyahu meets with Musk, talks AI, antisemitism on X"
     excerpt: "SAN JOSE — Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel. The two also discussed artificial intelligence in a sparsely-attended livestream event Monday."

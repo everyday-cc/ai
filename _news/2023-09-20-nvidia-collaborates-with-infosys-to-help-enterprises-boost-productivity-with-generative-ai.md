@@ -119,6 +119,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Health care and AI can be effective partners"
+    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
+    publishedDateTime: 2023-09-17T12:59:00Z
+    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Amazon joins the chorus of companies adding generative AI to products"
     excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"
     publishedDateTime: 2023-09-20T20:10:00Z
@@ -132,6 +146,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Amazon-Echo-Hub.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Enhancing nuclear power production with artificial intelligence"
+    excerpt: "Artificial intelligence (AI) holds promising potential for advancing nuclear energy production. These sophisticated computer systems mimic human logic in problem solving and decision making. With its capability to enhance efficiency,"
+    publishedDateTime: 2023-09-21T15:04:00Z
+    webUrl: "https://www.iaea.org/bulletin/enhancing-nuclear-power-production-with-artificial-intelligence"
+    type: article
+    provider:
+      name: iaea.org
+      domain: iaea.org
+    quality: 39
+    images:
+      - url: "https://www.iaea.org/sites/default/files/styles/half_page_width_landscape_16_9/public/artificial_intelligence_1140x640.jpg?itok=r5GSg-46&c=a37f2ace72bcdc9e07a4fb94b9e55a74"
+        width: 555
+        height: 312
         isCached: true
   - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
     excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
