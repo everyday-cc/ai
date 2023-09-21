@@ -25,57 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Trading Could Change the Game"
-    excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
-    publishedDateTime: 2023-09-19T15:29:00Z
-    webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
+  - title: "Why open source is the cradle of artificial intelligence"
+    excerpt: "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again."
+    publishedDateTime: 2023-09-21T20:47:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
-      name: Internet of People
-      domain: coinjournal.net
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 56
+    images:
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
+        isCached: true
+  - title: "OpenAI And Others Help Educators Navigate AI"
+    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
+    publishedDateTime: 2023-09-17T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Anyscale optimizes open source AI deployments with Endpoints"
+    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
     quality: 39
     images:
-      - url: "https://coinjournal.net/wp-content/uploads/2023/07/1689852872303-5586e800-dd45-45da-8dc2-7a3d663229b6.jpg"
-        width: 500
-        height: 333
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Those trying to pick AI winners should remember the dotcom days"
-    excerpt: "It is always worth stepping back to assess where we stand on the historical arc of technological advancement. As we enter the age of artificial intelligence, there are important parallels with the dotcom boom, which first heralded the internet age."
-    publishedDateTime: 2023-09-17T14:09:00Z
-    webUrl: "https://www.ft.com/content/82168156-006f-4d75-a4e9-0b6bdccef3b2"
+  - title: "A new global map of the AI future"
+    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
+    publishedDateTime: 2023-09-18T20:00:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Politico
+      domain: politico.com
+    quality: 39
     images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
+      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
-    excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
-    publishedDateTime: 2023-09-20T05:00:00Z
-    webUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-cert-reforms-may-be-impacted-by-game-changing-artificial-intelligence/"
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 33
-    images:
-      - url: "https://www.irishtimes.com/resizer/DA62EvHoLfiVrXB9Uh19O6X49fA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ZJIBKZZ7PRCEXJYCITS6WBNKAA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI is paying back ‘the toggling tax’"
-    excerpt: "A recent HR tech release from Microsoft and SAP uses AI to streamline platforms and restore time in the workday."
-    publishedDateTime: 2023-09-18T13:21:00Z
-    webUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "From Diveplane to Howso: The meaning of AI startup’s name change and its open source future"
+    excerpt: "So I would argue that in many regards we’re more open source because we meet those open-source ideals. Raleigh-Durham Startup Week kicks off with AI & unintended consequences, winning government contracts TW: Do you have any thoughts on the work that ..."
+    publishedDateTime: 2023-09-21T18:44:00Z
+    webUrl: "https://wraltechwire.com/2023/09/21/from-diveplane-to-howso-the-meaning-of-ai-startups-name-change-and-its-open-source-future/"
     type: article
     provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 19
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 7
 
 secured: "7hGwvA8yiFhdj5DIqBIld5CY43RrwOI1m+yIR4xuSUydnHPUzUOFtY2u8T+7YKODzktrHjXSiOapgiPe80Jc7ZHyFc24rBG0k6beUaQDWYl6LwYw2Ejte1XrgHnG7VYH+cdPxC/joPKCAZIsqoHbtrc5BvUKkjNzMbS6PTHSxtcGeHkFXsvAfrSp8cnfpiQ08NzPKK8wxUmJRBpWjPXHRj43P4sCejXAIsURMm64D5I4NDXO0w0tmytVmuQNuxHEhcg3BUlIh4yf0scq+zRckbaMyEEAd7vs4LVXXLdHEJ3VlyTcOYapYafk9MlT05StG4lAabniht9n3Iqr87rNkIxxm6ayGl7Ni/m1Ip75T/3GINSbhkpDIeqin3BuYrdndk95Ra7J4911+4VRTrVPfok2tIbE6NlTGssleMzXMwy6UJ0/HxK9vASlrUviUnrR6vyYRTjhUr1gf0YCgUx06uqK1B6jQ55D4e9buivt816mNJjH0ZIjbWOHuQ6pf+QqSstHU7vermrpUkOngHJMCA==;VocKkfXAB8lznizZdoijFQ=="
 ---

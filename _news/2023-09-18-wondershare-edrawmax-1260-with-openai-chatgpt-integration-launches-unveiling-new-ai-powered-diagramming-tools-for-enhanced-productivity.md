@@ -28,48 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
-    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
-    publishedDateTime: 2023-09-19T08:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
+  - title: "Wondershare Virbo Unveils New Features to Democratize AI Video Creation"
+    excerpt: "VANCOUVER, BC, Sept. 19, 2023 /PRNewswire/ -- Wondershare Virbo, the leading AI avatar video creation platform, has unveiled new features aimed at simplifying the production of captivating and lifelike avatar videos. The updates encompass Talking Photo, AI Video Translation, and Speech to Video."
+    publishedDateTime: 2023-09-19T11:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883117.htm"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/2214665/Virbo_New_Freatures.jpg"
+        width: 400
+        height: 268
         isCached: true
-  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
-    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
-    publishedDateTime: 2023-09-18T21:33:00Z
-    webUrl: "https://www.inferse.com/721448/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+  - title: "Wondershare Filmora Takes Centre Stage at Intel Innovation Conference 2023, Demonstrating AI-Powered Features in Video Editing"
+    excerpt: "The Intel Innovation Conference is a hub for developers seeking the latest technological advancements. Wondershare Filmora joined Intel on stage to introduce the audience to its tools harnessing Intel's CPU, GPU, and NPU technologies on the Meteor Lake platform."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-filmora-takes-centre-stage-at-intel-innovation-conference-2023-demonstrating-ai-powered-features-in-video-editing-1032644591"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 28
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-7571.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "'Dr. Google' meets its match in Dr. ChatGPT"
-    excerpt: "In recent research AI has done a credible job at diagnosing health complaints. But should consumers trust unregulated bots with their health care? Doctors see trouble brewing."
-    publishedDateTime: 2023-09-17T07:51:00Z
-    webUrl: "https://www.wfae.org/health/2023-09-16/dr-google-meets-its-match-in-dr-chatgpt"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 24
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/48a7d4e/2147483647/strip/true/crop/5115x2685+0+575/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F09%2F15%2Fap23173786529321-92b78adfdfe197ca473a0da5cbafd9954904d5b0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "xKVI3LX31zcNQN1fJ9b5Ef7nfbRQPtckFTImmXYt7zJyWmr5770jh6CqGbLTie44HpAC23zK/+5ZQexaysYrt9+2f65t/FYm1L4XTLcZ3Bk4WWAXKw2BR1LrkNSYpQnwDD/CiRBqZOCJ9qeto1QX70ojs/O+r+Bz9+701JCdSMvnyxnEVNuwIiwFTA0DFlxS4lSVaMvY6CWOZ3oDelUZ27+k9CyQR8tyc3NEbtJF2PdmBfIScFuaBhGN88nJDmFJX1sifnZekRhSxZnUVVTtZZURSK42ykalIUMIfYi1wruafmBayegOLwRdJYZdv6z17V9ozi6mogJ20CZpmIu7152CA3BRTzR7DoOLVdC+GQQ=;GnO2BF2FLZ+tk9mZdXmEDA=="
 ---

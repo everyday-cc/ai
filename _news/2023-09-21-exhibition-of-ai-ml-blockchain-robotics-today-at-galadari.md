@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-robotics
 webUrl: "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/34-753223"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

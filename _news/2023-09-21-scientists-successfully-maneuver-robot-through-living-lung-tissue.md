@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-09-scientists-successfully-maneu
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-scientists-successfully-maneuver-robot-lung.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 2880
     height: 3440
     isCached: true
+
+related:
+  - title: "Scientists successfully maneuver robot through living lung tissue"
+    excerpt: "Scientists have shown that their steerable lung robot can autonomously maneuver the intricacies of the lung, while avoiding important lung structures."
+    publishedDateTime: 2023-09-21T21:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/09/230921105658.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "ADRFEGRS3KvwPoRBcU0+P+1gejmVHmIsaKkNFHpYPP8cuAMV3uJ8H231NqHW1uAcK9sPuDebGaW2o3HcvjLHInuSKWKWClsP5iV3oORPB/Zt/kQaFmsm+nHc+VutueverxfA7pYvOnK8v5g3kWk7o7gAWhuDRuOk2qxDbZ/Ef9GFn25c1HBGrE7pHBtRhuiHPk93ifYALyOaEN/Mc9+UoNeCGp4SxGgTEL4FnQq+a0eltIsUNRLu+V8JSfdNZG6NSCt47k9kQWws3VUATtFhDgJjIg0Yxwyy1CyK5w9z2CIg/QHcuMIu2+nmjJL3MzHeJKe1CVy/49YFnQjyNj5FsdLcvnMU+iks69De4qTfcceiGHTlA6mvt7G8KVAeVqO+hRzGOIx1p8PTK+jtOd/0cSbiwJFt1Lmzqf6vNl9uztxDecgA90OBDqsTAbqch5ESVOA/GEcf/pQdEm1eu9gt75cCBLLCDNP7RQ/ArXpCLIokxdaIg66X7fYndrE1ufCwMetdCffLQDwrAy+DcDLq4g==;RkLBJAuEsklT7lP7vKOpYw=="
 ---

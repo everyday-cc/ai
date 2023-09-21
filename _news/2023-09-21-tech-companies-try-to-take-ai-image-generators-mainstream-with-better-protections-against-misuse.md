@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/living/article/tech-companies-try-to-take-ai
 webUrl: "https://www.chron.com/living/article/tech-companies-try-to-take-ai-image-generators-18380499.php"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Tech companies try to take AI image generators mainstream with better protections against misuse"
+    excerpt: "Artificial intelligence tools that can conjure whimsical artwork or realistic-looking images from written commands started wowing the public last year. But most people don’t actually use"
+    publishedDateTime: 2023-09-21T21:17:00Z
+    webUrl: "https://wgnradio.com/news/technology-news/ap-tech-companies-try-to-take-ai-image-generators-mainstream-with-better-protections-against-misuse/"
+    ampWebUrl: "https://wgnradio.com/news/technology-news/ap-tech-companies-try-to-take-ai-image-generators-mainstream-with-better-protections-against-misuse/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ap-tech-companies-try-to-take-ai-image-generators-mainstream-with-better-protections-against-misuse/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 44
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2023/09/650cb3392f7614.37358104.jpeg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "Yzh5FluAGlii7RYBjEJBj8QOm6NR1gQhbinfSpcy+jZRpwnlep442XuRazgMuSRWncAuUY3J89B+Bbn1Gh1JMed/foKzUplwhyC3tjZK7mkYo9p3X74STWDxc5CiqCg3zjsiVNEDao5/bvun82BZvReBowla6LmMLE3GPW4ncm1gDDtyvh9SLVjIaWgv8m1Y5ORO5c80P4h9SzmNIEba8xFbrAe27kKOlcJIpgrQgac4RMTrz8PE9ImaK2rwA1DYz8DTVkCoLrM1tHsdKwtDYSqbzNFyrYdxJJPrbNGNGrqEKoziC9g9Cq5Yv8Vo9GnFGXd1RxVCOc2Z9xLaYULpw/k+mX5RR1larXHHxlFCI6FRdKcehkycHk/uTz3ehG0TZWYBQqiC2rEgozBi/lzP09SONFXi4q34KRWmhjN2QFAcOC9pWhqgLnlaW5RVm6sHP7csw0UmG9bd1c9RPNkBWcLndp4OaDQGJsme7YXidWUfo/BGzwewnm0FSXXbby7tbfj7uhVYVeHYVticBWUkbg==;E+7Evqk43x4fkadT2/4fVQ=="
 ---

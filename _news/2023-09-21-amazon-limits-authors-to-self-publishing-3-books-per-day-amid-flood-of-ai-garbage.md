@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishin
 webUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishing-3-books-per-day-amid-flood-of"
 type: article
 quality: 62
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI-generated books force Amazon to cap ebook publications to 3 per day"
+    excerpt: "On Monday, Amazon introduced a new policy that limits Kindle authors from self-publishing more than three books per day on its platform, reports The Guardian. The rule comes as Amazon works to curb abuses of its publication system from an influx of AI-generated books."
+    publishedDateTime: 2023-09-21T18:58:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/ai-generated-books-force-amazon-to-cap-ebook-publications-to-3-per-day/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Amazon restricts authors from self-publishing more than three books a day after AI concerns"
     excerpt: "The company announced the new limitations after an influx of suspected AI-generated material was listed for sale but said that ‘very few’ publishers will be affected"
     publishedDateTime: 2023-09-20T15:22:00Z

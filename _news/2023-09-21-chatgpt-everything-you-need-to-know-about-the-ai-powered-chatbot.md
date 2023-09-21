@@ -23,22 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "How to use Opera's built-in AI chatbot (and why you should)"
-    excerpt: "Using Aria is very simple. Click the Aria icon (it looks like a white A in a purple square) in the sidebar. This will open Aria, where you can type your prompt at the bottom right of the screen. Aria will take a moment and then display the results of your prompt in the sidebar."
-    publishedDateTime: 2023-09-21T17:04:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
+  - title: "AI Showdown, Part 2: ChatGPT, Claude, Bing, And Bard Tackle Blogging"
+    excerpt: "Which AI chatbot will win the blogging segment of the AI Showdown? From the creative brief to chatbot questions and from model confusion to the drafts, it's a blast."
+    publishedDateTime: 2023-09-21T20:45:00Z
+    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/"
+    ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/38f48cbb98b0a35aa492d917631e58f4592958fc/2023/09/21/2bbdef98-30e3-4dcc-9b07-18765fac0f85/metaverse-gettyimages-1367338352.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650c869f4d49617eeabd08d7/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 729
         isCached: true
+  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
+    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
+    publishedDateTime: 2023-09-19T08:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
+    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
+    publishedDateTime: 2023-09-18T21:33:00Z
+    webUrl: "https://www.inferse.com/721448/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 28
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-7571.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "46 ChatGPT alternatives and AI tools for teachers"
+    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
+    publishedDateTime: 2023-09-18T12:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+  - title: "AI used in ChatGPT was built in Iowa"
+    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
+    publishedDateTime: 2023-09-19T12:04:00Z
+    webUrl: "https://madison.com/ai-used-in-chatgpt-was-built-in-iowa/article_72b39369-f744-51da-93c4-3df1fab83363.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 19
 
 secured: "7XGuX7qE74LIJwKkdX3YEUT0wrhBupdwdkgTRMc4wl1OQElnFW/B7Mx+VaqumnSxC+576zj6o5SRn53r9NZCvHCtrSXWFzhMSITxhA+RQ+Phu5jdSThJio71SXF1Unuc3DJagpPVAvZhR5aAJAeCnd3lEErCe0XVX1GqIoZ2TgBE8ki084NXuUhECNfAD9jda5Sv0uAqLhHazQm9d6ro1lB0hqc8Hzhcq40zovoMD57ZSuFwhsMle59SHPCri0J1tdPyTZ/qzJyIgPt2OE2ocbJwICi66hbB63lJzsXfzfcLgizhga4u3uCiI+ShsRHmw+SOgqSvZVf8QjevTm3IVpSe5Vv7kS2o8eLJApVQVWA=;1mGxT/l/P7ScwrLVA2SPBw=="
 ---

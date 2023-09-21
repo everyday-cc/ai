@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-poli
 webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Generative AI already being used in majority of college classrooms, according to new survey"
+    excerpt: "A new report from Wiley suggests that generative artificial intelligence (AI) is already being used in the majority of college classrooms—and that number could climb quickly."
+    publishedDateTime: 2023-09-21T20:03:00Z
+    webUrl: "https://phys.org/news/2023-09-generative-ai-majority-college-classrooms.html"
+    ampWebUrl: "https://phys.org/news/2023-09-generative-ai-majority-college-classrooms.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-generative-ai-majority-college-classrooms.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/university-lecture.jpg"
+        width: 2763
+        height: 2072
+        isCached: true
 
 secured: "4DgEJzyknqg+LIX3bXMSvNbTumpb0caVUFkRebmAIIivR75xmY37HxCU4DLFAy4wtCQTGNEAuMENtPkEe8A0G3dE1pLAi+gCSYvfPQDLmut76OLNnAeRWCpGynrgnuw/PEHGeLuUrro1Ajy0k7Pgg2ywrd5CnACk+sHteewpO3FLHYM3/ob/o7KG4ooT20EIrtn8jxQ5P+Hb58YVwDs98uRO6mQSnNli9N/8nqSRjIc/vx/d5jgAoHcOeO21N9VjkK12qQ9pYsSJ5fX4OY+yq+tc3AX6yw/r1Nl24XWECb1enMo9MJQ0x0vVO7YCj+kvShBkCXFNl0Y215T7IjGa+h3LLQarG2QF8atBgfq1FTJnHWiqjz/zYM6Fm9Nyg/D8iD/jxgtMhuNgnzDidqN3SPjHHpn73vJmoiVEvCsRUxaXGkbSOcPFFl5xTIxWLvANcI7MTW2AxeJ8uBRpzJttBHjyhG9ZaPIEZtLolAuAbPnlp3hH8iO9OhbRmabyXJpxYWmQojBOi50lzmwgth43MA==;GnaA9w0DCDF3IaBgM7bT+g=="
 ---

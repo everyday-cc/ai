@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-operas-built-in-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "men and Republicans in particular causing the machine learning model to say more offensive things than it normally would. The research was conducted using the latest version, but not the model currently in preview based on OpenAI’s GPT-4. YC Demo Day’s ..."
-    publishedDateTime: 2023-09-20T19:20:00Z
-    webUrl: "https://techcrunch.com/2023/09/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-
-secured: "HLOEfi87ERWfVr+roA+s4iXb5JEPUie0Kn80Aml3wuXgruBpbCNl+SB/eF0v4XlaaiMUDFspNGo8diDGCPhIP30Ah7pdW/YzieXWjYHKXZGQI1z0/V0EZ8GFE6kqDqndaHUOm/NNmLzqyNohzJOopCVrl+Snt56CGhG7EVND0dHhFWxmzSOA34/S1cJPlph+cfZbsVi6syWwnPiyadZmviwrg1jhKoHchCt70uTOzrRvtoZZtkwh7eMO6nqZ80Ql0mwp365xrUns2GNym2+9nXruDQX+U6QXYtYodrKjqHIS9SiRH/x/bU/OUk7s+V8ai7FU78svTyaArSOP3SyvhRQZpDr1f31cwoMuHcoSjPg=;7NLkg1Z0xAflGB8x8st/vw=="
+secured: "jzsyejJe7c7SZ+xYlOzDeSsxVaDPkNgONtF7aODNk4rTvHOym5L6ZPHwtxaj+OLxV+tM7hTH7ZQY2nQjzqKKtntmgVcdmFIek1EvuWzBWXoEz11GAeuPAekwMYyUT/HTx+Z4bYSVS+vCd2safdX+py3E+/r+GCqCK6xzr3bY4vZdD+G6hQMqewhbMPWyZ2pE9kYYITpc682i69ARa0Ch4aAclwhDRxsVn46ItpzxaOG++3YgQOItqbWx4AHilzgDSDWm9mURiWacgw+zbil/z349uppunOJUMiV171nhyy5BgaTjNj6Q0RH3Ia567ynoZjmTzI0OUxESNC8dsHse9mnzUqMf7qOfxjfW73JOMevyU4hHnLQqG8IqiWLh5PMrxdWEgtjeRevypo9Twcrr3esfuanhJ3TGpAYUu/U0MdIFjJtagqKXfAXBTfu5nXlSuWuIlqxYX1OnviH8kl3ckb+1GmJq0+av7lLN/K67wq0oXmDeuHiDrwnH+Eh30ZhmA8DR+PrDqesGxc7gyB2+Rg==;lCskNpoLdzRAsgRQz6g/1Q=="
 ---
 

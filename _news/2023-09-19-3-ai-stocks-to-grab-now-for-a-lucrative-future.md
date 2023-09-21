@@ -64,20 +64,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "A new global map of the AI future"
-    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
-    publishedDateTime: 2023-09-18T20:00:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
+  - title: "How AI and ML Are Powering the Future of Work"
+    excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
+    publishedDateTime: 2023-09-21T19:40:00Z
+    webUrl: "https://www.bbc.com/storyworks/advertiser-content/for-a-changing-world/how-ai-and-ml-are-powering-the-future-of-work"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
-        width: 800
-        height: 450
-        isCached: true
+      name: BBC
+      domain: bbc.com
+    quality: 64
   - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
     excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
     publishedDateTime: 2023-09-20T13:19:00Z

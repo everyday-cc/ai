@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-softw
 webUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 728
     height: 381
     isCached: true
+
+related:
+  - title: "Copyright Office Seeks Comments on Artificial Intelligence"
+    excerpt: "The US Copyright Office (CO) issued a notice, seeking comments on copyright law and policy issues raised by artificial intelligence (AI) systems. Artificial Intelligence and Copyright, 88 Fe"
+    publishedDateTime: 2023-09-21T18:42:00Z
+    webUrl: "https://www.natlawreview.com/article/copyright-office-seeks-comments-artificial-intelligence"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 17
 
 secured: "+wg+iJiXahTOj7vJMREL1avuZwYxiTRUV15NAUjwH6qHcNQZn2Pj6Igq81A81rBTlA2EOBEaUCCOkmlHK3hXRuoiIsux9g3OINRFrbkTocqKRwwdjZeaqVHAJbqg5x2B71ex4HAys0BMrpOgyMUvJN4wqIUpoXoJfQGUzE2WolHv/x5vuc4he3gCsFvUXJP9ioNZtFk8w6kW7Qw5qYKZJlY5D7S9zGVzalHwX6dD8ZGwNtL7VqfVn7rOj78KIrZo6pL4DuuRp4UTvUkoz7J9nHCKYjkVkRUqtXbkfyok9Hv77d8YsnLS3lkWeJGdzI5aK01EL3CnY2ALoJFGKk0c4pm14eOpJ+egsagXncPj7Hw=;OdZxiqQTtms1PyBRstx60Q=="
 ---

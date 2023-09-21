@@ -118,6 +118,15 @@ related:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
     quality: 8
+  - title: "Netanyahu visits Elon Musk in California with plans to talk about artificial intelligence"
+    excerpt: "Netanyahu's high-profile visit to the San Francisco Bay Area comes at a time when Musk is facing accusations of tolerating antisemitic messages on his social media platform, while Netanyahu is confronting political opposition at home and abroad. Protesters gathered early Monday outside the Fremont, California factory where Tesla makes its cars."
+    publishedDateTime: 2023-09-18T21:13:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/netanyahu-visits-elon-musk-in-california-with-18373495.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 8
 
 secured: "L06abAl7T7sJnO6o9LtjP6EW/z0phvUBHkxl2haAvwzcNJCdQPqWzJpOnXJgPqB9PZldER7OF5ln2QmxDSEEch7nxUP2eumio9dpIZLtwWM0Pd2Qf6MFFtUD6WoRMRJN3hHZXfAeMMS5gMlFcLzrL53PR+lGqqXSWrI13FWeAmMA5t1dY5ZQlRZ1ReI0a0StSAoud6hIjNkbj5rjiwxxl8Js1FF7nHsqe0JHlMEQ38cmR93II9m6JKvI/81RTuGyYWfGSIfJnqWnSRhr0MBWTpdxLSWAeS3k10nCXquBPuLB1Gmd2S/RKqn6SM46vRTOrCEnuXY5XDWAqbyQyxamoOAYNJFgY9ADv/ezlcv8R2Nk47GvZ/TCR6eCoG1sMmPVvKAZPUVSh+6gt+8TMHX4FtPsFi7mfffQvDqyzSu+V0avkDeF92vCaivHDrKnTCZO0UwQgBql+Rg/mmKP3d2o9KD7gaBRzqYQcSfLhJ7SMlo6+vaB/wg7qutqsEtxlr3bnWkuiHftr7XrI1Foo268DQ==;pNAWt9cQrJWNwVmh41B6Cg=="
 ---

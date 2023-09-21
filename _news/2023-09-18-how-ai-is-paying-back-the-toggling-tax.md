@@ -33,20 +33,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "How Big Tech Is Ruining the Dream of AI"
-    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
-    publishedDateTime: 2023-09-19T10:07:00Z
-    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 39
-    images:
-      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Those trying to pick AI winners should remember the dotcom days"
     excerpt: "It is always worth stepping back to assess where we stand on the historical arc of technological advancement. As we enter the age of artificial intelligence, there are important parallels with the dotcom boom, which first heralded the internet age."
     publishedDateTime: 2023-09-17T14:09:00Z

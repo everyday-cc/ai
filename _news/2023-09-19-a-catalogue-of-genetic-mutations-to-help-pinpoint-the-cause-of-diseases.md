@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-m
 webUrl: "https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Tool Pinpoints Genetic Mutations That Cause Disease"
+    excerpt: "Google DeepMind has wielded its revolutionary protein-structure-prediction AI in the hunt for genetic mutations that cause disease. A new tool based on the AlphaFold network can accurately predict which mutations in proteins are likely to cause health conditions — a challenge that limits the use of genomics in healthcare."
+    publishedDateTime: 2023-09-21T20:58:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-tool-pinpoints-genetic-mutations-that-cause-disease/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/369152DA-8A6D-4990-B051821507732C5E.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Machine learning tool Alphamissense analyzes human mutations to predict diseases"
     excerpt: "Proteome analysis with artificial intelligence has made it possible to create a catalog of all possible missense mutations in the human genome to predict diseases. The new Alphamissense tool from the technology company Google Deepmind,"
     publishedDateTime: 2023-09-19T00:00:00Z

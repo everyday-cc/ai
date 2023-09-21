@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind uses AI to predict harmful genetic mutations in humans"
 excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
-publishedDateTime: 2023-09-19T14:31:00Z
-originalUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec"
-webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec"
+publishedDateTime: 2023-09-19T15:24:00Z
+originalUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift"
+webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift"
 type: article
 quality: 34
 heat: -1
@@ -48,6 +48,22 @@ related:
       - url: "https://media.wired.com/photos/635b055393ea9ed771dc518e/1:1/w_270%2Cc_limit/undefined"
         width: 270
         height: 270
+        isCached: true
+  - title: "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease"
+    excerpt: "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic."
+    publishedDateTime: 2023-09-21T20:27:00Z
+    webUrl: "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/"
+    ampWebUrl: "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 76
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/09/deepmind-dna-double-helix-visualization.jpeg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
     excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
@@ -242,6 +258,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind Claims Its AI Can Pinpoint Genetic Mutations That Cause Disease"
+    excerpt: "The new model, AlphaMissense, has identified 71 million missense mutations and classified 89 percent of them as likely benign or malignant."
+    publishedDateTime: 2023-09-21T21:17:00Z
+    webUrl: "https://futurism.com/neoscope/google-deepmind-ai-genetic-mutations-disease"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 50
+    images:
+      - url: "https://wp-assets.futurism.com/2023/09/google-deepmind-ai-genetic-mutations-disease.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Google DeepMind could speed up the search for disease-causing genes"
     excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
     publishedDateTime: 2023-09-19T23:44:00Z
@@ -316,6 +346,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "90L6n0fyF59SrTNshBFxSN6L7jAxuxloIL+qtWNIOLiB2/jrhSVnbVzlPTlWCTQLIO0SBabFlVGxPEkJORQ3deAHmMElJgBHlRQ3xvA3ZyANUpbtiNtkaweyU4lPZI6JHI1+W+pn3L2zOySE7eQnC2JKgHUy///niEoVEdS7Y3QgeBvfpDEUpr46XcIyeO23do0mLuJR4oK3l+VAwEaONYxDMvtk+W2An0mkFUrBLE2qpcNtHFn6x/Vt9lqylnAUcb710aa4ezPK/wrvc4h20TQyWoumSs4vV/ilXMUidr0gN/p5AfQMZ2WHCIw7BpIV62z0IQGyrGA1JIHQ0f3/Ot5P7yuSzp2f/1ZFHidUSoM=;N465V5KmavO4fPORKtSl/w=="
+secured: "C83koSM2Vl8xal8BV6ulccYKMQFoswMpUo36z/1sRH89ih0q2cGoRma4+1XmEYNP+zQn4re7BdRUsDDlgQ+DUsppV+Gv70GXk5zsPsockaG6OxP9CPx4U4YJLX22aXGc4dW5A4oxcr6/uvgMmi5hQhkVwpNR52aN5XR6jy2wLRQFh9zTHFp3OWQ+b4UKmvqbPG2zBbT5WvXV18hc2a8nV5IS1es0UzafyEE26CKAs/0hWiT+qSob3D80FXbI9EibdMJUTMPwiu1TXc/2/Ub3VPwi8uXqBkN6vHm9hyss5iRQO4FgSm8YzAFhJ5Y4rCN2tAo0Xu6B7pCSBU2tL+R6ItXevXe+QACg7Yms0lro+MT6haEdMNjKMuvbctjtpY7Di/GbbCDtD9zjbQzEFr4KNEstUB5CdCtj5XADvxnqrsva/GZTmERhP3OKt41XGMxAfPiLStTuWRM5+T4hB4gPGgRRiUK8eWO/z1sw5HxKECoA1Z6iDEvG/iIbIUk6GUn4QmM8GUv2F2OdWF/+oLU5WA==;XDwqRsdjcCQ/BUf3rSbYYw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "OpenAI And Others Help Educators Navigate AI"
-    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
-    publishedDateTime: 2023-09-17T18:13:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters.com"
     excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
     publishedDateTime: 2023-09-21T07:19:00Z

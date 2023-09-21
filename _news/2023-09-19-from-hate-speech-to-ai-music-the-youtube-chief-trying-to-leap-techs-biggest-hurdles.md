@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "YouTube to Introduce Generative AI Feature Dream Screen"
+    excerpt: "YouTube has unveiled a suite of creator-focused products and features, including the generative artificial intelligence tool Dream Screen for Shorts, its short-form videos that compete with TikTok and Instagram Reels."
+    publishedDateTime: 2023-09-21T21:34:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/neutron/images/logos/cnet.png"
+        width: 4001
+        height: 1485
+        isCached: true
 
 secured: "28B/Wik+QC3r7NDdCyH3IgBOPTjirFN7fVLu3IP910JKYot3ry6t/SH2dKTqK9olXi8ConL9bqgaI8ObhXgpVYMFDFqEG8ARV75OBnoslJWjaV5ON90gGxxFxlx/Q8DZCLUF6+zWwF9pixbu0axCehMR5AOzHmCketGbUNtgBfiLLkTZoCQdtdi3S9dYfXcueS3S9WwmqoLN+xuiKfwpzDuyuf4132Jl0z2SIOTNcKl8i4Dny3gGXO+o0HYs7kzgc3CzMSBKcqwB5zTQQtvVjCSmhLluFanu9j+XWJDRWhRKEYF/csKlu+YkUyrblhHkYsOpy942QHxqSsuY0el2ulkQoQK1b8MnxEWyYyBPNhz3C6TjfF7R8uZleiSfU2I1lkPGjUb6Jv6ktrm7j9doD9TawvaOmWZ73yi7EYdbW8qAoRUvGL5k/Qc6PyBl/VzrUCSDs+pbIvJkTU+vWKDWvWfCp0VuXyePnIlyPOPqUZt2NlOdDUwElt0WyfZb7pHUMVJrn7KqzOSZjmpjBt0ObQ==;cte6vGa1HaER7tIgb7eWmQ=="
 ---

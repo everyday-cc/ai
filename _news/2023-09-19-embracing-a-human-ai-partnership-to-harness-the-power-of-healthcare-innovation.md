@@ -54,6 +54,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 98
+  - title: "Wisconsin professors discuss changing information landscape in age of AI"
+    excerpt: "Culver said in one personal experience she had with Spotify’s generative AI, it went over an hour without playing a female artist. Generative AIs base their predictions on past information, and the biases held within that information manifest it in an even more tangible way."
+    publishedDateTime: 2023-09-21T17:50:00Z
+    webUrl: "https://badgerherald.com/news/2023/09/21/wisconsin-professors-discuss-changing-information-landscape-in-age-of-ai/"
+    type: article
+    provider:
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 18
 
 secured: "439bK+YJFuTq0+V3iDqlAWqSt2uDEAmowaON9F2SsYMF9uspKKDOKH9cr5txNyJJKZv1N6hy49tj2fOAN+cgLh0zeS4aM19mDG+iEuh2uojIvmcKBZChdt7W8orfmnJZOyaMap1uxbDF/lNU+MT5F9TlL25cki9yvMVUuX053XUXH7ZwaBIZ5sUtkkC3LaC8+Cq8o73nyA+eStupDDwCDMizqdl/KK3xBtuGerM491XBe+R98yn4SzCj1vi//sJmW5OB1/CprG2NGZDusxES5s9Q+/xz0nZ9dZcojSQC0/3HvPQ9tidZsS7f5U2X5wK/+LHhZpidjLA+N23+TJ2tUgvGzegeOPntEkd0PjHVbLw1tgsvj83RFv8s/J27DpCEFUyOOvLcO5HVtazLj60zpu67CdXE6Rm15Hsva3gXyMrdsmOT/hxc7kQqkdor6aZSE6+RsJdzILHMiD6WQTV9Nu1x01sgbnjbvyPde3Aigmf9SaHBLOlqn/pDPOOt5kWGvDLzpwqEHShMCz9QZN7Buw==;Ts7AbceExnqCVXZ8sY1YqQ=="
 ---

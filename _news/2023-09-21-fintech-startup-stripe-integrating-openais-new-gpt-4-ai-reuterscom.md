@@ -87,15 +87,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "OpenAI And Others Help Educators Navigate AI"
-    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
-    publishedDateTime: 2023-09-17T18:13:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "See How AI Generates Images from Text"
     excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
     publishedDateTime: 2023-09-19T15:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/broadcom-shares-fall-on-report
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67"
 type: article
 quality: 102
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Google reaffirms Broadcom chip partnership after report claims it may end TPU AI chip deal"
+    excerpt: "Google and Broadcom jointly develop the former company’s TPU, or Tensor Processing Unit, chip series. TPUs are specialized processors optimized to run artificial intelligence models. They can be used both to train AI models and to perform inference ..."
+    publishedDateTime: 2023-09-21T19:46:00Z
+    webUrl: "https://siliconangle.com/2023/09/21/google-reaffirms-broadcom-chip-partnership-report-claims-may-end-tpu-deal/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-1.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Broadcom Takes a Hit on Potential Loss of Google as a Key AI Customer"
     excerpt: "Broadcom Inc. (AVGO) shares are lower in premarket activity here on Thursday following a Bloomberg report that said executives of Alphabet's (GOOGL) Google are considering dropping the company as an AI chips supplier as early as 2027."
     publishedDateTime: 2023-09-21T11:31:00Z
@@ -130,6 +144,15 @@ related:
       name: The Peninsula
       domain: thepeninsulaqatar.com
     quality: 34
+  - title: "Broadcom recovers as Google denies report it may end AI chip partnership"
+    excerpt: "Alphabet-owned Google (NASDAQ: GOOGL) denied an earlier report from TheInformation.com that it is considering ending its reliance on Broadcom (NASDAQ: AVGO) as a supplier of high-end chips."
+    publishedDateTime: 2023-09-21T18:34:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/broadcom-stock-falls-5-on-report-google-may-end-partnership-432SI-3179245"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 33
 
 secured: "JNlLFVI4g2KgupQXuttbfWo61aovp9GTq6BxTsLIQ0fZQjsl4D9VtBQCwRyYiDzS+jHA6Xc2RyJGxeaI3OOMg5V3wtQZufZcSvZXjukTbqVzfsL+8BH5nRuZHoOYYIWJGOz4wZMfAP/kzVRHTuvlQzWHwxkSKV+dcjJo6TZEGSKR7pzHmZI+77Vn54DMZR4fsYemPG0N8+oe1xM6L3SlgMMW1vk76WhGKcAL6Ytednkc2Si1tA9ZfXmOMDZEzzUaqIkaTXFXxr4LZYN781Opj8JK6c3VeFxnsR4ISFs6cm1uBRm2GI7HRQh2Elxql7eE590xiJWePWkiD7YaGV4sNz5zGpr/GgYTRXDhZGORXzg=;gRtT6V7XUKAiygKAnfIBCw=="
 ---

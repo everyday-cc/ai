@@ -23,96 +23,105 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI beefs up its image generating AI tool with DALL-E 3"
-    excerpt: "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!"
-    publishedDateTime: 2023-09-21T14:55:00Z
-    webUrl: "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
+  - title: "Why open source is the cradle of artificial intelligence"
+    excerpt: "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again."
+    publishedDateTime: 2023-09-21T20:47:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity"
-    excerpt: "Like its predecessor, DALLE-3 is a text-to-image generator that creates novel images based on written descriptions called prompts. Although OpenAI released no technical details about DALL-E 3, the AI model at the heart of previous versions of DALL-E was trained on millions of images created by human artists and photographers,"
-    publishedDateTime: 2023-09-20T22:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: C&EN
+      domain: acs.org
+    quality: 56
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dalle_2_hero-800x450.jpg"
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
+        isCached: true
+  - title: "Anyscale optimizes open source AI deployments with Endpoints"
+    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "A new global map of the AI future"
+    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
+    publishedDateTime: 2023-09-18T20:00:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI is building a red teaming network to tackle AI safety - and you can apply"
-    excerpt: "OpenAI's Red Teaming Network members will be compensated for their time and prior experience with language models is not required."
-    publishedDateTime: 2023-09-20T20:21:00Z
-    webUrl: "https://www.zdnet.com/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
+  - title: "How Big Tech Is Ruining the Dream of AI"
+    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
+    publishedDateTime: 2023-09-19T10:07:00Z
+    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/89860c866bd11df348ef34109da813157dc2641d/2023/09/20/40cb579f-cd49-4533-9548-2ea5d2611629/screenshot-2023-09-20-at-1-49-35-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI Unveils New and Improved AI Image Generator: Dall-E 3"
-    excerpt: "OpenAI plans to integrate it with ChatGPT in the future and offer more protection for artists who say image generators are trained on their work."
-    publishedDateTime: 2023-09-20T19:58:00Z
-    webUrl: "https://www.pcmag.com/news/openai-unveils-new-and-improved-ai-image-generator-dall-e-3"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03vQnIDC3t6NMHaCYuwZ7BW-1.fit_lim.size_1200x630.v1695235597.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters.com"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
-    publishedDateTime: 2023-09-21T07:19:00Z
-    webUrl: "https://www.inferse.com/724477/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters-com/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
+      name: New Republic
+      domain: newrepublic.com
     quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-8971.png"
+      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "See How AI Generates Images from Text"
-    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
-        width: 790
-        height: 497
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "From Diveplane to Howso: The meaning of AI startup’s name change and its open source future"
+    excerpt: "So I would argue that in many regards we’re more open source because we meet those open-source ideals. Raleigh-Durham Startup Week kicks off with AI & unintended consequences, winning government contracts TW: Do you have any thoughts on the work that ..."
+    publishedDateTime: 2023-09-21T18:44:00Z
+    webUrl: "https://wraltechwire.com/2023/09/21/from-diveplane-to-howso-the-meaning-of-ai-startups-name-change-and-its-open-source-future/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 7
 
 secured: "RE9iuyGeyK7g4v1tHZucZL6AkZKSTptD7k3YlPg8iR/afdk4/5i8zYoW0SD9VgkhCMMZFH4GTSVWTKquuixMWc3jMTUmYjLVvgMQJKm5TqzF4q/QCwCDjDR8gih+5uN54VhIGO5NWmt838HQ2eNBG1zmz9Tv0NxqRoWHpKzDOf29s2tRGL8gxL6nm8eHZPQAvefbg7N8JZt45hKlAjKADl22uN5FbmfS1uxupzI6k5YzsMN/3KilLi5hfh5YTDRd3FdIv0hyAD3Oa/XALaI82Kz+Ex2o/CufEej+J/F9dhRSB9TSWWGK8KpVoJCaw0wPJkz9YLElUMk1O/9H8r0kp5u1VLPHpYwylp8qitKiQ9QRo3r4k981iMfb5urIWA0xVJcSe+K6POKnHIquYPiyuPThOcRyn2gqrKxTIJbgZt/tdNkfb4kXnVND3Nz+T0JGR/lMbX3XU1JMVm9MW/+PIPcJz17kVWSgAhL/rDeGvpdG/gSaY7shSvsoWJqYaF4Qge/gLZBnu83n+HlHwtMiYA==;AHZmNxlcn6e9YEbihNVZyQ=="
 ---

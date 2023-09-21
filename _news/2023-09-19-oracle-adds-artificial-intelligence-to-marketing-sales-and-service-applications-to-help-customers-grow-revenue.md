@@ -20,71 +20,61 @@ topics:
   - AI in Sales
 
 related:
-  - title: "China's AI applications are coming — where it matters for monetization"
-    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
-    publishedDateTime: 2023-09-18T03:08:00Z
-    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+  - title: "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents"
+    excerpt: "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ..."
+    publishedDateTime: 2023-09-21T21:30:00Z
+    webUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/"
+    ampWebUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/feat-e1695328683148.png?w=1120"
+        width: 1120
+        height: 688
         isCached: true
-  - title: "Chinese home appliance makers aim for vertical applications through self-developed chips"
-    excerpt: "As the smart home ecosystem continues to expand and the AI application trend rages on, many traditional Chinese home appliance makers like TCL, Hisense, Midea, and Gree are observing the massive business opportunity in the vertical application market."
-    publishedDateTime: 2023-09-18T04:38:00Z
-    webUrl: "https://www.digitimes.com/news/a20230913PD205/china-gree-hisense-home-appliances-midea-group-tcl.html?chid=10"
+  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://img.digitimes.com/newsshow/20230913pd205_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial intelligence is coming for elections, and no one can predict its impact"
-    excerpt: "It’s undeniable that AI will be used to produce disinformation ahead of upcoming elections around the world. What’s unknown is what impact this AI-generated disinformation will have. Among other concerns,"
-    publishedDateTime: 2023-09-20T23:20:00Z
-    webUrl: "https://ijnet.org/en/story/artificial-intelligence-coming-elections-and-no-one-can-predict-its-impact"
+  - title: "5 Ways to Achieve AI-Powered Customer Service"
+    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
+    publishedDateTime: 2023-09-21T09:49:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
     type: article
     provider:
-      name: IJNet
-      domain: ijnet.org
-    quality: 31
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://ijnet.org/sites/default/files/styles/share_2_1/public/story/2023-06/Captura%20de%20Pantalla%202023-06-23%20a%20la%28s%29%2011.28.50.png?h=8841df03&itok=Gc9YIhyg"
-        width: 956
-        height: 478
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
-    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
-    publishedDateTime: 2023-09-18T00:35:00Z
-    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
+  - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
+    excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
+    publishedDateTime: 2023-09-21T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/tether-acquires-stake-northern-data-ai-collaboration"
     type: article
     provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Building autonomous AI Agents and potential applications"
-    excerpt: "The script then uses OpenAI’s natural language processing (NLP) capabilities to create new tasks based on the objective, and Chroma/Weaviate to store and retrieve task results for context. “ Autonomous AI agents are essentially self-governing entities ..."
-    publishedDateTime: 2023-09-17T11:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/building-ai-agents/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "HpDhwYZrUWqeUmeNMv8OOpaLvkqzrN0HKo3leLbHw0NLPPhVwiT6hGE970VJ6BEvmmR/pXnkuo184Ik2jeURpUxV9AaG3UbIFTaPu/kfrwptCVw4/qrSEGPzUepWZKEyTvcpSeQDW0tNinfrjyvybhniPuRKqI41Ph4m+OSrFmbbItRtNaetVf7EHqWmdscQDElprFGIHjiNIkNdcKuSi9NOOqsQboH9tXPszcf+o+aLfN2zWXvyUSRAIx2gu0tXZJ5SgzmnDHhAsCygnPAkqouOlhWUgEufwWEm63SZcIJgdZETztUnVa41WGmjCT40OiwtRswzLPMCuAYvxbaM924Y0Z8COnny9tvZko1oKnc=;etsqAmc9wp+KQl3RZayXEQ=="
 ---

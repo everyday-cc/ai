@@ -52,15 +52,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
-    excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
-    publishedDateTime: 2023-09-19T15:17:00Z
-    webUrl: "https://www.cmswire.com/the-wire/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 30
   - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
     excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
     publishedDateTime: 2023-09-18T00:35:00Z

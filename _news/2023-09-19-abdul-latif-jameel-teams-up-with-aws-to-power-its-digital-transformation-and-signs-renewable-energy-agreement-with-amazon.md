@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
-publishedDateTime: 2023-09-19T10:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
-webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
+excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS, to rapidly develop and introduce new applications across a wide range of industries. Abdul Latif ..."
+publishedDateTime: 2023-09-18T23:08:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable/article_0b7ddfdc-2949-5046-b586-758f120f4342.html"
+webUrl: "https://www.bakersfield.com/ap/news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable/article_0b7ddfdc-2949-5046-b586-758f120f4342.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
@@ -45,6 +45,6 @@ related:
       domain: zawya.com
     quality: 18
 
-secured: "9UekGpDRwKLSC1xjInhxuacXzmIdnn7dxrWcyK6VqthQhODhfel2JEyfAh7UyXo/JbU4TVDgDgtJtCZXwGQxbIEqiG5okXUfoklou0Ne+RJav7dxwLJ/DlrkB91xoDKbbTMRvqsGUCHJfaQk42mjBK64R020QCN5XzFKCeI2yUw/HZp0S1Bs/POdRhmxPJHHwWtXfcwJibN7DsGTMANCEAyY8hgSxkuHJ2wpWVoMQnkFwvnJYNJtZWKcI+UqnXIOPr3KZWaBLOOrE3JD/r6uoA/5AmeGPWHDt12+5ZQZDu2FvzAPMtmT4eD1rSYbrtc5Egrj3z154/345J4f5BKacTWNJxLiOEU1gl2WPuVmWzA=;oRedIH0b5U9HpvinLKwLNw=="
+secured: "iuE7vltIYVGxFbZpmTlMkdLc31WWtMCkCzPyaik4njJsVhRaPZBYnNi7pcLLoycUCs/jbjEJR/gj31OObHYe5yOzd1Jr8vjGs/NbkFQC+uEu/Gmy4qK+RYsVdmol3UnvX68zoQPRmWKJLiAgZjqEiwAXl/ZZbcOvyHJj62zF8mP4mIh8xq2AphDfyRiBWH2NkqH+KKkxdVrYnYXDvWpf0S4T9w/5H/QdGuZViV8dDlb6dsuRs/tgX4vvAg89odqYXV1laA8Ra9ovgmX9/2Jm2sNxxeO1U0z4YPgmmpNDZUCnxRa/S97k8dNC+ykCDe2wnnA9cFf9N0mxegE4ff7RKGW31R7xhkOjLe4S9krePb0=;cjR/2RcUazh74iRZIdmOxA=="
 ---
 

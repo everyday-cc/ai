@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Wisconsin professors discuss changing information landscape in age of AI"
+    excerpt: "Culver said in one personal experience she had with Spotify’s generative AI, it went over an hour without playing a female artist. Generative AIs base their predictions on past information, and the biases held within that information manifest it in an even more tangible way."
+    publishedDateTime: 2023-09-21T17:50:00Z
+    webUrl: "https://badgerherald.com/news/2023/09/21/wisconsin-professors-discuss-changing-information-landscape-in-age-of-ai/"
+    type: article
+    provider:
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 18
 
 secured: "P+VihfHVHIq7IXjiRSzqevMfIP8vtZTHHjoFIn8qseStorwu2KEXEhw7gS+XfEn8YgAo8KL8upjAyPohZcqBBwi4wVvfN58y3e0Zr3+FCNakpkSQ5AH/xP645Qfi8+BfDznfPtEVJK0ty9ZEnZK56yJtfK7VHjlN7oV8+sBWaYYzg+6YOLfwch4gCcOPAnwdtkAVrnx1PmB9HmeS0PMQLrOrGxMTrHctOBJZrNMii8XNDX4sTMFu+ldwWiek0EaVu+gKiTGMDJz0nLNx0yd7ytVBy+KCapdqEJlK0tcuALhbNFJdDnsMIQltYzzcn49AbXAa8AcJVT8NBuP+3SC1hZDrDIt7hngubGRDxhIWxqI=;WCUxJD1nRTmCLHT3J1lYWw=="
 ---

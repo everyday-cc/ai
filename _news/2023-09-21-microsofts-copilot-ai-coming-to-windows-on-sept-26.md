@@ -125,6 +125,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "I went hands-on with Microsoft's new AI features, and these 5 are the most useful"
+    excerpt: "Here are the new Microsoft AI features that will likely make it into my own daily workflows. At Microsoft's annual fall event, the company unveiled major AI products such as Copilot, an updated Windows 11, and Microsoft 365 Chat that are all capable of doing many different tasks, almost too many to keep track of."
+    publishedDateTime: 2023-09-21T21:30:00Z
+    webUrl: "https://www.zdnet.com/article/i-went-hands-on-with-microsofts-new-ai-features-and-these-5-are-the-most-useful/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-went-hands-on-with-microsofts-new-ai-features-and-these-5-are-the-most-useful/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-went-hands-on-with-microsofts-new-ai-features-and-these-5-are-the-most-useful/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f5820358bd64997302a296ff2128c67a2d7a67c8/2023/09/21/c3dfb01e-2377-4383-8008-74127dc9b84f/img-4170.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-18T11:16:00Z
@@ -275,6 +291,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 62
+  - title: "Microsoft's Accelerated AI Adoption Could Drive Strong Growth, Analyst Says"
+    excerpt: "The analyst's latest Azure checks show an apparent uptick in AI-driven activity sequentially, which gives further confidence in Microsoft exceeding its 25%-26% Azure growth guidance in FY1Q."
+    publishedDateTime: 2023-09-21T19:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-accelerated-ai-adoption-could-drive-strong-growth-analyst-says-1032648088"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Microsoft AI Researchers Accidentally Leak 38TB Of Internal Data Through Azure Storage"
     excerpt: "It seems that humans are always the weakest link in security, and this instance of information leakage is no different."
     publishedDateTime: 2023-09-18T17:06:00Z
@@ -419,6 +444,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft unveils its new Surface Laptop, AI powered Copilot, and more"
+    excerpt: "Microsoft unveiled a slew of new products and updates at its Surface event this year. From groundbreaking hardware advancements to sophisticated software improvements, the tech behemoth continues to reshape the landscape of personal and professional computing."
+    publishedDateTime: 2023-09-21T18:37:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/microsoft-unveils-its-new-surface-laptop-ai-powered-copilot-and-more-3424876"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 36
   - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
     excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
     publishedDateTime: 2023-09-20T09:51:00Z
@@ -478,15 +512,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-09-17T01:16:00Z
-    webUrl: "https://www.inferse.com/718980/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "Microsoft and Oracle Partnered to Provide Database Services in Microsoft Azure"
     excerpt: "This joint venture is if these two tech giants combine the capabilities of Oracle Database on OCI with the flexibility, security, and up-to-the-mark services of Microsoft Azure including the AI services like AZure OpenAI. As a result, they will come up ..."
     publishedDateTime: 2023-09-18T07:31:00Z
@@ -515,6 +540,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "1uNGB0QbTf/StfqE4SNlklDfiJTpvCi+5ru+VadPl3DdcI6VF7YlnSjHMK7HOasCE+cwKAsO83IMuQJUsL7EKf8JJDDCJzwBkP7gP3Pw4oXpKwFUXOhcJCIk+djC1qBi9AK5e9f/apWuI8EALw/rSKw+cGhy1cYjReTuoRo1BieXPhhSs9aC/L7IKTeO6yPQEdqNfut6h1u1Kdafx6SOArKJPVdOhRp/tg44Ajca7B/sCJE/ISJt6PO3RJh5jwKb7hEWUyYCud+4psXUZcf8vhcHWqK5lqsxah1pQ1OIw/gMXB24cI6xlJm0xe6Bn3WY7Itt+xhapotrnCNdRb0HHojy4a3iMZOUcbZtCvEf87g=;Dqwg0kPRxZYBg4aGca02nQ=="
+secured: "L3MEqOhqpq+J2nV5oD5wo3hJ+UqZUAeWQydO76/cpOaYDaxRdNlpGbbY7PC5MpdCWKfoL+ler7sfdKsK8g0yqJKEm5J9udeD0/USTstPSBsv0wUuupWLIxOjIKYoQMriReDeMft6Q8wgCxjXTK7ZcE+qcrSghns/UQ+QklthFqOCgGCtOl96CqIscg2d5E/ej0w+gufkRC8HE+AfHoz9fsIC7KyUH1MP8LdCfobybtnB9mBixN8m2HjpAfb4LpT6KESGGI6HaDTJ1S9V3W0k+i3aR2koDECeljAMbIjgsIPhar7ofOZ0gJfZwRSumxf12uRvpU/PUamZJS+YeOHxJ8BjXm4bICYigezbqbfRO+MgTpqwyzYNXPc9uiqeKRBsuhmJ77DhFZjqSW3MSpwKToqrc+TZaFH8szEaIx7lYyIwmat23HmbJSpwDgRHsXoP28qTvnZFwKmrlGaC/ru6NZFCIGLzWDhEXdoPrNTT0wiTkERt1PgwWhtsLGkr8MmKQwwTIYQmfET8SfGrbJdF8g==;BVlfAEWm+lRiQU6q7xZftA=="
 ---
 

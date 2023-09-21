@@ -26,29 +26,100 @@ images:
     isCached: true
 
 related:
-  - title: "Confessions of a Viral AI Writer"
-    excerpt: "One day I sat in on a meeting in which an entrepreneur asked him when AI would start replacing human workers. Altman equivocated at first, then brought up what happened to horses when cars were invented."
-    publishedDateTime: 2023-09-21T10:00:00Z
-    webUrl: "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/"
+  - title: "Why open source is the cradle of artificial intelligence"
+    excerpt: "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again."
+    publishedDateTime: 2023-09-21T20:47:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/64efa222a15ccaa9aa267d87/191:100/w_1280,c_limit/WI100123_FF_AILit_01.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The potential and pitfalls of artificial intelligence"
-    excerpt: "Artificial intelligence can help increase the efficiency in manufacturing, help personalize products, improve quality control and create smart factories by connecting machines and systems with seamless operation and real-time data analysis and optimizing production processes."
-    publishedDateTime: 2023-09-19T12:15:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/24681-the-potential-and-pitfalls-of-artificial-intelligence"
+  - title: "OpenAI And Others Help Educators Navigate AI"
+    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
+    publishedDateTime: 2023-09-17T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
     type: article
     provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Anyscale optimizes open source AI deployments with Endpoints"
+    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "A new global map of the AI future"
+    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
+    publishedDateTime: 2023-09-18T20:00:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "How Big Tech Is Ruining the Dream of AI"
+    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
+    publishedDateTime: 2023-09-19T10:07:00Z
+    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 39
+    images:
+      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "From Diveplane to Howso: The meaning of AI startup’s name change and its open source future"
+    excerpt: "So I would argue that in many regards we’re more open source because we meet those open-source ideals. Raleigh-Durham Startup Week kicks off with AI & unintended consequences, winning government contracts TW: Do you have any thoughts on the work that ..."
+    publishedDateTime: 2023-09-21T18:44:00Z
+    webUrl: "https://wraltechwire.com/2023/09/21/from-diveplane-to-howso-the-meaning-of-ai-startups-name-change-and-its-open-source-future/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 7
 
 secured: "Q5K9VUUntNneb85eyMF7p5fsLMMWVAQUnU2ppniwExfIbBCDy/cyWgBBDx3AmP5a4/xQ8mE3ef+AtmNgVQW/zKfA3zW9Zkgo7koMRMv3jMI2ANy06R6op0uz3sUfSpC4H1Ev0S9bKAIh+pfnZRki2WE8mwmeeCPqNwJv2sNBKYdPBfCXkrCvKyBPLqzSKYZSGWwHjJvd7u4Z+1+8yBOJb+v1rQUaHm/CWRY8pM1d3zTqj+U671+Q7q/6NNVz8J53JgwnUBaG/cQrLdT6iBfyItGA05UMoVN3XUYh3+6ZSmyOMymJ0Uw8eODDnes+DaoRzwhdSXQ5sn4hUPumyIG+yr35Utwzl7niMH+Io//KGcZmAm5QUiKf1Usqjg8m4mqT5M03nM+nAf8+I7v77L+vbsHplD5CPYf3RKkHcm/Ta1k0zj6y+YeX5P06GMDsjFu0d62Lk76UvbRhTkD278cfwaiirGL1GTS82n/18CyrMVerEwJRGYpwdYN8osE4QuACvS+yr+oL/oN/B0Nlkw0T8w==;ECsL3JIGCWI654fnS+EBsA=="
 ---

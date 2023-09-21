@@ -34,24 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "46 ChatGPT alternatives and AI tools for teachers"
-    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
-    publishedDateTime: 2023-09-18T12:04:00Z
-    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "AI used in ChatGPT was built in Iowa"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-19T12:04:00Z
-    webUrl: "https://madison.com/ai-used-in-chatgpt-was-built-in-iowa/article_72b39369-f744-51da-93c4-3df1fab83363.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 19
 
 secured: "mBsi3Ck85H6zZQ6uD56mhYXWSSBsNq6RuNrZYZW7xo0Vta4jh2cDnD6QxSbokWEvTUSx1zxPlEQtLqxkFwinuk/3aLZkzj83iksl6Fjqh5O6dNhsMvteONEyHIdJIeZwqJoYj1rP5CygqgQcR/BF2GpSRzgEgDcIteu+9K7sf/yGpKUgJ/AlX2ZGZO0JCVAss9saVJevSZA+HgM8GC4IDF9WGPg9rQXz7PofBXWnsZCLc+tNKM+LDGprX6MFiPl/QCNoq9g/L8b9pZvswKohcfQfQ7UmymO2zTTMSeVGSOj7/zldv2/3gnOh8UDg6IKx7sg72DOQKtV3SsjRAqsMTqd9HTcrlZSnotqll63F4+81daGo8KsMNWQQd6g5UPJqBLRfAo2XpE9r0Tp0tCoqFqKiq4YaR9cnRxAtxGSBr2COwOvVjFN+V+Pv2uihd4C9I8zQF6ErfLpz55zpv1j15DQKOvxfeB7y6c6VRra1YNr0EooswKpi2QdUWbo9IqMv7dD5fiOz2gBjYOTDjz9piA==;iEA+2UBrZyo5wsmvbBYu+A=="
 ---

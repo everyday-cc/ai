@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-ma
 webUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/"
 type: article
 quality: 67
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube to Introduce Generative AI Feature Dream Screen"
+    excerpt: "YouTube has unveiled a suite of creator-focused products and features, including the generative artificial intelligence tool Dream Screen for Shorts, its short-form videos that compete with TikTok and Instagram Reels."
+    publishedDateTime: 2023-09-21T21:34:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/neutron/images/logos/cnet.png"
+        width: 4001
+        height: 1485
+        isCached: true
   - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
     excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
     publishedDateTime: 2023-09-19T12:00:00Z

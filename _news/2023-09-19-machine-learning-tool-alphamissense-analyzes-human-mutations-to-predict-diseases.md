@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 1524
         isCached: true
+  - title: "AI Tool Pinpoints Genetic Mutations That Cause Disease"
+    excerpt: "Google DeepMind has wielded its revolutionary protein-structure-prediction AI in the hunt for genetic mutations that cause disease. A new tool based on the AlphaFold network can accurately predict which mutations in proteins are likely to cause health conditions — a challenge that limits the use of genomics in healthcare."
+    publishedDateTime: 2023-09-21T20:58:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-tool-pinpoints-genetic-mutations-that-cause-disease/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/369152DA-8A6D-4990-B051821507732C5E.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "uSzYPCwc28t76nQIgmcF7pkY6YM2ETy6J5NKY2fL6snn+oK8GuIGtql3xzKVw74wXmSw8LN9l+6mSmhyl/jaNNvuBVO74LAIEzFAotxb4lGz+bOo85zCd2rj1FWMlCzGvRyKLpzppd+PdELOIUEgKEr5xiUyelepXOx3eX0I+rI+dDfrn/R0O2YofuYtoZ6R1137bBli47qZxqGDsr5D2TsyKuJ1JhFnsxEEDn0ecDxQIdJoHE6HeWXp0Z91hC4ywo7pA8rU+rIJLzs8g50lOgPojLt/7dca658wTwEos3H5rvmIl+pAJxR/aIOCI2YV9kyxhnjFbdR6QTVCA+kFpwMrQHMthVlYmj/wVc9hNys=;aSEWaR6flSs+K1xuwQENKw=="
 ---

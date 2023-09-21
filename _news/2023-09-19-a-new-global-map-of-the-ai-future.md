@@ -25,79 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "Why open source is the cradle of artificial intelligence"
+    excerpt: "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again."
+    publishedDateTime: 2023-09-21T20:47:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "5 Ways To Incorporate AI Into Your Career Plans"
-    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
-    publishedDateTime: 2023-09-19T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Congress Navigating The Future Of AI In Healthcare"
-    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
-    publishedDateTime: 2023-09-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+  - title: "The tricky ethics of AI in the lab"
+    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
+    publishedDateTime: 2023-09-18T05:14:00Z
+    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 56
+    images:
+      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
+        width: 700
+        height: 350
+        isCached: true
+  - title: "OpenAI And Others Help Educators Navigate AI"
+    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
+    publishedDateTime: 2023-09-17T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+    quality: 49
+  - title: "Anyscale optimizes open source AI deployments with Endpoints"
+    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "5 AI Trends in Voice of the Customer Practices"
+    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
+    publishedDateTime: 2023-09-18T10:00:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "How Big Tech Is Ruining the Dream of AI"
+    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
+    publishedDateTime: 2023-09-19T10:07:00Z
+    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 39
+    images:
+      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+    quality: 38
+  - title: "From Diveplane to Howso: The meaning of AI startup’s name change and its open source future"
+    excerpt: "So I would argue that in many regards we’re more open source because we meet those open-source ideals. Raleigh-Durham Startup Week kicks off with AI & unintended consequences, winning government contracts TW: Do you have any thoughts on the work that ..."
+    publishedDateTime: 2023-09-21T18:44:00Z
+    webUrl: "https://wraltechwire.com/2023/09/21/from-diveplane-to-howso-the-meaning-of-ai-startups-name-change-and-its-open-source-future/"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
-  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
-    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
-    publishedDateTime: 2023-09-21T09:38:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 7
 
 secured: "/164+9CCiU2TgtDxYOJtONdufMs7sflJ6tlSd8R2AHG9IGAtI/ZdS2N0gDCEYxNvxQtcv/u6g5w+6tuaPwAE++gL6sL73Oz6DG44r1VWhtaZrYpwD24JPLB7Sm8MeKJ2PiOHMD8Q+lKEoIymVSr+/wOLx6qGFKwl2BQyHqxXtSMk7+Js/N93lx9xie0jqznrAUK4mQ/Q79AW3jk7iwxzCMNx9vpRHJ3ywRzUHKkr9Pv4qiO3dotcAQ3d3NbiOVh3TTfSFIWbRaKnNFjBS9jrImThD3QOZRirTAdbGfJ2aZBk91urlPVfrUuvg2A2sm+ZfxeVILHviuU1Nu/5J/JaZ4MkCBZlWAT6hrLgbxMKTkI=;w44trkkoYQs/uBSXXqNYFg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "AI wrote this editorial. It offers persuasive arguments for why that’s a bad idea."
+    excerpt: "With artificial intelligence creating such controversy in journalism these days, the Post-Dispatch Editorial Board was curious how Microsoft’s Bing Chat AI program would handle the command."
+    publishedDateTime: 2023-09-21T18:10:00Z
+    webUrl: "https://www.grandforksherald.com/opinion/editorials/ai-wrote-this-editorial-it-offers-persuasive-arguments-for-why-thats-a-bad-idea"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 13
+
 secured: "ni51W5zpeov0urAHcyxFJXYA2MRTbZ/+Qjbn0nwI/nQIi4lPIDt1a48Ri0HgOxYqkWH4WbCumwsDZygkicI+vPGSiCykjuznquInAk8ezWK08RTlbO2AHwei5yVGr8J4NbgB+eufx15ny/MlnsJVHDk0vVs8ZhkSbQL4zJ9SpYNBIMm/Al5PDrVyIPD4ZmNivgmlwis4rnQAzmwAKRwoEJ5RmZTJaLZ4mjq0QcZBSdBI6hnnRE+cWpB3gErt6IOtyZM2uCFzYOLPzMQl2B/KrvIpfs+kRqalPzX+CqxXv1S+RF9eDfMp73uX3JVxLUkM7SaQdkBcyDEH+hNMt2/FZJKi3tsggK59Zf12Xd7Ce4E=;d1Ace6+ZL5NRb3fhhcaqnQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-t
 webUrl: "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
-    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
-    publishedDateTime: 2023-09-20T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Intel CEO says the chip maker's technology is central to AI boom"
     excerpt: "Intel Corp. Chief Executive Officer Pat Gelsinger, plotting a comeback for the once-dominant chipmaker, made the case that the company's technology will be vital to an industrywide boom in artificial intelligence computing."
     publishedDateTime: 2023-09-20T17:19:00Z

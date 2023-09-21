@@ -103,6 +103,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "Google reaffirms Broadcom chip partnership after report claims it may end TPU AI chip deal"
+    excerpt: "Google and Broadcom jointly develop the former company’s TPU, or Tensor Processing Unit, chip series. TPUs are specialized processors optimized to run artificial intelligence models. They can be used both to train AI models and to perform inference ..."
+    publishedDateTime: 2023-09-21T19:46:00Z
+    webUrl: "https://siliconangle.com/2023/09/21/google-reaffirms-broadcom-chip-partnership-report-claims-may-end-tpu-deal/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Google-1.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Broadcom Takes a Hit on Potential Loss of Google as a Key AI Customer"
     excerpt: "Broadcom Inc. (AVGO) shares are lower in premarket activity here on Thursday following a Bloomberg report that said executives of Alphabet's (GOOGL) Google are considering dropping the company as an AI chips supplier as early as 2027."
     publishedDateTime: 2023-09-21T11:31:00Z
@@ -126,7 +140,16 @@ related:
       name: The Peninsula
       domain: thepeninsulaqatar.com
     quality: 34
+  - title: "Broadcom recovers as Google denies report it may end AI chip partnership"
+    excerpt: "Alphabet-owned Google (NASDAQ: GOOGL) denied an earlier report from TheInformation.com that it is considering ending its reliance on Broadcom (NASDAQ: AVGO) as a supplier of high-end chips."
+    publishedDateTime: 2023-09-21T18:34:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/broadcom-stock-falls-5-on-report-google-may-end-partnership-432SI-3179245"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 33
 
-secured: "qUo+XUkB3suA60GnDjmAXVRLvlz/ryu0xzNPWPYjpxkrdomcjQ30geXDiBhRL9F/sLvFMJ3HeZ2EoWj1cDT2/BZ6j3isqI9Jj+1SERgkA4h0uddL943ezVl/FGu7CV5wFzzLMQKJGvXm4SpplsHhrO9ZWy4LY0EzQrqn1MVIcHNb/qOMfHDWUPwSLcPjgzqgMoRrQPSLApPU361ypdvVAMaZhKwVyi0Zt/eNgugKjnsVxOubc1+3zyTVkmElTHzHrGhpLivVpExv8VKNWPygry2UR5gNSaNXF77vJSXqs8DWA227Jklcnru/5TjD3F8vbum4T8czMrSjJGGIg0H2PpK3TyEVvkgWOMJDsp5pFOY=;KTy2BqJobxWb72JJBUqwGQ=="
+secured: "xTsj1v6VL2hOKJfx9FvZWu85g2vpDeawixunvE6mhzG2AnBbIuV7Zq8Klm4/3Td78l2jo/BUJgTJ1+k4XXFEmO28i1+TZKmoxO7AmAbls6DyxgVlFYAYTkXv0zsmGFfFIkbJxWGJ94UM7BGSp9nLGSnT1D57Rcb3j2MakbFLlYPWRtE4HznAaR4JzWbS+U+ty5dKato42Kl0pBx2MkXEgxs+PJgNXjeQ7oFuCmCUWOP7WGa/mdyE0f7ZrUUbaHvwNxxDtd580XUnq4tonekIh+YGKn9f+/sEmdVG3kH1RKGFrGGs+uUQMdD8ueGOajACmGat97+7g6v+p+NyAZcvMr+C/lKwrYbSdx9kevKd0uaGwGfZ+mnMUMMMqf+xsBjMff6Aj1K1rMIB/uNMLKozTFr7POieEjEv94kCKeU93CNzldak2bwCvw3Wqckqojo6E30rrE04VDAc0MaIj+EuOzKI66xnyxrjRTwnYLKuyJwdy2ug4z7F5QJ1IYnze0nM4afbXBgO+4FTboXMNO9sdQ==;vGmK1wXiKEiJFNLyrMHinw=="
 ---
 

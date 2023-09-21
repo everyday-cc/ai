@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2023/09/exploring-the-future-of-ai-with
 webUrl: "https://www.govconwire.com/2023/09/exploring-the-future-of-ai-with-splunks-bill-rowan/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco to buy Splunk in $28B bid to secure enterprises in AI era"
+    excerpt: "Also: The ethics of generative AI: How we can harness this powerful technology To help companies do this, he pitched the need for Cisco Security Cloud, which offers visibility into various forms of security data, including network data, identifies ..."
+    publishedDateTime: 2023-09-21T20:43:00Z
+    webUrl: "https://www.zdnet.com/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/af69a2fe3e020d89f854584e008659cc11bb768b/2023/09/21/3767bdf3-4701-472e-b096-a7390597c741/gettyimages-1601469810.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Splunk soars on Cisco takeover in $28 billion AI cloud security deal"
     excerpt: "Cisco said it would pay $157 in cash for Ai-powered cloud data monitoring group Splunk in a deal that values the San Francisco-based tech group at around $28 billion."
     publishedDateTime: 2023-09-21T13:39:00Z
