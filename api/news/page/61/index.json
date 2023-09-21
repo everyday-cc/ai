@@ -2,6 +2,100 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-08-09-clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence.md",
+      "title": "Clarivate Launches Enhanced Search Powered by Generative Artificial Intelligence",
+      "excerpt": "Latest iteration of patent pending platform enables life sciences and pharmaceutical companies to access insights from billions of proprietary data points LONDON, /CNW/ -- Clarivate Plc (NYSE:CLVT), a",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33654108/clarivate-launches-enhanced-search-powered-by-generative-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33654108",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33654108",
+      "publishedDateTime": "2023-08-09T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-somerset-surgeon-takes-on-deca-ironman-trial-to-fund-ai-cancer-software.md",
+      "title": "Somerset surgeon takes on Deca-Ironman trial to fund AI cancer software",
+      "excerpt": "Mr Gillett, who is a head-and-neck surgeon at the Royal United Hospitals (RUH) in Bath hopes to raise £10,000. He is fundraising in conjunction with RUH's trust charity RUHX to buy computer radiotherapy AI software for the new RUH Dyson cancer centre.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-somerset-66441399",
+      "originalUrl": "https://www.bbc.com/news/uk-england-somerset-66441399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17CEF/production/_130691579_whatsappimage2023-08-08at14.34.08.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-somerset-66441399.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-somerset-66441399.amp",
+      "publishedDateTime": "2023-08-08T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-nvidias-ai-dominance-will-be-the-death-knell-for-its-geforce-graphics-cards.md",
       "title": "Nvidia's AI dominance will be the death knell for its GeForce graphics cards",
       "excerpt": "If there's one thing that we can say about this generation of Nvidia graphics cards, it's that they haven't all been well-received. And while there are several that easily slot into our best ...",
@@ -1103,101 +1197,6 @@
         "name": "AppleInsider",
         "domain": "appleinsider.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available.md",
-      "title": "NVIDIA H100 Tensor Core GPU Used on New Microsoft Azure Virtual Machine Series Now Generally Available",
-      "excerpt": "Microsoft Azure users can now turn to the latest NVIDIA accelerated computing technology to train and deploy their generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/",
-      "originalUrl": "https://www.datanami.com/this-just-in/nvidia-h100-tensor-core-gpu-used-on-new-microsoft-azure-virtual-machine-series-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/08/Microsoft-plus-Nvidia-logo-stacked-300x204.png",
-          "width": 300,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities.md",
-      "title": "Even the Pope is worried about AI and its “disruptive possibilities”",
-      "excerpt": "On Tuesday, Pope Francis issued a communiqué announcing the theme for World Day of Peace 2024 as “Artificial Intelligence and Peace,” emphasizing the potential impact of AI on human life and calling for responsible use,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/pope_francis_hero_5-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/even-the-pope-is-worried-about-ai-and-its-disruptive-possibilities/amp/",
-      "publishedDateTime": "2023-08-08T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

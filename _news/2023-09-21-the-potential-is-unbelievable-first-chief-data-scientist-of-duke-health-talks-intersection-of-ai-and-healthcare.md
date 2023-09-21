@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-21T02:48:00Z
 originalUrl: "https://www.dukechronicle.com/article/2023/09/duke-university-chief-data-scientist-medical-school-health-artificial-intelligence-equitable"
 webUrl: "https://www.dukechronicle.com/article/2023/09/duke-university-chief-data-scientist-medical-school-health-artificial-intelligence-equitable"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://snworksceo.imgix.net/dtc/2609b0ea-25f2-49b9-a9a1-16ccfe246c74.sized-1000x1000.png?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
@@ -24,6 +25,6 @@ images:
     height: 750
     isCached: true
 
-secured: "i03cOEZJNOyWGZrjPbshD4pYb3PHiem1zYCx1QVdqVf15/RPJ9lai5MNJHJf4q/N5IFD3zsok4LdCK5RYRVGRVeugJxdxhUYvPRXwuitUx7nZUYNp4bbVFoQEox0La/TlIPhZqB8fdi6m/5VVWoQw+MzIRnLl6mY7tEIILpbiA06jK91mVE76z/1qPAImTR1DI5zRQBybqOz/Bjv3ETrOBSdmrw2CfksCApJjCL6NBsbWwWz9ZsfIJ10W7KCtDBI/hPnvJcVTGzzpubf/3OvAAq3dr5XBxm9hrt/HhVdvTP6juaXJoU0b4MDz6eS0IqN/hsvbxIolfFx4s48R2ovl3bZ3pVFyyF6EnrX0n+p+HQ=;v2lu+lDwi6DquzXrPFgJpQ=="
+secured: "Ip5sPJdCY/u6p60exUceBYAwEHlEKcrx+nChT5XYKoGnln2bHcR4OVRYWWVg1JatyHLiY6/mqZNK+2169kC0Pxi453TFCAIhhOf3D5XGOWJ5rjbuq62gT+JEhF9pGlYtJRA1vDp9PYBq2OXq4K7+kHXAn6MAMU2vdqygrR3u2xyGKPUFmkZjj5HJzAaBWxfxFXAohaPFVspAcz5yA5VMrXcy9wSfnY6k5eett7OqFsBzmCqcIq1x+x2MFtntcdK/xMfnFj0BrKpTCb3rChGsXaT0IF8GmiNIlKhPQqypq+/aX5q+iXAQAYdDUtExYwOhTLMBZGMl7CXYWNkMvKrv3MCa4xz918hLCAP2LuxnF4VGHPU/DcW/8A4JHoTg2BOdq81mvQzZUkOlsbfVXj3Z514NmgKHIkz95gc6cCeunr7qoNF2/4ZTsetJVsW2j81TIZl1feaPWZlQHeUA/dMm3XJ828yIYVK1Vtdvk9sj3D+5esyLdTllY0Spc+he2TJVWDsRiR8mtS0t6/4Fk8hXvw==;ls/9iuBXh4GlGVONLG501A=="
 ---
 

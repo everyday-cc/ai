@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-09-13-e-core-launches-orbit-ai-to-boost-business-efficiency-using-artificial-intelligence.md",
+      "title": "e-Core launches Orbit AI to boost business efficiency using artificial intelligence",
+      "excerpt": "Orbit AI consists of two core verticals: Catalyst, an initiative designed to enhance the productivity of digital services and expedite project delivery times by empowering e-Core's team with AI Agents, and Impact, which focuses on delivering projects involving Machine Learning, Data & Analytics, and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/09/12/9879667.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/09/12/9879667.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-siri-and-apples-ai-moves.md",
+      "title": "Siri and Apple’s AI Moves",
+      "excerpt": "We’re midway through Apple’s new Watch Series 9 introduction and we’ve heard how Siri has gotten better. The assistant now processes info right on the device and you can ask it about your health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
+      "originalUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-850656/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-with-github-for-data-gableai-wants-to-connect-software-engineers-and-ml-developers.md",
       "title": "With ‘GitHub for data,’ Gable.ai wants to connect software engineers and ML developers",
       "excerpt": "Seattle's Gable.ai launched out of stealth today, with $7 million in seed funding, to build the 'GitHub for data.'",
@@ -1121,94 +1207,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
-      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
-      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
-      "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
-      "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff362502f97585562b0c97/0x0.jpg?format=jpg&crop=985,554,x18,y0,safe&width=1200",
-          "width": 985,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
-      "publishedDateTime": "2023-09-12T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
       ]
     }
   ],

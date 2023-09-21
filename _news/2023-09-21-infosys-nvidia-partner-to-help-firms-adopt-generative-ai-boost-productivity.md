@@ -155,20 +155,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Infosys and NVIDIA Collaborate to Help World’s Enterprises Boost Productivity with Generative AI"
-    excerpt: "The broadened alliance will bring the NVIDIA AI Enterprise ecosystem of models, tools, runtimes and GPU systems to Infosys Topaz– an AI-first set of services, solutions and platforms that accelerate business value using generative AI technologies."
-    publishedDateTime: 2023-09-21T01:01:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3386305"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 26
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/cover-1200x628_0-768x402.jpg"
-        width: 768
-        height: 402
-        isCached: true
   - title: "Amazon's new Echo devices bring generative AI and new smart home features"
     excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
     publishedDateTime: 2023-09-20T18:18:00Z
@@ -178,6 +164,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 16
+  - title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
+    excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
+    publishedDateTime: 2023-09-21T01:05:00Z
+    webUrl: "https://www.newswit.com/en/ifolz1xjtwojai5s7l0y697iymeoz6pt"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 6
   - title: "Artificial Intelligence, Real Productivity: Exploring Five Ways In Which AI Maximizes Productivity In The Cannabis Workplace"
     excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
     publishedDateTime: 2023-09-20T17:32:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI integration: Transforming the sector and empowering savers"
+    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
+    publishedDateTime: 2023-09-21T04:30:00Z
+    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
+        width: 5115
+        height: 2880
+        isCached: true
   - title: "Beauty-AI Company, Myavana, Unveils First-of-its-kind Web3 Metaverse Experience In Time With National Coding Week"
     excerpt: "With the goal of re-educating on textured hair care and inspiring underrepresented groups to consider technology as a career path, the hair AI"
     publishedDateTime: 2023-09-18T12:24:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Infosys and NVIDIA Collaborate to Help World’s Enterprises Boost Productivity with Generative AI"
-excerpt: "The broadened alliance will bring the NVIDIA AI Enterprise ecosystem of models, tools, runtimes and GPU systems to Infosys Topaz– an AI-first set of services, solutions and platforms that accelerate business value using generative AI technologies."
-publishedDateTime: 2023-09-21T01:01:00Z
-originalUrl: "https://www.thaipr.net/en/it_en/3386305"
-webUrl: "https://www.thaipr.net/en/it_en/3386305"
+title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
+excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
+publishedDateTime: 2023-09-21T01:05:00Z
+originalUrl: "https://www.newswit.com/en/ifolz1xjtwojai5s7l0y697iymeoz6pt"
+webUrl: "https://www.newswit.com/en/ifolz1xjtwojai5s7l0y697iymeoz6pt"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: academy
+  domain: newswit.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2023/09/cover-1200x628_0-768x402.jpg"
-    width: 768
-    height: 402
-    isCached: true
 
 related:
   - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
@@ -189,6 +183,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "cYbwS4nN0pWwze6tf8IyXmQJzordyIi2zhVu6ZwprxzZL1prJvvhg3q96V1GwLvKU33iZ0K2noIlaIyeav9+3a5AuPESvAevLTdwirSV04/6JwA4BI8E6uu6ftZg0p36NOjE+7MRP90ko5P9NAXkYBY4x5ZEpvn1I2FdMqJaa5jwecD6ruQQjzpjmYeFY05beIIL7IPWDl9d1Php7ciArINHpyTstW1cu6x50f8xn3uuVUjkx8SxxqsX8d2et40LITOf0bzx9nQ8h3E7wBq+U4Wc6FTFchYDPUbvv6TgHodUbVET2Dzp8Tv2Jab7DJMNZXnC0SSrpvhd5azPD1e59geNKR7RlnONMTf7Ti02Hm4=;zht80neaQdLPAJEJL5ME3g=="
+secured: "psqgIZdnof+jPR6Q4hsNIFi/I/B6NXYoWNq2thumkXU0O00HBpFmRY5I/OVRu5cevCJetH02WhdRGH6ShTN3k4WoUV139/OFEyyFvmhVB0gjFvqohPDDnRpeh6gsxoeZMHks6YcLsC5U4+TAJ9uv2QD9mMqwEkqI/Epgl1b/WtvnCNdrcvTY72h2cBZTe8BYF6BXILZEENPmVTXdhhDj0KxMNjRpdZ1o6lIVcHSJSoyr5z8JZYdLWWDOTlA0nh4q3F1gmzEvPQ1HEhTsdE8RqSwQ0IltzOgnb8NK2GI+Ba09E2Y6PIl1i2jbkxeY6AGKL5DVAIqlSRrAm2EPZ+H30M1ChpjyjgNo6aqkjP1h0Eo=;JgvhHZeMAott4tSBkC++KA=="
 ---
 

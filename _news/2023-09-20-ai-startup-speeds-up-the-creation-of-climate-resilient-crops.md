@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

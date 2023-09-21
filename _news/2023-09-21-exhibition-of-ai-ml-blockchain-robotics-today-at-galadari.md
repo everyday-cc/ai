@@ -3,8 +3,8 @@ category: news
 title: "Exhibition of AI, ML, blockchain, robotics today at Galadari"
 excerpt: "The Global CEO Forum will today present a unique event—an exhibition showcasing the latest in AI, ML, blockchain, IoT for agriculture, industry 4.0 applications, robotics, and network management, all developed by Sri Lankan universities and start-ups from 1:00 a."
 publishedDateTime: 2023-09-20T21:25:00Z
-originalUrl: "https://www.ft.lk/news/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/56-753223"
-webUrl: "https://www.ft.lk/news/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/56-753223"
+originalUrl: "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/34-753223"
+webUrl: "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/34-753223"
 type: article
 quality: 86
 heat: 86
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "myBPeRucVWf01vPXqVlQuCPs9mgCnCnFRlPGPk/znFzAGhxeKlFgxCesLtEgKBKpT/KEdvLP70TNNKEoLTxeIgN2PVTpg9if+kLKmprWyHol6iZVcLGddK8s014gpFiC1leAAEbJJ8VQGCsTuoJuDkFstVXxLnhtGXA0c0v0GOt/txoW9JUsSp9oF6w4KzB6ttQzS0ZOysm3wamKwPq/ZDpat+bzC2G35/SsuvL3a3wTPVaBSb3mtAEBOmEy3vV9lE2GY1pkF3wFwJcF8vdUWjL0p7GqklU6NjL0Ar0lpmofqftSbvMDSAUelJCMhC7KH2veTawWXjo/4eqEU2IcqR0dD1jJmNuc3HkyWt+bSdU=;DYw5HFEq2vrV89BI/pvT8A=="
+secured: "oxCfVMscLfFxizmGYLJ4jBI2ylPUI+ZyytoD0e3epTXcVVp8q9D9/A6AUZGgDx3JmkutdmiATIJaSSIZAElgWp1OFsKM9N4MClXlaIyZGihzx93Go43MRZngTLn2Id6waYCMNWVO33lSyuiX1hH0hSlmiGCBwxPOy3+fAH4MhqxYvNRPPqfCa36xL+VqJWS7ugJQhUBqcr/9luNAxmq7X4N7tg6a6USZSRfpnzkq44hLLUAJfuFXQVxwZ2Uiv6oyHWAIeChlti81LZ8NIatflDSO2oSWMBHskuxYO0Tl8hKlcDrHsR0tT77fTn9q4L9DO/ershmtWntN/qJdf3pHcXsoLG3BQmQey6mA7+y/0YU=;s+mpHg4JOLt7xW/8XPJYKg=="
 ---
 

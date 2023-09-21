@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace"
+    excerpt: "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies."
+    publishedDateTime: 2023-09-21T05:42:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 653
+        isCached: true
   - title: "Congress Navigating The Future Of AI In Healthcare"
     excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
     publishedDateTime: 2023-09-20T12:00:00Z

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace"
+    excerpt: "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies."
+    publishedDateTime: 2023-09-21T05:42:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 653
+        isCached: true
   - title: "Health care and AI can be effective partners"
     excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
     publishedDateTime: 2023-09-17T12:59:00Z

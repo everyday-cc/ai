@@ -154,20 +154,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Infosys and NVIDIA Collaborate to Help World’s Enterprises Boost Productivity with Generative AI"
-    excerpt: "The broadened alliance will bring the NVIDIA AI Enterprise ecosystem of models, tools, runtimes and GPU systems to Infosys Topaz– an AI-first set of services, solutions and platforms that accelerate business value using generative AI technologies."
-    publishedDateTime: 2023-09-21T01:01:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3386305"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 26
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/cover-1200x628_0-768x402.jpg"
-        width: 768
-        height: 402
-        isCached: true
   - title: "Amazon's new Echo devices bring generative AI and new smart home features"
     excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
     publishedDateTime: 2023-09-20T18:18:00Z
@@ -186,6 +172,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 16
+  - title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
+    excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
+    publishedDateTime: 2023-09-21T01:05:00Z
+    webUrl: "https://www.newswit.com/en/ifolz1xjtwojai5s7l0y697iymeoz6pt"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 6
 
 secured: "G+1+BpY//HRlg2ZnoA18gPUy7bqw7KVBw010w2cyrfBPamBZm9yndw/oeQFN73EHi7/dmUywBIESU1+HWOUTFcf7XxGQTNmx++XvfiDk4XiTZ41/MKZyyxIGPOF0eTYlnuyxAAykoJ1Z32+sy9vYzuy8rPYhViVScCRapRL8GC3qCCONhtJCCqXPFZI85WYEd/gitkPfRWJF2rS9DMhRmli9hhhE0nfCek6H++8h7H+bR/ODEtiiRQhgq957GTJ2BFLGloy2xVDUD1w9Ow3OM0FE+0Zza9PFcZ4jMsVytB4APn3MRGiUC+bn5hjrarss52R4uip7+nSJYqD14Vis2rUv1rCFGDvlq1ivF1gC1MSk+S42nXcVaICfJ92LNBAWSZH6DBmuDBypcJztgGahH72m1i9dLRd+dGqP3RWaUh+tMoTrx9iI9xGzwqLxNrrYYLo+zHWP5HvxM4PUrVOO+nE2NSp4KGPz6Yk61GwDsgGXXKqhBG2sBAGZwfq/OsLySLtMOUGGmU6pn1FbQ/ymYA==;omObJqe9M9BeXlr8to8diA=="
 ---

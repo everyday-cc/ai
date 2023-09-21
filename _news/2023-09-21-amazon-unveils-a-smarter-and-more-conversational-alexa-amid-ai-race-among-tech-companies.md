@@ -2,11 +2,11 @@
 category: news
 title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
 excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
-publishedDateTime: 2023-09-20T18:06:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
-webUrl: "https://abcnews.go.com/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+publishedDateTime: 2023-09-20T18:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351372"
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351372"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351372"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351372"
 type: article
 quality: 47
 heat: -1
@@ -108,6 +108,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "xF1HakEzNrr/HYkanEo/iu19nVe1G9Mr5HjUdv0SUL/XGNnxDHuPna6PfVnFSprr1G6gOmKkLacBn6W2LSwRq4CzgE6HX8cn9G6R23gBMMj3uWauoisTuJFB2sDmojgNgx866r8AczoBCOBftxpOxW5RnYzhtDVzHzVQnMMIEUC6j5CAjko0w2jqYeMy/rlrB6tMC/s31muoodJeqco8y69rQh3C4t4LYnE4Ex4Qn8WQ9RaHLJXn/VBwq4c2VNxPTkW7bZDdLTmzq8G5mp0dKSjPCRJelc96J8NscHKg33mpgoFDZ/+G5tchP5Q64qSv9syvERPn8PvFLhE1WXhIx9GaGCnwXl7TLPnhbjcXaHU=;em/qk3EG/h3j0S1pIvzSow=="
+secured: "yuXAcZWIErk1Y1Bmk7Hp0VmYRhrtBmrNEsVKKb1OA/iuWV8z4V7dAfxf1AXCGByxqpnM2gS3iwdbruFAFpoXvWJpYhWEbcklq5qgjsl5Xj53TVBZ+Fj/2U/xMQ5ZAr1pMW2WbSxst7Idax3Xq0kOSCN45GhgA7ZtFjZhCjk0GbJwVd0ab0ZXAemRslYUmdhyiMZMutcmOzZIcJvXbi6MPVLQj8s1CyvWb/ZS7+6iGdCyvneC3Z7UicFdifedsOzKr2LdZlZ9eHcHsKfrbV8lJxxgNrrCuHzCboezNveVapzKGZqW4aLroGaUWTH6yZJRUPqyKF2x6dTqMrbbAmYgsim56l/8qMGHrvTlHDptPJA=;DksoDR0sO/oxbyVzPBwYfw=="
 ---
 

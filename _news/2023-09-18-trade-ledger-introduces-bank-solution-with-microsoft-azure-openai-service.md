@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introdu
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
 type: article
 quality: 105
-heat: 415
+heat: 425
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_TradeLedger.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Microsoft and Adobe partner to deliver cost savings and business benefits"
+    excerpt: "The Total Economic Impact™ Of Adobe SaaS Solutions with Microsoft Cloud report provides a deep analysis of the key challenges organizations look to address when deploying Adobe SaaS solutions on Microsoft Cloud. Read the full study to understand why.\nThe post Microsoft and Adobe partner to deliver cost"
+    publishedDateTime: 2023-09-20T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-adobe-partner-to-deliver-cost-savings-and-business-benefits/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Adobe-SaaS-Solutions-with-Microsoft-Cloud-TEI-1024x417.jpg"
+        width: 1024
+        height: 417
         isCached: true
   - title: "Microsoft AI Employee Accidentally Leaks 38TB of Data"
     excerpt: "A software repository on GitHub dedicated to supplying open-source code and AI models for image recognition was left open to manipulation by bad actors thanks to an insecure URL."

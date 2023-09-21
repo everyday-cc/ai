@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-15-why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai.md",
+      "title": "Why B2C Brands Should Leverage Predictive AI Alongside Generative AI",
+      "excerpt": "But generative AI is suitable for only a select number of B2C business use cases, such as summarizing and extracting information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65038164df7c18f7edfdab53/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/",
+      "publishedDateTime": "2023-09-15T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-the-raw-materials-for-creating-ai.md",
+      "title": "The raw materials for creating AI",
+      "excerpt": "Explore the resources and materials that are needed to create AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9",
+      "originalUrl": "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c7a0d5048ff200190de9d2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-create-ai-materials-resources-guide-2023-9?amp",
+      "publishedDateTime": "2023-09-15T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-5-handy-ai-tools-for-school-that-students-teachers-and-parents-can-use-too.md",
       "title": "5 handy AI tools for school that students, teachers, and parents can use, too",
       "excerpt": "A common misconception is that generative AI can harm education by promoting cheating. However, when used properly, these tools have the potential to help students learn more efficiently. They can also help parents and teachers help students with projects, homework, and studying.",
@@ -1100,110 +1202,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-extending-chatgpt-can-ai-chatbot-plugins-really-change-the-game.md",
-      "title": "Extending ChatGPT: Can AI chatbot plugins really change the game?",
-      "excerpt": "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
-      "originalUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
-      "publishedDateTime": "2023-09-14T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-the-ethics-of-generative-ai-how-we-can-harness-this-powerful-technology.md",
-      "title": "The ethics of generative AI: How we can harness this powerful technology",
-      "excerpt": "With the great power of generative AI comes great responsibility. Here's how researchers are addressing the ethical concerns and challenges -- the biggest questions of our time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
-      "originalUrl": "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/129698eae42671ce2b20b92978a585c39b18409c/2023/07/07/1c2e05f9-713c-4a92-87be-489899091f19/gettyimages-1206756458.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
-      "publishedDateTime": "2023-09-14T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

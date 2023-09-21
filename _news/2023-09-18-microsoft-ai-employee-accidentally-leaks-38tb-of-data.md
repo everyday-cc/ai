@@ -75,6 +75,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft and Adobe partner to deliver cost savings and business benefits"
+    excerpt: "The Total Economic Impact™ Of Adobe SaaS Solutions with Microsoft Cloud report provides a deep analysis of the key challenges organizations look to address when deploying Adobe SaaS solutions on Microsoft Cloud. Read the full study to understand why.\nThe post Microsoft and Adobe partner to deliver cost"
+    publishedDateTime: 2023-09-20T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-adobe-partner-to-deliver-cost-savings-and-business-benefits/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Adobe-SaaS-Solutions-with-Microsoft-Cloud-TEI-1024x417.jpg"
+        width: 1024
+        height: 417
+        isCached: true
   - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
     excerpt: "Moerdler’s research suggests that Microsoft has taken a significant lead in the development of Generative AI offerings, platform software, and design architectures. These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand."
     publishedDateTime: 2023-09-20T07:29:00Z

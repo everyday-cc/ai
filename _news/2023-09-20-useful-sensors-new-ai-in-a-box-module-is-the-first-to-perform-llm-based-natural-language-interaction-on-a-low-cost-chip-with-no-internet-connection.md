@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-In-A-Box module performs LLM-based natural language interaction with no internet connection"
-    excerpt: "Useful Sensors, an AI-focused start-up, has unveiled what it claims is the world’s first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronics devices locally and privately,"
-    publishedDateTime: 2023-09-20T09:08:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/ai-in-a-box-module-performs-llm-based-natural-language-interaction-with-no-internet-connection"
+  - title: "How we interact with information: The new era of search"
+    excerpt: "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-09-19T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 27
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
     images:
-      - url: "https://www.newelectronics.co.uk/media/l2uovxyb/digital_eye_no_words.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png"
+        width: 720
+        height: 401
         isCached: true
 
 secured: "OZtxhzE80cbJQStpWvWicX1KHjTqoVambR6DdWaBNHLz+XHa9iRihGyS2MHat4Uxb7brjtCHZu+nl2yOK8TAtVUXmKpOtkp06eGQT9JVhnx838RM5NLKC9wQzwFG8SPnwp6eEo5uV4HaTgnI9kyLWvkv7VqYVz8mRQstxDxzL242iaOSI4L1qqta9BGF73t3XiTA50kLus/QTsh03+sEXUZt6Xznd82btV95t4wEpIimJu7Gt3ZpfJOxeSL/mHwbYWIhCtuSJ+6THJEQJUftOwayIr3Jy0kWZOJV0nucrxiHOIPufTUtdOp0MytBXEhELxCc9q1ujC2XM4VRPpbpSNL7uTMTtXiDV8M8Y+N3P5U8/wMYnszpbgQdJwIBYJ7lePBa3H045FbF0d5UaHyYgQLqNb/27tjSpoeYJAp6hB2IG2QTQp84KXzbbAjq6UrZsJkckW7dlMMJ8MPBz5eC0BypfMbMOiqsLeobiMjjLo0FCfO3gXVoV0Pw0kjN0m7SKDS11gF8YZKvQfBdRQSzlQ==;IQBGTk4nhs6OuXh/WWtlzA=="

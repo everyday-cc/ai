@@ -72,6 +72,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft and Adobe partner to deliver cost savings and business benefits"
+    excerpt: "The Total Economic Impact™ Of Adobe SaaS Solutions with Microsoft Cloud report provides a deep analysis of the key challenges organizations look to address when deploying Adobe SaaS solutions on Microsoft Cloud. Read the full study to understand why.\nThe post Microsoft and Adobe partner to deliver cost"
+    publishedDateTime: 2023-09-20T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-and-adobe-partner-to-deliver-cost-savings-and-business-benefits/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Adobe-SaaS-Solutions-with-Microsoft-Cloud-TEI-1024x417.jpg"
+        width: 1024
+        height: 417
+        isCached: true
   - title: "Microsoft AI Employee Accidentally Leaks 38TB of Data"
     excerpt: "A software repository on GitHub dedicated to supplying open-source code and AI models for image recognition was left open to manipulation by bad actors thanks to an insecure URL."
     publishedDateTime: 2023-09-18T16:59:00Z
@@ -392,6 +406,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "qm89RnIOEfGbzHRHBJhcmsKqn+B9vAJ+7Op2ghbCFfrUPgc+HpEkpJ7Y4R5WCZCITURBOarhYjQ3RobqHiP3AK2lCG9w0QKe9k8zStWghBicEZmm1DZ1W8ts1vMKHqGSpM2/n7l/UUpqtTML2eYyuKFbd35DQos+9qWaEvnFBm5CKnXVUwa6c6sK/KJU3pI1sx7FUB8x/pGJ/gQE2U2UmgdEDN49aY/oF0Dy/EY2VgtHB7ISJmPON9kqUtYtn1jqlnB3kX5a+/zVa98+MR4gAVEJ+QfdHbZ8CPLDpo8EnO5CjFp70z33mabpdUEZA5NMSZJpiIY6LCY5p0FwwnivBrNQflksSOO5csOjz1oVVKk=;t54VZWFfUdjLmwGfNRQ41A=="
+secured: "TytBXLc1cqa5lKylSyN2Md3pBK1xO6N6su6jI1dxo+8uB93n/4bExu4hqG7zxUR+oxFXk4WUp3LFk8gah57C9zowCoIK0bAgDtBluEunULzSDrmKQIIpjnYYM9EU/9eunOa3E5q0SfgSKL+VtQCmO+KG8x50fZXQKM6podWtDlsKFq6Vel8mcwfIujRvqQsc0E9VlEfN20OZMgIxqzGNE3c6O8vo3v7m0/hK2RUrfy2wbsx+u0kdNLbK747JqZk/cqDKXUy5L9Qip01WXQghthw3jYWWOoCRXaR0Xc/PPyGwB0clrguzutqbZ4A41xIZ+IeedXMixKRdHLLv0MXgY8yTxUSf1pIvqQBuQqpO6uNjWmsHD886GTgKybmEv1yX385gHWxim5Ce3hgFOAetnQ/I+AL+PJsYtnraAUhk5ZRDfzYAwfB9VbwLAvW7a7CRg2or7VSn7Mj2jlhtyC+VLloVR3IRfs98S5xLwyrFKG+oub+llqqycGoTJdS8PsndxX7YMlKE+zakbM4JvssRig==;s0qhrmwWHPYZtKaAmStvsg=="
 ---
 
