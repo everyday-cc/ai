@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-fi
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Perfios acquires Chennai-based open finance platform Fego.ai"
+    excerpt: "Founder, Fego.ai, said, Fego.ai solutions will complement Perfios’ product offerings and expertise across varied financial institutions across the globe"
+    publishedDateTime: 2023-09-21T16:23:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "Perfios acquires open finance platform Fego.ai"
     excerpt: "New Delhi: Bengaluru-based fintech firm Perfios has acquired Chennai-based open finance platform Fego.ai, two people aware of the development told Mint. The discussions started during Global Fintech Fest 2023 in Mumbai recently. The deal was closed this week."
     publishedDateTime: 2023-09-20T18:55:00Z

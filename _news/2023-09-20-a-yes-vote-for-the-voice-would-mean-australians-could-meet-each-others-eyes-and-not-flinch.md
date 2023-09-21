@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voice-to-parliament-referendum-yes-campaign-voters"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
-    excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
-    publishedDateTime: 2023-09-16T23:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
+  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
+    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
+    publishedDateTime: 2023-09-17T06:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 34
+    quality: 29
     images:
-      - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
+      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
         width: 620
         height: 372
         isCached: true
@@ -60,6 +60,20 @@ related:
       - url: "https://cdn.liberal.org.au/headers/fb66599c50b273f38b0a36c4c8745e34.jpg"
         width: 1400
         height: 642
+        isCached: true
+  - title: "No, the Voice to Parliament would not force people to give up their private land"
+    excerpt: "The proposed constitutional amendment that would create the Voice is very simple. It seeks to insert one new section into the Constitution, which reads: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia ..."
+    publishedDateTime: 2023-09-17T20:02:00Z
+    webUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-force-people-to-give-up-their-private-land-212784"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 19
+    images:
+      - url: "https://images.theconversation.com/files/547387/original/file-20230911-27-7ildid.jpg?ixlib=rb-1.1.0&rect=13%2C0%2C2989%2C1494&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "1/LhBHh3lM8QcOnXLmYOJDG35BCCEbQkJJZfHUZfXjZDi3bM4d8YR+yNlD2bcGnobUZrDSg5e8tqPu3o7FfACbWVLKjw2KrKs/nEAM0BflNE4z4n6CkV0JYTNYHcYQXvUAqsF/vFqyAS+f6QBypx5tkmSFtSHLmpqpAllnItjxtZo6BGvHxWPiCHlzXqeVrk2JV/tV2GOU7ypa1ZFskAbmxX+1iWYPNURm3Ro7ADeAdid45z7WfMAcaLzGhBXIqGVpY5XrMRo0CvFYgs/BlN2nxcnsei3fs6XwBXaNLZ0T+DANHYSZvZK3Xy7NPOUo9Kii+Hoi1Dv5SuUwVooMS13Z9lMzSUegPdKidJIQtdwxU=;3pp7YZBa92ytjh9Wae77Pg=="

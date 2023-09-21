@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "and machine learning-powered automation within a single MySQL database service. A core part of Oracle’s distributed cloud strategy, MySQL HeatWave is available natively on OCI and Amazon Web Services, as part of the Oracle Database Service for Azure, and ..."
+    publishedDateTime: 2023-09-21T17:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
 
 secured: "BOSRhVJWKnbP4PbIIepzWcuKv43trqRmVpsa2ZveoGfkIWGacv6t/aC2NCJrPt3IyaVOSfXLDcUem2osc3VfDHEsnwEunTNeBMTsoI4s8Um5dfMEyF4TTcvlaDQcWGcA8qgAhXRSmg8lR9dBlUAd9KaHgqfkL2kuKK7tYCeUDn+O+PM7C+DH3h58l41uiJpKc+Qtcj9jkOK3NNWlJhjxz/L4QG44jNW29e/qs6TqmLlMId1z/+54kIDUNG9xVRC/lT1pONNV5InDi+ciMzs8/b76PWfLIero9PGuz8Bdynzs5EypdBN1HtHx6NRy7bVGDyzNmYl6tAZ80F6/y8+GNrSD6GaPNtHwdlG6enW/NdUFQG0xW2vYu/t4Pygi59WrKKzfK7/BAO27Vg7rTFdwYOhPNWkvXWuQRMj1ei4NmgEINfy0PH2hEqL/ivoWIPIRYJSI2vP4+okDdulu8xfaQak0cm60e/g0Qj/uqcBXx84nj+ETN6XKkVloJp87sMAU2r8kSq+DlHohabfwXC2qMQ==;oL/pNdADEnykx2RarQiFDw=="

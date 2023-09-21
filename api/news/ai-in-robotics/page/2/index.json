@@ -930,13 +930,22 @@
       "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
       "excerpt": "FORT Robotics has announced that its Endpoint Controller—which brings safe, secure, dynamic wireless control to mobile, automated or autonomous machines—has received SIL 3 functional safety certification,",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety",
+      "webUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/september-2023/fort-robotics-endpoint-controller-wireless-safety? Control News & Articles",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/3056748b-46c7-425d-b58f-23cef025fd84/FORT-news-Sept-6-2023-web_1.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

@@ -55,6 +55,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Indian actor Anil Kapoor wins court battle over AI use of his likeness"
+    excerpt: "The actor can now send an injunction if his image or voice is used in gifs and deepfakes as well as for unauthorised merchandise"
+    publishedDateTime: 2023-09-21T15:31:00Z
+    webUrl: "https://www.theguardian.com/film/2023/sep/21/indian-actor-anil-kapoor-wins-court-battle-over-ai-use-of-his-likeness"
+    ampWebUrl: "https://amp.theguardian.com/film/2023/sep/21/indian-actor-anil-kapoor-wins-court-battle-over-ai-use-of-his-likeness"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/sep/21/indian-actor-anil-kapoor-wins-court-battle-over-ai-use-of-his-likeness"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/9d95804bc092f4eed16e0a9386cf8f83d642c50d/43_308_2820_1692/master/2820.jpg?width=620&quality=85&auto=format&fit=max&s=f1cf56234f388bbbf63b78a8c24f3116"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Indian entrepreneur's UK start-up using AI to transform services"
     excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
     publishedDateTime: 2023-09-17T12:53:00Z

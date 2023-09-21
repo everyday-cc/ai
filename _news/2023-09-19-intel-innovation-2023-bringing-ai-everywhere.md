@@ -33,6 +33,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "CrowdStrike defines a strong vision for generative AI at Fal.Con 2023"
+    excerpt: "Based on Kurtz’s research, Charlotte AI was designed to significantly reduce the time required for security analysts to investigate and respond to threats. Kurtz mentioned that the tool is powered by massive datasets and human-validated threat intelligence."
+    publishedDateTime: 2023-09-21T17:15:00Z
+    webUrl: "https://venturebeat.com/security/crowdstrike-defines-a-strong-vision-for-generative-ai-at-fal-con-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/image2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "1V5ckPhawyqpG6Ib4ne+WZBFK/8ErlVrzZgIgUiXsBJKAOkKIkeywQZ2CTciAfiFE2rAMg/g5NAizJZXvx9rI6MIX+6wvcLs9+T9suQ/QB9qCVFst2T4GtbZAe1KWQKg3WltGI3h8AgZmnwy1bV2joTNiOpETKWqHJJCt/LmHX4u808y0TWsaLTALY/I5bCtG85kA8t70dCEIpl6n2SNyDYbXPyJhUqL6dCx0V/u96fOwXKIWy8ExeOtH8Cdaze+/EBlASvcjT8fDzuDLgE+LfTevkjD1afT+kqA+9gPBB3WIqfpwkbsIhBbZgpg3+OS0pNak4nl2LZaHR5ucbBXknnMuJBfysUurNj0St195Zc=;RmYshzalv/nJvqSk2qvyxw=="
 ---

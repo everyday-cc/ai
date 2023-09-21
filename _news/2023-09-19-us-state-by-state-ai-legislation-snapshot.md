@@ -24,6 +24,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "The United States must win the AI race"
+    excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."
+    publishedDateTime: 2023-09-19T04:18:00Z
+    webUrl: "https://www.knoxvilledailysun.com/news/2023/september/us-must-win-ai-race.html"
+    type: article
+    provider:
+      name: Knoxville Daily Sun
+      domain: knoxvilledailysun.com
+    quality: 19
+
 secured: "rSbID3/ihApqY5D+u2xeN9Ap8HKKKtacEIN9falO70UdAS9qHpZ0yUlXOChlNx3c7RBkNcM0LTldWn7E+DaUHQOdmlIptLK0biWJDDQDoZD87GzU3o4Yi1cbXm5gPmgaPq4bE76/cCTT8MuNVBHTVAjkrF8TxbFI5YtGPuzKp09Ib5Pj096sBtXGqSWZv7ECjhwMdqVzRON4bOn4qDZYeXZnvUdIw+2O4s2Is+6TjI4BrxTfuReICYdsPUR5r2zOCnuB+lCQhnCorN8tBknXG2wMZMNDzr8efYBLxRCkL4K52+D5xZfroMsE1hF0oLNd3sceNIW24oYPe0ttQRftnHTlRsMTWGc3p6DyUJgRCYw=;uejpIZDjUAW8dKYZV1nxKA=="
 ---
 

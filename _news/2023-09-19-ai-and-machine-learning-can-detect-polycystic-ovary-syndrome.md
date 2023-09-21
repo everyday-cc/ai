@@ -3,8 +3,8 @@ category: news
 title: "AI and Machine Learning Can Detect Polycystic Ovary Syndrome"
 excerpt: "AI and machine learning have been used to effectively detect and diagnose polycystic ovary syndrome, the most common hormone disorder in women."
 publishedDateTime: 2023-09-19T08:26:00Z
-originalUrl: "https://www.technologynetworks.com/diagnostics/news/ai-and-machine-learning-can-detect-polycystic-ovary-syndrome-378961"
-webUrl: "https://www.technologynetworks.com/diagnostics/news/ai-and-machine-learning-can-detect-polycystic-ovary-syndrome-378961"
+originalUrl: "https://www.technologynetworks.com/tn/news/ai-and-machine-learning-can-detect-polycystic-ovary-syndrome-378961"
+webUrl: "https://www.technologynetworks.com/tn/news/ai-and-machine-learning-can-detect-polycystic-ovary-syndrome-378961"
 type: article
 quality: 54
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: sciencedaily.com
     quality: 62
 
-secured: "fdAOWpC9vpyPgOFIEuI8/FUHSisiwvTl8S4GtnksfGzhWMzs8Y1MVDfJPJzr5hDby/9iq8dZoZGpMnXXkRhlshLFV8I3ZogEIt0XnI6R1rV5votxQkhN/u02QLNpfoqcmfdjGgvfSQgK8ol3vxpZdYU2mI/BtitKjnAW/RDClOrXvZchl54QfQbnes1QaHa1ESpgLz6ny2ZE4ra6KEU3ECF4sf/Cr32j+PD8nzWjlIwtc53J/v8KoEOLvfVC6G59NZbcchisJTLerUtO89QVLAHja0kl+adT6L9FbxmZ1O91X+wiMIiVR8zTxAKJCdaIcWPH/p+gJ0VZhpwLE9J4onWMrfOqNplEXft0t4p+e5s=;bhH8lRkPG4lIf6EZKbs4cg=="
+secured: "Q5RIga1IdodUYE1eEkSIxPUcCmPdpf70CR0FHRO+fg39UBWgyYbxHVQlA9ERdDLlYmtMc5bfSL2STqx/EGvfLlpTaAFXhb58lg7HRVgw6gO4LoBNxPDkXlcD0i/6UQj16y8zGRHQRH0X9riXT7Q98XO062z74Ow6AlMeR51DBJSZXtZT73MZAv4heopGawEXgHbf0Yxba+ZzFxVWXbfvkBC2oGysMfxQg50bZpqctSkSudx/IYZKw5yJt2zas2r64QghUEaRX1DV7BhynOb4AZhVGwY7am05lVezoIp/MTGVnvrKtOPngMHYe+x2tBjp+AhO0cYmLwdnUq+WQ+v3JYZoA0aN96zibv7p09X3yDE=;JO4HaCjou/Z3jYq/YbWtGA=="
 ---
 

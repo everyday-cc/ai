@@ -2,9 +2,9 @@
 category: news
 title: "AI Startup Dismisses GC Amid Cash Crunch Just 1 Year After Going Public"
 excerpt: "Michael Will, who gave up his in-house job at Thrivent Financial in 2019 to help launch the business, posted on LinkedIn this week that he is looking for work."
-publishedDateTime: 2023-09-21T10:18:00Z
-originalUrl: "https://www.law.com/corpcounsel/2023/09/21/ai-startup-dismisses-gc-amid-cash-crunch-just-1-year-after-going-public/"
-webUrl: "https://www.law.com/corpcounsel/2023/09/21/ai-startup-dismisses-gc-amid-cash-crunch-just-1-year-after-going-public/"
+publishedDateTime: 2023-09-21T16:38:00Z
+originalUrl: "https://www.law.com/2023/09/21/ai-startup-dismisses-gc-amid-cash-crunch-just-1-year-after-going-public/"
+webUrl: "https://www.law.com/2023/09/21/ai-startup-dismisses-gc-amid-cash-crunch-just-1-year-after-going-public/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 633
     isCached: true
 
-secured: "bWNZUgk4eiHacrV4EYk4+cdCpmfQmjG79KiLH7fnvBj3Lnsvu8UwLpb3RxRJyXtJll9yyh/9YqAUt9gl0PUa5aTrFgFWxD8lgVxf+EO1L6Yrra7wuPXCTS1K0EYAG4rHLx6P0rqgHutbnj84un6ZDFcwwbhCjicj8ztyzCSU15NxEnwHy1UL9eww7ab3qfIHZvGSRGK5cWzzcFy0prmmjYpcyuQt2ah8gqLCQuhI4+bDzvzIlmRuU0C0fWoaDtTAQy13xlSEQFaS1e5X/WbQuPZrDJyBWVhVKvYOL2U/Oy9wqxaFOWPSjkR0AkfRx2MOYaqclz0MuOEwGLj3B/Xu7iOpXilmlg99CK7M3rpBsanzQaFRktHZ4hYjjKajKJqTAFT0XFjxPVwKo8nRJwWYI13GALwsDtKJq5ruql7+xqlNoZ6NI8Fur/2ArPJ905/NCFX8j9NNFgF7+Rj9JGSTYP0TXM54wviIYLiJ41kVkZVrbUP+C5enSW87cVqQ/S9zcHf0iWJ2Hqgi531+7nJ/Og==;7zUF1XSRfafmZdl1h73kUw=="
+secured: "ilbthTJWksWVl+tmmOHRMk5mV1qs/tBDQQCcNW032fLiH9O3YxFncFKP/FKjxLP0pY3cBCpUgvNQg6EtB9ccngCrrUN+o+Q8S/kK7ECTOlTu1e+EBnX8Ja8oTYUp8halXBrEBI+XAnqB7kDM5IVtkL4jz5Ts78pv76DRK59N2OT7M7TcAiFZ5A9cIoAfvgSFm60Xz+zrMblVHvehlLFzqoYAyE5KwrTXvQPaaOWWYj2dm4P47TEB0IN7Wh+rX7yYDam7UhCh6JoRwXeoArq4wRMOkOsXeCXFtwZRprVBw43mGgPoaB/DBMNjV5aUffd8gV42KIFfO+eziCv35h4S2F4K6Ndb2dR3TWL3GKCO/z0=;c0mP9mDd15TfNBbvdjIQHA=="
 ---
 

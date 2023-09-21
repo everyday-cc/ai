@@ -7,7 +7,7 @@ originalUrl: "https://www.mediapost.com/publications/article/389277/mediamonks-p
 webUrl: "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Surface Laptop Studio 2 arrives with powerful Intel 13th-Gen chips, NVIDIA RTX 4060 graphics, and AI capabilities"
+    excerpt: "The new Surface Laptop Studio is Microsoft's most powerful Surface yet. The second-generation Surface Laptop Studio is official, and it will run on 13th-Gen Intel CPUs and NVIDIA RTX 40 series graphics. It can be configured with up to 64GB RAM for the first time ever in a Surface PC."
+    publishedDateTime: 2023-09-21T15:07:00Z
+    webUrl: "https://www.windowscentral.com/hardware/surface/surface-laptop-studio-2-arrives-with-powerful-intel-13th-gen-chips-nvidia-rtx-4060-graphics-and-ai-capabilities"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rMGipuJERdKTNo7aHw3ZNU-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Redditor looks to answer the question of whether or not DLSS needs NVIDIA's AI Tensor Cores"
     excerpt: "It's one of those myths that has been around since NVIDIA first debuted its DLSS technology, does it actually need AI hardware to work?"
     publishedDateTime: 2023-09-18T01:26:00Z

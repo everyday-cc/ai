@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Inuitive Adopts VeriSilicon's Advanced ISP IP for its Vision AI Processor"
-excerpt: "VeriSilicon (688521.SH) today announced that Inuitive, a leading vision-on-chip processor company, has adopted its dual-channel Image Signal Processor (ISP) IP, featuring low latency and low power capabilities,"
-publishedDateTime: 2023-09-21T15:22:00Z
-originalUrl: "https://www.design-reuse.com/news/54844/inuitive-vision-ai-processor-verisilicon-advanced-isp-ip.html"
-webUrl: "https://www.design-reuse.com/news/54844/inuitive-vision-ai-processor-verisilicon-advanced-isp-ip.html"
+excerpt: "As a powerful vision processor, it introduces an optimized embedded vision architecture that effectively combines a set of computing blocks including computer vision engine and deep learning (CNN) processing. VeriSilicon's ISP provides high throughput ..."
+publishedDateTime: 2023-09-21T03:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/b34776183/inuitive-adopts-verisilicons-advanced-isp-ip-for-its-vision-ai-processor"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/b34776183/inuitive-adopts-verisilicons-advanced-isp-ip-for-its-vision-ai-processor"
+ampWebUrl: "https://www.benzinga.com/amp/content/34776183"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34776183"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.designandreuse.com/news_img2/homepage54844/verib.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "QwwDccKkZnrnBor7/8CVi+XRp1njWlvchm4hkxonwe7AwzBedebwcy2AN3J4Y2IVA9vgZp3eazQ2NwVUtt8sXNk45OU7IPgMrXgNzGGpBndY51GyQQo0U3S/5kmRdp2gIBU731CDZqVzhv+n3uJGyul0nEv/ptD5H1oO8mYH9aXxtqNSHU2qagg0Lhqy4IoM1fJc6ai29qPxc+hjEjxEELMsQQXISXpdCHQdX7BKRc0vYEyIVYnhNdeNNKNbUtVCxXpRDxv6VftGj1C/fi6g+UTjdlresjq1IW6/cZYQwRGCQc3dDSo7Jtu+Y5o+if8afnwT9cwOK9BaWRQGIBJLrbKSby+5fkdGiP40e0f9hw4=;tUqk0akt+Kg2BF/OPkrWbA=="
+secured: "CLhJq7BzUVxtiwWSwYewiqbaK7ZSKY4k5Klh+4llQno4rDrOCidat+ClGJFIRx2ApG6BPR4LPj6/lGJ6sLQ4CLtcTyR2GwVIh6CdoJpJN0v6r6+ugdz+qQqjrj4pGWJyDU4frpNgP7k8CGAJa0fchjh3d35pGWpRIPwXQLtHCPwwJzS7ckZAw3mJKNryiI1KJMpDpp1pYi+TQGHzre+BpqWKVNNYmsfjGiXO3Tv9FaTDftekqGOppo3DHU0n2yUT62nUbQ7aggY0S3VMBSGaEcxTAL2oikho6YapMYAaqEMvmqf6zpwxjYSGAk3n3zSxPru7/3sn/pt+elnxvaG/rcwyYwlT2LazF0qY0zWx+5I=;NXSYRvNsf2Hy2Tg1XuIJQw=="
 ---
 

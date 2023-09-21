@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-anno
 webUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-announcements/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "CrowdStrike defines a strong vision for generative AI at Fal.Con 2023"
+    excerpt: "Based on Kurtz’s research, Charlotte AI was designed to significantly reduce the time required for security analysts to investigate and respond to threats. Kurtz mentioned that the tool is powered by massive datasets and human-validated threat intelligence."
+    publishedDateTime: 2023-09-21T17:15:00Z
+    webUrl: "https://venturebeat.com/security/crowdstrike-defines-a-strong-vision-for-generative-ai-at-fal-con-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/image2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Intel Innovation 2023: Bringing AI Everywhere"
     excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
     publishedDateTime: 2023-09-19T16:41:00Z

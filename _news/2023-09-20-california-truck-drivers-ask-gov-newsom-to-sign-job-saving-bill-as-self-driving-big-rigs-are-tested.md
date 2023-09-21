@@ -1,29 +1,29 @@
 ---
 category: news
 title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads"
-publishedDateTime: 2023-09-20T16:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
-webUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+publishedDateTime: 2023-09-20T15:28:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_bf4d494e2c860df72063ec894e29ebdc_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -101,6 +101,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "Ye2WlYkEWfRTwbRF1Ud5TYMwhJFzGOP5ArrCU9iDU3ciuwONI2+js9EK1lqgv/Stu8ORDphxQS5g/l0A86MY+hSrTMu1YN5x0cWWEPBu9aOmtbIiKToVcYbMZXhpsKM2n1VTcQ6tLaCXMF/hna2Qu3rsVdgqse0cYTuoMpaVDv7ECvW4emduYA6uuN8qepEDyS7zwazFfYJwYEMZmuTvcE9qq7rQt+p75nWr2LYDAKO3BVVEEq49Qpq6DJ1LFwQeYnZ4X31CoYSNIrgkSgpLZp4j2aSQG1AUi8acHsstV5AtZs+gePrky0O72gIFyYbNBs7gtTLjtoOo2TxgghRXyvXJauVhSZa7eLG4gkK6W+k=;diHj5fgqyodUsgD8g6lgdw=="
+secured: "gv+K03pvXdtA+pXlmZq/7Wo1Azau9+RPOpaXfUB4keSZy12vrmbNkmP2hYXVhoplxK1Uy63S5q9r+Q+F7u+oWwjZKkW+KMrVqRVQl4xz4O+Uas6j4go7nOJGJW54+y2Lk4b7193h9x5NS4tq3vrj/rvl3KSAFTeINVEwLQvINOB31tlhwAfeMUSh56BtUzks7omxOlQxxlUKCsXl03ReCEZli2usgFS7z1xBHRugFvsMnvp0FFo7pTv/Bwfx6D5k7um6YIDWleIWOB1tCu12gYhkk33d6YHnt7x9UJnn+jM1wExv8Dtf3+ohOrk25csgqoFMU9vk/KRDoEPu6MpazOGSY3iGb9TktgTwY0yLcUk=;N968aevhX5aNj7kJUpR3hg=="
 ---
 

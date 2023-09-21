@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Amazon leader says new Gen AI Alexa is a ‘super agent’"
+    excerpt: "In an interview with VentureBeat after announcing Amazon's new Alexa LLM, the company's generative AI leader said Alexa is now a \"super agent\""
+    publishedDateTime: 2023-09-21T15:58:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-leader-says-new-gen-ai-alexa-is-a-super-agent/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/unnamed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon Unveils AI Version Of Alexa, Other Devices, New Features"
     excerpt: "Amazon.com. Inc. has unveiled a bunch of smart home devices, including an upgraded, AI-powered Alexa and all-new Echo Frames and"
     publishedDateTime: 2023-09-21T11:28:00Z
@@ -105,6 +119,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/uYBTwEH4r88cz67yQk35mT-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon empowers Alexa with generative AI"
+    excerpt: "An attendee looks on during a media tour of the new Amazon headquarters in Arlington, Virginia, on0, 2023 - Copyright AFP ANDREW CABALLERO-REYNOLDSAmazon’s popular Alexa digital assistant is about to be supercharged with the powers of generative artificial intelligence,"
+    publishedDateTime: 2023-09-21T16:03:00Z
+    webUrl: "https://www.digitaljournal.com/business/amazon-empowers-alexa-with-generative-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/09/4ac0b09b56dd02b16c0460a5f85830addece5bbf.jpg"
+        width: 768
+        height: 499
         isCached: true
   - title: "Amazon Announces Alexa With Generative AI, New Echo Devices, eero Max 7 With Wi-Fi 7 Support and More"
     excerpt: "Amazon today hosted an event to introduce a range of new devices and services across its brands, from an updated version of the Alexa voice"

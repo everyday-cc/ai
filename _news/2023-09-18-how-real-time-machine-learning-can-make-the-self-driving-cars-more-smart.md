@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-mac
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 type: article
 quality: 60
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
     provider:
       name: NewsTalk 1290
       domain: newstalk1290.com
+    quality: 4
+  - title: "Scientists Reveal That Self-Driving Cars Can Make Traffic Slower"
+    excerpt: "A recent study reveals that vehicles that wirelessly communicate with each other, known as \"connected\" vehicles, considerably enhance the flow of traffic at intersections. However, automated vehicles that don't communicate with each other can actually slow down travel time through intersections."
+    publishedDateTime: 2023-09-21T16:03:00Z
+    webUrl: "https://scitechdaily.com/scientists-reveal-that-self-driving-cars-can-make-traffic-slower/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
     quality: 4
 
 secured: "cayO5HlXe8w3M3xsMwjU0yIszr423pzqpRpLeCSfzc1Zq5Yuk5lTIYMbuEt4YadCFCZdp+EYzzodcghSvuVXIAwMaUM7vDp76OsLi22oTx5Pylavw9h2murXqPincaFEdCBemiie0B4fjjpTUspGQcnJuCSDQRmSPte4sENrSz5SipT1AcJfX8kGYMh2A/4gs68R+kuAjrdTR6WD031+C4cwxdfb3wXcP/+3VbzhVeAclVyV1sZfjlmUwqBDRRpZNknbLzNBGqed1rdb7Juvp4EFeJxvnGGfW8bSoohApCsF6b9YcjCl5J/VKP8qEprPeEnvMa6MihWlvwcq2NSMvcYT5QJOv+G87qVqhesJNHrIfHBky2397Ky0cJcTVk8uBadeQTdCXZ5Ztig39SVNTUP+eC068x2KsNz7Cl7EAlM5etmklOpIV0+8myQTV/5eAWpV5JJ8QbqZeneFs+WhlAOgRjuT+jsrI+qzggiMKsP6CWHtind8waoK+miMp4M8nUzjnlTkNASYh44Mn5qSTw==;n0K018EcVAtPGaMH8gLdxg=="

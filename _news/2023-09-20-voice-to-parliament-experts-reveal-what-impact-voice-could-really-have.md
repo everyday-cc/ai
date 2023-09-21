@@ -33,20 +33,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "No, the Voice to Parliament would not force people to give up their private land"
-    excerpt: "The proposed constitutional amendment that would create the Voice is very simple. It seeks to insert one new section into the Constitution, which reads: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia ..."
-    publishedDateTime: 2023-09-17T20:02:00Z
-    webUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-force-people-to-give-up-their-private-land-212784"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
-    images:
-      - url: "https://images.theconversation.com/files/547387/original/file-20230911-27-7ildid.jpg?ixlib=rb-1.1.0&rect=13%2C0%2C2989%2C1494&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "ekXT/KkdHpmpgzfbgzEyhpIMZXxEeVfo5Ovy73rPasG3Q1xXjjRnlAO+LJGBOrH/L53hm1CrYAy8tU122JLTqN0Hqgtw9VOlBO8qnLDllWDlzIzhnchzU77C4B2AWYEFarpoBS0ybbs0qv9yqRGYuYFStMxcDZMA+os1uH4NySdUQy2pT6CUhcrVWEN7cjNjz0coJIoOodKAutXCXfCmg/L8ZDcPAgAkvghHXk/4hGSMFv33qsHKx8fBpI/zVk/sUeijpVryDajjIiclAfbXivAOsvQgSHLSdMZdK9XNjJM/b1cJbBLvHTQZz3IetAFHSk5B4HesWnty/wbBPUTFT8JAkhXwnM24EQzN+62EgaTEbm73dDmGW8WD5lRxlp7GfjJVQrkQhTgWEGSHHi0KH9tth24zD941oyaANt8q55dAuHH808mfEMepUgvMdPUhUC46PSJLP6Y8D+oAd9tjzeXPdSaS0P6O4KBci1tXWAVRjfMGSaX8YM7w0hnyrLSunp0VWd5ylL/VUzEbe8rMEA==;1ycLuQtgIUjpgk9HyG5Lig=="
 ---

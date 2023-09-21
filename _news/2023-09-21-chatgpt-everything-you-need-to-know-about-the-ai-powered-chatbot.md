@@ -23,31 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "AI and cloud computing training: Everything you need to know"
-    excerpt: "Specialised areas such as ethics in AI, bias reduction, and AI governance are also becoming integral parts of comprehensive AI training programs. In Cloud Computing training, understanding various platforms, migration strategies, security protocols ..."
-    publishedDateTime: 2023-09-17T11:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-cloud-computing-training-everything-you-need-to-know-3246235/lite/"
+  - title: "How to use Opera's built-in AI chatbot (and why you should)"
+    excerpt: "Using Aria is very simple. Click the Aria icon (it looks like a white A in a purple square) in the sidebar. This will open Aria, where you can type your prompt at the bottom right of the screen. Aria will take a moment and then display the results of your prompt in the sidebar."
+    publishedDateTime: 2023-09-21T17:04:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design232.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/38f48cbb98b0a35aa492d917631e58f4592958fc/2023/09/21/2bbdef98-30e3-4dcc-9b07-18765fac0f85/metaverse-gettyimages-1367338352.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘There is no work to balance’: how shrinking budgets, Covid and AI shook up life in consulting"
-    excerpt: "Now companies from Accenture to EY and McKinsey are slashing thousands of jobs. The valuations of consultancy businesses are falling — one reason EY pulled its Project Everest plan to separate its accounting and consultancy arms — while the industry’s reputation is under attack following scandals such as firms’ misconduct in South Africa."
-    publishedDateTime: 2023-09-18T03:00:00Z
-    webUrl: "https://www.ft.com/content/e3cfa50b-d7ef-4f7c-bf08-c1dd6e457dba"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 7
 
 secured: "7XGuX7qE74LIJwKkdX3YEUT0wrhBupdwdkgTRMc4wl1OQElnFW/B7Mx+VaqumnSxC+576zj6o5SRn53r9NZCvHCtrSXWFzhMSITxhA+RQ+Phu5jdSThJio71SXF1Unuc3DJagpPVAvZhR5aAJAeCnd3lEErCe0XVX1GqIoZ2TgBE8ki084NXuUhECNfAD9jda5Sv0uAqLhHazQm9d6ro1lB0hqc8Hzhcq40zovoMD57ZSuFwhsMle59SHPCri0J1tdPyTZ/qzJyIgPt2OE2ocbJwICi66hbB63lJzsXfzfcLgizhga4u3uCiI+ShsRHmw+SOgqSvZVf8QjevTm3IVpSe5Vv7kS2o8eLJApVQVWA=;1mGxT/l/P7ScwrLVA2SPBw=="
 ---

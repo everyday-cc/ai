@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trainingzone.co.uk/lead/strategy/why-managers-must-consi
 cdnAmpWebUrl: "https://www-trainingzone-co-uk.cdn.ampproject.org/c/s/www.trainingzone.co.uk/lead/strategy/why-managers-must-consider-ethics-when-upskilling-with-ai?amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

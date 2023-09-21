@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The AI Wars Between Microsoft And Google: 8 Lessons For Entrepreneurs"
+    excerpt: "Microsoft’s opening salvo in the AI wars is directly aimed at Google. How will Google respond. What are the implications and lessons for entrepreneurs?"
+    publishedDateTime: 2023-09-21T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/dileeprao/2023/09/21/the-ai-wars-between-microsoft-and-google-8-lessons-for-entrepreneurs/"
+    ampWebUrl: "https://www.forbes.com/sites/dileeprao/2023/09/21/the-ai-wars-between-microsoft-and-google-8-lessons-for-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/09/21/the-ai-wars-between-microsoft-and-google-8-lessons-for-entrepreneurs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650c70032bccdbdd2c54e9be/0x0.jpg?format=jpg&crop=1417,980,x1023,y108,safe&width=1200"
+        width: 1200
+        height: 830
+        isCached: true
   - title: "Everything we're expecting at Microsoft's Surface and AI event this week"
     excerpt: "Microsoft's momentous year may culminate in one of its biggest launch events this week. Here's what we're expecting."
     publishedDateTime: 2023-09-20T13:59:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/ae622570e582fe0a96fd327e4fc9a1568a6e55ad/2023/05/03/db1dd215-0cb0-424a-95e3-9ec44538759a/bing-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft to sell AI assistant software to biggest clients starting Nov. 1"
+    excerpt: "Some small businesses have begun testing Microsoft 365 Copilot, which can help corporate workers compose documents and find information from email."
+    publishedDateTime: 2023-09-21T13:19:00Z
+    webUrl: "https://www.cnbc.com/2023/09/21/microsoft-365-copilot-software-becomes-available-to-enterprises-nov-1.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/09/21/microsoft-365-copilot-software-becomes-available-to-enterprises-nov-1.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/21/microsoft-365-copilot-software-becomes-available-to-enterprises-nov-1.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 102
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/103319272-20160120-3217-1936.jpg?v=1695309180"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
@@ -132,6 +164,20 @@ related:
     quality: 84
     images:
       - url: "https://i.pcmag.com/imagery/articles/06RB9Pdc5UaBy8fkYpbKaAj-1.fit_lim.size_1200x630.v1695053260.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Microsoft's Copilot AI Coming to Windows on Sept. 26"
+    excerpt: "Copilot lands on Windows 11 as part of an operating system update rolling out on Sept. 26. It will arrive on Bing, Edge, and Microsoft 365 Copilot in the fall."
+    publishedDateTime: 2023-09-21T16:18:00Z
+    webUrl: "https://www.pcmag.com/news/microsofts-copilot-ai-coming-to-windows-on-sept-26"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07hzm31uMn48LQSI2k6l2wO-1.fit_lim.size_1200x630.v1695311839.jpg"
         width: 1120
         height: 630
         isCached: true

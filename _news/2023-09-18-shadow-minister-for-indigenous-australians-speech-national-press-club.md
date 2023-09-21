@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "I thought the voice debate might turn Australians into constitutional experts. I was wrong"
-    excerpt: "It was when the referendum became partisan that we lost the chance of putting it clearly in its historical context"
-    publishedDateTime: 2023-09-16T23:06:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/17/indigenous-voice-to-parliament-referendum-australian-constitution"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-    images:
-      - url: "https://i.guim.co.uk/img/media/0ebed0c34f80c6e1cb9b83f4aaa855a4844bd750/0_484_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=391390a23a57074d6594f61577a4ce21"
-        width: 620
-        height: 372
-        isCached: true
   - title: "A yes vote for the voice would mean Australians could meet each other’s eyes and not flinch"
     excerpt: "Those who vote no won’t be harmed if our people have a voice – we will all flourish when we come ... only to see the latest report or heartfelt request for recognition – think the 1998 Barunga Statement – sit ignored in Canberra."
     publishedDateTime: 2023-09-20T05:02:00Z
@@ -56,6 +40,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/49f6aaffda691ad8869b6cc8e4a6889ee31910f2/0_173_5184_3110/master/5184.jpg?width=620&quality=85&auto=format&fit=max&s=98eb911770ecabe229c494b6cf2a7d00"
         width: 620
         height: 372
+        isCached: true
+  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
+    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
+    publishedDateTime: 2023-09-17T06:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "No, the Voice to Parliament would not force people to give up their private land"
+    excerpt: "The proposed constitutional amendment that would create the Voice is very simple. It seeks to insert one new section into the Constitution, which reads: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia ..."
+    publishedDateTime: 2023-09-17T20:02:00Z
+    webUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-force-people-to-give-up-their-private-land-212784"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 19
+    images:
+      - url: "https://images.theconversation.com/files/547387/original/file-20230911-27-7ildid.jpg?ixlib=rb-1.1.0&rect=13%2C0%2C2989%2C1494&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "GNOeoQa6F84jTuqEapOejWTPSk35qHfIazhRhxFY5SRJ/YZF6fQo670rurBrIl48rPZFAq2rpv2PL3v9isTbQgHVZpQwPKxo/R3aIvByj3WHOqc8HUf2iZoFGE+EGw0Bfth489Lfx7U90su2IHjzIvroVjoKoitYKorOaVDoZ1Xqlh+vsVvRRtotoU4egRW+2zNr5i7crwMkSgxdmH/nzovnxh/BuBXz5SYc+bDUkRRJe0/dCwppirs5I1ojVDsDZAJBAAvOGf4PrRUbHs5ogbgBx4fxfOICkzLaRmompHDC/+owspKNH9GXrWjVBq8884g6oeu/+P4+YSHDa5OBSoUoGeVZoFvUedu/FY4pegY=;43rlGv0sBI2c9dJrELm2gw=="

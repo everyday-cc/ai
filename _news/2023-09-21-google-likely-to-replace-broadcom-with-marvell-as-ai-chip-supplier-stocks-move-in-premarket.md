@@ -78,6 +78,34 @@ related:
         width: 1080
         height: 612
         isCached: true
+  - title: "Google May Stop Using Broadcom's AI Chips, Information Says"
+    excerpt: "Bloomberg Alphabet Inc.'s Google executives are considering dropping Broadcom Inc. as a supplier for artificial intelligence chips as soon as"
+    publishedDateTime: 2023-09-21T17:09:00Z
+    webUrl: "https://menafn.com/1107113934/Google-May-Stop-Using-Broadcoms-AI-Chips-Information-Says"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/21/TP_147ddimage_story.jpg"
+        width: 1000
+        height: 617
+        isCached: true
+  - title: "Cramer: Google wants to replace Broadcom as AI chips supplier is a ‘patently false’ story"
+    excerpt: "Google is considering replace Broadcom as its AI chips supplier, as per The Information. Jim Cramer commented on that report on CNBC."
+    publishedDateTime: 2023-09-21T16:52:00Z
+    webUrl: "https://invezz.com/news/2023/09/21/jim-cramer-on-google-broadcom-ai-chips-partnership/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 45
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/03/100005896-m-1024x678.jpg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Broadcom Takes a Hit on Potential Loss of Google as a Key AI Customer"
     excerpt: "Broadcom Inc. (AVGO) shares are lower in premarket activity here on Thursday following a Bloomberg report that said executives of Alphabet's (GOOGL) Google are considering dropping the company as an AI chips supplier as early as 2027."
     publishedDateTime: 2023-09-21T11:31:00Z
