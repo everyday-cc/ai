@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
         width: 3807
         height: 2538
+        isCached: true
+  - title: "UK Government Announces Major Initiatives in Artificial Intelligence Policy"
+    excerpt: "Viscount Camrose, Parliamentary Under Secretary of State for the Department for Science, Innovation and Technology in the UK government, revealed significant developments in the country's Artificial ... the Medicines and Healthcare Products Regulatory ..."
+    publishedDateTime: 2023-09-21T10:04:00Z
+    webUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiatives-artificial-intelligence-policy-1719730"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 37
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1718050/ai.jpg"
+        width: 2500
+        height: 1696
         isCached: true
   - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
     excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"

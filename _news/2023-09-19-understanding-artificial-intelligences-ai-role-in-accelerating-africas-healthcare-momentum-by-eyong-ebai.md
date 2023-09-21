@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/underst
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/understanding-artificial-intelligences-ai-role-in-accelerating-africas-healthcare-momentum-by-eyong-ebai-s6rmmg4u?amp=1"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 302
     isCached: true
+
+related:
+  - title: "OP-ED: Understanding AI’s Role in Accelerating Africa’s Healthcare Momentum"
+    excerpt: "In Africa, as in much of the world, artificial intelligence (AI) is the latest buzzword amongst healthcare professionals. Globally, we saw an explosion last year of various AI generative platforms, promising unparalleled potential to solve some of the ..."
+    publishedDateTime: 2023-09-21T11:20:00Z
+    webUrl: "https://pctechmag.com/2023/09/op-ed-understanding-ais-role-in-accelerating-africas-healthcare-momentum/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 52
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/09/Eyong-Ebai-GM-640x470.jpg"
+        width: 640
+        height: 470
+        isCached: true
 
 secured: "O3RoE8Sj54jzfRP3kmlnTA9Q0U0POzzycqTM7XuHLYPKLu8QNbcF7rV3wSdd4d1uLBXgSWk9qXS7YMrnxiFc3f45uBjyR9cy8DC4gp4vE2y6J7WK1aPE1ktaMLAxYaDWQeYCfJxh5St8eTUclDHjtevOEBBjQ6gI8zzMK5QVe9JDO/xzIJngTS5sxP40DONvVGZZx/GSFP9sagbAqWTaEhnvTkC35/9Ok+bjTkW/Nq50XFaZ1J5N3CwN9QSpk0biYUgYxwQ7fSYsyC0RUml/Za38eMqMJ7MpkmM6/BxfiRqSH0pIX8Et6cNjONBKep8toGz07Z4dhWoKYyu67212LspDliYv9fUZO/zC5i2JGZ7CzSazpi4D8gsi1cSnfBIdKRbXBwvgsUygCs+dHG/hevlU0HI0/6K1LEOgTo8mGnyB8aKspa6ycn5rbuxw8RWFQxCRUtkdquxJU/o/9NY6fBoNp8P6bOVj6a0DttKxx12Wp4AcpdCPOjHH12OSOJhSgr55U7LZx4bL/Bdci+WpXA==;I2nwMbPcLJDdzZMKu/xLQA=="
 ---

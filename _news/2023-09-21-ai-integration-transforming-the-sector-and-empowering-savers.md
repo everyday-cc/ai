@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics"
-    excerpt: "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly"
-    publishedDateTime: 2023-09-20T14:55:00Z
-    webUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/"
-    type: article
-    provider:
-      name: hoteltechnologynews
-      domain: hoteltechnologynews.com
-    quality: 58
-    images:
-      - url: "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Beauty-AI Company, Myavana, Unveils First-of-its-kind Web3 Metaverse Experience In Time With National Coding Week"
     excerpt: "With the goal of re-educating on textured hair care and inspiring underrepresented groups to consider technology as a career path, the hair AI"
     publishedDateTime: 2023-09-18T12:24:00Z

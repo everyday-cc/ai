@@ -80,6 +80,20 @@ related:
         width: 3807
         height: 2538
         isCached: true
+  - title: "UK Government Announces Major Initiatives in Artificial Intelligence Policy"
+    excerpt: "Viscount Camrose, Parliamentary Under Secretary of State for the Department for Science, Innovation and Technology in the UK government, revealed significant developments in the country's Artificial ... the Medicines and Healthcare Products Regulatory ..."
+    publishedDateTime: 2023-09-21T10:04:00Z
+    webUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiatives-artificial-intelligence-policy-1719730"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 37
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1718050/ai.jpg"
+        width: 2500
+        height: 1696
+        isCached: true
   - title: "What Generative AI Can—and Can’t—Do for Contract Review"
     excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
     publishedDateTime: 2023-09-20T13:17:00Z

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI’s ‘insane’ translation mistakes endanger US asylum cases"
+    excerpt: "\"Because the person speaks only one language, the potential for mistakes and errors ... migration and asylum. At Respond Crisis Translation, the shortcomings of AI-driven translation tools are also creating an extra layer of work for Koren and her colleagues."
+    publishedDateTime: 2023-09-21T10:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/09/21/ais-insane-translation-mistakes-endanger-us-asylum-cases"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/21/2296559.JPG"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "AI's 'insane' translation mistakes endanger asylum cases"
     excerpt: "WASHINGTON - Names translated as months of the year, incorrect time frames and mixed-up pronouns - the everyday failings of AI-driven translation apps are causing havoc in the U.S. asylum"
     publishedDateTime: 2023-09-18T11:30:00Z

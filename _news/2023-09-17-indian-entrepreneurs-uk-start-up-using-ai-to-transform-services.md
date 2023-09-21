@@ -48,38 +48,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Indian engineering student builds AI model for real-time sign language translation"
-    excerpt: "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words."
-    publishedDateTime: 2023-09-19T07:33:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
-        width: 1200
-        height: 776
-        isCached: true
-  - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
-    excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."
-    publishedDateTime: 2023-09-20T08:28:00Z
-    webUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757"
-    ampWebUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
-    type: article
-    provider:
-      name: abp LIVE
-      domain: abplive.com
-    quality: 53
-    images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/20/a721dec2c2ea0e2c0b302672d26d6b061695198496524402_original.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
     excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
     publishedDateTime: 2023-09-19T17:24:00Z

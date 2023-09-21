@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metave
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics"
-    excerpt: "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly"
-    publishedDateTime: 2023-09-20T14:55:00Z
-    webUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/"
-    type: article
-    provider:
-      name: hoteltechnologynews
-      domain: hoteltechnologynews.com
-    quality: 58
-    images:
-      - url: "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI integration: Transforming the sector and empowering savers"
     excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
     publishedDateTime: 2023-09-21T04:30:00Z

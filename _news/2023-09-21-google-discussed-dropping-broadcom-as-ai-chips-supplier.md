@@ -25,23 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Google discussed dropping Broadcom as AI chips supplier: report"
-    excerpt: "Alphabet-owned Google's executives have discussed dropping Broadcom as a supplier of artificial intelligence (AI) chips as early as 2027, The Information reported on Thursday. If that happens, Google will design the chips - known as tensor processing units - in-house,"
-    publishedDateTime: 2023-09-21T09:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-discussed-dropping-broadcom-as-ai-chips-supplier-report/articleshow/103834272.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-discussed-dropping-broadcom-as-ai-chips-supplier-report/amp_articleshow/103834272.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-discussed-dropping-broadcom-as-ai-chips-supplier-report/amp_articleshow/103834272.cms"
+  - title: "Broadcom Shares Fall on Report Google Looks to Drop It as AI Chip Supplier"
+    excerpt: "By Colin Kellaher Shares of Broadcom moved lower in premarket trading Thursday following a published report that Alphabet's Google unit is looking to"
+    publishedDateTime: 2023-09-21T11:23:00Z
+    webUrl: "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google discussed dropping Broadcom as AI chips supplier: Report"
+    excerpt: "Alphabet-owned Google has discussed dropping Broadcom as a supplier of artificial intelligence (AI) chips as early as 2027, The Information reported on Thursday, sending Broadcom shares down 5% in premarket trading. If that happens, Google will design the ..."
+    publishedDateTime: 2023-09-21T11:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-dropping-broadcom-ai-chips-supplier/article67330117.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-dropping-broadcom-ai-chips-supplier/article67330117.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-dropping-broadcom-ai-chips-supplier/article67330117.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
     quality: 74
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-87722,msid-103834305/google.jpg"
-        width: 600
-        height: 450
+      - url: "https://th-i.thgim.com/public/incoming/d9dops/article67330129.ece/alternates/FREE_1200/IMG_Google_2_1_1FBO6532.jpg"
+        width: 1200
+        height: 875
+        isCached: true
+  - title: "Broadcom Takes a Hit on Potential Loss of Google as a Key AI Customer"
+    excerpt: "Broadcom Inc. (AVGO) shares are lower in premarket activity here on Thursday following a Bloomberg report that said executives of Alphabet's (GOOGL) Google are considering dropping the company as an AI chips supplier as early as 2027."
+    publishedDateTime: 2023-09-21T11:31:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/broadcom-takes-a-hit-on-potential-loss-of-google-as-a-key-customer-16133783"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/c0c9f140-40aa-11eb-b745-f5fab0dfdd96.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
-secured: "k8S18uEyBtQvBlaU32QZlvTH14r9+Ammyc+dyC/N7FBWbHmLovTQ1I0I7O/TYUX7+U68Wjhf89aLa+Ha3zajoi+JcRoUcbxWjjo9sY/VKVQPec3LXYSJVcSy5YoxqQtfv6F6i/HkFZ/l6i7HIMbrGDDpYBfcSIqyhcKPs6EPNo4FTHULHFcEN77SS+i/rEukfNzceX7I4beR2xNmWnFkif2vm/HErKgILyY7IV5txd4hUUE9DaXlSA/BjeJH4WkUpnbl+19OkoweAljZzEm2RrqHUiVlqffANQzBKrrIdLenwrhUN28MoM/guSDkoJ2+5bOxAkcrPZtzJ3Zzd90mTdQ4Fx1rfj5FJfdhuOe1JWM=;kR/9iCsmXO63Ip9qjDRJVw=="
+secured: "I47pj/plut7WU2xrg17/eUAL341/g/BFlgVcQy4j1IuvJWjcNjcp8qiyGxx0irkWKoCX8pedZdsJGAwyL85bzuAmSbBYM/uRDeoTgICUf+EujOccaEIsceXWd8AD0E5mmBffgUmHAdFlkDdf8sINx/7OKWZdux3EC+4F7i6Uzm3YGfYUw6XnyhP5dYKsOzj6xGLgJJ/p88ak/jdW8GwbYC4lVxQAROB3SZJGT6GaOJU1HJWCLpw0iu0kzvgIRcAVzMJccOPQn6VnWt31HDjj2QkI7x+aA9d8jPOGtyESFbiqB9P4Kp6pm5plbI1F97Sj6b4V8Rr3XH8myDnxwWDAjIcYm0d2q4ibIW1WNjPpz/CQSb6Go1Y4LP9ZTp3gWsM6jNIelupgPbKEebXcJKVaHJFyztT686aC6p7WWLy/c5HuPM9w8Gp98hK+grb0l/lkAhYzJee89o7kfZVI/2caRmbGr7vQx+Ap48fAUGIzApA1BXAkFDKQFvM74ADxp0Xwq8ZtcXeR3ZnlVv8SufwC2A==;Buw1JazhH/jaGGr67kK3bQ=="
 ---
 

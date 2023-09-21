@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
-    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
-    publishedDateTime: 2023-09-20T10:40:00Z
-    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 38
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial intelligence is coming for elections, and no one can predict its impact"
     excerpt: "It’s undeniable that AI will be used to produce disinformation ahead of upcoming elections around the world. What’s unknown is what impact this AI-generated disinformation will have. Among other concerns,"
     publishedDateTime: 2023-09-20T23:20:00Z

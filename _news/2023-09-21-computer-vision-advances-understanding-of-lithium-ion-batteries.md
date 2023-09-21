@@ -7,7 +7,7 @@ originalUrl: "https://www.imveurope.com/article/computer-vision-advances-underst
 webUrl: "https://www.imveurope.com/article/computer-vision-advances-understanding-lithium-ion-batteries"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 864
     height: 864
     isCached: true
+
+related:
+  - title: "Computer vision reveals the working of lithium-ion batteries in detail"
+    excerpt: "A rechargeable lithium-ion battery consists of electrodes- responsible for storing charge and making it available when needed to do work. As shown in X-ray movies, these electrodes pack billions of tiny particles inside,"
+    publishedDateTime: 2023-09-21T09:59:00Z
+    webUrl: "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/"
+    type: article
+    provider:
+      name: bahrainthisweek
+      domain: bahrainthisweek.com
+    quality: 54
+    images:
+      - url: "https://www.bahrainthisweek.com/wp-content/uploads/2023/09/computer-vision-1.jpg"
+        width: 1280
+        height: 493
+        isCached: true
 
 secured: "C2m8z7zC2y/EgtMbnn23aJSvp6hjbZuqDs3w+bjczekuM2nZXzfvfDSCWqfV7ftjKkAsi6klpCQefxB9jWXthIqCdr1Nm9OhMXO51BkE7+C7ig3RBC+H4oY8N8+reFlH5K7t6B1/virx9OpAfxihBbhvGFUhd/i09E17PKvm73MRp71KV1sCnzaLgjp2LVaFd4pFxCmyga80iIHVdlUM8HyXpV75iJTPnLbWtI15N20xJcwxDv7yckzEhT4J74iEYlQ3DYXROmbCP0mAbEcaBi60vU572RpRI2oFAHpCriI38vK0IfoCafCqB3dH8xzOPcmkz2/N6YWC/6FFRvjdOGBbkl5tB+iFVXLCYGvcXvU=;q8KotdTIvhDKOnK17cjT9w=="
 ---

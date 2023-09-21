@@ -25,45 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration"
-    excerpt: "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world."
-    publishedDateTime: 2023-09-18T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
+  - title: "7 Steps To Operationalize AI In Your Organization"
+    excerpt: "While most organizations are eager to tap into the capabilities of artificial intelligence, knowing where to start can be overwhelming."
+    publishedDateTime: 2023-09-21T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff49f9b9d41ff3c2f9e2cb/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 857
         isCached: true
-  - title: "AI integration: Transforming the sector and empowering savers"
-    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
-    publishedDateTime: 2023-09-21T04:30:00Z
-    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
+  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
+    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
+    publishedDateTime: 2023-09-20T10:40:00Z
+    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
+      name: Techopedia
+      domain: techopedia.com
+    quality: 38
     images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
-        width: 5115
-        height: 2880
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Beauty-AI Company, Myavana, Unveils First-of-its-kind Web3 Metaverse Experience In Time With National Coding Week"
-    excerpt: "With the goal of re-educating on textured hair care and inspiring underrepresented groups to consider technology as a career path, the hair AI"
-    publishedDateTime: 2023-09-18T12:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beauty-ai-company-myavana-unveils-first-of-its-kind-web3-metaverse-experience-in-time-with-national-coding-week-1032636670"
+  - title: "Evading reputational risk when using AI"
+    excerpt: "Instead of learning about every AI-related risk, organisations should focus on building a robust reputational mindset."
+    publishedDateTime: 2023-09-20T03:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/evading-reputational-risk-when-using-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "WA to install 21 AI-assisted camera stations for early wildfire detection"
+    excerpt: "The locations were chosen for being in areas where fires occur frequently and where the view overlooks DNR-managed lands."
+    publishedDateTime: 2023-09-18T13:00:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/environment/wa-to-install-21-ai-assisted-camera-stations-for-early-wildfire-detection/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 16
+  - title: "HKU Urban Analytics team wins First Prize at Baidu's National 2023 Large Model Application Innovation Challenge Competition in Artificial Intelligence"
+    excerpt: "A team from the Department of Urban Planning and Design of the University of Hong Kong (HKU) has won the prestigious First Prize under the Innovation"
+    publishedDateTime: 2023-09-19T04:28:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/237505"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 12
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/691ad9d7-4745-4c65-9657-13c1a086b98d-resslogovertical.png"
+        width: 1261
+        height: 1081
+        isCached: true
+  - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
+    excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
+    publishedDateTime: 2023-09-19T20:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883291.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "bMXHUosCpDjGuReM2aMsfbz+Vm4HJOvMWP33FHHMEwSmVH+8pfuKUv68E6Sw//Rt1xPBIbQ6w3qGruV1QkFakruOvCs9MLACKvw96GscGc2Dz5MWVRs15QEKkSgfuW6cB6thkTd6BxHptJNXMfYRBsuQkcYP+mn2LzoR/5qhpGnSJpGeXaydYnliTgpi+seAiFpzmo9qxWOYCdgg+UyyLy7Fbm11t/0/c1x7gctXB2Sh2ufaEXW4u4+OeH8F6GsrPBgmZUZvgc74x3R8Pi89CvkYmFAmNmYMW0Fx9Iv6fxKqhL/fH5KcVCEL04fq7hVn3j3mWFMaeCwQ93onVTMriY8d4VyV2Ky8KNjkc4YKnM4LhtKhYkhVsuwt/qxcyNACHFyawHfNHf4GPE+FEMpjOR0WKx0aDtVEy8RJw+zaarr1x9aNRIHO/b8IqhbY/es6LJaC0KB9vOSyhji2iTym2m/ydLXFe+2D9WBbwBXnhFNh6Lmb63SU2D5q8i/IhYiVV56k3bVETIxkx4x8gec9Bw==;/1xLddpJjQoKiS7uZif5fg=="
 ---

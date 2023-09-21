@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Amazon Unveils AI Version Of Alexa, Other Devices, New Features"
+    excerpt: "Amazon.com. Inc. has unveiled a bunch of smart home devices, including an upgraded, AI-powered Alexa and all-new Echo Frames and"
+    publishedDateTime: 2023-09-21T11:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-unveils-ai-version-of-alexa-other-devices-new-features-1032646292"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
     excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
     publishedDateTime: 2023-09-20T18:02:00Z

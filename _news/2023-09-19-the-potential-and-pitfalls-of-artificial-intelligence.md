@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Confessions of a Viral AI Writer"
+    excerpt: "One day I sat in on a meeting in which an entrepreneur asked him when AI would start replacing human workers. Altman equivocated at first, then brought up what happened to horses when cars were invented."
+    publishedDateTime: 2023-09-21T10:00:00Z
+    webUrl: "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64efa222a15ccaa9aa267d87/191:100/w_1280,c_limit/WI100123_FF_AILit_01.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The tricky ethics of AI in the lab"
     excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
     publishedDateTime: 2023-09-18T05:14:00Z
@@ -32,38 +46,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "5 AI Trends in Voice of the Customer Practices"
-    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
-    publishedDateTime: 2023-09-18T10:00:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware's AI"
-    excerpt: "By Enrique CorroNORTHAMPTON, MA / ACCESSWIRE / September 20, 2023 / VMware The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs),"
-    publishedDateTime: 2023-09-20T19:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60163857-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmware-s-ai-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 39
-  - title: "Three-quarters of firms delay AI due to ethics concerns"
-    excerpt: "Cost is reported to be the leading challenge experienced by more than half (51.3%) of global marketing leaders."
-    publishedDateTime: 2023-09-18T08:42:00Z
-    webUrl: "https://www.marketingtechnews.net/news/2023/sep/18/three-quarters-of-firms-delay-ai-due-to-ethics-concerns/"
-    type: article
-    provider:
-      name: marketingtechnews.net
-      domain: marketingtechnews.net
-    quality: 34
 
 secured: "/ye0MqIwa0hdbPLAMslP1R3I5J4jGbHLv4jMDbo/fe4bnQIX4lsk6Sc9lYrOu3CpNEqVMDBUcJtcFFHW2PnBOps6c6vtJtB7t7p5/TACcwkGrHAVNsH7q9dFzXNrPeJRsl4MV1//TH9lB6DPdxNpY9d3v+1lkUUWn5WIyP1ZYYJrotQacvC/cwjLkNX3fj+DgO4s89Nhkdpy69BTUcMNv0KkbarkaCriQKafo2Kh8q45hp7SYLglf171L70UfbMZI2rEv/64/yNMz0/ONSUXHZwwrVCUDsVolnj7VvWjlqnwZ65HieKlX9GQH7kHBFk3s6Rbd0gpNuRmZO/MoPFrDzPvsx25OcTOz+gv9YOBLx0=;IQWiSaVZKtgr6OqFqpJWIQ=="
 ---
