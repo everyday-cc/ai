@@ -34,6 +34,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 17
+  - title: "Artificial Intelligence (AI) in Genomics Market to Reach US$ 19.72 Billion, Globally, by 2030 at 50.1% CAGR: Coherent Market Insights"
+    excerpt: "The Artificial Intelligence (AI) in Genomics market is estimated to be valued at US$ 1.15 Bn in 2023 and is expected to exhibit a CAGR of 50.1% over the forecast period 2023-2030, as highlighted in a new report published by Coherent Market Insights."
+    publishedDateTime: 2023-09-21T07:14:00Z
+    webUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-ai-in-genomics-market-to-reach-us-19-72-billion-globally-by-2030-at-50-1-cagr-coherent-market-insights.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
 
 secured: "T2UvJlJKbX14E6Q63OF2l2hTdakiuL68+elmFTtDtUi2wzt2K8jkCWa16dOlGY+UaqTE2/uTbW5mnKaOW0Azs719d56dtTjt6O2tYBPqO51AuhYZRBBSOCTVVIceJZuXviAltCL3CDpX250sLh4NQoMeiHW0OqdxSUS+2WWuRF2sT4OYtFUQwMzA708hWI1eqjzNqmUod4UVJzStQz8USLZ2c0XkHQS+fYs9NjGFK/je8B3cCI0qIlQ6w8tzlf7BHNtlI+ECYMZ4Us1Uy/y/cmbbJ8KtU6YRwgXW92GDcFJq/9RZcdL0I4NOkIN6F8M1+yw2+8El8qcTOVTaVVKJGsBFhDGBWD82hpjUxOR99eM=;/alp4I8e95obDARqBrxuhg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications"
 excerpt: "They should never be used to replace translators Ariel Koren AI-powered translation tools are particularly unreliable for languages that are considerably different from English or are less ..."
 publishedDateTime: 2023-09-07T16:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
+webUrl: "https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 ampWebUrl: "https://amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "2GFjQMfTFqydNqod1fMm0CQrzn89Adl69E3Y8aRhP3B58Fn5g1ziQL1XoGcUtvlQ9exuthrROKYTCUYAhyz/QBXKlvQrnWaUwwt3OpP2968DDQpaZ4pwjcx3q8bHbEd/wDhcxzRePZ+JZ0KjbaGL7YvG+yARDdp8HuA+TI4aRNzQmttT4KbvlV/IwyfSMwZVPwMshgltmvSYiVkJfOr/K254V6/AV0+l1jZzUC7C7juyDRYlk0xlZYxQW69yLWXabojXniaU1Pn2bt6ftst9GQ851QeQpX88fZhig/7dEDnTIsrfa+feUaeD3efQpG7fFnHjhLmeR+mLnTEJZI8ZO1F8npkfeINaF6w5D079Iwk=;vK/kLez1AhKx1Mff0f1j1A=="
+secured: "YXoPX/c4Ha3ejd6efzPAc75vS2LzQNqeMGUBv/WE1xAsB7GRZtLx93bae3OHm73XQe0Xf0KdfUEb4XB5sAWtGpmCtKNNi1HelJQk1H4BHv8X4TnLd1RAxmj8lBCvcuxm0d19FuX4KwQ6tzPag+lQURz96CTp8TkhNEnFE2NSsnxytVY/RhJYZww0F5fq1cfUTk2UKHyMYGI57/bIeZi52EVUfVtKMPPw9+P3I0m7WHzoddvl6RDFGOnwcHZGJ+LMrhibpxRUKy6YvjIa3M5enXhxAWBaoLi67trY2reYSEUBEAksb/lMBMHTKIy+NYz7NtetVIpJ3itNMv/tIwyzB9D9Js2quAvk5/4KBOzmaT0=;t8EQabMyQ9cW9WRROf3dOg=="
 ---
 

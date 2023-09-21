@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/companies/news/perfios-acquires-open-fina
 webUrl: "https://www.livemint.com/companies/news/perfios-acquires-open-finance-platform-fegoai-11695235692680.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech SaaS Startup Perfios Acquires Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Fego.ai is Perfios’ third acquisition, having picked up Karza Technologies in 2022 and FinTechLabs in 2019."
+    publishedDateTime: 2023-09-21T07:55:00Z
+    webUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 74
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/09/Acquisition.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "f8GcslrTyMBKbmyNdMw6xhCARJ7IaEh9XmUxVeMjtDBAY7ekjCGoPZsi5SZFaeIj+HOTBihFX4PtIC+q+tDeTMUdIHGEIdXWHdZINL9lsfbNB1hQ7/Ik2qBSidY3c9PDYv7E4Od5oQoo614ufGgxUIHFYA3tmGJ2r05eTzu8JSSBw1Mf7R0fb57kUeM4ommQvhn1K8IESx4prkjhidrTeCKjJHbAZjhdJpkZWE5acBmRAN8Lqy7KMrcjmo1Hds7P9H58v2ttPRdLvl7Yhn3TZOFT6h56Z/ixza0++J4Y4WCXbqQoP1wMkj6JAQEIO0qL8BIw3UouGhyDqqd/BXZ/v7kfITWq5JzbYkAuhexvTxjRbuaQ1zpOhbOtEMqfj268QKTvZTJirGx8zdqyjkKGoma5nYde5HC+9XpaHOcDPzfkctkIwMVyeYACr00XZTy+UskM5FK3Buob4EWcqlFxuYZHzezaCDhc6NND/L+oHoEC2KAHB78EiLWNB4+NFqttSgIGcFD2J0Pkw8Xcd0zGYQ==;LMb6XI4BjI6A/+EKXOUCMg=="
 ---

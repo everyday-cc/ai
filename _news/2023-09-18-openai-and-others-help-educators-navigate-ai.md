@@ -69,6 +69,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters.com"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-21T07:19:00Z
+    webUrl: "https://www.inferse.com/724477/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters-com/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-8971.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "See How AI Generates Images from Text"
     excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
     publishedDateTime: 2023-09-19T15:37:00Z

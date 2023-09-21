@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "A robot that re-creates human painted artwork"
+    excerpt: "Canadian startup Acrylic Robotics has created a robot that uses artificial intelligence (AI) to reproduce existing artwork at scale. The AI-powered robots use a combination of machine learning and neural networks to create the reproduced artwork."
+    publishedDateTime: 2023-09-19T20:08:00Z
+    webUrl: "https://insights.globalspec.com/article/21163/a-robot-that-re-creates-human-painted-artwork"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 34
   - title: "The Future of Customer Service: 5 Ways Startups are Leveraging AI-Powered Chatbots"
     excerpt: "In today''s digital era, customer service is undergoing a transformative shift. As startups strive to differentiate themselves in a saturated market, many are turning to AI-powered chatbots. These intelligent virtual assistants are not just enhancing customer service;"
     publishedDateTime: 2023-09-18T14:51:00Z

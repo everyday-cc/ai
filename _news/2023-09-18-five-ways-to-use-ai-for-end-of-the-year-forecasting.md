@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Bitcoin is the currency for AI"
-    excerpt: "BITCOIN'S compatibility with AI technologies is driving major institutional investors to increase their exposure to the cryptocurrency, according to the executive at deVere Group, one of the world's largest independent financial advisory,"
-    publishedDateTime: 2023-09-16T13:15:00Z
-    webUrl: "https://www.manilatimes.net/2023/09/17/business/sunday-business-it/bitcoin-is-the-currency-for-ai/1910352"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 19
 
 secured: "PObwZxhhvkv3ZZv5389RAJ5Jdd7RIddTN+YRhjROqWfNuVvkcvIvHTd/mNvxyHFvygvzH2kfdBvau3H9AXZXFEsWBka8QIiMdi7MB1reNSWibOL2htl/72Sys0WvjyCmdxVNlNeI4gpUD+IJRaSrZXlHG/tVyx7fIlF7mynr6MjDVmy2DvYiZlpE4CWHEsN53kyn0tVEEzb/NnOGS/9LJPprfhZT1eUyfUnx5rLDX5DD3EQuB1Rf8AHqOE0VDYxRz+FUCFhamXBJHsDkKZYNhCGIHFwP7d/nfjNqI8Ebigi42utP3rsCjsrnHo3oRcTrX+daVhymnKOt8SpwlNCf8MY2Fr+usXMpPo13OOQXGNDwj31Tz6JlVV8sEpfFlzOuq2O7WW44rgvfKP1WIdNFVA0qzHPjIovKbChuUR0fLglPECl08RoyrBf8NgxuMEm4eAGPvYn0k4oaTSGnvTBzQ3tX8NxtCeeu5gYtjS7xtlmYBw0866uiC/MaCSCqPQzvuVA4pt6x3QER2t1UM87igw==;XmaMpQyWFIks54H1Zul0+A=="
 ---

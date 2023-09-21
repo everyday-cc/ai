@@ -25,15 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Nintendo Switch 2 to Feature Unique Custom DLSS Unavailable on Any Other NVIDIA GPU"
-    excerpt: "Of course, an NVIDIA GPU means that DLSS technology will also be included in ... If some of you are not aware, DLSS is a technology that uses AI to enhance both game performance and image quality. It accomplishes this by initially rendering the game ..."
-    publishedDateTime: 2023-09-20T12:12:00Z
-    webUrl: "https://www.gizmochina.com/2023/09/20/nintendo-switch-2-custom-dlss/"
+  - title: "Media.Monks Pulls Nvidia, Adobe, AWS Into AI And ML Content Production"
+    excerpt: "The platform gives fans hyper-personalized content across new media formats by using the most recent GPUs, networking technologies and software platforms from Nvidia, Adobe and Amazon Web Services."
+    publishedDateTime: 2023-09-18T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 58
+      name: MediaPost
+      domain: mediapost.com
+    quality: 71
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/09/18/mediamonks-software-defined-production_R1rQrie.jpg"
+        width: 600
+        height: 375
+        isCached: true
+  - title: "Deloitte India collaborates with AWS to provide generative AI solutions for Indian companies"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) has announced a collaboration with Amazon Web Services (AWS), to enable generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T09:21:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 63
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "P5bSHjdraqYcBt0iceAOiVHU6b83a+8veF7VNDhZXJMtcFdqje7l6UoBPzOILpP8u6tNAQGI7u1YULNwE7G+yT2nGWgH8g7NJKlHGP/z9xpBD/eB8ebw/8diYP6gjf5rApv9EBlk7VXgi0RbRHc2c+ZYeey6jKtCACz7I629c+cEVtSWnlzz4slO3EO5ScZ1Ee0rcT046TKv6iZxea59k+HsHK6XMAy0zSTiuBGcxQ+rbrSLCUV+cslrdabMqs1oAUGupbXF0+fe2OnHV7WnPc7H8BKDC0sh5AMJiqSouFIzstmrj2oUY+4ZOaAuZfd/n5+CqS4TFp3TeUf0hfSoTDAbNbHwedeA4B5ij/yNkg0+l+XjiYZn/vtjfxTu1GuEvktcNCADU4MEtIBCnWWOKjvth1nqfsw0cVViTf12jClFejtm18ZKuwTVpGQv/rY1YE4ksdTSfnGPMGPBGEQXMy+MS7QB/tefFyJdXfNpUfGBtkpuhz82/UwtOJV3BFXCGP/5KRkbMxig9y9qh7wvbw==;mju10i9zvn5112Wbnq6C0g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-del
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
 type: article
 quality: 63
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,93 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Indian engineering student builds AI model for real-time sign language translation"
-    excerpt: "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words."
-    publishedDateTime: 2023-09-19T07:33:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
+  - title: "Media.Monks Pulls Nvidia, Adobe, AWS Into AI And ML Content Production"
+    excerpt: "The platform gives fans hyper-personalized content across new media formats by using the most recent GPUs, networking technologies and software platforms from Nvidia, Adobe and Amazon Web Services."
+    publishedDateTime: 2023-09-18T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
+      name: MediaPost
+      domain: mediapost.com
+    quality: 71
     images:
-      - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
-        width: 1200
-        height: 776
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/09/18/mediamonks-software-defined-production_R1rQrie.jpg"
+        width: 600
+        height: 375
         isCached: true
-  - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
-    excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."
-    publishedDateTime: 2023-09-20T08:28:00Z
-    webUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757"
-    ampWebUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
+  - title: "Redditor looks to answer the question of whether or not DLSS needs NVIDIA's AI Tensor Cores"
+    excerpt: "It's one of those myths that has been around since NVIDIA first debuted its DLSS technology, does it actually need AI hardware to work?"
+    publishedDateTime: 2023-09-18T01:26:00Z
+    webUrl: "https://www.tweaktown.com/news/93302/redditor-looks-to-answer-the-question-of-whether-or-not-dlss-needs-nvidias-ai-tensor-cores/index.html"
     type: article
     provider:
-      name: abp LIVE
-      domain: abplive.com
-    quality: 53
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
     images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/20/a721dec2c2ea0e2c0b302672d26d6b061695198496524402_original.jpg"
-        width: 1200
-        height: 900
+      - url: "https://static.tweaktown.com/news/9/3/93302_01_redditor-looks-to-answer-the-question-of-whether-or-not-dlss-needs-nvidias-ai-tensor-cores_full.jpg"
+        width: 1440
+        height: 756
         isCached: true
-  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
-    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
-    publishedDateTime: 2023-09-19T17:24:00Z
-    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
-  - title: "Deloitte and AWS join forces to enable Indian customers address real-world challenges using generative AI"
-    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) announced a strategic collaboration with Amazon Web Services (AWS), to deepen generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
-    publishedDateTime: 2023-09-19T10:57:00Z
-    webUrl: "https://technuter.com/breaking-news/deloitte-and-aws-join-forces-to-enable-indian-customers-address-real-world-challenges-using-generative-ai.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 37
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/07/Deloitte.jpg"
-        width: 328
-        height: 277
-        isCached: true
-  - title: "Indian entrepreneur's UK start-up using AI to transform services"
-    excerpt: "Indian entrepreneur Anuj Gupta's start-up, GreenVan, is attracting global investor interest with its conversational AI software that allows users to b"
-    publishedDateTime: 2023-09-17T12:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/indian-entrepreneurs-uk-start-up-using-ai-to-transform-services/articleshow/103735266.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
-  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
-    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Media & Entertainment Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-09-20T19:22:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-1122807/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 8
 
 secured: "fVfjq1w3SmzaPuWHS9SaKXt3Ybz6UxjRr6hzKPX4/JsAIEZ/II8uOURga24VRVYVUyxUK7yncIO/N/psLObBr1x0kivwX2LJeugitdvGUv37fjF7CbD0utF4YD1z2ERrEjGXZlcEL1SX2hDlvlP5rQ+wKJ43J9p9701PN40lus9HDn/UQo3wfgdjtRvAoLd0Yp6LBHJyPTQ0Wy98VCh47QC5nA/QetHqVkSMbJq7ekBOTdyWfYV0StTVbI1Q4tJOJtb7aeO9/tA6BOltADmW/Q+aV+oeeg7e5FMhVnqt5/FUCnr02jli6mMwGHGqHlSj9V/dQ1iS+im35X1zM/5baWndHqTG7XprhJqqpLdulD/YRZijdab4uHaBNy0HZ8TuvsfjC9+9/CRzq3PyWkwB2vK6rcXkHwIchYLpvipzhGRwqOtqHmSgeL9XuG3Nxohf2UC4akaHHv6wYDMZrBvSQupHwhr5C3zyMXB0+TxHQKJ6RF+24MJv0mR1fXY4zF7ZmINjffBogp+MZ42HhjJbTA==;TB1FK1QjC+RxmzaNsukQ6Q=="
 ---

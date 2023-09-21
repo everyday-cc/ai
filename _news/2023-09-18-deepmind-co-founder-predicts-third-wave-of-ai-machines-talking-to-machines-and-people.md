@@ -165,6 +165,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Looking into the Future: Google's Deepmind AI can predict if genetic mutations are likely to cause harm"
+    excerpt: "Google's Deepmind has unveiled a new AI tool that can predict how a certain genetic mutation will play out and if a particular mutation is going to be harmful or not. Researchers believe that these pr"
+    publishedDateTime: 2023-09-21T06:33:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/looking-into-the-future-googles-deepmind-ai-can-predict-if-genetic-mutations-are-likely-to-cause-harm-13151222.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/looking-into-the-future-googles-deepmind-ai-can-predict-if-genetic-mutations-are-likely-to-cause-harm-13151222.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/looking-into-the-future-googles-deepmind-ai-can-predict-if-genetic-mutations-are-likely-to-cause-harm-13151222.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 58
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/Looking-into-the-Future-Googles-Deepmind-AI-can-predict-if-genetic-mutations-are-likely-to-cause-harm-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "DeepMind AI can predict if DNA mutations are likely to be harmful"
     excerpt: "By working out which small mutations will probably be damaging, DeepMind’s AlphaMissense system could help doctors identify the cause of genetic diseases"
     publishedDateTime: 2023-09-19T14:31:00Z
@@ -266,6 +282,15 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
+    quality: 34
+  - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. Researchers at Google DeepMind have used artificial intelligence to predict whether mutations in human genes are likely to be harmful, in one of ..."
+    publishedDateTime: 2023-09-21T05:42:00Z
+    webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "Breakthrough: Google AI DeepMind successfully diagnoses genetic diseases"
     excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases, a breakthrough is anticipated to accelerate the process of diagnosing"

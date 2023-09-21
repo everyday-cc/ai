@@ -79,6 +79,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters.com"
+    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights SAN FRANCISCO, March 15 – Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its digital payment processing and other products,"
+    publishedDateTime: 2023-09-21T07:19:00Z
+    webUrl: "https://www.inferse.com/724477/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters-com/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-8971.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "wPDroJNhIqpwPuX+4yeUXbKbte/tGbkSC2M+Z65ctIVm4qGh7dxZ+uEHXetUoEsof2VxSmKlePs4GHEESNhZtPamw/xi1a2WAEp1xxAnzZk+IXVuV5i8T7MzbqU+zAHqDypABLyZg93XeCA/OzmBqtPcuV6QF9eaVVA+1OF9Yy8hRsBdNWyxHGBmy1Mn1rok0lz2iRsWXodtvqQ/CAeVAXhHOnwNlhwFdPEXI4vmGqeqv7fm8BHzeu2fD14VgXMTjlVluUdlxJi0SsfAkPalV7E1rMlpqylOH1fvRx9KlYogkndlyekCYtl9jXtqZoQ9DetaAhYa4f19QPiUFgw0jVytqguhHiCuN6bv/Tvjs7pKHpuDjptJG2Ofjg9os2fLjJQAnqs82/mCTTEHKZ7Wvg9WMYZ+vTsFgS9JEMR5rD0eHzPLSE76ZimBksyt3MA15HaQs1v++0ZCZCl9OPWJmzogQyHod5qe9DvUsPys1a/nLundAR6wmfJEnKc8K1MiEnt7zEEJF/HM54/otJlpgg==;rY4Tge0bOXwLi8KeKGOyvg=="
 ---

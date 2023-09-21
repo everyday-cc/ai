@@ -48,6 +48,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Deloitte and AWS join forces to enable Indian customers address real-world challenges using generative AI"
+    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) announced a strategic collaboration with Amazon Web Services (AWS), to deepen generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
+    publishedDateTime: 2023-09-19T10:57:00Z
+    webUrl: "https://technuter.com/breaking-news/deloitte-and-aws-join-forces-to-enable-indian-customers-address-real-world-challenges-using-generative-ai.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 37
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/07/Deloitte.jpg"
+        width: 328
+        height: 277
+        isCached: true
   - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
     excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
     publishedDateTime: 2023-09-19T11:35:00Z

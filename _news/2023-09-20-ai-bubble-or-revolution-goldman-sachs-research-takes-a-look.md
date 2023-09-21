@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34742974"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974"
 type: article
 quality: 61
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Media & Entertainment Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-09-20T19:22:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-1122807/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 8
 
 secured: "Ra6R0AS/7z/Hy6W/py/Kkw7/QHTdkjYuW/jj5ZbGLiolRfTw0kjp7i58y2WUcbz9Vz2nI7jJXvL2Ccj+r4syhSqRv0whhipvKya+SjG85tsJBKwKHS877FQlhg6VVlqJLM2nti79LFb86zrrUbWSv02THX2x+VSlLj0O1TBbwnv4BaPElzAcayOdUVTfZrsrtw1BrWOf9cu1E/RaPG98tv9S043BHmaLVCCVItcVmP3mzkSj/xYrFfi6kt688dNmUshey7KsnGhrleaXzldtK5DvZcx3iYXlPEQTd+DocOqhjABsvOTACK0PjiLOW3X3k6v5v9e9sXqT1rtMwYNWrOIu5cSmvFSOVZ5lQqR2DOM=;Nj7P2B9DEgyL+9DeJg0Xvg=="
 ---
