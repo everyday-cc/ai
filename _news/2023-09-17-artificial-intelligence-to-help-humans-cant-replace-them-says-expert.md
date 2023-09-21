@@ -54,15 +54,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Artificial intelligence and the workforce: what you should know"
-    excerpt: "Artificial intelligence is being experienced more and more in our everyday lives. Schools, jobs and the government are all making considerations about AI."
-    publishedDateTime: 2023-09-16T15:39:00Z
-    webUrl: "https://www.news5cleveland.com/news/local-news/artificial-intelligence-and-the-workforce-what-you-should-know"
-    type: article
-    provider:
-      name: Cleveland
-      domain: news5cleveland.com
-    quality: 19
 
 secured: "gQ65NskNrIjNXT/SNGLvPmpHunTcAK2AZypiUlL1yW84H49vKU09jgZWa5kpXFPc1Cv9VPHe78eEcOhRocEJm857pMzxzDmzs7Nn4S4eZTSJpZblCypZO0yPwmLUtebMbW9qonY6FNGIRDU6yRwEoWigw07I0cNvD/qEVTR5G0jhyipMkVOX+mTVxBIF72QVzeqFKndbafhRnYuGz0fMoZ/a0i/QjNdt/+ntoxaC6t+5Uy4vSnAds9O77a5aSHq99oP0H0NuL5e6O6fmXHcZZaA8S7eq8jB/GYL/fi4RjhR9kYtj70dU+DuGtbpfnYm3QMdtQJfYXlzs9DLDJ4xCKduqGd3QIwkONWfzQZYOaSo=;OrufcsR4rM993Ga7aD+5ew=="
 ---

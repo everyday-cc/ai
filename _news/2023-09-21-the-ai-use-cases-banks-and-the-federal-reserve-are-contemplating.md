@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/the-ai-use-cases-banks-and-the
 webUrl: "https://www.americanbanker.com/news/the-ai-use-cases-banks-and-the-federal-reserve-are-contemplating"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The concern around GPU shortages and how these could impact the AI revolution"
+    excerpt: "Businesses running intensive AI models, such as language models, or those with low-latency requirements, necessitate GPU-based inferencing. The training of Large Language Models (LLMs) is renowned for its intensive compute demands. For instance ..."
+    publishedDateTime: 2023-09-21T09:58:00Z
+    webUrl: "https://www.techuk.org/resource/the-concern-around-gpu-shortages-and-how-these-could-impact-the-ai-revolution.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 51
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/98985364-7d72-4007-a32591d3c0cff49a/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/Thursday-6.png"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "p40rAFD+lUgi1UPmb/K7jcwpGNwdHEwg/LW/mVidTl9VC4dIpohYH4mN/x8qxWZFZHX+soA5AjuO7wvGIMEeqO4/n9OgrnRNSYUkXEQ+1tV9Jsmb43EgKChPScny+9ep86SAkpEKGEfIeeUWR6/iXzR9ivNAJvqtod0dPcWaOnNoHVzi7doI8sSz7WejZTvi/uATrYf0D9ZFqkH/iwkaFy8NDM8bweVNjIxeZx7UgMO7eQ5r8qH8OPu+AxBpieYqZoi2+jc97hAUkC01ib1EpX5y8masBvB6s+AFvecVxo2sW3erUNcuxVHXayK9V7dFVoXQc9+O4JyVquglqq6wVpa6pC/pvfjsVNBS4ZelZiY=;B6+69OVYaRdc8k+eSvs/QA=="
 ---

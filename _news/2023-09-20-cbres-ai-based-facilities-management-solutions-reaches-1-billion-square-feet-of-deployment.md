@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
+    excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
+    publishedDateTime: 2023-09-21T00:00:00Z
+    webUrl: "https://www.01net.it/octaipipe-releases-version-2-0-of-its-federated-learning-operations-fl-ops-platform-for-critical-infrastructure-on-device-ai/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "dL0iom3JA2HZP+yu9ChzR1NIwXJDqr/3e2buzSasWNKib1SfUfUnMXSGdUwQCFzP4HwbSxADNNLx1wEsVZeb+HUR8C5OuzXAGqXN5XqXyCSmXH93mVTmrCOlRhz1oGzXct4b6pRzMEcG6EBqKFo16eLXwbpe5QnNVvU4sy9WbwWE1x/FczYOC6SLKrYGbywzhBVF1FZGMgU6i6cWsSQebUh0yG4XVnRzEjS4gTD7CCqPsxeItQovNuhfZ//jATdCzAlAOdHhKDAfCJoaNHRkqISMvbe5HRUGGxsFTPpxEh5UL8wwtXhlRdZ7DZiReZW/eI7oPmGZywCswgM9IyUWUdR5tm9B77vp1cysSenLq6o=;R2zPIeUuA3l/DmleV2FC6A=="
 ---

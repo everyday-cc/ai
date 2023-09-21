@@ -42,7 +42,7 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
-    quality: 1
+    quality: 3
 
 secured: "T2UvJlJKbX14E6Q63OF2l2hTdakiuL68+elmFTtDtUi2wzt2K8jkCWa16dOlGY+UaqTE2/uTbW5mnKaOW0Azs719d56dtTjt6O2tYBPqO51AuhYZRBBSOCTVVIceJZuXviAltCL3CDpX250sLh4NQoMeiHW0OqdxSUS+2WWuRF2sT4OYtFUQwMzA708hWI1eqjzNqmUod4UVJzStQz8USLZ2c0XkHQS+fYs9NjGFK/je8B3cCI0qIlQ6w8tzlf7BHNtlI+ECYMZ4Us1Uy/y/cmbbJ8KtU6YRwgXW92GDcFJq/9RZcdL0I4NOkIN6F8M1+yw2+8El8qcTOVTaVVKJGsBFhDGBWD82hpjUxOR99eM=;/alp4I8e95obDARqBrxuhg=="
 ---

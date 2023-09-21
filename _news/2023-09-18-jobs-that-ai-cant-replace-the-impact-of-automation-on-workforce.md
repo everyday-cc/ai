@@ -9,7 +9,7 @@ ampWebUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Artificial intelligence and the workforce: what you should know"
-    excerpt: "Artificial intelligence is being experienced more and more in our everyday lives. Schools, jobs and the government are all making considerations about AI."
-    publishedDateTime: 2023-09-16T15:39:00Z
-    webUrl: "https://www.news5cleveland.com/news/local-news/artificial-intelligence-and-the-workforce-what-you-should-know"
-    type: article
-    provider:
-      name: Cleveland
-      domain: news5cleveland.com
-    quality: 19
 
 secured: "s8lGXjBrRxC2ULCxEf9qLbEpEzd2JDDDaHYMX43qiX0TD/7QgVurOE7pU72RflqpJQoSzTN9KO1DN1sAYvHOUM6+VbDZI76jn2tIszBIzqyZEPQEt7qwuvMSPTLWE+7DotrUBM/UhavPcGqEBk9aEeQkgCtiFmyqSb760XYVI33L8ugP9AnJp6nvdmw/6yzfjTtDgDTkw1j59bRElKQ99h5vvM12xXfsQIyO6UgLbx56kAIsADVkOe6OGx2sKNN+ppDuhBT/ygDuNtCYlnV2TkKOFmE+X2NtFHCzdOKR6VBuIPOP59JePv1m8so6zPzTeshWJ4kWpZYd/9rzyMNAUdFefMiyocSdmSveOwF4r0j8LJlEvSpP/UmxQYxDFIkI0C3bB6TSvi61qS4n5WB+Q/pe8GeOUKo0amP0mYh20MP4kZQ4nSlxc9W0gpX5Wcizg1ueLrUBvOf8jDtV2IR/hsgBXSVjpJxZqJ+xU5R9YdSK+ui4g9Sw0hfA7y1oarvU2ZEr4jdDU0TSlHly5D5DPA==;En34dBM0vB+DOMasRtANIQ=="
 ---

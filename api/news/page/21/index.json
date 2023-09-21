@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-09-06-obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer.md",
+      "title": "Obsessed with privacy? Keep Tails on a USB drive and secure most any computer",
+      "excerpt": "If you're looking for protection against surveillance and censorship, this Tor-based operating system is worth a try. Here's how you get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "originalUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/47ea9eb0c49e09b472e905c01d49372e4e40e3e7/2023/09/06/b145424d-d84b-4e54-8563-f777abaca925/gettyimages-485333161.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
+      "publishedDateTime": "2023-09-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-financial-planning-budgeting-navigating-the-budgeting-paradox.md",
       "title": "Financial planning & budgeting: Navigating the Budgeting Paradox",
       "excerpt": "Financial planning and budgeting are changing. Learn more about the technology helping businesses to navigate these unpredictable waters.\nThe post Financial planning &#038; budgeting: Navigating the Budgeting Paradox appeared first on IBM Blog.\n",
@@ -1090,49 +1142,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-top-10-robotics-stories-of-august-2023.md",
-      "title": "Top 10 robotics stories of August 2023",
-      "excerpt": "The summer of humanoids continues as, once again, our top two stories last month were about humanoids. Robotics funding stories as well as new milestones for robotics companies also grabbed your attention in August 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2023/",
-      "originalUrl": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/august-top-10-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

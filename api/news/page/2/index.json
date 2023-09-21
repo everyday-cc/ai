@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-20-cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment.md",
+      "title": "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment",
+      "excerpt": "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
+      "originalUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
+      "publishedDateTime": "2023-09-20T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.md",
+      "title": "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech",
+      "excerpt": "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "publishedDateTime": "2023-09-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words.md",
+      "title": "Raleigh AI startup lands $100M – here’s what big deal means in CEO’s own words",
+      "excerpt": "Igor Jablokov is Pryon's founder and CEO. He published the following letter Tuesday explaining in his view what a new cash in fusion of $100 million means for his company - and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/",
+      "originalUrl": "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/machine-learning-ai-eye-e1687341786549.png",
+          "width": 1264,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1",
+      "publishedDateTime": "2023-09-20T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-the-financial-costs-of-deep-learning-what-businesses-should-consider.md",
       "title": "The Financial Costs Of Deep Learning: What Businesses Should Consider",
       "excerpt": "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems.",
@@ -897,49 +1034,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-19-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services.md",
-      "title": "All sectors advised to 'refrain from' using India made AI products, services",
-      "excerpt": "ISLAMABAD: The government has advised all informational technology and financial institutions, including regulators, to avoid using Indian origin” artificial intelligence /information",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1111479-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services",
-      "originalUrl": "https://www.thenews.com.pk/latest/1111479-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-09-19/l_1111479_085622_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1111479-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1111479-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services",
-      "publishedDateTime": "2023-09-19T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-19-ai-code-generation-software-what-it-is-and-how-it-works.md",
       "title": "AI code-generation software: What it is and how it works",
       "excerpt": "Using AI code generation software is straightforward, available for many programming languages and accessible to both developers and non-developers.\nThe post AI code-generation software: What it is and how it works appeared first on IBM Blog.\n",
@@ -1133,101 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-tri-is-using-generative-ai-to-teach-robots.md",
-      "title": "How TRI is using Generative AI to teach robots",
-      "excerpt": "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/",
-      "originalUrl": "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg",
-          "width": 1000,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
-      "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
-      "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "originalUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

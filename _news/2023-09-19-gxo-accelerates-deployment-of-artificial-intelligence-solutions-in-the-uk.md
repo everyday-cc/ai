@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 635
         isCached: true
+  - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
+    excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
+    publishedDateTime: 2023-09-21T00:00:00Z
+    webUrl: "https://www.01net.it/octaipipe-releases-version-2-0-of-its-federated-learning-operations-fl-ops-platform-for-critical-infrastructure-on-device-ai/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "GJwVBjqi6g4zG8QWYPqCc9/dybqxXq9TtHwv4JBTPZXFYX+Tl2Zr14Q5L6MBxrjLSQdqAN/b0ax/s6mHVK2xT9dS7FBYT9e8Zqx6s8fNkxqTBn47MkAlm3TonR0i5fA0ozS846F3PPXySgUJ9QdyytnKH971+4G2fj3iGaFEoF/Q1wvAJIGXIkUV+YkceT0vk5GHBm8h+2xWQVpwLWbTkFc5lfNBiaXTdvWTfcGnXF2t2R/0ZZnbbG26G1rdSOjfnYm2L2VwKVQT2szOn4EVFHALiH7WdBO2ydsnXFv+d7TObcpFh5bongrSVEwCPcP507rFTIesd7bTnJFfuDOG+s5x7TxOI7bDdB+0DznTvh8=;y6IiYngxjNqqX6/gv6NmWA=="
 ---

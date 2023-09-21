@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-21T07:14:00Z
 originalUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-ai-in-genomics-market-to-reach-us-19-72-billion-globally-by-2030-at-50-1-cagr-coherent-market-insights.html"
 webUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-ai-in-genomics-market-to-reach-us-19-72-billion-globally-by-2030-at-50-1-cagr-coherent-market-insights.html"
 type: article
-quality: 1
+quality: 3
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Ai Chip Market Is Projected To Reach $383.7 Billion By 2032, Growing At A Cagr Of 38.2%"

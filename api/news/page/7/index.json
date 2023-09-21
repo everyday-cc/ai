@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-15-navigating-the-age-of-ai-the-role-of-a-new-brain-industry.md",
+      "title": "Navigating the Age of AI: The Role of a New Brain Industry",
+      "excerpt": "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-thisisengineering-3861969.jpg?itok=O7b4XPWg",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/building-brain-capital/202309/navigating-the-age-of-ai-the-role-of-a-new-brain-industry?amp",
+      "publishedDateTime": "2023-09-14T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.md",
       "title": "Fans startled seeing AI robots at the Los Angeles Chargers-Miami Dolphins game",
       "excerpt": "The robots were seen on the sideline, walking inside the concourse and while others sat in seats throughout the stadium.",
@@ -1197,49 +1239,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-identity-theft-and-the-emergence-of-artificial-intelligence.md",
-      "title": "Identity theft and the emergence of artificial intelligence",
-      "excerpt": "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "originalUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1239742765.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/identity-theft-and-the-emergence-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-14T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

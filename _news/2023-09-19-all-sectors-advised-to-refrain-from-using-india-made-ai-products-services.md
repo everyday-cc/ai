@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1111479-all-sectors-advised-to-refrai
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1111479-all-sectors-advised-to-refrain-from-using-india-made-ai-products-services"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The News International
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
-    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
-    publishedDateTime: 2023-09-19T17:24:00Z
-    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
   - title: "Govt advises all sectors to ‘refrain from’ using ‘Indian origin’ AI products, services"
     excerpt: "It noted that globally AI products and services are being used by various industries including financial and banking sectors to accelerate enterprise growth. “It has been learnt that [the] fintech sector of Pakistan including a few banks are engaged with ..."
     publishedDateTime: 2023-09-19T19:06:00Z
