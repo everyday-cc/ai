@@ -2,11 +2,11 @@
 category: news
 title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
 excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads"
-publishedDateTime: 2023-09-20T02:47:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326943"
-webUrl: "https://abcnews.go.com/US/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326943"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326943"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326943"
+publishedDateTime: 2023-09-20T16:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+webUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
 type: article
 quality: 29
 heat: 29
@@ -33,6 +33,22 @@ related:
     webUrl: "https://www.cbsnews.com/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
     ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 26
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/14/560aff8f-06d2-40a6-81e8-9088929c69c6/thumbnail/1200x630/b9445fc6ba5dd9f145bca3dd253979a4/Big-Rig-18-Wheeler-Generic.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Truck drivers urge Newsom to job-saving bill to save jobs as self-driving big rigs are tested in California"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+    publishedDateTime: 2023-09-20T18:03:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
     type: article
     provider:
       name: CBS News
@@ -77,14 +93,14 @@ related:
     quality: 4
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
     excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-    publishedDateTime: 2023-09-20T03:26:00Z
-    webUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+    publishedDateTime: 2023-09-20T04:26:00Z
+    webUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 0
 
-secured: "bk3dBwzkSCHTw7P6UQ6s8fk+iNNEJgUMl1A8DAE7v+NBiOiTBlx4JJYomy49YC9QlrAo1t6pBXiRX1/disrmGXeiFjPfNY6ZODAQr3vh6e9imSUFLzow8INA4SCKSGGkMH9muT+A0+/DnGSrBQemgKNJWju5B7kJRwilYxX1723tCilxUPB5vEBZRzqBi46FDKokHBtPfb12g6nLrdV0j8ZDPPqIOKw2kZJa1yokF9TcSMK1uy8RnhqPWWue5/959rufBTBhJSN1B/HRAwmh0GVwhbqqnhMLtQqauxYCPETNjGOcszujoHYqjENhkVkdqJwDEB0ML/KiPrtt5iOVEVJaleMj2NCI+v/4QJXzOaeD2zwwbEObF7W7nXxGKxIwVsmbnIu8kIRz18jFcF5GeEkNjGxHsZTLfJ7PRwGJAstOoXDnHmoIcFB+umscLL2YokAe293hACVxKZ+BKFH+LXsIbYmeSvTQ7jH2x6DR+Mzis6Rqd6drqoP8VO4mRjbJL39E5dEf4ILNhYH5AaRCSA==;JW08zQZdrM7ybKdLZNvRkw=="
+secured: "DxByJC/yUV7vdoDDL5Df0qLX1yG9dmKC0HRClfkbeLHPknevkkVBK38m1DOjQWiU5NeW0beJL4PP69P5tcJqwoj5jls0fwC42NCwfbVadqewnzDcRSz+0iiY0EenhBtURNsZPE0cn8a1oze2+BKsNVBeu3miB8N8GcyIMCpwMzofUAIzNTeFLPezQVHdUhOuQdBSrpzq7Z647GUv+VUcsYcLb/hL4BZetB3OoDwNqvDj46sUlp4GgcYUdZJ48/kd1OfmIFaotrmN4isJ/6LtiokNQDxnAhKrxJK8PAMM/il3LLZKqYQvd0uN8ak7Vacpn0FqzU9Na7g5S0r5s1JnQe44XVjoIUH3n2GoBjr8jTE=;uuV6oZnGvEkH5LJFfjBjSQ=="
 ---
 

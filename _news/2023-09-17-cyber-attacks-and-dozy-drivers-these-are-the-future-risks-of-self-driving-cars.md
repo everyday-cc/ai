@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-excerpt: "A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs after their investigation into autonomous cars on British roads."
-publishedDateTime: 2023-09-17T09:29:00Z
-originalUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
-webUrl: "https://www.aol.com/cyber-attacks-dozy-drivers-future-054453091.html"
+excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs ..."
+publishedDateTime: 2023-09-17T06:59:00Z
+originalUrl: "https://www.independent.co.uk/travel/news-and-advice/autonomous-vehicles-cyber-attacks-danger-b2411929.html"
+webUrl: "https://www.independent.co.uk/travel/news-and-advice/autonomous-vehicles-cyber-attacks-danger-b2411929.html"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/2e8980d8b071038aa21b2d32533d574f"
+  - url: "https://static.independent.co.uk/2023/09/15/00/newFile.jpg?quality=75&width=1200&auto=webp"
     width: 1200
     height: 901
     isCached: true
@@ -127,6 +127,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WCh/DklfmW05A/oEC2vJrXdOM07WtfDHWvZN/SyoJj0aT7N3TkuCFvclXF7ZZcD4kG99TMSnT2dyg8yzG+ddNb3fkelRdXiZQkJtGTY4xIRTF9KQwM5j8+N24Vu1YoJidyPSKYtzY3Que8gHhpGXJGSXdcUp/B5Pe67wPuIkUwEYymuMBKEsWdREotmBQR2n2eYe5mEz/FRTjixybSxK5CrXZCjyqaB/W5LwHCzbjm8xfk0u1FSGtg75nmXWQht3VBzgolQBBGhf3udYVg+5vciToul232Fwzwwcsf2z8EMtwEBYQdjUoJQuif98uyhNe7MD/LzeofoeA4rOkTtrPKqWI5ni589/DVHhoEsXaxQ=;Pz3YT4XBIidmZvMVszRaOA=="
+secured: "NJvcP2LvKGOBVMXPsVZ8O6buHQ3SSMTCxpMiHBpzPpZ2TP10T2HlKtgFXsOn7d2ZucwjEGU8USI4UdFVWAilIK7+bvRUmCosz3+Zhq5xp6HEoeokeoIheXjeCFPXlILSGkHjz7bDDiY6pEPmiXmU+n8Saitv1uAapqTL8XaWysl3bWuWyge6ONU9aCTjRECU6n9mS1+Qfe0xmV8XJC+nt6T18+4yrvNP1K+ua7+ljSyCyO5R9ZRRpJJ8uUSwBMcoKwUoK8SaY/YsIAhTp2ysBfJYh8HvOKKLJy0AXmHMESt2Y7v7vTaqQLb2pM+8HPIlxQSXJcIlWfDzxBMIyDDBL1vmf2hChZBl1KY9yYgmPOc=;waRhK8vKOVr4y5l34eRbbQ=="
 ---
 

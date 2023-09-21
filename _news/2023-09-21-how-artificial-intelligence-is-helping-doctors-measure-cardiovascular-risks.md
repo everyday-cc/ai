@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/philadelphia/news/how-has-ai-impacted-the-healt
 ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/how-has-ai-impacted-the-health-industry-artificial-intelligence-cardiovascular-risks/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/how-has-ai-impacted-the-health-industry-artificial-intelligence-cardiovascular-risks/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/12/89a4451a-1899-40a0-9847-92bd1b89482f/thumbnail/1200x630/214bc1384746e1a952ad091a152ca94b/gettyimages-1294993946.jpg?v=8e14bdb7e67d007af3399b47230d2245"

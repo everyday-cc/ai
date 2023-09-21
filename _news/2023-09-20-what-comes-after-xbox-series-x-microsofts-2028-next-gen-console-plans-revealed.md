@@ -253,6 +253,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
+    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
+    publishedDateTime: 2023-09-19T19:38:00Z
+    webUrl: "https://www.aol.com/microsoft-ai-researchers-accidentally-leak-163850385.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/mnVp2Kt1tE.xE5QXPeu0Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/e681c7e674a06a84ff0c371c2c519491"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft passwords and keys exposed through misconfigured Azure storage"
     excerpt: "A misconfigured link enabled public access to 38TB of Microsoft's confidential data from two employees' workstations, opening up the potential for injecting malicious code into Microsoft's AI models."
     publishedDateTime: 2023-09-19T07:11:00Z
@@ -325,15 +339,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
-  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
-    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
-    publishedDateTime: 2023-09-19T19:38:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
     quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."

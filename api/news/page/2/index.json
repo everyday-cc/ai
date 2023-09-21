@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-20-oracle-unveils-its-api-led-generative-ai-service-with-coheres-llms.md",
+      "title": "Oracle unveils its API-led generative AI service with Cohere’s LLMs",
+      "excerpt": "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
+      "originalUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/ocw-crowd2-100946179-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
+      "publishedDateTime": "2023-09-20T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world-today.md",
       "title": "Cathie Wood says Tesla is the 'biggest AI opportunity in the world' today",
       "excerpt": "Ark Invest CEO Cathie Wood says she believes that Tesla is the \"biggest AI opportunity in the world\" today. \"So we think it has miles to go, it has just started,\" she told CNBC's \"Squawk Box Europe\" on Wednesday.",
@@ -251,7 +303,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1186,57 +1238,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities.md",
-      "title": "Docyt AI Enables True Real-Time Accounting with New Advanced Generative AI Capabilities",
-      "excerpt": "Press Release Docyt, the frontrunner in AI-driven accounting automation technology, launched Docyt AI, incorporating advanced Generative AI features into its Precision AI-based platform to create the industry's most robust accounting intelligence and automation",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/",
-      "originalUrl": "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230919254478/en/1893645/4/Docyt_AI.jpg?strip=all&#038;ssl=1",
-          "width": 480,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

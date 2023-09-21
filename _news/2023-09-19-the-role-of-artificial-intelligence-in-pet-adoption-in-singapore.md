@@ -33,20 +33,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Brain inspires more robust AI"
-    excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
-    publishedDateTime: 2023-09-16T08:19:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1001677"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 218
-        isCached: true
 
 secured: "uhga7cEWTgfAPnNSmy1gSHqoLyeugtJYJUtExJ9+9xQD2tbRNaQH/GEA5CanUP0xtWFkIT6jbsGM64JMQrLK+MfF1DAzcFmaNQX+Wb4JIi9NGR26TBSLpVapDPNDPclQbYNeXWzxb8uJuIZIwowOCyV7Wzde7NSTKxw4chHCNYBb8UJRgstSVeOyxHMtiFrMu7Fj6ARmntWfYebUvb/e0Te0R9Z6g86W2YtJNfJrLuTDGNFeNqjl6n00MMxoIJij/PJucX324oR3+44FtW0UlXBRu3jH6XJ+mD50MkxMc96HGa1aYwuWd8UJPQiTrGoByLMx478WQEdDE4Wl7um0O70F/ITKhSm6ZowJehFi1mIs0k+svebaP82tQveWHhyNB+RHzMC1kdZNrjhcxbKVJNPmyDPiOfG+ZdTHbvczJ4FBX3mOzuLoUESd84+jH8XQ0XnH3B/i0MS/3Uzfx1lGlYEdUO+uRRkKlR0yCqIRoqyHuwVAcZwPeGUvIQZPr0M1nMfk9PiWQTq4pDt26lYZ6A==;xxo6GGCLB1vQ0iWEfG6dsQ=="
 ---

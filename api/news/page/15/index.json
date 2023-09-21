@@ -2,6 +2,161 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-10-amazon-now-requires-authors-to-disclose-ai-generated-content.md",
+      "title": "Amazon Now Requires Authors to Disclose AI-Generated Content",
+      "excerpt": "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
+      "originalUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-09T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-how-elon-musk-set-tesla-on-a-new-course-for-self-driving.md",
+      "title": "How Elon Musk set Tesla on a new course for self-driving",
+      "excerpt": "The new version he was using, FSD 12, was based on a radical new concept that he believes will not only totally transform autonomous vehicles but also be a quantum leap toward artificial general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107293542-1693349778237-94_Dhaval_Shroff_from_him.png?v=1694260802",
+          "width": 2524,
+          "height": 3366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
+      "publishedDateTime": "2023-09-09T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-sci-fi-fans-meet-their-heroes-at-wiltshire-reme-museum.md",
+      "title": "Sci-fi fans meet their heroes at Wiltshire REME museum",
+      "excerpt": "Science fiction fans have been meeting their favourite film and TV heroes at a special event. The Sci-Fi Day was hosted at the Royal Electrical And Mechanical Engineers (REME) museum at Lyneham in Wiltshire. Fans marvelled at the \"real-life\" creatures and movie memorabilia from franchises such as Star Wars and Doctor Who.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "originalUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/23B8/production/_131044190_reme5.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "publishedDateTime": "2023-09-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-computer-vision-market-economic-impacts-expected-to-extend-to-broader-by-2030.md",
       "title": "Computer Vision Market Economic Impacts Expected to Extend to Broader by 2030",
       "excerpt": "\"Computer Vision Market| Outlook 2023-2030 | Pre and Post-COVID Research is Covered, Report Information | Newest 108 Pages Report The extent and overview of the various commercial opportunities ...",
@@ -989,152 +1144,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-zoom-unveils-new-ai-companion-features.md",
-      "title": "Zoom Unveils New AI Companion Features",
-      "excerpt": "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200",
-          "width": 480,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
-      "publishedDateTime": "2023-09-08T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-what-large-models-cost-you-there-is-no-free-ai-lunch.md",
-      "title": "What Large Models Cost You – There Is No Free AI Lunch",
-      "excerpt": "Recent research reveals that a substantial portion of the computational operations in large models is wasted, with over 99% of floating-point operations resulting in zero calculations. Relying solely on massive models that consume vast amounts of resources is unsustainable in the long term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb30f65900cea4b773b640/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
-      "publishedDateTime": "2023-09-08T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by-idc-innovator-report.md",
-      "title": "FarEye Recognized as Leader in AI for Order Management, Fulfillment and Last-Mile Delivery by IDC Innovator Report",
-      "excerpt": "FarEye, a leading provider of delivery management solutions, has been named a leader in artificial intelligence (AI) for order management, fulfillment and last-mile delivery by analyst firm IDC. The recognition comes as part of the “IDC Innovators: AI for Order Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by/article_5e2b212d-78d0-5bb8-ae35-7d1dcfd772a9.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by/article_5e2b212d-78d0-5bb8-ae35-7d1dcfd772a9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
-          "width": 437,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

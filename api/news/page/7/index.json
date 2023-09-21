@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-15-salesforce-readies-ai-assistant-for-crm.md",
+      "title": "Salesforce readies AI assistant for CRM",
+      "excerpt": "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
+      "originalUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
+      "publishedDateTime": "2023-09-14T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready.md",
+      "title": "Tech Nonprofit Wins Google.org AI Award to Help 30M Children Across India Become School-Ready",
+      "excerpt": "Rocket Learning wins Google.org AI for the Global Goals. The tech nonprofit will use AI for good to improve early edu for 30M Indian preschoolers in the next 5 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/",
+      "originalUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650353854ae02be1af2250bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/amp/",
+      "publishedDateTime": "2023-09-14T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-stability-ai-just-unveiled-a-text-to-music-generator-and-you-can-try-it-heres-how.md",
       "title": "Stability AI just unveiled a text-to-music generator, and you can try it. Here's how",
       "excerpt": "The Stable Audio app uses generative AI techniques to create music, sound effects, and audio up to 90 seconds long based on user prompts.",
@@ -900,6 +1003,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-14-latest-natural-language-processing-market-growth-analysis-2023.md",
+      "title": "Latest Natural Language Processing Market Growth Analysis 2023",
+      "excerpt": "Natural Language Processing market focuses on analyzing the current competitive situation in the Natural Language Processing market and provides basic information, market data, product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34575757/2023-2030-global-natural-language-processing-market-size-will-revenue-to-cross-usd-35630-81-million",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34575757/2023-2030-global-natural-language-processing-market-size-will-revenue-to-cross-usd-35630-81-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34575757",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34575757",
+      "publishedDateTime": "2023-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-linkedin-cofounder-reid-hoffman-thinks-pausing-ai-development-is-foolish-and-anti-humanist.md",
       "title": "LinkedIn cofounder Reid Hoffman thinks pausing AI development is 'foolish' and 'anti-humanist'",
       "excerpt": "LinkedIn cofounder Reid Hoffman is the latest high-profile figure to dismiss suggestions by experts that pausing the development of AI would be good for humanity.",
@@ -1070,151 +1216,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/amp/",
       "publishedDateTime": "2023-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
-      "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
-      "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data.md",
-      "title": "The Next Generation Of Clinical Trials: AI And New Ways To Use Data",
-      "excerpt": "With the advent and widespread use of wearable technologies and the adoption of decentralized clinical trials (DCTs) generating millions of data points for trial organizers, there is immense scope for AI to be deployed to generate valuable insights from this data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c16b7f73a49bc1d8964a41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/",
-      "publishedDateTime": "2023-09-14T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-beyond-text-and-images-how-generative-ai-enriches-analytics.md",
-      "title": "Beyond Text And Images: How Generative AI Enriches Analytics",
-      "excerpt": "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d7457f3bc1dea938034ea8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/",
-      "publishedDateTime": "2023-09-14T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

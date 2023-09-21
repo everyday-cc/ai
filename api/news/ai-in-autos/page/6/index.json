@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
+      "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
+      "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-a-bull-market-is-coming-1-artificial-intelligence-ai-growth-stock-has-billionaires-betting-big.md",
       "title": "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock Has Billionaires Betting Big",
       "excerpt": "Artificial intelligence (AI) promises to usher in a ... its autonomous driving subsidiary Waymo and its AI research unit DeepMind could evolve into sizable revenue streams in the future.",

@@ -59,6 +59,22 @@ related:
         width: 835
         height: 468
         isCached: true
+  - title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
+    excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
+    publishedDateTime: 2023-09-20T18:06:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 47
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_0d02285b169fa24faf3ecbf259b31d82_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon's Alexa is a whole lot smarter and chattier thanks to AI"
     excerpt: "Some days, when working from home I spend more time talking to robots than my fellow humans, so it's nice to see Amazon's Alexa given an AI upgrade that really helps ... Limp was even able to start talking to his Echo Show 8, walk away and then come ..."
     publishedDateTime: 2023-09-20T15:52:00Z

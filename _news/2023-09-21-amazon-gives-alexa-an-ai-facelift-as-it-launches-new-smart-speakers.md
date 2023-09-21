@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everythi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
         width: 835
         height: 468
         isCached: true
+  - title: "Amazon unveils a \"smarter and more conversational\" Alexa amid AI race among tech companies"
+    excerpt: "Amazon has unveiled a slew of gadgets and an update to its popular voice assistant Alexa, infusing it with more generative AI features amid the heated AI race among tech companies"
+    publishedDateTime: 2023-09-20T18:06:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-unveils-smarter-conversational-alexa-amid-ai-race-103351370"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 47
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_0d02285b169fa24faf3ecbf259b31d82_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon's Alexa is a whole lot smarter and chattier thanks to AI"
     excerpt: "Some days, when working from home I spend more time talking to robots than my fellow humans, so it's nice to see Amazon's Alexa given an AI upgrade that really helps ... Limp was even able to start talking to his Echo Show 8, walk away and then come ..."
     publishedDateTime: 2023-09-20T15:52:00Z
@@ -96,6 +112,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "n0jn2u+1rb3SXDgPX3hntuJeKEgodAUR3rkIvR4j8B3DsiMPAE8rJ8wo5wyj7KGny1FnS5O2HO87w8ZMXNEYfbVCiXwsCFhgfnFsyrsNiyAJgOJ0TUEgNJeL7UsEgpgXamu/KFFW8cmGlSocYEdMJaTzg2HFzuaxCVfQKB2ky0auiDF7MUs+bXm7JwTqBwKjnpdu+hSPleUGWYXeCAvuUslGkHN1PVmqCLRy7zLWqmtPY8MtxT7aMt2yhLt2aGBA4EGtjgH+BwifHP8rqYgyB8EnDzxR68MHzB1jDE9qTvYPeDsjHStsLUG0gNLa4ZY7KCo4K3thxijrHC9P/v4KGH0dq72KBfaVl+p94kJ75+E=;Mb4kZxgf/DqXH5QluSaSbg=="
+secured: "LbtOdFmFQGIVMANCmIEvdT9dtpdYOWjTGbUW7BOz5JExum8JwMdJx1tuCLNtF0hmMxCmj1i7wdXDhmFa0hk1c0PGpjYpK55UZsiWFJOJxnN3EWH++bRO1OEQuGN8Sqja8yDw8tY00vylJKl+Cmigg6Mtk2m5f6iFSrYM1ibN7X9278eGl2qC27zwAxFcUyGaFYtpzX+t8vpdUHKrtrbj9MnOV21DjHSOIQnn0qjUDh6D1vunbwJIS2NUQTz7U0bhdrU6CHKxMSFp/LXQXeI9YRaDWufu78dAKrKMM9Xw7QFaDUGm4rEfLBq8uuhEXRfMKZRZyM4pSblgsKvxcL91yRyPr/VtFvtPBovoYvSpLVPz+H07Mwfr9tjSak3Lm5jj6MOpA/BKqlteeTJF2NPxqyrzsY7sW6KGbp3/6QZhxIdFkpA2BEjhT2mMYv0XKPa77RjByKE+UGs1og3iV3n6Clyw1xiGB5tjZ1NSMpmZFT+DBVIr6bVHpzT+3Fxf4zb0exc9Uyp5sUbWtvyOUnvR0g==;StN5imtDaZ8idDVjVpc0Pw=="
 ---
 

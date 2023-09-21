@@ -1,28 +1,54 @@
 ---
 category: news
 title: "Pennsylvania state government will prepare to start using AI in its operations"
-excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it. Gov. Josh"
-publishedDateTime: 2023-09-20T21:08:00Z
-originalUrl: "https://tulsaworld.com/ap/business/pennsylvania-state-government-will-prepare-to-start-using-ai-in-its-operations/article_9199b05d-d297-5aa2-9632-6d2810b3c89f.html"
-webUrl: "https://tulsaworld.com/ap/business/pennsylvania-state-government-will-prepare-to-start-using-ai-in-its-operations/article_9199b05d-d297-5aa2-9632-6d2810b3c89f.html"
+excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
+publishedDateTime: 2023-09-21T00:52:00Z
+originalUrl: "https://www.chron.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
+webUrl: "https://www.chron.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/f9/4f96c5a6-4cfd-53c4-a13b-a41b27775726/650b5fda38207.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
+related:
+  - title: "Pennsylvania state government will start using AI in its operations"
+    excerpt: "Pennsylvania will use artificial intelligence in its operations, Gov. Josh Shapiro said, as states are increasingly gauging the impact of AI and how to regulate it."
+    publishedDateTime: 2023-09-21T01:16:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 57
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/09/AP23263755603050.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
+    excerpt: "We don’t want to let AI happen to us,” Shapiro said. “We want to be part of helping develop AI for the betterment of our citizens.”"
+    publishedDateTime: 2023-09-21T01:30:00Z
+    webUrl: "https://www.penncapital-star.com/blog/gov-shapiro-creates-ai-governing-board-to-help-steer-the-states-use-of-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: penncapital-star
+      domain: penncapital-star.com
+    quality: 34
+    images:
+      - url: "https://www.penncapital-star.com/wp-content/uploads/2023/09/shapiro-AI-photo-CMU-scaled.jpeg"
+        width: 2560
+        height: 1708
+        isCached: true
 
-secured: "pRbdQHrXb1bYIqCADC2UcAelhZLsk8Sl7k+o9Nm2+H66142f67S0GlovcGgczCP8bBbZDNkI66Skk7stcR/GaSjAZbTLshs/g609e8hJhsphDq2EWHSdUgv+4XbPONXqdyzdJcBJ5PDgsSJMjdI4oeOD4JaEn5U3HGgS8McZCoKKKGRdeVIDKXg8dAmo0Y9IYsq3S1OIGJdOYI+qslhGqn5+jLRMCnZbTDscC1D0Liu0dTKZEiILe+1o/ILAUNc+17sdZyEKj45iFz0PTsx5q828DQFFvvYN979X+Cy5F0u6BjGlnKhXoOMWr1rTpoQIVTAyBLuQCG5ft7gV13oTb0FL1sEYyEnyGuZAIZayjsI=;2kkJuRu9fDdMoDSRAAcfgg=="
+secured: "ShzFoxBrwdQLZUAAU9rWrtmVwnTPZIEB8UW6r+AITNvCbBAyVg9mEt887zIClkNDClMp1A0hgt296rCBEgfcB7sBlCku+PvS/o9CNtSioE2F8V/HUcL8IHNI49WEdTfQTHdloPy4iIvfNN1B3BVpIfcyvQdrdOHuWtXg1E0orcrE6eZ22vqvVOOqG3OjeAFMs7qJsy3dlkg9oDJ/hTij9W1H2KpIEmmMLKDLuE7/L+Pk8PS/xT7Nn4+7UCoJvhucqdjo1P5qo+7yLy4lNbk8XqNlziAQpMDNQttvcR+nCAi6dj1/Xzlr/cSmtbgmDyjYWe7g/4p0STKWxQYcXXQZIbmdiApgCwummAzCGKLRLzpFrMS+T5c2rxkG5Yxx8c6+hgxVr8XzcC5bmIMqB9rwgsOJ7K7uQEflpWV9tjvr5MEjjiIW+aUkpVg4fyaIH552aYZhQF0cC2Byrbg3Dmk7pFEBpRGccrYvdm+FWSuc31XEx6SxJAuR6ez4UdJ6WjU2iz5P9LpNxhkqwNO5Ub48Vg==;tp6/yUjSNnxuYQlmz3Km1Q=="
 ---
 

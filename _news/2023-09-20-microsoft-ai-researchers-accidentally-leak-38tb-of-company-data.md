@@ -3,10 +3,10 @@ category: news
 title: "Microsoft AI researchers accidentally leak 38TB of company data"
 excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
 publishedDateTime: 2023-09-19T19:38:00Z
-originalUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
-webUrl: "https://www.aol.com/finance/microsoft-ai-researchers-accidentally-leak-163850385.html"
+originalUrl: "https://www.aol.com/microsoft-ai-researchers-accidentally-leak-163850385.html"
+webUrl: "https://www.aol.com/microsoft-ai-researchers-accidentally-leak-163850385.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/mnVp2Kt1tE.xE5QXPeu0Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/e681c7e674a06a84ff0c371c2c519491"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Trade Ledger Introduces Bank Solution with Microsoft Azure OpenAI Service"
@@ -371,6 +377,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "/bJ7AuRi1PZZAaQmKGobwUPIosFApL/6DvIAeNV0UXlzTfOY3XZjHRk0KjxEcRHAB6sBj4OeqLo3lcfFYCyhY4A3koCoLnViDo+LtlLbplClNspx6VP2GIAc+cRu+wwiaM2uKjpAmWtKpnJrcygcpKIuLhkNo52y3sjbf1q6as2FY8c7ZUognY1slokzDxCgCrAIloCJK0qVD12dUqglpSIAs5tG6dvDZ+u1Hn8/UInN8MrwNwEQ5U6pRORSwVok6c9cqX07BIbNzlZmVV095SwWxGopU7M+6FJeh36S8WyqJKLm7+P3RbS+zcKhs3UJI+tctxQFCUoEDd7NaDiRRrtmlnJarhCwHw7uteCRWtXOPfTTMQUmvNCJJUXRHQQ1mZWv3iF6XPiYx5tH66sQj3QE/4gM8VFHgV9BcTKyryRGsNSWODnyItZ/9LxDEM7WA2n66byWADtr964n2JhSQR9JAOXXwFtT0+WSdPDcmknMzOb9FWEpLtMOcfpO7y5X55vTYtmlvhcDSIXOwWMNyA==;uc1Ybl4ywhdZz6Lbaa2ptA=="
+secured: "uZY+2qaDbkyu70773iS1XdZg4sa47H8YlA6d2xqsYLklJZaomQqeuJc2ilrtJJx9J3JHlRRx/NgCd/6cny4QPBkgXUp7DcFBCibzz5T4fNLmu2iy4FBj/7mGhyY+Nj0mXS29whS1aO5swzpHdmgTn0Im9lROlcMzTvBri+GPEl5fQ9HLZjPTxnHS8oOcFtLTfjwsZNl7vBTDg/2EUcHEVDpaEgqrYUhd5DJqu6NWCnhZmg3/p82D7xrsdRT1l27wUs/B8TRCdAdSmD8yKBUlhYbjeC7ckVq2ZuEDmnZ+YFF/2F1/pz4E67b8PkS3au61t31t7nug+Rxt6hiPd9CGeB9+eP/ozS4x8+0P/4gUero=;dbvd3/+T1Lve/wsV8CDSNw=="
 ---
 

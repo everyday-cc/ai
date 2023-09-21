@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Science Daily
@@ -24,20 +24,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Brain inspires more robust AI"
-    excerpt: "Artificial intelligence (AI) has become a relatively common thing ... but a more serious example could be a driverless car mistaking a stop signal for a right-of-way sign. And it’s not just the already controversial example of driverless cars; there ..."
-    publishedDateTime: 2023-09-16T08:19:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1001677"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/69a180ba-52cb-4e9c-af98-d9fcc661e76f/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 218
-        isCached: true
   - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
     excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
     publishedDateTime: 2023-09-19T05:01:00Z

@@ -249,50 +249,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-18-brain-inspires-more-robust-ai.md",
-      "title": "Brain inspires more robust AI",
-      "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230916131430.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230916131430.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-09-16-tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.md",
       "title": "Tesla FSD and AI Will Drive Share Price Like Amazon AWS",
       "excerpt": "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
@@ -420,6 +376,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-driving-tests-should-be-adapted-to-make-sure-motorists-know-how-to-take-control-of-a-self-driving-car-mps-warn.md",
+      "title": "Driving tests should be adapted to make sure motorists know how to take control of a self-driving car, MPs warn",
+      "excerpt": "Driving tests will have to be adapted to make sure motorists know how to take control of a self-driving car, a report by MPs has warned. The report, by the Commons Transport committee, urged the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/09/15/01/75454361-0-image-m-28_1694736253236.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "publishedDateTime": "2023-09-14T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030.md",
+      "title": "2023 | Self-Driving Truck Technology Market Size, Restricted Information Analysis Forecast 2030",
+      "excerpt": "\"Self-Driving Truck Technology Market\" Size, Share, Growth Report 2023-2030 | | No. of pages: 98 Report which offers an in-depth analysis Grounded on Applications (Transport, Mining, Military ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34590293",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34590293",
+      "publishedDateTime": "2023-09-14T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1312,58 +1354,6 @@
         "name": "Automotive News",
         "domain": "autonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup.md",
-      "title": "Softbank Group backs former Argo AI founders on new self-driving trucks startup",
-      "excerpt": "There’s a new self-driving trucks startup in town. And the faces are familiar. Bryan Salesky, Peter Rander and Brett Browning — the trio behind the now defunct Ford and VW-backed autonomous vehicle startup Argo AI — have formed a new company called ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
-      "originalUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/FINAL_Stack_Truck_1-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/softbank-group-backs-former-argo-ai-founders-on-new-self-driving-trucks-startup/amp/",
-      "publishedDateTime": "2023-09-07T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

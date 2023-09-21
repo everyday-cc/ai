@@ -154,6 +154,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Infosys and NVIDIA Collaborate to Help World’s Enterprises Boost Productivity with Generative AI"
+    excerpt: "Using Infosys Cortex with NVIDIA Riva speech and translation AI, Infosys is developing AI-driven next-generation contact center solutions. These include language neutralization features for seamless multilingual support as well as equipping contact ..."
+    publishedDateTime: 2023-09-21T01:01:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3386305"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 26
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/09/SASS_SEP_Launch_Launch_TH-e1695261363193-768x768.jpg"
+        width: 768
+        height: 768
+        isCached: true
   - title: "Infosys, Nvidia Partner To Help Firms Adopt Generative AI, Boost Productivity"
     excerpt: "Indian tech major Infosys and graphics chip giant Nvidia on Wednesday announced to expand their strategic collaboration with"
     publishedDateTime: 2023-09-20T17:38:00Z

@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-09-12-this-patrolling-security-robot-wants-to-guard-your-premises.md",
+      "title": "This patrolling security robot wants to guard your premises",
+      "excerpt": "Meet the Ascento Guard, a new security robot. The autonomous two-wheeler is designed to tackle the shortage of human security guards",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ascento-guard-patrolling-security-robot",
+      "originalUrl": "https://thenextweb.com/news/ascento-guard-patrolling-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design-1-1.jpg&signature=22f5df95837a1a1b55f14871249f6d35",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home.md",
+      "title": "Robotic vacuum cleaner buying guide: How to pick the right robotic vacuum cleaner for your home",
+      "excerpt": "Things to keep in mind while buying a robotic vacuum cleaner in India Now ... enhances the experience of using your vacuum cleaner many folds. You can easily control your cleaner using your smartphone app or even voice commands (using AI assistants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/buying-guides/general/robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home-68928.html",
+      "originalUrl": "https://www.digit.in/buying-guides/general/robotic-vacuum-cleaner-buying-guide-how-to-pick-the-right-robotic-vacuum-cleaner-for-your-home-68928.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-5-uncommon-yet-fascinating-ways-ai-can-supercharge-business-productivity.md",
       "title": "5 Uncommon Yet Fascinating Ways AI Can Supercharge Business Productivity",
       "excerpt": "Still, we're only in the nascent period of AI development: Data looking at technology's historical impact on productivity is less promising. The UK's National Institute of Economic and Social Research found a 1.8% drop in the rate of productivity growth ...",
@@ -154,6 +241,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-ai-model-speeds-up-high-resolution-computer-vision.md",
+      "title": "AI model speeds up high-resolution computer vision",
+      "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1001258",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1001258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1038,152 +1169,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art.md",
-      "title": "US rejects AI copyright for famous state fair-winning Midjourney art",
-      "excerpt": "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
-      "publishedDateTime": "2023-09-11T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ai-leaders-focus-on-impact-on-education-at-derry-conference.md",
-      "title": "AI leaders focus on impact on education at Derry conference",
-      "excerpt": "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
-      "publishedDateTime": "2023-09-11T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-back-to-school-with-ai.md",
-      "title": "Back To School With AI",
-      "excerpt": "Exploration and adoption of artificial intelligence should be intentional not incidental. Mindful, not mindless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff285cce8677245973b63c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/09/11/back-to-school-with-ai/amp/",
-      "publishedDateTime": "2023-09-11T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

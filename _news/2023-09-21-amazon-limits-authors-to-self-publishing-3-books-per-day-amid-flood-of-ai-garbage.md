@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishin
 webUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishing-3-books-per-day-amid-flood-of"
 type: article
 quality: 62
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
       domain: theguardian.com
     quality: 7
 
-secured: "kSlayb00zZGl563Vlo95LlF9dL02v3S98gCBFgZlLcZ1pl6fKL9PmnGoVImuvQw3ua5zGbVQOUUmIyEQwIhr1MZtN96QA4UZ47fAJh0Ac19hOLrCZaxdwb2C5/lIyjIwxx502L2Ldwbxf22g4vsB/MFEIJYlFTwGdR1sHQ37b5ZLBrOJ8/8Bn+8Cm8VRRFiP7+KmfNXk4Y9ommn43UDNDTz+k9KWRyf8jZhd6Xq3N4PwRHPROfjSIDhC6b2iGKIUxhOi0QE8VFBZ3mizMDbZ7GEITOmf55hxzj7E7EW6XPRuB+hbcvjljp81R3l5OE0iST4cJuKutB4InZEpdrgs9nrgHIgYYVMr0HDd+9UKgCY=;NmL3DNFPeabytrhCVECPgw=="
+secured: "GQPdA3ESiYgdixA63lbcASA/ISOMsINTEReAbwZfxBZA+M5yPtFOqFhvkkw6ZTZs7JrI6GXhV08fV8mpXEQ10bscSIIgDwQY9POqqQ+qUSZMR8+GubbgJg9HiBiNGZ6vsiL2LV+PVWR5nGmLwQodvy4FcrD/Kdzvd5kzjYqRsGEJWC526uNu4t8weU9LSn8XRt/N4DJUxTzT7fR+0r4gyvRhoD47ga0EIzmfAMGItb5H0vQwKBr9aP8ha8f/WKgKNcFnxz7Wr323Cr1cp/7pm1uxKKLgUHO9IOQmdKWgQzKS5nnO3l//9DJ28V68l0GP8Vi900MCxGuhgklvjXNDkWDT5XzxovvU9Jbt73/cwluC+QS0gELzoXboMbneE7LpowSUNf1SMXZUXu/6JJB9rOvCtqFWyFTjEbtMvlWoXV26U8KdL2SwCgw+9y6TpEH9BokOUgrbKS8c6z+IkzBYBWw1xu0K9i9IZ+jZBuvwAFAQZR3RYzQwb3LFv6GQDfhmlm9hddYO9KxaM3G6Co6VKw==;iUZK9aaLQMghtbAbz/GcNg=="
 ---
 

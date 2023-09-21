@@ -787,6 +787,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-15-driving-tests-should-be-adapted-to-make-sure-motorists-know-how-to-take-control-of-a-self-driving-car-mps-warn.md",
+      "title": "Driving tests should be adapted to make sure motorists know how to take control of a self-driving car, MPs warn",
+      "excerpt": "Driving tests will have to be adapted to make sure motorists know how to take control of a self-driving car, a report by MPs has warned. The report, by the Commons Transport committee, urged the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/09/15/01/75454361-0-image-m-28_1694736253236.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "publishedDateTime": "2023-09-14T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-navigating-the-age-of-ai-the-role-of-a-new-brain-industry.md",
       "title": "Navigating the Age of AI: The Role of a New Brain Industry",
       "excerpt": "To harness the benefits of AI and minimize its risks, we outlined an aggressive brain capital industrial strategy in a new research paper from Rice University’s Baker Institute for Public Policy. A mission-oriented approach is an important aspect of our strategy for advancing America’s brain capital.",
@@ -919,6 +962,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030.md",
+      "title": "2023 | Self-Driving Truck Technology Market Size, Restricted Information Analysis Forecast 2030",
+      "excerpt": "\"Self-Driving Truck Technology Market\" Size, Share, Growth Report 2023-2030 | | No. of pages: 98 Report which offers an in-depth analysis Grounded on Applications (Transport, Mining, Military ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34590293",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34590293",
+      "publishedDateTime": "2023-09-14T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1118,109 +1204,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-salesforce-readies-ai-assistant-for-crm.md",
-      "title": "Salesforce readies AI assistant for CRM",
-      "excerpt": "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
-      "publishedDateTime": "2023-09-14T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready.md",
-      "title": "Tech Nonprofit Wins Google.org AI Award to Help 30M Children Across India Become School-Ready",
-      "excerpt": "Rocket Learning wins Google.org AI for the Global Goals. The tech nonprofit will use AI for good to improve early edu for 30M Indian preschoolers in the next 5 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/",
-      "originalUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650353854ae02be1af2250bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2023/09/14/tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready/amp/",
-      "publishedDateTime": "2023-09-14T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
