@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Not easy’: Country’s Voice lesson for Australia"
-    excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
-    publishedDateTime: 2023-09-16T06:03:00Z
-    webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
-    ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
     excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
     publishedDateTime: 2023-09-18T23:28:00Z

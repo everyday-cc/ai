@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everythi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/uYBTwEH4r88cz67yQk35mT-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon Announces Alexa With Generative AI, New Echo Devices, eero Max 7 With Wi-Fi 7 Support and More"
+    excerpt: "Amazon today hosted an event to introduce a range of new devices and services across its brands, from an updated version of the Alexa voice"
+    publishedDateTime: 2023-09-20T22:26:00Z
+    webUrl: "https://www.macrumors.com/2023/09/20/amazon-alexa-generative-ai/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
+    images:
+      - url: "https://images.macrumors.com/t/R1OOAzI-iaTz3y89S8KJw_aWKMg=/2000x/article-new/2023/09/amazon-new-announcements.jpg"
+        width: 2000
+        height: 1087
         isCached: true
   - title: "Amazon AI will drive ‘entirely new,’ chattier Alexa voice assistant"
     excerpt: "Generative AI — the buzzy new artificial intelligence — will usher in the next generation of technology for customers, Amazon said at its annual devices event."

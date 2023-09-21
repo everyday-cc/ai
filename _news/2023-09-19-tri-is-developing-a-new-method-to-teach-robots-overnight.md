@@ -69,6 +69,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "How new research is teaching AI how to smell"
+    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
+    publishedDateTime: 2023-09-20T22:31:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "D8tFN1gwt1a9QU2B4ZGHQFT5adsDZnNwwIvQigtCmTBomjOirTetlev0hBPn3cLJjpDmi2yAFFFii080b1hx1eL25D3zjQVm9cr9CSATpgrroX4fqXcF93nbXt47aD6vu/0locbLAQgC3IDFJVjP5Rk6DV4d8uBfvYRgwiW6k/yUlBE8EiIDMsNf5Ey0DJxRHpf0pGXb9IQ1Wt0znNSqn6sgaWWrjsy1x9uN7LJZMvmHy5BLhdyOE9vJTWchGGeunOtHA0v0QX9mFAVjqO5vXV3y2HSkOA8EmwFV9fW8hb5DTqWLA//cb2gLzzWAQg9WBE8tuMC+0U5QAK38qWR5UzflBxKK/1+QazdYItWeoAJe5+z6IAac7IZp18jOK2ERaEvk+kekyjKXT5OSE6KkseCmH9BdYUWbftqVm2hKKSkZqPPV5MCx8sVGRRO7GzE4IgtbWif6GcwRxqSjwd+hZl9JqVRLy6Bpioo9ZsJTcnaz7Z0GDKCChvSaymehINsVVAuy9W0ulWUA3QO47lgCLA==;CuKGYNhItsFz7SyTBAFGZg=="
 ---

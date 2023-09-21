@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-t
 webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "How new research is teaching AI how to smell"
+    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
+    publishedDateTime: 2023-09-20T22:31:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MWQp1PgLReDrz/Buw10wZ3dRgGCuKKdsFt+SHmKlaP1RstMC/X3Po7nYkY0HUutDHq9yhpvTZ8HkXeMxnJ6ePtROeAWDs+vFA+EqFHDFyxHbHzQwNqFAIrImxOhGRC/0RdMkk3Ag2MBJ8CFggMOHydcQ49/5ccO83djlCpHr33wsRcrTRHVXX6JrJkctY3xzukBGNFuC7PDtQP60fDRMOsoxJE1ROiHe5+UW0bfQn6HOxg7uQjcukU+BRNo8fDbT9KMEuHWnTH2mLoWPPqV+V4v5cCMVj29xiRzQrtQSpXuC6WvzQpjsgnyHjintk9IgJ7yxfKcJjx2md0ZTLWifRruQgVcqf0/Ewcicu43NvdO8RcV9kBgRazlIEvh6dNaJhgB2Apt68kY0vd216SfBWHxvXc09OUhbuIx41b2J3dfJHIJx8b56ooAEi8AjvpgyXACI+Oz9/HKX1V27uO85UW7+ehPkDJ9T/Ol8P6xI9gOtdIjXXPc+Wo+pFEyGYXwQJWPc7TOy9iFEuqObSkz1Aw==;X2fE4B+1G4mFrXXAIbFnxw=="

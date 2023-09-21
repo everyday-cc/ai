@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "After Reliance and Tata Group, NVIDIA to collaborate with Infosys to help firms with generative AI"
+    excerpt: "NVIDIA is planning to help enterprises drive productivity gains with generative AI applications and solutions with this latest collaboration."
+    publishedDateTime: 2023-09-20T23:32:00Z
+    webUrl: "https://www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai-11695211147675.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai/amp-11695211147675.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai/amp-11695211147675.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 45
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/09/20/600x338/Jensen_Huang_1695211293891_1695211294130.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Infosys, NVIDIA to collaborate for generative AI applications, solutions"
     excerpt: "Infosys: As part of the partnership, Infosys will have access to NVIDIA's full-stack gen AI program and will set up a NVIDIA Centre of Excellence"
     publishedDateTime: 2023-09-20T11:11:00Z

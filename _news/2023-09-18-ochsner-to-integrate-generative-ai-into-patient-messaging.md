@@ -66,6 +66,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "How new research is teaching AI how to smell"
+    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
+    publishedDateTime: 2023-09-20T22:31:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7RFYRzhWhGaexC+TJ8dA7s2gkJPuwHGw8+q1q2ZVC4iaCaJ1HlKADVjNS/7NbYwafQpmF2TC/TQ8MVedCuYWTClrJK2Mf08w3kh1Au26+whXJXSM9hlmi+qIQl6b86SOhX6n0Ly4LlFNEyuUbwZY3T/AcXhcbIzIomoMUtAI8w3PZyqLM7nNRJXX6MwISzps4TcYZksJss2TERZsO1Mx2I1XH8Xi/X6w/hkDAvgKI7wpg/O+mLYY/t9b7OxY+mp1mFn/syV6C2jUMEbz6HOVhnF/TrbBcDq8ekZ5RS+mZoG2hQUOeT8H0hR43/QTKysn6kY+iAzuWWWNelfppbrLyWbXlpG63fonD7Bx4iytSGc=;d8sjWDYX7Uk0T4p4a2k1QQ=="
 ---

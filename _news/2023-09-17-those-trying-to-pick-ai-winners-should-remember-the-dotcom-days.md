@@ -38,6 +38,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "How Big Tech Is Ruining the Dream of AI"
+    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
+    publishedDateTime: 2023-09-19T10:07:00Z
+    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 39
+    images:
+      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
     excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
     publishedDateTime: 2023-09-20T05:00:00Z

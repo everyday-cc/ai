@@ -24,16 +24,16 @@ topics:
 
 related:
   - title: "Oracle’s MySQL HeatWave gets Vector Store, generative AI features"
-    excerpt: "Oracle is adding a Vector Store and new generative AI features to its data analytics cloud service MySQL HeatWave, the company said at its annual CloudWorld conference. The new Vector Store, which is also in private preview,"
-    publishedDateTime: 2023-09-20T21:33:00Z
-    webUrl: "https://www.reseller.co.nz/article/708844/oracle-mysql-heatwave-gets-vector-store-generative-ai-features/"
+    excerpt: "Oracle is adding a Vector Store and new generative AI features to its data analytics cloud service MySQL HeatWave, the company said at its annual CloudWorld conference. MySQL HeatWave combines OLAP ( online analytical processing ), OLTP ( online transaction processing ), machine learning, and AI-driven automation in a single MySQL database."
+    publishedDateTime: 2023-09-20T23:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/708844/oracle-mysql-heatwave-gets-vector-store-generative-ai-features/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 39
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/vid-still-74-of-82-100714303-orig-100933218-orig-100942975-orig.jpgautowebp8570"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vid-still-74-of-82-100714303-orig-100933218-orig-100942975-orig.jpgautowebp8570"
         width: 472
         height: 315
         isCached: true

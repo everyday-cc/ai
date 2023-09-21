@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-is-building-a-red-te
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity"
+    excerpt: "Like its predecessor, DALLE-3 is a text-to-image generator that creates novel images based on written descriptions called prompts. Although OpenAI released no technical details about DALL-E 3, the AI model at the heart of previous versions of DALL-E was trained on millions of images created by human artists and photographers,"
+    publishedDateTime: 2023-09-20T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dalle_2_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "OpenAI Unveils New and Improved AI Image Generator: Dall-E 3"
     excerpt: "OpenAI plans to integrate it with ChatGPT in the future and offer more protection for artists who say image generators are trained on their work."
     publishedDateTime: 2023-09-20T19:58:00Z
@@ -53,6 +69,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "See How AI Generates Images from Text"
+    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
+    publishedDateTime: 2023-09-19T15:37:00Z
+    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
+        width: 790
+        height: 497
+        isCached: true
 
 secured: "qXjEgGqrtnS57jEtciq3SRIz2bMjATZVMeNrDtIcywbnFaDQrNOPyzySdVsP13eA43RFbOfBt94ipJQk/IoRJovK/QJUJANxDNrF/W5FWgM2qGgugX814XdBXE4z0tRWmL/y7HTvizlmOkCqalSh8iBNiktfG00PNkEsb1Or6MqqIsA3/GjWLliMgsbQqdvc8gJiJIJK6gfrhdOoKdNEqyDd2lGaDBwILnCute31Ho76KC9ihqmhzNq6ZVpAAx/etKRCIgZfDyQ/cj90WWe7H7CfRFoxxDHtvtbIO4zYVBG9H1pHLyhbRhYyRNxaC/50DJ8PGRrY09HIk0SXv/MzqUcuPE42xkMZCKf1Q/GcpK4=;DvHVQC8PrthnVED3wfYe5w=="
 ---

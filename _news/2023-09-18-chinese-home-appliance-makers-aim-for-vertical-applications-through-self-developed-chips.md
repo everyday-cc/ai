@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence is coming for elections, and no one can predict its impact"
+    excerpt: "It’s undeniable that AI will be used to produce disinformation ahead of upcoming elections around the world. What’s unknown is what impact this AI-generated disinformation will have. Among other concerns,"
+    publishedDateTime: 2023-09-20T23:20:00Z
+    webUrl: "https://ijnet.org/en/story/artificial-intelligence-coming-elections-and-no-one-can-predict-its-impact"
+    type: article
+    provider:
+      name: IJNet
+      domain: ijnet.org
+    quality: 31
+    images:
+      - url: "https://ijnet.org/sites/default/files/styles/share_2_1/public/story/2023-06/Captura%20de%20Pantalla%202023-06-23%20a%20la%28s%29%2011.28.50.png?h=8841df03&itok=Gc9YIhyg"
+        width: 956
+        height: 478
+        isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z

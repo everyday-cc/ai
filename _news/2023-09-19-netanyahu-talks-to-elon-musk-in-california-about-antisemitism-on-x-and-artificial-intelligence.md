@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-excerpt: "Israeli Prime Minister Benjamin Netanyahu said controlling more-advanced AI must start by getting like-minded states to agree to a code of ethics and conduct."
-publishedDateTime: 2023-09-18T21:35:00Z
-originalUrl: "https://www.pressherald.com/2023/09/18/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/"
-webUrl: "https://www.pressherald.com/2023/09/18/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/"
+excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk"
+publishedDateTime: 2023-09-18T19:39:00Z
+originalUrl: "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html"
+webUrl: "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/Netanyahu_Tech_Leaders_58635-1-1695066644.jpg?w=1000"
-    width: 1000
-    height: 562
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/11/3119cde9-8a22-5ecf-b424-46b7a1a0784f/6509d3f080366.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
       domain: seattletimes.com
     quality: 7
 
-secured: "XhKDZx2UPIjmyufLJlPL69zKd5irr/UEB92vils9DzAT5PjnPT2W7MSMOVQYX7868BrRNFbDVT3eVpg7Iea5eX4ekkMc07h6y+1cEl5hea9BVF4rin3FXCB6n3HSo5uq1qS0c7xkelc3S5bzq5vpEZJKCsz5CAYE8mXc0kwzEI67QNc8FpCnuNL95cIn5gRnjIzn3AkWYU0u3F8NZPI9cYYuHKwtMiII0K7c5vGIPhdqOWJPfd/0Rs3uGh9QOK4LfI8cg9z7hYeb7FKAQiBxA93fJ99b1IXxWUEhdypPTPHG/TALgP9Qd4deEnVlChiNiYmpV9b39LpCaGYMWbmUuVXtW/nHI7wdcRx/vdGKw4+05uqHnaFev54n5iyOJUz3t0ZEJkn/RhEnfGzofmUhJZhbqUBI07L4LUK3j4vZQzLDOz7fS18iGK/4NU+OU1T6csPmVRcTC02jo8Iu6Y+ggHAU+/Bz15SNVEEU4reakfm1v11imwfmMigfAzpK/MJrW7WGx2fuprH4LSb6T8Cv0Q==;GL/w0vTPHrXajbr++v/7mQ=="
+secured: "7sciDIb2agC8nbAOiWl6QfHy6Z6PYHk2CYvanmuMXw2H/56qIEzJ87pY9gE9WPUbrxKAwWVtPIPAr7DfAqGQzk6lUnxalUU85/rMY3kePaOuzEmTXHYSCuwr0j1nf9sx1FKanp6X7pE/Kfz9EjcyFc7pfhP7+US1jtPe9QWTsP0qKh0enmz+xEKT5pUJNKtA9WvTkw9V6s395NBUVB1VMgFB3+CNui9RB9WDCOCEWOrQns85/eP+vhd/IopNiDn88Vpe0EykHF6bgIhPKBK7lYkWFw/V67txxLP7xNfCNijO12fPXl7z2PGoUpPFusoVa60zq17PpIVz+UX1k5cOruxEpzyMLAVeSUzMB1m7hK4=;mubfu0lT4v94Q6kWAD3yWA=="
 ---
 

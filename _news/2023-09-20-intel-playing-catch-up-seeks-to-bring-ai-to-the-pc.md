@@ -47,15 +47,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Intel CEO says the chip maker's technology is central to AI boom"
-    excerpt: "Intel Corp. Chief Executive Officer Pat Gelsinger, plotting a comeback for the once-dominant chipmaker, made the case that the company's technology will be vital to an industrywide boom in artificial intelligence computing."
-    publishedDateTime: 2023-09-20T17:19:00Z
-    webUrl: "https://techxplore.com/news/2023-09-intel-ceo-chip-maker-technology.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
   - title: "Synopsys Demonstrates Industry's First Interoperability of PCI Express 6.0 IP with Intel's PCIe 6.0 Test Chip"
     excerpt: "(Nasdaq: SNPS) today announced that its collaboration with Intel has achieved end-to-end 64 GT/s interoperability between Synopsys' IP for PCI Express (PCIe) 6.0 and Intel's PCIe 6.0-enabled test chip."
     publishedDateTime: 2023-09-18T15:57:00Z

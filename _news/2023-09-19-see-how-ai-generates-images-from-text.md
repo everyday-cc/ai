@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-im
 webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Spiff Updates Sales Commission Platform, Enhances Generative Artificial Intelligence Tool"
-    excerpt: "Spiff, the leading sales commission software for forward-thinking revenue and sales organizations, announced today a series of updates to its platform"
-    publishedDateTime: 2023-09-20T17:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230920598892/en/"
+  - title: "OpenAI’s new AI image generator pushes the limits in detail and prompt fidelity"
+    excerpt: "Like its predecessor, DALLE-3 is a text-to-image generator that creates novel images based on written descriptions called prompts. Although OpenAI released no technical details about DALL-E 3, the AI model at the heart of previous versions of DALL-E was trained on millions of images created by human artists and photographers,"
+    publishedDateTime: 2023-09-20T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-announces-dall-e-3-a-next-gen-ai-image-generator-based-on-chatgpt/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/dalle_2_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI is building a red teaming network to tackle AI safety - and you can apply"
+    excerpt: "OpenAI's Red Teaming Network members will be compensated for their time and prior experience with language models is not required."
+    publishedDateTime: 2023-09-20T20:21:00Z
+    webUrl: "https://www.zdnet.com/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-is-building-a-red-teaming-network-to-tackle-ai-safety-and-you-can-apply/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/89860c866bd11df348ef34109da813157dc2641d/2023/09/20/40cb579f-cd49-4533-9548-2ea5d2611629/screenshot-2023-09-20-at-1-49-35-pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OpenAI Unveils New and Improved AI Image Generator: Dall-E 3"
+    excerpt: "OpenAI plans to integrate it with ChatGPT in the future and offer more protection for artists who say image generators are trained on their work."
+    publishedDateTime: 2023-09-20T19:58:00Z
+    webUrl: "https://www.pcmag.com/news/openai-unveils-new-and-improved-ai-image-generator-dall-e-3"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03vQnIDC3t6NMHaCYuwZ7BW-1.fit_lim.size_1200x630.v1695235597.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "OpenAI And Others Help Educators Navigate AI"
+    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
+    publishedDateTime: 2023-09-17T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "wPDroJNhIqpwPuX+4yeUXbKbte/tGbkSC2M+Z65ctIVm4qGh7dxZ+uEHXetUoEsof2VxSmKlePs4GHEESNhZtPamw/xi1a2WAEp1xxAnzZk+IXVuV5i8T7MzbqU+zAHqDypABLyZg93XeCA/OzmBqtPcuV6QF9eaVVA+1OF9Yy8hRsBdNWyxHGBmy1Mn1rok0lz2iRsWXodtvqQ/CAeVAXhHOnwNlhwFdPEXI4vmGqeqv7fm8BHzeu2fD14VgXMTjlVluUdlxJi0SsfAkPalV7E1rMlpqylOH1fvRx9KlYogkndlyekCYtl9jXtqZoQ9DetaAhYa4f19QPiUFgw0jVytqguhHiCuN6bv/Tvjs7pKHpuDjptJG2Ofjg9os2fLjJQAnqs82/mCTTEHKZ7Wvg9WMYZ+vTsFgS9JEMR5rD0eHzPLSE76ZimBksyt3MA15HaQs1v++0ZCZCl9OPWJmzogQyHod5qe9DvUsPys1a/nLundAR6wmfJEnKc8K1MiEnt7zEEJF/HM54/otJlpgg==;rY4Tge0bOXwLi8KeKGOyvg=="
 ---

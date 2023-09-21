@@ -73,17 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Not easy’: Country’s Voice lesson for Australia"
-    excerpt: "As Australians gear up to have their say on an Indigenous Voice to parliament in a matter of weeks, one country has been reaping the rewards of a similar style model for decades."
-    publishedDateTime: 2023-09-16T06:03:00Z
-    webUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63"
-    ampWebUrl: "https://www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/not-easy-countrys-voice-lesson-for-australia/news-story/8cabe1633049d004da09f6ca625d7c63?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "A Voice for Australia’s aboriginal people?"
     excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
     publishedDateTime: 2023-09-18T00:14:00Z

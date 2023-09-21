@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence is coming for elections, and no one can predict its impact"
+    excerpt: "It’s undeniable that AI will be used to produce disinformation ahead of upcoming elections around the world. What’s unknown is what impact this AI-generated disinformation will have. Among other concerns,"
+    publishedDateTime: 2023-09-20T23:20:00Z
+    webUrl: "https://ijnet.org/en/story/artificial-intelligence-coming-elections-and-no-one-can-predict-its-impact"
+    type: article
+    provider:
+      name: IJNet
+      domain: ijnet.org
+    quality: 31
+    images:
+      - url: "https://ijnet.org/sites/default/files/styles/share_2_1/public/story/2023-06/Captura%20de%20Pantalla%202023-06-23%20a%20la%28s%29%2011.28.50.png?h=8841df03&itok=Gc9YIhyg"
+        width: 956
+        height: 478
+        isCached: true
   - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
     excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
     publishedDateTime: 2023-09-18T00:35:00Z

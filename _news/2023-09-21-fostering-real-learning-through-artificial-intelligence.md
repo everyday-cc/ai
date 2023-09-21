@@ -7,7 +7,7 @@ originalUrl: "https://baltimorefishbowl.com/stories/fostering-real-learning-thro
 webUrl: "https://baltimorefishbowl.com/stories/fostering-real-learning-through-artificial-intelligence/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,30 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "How Big Tech Is Ruining the Dream of AI"
-    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
-    publishedDateTime: 2023-09-19T10:07:00Z
-    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+  - title: "Revealing the general characteristics of fiber Rayleigh scattering based on deep learning"
+    excerpt: "However, in practical noisy environments, accurately extracting the fiber Rayleigh scattering is a challenging issue. If deep learning models can express the general characteristics of fiber Rayleigh scattering and be trained by numerical simulation ..."
+    publishedDateTime: 2023-09-20T21:08:00Z
+    webUrl: "https://phys.org/news/2023-09-revealing-general-characteristics-fiber-rayleigh.html"
+    ampWebUrl: "https://phys.org/news/2023-09-revealing-general-characteristics-fiber-rayleigh.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-revealing-general-characteristics-fiber-rayleigh.amp"
     type: article
     provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 50
     images:
-      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/revealing-the-general.jpg"
+        width: 1279
+        height: 586
         isCached: true
-  - title: "Evading reputational risk when using AI"
-    excerpt: "Instead of learning about every AI-related risk, organisations should focus on building a robust reputational mindset."
-    publishedDateTime: 2023-09-20T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/evading-reputational-risk-when-using-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
-secured: "3rPyLGRMs81ECE6y6wfnCfdrs1CQBMhcYj7im/AUTEReIPMnKtYz9hmG9FZh8ZUVKpA1vDNtFi7obNTrQt5MtvrSSD+01tJ6zDjOpZ6DADbThlAkplXhowvIQA2I1k0cu9Fti9rWjwOer3hySoaifDONmgtjKEL2v1QTLYa1StbctqitaAN8wLSUzsZohaRhOz983XyMQRMMU3k0ZkxAWvbxjWngfI9dzQO4qT/rkpcSx1oBjjUNXdC5NLL7wqRogDUctrXgj3OdpthF2WUG9RxzL06ntG6RhTp9QY91mw80vYbifywWWrG196/iJvulhlntUivi+8fSt09jljC0g+tbZblXs6i3viPOl/NyEyw=;8cYv3tsouTtWkUUvHagaEw=="
+secured: "/CbA7yyTXcS5P1Rwq1FlPnryX1U/E9EKgRruvqHURmL9lt0bLJBeZY3bTj1277c5N7Gtk0Y/qwREFENXTEXP4AHOikFxD+DDY/aaNiNs6NphfEuMeCBe0coT2S9vNX67IuBAEA0nc/Z3G47clofrdE5XSadTp8ir4Ge4DjtYTXWhlTF65qQSFY8yqX6DbOHYV1L+x3VLHoMppi1NLe7rYBIuBEBqXpklunV8fvpcjCpubkphpOGJ79qnAx1Il/rGycVhUJ3xv/R/ShWX0mEwvnKrzWAz1BdtXyL/PrRWE3PSyEipn1mdaaXeVXs+AtIW5/TAC6RD7f7V8SSnGT0prIXgYLj9C1BQQzTqZEErRSaMrVpv3GTEzl6oWAOnxhpVJNIW6tT67vzB6yLD9m1F5i7C/pB9t6IdNGt5oYl2CHG6J6T5da6AB9u5g8DXt6lF62jn1pGxOtwm9VVstd2GRs+MaYraBV2P+2h5xSaYEg38R81DjzDMdaQMlz0BQ8b8DreWmuihLPjNfP6JTm/IkQ==;+4mqXC0VeA6rAladPWxauA=="
 ---
 

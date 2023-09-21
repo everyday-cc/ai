@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Pennsylvania state government will prepare to start using AI in its operations"
-excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
-publishedDateTime: 2023-09-20T20:53:00Z
-originalUrl: "https://www.chron.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
-webUrl: "https://www.chron.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
+excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it. Gov. Josh"
+publishedDateTime: 2023-09-20T21:08:00Z
+originalUrl: "https://tulsaworld.com/ap/business/pennsylvania-state-government-will-prepare-to-start-using-ai-in-its-operations/article_9199b05d-d297-5aa2-9632-6d2810b3c89f.html"
+webUrl: "https://tulsaworld.com/ap/business/pennsylvania-state-government-will-prepare-to-start-using-ai-in-its-operations/article_9199b05d-d297-5aa2-9632-6d2810b3c89f.html"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI
 
-secured: "yOYeEkyhXZeU4A5Ka++aDWQBRvshkrGXzUpPDV7fclx4NuFLlDKavogQHJXOJKpDUV437dZH2KIJPAdNPQiWhAQydKwiV8CxbQix1/rsQQQWw/hZ5Pnt5bKr2xsts+s2jvSFftvuS8cNxlxxL6jHBM++yCzg7+lKs3uo7luSq2EEx+DMw7gDYwgcOyAn6lkEQIAvBTZ+rdiMCqVQxrhA4Yn0VstjPkSLtj1URFHRMnQMMiYXUaTrunn2qujCnQil5RbsodJ6dCdgjI4O0mtmNADp9Z/8CMS/W5l2kzFFw7c/AUIN6X1lgf42DQ6QkL7xsnZCai9CGHism1U76Gn8cxEUc8yWs+QWGKmCtaWJSrQnPwgtf4nWyhp3v0V4L8hsf+x4DGTdYNktjAsvtVGJc0aMSZVxNi2B9Oj+iiU7bPX9M1/sO6S7BxYkcsA8Nwd14TfmYzRan+quw/HQLiqb8z9IHgqSBKecOJBkpRekaD1JpDY/3AXw55V9TUtZguK0+WTAAVujOH2vB4kmWZmyEA==;PdNJU69K+84/HO+TUpLb5Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/f9/4f96c5a6-4cfd-53c4-a13b-a41b27775726/650b5fda38207.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "pRbdQHrXb1bYIqCADC2UcAelhZLsk8Sl7k+o9Nm2+H66142f67S0GlovcGgczCP8bBbZDNkI66Skk7stcR/GaSjAZbTLshs/g609e8hJhsphDq2EWHSdUgv+4XbPONXqdyzdJcBJ5PDgsSJMjdI4oeOD4JaEn5U3HGgS8McZCoKKKGRdeVIDKXg8dAmo0Y9IYsq3S1OIGJdOYI+qslhGqn5+jLRMCnZbTDscC1D0Liu0dTKZEiILe+1o/ILAUNc+17sdZyEKj45iFz0PTsx5q828DQFFvvYN979X+Cy5F0u6BjGlnKhXoOMWr1rTpoQIVTAyBLuQCG5ft7gV13oTb0FL1sEYyEnyGuZAIZayjsI=;2kkJuRu9fDdMoDSRAAcfgg=="
 ---
 

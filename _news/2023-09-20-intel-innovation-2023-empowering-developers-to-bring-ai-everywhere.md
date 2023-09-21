@@ -100,15 +100,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel Innovation 2023: Bringing AI Everywhere"
-    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
-    publishedDateTime: 2023-09-19T16:41:00Z
-    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
   - title: "New chip designs on display at Intel Innovation 2023"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
     publishedDateTime: 2023-09-20T17:40:00Z

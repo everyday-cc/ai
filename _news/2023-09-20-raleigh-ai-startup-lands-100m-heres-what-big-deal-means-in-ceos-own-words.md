@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-he
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1"
 type: article
 quality: 53
-heat: 73
+heat: 75
 published: true
 
 provider:
