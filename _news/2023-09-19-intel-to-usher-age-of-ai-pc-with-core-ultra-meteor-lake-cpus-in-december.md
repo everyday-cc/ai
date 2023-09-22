@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
-    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
-    publishedDateTime: 2023-09-20T01:16:00Z
-    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
     excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
     publishedDateTime: 2023-09-20T06:26:00Z
@@ -69,38 +55,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
-    excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
-    publishedDateTime: 2023-09-19T16:25:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/intel-makes-progress-advanced-chip-manufacturing-process-strives-relevance-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/intelaieverywhere-gelsinger2023.png"
-        width: 2310
-        height: 1287
-        isCached: true
-  - title: "Intel details multiple new chip designs"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
-    publishedDateTime: 2023-09-20T17:34:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 34
-  - title: "New chip designs on display at Intel Innovation 2023"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
-    publishedDateTime: 2023-09-20T17:40:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
   - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
     excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
     publishedDateTime: 2023-09-19T18:27:00Z

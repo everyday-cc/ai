@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Perfios acqui hires Chennai startup Fego.ai"
+    excerpt: "Chennai: B2B SaaS platform Perfios has acqui-hired Fego.ai, a Chennai-based open-finance startup and a TSP (Technology Service Provider) catering to the needs of banks and fintechs, and other players in the financial ecosystem."
+    publishedDateTime: 2023-09-22T02:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/articleshow/103851030.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Perfios acquires open finance platform Fego.ai"
     excerpt: "New Delhi: Bengaluru-based fintech firm Perfios has acquired Chennai-based open finance platform Fego.ai, two people aware of the development told Mint. The discussions started during Global Fintech Fest 2023 in Mumbai recently. The deal was closed this week."
     publishedDateTime: 2023-09-20T18:55:00Z

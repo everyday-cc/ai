@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
+    excerpt: "The Pennsylvania governor signed the order at Carnegie Mellon University, which will work with the AI governing board to guide the state’s use of the technology."
+    publishedDateTime: 2023-09-21T18:23:00Z
+    webUrl: "https://technical.ly/civic-news/pennsylvania-shapiro-ai-governing-board/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 34
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/09/Josh-Shapiro-53197244767_b530283d96_k.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pennsylvania state government will prepare to start using AI in its operations"
     excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
     publishedDateTime: 2023-09-21T00:52:00Z

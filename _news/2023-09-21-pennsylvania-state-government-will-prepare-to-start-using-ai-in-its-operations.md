@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
+    excerpt: "The Pennsylvania governor signed the order at Carnegie Mellon University, which will work with the AI governing board to guide the state’s use of the technology."
+    publishedDateTime: 2023-09-21T18:23:00Z
+    webUrl: "https://technical.ly/civic-news/pennsylvania-shapiro-ai-governing-board/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 34
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/09/Josh-Shapiro-53197244767_b530283d96_k.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ShzFoxBrwdQLZUAAU9rWrtmVwnTPZIEB8UW6r+AITNvCbBAyVg9mEt887zIClkNDClMp1A0hgt296rCBEgfcB7sBlCku+PvS/o9CNtSioE2F8V/HUcL8IHNI49WEdTfQTHdloPy4iIvfNN1B3BVpIfcyvQdrdOHuWtXg1E0orcrE6eZ22vqvVOOqG3OjeAFMs7qJsy3dlkg9oDJ/hTij9W1H2KpIEmmMLKDLuE7/L+Pk8PS/xT7Nn4+7UCoJvhucqdjo1P5qo+7yLy4lNbk8XqNlziAQpMDNQttvcR+nCAi6dj1/Xzlr/cSmtbgmDyjYWe7g/4p0STKWxQYcXXQZIbmdiApgCwummAzCGKLRLzpFrMS+T5c2rxkG5Yxx8c6+hgxVr8XzcC5bmIMqB9rwgsOJ7K7uQEflpWV9tjvr5MEjjiIW+aUkpVg4fyaIH552aYZhQF0cC2Byrbg3Dmk7pFEBpRGccrYvdm+FWSuc31XEx6SxJAuR6ez4UdJ6WjU2iz5P9LpNxhkqwNO5Ub48Vg==;tp6/yUjSNnxuYQlmz3Km1Q=="
 ---

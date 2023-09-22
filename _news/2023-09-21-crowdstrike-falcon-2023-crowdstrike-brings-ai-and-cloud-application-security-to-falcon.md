@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-anno
 webUrl: "https://www.techrepublic.com/article/crowdstrike-fal-con-news-announcements/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Intel Innovation 2023: Bringing AI Everywhere"
-    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
-    publishedDateTime: 2023-09-19T16:41:00Z
-    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "KC6EeBfiCJ+4I4e8oDbPweDObxInsrVkYwEkbuevI+XMXcBH1zsBiQ1cdzNRX1WixTyPOQsw6BcVC4ROQXVWLPX87QtkLGhEYa4Y02f6WNSq4zCGknqz8sVkNUwesCE45ZpZx7W2vAt5DDtXJiTJ/uYiN/WmqQWln9H/i7LbeHSG92JLpzKoAu1GEuJkRzRKTrylPyNduQnckzix0Tdxh67kak4wlv9L+VmZZNrGZyUjOUtb6/8dPn8huVx5Wd6sBO+AMHEmubxR/g0Nn/L2HpSGbYS9FlCAVon25B6PPvWEjugh0TGunNVhGfUitDIfaXAAuXuN9aMrFj0LYLmKVGjKnNkpA6fMOVylux7GCbjKeosenORhJA5Lh4Zzv4kbrLCV0FIp1uLxjA5bn6f1v0myjK3AllFnthJdiroiqpNhBaFqLiS3wLWPciepXeBTRRNOk7XMt3Qo6lgHpXZIqISeQVCxAD82rckrijcFy7iRFMe2NIr5JG9mYlJnaZ8Wn55EkLXQ6Haj0Wr8+1jc7w==;lBKrJ9FDn5OCNb9URUNi5w=="
 ---

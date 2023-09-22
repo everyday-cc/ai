@@ -49,6 +49,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall"
+    excerpt: "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy."
+    publishedDateTime: 2023-09-20T13:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
     excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
     publishedDateTime: 2023-09-17T21:11:00Z

@@ -25,19 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Intel announces new Core Ultra CPU with AI processing engine coming in December"
-    excerpt: "Intel announced its newest processors, the Intel Core Ultra series, during the Intel Innovation keynote on Tuesday, which it says will usher in the age of the \"AI PC\" later this year when the chip hits the market."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year"
+  - title: "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions"
+    excerpt: "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors"
+    publishedDateTime: 2023-09-22T02:13:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 83
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HAvq6okpT4ZUYNJxoz4KsL-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/Intel-CPUs.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Intel enters AI-powered PC race with its first EUV-made chip"
+    excerpt: "PENANG/TAIPEI -- Intel on Tuesday launched its first AI-equipped chipset for personal computers as the U.S. chipmaker seeks to reenergize the PC market and regain its lead in the global semiconductor industry."
+    publishedDateTime: 2023-09-19T15:35:00Z
+    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-enters-AI-powered-PC-race-with-its-first-EUV-made-chip"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F9%252F8%252F8%252F6%252F46556889-4-eng-GB%252FCropped-16951063172023-08-28T213834Z_1484932_RC28X2AODZ2U_RTRMADP_3_INTEL-AMD.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Intel's China-specific AI chip in huge demand"
+    excerpt: "Intel's China-specific version of its Habana Gaudi 2 AI processor has seen a sharp rise in demand, according to industry sources."
+    publishedDateTime: 2023-09-19T01:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230918pd216_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
     excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
@@ -53,35 +81,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
-    excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
-    publishedDateTime: 2023-09-20T06:26:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/ai-on-your-pc-intel-unveils-new-line-of-core-ultra-processors-with-npus-for-localised-ai-processing-13144832.html/amp"
+  - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
+    excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
+    publishedDateTime: 2023-09-20T08:37:00Z
+    webUrl: "https://trendydigests.com/2023/09/20/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 44
+      name: trendydigests
+      domain: trendydigests.com
+    quality: 50
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/09/From-CPUs-to-NPUs-Intel-announces-a-new-line-of-local-AI-focussed-PC-processors.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Intel To ‘Usher Age Of AI PC’ With Core Ultra ‘Meteor Lake’ CPUs In December"
-    excerpt: "Intel said it will “usher in the age of the AI PC” with its long-hyped Meteor Lake processors, which will be released under the new Intel Core Ultra brand name for laptops this December."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-to-usher-age-of-ai-pc-with-core-ultra-meteor-lake-cpus-in-december"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
-    images:
-      - url: "https://www.crn.com/resources/0285-190462f3d944-68ea851d1e44-1000/tel_core_ultra.png"
-        width: 600
-        height: 513
+      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/09/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips.jpg?fit=1200%2C675&#038;ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel details multiple new chip designs"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
@@ -92,6 +104,33 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
+  - title: "Intel Innovation 2023: Bringing AI Everywhere"
+    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
+    publishedDateTime: 2023-09-19T16:41:00Z
+    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
+  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
+    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
+    publishedDateTime: 2023-09-19T19:17:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
+  - title: "AI Is Expected To Fuel Up Micron's And Intel's Turnaround"
+    excerpt: "While the memory chip market has been weak, Deutsche Bank’s Sidney Ho upgraded Micron Technology Inc (NASDAQ: MU) stock upon signals that AI is providing the much-needed lift. Ho believes the worst of the downcycle has now passed,"
+    publishedDateTime: 2023-09-20T17:48:00Z
+    webUrl: "https://www.benzinga.com/23/09/34769994/ai-is-expected-to-fuel-up-microns-and-intels-turnaround"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "New chip designs on display at Intel Innovation 2023"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
     publishedDateTime: 2023-09-20T17:40:00Z
@@ -101,15 +140,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 19
-  - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
-    excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
-    publishedDateTime: 2023-09-19T18:27:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/6-big-announcements-at-intel-innovation-2023-from-288-core-cpu-to-ai-supercomputer"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 13
 
 secured: "XB0BJjHYhlCdBABQb5qOyY7saTSvs1cwoPq2vELoMIuE4N391eMuUT2rS1HaBRH4GE/CjVBSQfowMlX31WwEz++OkB+K/GuvytpyaONPZn1S+D/43/6ZsxFf1VBEyg3Vw4xgyR3Z8J+Oecd8+zXpoAEcuflneq2MeY+qq2DAUig7wIsYmzeEH4iS3GJActOiw+U1muyKvE1Qg/bM2bKqioJe93/qPCgY7e0G/QopT7Lkc3cHKPuqp5Qp1ZoliYfymv4NM143gVvkxCXTN7uxiuIf0mht3gAfQhK1n6TPVXmA2pm8quitaniudNhS7EonAkjrJ43ysSwu/f4FU0/0pTqnKZHJ0YuTR49F+8V75ErOBZN2PtutbLna2I6BPap5rL4YDUbAVfOyycp+eGIqGVIAuo/Mj/8Y8SGywQDeuap90z70tx7jUIybznR/7k1eZ2m/QxKzgpIauk3grgN9OOaOcdRd7lKVLEgPlYRkK7XRNrlno5azFw6QKwY/DSV1DSe1tJoRvLxeS2bvmgVn1Q==;mj1HJdWE+x42c6QzIAVs1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-fi
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Perfios acqui hires Chennai startup Fego.ai"
+    excerpt: "Chennai: B2B SaaS platform Perfios has acqui-hired Fego.ai, a Chennai-based open-finance startup and a TSP (Technology Service Provider) catering to the needs of banks and fintechs, and other players in the financial ecosystem."
+    publishedDateTime: 2023-09-22T02:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/articleshow/103851030.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Perfios acquires Chennai-based open finance platform Fego.ai"
     excerpt: "Founder, Fego.ai, said, Fego.ai solutions will complement Perfios’ product offerings and expertise across varied financial institutions across the globe"
     publishedDateTime: 2023-09-21T16:23:00Z

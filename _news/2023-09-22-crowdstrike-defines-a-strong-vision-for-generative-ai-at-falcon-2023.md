@@ -43,15 +43,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Intel Innovation 2023: Bringing AI Everywhere"
-    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
-    publishedDateTime: 2023-09-19T16:41:00Z
-    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "TGmUAak1s9DBbhj8SLSDOAdO22NFd/g28peHWWa9Dzy0B18vhjcm6TWuorAffx+FeZPn+uAWnVmqLjK7e+8WH+L2WIAulP/4b0lIGU6kXO4NycSD6VauN1GwhZWB/jvVPt1L1YltU7OLKNRzX2xK0P772NOG/Q3GV3pSvBk7WhtU/xiykoiZrIqF12IkE71EUuMCIS1IXIs6YX4gh4QT2HCy0iL9FFw5V//lR3xWyurZJIZ9T4jy/fzyZh1rUSaP6E64WxgZTV91ccgBLMezWE1DEZmVmq+NobGaeFGtUjVBoTbT7ERpom5QSXDFeFfE/idEEw/fWDqvxpk6fd35VHkd2teEzq759mAVpjo7+9DqCVkSRS/ySYq3zSq+XEBJeJ62K4U267+jWJJINuxsfUiueDXew9RoeEGR0YSkbgY9QmB/m+8klCPL+iaBOobeajf8UfzaJnSraf8/2kPFQqzv0CYpWX8hXMUslvy+FfMF+ehrB/PxrDo0klQKLVsfTFowY077wZL7NlRCBGdDiQ==;TexJHnjHlnOq9CVIiFDrGg=="
 ---

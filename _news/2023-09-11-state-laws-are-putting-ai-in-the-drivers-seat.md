@@ -3,8 +3,8 @@ category: news
 title: "State laws are putting AI in the driver's seat"
 excerpt: "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws."
 publishedDateTime: 2023-09-11T15:29:00Z
-originalUrl: "https://www.stltoday.com/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html"
-webUrl: "https://www.stltoday.com/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html"
+webUrl: "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 567
     isCached: true
 
-secured: "SlIN9Rrw5KQZiN3tDd6iTBnlvQMS3MIQi8gvnCX5kscLF/rpsGWJiTdAKXJIIsAXMWBLoH+ePi36r+w75K1ftR8DWvClybhZWNj0XNY3kOy9VxjiuOgrbcmefxi/W/+0pTdl7hRiUK4EbshEPTvIUm6r8WUcOYYFwQpwLC9OVrAsa8GBrHlzXMsQJL9tFbQtrNMAca1k9AJIiRjs1qOCpbgxs/KuikI9LE5cEHS0Qd6LMADcW6XTzCdovRbTCC1wptN4haTWVhbcKXhEUODESM6/jbwv05HZefqyxUqaaQWoEx0lLKPBRLM+8PkxyKjALUfSgkOQd8v37xNUIyAvHJun5Kl1Scy/CsG2ZR1cyho15fiSb7Xu1kBy6DYwZupJeY3ZnRYPsayi+xs1u/QWANt7qFP0e0IODCbbzRN/Ak6i4w96ZTCUfwlUXU9cyAq0a05tAmFkZsXmi9CYcd8zwUB9501Y/4BWsWn1Wpi624P/HCe/jBJdWqVFbqHmwdZi0WK1EYLwhJ5q1XS2D4GiUQ==;/OPMEvWZ8Ez/+t6utpeSag=="
+secured: "JbWcwSMV99s13xHeHdLI6bRq9qF8WWthMLNpGWx7rmxfClt3w8uyoi/TTAWVy1ynhPlr0zvfeHP9Q2gEvrZTQNqxsEpdSNzM05oehw4eIeQ0taeT26iFS7NZsvVuQlgH9f3OiyYRG5lgBCdNBd7sx4L7J5UEIvtVEq78ezdDBtVRvZGQXC2aBVCo2B2Fk70HwVmXTxYl9LCwh7dCiH8/dGQtpXPY1ghk1POQ7Ktxjav4HNOVh+sez8t7pwK1UPGPYQUef0UtTM5tICYKd5KpyQhmWBTcqG7Sg7l9GUA3huclqm6ynxIQIfavSVe7rSBvhwFb+YYPNvTUtqyXAKciUA6dk60xy8sw85qubFUYNjo=;z0ITOSOXwKKkHKNc2yQTXw=="
 ---
 

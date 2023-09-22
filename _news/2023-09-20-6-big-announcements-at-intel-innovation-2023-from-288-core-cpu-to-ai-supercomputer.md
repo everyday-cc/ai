@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
-    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
-    publishedDateTime: 2023-09-20T01:16:00Z
-    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI on your PC: Intel unveils new line of Core Ultra processors with NPUs for localised AI processing"
     excerpt: "Intel has unveiled its next line of CPUs that come with a Neural Processing Unit or NPU, which will supercharge AI capabilities on personal computers while prioritising data privacy. Intel is calling"
     publishedDateTime: 2023-09-20T06:26:00Z
@@ -63,20 +49,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
-    excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
-    publishedDateTime: 2023-09-19T16:25:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/intel-makes-progress-advanced-chip-manufacturing-process-strives-relevance-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/intelaieverywhere-gelsinger2023.png"
-        width: 2310
-        height: 1287
-        isCached: true
   - title: "Intel To ‘Usher Age Of AI PC’ With Core Ultra ‘Meteor Lake’ CPUs In December"
     excerpt: "Intel said it will “usher in the age of the AI PC” with its long-hyped Meteor Lake processors, which will be released under the new Intel Core Ultra brand name for laptops this December."
     publishedDateTime: 2023-09-19T15:35:00Z
@@ -91,24 +63,6 @@ related:
         width: 600
         height: 513
         isCached: true
-  - title: "Intel details multiple new chip designs"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
-    publishedDateTime: 2023-09-20T17:34:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 34
-  - title: "New chip designs on display at Intel Innovation 2023"
-    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
-    publishedDateTime: 2023-09-20T17:40:00Z
-    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
 
 secured: "HbiKC5dv9I27m5UWFWP4YebfYx9dAnaUc34c1r4RpY5wGWi6HG0g/DJfbZuxi42ucMUVK2P0dTDiPmDUpRJu14h3qSb+nBwiKB6wJghNcwac0k0fT19Wr9QaA6+IbDZQuO6+SGsseFTr3YqEDyPxnjAtWIroLniloCxmr/09nbBUYQNKN6MkvoYuaQMmnpMzqVhEFYH+qa42/9MmmqWaL4Svr4f9valY00L44ndsVhwNHKu7WYA2rZCV4AQeSLQY+MZi5p4D1/VCiDv0A8/V5lRavsfAJ4yg2XyqvihIl3TL6ap4hG9XoazJWveL80Uo+LET8oG3ADZMRShwNB3yedI9RZBn6Hl71jAT7tFTAH0EbgLneAE1Usr+YORr0vhWwseCzh3+PWyk+4CaPR5F/OG+FJW5j/OysnaHc1NKIPApXDm9WlENLOv+t6PmfLrGb7ZCxbe/nDRFYZliWTkuxfLmn8OtqVyKKYcSJRQsSjPeEpSbEfxKxqo1eWkcHPfHWxB0PCdK+os8GbhpCDc59A==;seK4tXzUz1iZM3qfrR7a6w=="
 ---
