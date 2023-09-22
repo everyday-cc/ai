@@ -23,37 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "Phrasee appoints new CEO to head into the future of AI-based marketing"
+    excerpt: "Phrasee, a digital marketing firm in London, said it has appointed Dan Head as CEO to help guide content marketers through the AI revolution."
+    publishedDateTime: 2023-09-20T23:11:00Z
+    webUrl: "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/Dashboard_BlogMasthead-1.jpg?w=1200&strip=all"
         width: 1200
-        height: 673
-        isCached: true
-  - title: "5 Ways To Incorporate AI Into Your Career Plans"
-    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
-    publishedDateTime: 2023-09-19T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "How AI and ML Are Powering the Future of Work"
     excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
@@ -64,38 +46,31 @@ related:
       name: BBC
       domain: bbc.com
     quality: 64
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+  - title: "The CEO of a New York-based company providing services to migrants was found to have falsely claimed that he held a degree in AI"
+    excerpt: "Clarkson University confirmed to Insider that there was no record of the former CEO of DocGo Anthony Alexander Capone having been enrolled in any graduate program at the university."
+    publishedDateTime: 2023-09-18T14:55:00Z
+    webUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9"
+    ampWebUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
-  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
-    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
-    publishedDateTime: 2023-09-21T09:38:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
+    quality: 58
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
-        width: 1000
+      - url: "https://i.insider.com/650824c5f05aa00019be00da?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
+  - title: "Intel CEO says the chip maker's technology is central to AI boom"
+    excerpt: "Intel Corp. Chief Executive Officer Pat Gelsinger, plotting a comeback for the once-dominant chipmaker, made the case that the company's technology will be vital to an industrywide boom in artificial intelligence computing."
+    publishedDateTime: 2023-09-20T17:19:00Z
+    webUrl: "https://techxplore.com/news/2023-09-intel-ceo-chip-maker-technology.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
 
 secured: "H2YDsqaSrNbszNnm1AcJ+NMUTPX9AXwdKbLdfvH4U4ueMOriu7Yc1/3UyOC+My+SzXJudZus0xL2YKBYvRQZoOPWrgOEq0FU175I8oATCeChl8KZEpzX9IC9v1781w0AGW5EloOdy2jnbHG7yUMfSnuVMzLsmJlY48Z0d+Zy60ta25W1VS68mRTJbsdFw7KXJzUGMF8mLvUsaaugJ70ENBHaDdLK82XlBrYSgOsAO77RpYwJW3ih/TkwhTY0vuViIQQWdTKp0IauBGLT1jyvopeT3p/q+3B3xxdiMfiJIqCcu2Matd0vObcWxpaXDSbh8eTOTcf6lTXkZlQPmC079Nd30ssIvBpEm6cEkPM2D2YQ1oFKOSvbNhS7ZVN0j0qsNzG1cdybSPp2wWS9aW0XhDuLHakTAL7X2vkQQGVBS8uAfjZnuJswOfTDQO7u+FdFE2W5OqJhFgRYXq9jzEwgjIxefiHe9XXm4QUJfc82KZJ74NG57hQ/iGW74CHvm76VpYeb/63/SpygbSpEf40QXw==;S3ztVeEUHDUT2GIcYyBBgA=="
 ---

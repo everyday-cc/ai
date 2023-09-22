@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Ways to Achieve AI-Powered Customer Service"
-    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
-    publishedDateTime: 2023-09-21T09:49:00Z
-    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z

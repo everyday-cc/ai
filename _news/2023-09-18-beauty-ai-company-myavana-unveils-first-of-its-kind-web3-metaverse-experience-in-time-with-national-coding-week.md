@@ -53,6 +53,20 @@ related:
         width: 5115
         height: 2880
         isCached: true
+  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
+    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
+    publishedDateTime: 2023-09-21T09:38:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "pQA6pxu6corwYJLwu3vETZ41saox14Apcci6d/g3kGtLHzgxmKfFHO9CuCLpK7cPkC6qNlQ1aMVFeCJn91xAjmoXJFsZ0zEVu/0XNlh6BVjuB+/BaUDAhpy4RQEWUlk4gPsvHNUhiKDhN2Vznxy7NGr2HFEKl/YvQ5+4xul86Qa/0/C046pOoSKNHaLc9ro1dwWie4KKMgSFQb6q9NA0vgqLqxjnd0h2tYzav/VLRHFHjLTNnBPZQMr9/ZjdI3rDkp9/yl+04zw6aYIP2vCftuX/uI/ePljkddRoZrrtGX45ro+hrfMsaP3SXqWBjRJ30pVzqwYikRZJ0oB3le0Lk7+P8WAfKUWkpv7Y1o8Bci7dOQKrsnYbFXpm+JPN+yGQf6C/cAZJqi2h5yPuJ/7+fxebzrxzHB1FO2/z2NkABn7VvZ46c53DBHEtPAKnd8YrMkTn14nqQuL546iYGwBX3Ay6uNG/EluA79Z75bGX7t3bU6pAqNMHZBS9dad3uXiA4+fFuTxfFi5ubBFMSr+yKw==;ctQfXRSpEriP2XINAatwlw=="
 ---

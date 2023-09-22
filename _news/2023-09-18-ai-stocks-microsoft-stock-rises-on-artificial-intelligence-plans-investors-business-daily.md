@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-
 webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
 type: article
 quality: 60
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -24,63 +24,6 @@ images:
     width: 945
     height: 533
     isCached: true
-
-related:
-  - title: "Top 5 AI Stocks to Invest In for 2023"
-    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
-    publishedDateTime: 2023-09-18T20:08:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-09-18T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall"
-    excerpt: "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy."
-    publishedDateTime: 2023-09-20T13:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
-    publishedDateTime: 2023-09-17T21:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
-    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
-    publishedDateTime: 2023-09-20T18:22:00Z
-    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 9
 
 secured: "nvqboxp3exh9VsNgmztk1fzYXeIubgfJljrfGbo1a+BaXdBtKma3TmXtqDuRLN1Q5CA2ox2k/Gkdcz+PRtWWEducUan68fQ5/5bYjXf/8th0VjNO4I5e0DNNvyE7F3ZlEILP/oqjG31NmDzQ7buWHr0ZB8Bhk3A0oM4sktsNT+mxF7myBQnTa3SfBQMWkT5hp431XouUddvB9kSb629Z4KwAP++tn4gd59IR0+RpROJCtDAqfjdRqWTAT6xvTG0w/s7S37w+l4Bs2spt8vvK8LolHe3PpqrztpnapChxq8BXhmQWKhrVRZOoH+wHCXeFI2f0gD1GePB6sr3Ojci5G6mtErTQsyDi1uYlbOD6iAE=;vqPguEZRPa8ttIpKr3HRXg=="
 ---

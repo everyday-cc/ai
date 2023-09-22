@@ -35,6 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "‘Struggling to Keep Up’: Harvard Students and Faculty Grapple with Impact of Generative AI in Classrooms"
+    excerpt: "From evolving syllabi to entirely new course offerings, Harvard’s classrooms are adapting in real time to the widespread impact of ChatGPT and other generative artificial intelligence tools."
+    publishedDateTime: 2023-09-22T07:30:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/9/22/generative-ai-policies-students-react/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 20
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/09/19/155003_1364936.png.2000x1500_q95_crop-smart_upscale.png"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "i/qG6Lo1+qKTIao70rcg3EC3DmLvZ2RR8Siv1ZGC/pJSbMOpS6x3z1JGB/o4H2BQyqHlrqCVG8cGLISd9Rci6HRAH1n4Gp+BC2gIdausjlZ9gQVn1xpxWo/vnhwe8vO2U9Zv6Y16bpudM/tchhBiBJlyPscOM9XbBjmnJMbLCZvDy9r3Tui7hPMNDi6ESCr/Q8Oa0wAOb0IMYMKt7p516iL3FERyToiqzr0HJ1Xy/1zEbKT8KsbdbbMIcdVxJnQ984rVoBPl7+vwi+UGJ0pbADG3i4VCHUV+kG7/NKGW4LmQGG+3uGwrKi1gzjBTD6rorHUcM/qwLolwpKGOfJqtb78PwpDgAHXsY+kw8OXv9jBjBCX9apHZ22AG+7cX6eRNMwnUuaSU7O8aq7qofIWAjfrdEYBM2ql5uclyc2aT6JmTUJWEVQ2+le/FeESe10ImsQGYYM5h8MTOIB3uoUdJrd6Ft/B26FsrxTIOUzJ3aylIYP3UL/Rn3Ir5Vdy6ULRDizCq5QZe7PCa33wD4pRI5Q==;324SDQtKBTQiw59++y8TSg=="
 ---

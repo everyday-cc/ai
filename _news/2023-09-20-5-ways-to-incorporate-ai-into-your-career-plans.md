@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,71 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "Top 5 AI Stocks to Invest In for 2023"
+    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
+    publishedDateTime: 2023-09-18T20:08:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Congress Navigating The Future Of AI In Healthcare"
-    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
-    publishedDateTime: 2023-09-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
+    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "How AI and ML Are Powering the Future of Work"
-    excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
-    publishedDateTime: 2023-09-21T19:40:00Z
-    webUrl: "https://www.bbc.com/storyworks/advertiser-content/for-a-changing-world/how-ai-and-ml-are-powering-the-future-of-work"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
-  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
-    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
-    publishedDateTime: 2023-09-21T09:38:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
+      name: New
+      domain: bizneworleans.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
-        width: 1000
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
         height: 600
+        isCached: true
+  - title: "5 Ways to Achieve AI-Powered Customer Service"
+    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
+    publishedDateTime: 2023-09-21T09:49:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "okNoXRGvZvrDsDVPXkJnmeugmMVhoi/vuK+TgDf704f76qRq+ZJ4ljH5ObREwvnGxnEzNI6sAYCPMoAlFNXdpnZGnuW29fwjpUg6Ihs9OloA+G3RAyaYH7RTFjR246MlIGxxSimijp+9chY/AgHXW4m6PhqRfwI1O6e9PhNCHeiHGz98+JG5WVfvsTqDMrLFX0P04pwo5FxwT3WKx76a7uDF9kQct1FKJg4nhkopaQl12VDrtzfVxEY+J4sWO1bVg9esVuzPppI0vvhoGYpj/2rtmZsnbLwvBemLFqE4wPd66oRf3RY1J3kLC620jbT5ZJsnUB6YZujsv3yh6kWT7L8Wep0PT00x7Wi+OKFz1eyu2/vfFvIK9ir/xJQCP6XQp/EYLA7KLgSh7idDBfYqDPujwvFwNXaV+592QKJyaRKd6QOFDr470rCThzdgfHHhjheBmcnRjIlXofOYAOFufyMVmcDTeSSe6woYCbxNsbV+iPxzTTFnbmR6b79pp4ScZLjCdGCOx2C2HwM+d7L2sQ==;tA60EoPh3Yxo9jT4v+ro6A=="

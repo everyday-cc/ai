@@ -24,56 +24,64 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents"
-    excerpt: "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ..."
-    publishedDateTime: 2023-09-21T21:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/"
-    ampWebUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/feat-e1695328683148.png?w=1120"
-        width: 1120
-        height: 688
-        isCached: true
-  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
-    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
-    publishedDateTime: 2023-09-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
+  - title: "5 Ways To Incorporate AI Into Your Career Plans"
+    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
+    publishedDateTime: 2023-09-19T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 71
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
-    excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
-    publishedDateTime: 2023-09-19T15:17:00Z
-    webUrl: "https://www.cmswire.com/the-wire/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue/"
+  - title: "Top 5 AI Stocks to Invest In for 2023"
+    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
+    publishedDateTime: 2023-09-18T20:08:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 30
-  - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
-    excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
-    publishedDateTime: 2023-09-21T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/tether-acquires-stake-northern-data-ai-collaboration"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
+    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
+      name: New
+      domain: bizneworleans.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "diSb6qhffBeBP9XyWLl99PTNLxKrQHJfTiaMC4Gsfiq6qZp8ST10NIrN27S+p+PvTGHMwd3Zhblnj6hAvo9IRbk1zkY4XRKdI/RMtsoVVckO78z7Sxt++Jk7Fm31I64g6NTgoFmAw2DBTNdp9J57YFQuJtDroY+2qixpoZh3m67MeCOELV0+Y3lhZ6AAxTq4k6RGGoNavIwTZvva1tZ7mBs86w+HYYq2dlsl4tKSCdfCBbKklBVY8CSaX3sdhzASWV8XDnywCDxcVRd2WAUyiZoflDKHJDwXpuQY5GEfWMLs+rxN3elh+2tHq7MOVXiVSCrFXiM2MTlnWL7RRSnvDMenADEQagmMH7fieXcxQ9vQXbobu7X9XMKCf0AjD/V8x76YhKrIknbIcMxmDiKueEXy1uBdRSueIIvJfuANpOLlAazJu1Rab7pzYJruiaNsGpEE4U2Ln30am4B9VNYV0x6fkzIpyETACss5gj3aIKTlGy8vY+qUzvR/UMBhBSg0cKzbPd3i1x8+diPj6BjGUA==;jygTB5kh/QOenFRPu3BcSg=="
 ---

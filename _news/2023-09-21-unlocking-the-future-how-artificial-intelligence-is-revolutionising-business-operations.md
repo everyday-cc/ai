@@ -26,74 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration"
+    excerpt: "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world."
+    publishedDateTime: 2023-09-18T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 673
+        height: 800
         isCached: true
-  - title: "5 Ways To Incorporate AI Into Your Career Plans"
-    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
-    publishedDateTime: 2023-09-19T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+  - title: "AI integration: Transforming the sector and empowering savers"
+    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
+    publishedDateTime: 2023-09-21T04:30:00Z
+    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: altfi
+      domain: altfi.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
+        width: 5115
+        height: 2880
         isCached: true
-  - title: "Congress Navigating The Future Of AI In Healthcare"
-    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
-    publishedDateTime: 2023-09-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "How AI and ML Are Powering the Future of Work"
-    excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
-    publishedDateTime: 2023-09-21T19:40:00Z
-    webUrl: "https://www.bbc.com/storyworks/advertiser-content/for-a-changing-world/how-ai-and-ml-are-powering-the-future-of-work"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+  - title: "Beauty-AI Company, Myavana, Unveils First-of-its-kind Web3 Metaverse Experience In Time With National Coding Week"
+    excerpt: "With the goal of re-educating on textured hair care and inspiring underrepresented groups to consider technology as a career path, the hair AI"
+    publishedDateTime: 2023-09-18T12:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beauty-ai-company-myavana-unveils-first-of-its-kind-web3-metaverse-experience-in-time-with-national-coding-week-1032636670"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
+    quality: 28
 
 secured: "bW4tNgfZaE0QRNtXeEV8MlxCuO4vDUkjWyHxEPPj0Ja1beDVekLGNBx/ZVJ7kcWqKsbmsMFvRVQnmi9rZAD/uTgR1Xi7oF38lXG3fpuUzK5HNfCShmH+oAr2N0syiGqx8zee1tl0tt3h91es+ElcJ/HFAQookB7sdxBcSwxz9OTXnGbzMOn8HHVdA12L2PugJCoExaEVdPvk2BTSXPsRxwjmytyuhKFQuyq4+WIdS0qRGZkKCCGSxkuhG0TH8L1zeFJbnXoaYY4Ss6A2Hk1JPhiWDGco5nj25YfI5jh0sYEc82qsvDmSaAGMv0ByL2AFJ0/pV2GbS0bumscCss042eGcfD6NErQI8PO8LQ5v4O41BqhcsOPwiNT8ZHkTuNGcuOLTYkPJ61mleun7Khi6Biqmk65/UEvUoO/F/aOWCFF6057NJUAhypbuDXvorUuaRnJJO9kCghhmUC2YdMxUm7Q27kDWOYo18hwMpcBLcakY/dpRLqaJeGNU+cDbQmHj19K+6kZtnIAd74ogpI14NQ==;6fRB1HZtyR/Wa8rYmY4FrA=="
 ---

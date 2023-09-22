@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-sec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/HiddenLayer.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Can We Rely on AI Cybersecurity – Costs & Disadvantages (Exclusive Report)"
+    excerpt: "In today’s fast-paced digital landscape, evolving cyber threats demand innovative solutions. Enter AI cybersecurity — hailed as the groundbreaking shield against modern cyberattacks. Yet, like every groundbreaking tool,"
+    publishedDateTime: 2023-09-22T05:52:00Z
+    webUrl: "https://www.cryptopolitan.com/ai-cybersecurity-costs-disadvantages/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 37
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/image-2023-09-20T110921.717.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "Gelf/T1BckawCzFqxMsqe9SeoogY3XSleWuhVGvUYCFl4FmUkga8V29xKyoTEAsRqA7xCRmKOKgwx8jZB05GvRbm80rEUV7eVWFhR/aNJJaMxIyahRPm0qvnavFVGbuk2SqnihtHt6l2OzLnhD1TnjXdGTPuycGlOY1R0Ss18HANe0+vKirLs1VSbUof3am0YpTO10/O+7DsDAsEsNJMfWwPNJ6ndqpSwpu9krtib6P1BoxviKYLTrhWdk88mIcs5+ooVIORjKfXsvk09GrlVsrevgMKSz6Pbch57SzCHcq39D3AH1L0Sya44iCN0OIBt51OvJqB9i8Rxz3ewOSgWonEghVP+Fr5V2NgXzF/KVc=;dmMvkxAyB8ERzFcDUtwEfA=="

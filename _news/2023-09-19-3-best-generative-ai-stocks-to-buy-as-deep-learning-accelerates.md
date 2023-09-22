@@ -86,20 +86,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "How new research is teaching AI how to smell"
     excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
     publishedDateTime: 2023-09-20T22:31:00Z

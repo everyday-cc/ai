@@ -33,20 +33,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Those trying to pick AI winners should remember the dotcom days"
-    excerpt: "It is always worth stepping back to assess where we stand on the historical arc of technological advancement. As we enter the age of artificial intelligence, there are important parallels with the dotcom boom, which first heralded the internet age."
-    publishedDateTime: 2023-09-17T14:09:00Z
-    webUrl: "https://www.ft.com/content/82168156-006f-4d75-a4e9-0b6bdccef3b2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
     excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
     publishedDateTime: 2023-09-20T05:00:00Z

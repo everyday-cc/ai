@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Impact of AI-Powered Assistants on Healthcare: A Comprehensive Analysis"
+    excerpt: "Artificial Intelligence (AI) has revolutionized numerous industries, and one of the most promising fields where AI is making a significant impact is healthcare. In recent years, AI-powered assistants have emerged as a game-changer in the healthcare sector,"
+    publishedDateTime: 2023-09-22T07:17:00Z
+    webUrl: "https://techbullion.com/the-impact-of-ai-powered-assistants-on-healthcare-a-comprehensive-analysis/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T081305.664-1.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Capsule introduces its AI-powered video editor for enterprise teams"
     excerpt: "Capsule, a startup that's been putting AI to use in video editing, is releasing its product to the public, after three years in development. The company's"
     publishedDateTime: 2023-09-20T17:50:00Z

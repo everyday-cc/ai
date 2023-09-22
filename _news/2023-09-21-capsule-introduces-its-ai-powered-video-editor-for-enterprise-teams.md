@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Impact of AI-Powered Assistants on Healthcare: A Comprehensive Analysis"
+    excerpt: "Artificial Intelligence (AI) has revolutionized numerous industries, and one of the most promising fields where AI is making a significant impact is healthcare. In recent years, AI-powered assistants have emerged as a game-changer in the healthcare sector,"
+    publishedDateTime: 2023-09-22T07:17:00Z
+    webUrl: "https://techbullion.com/the-impact-of-ai-powered-assistants-on-healthcare-a-comprehensive-analysis/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T081305.664-1.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "rh6aYDXy6CwljjLW24iP9TJ23mC1pz4+G1SBQxmziXhTeUmYpwYMtni93h1jjgsULwXodz7SJPEACzPb2XXQFoFmQKRsgtZuHrTC+rSdCXfwSgnAuJDm9bojMzuwq4VGHqPw2Xpr/GbEjcI6pM+C3aRFIEPvb4DeRMz0+60aWE/5Z0Yv89qba/VDLo3OozuNS+fxCJIvUYoYivPogzwJxLfGOLybzlheBu39TQA4RyxUWrzxgR8dBclJp4SWVynmKjuiXJtqiI+Ab2/XjGJRPiXZWL/QaMxW4z3RZA2K0YDdrt6wbufOgqvwsqLmcAa/2g5L9LAgVI3d4bqhZvkt6PxiGCy/cubVKR2ukgFg6pAEfblBiq8LFZv0KLpaRSS080+jvokyELCvpEEIXNlnW1QiKwkg/i5BypTOz6Ax8uJ+sLsmzQ2rtHKFoQmhuzqFvv55I3HbFIoOvmX46au+caJaxpBDb90Z7Cxgu14peca26M5Uo16LzLMd/6meT0UkqNUvPj0bq5kuMNSpKtpyGQ==;NgRCfHUtgh97IU+s9lqvgg=="
 ---

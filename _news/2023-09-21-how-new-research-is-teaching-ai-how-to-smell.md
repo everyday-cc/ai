@@ -95,20 +95,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "P/q9xEOZXyvEOJwPvZVauQU0eJ5NcUBbeIoXqqsWGpykwVFkPY5o/5w9Br0wAifGRiQ8sWIJqUih8oP0CUKJeQ19DhoUZyFClp496jwIUH2mm6Al/20mWIRUbGRKyJOuwLU37SmsSWrFECG3kdQ7Eus7Z3kz/Guc6rgIHKq6HC2mPYBH1Fm/GQZ9PwKqj0LHwW3qUn4DBRRdF9Zc8/QUGAjfMQpPIJXcQQjK1jdGDt+SqkFxHHGv0axQODl5R6pMgIHAZ227R62L9/EqpB49oLgEg5YSJyexB9xJ6Mw4mBAXvoabHixmJoDVOBC2Xn5QEDpX8muovrftz7VMXc7FlbJndzTRv57+0VMlh1lOgDc=;9Oodm5zgxNc/S7OlNCCDHQ=="
 ---

@@ -71,15 +71,20 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
-    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
+  - title: "Govt is planning GPU cluster to boost Indian AI startups, says Rajeev Chandrasekhar"
+    excerpt: "Speaking in Delhi a day before the groundbreaking of a semiconductor packaging and assembling plant by Micron in Gujarat's Sanand, Chandrasekhar said the project will serve as a signal to other chip companies and investors to take India more seriously in the global electronics value chain."
+    publishedDateTime: 2023-09-22T06:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/govt-is-planning-gpu-cluster-to-boost-indian-ai-startups-says-rajeev-chandrasekhar-11408571.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 48
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1-770x433.png"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "fJJ81vKPgMNgBi1fNPhAa+bE/kKDC0AwwvLkbJh3iuNwbjrMK309g/XgSD5K3UQV1WZbl6ajBEwBr9SYnnZaI8wbymmNYpmRE7cvkol0C5drPZO7BAew4SIriDOd7bYA4HPO3GmP7IpjaPHQsKv7q6Wkp9Ywk+Se/IqSABPQD3UilKaU9Po3qEmlEtBnKWICIiNJ+p9mUTQtgesv2FHfhMet16Zrbd2+3VSniRkdKF1E31IB9XC9WqSyYgsqhn8hW1/MV0SreogAk6IVrpvyqID1p6WuEwo/Q1Z84XG9L0BMTQwiJhDvax8VzxvXCEIvkIeWAfyWiDBkh4SxtancIGlAIN/S8YEN5XDXnH8/RTc=;fp+x8P/rti+QZh8turjQjQ=="
 ---

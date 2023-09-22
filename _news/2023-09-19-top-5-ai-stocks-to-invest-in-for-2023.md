@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
 type: article
 quality: 75
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -32,61 +32,64 @@ images:
     isCached: true
 
 related:
-  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-09-18T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
+  - title: "5 Ways To Incorporate AI Into Your Career Plans"
+    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
+    publishedDateTime: 2023-09-19T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall"
-    excerpt: "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy."
-    publishedDateTime: 2023-09-20T13:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily"
-    excerpt: "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market."
-    publishedDateTime: 2023-09-17T20:29:00Z
-    webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
-        width: 945
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
+    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
+    type: article
+    provider:
+      name: New
+      domain: bizneworleans.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
+        width: 800
         height: 533
         isCached: true
-  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
-    publishedDateTime: 2023-09-17T21:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
-    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
-    publishedDateTime: 2023-09-20T18:22:00Z
-    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
+  - title: "5 Ways to Achieve AI-Powered Customer Service"
+    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
+    publishedDateTime: 2023-09-21T09:49:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 9
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "mOHXdS/MIcbx7NkgnYDp52snnv8Lki3us1qozONQX8jILg8/Ox/GKQl3MHdTiKtRvi8i4Q72CtEFNR/bRi+SpkvgOmlCwSCZqXXE48ggwZDfTN5zZZv35ybX4WVRtLD5zeDAcdp/hABGDC8jtfFDB8k4wd8SscCmbvFGINu9lt3eT6lPM/T9fuzcPGe0v+daQFRIsjOh2IBlJGUXYlKkY2I+y3IFcWDFViMvPaKRkYXOfO2XAMoHR4R0X3RZ6zY7RxiRNwtMMveaZ7f5HHwA39Otcq4+vMrsgi0Fk0zUiBd6vwcG5PIPSh5WvUeV98rQXISQ4+Wg3C/kNQNxuxhKSQI52LPJnatzLbhrPPnOhBrRrprXM62KozyeRdMZE71X5KhFeA/C6GW5aWlL+edi38U/yS0lrZay1ex/V9KYLfCLCJ5pY9rUHevwO2O/mI1lHW0RcUHf/M/N1N1bggHxnmHhsd45nOkUZZl7pY2Ic1r4WlRrklnYgAhI20dM79RAL1pFaZBWLWTQGuQaSblPgw==;wiUvTlqGr5/5zQryfu/z5Q=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Govt is planning GPU cluster to boost Indian AI startups, says Rajeev Chandrasekhar"
+    excerpt: "Speaking in Delhi a day before the groundbreaking of a semiconductor packaging and assembling plant by Micron in Gujarat's Sanand, Chandrasekhar said the project will serve as a signal to other chip companies and investors to take India more seriously in the global electronics value chain."
+    publishedDateTime: 2023-09-22T06:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/govt-is-planning-gpu-cluster-to-boost-indian-ai-startups-says-rajeev-chandrasekhar-11408571.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 48
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1-770x433.png"
+        width: 770
+        height: 433
+        isCached: true
   - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
     excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
     publishedDateTime: 2023-09-19T17:24:00Z
@@ -71,15 +85,6 @@ related:
         width: 400
         height: 220
         isCached: true
-  - title: "This UK startup by an Indian entrepreneur uses AI to transform services"
-    excerpt: "Opened for a funding round recently, Anuj Gupta's GreenVan uses a simple WhatsApp interface. It is designed as an 'Amazon of Services' offering that intends to transform the way people book essential tasks online."
-    publishedDateTime: 2023-09-17T13:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/this-uk-startup-by-an-indian-entrepreneur-uses-ai-to-transform-services/articleshow/103735479.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "jFyhe5dsjuYo/kRjOM9iENCfZLqJX68mxLnf4WN01QKP6YTPAJ0cQ6CDH4nrOT9pLefq4tRsf+kkLlYqpb2LNq9yKazWfxfp/XyUpTB8Tu93BYVL2oIZS1E8gcaLxB0O2oCXbgsHzistcGkuoxHVrrP7tlgJDQyu0nPdrroTyTnrQF+j+nHwsG05MwDR8D88GqITvbAB1DoAQbd9ynSNUFhqvKJ6Jx4FsmiVxSaGQX6vYu78wR37lZzSuJ9Vsq+SBf+lLWsAGzfeGH/byTMAskSPdQBYnrOAfeMGDrQ4Wwg6hDUaSs/tRP3isFh6YEfy40+5fJOWx+09RLEaJZkmnCwgn/uBaBvNAYLSBhWIfUQ=;q6e+Jf55tD6MG8aSVpM/SA=="
 ---

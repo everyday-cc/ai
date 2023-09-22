@@ -38,6 +38,20 @@ related:
         width: 2763
         height: 2072
         isCached: true
+  - title: "‘Struggling to Keep Up’: Harvard Students and Faculty Grapple with Impact of Generative AI in Classrooms"
+    excerpt: "From evolving syllabi to entirely new course offerings, Harvard’s classrooms are adapting in real time to the widespread impact of ChatGPT and other generative artificial intelligence tools."
+    publishedDateTime: 2023-09-22T07:30:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/9/22/generative-ai-policies-students-react/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 20
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/09/19/155003_1364936.png.2000x1500_q95_crop-smart_upscale.png"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "4DgEJzyknqg+LIX3bXMSvNbTumpb0caVUFkRebmAIIivR75xmY37HxCU4DLFAy4wtCQTGNEAuMENtPkEe8A0G3dE1pLAi+gCSYvfPQDLmut76OLNnAeRWCpGynrgnuw/PEHGeLuUrro1Ajy0k7Pgg2ywrd5CnACk+sHteewpO3FLHYM3/ob/o7KG4ooT20EIrtn8jxQ5P+Hb58YVwDs98uRO6mQSnNli9N/8nqSRjIc/vx/d5jgAoHcOeO21N9VjkK12qQ9pYsSJ5fX4OY+yq+tc3AX6yw/r1Nl24XWECb1enMo9MJQ0x0vVO7YCj+kvShBkCXFNl0Y215T7IjGa+h3LLQarG2QF8atBgfq1FTJnHWiqjz/zYM6Fm9Nyg/D8iD/jxgtMhuNgnzDidqN3SPjHHpn73vJmoiVEvCsRUxaXGkbSOcPFFl5xTIxWLvANcI7MTW2AxeJ8uBRpzJttBHjyhG9ZaPIEZtLolAuAbPnlp3hH8iO9OhbRmabyXJpxYWmQojBOi50lzmwgth43MA==;GnaA9w0DCDF3IaBgM7bT+g=="
 ---

@@ -23,78 +23,91 @@ topics:
   - AI
 
 related:
-  - title: "5 Skills For The Future: How To Proof Your Career For The AI Revolution"
-    excerpt: "If you don't get on board and upskill yourself in these five skills, your career will be obsolete. Learn the five essential skills you need to outlast the AI revolution."
-    publishedDateTime: 2023-09-17T14:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/17/5-skills-for-the-future-how-to-proof-your-career-for-the-ai-revolution/amp/"
+  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-09-18T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6507054221636f3caa52ccc9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "5 Ways To Incorporate AI Into Your Career Plans"
-    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
-    publishedDateTime: 2023-09-19T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been"
+    publishedDateTime: 2023-09-21T23:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Congress Navigating The Future Of AI In Healthcare"
-    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
-    publishedDateTime: 2023-09-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "The 3 Most Undervalued Robotics Stocks to Buy in September 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The technology sector will always be a sector of constant growth and never"
+    publishedDateTime: 2023-09-18T11:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-robotics-stocks-to-buy-in-september-2023-1032636598"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 64
-  - title: "How AI and ML Are Powering the Future of Work"
-    excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
-    publishedDateTime: 2023-09-21T19:40:00Z
-    webUrl: "https://www.bbc.com/storyworks/advertiser-content/for-a-changing-world/how-ai-and-ml-are-powering-the-future-of-work"
+  - title: "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall"
+    excerpt: "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy."
+    publishedDateTime: 2023-09-20T13:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 64
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+  - title: "Missed Out on NVDA and META? 3 More AI Stocks to Buy Before It’s Too Late"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) captured the imagination of investors this year"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-nvda-and-meta-3-more-ai-stocks-to-buy-before-its-too-late-1032637944"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
-  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
-    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
-    publishedDateTime: 2023-09-21T09:38:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
+    publishedDateTime: 2023-09-19T22:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-ai-stocks-waving-massive-red-flags-right-now-1032641666"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Investor’s Gold Rush: 7 Must-Have Blue-Chip Stocks for September"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the investment sphere, where markets shift like dunes in the desert,"
+    publishedDateTime: 2023-09-20T11:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investors-gold-rush-7-must-have-blue-chip-stocks-for-september-1032643011"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "GOOG Stock: What’s Next After its Latest AI Rally?"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For most tech stocks, excitement for them related to the AI mega-trend has"
+    publishedDateTime: 2023-09-21T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/goog-stock-whats-next-after-its-latest-ai-rally-1032646170"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "m+UDguAAzmLztvoiK+8ETmgPI9NXp/TIfNns/xFYbqe45rjwJBBz46p34AnsxKsNH+cyMzkeFIv0SYUEY1gdyENohdUKyjXz/B1q9ie7Z6q3E2sgt0CRmx32McG26p0hVlm0gt/+dhdfD0IKhnOg2jPRV1oIpo5ezcXxYmukxiQ2YSdMdY5j6tJTIDFZ4a4wLHDYlqFIyErm7cw6cyGzEna/xl5j5XeLTeJB6enjMpl+4XEA/gR7N705CUTfd3qSCenT27Z0PbK8/OtVLTNW16KkXgNq8SqkZg9cjc4J642roxbVHeU5i7Pg0I63obrRmf68UgvFi7m1qDn+xSB8uWiY/G7aTZlbXcRJmrITtqY=;ahVpDUrMsewOC4Y/NWnCrg=="

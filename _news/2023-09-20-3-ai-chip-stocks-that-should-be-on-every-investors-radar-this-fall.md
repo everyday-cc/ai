@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Top 5 AI Stocks to Invest In for 2023"
-    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
-    publishedDateTime: 2023-09-18T20:08:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
     publishedDateTime: 2023-09-18T16:14:00Z
@@ -42,43 +28,83 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "AI Stocks: Microsoft Stock Rises On Artificial Intelligence Plans – Investor's Business Daily"
-    excerpt: "Microsoft (MSFT) on Tuesday announced it is integrating the technology behind the viral chatbot ChatGPT into its Bing search engine and Edge web browser. Microsoft stock jumped amid hopes the artificial intelligence tool can help Bing chip away at Google’s dominance in the internet search market."
-    publishedDateTime: 2023-09-17T20:29:00Z
-    webUrl: "https://www.inferse.com/720020/ai-stocks-microsoft-stock-rises-on-artificial-intelligence-plans-investors-business-daily/"
+  - title: "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been"
+    publishedDateTime: 2023-09-21T23:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "The 3 Most Undervalued Robotics Stocks to Buy in September 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The technology sector will always be a sector of constant growth and never"
+    publishedDateTime: 2023-09-18T11:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-undervalued-robotics-stocks-to-buy-in-september-2023-1032636598"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Missed Out on NVDA and META? 3 More AI Stocks to Buy Before It’s Too Late"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) captured the imagination of investors this year"
+    publishedDateTime: 2023-09-18T16:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-nvda-and-meta-3-more-ai-stocks-to-buy-before-its-too-late-1032637944"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
+    publishedDateTime: 2023-09-18T21:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
+    publishedDateTime: 2023-09-19T22:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-ai-stocks-waving-massive-red-flags-right-now-1032641666"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Investor’s Gold Rush: 7 Must-Have Blue-Chip Stocks for September"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the investment sphere, where markets shift like dunes in the desert,"
+    publishedDateTime: 2023-09-20T11:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investors-gold-rush-7-must-have-blue-chip-stocks-for-september-1032643011"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "GOOG Stock: What’s Next After its Latest AI Rally?"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For most tech stocks, excitement for them related to the AI mega-trend has"
+    publishedDateTime: 2023-09-21T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/goog-stock-whats-next-after-its-latest-ai-rally-1032646170"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Using artificial intelligence to predict heart attacks"
+    excerpt: "Using artificial intelligence, doctors at Lee Health may be able to predict the likelihood that someone will have a heart attack."
+    publishedDateTime: 2023-09-18T19:40:00Z
+    webUrl: "https://winknews.com/2023/09/18/artificial-intelligence-predict-heart-attacks/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-6906.png"
-        width: 945
-        height: 533
+      - url: "https://winknews.com/wp-content/uploads/2023/09/vlcsnap-2023-09-18-14h59m47s240.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already beginning to change the trajectory of companies and industries. AI is being put to work doing everything from evaluating medical diagnoses to making cars drive themselves to writing online content. (Back off AI!)"
-    publishedDateTime: 2023-09-17T21:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/975b2c987c44915aeece3445c2fd5db5/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f747663%252fgettyimages-1284372450.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Congress to Increase Funds for Artificial Intelligence Capabilities in Fiscal Year 2024"
-    excerpt: "US Public Policy and Law Alert OVERVIEW Artificial Intelligence (AI) continues to drive dialogue among policy makers, industry leaders, and the broader public and presents increasing congression"
-    publishedDateTime: 2023-09-20T18:22:00Z
-    webUrl: "https://www.natlawreview.com/article/congress-to-increase-funds-artificial-intelligence-capabilities-fiscal-year-2024"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 9
 
 secured: "JmLi7w1075vFmcIz6eK8zBYmIxDCYwkM+Ddp7lyy5pHWiYnbZRgCjAXqS9prUn5pwfay7KEtSWvuM9uWZmxrUihSxIjTZVdfoy7sJNbT+sIiWXVvgrTyQlnJDRqOIU0FSxkPlt7fc+L5YpqmZyCcQstVMBOqunoY6zMVQmLSN6BFMUjauyY2MVDHUfkRlUXiYvRXYPjITgbEUcBbyN35zmWFaUWu0pw6Sp4am81DKFjR7pVGOdPgWaARSTwGezwC/a0osx9OVuEwFpT1JMpbSWB/by1wOuDTCTmH2xTS/Po59tkWVR+HYZ/uZw4KkLTL+eP+m7Y+jYslPNHmwP+v9z0SMIdz6aU1OvrhBvUNtD7qHcX4kupSk5c5NQc5OTfLcgFX7K2rVZNZiWnQSlhGAKRu2uCgUsqZXz8UVmeXfvDPW1dk/4zXA5IuuLVDZJ1S6eyCkl1LeCf6DshzclFd7ogLZ6/vaPy0NogxVwjDhEdDE+YKul2zBu5XyOXaiBw/NIuyWbTlhg1PScjwBCotQQ==;73l4vAYSgAnUU4hIuPicyQ=="
 ---

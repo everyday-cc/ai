@@ -25,90 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+  - title: "5 Ways To Incorporate AI Into Your Career Plans"
+    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
+    publishedDateTime: 2023-09-19T21:15:00Z
+    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "YouTube Studio to give creators a generative AI tool to suggest video topics"
-    excerpt: "During a YouTube news event, CEO Neal Mohan revealed that the platform is testing a new generative AI powered tool in YouTube Studio that suggest video"
-    publishedDateTime: 2023-09-21T14:50:00Z
-    webUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/"
-    ampWebUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
+  - title: "Top 5 AI Stocks to Invest In for 2023"
+    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
+    publishedDateTime: 2023-09-18T20:08:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-21-at-10.29.03-AM-2.png?w=1170"
-        width: 1170
-        height: 692
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "How AI is generating change in newsrooms worldwide"
-    excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
-    publishedDateTime: 2023-09-20T14:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/"
+  - title: "Ochsner to integrate AI into Epic"
+    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
+    publishedDateTime: 2023-09-19T14:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
-    publishedDateTime: 2023-09-18T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Toyota Uses AI to Teach Robots New Behaviors"
-    excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
-    publishedDateTime: 2023-09-21T14:06:00Z
-    webUrl: "https://www.assemblymag.com/articles/98025-toyota-uses-ai-to-teach-robots-new-behaviors"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 54
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: "https://www.assemblymag.com/ext/resources/images/TRI.jpg?height=635&t=1695264007&width=1200"
-        width: 900
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
         height: 600
         isCached: true
-  - title: "TRI is developing a new method to teach robots overnight"
-    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
+  - title: "5 Ways to Achieve AI-Powered Customer Service"
+    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
+    publishedDateTime: 2023-09-21T09:49:00Z
+    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "How new research is teaching AI how to smell"
-    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
-    publishedDateTime: 2023-09-20T22:31:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Inc
+      domain: inc.com
     quality: 37
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "7RFYRzhWhGaexC+TJ8dA7s2gkJPuwHGw8+q1q2ZVC4iaCaJ1HlKADVjNS/7NbYwafQpmF2TC/TQ8MVedCuYWTClrJK2Mf08w3kh1Au26+whXJXSM9hlmi+qIQl6b86SOhX6n0Ly4LlFNEyuUbwZY3T/AcXhcbIzIomoMUtAI8w3PZyqLM7nNRJXX6MwISzps4TcYZksJss2TERZsO1Mx2I1XH8Xi/X6w/hkDAvgKI7wpg/O+mLYY/t9b7OxY+mp1mFn/syV6C2jUMEbz6HOVhnF/TrbBcDq8ekZ5RS+mZoG2hQUOeT8H0hR43/QTKysn6kY+iAzuWWWNelfppbrLyWbXlpG63fonD7Bx4iytSGc=;d8sjWDYX7Uk0T4p4a2k1QQ=="
