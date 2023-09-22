@@ -2,109 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-09-18-3-key-startup-opportunities-in-remote-work.md",
-      "title": "3 Key Startup Opportunities In Remote Work",
-      "excerpt": "In this article, we explore why 3 different remote work niches hold immense potential for new innovative startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
-      "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650860fe17567a7b42935f67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
-      "publishedDateTime": "2023-09-18T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration.md",
-      "title": "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration",
-      "excerpt": "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
-      "publishedDateTime": "2023-09-18T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-18-the-next-wave-of-payments-modernization-minimizing-complexity-to-elevate-customer-experience.md",
       "title": "The next wave of payments modernization: Minimizing complexity to elevate customer experience",
       "excerpt": "IBM aims to help clients transform modern payments architectures and maximize investments while accelerating cloud adoption for the most sensitive data.\nThe post The next wave of payments modernization: Minimizing complexity to elevate customer experience appeared first on IBM Blog.\n",
@@ -197,7 +94,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -1025,6 +922,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-17-2023-automated-machine-learning-automl-market-size-restricted-information-analysis-forecast-2031.md",
+      "title": "2023 | Automated Machine Learning (AutoML) Market Size, Restricted Information Analysis Forecast 2031",
+      "excerpt": "\"Automated Machine Learning (AutoML) Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 114 Pages Report The extent and overview of the various ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34656312/2023-automated-machine-learning-automl-market-size-restricted-information-analysis-forecast-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34656312/2023-automated-machine-learning-automl-market-size-restricted-information-analysis-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-the-new-kid-on-the-artificial-intelligence-block.md",
       "title": "The new kid on the artificial intelligence block",
       "excerpt": "Generative AI is a subset of artificial intelligence (AI) that employs deep learning and neural network techniques on massive-scale data to “create” novel content of varied types — text, images, video,",
@@ -1159,6 +1090,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
+      "title": "Robots are trained to help revive coral reefs",
+      "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daily-sun.com/assets/news_images/2023/09/16/Coral.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
+      "publishedDateTime": "2023-09-16T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sun",
+        "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

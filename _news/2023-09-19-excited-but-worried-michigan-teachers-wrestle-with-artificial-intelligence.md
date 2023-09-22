@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bridgemi.com/talent-education/excited-worried-michigan-t
 cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bridge Magazine
@@ -36,15 +36,6 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 34
-  - title: "Michigan schools are rethinking artificial intelligence in the classroom"
-    excerpt: "In Michigan, some school districts are moving away from total bans on artificial intelligance tools such as ChatGPT. Some are even teaching it."
-    publishedDateTime: 2023-09-18T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/news/education/2023/09/17/michigan-schools-rethinking-chatgpt-artificial-intelligence-policies-classes/70577256007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "+3CJbIuTh7/4trEUQ7oo6qtplRPvZqXrZ+7IA6/N1mz3e12utstGaJIKnjK8o+bh1ppvYCMxygKpPSfYnRVmrbIGQAX54Ic9DOG4AWJOmYMjqpwUFNrmzjYYkoPt54/bscn9zh0SimehINwTERGskiTHnjU5D3k27kTbHQypnv0B2wiCmVZ5C9GOxZgagsPVpnSnr0Gg+Cy2neja9591N9iHDKOC//h8l0xMMobBSIVUP1DumAhSkQUXz2Sy9bD+xWoTf93PXBTz6/Hz2gpMEgepRaY0idHIW5w3CqK7CablFLNZubd9V6EqzyadXiUeTHNyDx5j6Qr/sgXjFRNTOzo6yGsaLOnAxJc/qPHKQkyg6KzczNV4Ix7cH1IoZe6urq+lF+PAkBOt88bL+jzT41qjCxsXC5NZFITdtbna1GDHFm5hiER+Ti7NnJqdAbxsp1JjQS23PkMhvCKrAznnWyEGOjsFegadRLdzOH8FgBEEIsZ9qgNKUQIwcDzAuLC7NDMTCbXLGu1XmEAx/UN97A==;RFP56TYAV9d+4LxcfDVAHA=="
 ---

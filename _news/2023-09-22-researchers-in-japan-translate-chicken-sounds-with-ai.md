@@ -35,15 +35,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Michigan schools are rethinking artificial intelligence in the classroom"
-    excerpt: "In Michigan, some school districts are moving away from total bans on artificial intelligance tools such as ChatGPT. Some are even teaching it."
-    publishedDateTime: 2023-09-18T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/news/education/2023/09/17/michigan-schools-rethinking-chatgpt-artificial-intelligence-policies-classes/70577256007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "nNLA6ML2ZwfNsUT8dLZEoxLV5ybdGDF0jpsP11GktKmWQ0JhsZTQSAjv2bvIkb8TmXlQ5u2Eu+juavd6n2PP+lZDKKTp193nPRQc473yLWKVxtc3m/+C30Rxj+rr+E98HRWI9uj99RIGZCNaEOC2oRgpcxvdol/TMHnvckZLPTzGeRDkfPqbpeBXN8BQuxe1NEYzj2rVYjOIGpU8g3CkghxrKc9RPn0pqlxb4LBB+6zLKtTHzivx6jRyT0HJ4abhJ5NnTWGw03cPDHHbaKlAdNqlfTf2fawpd9CbtdQ4oVQHrL532n+mF4oTViLrkT5CfVNtjDtEOdxaOH7CqwRgwRHVTidew7NVeTuaBwns+olGBFRVpGlj37YF6hkJRYAVd0Bcrc/5+fVr81Zopn6G5YQBprG3/8D4/WJnuLn9/7Zg8USBsoxOUMZjBVZQ98ruYHfXkMMhklQtkHDZnQwZwpDxmUQLnkA1ZESpqO4v2RSjTH4k22MnzNQUJe2GfmSLqZz8QnDLM7Sl/hn+hqz5Mw==;D3m0Qhr5Ej1cefRNbeq7sA=="
 ---

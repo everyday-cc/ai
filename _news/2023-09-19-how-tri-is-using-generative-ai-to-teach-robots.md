@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube Studio to give creators a generative AI tool to suggest video topics"
-    excerpt: "During a YouTube news event, CEO Neal Mohan revealed that the platform is testing a new generative AI powered tool in YouTube Studio that suggest video"
-    publishedDateTime: 2023-09-21T14:50:00Z
-    webUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/"
-    ampWebUrl: "https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-21-at-10.29.03-AM-2.png?w=1170"
-        width: 1170
-        height: 692
-        isCached: true
   - title: "How AI is generating change in newsrooms worldwide"
     excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
     publishedDateTime: 2023-09-20T14:00:00Z
@@ -109,6 +93,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Estes is Using Data and AI to Revamp its LTL Operations"
+    excerpt: "Estes Express Lines is using artificial intelligence and near-real-time data to optimize its LTL operations, from first-and-last-mile to linehaul to dock operations."
+    publishedDateTime: 2023-09-22T20:56:00Z
+    webUrl: "https://www.truckinginfo.com/10206777/how-estes-is-using-data-and-ai-to-revamp-its-ltl-operations"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2023-09/20230924_estes-optym-linehaul-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "MWQp1PgLReDrz/Buw10wZ3dRgGCuKKdsFt+SHmKlaP1RstMC/X3Po7nYkY0HUutDHq9yhpvTZ8HkXeMxnJ6ePtROeAWDs+vFA+EqFHDFyxHbHzQwNqFAIrImxOhGRC/0RdMkk3Ag2MBJ8CFggMOHydcQ49/5ccO83djlCpHr33wsRcrTRHVXX6JrJkctY3xzukBGNFuC7PDtQP60fDRMOsoxJE1ROiHe5+UW0bfQn6HOxg7uQjcukU+BRNo8fDbT9KMEuHWnTH2mLoWPPqV+V4v5cCMVj29xiRzQrtQSpXuC6WvzQpjsgnyHjintk9IgJ7yxfKcJjx2md0ZTLWifRruQgVcqf0/Ewcicu43NvdO8RcV9kBgRazlIEvh6dNaJhgB2Apt68kY0vd216SfBWHxvXc09OUhbuIx41b2J3dfJHIJx8b56ooAEi8AjvpgyXACI+Oz9/HKX1V27uO85UW7+ehPkDJ9T/Ol8P6xI9gOtdIjXXPc+Wo+pFEyGYXwQJWPc7TOy9iFEuqObSkz1Aw==;X2fE4B+1G4mFrXXAIbFnxw=="

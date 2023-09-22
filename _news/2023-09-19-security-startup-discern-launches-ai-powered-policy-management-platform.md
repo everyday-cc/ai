@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-la
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1743708/Ally_Financial_Logo.jpg"
         width: 400
         height: 233
-        isCached: true
-  - title: "Ernst & Young launches a new AI platform"
-    excerpt: "Sources revealed that on September 13, 2023, the London-based firm mentioned that it had invested $1.4 billion into AI technologies for its new EY.ai platform. The new platform is expected to help organisations adopt AI. It is believed that the platform is based on EY’s own large language model (LLM), EY AI EYQ, Cointelegraph added."
-    publishedDateTime: 2023-09-18T03:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ernst-young-launches-a-new-ai-platform-3246635/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-22T092308.558.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Velocity Launches Global Expense Management (GEM) Through Acquisition of RPA, AI and Machine Learning Platform"
     excerpt: "Velocity launching the GEM platform is a game-changer for the company to bolster in the expense management field, including the telecom expense management market. HOLLAND, Ohio, Sept. /PRNewswire/ -- Velocity,"

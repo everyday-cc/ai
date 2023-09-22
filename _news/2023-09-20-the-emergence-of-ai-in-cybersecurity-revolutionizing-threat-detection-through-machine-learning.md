@@ -57,6 +57,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "'Job security forever': Bank leaders on AI and cyber defense"
+    excerpt: "\"The people are the most vulnerable point,\" said Reggie Townsend, vice president of the data ethics practice at AI and analytics software company SAS, on the same panel. Legault recommends moving away from focusing on details like typos, which he labeled ..."
+    publishedDateTime: 2023-09-22T18:06:00Z
+    webUrl: "https://www.americanbanker.com/news/job-security-forever-bank-leaders-on-ai-and-cyber-defense"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 53
   - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
     excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
     publishedDateTime: 2023-09-18T13:00:00Z

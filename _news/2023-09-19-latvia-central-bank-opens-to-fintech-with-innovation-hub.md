@@ -41,6 +41,15 @@ related:
         width: 1020
         height: 720
         isCached: true
+  - title: "Fintech Research & Innovation Hub Selects Centropy"
+    excerpt: "The centre will be led by 25 academics and fintech business leaders and will act as a platform for industry collaboration projects, virtual and augmented reality teaching, and applications of advanced generative AI in financial services. Warwick Business ..."
+    publishedDateTime: 2023-09-22T19:22:00Z
+    webUrl: "https://menafn.com/1107123925/Fintech-Research-Innovation-Hub-Selects-Centropy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "qrj41DICI+MH+YQ7YJErQCiyK28zpkq0eZb3+qtj3GAEhfIWlOcO25VZP38ch0GwuNFnJ+BI/3u3ueF5vwJ8kxXekO+FkybQJZY+81swS5ndG305zCtsvyb5PLQ12pYlwZgUXrBSz1ndNeA7cMHqIvvOqfeNMwzXW1UswPPyGClbGq1zzsQm/ipulBacHcB/J51FDgKJqqZeL4Y53UcsElxKoLyim5F2G20wV6XzD2jDZ14cDtNetxLNSw3CWN3giyoN1FSLYwaRtUuEpca+SGXSAPMroZdoSbmftXKrA+NuwZkxBR+qGNptkIENV7LoCGeI0P22VPM49KdfbIo3xqTQG04PdQs/YOyS31lDGSLmzv02C/bARWXE41QSmnDFowALaavDtcEygHu9yrOMQu7X0xa0ghaVbXdBlTnuKpQdniLj9Zw2w9WthtWa8KAiWe8Yph9VDOJTDW3jiW3CqUlK4dfg62izmIvZbyn4gbk69Tar63+TclFscU9Tb940MnnTUwPcESQPYMb1Kht3Zw==;dRZhn9vN81QglfHTiyc5Yg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://ijnet.org/en/story/artificial-intelligence-coming-election
 webUrl: "https://ijnet.org/en/story/artificial-intelligence-coming-elections-and-no-one-can-predict-its-impact"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,34 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "China's AI applications are coming — where it matters for monetization"
-    excerpt: "Chinese companies are making announcements about artificial intelligence again – this time about applications."
-    publishedDateTime: 2023-09-18T03:08:00Z
-    webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
+  - title: "Artificial intelligence, democracy and elections"
+    excerpt: "While concerns about the use of artificial intelligence (AI) in politics and its impact on the democratic process are not new, they have been provoked further by the rise of general-purpose AI and generative AI,"
+    publishedDateTime: 2023-09-19T12:00:00Z
+    webUrl: "https://epthinktank.eu/2023/09/19/artificial-intelligence-democracy-and-elections/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694969202&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Chinese home appliance makers aim for vertical applications through self-developed chips"
-    excerpt: "As the smart home ecosystem continues to expand and the AI application trend rages on, many traditional Chinese home appliance makers like TCL, Hisense, Midea, and Gree are observing the massive business opportunity in the vertical application market."
-    publishedDateTime: 2023-09-18T04:38:00Z
-    webUrl: "https://www.digitimes.com/news/a20230913PD205/china-gree-hisense-home-appliances-midea-group-tcl.html?chid=10"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 45
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230913pd205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: EP Research Service
+      domain: epthinktank.eu
+    quality: 17
 
 secured: "CmjcfRapnLYxujaC+lExTHBbfRy6VfglgHRkmXhO1SR/XH+KLFE1tA/27blvrZtCI5fK2Q7X6HityxYikJdf8lwHHiZTb32olnkSUmlm/Yi1k9XYXpq7KTvr79G5lTTkUSgFLSJ6kPPGmWOfoazrtCJjsUOVVDtkyYt20oxgVd0PmseZXMyMYE+c3W0MLtXpKEuPLW41Xm3E7HhmnIbVwOlepv0YwW/5U1M19T3rg4PMqWjYgvJlWSna1QR3svK7kITKY+qw+Ldt+1acg0Zj9e5DzHc5NLx9/ke2/spJMOU/K+i3flRCmYl2pAENpRY9OG8pXiVfM+JpgTV/+I0YQPtEGp903R3kjyGXjLU8CLLhcQlhk4YVJoyqNZImgB4CpaY04m52RqJ+EZIokR+vVU7Cl8MQUzdwMxUuO3yZNZgne1jtZTQEgtpN04GNim5Wwu/dCzfkOnVl5VEBnyez2vOPtTtLSdQEH3ZZr3dbu+ZJCaPWBFZFwdb75WZkAy3NR7ck3ycD9DPtX7MB1ZS4hQ==;u08sazWwahUSJ02IpSnC5w=="
 ---

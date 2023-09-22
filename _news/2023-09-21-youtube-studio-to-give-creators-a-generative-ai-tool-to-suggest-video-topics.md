@@ -30,89 +30,87 @@ images:
     isCached: true
 
 related:
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+  - title: "5 new creator tools YouTube just unveiled, including an AI video generator"
+    excerpt: "On Thursday, YouTube unveiled five new creator tools, including \"Dream Screen,\" a feature that allows users to add AI-generated images or videos as a background for YouTube Shorts. Also: I went hands-on with Microsoft's new AI features, and these 5 are the most useful"
+    publishedDateTime: 2023-09-22T18:45:00Z
+    webUrl: "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
-        isCached: true
-  - title: "How AI is generating change in newsrooms worldwide"
-    excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
-    publishedDateTime: 2023-09-20T14:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Why trust is critical to business applications of generative AI"
-    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
-    publishedDateTime: 2023-09-22T15:10:00Z
-    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/3b7afaa855557114508fcb6a2962e0f996dd32e0/2023/09/22/dc1c8e5a-2571-41b4-98d5-9bc275d7e769/screenshot-2023-09-22-at-11-44-19-am.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
-    publishedDateTime: 2023-09-18T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
+  - title: "Google Bard AI Dips into Gmail, Google Maps, YouTube"
+    excerpt: "New capabilities for the tech giant's chatbot that span across the Google platform may make Bard more helpful."
+    publishedDateTime: 2023-09-19T23:55:00Z
+    webUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Toyota Uses AI to Teach Robots New Behaviors"
-    excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
-    publishedDateTime: 2023-09-21T14:06:00Z
-    webUrl: "https://www.assemblymag.com/articles/98025-toyota-uses-ai-to-teach-robots-new-behaviors"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 54
+      name: CNET
+      domain: cnet.com
+    quality: 67
     images:
-      - url: "https://www.assemblymag.com/ext/resources/images/TRI.jpg?height=635&t=1695264007&width=1200"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "TRI is developing a new method to teach robots overnight"
-    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "How new research is teaching AI how to smell"
-    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
-    publishedDateTime: 2023-09-20T22:31:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+      - url: "https://www.cnet.com/a/img/resize/df85caa05a9770568ad18260fc2ad7efcf430315/hub/2023/05/31/a1f398db-3180-46ce-8992-c9c942ee4639/230524-yt-3-settings-bard-ai-protect-yourself-v03.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
+        height: 675
+        isCached: true
+  - title: "YouTube launches a simple video editing app with cool AI tricks"
+    excerpt: "YouTube is taking aim at apps like CapCut with its new YouTube Create app, offering a video editor with AI-powered features."
+    publishedDateTime: 2023-09-22T05:53:00Z
+    webUrl: "https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/YouTube-Create-splash-screen.jpg"
+        width: 1147
+        height: 645
+        isCached: true
+  - title: "YouTube Shorts Could Soon Be Full of AI-Generated Backgrounds"
+    excerpt: "Dream Screen is a free AI service that will generate video and photos for YouTube Shorts backgrounds, a potentially appealing option for YouTube creators on a budget."
+    publishedDateTime: 2023-09-22T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/youtube-shorts-could-soon-be-full-of-ai-generated-backgrounds"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01eDJoq0D3jOz2jO5fSopVA-1.fit_lim.size_1200x630.v1695395622.jpg"
+        width: 1120
         height: 630
         isCached: true
+  - title: "YouTube to Introduce Generative AI Feature Dream Screen"
+    excerpt: "YouTube has unveiled a suite of creator-focused products and features, including the generative artificial intelligence tool Dream Screen for Shorts, its short-form videos that compete with TikTok and Instagram Reels."
+    publishedDateTime: 2023-09-21T21:34:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/neutron/images/logos/cnet.png"
+        width: 4001
+        height: 1485
+        isCached: true
+  - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
+    excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
+    publishedDateTime: 2023-09-19T12:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/sep/19/from-hate-speech-to-ai-music-the-youtube-chief-trying-to-leap-techs-biggest-hurdles"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 10
 
 secured: "p68cCujSszMgo5tU1KRF11KhQhBRuRqfyZxbrkaeLHo/MQVN7s5CZ0jiJIApbJapPW1gjcnk/JdN+xhLdCDPHSBXDIIGzTugrpSIampSe3TmeG+qPe1E3+AdQG6SSIwapIn0bzZ+139XeOF+svWTHxEjYf2haYl8C4Sa4gxbfFgYdIbXQLghd13OT3aw30G64RENYdBq4Fw+qc0I/RDJfhRQMCf8OPHRMu3nx6aRz0cqIMVSK7j3UOlWy1c2XqlqGHU/38zNwh3BloIe79ZFoQq6oh+/5mrBsKRbKAR2VMMX2vj/55SFyEgE4chBmzsyapfVWXoE7oXK/BgkwzSpMix/bJpD6fejSFUjC5eVWqw=;twdo96kcpwAA3wniOW/9fQ=="
 ---

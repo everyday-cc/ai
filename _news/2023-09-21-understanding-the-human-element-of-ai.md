@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Smarter AI Assistants Could Make It Harder to Stay Human"
+    excerpt: "AI helpers that make phone calls ... (Reassuringly, other papers were about maintaining ethics in a world full of agents.) Gratch saw similar work at a conference he recently attended at MIT. All the major tech companies were there too, he says, and ..."
+    publishedDateTime: 2023-09-22T18:16:00Z
+    webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/650cd5961f78a02d37c80f8b/191:100/w_1280,c_limit/Smarter-AI-Makes-It-Harder-To-Stay-Human-Business-BD6086-009.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "F+ZxQOGSyb8Ty+JgEt5SvZIxDQf5j8iTPgtgpWq4OqfA3Ymaam17ffOgBlEOUgxoMx+8xTiWBLi+MZuyYcpFniqSW9eG3pPgo9LO0Rzy7ufzzK+xvdjJsQ2tBH1QlF91QhGJluisFIM157zHSBul3wHRaBjnmy/mqQaU322/729PQL/4PPPa6+a2JK9d8kDHOpMru+i0rZJv0G4moLaNoXTuxKM7WHRZd29S3Gj23F18N+tbIlqzRHxdvEHjulQXRG0xKK96/10q2zDLxnbjD978XGzA0z9BStFSOO90S7ksfUcxo/IjTPTFsxLS8PmWy4Hppa3uJSxf8bKywV86qOxtebxcSdaAB4sQstQBAhI=;Q59P8906K7ud4xJ+Gs3pcw=="
 ---

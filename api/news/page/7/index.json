@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
-      "title": "Robots are trained to help revive coral reefs",
-      "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daily-sun.com/assets/news_images/2023/09/16/Coral.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "publishedDateTime": "2023-09-16T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sun",
-        "domain": "daily-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-16-tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.md",
       "title": "Tesla FSD and AI Will Drive Share Price Like Amazon AWS",
       "excerpt": "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
@@ -179,6 +136,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-2023-2030-artificial-intelligence-robotics-market-share-analysis-by-company.md",
+      "title": "2023-2030 Artificial Intelligence Robotics Market Share Analysis by Company",
+      "excerpt": "Artificial Intelligence Robotics Market Insights 2023 By Applications (Military and Defense, Law Enforcement, Healthcare Assistance, Education and Entertainment, Personal Assistance and Caregiving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34641024/2023-2030-artificial-intelligence-robotics-market-share-analysis-by-company",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34641024/2023-2030-artificial-intelligence-robotics-market-share-analysis-by-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34641024",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34641024",
+      "publishedDateTime": "2023-09-16T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

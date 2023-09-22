@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-    publishedDateTime: 2023-09-20T15:28:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+    publishedDateTime: 2023-09-19T22:21:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 29
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/20/9f256b0b-c66a-426f-ad0f-750eba64aa9f/thumbnail/1200x630/9324f91f9f927bfd11a73a8288d0ee2a/ap23262613532016.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
         width: 1200
         height: 630
         isCached: true
@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Shaping The Future Of Autonomous Driving"
+    excerpt: "new era where machine learning meets safety in navigating complex urban terrains,future where self-driving cars adapt to evolving environments"
+    publishedDateTime: 2023-09-19T07:26:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-of-autonomous-driving"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 24
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/09/TN37.jpg"
+        width: 800
+        height: 530
+        isCached: true
   - title: "Push To Temporarily Ban Self Driving Trucks In California"
     excerpt: "A rally was held at the California state capitol where union leaders, truck drivers, and some lawmakers called for Governor Gavin Newsom to sign a bill that would temporarily ban large self-driving trucks."
     publishedDateTime: 2023-09-20T14:59:00Z
@@ -106,6 +120,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "4+dCUbeAMrniM7ov4GMVbTLkhytDz+Ie3xtRB/5X3xzA9fPdSZ2rndlHBEJxjYv/0epOUVupA5lYTZ4K2l69r4ud3uUdmlCcnzWgmpGaH4+5TR9twZUucuGEFx8i3V4+spTBrRhp5Y5QHl2gIVpwTgQOpJ7cKAZnm2UbQpO9icdA6c2U9b6Q72Zb4d4R/ATsoLfYGpsD8VeTfdnWb8SQf7CkjPCvNS9G6RF/C8uzEiYIodESCqHRhY8MRy5LPjcLOXFyCV699Nog506KaURP5nd/0wmg4Hlhpkk7deY3SixlpDWyT2xVZrGXjc7Kf5qScRjaBzfLYgTlVPOrqJfMDPozj351jW0FUcmzIva4o9M=;WuovkCdkx1ELlff2/PMjNw=="
+secured: "3fW6kIqVyyqWMDvrKNFV0GmTl2B8UdkhpVJtjeytZLGkSWAdXH2Gm2e1yHzD5kZM8X+4YjJvoWaXdLhh5lmyJBKuVoAKTUK4Y0vm+PyHGVZ1wo/lC8ay/KJ25+9SrXqFyPv/lqmXQfxO0PGpuW6YsMSiPT4tF/qCG+TUD+s02lEzpo/TcG89OlcfvsyXp/qK9HxuMRgU+ecQTe5ZPRBITSaRzQ/J2cRj+DDHjKKNmfyzxxXtk3MguRE7epRjad6zKpZzgDVC8ISkv83ims+YeKJ5IFNCzynTvAtQfJSeXtdqyoKwHjB+Dmk0I58p6xu54SB+tC1lfZNTBL82cC/CM/d5kKAkrRFGVx6s5ccqFvPix2d6PbrjHnhF6hY4GbwLdSYeviQCopeilBKhWH+2bpab8uV4PsN88I6wId37dVd4qn1kMy7FYg1W9fFOzaWJ6l6wd0Gz90PEFLgelwgI6NwuJ21XaTQJ3wjzNA0QyKv6UMzAjOZBJAbEFJEo6c8Mo9dhxhPxRe530ZHC0xdTPQ==;xVKg9/crx9PR87ieqBDTjA=="
 ---
 

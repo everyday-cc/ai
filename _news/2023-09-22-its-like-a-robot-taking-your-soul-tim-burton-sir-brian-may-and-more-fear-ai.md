@@ -1,29 +1,23 @@
 ---
 category: news
 title: "'It's like a robot taking your soul': Tim Burton, Sir Brian May and more fear AI"
-excerpt: "Hollywood strikes by writers and actors, partially over the rise in the use of Artificial Intelligence (AI), are currently taking place, whilst well-known music stars, including ABBA star Ulvaeus, are currently investigating to see if it will prove ..."
-publishedDateTime: 2023-09-22T16:36:00Z
-originalUrl: "https://www.sfexaminer.com/lifestyles/entertainment/its-like-a-robot-taking-your-soul-tim-burton-sir-brian-may-and-more-fear/collection_68bdcfe8-f5d1-5304-b18f-e9a5ab386b5a.html"
-webUrl: "https://www.sfexaminer.com/lifestyles/entertainment/its-like-a-robot-taking-your-soul-tim-burton-sir-brian-may-and-more-fear/collection_68bdcfe8-f5d1-5304-b18f-e9a5ab386b5a.html"
+excerpt: "Hollywood strikes by writers and actors, partially over the rise in the use of Artificial Intelligence (AI), are currently taking place, whilst well-known music stars, including ABBA star Ulvaeus, are"
+publishedDateTime: 2023-09-22T16:11:00Z
+originalUrl: "https://www.djournal.com/lifestyle/arts-entertainment/its-like-a-robot-taking-your-soul-tim-burton-sir-brian-may-and-more-fear/collection_fe6c2211-b015-53ba-acca-0ed7c839e874.html"
+webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/its-like-a-robot-taking-your-soul-tim-burton-sir-brian-may-and-more-fear/collection_fe6c2211-b015-53ba-acca-0ed7c839e874.html"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: San Francisco Examiner
-  domain: sfexaminer.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/a/aa/aaa6cbf9-aad6-5ab3-8e2d-3ec2a913b0f7/650da53326c59.image.jpg?crop=650%2C341%2C0%2C329&resize=650%2C341&order=crop%2Cresize"
-    width: 650
-    height: 341
-    isCached: true
-
-secured: "EJNqGR1DpuZXiAf8UDTk8cTt6k1ei28j/jpVan3DFW19VxzcW8ysuGuEuGkiRe8vwTLnlm1sFPT86OILxidmM6CLk1aGLPI6fz1uJPHLcN9MDs4xwmiapb7NFy7sLOI9fgX3hv5wHOawzqZWeXFIzHdEB8RXMeVIrzzlq3uOsbZI+L9X0c2OFt0JvCgo8jbYSPV3J/XvQdwC/VL9DwFyPr8LvqtKeqzb90Ai+B6218komwNNdoKpm6pTfmrTleVMymKe9bLawTU2uvEI90Xc0bkqBLyD5OEMTThL9XG0cWrQMaE5Zmm8a7O+631O+sT/GJCGpMAKqEScr9wqjuETs8rOxiOaSWk91fO2MQUgbL8=;kV9QHIJ4c2VCztu3w6prvw=="
+secured: "CVN2hjRqiJ8EaBSYgzuDh3EPKtbWfhANXQVrFYV063Z8+igfFgkzozY95oKvdQIQtxsB4emwGrPlB9ON7YKCnJqqlK6zhAct4tkEdEa1E41BqHCPh7PRy62LqLT+D1ZS7AmyMYSB4Q0wb4OVOY/60/k1TnFTTk/FZWIM6OlpF2C+iZ7tiSVvUR5zGcxDzSR9OybVtcMoZ6nZ1g7SqY2kLaifhG7ESyf2uIb9GwsCJCUuFhxvpMEBSgwOKsqcxcYGFiCd0qTBRatItjiUJN5RHjSss1cZGwXcW7NhPYFHPg2G2saQchWz0UAcel5TICV8wqBYjorGqYmH9bsMpdtyiao3CUSC1bMzm4gLPrbffTqJoukGQbV+AQnI5dFEX+jqy+jtLirke92ah3jrmeLBXA1hUSM2a2+cxmmnahgrd6y0v2Knm7zSUzkXMJ/UZMyn/gH7mi7DBFPlEwWYwDC4j22N0eGj4M593E7P4Daiza7UO4n3yT302kZGrZsz9SUK7+vpA19t3OkaloxqtmFQ0Q==;GL54ljc/H2tz5pGfhyjrZw=="
 ---
 

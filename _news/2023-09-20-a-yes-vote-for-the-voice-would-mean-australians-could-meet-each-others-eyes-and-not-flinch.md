@@ -40,20 +40,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 31
-  - title: "Shadow Minister for Indigenous Australians - Speech - National Press Club"
-    excerpt: "Today is the first time I have addressed the Press Club as the Shadow Minister for Indigenous Australians.It is the second time I have been given the opportunity to address the National Press Club.The first was in November of 2016 when I stood alongside Marcia Langton and Josephine Cashman to address the critical issue of family violence and sexual abuse in Aboriginal communities."
-    publishedDateTime: 2023-09-18T04:44:00Z
-    webUrl: "https://www.liberal.org.au/latest-news/2023/09/18/shadow-minister-indigenous-australians-speech-national-press-club"
-    type: article
-    provider:
-      name: Liberal Party of Australia
-      domain: liberal.org.au
-    quality: 23
-    images:
-      - url: "https://cdn.liberal.org.au/headers/fb66599c50b273f38b0a36c4c8745e34.jpg"
-        width: 1400
-        height: 642
-        isCached: true
 
 secured: "1/LhBHh3lM8QcOnXLmYOJDG35BCCEbQkJJZfHUZfXjZDi3bM4d8YR+yNlD2bcGnobUZrDSg5e8tqPu3o7FfACbWVLKjw2KrKs/nEAM0BflNE4z4n6CkV0JYTNYHcYQXvUAqsF/vFqyAS+f6QBypx5tkmSFtSHLmpqpAllnItjxtZo6BGvHxWPiCHlzXqeVrk2JV/tV2GOU7ypa1ZFskAbmxX+1iWYPNURm3Ro7ADeAdid45z7WfMAcaLzGhBXIqGVpY5XrMRo0CvFYgs/BlN2nxcnsei3fs6XwBXaNLZ0T+DANHYSZvZK3Xy7NPOUo9Kii+Hoi1Dv5SuUwVooMS13Z9lMzSUegPdKidJIQtdwxU=;3pp7YZBa92ytjh9Wae77Pg=="
 ---

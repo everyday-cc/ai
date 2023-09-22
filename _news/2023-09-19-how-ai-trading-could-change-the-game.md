@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to change the Snapchat AI gender and look"
+    excerpt: "Looking to make Snapchat's My AI chatbot more personal? Here's how to change its gender and overall appearance."
+    publishedDateTime: 2023-09-22T16:25:00Z
+    webUrl: "https://www.androidauthority.com/how-to-change-snapchat-ai-gender-3367185/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
 
 secured: "o4ZraNGnQbpzLkNzEIqzEto7X3nTuA+uQeMbYZpcAbmWwJCw8a6CAo/Q+YWohbeWUMNqzHlpQNdATTKRRyNMoSmvjpaWE8iiCmNVC6jJGYxMGrbd7Z02CmGHLs2/734ROqkQx10POcV4ygFoxl1S2az+jUkzPEsbc4m9JwOP+ixSPc/04JQghOrlWzqkKBVcfQizntGVTO6MUoTmyi3w2JQN9t/A+GrTaIBhblaOa5CQewDnmOYS27AIMnSKagL7a5iOHbx/Xz2EFoNwc3744cKaUxcHwyb8jzvBlq+npnDSc1D8JP54JVUOcns6PEwF7pqr67aFO3U5FEu35frloydUt0b74yJsDJy9CluZI9D1HDCle4FrEISsx7QJbXSVPcJqaGsJ/yOx1ZneVp+MabIzUI1riuj1H5lSZzyFpKVnk1T4WWk2vYICb+irUMv1O3aqjkhulKNm1YvZnyEdVgYt/IVPWmujEOYla8E5GizKsw0bhYfzXquZrP3rcoQXEnpZ8aYs8rlrN7w3eu1WhA==;huackczHYi0O+yntMGHQ9g=="
 ---

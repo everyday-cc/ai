@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-17-build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift.md",
+      "title": "Build ML features at scale with Amazon SageMaker Feature Store using data from Amazon Redshift",
+      "excerpt": "Amazon Redshift is the most popular cloud data warehouse that is used by tens of thousands of customers to analyze exabytes of data every day. Many practitioners are extending these Redshift datasets at scale for machine learning (ML) using Amazon SageMaker, a fully managed ML service, with requirements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-ml-features-at-scale-with-amazon-sagemaker-feature-store-using-data-from-amazon-redshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/03/ML-14589-Solution-overview-1216x630.png",
+          "width": 1216,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T08:31:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-generative-ai-for-content-creation-how-marketers-can-use-it.md",
       "title": "Generative AI For Content Creation: How Marketers Can Use It",
       "excerpt": "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes.",
@@ -1286,49 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told.md",
-      "title": "AI, Machine Learning Is Used To Detect Potential Frauds Under Ayushman Bharat, Rajya Sabha Told",
-      "excerpt": "Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) uses artificial intelligence and machine learning (AI/ML) to detect suspicious transactions and frauds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
-      "originalUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/ai-machine-learning-is-used-to-detect-potential-frauds-under-ayushman-bharat-rajya-sabha-told-news-309079/amp",
-      "publishedDateTime": "2023-08-08T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

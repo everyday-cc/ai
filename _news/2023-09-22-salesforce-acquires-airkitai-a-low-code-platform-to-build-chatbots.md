@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "There’s A New Copilot In Town: Dreamforce 2023 Reveals Its AI Roadmap At Salesforce"
+    excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
+    publishedDateTime: 2023-09-22T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z

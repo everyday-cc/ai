@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-21-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmwares-ai.md",
+      "title": "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware’s AI",
+      "excerpt": "The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs), have opened up many opportunities for businesses, researchers, and society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csrwire.com/press_releases/783966-ethics-age-generative-ai-closer-look-ethical-principles-vmwares-ai",
+      "originalUrl": "https://www.csrwire.com/press_releases/783966-ethics-age-generative-ai-closer-look-ethical-principles-vmwares-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://back.3blmedia.com/sites/default/files/inline-images/AI_vmware_092023.jpg",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace.md",
       "title": "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace",
       "excerpt": "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies.",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1405,59 +1448,6 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai.md",
-      "title": "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI",
-      "excerpt": "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/",
-      "publishedDateTime": "2023-09-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

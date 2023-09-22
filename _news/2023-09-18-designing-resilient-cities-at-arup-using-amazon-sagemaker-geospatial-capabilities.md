@@ -80,6 +80,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 98
+  - title: "Improving your LLMs with RLHF on Amazon SageMaker"
+    excerpt: "In this blog post, we illustrate how RLHF can be performed on Amazon SageMaker by conducting an experiment with the popular, open-sourced RLHF repo Trlx. Through our experiment, we demonstrate how RLHF can be used to increase the helpfulness or harmlessness of a large language model using the publicly"
+    publishedDateTime: 2023-09-22T20:57:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improving-your-llms-with-rlhf-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/22/ML-14874_image001-1260x559.jpg"
+        width: 1260
+        height: 559
+        isCached: true
 
 secured: "zeg9XOj+MnSYz0TBXkgjcVI+45S4/d914JHuvycrFoG93cSNdXvucNgS8OQn+RSRHi8opjVZ3s5Q/FhMavRBi+DyLzgxMtV3CQfG8EHQjtgGgvbpo/SCy8EcM6wLmrqSqfhJBA0h9P+nw8J8eveQ28kCPDvCvGtW+tIoZ5cN/8ROmClFnxQL71zT2bcXB1nIx5wCuDRWFpiZtZhkDj4QsJM8CsATY5g0qTONe9Kn2a3QLcQBvH9mea7r0Z1ofgwccMeFO1dcJEP+2PPXGGjulpzBgk94qL4VM0VMWJicy09Z4Q71MFejXowzuoXxnuam+7ZeKBZgDUA6MlyhMjG6FBV19FxyR24zf23cFPS3+U8=;kRVvkgUlshjhnORT6YibAw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/litigation/lifevoxel-ai-startup-foun
 webUrl: "https://news.bloomberglaw.com/litigation/lifevoxel-ai-startup-founders-free-of-securities-fraud-claims"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "LifeVoxel.AI Startup, Founders Free of Securities Claims (1)"
+    excerpt: "Investors who purchased startup securities in LifeVoxel.AI Inc. failed to show fraud by the medical records technology company and its two founders, a federal court ruled."
+    publishedDateTime: 2023-09-21T17:46:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/lifevoxel-ai-startup-founders-free-of-securities-fraud-claims"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/e032a8e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F34%2Fed%2Fe14761674fbdbeebd60ff87cf33e%2Fgavel.png"
+        width: 958
+        height: 369
+        isCached: true
 
 secured: "oNKPX4oAy4gxytI4TVApJX3UBAmvYtHLxMMbywvJpAfop2vTM0rNTienOGl2or8JQKn+P0h1U7OtiJK0Rkv3B7QpIG3quHhiSo3nePCxyrfK/MLbWOHSJ5JDjohG1fnPq2oiTb7xLOA6HAvIATG1K7ZTIdLx8lc0YABoHibfLx4J9DOpOUHJstIC8dqYpVv+Js2ei2irU8savD+gVYHJv/i46Y1olHbNTnxnlg2izc2ey+53KbqU/twk3WOCpLiB4gAT5nVaQZW++j2XPgTbCX4NkNd4lZQon5XXPac2QaDS8XPmJxSQ7lz85Mm93OEmTt++yEyWW96jjY9gJ/5XofTI+9l8X0+S2ZTPHRp2qQFWC83vxWS0o+CwxsXb3+yvFLx2qFNdZhdbVwD1qCw1J15w+/fTcNIVNGl2nhCyH/RKjSSYbtJ0kF3jczi35lMnO4a6yc+K/d9NXWamCOFxj1L4aIkF+ZJcfnmA+QAEkYRZMG43f3Gs6yUCuej12ueDeqHjwpv0Bf4nLu7wYN+O8g==;sy/mm8yrwFa+W6bMl4rwHw=="
 ---

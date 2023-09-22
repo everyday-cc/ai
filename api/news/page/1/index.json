@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-23-5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator.md",
+      "title": "5 new creator tools YouTube just unveiled, including an AI video generator",
+      "excerpt": "On Thursday, YouTube unveiled five new creator tools, including \"Dream Screen,\" a feature that allows users to add AI-generated images or videos as a background for YouTube Shorts. Also: I went hands-on with Microsoft's new AI features, and these 5 are the most useful",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
+      "originalUrl": "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3b7afaa855557114508fcb6a2962e0f996dd32e0/2023/09/22/dc1c8e5a-2571-41b4-98d5-9bc275d7e769/screenshot-2023-09-22-at-11-44-19-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
+      "publishedDateTime": "2023-09-22T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-githubs-ai-powered-coding-assistant-moves-to-public-beta-how-to-access-it.md",
       "title": "GitHub's AI-powered coding assistant moves to public beta. How to access it",
       "excerpt": "To access the feature, a user needs to have an active GitHub Copilot subscription and, if using Visual Studio Code, have the latest version of it installed. The user must also be signed in with the same GitHub ID that has access to GitHub Copilot.",
@@ -53,57 +104,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-22-how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy.md",
-      "title": "How much energy does AI use compared to humans? Surprising study ignites controversy",
-      "excerpt": "The paper found that when producing a page of text, an AI system such as ChatGPT emits 130 to 1500 times fewer carbon dioxide equivalents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy/",
-      "originalUrl": "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_wind_turbines_9dffee29-048d-484a-9fe2-bcb24843b7ae.png?w=1200&strip=all",
-          "width": 835,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
       "title": "How AI will change the job of the junior banker and raise the bar to entry",
       "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
@@ -112,7 +112,7 @@
       "originalUrl": "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -552,7 +552,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {

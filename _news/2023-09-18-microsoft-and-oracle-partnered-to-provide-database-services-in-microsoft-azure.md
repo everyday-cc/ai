@@ -316,6 +316,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "What Microsoft's AI Push Means for Your Windows Laptop"
+    excerpt: "Microsoft's event was packed with demos showing new ways AI will be cropping up in Windows, and the new Copilot is at the center of it all. The company says Copilot will draw from a combination of the web, your communications, and your devices to be a more personalized and efficient helper."
+    publishedDateTime: 2023-09-22T19:32:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/what-microsofts-ai-push-means-for-your-windows-laptop/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Microsoft exposed 38 terabytes of sensitive data while working on AI model"
     excerpt: "Between July 20, 2020, and June 24, 2023, Microsoft exposed a vast trove of data to the public web through a GitHub public repository. Cloud security"
     publishedDateTime: 2023-09-18T19:28:00Z
@@ -478,6 +487,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Meta and Microsoft - Citi Analysts Bullish On Both, Spotlight On Advertising And Accelerated AI Innovations"
+    excerpt: "With Reels ad loads reaching 19% QTD vs. 17% in 2Q per Josey's proprietary tracking, coupled with newer ad units, greater advertiser demand, and what the analyst believes is an improving online advertising environment, he considers Meta is taking share of the broader online advertising market."
+    publishedDateTime: 2023-09-22T19:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/meta-and-microsoft---citi-analysts-bullish-on-both-spotlight-on-advertising-and-accelerated-ai-innovations-1032650579"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Microsoft Reveals Copilot, AI Features Across Windows, Bing, Edge; New Surface Devices Launched"
     excerpt: "M365 Copilot is one of several new AI enabled tools that Microsoft revealed yesterday at their event in New York City kicking off the Copilot era, and brining generative AI to Teams, Outlook, Word, Excel."
     publishedDateTime: 2023-09-21T22:39:00Z
@@ -583,6 +601,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data"
+    excerpt: "Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data."
+    publishedDateTime: 2023-09-22T19:18:00Z
+    webUrl: "https://www.infoq.com/news/2023/09/microsoft-38tb-data-leak/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
   - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
     excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
     publishedDateTime: 2023-09-19T19:20:00Z

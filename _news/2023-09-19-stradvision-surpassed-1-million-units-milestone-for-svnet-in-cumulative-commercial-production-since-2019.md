@@ -32,6 +32,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Generative AI Legal Research Startup Paxton AI Secures $6 Million in Seed Funding"
+    excerpt: "Despite investment in legal tech slowing down for much of the year, generative AI-powered platforms are bucking the trend."
+    publishedDateTime: 2023-09-22T21:44:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/22/generative-ai-legal-research-startup-paxton-ai-secures-6-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Contributed-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "NUBsemSBEjYg1+5lak01qxrgPsJT1xpYmEmmnyZPYqFljRzWEDHZmXIVfho1gXK4gNxIJBmrXt0ux8YOfqbzTAk6/eNkGmbZaEsEXPek3AezyCVi9aUZg71g80sciEol/ppjDh2P9zjBKtd/fmcLo6kaoM8NQ9kTVU5vYAqfrghEk5memMfZgLZfUYHa5DvYFLzl8tGcTuc0UdomuOJUNgicdIkw1POvrspLLDmOo/rwznHZctFHKjTlgfHdfBr27Ot8l//ub5tdN0xXYVv5Isu0SkAmVpOx/wWoNPrK22WxLD9Yv385kZzB8hoYptkN6jUrcNB+ZCI+q+EdvFKLDvRB++ir1J4nouLzKJwkK8MPtiWuqzpEVspmZR1VzFYhh0G5D/01TJ1oVEphwRnjahDfosvZW717FEorIYVP7BwwApKv5c4sYKfN8htSXbQh0LbBOcUb+2KVA5GBH1c6nyOd7WgzQrEaivwStXrJqYbfwlc0eSfeyNdCCsgta1BnGmabrol7ALPspoGrdl7fvg==;qytFWaGoQQ4G8OpW+XAwpA=="
 ---

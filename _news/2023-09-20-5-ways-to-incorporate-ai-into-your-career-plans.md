@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "5 Ways AI Can Help Increase Your Revenue"
+    excerpt: "Organizations that are going \"all in” on AI attributed at least 20 percent of their 2022 EBIT to use of the technology"
+    publishedDateTime: 2023-09-22T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2023/09/22/5-ways-ai-can-help-increase-your-revenue/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Ochsner to Integrate Generative AI into Patient Messaging"
     excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
     publishedDateTime: 2023-09-18T16:51:00Z

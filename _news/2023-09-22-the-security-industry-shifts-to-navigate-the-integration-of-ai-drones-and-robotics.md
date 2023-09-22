@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 817
         isCached: true
+  - title: "AI in Healthcare: Why Southern Nevada doctors say it's the future of the industry in Southern Nevada"
+    excerpt: "CLARK COUNTY (KTNV) — Artificial intelligence is already being implemented in portions of the healthcare industry today, but some experts say it’s the future of healthcare. The future involves generative A.I. that’s artificial intelligence that can ..."
+    publishedDateTime: 2023-09-22T17:37:00Z
+    webUrl: "https://www.ktnv.com/news/ai-in-healthcare-why-southern-nevada-doctors-say-its-the-future-of-the-industry-in-southern-nevada"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 19
 
 secured: "35SqrITbBK0DZOrKKkRcT+OJV3kPORMUJT5/6CdsSKtK7NNZYJ6eTbMX/dFTxDxfm85EvmR/egtNfiy7nOYubPxhM6+hI6RT2yczwrXzHQAQ/+mcYFxQQD2MqfQXRP8cnMxvdtv0QI+YSabWHyCJSEi/WX7Hf070dCjuxjzAfuRIiwi5NB/c9wVPgOJndjcROsO+YHwGRuB/JoMHHsHFlEmNP6NyTE6EqyFghk8BWV5jb5N3aScHPbo6G3XJcnA83trApFNhcmTsK4MSGTDNsJEOdF0NvAt/7waBlGODkYaYAhmUyYMJMEjlmvUopsQQT4JWlPQX/Xns+vkoXwpYvKNWecOJXrClmY/0/nEq6BA=;dVJOM7WalCcdnRILAJjrow=="
 ---

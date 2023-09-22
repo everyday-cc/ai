@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/local/san-antonio/2023/09/19/first-artificia
 webUrl: "https://www.axios.com/local/san-antonio/2023/09/19/first-artificial-intelligence-medicine-degree-texas"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "UTSA, UT Health San Antonio medical students learning how to use artificial intelligence"
+    excerpt: "SAN ANTONIO – Artificial intelligence is all over our lives whether we realize it or not. Whether it is Netflix recommending a movie, Amazon recommending items to buy, or even an autocorrect on your phone – you are probably using AI every day."
+    publishedDateTime: 2023-09-22T20:45:00Z
+    webUrl: "https://www.ksat.com/news/local/2023/09/22/utsa-ut-health-san-antonio-medical-students-learning-how-to-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MKWWKQIGUJEP5IF5HSRD4KTSQQ.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "icCI9fjUyHyT3yCn6dbN0rXTYjpqo4Q/U4HrMLvvtO9UKwaXG6u0/II8OfbgIO+k5I1KFS/CAilU+aRAml5pJXDHUbGye204U2vecsp20H/8pzaGyisjbTEFPSuJdZ6Jkt5xluEKWKp/6S+/T4EdG9PcKYLSRyZOovSbi4yJ/ZCw0jsvHlWw0TiNAix8OvMd0LbR8MPrhI9K+ADO5u6mwS2MAvvPvKUlVVzMifQiXIt5gornCnVEDfMITeFQ47uyWHff67fkRDckuvAmHFDkXEOSaiLkGGR7iOdZyR4qQJI8taPJTK54F/qC7V5QMwiCdk3QkdBx4XHdHjrzB+5Hzp7hU6Ngm5BLbYai6CRpwNQ=;REJEa+uEo2S+tTlFxNZwdQ=="
 ---

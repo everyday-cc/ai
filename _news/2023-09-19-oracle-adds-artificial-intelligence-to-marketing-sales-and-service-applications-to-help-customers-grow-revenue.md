@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "There’s A New Copilot In Town: Dreamforce 2023 Reveals Its AI Roadmap At Salesforce"
+    excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
+    publishedDateTime: 2023-09-22T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
     excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
     publishedDateTime: 2023-09-22T09:23:00Z

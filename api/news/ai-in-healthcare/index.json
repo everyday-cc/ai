@@ -201,7 +201,7 @@
       "originalUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -267,49 +267,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-excited-but-worried-michigan-teachers-wrestle-with-artificial-intelligence.md",
-      "title": "Excited but worried, Michigan teachers wrestle with artificial intelligence",
-      "excerpt": "Ever since ChatGPT launched in November, schools have fretted about whether generative AI would lead to cheating and intellectual shortcuts. It may. But educators are coming around to its benefits as a classroom tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence",
-      "originalUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-09/Teacher%20session.jpg?itok=1zfFNAsA",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp",
-      "publishedDateTime": "2023-09-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1333,6 +1290,40 @@
       "provider": {
         "name": "Salon",
         "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-vettafis-artificial-intelligence-symposium-recap.md",
+      "title": "VettaFi’s Artificial Intelligence Symposium Recap",
+      "excerpt": "Nadig believes we are still learning about the capabilities of artificial intelligence. However, he ultimately thinks that it will make a significant impact in several different industries long term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "originalUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

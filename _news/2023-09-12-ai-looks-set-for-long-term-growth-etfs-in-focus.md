@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg"

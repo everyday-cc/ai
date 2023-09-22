@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the AI tsunami: The next wave of generative intelligence"
-    excerpt: "With an AI tsunami seemingly inevitable, we all must be rugged and flexible, adaptive and embracing of generative AI and other new tools."
-    publishedDateTime: 2023-09-18T01:40:00Z
-    webUrl: "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/"
+  - title: "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware’s AI"
+    excerpt: "The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs), have opened up many opportunities for businesses, researchers, and society."
+    publishedDateTime: 2023-09-21T14:25:00Z
+    webUrl: "https://www.csrwire.com/press_releases/783966-ethics-age-generative-ai-closer-look-ethical-principles-vmwares-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all"
-        width: 1000
-        height: 648
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI_vmware_092023.jpg"
+        width: 576
+        height: 324
         isCached: true
-  - title: "Pioneering the Evolution: Shifting from Generative to Interactive AI"
-    excerpt: "Mustafa Suleyman envisions AI merging chatbots and task execution, prioritizing ethics through robust regulation for progress"
-    publishedDateTime: 2023-09-18T07:11:00Z
-    webUrl: "https://techstory.in/pioneering-the-evolution-shifting-from-generative-to-interactive-ai/"
+  - title: "The Emergence of Ethical Challenges in AI: The Imperative of Navigating the Moral Terrain"
+    excerpt: "We welcome you to the era of Artificial Intelligence (AI), where groundbreaking advancements are rapidly reshaping our world. With AI algorithms making decisions that significantly impact our daily lives,"
+    publishedDateTime: 2023-09-18T13:49:00Z
+    webUrl: "https://techbullion.com/the-emergence-of-ethical-challenges-in-ai-the-imperative-of-navigating-the-moral-terrain/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 45
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/09/1691002550874.jpg"
-        width: 612
-        height: 255
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-18T144800.943.png"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "2eYjZ5QqNaEhTWkVUZHX00sMlon3Mjn0GiwxsYeznf4fee5NAqoD5Gyn4sHLm85Cbp01m/O1sMENsfRtZtMaAEXpeg3m6wUPq3RMgWn4n5Ms5G4zlECrqq+pAb/g0h8aoD0omMsyrQdoy8V9OpUoMaDoqPFA0e4I9U9pU37gRV1ePF9JZ/yE6kFGTsK1audNOLIqOinb0v76DqLE59RoMIoVK74YrpGUVZce4rw0WSO3bzZocxv6RFm1DtTkFGMtlFViP1hftbUMQ12hzjVsWUesEFwR6EtuLFaWUASKdZc28pAbI11fsMadp4RHm1uHaF61c2RTN3sYgmB/2shYcXBHGFAixOcVDOydmr+Nyf1GPh2XuHhUHT+3YgjhN2AttUa0CQXhdlT8pIPz7HGRrIiCkOnSXIbTeHOgm0/AGP63eEAeJD+xQcBHqK7zLyPKuP/ULaOVMAWbqcvl8wAKX16rJOHX/3xDj9yCgVzUxuLRIvYvsirvNWz5OLAxMv1aSM7zpscYRjFv6yvyOPYm6w==;FocMiVR2iaOSU+zRsKnYqg=="

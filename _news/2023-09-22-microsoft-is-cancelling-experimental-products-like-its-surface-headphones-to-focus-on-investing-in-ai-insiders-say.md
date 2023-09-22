@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "These companies are hiring software engineers to work on machine learning in Canada"
+    excerpt: "Hired candidates will have a minimum of four years experience in developing, deploying, and supporting Microsoft Azure AI Machine Learning solutions such as natural language processing, classification, predictions, intelligent document processing ..."
+    publishedDateTime: 2023-09-22T18:56:00Z
+    webUrl: "https://betakit.com/these-companies-are-hiring-software-engineers-to-work-on-machine-learning-in-canada/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/09/mapbox-iSYdI8padLM-unsplash.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-09-21T10:19:00Z

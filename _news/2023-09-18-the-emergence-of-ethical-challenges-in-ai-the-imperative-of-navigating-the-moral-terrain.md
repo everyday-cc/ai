@@ -39,6 +39,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "The era of generative AI: Driving transformation in financial services"
+    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
+    publishedDateTime: 2023-09-19T15:02:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
+        width: 970
+        height: 628
+        isCached: true
 
 secured: "Zj0hggDgo+ASYXy19s0r3WuWInmKU4/bSw6nsoIGa0ryyFaRV4UGhxeRq135MwnxokWO7yNRqS0rUrqdZmZGxzSBlnRzFYtEAgZKIjzfPjrF8F9dil0B0AhLa3zGNgXFJ+7Y4Y9ydBFFM8tTrY10GZpyVsGEJlBCH79Fm8B64oxqe1wzpDgVklX+iAtXGlc16w+1fevT7Z775XYdZbqtFn2KgWxLWFiQvD1Fgxt/O5/uEc0C2YptvDdp7Tq9Uq/a4bn2dPqNGv1w/1bnWSTU6vj7iz3RYyAm4a/5z2CdwYHx5wGapSlZLeYCufH2N5ifXcRVZCjgGT+50uigvbe8eLuNQALHLl/MtgToxD0Hs2Gtzqy1CGRuYp9nID9an2QHJG9Tc9ezX3P5zDbqR1KpkvlW4/7G+3jsldRTt0r1LgrHw5wpUNnnBqLllObPgQ4iZ8OOk1A+DOWNI9okvuVK0hEmcMWciSJQIvHpYuyedl+gRGI2nkwYOAuIu7cHAHuQDnQD1MAzIwOTbjE98sLTIA==;802msc4L7D8IWlrZEupQpQ=="
 ---

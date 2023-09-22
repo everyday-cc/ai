@@ -398,7 +398,7 @@
       "originalUrl": "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -686,57 +686,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-19-chinese-ai-company-on-us-export-blacklist-launches-ipo.md",
-      "title": "Chinese AI Company on U.S. Export Blacklist Launches IPO",
-      "excerpt": "A Chinese artificial-intelligence company on a U.S. export blacklist has started its initial public offering in Hong Kong. Beijing Fourth Paradigm Technology, which offers AI software for businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-18-2023/card/chinese-ai-company-on-u-s-export-blacklist-launches-ipo-AI6m9vyBNm7xKKRyPhHA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-853556/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-19-questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack.md",
       "title": "Questions every VC needs to ask about every AI startup’s tech stack",
       "excerpt": "Leonard Wossnig is the CTO of LabGenius and former founder and CEO of Rahko and VP of AI at Odyssey Therapeutics. From fraud detection to agricultural crop monitoring, a new wave of tech startups has emerged, all armed with the conviction that their use of ...",
@@ -839,7 +788,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -983,49 +932,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-excited-but-worried-michigan-teachers-wrestle-with-artificial-intelligence.md",
-      "title": "Excited but worried, Michigan teachers wrestle with artificial intelligence",
-      "excerpt": "Ever since ChatGPT launched in November, schools have fretted about whether generative AI would lead to cheating and intellectual shortcuts. It may. But educators are coming around to its benefits as a classroom tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence",
-      "originalUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-09/Teacher%20session.jpg?itok=1zfFNAsA",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp",
-      "publishedDateTime": "2023-09-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1216,6 +1122,109 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-3-key-startup-opportunities-in-remote-work.md",
+      "title": "3 Key Startup Opportunities In Remote Work",
+      "excerpt": "In this article, we explore why 3 different remote work niches hold immense potential for new innovative startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650860fe17567a7b42935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "publishedDateTime": "2023-09-18T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration.md",
+      "title": "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration",
+      "excerpt": "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "publishedDateTime": "2023-09-18T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

@@ -159,20 +159,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Google DeepMind Researcher Discusses Emergence of Reasoning in AI at Harvard ML Foundations Talk"
-    excerpt: "Zhou, the founder and lead of the reasoning team for Google DeepMind, outlined the way he trains emerging artificial intelligence LLMs to shrink the gap between machine and human intelligence. The lecture, titled “Teach Language Models to Reason,” is ..."
-    publishedDateTime: 2023-09-18T04:17:00Z
-    webUrl: "https://www.thecrimson.com/article/2023/9/18/denny-zhou-ai-talk/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 58
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/03/05/104409_1361761.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Looking into the Future: Google's Deepmind AI can predict if genetic mutations are likely to cause harm"
     excerpt: "Google's Deepmind has unveiled a new AI tool that can predict how a certain genetic mutation will play out and if a particular mutation is going to be harmful or not. Researchers believe that these pr"
     publishedDateTime: 2023-09-21T06:33:00Z

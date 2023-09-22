@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI Legal Research Startup Paxton AI Secures $6 Million in Seed Funding"
+    excerpt: "Despite investment in legal tech slowing down for much of the year, generative AI-powered platforms are bucking the trend."
+    publishedDateTime: 2023-09-22T21:44:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/22/generative-ai-legal-research-startup-paxton-ai-secures-6-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Contributed-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "STRADVISION Surpassed 1 million Units Milestone for SVNet in Cumulative Commercial Production Since 2019"
     excerpt: "SVNet is renowned for its ultra-lightweight design and exceptional efficiency, seamlessly integrating deep learning-based object recognition with minimal computational and power requirements. This advanced solution is compatible with over 18 System-on-Chip ..."
     publishedDateTime: 2023-09-19T15:51:00Z

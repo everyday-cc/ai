@@ -159,6 +159,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AI-Powered Assistants in the Workplace: Boosting Productivity and Efficiency"
+    excerpt: "Artificial Intelligence (AI) has revolutionized the way we work and live, and one of its most transformative applications in the workplace is AI-powered assistants. These digital companions are reshaping the traditional office landscape,"
+    publishedDateTime: 2023-09-22T18:34:00Z
+    webUrl: "https://techbullion.com/ai-powered-assistants-in-the-workplace-boosting-productivity-and-efficiency/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
   - title: "Eye Care Organizations Unite to Save Sight of Premature Infants Using Artificial Intelligence"
     excerpt: "Eye care nonprofit Orbis International is excited to announce a new strategic partnership with Siloam Vision to use the company's cloud-based telemedicine platform to expand access to eye care and prevent blindness in premature infants living in hard-to-reach communities."
     publishedDateTime: 2023-09-21T12:14:00Z

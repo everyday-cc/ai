@@ -24,6 +24,17 @@ images:
     height: 217
     isCached: true
 
+related:
+  - title: "The ‘Green Cloud’: Four strategies for a sustainable and responsible digital future"
+    excerpt: "Firstserv Ltd is committed to reducing its carbon footprint, pursuing green hosting policies and, in turn, helping customers to be greener"
+    publishedDateTime: 2023-09-22T10:09:00Z
+    webUrl: "https://www.openaccessgovernment.org/green-cloud-four-strategies-sustainable-and-responsible-digital-future/166931/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 13
+
 secured: "1/40cNAzIIag6gVXiSypbWwr0rRxzlSuP0zu6DDd1rqAxp9+yODgQgBYsZIyG+pLQB4jHYi1S9glqp82hMXvOU9fwV4Bjtda4lQliFcafgoK1BDxiv1RAc9uCrXuCrxFOt04BNjFzorVdtFB91HVC2UnG2jTDuxpRy3ojfyaJMmSLJ/K0Gn3xdFOx2/d90B6J9SXdFnDOivt97e5fOo6sQqvOaltsb+jXmlt/tYgHGwraEFPixWonUj7mkO0j/pZ8WawfA7TipL6Op522oezk1hUAXEPrC652fJ2vExa2gXWSd0l0zDku7ZP+CBcUOVOzYn/ejzFLoM421a5LNAPltW1hAbYFpmLWrPWrwxci5DLz94+AsX92fkufGeCKdRax2DMB3uYLR8KM2S0rMyIT+F0TwJHuin0PxnFZMPSAoS9HbOHgd+RZfVhN40uVMmWxooM3pT4oxDJr/zmdYS3j2DV6TAz5lbhE+N4GP+zI2iY58NwSs8iNMM+WOT1bMdq4ykvI8oLfdjEko9qzfx3NA==;w5C39gSkEHnqCEmvSFKP8Q=="
 ---
 

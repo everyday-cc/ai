@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-ai-will-change-the-investment-
 webUrl: "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to change the Snapchat AI gender and look"
+    excerpt: "Looking to make Snapchat's My AI chatbot more personal? Here's how to change its gender and overall appearance."
+    publishedDateTime: 2023-09-22T16:25:00Z
+    webUrl: "https://www.androidauthority.com/how-to-change-snapchat-ai-gender-3367185/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
   - title: "How AI Trading Could Change the Game"
     excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
     publishedDateTime: 2023-09-19T15:29:00Z

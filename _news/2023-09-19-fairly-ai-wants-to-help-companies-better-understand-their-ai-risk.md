@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/650b1b28535d7d1f890c8736/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Smarter AI Assistants Could Make It Harder to Stay Human"
+    excerpt: "AI helpers that make phone calls ... (Reassuringly, other papers were about maintaining ethics in a world full of agents.) Gratch saw similar work at a conference he recently attended at MIT. All the major tech companies were there too, he says, and ..."
+    publishedDateTime: 2023-09-22T18:16:00Z
+    webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/650cd5961f78a02d37c80f8b/191:100/w_1280,c_limit/Smarter-AI-Makes-It-Harder-To-Stay-Human-Business-BD6086-009.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "pyx70/DYJedvCgWluAoSBCsVwOiJxlloWDMRIHcz0DlxX3kPOhu3GHm5BkL79kA8ifJgu3TqwD+ahKy4cRHjVJS7iMttTLHZQHJI81RF60IhVtEj6e8EWa85nz7tTc3tceUe7er++QblkGwZOUY3KxbZgVtkdiq0xmiavkPMjQly9B2B5l2sVgzHti6Vj1FiomnP/MM6hEH9hEYqaSr9cnUNFIfQsWUEfkXSpNIX7BFul4n0W+VaSJpX6F4Wlj4BepqGmhShKYYMx1JFsQYGL3RSkf6HAka20ytpafd1ZW9awCros2FhUYvx5gAMcXskt+in+2IWNewA2qeiRzSmqFM1fmWQQBt9hzyuuD6tGWl+xts+8j7pFlD0RCR9JIIxYeCBXOkjqUfYXL+Sfq9lHiWp3LKUfjHmM4K1suglTmoAzvfUNyU6HGzxHD+2SxLQw88X5R6Gb201MXmrcOG7TS8EMe9gzv2bmoHKdd9MkPE9KOkgPHwzwuOWq7elyvdcP5jm+iv/TzvGKnNiinifUg==;KGdO4i32IJRT81Z7e0WU6Q=="

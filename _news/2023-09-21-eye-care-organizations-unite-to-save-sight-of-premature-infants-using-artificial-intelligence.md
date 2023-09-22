@@ -162,6 +162,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AI-Powered Assistants in the Workplace: Boosting Productivity and Efficiency"
+    excerpt: "Artificial Intelligence (AI) has revolutionized the way we work and live, and one of its most transformative applications in the workplace is AI-powered assistants. These digital companions are reshaping the traditional office landscape,"
+    publishedDateTime: 2023-09-22T18:34:00Z
+    webUrl: "https://techbullion.com/ai-powered-assistants-in-the-workplace-boosting-productivity-and-efficiency/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
 
 secured: "Quh/+FiqTu9uwuZnWedNU+7xDvthNEH6uxhoEuh6oYSp34Gr8TBzRHCgBdk46lKzVNSUsMDYNzO/8nFF6DOV3QZWZi77XiTYhjMmz2ha1nC+n5Pw+5esdsoAF9Nw7Ci9O7z6eT74FUO61mbswTTcV3trDrZPVyupey/B0tb+zxU3j6ffxFTHCq6pPY2Y9X1qg/imTeCUS1aB5cenc93xfT1CVngquxBuwkvCwMI/O6I+eBSun+/R5Bv2I5pBfpmBXJiadESOlJCC8pMR0QzT4Y9FfkfcJubONPj1CGZsfoS+UkxNpDs2+h5YKn1A5UCYwFR6XLOfiu6TUXLjuqqk1M3EgE68et94eyQp5c1a7+Q=;/AeV6AogwulfD3xOeZRl+Q=="
 ---
