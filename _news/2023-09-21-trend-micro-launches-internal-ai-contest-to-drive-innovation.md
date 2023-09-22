@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative Artificial Intelligence Asks Questions of Innovation in Patent Law"
+    excerpt: "Generative artificial intelligence (GenAI) has dominated headlines for nearly all of 2023 and demonstrated that it has the potential to disrupt the economic landscape by displacing jobs and creating remarkable efficiencies for business operations."
+    publishedDateTime: 2023-09-22T17:26:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/generative-artificial-intelligence-asks-3292317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 34
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How COMPASS Pathways Is Leveraging AI To Revolutionize The Mental Healthcare Space"
     excerpt: "Artificial Intelligence (AI) is rapidly penetrating a number of different sectors, including healthcare. The use of AI in mental health has opened up the possibility of new avenues of care, potentially allowing for more efficient diagnosis,"
     publishedDateTime: 2023-09-21T11:37:00Z

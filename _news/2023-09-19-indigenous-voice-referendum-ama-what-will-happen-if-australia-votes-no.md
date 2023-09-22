@@ -75,20 +75,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "A Voice for Australia’s aboriginal people?"
-    excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
-    publishedDateTime: 2023-09-18T00:14:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/09/18/a-voice-for-australias-aboriginal-people"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289778.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "ZsordGGGbUHm7sqKoKuC6609zFFpGskgc1QeISgPbvrLMqE/sXctG964bLw8XS2SGL5ksdEzHDC/W5iHym/sIZUypCtXse+lkCrCGF8RNYB5ctv6mxleQLvixMDGK5CqBD0QV6+o7GdujKozioPtZfqJe/DcghYsH7nStD18FTPtGzLD0UOTAgZ/2Lu38lRxFZVhFvKFR9CRIWdGt4GGL0QU7kSgGf0RJqyMlRkSL/aKWgvwcQxV4vxGoNtgOdPVI7vodO4FmwPyFm2zJZqeJky6lTKXIg4QxbKu4h/yp/pRZcdXb77NYrGx+42WJIOcIqG4Qo0ccD4T9KKHjqKOLvXo/rRxlvCIzXDkCLCMTupHsloVqyRY+JfxbeAlv/PQ+LLCsI3d7eTR5jU/7GGimpWnN0zrxJErv2RrsjsGdbxN/DIyZ2r35+YmVbmOJbkvkqNyT0uVKMODCIHQB0qfJFLTDYi9yh2srjZUSosYWSQ2IYbgmZcZZa3dPuf3+H/XA5WcnJ7hOPmVex6uzpPJ+g==;IUi5Lkr4zTd1iQCUkweMeA=="
 ---

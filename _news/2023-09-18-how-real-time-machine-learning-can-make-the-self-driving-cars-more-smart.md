@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-mac
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 type: article
 quality: 60
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Was The Self Driving Car Invented In The 1980s?"
-    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
-        width: 800
-        height: 375
-        isCached: true
   - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
     excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
     publishedDateTime: 2023-09-21T12:00:00Z
@@ -128,15 +114,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 4
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 1
 
 secured: "cayO5HlXe8w3M3xsMwjU0yIszr423pzqpRpLeCSfzc1Zq5Yuk5lTIYMbuEt4YadCFCZdp+EYzzodcghSvuVXIAwMaUM7vDp76OsLi22oTx5Pylavw9h2murXqPincaFEdCBemiie0B4fjjpTUspGQcnJuCSDQRmSPte4sENrSz5SipT1AcJfX8kGYMh2A/4gs68R+kuAjrdTR6WD031+C4cwxdfb3wXcP/+3VbzhVeAclVyV1sZfjlmUwqBDRRpZNknbLzNBGqed1rdb7Juvp4EFeJxvnGGfW8bSoohApCsF6b9YcjCl5J/VKP8qEprPeEnvMa6MihWlvwcq2NSMvcYT5QJOv+G87qVqhesJNHrIfHBky2397Ky0cJcTVk8uBadeQTdCXZ5Ztig39SVNTUP+eC068x2KsNz7Cl7EAlM5etmklOpIV0+8myQTV/5eAWpV5JJ8QbqZeneFs+WhlAOgRjuT+jsrI+qzggiMKsP6CWHtind8waoK+miMp4M8nUzjnlTkNASYh44Mn5qSTw==;n0K018EcVAtPGaMH8gLdxg=="
 ---

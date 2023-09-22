@@ -85,20 +85,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Was The Self Driving Car Invented In The 1980s?"
-    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
-        width: 800
-        height: 375
-        isCached: true
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z
@@ -126,15 +112,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 4
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 1
 
 secured: "xhMZe6JSL1mMXVV3qsz+NTjMEffFHgmtuR+v22+1kZihMBIRgSaMMAODNR7opTBdK1bNihXIFnGUzHyRDo3iztZspbyEGp6iWtjf2OQI14dUEu+EZyUJXK6HIhD8DrVhVyxEFvrft9PxL377tinLVRNAf+Ys0ISkUanDsolrGDG2OEWGpjJ2rtpWMU5ZueIXMnnqiXJMpiCUDWWu4V8fItJjtyWeU/RRk0QLVGar1RdRIyWQ7FU5uXDCACQPIWdgxGieI7/g0vkKDLAJtMPyxTPnEOfRFCcKJTW8WN8cVvQ2zzFh+QwqlqU9MSaEBmPzooe04WfbUZkNCbWsEwVa7PPnBO0kfLMzNXCPJBTR4EzsZqaupANHrS5c2jA2UaFntIFmWSJqSVIqnoZclIzKRMKHP3ZYQqmYcJ7Lyo4vPYMo/mHdJpZyraIGI5A2DzSRhhtXaV8kHPvxKcDm2vxGcMRqMcRmWxE0itQP73nNnVC4VwAP3M/2Z3SBINcr48S3x8W0/uK/31M2l2H3RW2dlA==;HCuOkFpdYJcuauYgcANWOA=="
 ---

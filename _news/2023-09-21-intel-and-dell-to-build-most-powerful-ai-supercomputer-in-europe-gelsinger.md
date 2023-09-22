@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/09/intel-and-dell-to-build-most-powerfu
 webUrl: "https://insidehpc.com/2023/09/intel-and-dell-to-build-most-powerful-ai-supercomputer-in-europe-gelsinger/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel and Dell to build supercomputer for Stability AI featuring CPUs and Gaudi2 accelerators"
-    excerpt: "Intel and Dell plan to build a large AI supercomputer using Intel Xeon processors and 4,000 Intel Gaudi2 AI hardware accelerators. Generative AI company Stability AI will be the anchor customer for the system, which Intel claims will be the largest AI supercomputer in Europe."
-    publishedDateTime: 2023-09-20T15:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/intel-and-dell-to-build-supercomputer-for-stability-ai-featuring-cpus-and-gaudi2-accelerators/"
+  - title: "Gelsinger: Intel Is Prioritizing AI Sales Enablement For Partners"
+    excerpt: "Intel CEO Pat Gelsinger tells CRN that enabling partners to sell AI products is a priority. Intel executives Christoph Schell and John Kalvin detail how Intel is enabling partners."
+    publishedDateTime: 2023-09-22T16:50:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 28
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/gaudi2-mezzanine-card-719x500.2e16d0ba.fill-1200x630.jpg"
-        width: 719
-        height: 378
+      - url: "https://www.crn.com/resources/0285-190a8cbd605d-03ec85b106f8-1000/gelsinger_intel_ceo.png"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "B+9DTJPhkfBUvqU2G82rMqHmuCOCzEkABZgISslXaid88OLh+lS8npYyRmKA1lfhoGOao2YL9VwAckRqNWf87twROMmQySj80Tyc6tgtH0+LdDOoWrE7nyDLVYW5iF2uHQ0BoVbUTewL02WEhERXU9OLQq2FIIpvERX0sua77ls8otUDO2MecPRCYECz+phGu53q76W/re5vy1mm2gVWrVSOb49xEjudFqcM1Sl2cdvC0naRgDmgLunqYwJeFyvmWaIMI1uUhOp7jXxFqc15Yuk8cz9E3HHVtLG1dQUHtDOGKuZvPZagC2urBxyvzwXW9/c1PdXX3fJ38/dPqGyqwT4FvEfkv/o+W80XGby6B+P3IyzAmx9iaRrk9xPbojY9lOIESIUAUIgeCkDWX0RmvlZkRJoiasN7Zfa02cUcfQSj8oKkRGk63V9PAIVz0wxZTnfKuEtpWVVpx/JQ1asMeSg4gEPXbHhFQ7j2/TQhWYbP+r1Y0RflTEUIxHQhgquLSRvV0ZGEOLfL6jmMaj+10A==;wlV0Y7iA5fMX16o4YHV1ig=="

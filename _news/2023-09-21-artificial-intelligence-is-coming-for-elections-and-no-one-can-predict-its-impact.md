@@ -52,20 +52,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
-    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
-    publishedDateTime: 2023-09-18T00:35:00Z
-    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
-    type: article
-    provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "CmjcfRapnLYxujaC+lExTHBbfRy6VfglgHRkmXhO1SR/XH+KLFE1tA/27blvrZtCI5fK2Q7X6HityxYikJdf8lwHHiZTb32olnkSUmlm/Yi1k9XYXpq7KTvr79G5lTTkUSgFLSJ6kPPGmWOfoazrtCJjsUOVVDtkyYt20oxgVd0PmseZXMyMYE+c3W0MLtXpKEuPLW41Xm3E7HhmnIbVwOlepv0YwW/5U1M19T3rg4PMqWjYgvJlWSna1QR3svK7kITKY+qw+Ldt+1acg0Zj9e5DzHc5NLx9/ke2/spJMOU/K+i3flRCmYl2pAENpRY9OG8pXiVfM+JpgTV/+I0YQPtEGp903R3kjyGXjLU8CLLhcQlhk4YVJoyqNZImgB4CpaY04m52RqJ+EZIokR+vVU7Cl8MQUzdwMxUuO3yZNZgne1jtZTQEgtpN04GNim5Wwu/dCzfkOnVl5VEBnyez2vOPtTtLSdQEH3ZZr3dbu+ZJCaPWBFZFwdb75WZkAy3NR7ck3ycD9DPtX7MB1ZS4hQ==;u08sazWwahUSJ02IpSnC5w=="
 ---

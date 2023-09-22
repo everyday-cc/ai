@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-
 webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://ijnet.org/sites/default/files/styles/share_2_1/public/story/2023-06/Captura%20de%20Pantalla%202023-06-23%20a%20la%28s%29%2011.28.50.png?h=8841df03&itok=Gc9YIhyg"
         width: 956
         height: 478
-        isCached: true
-  - title: "New ‘AI at Wharton’ initiative aims to explore and research AI applications, educate students on AI"
-    excerpt: "The initiative will give students the opportunity to take advantage of Wharton’s resources to further their understanding of how to use AI and apply it in the business world."
-    publishedDateTime: 2023-09-18T00:35:00Z
-    webUrl: "https://www.thedp.com/article/2023/09/penn-wharton-analytics-new-ai-initiative"
-    type: article
-    provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/094d9138-4ea5-4ea5-b594-14ba37f2e3d3.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "RPf18jZI/5k5zEXnjWt1Eh02YfLIUHFttZ5Fr6zOmE4S+Nx13QfLLVMTBVNtgQ/GQlA7TkEOrGEVP9aHXcv6mF4jN1JUy9SPr0zANARyFC7hit3pBzAy+YD/X1JYkBQIj1kJiH2chkCb5oKAV1A1IhYG7FVpXnZVwrljDJI2oeh1S9EZ7qf9FLPX+S0cMO4vuYaxdFGWpDA8ITOHVucPBF5V0c/JwoRw764dLGgsjCbMDAk5X8W7ZLYMss8H+ioBAY38LtYKSGhCsQ19MAn3s+ewBX/70gL+3cOoTS6LllBp4ftTLouGcOm9kI5jLW+FlkxJwcRM/ccu/QwXR6gIHG2qJEgWtUJ+K7UpmVSAQVRxrku77McXkyNy57Eu4hLRNmJbKqTWXxdSDtcVh8l//b6BEJRH94Y3R7mZcCwA7Xjr/mF3Zc4EVzEGVKQPK2ODlBHg+gu+FVjZQhYZLTPeRvzP8AjYDUWCitX8CkemdNpAIlsx+MmlfwmszJ4OPIVj73QcrbqquMxcEq0SN972LA==;F/kxqmFmW/XmTrvvxIupgA=="

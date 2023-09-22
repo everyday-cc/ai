@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
+    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+    publishedDateTime: 2023-09-20T15:28:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 29
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
     publishedDateTime: 2023-09-20T21:22:00Z
@@ -63,7 +79,7 @@ related:
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
     excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
     publishedDateTime: 2023-09-19T23:25:00Z
-    webUrl: "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
+    webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
     type: article
     provider:
       name: Tulsa World
@@ -88,15 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
-    publishedDateTime: 2023-09-19T22:21:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 0
 
 secured: "c57L/4OpT1uWjLiWTvM4BsGDjfse16UCm7mSebGsHYSe32vMjQEfWPCQUFPmilERu4AvxmUpnkqLdvEY5OSWIxx2KCUTev3Kes1s6M5xdOtNBUNALSUQPRizZ6rPvJMjRjGHIuTS8h/e0jmo3ac0G5bWPnIzfn5PYo/f76THSfon+MyhoCNmS5tuRzEDsRaL0Qk2rGs9oMzErBynjP5yMyaq+WpPnZcHi6cCX0kaFxnmbcKNEFJpXGv2npv5jpz/5TN3BErh1uUb1jfJi1Lw+mDxeqP7RN5taKduUicr2y5j1VcW1Nw6MREtlyx1NRGNIfcMKYQfF5UIBnNDmeCSYmmwA+Y+xdqjLZID1aNoZsuJtJOnMd4LVW53frR08iEevMq3oSEBc6/P9Lz4/3WLhSZvI1BvdtiN6stquR+k0W7AZM5xOuayJcveXWPklw6p07zDlUksPq2rnDRRnrs3GhYcgCdFkH6iSe2Nn8IKm8qeAK/ZFi0Z6EdQ9y6TN+/pQh+QB0G5gFfja3nfaUDsIQ==;w4VO7iAft/bydtIjbZkGyQ=="
 ---

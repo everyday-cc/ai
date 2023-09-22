@@ -85,20 +85,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Was The Self Driving Car Invented In The 1980s?"
-    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
-        width: 800
-        height: 375
-        isCached: true
   - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
     excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
     publishedDateTime: 2023-09-21T12:00:00Z
@@ -126,15 +112,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 4
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 1
 
 secured: "+hfsPbCsmrgmCzzrVy+z+yFrecwUyaLNFSiezC95CxWlsfAuRDMI+SNFJTS7huiAAlsnXATUkXD16vnpAvvjYXjav+SJonM2elut/IDh5DYdHE6RX68tKhSAcgV0ZuZjhRUij2EeX1eEeqAqUvPQ3WZZ3qp9r3OZNdaO/N/MkpDKOcVA2zeyGRaSd1jt+yysETV1jsfDSUilZ4jOCb/sG7PFku6F4XGi2h4tDY0/uh2zwx+Bvr8TJ5n3U2oHeYnt3d8EpNIXWgVKTGHrZfqKRFLDuGcSXCeeFbYuThVkHNIdEstDiNc0QOsG6e6Q09iib/Kw5aRAvY/5mqkTmX6BFzOLGVFqoTtmmJAlNsI8apodTX8zds/dyJc/brq0tLTEGSTzXsZBDpNa2hzpqt+IuN7EzrdZmdGB83k+dUltnvG5+c3Hq7zyka5+udTVL7KfNqSyEpt+w+/bs5SOYX8tmKD8DAC6Ba2Iz7Er4LkmtC9FlLi3xI2h1XbTkufwQRhJZPLne6bA6EDP7i8vJiKdNw==;a4BMlREf1g1qTk1Qz4sJcA=="
 ---

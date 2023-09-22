@@ -3,8 +3,8 @@ category: news
 title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
 excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
 publishedDateTime: 2023-09-19T23:25:00Z
-originalUrl: "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
-webUrl: "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
+originalUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
+webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
 type: article
 quality: 11
 heat: -1
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
+    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+    publishedDateTime: 2023-09-20T15:28:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 29
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
     publishedDateTime: 2023-09-20T21:22:00Z
@@ -89,16 +105,7 @@ related:
       name: Los Angeles Daily News
       domain: dailynews.com
     quality: 4
-  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
-    publishedDateTime: 2023-09-19T22:21:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 0
 
-secured: "kfe0grO/DG2ukSWKoybfrUr/vy9JcIV07I1uE5XnQl2/OnyE3dAUVZ1h+wR74efhVGsQaOhxSbSiOtYZD+xY+1omS8z7BGQr7oeB8r2mlhceNjTIuhVWpNejkL4Am0EUxnDL3rrcQ87s0sU4pn0dNgtovobh7BnDPwC610qR/eoUy4+MXUCIwH9wwYyp3sP+Nn5KUpG03skVx3lvcBHwfZcZyI49bcymQEsN5FcicSWegSX1f3hyfGtnneXD9w7BTxJFcuD1XgKX1ViGbMoZGDpPIC8+BM87z+DeOKquzsqxsjjRg7bG2rjN7l5ihwOKZ/8YeEjoiWmWIO1W16ILZ4NIRYI3rWPKRdx6jE0YEd8=;zbxYpfFqIR+PrJqKh6m3Rw=="
+secured: "4+dCUbeAMrniM7ov4GMVbTLkhytDz+Ie3xtRB/5X3xzA9fPdSZ2rndlHBEJxjYv/0epOUVupA5lYTZ4K2l69r4ud3uUdmlCcnzWgmpGaH4+5TR9twZUucuGEFx8i3V4+spTBrRhp5Y5QHl2gIVpwTgQOpJ7cKAZnm2UbQpO9icdA6c2U9b6Q72Zb4d4R/ATsoLfYGpsD8VeTfdnWb8SQf7CkjPCvNS9G6RF/C8uzEiYIodESCqHRhY8MRy5LPjcLOXFyCV699Nog506KaURP5nd/0wmg4Hlhpkk7deY3SixlpDWyT2xVZrGXjc7Kf5qScRjaBzfLYgTlVPOrqJfMDPozj351jW0FUcmzIva4o9M=;WuovkCdkx1ELlff2/PMjNw=="
 ---
 

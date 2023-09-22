@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative Artificial Intelligence Asks Questions of Innovation in Patent Law"
+    excerpt: "Generative artificial intelligence (GenAI) has dominated headlines for nearly all of 2023 and demonstrated that it has the potential to disrupt the economic landscape by displacing jobs and creating remarkable efficiencies for business operations."
+    publishedDateTime: 2023-09-22T17:26:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/generative-artificial-intelligence-asks-3292317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 34
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How scientists are using artificial intelligence to fight pollution from coal trains"
     excerpt: "A team of researchers is using artificial intelligence to help the city of Oakland figure out how much pollution coal trains leave behind in the communities they travel through."
     publishedDateTime: 2023-09-20T12:59:00Z

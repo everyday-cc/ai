@@ -56,6 +56,20 @@ related:
         width: 1147
         height: 645
         isCached: true
+  - title: "YouTube Shorts Could Soon Be Full of AI-Generated Backgrounds"
+    excerpt: "Dream Screen is a free AI service that will generate video and photos for YouTube Shorts backgrounds, a potentially appealing option for YouTube creators on a budget."
+    publishedDateTime: 2023-09-22T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/youtube-shorts-could-soon-be-full-of-ai-generated-backgrounds"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01eDJoq0D3jOz2jO5fSopVA-1.fit_lim.size_1200x630.v1695395622.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
     excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
     publishedDateTime: 2023-09-19T12:00:00Z

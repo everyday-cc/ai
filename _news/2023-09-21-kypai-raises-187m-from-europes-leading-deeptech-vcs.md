@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/kyp-ai-raises-18-7m-from-europe
 webUrl: "https://venturebeat.com/automation/kyp-ai-raises-18-7m-from-europes-leading-deeptech-vcs/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

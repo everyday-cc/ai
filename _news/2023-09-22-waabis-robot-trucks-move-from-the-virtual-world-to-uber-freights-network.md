@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-t
 webUrl: "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to
 webUrl: "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy/"
 type: article
 quality: 60
-heat: 70
+heat: 72
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "VaOwF5paZIWOk2UYJPBYi9hn7CqWpg3V7hF/DRRg+pTFOXZZ64tubMRAOaJo81XDpWLfWa217woYrsNyMcXr85iwFK1stkxuMD8vG7y9A6Nu5wB+oaW8293ydUlgParlJ8OXjjqOR+thslTTOzrzMf/K1zQCpCsFqnFUzFScRZSnjyfVpSc66r07956UdcQrpLYeRzQOvCNpquqPpnlN5vpT6LWxyhmOMJVJ2NixHo7rAQoou7Wwo7PJPQ9lZPDmv/P5Ouu6whCn/r+PneNQ87rpt00yuKT81+/MXxo7qzOzWqirubJReUiXyITlph3IfiBCg0ErjTGjKJDZ4n38eu7Fmkd8x+rztKz2meVX5Po=;wxLzCUEra4uf3b4c+boHgg=="
+secured: "C8iA5F6RKMHopQlKb9N07XvIQcUYTaD7x2fHiLnNzM+4bmwIzUlK2nigYzfTSOC4JAK/FdLUpN+u1bKL17gdszYAIAX7pLmYT5Vp2PDgmsWSLbRBXn5n+xi/HfnioNj/FU6NxnrGXpoZDjelnKUGfjMqgnEZR5SZNa8MlfC+bte3mPCmSeoy5LZvABScP9e+zkuXP2SrXNNNhkBjyLxKgG/n+ugJtwvcHR/4OjtiWliWjPkV6QpGpBP6dif3a1C6hlUV6y0jq/TjWsWWMybCJ9yckfeh0Y1JW4UuK+r4pBm9ZopPQtJb7h3gTp+UuDJYuRa17euF4oi/6OwBSaG8rBF54JGcx3o3vTuNEVtlev9eMDFH6kPgubtJuMlS/C6ZdSdEN6YgPXR8As2ieRmEG2+tk8ZyhfPM3OJcrKHgyYuz6wQorZBG6aewxIHD0e65UtMX3d+FTFbbogHHUmriresJ0r9lDIPnfQAD5O3aBfilOhnXEyIyKxrqrBoAuPoceR58mSQFLm1TEDNrfEFDig==;wTMxxRvYhdSJI27MynFqJw=="
 ---
 

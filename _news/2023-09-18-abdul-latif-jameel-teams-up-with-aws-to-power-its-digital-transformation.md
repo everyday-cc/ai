@@ -35,6 +35,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Amazon's (AMZN) AWS Gets Selected by Abdul Latif Jameel"
+    excerpt: "Abdul Latif Jameel will build an AWS-supported analytics, machine learning and generative AI program in a bid ... maintaining its leading position in the booming cloud market. Microsoft’s Azure, the second-largest cloud service provider, accounted ..."
+    publishedDateTime: 2023-09-22T17:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gets-selected-by-abdul-latif-jameel"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
     excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS, to rapidly develop and introduce new applications across a wide range of industries. Abdul Latif ..."
     publishedDateTime: 2023-09-18T23:08:00Z

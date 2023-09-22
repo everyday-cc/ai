@@ -85,20 +85,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Was The Self Driving Car Invented In The 1980s?"
-    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
-        width: 800
-        height: 375
-        isCached: true
   - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
     excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
     publishedDateTime: 2023-09-21T12:00:00Z
@@ -126,15 +112,6 @@ related:
       name: NewsTalk 1290
       domain: newstalk1290.com
     quality: 4
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 1
 
 secured: "gEy9KsmgyUrjDJVIwLt12PqcNpC42ar2ygpZ9/Sk+xditJ6KMAbW6omYNpKQTjBTDznwAJaMvw3XQenKSJfVJF2Ja4RPNaJtz07q+9VqHaVGTwDEHkcGve0AYcIypm+FhEkGk9zk9mKHIlR9eOq7+rHhqnd+5cmklLhwjIOAfs4P7Y7dY6rkTbKRXfFcCPmWs4ek8Lqv2dS64a/PwHKBvcfw+IJo7o6XtnjZ6cUpvPn+K3Tq1QgR8zSppqDD0+YzunQvB7YF28yOjC4JFA/glm5WXbUjtknd4RvNLRn0io8QHUEUL5BU+6BAK20jKtqvouz9Dp1fDYgYQ7RHxxobh0KyFAw1qYb9g9PfGSHyi9Q=;oQWnC44d7t2uTo4/ZwQuYw=="
 ---

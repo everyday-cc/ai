@@ -39,6 +39,22 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "What Was AI Giant Nvidia's Founder Jensen Huang Getting Up To In India This Week?"
+    excerpt: "Nvidia Inc (NASDAQ: NVDA) is set to boost up its investment and partnerships in India following a week-long tour of the country by the tech giant’s founder Jensen Huang."
+    publishedDateTime: 2023-09-22T15:48:00Z
+    webUrl: "https://www.benzinga.com/23/09/34826799/what-was-ai-giant-nvidias-founder-jensen-huang-getting-up-to-in-india-this-week"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34826799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34826799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/nvidia_ai-ready_servers.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Surface Laptop Studio 2 arrives with powerful Intel 13th-Gen chips, NVIDIA RTX 4060 graphics, and AI capabilities"
     excerpt: "The new Surface Laptop Studio is Microsoft's most powerful Surface yet. The second-generation Surface Laptop Studio is official, and it will run on 13th-Gen Intel CPUs and NVIDIA RTX 40 series graphics. It can be configured with up to 64GB RAM for the first time ever in a Surface PC."
     publishedDateTime: 2023-09-21T15:07:00Z

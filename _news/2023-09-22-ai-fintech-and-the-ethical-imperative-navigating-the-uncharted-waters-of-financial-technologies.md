@@ -8,7 +8,7 @@ webUrl: "https://www.fxstreet.com/education/ai-fintech-and-the-ethical-imperativ
 ampWebUrl: "https://www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
@@ -113,6 +114,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "VdozCByEOWWJ9bnJqmdUa8LiHdcuPdABoFlJsKdhxIj1nvW3rlQtAAFNuOLyYgSIr/DJ6DsR5CMlEkf/U8XC0q2vjqNUAD7ZQWwDKfsNWpxN47fu2TAvRMVffuRDJuwrpzT8UYE/GzqkV324cDAW8UHoEqpFnmNq1JKlsoxn2zpeJrb9g0xU5nCUP5lCP2ZPeP749r8hypPkreHnFkiGDA1k1Bld/pm1k9ctV3v2aTtQMq0Lt4c+DS5mDIGkE8gg60FRBniHqFksoeLPe5DwwxvO5MYEWlcnSVfASpP+7SoHXWA7Zu0ddouy7ufeO/mANr6PxNgYkvG6DYhaeVJqwvX0Q1DSJ/bjoiour1oQROw=;Kz313qst1O/UxmiV3FstGw=="
+secured: "OzCVg7bXH70xiiTMoCJUCtpqhzJ06SeKCyLNTNtMhmUSICaDCfeIocBmPYx/jzvw87uHniyQ74CVftjlQtTMUGlDT/H+k5+K+3/78SMLJhKTqE4FPzrmpOFrcXZcShGKh2Qrs9/t95V10wcqsfpKGLzkNCmKSX/R6m2hZJSyukhUgvW5OxB/B8R3YkucU9q7dtv/aApFfphsPoORY9ck0bLQg6vWOPv2OYln4VBDPUYRsgr57iala9cr/40+a7C1Xlta0Ia/obBFHPDzWL676doW+2DMoMgsBd7AsX3FUi8dbO8ls7c73vt5VdUwCA9IzCx9LfK+PvpZbWMltvWzQ+M16915/9b6jGonAA9oupEuZVwcScdAqBQwSum/ySw1rH49ph7kW64NEZ2/FF9swAFyelyD/lfkyEeOoJHnPy6wXEmio4bzZJyC4wBlpDXRjR1XwOiSzY6gKjIZbdcLy2YW1QHk+8fKxu19CABJShowltMjpjETkIl7AG6+IY3yIpei1J+QR9E7A/DDxvbuTQ==;UbuLHZrbJ2u7ssbEGN43OA=="
 ---
 

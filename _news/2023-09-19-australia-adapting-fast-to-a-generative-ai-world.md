@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australia-adapting-generative
 webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/238fb6873d4ce535aa0b0119c763946e343f9bc3/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=42f677fa4916d772120252311d118ade"
         width: 620
         height: 372
-        isCached: true
-  - title: "A Voice for Australia’s aboriginal people?"
-    excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
-    publishedDateTime: 2023-09-18T00:14:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2023/09/18/a-voice-for-australias-aboriginal-people"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289778.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
     excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."

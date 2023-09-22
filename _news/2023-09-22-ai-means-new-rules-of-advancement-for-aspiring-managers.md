@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new
 webUrl: "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS regional managing director advocates transparency and inclusive dialogue in shaping AI regulations"
+    excerpt: "Artificial Intelligence regulations must be crafted with transparency and inclusive consultation, says AWS executive"
+    publishedDateTime: 2023-09-22T15:52:00Z
+    webUrl: "https://www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm"
+    ampWebUrl: "https://www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 58
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/AWS-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "AI vs Advertising Regulation"
     excerpt: "As businesses and industries continue to embrace AI at an unprecedented rate, the need for regulation becomes increasingly apparent."
     publishedDateTime: 2023-09-21T17:38:00Z

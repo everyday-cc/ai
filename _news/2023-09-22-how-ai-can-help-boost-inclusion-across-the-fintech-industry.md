@@ -57,7 +57,7 @@ related:
     provider:
       name: FXStreet
       domain: fxstreet.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
         width: 320

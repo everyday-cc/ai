@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-fi
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 125
 published: true
 
 provider:

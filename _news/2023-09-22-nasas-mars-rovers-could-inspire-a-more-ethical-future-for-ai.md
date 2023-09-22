@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-Mo
 webUrl: "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Mena FN
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain inspires more robust AI"
-    excerpt: "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other."
-    publishedDateTime: 2023-09-17T23:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/09/230916131430.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
   - title: "NASA's Mars rovers could inspire a more ethical future for AI"
     excerpt: "The replacement fantasy is just one of many possible futures for AI and society. After all, no one would watch “Star Wars” if the ‘droids replaced all the protagonists. For a more ethical vision of humans’ future with AI, you can look to the human-machine teams that are already alive and well, in space and on Earth."
     publishedDateTime: 2023-09-21T13:04:00Z

@@ -85,20 +85,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Was The Self Driving Car Invented In The 1980s?"
-    excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/07/car.png"
-        width: 800
-        height: 375
-        isCached: true
   - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
     excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
     publishedDateTime: 2023-09-21T12:00:00Z
@@ -126,15 +112,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 4
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T00:00:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 1
 
 secured: "gWO6yNKaVkVZ/XNFa1mwubAlK3uyabQKrrKE+DRtEyd2myU3A5Bkxee+ZKOA83Vw7bZAAQVEq9QITzZMUBHvZue7fvrNQm9HimeRArIjpcaYPGkaNVOZ0EV9r35Ow7QG6HR+Oe5BHbyoKEj8O/2kbI7V6et7HSgwZnWdohJ5IEnGaH3y+HYaSwNzkshQaPEDAI6GjigrLjFzqGMnjCzWJVgi5lk+O0Mvn0BHQoKAlqKKnUw6nV61E7HvjXC3NmWFQugaRam/mJvNn9pAkbFoRTUTUikfWOrymbLVC7hGMegp1JGEpiD/ZVVhc0o4vh9rh4hTWwW7ZN3Skv4enVpUxiYNDClT1TvJD43nCcUCGbVCctoIKxTBgYpxE1ik8T55Jv6ImNK8iZ0f0i9EhK8cSCiDjtdLg5Rew9jr9fkM0/Vr0R0u5pjBBCRiIviFaLmhEWuv2Q4s5QR0gEnNtnKogRUiavdDcNg8Ky7Z6EtfGAkvTX+3BbFb2b02IqgkBJ8DdTpyElP5GQuL4xvAl+B3rw==;gT19dFvpUuTVF/xBgmi0dg=="
 ---

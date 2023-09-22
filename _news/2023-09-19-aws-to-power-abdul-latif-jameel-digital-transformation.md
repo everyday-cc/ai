@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-powe
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's (AMZN) AWS Gets Selected by Abdul Latif Jameel"
+    excerpt: "Abdul Latif Jameel will build an AWS-supported analytics, machine learning and generative AI program in a bid ... maintaining its leading position in the booming cloud market. Microsoft’s Azure, the second-largest cloud service provider, accounted ..."
+    publishedDateTime: 2023-09-22T17:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gets-selected-by-abdul-latif-jameel"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Abdul Latif Jameel teams up with AWS to power its digital transformation"
     excerpt: "Amazon to use renewable energy supplied by Abdul Latif Jameel Energy’s FRV as part of commitment to powering operations with 100% renewable energy DUBAI, UNITED ARAB EMIRATES — Amazon Web Services, Inc."
     publishedDateTime: 2023-09-18T10:04:00Z

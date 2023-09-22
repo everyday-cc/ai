@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-23-githubs-ai-powered-coding-assistant-moves-to-public-beta-how-to-access-it.md",
+      "title": "GitHub's AI-powered coding assistant moves to public beta. How to access it",
+      "excerpt": "To access the feature, a user needs to have an active GitHub Copilot subscription and, if using Visual Studio Code, have the latest version of it installed. The user must also be signed in with the same GitHub ID that has access to GitHub Copilot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/githubs-ai-powered-coding-assistant-moves-to-public-beta-heres-how-to-access-it/",
+      "originalUrl": "https://www.zdnet.com/article/githubs-ai-powered-coding-assistant-moves-to-public-beta-heres-how-to-access-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/59904b59328f739533054103b1f3f8214060dcb8/2023/09/22/e774004d-dde3-458f-ba6e-db41e2645a63/screenshot-2023-09-22-at-11-03-43-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/githubs-ai-powered-coding-assistant-moves-to-public-beta-heres-how-to-access-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/githubs-ai-powered-coding-assistant-moves-to-public-beta-heres-how-to-access-it/",
+      "publishedDateTime": "2023-09-22T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy.md",
       "title": "How much energy does AI use compared to humans? Surprising study ignites controversy",
       "excerpt": "The paper found that when producing a page of text, an AI system such as ChatGPT emits 130 to 1500 times fewer carbon dioxide equivalents.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -259,7 +310,7 @@
       "originalUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -302,7 +353,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -449,7 +500,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -501,7 +552,7 @@
       "originalUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -739,49 +790,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-nasas-mars-rovers-could-inspire-a-more-ethical-future-for-ai.md",
-      "title": "NASA's Mars Rovers Could Inspire A More Ethical Future For AI",
-      "excerpt": "Since ChatGPT's release in late 2022, many news outlets have reported on the ethical threats posed by artificial intelligence. Tech pundits have iss",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "originalUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-09/21/TC_b1ba0image_story.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

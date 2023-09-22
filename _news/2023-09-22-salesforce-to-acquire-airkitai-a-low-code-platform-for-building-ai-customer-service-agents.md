@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 119
 published: true
 
 provider:

@@ -252,6 +252,22 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "The Future Of Cancer Detection: Microsoft And Paige's AI Behemoth"
+    excerpt: "Its latest collaboration with Microsoft aims to take it one step further by advancing a novel AI model featuring billions of parameters by leveraging Microsoft's Azure platform. The revolutionary model is expected to play a pivotal role in deciphering ..."
+    publishedDateTime: 2023-09-22T17:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34829102/the-future-of-cancer-detection-microsoft-and-paiges-ai-behemoth"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34829102"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34829102"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft.Shutterstock_7.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft AI Researchers Accidentally Exposed Big Cache of Data"
     excerpt: "Microsoft Corp.’s AI research team accidentally exposed a large cache of private data on the software development platform GitHub, according to new research from a cybersecurity firm."
     publishedDateTime: 2023-09-18T21:30:00Z
@@ -279,6 +295,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Microsoft Surface Laptop Studio 2 Is Coming With RTX Graphics And A Dedicated AI Chip"
+    excerpt: "Microsoft announced its new Surface Laptop Studio 2 with RTX graphics and a dedicated AI chip yesterday. The tech giant also revealed its latest Surface Laptop Go 3 and Surface Go 4. Microsoft Surface Laptop Studio 2 The Surface Laptop Studio 2 is touted as being the most potent and versatile Surface Laptop yet."
+    publishedDateTime: 2023-09-22T16:11:00Z
+    webUrl: "https://hothardware.com/news/microsoft-surface-laptop-studio-2"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 64
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62615/content/hero-microsoft-surface-studio-2023.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft exposed 38 terabytes of sensitive data while working on AI model"
     excerpt: "Between July 20, 2020, and June 24, 2023, Microsoft exposed a vast trove of data to the public web through a GitHub public repository. Cloud security"
     publishedDateTime: 2023-09-18T19:28:00Z
