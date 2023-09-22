@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
+    quality: 66
   - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
     publishedDateTime: 2023-09-19T22:22:00Z

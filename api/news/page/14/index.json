@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-09-12-investors-eye-mongodb-as-a-promising-ai-play.md",
+      "title": "Investors Eye MongoDB As A Promising AI Play",
+      "excerpt": "Customers are increasingly selecting MongoDB’s Atlas cloud database as a key platform to both build and run new AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff6a73a669b8403273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "publishedDateTime": "2023-09-11T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
       "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
       "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
@@ -1095,58 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
-      "title": "A Vision Of AI-Enhanced Test Automation",
-      "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "publishedDateTime": "2023-09-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

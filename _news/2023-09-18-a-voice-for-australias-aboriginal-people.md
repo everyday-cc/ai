@@ -55,6 +55,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australian federal police using AI to analyse data obtained under surveillance warrants"
+    excerpt: "The AFP’s use of AI has been limited so far but the agency hopes the technology will help police identify money laundering and potential fraud"
+    publishedDateTime: 2023-09-21T23:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/238fb6873d4ce535aa0b0119c763946e343f9bc3/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=42f677fa4916d772120252311d118ade"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
     excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
     publishedDateTime: 2023-09-18T23:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-mac
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
 type: article
 quality: 60
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_09_2023_17_40_37_1760082.png?width=1280"
         width: 1280
         height: 670
-        isCached: true
-  - title: "With self-driving cars, it's the ethics we have to navigate"
-    excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
-    publishedDateTime: 2023-09-17T08:24:00Z
-    webUrl: "https://www.japantimes.co.jp/commentary/2023/09/17/world/self-driving-cars-ai-ethics/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 41
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/17/251977.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "Teamsters support California bill requiring a human in self-driving vehicles"
     excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."

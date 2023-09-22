@@ -35,7 +35,7 @@ related:
     provider:
       name: VN Express
       domain: vnexpress.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://i1-english.vnecdn.net/2023/09/21/frsg-1695308836-9550-1695309001.png?w=680&h=0&q=100&dpr=2&fit=crop&s=wjm7DSKjNNJEedDD6Y7Fiw"
         width: 974

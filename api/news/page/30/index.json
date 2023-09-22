@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-and-the-economy-healthcare-will-have-huge-productivity-gains.md",
+      "title": "AI And The Economy: Healthcare Will Have Huge Productivity Gains",
+      "excerpt": "The big, early gains will come from faster, easier clerical tasks that today consume too much of doctors’ and nurses’ time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef791a25e46eb704f39342/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/08/31/ai-and-the-economy-healthcare-will-have-huge-productivity-gains/amp/",
+      "publishedDateTime": "2023-08-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence.md",
       "title": "The Future of Cognitive Healthcare: IoT, Telemedicine, Robots & Artificial Intelligence",
       "excerpt": "Healthcare in the digital era is experimenting with adopting robotics to provide personal healthcare to patients in need. This technology enabled the healthcare industry to manage patients ...",
@@ -1136,58 +1188,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-bringing-generative-ai-in-search-to-more-people-around-the-world.md",
-      "title": "Bringing generative AI in Search to more people around the world",
-      "excerpt": "We’re bringing generative AI capabilities in Search (SGE) to more people, making  Search Labs available in India and Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Expansion_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-india-japan/amp/",
-      "publishedDateTime": "2023-08-30T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

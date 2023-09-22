@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-09-09-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "The concept is known as neuromorphic computing. Although this sounds similar to artificial neural networks, it in fact has little to do with them as artificial neural networks run on conventional digital computers. This means that the software, or more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
+      "originalUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Max Planck Society",
+        "domain": "www.mpg.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-lorawan-and-its-global-sustainability-mission.md",
       "title": "LoRaWAN And Its Global Sustainability Mission",
       "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares details from LoRaWAN Live Orlando this past spring.",
@@ -1117,58 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-the-best-movies-on-amazon-prime-video-september-2023.md",
-      "title": "The best movies on Amazon Prime Video (September 2023)",
-      "excerpt": "The best movies on Amazon Prime Video have something for everyone. For most of this year, Prime Video has welcomed movies from Universal Pictures and Paramount to shore up its library. But this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/Elvis-Trailer-2.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-09-08T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

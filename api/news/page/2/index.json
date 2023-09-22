@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-21-top-indian-actor-wins-landmark-case-against-ai.md",
+      "title": "Top Indian actor wins landmark case against AI",
+      "excerpt": "Anil Kapoor, one of India's leading actors and most recognizable faces, has just won a landmark ruling against artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
+      "originalUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02oJ3Q5kNMdqJONzAJUpzK1/hero-image.fill.size_1200x675.v1695287936.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-ai-models-from-openai-and-other-tech-giants-are-being-bombarded-by-a-new-swarm-of-bots-extracting-intelligence.md",
       "title": "AI models from OpenAI and other tech giants are being bombarded by a new swarm of bots 'extracting intelligence'",
       "excerpt": "There's a new type of bot that scrapes AI models such as OpenAI's GPT-4 to extract intelligence. Vercel's CEO Guillermo Rauch tells Insider how this is happening and why it's such a big problem.",
@@ -310,7 +352,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program-1032644968",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1167,49 +1209,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.md",
-      "title": "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech",
-      "excerpt": "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
-      "publishedDateTime": "2023-09-20T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

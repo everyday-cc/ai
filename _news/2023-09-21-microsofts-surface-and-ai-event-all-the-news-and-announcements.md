@@ -23,19 +23,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft-backed FAST Accelerator Announces 12 African Startups Selected for Artificial Intelligence (AI) Program"
-    excerpt: "AI-focused accelerator program brings African startups to Silicon Valley to jumpstart technology innovationSILICON VALLEY, Calif. , Sept. 20,"
-    publishedDateTime: 2023-09-20T23:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program-1032644968"
+  - title: "Microsoft overhauls its pricey Surface Laptop Studio with new CPU, GPU, and RAM"
+    excerpt: "The new Laptop Studio has the same 14.4-inch 2400×1600  screen as its predecessor, but it addresses the old Laptop Studio's input limitations by adding a USB-A port and a microSD card reader. The laptop also keeps its headphone jack, Surface Connect port, and pair of Thunderbolt 4 ports."
+    publishedDateTime: 2023-09-21T17:06:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 102
     images:
-      - url: "https://mma.prnewswire.com/media/2216789/2023_Silicon_Valley_Cohort.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8428-800x600.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "mwoARCn1kfuwGqSziyQIuMAuMsNEEQN4npTwugjYCa1hxjSPwp4TGc2vK7o2DO5B2egeU3tGCHLOz19SLRr5+hatfxNCROKVSi7ohgTCEJBazhS/0rCmMBcf6WMb0bM4dwFOt6NvC8Fx+SnQ0YDBYYKPoRpviIo4WrPK/0zw8ygmXNbqDb6R/Q7yrBgy+Ls7TWban8GUt1bSYHiqb0pDoVly+8ppRSbAhbwEILlaGPtuFxW+YLU2RQlF1k/1dvJsr6g4sb/CFOymT9i7gv3njIjFaSPKjEwJ+yViuG3erc3yodNuL/nWAozRT8GsKB39AbY8K2ynTvupgVjP7kCgv22jFnwNRdnJQbAmGdDgZao371A2uKtODSwQUYNZxSlLqdkSx9+l8M7qln5VSnNT21rzCvXtnbmDoUkENYmTBIIVhTC8/ghi7YOiV5EduIiSqraLygqOnroVYO7+KNHOLsZrVbujL9hcspmYJRRaS3Qpcfq5ozI6JxrfpTW5kwqSiszh3WudaDWHzLOjCPDMlA==;BsXDauBRMdjQ/AlCgRVFFQ=="

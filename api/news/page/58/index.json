@@ -2,6 +2,57 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-08-11-generative-ai-is-not-a-tool-its-an-employee.md",
+      "title": "Generative AI Is Not A Tool; It's An Employee",
+      "excerpt": "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/",
+      "publishedDateTime": "2023-08-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce.md",
       "title": "Can AI Bring Sales Out Of “The Paleolithic Age Of E-Commerce”?",
       "excerpt": "Businesses want customers to increasingly use digital channels, but customers often crave personalized guidance. Can these two competing imperatives be reconciled?",
@@ -1113,57 +1164,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-new-study-shows-how-ai-can-help-detect-breast-cancer.md",
-      "title": "New Study Shows How AI Can Help Detect Breast Cancer",
-      "excerpt": "The study found that AI-supported screening found 20% more cancers as compared to the standard review by physicians who did not use AI. AI-supported screening did not increase the number of false positives, meaning it did incorrectly diagnose mammograms as abnormal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
-      "originalUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d17ec3930cd4cc47034c6b/0x0.jpg?format=jpg&crop=1730,974,x0,y149,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miriamknoll/2023/08/10/new-study-shows-how-ai-can-help-detect-breast-cancer/amp/",
-      "publishedDateTime": "2023-08-10T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-08-03-its-time-for-all-companiesand-their-employeesto-start-experimenting-with-ai.md",
+      "title": "It’s Time For All Companies—And Their Employees—To Start Experimenting With AI",
+      "excerpt": "AI makes us all more productive by augmenting, enlightening or curating tasks that once took hours and iterations but can now be finalized in seconds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbc8b9d3dc8e7757960eac/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
+      "publishedDateTime": "2023-08-03T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker.md",
       "title": "Scale training and inference of thousands of ML models with Amazon SageMaker",
       "excerpt": "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits",
@@ -1121,40 +1172,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029.md",
-      "title": "Artificial Intelligence In Healthcare Sector Market Status and Outlook 2023-2029",
-      "excerpt": "The Artificial Intelligence In Healthcare Sector market report highlights information regarding the current and future industry trends, growth patterns, as well as it offers business strategies to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

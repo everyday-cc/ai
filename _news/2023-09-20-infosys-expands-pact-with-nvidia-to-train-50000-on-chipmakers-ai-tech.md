@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infos
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
 type: article
 quality: 73
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
+    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
+    publishedDateTime: 2023-09-22T00:43:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
     excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
     publishedDateTime: 2023-09-20T18:46:00Z

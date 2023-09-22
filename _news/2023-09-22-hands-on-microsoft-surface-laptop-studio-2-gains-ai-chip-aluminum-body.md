@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hands On: Microsoft Surface Laptop Studio 2 Gains AI Chip, Aluminum Body"
-excerpt: "In addition to the aforementioned GPU options and the Movidius AI accelerator, the Surface Laptop Studio 2’s base version will come with an Intel Core i7-13700H processor (the same CPU comes in all variants, though commercial models get the security ..."
-publishedDateTime: 2023-09-21T23:55:00Z
-originalUrl: "https://au.pcmag.com/laptops/101759/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
-webUrl: "https://au.pcmag.com/laptops/101759/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
+excerpt: "A fancy new chassis, amped-up Nvidia graphics, and Intel’s Movidius neural processor are the top tweaks in the 2023 Surface flagship laptop. We got in some time with Microsoft’s flip-and-fold dynamo. I have been a technology journalist for almost 30 ..."
+publishedDateTime: 2023-09-21T23:46:00Z
+originalUrl: "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
+webUrl: "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
 type: article
 quality: 100
 heat: -1
@@ -24,9 +24,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/h/hands-on-m/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-alu_3bts.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/00mYlhNHZaaNHeKrpsoiXN8-1.fit_lim.size_1200x630.v1695337204.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -555,6 +555,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "K+9TBtVGnhfbLhpArrOtzzZtXRGMBiOM1VQssGry5dO7TdP9R0Dmm0ISvdEv3du57tjle9R0Fma6lOINPdzXpTdKfBXY1JpGODhuPtNAngmzyY3S6NPQ/R+F7w6Zx4SrcP6avJympr5xfj3zpR3OHIw/YLFNTm+JlVykpOczp4tBhjY5KbvN4IW1LeztGFOusK+IPgkqZUN/bZjC72wSZl+foPC8EbJkifXJv4mqWfTo57awWQ3fGJIy5zc6UOz0HG0/5LBlTzl9Pn/8i3dfh52+PBlhxeceJg2NDp8N9kPfT/R1MsKYeQ/ZZSL1x1CJTvQ6yih97pI5oOvQXATf+jTwUNYA6L5c2nmU8Xa0Qko=;SAQ8l+DPw4h1zUUmxXfY9g=="
+secured: "36WkGdMul+QHqSbKKG2jcZl6QJC5QhsHrWKux6/mh9SFjjvCWFrp7LfdzGRcsY/W6e2TyeJvdwYULFXjR79hhmG7mLrC/EdblMJGzFf08HU8VoJg/pa/IDzB6iDyHUaWjYDIUaro5UPOl7IZRc2/RfSnvrAjifAQ/f1R7ROzVGx5ppZpjGpTz9JeCzIDLu1CLhzbXNuLxJLKxRbWwSYBGwom8cTVQ+42mq3Abdgcea75cK3EmBD5DkUCBqK5QJ0YuNbKLLO847LzTIXV4o8W0cp9R3emA0IPLMsBxrjdjPTeg+kS8Ci5VbyRCl9L1v0lpkmjnouYcGNCQ4gOkL2cc0Dm4vYn+Wo7fkLA19bFZ78=;VLYXWohJwEDWUkQXhAARDQ=="
 ---
 

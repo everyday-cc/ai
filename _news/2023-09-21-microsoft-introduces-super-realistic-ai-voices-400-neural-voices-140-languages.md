@@ -122,18 +122,18 @@ related:
         height: 2000
         isCached: true
   - title: "Hands On: Microsoft Surface Laptop Studio 2 Gains AI Chip, Aluminum Body"
-    excerpt: "In addition to the aforementioned GPU options and the Movidius AI accelerator, the Surface Laptop Studio 2’s base version will come with an Intel Core i7-13700H processor (the same CPU comes in all variants, though commercial models get the security ..."
-    publishedDateTime: 2023-09-21T23:55:00Z
-    webUrl: "https://au.pcmag.com/laptops/101759/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
+    excerpt: "A fancy new chassis, amped-up Nvidia graphics, and Intel’s Movidius neural processor are the top tweaks in the 2023 Surface flagship laptop. We got in some time with Microsoft’s flip-and-fold dynamo. I have been a technology journalist for almost 30 ..."
+    publishedDateTime: 2023-09-21T23:46:00Z
+    webUrl: "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 100
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/h/hands-on-m/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-alu_3bts.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/00mYlhNHZaaNHeKrpsoiXN8-1.fit_lim.size_1200x630.v1695337204.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "I went hands-on with Microsoft's new AI features, and these 5 are the most useful"
     excerpt: "Here are the new Microsoft AI features that will likely make it into my own daily workflows. At Microsoft's annual fall event, the company unveiled major AI products such as Copilot, an updated Windows 11, and Microsoft 365 Chat that are all capable of doing many different tasks, almost too many to keep track of."

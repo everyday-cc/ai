@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-09-13-google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event.md",
+      "title": "Google Provides More Details On Its Cloud Generative AI Play At Next Event",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into the announcements about generative AI and other developments from the recent Google Cloud Next event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6500d13862dfb07c0e5e700f/0x0.jpg?format=jpg&width=1200",
+          "width": 902,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
+      "publishedDateTime": "2023-09-12T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-ai-technology-is-now-fixing-smiles.md",
       "title": "AI Technology Is Now Fixing Smiles",
       "excerpt": "So, for instance, our AI takes in your radiographs, and it points out the radiographic bone loss you have in other diseases, which helps the dentist to not miss it.\" To stay updated with top startup news & investments, sign up for Benzinga's Startup ...",
@@ -1154,49 +1207,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions.md",
-      "title": "Parle Products extends collaboration with IBM over cloud and AI solutions",
-      "excerpt": "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "publishedDateTime": "2023-09-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

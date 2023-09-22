@@ -62,6 +62,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 38
+  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
+    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
+    publishedDateTime: 2023-09-22T00:43:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "NVIDIA to train 50,000 Infosys employees in AI technologies"
     excerpt: "Bengaluru: NVIDIA has announced its third significant collaboration in India this month, joining forces with leading IT firm Infosys to drive productivity improvements through generative AI applications and solutions for enterprises,"
     publishedDateTime: 2023-09-20T17:59:00Z

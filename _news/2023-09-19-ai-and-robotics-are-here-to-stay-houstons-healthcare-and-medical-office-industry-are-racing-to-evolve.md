@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare
 webUrl: "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 817
     isCached: true
+
+related:
+  - title: "The Security Industry Shifts to Navigate the Integration of AI, Drones, and Robotics"
+    excerpt: "Explore the integration of AI, drones, and robotics in the security industry with William Plante during GSX 2023."
+    publishedDateTime: 2023-09-22T01:03:00Z
+    webUrl: "https://marketscale.com/industries/business-services/security-industry-ai-drones-robotics/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 59
 
 secured: "LL7vzOLFJBzwTfS8vc5hEJ/IpF9oXIcRP8B8uQB2T8fwfIVG5taMGJx+GE71mfOEaWxgXGTCXWYjJmEYBHgonMLUuiewz0A+EePkXGx0CJUtzwVaFOhC5wzLG7zMFg+kzB6F8SsBL3hzU5ItkTu8vqLwn6BSn3X54gYWO18iJ6YMveUvDifxnpEENX7X+lyTk/gJHCjPPgrugXxy2RVyqbuIjQ9we55qTDOy5Jj0ItLzgZr95pCJFuUomoK/w3RXUaGY3jeBhTgpEb9/eoQwZYUCAV43wug5OiimCimsBaY4fQJUbbj1u2VxoqrB7FE7KJVQ+2rWXmOXNKSO1kO3oS4tWWGxiI+qZuH3MebfB9RIFbfw4/ei4Wd2V2XqO3BvTS0UHTByXDAiMkaPK8xWkYAU5OWADpzaFtskKuI+8a6MsiQoeP4b90ZmX4zU/aXOiPs0zNmGgRTa6gsmAZN1fM3qy+lnx1mYlBLSnPMiaj0UopRvoUwfejBlNjWBT8NODtjFqhL6qIIBplrfuONNag==;FNigePOFutOb4HVrL3g3kA=="
 ---

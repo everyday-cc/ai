@@ -77,20 +77,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "With self-driving cars, it's the ethics we have to navigate"
-    excerpt: "The decision to allow self-driving cars may usher in a new era of transportation ... vehicles illustrate many of the ethical questions raised by the impact of artificial intelligence on everyday life. In a time of both misinformation and too much ..."
-    publishedDateTime: 2023-09-17T08:24:00Z
-    webUrl: "https://www.japantimes.co.jp/commentary/2023/09/17/world/self-driving-cars-ai-ethics/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 41
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/17/251977.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Was The Self Driving Car Invented In The 1980s?"
     excerpt: "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ..."
     publishedDateTime: 2023-09-18T00:00:00Z

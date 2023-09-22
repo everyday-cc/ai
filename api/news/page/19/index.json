@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-09-07-enable-pod-based-gpu-metrics-in-amazon-cloudwatch.md",
+      "title": "Enable pod-based GPU metrics in Amazon CloudWatch",
+      "excerpt": "This post details how to set up container-based GPU metrics and provides an example of collecting these metrics from EKS pods.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T11:14:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-can-empathy-boost-customer-service-levels-in-banking.md",
       "title": "Can Empathy Boost Customer Service Levels In Banking?",
       "excerpt": "While empathy in banking isn’t new and it has been benefitting financial ... engagement and better service levels in banking. In fact, new tech – cloud platforms and new data tools like Artificial Intelligence and Machine Learning are empowering ...",
@@ -1129,57 +1173,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-meet-generative-ais-super-users-70-of-gen-z-use-genai.md",
-      "title": "Meet generative AI's 'super users': 70% of Gen Z use GenAI",
-      "excerpt": "Gen Z and Millenials are generative AI's \"super users,\" or users who use the technology frequently and believe that they are close to mastering it. Almost half (48%) of Gen Z believe they are on their way to mastering the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "originalUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/474efc9bfad8c3d8a9d90f6d09c8677405713299/2023/09/07/71f4bcfe-1d17-4eb6-a88c-3b0c8c028e32/gettyimages-1359131910.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

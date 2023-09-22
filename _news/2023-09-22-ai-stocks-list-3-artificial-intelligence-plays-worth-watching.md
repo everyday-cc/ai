@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-21T23:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
 type: article
-quality: 64
-heat: 94
+quality: 66
+heat: 96
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
 related:
   - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"

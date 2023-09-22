@@ -8,8 +8,8 @@ webUrl: "https://e.vnexpress.net/news/news/vietnam-artificial-intelligence-day-2
 ampWebUrl: "https://ampe.vnexpress.net/news/news/vietnam-artificial-intelligence-day-2023-opens-4655955.html"
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-artificial-intelligence-day-2023-opens-4655955.html"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i1-english.vnecdn.net/2023/09/21/frsg-1695308836-9550-1695309001.png?w=680&h=0&q=100&dpr=2&fit=crop&s=wjm7DSKjNNJEedDD6Y7Fiw"
