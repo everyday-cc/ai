@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885712.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885712.htm"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "Tether’s Big Wager on AI Tech Through Cloud GPUs"
-    excerpt: "With the GPUs purchase, the motives have now started to become clear.  This massive purchase by Tether could potentially elevate Northern Data to become the largest cloud GPU operator in Europe, outside of industry bigwigs like Amazon and Oracle."
-    publishedDateTime: 2023-09-21T04:59:00Z
-    webUrl: "https://insidebitcoins.com/news/tethers-big-wager-on-ai-tech-through-cloud-gpus"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 54
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/09/tether_ai.png"
-        width: 675
-        height: 450
-        isCached: true
 
 secured: "1/P/VpdOw5QLw5uSdhajzLP37enZ1uUT/cif4apLZfXYPaykkqzF9Bbb3MCU99GrpUu/5zAg8orKI7T/KnUvh2V0jVP1n/jUG8rlxni36JrzFJqaKGnPDuhQAMOsHmnm4qAk1vCqOpH6dUFwfWWFcY5dJ9MewPrriG0VR3/SFGLBnmO8Fb/fnxuG542Fh3EK+BpnMWga8BlfloOkiQV8R8SYn9qiqsMc8lpm5WfG1dKg5Ah9qghAA9J+5rAoza2tmhYVJyWTUPVStGa7sPh2SXlohgKrMGNEQnjbJZFeq7blKxe8DW2drDc8dhNfQi0WH7RMm8nMkK0XForerXaxBXa+iR4ao2H6YRMeQ8DPPa8=;dWCJgu8/AkY2Xs6tL9Zh4g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     quality: 39
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/d1/5d1c2758-e4b5-58b9-b0c6-af6286e5ae6c/6509c1baa93ec.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PA state govt will prepare to start using AI in its operations"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
+    publishedDateTime: 2023-09-22T04:44:00Z
+    webUrl: "https://www.lockhaven.com/news/local-news/2023/09/pa-state-govt-will-prepare-to-start-using-ai-in-its-operations/"
+    type: article
+    provider:
+      name: Lock Haven
+      domain: lockhaven.com
+    quality: 37
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.lockhaven.com/images/2016/10/18200525/fblike.jpg"
         width: 1200
         height: 630
         isCached: true

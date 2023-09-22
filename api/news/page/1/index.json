@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-22-gpus-transformed-ai-now-theyre-here-for-quantum.md",
+      "title": "GPUs Transformed AI. Now They’re Here For Quantum.",
+      "excerpt": "While quantum hardware remains immature, companies say they found another way to put complex quantum algorithms to work: running them on the same chips used for powering artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "originalUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/09/21/600x338/im-854571_1695320625458_1695320666858.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "publishedDateTime": "2023-09-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-ai-means-new-rules-of-advancement-for-aspiring-managers.md",
       "title": "AI Means New Rules Of Advancement For Aspiring Managers",
       "excerpt": "Artificial intelligence is upending the tried-and-true rules of management — with a surprisingly non-technical bent.",
@@ -711,7 +754,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1101,58 +1144,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-japanese-researchers-say-they-used-ai-to-try-and-translate-the-noises-of-clucking-chickens-and-learn-whether-theyre-excited-hungry-or-scared.md",
-      "title": "Japanese researchers say they used AI to try and translate the noises of clucking chickens and learn whether they're excited, hungry, or scared",
-      "excerpt": "Researchers tested the system on 80 chickens for the study, which was led by a University of Tokyo professor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9",
-      "originalUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/650c309812dc4f001a177f5d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chickens-emotions-research-translation-japan-2023-9?amp",
-      "publishedDateTime": "2023-09-21T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {

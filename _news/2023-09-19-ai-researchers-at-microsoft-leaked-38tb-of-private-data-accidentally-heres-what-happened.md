@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/general/69001/ai-researchers-at-mic
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/09/19/1600x900/Europe-Microsoft-Investigation-0_1694134466952_1695122693587.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Microsoft AI Team Accidentally Leaks 38TB of Confidential Corporate Data"
+    excerpt: "Microsoft AI team's inadvertent 38TB data exposure raises major security concerns, spotlight on tech giant's safeguards"
+    publishedDateTime: 2023-09-22T05:01:00Z
+    webUrl: "https://techstory.in/microsoft-ai-team-accidentally-leaks-38tb-of-confidential-corporate-data/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/Facebook_Logo_2019-360x240.png"
+        width: 360
+        height: 240
         isCached: true
   - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
     excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"

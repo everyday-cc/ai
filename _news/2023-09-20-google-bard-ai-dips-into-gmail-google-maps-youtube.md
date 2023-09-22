@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-ma
 webUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube launches a simple video editing app with cool AI tricks"
+    excerpt: "YouTube is taking aim at apps like CapCut with its new YouTube Create app, offering a video editor with AI-powered features."
+    publishedDateTime: 2023-09-22T05:53:00Z
+    webUrl: "https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/YouTube-Create-splash-screen.jpg"
+        width: 1147
+        height: 645
+        isCached: true
   - title: "YouTube to Introduce Generative AI Feature Dream Screen"
     excerpt: "YouTube has unveiled a suite of creator-focused products and features, including the generative artificial intelligence tool Dream Screen for Shorts, its short-form videos that compete with TikTok and Instagram Reels."
     publishedDateTime: 2023-09-21T21:34:00Z

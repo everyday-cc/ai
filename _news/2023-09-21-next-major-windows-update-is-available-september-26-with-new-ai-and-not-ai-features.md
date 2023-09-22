@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6508752e787e58e7f22250b8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 712
+        isCached: true
+  - title: "Artificial Intelligence (AI) and God"
+    excerpt: "Artificial Intelligence is taking the world by storm leaving some awestruck and others terrified. While many have begun to utilize the rapidly developing technology in a myriad of ways, among the many concerns some have, believe it or not, is a fear that ..."
+    publishedDateTime: 2023-09-22T04:08:00Z
+    webUrl: "https://www.jewishpress.com/judaism/artificial-intelligence-ai-and-god/2023/09/22/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 52
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Ari-Fuld-at-Kotel-2.jpg"
+        width: 661
+        height: 422
         isCached: true
 
 secured: "S0uB3SOupJX2RhJBceNRr6xLYjdbwX/e72lc0rAeaBUWTAvqn1Bwsl1vVqYsDBcMoURsaG2kMO7g9/d/avGfPapI0NrCYwFQle1ynBmcmnTSewIoh3Z2HVEab/TYn7NneCN0Hg4hIAs46pirgKexgmS1MF1rZAqfii+a1cC2Rmjugdlbz5c8rwGKdHUf5KGS7BM0jrs8BgjPLfagcmSEnUyQU3P4HOsiPp6a7eZFozYHpV49b7XxJnhQ5R4q+EPvHRGW6A4jYAqLJYPFmYlkW1qouzF8uoxkqh1ROOTJNcRVqCzbI+YCNLOnBc9TDDaCg0keTn9GFKr4yGbJ8W7+gSc3/W6z4Z0IhfGQhdZ14ZA=;3nz/FJFl3JwMIDFmRUCAbw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/chan-zuckerberg-initiat
 webUrl: "https://www.datacenterdynamics.com/en/news/chan-zuckerberg-initiative-to-build-1000-gpu-cluster-for-biomedical-ai-research/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "CZI to Build Massive GPU Cluster for Decoding Biology with AI"
+    excerpt: "On September 19, 2023, CZI announced the funding and creation of one of the largest computing systems dedicated to nonprofit life science research in the world, which is planned to comprise 1,000+ GPUs and will enable artificial intelligence (AI ..."
+    publishedDateTime: 2023-09-22T03:17:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/czi-to-build-massive-gpu-cluster-for-decoding-biology-with-ai/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 34
   - title: "The Chan Zuckerberg Initiative Is Building a Powerful Computing Cluster to Fight Disease With AI"
     excerpt: "The Chan Zuckerberg Initiative announced yesterday (Sept. 19) that it will fund the creation of a 1,000-GPU-strong high-performance computing cluster that will enable A.I.-powered biomedical research on a massive scale. Priscilla Chan and Mark Zuckerberg ..."
     publishedDateTime: 2023-09-20T19:37:00Z

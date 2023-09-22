@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-22-gpus-transformed-ai-now-theyre-here-for-quantum.md",
+      "title": "GPUs Transformed AI. Now They’re Here For Quantum.",
+      "excerpt": "While quantum hardware remains immature, companies say they found another way to put complex quantum algorithms to work: running them on the same chips used for powering artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "originalUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/09/21/600x338/im-854571_1695320625458_1695320666858.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "publishedDateTime": "2023-09-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-intel-fills-the-gap-in-chinas-ai-chip-market-amid-us-export-restrictions.md",
       "title": "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions",
       "excerpt": "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors",
@@ -1399,50 +1442,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-3-reddit-approved-ai-stocks-for-your-buy-list.md",
-      "title": "3 Reddit-Approved AI Stocks for Your Buy-List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-reddit-approved-ai-stocks-for-your-buy-list-1032622401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

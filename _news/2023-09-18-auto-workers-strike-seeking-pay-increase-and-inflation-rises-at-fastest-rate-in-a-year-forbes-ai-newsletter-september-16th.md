@@ -46,6 +46,20 @@ related:
         width: 980
         height: 613
         isCached: true
+  - title: "Artificial Intelligence (AI) and God"
+    excerpt: "Artificial Intelligence is taking the world by storm leaving some awestruck and others terrified. While many have begun to utilize the rapidly developing technology in a myriad of ways, among the many concerns some have, believe it or not, is a fear that ..."
+    publishedDateTime: 2023-09-22T04:08:00Z
+    webUrl: "https://www.jewishpress.com/judaism/artificial-intelligence-ai-and-god/2023/09/22/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 52
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Ari-Fuld-at-Kotel-2.jpg"
+        width: 661
+        height: 422
+        isCached: true
 
 secured: "4BR1ZMR1ZVoBLC6O5E3CyI2ojwK04HHS6KLK+AZmRJ/TiNk7kHlh+zYx6fIhbdfyvZ37BOwNCBGDunYCSdWlmhjTT/Vdssxev4wwNIE30sidIPTI9OxkqmzU/8BL0x7Cah0BwWt+O4jj7jtxKbeZrFTkstWBhCLxKqkArrkPYkWsCQpFDpBya2m6Ig9E/kEvAmn/RYSsawvSyNkSY70lM8FLKIy0Evw7huSkq5NigUpEwiOhgPnndwCW8bU/jHlzPh4ZAKum3xfJatPwyaIPDS1D9tfoBWcyDH2ebKO5BuqnqI6MwcqbIdTiKs/XCDQN5pV7ptp8quJX9jnwllyR4if0xa5zIr3nOQ+qNm8i6Qc=;yEdVqSTkF9WSyG7ZJxYcUw=="
 ---

@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Record Numbers of Australians Enrol for Referendum on Indigenous Recognition"
+    excerpt: "A record 97.7% of eligible Australians have enrolled to vote in the referendum, the Australian Election Commission (AEC) said in a statement late on Thursday."
+    publishedDateTime: 2023-09-22T05:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2023-09-22/record-numbers-of-australians-enrol-for-referendum-on-indigenous-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
   - title: "Shadow Minister for Indigenous Australians - Speech - National Press Club"
     excerpt: "Today is the first time I have addressed the Press Club as the Shadow Minister for Indigenous Australians.It is the second time I have been given the opportunity to address the National Press Club.The first was in November of 2016 when I stood alongside Marcia Langton and Josephine Cashman to address the critical issue of family violence and sexual abuse in Aboriginal communities."
     publishedDateTime: 2023-09-18T04:44:00Z

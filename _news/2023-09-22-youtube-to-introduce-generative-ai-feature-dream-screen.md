@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "YouTube launches a simple video editing app with cool AI tricks"
+    excerpt: "YouTube is taking aim at apps like CapCut with its new YouTube Create app, offering a video editor with AI-powered features."
+    publishedDateTime: 2023-09-22T05:53:00Z
+    webUrl: "https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/YouTube-Create-splash-screen.jpg"
+        width: 1147
+        height: 645
+        isCached: true
   - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
     excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
     publishedDateTime: 2023-09-19T12:00:00Z

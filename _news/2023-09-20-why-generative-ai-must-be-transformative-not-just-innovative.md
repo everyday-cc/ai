@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 902
         isCached: true
+  - title: "Generative AI Is Breathing New Life Into Classic Computer Games"
+    excerpt: "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models."
+    publishedDateTime: 2023-09-22T05:31:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Taking generative AI from experiments to high-impact production"
     excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
     publishedDateTime: 2023-09-18T14:34:00Z
@@ -121,20 +137,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Health care and AI can be effective partners"
-    excerpt: "The Daily Item hits on part three of its ongoing series looking at the benefits and concerns of artificial intelligence. This time, we take a first look at AI’s"
-    publishedDateTime: 2023-09-17T12:59:00Z
-    webUrl: "https://www.dailyitem.com/opinion/health-care-and-ai-can-be-effective-partners/article_527db4c2-5320-11ee-8ab8-9706b6e44581.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "Amazon joins the chorus of companies adding generative AI to products"
     excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"

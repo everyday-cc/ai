@@ -2,17 +2,17 @@
 category: news
 title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
 excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-publishedDateTime: 2023-09-20T04:26:00Z
-originalUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
-webUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+publishedDateTime: 2023-09-20T03:26:00Z
+originalUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+webUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Autos
@@ -100,6 +100,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "HzdY3Cqk2I2UMcw3gfVLyXgLITsMmr4cw+1+7bDkeJJKP+WpfcWQ9OIGg3YAfAsjwkIF7MwYfgKL+/n7sq+EYJv/gaTT6IjI5N9irBUK/yRYb4p2ZsCIqm04PbmsxBE5m1FkKNZe3OO2FXeOExyVYkJQOUaTl6dloXYbzko4C7ZNkAn1Y3/GppLkk7WD7QeBRsUiyJ8hRJ1l+A6QqB3GSz2xENsVS+AA3liGN1cxtxb5lzp0+gb5d+8JO0vgK394qFCErpFuWRtnPHo8d7dh/Ke4IaUTJROfuQeiRV11L7WJ9cWXNuN3wqsCfqIphhL0Bblxw29EP7DQrEjQ/hc4du0PUJyhHm1xVEsZg4MKwz5CtUK8IRudwrGN3zZ3OEAm+1gAOzamqxPQplCEjmlICRPLldBr8AosD/4WSFtgssI3TWd//0jcaLMhzxjbRsbA6pSbZesaqwdAkoVVMvae+jZtWCBjmVfewxTVRuBffliLjRCfHHQKucEu8viDlTsagGokrphdmvHRKIinXq41aA==;0gGuGhqPPdO8NqoH7w8GXQ=="
+secured: "esOu7Io8lb6leQk9Pn/727ZucmeyDgKxB9w5PtRj8mmYEUpUSpwEGVxbbEEuUoDwvWQP+kOS7GtVvzAh7VnfGdlThyzQgwKx7ZXpIEDZZtRu+2/kdco5B1S9BhqHVR7XfqRYKzrkQv3h9PnxH7wGbtyqvVQBGSoPkn/by59+MzFDL2pQwQabAv4EBuYqdP6oHx9A0G7PGNPJqMuzelgMyMAySFq6ytNGBGcyzIAdYHdPHC5D6WckGOekuLlFEexVruqD01N7q7xj5o/0Vdaf1Z8m15+HJZUmTbcUxeD/S4CdbOOWn12on8ZwGSAGbivh1UjwEIiJPg+3mIf4+zJ2cGXCOP4A4smpIH5TgxyUv9WgCwR8ZS0T8WBB+SwbeDbf5AWa8hSpPZgIMQ6QzyusqkC08FNZu7pZsNYovjNXNhmelUMIgOqCffDtM+v8fXuDa1uAI4FwvBIhZLX2XNzju9AIFZop1Z2Y7yIFIjvLrcmmZtbcUeggSs7wtea90tC33d6sIPqmzPYzIEIS6v7efQ==;EQm40abIliDffXYTKIVeDQ=="
 ---
 

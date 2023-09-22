@@ -21,7 +21,7 @@ related:
   - title: "Side-Hustling Could Soon Become $1.4 Trillion Industry Spurred by Artificial Intelligence"
     excerpt: "According to a recent survey from LendingClub and PYMNTS.com, around 50% of Americans have a side hustle, or some other form of income-producing activity. That’s even amongst those who are"
     publishedDateTime: 2023-09-21T13:45:00Z
-    webUrl: "https://www.stltoday.com/video_f01d6002-89ed-5411-92d8-6ae336b40b23.html"
+    webUrl: "https://www.stltoday.com/life-entertainment/video_f01d6002-89ed-5411-92d8-6ae336b40b23.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Microsoft AI Team Accidentally Leaks 38TB of Confidential Corporate Data"
+    excerpt: "Microsoft AI team's inadvertent 38TB data exposure raises major security concerns, spotlight on tech giant's safeguards"
+    publishedDateTime: 2023-09-22T05:01:00Z
+    webUrl: "https://techstory.in/microsoft-ai-team-accidentally-leaks-38tb-of-confidential-corporate-data/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/Facebook_Logo_2019-360x240.png"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
     excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
     publishedDateTime: 2023-09-19T04:06:00Z

@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft AI Team Accidentally Leaks 38TB of Confidential Corporate Data"
+    excerpt: "Microsoft AI team's inadvertent 38TB data exposure raises major security concerns, spotlight on tech giant's safeguards"
+    publishedDateTime: 2023-09-22T05:01:00Z
+    webUrl: "https://techstory.in/microsoft-ai-team-accidentally-leaks-38tb-of-confidential-corporate-data/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/09/Facebook_Logo_2019-360x240.png"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Misconfigured SAS token by Microsoft’s AI team exposes 38TB of GitHub data"
     excerpt: "While not technically exposed to the public, security researchers at Wiz say the lack of monitoring available for SAS tokens poses a security risk."
     publishedDateTime: 2023-09-18T18:40:00Z

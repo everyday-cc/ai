@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-
 webUrl: "https://www.cnbc.com/2023/09/17/chinas-ai-applications-are-coming-where-it-matters-for-monetization.html"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Building autonomous AI Agents and potential applications"
-    excerpt: "The script then uses OpenAI’s natural language processing (NLP) capabilities to create new tasks based on the objective, and Chroma/Weaviate to store and retrieve task results for context. “ Autonomous AI agents are essentially self-governing entities ..."
-    publishedDateTime: 2023-09-17T11:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/building-ai-agents/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "RPf18jZI/5k5zEXnjWt1Eh02YfLIUHFttZ5Fr6zOmE4S+Nx13QfLLVMTBVNtgQ/GQlA7TkEOrGEVP9aHXcv6mF4jN1JUy9SPr0zANARyFC7hit3pBzAy+YD/X1JYkBQIj1kJiH2chkCb5oKAV1A1IhYG7FVpXnZVwrljDJI2oeh1S9EZ7qf9FLPX+S0cMO4vuYaxdFGWpDA8ITOHVucPBF5V0c/JwoRw764dLGgsjCbMDAk5X8W7ZLYMss8H+ioBAY38LtYKSGhCsQ19MAn3s+ewBX/70gL+3cOoTS6LllBp4ftTLouGcOm9kI5jLW+FlkxJwcRM/ccu/QwXR6gIHG2qJEgWtUJ+K7UpmVSAQVRxrku77McXkyNy57Eu4hLRNmJbKqTWXxdSDtcVh8l//b6BEJRH94Y3R7mZcCwA7Xjr/mF3Zc4EVzEGVKQPK2ODlBHg+gu+FVjZQhYZLTPeRvzP8AjYDUWCitX8CkemdNpAIlsx+MmlfwmszJ4OPIVj73QcrbqquMxcEq0SN972LA==;F/kxqmFmW/XmTrvvxIupgA=="
 ---

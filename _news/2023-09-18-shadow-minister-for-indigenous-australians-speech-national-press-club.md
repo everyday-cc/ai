@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Record Numbers of Australians Enrol for Referendum on Indigenous Recognition"
+    excerpt: "A record 97.7% of eligible Australians have enrolled to vote in the referendum, the Australian Election Commission (AEC) said in a statement late on Thursday."
+    publishedDateTime: 2023-09-22T05:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2023-09-22/record-numbers-of-australians-enrol-for-referendum-on-indigenous-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
   - title: "No, the Voice to Parliament would not force people to give up their private land"
     excerpt: "The proposed constitutional amendment that would create the Voice is very simple. It seeks to insert one new section into the Constitution, which reads: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia ..."
     publishedDateTime: 2023-09-17T20:02:00Z

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "CZI to Build Massive GPU Cluster for Decoding Biology with AI"
+    excerpt: "On September 19, 2023, CZI announced the funding and creation of one of the largest computing systems dedicated to nonprofit life science research in the world, which is planned to comprise 1,000+ GPUs and will enable artificial intelligence (AI ..."
+    publishedDateTime: 2023-09-22T03:17:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/czi-to-build-massive-gpu-cluster-for-decoding-biology-with-ai/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 34
   - title: "Chan Zuckerberg Initiative to build 1,000+ GPU cluster for biomedical AI research"
     excerpt: "The Chan Zuckerberg Initiative (CZI) plans to deploy a 1,000+ Nvidia H100 GPU high-performance computing cluster to develop large language models and other artificial intelligence models for biomedicine."
     publishedDateTime: 2023-09-20T16:01:00Z

@@ -67,15 +67,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Building autonomous AI Agents and potential applications"
-    excerpt: "The script then uses OpenAI’s natural language processing (NLP) capabilities to create new tasks based on the objective, and Chroma/Weaviate to store and retrieve task results for context. “ Autonomous AI agents are essentially self-governing entities ..."
-    publishedDateTime: 2023-09-17T11:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/building-ai-agents/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "qxSt/+uzJy41TuC8kgCViZNHrZdL2VVOvnri/VtxdrI5pb0LDjRP86J4+Oe2bGj78C8xESxR2hsfFFgYf6/UnbxvjeKl8RV7oeJ8wF9Ha30fvRBqrkDaX3RD0vEtf0jnolyMCs7UDUWIx1BA9HEhpmdKmzyYotC6/1qJKjorvXFlRnU1fmGpLQQIC/6jbmjqOrgnquV/RaJx4mBy8WlEQrFrZVCShzK4Bh3XWiHnohgg+/yeNNOsnezSWbt7dhwN6TkEL04I7eb1Ojbkq+xVELBIL7u+SScKPYFlqbxvywIxZ/FZckScfEpkhiTzpsUoimeGXW+Mze4jmfNHcSDNJxKuUCd4yhy3+Ktq9PUDHEo=;aOegClPuh/VMiHdROipB6g=="
 ---

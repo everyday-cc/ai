@@ -92,12 +92,12 @@ related:
     quality: 4
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
     excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-    publishedDateTime: 2023-09-20T04:26:00Z
-    webUrl: "https://www.houstonchronicle.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+    publishedDateTime: 2023-09-20T03:26:00Z
+    webUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Times Union
+      domain: timesunion.com
     quality: 0
 
 secured: "sCgJaqtvdR0en3CGOF8IIbPeNlM3q0a3HBkeqFTqM3h63qhC/slkISZbkoJYzY6IDx6OmPSXaiO9UeATFlOLcqSHsjLkgyoA1p7mp13erO7r/phjlhHnLOx+yk+/jqxOG/CkGjpP2swt/4tx5RZ6wnFU/ELUuCecdl5bY36skYaJMa4hEdUm1wY/jm0wFO7vyiD7drbr2agQeqKz7vwm31yT44tPyOOI7iZ1F+iNCDvcqy30B3QK5awen3q3nsMiv4xn83pnNkkzWQ0VkhWlxEUzpXo1PXMe+j8u+U/p51TYopRjC72saQZeYKvE6t4U6qU72sg+PPNk8VAFW1J2qMisZLFjc7oI052vGQkaFOvfExogpUgo7GrNSDvFgVy6Cth9iwE32udhyfGQCOjS8QPv12SFJ+0XwrLajQZoGIQpZx94Zz9k4EXTSkBOc3Vic4eynh2/9pzbQKCd+4HMwfp1WYqf1COOoIyWcL0MF0hh5odl5UyHihVU9iqD+StdLV3hk1dSgalnqFWOpM4oIg==;a3WtQUtli+6LWK2Il9nAIQ=="

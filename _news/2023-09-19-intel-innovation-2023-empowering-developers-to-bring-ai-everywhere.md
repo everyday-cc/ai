@@ -91,6 +91,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "PA state govt will prepare to start using AI in its operations"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
+    publishedDateTime: 2023-09-22T04:44:00Z
+    webUrl: "https://www.lockhaven.com/news/local-news/2023/09/pa-state-govt-will-prepare-to-start-using-ai-in-its-operations/"
+    type: article
+    provider:
+      name: Lock Haven
+      domain: lockhaven.com
+    quality: 37
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.lockhaven.com/images/2016/10/18200525/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How COMPASS Pathways Is Leveraging AI To Revolutionize The Mental Healthcare Space"
     excerpt: "Artificial Intelligence (AI) is rapidly penetrating a number of different sectors, including healthcare. The use of AI in mental health has opened up the possibility of new avenues of care, potentially allowing for more efficient diagnosis,"
     publishedDateTime: 2023-09-21T11:37:00Z
