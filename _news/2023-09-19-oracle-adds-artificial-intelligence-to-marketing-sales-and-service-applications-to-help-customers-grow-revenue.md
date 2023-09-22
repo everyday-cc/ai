@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
+    excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
+    publishedDateTime: 2023-09-22T09:23:00Z
+    webUrl: "https://www.techzine.eu/news/applications/111562/salesforce-acquires-airkit-ai-a-low-code-platform-to-build-chatbots/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
   - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
     excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
     publishedDateTime: 2023-09-21T18:00:00Z

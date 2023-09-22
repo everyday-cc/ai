@@ -104,6 +104,15 @@ related:
         width: 790
         height: 497
         isCached: true
+  - title: "DALLE 3 AI art generator integrated into Bing Image Creator"
+    excerpt: "Microsoft is set to integrate the latest DALL.E 3 model from OpenAI into its Bing Image Creator, marking a significant step forward in the realm of AI-powered image generation ... DALLE 3is currently in a research preview development stage and will ..."
+    publishedDateTime: 2023-09-22T08:42:00Z
+    webUrl: "https://www.geeky-gadgets.com/dalle-3-bing-image-creator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "FKLjrLug5tfz5h3nO59K6R/apExmd3C5KjJbS07BYEYRc0EQMZQHbXz/SMO6ACB8PuGcXH6UsGcicy8N+uR3qaIqXYIzKrd1tBnuphws/7TFbRgf0TrvLBtPfAC+kIDhGMND6TuKcbzTfZbzmu+epckWGWsjLYV7G7+n8RK1hzjhh4WCCN6+DKbIv8wAeBS3imE2c3oBfcYTStFuuie4GR06eHHW7GRO/IydvORPMdZDAaSQbiXTv+g/N2uVTtEIjzLIbzpdco+yFJa57rYoC67UYonj8txof2zD/KjB7XEz84nNWahvpeqff/3zfDD00Mw7WUE2umnVBT6adJoDwPXL/4HmM+FAhtHn7+VQIp4=;1UUyLcIqBcgD/OTKzvH7kQ=="
 ---

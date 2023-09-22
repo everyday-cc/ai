@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 790
         height: 497
         isCached: true
+  - title: "DALLE 3 AI art generator integrated into Bing Image Creator"
+    excerpt: "Microsoft is set to integrate the latest DALL.E 3 model from OpenAI into its Bing Image Creator, marking a significant step forward in the realm of AI-powered image generation ... DALLE 3is currently in a research preview development stage and will ..."
+    publishedDateTime: 2023-09-22T08:42:00Z
+    webUrl: "https://www.geeky-gadgets.com/dalle-3-bing-image-creator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "JknroLWN5/ZS8EZnEgEuOml/IumQ7tKTW0FjPqH75RnZ/93Le0cd8xq9L4XtNBdENIj+JlWQY/e5dtMDXStIHSWuyOW4HQVPXpzvvT11IWBhiBTlU4aTFn+f1+XsQpkND0PWDUs2toJuLR7YUm3U4L1+kqZCzdn8sZJoGvzm1L6tM85uHt3bDX8YlEDpNh+tRvX43OTv1/PFR/25SEQ9JGhEzxtR2KRJkvLwNEgWR8USsN5kY60Dhgoz0hZGRER2Raq2bUDiQ3twzVI0l75sEOtxnN5fCE7gLjJc+8w9ZT6nWodMAydZgVD25boONgEVioyvpkAuAiiJDxeoSpfNNMSpFUWczLfkzVExxZSJP0g=;gRKD201s6ifz+9Sf3qpgqg=="
 ---

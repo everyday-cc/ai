@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-fi
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -63,6 +63,29 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
+  - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-saas-startup-perfios-acquires-the-open-finance-platform-fegoai-nid-225521-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+  - title: "Chinese tech firm Zhipu AI reportedly acquires AI startup Ling Xin Intelligence"
+    excerpt: "Chinese AI startup Ling Xin Intelligence, founded by a professor from Tsinghua University, has been fully acquired by technology company Zhipu AI,"
+    publishedDateTime: 2023-09-22T09:28:00Z
+    webUrl: "https://technode.com/2023/09/22/chinese-tech-firm-zhipu-ai-reportedly-acquires-ai-startup-ling-xin-intelligence/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/09/c6a3a065131bf814d88545ff81fbee03.png"
+        width: 1080
+        height: 818
+        isCached: true
 
 secured: "sugYYfYF98rAWz3YN7I9rLxq3ePwYyAfWyAPo2XZAMsqccOKVWMHcxM+JerI/3sRBXz2BT2y2R5uque6PnP2yCSjDb8iq0lz2/mAqFKDrlYUIyvx9Timw26yqfKvw3Em2FkNKUULgDGrVc9l/1DF0wQFsBSJJoN9J/C+9rEM5dtm5CIPNK6pjDduxdOvGYFHGKrZHF9HYJ7pwYm3RNI1YrK0oMeuojkGTduQu+76WiLPtXYCJUHJtRGUMI84OzbocxUAgZakg01GV6qvZrlf0qwqCpeYDtWgf5b9yfl1ix/2yb7tkT4z7ZCdGJT6lTkwwmSf/T5P5nlkQD5GszQ6+eVULURqken1at9X4616FOadSPo0+cxm6SiWnSl4g9aggu6MvmWxMMnXfqNqa0Mg4CKJ1pAl8D4x1Ic5Fe0tK16r/N9pDpW9mCBzCafl5JPxScsIMOVvxsTU0JaiV7C/bcSiIQLK270kgYC+sQW2avkq9Ifa5TW+tusnWNezQtlVHRy3gf3bB/t81zAOzPSO2A==;IbUMfIOWdzi6mvAjhVhHmg=="
 ---

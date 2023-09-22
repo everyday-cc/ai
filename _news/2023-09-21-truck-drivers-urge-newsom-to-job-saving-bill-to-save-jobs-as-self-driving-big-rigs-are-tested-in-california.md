@@ -92,13 +92,13 @@ related:
       domain: dailynews.com
     quality: 4
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
-    excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-    publishedDateTime: 2023-09-20T03:26:00Z
-    webUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
+    publishedDateTime: 2023-09-19T23:25:00Z
+    webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 0
 
 secured: "SIIFHdLyZfIfDkFSZJtTS9VMo8LDyjtN7nY0gzQpmcmnXqbfY5dhGiUXayZ8NhZApi4A+JXGGpx8VVw4Vado7kumHRXWuDFoXy5SKvmcVonmRZAf0XixIFRf4yALWdzHXMDp6rbZB7tOHY6+PekrRWfHPfta7KoqszObbhVBcNeAE+4wbf5sP87mFEOVfG01diLpEPwA9wODtJzRAkOR5fx20NnAGmSBqbnc6ALp2r4MBP3DqaJNTsLpxsZb1rmkvfdRhs1PQ1tslfQ7uqvcvmLFAx1FRRe9egAzpsRyo/WptlGtZKPMBsrYofjMzw+Vy6uMn0yHtMnCSBYJtumFc/w6k59dTPl6vzmwdTStkJKqbenRpMo4ZGmRLDVsPglylTeEaDrMNxfj6THvc8409oSwaNGEX6i+vut975Y4+ePnDwtLF/uZJ1ovehaqN4icHXVDyXCeJabHtI+2wx91N97eLDaagjOf60gJvGyI4BDk0WodsqiCZkdW22Hw2C0Zttn4FmHVVGPjX46sgo2PMA==;DiukKb5cNoB4vvtumfkzSg=="

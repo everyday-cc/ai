@@ -32,6 +32,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 10
+  - title: "A Tampa cybersecurity startup surged to become a global company"
+    excerpt: "This story originally appeared in Florida Trend Magazine."
+    publishedDateTime: 2023-09-22T09:30:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/09/22/tampa-cybersecurity-startup-surged-become-global-company/"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 2
 
 secured: "a6/ajZO8Shh7GQIzH3pyH9LVbSVVYNcL1RkD2Z4JZ7iti1rX7h6VhCWswEDY0KPMWARegs34w3o2EhgA/SnmTE5ejLgXOnakviB/3o6PYlvO3YICz/CNvnbXsK7VxiLqw5oXLzmnfouLvxMoHfrhux9cEAj/BSGW2FdcwtBuzY2cP3GHcgbqEt0ncwLxXHqp2cDoy1PUvpp7ty4qEDKhwg3Rw7EC2ebYx4zxuG9fcJbiu2CEjUzAbNDlH9FfMuOeFkr/a45/yG/ZEAANky+2+sW3I1AeYXXQBj33KmyZiaZQOEYDcBzRys8AQVOmAhd15O9kgZ0EN7GbC0oSazWhTv0nuFDKmVZEE1geSa6uAAQ=;Xx7OzpHaKcUzifjCHI/D5w=="
 ---

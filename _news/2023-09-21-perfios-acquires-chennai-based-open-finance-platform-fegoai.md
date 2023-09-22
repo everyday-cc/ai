@@ -62,6 +62,29 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
+  - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-saas-startup-perfios-acquires-the-open-finance-platform-fegoai-nid-225521-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+  - title: "Chinese tech firm Zhipu AI reportedly acquires AI startup Ling Xin Intelligence"
+    excerpt: "Chinese AI startup Ling Xin Intelligence, founded by a professor from Tsinghua University, has been fully acquired by technology company Zhipu AI,"
+    publishedDateTime: 2023-09-22T09:28:00Z
+    webUrl: "https://technode.com/2023/09/22/chinese-tech-firm-zhipu-ai-reportedly-acquires-ai-startup-ling-xin-intelligence/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/09/c6a3a065131bf814d88545ff81fbee03.png"
+        width: 1080
+        height: 818
+        isCached: true
 
 secured: "IQ5gBAiLWLcfOZ3cO/lWgo/ARIPPMpz7XW5DhREdEIJTJHIYN9CLZVrDrJZEsF+mNdKmWj5NNOCvHLiLpWcN/C720jAEB/hKn6Ms0J8fjx4ZvVO97naUqx41gwFWWNmet/ZD5EUM9ZaMw5ZMbrsspipYQXx64vb7gSSWPgvM9DqJo8RD7gmF5BcAjsC8HXtwYt0P5tdK+BW7wlyVKIXlG5m1PzkOZ49wkRbDCrVS8HTQns3MSnrYNApl7izcosyJDU8sgN/tLdy8XfYblmq6JESfzkSiszc8waKzekq8/+/PduXECBsRmPc0BPiU4OAXOtCp+4o6zpSkQp6oRWtImWmUHw6jokFeCLNnxP2jeoQodKOqE6rYA6qQq1r3gSmov3SuwjCf6qrxg2UkZ95lyuyQKt5Xh57vOhTZA3lUH78chE3uvIC2G9EKq6J1Xt/qf8NZHeRfmtHYiWmKG/ArBdZmTsHVg3a6E/2GeA+3/GFoAM7rSXa6t0D6CblcbqRuZJPjxYGvTzIbxXL4QFmW1Q==;b7jeOmgykfEjofQgMJt81A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bridgemi.com/talent-education/excited-worried-michigan-t
 cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/excited-worried-michigan-teachers-wrestle-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bridge Magazine
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers in Japan translate chicken sounds with AI"
+    excerpt: "This article will explain how these researchers created a chicken AI translator. Later, I will cover similar AI programs that deal with multiple languages. Professor Adrian David Cheok and his fellow researchers claim they created an AI model to analyze ..."
+    publishedDateTime: 2023-09-22T08:53:00Z
+    webUrl: "https://technology.inquirer.net/128206/chicken-ai-translator"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 34
   - title: "Michigan schools are rethinking artificial intelligence in the classroom"
     excerpt: "In Michigan, some school districts are moving away from total bans on artificial intelligance tools such as ChatGPT. Some are even teaching it."
     publishedDateTime: 2023-09-18T03:00:00Z

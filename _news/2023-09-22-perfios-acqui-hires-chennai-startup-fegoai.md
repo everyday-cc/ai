@@ -63,6 +63,29 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
+  - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-saas-startup-perfios-acquires-the-open-finance-platform-fegoai-nid-225521-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+  - title: "Chinese tech firm Zhipu AI reportedly acquires AI startup Ling Xin Intelligence"
+    excerpt: "Chinese AI startup Ling Xin Intelligence, founded by a professor from Tsinghua University, has been fully acquired by technology company Zhipu AI,"
+    publishedDateTime: 2023-09-22T09:28:00Z
+    webUrl: "https://technode.com/2023/09/22/chinese-tech-firm-zhipu-ai-reportedly-acquires-ai-startup-ling-xin-intelligence/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/09/c6a3a065131bf814d88545ff81fbee03.png"
+        width: 1080
+        height: 818
+        isCached: true
 
 secured: "1+zYOvXVsOWtRlic+jRCr6Vkhes75jMkY6/D/TDDJQwsKq3hOZj848/V9b5s9iriSU40UBMGffnh7+F4Gn8x6nC+/JVD1ddgEsxYeqVB51drkGYJMp6AeLq0po4QDLQeV0PpcbU0b6wTV9FahGGcZscC4kRXM9J/WH6zT3w8sPG05nJ9/SfXqSyXiccvM8ebxB5L/sla9kIcJFMZcERaohAkphRVuqL5F3JbpzxYNriCiED8yfId45Bk4CiOB+YY8WvEFLpdkKIw8VvOS2FNF1PkglMfOW/ep5GGR3Bg+RU7zwwh4scw0r3UdGXxVeVl7tSKVYuxCjVOatRh5XsoCHwNdzSxKdF+RtbEH4089jY=;basBMvk3T8BBl3TH/X5UWg=="
 ---

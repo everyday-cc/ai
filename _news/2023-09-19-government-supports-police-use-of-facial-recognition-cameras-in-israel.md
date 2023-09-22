@@ -36,6 +36,20 @@ related:
       name: The Forward
       domain: forward.com
     quality: 29
+  - title: "Arab Center for the Advancement of Social Media Warns against proposed Israeli bill allowing facial recognition surveillance in public spaces"
+    excerpt: "The Arab Center for the Advancement of Social Media, 7amleh, raised the alarm over the imminent approval of a bill that grants the Israeli police the power to deploy facial recognition cameras in public spaces."
+    publishedDateTime: 2023-09-22T11:31:00Z
+    webUrl: "https://english.wafa.ps/Pages/Details/137711"
+    type: article
+    provider:
+      name: Wafa
+      domain: wafa.ps
+    quality: 19
+    images:
+      - url: "https://english.wafa.ps/image/NewsThumbImg/Small/19a96ba2-186d-4157-84fe-365ec16aa220.jpg"
+        width: 300
+        height: 290
+        isCached: true
   - title: "Israel’s Ministerial Committee Greenlights Facial Recognition Cameras in Public Spaces"
     excerpt: "The Ministerial Committee for Legislation gave preliminary approval on Monday for a bill that will legalize the use of facial recognition cameras in public places across Israel, allowing for use of the data to investigate criminal activities. The bill still needs to be approved by Israel’s parliament, the Knesset."
     publishedDateTime: 2023-09-18T19:08:00Z

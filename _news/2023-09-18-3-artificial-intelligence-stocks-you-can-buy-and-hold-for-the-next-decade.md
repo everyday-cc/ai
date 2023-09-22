@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pres
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/20336616/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 3840
     height: 2160
     isCached: true
+
+related:
+  - title: "As the built environment changes, AI and machine learning tell a more complete story"
+    excerpt: "AI-supported monitoring of the built environment is transforming communities across the country and around the world. This article will outline some of the key ways that intelligent imaging, data retrieval and AI-driven analysis can provide ongoing ..."
+    publishedDateTime: 2023-09-22T10:27:00Z
+    webUrl: "https://www.govexec.com/assets/built-environment-changes-ai-and-machine-learning-/portal/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 47
+    images:
+      - url: "https://cdn.govexec.com/media/screenshot_2023-09-11_at_2.02.44_pm.png"
+        width: 801
+        height: 1037
+        isCached: true
 
 secured: "ZBKi2gnMKRb8FIDI/MyhGgbkSG9IbTLU0njsAkNufcLhSeobbSOzygngBUQzylyfq85WTAyL6GdlrI44qgBAy8Cmys8YE3bWbgq0vLMOVEzeAZDrIQP6GpYJ9OmVvWC217jmVunmxxH0Q8P2dUTNfRSHHeaO1Lc5A4HoOU2Ljm2WcyF/UcHqozfRdWTQMqsyI8FxDoUZO5rHHoW76SdUtRdwV2xW0rxiSN3i5kw7mptZPwpHV22aQ3pUp54Bfvtnxt2qFXrHd4j0veSHgcNCzsrVhCtuPrBCoDQenU/EZ1swqNBq2kTnrdDa+nibzH19EPcthXeE8qchyYmzdrNmoJiDJjTn6IXzjFwYxy4RQGQ=;+ViTvCKTLmkFuYliwz3VaQ=="
 ---

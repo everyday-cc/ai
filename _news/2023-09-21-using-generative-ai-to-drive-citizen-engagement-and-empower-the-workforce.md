@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Steps To Update Courses In The Age Of Generative AI"
-    excerpt: "How to systematically use generative AI to refresh a course: objectives, topics, pedagogy, tools, policies, lessons & students' intrinsic motivation to be more effective."
-    publishedDateTime: 2023-09-20T03:28:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508a58073f0584781935f6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
     excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
     publishedDateTime: 2023-09-18T22:16:00Z

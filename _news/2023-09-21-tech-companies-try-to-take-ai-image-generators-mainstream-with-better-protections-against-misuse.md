@@ -32,6 +32,15 @@ related:
         width: 700
         height: 509
         isCached: true
+  - title: "Tech companies try to take AI image generators mainstream with better protections"
+    excerpt: "Artificial intelligence tools that can conjure whimsical artwork or realistic-looking images from written commands started wowing crowds last year"
+    publishedDateTime: 2023-09-21T21:33:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tech-companies-ai-image-generators-mainstream-protections-misuse-103381751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 12
 
 secured: "Yzh5FluAGlii7RYBjEJBj8QOm6NR1gQhbinfSpcy+jZRpwnlep442XuRazgMuSRWncAuUY3J89B+Bbn1Gh1JMed/foKzUplwhyC3tjZK7mkYo9p3X74STWDxc5CiqCg3zjsiVNEDao5/bvun82BZvReBowla6LmMLE3GPW4ncm1gDDtyvh9SLVjIaWgv8m1Y5ORO5c80P4h9SzmNIEba8xFbrAe27kKOlcJIpgrQgac4RMTrz8PE9ImaK2rwA1DYz8DTVkCoLrM1tHsdKwtDYSqbzNFyrYdxJJPrbNGNGrqEKoziC9g9Cq5Yv8Vo9GnFGXd1RxVCOc2Z9xLaYULpw/k+mX5RR1larXHHxlFCI6FRdKcehkycHk/uTz3ehG0TZWYBQqiC2rEgozBi/lzP09SONFXi4q34KRWmhjN2QFAcOC9pWhqgLnlaW5RVm6sHP7csw0UmG9bd1c9RPNkBWcLndp4OaDQGJsme7YXidWUfo/BGzwewnm0FSXXbby7tbfj7uhVYVeHYVticBWUkbg==;E+7Evqk43x4fkadT2/4fVQ=="
 ---

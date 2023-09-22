@@ -63,6 +63,22 @@ related:
         width: 395
         height: 249
         isCached: true
+  - title: "Data Erasure Services Market is estimated to grow at a CAGR of 13.5% within the forecast period of 2023-2030: Cognitive Market Research"
+    excerpt: "Based on a survey conducted by Microsoft Corporation ... States Data Erasure Services Market is Expected to Hold The Largest Market During the Forecast Period According to Cognitive Market ..."
+    publishedDateTime: 2023-09-18T10:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34671889/data-erasure-services-market-is-estimated-to-grow-at-a-cagr-of-13-5-within-the-forecast-period-of-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34671889"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34671889"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Artificial Intelligence (AI) in Genomics Market to Reach US$ 19.72 Billion, Globally, by 2030 at 50.1% CAGR: Coherent Market Insights"
     excerpt: "The Artificial Intelligence (AI) in Genomics market is estimated to be valued at US$ 1.15 Bn in 2023 and is expected to exhibit a CAGR of 50.1% over the forecast period 2023-2030, as highlighted in a new report published by Coherent Market Insights."
     publishedDateTime: 2023-09-21T07:14:00Z

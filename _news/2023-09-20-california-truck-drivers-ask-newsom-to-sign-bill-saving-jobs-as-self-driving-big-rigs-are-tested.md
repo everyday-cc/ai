@@ -1,18 +1,18 @@
 ---
 category: news
 title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
-excerpt: "SACRAMENTO, Calif. (AP) — California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-publishedDateTime: 2023-09-20T03:26:00Z
-originalUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
-webUrl: "https://www.timesunion.com/news/politics/article/california-truck-drivers-ask-newsom-to-sign-bill-18376825.php"
+excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
+publishedDateTime: 2023-09-19T23:25:00Z
+originalUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
+webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI in Autos
@@ -100,6 +100,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "esOu7Io8lb6leQk9Pn/727ZucmeyDgKxB9w5PtRj8mmYEUpUSpwEGVxbbEEuUoDwvWQP+kOS7GtVvzAh7VnfGdlThyzQgwKx7ZXpIEDZZtRu+2/kdco5B1S9BhqHVR7XfqRYKzrkQv3h9PnxH7wGbtyqvVQBGSoPkn/by59+MzFDL2pQwQabAv4EBuYqdP6oHx9A0G7PGNPJqMuzelgMyMAySFq6ytNGBGcyzIAdYHdPHC5D6WckGOekuLlFEexVruqD01N7q7xj5o/0Vdaf1Z8m15+HJZUmTbcUxeD/S4CdbOOWn12on8ZwGSAGbivh1UjwEIiJPg+3mIf4+zJ2cGXCOP4A4smpIH5TgxyUv9WgCwR8ZS0T8WBB+SwbeDbf5AWa8hSpPZgIMQ6QzyusqkC08FNZu7pZsNYovjNXNhmelUMIgOqCffDtM+v8fXuDa1uAI4FwvBIhZLX2XNzju9AIFZop1Z2Y7yIFIjvLrcmmZtbcUeggSs7wtea90tC33d6sIPqmzPYzIEIS6v7efQ==;EQm40abIliDffXYTKIVeDQ=="
+secured: "qi4LLWmH7ixu77SC0WcYJ9s6lkFIa9Dbs3Ayl3POsZKuHyWfuaK2B61h0unYBAnX55lUJcpLDdC3K8jp0ooOTeeZ1PwEKj+q/NjIJQKwihh0lwgQ6SSbT+5cG6TVUJiTj6Cg9V2vJDb6yjdMNukXqZoxquNAOUcC5CMQRc50k+kxnlukTdFvMmRq+d9+MtMN4WSgyqKCiYES5IcmchRAlMAdC3Ekxqp3oVFEW1SsVrGGt1mwCzEL3XMzrc5NdyCALI2o9dUoBaPD3bmN5zcV1oO4iqOgVzoIRyVuwxrGQzLkaVk2IJlPEEXHMBlgClQFeibjCtoXAtCGv7lp5EcYVds4BcpsiW1IS3IJIAciLQQxP0XbLNLsj5TiijlG1lHeXojmNKihWefrTKT/qvlXpTM9fAuBGTOmPKuSGCj0sHDorEWOa3MrbGYJ1aA5xSMy30eqwR5xjeQdUoYi9f3GlZIaT45KuACIb2xu6sIgEyKyBsRl3qTrqwaZrLEMpJdM0nSX0BFLfHFlqaCwYT7Cvg==;FELt39txAqtFeKgiEQyiYQ=="
 ---
 

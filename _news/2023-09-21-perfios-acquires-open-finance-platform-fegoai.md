@@ -62,6 +62,29 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-saas-startup-perfios-acquires-the-open-finance-platform-fegoai-nid-225521-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+  - title: "Chinese tech firm Zhipu AI reportedly acquires AI startup Ling Xin Intelligence"
+    excerpt: "Chinese AI startup Ling Xin Intelligence, founded by a professor from Tsinghua University, has been fully acquired by technology company Zhipu AI,"
+    publishedDateTime: 2023-09-22T09:28:00Z
+    webUrl: "https://technode.com/2023/09/22/chinese-tech-firm-zhipu-ai-reportedly-acquires-ai-startup-ling-xin-intelligence/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/09/c6a3a065131bf814d88545ff81fbee03.png"
+        width: 1080
+        height: 818
+        isCached: true
 
 secured: "f8GcslrTyMBKbmyNdMw6xhCARJ7IaEh9XmUxVeMjtDBAY7ekjCGoPZsi5SZFaeIj+HOTBihFX4PtIC+q+tDeTMUdIHGEIdXWHdZINL9lsfbNB1hQ7/Ik2qBSidY3c9PDYv7E4Od5oQoo614ufGgxUIHFYA3tmGJ2r05eTzu8JSSBw1Mf7R0fb57kUeM4ommQvhn1K8IESx4prkjhidrTeCKjJHbAZjhdJpkZWE5acBmRAN8Lqy7KMrcjmo1Hds7P9H58v2ttPRdLvl7Yhn3TZOFT6h56Z/ixza0++J4Y4WCXbqQoP1wMkj6JAQEIO0qL8BIw3UouGhyDqqd/BXZ/v7kfITWq5JzbYkAuhexvTxjRbuaQ1zpOhbOtEMqfj268QKTvZTJirGx8zdqyjkKGoma5nYde5HC+9XpaHOcDPzfkctkIwMVyeYACr00XZTy+UskM5FK3Buob4EWcqlFxuYZHzezaCDhc6NND/L+oHoEC2KAHB78EiLWNB4+NFqttSgIGcFD2J0Pkw8Xcd0zGYQ==;LMb6XI4BjI6A/+EKXOUCMg=="
 ---

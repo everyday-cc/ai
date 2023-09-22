@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tech companies try to take AI image generators mainstream with better protections"
+    excerpt: "Artificial intelligence tools that can conjure whimsical artwork or realistic-looking images from written commands started wowing crowds last year"
+    publishedDateTime: 2023-09-21T21:33:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tech-companies-ai-image-generators-mainstream-protections-misuse-103381751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 12
   - title: "Tech companies try to take AI image generators mainstream with better protections against misuse"
     excerpt: "That could change as leading tech companies are competing to mainstream the use of text-to-image generators for a variety of tasks, integrating them into familiar tools such as Microsoft Paint, Adobe Photoshop, YouTube and ChatGPT."
     publishedDateTime: 2023-09-21T16:03:00Z

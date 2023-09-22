@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Indispensable Role Of Middle Management In The AI Era"
+    excerpt: "The emotional well-being of a team often falls under the purview of effective middle management, a task unlikely to be outsourced to algorithms."
+    publishedDateTime: 2023-09-22T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61d43bb78d447e4754d6acf9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The tricky ethics of AI in the lab"
     excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
     publishedDateTime: 2023-09-18T05:14:00Z
@@ -48,15 +64,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "OpenAI And Others Help Educators Navigate AI"
-    excerpt: "Opportunities and challenges AI presents in academia, and how educators can navigate this emerging landscape. Discussing guides offered by OpenAI and universities."
-    publishedDateTime: 2023-09-17T18:13:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/17/openai-and-others-help-educators-navigate-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Anyscale optimizes open source AI deployments with Endpoints"
     excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
     publishedDateTime: 2023-09-18T13:00:00Z

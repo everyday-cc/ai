@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Survey shows small businesses concerned about AI regulation | Samuel French"
+    excerpt: "It can also be used to translate text from one language to another ∎ Audio: Generative AI can generate new music tracks, sound effects, and even voice acting That’s the word from the AI itself. According to the WEF, further on the plus side is that ..."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.knoxnews.com/story/money/columnists/2023/09/22/samuel-french-survey-small-businesses-concerned-about-ai-controls/70892710007/"
+    type: article
+    provider:
+      name: Knoxville News Sentinel
+      domain: knoxnews.com
+    quality: 17
+
 secured: "jb+nU6Fhh3s9eiFahzHiNwuOFbO7Xzzk1NFqt8bqj91ls+CKH7a1SYMAtUmnataK+8hJ4H4wYpKB8a3X7/FBAlQFs/NSTEzyIHo0XZIuJVLFx82lz+fLhYDL3D0DY5vUbWQH0jgLwV+GozCheLf5FMHbgRVIEDtA6LIB2gww4hoaheHfxjyrtyp1mf4TFlTkg3Ng+7BB/aQTN4XtMI4L/Y+MnLFnG0Aql9k2FnTXmfb5hGQq/yDZPB8UQzcHpNl2R6MHZxhg7yoP1tZUrFU650MeRxfIGOpOrA3OPZPmhgcDQacd2hsT0Ls927CgJ6f6ABrKGNSkFawb1/IFv/kuX9R/aUqBJ/uKCQuh9fEHAmk=;dMIN1hCJXWPNp6mZE03qQA=="
 ---
 

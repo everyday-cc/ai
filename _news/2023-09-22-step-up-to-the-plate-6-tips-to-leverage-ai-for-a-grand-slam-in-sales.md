@@ -1,0 +1,53 @@
+---
+category: news
+title: "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales"
+excerpt: "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home."
+publishedDateTime: 2023-09-22T10:59:00Z
+originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/"
+webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/"
+type: article
+quality: 104
+heat: 114
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Sales
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "7 Steps To Update Courses In The Age Of Generative AI"
+    excerpt: "How to systematically use generative AI to refresh a course: objectives, topics, pedagogy, tools, policies, lessons & students' intrinsic motivation to be more effective."
+    publishedDateTime: 2023-09-20T03:28:00Z
+    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6508a58073f0584781935f6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "qFHzKY940KOQcy4kPSkrscyiy3oM6D02FR4FvFxNvjcV42XneFlcuHjwAFiW+rILD6EZCYv9pxJjsjKR/qIoozTuDo0jTsmfUtVJfCyzmGjVM5p1BfgQVEuOlCy368XN8kHguC87eijwHNjjpD6YVuBa3/UTpRUWPVSPnPxoWcRBCqyfNWnKQhDFNg7LA1KTpIbsSMTWJXkU+BPzwk5FWsbQc2FUoCy+M7WNav0AZdzo4xyb9PcpzZIRhxL3umqzLmEbhAtSd2hncksY8Dt7dR1qpf2zAjr5bPfH24EMFvMH/as44p/z3Iyj5JeM5SYR0544FeNOxwjKvKDUf4rSnolGCm7SLDFdC+rlynsJW2g=;Rk41sArOkOGn6alrc7OMmA=="
+---
+

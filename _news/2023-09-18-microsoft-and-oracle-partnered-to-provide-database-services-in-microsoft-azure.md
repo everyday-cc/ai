@@ -530,6 +530,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft is rolling out generative AI in Windows and Office app"
+    excerpt: "Microsoft's Copilot-branded AI assistants will provide a unified experience across operating systems, applications and devices, CEO Satya Nadella said."
+    publishedDateTime: 2023-09-21T15:34:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-is-rolling-out-generative-ai-in-windows-and-office-app/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
+  - title: "The FTC leak: is Microsoft's vision for its next-gen console lacking in ambition?"
+    excerpt: "Can Azure really spin up that many cloud instances to ensure ... Microsoft's second objective is to fully leverage machine learning with the addition of an NPU, a neural processor. It's essential to the make-up of a new console precisely because we are ..."
+    publishedDateTime: 2023-09-22T10:51:00Z
+    webUrl: "https://www.eurogamer.net/digitalfoundry-2023-microsofts-vision-for-its-next-gen-console-lacks-ambition"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 34
+    images:
+      - url: "https://assetsio.reedpopcdn.com/site_bPlimVg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
     excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
     publishedDateTime: 2023-09-19T19:20:00Z

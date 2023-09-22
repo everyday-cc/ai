@@ -28,6 +28,15 @@ related:
       name: Neowin
       domain: neowin.net
     quality: 43
+  - title: "A Tampa cybersecurity startup surged to become a global company"
+    excerpt: "This story originally appeared in Florida Trend Magazine."
+    publishedDateTime: 2023-09-22T09:30:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/09/22/tampa-cybersecurity-startup-surged-become-global-company/"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 2
 
 secured: "6CEBuf/2uEpOEc8AKHukuhvcDtWFcM51d7ywr1dCXpkghajf8mzpppfK1LVUqtZcG5uwbiY0N4SCoEkZGOHe4OSwkOjB6xC6xWrdR8wQtVUXTw/BFWpHyZKtFAhuWTf1gQyu4VfaL8XHeBxyVhqzbENJ7wS/BPhONZT14wSVy83e0ETU1Oo64+x/8xAyD8VgikPCmgxK6Avy8otI1QTfv9TARXQjXFNalip2ergxVdDVTqRNi2RTatWGTfK6kLP7SUtH5fVb2SBLTdcT5CxH+O3LZbgTDurdqzarqDqqB9Tn3iJd3nnXzRH1F2cIEX3VpdTDZuyjd+dD9NV0IsQyA+qIs4mrBN2s0Y8wObG6C8U+cPHEAic63S5bsTy+3ls8aKKcO1zHzeni51WZN6YSfKWOya7ilPKmNrl25g/xp4tsAfU+AFOsQ97SWrCBwHzHZkbcyDiLQrJmb1eqEIsKiB3aPcxnkbUTZqADYV6fr/wvSt1VPkskLvkxNTsZsjWzmaP31nl7iydWo15lN9Fz6w==;JQBiM+KybBp4Qqaqn4+JVg=="
 ---

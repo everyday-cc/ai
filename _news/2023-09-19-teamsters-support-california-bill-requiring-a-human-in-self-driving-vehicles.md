@@ -127,6 +127,15 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 4
+  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
+    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
+    publishedDateTime: 2023-09-18T00:00:00Z
+    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html?src=rss"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 1
 
 secured: "ZD6sESX5J/cIfhFMv/hXaGSrOgyLvEbqPQ0nSpIHVO6V8YuAM7UXfIZuFTCTuDpGxlSCrhwjdO4kZW04HafNHchao/nUFtZc/l5gffO4EBw91QwPuCiDD1Kaza9GaDeiz/SZZNI2UNfMnn9L2xZ8UUZY131pyWBsNhBlzUobpwVyI4NboaA6FT3rk6k4G1YXpwzIwEomEm3my9qQVxcENopc8JJNzfIo55WFruNz6qfBrJmR6xJa72ToX5aqf8cRlUNOhbBHS/D/9yoKtjOpldmTNCQwLdvbkz7qEIPLOacGr7cu8Jz5niXapXrUNwOkIIDRf1XPee3D4CQOTptiZILNBApWgyxfhdrv4nZGqe05j3LNYUYT3Bryr/alqxjnJPw1nCShA5xdrfZH7gztUHN78dy3TZOR63WhyGT7W6LdI8ZWdGqhE2eRKgTHoUtJMKbVGHbTt8KEbuBsUf1A0GaOmhZwjpvfZBLHGwzJzRspHvwptmiPTGX+Oc7btIXTLT+2ooGwjT6oNX+FdcrQDA==;VHMtejbMYzVEq7bspsseOw=="
 ---

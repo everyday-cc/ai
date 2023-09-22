@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s AI tool classifies effects of mutations in genetic diseases"
+    excerpt: "Google’s DeepMind unit has used artificial intelligence (AI) to catalogue millions of ‘missense’ mutations in human DNA that could be related to the development of genetic diseases. Developed by DeepMind researchers as an extension of its AlphaFold ..."
+    publishedDateTime: 2023-09-22T11:35:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/deepminds_ai_tool_classifies_effects_of_mutations_in_genetic_diseases_1500756"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 54
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0012/1202124/Robot.JPG"
+        width: 500
+        height: 322
+        isCached: true
   - title: "Google DeepMind Claims Its AI Can Pinpoint Genetic Mutations That Cause Disease"
     excerpt: "The new model, AlphaMissense, has identified 71 million missense mutations and classified 89 percent of them as likely benign or malignant."
     publishedDateTime: 2023-09-21T21:17:00Z

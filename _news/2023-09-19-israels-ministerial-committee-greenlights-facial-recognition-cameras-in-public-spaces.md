@@ -44,6 +44,20 @@ related:
         width: 725
         height: 482
         isCached: true
+  - title: "Arab Center for the Advancement of Social Media Warns against proposed Israeli bill allowing facial recognition surveillance in public spaces"
+    excerpt: "The Arab Center for the Advancement of Social Media, 7amleh, raised the alarm over the imminent approval of a bill that grants the Israeli police the power to deploy facial recognition cameras in public spaces."
+    publishedDateTime: 2023-09-22T11:31:00Z
+    webUrl: "https://english.wafa.ps/Pages/Details/137711"
+    type: article
+    provider:
+      name: Wafa
+      domain: wafa.ps
+    quality: 19
+    images:
+      - url: "https://english.wafa.ps/image/NewsThumbImg/Small/19a96ba2-186d-4157-84fe-365ec16aa220.jpg"
+        width: 300
+        height: 290
+        isCached: true
   - title: "Proposal for Israeli police use of live public facial recognition goes before lawmakers"
     excerpt: "Israel’s government is moving forward with plans to deploy live facial recognition in public spaces for criminal investigations."
     publishedDateTime: 2023-09-18T22:12:00Z

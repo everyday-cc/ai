@@ -35,6 +35,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Researchers in Japan translate chicken sounds with AI"
+    excerpt: "This article will explain how these researchers created a chicken AI translator. Later, I will cover similar AI programs that deal with multiple languages. Professor Adrian David Cheok and his fellow researchers claim they created an AI model to analyze ..."
+    publishedDateTime: 2023-09-22T08:53:00Z
+    webUrl: "https://technology.inquirer.net/128206/chicken-ai-translator"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 34
 
 secured: "W1WpoDKSTnIeS4vYPT74W9iLCJU+Ub2BwyfjMnvxNzcIogOyHL0PLivRzuyasE7Ya0d69a+B/71VX2ydCwf2lXPYNFlNmdXN7AxFUTPzy7vOarHlIklnYrPRIqpBnZU5t4BekgLPi6r8V0/H6a/MVJnxP4dgseBmK7Quix3nXj2htyfieRuGwl11xLxCt4eDMh+7+Iys9zGXQii1baQSPWKZ3nlZIJ9Cj52SFOlwuIgHgTl5nN971CINRlQFjLuuVhjt3qoLQtts7oFhNRl/MMeNhP+7UyjV4TxrW1EoQaM+1yRtODhf643Dkbp0ZnR83bcX6kSHfi3hK9I5kf5MQQx0h9negdJLp6iWSuE+KHA=;Nz90iqqjdkk9j62v1JJqOg=="
 ---

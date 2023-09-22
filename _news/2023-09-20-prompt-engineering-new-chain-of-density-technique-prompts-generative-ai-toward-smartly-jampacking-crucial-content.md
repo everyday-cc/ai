@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 Steps To Update Courses In The Age Of Generative AI"
-    excerpt: "How to systematically use generative AI to refresh a course: objectives, topics, pedagogy, tools, policies, lessons & students' intrinsic motivation to be more effective."
-    publishedDateTime: 2023-09-20T03:28:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508a58073f0584781935f6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Using generative AI to drive citizen engagement and empower the workforce"
     excerpt: "Google Public Sector CEO Karen Dahut urges government leaders to get started with generative AI pointing to early successes of public agencies."
     publishedDateTime: 2023-09-20T19:33:00Z

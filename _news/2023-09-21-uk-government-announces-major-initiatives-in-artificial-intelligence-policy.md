@@ -92,6 +92,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-09-22T09:22:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Pa. state government will prepare to start using AI in its operations"
     excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
     publishedDateTime: 2023-09-20T21:31:00Z

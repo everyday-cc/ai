@@ -60,6 +60,15 @@ related:
       name: CMS Wire
       domain: cmswire.com
     quality: 30
+  - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
+    excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
+    publishedDateTime: 2023-09-22T09:23:00Z
+    webUrl: "https://www.techzine.eu/news/applications/111562/salesforce-acquires-airkit-ai-a-low-code-platform-to-build-chatbots/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "YAqUGl8aLmZnlZA3v8V7bm2m6maiw4zKfn3ZSqkWDWeNbenYeCEEsOimZ0g1D7dDV9h2LFeh/QaZwnPcREjaJDO52fV3zff9tTx5+hEAqKOXvsBpt9WUqP54fz9ud9R2pEGYcSwRcSJHm5ptDBwzjhLPPVg2YWmlXWY6mnVM5PR9ifWxTLRCjPUMVVlgR6fCXWAstz8D8yHCfMiHY88Ct3Dcn+TQmwZJ1l0jlVBNaqHfhsxn0dUtvJN1+eVYod9y+sfhuMWLhHI4ydPdulACd8nkne1AUGMQ663JUdLEu7W0D5VSo+/m0UIvfy4U6UT9cS5QSPx1CidCaW9BAoml2cH104U3axXjc0BMEwqCOIQ9vImXZHO6/RCnKQDVe+/5Qsb4oujqWm4DlLynNnjaZZNiI5SbcRT8pEH/pPHn9y96Hkf3FOIimUlPZEGPC9ySECpG809bFleJa87mSGoVXL0Zu5ye4Jg1StKRtThLlXlDvlBfLNUVT3w2DKg5TNi2l9U/MXG57kv6pAafB43xxQ==;0WttjxWyBqeC1aRJ5jrt1A=="
 ---

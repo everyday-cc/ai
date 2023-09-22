@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lack Of Policy Regarding Generative AI Use In Schools Places Students At Risk"
-    excerpt: "A lack of policy and clear definitions regarding academic integrity, cheating, and appropriate use of generative AI in K-12 schools places students at risk."
-    publishedDateTime: 2023-09-17T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/katecassada-1/2023/09/17/lack-of-policy-regarding-generative-ai-use-in-schools-places-students-at-risk/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "‘Struggling to Keep Up’: Harvard Students and Faculty Grapple with Impact of Generative AI in Classrooms"
     excerpt: "From evolving syllabi to entirely new course offerings, Harvard’s classrooms are adapting in real time to the widespread impact of ChatGPT and other generative artificial intelligence tools."
     publishedDateTime: 2023-09-22T07:30:00Z
