@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/anil-kapoor-artificial-intelligence-l
 webUrl: "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -84,6 +84,24 @@ related:
         width: 400
         height: 220
         isCached: true
+  - title: "Artificial Intelligence is reshaping India’s stock market – for better and for risk"
+    excerpt: "In conclusion, AI offers thrilling possibilities for the Indian stock market, from better data analysis to democratising sophisticated investment strategies. However, it isn’t a magic bullet. A balanced approach, integrating AI’s computational power with human judgment, is the most prudent path to navigating India’s complex stock market landscape."
+    publishedDateTime: 2023-09-22T12:01:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-artificial-intelligence-is-reshaping-indias-stock-market-for-better-and-for-risk-3251998/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 13
+  - title: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator"
+    excerpt: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator - Yudiz Solutions, a digital transformation and technology services provider, has signed an MoU with"
+    publishedDateTime: 2023-09-22T12:31:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/yudiz-solutions-an-ai-and-gaming-startup-signs-mou-with-indias-largest-startup-accelerator-nid-225516-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 6
 
 secured: "FVXm4blSF1uF6kW5eC6aTiNt69bY5z0gZNg+2wevFJHZFGGxWNDxUr/FSN6H0EdxKbfc9o92yT3rJGmvOI+6nMEIcNikwZHTdyFzUuLP+1jIqG/yTEr+9FScgkNo/EMBQSmxLGKSw2in0aksb3d6HjpUoODRNV0ddZk/xcew5ggECxIwHDgix/jg4nLALBxFjCJC4IoUXsYYlFh+NvqnOXoW7bOedc8pfTlskorrDbxhKnALW5tSonMuCT/yE94v3K9WNJaT0cD2YR0npm3TQTUfsqDG2IazHCBjrIWdOvbbALsj80kO/xDmr0nxq+DXb25Mf6i8oavIy71hvVlr/ef/Aq7XrZbOEf/2eG1yL2M=;f5nOoF9GFV+P6mlbRhInug=="
 ---

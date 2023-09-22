@@ -7,7 +7,7 @@ originalUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
 webUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "How AI Trading Could Change the Game"
-    excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
-    publishedDateTime: 2023-09-19T15:29:00Z
-    webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
+  - title: "Op-Ed: Artificial intelligence laws, aka ‘The dithering has begun.’"
+    excerpt: "The word “Evidence” Is the major player in any laws related to artificial intelligence. Evidence standards will have to be established and somebody is going to have to be able to access data for the purposes of analysis. This is almost exactly the same thing as “Discovery” in a conventional case."
+    publishedDateTime: 2023-09-18T13:10:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/artificial-intelligence-laws-aka-the-dithering-has-begun/article"
     type: article
     provider:
-      name: Internet of People
-      domain: coinjournal.net
-    quality: 39
-    images:
-      - url: "https://coinjournal.net/wp-content/uploads/2023/07/1689852872303-5586e800-dd45-45da-8dc2-7a3d663229b6.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
-    excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
-    publishedDateTime: 2023-09-20T05:00:00Z
-    webUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-cert-reforms-may-be-impacted-by-game-changing-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 33
-    images:
-      - url: "https://www.irishtimes.com/resizer/DA62EvHoLfiVrXB9Uh19O6X49fA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ZJIBKZZ7PRCEXJYCITS6WBNKAA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
 
 secured: "cngBvCmUh7UpmZcCTFBnbVm2nJQFl9KG1DSwQVtch4vdXrQGFAbDSDr7R2NKpzcU1RrvM0mgUjZGaAEY1xCqt5QpIbEG66N8Oh8u/7X6w4dnfEFxfJ5LELG+oOYUnp/+gPXFDeOzgcnlqD60/DJGPIZKM4ov8ESKt/dCO5IULrPk4w2E+aWKypQQFACX3Np7abPBTryRIjvJ+CUE/7JAZmwHRijHLn3KxjV8P87ftywV0h5hgKtHBX2Yyg5tLKbtmXArWzqBER5hrw+B/2ga4xt5CYBGwnj54zM2EYTC3ZSoEp7IwKfte6yieELlK0L2na2gVvGak+Emb7+qU4QOlTKiITKDunrW5l8BuAUYW0C5GIlGRC1gNJEaTKAekbZGuZnuSSYqPuWMNaZuHCbmXFPq3djXv5FP+HVmerYJdVwY7ACpgv6RP8kV2y0Bpc7o8IgvG0xMtfzKFyE0+IYq+WdUt/RYetJGY9iY7NQx321bBgWJUgX0TdcTWzPtFZBjG/W1HK+u11kICdmsztfUjA==;M6xH3K2rGFfYlpMnS2Msbg=="
 ---

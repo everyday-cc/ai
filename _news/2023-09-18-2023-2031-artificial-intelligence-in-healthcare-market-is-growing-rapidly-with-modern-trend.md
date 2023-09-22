@@ -51,6 +51,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence Robotics Market Size & Share | Industry Forecast - 2031"
+    excerpt: "Global \"Artificial Intelligence Robotics Market\" offers a detailed Report of |100+ Pages| which is expected to witness remarkable growth in the coming years. The implementation of new technologies ..."
+    publishedDateTime: 2023-09-18T07:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34674457/artificial-intelligence-robotics-market-size-share-industry-forecast-2031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
   - title: "Global Digital Marketing Market Analysis Report 2023-2028: Artificial Intelligence and Machine Learning Transform the Future of Digital Marketing"
     excerpt: "The \"Digital Marketing Market by Digital Channel, End Use Industry, and Region 2023-2028\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2023-09-18T17:04:00Z

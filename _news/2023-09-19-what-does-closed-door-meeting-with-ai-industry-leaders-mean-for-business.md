@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-
 webUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.iomtoday.co.im/tindle-static/image/2023/06/07/7/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=750&crop=16:9,smart&quality=75"
         width: 750
         height: 422
+        isCached: true
+  - title: "Is chasing artificial intelligence genuinely senseless? | This Week in Business"
+    excerpt: "This Week in Business is our weekly recap column, a collection of stats and quotes from recent stories presented with a dash of opinion (sometimes more than a dash) and intended to shed light on various trends. Check every Friday for a new entry. With a ..."
+    publishedDateTime: 2023-09-22T15:18:00Z
+    webUrl: "https://www.gamesindustry.biz/is-chasing-artificial-intelligence-genuinely-senseless-this-week-in-business"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 33
+    images:
+      - url: "https://assetsio.reedpopcdn.com/Roblox_h7UMJtg.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0YztRayhSAvyavjlo2YdaBsW/KEreOIt8o81eeCprtAtW3yvAJOoJQISknUrqM/vwtT9xYMxhGIS0HFTHhkEVzNRmwFFmdZtLfiXmyYf/vyXW3ndHqt69eT9PuW645YYO1ga5m0woxPjFQhUVDLOmDt6Y3MPwL2SlgmIx2qFfUuk1JlguKMlJadF6Wfo1+zjVNrzH6GYAhjdtNeKgf7flPMv4wUd+O1sr0tBBQqFnzWdtwrBSvs+zcETsxz0mci+7BNEIYpTXuxW01PobLGV9LLTkU2lo0qA4lMefHX/JVlu141VA3mKrYSLkF8VP+tgIIm8Oq0aiw4TGkd18FoQT3Y2rMAxJ/nUsnYq8TUa0se01eLfYeTQQoztogTGvJg4gEysV3kpDNFqeO8ucwSO5eHM571OrYxQly1qYAzHBtlxfsCe5PFnTNQPn2Tydqvkde1ZUypzvAV5wzCkfdFtC8MhF2GNfAprke3wbr2NQaynRTHr2fHxADmGUb/R1eP+IlIiiys6vguYOOoXUv5PAA==;//KaJZiJfOxhlKwcBPM1ew=="

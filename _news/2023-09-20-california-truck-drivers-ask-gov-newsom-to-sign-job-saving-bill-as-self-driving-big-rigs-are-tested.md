@@ -1,15 +1,13 @@
 ---
 category: news
 title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-publishedDateTime: 2023-09-20T15:28:00Z
-originalUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+publishedDateTime: 2023-09-19T22:21:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
 type: article
-quality: 29
-heat: 29
+quality: 0
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=8e14bdb7e67d007af3399b47230d2245"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
@@ -68,6 +60,20 @@ related:
       name: My MotherLode
       domain: mymotherlode.com
     quality: 19
+  - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
+    publishedDateTime: 2023-09-19T23:25:00Z
+    webUrl: "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/cf/bcfd2091-7cae-563f-a309-4bff1a64797e/650a2fbd433c1.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California truck drivers ask Gov. Gavin Newsom to sign job-saving bill as self-driving big rigs are tested"
     excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
     publishedDateTime: 2023-09-20T00:07:00Z
@@ -91,16 +97,7 @@ related:
       name: Los Angeles Daily News
       domain: dailynews.com
     quality: 4
-  - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
-    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
-    publishedDateTime: 2023-09-19T23:25:00Z
-    webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 0
 
-secured: "JQGdeH+nrVBGCXypSY6ubv07VvzEEV9UCmlSbqG00TGBc3Raj+YVYBNdlgwXvdhtaGyqKykUFty3WB+PDvw4FNx3MlQEAo0CRokkEmaej+fCZVFj9xPPfbZlSl6fS0x7JwwSeeuts3/2RnmVyclaF6FWgYgX+SGz+1DVV7y4ntBLpkx/w9YhktzbOLwfWTAkDp3sNjkArNdDXAvPoBBMquERKSgVDyutt+wWPGmFa+RrOGKFZXIlkGn7HSc1agvW7G5c3nqYtzrKfcbDnj4SnE7z+cFVkxQxJJJ4+E82yGrVhZIk+du/SwqbHwaGjp6fDolUZwyZ+C8NX8E0zJ5VDTiKUqQ7jBwvddi31Jtb4umxFXQ5rh9gxL/k5OROWa3dW2DA/fIYLIb3+yWviSK2ZP0WaeaUMjR5RsV4NcQH4iVxDdfe409xemVpY43qRVtdAWEPYTY9U5o60AaVU5OxQj1R8IQ5774Sg+QIAvRayZuMiQqIFv4MQiQ0pX4BP3IJOvpRF6tGzab1Fd1wxu8BuA==;CGrqKeFrtcrO/kUd3i2rRg=="
+secured: "xsHvJ26b4J4gIKy5wGX+fv+myusOb91EaIefI9Fe4bV4WPg0EpSOTsafaihFAMw+pr9zOOgsKJJwKmh1ZZE6lIgJ+TUU3wGYSNvAbmDphc6lKL5SkJVp8VN+j8r8stcvjywuYNnN18uvk3uEr/2TAtEqw+jAZIsJSdWx6aLpaHdT4YcvtrrGGT4O62QgjfxRmXbOu+UFxBDXEaMhFbUPLKihi79eyJ5ZVJXBPrO4Gt3NZbx7/wJWYbrk+ljQuGiDO5rP/TDkp3nVsc1RZWg3er+bRV9HaQ9yEmbrzDAr2JMdUEpmIq0YNg0XVybbgZXAGUGWbEe/d1O8YoFuWPGm60yH2hdOWSZQKRyDc0fE3Hc3SEXVhp2QC7bA65oYAW7K5WT19mhqBnzm8J9+sF80tkJOvCnjmVl3Py56uvV/XHgkZXSO/sZsIyq/2AQxMmfkIKKsyolDHiFAstiah1OKYU7uriz2Dftu7L7ZVAr6EzQ0+tthUHVXGt4mSruMOOUhdBxnVcpSawL8HFC3WLeKUA==;hr+4HrRQbYJ/2tOQiLFcdQ=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 718
         isCached: true
+  - title: "AI, FinTech, and the ethical imperative: Navigating the uncharted waters of financial technologies"
+    excerpt: "The new emphasis on prevention over response becomes not just a practical necessity, but an ethical and existential imperative, as the margin for error narrows with the rising power of technology."
+    publishedDateTime: 2023-09-22T14:29:00Z
+    webUrl: "https://www.fxstreet.com/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 60
+    images:
+      - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Is all fintech just AI now? A look at Finovate New York"
     excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
     publishedDateTime: 2023-09-20T08:00:00Z
@@ -87,6 +103,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Fintech Stocks That Will Handsomely Reward Tech-Savvy Investors"
+    excerpt: "However, these factors have also brought other fintech companies back to attractive levels ... The company has also recently introduced its new product, Intuit Assist, an AI-based financial assistant that targets both consumers and business and help ..."
+    publishedDateTime: 2023-09-22T15:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-handsomely-reward-tech-savvy-investors-1032649763"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "LxY9fVIQKxkWOOl9mfOp3GSZ+LXyEme1jXxfMuZATiSL8HNWIZ0e0TbFwgBK4I2qT8nlj4ehoZnc24ys8EN6+U9Jwb2V9TFpRsW8VG3qkrwmSLFXhNYbVwbPJgvRyVPzVBmKUZshY4rrWzBXUbfDV1zJe+emN1x11IO1qV4vk9gEUmpSu1FLRmbg+XyThNt241biJXCGmZDj07577lGFAn4c2lEMokgtpwNYzBUr1GVhIUaj8WCp+deamIzODCgkslKfxgCN1gVckqkGuAoP4hNESKrH/VmLZnE/h5+qOQjUN1oRRpr0llXOLhBTlCmfJOLDPZxnYNsAa1kqW5x9824rrecSLdhFKfpFD2BEN9+HuzBzBJyzjJidUULWLmzyW77jSGhj2fbeNuA5ombGXEHN8L51tZ/xciXptUNICQYSue42YzXPRHxUQEeK6R0aktJEYOdx8vrljkJJ8FA+pTK/BEoY4mPbFQugS03YgZbqqMJFo0DPg/yF/jKwBLmzRAQsn7Ej6jWH5xe4V9085A==;aVgXYVc1426dQSI23IJbmw=="
 ---

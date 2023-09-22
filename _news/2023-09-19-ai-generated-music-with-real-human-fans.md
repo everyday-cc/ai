@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-mus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 830
     isCached: true
-
-related:
-  - title: "Why humans can’t trust AI Why humans can’t trust AI"
-    excerpt: "Researchers are working on programming AI to include ethics, but that’s proving challenging. The self-driving car scenario illustrates this issue. How can you ensure that the car’s AI makes decisions that align with human expectations? For example ..."
-    publishedDateTime: 2023-09-17T22:23:00Z
-    webUrl: "https://kfor.com/news/national/why-humans-cant-trust-ai-you-dont-know-how-it-works-what-its-going-to-do-or-whether-itll-serve-your-interests/"
-    type: article
-    provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 19
 
 secured: "QiVTa2CYhFLJr/sukeOj4vpiCGxjjaHJKvbW/k5VTYqSON3ybb9fjUYzA5AapD46/dHLP6Kntyi+j93Q5otYsh7Oh14HCD8WIaBEETDfGSdO5GR0FzN6yQH2NF7SiLpaVvRybrdpDUKzkdAkvdzmuVQ8SqHrT6/CByUQ1+o0D5lwhh7LqT2mua3fylFJP4cGWX274ubnphF0pc9QfJnCFyEwzUIFuybfLxtZPgjsgGDvek5aesuWJYGCuSSFiUoXWPWHx2RI0wYEfZ+v6SEYFNBpPP3szpK6tmQ1bdaf9AILXBtyrharDl8GZBzXDC1HxLWJF5yVjBpVd03oyBtvcQVV4AmCS9FM5dOwlLd5B572hzemtT+Gqdij6yEb7OCFsOKBBHvSFOH5N+ZHz3IjPGPSYSzQneNqcoHON+NnVoAO9bzWgvBT4lXzR6FhBH+SvYMTo2lIZHgVL13Tr6coGvK6eA6LhwJGrudD/dJtQSrZ6VYs3lUYZOe0KXtYhC0eVR1GgmKRvccF/pSmSzh30g==;Q6Hr9VhaYpMMu+FiTvLHlA=="
 ---

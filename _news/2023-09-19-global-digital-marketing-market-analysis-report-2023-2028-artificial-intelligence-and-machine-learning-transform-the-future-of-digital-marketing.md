@@ -52,6 +52,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence Robotics Market Size & Share | Industry Forecast - 2031"
+    excerpt: "Global \"Artificial Intelligence Robotics Market\" offers a detailed Report of |100+ Pages| which is expected to witness remarkable growth in the coming years. The implementation of new technologies ..."
+    publishedDateTime: 2023-09-18T07:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34674457/artificial-intelligence-robotics-market-size-share-industry-forecast-2031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
   - title: "2023-2031 Artificial Intelligence In Healthcare Market is Growing Rapidly with Modern Trend"
     excerpt: "The Artificial Intelligence In Healthcare Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various ..."
     publishedDateTime: 2023-09-18T10:16:00Z

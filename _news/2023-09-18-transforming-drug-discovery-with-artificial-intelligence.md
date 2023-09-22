@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/drug-discovery/articles/transfo
 webUrl: "https://www.technologynetworks.com/drug-discovery/articles/transforming-drug-discovery-with-artificial-intelligence-378934"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI can help to speed up drug discovery — but only if we give it the right data"
-    excerpt: "Artificial-intelligence tools that enable companies to share data about drug candidates while keeping sensitive information safe can unleash the potential of machine learning and cutting-edge lab techniques,"
-    publishedDateTime: 2023-09-19T17:07:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02896-9"
+  - title: "Machine-learning-boosted drug discovery with 10-fold time reduction"
+    excerpt: "Boosting virtual screening with machine learning allowed for a 10-fold time reduction in the processing of 1.56 billion drug-like molecules. Researchers from the University of Eastern Finland teamed up with industry and supercomputers to carry out one of ..."
+    publishedDateTime: 2023-09-22T14:18:00Z
+    webUrl: "https://phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.html"
+    ampWebUrl: "https://phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
+      name: Phys.org
+      domain: phys.org
+    quality: 44
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02896-9/d41586-023-02896-9_26035858.jpg"
-        width: 1024
-        height: 576
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-boost.jpg"
+        width: 1280
+        height: 678
         isCached: true
   - title: "Unlocking the Future of Drug Discovery with Artificial Intelligence"
     excerpt: "BCC's newly released report, titled \" Global Artificial Intelligence in Drug Discovery Market ,\" unveils the extraordinary impact of artificial intelligence (AI) on the pharmaceutical and biotech sectors. Authored by Ms. Surbhi Jagtap, Senior Analyst, this study provides invaluable insights into the AI-driven revolution in drug discovery."

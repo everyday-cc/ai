@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-ce
 webUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-cert-reforms-may-be-impacted-by-game-changing-artificial-intelligence/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How AI Trading Could Change the Game"
-    excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
-    publishedDateTime: 2023-09-19T15:29:00Z
-    webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
-    type: article
-    provider:
-      name: Internet of People
-      domain: coinjournal.net
-    quality: 39
-    images:
-      - url: "https://coinjournal.net/wp-content/uploads/2023/07/1689852872303-5586e800-dd45-45da-8dc2-7a3d663229b6.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "How AI is paying back ‘the toggling tax’"
-    excerpt: "A recent HR tech release from Microsoft and SAP uses AI to streamline platforms and restore time in the workday."
-    publishedDateTime: 2023-09-18T13:21:00Z
-    webUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
-    type: article
-    provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 19
 
 secured: "KJCbXeRdsxRbC9e4w9+A8ZGS1WE27SH81BO3iyzFsruQkLd46MpjbNFhVnNyk2nY24s2t+bCTZbbb4ZyzaDDlpHCmQZQTQ+FxEUk/n63nNgb2fUtRykZN1HCkrTip2bzpXGapmRaO77cZBKu69/8VGKikGgcQ8qogH2oT+d105FYp/0ufqEFiaJGgqaHoQ1cbv9/Oe53mN2V51nDCVFAAV7PbMb/rEgNPm9N6thdObVAv/tmtCxzz5my9ziFmW0MEILMgtr7FaAD41HmDuyz7Nl4dLVHRepnaQJwkC2zkx3n7oIbwLrd00d9J9tvC16aOuyjeX2aa7eSS89AI3lgTRdmb6CxAPtNPIYJVAS/w4Y=;zgyIFuhsOfAG7Ty2xYcfnw=="
 ---

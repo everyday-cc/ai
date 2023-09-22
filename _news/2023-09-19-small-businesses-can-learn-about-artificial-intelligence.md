@@ -38,6 +38,20 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Is chasing artificial intelligence genuinely senseless? | This Week in Business"
+    excerpt: "This Week in Business is our weekly recap column, a collection of stats and quotes from recent stories presented with a dash of opinion (sometimes more than a dash) and intended to shed light on various trends. Check every Friday for a new entry. With a ..."
+    publishedDateTime: 2023-09-22T15:18:00Z
+    webUrl: "https://www.gamesindustry.biz/is-chasing-artificial-intelligence-genuinely-senseless-this-week-in-business"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 33
+    images:
+      - url: "https://assetsio.reedpopcdn.com/Roblox_h7UMJtg.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AZYYyZiPuM45hIkE/hp68qVgmO+itraYz1FD7avpYbcgEnT2g9O5k0o7B3lSHQ7/1+cFb2sBtOGjZFEcXfbEGRU5zfNo2ZrFx9aFYkkP/hNWdbKlPst1+FOyBZjDqlYpagrE+9+rY9GX8ThXw+6R85qXHaysjYmci6/eK98xhtv8wTCCaCuxqtUnNjkYK+sc0HDGtl/u1WwVaWmBL1NkGs5A/01sixPkv+0wmbeqSrHCUcerCtyjlIZOsniZ2xuQixV15UTGur/XAsf5hysCb1E748K+/K3Z8k5/ut/D8zEn4vDW6zuWNrEcxvuBbJ+hi6QxxL1p9NFd/kEF1cDmxG6CNpSflmZ5vy98+Cgq62Y=;qhKxPsaNs2z3ufTkrxcHdQ=="
 ---

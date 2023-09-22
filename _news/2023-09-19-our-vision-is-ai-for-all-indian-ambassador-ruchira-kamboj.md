@@ -85,6 +85,24 @@ related:
         width: 400
         height: 220
         isCached: true
+  - title: "Artificial Intelligence is reshaping India’s stock market – for better and for risk"
+    excerpt: "In conclusion, AI offers thrilling possibilities for the Indian stock market, from better data analysis to democratising sophisticated investment strategies. However, it isn’t a magic bullet. A balanced approach, integrating AI’s computational power with human judgment, is the most prudent path to navigating India’s complex stock market landscape."
+    publishedDateTime: 2023-09-22T12:01:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-artificial-intelligence-is-reshaping-indias-stock-market-for-better-and-for-risk-3251998/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 13
+  - title: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator"
+    excerpt: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator - Yudiz Solutions, a digital transformation and technology services provider, has signed an MoU with"
+    publishedDateTime: 2023-09-22T12:31:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/yudiz-solutions-an-ai-and-gaming-startup-signs-mou-with-indias-largest-startup-accelerator-nid-225516-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 6
 
 secured: "jFyhe5dsjuYo/kRjOM9iENCfZLqJX68mxLnf4WN01QKP6YTPAJ0cQ6CDH4nrOT9pLefq4tRsf+kkLlYqpb2LNq9yKazWfxfp/XyUpTB8Tu93BYVL2oIZS1E8gcaLxB0O2oCXbgsHzistcGkuoxHVrrP7tlgJDQyu0nPdrroTyTnrQF+j+nHwsG05MwDR8D88GqITvbAB1DoAQbd9ynSNUFhqvKJ6Jx4FsmiVxSaGQX6vYu78wR37lZzSuJ9Vsq+SBf+lLWsAGzfeGH/byTMAskSPdQBYnrOAfeMGDrQ4Wwg6hDUaSs/tRP3isFh6YEfy40+5fJOWx+09RLEaJZkmnCwgn/uBaBvNAYLSBhWIfUQ=;q6e+Jf55tD6MG8aSVpM/SA=="
 ---

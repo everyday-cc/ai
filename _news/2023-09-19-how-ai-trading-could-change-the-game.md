@@ -7,7 +7,7 @@ originalUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/
 webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Leaving Cert reforms may be impacted by ‘game-changing’ artificial intelligence"
-    excerpt: "Minister for Education Norma Foley requests report on challenges technology poses to 'fair' assessments of students in the Junior and Leaving Cert exams"
-    publishedDateTime: 2023-09-20T05:00:00Z
-    webUrl: "https://www.irishtimes.com/ireland/education/2023/09/20/leaving-cert-reforms-may-be-impacted-by-game-changing-artificial-intelligence/"
+  - title: "How AI will change the job of the junior banker and raise the bar to entry"
+    excerpt: "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst."
+    publishedDateTime: 2023-09-22T15:06:00Z
+    webUrl: "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 33
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.irishtimes.com/resizer/DA62EvHoLfiVrXB9Uh19O6X49fA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ZJIBKZZ7PRCEXJYCITS6WBNKAA.jpg"
+      - url: "https://i.insider.com/650ca702bf943d00195cc7ef?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "How AI is paying back ‘the toggling tax’"
-    excerpt: "A recent HR tech release from Microsoft and SAP uses AI to streamline platforms and restore time in the workday."
-    publishedDateTime: 2023-09-18T13:21:00Z
-    webUrl: "https://hrexecutive.com/how-ai-is-paying-back-the-toggling-tax/"
-    type: article
-    provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 19
 
 secured: "o4ZraNGnQbpzLkNzEIqzEto7X3nTuA+uQeMbYZpcAbmWwJCw8a6CAo/Q+YWohbeWUMNqzHlpQNdATTKRRyNMoSmvjpaWE8iiCmNVC6jJGYxMGrbd7Z02CmGHLs2/734ROqkQx10POcV4ygFoxl1S2az+jUkzPEsbc4m9JwOP+ixSPc/04JQghOrlWzqkKBVcfQizntGVTO6MUoTmyi3w2JQN9t/A+GrTaIBhblaOa5CQewDnmOYS27AIMnSKagL7a5iOHbx/Xz2EFoNwc3744cKaUxcHwyb8jzvBlq+npnDSc1D8JP54JVUOcns6PEwF7pqr67aFO3U5FEu35frloydUt0b74yJsDJy9CluZI9D1HDCle4FrEISsx7QJbXSVPcJqaGsJ/yOx1ZneVp+MabIzUI1riuj1H5lSZzyFpKVnk1T4WWk2vYICb+irUMv1O3aqjkhulKNm1YvZnyEdVgYt/IVPWmujEOYla8E5GizKsw0bhYfzXquZrP3rcoQXEnpZ8aYs8rlrN7w3eu1WhA==;huackczHYi0O+yntMGHQ9g=="
 ---

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries"
-excerpt: "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ..."
-publishedDateTime: 2023-09-11T13:25:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries"
+excerpt: "In addition, DEEPX is forging strategic partnerships with module and IT system OEMs across the globe. These collaborations aim to integrate DEEPX's products into various embedded systems, with plans to expand the range of open-source hardware products compatible with DEEPX's offerings in the future."
+publishedDateTime: 2023-09-11T15:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/09/11/9878244.htm"
+webUrl: "https://it.tmcnet.com/news/2023/09/11/9878244.htm"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -21,6 +21,6 @@ images:
     height: 267
     isCached: true
 
-secured: "PfdJ0Yn5HDq9KjQ9NaaPHhtdf5Uvc/Xt44pdo341T8uKFTxucNZ+3ap+wyuIHOStcw0ZaO99lN1nwrMm7GyWAjEH1WKN/mFM7A8CPP+HyYxSrnCB++xxv0jat5wRBguM6NABkOm/MEkegtHUxwSk9NbQt4/Du16gk7gNS5/3caKpXLRAxLMB7BvCwDgsJAxep+IMsh5FhT1WEVsxNZ3bKIlTu4SO+ujDhLwanrPSSqyzV4zX1c57Fz8asKBaM5W6+yDMcg0KDEYRsvALuZinejH+xtPIKIpcQfE5NITRcRfEJcvcgVK8XFyaEOrnPlO6VzYOoDuEf9SqBRx1IwwMVHYV0cPRRTsh1j8/5nYIHtg=;bDv85zOP/va/W5sSE0rb4w=="
+secured: "MQve+8O6r6iCg3f+LJnfQCWvoZM6J/fk+ZE9vZrgYe2AEclRaFqwHycRjC1k6Dk18hCJvFiY1591MjBrkml7vSj8sKDaXdHMqXO0cKZTfCyP+YhGpvvDPz45MAM6FodWwne7GoBQvmgz43rjHsXPw4UW5EoBoLffay5vvnRRKeKwT1JFYo/jfta5WmJJCLCifOozqDFZVvyC6YNbcmlobDO4LPeeW/fIyzyYXDLnPwZ2zhOhPb7ceyRuE2gROQa6OPP49uHmc7r0YpBxI488RlxbvGWIRaYhRP/HEuszDpe3bGdlDAim/HFBbJcl+lIVHQUiEJNdOLIJhDNVKfhAw29Ws9crImnszVEY046AnLg=;oLqmRbE0jWBZ0runJTg9Jw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/cfpb-issues-guidance-on-credit
 webUrl: "https://www.americanbanker.com/news/cfpb-issues-guidance-on-credit-denials-using-artificial-intelligence"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,19 +18,28 @@ topics:
   - AI
 
 related:
-  - title: "I'm a Business Psychologist. What I Think Everyone Is Getting Wrong About the Future of Work and AI"
-    excerpt: "I explained the issue to her. And before long, she and Google were friends again. But then I also had an interesting parenting moment: I found myself having to explain why we shou"
-    publishedDateTime: 2023-09-20T06:14:00Z
-    webUrl: "https://www.inc.com/nick-hobson/im-a-workplace-psychologist-heres-my-take-on-future-of-ai-jobs.html"
+  - title: "CFPB issues guidance on Credit Denials by lenders using Artificial Intelligence"
+    excerpt: "Today, the Consumer Financial Protection Bureau (CFPB) issued guidance about certain legal requirements that lenders must adhere to when using artificial"
+    publishedDateTime: 2023-09-19T17:25:00Z
+    webUrl: "https://www.cuinsight.com/press-release/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 23
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 13
+  - title: "CFPB Calls for Increased Specificity and Accuracy on Reasons for Credit Denials When Lenders Employ Artificial Intelligence"
+    excerpt: "When using artificial intelligence (AI) or complex credit models, can lenders rely on the checklist of reasons provided in Regulation B sample forms for adverse action notices? According to today’s guidance issued by the Consumer Financial Protection ..."
+    publishedDateTime: 2023-09-21T19:48:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/cfpb-calls-for-increased-specificity-1062912/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 11
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1177123763_533784_rm0dgh.jpg"
-        width: 1024
-        height: 576
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14355_234.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "mRUuohEdohVVkQ0q02TfkD6eRn5R01TYm2EuwBkXxP5C1LTaBm9aF99dBrRAiKMlH1RV29qsFfnbsETjLnjpkBeCVEoDZP88AMFBuFVetgGlP04AD/0ki3XTC9MpVYfT1JFPweZkNGZQwQmb/8FaQxEm2Oh6Jgwa7Adugiu9efXTN7FR72Lp0R4jl1HzbH+IkfSq6fDpMsP3zEN6eonT1Y+2pZZfRh1Q516HdGUKgh/PTtg3LxSgoZ/3R6/2r4ejOeFkTA4RIokunUBthcUKsAkDY0jNQ7gdDhxwOzmT8XVieYxtFnE5czZki8sm9wcQZApzaR0u9m2MxTZ+FCdcOKARHJzHxf8gUww7aCI4Gl0WRcCtYN1Nayjiro+gmnM56/jNhikLCsDAyimgmK8dNNkNZ6HklqhuSUaubadKG2NUe7LCHN8+APN/IcomP1fsRzfVztrWPj98k28zvCvIV7Ocr9QC0SXZHqpyDgXuATp4JdwmvWUVrKQRhx8APez9W+puYR+jT8EFTOLyT1bWbg==;U4swKbuHJf3OuDJGVx3vzw=="

@@ -53,6 +53,20 @@ related:
         width: 1170
         height: 692
         isCached: true
+  - title: "Why trust is critical to business applications of generative AI"
+    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
+    publishedDateTime: 2023-09-22T15:10:00Z
+    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
     publishedDateTime: 2023-09-18T19:05:00Z

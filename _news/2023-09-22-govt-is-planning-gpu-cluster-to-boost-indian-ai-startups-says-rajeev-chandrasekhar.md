@@ -85,6 +85,24 @@ related:
         width: 400
         height: 220
         isCached: true
+  - title: "Artificial Intelligence is reshaping India’s stock market – for better and for risk"
+    excerpt: "In conclusion, AI offers thrilling possibilities for the Indian stock market, from better data analysis to democratising sophisticated investment strategies. However, it isn’t a magic bullet. A balanced approach, integrating AI’s computational power with human judgment, is the most prudent path to navigating India’s complex stock market landscape."
+    publishedDateTime: 2023-09-22T12:01:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-artificial-intelligence-is-reshaping-indias-stock-market-for-better-and-for-risk-3251998/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 13
+  - title: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator"
+    excerpt: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator - Yudiz Solutions, a digital transformation and technology services provider, has signed an MoU with"
+    publishedDateTime: 2023-09-22T12:31:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/yudiz-solutions-an-ai-and-gaming-startup-signs-mou-with-indias-largest-startup-accelerator-nid-225516-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 6
 
 secured: "2oFuEcuGpdyzAYO4joIo1ExnAn3stNkKCzDRxqOibY0tVO/oRauscUWDv/LAgUE3723sIr63LI8H2KweCp132ygS7YWXwnkGWWYtp+Duj24ZF1Oh1wwSxC1cC4MDfWoPFjLCTGeVck2wx9Q2KVZCAua8dhI7oWY2oF50Fu6eksvjUf9UICKCWWIVgr4o7FbsREFIbyVcelJIe6rl8mu85p+bueTs0g165mSPpXWEd2EKfwxT41e/tB3l6CpfzDzUaMCekHgd2EsA2pNMIgTonixmq0l3fNWNpuInTuGzgf54+m19sz6474mTGByyOpC8bEgw87ArBkXWacyXcdXDOTJ5kWwySh3swbgBJjuz6MJLiSHoODx+KtNFoL+00MQjNkQ/D0S4zEIw65Nenxo8fTmfZar0Bz5TXXp6JL5lihKVa43U//Xi2+2vMOhruMzwC3tE3rBYDV/WKV5451GJQ3P4YGRebmuCXCPKOfwHjLvvrfpQmWe7zGpXiE4Yyg9gace++TsUD2TDtk3RaR+vPg==;dwatkezYMvDeX8MqYInShg=="
 ---

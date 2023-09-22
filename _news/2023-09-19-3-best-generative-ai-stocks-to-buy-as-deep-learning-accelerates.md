@@ -63,6 +63,20 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Why trust is critical to business applications of generative AI"
+    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
+    publishedDateTime: 2023-09-22T15:10:00Z
+    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Toyota Uses AI to Teach Robots New Behaviors"
     excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
     publishedDateTime: 2023-09-21T14:06:00Z

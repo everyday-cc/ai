@@ -50,20 +50,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 31
-  - title: "No, the Voice to Parliament would not force people to give up their private land"
-    excerpt: "The proposed constitutional amendment that would create the Voice is very simple. It seeks to insert one new section into the Constitution, which reads: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia ..."
-    publishedDateTime: 2023-09-17T20:02:00Z
-    webUrl: "https://theconversation.com/no-the-voice-to-parliament-would-not-force-people-to-give-up-their-private-land-212784"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
-    images:
-      - url: "https://images.theconversation.com/files/547387/original/file-20230911-27-7ildid.jpg?ixlib=rb-1.1.0&rect=13%2C0%2C2989%2C1494&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "GNOeoQa6F84jTuqEapOejWTPSk35qHfIazhRhxFY5SRJ/YZF6fQo670rurBrIl48rPZFAq2rpv2PL3v9isTbQgHVZpQwPKxo/R3aIvByj3WHOqc8HUf2iZoFGE+EGw0Bfth489Lfx7U90su2IHjzIvroVjoKoitYKorOaVDoZ1Xqlh+vsVvRRtotoU4egRW+2zNr5i7crwMkSgxdmH/nzovnxh/BuBXz5SYc+bDUkRRJe0/dCwppirs5I1ojVDsDZAJBAAvOGf4PrRUbHs5ogbgBx4fxfOICkzLaRmompHDC/+owspKNH9GXrWjVBq8884g6oeu/+P4+YSHDa5OBSoUoGeVZoFvUedu/FY4pegY=;43rlGv0sBI2c9dJrELm2gw=="
 ---

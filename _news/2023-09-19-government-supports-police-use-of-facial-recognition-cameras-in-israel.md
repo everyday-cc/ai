@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israel's facial recognition bill risks further abuse of Palestinian rights, campaigners warn"
+    excerpt: "Promoted by the right-wing government as a tool to fight crime, rights groups warn the draft bill will be used for racial profiling"
+    publishedDateTime: 2023-09-22T14:20:00Z
+    webUrl: "https://www.middleeasteye.net/news/israel-bill-facial-recognition-policing-palestinian-rights-concerns"
+    type: article
+    provider:
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 43
+    images:
+      - url: "https://www.middleeasteye.net/sites/default/files/images-story/israel-security-cameras-hebron-2021-afp.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Israeli government pushes bill for facial recognition surveillance cameras in public spaces"
     excerpt: "The bill says a police officer of undetermined rank will be able to decide that a camera be placed in a public area and at protest demonstrations."
     publishedDateTime: 2023-09-19T10:55:00Z
@@ -36,20 +50,6 @@ related:
       name: The Forward
       domain: forward.com
     quality: 29
-  - title: "Arab Center for the Advancement of Social Media Warns against proposed Israeli bill allowing facial recognition surveillance in public spaces"
-    excerpt: "The Arab Center for the Advancement of Social Media, 7amleh, raised the alarm over the imminent approval of a bill that grants the Israeli police the power to deploy facial recognition cameras in public spaces."
-    publishedDateTime: 2023-09-22T11:31:00Z
-    webUrl: "https://english.wafa.ps/Pages/Details/137711"
-    type: article
-    provider:
-      name: Wafa
-      domain: wafa.ps
-    quality: 19
-    images:
-      - url: "https://english.wafa.ps/image/NewsThumbImg/Small/19a96ba2-186d-4157-84fe-365ec16aa220.jpg"
-        width: 300
-        height: 290
-        isCached: true
   - title: "Israel’s Ministerial Committee Greenlights Facial Recognition Cameras in Public Spaces"
     excerpt: "The Ministerial Committee for Legislation gave preliminary approval on Monday for a bill that will legalize the use of facial recognition cameras in public places across Israel, allowing for use of the data to investigate criminal activities. The bill still needs to be approved by Israel’s parliament, the Knesset."
     publishedDateTime: 2023-09-18T19:08:00Z

@@ -142,6 +142,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Fed’s Cook Sees Signs of AI Improving US Labor Productivity"
+    excerpt: "Cook has supported the Fed’s rate increases intended to cool price growth, and she testified in her confirmation hearing in June that she would continue to work to bring down inflation to the Fed’s 2% target. She also said she favors tailoring regulations based on a bank’s size so that smaller lenders don’t face the same burdens as bigger ones."
+    publishedDateTime: 2023-09-22T12:46:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-09-22/fed-s-cook-sees-signs-ai-could-improve-us-labor-productivity"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "Amazon joins the chorus of companies adding generative AI to products"
     excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"
     publishedDateTime: 2023-09-20T20:10:00Z
@@ -202,6 +211,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 16
+  - title: "Artificial Intelligence in its current form not threat to creativity: Javed Akhtar"
+    excerpt: "Amidst concerns by artists and other creatives that artificial technology would rapidly replace them, veteran lyricist Javed Akhtar believes that the technology of artificial intelligence in its current form is unlikely to hurt or become a threat to the artistry of content creators."
+    publishedDateTime: 2023-09-22T13:44:00Z
+    webUrl: "https://theprint.in/feature/artificial-intelligence-in-its-current-form-not-threat-to-creativity-javed-akhtar/1773839/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 11
   - title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
     excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
     publishedDateTime: 2023-09-21T01:05:00Z

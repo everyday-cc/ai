@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI, FinTech, and the ethical imperative: Navigating the uncharted waters of financial technologies"
+    excerpt: "The new emphasis on prevention over response becomes not just a practical necessity, but an ethical and existential imperative, as the margin for error narrows with the rising power of technology."
+    publishedDateTime: 2023-09-22T14:29:00Z
+    webUrl: "https://www.fxstreet.com/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 60
+    images:
+      - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
     excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
     publishedDateTime: 2023-09-19T13:48:00Z
@@ -91,6 +107,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Fintech Stocks That Will Handsomely Reward Tech-Savvy Investors"
+    excerpt: "However, these factors have also brought other fintech companies back to attractive levels ... The company has also recently introduced its new product, Intuit Assist, an AI-based financial assistant that targets both consumers and business and help ..."
+    publishedDateTime: 2023-09-22T15:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-handsomely-reward-tech-savvy-investors-1032649763"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "B0RgBRMMMPxb7yCqvCR0Ls2sF4ovhQwENOQqHXiUkyIjmvZ/UuqvE+gCMqBpSt6kQCJUFDaHohMpVXsvb0GzszX/rgKKFtplcqV+WPXjvey3N8u9KP9RqrWSXq0COqxH4pbCL0p8ayM4Wetw4zs5o1MvDPtjl3mBPJiZzAm1/8/KuGX980zbO2Rpg5kiMrSfXf5Z1FMjBe7qgpZBKgFj5hLvdxxccEpiRED6LcG39HKlBiLvFYhIrgZNvdYSV5kS9Ag59ETxBdzlW4d0k2qDzYwwd3TDmkPwnX1FPw4J5QMPPlunwaP8JpjyD7RvTsHXzcnrRgJV/yLaaXnlzXANfvwmV9HM+HbQj9FtSyaFBAK4KhFnKV1j4ij6wYsz5pkAYRRmZgIxdCmCOavOjpuuFlmMFH2wNgaaLhB3ahR8zD0jHy6UYGYTdbUCHDSaHXiJ4bFARpOK/5m+/FkZjZPDaK3yCs1AH23ZwmMt7CghI3wB6S4erDkKns0r2ovBnRSDMtCPgXp1WRlmxgJDfDczJw==;WYshchMs5pCiVpQZJ2N0bg=="
 ---

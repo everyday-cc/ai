@@ -34,6 +34,15 @@ related:
       name: Grand Forks Herald
       domain: grandforksherald.com
     quality: 13
+  - title: "AI wrote this editorial, and it argues that human journalists should keep their jobs"
+    excerpt: "Microsoft’s Bing Chat AI was asked to write a newspaper editorial arguing that artificial intelligence should not be used in journalism. Here is the result."
+    publishedDateTime: 2023-09-22T15:01:00Z
+    webUrl: "https://www.seattletimes.com/opinion/ai-wrote-this-editorial-and-it-argues-that-human-journalists-should-keep-their-jobs/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 12
 
 secured: "ni51W5zpeov0urAHcyxFJXYA2MRTbZ/+Qjbn0nwI/nQIi4lPIDt1a48Ri0HgOxYqkWH4WbCumwsDZygkicI+vPGSiCykjuznquInAk8ezWK08RTlbO2AHwei5yVGr8J4NbgB+eufx15ny/MlnsJVHDk0vVs8ZhkSbQL4zJ9SpYNBIMm/Al5PDrVyIPD4ZmNivgmlwis4rnQAzmwAKRwoEJ5RmZTJaLZ4mjq0QcZBSdBI6hnnRE+cWpB3gErt6IOtyZM2uCFzYOLPzMQl2B/KrvIpfs+kRqalPzX+CqxXv1S+RF9eDfMp73uX3JVxLUkM7SaQdkBcyDEH+hNMt2/FZJKi3tsggK59Zf12Xd7Ce4E=;d1Ace6+ZL5NRb3fhhcaqnQ=="
 ---
