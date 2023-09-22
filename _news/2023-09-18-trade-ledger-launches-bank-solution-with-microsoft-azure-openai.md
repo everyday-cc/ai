@@ -122,6 +122,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Hands On: Microsoft Surface Laptop Studio 2 Gains AI Chip, Aluminum Body"
+    excerpt: "In addition to the aforementioned GPU options and the Movidius AI accelerator, the Surface Laptop Studio 2’s base version will come with an Intel Core i7-13700H processor (the same CPU comes in all variants, though commercial models get the security ..."
+    publishedDateTime: 2023-09-21T23:55:00Z
+    webUrl: "https://au.pcmag.com/laptops/101759/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 100
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/h/hands-on-m/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-alu_3bts.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I went hands-on with Microsoft's new AI features, and these 5 are the most useful"
     excerpt: "Here are the new Microsoft AI features that will likely make it into my own daily workflows. At Microsoft's annual fall event, the company unveiled major AI products such as Copilot, an updated Windows 11, and Microsoft 365 Chat that are all capable of doing many different tasks, almost too many to keep track of."
     publishedDateTime: 2023-09-21T21:30:00Z
@@ -237,20 +251,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230920pd207_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
-    excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
-    publishedDateTime: 2023-09-17T06:01:00Z
-    webUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 69
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/fa17f821cbdb9c13cd02c32aeac174a6_M.jpg"
-        width: 375
-        height: 293
         isCached: true
   - title: "Microsoft AI Researchers Accidentally Exposed Big Cache of Data"
     excerpt: "Microsoft Corp.’s AI research team accidentally exposed a large cache of private data on the software development platform GitHub, according to new research from a cybersecurity firm."
@@ -440,6 +440,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/ai-hand-touching-mechanical-hand.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft Reveals Copilot, AI Features Across Windows, Bing, Edge; New Surface Devices Launched"
+    excerpt: "M365 Copilot is one of several new AI enabled tools that Microsoft revealed yesterday at their event in New York City kicking off the Copilot era, and brining generative AI to Teams, Outlook, Word, Excel."
+    publishedDateTime: 2023-09-21T22:39:00Z
+    webUrl: "https://www.crn.com/news/computing/microsoft-reveals-copilot-ai-features-across-windows-bing-edge-new-surface-devices-launched"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 44
+    images:
+      - url: "https://www.crn.com/resources/0285-19090652a859-17e0a360c8a4-1000/copilot_20230921181019.jpeg"
+        width: 600
+        height: 397
         isCached: true
   - title: "Microsoft unveils its new Surface Laptop, AI powered Copilot, and more"
     excerpt: "Microsoft unveiled a slew of new products and updates at its Surface event this year. From groundbreaking hardware advancements to sophisticated software improvements, the tech behemoth continues to reshape the landscape of personal and professional computing."

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-09-ai-birds-easier.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-birds-easier.amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

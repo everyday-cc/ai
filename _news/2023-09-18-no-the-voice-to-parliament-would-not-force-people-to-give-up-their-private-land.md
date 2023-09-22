@@ -41,22 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "‘History is truly calling’, Burney declares as tens of thousands march for the voice across Australia"
-    excerpt: "Minister for Indigenous Australians told Melbourne crowd she was almost crying when she saw the turnout for the rallies"
-    publishedDateTime: 2023-09-17T06:20:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/17/history-is-truly-calling-burney-declares-as-tens-of-thousands-march-for-the-voice-across-australia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 29
-    images:
-      - url: "https://i.guim.co.uk/img/media/290b0236b952387320c10a92de47c322bd3c0e7f/0_0_5500_3302/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=81b004dcdea093e4e3773c36c4418d13"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Shadow Minister for Indigenous Australians - Speech - National Press Club"
     excerpt: "Today is the first time I have addressed the Press Club as the Shadow Minister for Indigenous Australians.It is the second time I have been given the opportunity to address the National Press Club.The first was in November of 2016 when I stood alongside Marcia Langton and Josephine Cashman to address the critical issue of family violence and sexual abuse in Aboriginal communities."
     publishedDateTime: 2023-09-18T04:44:00Z

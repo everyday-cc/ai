@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Toyota Uses AI to Teach Robots New Behaviors"
+    excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
+    publishedDateTime: 2023-09-21T14:06:00Z
+    webUrl: "https://www.assemblymag.com/articles/98025-toyota-uses-ai-to-teach-robots-new-behaviors"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 54
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/images/TRI.jpg?height=635&t=1695264007&width=1200"
+        width: 900
+        height: 600
+        isCached: true
   - title: "TRI is developing a new method to teach robots overnight"
     excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
     publishedDateTime: 2023-09-19T13:00:00Z

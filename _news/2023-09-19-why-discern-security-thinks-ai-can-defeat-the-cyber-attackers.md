@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-sec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/HiddenLayer.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs ..."
-    publishedDateTime: 2023-09-17T06:59:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/autonomous-vehicles-cyber-attacks-danger-b2411929.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 20
-    images:
-      - url: "https://static.independent.co.uk/2023/09/15/00/newFile.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 901
         isCached: true
 
 secured: "Gelf/T1BckawCzFqxMsqe9SeoogY3XSleWuhVGvUYCFl4FmUkga8V29xKyoTEAsRqA7xCRmKOKgwx8jZB05GvRbm80rEUV7eVWFhR/aNJJaMxIyahRPm0qvnavFVGbuk2SqnihtHt6l2OzLnhD1TnjXdGTPuycGlOY1R0Ss18HANe0+vKirLs1VSbUof3am0YpTO10/O+7DsDAsEsNJMfWwPNJ6ndqpSwpu9krtib6P1BoxviKYLTrhWdk88mIcs5+ooVIORjKfXsvk09GrlVsrevgMKSz6Pbch57SzCHcq39D3AH1L0Sya44iCN0OIBt51OvJqB9i8Rxz3ewOSgWonEghVP+Fr5V2NgXzF/KVc=;dmMvkxAyB8ERzFcDUtwEfA=="

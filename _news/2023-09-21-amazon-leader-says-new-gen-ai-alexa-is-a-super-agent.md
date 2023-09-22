@@ -72,6 +72,22 @@ related:
         width: 835
         height: 468
         isCached: true
+  - title: "Amazon Announces Alexa Model with Generative AI Capability"
+    excerpt: "Retail giant Amazon has unveiled plans to launch a new Alexa model with generative AI capabilities to improve customer experiences."
+    publishedDateTime: 2023-09-21T10:43:00Z
+    webUrl: "https://www.coinspeaker.com/amazon-alexa-generative-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/amazon-alexa-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/amazon-alexa-generative-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 59
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/09/amazon-alexa-generative-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Amazon Unveils AI Version Of Alexa, Other Devices, New Features"
     excerpt: "Amazon.com. Inc. has unveiled a bunch of smart home devices, including an upgraded, AI-powered Alexa and all-new Echo Frames and"
     publishedDateTime: 2023-09-21T11:28:00Z
@@ -158,6 +174,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "MtYf8Vh44FuV5DquCUwaIpkSkAtLmue7l7fhZBvFoWoZJ8YIvJBJEJhRZeKNYS4XinC9KYBjRD3kgCrsqKLZnwzlH0EZhB++WBQou17jAOuxawaSeFbC4MnESo6+2/QFpfO/5AeqoS4UFLBo5qZOXwS3pR9oFi79nnNntuDKv2gA7lmpM3L6jMWp1S+6YVBf2aVr9X7s7FQ0WYbZzDdmEk3iqSDgWf3356sKI4KZxDThNOjpJcBcnJC8cyuQuU8tFs/h9DJ6Wfo4ZHHsebaNczGpsASCiPVg1CVjNX6DEgiqK8bY43ydCVVSi7flswnAIN18Wnk9xFmfV9UnD3fSYBfxX2S/y3dUBNOcTww18oc=;fag3V8iwGz+SZdaqOQr3NA=="
+secured: "eOoOO9gY8fsJEHKrRmPcGNA9kFwPi+oDP/M5x+iO2I1rurNKmFnzcG/ijmH/eiUpOMq1ppykPH0WcAo2gByLPU7yaBxA3nXVURkQnRFU4dnBVYva7NtK6RUpuUFYPgU9y/b0HFNzXOfKuI1Wqc6Oc56aZUPYphG8FoZ8wBMQPf38XtxB/ix7Z4aqk01dVOUCburLhe9moF7JdSt/gamN842w4hN/1TKZW1mMu+FYkE1hkDZph9H6hWZfH9tE5Y3BCR77ZCkNonHSgx2G+af0Wv7JXKoIAWwrmf0xkSeiPOIzhB7LlxSdtjOUPfObCnYmXoQJE4D5DKNzEatdSdtjr+q5umXH4FOjl8nluADsxhGP/qvA3G0zZdrTLxqizZJjvE6ucNoj0eQoITPiWr2vZFl8b5JqFbcAv15RdUQMFvqfzfNop+C+L7+tQNpguJfeNwGr5uKNgSPTvr1tKzhYQpYEXeoSNf/O3QNx5SztM4jdAkpk7gy3MU4Myy66DALaY2HRcn45EUKphDwtbSrULw==;RLzW4ykPvASVPtSJ3/qdPw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishin
 webUrl: "https://www.pcmag.com/news/amazon-limits-authors-to-self-publishing-3-books-per-day-amid-flood-of"
 type: article
 quality: 62
-heat: 84
+heat: 86
 published: true
 
 provider:

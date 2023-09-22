@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australia-adapting-generative
 webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/2ff14d89b8d3d20424b9c1574f39449663df4e3b/0_365_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=700577450433f03e730103537da619b1"
         width: 620
         height: 372
-        isCached: true
-  - title: "Thousands in Australia rally for struggling indigenous recognition referendum"
-    excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
-    publishedDateTime: 2023-09-17T05:30:00Z
-    webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 51
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/0ab1682a-95f5-4cf4-a5e4-3ffa8bcaf780_21e66872.jpg?itok=TjV6awta&v=1694926190"
-        width: 1200
-        height: 630
         isCached: true
   - title: "A Voice for Australia’s aboriginal people?"
     excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"

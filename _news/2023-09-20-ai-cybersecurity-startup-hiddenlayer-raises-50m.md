@@ -111,20 +111,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 39
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs ..."
-    publishedDateTime: 2023-09-17T06:59:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/autonomous-vehicles-cyber-attacks-danger-b2411929.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 20
-    images:
-      - url: "https://static.independent.co.uk/2023/09/15/00/newFile.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 901
-        isCached: true
 
 secured: "jHxS97glmVfy2jO7yycgtBr3RXEL1VxsDoz6HM99yEOpIzYU/Ret7R+yDsMms1NHDLTcIcwti17vjV7TwiT4o035s/gww7m8alnOTNHvP7CZIHlh1V5PrprjLEmjrwCqvG02DDjcnk3MgAPSKfI73jdO2SUbfcgRfty5jiwcjWpgTDO7jP0bbdl/l5OTJTo+z3UvgVzLRRTIvklozWl3VXHBbqmccNkf16tf/kFqK+giRkE2AdKNokjysem+vtEjruE8Cw2nyNVIjUbXp7p1Hi/ElxOMwR3NdUwVfksAkxwibgx0tPuze+knsR6b8EC9m5gQbTqAZfXI4WD2blSGAHsrJUHTbfvnc2FjSQrUZWuuXJqVW7fAM8P3RlmrjsRkR8WxPJj4gElFIweUyBoTadJyM/wxdmkfC/qokTzlzkhcJB95RZICO/EC124nOgNh15ifdCaAzmQrMGVc+FTtJB3UeHtnskKjzFN/uIa6Ls2+r6q47/zQi0cLKRlklix1HEmnuft60fAyQ0NAQTrk2g==;0EOL7gyhIVp76sa2qCPQwA=="
 ---

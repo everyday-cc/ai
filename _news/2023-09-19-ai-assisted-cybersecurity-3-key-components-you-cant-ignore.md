@@ -114,20 +114,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Cyber attacks and dozy drivers: These are the future risks of self-driving cars"
-    excerpt: "“A large cyber-terrorist attack targeting the operating systems of many self-driving vehicles simultaneously could cause mass casualties” – that is the alarming scenario presented by MPs ..."
-    publishedDateTime: 2023-09-17T06:59:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/autonomous-vehicles-cyber-attacks-danger-b2411929.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 20
-    images:
-      - url: "https://static.independent.co.uk/2023/09/15/00/newFile.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 901
-        isCached: true
 
 secured: "f+//rj9+FcICqeg3R0GBf+1bUNgmK7pvM5LedaZrDErdRuxKdraST1aaXEus9XWCIa2tRYIb61u1bXNSszE4DEhIUeNg5tn4dX0qfvbBju5S++AWBhEX4HGi7yiHvZVUiccb52Asp1mEegowWwLQ0SKsdvzZVRg+ytgOKj38w3xLr9WUGOIW6hj8FFVgZQNulNleqgKqY0uxFxxbVuLtxdOI49KTcp7PIorH3QAeVS33i+QJl7tL6GQabI9iheQOqcYZ29RrAK4quSYCpFmpctfOTJygQM3mCRb90k4q7D7/nXi9YfBavHTETRS6El/HT6acewj/eXea9DDu4NEjRaTGRuvhABaOf6r6fK0DVgDRsY5Hr+iYsy0cKAUIIZJXm1lsX+vmKG9Kvq7Qi3aiof1X9lopIbQskUGvrQhLsEhQCp5c8kMK/18+ZtGhE2JEokDdMBkN9TbbxR8UDh4RUJei4eNgwP+4iiuLyjB0t7fgYuXhQgS2mvsre0ldH59hOvlmBD1r4rMO+ZJGsXkV1w==;FJjFJx/15y+mZBjkRVTxBA=="
 ---

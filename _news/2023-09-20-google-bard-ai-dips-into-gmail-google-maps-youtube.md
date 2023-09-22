@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-ma
 webUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/"
 type: article
 quality: 67
-heat: 93
+heat: 87
 published: true
 
 provider:

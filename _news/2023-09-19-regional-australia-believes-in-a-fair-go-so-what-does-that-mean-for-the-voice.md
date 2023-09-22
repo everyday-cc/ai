@@ -45,20 +45,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Thousands in Australia rally for struggling indigenous recognition referendum"
-    excerpt: "Ahead of Australia’s Voice vote, ‘false information’ swirls among Malaysians But the “Voice to Parliament” proposal appeared on track for defeat, a poll showed last week, the fifth monthly survey in a row to find voters against the change."
-    publishedDateTime: 2023-09-17T05:30:00Z
-    webUrl: "https://www.scmp.com/news/asia/australasia/article/3234833/thousands-australia-rally-struggling-indigenous-recognition-referendum"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 51
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/09/17/0ab1682a-95f5-4cf4-a5e4-3ffa8bcaf780_21e66872.jpg?itok=TjV6awta&v=1694926190"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A Voice for Australia’s aboriginal people?"
     excerpt: "IT was billed as a modest proposal that would help heal the traumas of history and unite the country. Australia would change its constitution to recognise the original inhabitants of the land and enshrine an advisory body in Parliament for aboriginal people,"
     publishedDateTime: 2023-09-18T00:14:00Z

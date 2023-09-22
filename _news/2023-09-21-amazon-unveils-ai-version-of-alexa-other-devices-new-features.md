@@ -81,6 +81,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon Announces Alexa Model with Generative AI Capability"
+    excerpt: "Retail giant Amazon has unveiled plans to launch a new Alexa model with generative AI capabilities to improve customer experiences."
+    publishedDateTime: 2023-09-21T10:43:00Z
+    webUrl: "https://www.coinspeaker.com/amazon-alexa-generative-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/amazon-alexa-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/amazon-alexa-generative-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 59
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/09/amazon-alexa-generative-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Alexa Just Got an AI Makeover"
     excerpt: "This week, we learn how Amazon is teaching Alexa more skills to help it better compete in a landscape lousy with chatbots."
     publishedDateTime: 2023-09-21T12:00:00Z

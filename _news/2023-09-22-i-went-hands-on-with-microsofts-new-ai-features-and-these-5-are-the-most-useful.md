@@ -127,6 +127,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Hands On: Microsoft Surface Laptop Studio 2 Gains AI Chip, Aluminum Body"
+    excerpt: "In addition to the aforementioned GPU options and the Movidius AI accelerator, the Surface Laptop Studio 2’s base version will come with an Intel Core i7-13700H processor (the same CPU comes in all variants, though commercial models get the security ..."
+    publishedDateTime: 2023-09-21T23:55:00Z
+    webUrl: "https://au.pcmag.com/laptops/101759/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-aluminum-body"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 100
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/h/hands-on-m/hands-on-microsoft-surface-laptop-studio-2-gains-ai-chip-alu_3bts.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-09-18T11:16:00Z
@@ -240,20 +254,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230920pd207_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Oracle and Microsoft team up - Oracle database now available on Azure"
-    excerpt: "Microsoft and Oracle expand their partnership to provide Oracle Database@Azure, providing direct access to Oracle database services running on Oracle Cloud Infrastructure, deployed in Microsoft Azure data centres."
-    publishedDateTime: 2023-09-17T06:01:00Z
-    webUrl: "https://itwire.com/business-it-news/data/oracle-and-microsoft-team-up-oracle-database-now-available-on-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 69
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/fa17f821cbdb9c13cd02c32aeac174a6_M.jpg"
-        width: 375
-        height: 293
         isCached: true
   - title: "Microsoft AI Researchers Accidentally Exposed Big Cache of Data"
     excerpt: "Microsoft Corp.’s AI research team accidentally exposed a large cache of private data on the software development platform GitHub, according to new research from a cybersecurity firm."
@@ -444,6 +444,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Reveals Copilot, AI Features Across Windows, Bing, Edge; New Surface Devices Launched"
+    excerpt: "M365 Copilot is one of several new AI enabled tools that Microsoft revealed yesterday at their event in New York City kicking off the Copilot era, and brining generative AI to Teams, Outlook, Word, Excel."
+    publishedDateTime: 2023-09-21T22:39:00Z
+    webUrl: "https://www.crn.com/news/computing/microsoft-reveals-copilot-ai-features-across-windows-bing-edge-new-surface-devices-launched"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 44
+    images:
+      - url: "https://www.crn.com/resources/0285-19090652a859-17e0a360c8a4-1000/copilot_20230921181019.jpeg"
+        width: 600
+        height: 397
+        isCached: true
   - title: "Microsoft unveils its new Surface Laptop, AI powered Copilot, and more"
     excerpt: "Microsoft unveiled a slew of new products and updates at its Surface event this year. From groundbreaking hardware advancements to sophisticated software improvements, the tech behemoth continues to reshape the landscape of personal and professional computing."
     publishedDateTime: 2023-09-21T18:37:00Z
@@ -540,6 +554,6 @@ related:
       domain: inferse.com
     quality: 30
 
-secured: "fnPXYTA4ihX1pkRm8/mz3dUzQ+CMtpiJTh3Q27D2dOiQ4tGsnNwNLQCmaUbVGZMZMx3VhJvgON+an+Md9DUol4uoN6Jb3uLQfxXnbf79KC4djvTDLJ9/lFymItM3mJ4Y3Ae/EL1hWn6CjPcU/+mbbqA3Y0UhLelDjp8P3SM2eX7lIjojX0lNBunmXgtI2MkJe1T1QtE1GjTFWUIpu3aXBUmVLEOPtYAQVXcstmPCrDEU5i7Sd34rcQTDoqrAYw9kJDjiv8CLN3SiUb7dPHor1HyDlfkgPi7xnOqcieaBymF7WbT5mWplZ2QzZG5sv2lMmgli7w4ORwY7gEl28vBxGvB0ZQD50u9QMfDQ6NsO1Q8=;G7XmXZrFIygZpJz8uDw6GQ=="
+secured: "sfUU5UzHG3KQgOtPTBEPOT7pziaPuqmfGaLD3SOAEDyYIbK9SHzkeOM7EF8A0JjgNgZP+lTV05P9gGnZ+VVZ+LuW/mxOIkuFg16O2uKNJB9U+SYs+55eNpJVYmeyAmBwiMQVnnHtWASywBy6jAbPS4H9Oij/u6NAXfpkHxEWfQ3V8PxKadVvpRAH0Aehg2Zss7ZSPUmh3zo5mj+DScfpRkVUqxbPi4WAqlfMi4gVA537ZPy6/vTjbz7YgwkB6GvgUZRzg0JxVo+vkAZE/j5zgCTx1j37lQIOCYfGZkE2hdk54XxHavC3iGv1f5wB5VUiT8OOyHAJFq6dXt02VHlOgTMi3PmHFigkZ6eN/xvzDP//leOWet+81mNpv+YWs5LA9sw5/0HD2XwOth8vBYd4mcDqz2aFFJCqSY7B6YvwPGPjK4LuRbBYIaD3uYS59hj8iU5qHDS9nNIQtR3YRVpzXfs5nUVM5OLjzOfeJ2LmhAJenT0myFDFAYsdRxt1fXaiMpVfu6104ULxH4lj2ImA5w==;ueaT+pMCnUfk3IrlEMbwnw=="
 ---
 

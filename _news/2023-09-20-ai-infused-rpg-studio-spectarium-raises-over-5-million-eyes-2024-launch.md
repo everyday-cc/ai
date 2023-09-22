@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
