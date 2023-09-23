@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introdu
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
 type: article
 quality: 105
-heat: 595
+heat: 585
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/f5820358bd64997302a296ff2128c67a2d7a67c8/2023/09/21/c3dfb01e-2377-4383-8008-74127dc9b84f/img-4170.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-18T11:16:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/trade-ledger-launches-bank-solution-with-microsoft-azure-openai/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 86
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_TradeLedger.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Microsoft and Adobe partner to deliver cost savings and business benefits"
     excerpt: "The Total Economic Impact™ Of Adobe SaaS Solutions with Microsoft Cloud report provides a deep analysis of the key challenges organizations look to address when deploying Adobe SaaS solutions on Microsoft Cloud. Read the full study to understand why.\nThe post Microsoft and Adobe partner to deliver cost"

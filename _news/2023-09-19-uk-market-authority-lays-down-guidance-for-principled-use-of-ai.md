@@ -42,31 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI boom may not have positive outcome, warns UK competition watchdog"
-    excerpt: "Risks include high prices as well as proliferation of false information, fraud and fake reviews, says CMA"
-    publishedDateTime: 2023-09-18T11:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/18/ai-uk-competition-watchdog-cma"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/c747e5c21c843a232689374dbd18440ba8d78d47/0_351_5300_3182/master/5300.jpg?width=620&quality=85&auto=format&fit=max&s=7bc0a608ffb5e08dc84492026722b4f0"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "UK competition regulator lays out new artificial intelligence principles"
-    excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to foster competitive growth in the fast-moving technology. The Competition and ..."
-    publishedDateTime: 2023-09-18T12:57:00Z
-    webUrl: "https://www.tribuneindia.com/news/world/uk-competition-regulator-lays-out-new-artificial-intelligence-principles-545563"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
 
 secured: "nYhn1fidkbtSysuJOJP2804KSlf1XNn078bc5Zd0pPx6RyCpObEk2ZPnofKmvwI4k+e27XpDt6RKuffVwGmlqgHEs8sV8vio2Q6Ji1WcKxWJuhFSHzy+kz84JNZMN4ZZsGxtC0UZy4b2YLIWZnQpq5gppWOdF4ahMpGz3qbEgRlr5YPpdqiocwGu8JJGkH56L75CZFct/tVzt137dMOONASnL/aKN8gCmq0vefiBebaKzGli2iGzb8zRoiyQU165Ac+KA3umhYPJCNpLt3iOtCq2I18d/W3VxmGeTXITzF/HG0xfkKq7FXYlpzC2iUlGOkABhGFfsCnnIoyYCzrLorg12mTy3eG3LOua0h/HzUPKczeLALSjAN4N/1ISHQ6RN85uvSgYtsxCovwUprfeW3AMZrnUpixPL0qZMGA2eRq4sGVAh3w63JFhRu0e4DtbLmL5yM30mjrrBTOV0iXKmNkxpWEnBJIDIoQ6yaXDps1GSO29ACfv6oJ5bBTxgtglODX82URxcXDXqgpYTtE8dQ==;wWvMqPm0ohW5eSFIo0kwVg=="
 ---

@@ -19,15 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Universities Rethink Using AI Writing Detectors to Vet Students’ Work"
-    excerpt: "After ChatGPT took off last year, some teachers relied on AI writing detection tools to figure out if their students’ homework was written with the help of artificial intelligence. Now some universities are rethinking using these services over concerns about their accuracy. But first…"
-    publishedDateTime: 2023-09-21T20:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-09-21/universities-rethink-using-ai-writing-detectors-to-vet-students-work"
+  - title: "SMEs need to be careful in using AI for learning and development"
+    excerpt: "Embracing AI offers SMEs an opportunity to enhance skills, boost productivity and stay competitive but they have to be watchful of cost, data privacy and relying too much on tech among other issues"
+    publishedDateTime: 2023-09-23T03:08:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html/amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fostering real learning through artificial intelligence"
+    excerpt: "The world shook last winter when the latest advance in artificial intelligence – the true-to-life language model known as ChatGPT – became a household term. But how are ChatGPT and other tools being incorporated into independent school classrooms?"
+    publishedDateTime: 2023-09-20T19:59:00Z
+    webUrl: "https://baltimorefishbowl.com/stories/fostering-real-learning-through-artificial-intelligence/"
+    type: article
+    provider:
+      name: Baltimore Fishbowl
+      domain: baltimorefishbowl.com
+    quality: 41
+    images:
+      - url: "https://i0.wp.com/baltimorefishbowl.com/wp-content/uploads/2023/09/AIStory.jpg?fit=815%2C451&ssl=1"
+        width: 815
+        height: 451
+        isCached: true
+  - title: "CyberAgent Selects Dell Technologies for Developing Generative AI and Machine Learning Infrastructure for Digital Advertising"
+    excerpt: "ROUND ROCK, Texas, Sept. 20, 2023 /PRNewswire/ -- Dell Technologies (NYSE:DELL) announces CyberAgent, a major digital advertising company in Japan, has selected Dell servers as the key IT infrastructure for powering its generative AI (GenAI) development and capabilities."
+    publishedDateTime: 2023-09-20T16:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/20/9884691.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "GMGknUjbDQu2iLurSG9vn2vpnUqxXC3zOiq5iMHq1g47VlGp4fTegWSxe0Xzig5hMEJD+NYDTd9oZGU3OUiObZkKhxbq7feC7szo75+8XRp9AiRjyfI0oAO+5bGlgeVqVgKmn9UnvpgpYW3zZBjz1ep7KD+MIFv/M1siD6sZN4QlIvpIdcqtk/VZLcGGWggigRvBIhE8jKEpSIXB2gxpfSpu023Uxv0UHICCEIB9cvy2HG+05m5ZnZrjb8F3sI2R5y0l6PemPrwbHxMtic74wEK9lhZZ6pWl88hPHbzL4kG34m4z1f+tPqeF4zHSDo467UZVbYwt6tbrfG66s2dW27WDcPV2UsU9345WFLMk7sDzXaO+iPT7vrs+O2tN1p4SunO/oGfCnGlqtMfpBSCq0DUi7CDf21j68nnGlxHLFK8/YPew73stsPL+zuA+6vKHyDSQIVYPfng3BNtm1b7MyBVppdNF4zgnSxdOl2AXFO8gtMNgbhApMv2+ZQvYs5hHNXkNiZmw9jOIsyRWr6DVvQ==;C7vnlW4mFb0+4QsL19i0bw=="
 ---

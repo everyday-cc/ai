@@ -2,6 +2,205 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-15-extending-chatgpt-can-ai-chatbot-plugins-really-change-the-game.md",
+      "title": "Extending ChatGPT: Can AI chatbot plugins really change the game?",
+      "excerpt": "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "originalUrl": "https://www.zdnet.com/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51fda1c51f88c886678acd9b26995e9a0f04e8d6/2023/08/01/642fa39b-9b6e-44e3-a5c9-39935cca0eaf/chatgpt-app.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/extending-chatgpt-do-ai-chatbot-plugins-really-change-the-game/",
+      "publishedDateTime": "2023-09-14T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-the-ethics-of-generative-ai-how-we-can-harness-this-powerful-technology.md",
+      "title": "The ethics of generative AI: How we can harness this powerful technology",
+      "excerpt": "With the great power of generative AI comes great responsibility. Here's how researchers are addressing the ethical concerns and challenges -- the biggest questions of our time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
+      "originalUrl": "https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/129698eae42671ce2b20b92978a585c39b18409c/2023/07/07/1c2e05f9-713c-4a92-87be-489899091f19/gettyimages-1206756458.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-we-can-harness-the-power-of-generative-ai-ethically/",
+      "publishedDateTime": "2023-09-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
+      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
+      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss",
+      "originalUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/09/01/16/facial%20recognition%20technology%20Indycomp%20copy.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-salesforce-readies-ai-assistant-for-crm.md",
+      "title": "Salesforce readies AI assistant for CRM",
+      "excerpt": "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
+      "originalUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706988/salesforce-readies-ai-assistant-for-crm.amp.html",
+      "publishedDateTime": "2023-09-14T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-tech-nonprofit-wins-googleorg-ai-award-to-help-30m-children-across-india-become-school-ready.md",
       "title": "Tech Nonprofit Wins Google.org AI Award to Help 30M Children Across India Become School-Ready",
       "excerpt": "Rocket Learning wins Google.org AI for the Global Goals. The tech nonprofit will use AI for good to improve early edu for 30M Indian preschoolers in the next 5 years.",
@@ -1024,194 +1223,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-robot-control-system-market-size-status-and-growth-outlook-2023.md",
-      "title": "Robot Control System Market Size, Status and Growth Outlook 2023",
-      "excerpt": "The global Robot Control System market is currently in a state of progress and holds promising prospects for the future, as indicated by a new report covering the period from 2023 to 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34575295/robot-control-system-market-size-status-and-growth-outlook-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34575295/robot-control-system-market-size-status-and-growth-outlook-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34575295",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34575295",
-      "publishedDateTime": "2023-09-14T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-linkedin-cofounder-reid-hoffman-thinks-pausing-ai-development-is-foolish-and-anti-humanist.md",
-      "title": "LinkedIn cofounder Reid Hoffman thinks pausing AI development is 'foolish' and 'anti-humanist'",
-      "excerpt": "LinkedIn cofounder Reid Hoffman is the latest high-profile figure to dismiss suggestions by experts that pausing the development of AI would be good for humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9",
-      "originalUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6502fd171afe8f0019ea5242?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/linkedin-cofounder-reid-hoffman-says-pausing-ai-foolish-anti-humanist-2023-9?amp",
-      "publishedDateTime": "2023-09-14T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud.md",
-      "title": "Multicloud connectivity for regulated industry workloads on IBM Cloud",
-      "excerpt": "A summary of key concepts and approaches that enterprises adopt for connecting IBM application workloads to other clouds.\nThe post Multicloud connectivity for regulated industry workloads on IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/multicloud-connectivity-for-regulated-industry-workloads-on-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T06:08:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-craigslist-founder-craig-newmark-is-pouring-millions-of-dollars-into-combating-ais-dark-side.md",
-      "title": "Craigslist founder Craig Newmark is pouring millions of dollars into combating AI's dark side",
-      "excerpt": "Craig Newmark has just donated $3 million to fund a new artificial intelligence and education initiative from Common Sense Media, as he fears future of AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103751892-CN-4_Craig_Newmark_Photo_credit_Bleacher+Everard.jpg?v=1694703601",
-          "width": 800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/14/craigslists-craig-newmark-funding-common-sense-media-ai-project.html",
-      "publishedDateTime": "2023-09-14T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

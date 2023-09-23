@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Nauticus Inks Service Deal with Shell to Deploy Autonomous Subsea Robot"
-    excerpt: "Nauticus, a developer of ocean robots and artificial intelligence for autonomous services for offshore industries, said in a news release that the contract has the possibility for future inspection service projects. The contract value was not disclosed."
-    publishedDateTime: 2023-09-18T12:18:00Z
-    webUrl: "https://www.rigzone.com/news/nauticus_inks_service_deal_with_shell_to_deploy_autonomous_subsea_robot-18-sep-2023-174033-article/"
-    type: article
-    provider:
-      name: Rigzone
-      domain: rigzone.com
-    quality: 19
-
 secured: "PlPbXtxjQjMnaBVEE7L+HjG+F/FuY0fUZUjy6l0ZwpmYASeb8zk2+KKj7A17Tv57xMVYCPgFScn548rRAPXiGT7CLNcCdOodeyYMa4MprvBawugMdr2U3GvOkHIlnnPy4mcDqFM16XLcpW8kJmZNORLo12/KkjdEPpxt1JmboOGMsMzR/Hqf/4/WQv+qxmQLHc3mW7PBdi50BzCukTPEemPfHS3HkOVR3UlQ1hvMP4zuT0xwDgyBrxn/s9CAuzKdXphmL0WITpjPJJKvfQf0vQ6eJ2XtNcyKZG6wWEbbKDd2tc4pQvdGqgeWlBXn8DuhQS+wWHOIfIj+ZSE5+1I9wHrEpQil3mwLIKa5hL57cvI=;vZs0kODBTlOUI389E/tINw=="
 ---
 

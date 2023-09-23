@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How To Evaluate Generative AI For The Enterprise"
-    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
-    publishedDateTime: 2023-09-18T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Optimize generative AI workloads for environmental sustainability"
     excerpt: "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning"
     publishedDateTime: 2023-09-21T16:48:28Z

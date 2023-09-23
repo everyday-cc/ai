@@ -38,22 +38,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How To Evaluate Generative AI For The Enterprise"
-    excerpt: "Without the internet, none of this would have been possible, especially with regard to natural language processing. These models were able to train on an incredibly vast corpus of digital text. While this training data made the transformer models as ..."
-    publishedDateTime: 2023-09-18T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/how-to-evaluate-generative-ai-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
     publishedDateTime: 2023-09-19T05:35:00Z

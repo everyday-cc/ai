@@ -56,14 +56,14 @@ related:
         height: 480
         isCached: true
   - title: "Unlocking the Future of Drug Discovery with Artificial Intelligence"
-    excerpt: "BCC's newly released report, titled \" Global Artificial Intelligence in Drug Discovery Market ,\" unveils the extraordinary impact of artificial intelligence (AI) on the pharmaceutical and biotech sectors. Authored by Ms. Surbhi Jagtap, Senior Analyst, this study provides invaluable insights into the AI-driven revolution in drug discovery."
-    publishedDateTime: 2023-09-22T08:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/09/22/9886108.htm"
+    excerpt: "The report highlights a groundbreaking discovery: Over 150 small-molecule medications are currently under development by biotech"
+    publishedDateTime: 2023-09-22T08:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/unlocking-the-future-of-drug-discovery-with-artificial-intelligence-301934565.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 19
 
 secured: "3rHwFZOIv0Rc0UyBMj+ejeDpvC7fN+bvCxZabBQCjOsNnyLCNpToaMOELLOGAW1WaUbLSa+8NlQdeK7uHf7oozcnrYvnjypFyEAPyNgK8G7+W1dUxKG4i+ahyovMq8iXCZzmi2uvUOFOnD8cWovo3r+cWLq+q1vMNm7R6HdcSg5pnZwvXlvtD6/+7kNmUVJyxNpI0YyVbg+YJnJGD34Qa0LkH1vCYHvgbVthu/5DHGTSa/Bps6ZsoyyRhE+6GgVdGlmLy1C6qu625Vhlv6pkM39uFTA842pHbGOIG4FbVi0rZjLTZF+ZaEWRjCV4V6JNeSIWhkvCvVeOnj4B+oPvwgER4NVHewn/TKL+SAFngIQ+3pR8wRE5POuwDkxSHLzQqdjCthGz/gzhPjvELRtYNLdrm55mKZHbS/VQHvAATNRQbq3g4vu9wH84K2dUXMSKFQOI9rYc47X42yK1EZiEo009DNEbJY/OSltkSmSe0pRe7nqLa9wZxcedIrx8W2OX+kVmyCQpoD898A6elJdttA==;7/oBs+L/tRt96SNyUSy78A=="
 ---

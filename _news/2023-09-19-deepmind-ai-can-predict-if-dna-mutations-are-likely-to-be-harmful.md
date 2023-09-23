@@ -185,15 +185,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DeepMind co-founder predicts \"third wave\" of AI: machines talking to machines and people"
-    excerpt: "Suleyman gave his opinion on the state of AI in an interview with MIT Technology Review last week. He said the first wave of AI was"
-    publishedDateTime: 2023-09-18T11:58:00Z
-    webUrl: "https://www.techspot.com/news/100179-deepmind-co-founder-predicts-third-wave-ai-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
   - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
     excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
     publishedDateTime: 2023-09-19T16:05:00Z

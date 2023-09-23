@@ -171,15 +171,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "DeepMind co-founder predicts \"third wave\" of AI: machines talking to machines and people"
-    excerpt: "Suleyman gave his opinion on the state of AI in an interview with MIT Technology Review last week. He said the first wave of AI was"
-    publishedDateTime: 2023-09-18T11:58:00Z
-    webUrl: "https://www.techspot.com/news/100179-deepmind-co-founder-predicts-third-wave-ai-machines.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
   - title: "DeepMind AI can predict if DNA mutations are likely to be harmful"
     excerpt: "By working out which small mutations will probably be damaging, DeepMind’s AlphaMissense system could help doctors identify the cause of genetic diseases"
     publishedDateTime: 2023-09-19T14:31:00Z

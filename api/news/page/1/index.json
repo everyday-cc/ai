@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-23-smes-need-to-be-careful-in-using-ai-for-learning-and-development.md",
+      "title": "SMEs need to be careful in using AI for learning and development",
+      "excerpt": "Embracing AI offers SMEs an opportunity to enhance skills, boost productivity and stay competitive but they have to be watchful of cost, data privacy and relying too much on tech among other issues",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html/amp",
+      "publishedDateTime": "2023-09-22T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-interview-uk-chancellor-jeremy-hunt-visits-amazon-and-microsoft-talks-ai-china-economy.md",
       "title": "Interview: UK Chancellor Jeremy Hunt visits Amazon and Microsoft; talks AI, China, economy",
       "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime, Alexa, logistics, devices, and more. UK Chancellor Jeremy Hunt and Microsoft CEO Satya Nadella. (Photo via X/Twitter.) Chancellor Jeremy Hunt, the United ...",
@@ -716,7 +759,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -769,7 +812,7 @@
       "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1198,57 +1241,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-pennsylvania-state-government-operations-to-start-using-artificial-intelligence.md",
-      "title": "Pennsylvania state government operations to start using artificial intelligence",
-      "excerpt": "The state of Pennsylvania, which plans to use artificial intelligence for its operations, is convening an AI governing board and developing training programs for state employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f0a9906-43a7-48d5-a658-dbd6fd0bea08/b77c794b-84ab-46d3-a579-637681c78046/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp",
-      "publishedDateTime": "2023-09-21T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

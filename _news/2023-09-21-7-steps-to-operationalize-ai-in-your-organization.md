@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "WA to install 21 AI-assisted camera stations for early wildfire detection"
-    excerpt: "The locations were chosen for being in areas where fires occur frequently and where the view overlooks DNR-managed lands."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/environment/wa-to-install-21-ai-assisted-camera-stations-for-early-wildfire-detection/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 16
   - title: "HKU Urban Analytics team wins First Prize at Baidu's National 2023 Large Model Application Innovation Challenge Competition in Artificial Intelligence"
     excerpt: "A team from the Department of Urban Planning and Design of the University of Hong Kong (HKU) has won the prestigious First Prize under the Innovation"
     publishedDateTime: 2023-09-19T04:28:00Z

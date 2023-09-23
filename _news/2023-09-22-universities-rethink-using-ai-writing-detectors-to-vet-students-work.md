@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Pioneering AI tool to reshape student advising"
-    excerpt: "student reassignment tools and instant multilingual translation. “The student journey tracker means essential steps and deadlines aren’t missed. That offers strong quality control and the AI can do in seconds what can easily take counsellors hours ..."
-    publishedDateTime: 2023-09-22T07:42:00Z
-    webUrl: "https://thepienews.com/news/pioneering-ai-tool-to-reshape-student-advising/"
-    type: article
-    provider:
-      name: The PIE News
-      domain: thepienews.com
-    quality: 19
-
 secured: "QBjlXJfL4YVmv9+A39yzf1pTFNVfb2T+ue3sTgN+gtn+Qz6ZD+Olz/0ab6AU+RiMZO5PJyDQVAjPiTfkvfIIOFRLn7GtCv7emhpym98Lw5va0TQIdorkRcXkplAM1C0na5cSg4uuEhVciXd5AL/cnOTksfFl2kHBlv9ywUHFhoz6Iz6qOXm+qi+agnLmJDBAyyU6CaX+kHZvXXpvh7EoA3PVN1p2cZJbNrWHkxXg6UMlKyv3AMHRbDo1A84J4YflOZNVusEn2Hf4QfIoY9o/TWewRBOw+utrTWvTTb0Z6ysPJ423iO5UVGJbpn7K2yVqGfDlvV/e5uBQhHrd98+Z3vZZbMI9uAkKJZ2IhEjHbXGlEoyWsXSAejAUUA1z4rLzOZhvjworFVNUlwMcdi8vyUpqKjcoXznXZ8Nz0hhRFEoW+xIpcOJRGanP8C797+rZapwG1KxSSesUAbjDOD2W0IdAlblaSvYrUnFxQMaPyk8ACZICMmXulbYEu/rsjK6vVKJidW83YgDqP0S7ELFexw==;m/9s5zZio5jSJYcNL6xZNw=="
 ---
 

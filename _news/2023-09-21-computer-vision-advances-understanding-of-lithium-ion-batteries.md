@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 493
         isCached: true
+  - title: "Unlocking Battery Mysteries: X-Ray “Computer Vision” Reveals Unprecedented Physical and Chemical Details"
+    excerpt: "It lets researchers extract pixel-by-pixel information from nanoscale X-ray movies of electrode particles absorbing and releasing lithium ions. Billions of tiny particles packed into rechargeable lith"
+    publishedDateTime: 2023-09-23T04:06:00Z
+    webUrl: "https://scitechdaily.com/unlocking-battery-mysteries-x-ray-computer-vision-reveals-unprecedented-physical-and-chemical-details/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "C2m8z7zC2y/EgtMbnn23aJSvp6hjbZuqDs3w+bjczekuM2nZXzfvfDSCWqfV7ftjKkAsi6klpCQefxB9jWXthIqCdr1Nm9OhMXO51BkE7+C7ig3RBC+H4oY8N8+reFlH5K7t6B1/virx9OpAfxihBbhvGFUhd/i09E17PKvm73MRp71KV1sCnzaLgjp2LVaFd4pFxCmyga80iIHVdlUM8HyXpV75iJTPnLbWtI15N20xJcwxDv7yckzEhT4J74iEYlQ3DYXROmbCP0mAbEcaBi60vU572RpRI2oFAHpCriI38vK0IfoCafCqB3dH8xzOPcmkz2/N6YWC/6FFRvjdOGBbkl5tB+iFVXLCYGvcXvU=;q8KotdTIvhDKOnK17cjT9w=="
 ---

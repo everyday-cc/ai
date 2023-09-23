@@ -77,15 +77,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "WA to install 21 AI-assisted camera stations for early wildfire detection"
-    excerpt: "The locations were chosen for being in areas where fires occur frequently and where the view overlooks DNR-managed lands."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/environment/wa-to-install-21-ai-assisted-camera-stations-for-early-wildfire-detection/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 16
   - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
     excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
     publishedDateTime: 2023-09-19T20:00:00Z

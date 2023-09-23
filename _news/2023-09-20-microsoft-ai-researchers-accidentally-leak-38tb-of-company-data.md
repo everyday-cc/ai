@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trade Ledger launches bank solution with Microsoft Azure OpenAI"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-09-18T11:16:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/trade-ledger-launches-bank-solution-with-microsoft-azure-openai/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 86
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_TradeLedger.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microsoft and Adobe partner to deliver cost savings and business benefits"
     excerpt: "The Total Economic Impact™ Of Adobe SaaS Solutions with Microsoft Cloud report provides a deep analysis of the key challenges organizations look to address when deploying Adobe SaaS solutions on Microsoft Cloud. Read the full study to understand why.\nThe post Microsoft and Adobe partner to deliver cost"
     publishedDateTime: 2023-09-20T15:00:00Z

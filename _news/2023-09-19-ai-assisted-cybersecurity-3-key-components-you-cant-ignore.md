@@ -63,15 +63,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 53
-  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
-    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "The Emergence of AI in Cybersecurity: Revolutionizing Threat Detection through Machine Learning"
     excerpt: "Fortunately, the advent of machine learning is offering a lifeline, equipping cybersecurity experts with unprecedented tools to pinpoint and combat digital threats effectively. In this blog post, we will delve into how AI and machine learning are ..."
     publishedDateTime: 2023-09-20T08:03:00Z

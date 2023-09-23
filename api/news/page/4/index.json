@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-20-project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech.md",
+      "title": "Project Gutenberg puts 5,000 audiobooks online for free using synthetic speech",
+      "excerpt": "They come from various sources, often error-ridden optical character recognition processes ... the team has put together multiple machine learning and synthetic speech tools that have improved and become more accessible over the last few years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
+      "originalUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1397220250.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
+      "publishedDateTime": "2023-09-19T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers.md",
+      "title": "Google’s AI assistant can now read your emails, plan trips, “double-check” answers",
+      "excerpt": "On Tuesday, Google announced updates to its Google Bard AI assistant—its version of ChatGPT—including integration with Google apps (such as Gmail, Docs, Drive, Google Maps, YouTube, and Google Flights) and a feature to double-check Bard's answers against web content. It also added language support for over 40 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/truth_telling_robot-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
+      "publishedDateTime": "2023-09-19T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform.md",
+      "title": "SambaNova unveils new AI chip to power full-stack AI platform",
+      "excerpt": "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets.md",
       "title": "Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets",
       "excerpt": "Multi-modal data is a valuable component of the financial industry, encompassing market, economic, customer, news and social media, and risk data. Financial organizations generate, collect, and use this data to gain insights into financial operations, make better decisions, and improve performance. However,",
@@ -51,49 +206,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-trinity-researchers-receive-365k-to-build-ai-driven-business-ethics-platform.md",
-      "title": "Trinity researchers receive €365k to build AI-driven business ethics platform",
-      "excerpt": "The IntegrityIQ platform is being developed by Trinity researchers with the support of Learnovate and Enterprise Ireland, and will train corporate employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-enterprise-ireland-ethics-training",
-      "originalUrl": "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-enterprise-ireland-ethics-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/09/Learnovate-3_edited-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -552,7 +664,7 @@
       "originalUrl": "https://www.bbc.com/news/science-environment-66847977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -927,6 +1039,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-19-the-fall-of-babylon-is-a-warning-for-ai-unicorns.md",
+      "title": "The Fall of Babylon Is a Warning for AI Unicorns",
+      "excerpt": "When it went public in 2021, Babylon Health was valued at over $4 billion. Now it has declared bankruptcy. Insiders say it could never live up to its hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "originalUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6508e98c779f4cdc81c14771/191:100/w_1280,c_limit/Babylon-Health-Warning-To-AI-Unicorns-Business-1208225667.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-why-discern-security-thinks-ai-can-defeat-the-cyber-attackers.md",
       "title": "Why Discern Security Thinks AI Can Defeat The Cyber Attackers",
       "excerpt": "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software",
@@ -935,7 +1099,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1072,145 +1236,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-aws-to-power-abdul-latif-jameel-digital-transformation.md",
-      "title": "AWS to power Abdul Latif Jameel digital transformation",
-      "excerpt": "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2ZmMDRhZDAtMjE2OC00/3/1410007281.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1",
-      "publishedDateTime": "2023-09-19T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design.md",
-      "title": "NVIDIA's next-generation Blackwell GPUs for HPC and AI will use chiplet design",
-      "excerpt": "NVIDIA's next generation of GPU hardware for high-performance computing will see the company adopt a chiplet design for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93346/nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93346/nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93346_01_nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design_full.jpg",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity.md",
-      "title": "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity",
-      "excerpt": "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "publishedDateTime": "2023-09-19T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

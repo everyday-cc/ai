@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Anyscale optimizes open source AI deployments with Endpoints"
-    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "How Big Tech Is Ruining the Dream of AI"
     excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
     publishedDateTime: 2023-09-19T10:07:00Z

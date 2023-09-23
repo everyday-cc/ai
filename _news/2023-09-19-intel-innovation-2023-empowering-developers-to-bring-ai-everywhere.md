@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 653
         isCached: true
-  - title: "Five Ways To Use AI For End-Of-The-Year Forecasting"
-    excerpt: "In recent years, artificial intelligence (AI) has emerged as a valuable tool in streamlining and enhancing various business operations, including financial planning. Here are five compelling ways to embrace AI in your end-of-year financial planning."
-    publishedDateTime: 2023-09-18T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/18/five-ways-to-use-ai-for-end-of-the-year-forecasting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Jobs That AI Can’t Replace: The Impact of Automation on Workforce"
-    excerpt: "As the relentless march of automation reshapes industries, its profound influence on the workforce becomes increasingly evident. In the world of Information Technology, where innovation...Read More The post Jobs That AI Can’t Replace: The Impact of Automation on Workforce appeared first on ISHIR | Software Development India."
-    publishedDateTime: 2023-09-18T13:02:00Z
-    webUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/"
-    ampWebUrl: "https://securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2023/09/jobs-that-ai-cant-replace-the-impact-of-automation-on-workforce/amp/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 59
-    images:
-      - url: "https://www.ishir.com/wp-content/uploads/2023/09/Jobs-AI-Cant-Replace-ISHIR.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "3 ways the generative AI boom is upending the advertising agency business"
     excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
     publishedDateTime: 2023-09-19T18:30:00Z

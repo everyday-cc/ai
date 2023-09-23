@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -231,49 +231,6 @@
       "provider": {
         "name": "Training Zone",
         "domain": "trainingzone.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-trinity-researchers-receive-365k-to-build-ai-driven-business-ethics-platform.md",
-      "title": "Trinity researchers receive €365k to build AI-driven business ethics platform",
-      "excerpt": "The IntegrityIQ platform is being developed by Trinity researchers with the support of Learnovate and Enterprise Ireland, and will train corporate employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-enterprise-ireland-ethics-training",
-      "originalUrl": "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-enterprise-ireland-ethics-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/09/Learnovate-3_edited-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -401,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1448,6 +1405,59 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai.md",
+      "title": "Upping Your Prompt Engineering Superpowers Via Target-Your-Response Techniques When Using Generative AI",
+      "excerpt": "A vital technique for prompt engineering entails thinking ahead and telling generative AI what kind of response you are expecting to get. Here is the insider scoop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f54e68e4547e11b1b0157e/0x0.jpg?format=jpg&crop=2510,1675,x22,y0,safe&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/04/upping-your-prompt-engineering-superpowers-via-target-your-response-techniques-when-using-generative-ai/amp/",
+      "publishedDateTime": "2023-09-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

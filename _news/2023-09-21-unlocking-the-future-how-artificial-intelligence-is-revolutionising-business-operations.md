@@ -56,15 +56,6 @@ related:
         width: 5115
         height: 2880
         isCached: true
-  - title: "Beauty-AI Company, Myavana, Unveils First-of-its-kind Web3 Metaverse Experience In Time With National Coding Week"
-    excerpt: "With the goal of re-educating on textured hair care and inspiring underrepresented groups to consider technology as a career path, the hair AI"
-    publishedDateTime: 2023-09-18T12:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beauty-ai-company-myavana-unveils-first-of-its-kind-web3-metaverse-experience-in-time-with-national-coding-week-1032636670"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "bW4tNgfZaE0QRNtXeEV8MlxCuO4vDUkjWyHxEPPj0Ja1beDVekLGNBx/ZVJ7kcWqKsbmsMFvRVQnmi9rZAD/uTgR1Xi7oF38lXG3fpuUzK5HNfCShmH+oAr2N0syiGqx8zee1tl0tt3h91es+ElcJ/HFAQookB7sdxBcSwxz9OTXnGbzMOn8HHVdA12L2PugJCoExaEVdPvk2BTSXPsRxwjmytyuhKFQuyq4+WIdS0qRGZkKCCGSxkuhG0TH8L1zeFJbnXoaYY4Ss6A2Hk1JPhiWDGco5nj25YfI5jh0sYEc82qsvDmSaAGMv0ByL2AFJ0/pV2GbS0bumscCss042eGcfD6NErQI8PO8LQ5v4O41BqhcsOPwiNT8ZHkTuNGcuOLTYkPJ61mleun7Khi6Biqmk65/UEvUoO/F/aOWCFF6057NJUAhypbuDXvorUuaRnJJO9kCghhmUC2YdMxUm7Q27kDWOYo18hwMpcBLcakY/dpRLqaJeGNU+cDbQmHj19K+6kZtnIAd74ogpI14NQ==;6fRB1HZtyR/Wa8rYmY4FrA=="
 ---

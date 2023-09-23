@@ -7,8 +7,8 @@ originalUrl: "https://www.bahrainthisweek.com/computer-vision-reveals-working-li
 webUrl: "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: bahrainthisweek
@@ -39,6 +39,15 @@ related:
         width: 864
         height: 864
         isCached: true
+  - title: "Unlocking Battery Mysteries: X-Ray “Computer Vision” Reveals Unprecedented Physical and Chemical Details"
+    excerpt: "It lets researchers extract pixel-by-pixel information from nanoscale X-ray movies of electrode particles absorbing and releasing lithium ions. Billions of tiny particles packed into rechargeable lith"
+    publishedDateTime: 2023-09-23T04:06:00Z
+    webUrl: "https://scitechdaily.com/unlocking-battery-mysteries-x-ray-computer-vision-reveals-unprecedented-physical-and-chemical-details/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "+ujiZh6UgCq0i/Auj1EoPDnRGknhWoh9DzYcM0m/spZlnK+feFd+E47mSUWi6tsuVOuXHe8/+/9eDJXLFM5DnYBy6X6tHMOJYHL3yUsMvKreWC+KcUx31EYj+a02kiikp+Q5WCQ8Uxznv8/GI0Tgp5mN/1hVWrZJVWsvGbyZ8kkcjcwVCrLwOei2qoAc6gpbaKwBCe5LZQGE2nmRFijgjkSiqQVrEyApIa21QmPA1Mhp/Se8EcR/MPNfJ/4/sbOsI1Dj+TyRgECnFeBdoK6nd2vJN+oO4r4dJCCHCO7iAMN8L7Ch8iBcftq1yCMaYISa2ACVEOrz/yWVyyfnWTpAjFAExNSHtgC6STw3RJA+zgtpZ0/jO8vuaB/pK9V3RjzIhNv7D9NWIuQHqPeoKBlnPddsGIfsnObGAeMHLFxaGvB3I8iHmz9fPT61hf3oeLCo4T0dHBxCyDv7j9bAjCQpxVfSecbrdD70FAIldg+cV1DgR6KfF4QyrzBn1JYe9RcAoAWXXoWZTnn1ShhAnh4q/w==;rtNd/0fb+4CWsUALw4XDkA=="
 ---

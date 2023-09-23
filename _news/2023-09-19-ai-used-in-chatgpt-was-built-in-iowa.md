@@ -72,15 +72,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "46 ChatGPT alternatives and AI tools for teachers"
-    excerpt: "Teachers and those in the education sector might be interested in a new overview guide that provides a wealth of AI tools and alternatives to ChatGPT. The"
-    publishedDateTime: 2023-09-18T12:04:00Z
-    webUrl: "https://www.geeky-gadgets.com/46-chatgpt-alternatives/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "D5qOaPYrgZQANsjGnMaxJynfVzhR0lKjsNDNvuVWw8GDWXdIxlmrXDdVdlMF2OGsnt94iOAd+OkCsO5LIJR3I+336KfLl5Ij5/eI1pdZSA7nfY1M6jddlbAlaxIkxki9SXXPMCEk8Ys2ULXiZxKBo2B5ganMtjZSJhmwOdV7UDfGakPJbFGshv/xtAjRVHtLWsAa7lvimdk15Kiy1Y1JlSB2QfMqUyM4Zz4TUULYzzn9lfxH4V4h6Fl6n8l7xBzmI+wt/EdW2YTVhzzh+MfXiVrFSyekJIcJYeK4RoSt2+R9zyTmeo7g58yRm+wSIc+3LRuWNlQbrWNsqmB7tNlP486FXLoYIoXH+i+hvnbDobk9gKTqrxH0j0yiuq21yePPbpQPCOoKHo0NfpIHeFZ5YLSkvya7GtXLisiUKrLfr1svoTPFVKVtlo1A+9KvinYwxH5hme+F6eCyx0Uzil6uCKw3xN5t+IJZxorlY4oPn82fwMflfxpI/NFUth5+72Zz7FFMJTmwwrwjHDiXgzmLcQ==;HMnDKEdb07LNZ/hS6juiTA=="
 ---

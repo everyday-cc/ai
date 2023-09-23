@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-05-ive-made-27-million-in-revenue-in-the-last-6-months-by-selling-ai-courses-and-using-ai-tools-to-cut-costs-heres-how.md",
+      "title": "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how.",
+      "excerpt": "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
+      "originalUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
+      "publishedDateTime": "2023-09-05T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-704-billion-money-manager-alliancebernstein-uses-ai-across-everything-from-research-to-operations-to-save-hundreds-of-thousands.md",
       "title": "How $704 billion money manager AllianceBernstein uses AI across everything from research to operations to save hundreds of thousands",
       "excerpt": "Seven years ago, the massive money manager AllianceBernstein set out on a mission to transform itself with AI and data science ... and head of quantitative research, told Insider.",
@@ -1454,40 +1506,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
-      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
-      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/foundations-seek-advance-ai-good-protect-world-threats-102199394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-12T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

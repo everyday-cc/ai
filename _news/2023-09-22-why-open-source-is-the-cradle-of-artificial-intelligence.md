@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-crad
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Anyscale optimizes open source AI deployments with Endpoints"
-    excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/anyscale-optimizes-open-source-ai-deployments-with-endpoints/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "A new global map of the AI future"
     excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
     publishedDateTime: 2023-09-18T20:00:00Z

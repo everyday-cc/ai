@@ -53,15 +53,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Using AI In Cybersecurity: Exploring The Advantages And Risks"
-    excerpt: "Although cybercrime statistics are staggering, organizations fighting cybercrime now have an ally that offers ever-increasing capabilities: artificial intelligence (AI)."
-    publishedDateTime: 2023-09-18T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/using-ai-in-cybersecurity-exploring-the-advantages-and-risks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
     excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
     publishedDateTime: 2023-09-19T13:45:00Z
