@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australia-adapting-generative
 webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

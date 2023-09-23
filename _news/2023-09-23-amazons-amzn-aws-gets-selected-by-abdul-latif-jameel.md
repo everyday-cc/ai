@@ -36,15 +36,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Abdul Latif Jameel teams up with AWS to power its digital transformation"
-    excerpt: "Amazon to use renewable energy supplied by Abdul Latif Jameel Energy’s FRV as part of commitment to powering operations with 100% renewable energy DUBAI, UNITED ARAB EMIRATES — Amazon Web Services, Inc."
-    publishedDateTime: 2023-09-18T10:04:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-izdwgb61"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 18
   - title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
     excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS, to rapidly develop and introduce new applications across a wide range of industries. Abdul Latif ..."
     publishedDateTime: 2023-09-18T23:08:00Z

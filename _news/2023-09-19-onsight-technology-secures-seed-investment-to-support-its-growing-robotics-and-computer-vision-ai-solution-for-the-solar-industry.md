@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-onsight-technology-secures-seed-in
 webUrl: "https://www.tmcnet.com/usubmit/-onsight-technology-secures-seed-investment-support-its-growing-/2023/09/19/9883132.htm"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: TMCnet
@@ -35,24 +35,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 36
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "7nJW9CiPiBUCV0aBKIZ/33T39HafNDpSExFG0qJT0MFcK4P4v6z2AvjVzwXZxLTd8qtReoLbOUU3vjX3qo0NVt4dicEX9NhKVYRrJbUWNyJAMSBB4hhCa+qQyEhIiqByNgfa0+TzsSQX3/7LNU7U0GWylIOd7odtsgyFfE9py3jxYd+UmdlW2hQkeYIyzTDiOK3tQ7mxmv8ajGR8M6NzTE3sX4dHEm3QOSCijeV92QihLGpXB/kLrHuk8vism0Jo3pqEdgrcnI/EUDJsBvIT/bZ38RmayWEEpJpfdI4Any0GqpEJBSJcL5R//CQsUNnIJw0bazY6LJKJRZAJohMfroqy3GLIUh6/Cza6nMXO274wcuSLDL9c3IHdNl2wNGO66JKrvSUShZF8zxg71daWhUinAhTEtK/wuAqHCcNbf8wLru3M+rI19RgUL3X5hQ7NdqPF2i9yY8l+1KRKaZgUrsrpVGl4au0JVlVkPHoef4Z1bupmfz3V4a4CMSNxdEiulzJOz3WqrQF+adoH/wEqXA==;A/S9vBhtAz0iy3xyyr1xtA=="
 ---

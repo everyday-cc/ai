@@ -28,38 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Algorithms: The AI Era In Investment FinTech"
-    excerpt: "Some other specific challenges to mitigate include:"
-    publishedDateTime: 2023-09-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
+  - title: "Fintech SaaS Startup Perfios Acquires Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Fego.ai is Perfios’ third acquisition, having picked up Karza Technologies in 2022 and FinTechLabs in 2019."
+    publishedDateTime: 2023-09-21T07:55:00Z
+    webUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: inc42
+      domain: inc42.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/09/Acquisition.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "How AI Can Help Boost Inclusion Across The Fintech Industry?"
-    excerpt: "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ..."
-    publishedDateTime: 2023-09-22T07:50:00Z
-    webUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
+  - title: "Perfios acqui hires Chennai startup Fego.ai"
+    excerpt: "Chennai: B2B SaaS platform Perfios has acqui-hired Fego.ai, a Chennai-based open-finance startup and a TSP (Technology Service Provider) catering to the needs of banks and fintechs, and other players in the financial ecosystem."
+    publishedDateTime: 2023-09-22T02:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/articleshow/103851030.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/perfios-acqui-hires-chennai-startup-fego-ai/amp_articleshow/103851030.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 718
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
+  - title: "Perfios acquires Chennai-based open finance platform Fego.ai"
+    excerpt: "Founder, Fego.ai, said, Fego.ai solutions will complement Perfios’ product offerings and expertise across varied financial institutions across the globe"
+    publishedDateTime: 2023-09-21T16:23:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/perfios-acquires-chennai-based-open-finance-platform-fegoai/article67330182.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
     excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
     publishedDateTime: 2023-09-19T13:48:00Z
@@ -76,43 +87,38 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is all fintech just AI now? A look at Finovate New York"
-    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
-    publishedDateTime: 2023-09-20T08:00:00Z
-    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
+  - title: "Perfios acquires open finance platform Fego.ai"
+    excerpt: "New Delhi: Bengaluru-based fintech firm Perfios has acquired Chennai-based open finance platform Fego.ai, two people aware of the development told Mint. The discussions started during Global Fintech Fest 2023 in Mumbai recently. The deal was closed this week."
+    publishedDateTime: 2023-09-20T18:55:00Z
+    webUrl: "https://www.livemint.com/companies/news/perfios-acquires-open-finance-platform-fegoai-11695235692680.html"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
-        width: 2803
-        height: 1578
-        isCached: true
-  - title: "Dubai To Lead Global Fintech Innovation"
-    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
-    publishedDateTime: 2023-09-21T03:47:00Z
-    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "3 Fintech Stocks That Will Handsomely Reward Tech-Savvy Investors"
-    excerpt: "However, these factors have also brought other fintech companies back to attractive levels ... The company has also recently introduced its new product, Intuit Assist, an AI-based financial assistant that targets both consumers and business and help ..."
-    publishedDateTime: 2023-09-22T15:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-handsomely-reward-tech-savvy-investors-1032649763"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Mint
+      domain: livemint.com
     quality: 34
+  - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
+    excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
+    publishedDateTime: 2023-09-22T09:15:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fintech-saas-startup-perfios-acquires-the-open-finance-platform-fegoai-nid-225521-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+  - title: "Chinese tech firm Zhipu AI reportedly acquires AI startup Ling Xin Intelligence"
+    excerpt: "Chinese AI startup Ling Xin Intelligence, founded by a professor from Tsinghua University, has been fully acquired by technology company Zhipu AI,"
+    publishedDateTime: 2023-09-22T09:28:00Z
+    webUrl: "https://technode.com/2023/09/22/chinese-tech-firm-zhipu-ai-reportedly-acquires-ai-startup-ling-xin-intelligence/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/09/c6a3a065131bf814d88545ff81fbee03.png"
+        width: 1080
+        height: 818
+        isCached: true
 
 secured: "OzCVg7bXH70xiiTMoCJUCtpqhzJ06SeKCyLNTNtMhmUSICaDCfeIocBmPYx/jzvw87uHniyQ74CVftjlQtTMUGlDT/H+k5+K+3/78SMLJhKTqE4FPzrmpOFrcXZcShGKh2Qrs9/t95V10wcqsfpKGLzkNCmKSX/R6m2hZJSyukhUgvW5OxB/B8R3YkucU9q7dtv/aApFfphsPoORY9ck0bLQg6vWOPv2OYln4VBDPUYRsgr57iala9cr/40+a7C1Xlta0Ia/obBFHPDzWL676doW+2DMoMgsBd7AsX3FUi8dbO8ls7c73vt5VdUwCA9IzCx9LfK+PvpZbWMltvWzQ+M16915/9b6jGonAA9oupEuZVwcScdAqBQwSum/ySw1rH49ph7kW64NEZ2/FF9swAFyelyD/lfkyEeOoJHnPy6wXEmio4bzZJyC4wBlpDXRjR1XwOiSzY6gKjIZbdcLy2YW1QHk+8fKxu19CABJShowltMjpjETkIl7AG6+IY3yIpei1J+QR9E7A/DDxvbuTQ==;UbuLHZrbJ2u7ssbEGN43OA=="
 ---

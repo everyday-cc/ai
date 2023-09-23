@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/18/cma-foundation-ai-review/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Wc6EUppheWKAiAJPQZJt3D-1200-80.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "UK competition regulator lays out artificial intelligence principles"
-    excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to"
-    publishedDateTime: 2023-09-18T10:39:00Z
-    webUrl: "https://business.inquirer.net/421754/uk-competition-regulator-lays-out-artificial-intelligence-principles"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 37
-    images:
-      - url: "https://business.inquirer.net/files/2023/09/2023-09-18T101515Z_3_LYNXMPEJ8H084_RTROPTP_4_USA-AI-ELECTION-620x413.jpg"
-        width: 620
-        height: 413
         isCached: true
   - title: "UK competition regulator lays out new artificial intelligence principles"
     excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to foster competitive growth in the fast-moving technology. The Competition and ..."

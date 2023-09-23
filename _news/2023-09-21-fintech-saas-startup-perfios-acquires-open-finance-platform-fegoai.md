@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-fi
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/"
 type: article
 quality: 74
-heat: 126
+heat: 147
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, FinTech, and the ethical imperative: Navigating the uncharted waters of financial technologies"
+    excerpt: "The new emphasis on prevention over response becomes not just a practical necessity, but an ethical and existential imperative, as the margin for error narrows with the rising power of technology."
+    publishedDateTime: 2023-09-22T14:29:00Z
+    webUrl: "https://www.fxstreet.com/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 62
+    images:
+      - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Perfios acqui hires Chennai startup Fego.ai"
     excerpt: "Chennai: B2B SaaS platform Perfios has acqui-hired Fego.ai, a Chennai-based open-finance startup and a TSP (Technology Service Provider) catering to the needs of banks and fintechs, and other players in the financial ecosystem."
     publishedDateTime: 2023-09-22T02:46:00Z
@@ -54,6 +70,22 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
+    excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
+    publishedDateTime: 2023-09-19T13:48:00Z
+    webUrl: "https://www.benzinga.com/markets/cryptocurrency/23/09/34727377/crypto-and-fintech-vets-form-ai-biotech-focused-oak-grove-ventures-amid-vc-drought"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34727377"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34727377"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/shutterstock_1464098960.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Perfios acquires open finance platform Fego.ai"
     excerpt: "New Delhi: Bengaluru-based fintech firm Perfios has acquired Chennai-based open finance platform Fego.ai, two people aware of the development told Mint. The discussions started during Global Fintech Fest 2023 in Mumbai recently. The deal was closed this week."
     publishedDateTime: 2023-09-20T18:55:00Z

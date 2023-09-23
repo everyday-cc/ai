@@ -66,20 +66,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "5 AI Trends in Voice of the Customer Practices"
-    excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
-    publishedDateTime: 2023-09-18T10:00:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/5-ai-trends-in-voice-of-the-customer-practices/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/d3a034227fc9497faa3b1e0c7ffb1ad8.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "How Big Tech Is Ruining the Dream of AI"
     excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
     publishedDateTime: 2023-09-19T10:07:00Z

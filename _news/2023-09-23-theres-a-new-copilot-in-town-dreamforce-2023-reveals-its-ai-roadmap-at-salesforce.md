@@ -39,22 +39,6 @@ related:
         width: 1120
         height: 688
         isCached: true
-  - title: "Salesforce Shines Light On Prompt Engineering Trust Layer Advancements That Are The Future Of Generative AI"
-    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
-    publishedDateTime: 2023-09-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/18/salesforce-shines-light-on-prompt-engineering-trust-layer-advancements-that-are-the-future-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65077bde56352254b94789f4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z

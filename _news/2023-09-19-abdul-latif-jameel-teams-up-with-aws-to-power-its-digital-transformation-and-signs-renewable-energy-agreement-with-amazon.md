@@ -44,15 +44,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
-  - title: "Abdul Latif Jameel teams up with AWS to power its digital transformation"
-    excerpt: "Amazon to use renewable energy supplied by Abdul Latif Jameel Energy’s FRV as part of commitment to powering operations with 100% renewable energy DUBAI, UNITED ARAB EMIRATES — Amazon Web Services, Inc."
-    publishedDateTime: 2023-09-18T10:04:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-izdwgb61"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 18
 
 secured: "iuE7vltIYVGxFbZpmTlMkdLc31WWtMCkCzPyaik4njJsVhRaPZBYnNi7pcLLoycUCs/jbjEJR/gj31OObHYe5yOzd1Jr8vjGs/NbkFQC+uEu/Gmy4qK+RYsVdmol3UnvX68zoQPRmWKJLiAgZjqEiwAXl/ZZbcOvyHJj62zF8mP4mIh8xq2AphDfyRiBWH2NkqH+KKkxdVrYnYXDvWpf0S4T9w/5H/QdGuZViV8dDlb6dsuRs/tgX4vvAg89odqYXV1laA8Ra9ovgmX9/2Jm2sNxxeO1U0z4YPgmmpNDZUCnxRa/S97k8dNC+ykCDe2wnnA9cFf9N0mxegE4ff7RKGW31R7xhkOjLe4S9krePb0=;cjR/2RcUazh74iRZIdmOxA=="
 ---

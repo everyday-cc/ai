@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "UK competition regulator lays out artificial intelligence principles"
-    excerpt: "Britain's competition regulator proposed principles to govern new artificial intelligence (AI) models on Monday, including accountability, access and transparency, as it seeks to"
-    publishedDateTime: 2023-09-18T10:39:00Z
-    webUrl: "https://business.inquirer.net/421754/uk-competition-regulator-lays-out-artificial-intelligence-principles"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 37
-    images:
-      - url: "https://business.inquirer.net/files/2023/09/2023-09-18T101515Z_3_LYNXMPEJ8H084_RTROPTP_4_USA-AI-ELECTION-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "pw7ua5rBCWrgA78VOtQMO2OlpAtohrHJQ9VIYtwZQ4XzzF5WWLkOhSMLkvBsAxaAhDkTenYhYjdKCJ07ddk2FFsJzX2YWpH9R8S9nCESisuaQ9uYfGI9iWGNovrqaKlOQiHgzmzYi8e+BWUTd5Sm0vPuIuq6cqtLRreE1RgqCcbRICB12QffBZ0hu3p72q+v7BMByQbYVbi0kx+TqxrDHNtWL0B7l9urIVcCXjSvkEWINgWp6GdDMU8cJJ/vAyZ5+iOaZwX5d2rxkn13RT6QNyiDfGPklNWJRNTx1dWdKi8kdznlXT7m9O0f1gPoQ7ig3gKL3e1m4zRz/PO8pdlGjIKvToKKU1xPC9+aD8hYhY+j12RaKym2ufvvucf2H1FLS4sGmAr3TbY/aIAPRqrJviFlM+mGcEtdrWKxmFwCXWCPlv3EdR+qhJLm5xL2TGhLmLBBr2g5dH6vjl8L3Xygm3+/X+AkMF1JM6lFjLUknJdakcxGn7wclKhKnM3EijfwOFApKAniOGQqYDSvT1dt8w==;LQ6cy6B1gefOacc3IYrBrQ=="
 ---

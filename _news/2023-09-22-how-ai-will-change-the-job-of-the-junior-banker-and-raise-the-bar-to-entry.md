@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-ai-will-change-the-investment-
 webUrl: "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

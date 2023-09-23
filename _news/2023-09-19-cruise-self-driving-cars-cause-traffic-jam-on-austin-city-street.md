@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
+    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
+    publishedDateTime: 2023-09-18T19:49:00Z
+    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/2023/09/17/12/newFile.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
     excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
     publishedDateTime: 2023-09-21T12:00:00Z

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "The Security Industry Shifts to Navigate the Integration of AI, Drones, and Robotics"
-    excerpt: "Explore the integration of AI, drones, and robotics in the security industry with William Plante during GSX 2023."
-    publishedDateTime: 2023-09-22T01:03:00Z
-    webUrl: "https://marketscale.com/industries/business-services/security-industry-ai-drones-robotics/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 59
 
 secured: "izsg+A1IAl2DvnN3fzCY6ICxndUHVA8eOGEkrWf758cM7r7Nj+Fw+ZJ8aDkfKbYHoTOifu0wZ3xajRU/omotSEFOvn8SDrP8Hiud3e7NDEMdpe76QAawrUvPaOahzuKLLrFUq3NRms1tOS+bqosKf9xrI/0Ohbu10SKni4lo2SdFx7+hObbqHj5zmOmFpekNg3rOmdoBc2Grzd174HFWKKVosU3PNAdWD0zn7nJqzsP1n7S4X3oiAe+79cz9fI7NpWPxPaCaiQ7TG4/jy8dohyJd6nw4eC2ZURcPGvRm4C+wzL0A9UhtxNxV03so6cHNTVb+Dm7QCiqwc17nLN0YmCSM8ydgoq7m++jHV9tgy7D5v4sMiF4MRwCFqqS9paCbBIbU1UcRmQIU1voLKXfPaU2wC7Na5DZKjTvvUeMuTOB4GxeR0UICVgokdmIobRY37M+yL5uTQgtpksQ9MbqgEPcfWeTs/bWTgjLpDPgN0QGRSjy7Vb6BSMZc1exFIu5cl9L8bZKlhQFg5K9xf1RdcA==;UfYoWQG3YQNjfEZyCvPibA=="
 ---

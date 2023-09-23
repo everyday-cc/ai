@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare
 webUrl: "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Security Industry Shifts to Navigate the Integration of AI, Drones, and Robotics"
-    excerpt: "Explore the integration of AI, drones, and robotics in the security industry with William Plante during GSX 2023."
-    publishedDateTime: 2023-09-22T01:03:00Z
-    webUrl: "https://marketscale.com/industries/business-services/security-industry-ai-drones-robotics/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 59
   - title: "AI in Healthcare: Why Southern Nevada doctors say it's the future of the industry in Southern Nevada"
     excerpt: "CLARK COUNTY (KTNV) — Artificial intelligence is already being implemented in portions of the healthcare industry today, but some experts say it’s the future of healthcare. The future involves generative A.I. that’s artificial intelligence that can ..."
     publishedDateTime: 2023-09-22T17:37:00Z

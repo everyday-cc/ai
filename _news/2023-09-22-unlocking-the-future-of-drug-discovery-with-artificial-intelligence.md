@@ -48,6 +48,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Machine learning speeds up virtual drug screening by 10-fold"
+    excerpt: "Boosting virtual screening with machine learning allowed for a 10-fold time reduction in the processing of 1.56 billion drug-like molecules. Researchers from the University of Eastern Finland teamed up with industry and supercomputers to carry out one of the world's largest virtual drug screens."
+    publishedDateTime: 2023-09-23T01:52:00Z
+    webUrl: "https://www.news-medical.net/news/20230922/Machine-learning-speeds-up-virtual-drug-screening-by-10-fold.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "4Yi6Z5+jbWlPSml5rjg6qbyRNmwnqAGuKY32uBSqlSIzRzE0vG+0L6Jfgy2gjIftDR6OkQapXLbLF8WopPiX99gKWe92bKVHcUnoN+vsNftSbK57kYRZDp4J8GXhzSmIykb6YQRjaOM5LvP10XMtUUOMMbCWYL3p9nQRyEKNGHf3Vovqn4TptFis3DT8jT16inX3eq1cgfLNwj3Gz5UMtzADoOo4KMzjr6pkNHrOOFxsvnnUMSyaGIuozjWSQF4KHumHIO2NJjEav9kpRLS+SqiWMaq3/kFY/ZuaQHx41oPMj4uLyu2URDzonSwPZLSwV7gcEXHGFTI1tMwclTHVv44K/TBWOzGX0yjgcGmbMYs=;On3jhdRsS4lS9dE/idHAVw=="
 ---

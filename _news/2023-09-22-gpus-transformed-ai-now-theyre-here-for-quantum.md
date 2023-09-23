@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html"
 type: article
 quality: 74
-heat: 96
+heat: 94
 published: true
 
 provider:

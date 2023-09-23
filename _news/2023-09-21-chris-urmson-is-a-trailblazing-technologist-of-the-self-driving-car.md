@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
+    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
+    publishedDateTime: 2023-09-18T19:49:00Z
+    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/2023/09/17/12/newFile.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z

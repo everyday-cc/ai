@@ -20,29 +20,77 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI And Robotics Are Here To Stay. Houston’s Healthcare And Medical Office Industry Are Racing To Evolve"
-    excerpt: "Houston's healthcare industry is seeing major disruption from new technology and AI, which influences new office design and renovations."
-    publishedDateTime: 2023-09-19T01:56:00Z
-    webUrl: "https://www.bisnow.com/houston/news/healthcare/houstons-healthcare-and-medical-office-industry-are-evolving-along-with-ai-new-technology-120711"
+  - title: "How AI Can Help Boost Inclusion Across The Fintech Industry?"
+    excerpt: "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ..."
+    publishedDateTime: 2023-09-22T07:50:00Z
+    webUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
     type: article
     provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F09%2F650898e292c92-houston-healthcare-1.jpeg&width=1200&sign=Yy3CYRFo_w_W13F0eFDUY8Tjh4gugSlcjfdm9IgMBZ4"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 817
+        height: 718
         isCached: true
-  - title: "AI in Healthcare: Why Southern Nevada doctors say it's the future of the industry in Southern Nevada"
-    excerpt: "CLARK COUNTY (KTNV) — Artificial intelligence is already being implemented in portions of the healthcare industry today, but some experts say it’s the future of healthcare. The future involves generative A.I. that’s artificial intelligence that can ..."
-    publishedDateTime: 2023-09-22T17:37:00Z
-    webUrl: "https://www.ktnv.com/news/ai-in-healthcare-why-southern-nevada-doctors-say-its-the-future-of-the-industry-in-southern-nevada"
+  - title: "Is all fintech just AI now? A look at Finovate New York"
+    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
+    publishedDateTime: 2023-09-20T08:00:00Z
+    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
     type: article
     provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 19
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
+        width: 2803
+        height: 1578
+        isCached: true
+  - title: "Dubai To Lead Global Fintech Innovation"
+    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
+    publishedDateTime: 2023-09-21T03:47:00Z
+    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Fintech Stocks That Will Handsomely Reward Tech-Savvy Investors"
+    excerpt: "However, these factors have also brought other fintech companies back to attractive levels ... The company has also recently introduced its new product, Intuit Assist, an AI-based financial assistant that targets both consumers and business and help ..."
+    publishedDateTime: 2023-09-22T15:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-that-will-handsomely-reward-tech-savvy-investors-1032649763"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
+    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
+    publishedDateTime: 2023-09-20T12:38:00Z
+    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
+    type: article
+    provider:
+      name: Europa Press
+      domain: europapress.es
+    quality: 0
+  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
+    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
+    publishedDateTime: 2023-09-20T12:44:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "35SqrITbBK0DZOrKKkRcT+OJV3kPORMUJT5/6CdsSKtK7NNZYJ6eTbMX/dFTxDxfm85EvmR/egtNfiy7nOYubPxhM6+hI6RT2yczwrXzHQAQ/+mcYFxQQD2MqfQXRP8cnMxvdtv0QI+YSabWHyCJSEi/WX7Hf070dCjuxjzAfuRIiwi5NB/c9wVPgOJndjcROsO+YHwGRuB/JoMHHsHFlEmNP6NyTE6EqyFghk8BWV5jb5N3aScHPbo6G3XJcnA83trApFNhcmTsK4MSGTDNsJEOdF0NvAt/7waBlGODkYaYAhmUyYMJMEjlmvUopsQQT4JWlPQX/Xns+vkoXwpYvKNWecOJXrClmY/0/nEq6BA=;dVJOM7WalCcdnRILAJjrow=="
 ---

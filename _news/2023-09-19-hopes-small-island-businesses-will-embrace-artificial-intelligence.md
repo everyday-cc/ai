@@ -7,7 +7,7 @@ originalUrl: "https://www.manxradio.com/news/isle-of-man-news/hopes-small-island
 webUrl: "https://www.manxradio.com/news/isle-of-man-news/hopes-small-island-businesses-will-embrace-artificial-intelligence/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Survey shows small businesses concerned about AI regulation | Samuel French"
-    excerpt: "It can also be used to translate text from one language to another ∎ Audio: Generative AI can generate new music tracks, sound effects, and even voice acting That’s the word from the AI itself. According to the WEF, further on the plus side is that ..."
-    publishedDateTime: 2023-09-22T09:15:00Z
-    webUrl: "https://www.knoxnews.com/story/money/columnists/2023/09/22/samuel-french-survey-small-businesses-concerned-about-ai-controls/70892710007/"
+  - title: "This Kerala startup’s AI app helps small businesses design branding materials"
+    excerpt: "The Wizad platform automatically generates brand-specific designs including taglines..Kerala startup. AI. artificial intelligence. Wizad"
+    publishedDateTime: 2023-09-23T03:47:00Z
+    webUrl: "https://www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
+    ampWebUrl: "https://www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
+    cdnAmpWebUrl: "https://www-onmanorama-com.cdn.ampproject.org/c/s/www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
     type: article
     provider:
-      name: Knoxville News Sentinel
-      domain: knoxnews.com
-    quality: 17
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 54
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/business/images/2023/9/23/wizad-team.jpg"
+        width: 1248
+        height: 650
+        isCached: true
 
 secured: "jb+nU6Fhh3s9eiFahzHiNwuOFbO7Xzzk1NFqt8bqj91ls+CKH7a1SYMAtUmnataK+8hJ4H4wYpKB8a3X7/FBAlQFs/NSTEzyIHo0XZIuJVLFx82lz+fLhYDL3D0DY5vUbWQH0jgLwV+GozCheLf5FMHbgRVIEDtA6LIB2gww4hoaheHfxjyrtyp1mf4TFlTkg3Ng+7BB/aQTN4XtMI4L/Y+MnLFnG0Aql9k2FnTXmfb5hGQq/yDZPB8UQzcHpNl2R6MHZxhg7yoP1tZUrFU650MeRxfIGOpOrA3OPZPmhgcDQacd2hsT0Ls927CgJ6f6ABrKGNSkFawb1/IFv/kuX9R/aUqBJ/uKCQuh9fEHAmk=;dMIN1hCJXWPNp6mZE03qQA=="
 ---

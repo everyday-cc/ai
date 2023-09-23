@@ -2,41 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2023-09-10-2-ai-stocks-to-transform-your-portfolio.md",
-      "title": "2 AI Stocks to Transform Your Portfolio",
-      "excerpt": "Data from Grand View Research indicates a strong growth trajectory, with AI industry revenue expected to mushroom to $1.181 trillion by 2030, based on a CAGR of 37.3%. Additionally, Accenture's recent findings underscore the potential for enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-to-transform-your-portfolio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-10-small-business-tech-roundup-intuit-introduces-an-ai-assistant.md",
       "title": "Small Business Tech Roundup: Intuit Introduces An AI Assistant",
       "excerpt": "Intuit's AI assistant, Google Workspace now integrates with Slack and Teams, Zoom has a new notes feature and other tech news impacting your business.",
@@ -1133,6 +1098,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-09-data-and-ai-ethics-market-by-development-factors-2031.md",
+      "title": "Data and AI Ethics Market by Development Factors 2031",
+      "excerpt": "Data and AI Ethics Market Snapshot: In this report analysis, we thoroughly examine the Data and AI Ethics Market by exploring it into different segments, including size, share, and end-users etc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34377160/data-and-ai-ethics-market-by-development-factors-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34377160/data-and-ai-ethics-market-by-development-factors-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

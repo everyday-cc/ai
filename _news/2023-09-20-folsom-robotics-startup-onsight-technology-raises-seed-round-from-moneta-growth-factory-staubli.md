@@ -33,24 +33,6 @@ related:
         width: 400
         height: 215
         isCached: true
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "3tRlOBuvHUHlN8KVrhDUEJnOxibB03YcFM6lBJUYOzJAUmBen+8rKiN9rtgQ1yCX+GDIQlmOyS//5+5cpzqDWcQzgMLyU38ff602dbYysk3vv7mJvsPio/XQhI6dTgugiIg28QKLctqKjz9iw+Rqfma266hDrEJO1LU6b/qfxjT9wDPFyUSpsdo86FBGgvgWVk8PTtYBSCJcuAxw+MOy5di6nrVkJGgJ1zQUX5ZHml2tOSK5sz08KEH0ZRe2rV7/XGC/VsQ/LC3f9qgbDv7eirl0f6DQG4h1NbBNUPEVTc5zOMn5i09lx4ccO0rhsWWewgPZC5RyqtOigTFFRXfV/wOViCuEqMvXn3sUG/Z3OjNlBg/CmqDOwspriomtG9K47SgOozmXSPejq+L0ta0dpw033AW7VFPU2Ii4coCZ3RpTP/RsuoP20XvVM1FG/SXuYBkTn/97gLZfPfvDneK/wcuhqmB/Rqqk7n9n3PyIxZDxrLbDPmuxJy070JVanswNBqo+DI0fAhPy+K2bTOlfuw==;0+m8W9kSZ1LZMMiQIlyHwQ=="
 ---

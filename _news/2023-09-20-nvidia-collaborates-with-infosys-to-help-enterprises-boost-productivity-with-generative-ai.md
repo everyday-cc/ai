@@ -119,22 +119,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
-    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
-    publishedDateTime: 2023-09-18T09:04:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
-    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 53
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Fed’s Cook Sees Signs of AI Improving US Labor Productivity"
     excerpt: "Cook has supported the Fed’s rate increases intended to cool price growth, and she testified in her confirmation hearing in June that she would continue to work to bring down inflation to the Fed’s 2% target. She also said she favors tailoring regulations based on a bank’s size so that smaller lenders don’t face the same burdens as bigger ones."
     publishedDateTime: 2023-09-22T12:46:00Z

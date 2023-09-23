@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OPINION: America should learn from Europe and adopt tougher regulations on artificial intelligence"
-    excerpt: "AI has the potential to do harm through the use of biased and outdated data. Yet in K-12 education, it also holds the promise of revolutionizing how teachers teach and students learn. Legislators must begin regulating AI now."
-    publishedDateTime: 2023-09-18T10:00:00Z
-    webUrl: "https://hechingerreport.org/opinion-america-should-learn-from-europe-and-adopt-tougher-regulations-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Hechinger Report
-      domain: hechingerreport.org
-    quality: 23
-    images:
-      - url: "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2023/09/scanlon-oped-feat-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Opinion: Artificial intelligence comes to the synagogue"
     excerpt: "No sooner did I finish writing all the sermons for the Jewish High Holidays then I wondered what artificial intelligence would have produced on my themes. The High Holidays make for a busy fall for a synagogue rabbi,"
     publishedDateTime: 2023-09-20T19:08:00Z

@@ -111,22 +111,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper"
-    excerpt: "Read more about Generative AI to enhance creativity, automate routine tasks for future jobs: WEF paper on Devdiscourse"
-    publishedDateTime: 2023-09-18T09:04:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper"
-    ampWebUrl: "https://www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2597873-generative-ai-to-enhance-creativity-automate-routine-tasks-for-future-jobs-wef-paper?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 53
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_38_651933.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
     excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
     publishedDateTime: 2023-09-20T11:21:00Z

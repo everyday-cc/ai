@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Algorithms: The AI Era In Investment FinTech"
-    excerpt: "Some other specific challenges to mitigate include:"
-    publishedDateTime: 2023-09-18T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI Can Help Boost Inclusion Across The Fintech Industry?"
     excerpt: "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ..."
     publishedDateTime: 2023-09-22T07:50:00Z
@@ -57,38 +41,15 @@ related:
         width: 1200
         height: 718
         isCached: true
-  - title: "AI, FinTech, and the ethical imperative: Navigating the uncharted waters of financial technologies"
-    excerpt: "The new emphasis on prevention over response becomes not just a practical necessity, but an ethical and existential imperative, as the margin for error narrows with the rising power of technology."
-    publishedDateTime: 2023-09-22T14:29:00Z
-    webUrl: "https://www.fxstreet.com/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
-    ampWebUrl: "https://www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/ai-fintech-and-the-ethical-imperative-navigating-the-uncharted-waters-of-financial-technologies-202309221430"
+  - title: "The Security Industry Shifts to Navigate the Integration of AI, Drones, and Robotics"
+    excerpt: "Explore the integration of AI, drones, and robotics in the security industry with William Plante during GSX 2023."
+    publishedDateTime: 2023-09-22T01:03:00Z
+    webUrl: "https://marketscale.com/industries/business-services/security-industry-ai-drones-robotics/"
     type: article
     provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 62
-    images:
-      - url: "https://editorial.fxstreet.com/images/Psychology/business-traveller-21143158_Small.jpg"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
-    excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
-    publishedDateTime: 2023-09-19T13:48:00Z
-    webUrl: "https://www.benzinga.com/markets/cryptocurrency/23/09/34727377/crypto-and-fintech-vets-form-ai-biotech-focused-oak-grove-ventures-amid-vc-drought"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34727377"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34727377"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/shutterstock_1464098960.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: marketscale
+      domain: marketscale.com
+    quality: 59
   - title: "Is all fintech just AI now? A look at Finovate New York"
     excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
     publishedDateTime: 2023-09-20T08:00:00Z
@@ -112,6 +73,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
+    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
+    publishedDateTime: 2023-09-20T12:38:00Z
+    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
+    type: article
+    provider:
+      name: Europa Press
+      domain: europapress.es
+    quality: 0
+  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
+    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
+    publishedDateTime: 2023-09-20T12:44:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PntufyBGAVRmX79RWGkAyREx9hKsMlQhaUanOhGtiBDgQaDq4Zin2+WIAINk+SGwtKGQHIKWHdrD9ifYyb2yaUVBKGi5Cx19pxp+SCsibPf8DIitqoFuVxg6HRSWTYSZQDOY3+Wi0srAPGw9ACuh7KarhymdfD+Qex17Dwes+lspCEMQfwWOe5xZ7gUxxS/IrUVdojC0EC9B/hR5FhhBSpJ0jWQlJ40TepvIr2Bw0QFKNvYv9lgZNpjtr1eC3Dq7g1S5kQmPIXfgDWKwjCGN3kLaT5hba1UYCjrEhxRhvYb+a2hlctkrV7wFyDJ2LIYU/o4L+DEjBT95nx5hMV63GzNQs+zqbSSOyQwp4y/K3MRAx8APniNhajEhfRBrIpVa0AOQmVFffB0Rncy5kb7nMSffnmcF3HOIgKFWCllXGwRiC8MjfJ5iglVqtcch5+X9PlvFiA661WuN1Jay5awq3ZI2Iec52mQq1Dq3C901cKV6ht2I2NGYJctvkIRASxA0W5ltbDfstAFRHSVZ5xF1TQ==;R+fGszsWmU9GSw6XdvBK2w=="
 ---

@@ -18,15 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "New artificial intelligence tool automates analysis of large-scale cardiac scan databases"
-    excerpt: "However, databases are often organized differently by separate organizations and may often contain missing or duplicated files, which presents a significant challenge for processing data. This work would previously have required a significant time investment for manual curation and analysis on the part of health care specialists, whereas an AI tool can be taught to efficiently \"data wrangle ..."
-    publishedDateTime: 2023-09-20T19:33:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-artificial-intelligence-tool-automates-analysis.html"
+  - title: "Fighting Canada’s record wildfires with a combination of AI and intuition"
+    excerpt: "That’s where the AI tool can help. Powered by Microsoft Azure Machine Learning, an Azure AI service, AltaML’s wildfire occurrence prediction system can analyze granular data sources to give duty officers more specific insights about the regions they cover."
+    publishedDateTime: 2023-09-19T15:21:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/ai-alberta-canada-wildfire-firefighting/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 10
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+  - title: "Rogers leverages AI and SpaceX technology to fight wildfires in British Columbia"
+    excerpt: "Through this collaboration, Alberta Wildfire, the province’s forest firefighting agency, has been using AltaML’s wildfire occurrence prediction, powered by Microsoft Azure Machine Learning, to analyze tens of thousands of data points to predict the ..."
+    publishedDateTime: 2023-09-21T13:15:00Z
+    webUrl: "https://www.itworldcanada.com/article/rogers-leverages-ai-and-spacex-technology-to-fight-wildfires-in-british-columbia/547295"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 14
 
 secured: "b0foWeuAmsW8JMjdeRstUdm4uP66WO++TD1JEqLpE7x0yCIe+usiVrAscQh2bUzjjXPAr15lPHCgxXSlZnmKThKNWRqoUH8aOa98q4kHhmIsr1klj7PPtpUUphYlPHMoFpi/C5qRnFQehbZxtFwn2lW6IYpAZyZopIDlutdF3mQnfQEtOBmzejTrlKVUp2qv6CIx/v17XnbD8n/9RC798uDZ4hXySzLt+n877QsNVXy5a4D5RrTeOH6mgArQ7VgkA6oNgtrKRUI2MbQE7fYEfUHZ7ks7ARjFlisFwT/xWDHuRw/t2hjaqnbYGtIeKtvZRq5arYR2Brnyn0u4Y238OALATjSF8b/rubLheBbjlgs=;8SYdvJVrlQuN7537TqjSew=="
 ---
