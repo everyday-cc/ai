@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-22T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/1002418"
 webUrl: "https://www.eurekalert.org/news-releases/1002418"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "The Fall of Babylon Is a Warning for AI Unicorns"

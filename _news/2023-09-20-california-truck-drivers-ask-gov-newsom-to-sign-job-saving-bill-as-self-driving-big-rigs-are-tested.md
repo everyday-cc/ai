@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Teamsters support California bill requiring a human in self-driving vehicles"
+    excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."
+    publishedDateTime: 2023-09-19T11:42:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 41
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SGT-L-TEAMSTERS-0919.jpeg?w=1024&h=768"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
     publishedDateTime: 2023-09-20T21:22:00Z

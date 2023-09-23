@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Scientists Reveal That Self-Driving Cars Can Make Traffic Slower"
+    excerpt: "A recent study reveals that vehicles that wirelessly communicate with each other, known as \"connected\" vehicles, considerably enhance the flow of traffic at intersections. However, automated vehicles that don't communicate with each other can actually slow down travel time through intersections."
+    publishedDateTime: 2023-09-21T16:03:00Z
+    webUrl: "https://scitechdaily.com/scientists-reveal-that-self-driving-cars-can-make-traffic-slower/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 4
+
 secured: "qZCJnUe+f1V+TBL7XNs2WfM3HrmbYnJ1WDR1AqheoMmDfn8frCDlaJTe+CkYIQULkrd/OIjj2IYQym6zCyDC5OPwE/v9mMt17Vfw5vSuwgaG44SGem93jZPQR+jnnAramDc6MVBvCd2h6kKlzeRXfwlpunxGjEhnFNaFAkbsb4X0QQ+6x7jb1T/qO+wNsNuaDiE6ufDHDkvZlmrFZtCVCLoEXnHtmBmvCC7yvCbhlZHPHE9VivRUX+EELy5/wn6shfbrTfPUvWELhoVIMHZ1OJyHewGoo/K/Idk+xSOZKg/SQiEiAEpMCHpeiJtZtDw2ROMSG7+DRNfvDe/ZsZlH+WqsGC6yYJRcQ0YdVj33L5IgPoXVLnAAVW+4+OJLtw4C3igwoMiCJVZ2p08Z7/CVVPNyPmE05TUPmdAaKXOJup8Lhs9ATzYEzVQzNoz5cNkFzE1QmZh8VXY1ofygt0U5fNQaCyUuUQ38LMBopCIslB6xTYJ1u9S+knqroWHZYluEoHdzBbqZvOpQ8fZUa4EG7g==;fl0RkS9XYjfUTPoGmRm9Jg=="
 ---
 

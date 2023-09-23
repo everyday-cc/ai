@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How real-time machine learning can make the self-driving cars more smart"
-    excerpt: "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists."
-    publishedDateTime: 2023-09-18T16:59:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 60
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
     excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles ... it was “the last thing on our minds,” - but artificial intelligence did end up being useful in some really concrete ways."
     publishedDateTime: 2023-09-20T13:52:00Z
@@ -64,45 +48,29 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Teamsters support California bill requiring a human in self-driving vehicles"
-    excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."
-    publishedDateTime: 2023-09-19T11:42:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+  - title: "Inside the startup market trying to capitalize on AI security"
+    excerpt: "Lakera AI, a security startup based in Switzerland, employs a similar idea and offers a firewall-like tool for AI model inputs and outputs to detect AI \"hallucinations,\" prompt injections and other misuses."
+    publishedDateTime: 2023-09-19T12:00:00Z
+    webUrl: "https://www.axios.com/2023/09/19/ai-security-startup-market"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 41
+      name: Axios
+      domain: axios.com
+    quality: 34
+  - title: "Shaping The Future Of Autonomous Driving"
+    excerpt: "new era where machine learning meets safety in navigating complex urban terrains,future where self-driving cars adapt to evolving environments"
+    publishedDateTime: 2023-09-19T07:26:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-of-autonomous-driving"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 24
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SGT-L-TEAMSTERS-0919.jpeg?w=1024&h=768"
-        width: 1024
-        height: 768
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/09/TN37.jpg"
+        width: 800
+        height: 530
         isCached: true
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T19:49:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
-    images:
-      - url: "https://static.independent.co.uk/2023/09/17/12/newFile.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 901
-        isCached: true
-  - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
-    excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
-    publishedDateTime: 2023-09-21T12:00:00Z
-    webUrl: "https://www.motortrend.com/features/chris-urmson-self-driving-automobile-trailblazer/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 19
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z
@@ -120,15 +88,6 @@ related:
     provider:
       name: NewsTalk 1290
       domain: newstalk1290.com
-    quality: 4
-  - title: "Scientists Reveal That Self-Driving Cars Can Make Traffic Slower"
-    excerpt: "A recent study reveals that vehicles that wirelessly communicate with each other, known as \"connected\" vehicles, considerably enhance the flow of traffic at intersections. However, automated vehicles that don't communicate with each other can actually slow down travel time through intersections."
-    publishedDateTime: 2023-09-21T16:03:00Z
-    webUrl: "https://scitechdaily.com/scientists-reveal-that-self-driving-cars-can-make-traffic-slower/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
     quality: 4
 
 secured: "bA/XYze6Oj1niZSJPeZt1ygvBD4RQXEM8miQfNzrJceLI/doEC6A5VsqMYCZzTR56ly4GOJeQ5LrfvEWEwJH08NHsuD0KV4hz0LVnV//7utwYAC7q6Bq6TKIE6J/zCBRBOOQ3voZ/jHuV2HWTk517n9Y35uBqu7unqFfY2ZqXZ8jIPaN2BqSfhp7pKJHqPSj60IOHxyO8CcMxyxU81E9fXxrrHTwSSWCPot/sVFhQs2SaLqeflId9Dxo3EguSC8ngeNPOhFN4qcJOVGh9SmBxb0NVeU+8lQKtA/lpWgTnOInt9jPkbPQklrkKTVzuAhZZHIvgNiC3xdoKJ8c+8bLcN3xPTeYoxTt9pzwDX/CjygkSrx+YYR4sTurIhbNbPpMTVhWBRygiGLwlWTxwNIHHVEaRG/8EUUSE71K1zj6jHoJnD9AQ9an6QcmRpjBDeAE7AkQTiUp1K8JMw3fgArzSHd+1XRszda5njN8ql9dpt8Nsm1CgzYAhMhNYyJ8t1BHwpSB81rEZ6+4A5sg9IbdxQ==;XHT/WS8kK/VKLapKt0EnCw=="

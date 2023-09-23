@@ -27,17 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market (2023-2031) by Development Factors & Growth Rate"
-    excerpt: "The Artificial Intelligence and Robotics in Aerospace and Defense Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size ..."
-    publishedDateTime: 2023-09-18T15:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34681102/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2031-by-development-facto"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34681102"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34681102"
+  - title: "Data and AI Ethics Market Outlook with Industry Expansion Strategies till 2031"
+    excerpt: "Data and AI Ethics Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Data and AI Ethics Market, breaking it down into various segments such as size ..."
+    publishedDateTime: 2023-09-19T12:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34726647"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34726647"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 66
+    quality: 70
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

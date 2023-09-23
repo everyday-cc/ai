@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Artificial Intelligence Making Cyber Crime Harder to Fight"
-    excerpt: "The rise of artificial intelligence brings tools that help cyber criminals clean up language, opening new doors for hackers to break into networks through emails that trick recipients into sharing personal info."
-    publishedDateTime: 2023-09-18T16:07:00Z
-    webUrl: "https://www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight"
-    ampWebUrl: "https://www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/artificial-intelligence-making-cyber-crime-harder-to-fight?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/1f2ef88/2147483647/strip/true/crop/1170x610+0+134/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F89%2F6a%2Fd99b5d8e36b47f7b5d2a10a0a035%2Fshutterstock-160851050.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "'Job security forever': Bank leaders on AI and cyber defense"
     excerpt: "\"The people are the most vulnerable point,\" said Reggie Townsend, vice president of the data ethics practice at AI and analytics software company SAS, on the same panel. Legault recommends moving away from focusing on details like typos, which he labeled ..."
     publishedDateTime: 2023-09-22T18:06:00Z

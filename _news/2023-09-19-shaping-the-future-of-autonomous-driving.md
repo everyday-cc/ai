@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-
 webUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-of-autonomous-driving"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "I'm a Business Psychologist. What I Think Everyone Is Getting Wrong About the Future of Work and AI"
-    excerpt: "I explained the issue to her. And before long, she and Google were friends again. But then I also had an interesting parenting moment: I found myself having to explain why we shou"
-    publishedDateTime: 2023-09-20T06:14:00Z
-    webUrl: "https://www.inc.com/nick-hobson/im-a-workplace-psychologist-heres-my-take-on-future-of-ai-jobs.html"
+  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
+    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles ... it was “the last thing on our minds,” - but artificial intelligence did end up being useful in some really concrete ways."
+    publishedDateTime: 2023-09-20T13:52:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 23
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
+    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles, and the kind of fulcrum that you hit, as Marc puts it, about 90% of the way in… First, there’s the timeline that we’re looking at ..."
+    publishedDateTime: 2023-09-20T17:56:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Are Self-Driving Cars Really Safer? Exploring the Facts"
+    excerpt: "In recent years, self-driving cars have become a hot topic in the world of transportation and technology. Proponents argue that autonomous vehicles have the potential to revolutionize road safety by eliminating human error,"
+    publishedDateTime: 2023-09-19T04:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1177123763_533784_rm0dgh.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_09_2023_17_40_37_1760082.png?width=1280"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "Inside the startup market trying to capitalize on AI security"
+    excerpt: "Lakera AI, a security startup based in Switzerland, employs a similar idea and offers a firewall-like tool for AI model inputs and outputs to detect AI \"hallucinations,\" prompt injections and other misuses."
+    publishedDateTime: 2023-09-19T12:00:00Z
+    webUrl: "https://www.axios.com/2023/09/19/ai-security-startup-market"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
+  - title: "Cruise self-driving cars cause traffic jam on Austin city street"
+    excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
+    publishedDateTime: 2023-09-19T10:00:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/self-driving-cars-austin-traffic-18373989.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 4
+  - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
+    excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
+    publishedDateTime: 2023-09-20T16:53:00Z
+    webUrl: "https://newstalk1290.com/self-driving-cars-barricade-austin-texas/"
+    type: article
+    provider:
+      name: NewsTalk 1290
+      domain: newstalk1290.com
+    quality: 4
 
 secured: "ZbEgom7SIREjEUGf1lYt74fg1o/IBcRLpsQRU1biFEjlcPsEJ6na9m1g1PT5H9So930ncK9gHipnsZfmt4poKdB7vM8bxcpy8kVKBRmAEnhTjCNrar4mLIj9fOm9ZjU5p+aMsqS5bzWuP1dBIJWSKi/x64hEsUW96y/hzvsQmaLMvyA3zFD+oMNOj+EEzy6zOypNGlgKFxhjKRQ8ClIxsiNUyrdvZhwGMuvmaOKYWYPvZOkHAxo9ImYzwvtrjXO8/ZLsINotn2tmxVHmGmosuSf+e1CH6k2bd18krU69KO95n4m9yKAmR4DKF5Oh7qMtM4u8mnfFSa7Lk24BvPd0twXEZs4RWmts3SNF2xBnRbXWZ5KIsDrNaKQqX0M7I9Tatv+CyhiK3n26uldkIIwk0ODYsLnkCayfUIFBZCkVC8AgCtVYwzahkGWEmDn0X+5A7LFjK9pD0DZRjP8fOAr8lyEGjuzHnqMU0S16dY+LunQ/IIb9lsQ3GoU63ciXGtAoNd9wdGrR2WNNPw3yEopMOA==;GuNtduROSjqMTkJqbhhU1A=="
 ---

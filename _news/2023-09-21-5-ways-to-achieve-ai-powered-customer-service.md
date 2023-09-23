@@ -63,20 +63,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Ochsner to integrate AI into Epic"
     excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
     publishedDateTime: 2023-09-19T14:46:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Hi, Robot: machines take over at China's Asian Games"
-excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games.<p"
-publishedDateTime: 2023-09-23T07:26:00Z
-originalUrl: "https://menafn.com/1107124923/Hi-Robot-machines-take-over-at-Chinas-Asian-Games"
-webUrl: "https://menafn.com/1107124923/Hi-Robot-machines-take-over-at-Chinas-Asian-Games"
+title: "Hi, Robot: Machines take over at China's Asian Games"
+excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+publishedDateTime: 2023-09-23T09:15:00Z
+originalUrl: "https://www.philstar.com/business/technology/2023/09/23/2298494/hi-robot-machines-take-over-chinas-asian-games"
+webUrl: "https://www.philstar.com/business/technology/2023/09/23/2298494/hi-robot-machines-take-over-chinas-asian-games"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: philstar.com
+  domain: philstar.com
 
 topics:
   - AI in Autos
@@ -20,9 +20,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-09/23/AFP_94553image_story.jpg"
-    width: 768
-    height: 512
+  - url: "https://media.philstar.com/photos/2023/09/23/robot-asian-games_2023-09-23_17-12-38.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "I3niKFFbJjm2rSMZ1QZ9s0tlJ7U3kmMeOTNo5IJCIizjaSr77LZEz8Akx6QHfFrNOxEsU1o/tRreyRRh9OV6oG0TirPPAKb+z7wzDl9Glo5+++jpe7RAnN/Z0p0u6FtcNuMj7MMIhKdklIZDc+GhYM1d9KGr/GYIB/bgsES+Zz8Mln18EPwKNJldz8R68vfcnOi0Ca4TSg07sybgmjAXSmfudIvVzi6vrr7W3FjcQSswjCDOnK8EyViDAna2IPKuePDVMNEYaQCDuYXU3HS1Q+iz+RiEpcSIoRu9Ur43NU4hcx69Kck5sTgKCrPMlta1V6SK5/B6i/bTDOD54ormEeiQmmpcDQjyJO03ng+s0DE=;3hcnnFx0/i//O/mj/u3u+A=="
+secured: "PSUmt+ZzhWFQYyYW7qrMon+28CVduW7B69iYWpTkpV3NOpfKthKEHgZ0GzVUJh4TH/dh1ixCG7wk8MutC4TQc2K7Lhkpgt0ZeLn8jctZAk8jn2xZgISXOrjsRuSUi9gJUH8cGy8Vxk2YYKRRCVAvrj71I3H9dhhRgxjo9k/czN7hIoi0ek60L1tofbtA4/FU3IyUvCuZ3DLrJyL6up2Cy1JiXfBLHtgNdZiVrEZPpg3zSF5d9Z/NrfMgCk+PsjCB+uXh/xrluBJORu9+PoffISbnxkErVHwSRBRa1tLvJtUJkbVNzePkN5I2hbxlNSzf8iH267Xw4Xw6Nj46pgVBHUf71cO6oXujjTnSA65uKWM=;ApF6QnCHIUEPTYjVasafBA=="
 ---
 

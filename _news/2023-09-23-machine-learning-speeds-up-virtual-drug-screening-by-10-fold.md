@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "Transforming Drug Discovery With Artificial Intelligence"
-    excerpt: "In this article, we explore the potential of recent advancements in artificial intelligence (AI) to revolutionize drug ... a patient’s response to therapy. To develop effective therapeutic strategies, a comprehensive understanding of the interactions ..."
-    publishedDateTime: 2023-09-18T15:30:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/articles/transforming-drug-discovery-with-artificial-intelligence-378934"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/378934/transforming-drug-discovery-with-artificial-intelligence-378934-640x360.jpg?cb=20230918"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Unlocking the Future of Drug Discovery with Artificial Intelligence"
     excerpt: "The report highlights a groundbreaking discovery: Over 150 small-molecule medications are currently under development by biotech"
     publishedDateTime: 2023-09-22T08:00:00Z

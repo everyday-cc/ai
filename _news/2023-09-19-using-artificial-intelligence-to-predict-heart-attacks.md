@@ -24,78 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "5 Blue-Chip Growth Stocks to Buy According to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-09-18T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898"
+  - title: "Google AI tool predicts danger of genetic mutations"
+    excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
+    publishedDateTime: 2023-09-20T08:35:00Z
+    webUrl: "https://phys.org/news/2023-09-google-ai-tool-danger-genetic.html"
+    ampWebUrl: "https://phys.org/news/2023-09-google-ai-tool-danger-genetic.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-google-ai-tool-danger-genetic.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been"
-    publishedDateTime: 2023-09-21T23:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall"
-    excerpt: "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy."
-    publishedDateTime: 2023-09-20T13:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Missed Out on NVDA and META? 3 More AI Stocks to Buy Before It’s Too Late"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) captured the imagination of investors this year"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/missed-out-on-nvda-and-meta-3-more-ai-stocks-to-buy-before-its-too-late-1032637944"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "3 AI Stocks to Grab Now for a Lucrative Future"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of tech stocks, it’s easy to get"
-    publishedDateTime: 2023-09-18T21:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-grab-now-for-a-lucrative-future-1032638271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
-    publishedDateTime: 2023-09-19T22:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-ai-stocks-waving-massive-red-flags-right-now-1032641666"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Investor’s Gold Rush: 7 Must-Have Blue-Chip Stocks for September"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the investment sphere, where markets shift like dunes in the desert,"
-    publishedDateTime: 2023-09-20T11:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investors-gold-rush-7-must-have-blue-chip-stocks-for-september-1032643011"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "GOOG Stock: What’s Next After its Latest AI Rally?"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For most tech stocks, excitement for them related to the AI mega-trend has"
-    publishedDateTime: 2023-09-21T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/goog-stock-whats-next-after-its-latest-ai-rally-1032646170"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/googles-new-ai-tool-ca.jpg"
+        width: 1280
+        height: 967
+        isCached: true
 
 secured: "vrH8M9jyh7aybnJPCjsLl7QBoSAWA9NiaVb6rTHlvvQw9jq73XE+fYvRZLEMQL0MIipRZyjpVZKYoLwOw6yotTs20/lG7piaWS/IGVKKEN2aVeUj4Dih/tQW+ap2GUUGrWDloqEl6mJ7jq0fimm+G+FVoAX1rRpAtvnTqL7zsy+U9g5Z2uBCU2gD89xh9eoKkrR/5ztVL2wodMy7N5qqZwTRnMjDl0nRfVhPQPlf85xCgS0XpxAGGkdaUE8ee5R8SB37Fr0BoGx5EsTYtH/9W4Z0lgV8w1lD0fbvjoZhrPo6xfSgy39zUSHhDcgI4ftujHhIzvzcpzGIlIkLvpMPegUkC9VSYQ77Gg3+sx03fkKPKTgpLZyJ9xBzkQP7uAWc8VrOl9rZY6uzxKwL2gqJJwiEE7Sz+WLeSaLLUZ++jboBo9zKK4ddJZrmwuQX2QthpcNfVoDNIeKOPGTBX/SGLV5BN7lJ958rG3TzNHjOCqM1F1/ULR4X4x20ixvHG8ByDe/ctyI8JOanJh1Iv3S4tg==;K+niNI3qZamhsRNlKavuRA=="
 ---

@@ -64,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ochsner to Integrate Generative AI into Patient Messaging"
-    excerpt: "Ochsner Health is launching a pilot program that uses AI to draft simple messages to patients in the MyOchsner app portal. A small group of Ochsner clinicians will participate in testing a new Epic feature that drafts responses to routine patient requests,"
-    publishedDateTime: 2023-09-18T16:51:00Z
-    webUrl: "https://www.bizneworleans.com/ochsner-to-integrate-generative-ai-into-patient-messaging/"
-    type: article
-    provider:
-      name: New
-      domain: bizneworleans.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/09/j/d/gettyimages-1411713535.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "5 Ways to Achieve AI-Powered Customer Service"
     excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
     publishedDateTime: 2023-09-21T09:49:00Z

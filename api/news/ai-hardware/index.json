@@ -141,6 +141,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-22-ai-stocks-list-3-artificial-intelligence-plays-worth-watching.md",
+      "title": "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge.md",
       "title": "Stablecoin Issuer Tether Ventures Into AI With Northern Data in $427M Nvidia Chip Splurge",
       "excerpt": "Damoon, a Tether subsidiary in which Northern Group acquired a stake earlier this year, has purchased $427 million of Nvidia chips for generative AI cloud computing.",
@@ -275,6 +319,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall.md",
+      "title": "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall",
+      "excerpt": "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
+      "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1321,101 +1399,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets.md",
-      "title": "Facing supply glut for chips, Apple-supplier IQE targets Asian and AI markets",
-      "excerpt": "IQE offers GaN Power electronics which aims to serve power hungry AI infrastructure as the likes of generative AI ChatGPT consumes a lot more energy.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78466,msid-103604505/chips-istock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
-      "publishedDateTime": "2023-09-12T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-chip-startup-enfabrica-raises-125-mln-with-backing-from-nvidia.md",
-      "title": "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia",
-      "excerpt": "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Three insights you might have missed from the ‘Cybersecurity’ AWS Startup Showcase event"
-    excerpt: "In less than two weeks, the 20th annual Cybersecurity Awareness Month will kick off in an effort to raise awareness about the importance of cybersecurity. Now, more than ever, data protection has evolved as interconnected systems and networks become increasingly more complex and as the threat of ransomware evolves."
-    publishedDateTime: 2023-09-18T16:26:00Z
-    webUrl: "https://siliconangle.com/2023/09/18/three-insights-you-might-have-missed-from-the-cybersecurity-aws-startup-showcase-event-awsshowcases3e3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 10
   - title: "A Tampa cybersecurity startup surged to become a global company"
     excerpt: "This story originally appeared in Florida Trend Magazine."
     publishedDateTime: 2023-09-22T09:30:00Z

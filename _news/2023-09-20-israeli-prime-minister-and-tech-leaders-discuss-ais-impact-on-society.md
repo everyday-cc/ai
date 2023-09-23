@@ -93,15 +93,6 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 19
-  - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel."
-    publishedDateTime: 2023-09-18T16:11:00Z
-    webUrl: "https://www.seattletimes.com/business/netanyahu-visits-elon-musk-in-california-with-plans-to-talk-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 7
 
 secured: "GSuiO50LLpx9aVofwF5WAApGIEjDHXXFMd0ya4KjqLTZYM+UWt6VMdPDNuLAH4hVySUDpW5LbfKqYfw4KJ5sbko+k2DsRMCSrti3jjqbSsREjHkgQCgW2Pc2rbKpVh2j6Td3BZuo/XfHwAEY3lHf2lci0FQKGC3CvbzaoH3TvBYGvQXP00PgL8JyKfl9qM48r6MqaoFWGuj1ROuQVOAxuADA+Qt6G0yq/TY1VWNz2dT5w+yRIPw+Ehlx2TQM0F4bPD2b6/ydmRNQTh60N1HAdsgzWSJW3rGfPhFy2Gej9j5Av2KoIzwj5Fpml3Rq/S+/C8h5L1ZEx+GqQBPMmAF2HWITnqquA7J4yJAbeqiVVmM=;8FLvrsTj524lLXmywgFhew=="
 ---

@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Diana Bracco: \"Artificial Intelligence will assist radiologists in making increasingly accurate and reliable diagnoses\""
-    excerpt: "Fulvio Renoldi Bracco, Vice President and CEO of Bracco Imaging, opened the proceedings with a talk in which he observed: \"Artificial Intelligence is significantly impacting our lives and its adoption in diagnostic imaging will greatly benefit both patients and healthcare providers."
-    publishedDateTime: 2023-09-20T17:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/diana-bracco-artificial-intelligence-will-assist-radiologists-in-making-increasingly-accurate-and-reliable-diagnoses-1032644538"
+  - title: "The Evolution of Machine Learning In TB Diagnostics: Unlocking Patterns and Insights"
+    excerpt: "With emerging machine learning algorithms, TB diagnosis seems to have taken a new dimension with computer-aided diagnostics (CAD) measures now taking centre stage in many climes. The rise of computer-aided diagnostics has certainly added impetus to the ..."
+    publishedDateTime: 2023-09-23T08:35:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/the-evolution-of-machine-learning-in-tb-diagnostics-unlocking-patterns-and-insights/103885021"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/the-evolution-of-machine-learning-in-tb-diagnostics-unlocking-patterns-and-insights/103885021"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/the-evolution-of-machine-learning-in-tb-diagnostics-unlocking-patterns-and-insights/103885021"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103885021,imgsize-25724,width-1200,height=765,overlay-ethealth/diagnostics/the-evolution-of-machine-learning-in-tb-diagnostics-unlocking-patterns-and-insights.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "uIDU5zl3cwmbuoS0E/rFRN+hA3KsDGHi5juRdWVd4yCaEX8d1HY92zhDqVcJFGR1WTD4aE28NYMTTNb+QkccNHeqF4ArYMnSoOeOXkzGn1N2SCwC3udc2KxRKe4YxZx5p6SGLE4XXFdFeCjk9KlBr3t3fQxb4GdG79GdZyq0qdZkuAvysElY+sD048Bh6q9qUlbx5KFydUZH9bBXB0cbvLJVZmDyIrSNHLpzfThXbJIJ1aIJyFXgzeEPN3DK8/LcMBlLpe4Sqe4jH/F6uYeeqIzRrBOmDA/FigrhQUE0EmXCkLFyZrZPSu1dGW5kWbNFYSuIE2vzh3dYgxqm6hTnp6yBawcTeTRpfTJghtOokiHRDd2AllDRnNHTjpziM4nhqpDFjFIt9rYuQ8liVwlEjYr4nTs7kxkGv82i5LpU8dDicuwWezCLc9ja3ycZVaWWg7pk9xuphiiFlEa3X4ioEaXYqsC1WIwOMAE5W/tSdMt2X/eqVIrK6co0V3kIB1Y/dHQx5V2erb1yFWYJrjGy2g==;Nxt/RwL2KIWMHMyioRm9vg=="
 ---

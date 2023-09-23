@@ -40,22 +40,6 @@ related:
         width: 980
         height: 613
         isCached: true
-  - title: "Auto Workers Strike Seeking Pay Increase And Inflation Rises At Fastest Rate In A Year - Forbes AI Newsletter September 16th"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-09-18T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508752e787e58e7f22250b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 712
-        isCached: true
 
 secured: "GEWC6u2sI4i7WG7+nbPKM0nf3XOcK7nHVdFuQeA4/SoGb/wtxOmZhtF7JuZdzNIgi+vr7BEBdISAtIRwuitRyhpiUVuav+513mxyhLehHo4rOtDBuJlUD8mvqqpcDCiBQeumZ0mMgOEQpaCOZfYPCL3wid04lq9FCm9wY3DThMFdI3jHQoG7CQMEw6X8KdViagM8qTvB+DIh3KzDsUqnLCy+XmsHaNd4zI6jHelw8yifdVQOivKHVeiPVy78mlFdMSHBnARCfscqshwp0MdXtsHYznl9uKKr0CltCwFcgZy85Ze2MDfRbdT5TCiTad11AJ+SDOd3mNYF1Wh8oBr55102HuJTA6CXqdTc7XJO6l4=;GPMNKZe2fbjroZhAAG4rEg=="
 ---

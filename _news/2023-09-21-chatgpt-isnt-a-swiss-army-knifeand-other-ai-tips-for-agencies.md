@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "ChatGPT masquerades as AI but is something much different, researcher says"
-    excerpt: "“This stuff is not artificial intelligence, under any [common] definition of that term, and it’s definitely not artificial general intelligence, but it looks like it,” Bender said."
-    publishedDateTime: 2023-09-18T15:39:00Z
-    webUrl: "https://badgerherald.com/news/2023/09/18/chatgpt-masquerades-as-ai-but-is-something-much-different-researcher-says/"
-    type: article
-    provider:
-      name: Badger Herald
-      domain: badgerherald.com
-    quality: 37
-    images:
-      - url: "https://badgerherald.com/wp-content/uploads/2023/04/IMG_1621-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-
 secured: "NUubj7uH6YC+aywOXeIYiNjbcVKzxPFFk7fKNSSRBp/3wOcVk2PS2XY6U6nLCpTqXxYOvse6zix3l77SG7NECjdvYhyzosylwUrkkoeOrX2BWbku+hoYnzij+WXXI+K4ORNG0umbRnvWUPbzeyw59KVXaXB2KHvXxO/df7CsHtBjgsrTqC2Fq4bkTpeickiFBLOPKXRkTuoqdHvHonZJ/kzTrV2kR0QnP5dYetzpjJAt8hGZAWXR4QN3660btG5EhrrxgBozEje6m8MmMBfR6KeImRpY3YOHbU5y6AMT4S1a7DEEgepD+S3KAEIsn57PDyYFRNajJtUwJ22NuILy7awDysnL54A4prAQOhEff2yNVoI4/g9jOEndZSxTPJTvwJ6rWhL1LpFIFJspCoSNb4XZkyt7GyxOZKDdJMAlYg8FzLVA9lsUmTJOUB4HY6KIhSvwFYtUzcGsChTW7Su/Zz5ZTHYAl1qhHN7MAURQqcTArVW72f3rPJgxMPfd1fTDoE4Aa2y/9PFBaw5mUQBRyg==;qtoBTcQTAfh5TpkIbGoCTg=="
 ---
 

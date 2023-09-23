@@ -2,6 +2,194 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-15-private-ai-summit-with-senate-titans-of-tech-garners-controversy.md",
+      "title": "Private AI summit with Senate, titans of tech garners controversy",
+      "excerpt": "\"This is the room you pull together when your staffers want pictures with tech industry AI celebrities. It's not the room you'd assemble when you want to better understand what AI is, how (and for whom) it functions,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/zuckerberg_insight_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/private-ai-summit-with-senate-titans-of-tech-garners-controversy/amp/",
+      "publishedDateTime": "2023-09-14T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030.md",
+      "title": "2023 | Self-Driving Truck Technology Market Size, Restricted Information Analysis Forecast 2030",
+      "excerpt": "\"Self-Driving Truck Technology Market\" Size, Share, Growth Report 2023-2030 | | No. of pages: 98 Report which offers an in-depth analysis Grounded on Applications (Transport, Mining, Military ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34590293/2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34590293",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34590293",
+      "publishedDateTime": "2023-09-14T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-6-ai-tools-to-supercharge-your-work-and-everyday-life.md",
+      "title": "6 AI tools to supercharge your work and everyday life",
+      "excerpt": "Step aside ChatGPT, these helpful AI tools can automate daily tasks to make your life easier and your work more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/",
+      "originalUrl": "https://www.zdnet.com/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f583481f4204a7538fe857796bdf24b57f21e342/2023/09/05/9058882a-55a2-420d-af78-db5857491ec1/gettyimages-860802312.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/6-ai-tools-that-can-supercharge-your-everyday-life-and-work/",
+      "publishedDateTime": "2023-09-14T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-shares-of-ai-chip-designer-arm-jump-25-after-largest-ipo-in-nearly-two-years.md",
+      "title": "Shares of AI chip designer Arm jump 25% after largest IPO in nearly two years",
+      "excerpt": "After a nearly two-year drought in the IPO market, UK-based chip designer Arm made a successful Nasdaq debut on Thursday, finishing the day 25% higher and landing the company with a market cap of around $65 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/09/14/investing/arm-ipo-nasdaq/index.html",
+      "originalUrl": "https://www.cnn.com/2023/09/14/investing/arm-ipo-nasdaq/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-extending-chatgpt-can-ai-chatbot-plugins-really-change-the-game.md",
       "title": "Extending ChatGPT: Can AI chatbot plugins really change the game?",
       "excerpt": "I take a deep dive into how powerful ChatGPT and other AI chatbot plugins really are. Can they actually make a difference in your work life and are they even worth it? Read on.",
@@ -106,49 +294,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-15-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss",
-      "originalUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/09/01/16/facial%20recognition%20technology%20Indycomp%20copy.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-15-salesforce-readies-ai-assistant-for-crm.md",
       "title": "Salesforce readies AI assistant for CRM",
       "excerpt": "Einstein AI tools due in a fall pilot include the conversational assistant built into every Salesforce app and a studio for building AI-powered apps with custom prompts, skills, and AI models.",
@@ -198,6 +343,49 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
+      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
+      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2413116.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2413116.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/09/01/16/facial%20recognition%20technology%20Indycomp%20copy.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1043,186 +1231,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-neil-serebryany-creates-calypsoai-to-make-ai-more-secure.md",
-      "title": "Neil Serebryany Creates CalypsoAI To Make AI More Secure",
-      "excerpt": "Co-Founded in 2018 by the then 19-year-old Neil Serebryany, CalypsoAI provides a platform to create security protocols to secure AI model algorithms and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65031ed4e9a948a49e3e675d/0x0.jpg?format=jpg&crop=1247,702,x0,y325,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2023/09/14/neil-serebryany-creates-calypsoai-to-make-ai-more-secure/amp/",
-      "publishedDateTime": "2023-09-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
-      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
-      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
-      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-abb-spending-280m-on-new-european-robotics-hub.md",
-      "title": "ABB spending $280M on new European robotics hub",
-      "excerpt": "This new facility will increase ABB's manufacturing capacity for its collaborative and industrial robot arms by 50% and enable it to better serve the European market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
-      "originalUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/ABB-Robotics_Sweden-Robotics-Campus_Production.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-latest-natural-language-processing-market-growth-analysis-2023.md",
-      "title": "Latest Natural Language Processing Market Growth Analysis 2023",
-      "excerpt": "Natural Language Processing market focuses on analyzing the current competitive situation in the Natural Language Processing market and provides basic information, market data, product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34575757/2023-2030-global-natural-language-processing-market-size-will-revenue-to-cross-usd-35630-81-million",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34575757/2023-2030-global-natural-language-processing-market-size-will-revenue-to-cross-usd-35630-81-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34575757",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34575757",
-      "publishedDateTime": "2023-09-14T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -27,105 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "How real-time machine learning can make the self-driving cars more smart"
-    excerpt: "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists."
-    publishedDateTime: 2023-09-18T16:59:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms"
+  - title: "Gov. Newsom vetoes bill to require human drivers in self-driving trucks"
+    excerpt: "California Gov. Gavin Newsom rejected a bill Friday that requires human drivers on board self-driving trucks. The legislation would have banned self-driving trucks, weighing more than 10,000 pounds from operating on public roads. That would include ..."
+    publishedDateTime: 2023-09-22T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 60
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
-    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles ... it was “the last thing on our minds,” - but artificial intelligence did end up being useful in some really concrete ways."
-    publishedDateTime: 2023-09-20T13:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Toward The Self-Driving Car: Marc Tarpenning On AI"
-    excerpt: "I think you can get a lot out of this video where we’re talking about the evolution of self-driving vehicles, and the kind of fulcrum that you hit, as Marc puts it, about 90% of the way in… First, there’s the timeline that we’re looking at ..."
-    publishedDateTime: 2023-09-20T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/09/20/toward-the-self-driving-car-marc-tarpenning-on-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Are Self-Driving Cars Really Safer? Exploring the Facts"
-    excerpt: "In recent years, self-driving cars have become a hot topic in the world of transportation and technology. Proponents argue that autonomous vehicles have the potential to revolutionize road safety by eliminating human error,"
-    publishedDateTime: 2023-09-19T04:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2586417-are-self-driving-cars-really-safer-exploring-the-facts?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: NBC Bay Area
+      domain: nbcbayarea.com
     quality: 44
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_09_2023_17_40_37_1760082.png?width=1280"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Self-driving cars and buses: your guide to the future of autonomous vehicles"
-    excerpt: "Self-driving vehicles are the future according to the government, which says: “By 2025, the UK will begin to see deployments of self-driving vehicles, improving ways in which people and goods ..."
-    publishedDateTime: 2023-09-18T19:49:00Z
-    webUrl: "https://www.independent.co.uk/travel/news-and-advice/self-driving-cars-buses-autonomous-vehicles-b2413681.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 21
-    images:
-      - url: "https://static.independent.co.uk/2023/09/17/12/newFile.jpg?quality=75&width=1200&auto=webp"
+      - url: "https://media.nbcbayarea.com/2023/09/25851247555-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 901
+        height: 675
         isCached: true
-  - title: "Chris Urmson Is a Trailblazing Technologist of the Self-Driving Car"
-    excerpt: "At Google, Urmson helped write the code for what would become known internally as \"self-driving\" vehicles and the eventual Google Car prototype."
-    publishedDateTime: 2023-09-21T12:00:00Z
-    webUrl: "https://www.motortrend.com/features/chris-urmson-self-driving-automobile-trailblazer/"
+  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
+    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+    publishedDateTime: 2023-09-20T15:28:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 29
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
+    excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
+    publishedDateTime: 2023-09-20T21:22:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 26
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/14/560aff8f-06d2-40a6-81e8-9088929c69c6/thumbnail/1200x630/b9445fc6ba5dd9f145bca3dd253979a4/Big-Rig-18-Wheeler-Generic.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Truck drivers urge Newsom to job-saving bill to save jobs as self-driving big rigs are tested in California"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+    publishedDateTime: 2023-09-20T18:03:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 26
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/14/560aff8f-06d2-40a6-81e8-9088929c69c6/thumbnail/1200x630/b9445fc6ba5dd9f145bca3dd253979a4/Big-Rig-18-Wheeler-Generic.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Push To Temporarily Ban Self Driving Trucks In California"
+    excerpt: "A rally was held at the California state capitol where union leaders, truck drivers, and some lawmakers called for Governor Gavin Newsom to sign a bill that would temporarily ban large self-driving trucks."
+    publishedDateTime: 2023-09-20T14:59:00Z
+    webUrl: "https://www.mymotherlode.com/news/local/3231032/push-to-temporarily-ban-self-driving-trucks-in-california.html"
+    type: article
+    provider:
+      name: My MotherLode
+      domain: mymotherlode.com
     quality: 19
-  - title: "Cruise self-driving cars cause traffic jam on Austin city street"
-    excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
-    publishedDateTime: 2023-09-19T10:00:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/self-driving-cars-austin-traffic-18373989.php"
+  - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
+    publishedDateTime: 2023-09-19T23:25:00Z
+    webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 4
-  - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
-    excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
-    publishedDateTime: 2023-09-20T16:53:00Z
-    webUrl: "https://newstalk1290.com/self-driving-cars-barricade-austin-texas/"
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/cf/bcfd2091-7cae-563f-a309-4bff1a64797e/650a2fbd433c1.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California truck drivers ask Gov. Gavin Newsom to sign job-saving bill as self-driving big rigs are tested"
+    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+    publishedDateTime: 2023-09-20T00:07:00Z
+    webUrl: "https://www.kpbs.org/news/public-safety/2023/09/19/california-truck-drivers-ask-gov-gavin-newsom-to-sign-job-saving-bill-as-self-driving-big-rigs-are-tested"
     type: article
     provider:
-      name: NewsTalk 1290
-      domain: newstalk1290.com
-    quality: 4
-  - title: "Scientists Reveal That Self-Driving Cars Can Make Traffic Slower"
-    excerpt: "A recent study reveals that vehicles that wirelessly communicate with each other, known as \"connected\" vehicles, considerably enhance the flow of traffic at intersections. However, automated vehicles that don't communicate with each other can actually slow down travel time through intersections."
-    publishedDateTime: 2023-09-21T16:03:00Z
-    webUrl: "https://scitechdaily.com/scientists-reveal-that-self-driving-cars-can-make-traffic-slower/"
+      name: KPBS
+      domain: kpbs.org
+    quality: 6
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/fbc713b/2147483647/strip/true/crop/5184x2722+0+97/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fassets%2Fimg%2F2015%2F05%2F10%2Ffreightliner_wide-a331a1875a9a645d208ad74f3493fa939cdd5316.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Teamsters support bill requiring a human in self-driving vehicles"
+    excerpt: "Teamsters and supporters rallied on Monday, Sept. 18 in Arcadia, supporting a Legislative bill that would require a human operator in self-driving vehicles weighing 10,001 pounds or more."
+    publishedDateTime: 2023-09-18T23:28:00Z
+    webUrl: "https://www.dailynews.com/2023/09/18/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 4
 
 secured: "ZD6sESX5J/cIfhFMv/hXaGSrOgyLvEbqPQ0nSpIHVO6V8YuAM7UXfIZuFTCTuDpGxlSCrhwjdO4kZW04HafNHchao/nUFtZc/l5gffO4EBw91QwPuCiDD1Kaza9GaDeiz/SZZNI2UNfMnn9L2xZ8UUZY131pyWBsNhBlzUobpwVyI4NboaA6FT3rk6k4G1YXpwzIwEomEm3my9qQVxcENopc8JJNzfIo55WFruNz6qfBrJmR6xJa72ToX5aqf8cRlUNOhbBHS/D/9yoKtjOpldmTNCQwLdvbkz7qEIPLOacGr7cu8Jz5niXapXrUNwOkIIDRf1XPee3D4CQOTptiZILNBApWgyxfhdrv4nZGqe05j3LNYUYT3Bryr/alqxjnJPw1nCShA5xdrfZH7gztUHN78dy3TZOR63WhyGT7W6LdI8ZWdGqhE2eRKgTHoUtJMKbVGHbTt8KEbuBsUf1A0GaOmhZwjpvfZBLHGwzJzRspHvwptmiPTGX+Oc7btIXTLT+2ooGwjT6oNX+FdcrQDA==;VHMtejbMYzVEq7bspsseOw=="

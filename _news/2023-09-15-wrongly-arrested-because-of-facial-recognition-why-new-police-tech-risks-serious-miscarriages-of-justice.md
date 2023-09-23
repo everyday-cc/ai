@@ -2,9 +2,9 @@
 category: news
 title: "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice"
 excerpt: "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ..."
-publishedDateTime: 2023-09-14T20:15:00Z
-originalUrl: "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss"
-webUrl: "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html?src=rss"
+publishedDateTime: 2023-09-14T19:19:00Z
+originalUrl: "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2413116.html"
+webUrl: "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2413116.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "13BKTykyCuDlMn4n76f+oTRN79sF3j5KUvxsiqeORp5aSSiNKU5ERbjAowrFXGVpct9ZsBsNFMOCKA+d5ADiw9tYBZ9wv3433rVtO0VcCZv09DauLwCNKREGNO2UmVu37O0TxP0eFkXuBmi855K9OyrDKK8b3dDTv+jSwMU6+7QhqYmeIAzml81efgM9OFk9JT6v7J2ANlb6vVEiro2nJh+AcMxZlhDeLC7WnsMhmFSw/titJI64qdwLEbm1zTOOymn9NRsjpF9UBr6BB7E+svOCYqYp/VsNzBm1izJKzgUblZ1rrSXwMiEToQaRzbrbty4BfQ0rKll2I78MG9V2IetjJbxw/eJa5jWGegHMKQk=;rGdxVBmhUZJMHockxXZVVA=="
+secured: "wlk2Cmapu/J+G0iAuGQEUc796VWLqV9+gxTBGNQoLAZX3Yi77HyrG6sB4HjxwWtawnyFHy40ngx3JUb3cFx/TCg9J3/DemwTKRxV2dlAzb9COALWCx0t5i5V4krWlHVNlsqSTSh57z66kFJOlKDFXXDzsnWmDGsQT0Grhk6uVuLX+nwHAWfoFSwyn5R8g/lGe5H/eT7joNpYECMsgAxBN7xcDgq6TgowN4GRmpfQz4wDBg/ffGLeZ5EuoriNmSgxPAOeafRoSMFcB7cfy/vE0VFR4MsC/f0OWtp0couuII13dG87vv9l+0YLj0rsqyPwOne5bJe0QKbqpAIDR1z46L8O+H99zTm+0twpoubGDEo=;vzR0NhMgJrasNxMqa28hcw=="
 ---
 

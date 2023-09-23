@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/press-release/cfpb-issues-guidance-on-cr
 webUrl: "https://www.cuinsight.com/press-release/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "CFPB issues guidance on credit denials using artificial intelligence"
-    excerpt: "The Consumer Financial Protection Bureau issued guidance on the use of artificial intelligence in credit underwriting, saying that creditors are relying too heavily on a CFPB checklist and sample forms when they should provide specificity to explain why a consumer is denied credit."
-    publishedDateTime: 2023-09-19T19:17:00Z
-    webUrl: "https://www.americanbanker.com/news/cfpb-issues-guidance-on-credit-denials-using-artificial-intelligence"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 17
   - title: "CFPB Calls for Increased Specificity and Accuracy on Reasons for Credit Denials When Lenders Employ Artificial Intelligence"
     excerpt: "When using artificial intelligence (AI) or complex credit models, can lenders rely on the checklist of reasons provided in Regulation B sample forms for adverse action notices? According to today’s guidance issued by the Consumer Financial Protection ..."
     publishedDateTime: 2023-09-21T19:48:00Z

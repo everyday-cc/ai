@@ -94,15 +94,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-    excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel."
-    publishedDateTime: 2023-09-18T16:11:00Z
-    webUrl: "https://www.seattletimes.com/business/netanyahu-visits-elon-musk-in-california-with-plans-to-talk-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 7
 
 secured: "Ix9DGLW2fSlAqqxszYkE8tqBlxNsYAmK9h/tCmhPuZyopnMhWSRjV55x5EiW7fQDNUzQiWKo9z8zW4XXGToEbvI2kHwF0D56b0izXaLN81eN9gT6xss0mx0lGgoibQGaOjBlHusxRR6x0BKN66k/wFuiIgJ62ictyJJXXKc02KqfoTmBCCBgYxuH5eH2cl80233dCVGi27X6cST2eAa6j7HCorp+feD2kFYzo4qbWmFeiyXAHsPpF9GQwlbryghh4K2w0SYGeaYlwIbDfQjxOv9ecvdwc++/bAFXekpX8lS0440NA3Z2selcMPXRurDeEstzvGMxb7CzNgefc225igBLqcMkOT+DRYfXVQAJm2k=;mCly+4POL6YA6kJbAYsVOA=="
 ---

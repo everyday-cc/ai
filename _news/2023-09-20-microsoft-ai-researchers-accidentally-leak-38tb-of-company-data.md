@@ -179,20 +179,6 @@ related:
         width: 835
         height: 468
         isCached: true
-  - title: "Microsoft AI Employee Accidentally Leaks 38TB of Data"
-    excerpt: "A software repository on GitHub dedicated to supplying open-source code and AI models for image recognition was left open to manipulation by bad actors thanks to an insecure URL."
-    publishedDateTime: 2023-09-18T16:59:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-ai-employee-accidentally-leaks-38tb-of-data"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06RB9Pdc5UaBy8fkYpbKaAj-1.fit_lim.size_1200x630.v1695053260.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft's Copilot AI Coming to Windows on Sept. 26"
     excerpt: "Copilot lands on Windows 11 as part of an operating system update rolling out on Sept. 26. It will arrive on Bing, Edge, and Microsoft 365 Copilot in the fall."
     publishedDateTime: 2023-09-21T16:18:00Z
@@ -234,22 +220,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2216789/2023_Silicon_Valley_Cohort.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
-    excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."
-    publishedDateTime: 2023-09-18T15:18:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2023/06/12/microsoft-azure.jpg"
-        width: 1600
-        height: 800
         isCached: true
   - title: "Interview: UK Chancellor Jeremy Hunt visits Amazon and Microsoft; talks AI, China, economy"
     excerpt: "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime, Alexa, logistics, devices, and more. UK Chancellor Jeremy Hunt and Microsoft CEO Satya Nadella. (Photo via X/Twitter.) Chancellor Jeremy Hunt, the United ..."
@@ -711,15 +681,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 25
-  - title: "Microsoft’s chief product exec to step down. Panos Panay was behind Surface devices and Windows 11"
-    excerpt: "A top product executive at Microsoft who launched its Surface line of devices and Windows 11 is leaving the company."
-    publishedDateTime: 2023-09-18T16:22:00Z
-    webUrl: "https://www.seattletimes.com/business/microsofts-chief-product-exec-to-step-down-panos-panay-was-behind-surface-devices-and-windows-11/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 5
 
 secured: "Ol0uDa+T07MtSza0X9frR2GlIQP8lobEBhJG9pwHl3vms8RYQyo9fg+va5wLaH8Iq3MPL1HBcJmoWdu7zRU/Lx9Xjph+wqGsADxrjSn7YUCUpuOqh5Be4cpksKiFbGpI9gQPB7fDTEPXx84yc9WYuiC+pdJTXi4P9a0+bNW0mQhIfynDFQ65LPRmwBqf4V9EUqfKsuV4xByP7/cJlwZ1UYpE+sFuDl+6vF7Z/uIkwqqC+6ehbTZcSy6Mn5xc4py3a4C8E55u0QG5LzaOvXP8+bwtwtvuo+4Ed3U3Amrq3g9MI9DeS0Y2GGUMlq9CWfjB0HACStdLAqU6AewCfw/7BG/Ej8LpkwLIkgqwPeBalxB7+EIlEakZaQpX1Zcjp+V5x8mRpy+g8N6yxxJhNhsQ0s2PhtWyTn6BhX4efLZAGhIlelSVHHUeYPfQy06xnUmLKfRDdhHJ52X1EPMsSxuPiG+3pdHu6Zc/NCG69vpYmarkX5cXkS7iSBOq5OpPg36Ob2DzFj5B49SqyWeXaDDCIg==;qDVLGvWy/FJ+rscT3Q1b3g=="
 ---

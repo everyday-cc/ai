@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-la
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "EY announces launch of artificial intelligence platform EY.ai"
-    excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"
-    publishedDateTime: 2023-09-18T15:43:00Z
-    webUrl: "https://business-review.eu/tech/ey-announces-launch-of-artificial-intelligence-platform-ey-ai-251787"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 54
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
-        width: 1773
-        height: 1182
         isCached: true
 
 secured: "HULYDvkkbxfkdaC+wPAj47FZzH9oEVNHspTucxCPgtR9lgPvfI4wWhYD26QBQ8258oVtpnK4MNIwGuQnJYtSSBJsLicAIxuMdVWrRgI5+TIlzxkGsO+bqVeVTC9aq1+z+XVPMPxXiXJoP+ySTgapGbHney9DliR4RaQEd791qTrM0l8kBYTaKUVoL1uLcIJtRAtwAWOzlfM05JkBAj92IyR+PYxXOLVCZbkSTRjWaf6Us8pY6wqz+tbsVvogroySqKhnLpRlX69QgQIcUHmQpB1BuAv3Fhdd7UNbqdJ8u93MY/JlY+rdKflB2E8jwE+tteNGyextdwfTQiiJPly3H7UIkIpJksPRDPV5uEgfff0=;UBqIzlpD9huMFbd6QeZkmA=="

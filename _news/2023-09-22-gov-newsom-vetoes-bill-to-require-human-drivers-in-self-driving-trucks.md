@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Teamsters support California bill requiring a human in self-driving vehicles"
+    excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."
+    publishedDateTime: 2023-09-19T11:42:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 41
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SGT-L-TEAMSTERS-0919.jpeg?w=1024&h=768"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
     excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
     publishedDateTime: 2023-09-20T15:28:00Z
@@ -122,6 +138,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "RwJ5zoS8EE12O16UdohptMgZujVVUXU5G8lq0WCpUrvcv/8aDsH6Fj4l4Jf/AjMGLwWKaVAQHTvbS3PqPBGsVr6srl7oemN7vMemLjC8cyjTwDbudFYNxjwi6uREoqjM0wDXqm/8QEb9kGUr9VZ3Rnn183X5mFGft3nJ4fHD2W9oMLVKm/wFOQe3Wmfsiw0clCR8SKc8zXvKIfiqs6cIDX3iSCdq9i7aM0+Hg6SlADs7kGZGKEuy8Esd4mxuhu45n4ClcEJC0u97LNBDxwRq/ve+8eoHVefVPtmOM6qloFybaAK5V59Y/rwmRkEcEq//6ygkoIgpL2Qq2uMCaavzMyyBu7pMxo0nY9zVRFmKJrs=;2Knqb7nGdad/Da5oWtV5Iw=="
+secured: "VL46BqV2a+iqVUggIpg7vYxQ5b9aW3mcGVNvlrSKkB6fQK2J5w8M2jPrSdq2eLqZb0O1GxKmtXf3dxoeAx2eJvX1TnAqr/SgjGEW7ggO1gltCq/WqgOAP2zLqD8UA+hDiRZuEsI3oH/E5QK+gx9GaSVf77CW1DQl5kS+JlG4xT1fdBBMOuaZ1b08LX0aFl727ia/86+5m9YNL5imI3erdHdGvUqC1iRsucyQZdwg2Ok3qftpRXpjm9J34VDZT/QbmNuRqVTsbAXPyvT6D3Zv4Axag7ROt4L5K5Tz0h8azABjnev+LUb6VyCBMyNT+GdFUs7BnbvewmZ+xcOXc+RXnJXRePi0yt3iv4uvzabRBC84+iG0iVZnGBjtp7u+xDIHd7XB3BZsbUPu2uHSM6vctp8p+tefJM1Xplbts/JQPUebrr1+F5dnjIc3kdID7GCTyGWT3auIi099XVlu7KkFuz5Wrt4Zb/ZDYGoom9pk/c3YeTvX/IzEJelMGwqd0bkLmihrurlVLh8pZWG/pA+p0g==;7EvBXGVPbgS8dws6mO4VwQ=="
 ---
 

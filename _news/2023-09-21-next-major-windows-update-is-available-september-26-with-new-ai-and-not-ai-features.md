@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Auto Workers Strike Seeking Pay Increase And Inflation Rises At Fastest Rate In A Year - Forbes AI Newsletter September 16th"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-09-18T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/09/18/auto-workers-strike-seeking-pay-increase-and-inflation-rises-at-fastest-rate-in-a-yearforbes-ai-newsletter-september-16th/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508752e787e58e7f22250b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 712
-        isCached: true
   - title: "Artificial Intelligence (AI) and God"
     excerpt: "Artificial Intelligence is taking the world by storm leaving some awestruck and others terrified. While many have begun to utilize the rapidly developing technology in a myriad of ways, among the many concerns some have, believe it or not, is a fear that ..."
     publishedDateTime: 2023-09-22T04:08:00Z

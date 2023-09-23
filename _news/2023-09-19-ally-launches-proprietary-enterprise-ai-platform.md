@@ -61,20 +61,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "EY announces launch of artificial intelligence platform EY.ai"
-    excerpt: "Tech - The global EY organization announces the launch of EY.ai, a unifying platform that brings together human capabilities and artificial intelligence (AI) to"
-    publishedDateTime: 2023-09-18T15:43:00Z
-    webUrl: "https://business-review.eu/tech/ey-announces-launch-of-artificial-intelligence-platform-ey-ai-251787"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 54
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/09/Bogdan-Ion-EY-Romania.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
 
 secured: "Sofhk2X142L4UuUxHP9q/faqx0PvHBhUV9ZBh6kdIKJhftWBMFy5gGh5wMC0ica6FMLMF/lTa84lrB5UDTVDq6gt0vKoz9kkjCu7f9/8LBLPrad2gobWYlz1QMb2wvXNQ5CfNNR/h3i10SAAFrjUX4mrj49ubju6R/Z7NmSfrqR3TpG86X+2u6RtLMV1tlGWefkwuBQTXhL23XGxwDVXuRM5Yz5gr1sp4iR4JwzHen9ofjgagOSMkO4pxwEjPVzbNpyDOBIsoy+Q54R/Wq80vzVLEqIfOQKxadmOQ09zOKYnsvdNbVQaPSvocO1x7yD5M12OJGPdlVZm4JJFxYH6bkVVc1T8SGWbT3nKDR0AYkioaZM84p2Wr+94hC8r0JZ7W4ELmgp1xbevEaPaE962oAvdYTWsU1Ybj3VWfmpALEjOu5TXeFkpQOO5IsrZeSAq6xAOg+bzbZ8IlLW2d/ssL1DHWItngMyBiTlx3WMqz8OJspUixpNAWSLrlxguClRTlW5/umubbuwurpifF2iV+w==;FmcmTENYjTeKDepy+dSL8Q=="
 ---

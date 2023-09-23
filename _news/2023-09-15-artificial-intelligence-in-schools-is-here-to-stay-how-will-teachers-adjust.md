@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "5 handy AI tools for school that students, teachers, and parents can use, too"
