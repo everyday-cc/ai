@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-09-19-aws-to-power-abdul-latif-jameel-digital-transformation.md",
-      "title": "AWS to power Abdul Latif Jameel digital transformation",
-      "excerpt": "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2ZmMDRhZDAtMjE2OC00/3/1410007281.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1",
-      "publishedDateTime": "2023-09-19T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-19-nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design.md",
       "title": "NVIDIA's next-generation Blackwell GPUs for HPC and AI will use chiplet design",
       "excerpt": "NVIDIA's next generation of GPU hardware for high-performance computing will see the company adopt a chiplet design for the first time.",
@@ -96,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -188,49 +145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened.md",
-      "title": "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened",
-      "excerpt": "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html",
-      "originalUrl": "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/tr:w-1200/microsoft-ai-1280-31bc5370f0.jpeg",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened",
-      "publishedDateTime": "2023-09-19T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1208,6 +1122,109 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-3-key-startup-opportunities-in-remote-work.md",
+      "title": "3 Key Startup Opportunities In Remote Work",
+      "excerpt": "In this article, we explore why 3 different remote work niches hold immense potential for new innovative startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650860fe17567a7b42935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "publishedDateTime": "2023-09-18T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration.md",
+      "title": "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration",
+      "excerpt": "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "publishedDateTime": "2023-09-18T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.bankingdive.com/press-release/20230921-explore-why-you
 webUrl: "https://www.bankingdive.com/press-release/20230921-explore-why-your-fintech-startup-needs-an-explainer-video-production-compan/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "3 Essential Ways to Scale Your Fintech Startup by Embracing Process Automation"
-    excerpt: "Robotic Process Automation: RPA is a leading automation strategy in fintech that can help to improve the UI credentials of a company. Tasks like extracting information from a legacy system or mainframe can be automated with the help of RPA,  and cloud-based enterprise automation tools can connect to the API of RPAs to help automate workflows."
-    publishedDateTime: 2023-09-18T14:24:00Z
-    webUrl: "https://www.finextra.com/blogposting/24916/3-essential-ways-to-scale-your-fintech-startup-by-embracing-process-automation"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 20
-    images:
-      - url: "https://i.ibb.co/yNZ613X/AI-and-RPA-Spectrum.png"
-        width: 638
-        height: 479
-        isCached: true
-  - title: "Spend Management Fintech Brex Introduces Tool to Streamline Work Processes, Increase Productivity"
-    excerpt: "Brex, the unified global spend platform, announced the launch of Brex Assistant, a proactive assistant that simplifies expense management."
-    publishedDateTime: 2023-09-21T02:10:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/213189-spend-management-fintech-brex-introduces-tool-to-streamline-work-processes-increase-productivity/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 11
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "I86wSCTKTbEGTSJjkvQhHnQcMLxBQR9HUAwoLrpI9u36XRqgkGnJWC2k7SYvnxW6oZCXqxVJgNX0N2N3+T41V5/ObRUhf7up4hmh9w3gtegAemT2jfCH6Cp9neZJKNxS02cZDRBHhs4EZYhBnO2BjyJJks+wEeSoNiIqusP4tjxzeVvk4NXvPaYS6rrh/FxEc8Do8Qt4LW5KkXuXQS2w7DxA68PMSBg1a1RfqtQrH2D36Ymqp1luwppVy8AXfjlHKCyFNPqUrdGaSElWjC51arTyEndNFnQFww6ziKjHsvwRR6jfHPGsNuhDvnfDsTALDssYELCGMsteFleCEW1KxZQavq+vqMuQcH+kAkNtXR/KPAGR5LZvp+fpWplxiY9Kd/fhTZruX+SmShyk+kW/mVYFcZaV20l9/uaNwBgCk74jbJT6JVMA2a7NIybeLQok0+vqjj55zmFLys0UE26f7QGS4QaBODn8pnhANm+6QLYN6D/++L23uP8kS47COMvLr5CpdJIwJButamO0iQYQIg==;wA2vK5mVb8urDUVu8d7VeQ=="
 ---

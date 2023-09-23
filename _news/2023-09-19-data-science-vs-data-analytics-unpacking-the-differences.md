@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-
 webUrl: "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 2400
     height: 1260
     isCached: true
-
-related:
-  - title: "Using AI To Advance Engineering Analysis: Not More Data, More Physics"
-    excerpt: "The goal of engineering analysis is to use models of the real world to simulate and predict the performance of a design with"
-    publishedDateTime: 2023-09-18T14:34:00Z
-    webUrl: "https://www.marinelink.com/news/using-ai-advance-engineering-analysis-not-508119"
-    ampWebUrl: "https://www.marinelink.com/amp/news/using-ai-advance-engineering-analysis-not-508119"
-    cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/using-ai-advance-engineering-analysis-not-508119"
-    type: article
-    provider:
-      name: Marine Link
-      domain: marinelink.com
-    quality: 59
-    images:
-      - url: "https://images.marinelink.com/images/maritime/w800h600pad/copyright-kras99adobestock-144080.jpg"
-        width: 800
-        height: 334
-        isCached: true
 
 secured: "LtSWrG8rMDgxkQy7Vq5ppjZGCkYrPGZixeJ1mJknhtkmHl5QM5caYnQnQNpuhxBuynYJzh15Ib09uwTOJCWrgivHDejTA3+ILfxyWRbOQFcVAFz/uYw8GDUDP+SZeBcTzZpq6AA3Dd0bDWEcjEsxEae+JJPYsF88sIKphLrpoaSr7k6upeINbHpLDvA2XapIP2ZlZPZrUz/U6119RNR7cBgzCU/7YpmLdcmrLOTEK9vcifqvMtEHPLWl4RES9Ul8XYJd9+AByOMFRWOZD4GqyyvR7nG9y5EhnHCkCYJ7yGCEFf4HeKmGfpWwF1s86pgKYZdiZKE81D0Uq+RSQUgO0A1SwmrFYOId3qR1b+26Jg0=;1xoHa80AEpWUZeleiX8KNg=="
 ---

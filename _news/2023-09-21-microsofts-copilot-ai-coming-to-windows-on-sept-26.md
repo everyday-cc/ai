@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trade Ledger Introduces Bank Solution with Microsoft Azure OpenAI Service"
-    excerpt: "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service designed exclusively for Business Owners."
-    publishedDateTime: 2023-09-18T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 105
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/First-State-Bank-1940-Oil-Ghost-Town-Oklahoma.jpg"
-        width: 1125
-        height: 849
-        isCached: true
   - title: "Every product Microsoft unveiled at its Surface and AI event today"
     excerpt: "Copilot will be available on Windows 11 devices, across Microsoft 365 services including Powerpoint, Excel, and Teams, and on Microsoft Edge. Because Copilot builds on Bing Chat, it shares similar AI-powered features like the ability to summarize and pinpoint key information of bodies of text, from websites to text messages."
     publishedDateTime: 2023-09-21T14:42:00Z
@@ -124,6 +108,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/103319272-20160120-3217-1936.jpg?v=1695309180"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Microsoft overhauls its pricey Surface Laptop Studio with new CPU, GPU, and RAM"
+    excerpt: "The new Laptop Studio has the same 14.4-inch 2400×1600  screen as its predecessor, but it addresses the old Laptop Studio's input limitations by adding a USB-A port and a microSD card reader. The laptop also keeps its headphone jack, Surface Connect port, and pair of Thunderbolt 4 ports."
+    publishedDateTime: 2023-09-21T17:06:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 102
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8428-800x600.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Hands On: Microsoft Surface Laptop Studio 2 Gains AI Chip, Aluminum Body"
     excerpt: "A fancy new chassis, amped-up Nvidia graphics, and Intel’s Movidius neural processor are the top tweaks in the 2023 Surface flagship laptop. We got in some time with Microsoft’s flip-and-fold dynamo. I have been a technology journalist for almost 30 ..."
@@ -211,6 +211,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft-backed FAST Accelerator Announces 12 African Startups Selected for Artificial Intelligence (AI) Program"
+    excerpt: "AI-focused accelerator program brings African startups to Silicon Valley to jumpstart technology innovationSILICON VALLEY, Calif. , Sept. 20,"
+    publishedDateTime: 2023-09-20T23:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program-1032644968"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://mma.prnewswire.com/media/2216789/2023_Silicon_Valley_Cohort.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft leaks 38TB of private data via unsecured Azure storage"
     excerpt: "The Microsoft AI research division accidentally leaked dozens of terabytes of sensitive data while contributing open-source AI learning models to a public GitHub repository."
     publishedDateTime: 2023-09-18T15:18:00Z
@@ -226,6 +240,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2023/06/12/microsoft-azure.jpg"
         width: 1600
         height: 800
+        isCached: true
+  - title: "Interview: UK Chancellor Jeremy Hunt visits Amazon and Microsoft; talks AI, China, economy"
+    excerpt: "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime, Alexa, logistics, devices, and more. UK Chancellor Jeremy Hunt and Microsoft CEO Satya Nadella. (Photo via X/Twitter.) Chancellor Jeremy Hunt, the United ..."
+    publishedDateTime: 2023-09-23T01:35:00Z
+    webUrl: "https://www.geekwire.com/2023/interview-uk-chancellor-jeremy-hunt-visits-amazon-and-microsoft-talks-ai-china-economy/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 74
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/09/satya-chancellor.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "The Future Of Cancer Detection: Microsoft And Paige's AI Behemoth"
     excerpt: "Its latest collaboration with Microsoft aims to take it one step further by advancing a novel AI model featuring billions of parameters by leveraging Microsoft's Azure platform. The revolutionary model is expected to play a pivotal role in deciphering ..."
@@ -266,6 +294,22 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
+  - title: "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened"
+    excerpt: "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams."
+    publishedDateTime: 2023-09-19T07:29:00Z
+    webUrl: "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html"
+    ampWebUrl: "https://www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 64
+    images:
+      - url: "https://static.digit.in/default/tr:w-1200/microsoft-ai-1280-31bc5370f0.jpeg"
+        width: 1200
+        height: 698
+        isCached: true
   - title: "Microsoft AI researchers leaked 38TB worth of private company data"
     excerpt: "Wiz notified Microsoft of its findings on June 22, and the SAS token was revoked two days later. It took the company almost three weeks to run a thorough investigation, after which it concluded that the data hadn’t been accessed by any unauthorized third parties, TechCrunch said ."
     publishedDateTime: 2023-09-19T13:04:00Z
@@ -283,6 +327,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 64
+  - title: "Microsoft’s Surface and AI event: all the news and announcements"
+    excerpt: "Panos Panay has always been the force behind Microsoft’s Surface line. He helped bring Surface to life as a secret project more than 10 years ago. He’s presented the new devices onstage at events, showed up at malls to promote Surface hardware, and has steered Microsoft’s Surface tablets to success in the years since."
+    publishedDateTime: 2023-09-21T13:15:00Z
+    webUrl: "https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
     quality: 64
   - title: "Microsoft Surface Laptop Studio 2 Is Coming With RTX Graphics And A Dedicated AI Chip"
     excerpt: "Microsoft announced its new Surface Laptop Studio 2 with RTX graphics and a dedicated AI chip yesterday. The tech giant also revealed its latest Surface Laptop Go 3 and Surface Go 4. Microsoft Surface Laptop Studio 2 The Surface Laptop Studio 2 is touted as being the most potent and versatile Surface Laptop yet."
@@ -339,6 +392,22 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Microsoft AI researchers accidentally leaked 38TB data online; Includes passwords, secret keys, more"
+    excerpt: "In a blog post, Microsoft announced that researchers at cloud security firm Wiz discovered that Microsoft's AI division researchers accidentally leaked 38TB of data while contributing to a GitHub repository involving the development of open-source AI models."
+    publishedDateTime: 2023-09-19T11:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/09/19/1600x900/Europe-Microsoft-Investigation-0_1694134466952_1695122693587.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage"
     excerpt: "The Microsoft leak, which stemmed from AI researchers sharing open-source training data on GitHub, has been mitigated."
     publishedDateTime: 2023-09-18T22:15:00Z
@@ -348,15 +417,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 59
-  - title: "Microsoft AI researchers accidentally exposed terabytes of internal sensitive data"
-    excerpt: "Microsoft AI researchers accidentally exposed tens of terabytes of sensitive data, including private keys and passwords, while publishing a storage bucket of open-source training data on GitHub. In research shared with TechCrunch, cloud security startup ..."
-    publishedDateTime: 2023-09-18T13:22:00Z
-    webUrl: "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 58
   - title: "Microsoft AI team accidentally discloses 38 TB of private data"
     excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
     publishedDateTime: 2023-09-19T09:08:00Z
@@ -455,33 +515,33 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Oracle and Microsoft strengthen cloud partnership with Oracle Database@Azure launch"
-    excerpt: "Oracle and Microsoft have announced a new service that will allow customers to access Oracle database servers located in Microsoft Azure data centers. Intended to smoothen the cloud transition and give customers more flexibility when it comes to managing their multi-cloud environment,"
-    publishedDateTime: 2023-09-18T14:01:00Z
-    webUrl: "https://www.techcentral.ie/oracle-and-microsoft-strengthen-cloud-partnership-with-oracle-databaseazure-launch/"
+  - title: "Microsoft AI Team Accidentally Leaks 38TB of Confidential Corporate Data"
+    excerpt: "Microsoft AI team's inadvertent 38TB data exposure raises major security concerns, spotlight on tech giant's safeguards"
+    publishedDateTime: 2023-09-22T05:01:00Z
+    webUrl: "https://techstory.in/microsoft-ai-team-accidentally-leaks-38tb-of-confidential-corporate-data/"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 48
+      name: tech
+      domain: techstory.in
+    quality: 53
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/09/Microsoft_Oracle.jpg"
-        width: 620
-        height: 349
+      - url: "https://techstory.in/wp-content/uploads/2023/09/Facebook_Logo_2019-360x240.png"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Microsoft introduces ‘super realistic AI voices’, 400+ neural voices, 140 languages"
-    excerpt: "Microsoft is introducing new realistic voices designed specifically for conversational scenarios as part of Azure OpenAI GPT. These voices offer improved"
-    publishedDateTime: 2023-09-21T14:30:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-introduces-super-realistic-ai-voices-400-neural-voices-140-languages/"
+  - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
+    excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
+    publishedDateTime: 2023-09-19T04:06:00Z
+    webUrl: "https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 48
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 50
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/ai-hand-touching-mechanical-hand.jpg"
-        width: 1024
-        height: 768
+      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiyJyQb9mcfSjaCa17jIAuIuKveXmj16kftXN2B1lMd8fODbwIrboMDf1VP38_vIFpAb-J_rUVu-2mTraIhsYXVdyZc2bHh0vbDY0bxqCkNb2guDOAp-52gDutokkTKT12srlfZU_gnxTIOy15X9TzCdZWeX4TrEAgpQsMp2qTCkhicAv_DaH_y8kvRukSk/s728-e3650/wiz.jpg"
+        width: 728
+        height: 380
         isCached: true
   - title: "Meta and Microsoft - Citi Analysts Bullish On Both, Spotlight On Advertising And Accelerated AI Innovations"
     excerpt: "With Reels ad loads reaching 19% QTD vs. 17% in 2Q per Josey's proprietary tracking, coupled with newer ad units, greater advertiser demand, and what the analyst believes is an improving online advertising environment, he considers Meta is taking share of the broader online advertising market."
@@ -506,6 +566,15 @@ related:
         width: 600
         height: 397
         isCached: true
+  - title: "Microsoft is cancelling experimental products like its Surface headphones to focus on investing in AI, insiders say"
+    excerpt: "Microsoft's decision to cut low-performing products to invest in AI has implications across the company, including for Windows, insiders say."
+    publishedDateTime: 2023-09-21T19:15:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-cancels-products-surface-headphones-ai-2023-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Microsoft unveils its new Surface Laptop, AI powered Copilot, and more"
     excerpt: "Microsoft unveiled a slew of new products and updates at its Surface event this year. From groundbreaking hardware advancements to sophisticated software improvements, the tech behemoth continues to reshape the landscape of personal and professional computing."
     publishedDateTime: 2023-09-21T18:37:00Z
@@ -583,20 +652,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "The FTC leak: is Microsoft's vision for its next-gen console lacking in ambition?"
-    excerpt: "Can Azure really spin up that many cloud instances to ensure ... Microsoft's second objective is to fully leverage machine learning with the addition of an NPU, a neural processor. It's essential to the make-up of a new console precisely because we are ..."
-    publishedDateTime: 2023-09-22T10:51:00Z
-    webUrl: "https://www.eurogamer.net/digitalfoundry-2023-microsofts-vision-for-its-next-gen-console-lacks-ambition"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 34
-    images:
-      - url: "https://assetsio.reedpopcdn.com/site_bPlimVg.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data"
     excerpt: "Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data."
     publishedDateTime: 2023-09-22T19:18:00Z
@@ -606,6 +661,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 34
+  - title: "Misconfigured SAS token by Microsoft’s AI team exposes 38TB of GitHub data"
+    excerpt: "While not technically exposed to the public, security researchers at Wiz say the lack of monitoring available for SAS tokens poses a security risk."
+    publishedDateTime: 2023-09-18T18:40:00Z
+    webUrl: "https://www.scmagazine.com/news/misconfigured-sas-token-by-microsofts-ai-team-exposes-38tb-of-github-data"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
   - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
     excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
     publishedDateTime: 2023-09-19T19:20:00Z
@@ -624,6 +688,42 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
+  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
+    excerpt: "By Microsoft News Center In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
+    publishedDateTime: 2023-09-21T10:19:00Z
+    webUrl: "https://www.inferse.com/724634/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
+  - title: "Microsoft unveils new AI tools as it looks to ‘transform search and advertising’"
+    excerpt: "The tech giant said it was embarking on a new era of generative AI as it introduced its new ad products at the Surface and Copilot event."
+    publishedDateTime: 2023-09-21T21:33:00Z
+    webUrl: "https://searchengineland.com/microsoft-unveils-new-ai-tools-as-it-looks-to-transform-search-and-advertising-432312"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 29
+  - title: "Microsoft Egypt Aims To Provide Advanced Ai Models, Build Solid Ai Ecosystem: Mirna Arif"
+    excerpt: "Mirna Arif, General Manager of Microsoft Egypt, said that their goal is to provide organizations of all sizes and industries with the most advanced"
+    publishedDateTime: 2023-09-18T18:50:00Z
+    webUrl: "https://menafn.com/1107092053/Microsoft-Egypt-Aims-To-Provide-Advanced-Ai-Models-Build-Solid-Ai-Ecosystem-Mirna-Arif"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
+  - title: "Microsoft’s chief product exec to step down. Panos Panay was behind Surface devices and Windows 11"
+    excerpt: "A top product executive at Microsoft who launched its Surface line of devices and Windows 11 is leaving the company."
+    publishedDateTime: 2023-09-18T16:22:00Z
+    webUrl: "https://www.seattletimes.com/business/microsofts-chief-product-exec-to-step-down-panos-panay-was-behind-surface-devices-and-windows-11/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 5
 
 secured: "L3MEqOhqpq+J2nV5oD5wo3hJ+UqZUAeWQydO76/cpOaYDaxRdNlpGbbY7PC5MpdCWKfoL+ler7sfdKsK8g0yqJKEm5J9udeD0/USTstPSBsv0wUuupWLIxOjIKYoQMriReDeMft6Q8wgCxjXTK7ZcE+qcrSghns/UQ+QklthFqOCgGCtOl96CqIscg2d5E/ej0w+gufkRC8HE+AfHoz9fsIC7KyUH1MP8LdCfobybtnB9mBixN8m2HjpAfb4LpT6KESGGI6HaDTJ1S9V3W0k+i3aR2koDECeljAMbIjgsIPhar7ofOZ0gJfZwRSumxf12uRvpU/PUamZJS+YeOHxJ8BjXm4bICYigezbqbfRO+MgTpqwyzYNXPc9uiqeKRBsuhmJ77DhFZjqSW3MSpwKToqrc+TZaFH8szEaIx7lYyIwmat23HmbJSpwDgRHsXoP28qTvnZFwKmrlGaC/ru6NZFCIGLzWDhEXdoPrNTT0wiTkERt1PgwWhtsLGkr8MmKQwwTIYQmfET8SfGrbJdF8g==;BVlfAEWm+lRiQU6q7xZftA=="
 ---

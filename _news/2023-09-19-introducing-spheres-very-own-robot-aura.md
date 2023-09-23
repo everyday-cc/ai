@@ -22,6 +22,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Hi, Robot: machines take over at China's Asian Games"
+    excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games.<p"
+    publishedDateTime: 2023-09-23T07:26:00Z
+    webUrl: "https://menafn.com/1107124923/Hi-Robot-machines-take-over-at-Chinas-Asian-Games"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/23/AFP_94553image_story.jpg"
+        width: 768
+        height: 512
+        isCached: true
+
 secured: "8eBtwxPCicTZS1kNSVdBv4EwhGlAHrNlwuETdqP/+e6TczySwH9Rz/uFst0BY3/m+roJKs2sziW0OXXdbAD0gXOxuYje23ecg2qhUqf+G3ema8bwYA0GxrPSnucbvvnvZzzj0dqBnCFJW7Q9qmm3mUsFsbaDxy0oqd8YfW++VfajQamzmb4VqdCNL/AM+oHYbsOYwYqjAi4nn0QYdzA3xemLGQwA+Min3wZq3bhGMrn5Rdt63iCTeCseRgLPTRF2AVSTn8azBHOW8mDVNfKac7qbyV++vuiPuP6ItpXPvD74DNRKzxlcD8Ah35Kyns/SVtv7wmKDifB7H3PvII8rdYeDRmYGlFgnnojcwuH5d3o=;rbAcutNLbPVPfW04ntrt/g=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel's PM talks to Elon Musk about antisemitism on X and artificial intelligence"
-    excerpt: "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk."
-    publishedDateTime: 2023-09-18T13:29:00Z
-    webUrl: "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/"
-    ampWebUrl: "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 53
-    images:
-      - url: "https://media.nbcbayarea.com/2023/09/Musk-Netanyahu.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Leader of Israel, Musk talk about AI"
     excerpt: "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk."
     publishedDateTime: 2023-09-19T07:28:00Z
@@ -55,17 +39,17 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
-    excerpt: "The two also discussed artificial intelligence in a sparsely attended livestream ... Musk-centric for a world leader and was scheduled to include a demonstration of self-driving technology. Silicon Valley itineraries for visiting political dignitaries ..."
-    publishedDateTime: 2023-09-20T07:35:00Z
-    webUrl: "https://tulsaworld.com/ap/article_f9a9951c-4f95-553b-8487-04113079b8cc.html"
+  - title: "10 great films about artificial intelligence"
+    excerpt: "Despite Ghost in the Shell’s box office failure, the film has since been hailed as a masterpiece, influencing Spielberg’s AI (2001), James Cameron’s Avatar (2009), and inspiring the Wachowski sisters, who showed the film to Joel Silver, producer of The Matrix (1999), saying “We wanna do that for real.”"
+    publishedDateTime: 2023-09-21T15:22:00Z
+    webUrl: "https://www.bfi.org.uk/lists/10-great-films-about-artificial-intelligence"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 29
+      name: BFI
+      domain: bfi.org.uk
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/c1/fc1c6d0b-1cdf-557b-b3fd-0f6d9158cdaa/6509d135a1b79.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2023-09/the-creator-2023-ken-watanabe-side-profile.jpeg/1200x630-cropped/the-creator-2023-ken-watanabe-side-profile.jpeg"
         width: 1200
         height: 630
         isCached: true
@@ -83,6 +67,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Israeli Prime Minister and tech leaders discuss AI's impact on society"
+    excerpt: "The meeting was a convergence of minds deeply invested in the realm of AI and its profound implications for the future."
+    publishedDateTime: 2023-09-19T12:41:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2599611-israeli-prime-minister-and-tech-leaders-discuss-ais-impact-on-society"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
   - title: "Netanyahu meets with Musk, talks AI, antisemitism on X"
     excerpt: "SAN JOSE — Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel. The two also discussed artificial intelligence in a sparsely-attended livestream event Monday."
     publishedDateTime: 2023-09-18T19:41:00Z
@@ -92,33 +85,15 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 19
-  - title: "Netanyahu visits Elon Musk in Bay Area about antisemitism on X and artificial intelligence"
-    excerpt: "Netanyahu said an important question about more advanced AI is: \"How do you get the international regime to control this thing?\" He said it starts by getting like-minded states to agree to a code of ethics and code of conduct to foster the benefits and ..."
-    publishedDateTime: 2023-09-18T19:12:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/benjamin-netanyahu-visits-elon-musk-talks-x-twitter-antisemitism-intelligence/"
+  - title: "Israeli Prime Minister and tech leaders discuss AI's impact on society"
+    excerpt: "Max Tegmark, a prominent figure in the field of AI ethics and cosmology, brought his insights to the discussion. Prime Minister Netanyahu emphasized the pivotal moment society stands upon, poised for a technological revolution driven by AI."
+    publishedDateTime: 2023-09-20T01:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230919/4120713.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 9
-  - title: "Netanyahu talks to Elon Musk in Bay Area about antisemitism on X and artificial intelligence"
-    excerpt: "The two kicked off with a joke about deepfakes and quickly launched into a discussion of artificial intelligence as both a blessing and a curse for humanity."
-    publishedDateTime: 2023-09-18T18:42:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-arti/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 8
-  - title: "Netanyahu visits Elon Musk in California with plans to talk about artificial intelligence"
-    excerpt: "Netanyahu's high-profile visit to the San Francisco Bay Area comes at a time when Musk is facing accusations of tolerating antisemitic messages on his social media platform, while Netanyahu is confronting political opposition at home and abroad. Protesters gathered early Monday outside the Fremont, California factory where Tesla makes its cars."
-    publishedDateTime: 2023-09-18T21:13:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/netanyahu-visits-elon-musk-in-california-with-18373495.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 8
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence"
     excerpt: "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk asked him to address his judicial overhaul in Israel."
     publishedDateTime: 2023-09-18T16:11:00Z

@@ -46,22 +46,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "The CEO of a New York-based company providing services to migrants was found to have falsely claimed that he held a degree in AI"
-    excerpt: "Clarkson University confirmed to Insider that there was no record of the former CEO of DocGo Anthony Alexander Capone having been enrolled in any graduate program at the university."
-    publishedDateTime: 2023-09-18T14:55:00Z
-    webUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/650824c5f05aa00019be00da?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Intel CEO says the chip maker's technology is central to AI boom"
     excerpt: "Intel Corp. Chief Executive Officer Pat Gelsinger, plotting a comeback for the once-dominant chipmaker, made the case that the company's technology will be vital to an industrywide boom in artificial intelligence computing."
     publishedDateTime: 2023-09-20T17:19:00Z

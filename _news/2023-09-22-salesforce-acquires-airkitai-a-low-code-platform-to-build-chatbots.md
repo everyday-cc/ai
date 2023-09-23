@@ -43,6 +43,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "Salesforce To Acquire AI Customer Service Startup Airkit.Ai"
+    excerpt: "Enterprise software major Salesforce has signed a definitive agreement to acquire Airkit.ai, a creator of artificial int"
+    publishedDateTime: 2023-09-23T07:56:00Z
+    webUrl: "https://menafn.com/1107124963/Salesforce-To-Acquire-AI-Customer-Service-Startup-AirkitAi"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/23/I_14695image_story.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z

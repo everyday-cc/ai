@@ -104,21 +104,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-21-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmwares-ai.md",
-      "title": "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware’s AI",
-      "excerpt": "The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs), have opened up many opportunities for businesses, researchers, and society.",
+      "path": "_news/2023-09-21-every-product-microsoft-unveiled-at-its-surface-and-ai-event-today.md",
+      "title": "Every product Microsoft unveiled at its Surface and AI event today",
+      "excerpt": "Copilot will be available on Windows 11 devices, across Microsoft 365 services including Powerpoint, Excel, and Teams, and on Microsoft Edge. Because Copilot builds on Bing Chat, it shares similar AI-powered features like the ability to summarize and pinpoint key information of bodies of text, from websites to text messages.",
       "sourceUrl": null,
-      "webUrl": "https://www.csrwire.com/press_releases/783966-ethics-age-generative-ai-closer-look-ethical-principles-vmwares-ai",
-      "originalUrl": "https://www.csrwire.com/press_releases/783966-ethics-age-generative-ai-closer-look-ethical-principles-vmwares-ai",
+      "webUrl": "https://www.zdnet.com/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/",
+      "originalUrl": "https://www.zdnet.com/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 674,
       "tags": null,
       "images": [
         {
-          "url": "https://back.3blmedia.com/sites/default/files/inline-images/AI_vmware_092023.jpg",
-          "width": 576,
-          "height": 324,
+          "url": "https://www.zdnet.com/a/img/resize/44ac5ceb6620b58be0b51f6933fe389c00a7b7bd/2023/09/21/ef52c87d-67e3-4dac-9f5a-013c9850287f/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -126,14 +126,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T07:25:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/",
+      "publishedDateTime": "2023-09-21T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -142,8 +151,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -730,7 +739,7 @@
       "originalUrl": "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -873,59 +882,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program.md",
-      "title": "Microsoft-backed FAST Accelerator Announces 12 African Startups Selected for Artificial Intelligence (AI) Program",
-      "excerpt": "AI-focused accelerator program brings African startups to Silicon Valley to jumpstart technology innovationSILICON VALLEY, Calif. , Sept. 20,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program-1032644968",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-backed-fast-accelerator-announces-12-african-startups-selected-for-artificial-intelligence-ai-program-1032644968",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2216789/2023_Silicon_Valley_Cohort.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1211,6 +1167,57 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-amazon-gives-alexa-an-ai-facelift-as-it-launches-new-smart-speakers.md",
+      "title": "Amazon gives Alexa an AI facelift as it launches new smart speakers",
+      "excerpt": "At its annual devices bonanza on Wednesday, Amazon introduced new hardware and software with generative artificial intelligence features. Amazon introduced a “smarter and more conversational” version of its Alexa voice assistant that the company hopes will bolster its position in the tech industry’s artificial intelligence race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107303841-1695228746907-gettyimages-1677738190-AMAZON_DEVICES.jpeg?v=1695243491",
+          "width": 3436,
+          "height": 2291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html",
+      "publishedDateTime": "2023-09-20T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

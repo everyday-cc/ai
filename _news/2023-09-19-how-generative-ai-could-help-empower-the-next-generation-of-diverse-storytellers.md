@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Taking generative AI from experiments to high-impact production"
-    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
-    publishedDateTime: 2023-09-18T14:34:00Z
-    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Has AI Surpassed Human Creativity?"
     excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
     publishedDateTime: 2023-09-19T23:09:00Z

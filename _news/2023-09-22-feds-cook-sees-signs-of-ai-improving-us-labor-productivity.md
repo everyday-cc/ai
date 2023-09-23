@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Taking generative AI from experiments to high-impact production"
-    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
-    publishedDateTime: 2023-09-18T14:34:00Z
-    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
     excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."
     publishedDateTime: 2023-09-18T23:05:00Z

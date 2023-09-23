@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle launches generative AI healthcare assistant"
-    excerpt: "Oracle launched a new generative AI healthcare assistant to respond to voice commands, saving clinicians time with manual EHR tasks. The Oracle Clinical Digital"
-    publishedDateTime: 2023-09-18T14:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-launches-generative-ai-healthcare-assistant.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "ServiceNow targets service management with generative AI integrations"
     excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
     publishedDateTime: 2023-09-20T21:52:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "How Moveworks is Revamping Conversational AI with LLMs"
+    excerpt: "Much before generative AI came into existence, Moveworks began its tryst with it, starting with Google’s language model BERT in 2019, in an attempt to make conversational AI better."
+    publishedDateTime: 2023-09-23T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-moveworks-is-revamping-conversational-ai-with-llms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/How-Moveworks-is-revamping-the-conversational-ai-space-with-generative-ai.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
     excerpt: "and machine learning-powered automation within a single MySQL database service. A core part of Oracle’s distributed cloud strategy, MySQL HeatWave is available natively on OCI and Amazon Web Services, as part of the Oracle Database Service for Azure, and ..."

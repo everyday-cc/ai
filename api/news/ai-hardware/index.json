@@ -141,59 +141,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-22-microsoft-overhauls-its-pricey-surface-laptop-studio-with-new-cpu-gpu-and-ram.md",
-      "title": "Microsoft overhauls its pricey Surface Laptop Studio with new CPU, GPU, and RAM",
-      "excerpt": "The new Laptop Studio has the same 14.4-inch 2400×1600  screen as its predecessor, but it addresses the old Laptop Studio's input limitations by adding a USB-A port and a microSD card reader. The laptop also keeps its headphone jack, Surface Connect port, and pair of Thunderbolt 4 ports.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/IMG_8428-800x600.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/microsofts-surface-laptop-studio-2-fixes-everything-except-the-price/amp/",
-      "publishedDateTime": "2023-09-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-21-stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge.md",
       "title": "Stablecoin Issuer Tether Ventures Into AI With Northern Data in $427M Nvidia Chip Splurge",
       "excerpt": "Damoon, a Tether subsidiary in which Northern Group acquired a stake earlier this year, has purchased $427 million of Nvidia chips for generative AI cloud computing.",
@@ -1424,6 +1371,58 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-ai-chip-startup-enfabrica-raises-125-mln-with-backing-from-nvidia.md",
+      "title": "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia",
+      "excerpt": "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-enfabrica-raises-125-mln-with-backing-nvidia-2023-09-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/5ccws5i9lMfwHWfZpThzWDo6z18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PC3XN3V5DZJZPELJFOE4NKYHKA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

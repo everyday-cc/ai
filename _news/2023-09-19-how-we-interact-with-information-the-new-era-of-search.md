@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/how-we-interact-with-inform
 webUrl: "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI integration: Transforming the sector and empowering savers"
+    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
+    publishedDateTime: 2023-09-21T04:30:00Z
+    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
+        width: 5115
+        height: 2880
+        isCached: true
   - title: "Useful Sensors' new AI-In-A-Box module is the first to perform LLM-based natural language interaction on a low-cost chip with no internet connection"
     excerpt: "MOUNTAIN VIEW, Calif., Sept. 20, 2023 /PRNewswire/ -- Useful Sensors, an AI-focused start-up, today launched the world's first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronic devices, locally and privately, with no need for an account or internet connection."
     publishedDateTime: 2023-09-20T14:16:00Z

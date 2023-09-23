@@ -51,22 +51,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 64
-  - title: "The CEO of a New York-based company providing services to migrants was found to have falsely claimed that he held a degree in AI"
-    excerpt: "Clarkson University confirmed to Insider that there was no record of the former CEO of DocGo Anthony Alexander Capone having been enrolled in any graduate program at the university."
-    publishedDateTime: 2023-09-18T14:55:00Z
-    webUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceo-migrant-housing-firm-false-information-artificial-intelligence-degree-resigns-2023-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/650824c5f05aa00019be00da?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "+C8UxIJ1pCrz60JS9+R5OMiaHzNaeBzW6r1h4MPiordWGxgtVvfI3sLN+x0myVXYZqmmO3I01URdFj3CPwUzG++ldnfYQPJdWousnyZ83bccwY/UBldwWRng+WInQXGE04bwOJJTGfe4sQJSLgowMHfAg8S0sr+CLer5PRjii57PwzlEXU12r83EGMw/D93BBKNze13x5VVlZsGGv8+t20j4lT1Z4QbRr35seEq/C4EhZpJqRtCDCQkoVgI+KSPGZcUsWpTPwO698goYDA9O5e/9XJDML9Rk7uW0kxjbX43bc5XYldd7Wu/GAq72djZGyo99ivZoo+WUPqK52o9bOofro/N2F5By4WQtTBJ4BobCSmpXIIewKW+i/7ZcDmUDQ67HUloeGBarCYXOa8oNMZUx4eBNgBp5uBaXgPXDDb02Zkwan/rLG2Bt3Gr5EX58/v4sI34SK4Zt/DU5oAoNC/4C+lj5MuV8KsR5X0FDzJg31sYnctoTONRWTBb0WJSMJqt/LQgXnFXUwnp0FOUxWw==;dYRDAnOXLEJQQug8Doo5Ew=="
 ---

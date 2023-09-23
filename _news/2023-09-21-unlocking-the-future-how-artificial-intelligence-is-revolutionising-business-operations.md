@@ -26,36 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration"
-    excerpt: "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world."
-    publishedDateTime: 2023-09-18T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
+  - title: "AI Can Revolutionize Mortgage Licensing"
+    excerpt: "Artificial Intelligence (AI) has become a huge topic of conversation and at times, although controversial, a driving force behind transformative changes and the mortgage industry is no exception. Mortgage licensing has evolved over the years but remains a rather manual process."
+    publishedDateTime: 2023-09-18T20:03:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/ai-can-revolutionize-mortgage-licensing"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI integration: Transforming the sector and empowering savers"
-    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
-    publishedDateTime: 2023-09-21T04:30:00Z
-    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
+      name: nationalmortgageprofessional.com
+      domain: nationalmortgageprofessional.com
     quality: 39
     images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
-        width: 5115
-        height: 2880
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2023-09/iStock-1425210160_WEB.jpg"
+        width: 1000
+        height: 563
         isCached: true
+  - title: "Coqui and Hugging Face Partner to Revolutionize Voice AI with New Open-Access XTTS Model"
+    excerpt: "Berlin, Germany - September 20, 2023 - Advancing the mission of democratizing artificial intelligence, Coqui, a pioneering AI startup established by industry visionaries from Mozilla, proudly introduces the open-access release of their trailblazing ..."
+    publishedDateTime: 2023-09-20T19:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34771936/coqui-and-hugging-face-partner-to-revolutionize-voice-ai-with-new-open-access-xtts-model"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "bW4tNgfZaE0QRNtXeEV8MlxCuO4vDUkjWyHxEPPj0Ja1beDVekLGNBx/ZVJ7kcWqKsbmsMFvRVQnmi9rZAD/uTgR1Xi7oF38lXG3fpuUzK5HNfCShmH+oAr2N0syiGqx8zee1tl0tt3h91es+ElcJ/HFAQookB7sdxBcSwxz9OTXnGbzMOn8HHVdA12L2PugJCoExaEVdPvk2BTSXPsRxwjmytyuhKFQuyq4+WIdS0qRGZkKCCGSxkuhG0TH8L1zeFJbnXoaYY4Ss6A2Hk1JPhiWDGco5nj25YfI5jh0sYEc82qsvDmSaAGMv0ByL2AFJ0/pV2GbS0bumscCss042eGcfD6NErQI8PO8LQ5v4O41BqhcsOPwiNT8ZHkTuNGcuOLTYkPJ61mleun7Khi6Biqmk65/UEvUoO/F/aOWCFF6057NJUAhypbuDXvorUuaRnJJO9kCghhmUC2YdMxUm7Q27kDWOYo18hwMpcBLcakY/dpRLqaJeGNU+cDbQmHj19K+6kZtnIAd74ogpI14NQ==;6fRB1HZtyR/Wa8rYmY4FrA=="
 ---

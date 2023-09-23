@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression.md",
+      "title": "Compass Pathways Explores AI-Powered Predictive Model On Psilocybin Therapy For Depression",
+      "excerpt": "COMPASS Pathways plc (NASDAQ: CMPS) shared the results from research on the potential of its novel AI technologies to support its proprietary COM",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/09/06/advanced_technology_clinic_dmt_psilocybin_mdma_bacsica_aiyoshi597_gisele_yashar_and_metamorworks_on_shutterstock.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study.md",
+      "title": "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study",
+      "excerpt": "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-ive-made-27-million-in-revenue-in-the-last-6-months-by-selling-ai-courses-and-using-ai-tools-to-cut-costs-heres-how.md",
       "title": "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how.",
       "excerpt": "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ...",
@@ -1418,94 +1514,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
-      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
-      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "originalUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/97zyX45bgwivL9P6BPDsEf0Vnig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5CIOSRXO6BFQVE3WVW55F4TXYU.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "publishedDateTime": "2023-08-13T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-13-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
-      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
-      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "originalUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/10X7bxjieGGeYPapEpiwFX-4MVU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/LX7O27XT5ZBNZK5TZ4KAY5VQ74.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "publishedDateTime": "2023-08-13T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hawaii News Now",
-        "domain": "hawaiinewsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

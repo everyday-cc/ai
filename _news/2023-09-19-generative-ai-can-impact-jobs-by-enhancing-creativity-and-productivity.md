@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Taking generative AI from experiments to high-impact production"
-    excerpt: "Generative AI has shown proven benefits for organizations. Learn about real-world uses cases, implementation at scale, and driving ROI."
-    publishedDateTime: 2023-09-18T14:34:00Z
-    webUrl: "https://venturebeat.com/ai/taking-generative-ai-from-experiments-to-high-impact-production/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_617926767.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
     excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."

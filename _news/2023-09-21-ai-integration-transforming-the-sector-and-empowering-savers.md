@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration"
-    excerpt: "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world."
-    publishedDateTime: 2023-09-18T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/"
+  - title: "How we interact with information: The new era of search"
+    excerpt: "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-09-19T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png"
+        width: 720
+        height: 401
         isCached: true
-  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
-    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
-    publishedDateTime: 2023-09-21T09:38:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
+  - title: "Useful Sensors' new AI-In-A-Box module is the first to perform LLM-based natural language interaction on a low-cost chip with no internet connection"
+    excerpt: "MOUNTAIN VIEW, Calif., Sept. 20, 2023 /PRNewswire/ -- Useful Sensors, an AI-focused start-up, today launched the world's first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronic devices, locally and privately, with no need for an account or internet connection."
+    publishedDateTime: 2023-09-20T14:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/09/20/9884648.htm"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://mma.prnewswire.com/media/2216161/Useful_Sensors_module.jpg"
+        width: 400
+        height: 286
         isCached: true
 
 secured: "viF3teD+ubimoiQkJjzWcHbDoYLXjKtan+exNFpNTQUDXAbb3FoRfjezucE0FnpsIgQiIE6Iopi9Vy35i78jJLc0rQVt7io8gUq5dZy9/ui/zRGn+adsz0D2ADy9HYKlqYChHGVdawyVgvQgKcJnM2pwUNvLb+gQBXXCRGE6f4QdcCRLeCsE6B2ZpwmWm3bTfQxb0VcMmaOrQh+L7KiEfFkJmLdpNwpm5GSPJWcYAzzjCidcaBIjPT2YkOfgxG70AVnuBHYotJdxQu0RUud9rvhmDBQsifZT4eEm7FYTvV2vRRsiJGbtR5wB5wU2s5MBuzKiDGS9tc3W+XV8BJa/q33vmwK67QKRwUJXbz1FSHs=;Q2dcl9wUrA04cdsT0SBIIA=="

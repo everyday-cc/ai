@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gov. Newsom vetoes bill to require human drivers in self-driving trucks"
+    excerpt: "California Gov. Gavin Newsom rejected a bill Friday that requires human drivers on board self-driving trucks. The legislation would have banned self-driving trucks, weighing more than 10,000 pounds from operating on public roads. That would include ..."
+    publishedDateTime: 2023-09-22T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 44
+    images:
+      - url: "https://media.nbcbayarea.com/2023/09/25851247555-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
     publishedDateTime: 2023-09-20T21:22:00Z

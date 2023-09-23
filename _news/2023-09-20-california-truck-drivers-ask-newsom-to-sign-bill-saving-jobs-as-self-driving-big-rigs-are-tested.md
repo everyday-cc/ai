@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gov. Newsom vetoes bill to require human drivers in self-driving trucks"
+    excerpt: "California Gov. Gavin Newsom rejected a bill Friday that requires human drivers on board self-driving trucks. The legislation would have banned self-driving trucks, weighing more than 10,000 pounds from operating on public roads. That would include ..."
+    publishedDateTime: 2023-09-22T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/california/newsom-vetoes-bill-self-driving-trucks/3325217/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 44
+    images:
+      - url: "https://media.nbcbayarea.com/2023/09/25851247555-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
     excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
     publishedDateTime: 2023-09-20T15:28:00Z

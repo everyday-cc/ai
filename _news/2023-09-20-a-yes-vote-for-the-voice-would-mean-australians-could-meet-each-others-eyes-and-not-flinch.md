@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Record Numbers of Australians Enrol for Referendum on Indigenous Recognition"
-    excerpt: "A record 97.7% of eligible Australians have enrolled to vote in the referendum, the Australian Election Commission (AEC) said in a statement late on Thursday."
-    publishedDateTime: 2023-09-22T05:02:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2023-09-22/record-numbers-of-australians-enrol-for-referendum-on-indigenous-recognition"
+  - title: "Record numbers of Australians enrol for referendum on Indigenous recognition"
+    excerpt: "A record number of Australians have enrolled to vote next month in a referendum to recognise the country's Indigenous people in the constitution, according to the election commission. Australians will be asked in a referendum on Oct."
+    publishedDateTime: 2023-09-22T12:02:00Z
+    webUrl: "https://www.aol.com/news/record-numbers-australians-enrol-referendum-050245658.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 31
+      name: AOL
+      domain: aol.com
+    quality: 21
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e3a95b235a7add90879ec186e4892804"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "1/LhBHh3lM8QcOnXLmYOJDG35BCCEbQkJJZfHUZfXjZDi3bM4d8YR+yNlD2bcGnobUZrDSg5e8tqPu3o7FfACbWVLKjw2KrKs/nEAM0BflNE4z4n6CkV0JYTNYHcYQXvUAqsF/vFqyAS+f6QBypx5tkmSFtSHLmpqpAllnItjxtZo6BGvHxWPiCHlzXqeVrk2JV/tV2GOU7ypa1ZFskAbmxX+1iWYPNURm3Ro7ADeAdid45z7WfMAcaLzGhBXIqGVpY5XrMRo0CvFYgs/BlN2nxcnsei3fs6XwBXaNLZ0T+DANHYSZvZK3Xy7NPOUo9Kii+Hoi1Dv5SuUwVooMS13Z9lMzSUegPdKidJIQtdwxU=;3pp7YZBa92ytjh9Wae77Pg=="
 ---
