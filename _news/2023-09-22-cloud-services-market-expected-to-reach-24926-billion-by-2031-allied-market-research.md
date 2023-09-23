@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Chip Market Is Projected To Reach $383.7 Billion By 2032, Growing At A Cagr Of 38.2%"
-    excerpt: "AI Chip MarketAI Chip Market 2032 PORTLAND, OR, UNITED STATES, September 18, 2023/EINPresswire/ -- According to a new report Allied Marke"
-    publishedDateTime: 2023-09-18T17:32:00Z
-    webUrl: "https://menafn.com/1107091393/Ai-Chip-Market-Is-Projected-To-Reach-3837-Billion-By-2032-Growing-At-A-Cagr-Of-382"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?651551"
-        width: 371
-        height: 249
-        isCached: true
   - title: "Deep Learning Market To Reach $406 Billion, Globally, By 2032 At 37.8% CAGR: Allied Market Research"
     excerpt: "Overall, the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) have been implemented by various governments in response to the growing digital revolution, which is fueling market expansion. Therefore, COVID-19 had a positive impact on the deep learning market."
     publishedDateTime: 2023-09-22T06:03:00Z
@@ -71,15 +57,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 3
-  - title: "Artificial Intelligence Diagnostics Market is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of 21.2% by 2030"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in healthcare, revolutionizing diagnostics and patient care. The AI diagnostics market"
-    publishedDateTime: 2023-09-22T07:50:00Z
-    webUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-diagnostics-market-is-forecast-to-reach-a-value-of-us-5773-6-mn-by-2030-at-a-cagr-of-21-2-by-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "cGIeBxw2NwbOXe1zTnTe3keMjeH0zeICK5iHHbxGKF842Ix9GHrKym2oG5EMlUXY1ZIhnxChrS016F4KdN43VDMJsWJ/wgQhxu/y7mWTERUrV/UmX8CgWzDamsg2iUK601pd8x94EYszwA2uRZmDHQ666ZryFYYl1qCD2Fvdc3C1cft2lqbn20Zb/KFeMHKLX3LZl16un4OvVWsbspFl2ESGYitPm1keQqoc/JsnWwV2beO9k4mka8r4BUyIfJDM3AwkYXoKnPywb9Q23UiPC6UiOlNI3RjE+yALNUZDwlzUii6Wap6GH7nTsNMOcH0S0LzmAY7Az4wdK95gzmPBMWsIwWaOR4wQPr0wEj+nxmQ=;IISuiIZf3n2vZVUN37VtCA=="
 ---

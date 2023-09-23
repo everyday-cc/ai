@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34726647"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34726647"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 66
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Face Recognition Technology Market Growth Insights 2023-2030: New Business Strategies, Developments and Demand Status"
+    excerpt: "Opening the comprehensive 121-Page Report on the Face Recognition Technology Market, this analysis deep dives into the market size, share, and industry trends. The Face Recognition Technology ..."
+    publishedDateTime: 2023-09-19T07:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34715946/face-recognition-technology-market-growth-insights-2023-2030-new-business-strategies-developments-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34715946"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34715946"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

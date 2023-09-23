@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Web 3.0 Market Size To Reach USD 81.5 Billion In 2030 | Emergen Research"
-    excerpt: "The global Web 3.0 market size reached USD 3.2 Billion in 2021 and is expected to register a significantly rapid revenue CAGR during the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2023-09-21T17:19:00Z
-    webUrl: "https://menafn.com/1107114383/Global-Web-30-Market-Size-To-Reach-USD-815-Billion-In-2030-Emergen-Research"
+  - title: "Artificial Intelligence Diagnostics Market is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of 21.2% by 2030"
+    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in healthcare, revolutionizing diagnostics and patient care. The AI diagnostics market"
+    publishedDateTime: 2023-09-22T07:50:00Z
+    webUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-diagnostics-market-is-forecast-to-reach-a-value-of-us-5773-6-mn-by-2030-at-a-cagr-of-21-2-by-2030.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?614734"
-        width: 444
-        height: 250
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "OE0rigLX9Xm3QvjtdJcxqVNLqxvu8t5pjfKPYn7pu0paOg08malhjfgNe6VmiVq/Gr+3RTE4vi/NkLHAMtD5GJtNA4Ed6p69cLdMA60dsXo40H2fEPo5gLzjALQUGmljUDGkIKB0O38RbFc53NslgFEFhbg9NniQWiFGwpu0uLV1G7scFjbDb9qvcH/7soL43WFFbkEzZonyjm0o8Z2rv7bxBBB7rArP06DSbdgbBYTKH27Iyam5yTBlldI92D35iM1HeFlnYdDCkdT5Nm7tcY+dKwYHfSeQjWAAhgjsI7mLHoc0EoqPhipUfWjDWwM+FKCV4Kyl+Irjz35U3T5bpHj4I/Z9PosoPQmlSDP0foQ=;rAfYmspgw8huw5PQ3MFWCA=="
 ---

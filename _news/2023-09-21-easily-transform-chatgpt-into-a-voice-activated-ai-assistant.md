@@ -25,24 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant"
-    excerpt: "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients."
-    publishedDateTime: 2023-09-18T18:05:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/"
+  - title: "ChatGPT Isn’t A Swiss Army Knife—And Other AI Tips For Agencies"
+    excerpt: "Marketing agencies that fail to understand and adapt to AI risk becoming less efficient and innovative—and losing opportunities to their competitors."
+    publishedDateTime: 2023-09-21T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/21/chatgpt-isnt-a-swiss-army-knife-and-other-ai-tips-for-agencies/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-  - title: "Ge Healthcare Awarded A $44 Million Grant To Develop Artificial Intelligence-Assisted Ultrasound Technology Aimed At Imp..."
-    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced it received a grant from the Bill & Melinda Gates Foundation for more than"
-    publishedDateTime: 2023-09-18T18:36:00Z
-    webUrl: "https://menafn.com/1107091940/Ge-Healthcare-Awarded-A-44-Million-Grant-To-Develop-Artificial-Intelligence-Assisted-Ultrasound-Technology-Aimed-At-Imp"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 23
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "M28FlQdrB7Lr+x67yAXjXm0LA0Svd9GgPevJnh8uiZBA0DVqDViVYnIDdR+6JexqfMlbKguCTrqPW+YAlOeeGWd5aoSnSvvuK/A6C9QFTbdPRR3oomh74nY1qg6K0GuuZ2n4w9pAxiC+IUUUiwhsidRUr9wzrFEVszRwSeREjvPiv93GSA5J5R3uQTcrtKCTcDV9PLoW4cyNcs3Uu/rG1aQgEDT3Nf3SUzbqVme/iF98mFxRxSzccw2Ob4i5hUNJNS89OmPulPDfgike0Bvor6qrc2O0UJ0sFrVrpDSoThRsHZ80520zZrIWPQTs+4bi6+9YPU/3uwwRLOJ2Edkv+17BhUx8L8ks5Xy/36viYp8=;PTm9ez4rQzxSqgjzuYA8JQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-he
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/20/raleigh-ai-startup-lands-100m-heres-what-big-deal-means-in-ceos-own-words/?amp=1"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: WRAL TechWire
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Writer Pens $100M Round"
-    excerpt: "Generative AI platform Writer raised $100 million led by Iconiq Growth in a round that values the startup at $500 million."
-    publishedDateTime: 2023-09-18T17:26:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/startup-generative-ai-writer-iconiq/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Raleigh AI startup Pryon raises $100 milion"
     excerpt: "Pryon, a Raleigh-based artificial intelligence startup that makes a virtual assistant for companies, raised $100 million from investors in its most recent round of funding."
     publishedDateTime: 2023-09-19T10:15:00Z

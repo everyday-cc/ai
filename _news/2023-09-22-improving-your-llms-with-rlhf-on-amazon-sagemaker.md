@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Orchestrate Ray-based machine learning workflows using Amazon SageMaker"
-    excerpt: "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,"
-    publishedDateTime: 2023-09-18T17:54:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/DBBLOG_15189_image1.jpng_-716x630.png"
-        width: 716
-        height: 630
-        isCached: true
   - title: "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances"
     excerpt: "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct"
     publishedDateTime: 2023-09-19T16:16:53Z
@@ -80,20 +66,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 98
-  - title: "Designing resilient cities at Arup using Amazon SageMaker geospatial capabilities"
-    excerpt: "This post is co-authored with Richard Alexander and Mark Hallows from Arup. Arup is a global collective of designers, consultants, and experts dedicated to sustainable development. Data underpins Arup consultancy for clients with world-class collection and analysis providing insight to make an impact."
-    publishedDateTime: 2023-09-18T17:52:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/designing-resilient-cities-at-arup-using-amazon-sagemaker-geospatial-capabilities/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/07/ml-11881_visualisation-1100x630.png"
-        width: 1100
-        height: 630
-        isCached: true
 
 secured: "1/TVwmfPNZnYwfLtUBZgQYQ0gBDnuVWd5ts4pVFa4kAwY3iKzHqYe69fzfWXH5Rps0618C3XqknySKlWiOJyVrBqDcRWxSfKuPdYObSApxdLXoCBSFR4hRrawX7IXFUxBCyQUl2413YXe55EQNYyJ6Fc+p3QmEe4h6sh8J107P90BqJPLP7Eu08C3BLT7T26tMJDIghvcZtfprqe+bh1SngqfDta2dCtHFTIQvYmxXZrJMt0gmSbXUJBKxlrMniOWjHnryKOtGFV1oEJiLAjctqd1txoeuE+9b0ZDOIHg/Q9EGsdCh3BOqmZQbF2UrQrE4n+RdUPIL8A7JCDKLgcfSjwg79xiHwkal37Y48HsPc=;91GOg5TetHrnSj6fJOgPvA=="
 ---

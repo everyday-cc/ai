@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/every-product-microsoft-unv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/every-product-microsoft-unveiled-at-its-surface-and-ai-event-today/"
 type: article
 quality: 104
-heat: 644
+heat: 614
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_flat_illustration_vector_art_minimal_a_long_haired_man__d8decbb7-baba-48b2-a24f-6799f86e86dc.png?w=1200&strip=all"
         width: 835
         height: 468
+        isCached: true
+  - title: "Microsoft AI team accidentally leaks 38TB of private company data"
+    excerpt: "One problem: The link that was provided by Microsoft's AI team gave visitors complete access to the entire Azure storage account. And not only could visitors view everything in the account ..."
+    publishedDateTime: 2023-09-18T21:30:00Z
+    webUrl: "https://mashable.com/article/microsoft-ai-researchers-leaked-private-data-azure-link-github"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/01qZErDt17HBgerD7zq3sxn/hero-image.fill.size_1200x675.v1695070443.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft's Copilot AI Coming to Windows on Sept. 26"
     excerpt: "Copilot lands on Windows 11 as part of an operating system update rolling out on Sept. 26. It will arrive on Bing, Edge, and Microsoft 365 Copilot in the fall."
@@ -348,20 +362,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI Researchers Accidentally Leak 38TB Of Internal Data Through Azure Storage"
-    excerpt: "It seems that humans are always the weakest link in security, and this instance of information leakage is no different."
-    publishedDateTime: 2023-09-18T17:06:00Z
-    webUrl: "https://hothardware.com/news/microsoft-ai-research-team-accidentally-leaks-38tb-of-internal-data"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 61
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62576/content/microsoft-ai-research-team-accidentally-leaks-38tb-of-internal-data.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Microsoft AI researchers accidentally leaked 38TB data online; Includes passwords, secret keys, more"
     excerpt: "In a blog post, Microsoft announced that researchers at cloud security firm Wiz discovered that Microsoft's AI division researchers accidentally leaked 38TB of data while contributing to a GitHub repository involving the development of open-source AI models."
     publishedDateTime: 2023-09-19T11:27:00Z
@@ -590,15 +590,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
-  - title: "Netcracker and Microsoft Bring AI Solutions to Telecom Operators"
-    excerpt: "Netcracker Technology expanded its partnership with Microsoft to support Netcracker's recently launched GenAI Telco Solution."
-    publishedDateTime: 2023-09-18T18:33:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/457129-netcracker-microsoft-bring-ai-solutions-telecom-operators.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z
@@ -631,15 +622,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 34
-  - title: "Misconfigured SAS token by Microsoft’s AI team exposes 38TB of GitHub data"
-    excerpt: "While not technically exposed to the public, security researchers at Wiz say the lack of monitoring available for SAS tokens poses a security risk."
-    publishedDateTime: 2023-09-18T18:40:00Z
-    webUrl: "https://www.scmagazine.com/news/misconfigured-sas-token-by-microsofts-ai-team-exposes-38tb-of-github-data"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 32
   - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
     excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
     publishedDateTime: 2023-09-19T19:20:00Z
@@ -676,15 +658,6 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 29
-  - title: "Microsoft Egypt Aims To Provide Advanced Ai Models, Build Solid Ai Ecosystem: Mirna Arif"
-    excerpt: "Mirna Arif, General Manager of Microsoft Egypt, said that their goal is to provide organizations of all sizes and industries with the most advanced"
-    publishedDateTime: 2023-09-18T18:50:00Z
-    webUrl: "https://menafn.com/1107092053/Microsoft-Egypt-Aims-To-Provide-Advanced-Ai-Models-Build-Solid-Ai-Ecosystem-Mirna-Arif"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
 
 secured: "R0ugE8X1jgzX1UOoNPRHDKbTMSe/fI14E5qVO93CWJD2HXa4Pv0IWHyL3fgXY/aC7NAAh3yu+w/N9sbS75R4u4sutSBq+o9Elac4LcotUO0v2k6FELZnoAlSUk2LqlMSH8lEUF1w0eWkakd1GjOPw5aihqhvp5PpWCzc0vauKKX8jdNoXpLQmh0QCZTzheTEh/fueGbBSP6OzkE3v+lrqeuz3FH3UxucZv80OUSJKXI2GBTmQZoEhlIwe93gXHUzwjziQBUhNSpCryG4U3m9Nkk1o3EziAFYofnKRH5zDKn5SsVB0kvVe5jwYUU5ZcsimYusbr8hITW+gk5wnOkVf01/TqrKw1fV2uINvGXvsuKgdICAJz5xHHzLn0i4nc8H4py+4jOZcHVFr7FWApGhUOar1YQddylTlNHLri+RsdYYsxAg8DfnXAlNQd8jwoV/mu1qCVByVeERQKAJIF+fltsKG2l5UxXzdds0ByvHw7AN2SsJXSY8oMm20uXSAMabiLQMMRjLaOp1iDsNVD3+Uw==;PmdR8k14oteMA7Q7ZyRdIg=="
 ---

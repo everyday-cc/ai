@@ -24,6 +24,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "A Tampa cybersecurity startup surged to become a global company"
+    excerpt: "This story originally appeared in Florida Trend Magazine."
+    publishedDateTime: 2023-09-22T09:30:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/09/22/tampa-cybersecurity-startup-surged-become-global-company/"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 2
+
 secured: "2SGeDAgqk7KHdyE9z75d1ci8JehArjdyH6Bmp9eWZTHd4/571pMNoPLKwsyyYMqTWIlYWF0o2NIrM4KQXOwWS9bL3p9kSJyuCz+U9J6vR1AtVoxU9TkSZ3jwGDyETlygNeo6Yxxm8pDyU5E8cohQY1aRsffTpPEa9xOh+BH5tJosAxWsgoSCCCUpY8HfAM2TFZVWKuI9A8VKXjkER//O8YVTYRnbylKeVRCcOpxW8F2xhbgMmSrfBCwfmljuxDeM2NfkHw05iW6ytsnaGcyUmRqcVX48uPKVUziDvkiaUzQsENvo5IUYmL/pd4gSlw6s4RME0miG/E3izQ90nbO7EbR/Rql4p3tdGhxEpOHGvcLAMbYJn1BWPLGh1jIH4m1FmgW5xAyy4cXUCw6urycyla49bQkmlPXQmEDMxY0ptcy7dtKybaUHiOzcLgG1zhK9YBnvNB1JZuyncmVX+cBpZWB8TdIweciFd9gN6fNFB+YyRvc/NGXldo+vlRFTenEMw6rzITODsXmZRJzmZruA2g==;4g2Ltqxep7J/X8b4zHBtIA=="
 ---
 

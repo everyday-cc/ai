@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning – News and Features"
-excerpt: "Injury or disease that afflicts a relatively small number of brain cells causes a chain reaction that stops activity across a vast network of neural circuits, according to new research. with the Breaking Science News daily newsletter"
-publishedDateTime: 2023-09-11T10:00:00Z
-originalUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
-webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/131"
+excerpt: "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ..."
+publishedDateTime: 2023-09-11T10:03:00Z
+originalUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134"
+webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134"
 type: article
-quality: 54
-heat: 74
-published: true
 
 provider:
   name: technologynetworks
@@ -19,36 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230914"
+  - url: "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230923"
     width: 1200
     height: 627
     isCached: true
 
-related:
-  - title: "Adobe rolls out AI features, plans for price hikes and payouts"
-    excerpt: "After months of testing, Adobe on Wednesday opened up access to a range of generative artificial intelligence features across its software, with plans to raise prices but also to pay the contributors whose work helps make the features possible."
-    publishedDateTime: 2023-09-13T16:15:00Z
-    webUrl: "https://www.aol.com/news/adobe-rolls-ai-features-plans-131521545.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/00a60d45cc7cbafc7961299af485a907"
-        width: 800
-        height: 518
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning – News and Features"
-    excerpt: "An artificial intelligence (AI) approach based on deep learning convolutional neural network (CNN) could identify nuanced mammographic imaging features specific for recalled but benign (false-positive) mammograms and distinguish such mammograms from those ..."
-    publishedDateTime: 2023-09-12T00:42:00Z
-    webUrl: "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/218"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 34
-
-secured: "6HIaZg3B2tlxCwisijtywrhyZGozisuRkwFfROiYBBSA1NArfqo/3iZxwwwJFCPXMXH474KpOF5st/fRCsn4egfbzGt/2HyQA9m+wU3dZm5YAXtlE95a3+Exa9Kkreveazpyi7TSvBn7mQdxfpyahuJJ2hvYa7ilog91jWV+V1xZjj0U8YTZTJ+sXy6QiCZHp8BBq+P5YaEmCVS9TE1c/FYE5KziNBFSG/p8CLqH2jNNbQU825cOX0dRW1oajNEJX08+GXUy4rspSpwlUVb0iLoRqvxJMe+8Lq7TIeO2V/sBMxeG5yAqY/wsP/6ROEx61wtCqH1IUhzSwVxT1BfyMmbQJOkXEfxbE7UTMWA3kyc=;PAiM1qxrElpqjAqV1QHWSQ=="
+secured: "NqyTPTiWqfh/cfyKituwGBt82Gto61mCM2/qqQXdC0j+JaCDdNGOQk+j1g5i1c9a0bvgGGvDXLU6YIhkH7a2bRgRpXhM+jzUarB3i3hCrMpuB95FcV/iorVNVMnvScb7AwqQ74HGFLSabxmEAiPwoZdwV6dwpxDHpFHlO1YmYzKyNOPoK1iIdue55+fZKaOHhUpE1VnrQ30HviSgiX15JI8ZQ0BcqXyaIU8P5sQbDwC/5j+oXiKL5KtnH79WMT6jdZTvTNKHblCkX5m8p6gHfFZdE4CKb9DtNXtqOQThoPj0sIfWwOLXK+MFhOkjInmwnww14JVu1rUnB9pViWOXXTQWXt07ZrNSVwWVmD433VY=;6RybW4JoSMz3+Njrf7s7uQ=="
 ---
 

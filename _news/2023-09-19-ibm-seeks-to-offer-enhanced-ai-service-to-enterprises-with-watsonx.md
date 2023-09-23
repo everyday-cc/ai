@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
-excerpt: "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,"
-publishedDateTime: 2023-09-19T07:54:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
+excerpt: "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ..."
+publishedDateTime: 2023-09-19T16:47:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
@@ -86,6 +86,6 @@ related:
         height: 682
         isCached: true
 
-secured: "tbet3I9j9IYsle5MD8j+Dg0GFEpVbcUVD1MkV0KM0mbYAOYy4KqmsejP37KClLmLGyNmorkiGARCn9r6sD7eQp9pEOqfSQz2Ih7R4vcu2nVCAGbWR1Q1EWOEWC0EqK+FAOq01JgSBliJcMEYanN+cLVIc40pQIP8VqMZljPHE312nrOtokNQlfmGcHFnMlQm4yeIA69hR7OQKBsj7Ro+sTIpcx8a0Tm4WlfvYlAsxrl5VxoZ2RFvcBTwyKKiS1biXHCFFvbyQH4W19vVj7/PjPNbErh4xsV2p0gi3NR7KT4RPCwFKDMaYV8cmWaCD9yNe2UfTe/JrStESUQ39DjqvkdGXVYP6RuXIx0FOKw46DaM3Ul5vrJVdH2KaHQHnCqDTnoNfS4aVN1ZL2br4zb1Ie2yfxq1aqetn10A/VUFID8CzmHot+zushOS7IL0GOpcULShq+wa8J8F/X+6gXmFpSXJUXrN60IoAFpjKTtwkAUkkpQ1heCdcSnh7l7Mex6doO8z5GqRkoKf70R0WcGFMQ==;Vs4SaD9fkFCe2g7u6Uet/w=="
+secured: "iKCgxGMKTxXn5ejnCvgqEAJIUl8WR8JLCu5tPwLkd40EPffY/4yIxccHPmT8xmECHC5QCJlHv/UnBW9h21nXIhVAkgW4Dyx+wqwDr+I4HcLgHEc7djuIffnw3c/XoIsIQQgZffX8rzWOPk7rBkGKbHvtRRZgnI7htRT353eB0wS8PFsd8a/QuyuYOcIIEjpZMaBoOMiw+0oQUkgJI0XvNuUYYENyiH1nC+ACPMfIcqmtOJ+DdgGtNG/RU0amxZpWhK844RlAMUbdG69DAgP+YIYRf8tVxHB0T3QTWDV8Yi2wM75AFlYsUvMu5R0eAGnsAkpvj7IJryMB4WTz1L3NOQVQ/cPDfnr7Q4U4rkK+lE4=;4Kepn0H/TNxapTUyN3pAdw=="
 ---
 

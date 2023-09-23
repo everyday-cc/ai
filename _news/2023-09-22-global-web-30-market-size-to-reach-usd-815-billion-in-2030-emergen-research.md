@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Radar Market Set To Reach Us$ 12 Billion By 2033 X Herald"
-    excerpt: "The automotive radar market has experienced significant growth and transformation in recent years, driven by the increasing demand for advanced driv"
-    publishedDateTime: 2023-09-18T20:31:00Z
-    webUrl: "https://menafn.com/1107092955/Automotive-Radar-Market-Set-To-Reach-Us-12-Billion-By-2033-X-Herald"
+  - title: "3D Facial Recognition Systems Market research Report with Analysis 2023 To 2030 | Report Pages 99"
+    excerpt: "Recently Updated comprehensive99-Page Reporton the 3D Facial Recognition Systems Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ..."
+    publishedDateTime: 2023-09-19T05:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34713074/3d-facial-recognition-systems-market-research-report-with-analysis-2023-to-2030-report-pages-99"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34713074"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34713074"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?92819"
-        width: 374
-        height: 250
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "jL0QB4UkGQN+8JXcGT1nOxg6znVrjD4PbLrAeN7UUcTJs6ZqcsLd7mRmPS+X4Mkuy4ljL9rikOQZQUpBexa+olp+0Tdanmo0/Z8dACPdoFX3HcEb8Ab6VmoHSrkHsd0FdDAv/sRKJutENiekN5mUBMXKi2Ng9vaKbWEjjDMzd2kgZOf/YfYzLqWoTuaoJFTS3F51nmFxHVBQMraC3LOGBNWwKpuN+vamBL+8q0jmUUhBb5rLaH10aXrOSyoB9OKbsEoBV7TuYr23H6zxozZ8AOIn6UBbePHDPH53dIEw9taFU23xHtPACLNbxqYMxvDppQDrNQHprxTX0q8glbMkU4vecP2Yyn7TaDe9iJTx+lg=;TLs/XFJlz8i3S3TYaeNz0w=="

@@ -19,20 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Ai Chip Market Is Projected To Reach $383.7 Billion By 2032, Growing At A Cagr Of 38.2%"
-    excerpt: "AI Chip MarketAI Chip Market 2032 PORTLAND, OR, UNITED STATES, September 18, 2023/EINPresswire/ -- According to a new report Allied Marke"
-    publishedDateTime: 2023-09-18T17:32:00Z
-    webUrl: "https://menafn.com/1107091393/Ai-Chip-Market-Is-Projected-To-Reach-3837-Billion-By-2032-Growing-At-A-Cagr-Of-382"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?651551"
-        width: 371
-        height: 249
-        isCached: true
   - title: "Deep Learning Market To Reach $406 Billion, Globally, By 2032 At 37.8% CAGR: Allied Market Research"
     excerpt: "Overall, the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) have been implemented by various governments in response to the growing digital revolution, which is fueling market expansion. Therefore, COVID-19 had a positive impact on the deep learning market."
     publishedDateTime: 2023-09-22T06:03:00Z
@@ -70,15 +56,6 @@ related:
         width: 395
         height: 249
         isCached: true
-  - title: "Artificial Intelligence Diagnostics Market is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of 21.2% by 2030"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in healthcare, revolutionizing diagnostics and patient care. The AI diagnostics market"
-    publishedDateTime: 2023-09-22T07:50:00Z
-    webUrl: "https://www.medgadget.com/2023/09/artificial-intelligence-diagnostics-market-is-forecast-to-reach-a-value-of-us-5773-6-mn-by-2030-at-a-cagr-of-21-2-by-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "5MrlIhjA9CDejLHu6Cbtz0VmPih5MuY5VUgISLIq7Mtq2NiBnMmLPAlSOR6ETltdaxSZjlzkwN4PshzjrSs4Z7p+VuMwGeWjtyicCDVFh3+vwXxtdfot8aU4faQkNmU0WL/AEdjYVaTVuUctfEmklaMFuFVND+3iF620XCF5ee1aCkNgNtrfs50RU7djaNUuICzgdlKA7a/yonGvOL/rdnyvZo8qVAWP67w3lFlKhPRW9g0An9JOkkfLt60MmIwUBQJkzhumQFyL3b5VAsVeQJgzZz1P8sImxBuOE6/EK0EiI+qwonHz9IB9NSJG5nfgGRWB4z5myJf+RUurOSGkCvtXPdzcFHOQwzhjeG1ZJbukenyomFcN4NdNrLCGsBYWS5vZPFu7BYZiqKlFbu26ldLidPkZTNUqaQgMXucQU2gRILPGsNxbxhB0z0xpbX8O9HrN7wfDq+aNuvV+diTT2BXi3qyX9rMHvtrA+y8fsiEpIgX2+D5HKERtLn4bKp5YuVKXH0oaE853ceF0SIAQmA==;NFP7A1O+Ef1G9MKOAuT5CQ=="
 ---

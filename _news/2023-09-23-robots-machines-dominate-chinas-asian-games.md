@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chin
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,33 @@ images:
     height: 390
     isCached: true
 
-secured: "cm8e+K+O4p5ifuk1whpVEcOQBcDqrJomFwf0i56BhozeWck3sZ2P1T8QQwNkK2ukiqUYyXa0YnQCt7ua8gsaW2PNK3xYETpDJFb7OOaLc4ahEn9jaqadLKaacw4UO1swYdtm929i4Xs9SKFW3qpx1qB0ecJ1S2xiGSXiBA5HDRrJBagdTekKdSf4xdrK/2JEHxzxSZ7EANp9+jkUGTtXf/f2Ywy86MjxnpOMBK5FimilDEj/9Rk5j0u0M4zUbp3fUTUEten9PrqrMEjy6cvKWOtvdCOke4XhgyzypNK26hwP1f6l9e72DtolgK5/BkFim4K1kZUMdKTo0AURVSf3rd5mHjScz+1eIcNF58s1owY=;/v/nOTYn6H3yaMV9s3kCBQ=="
+related:
+  - title: "Hi, Robot: Machines Take Over At China's Asian Games"
+    excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
+    publishedDateTime: 2023-09-23T10:38:00Z
+    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+  - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
+    excerpt: "Sphere Entertainment's Humanoid Spokesbot and Storyteller to Serve as a First-Of-Its-Kind Guide at the Next-Generation VenueLife-Like Aura"
+    publishedDateTime: 2023-09-19T14:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-sphere-s-very-own-robot-aura-1032640402"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+
+secured: "uGc1WeIgUKKaOXVC/rd4iGT0AToDoIfQ6G+D9JfmY/nS/i0Jk484pyyF9qPwlfSC1RqzWD8vqu6+47CXZar4UfKRxNUU3j739S+DwzFBCyvtgOB4/UC/kQaVfg4TyQBP69PEQ3MVdKUZnjeYoPjAIFcWg0qngWbK3k5sDHD6Q8fBZ7FVZrnV1ZzeFqfFQmbbOzI1G5jikKJ+MZK4yE3NO3qdxKCMlRmPfshNsD++bYuU/TCa5AILgmCuafmRvbHCN8Mu5R2tF5S6PozZCNC5AcOSRiq5Og/3ZQQO+XOnBfatgGP0OxXqWvV98DKceyDEuF7CorRAR0brCtd+ox5+OJHOWdYMtnEZuKyKRjPS89xWckdnWqtO//W6lpXjqKCLhBa2Ht8MblTM3nkrMt4934xeQzAZK+XZW6BXHaXY5RDKfByljmvBir8xC2OFz0RnGe0mF6TP7SOL59IXpZcYSuQUCVYPwQC/88XtVAtXtXHsm5rWKWtU+ogZicwu+zhGFQpLlkiJL6YLTYPlKVHLEQ==;ryXupzBIt2aQPVde//wsRA=="
 ---
 

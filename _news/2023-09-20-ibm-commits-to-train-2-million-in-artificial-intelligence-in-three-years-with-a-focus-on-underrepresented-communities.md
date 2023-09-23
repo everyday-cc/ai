@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IBM will train 2m in AI, with focus on the underserved"
+    excerpt: "IBM SkillsBuild already offers free coursework in AI fundamentals, chatbots, and crucial topics such as AI ethics. The new generative AI roadmap includes coursework and enhanced features. * Coursework includes Prompt-Writing, Getting Started with Machine ..."
+    publishedDateTime: 2023-09-20T09:17:00Z
+    webUrl: "https://it-online.co.za/2023/09/20/ibm-will-train-2m-in-ai-with-focus-on-the-underserved/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "IBM Commits to Train 2M in Artificial Intelligence in 3 Years, with a Focus on Underrepresented Communities"
     excerpt: "To help close the global artificial intelligence (AI) skills gap, IBM announced a commitment to train two million learners in"
     publishedDateTime: 2023-09-20T12:53:00Z

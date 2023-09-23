@@ -41,15 +41,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 9
-  - title: "Netanyahu talks to Elon Musk in Bay Area about antisemitism on X and artificial intelligence"
-    excerpt: "The two kicked off with a joke about deepfakes and quickly launched into a discussion of artificial intelligence as both a blessing and a curse for humanity."
-    publishedDateTime: 2023-09-18T18:42:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-arti/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 8
 
 secured: "tos5L7a1QkeBE+pfLCF5tJMwLwFJY+yLhr3CpdzMy+tDWiK8OEf6MFCPbo1jTGXohaM1w9gdoXgyaMshMNqDYVYUB29OfsBp4QhdGBDXXTGIAsfLHELLk95C0OAfwbokI9q7UDjvTQLKXGiIer9l053jee2rQg7a0vjUyqg2uF5OCKRuEPO952zmn2+tqYbOt/ry6cCksFpoaRPlkejiuKX6t75qu7zeXtBUYBIsE933HgDXUx6Bj5ARt60oRFRSXs1VbyNQUmET9XHMRpZwiacXAeZNcwQVUMCPJ8AGHpFw/2s+GZ6wspJmT0J1HqGcQtrBU2uM89BqJ/lcQCVxbAiXH3C72mlk4QKAyTOHh0fKZRD2kwa93MPt7b23yq/neuxHXspBRWvRCNUK1zDE/qKGKVgjIUVRLh6azptoBVgQHD15Zn9z0KUlqbyNoxu9Y6JKbD2N6EyIhrWddrqooDCcxlzXQwYBGjmqmB/tZO/C495gTqEQd+lui3Birg9rYLAMObNJ/EEgGa4bNAMDbA==;b6y8fBAWRHKxNBd6JZ6HcQ=="
 ---
