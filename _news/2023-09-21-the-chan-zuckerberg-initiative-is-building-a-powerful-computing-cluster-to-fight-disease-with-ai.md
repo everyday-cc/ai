@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Chan Zuckerberg Science To Build AI GPU Cluster To Model Cell Systems"
+    excerpt: "\"AI is creating new opportunities in biomedicine ... especially academic research institutions. The CZI-funded GPU cluster will be one of the first to power openly available models of human ..."
+    publishedDateTime: 2023-09-19T12:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34725290"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34725290"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "CZI to Build Massive GPU Cluster for Decoding Biology with AI"
     excerpt: "On September 19, 2023, CZI announced the funding and creation of one of the largest computing systems dedicated to nonprofit life science research in the world, which is planned to comprise 1,000+ GPUs and will enable artificial intelligence (AI ..."
     publishedDateTime: 2023-09-22T03:17:00Z

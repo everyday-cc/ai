@@ -51,34 +51,6 @@ related:
         width: 507
         height: 337
         isCached: true
-  - title: "The Legal Industry in the Generative AI Age: The Good, The Bad and The Ugly"
-    excerpt: "The Artificial Intelligence and Chatbot Summit at the D.C. Bar on Monday explored some of the ways the legal industry can leverage commercial generative AI chatbots, and how it will change the market."
-    publishedDateTime: 2023-09-18T22:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/18/the-legal-markets-generative-ai-age-the-good-the-bad-and-the-ugly/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/09/DC-Bar-Association-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "How HCA Is Integrating Google’s Generative AI Into Its Emergency Departments"
-    excerpt: "HCA Healthcare and Google Cloud have expanded their partnership by exploring ways to integrate Google’s generative AI into HCA’s workflows. The most developed project under this initiative is a pilot that began in February in which HCA’s emergency department physicians are testing a voice-enabled medical dictation tool to save them time on clinical documentation."
-    publishedDateTime: 2023-09-18T20:14:00Z
-    webUrl: "https://medcitynews.com/2023/09/hca-generative-ai-burnout-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 36
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1239295086.jpg"
-        width: 688
-        height: 507
-        isCached: true
 
 secured: "HoWmdCALrfSO7HlN5JBHuLXKQP1/ieCE9nYG0EZtYB3eURiiPYKuET0bzM5PaTEE4VCmBEcv6HySUueeVlgmAZ8av2zf43C6yAxc6pLucg0w6/sB4/wSUWFZjO2JRF/JemWFAbQDDkF52OhAI7Eb87tfpxbKr/m5g6TOP94or+N/iKSTAAILEWs/dgN/1KmUHn7qXk8pAVFEkwsh+miK6BS3RIJvM4gcSILFxNKBncSbLF/R5HlYafx8vTYfPk+zZYI0enzA/gbcIu4cDjjn/pRzNUheWxIZVm71l/GUBcn8zKErv5iCgmziJLRdfkhfXj/N0swMwbZPyQnFVoMBAOZ/d1evFzuRjxhJV0E+MVc=;gPoXLFolovi8PbJocf19Xg=="
 ---

@@ -25,25 +25,9 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Expands Watsonx Platform With Watsonx.data"
-    excerpt: "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer analyzes the expansion of IBM's watsonx.data offering."
-    publishedDateTime: 2023-09-18T22:04:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508c80a3d69b479bdfdab8c/0x0.jpg?format=jpg&width=1200"
-        width: 936
-        height: 526
-        isCached: true
   - title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
     excerpt: "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ..."
-    publishedDateTime: 2023-09-19T16:47:00Z
+    publishedDateTime: 2023-09-19T12:07:00Z
     webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"

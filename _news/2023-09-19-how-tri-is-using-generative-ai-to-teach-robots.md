@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-t
 webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
-    publishedDateTime: 2023-09-18T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Toyota Uses AI to Teach Robots New Behaviors"
     excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
     publishedDateTime: 2023-09-21T14:06:00Z

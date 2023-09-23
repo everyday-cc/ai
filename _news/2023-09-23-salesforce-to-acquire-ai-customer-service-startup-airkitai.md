@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Salesforce To Acquire AI Customer Service Startup Airkit.Ai"
-excerpt: "Enterprise software major Salesforce has signed a definitive agreement to acquire Airkit.ai, a creator of artificial int"
-publishedDateTime: 2023-09-23T07:56:00Z
-originalUrl: "https://menafn.com/1107124963/Salesforce-To-Acquire-AI-Customer-Service-Startup-AirkitAi"
-webUrl: "https://menafn.com/1107124963/Salesforce-To-Acquire-AI-Customer-Service-Startup-AirkitAi"
+title: "Salesforce to acquire AI customer service startup Airkit.ai"
+excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
+publishedDateTime: 2023-09-23T12:19:00Z
+originalUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"
+webUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2023-09/23/I_14695image_story.jpeg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents"
@@ -77,6 +71,6 @@ related:
       domain: cointelegraph.com
     quality: 14
 
-secured: "Wt3yGVbpmczi7ifPSQ5FmY7Qn3OYzLweyvtnF4LBUNcnS6Rc4W6JE+k4xAOLS3msB5W79Gp+MDVcjjoFp5hu273+GMpLnszcQSRpWoAl+mWiJFpg/BvP6c6XeDxBxZ9JTpJJLXPC1uh3ZnwL+f00+CEhqcwH9qE/q1oIFAbRPvY5CYE7NCdVeqK338PS2KgA3JXE5XbgQ5U1ZS/onaVt0x5b4ckXnPvmjvFQuJCNAn2+g/hYXOa/RagiOgQg5nmTb5usBaxypIPmJdz5wzikMsrA0eRReOaRLcyOxFfTxa0Fscadp6WFGcYjqfS0LAOFR3ltFseYJWhnv9GX0Q1CuzNJWv10pejDpJLnLf1Jm9U=;nr7JPE38DPt+QDqGWr0JiA=="
+secured: "gBZCQodRwaXeHUzVXuV1GDzsZGIzz/uga6R1fDbI86dd2Kgod7R2PJcSnlwYhzcGNgi2gS0Bwnv6CGAbhhTw1HVdEn3E3sdLkomFBPuvXpqrj6/BTmpvkOrb9GEJPUBlVQwRFhGyR2vWhT2II54g7G3CXCkYh2YyzPt+14HldZwYh0m/W9IFhPlNJVy/XukEpUTRCHu5jXqURIjj1S7VKNPnfS2ft2LF83RDaUIw8Fl7TCHPtNU+uyL29yUm6Wccaaox1t3HRzaUSJMaahIaqBIAhBViDW0pYq4OJo1Z7CrM+V31ACZa7gGiRyXmOxv7Nk4XlFI/DGs5AVfOfJKRcmcXzIhUI6BBMiSC3JoOCe0uZDHnIjyHd1qRqdJiBWQXePW4K4XDGPJHu91HuSv3u25Yw7GwlSImh5TVgjFp6dSRqI5PGLqmxN4takJITvtwEWkyfO7qMjCvJ+Vf4frDsN40boWcMSyDckbMVTg7h0FJ4Qlk44j07p3iYX8vC7VPeBcVz29Kv2B3ZpK1FFhefg==;kFtC1B71t5GNL+sbuRSqJQ=="
 ---
 

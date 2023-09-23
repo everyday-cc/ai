@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Already at a Tipping Point"
-    excerpt: "The purpose of keeping church and state separate is ethics, so the onus is on Congress to avoid the appearance of being too chummy with the industry. Industry executives and their companies are not the sole source of AI information; therefore, Congress ..."
-    publishedDateTime: 2023-09-19T20:15:00Z
-    webUrl: "https://www.crmbuyer.com/story/ai-is-already-at-a-tipping-point-177117.html"
+  - title: "Four ways AI can help ambitious learners | Opinion"
+    excerpt: "Generative AI tools can help outstandingly talented and ambitious high ... learning experience for intellectually curious students. It also trains them to start developing the skill of formulating original, interesting research questions, which will ..."
+    publishedDateTime: 2023-09-23T15:09:00Z
+    webUrl: "https://www.pennlive.com/opinion/2023/09/four-ways-ai-can-help-ambitious-learners-opinion.html"
+    ampWebUrl: "https://www.pennlive.com/opinion/2023/09/four-ways-ai-can-help-ambitious-learners-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/09/four-ways-ai-can-help-ambitious-learners-opinion.html?outputType=amp"
     type: article
     provider:
-      name: CRM Buyer
-      domain: crmbuyer.com
-    quality: 39
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
     images:
-      - url: "https://www.crmbuyer.com/wp-content/uploads/sites/4/2023/03/ai-robot.jpg"
-        width: 1000
-        height: 520
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H46OFIZ7URBB3HJD4RPCLGRKLI.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "ejrGi8g7LSzDyvT4ptBdcby2mlmZ2bQoX6w93BCrEf4osOhUYZRiKrAacgZ6TAtsz7NOvDeK9/IqBgXTNXhURdHnlthaT2zRZg476al9isF0J515shhJQYYl033aaQFN87KHyqedFxZ7JGL2wqlGUoysXeJUtX7g1pdt49SikLd3SNygB/2f6gS6ARomalCCEGjI/tEW/i3tnXqe5Uxxt403YBx78K3oFA65Ovdi0IEVJMr8Nek7Oxz3Kdng7QXyzRIdBqOXypp2R7a9LUY2RRG38tS2hB2pD89GTuWprpw8RPtBtosUR7ZW30eLjw1nBMnRIaqVJJMVRj0ym0Ef5IRYkX7OMvvwy2w6efH7aX6DHvaiTQn3UDbl6E1hdndfmSVYi6G+sN+isY9mOj2YHFdgTLmrY3+kuBsIHECTM2OqUQeCqls8ifET6jon5/yP9MqE1eXnwmjQPMzt69aZfJ4p1y0IgAULfstA7jZev0aNTvzErUD/vjQZZ3DT+vUMrqJzgKwp+wHcxIYXBrDtpg==;DpKieLV3rUSa4FBRP40AkA=="

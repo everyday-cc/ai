@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-08-17-the-power-of-ai-in-modeling-healthy-communications.md",
+      "title": "The Power Of AI In Modeling Healthy Communications",
+      "excerpt": "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
+      "publishedDateTime": "2023-08-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-cape-town-welcomes-amazon-web-services-aws-skills-center.md",
       "title": "Cape Town Welcomes Amazon Web Services (AWS) Skills Center",
       "excerpt": "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa.",
@@ -1105,49 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-robotics-part-of-mid-year-success-for-ids-imaging.md",
-      "title": "Robotics part of mid-year success for IDS Imaging",
-      "excerpt": "IDS Imaging Development Systems, a leading industrial camera manufacturer, far exceeded industry expectations in the first half of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "originalUrl": "https://www.therobotreport.com/robotics-part-of-mid-year-success-ids-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/growth-2023.jpeg",
-          "width": 780,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

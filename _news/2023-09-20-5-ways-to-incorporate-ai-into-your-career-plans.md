@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 AI Stocks to Invest In for 2023"
-    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
-    publishedDateTime: 2023-09-18T20:08:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "5 Ways AI Can Help Increase Your Revenue"
     excerpt: "Organizations that are going \"all in” on AI attributed at least 20 percent of their 2022 EBIT to use of the technology"
     publishedDateTime: 2023-09-22T17:44:00Z

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "US State-by-State AI Legislation Snapshot"
-    excerpt: "The Act provides that covered entities using covered algorithms (broadly defined, including machine learning, AI, and natural language processing tools) to collect, process, or transfer data “in a manner that poses a consequential risk of harm ..."
-    publishedDateTime: 2023-09-18T21:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/us-state-by-state-ai-legislation-7314466/"
+  - title: "Decoding racial bias in artificial intelligence"
+    excerpt: "Jonathan Capehart is joined by Joy Buolamwini, author of the new book Unmasking AI, to discuss the growing risk of artificial intelligence perpetuating discrimination and what actions Congress needs to take to combat it."
+    publishedDateTime: 2023-09-23T14:58:00Z
+    webUrl: "https://www.msnbc.com/jonathan-capehart/watch/decoding-racial-bias-in-artificial-intelligence-193619013836"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo193619013836"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo193619013836"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15569_2815.jpg"
-        width: 1200
-        height: 900
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_09/1695481046393_n_capehart_sat_DANGERSOFAI_230923_1920x1080-fr0kdi.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ZwqZBRsycIBYmwHEDKM8yjSFvKsU4PyzrM2b/SvOhaA4Wzog6ZGKwMiTzLYsgh76zaVMUcAXDXrpN1qMy2yB+EoRykEY6ai6sWfXUrxEY7qWu1oGBy6C1GPFKth8Fok7/fuvtRrDrinBeeBpQrva7GM/LsaBVlL1upPtGaK1xnVp2g3/i/IoEYXJi214ylPEDnjkEO4xTWYyYsKQ9IOmWmv+5pOFphmFp2Etc3ExG49xJA6/PU+88QwAueVnxXZDqyQQFGrPHewRjVAn9xLyMbULyPyuwEXwi3cYHU7nhemddUTz81g6rPD7Ipry46rJHrmtBzF7RkAHWFw4ruT76gTstWi5HOre8s6MBkngX3glSKiVKr/9uv3o0vk+9ajJL88bqK6OhKDAovR3dH65MYu7uJd9xZv9IEZGfn7PPX7BQL5A0jkXcvmC7fjOu7pAioYvrH8phhZIRQbHeqH6qegHNIYTIMgduWLBPscXFaFfzrbNF4+j372Y8Q8EyqFiwypxuAVkh7u7N5ATQmhM9g==;a934LXSRNGn/XOzod1k0yA=="

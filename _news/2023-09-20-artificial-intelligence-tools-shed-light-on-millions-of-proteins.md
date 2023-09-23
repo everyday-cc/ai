@@ -5,9 +5,11 @@ excerpt: "A research team at the University of Basel and the SIB Swiss Institute
 publishedDateTime: 2023-09-20T16:07:00Z
 originalUrl: "https://phys.org/news/2023-09-artificial-intelligence-tools-millions-proteins.html"
 webUrl: "https://phys.org/news/2023-09-artificial-intelligence-tools-millions-proteins.html"
+ampWebUrl: "https://phys.org/news/2023-09-artificial-intelligence-tools-millions-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-artificial-intelligence-tools-millions-proteins.amp"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-75.jpg"
+    width: 2000
+    height: 1000
+    isCached: true
 
 related:
   - title: "Artificial Intelligence tools shed light on millions of proteins"
@@ -28,6 +36,6 @@ related:
       domain: sciencedaily.com
     quality: 47
 
-secured: "/oiWC5NTD841e9jT/VAy/uuBQBIkuc/nrp71mdAPaQ8r3KyHdJ5q7EAaeg0yAAvUflpgPfss81z070BRLEeBIhGsE3yQoYMmK0R1eHccLL3t5KvTm0Ec/KDjWPXj/jeFs6pIi93RdG6E5eZG3VpGySiDV/85eUB3W7Xoi8hAusCEdymayL8BqIG6CxWrnMc1x4LOb2xElOGCkWn1DlWIJKh2fDqALktzXAStmZXQJwG1bIEp0J3kmrozo1kRTHO/+QqtFad5h982MQenadpgWzMiqdgcm8Adc5SKy7GgN2Z+9Vp0kk+I4dehn5bd3BsLRhud5GAG0+wvxnPmhe4dLNi48KxAEyDBtHsmRixgEN0=;eS5BoYG+39+nIFgGogBhDQ=="
+secured: "XUEd1qX+Seb5AC7+QFFTEdtfmBrhMwg/EjGFOkt0rq7cRHToF3aCQzF4ZJoGveTESJ5NErPS1cLtu3XJbeegq0orKYlGQDPy161NC3Fly1VVBBCAK9m90PNXTvZDl60nAy6IMjwUXwidaaFseQkpRvBKgradQ1qFsfcnDCwUcU155s8oZoZj81fs9xyEoSBaLCumINDT5wgQ9h5CWuCRDp9DMj4P28jzQVBJwcTwTewKYvccLgMqcZl2t/bjXO6OGpWh41pdhHn7Aqlz9s+mYO7gXDeM/N6uhy2BxfVR79wHdpwJQIAscfBvEZd6pvMjTL2okNxcglub+zLBUL25oe/WRXypIS1j11iVVmC8tPQ=;NZu0PbLZFS0yX7z6RWM6qw=="
 ---
 

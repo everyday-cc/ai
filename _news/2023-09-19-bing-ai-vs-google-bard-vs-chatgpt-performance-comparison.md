@@ -51,20 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "ChatGPT vs. Bing vs. Google Bard: Choosing the Most Helpful AI – Spiceworks News and Insights"
-    excerpt: "In recent years, artificial intelligence has gained immense popularity across various fields. One of the most common areas where AI is utilized is search"
-    publishedDateTime: 2023-09-18T21:33:00Z
-    webUrl: "https://www.inferse.com/721448/chatgpt-vs-bing-vs-google-bard-choosing-the-most-helpful-ai-spiceworks-news-and-insights/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 28
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-7571.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "AI used in ChatGPT was built in Iowa"
     excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
     publishedDateTime: 2023-09-19T12:04:00Z

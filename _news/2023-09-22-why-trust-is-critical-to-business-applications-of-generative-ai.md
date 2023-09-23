@@ -52,15 +52,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "3 Best Generative AI Stocks to Buy as Deep Learning Accelerates"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence (AI) soaring into the mainstream consciousness, a"
-    publishedDateTime: 2023-09-18T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-generative-ai-stocks-to-buy-as-deep-learning-accelerates-1032638096"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Toyota Uses AI to Teach Robots New Behaviors"
     excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
     publishedDateTime: 2023-09-21T14:06:00Z

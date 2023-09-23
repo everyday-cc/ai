@@ -44,20 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Salesforce To Acquire AI Customer Service Startup Airkit.Ai"
-    excerpt: "Enterprise software major Salesforce has signed a definitive agreement to acquire Airkit.ai, a creator of artificial int"
-    publishedDateTime: 2023-09-23T07:56:00Z
-    webUrl: "https://menafn.com/1107124963/Salesforce-To-Acquire-AI-Customer-Service-Startup-AirkitAi"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/23/I_14695image_story.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
     excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
     publishedDateTime: 2023-09-19T15:17:00Z
@@ -75,6 +61,15 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 17
+  - title: "Salesforce to acquire AI customer service startup Airkit.ai"
+    excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
+    publishedDateTime: 2023-09-23T12:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 17
 
 secured: "YAqUGl8aLmZnlZA3v8V7bm2m6maiw4zKfn3ZSqkWDWeNbenYeCEEsOimZ0g1D7dDV9h2LFeh/QaZwnPcREjaJDO52fV3zff9tTx5+hEAqKOXvsBpt9WUqP54fz9ud9R2pEGYcSwRcSJHm5ptDBwzjhLPPVg2YWmlXWY6mnVM5PR9ifWxTLRCjPUMVVlgR6fCXWAstz8D8yHCfMiHY88Ct3Dcn+TQmwZJ1l0jlVBNaqHfhsxn0dUtvJN1+eVYod9y+sfhuMWLhHI4ydPdulACd8nkne1AUGMQ663JUdLEu7W0D5VSo+/m0UIvfy4U6UT9cS5QSPx1CidCaW9BAoml2cH104U3axXjc0BMEwqCOIQ9vImXZHO6/RCnKQDVe+/5Qsb4oujqWm4DlLynNnjaZZNiI5SbcRT8pEH/pPHn9y96Hkf3FOIimUlPZEGPC9ySECpG809bFleJa87mSGoVXL0Zu5ye4Jg1StKRtThLlXlDvlBfLNUVT3w2DKg5TNi2l9U/MXG57kv6pAafB43xxQ==;0WttjxWyBqeC1aRJ5jrt1A=="

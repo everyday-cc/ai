@@ -45,20 +45,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Salesforce To Acquire AI Customer Service Startup Airkit.Ai"
-    excerpt: "Enterprise software major Salesforce has signed a definitive agreement to acquire Airkit.ai, a creator of artificial int"
-    publishedDateTime: 2023-09-23T07:56:00Z
-    webUrl: "https://menafn.com/1107124963/Salesforce-To-Acquire-AI-Customer-Service-Startup-AirkitAi"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/23/I_14695image_story.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
     excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
     publishedDateTime: 2023-09-22T09:23:00Z
@@ -67,6 +53,15 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 17
+  - title: "Salesforce to acquire AI customer service startup Airkit.ai"
+    excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
+    publishedDateTime: 2023-09-23T12:19:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 17
   - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
     excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."

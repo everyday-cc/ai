@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/githubs-ai-powered-coding-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/githubs-ai-powered-coding-assistant-moves-to-public-beta-heres-how-to-access-it/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The Future of AI-Powered Assistants: What to Expect in the Next Decade"
+    excerpt: "In recent years, the world has witnessed remarkable advancements in artificial intelligence (AI), and AI-powered assistants have become an integral part of our daily lives. These intelligent digital companions have made tasks easier,"
+    publishedDateTime: 2023-09-23T11:59:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-powered-assistants-what-to-expect-in-the-next-decade/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 21
 
 secured: "pZJQFiE0M545kVKhxyWi4WNU7WGOSGZ3soua7efCvAkX4bfI01qJ4I6G5+ACX+x+GnWnv1nfeuvsdK9NZY2F3+oagt+2Drwkot/6ic/apOqVyhJgn8qEGKlC80YsDnodH81ji7hpCvnQ38tUXfTnI6OdDJOkuRV1eYwiJ2dezySJV6dHz9NFOB8M5MHSyi8PuefW51SRF+9Q0yyNOrq6JVlXUgxEiAXuogTFsJTJeNmMij35YjpheNH6G+ZLQqC1cp0f0Hxxy9OejNZbc8SJjNe7jjGdpWwdbpMEViTUQG5sHjHACngyY77Mw+G4eJd5rTHWuGYXPOlv1Y0QIxz0U9jDEr3O8PGqTFC9gDKFO2d4MJC04VB74JG3miBj787/r5WDMd2GO/tsJkGVWfh15d5nN+BPToUqbIfCpPxLQ0zZcR9IdgJsJMQWlSIkXRW9bYrcA3WW00RxSWUYM00OVFv0ufuUfc+ca0uw6/pp8mMi1Ye0H2PlxmgAlET3f+9WXPPvcz1yeXrUP3p7go7jZg==;dPpFR1B8UTA1fQ6tsKHtsw=="
 ---

@@ -411,6 +411,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-19-ibm-seeks-to-offer-enhanced-ai-service-to-enterprises-with-watsonx.md",
+      "title": "IBM seeks to offer enhanced AI service to enterprises with Watsonx",
+      "excerpt": "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202309/eb1134433dae4c958b3dc6e8ae8a024a.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573",
+      "publishedDateTime": "2023-09-19T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-data-science-vs-data-analytics-unpacking-the-differences.md",
       "title": "Data science vs data analytics: Unpacking the differences",
       "excerpt": "Though often used interchangeably, \"data science\" vs \"data analytics\" are two distinctly different concepts. Let's explore.\nThe post Data science vs data analytics: Unpacking the differences appeared first on IBM Blog.\n",
@@ -1205,6 +1248,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-12-ai-model-speeds-up-high-resolution-computer-vision.md",
+      "title": "AI model speeds up high-resolution computer vision",
+      "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1001258",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1001258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-ibm-takes-the-reins-of-enterprise-ai-with-watsonx.md",
       "title": "IBM Takes the Reins of Enterprise AI with Watsonx",
       "excerpt": "IBM’s updated AI portfolio, “watsonx,” is an enterprise-ready AI and data platform consisting of three solution stacks: watsonx.ai, wastonx.data, watsonx.governance",
@@ -1254,91 +1341,6 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-powering-the-future-the-synergy-of-ibm-and-aws-partnership.md",
-      "title": "Powering the future: The synergy of IBM and AWS partnership",
-      "excerpt": "The true power of this partnership and its offerings becomes evident when considering real-world scenarios.\nThe post Powering the future: The synergy of IBM and AWS partnership appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/powering-the-future-the-synergy-of-ibm-and-aws-partnership/",
-      "originalUrl": "https://www.ibm.com/blog/powering-the-future-the-synergy-of-ibm-and-aws-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T09:44:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-managing-your-cloud-ecosystems-keeping-your-setup-consistent.md",
-      "title": "Managing your cloud ecosystems: Keeping your setup consistent",
-      "excerpt": "Keeping components consistent across IBM Cloud Kubernetes Service clusters and environments.\nThe post Managing your cloud ecosystems: Keeping your setup consistent appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T05:44:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "IBM AI"
       ]
     }

@@ -26,24 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Netanyahu visits Elon Musk in Bay Area about antisemitism on X and artificial intelligence"
-    excerpt: "Netanyahu said an important question about more advanced AI is: \"How do you get the international regime to control this thing?\" He said it starts by getting like-minded states to agree to a code of ethics and code of conduct to foster the benefits and ..."
-    publishedDateTime: 2023-09-18T19:12:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/benjamin-netanyahu-visits-elon-musk-talks-x-twitter-antisemitism-intelligence/"
+  - title: "Editorial: California should exercise caution on self-driving trucks"
+    excerpt: "The recent San Francisco experiment involving self-driving taxis shows the risk posed by putting self-driving trucks on California roads and highways. The thought of a fully loaded semi barreling down a busy highway without a driver on board raises ..."
+    publishedDateTime: 2023-09-23T12:31:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/09/23/editorial-california-should-exercise-caution-on-self-driving-trucks/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 9
-  - title: "Netanyahu visits Elon Musk in California with plans to talk about artificial intelligence"
-    excerpt: "Netanyahu's high-profile visit to the San Francisco Bay Area comes at a time when Musk is facing accusations of tolerating antisemitic messages on his social media platform, while Netanyahu is confronting political opposition at home and abroad. Protesters gathered early Monday outside the Fremont, California factory where Tesla makes its cars."
-    publishedDateTime: 2023-09-18T21:13:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/netanyahu-visits-elon-musk-in-california-with-18373495.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 8
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 4
 
 secured: "YafT7TbKcGA59Kx1kijIab2RHMI3jzPWkozGSkk7OgKI6C6aiM7OP57Nt9lzUXZyZNArbl+RHAMEFnl5Dd35IPHLzHb8GnasuBiOQMqmNWoBeQCO7/GjMV9v+4FlrbwQ6Wz88Os28nldiR9pYw/k9Lb+0ixyH1ltVw4DD6VkTVNiaaeN8mwP564noi4Z/XiDjO63IKq8ab+LLsN/uS92BHXFLSJ4s46FJ6cv2Tq5Ul0H7Tf11OLeUT4xx8yWvfW/KNMauWb7jZmK/DyQ8k7moES14c17YBzItCQMnQuvuHLC+cSOODpJ1MDb0UhcBgxcKIoa9WLEyKlPhe95myabHJhJV2kLQC4fIbvcG/nz+EY=;TjH+mujPsiS+jGTcDo8C4g=="
 ---

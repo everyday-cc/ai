@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-19-the-fall-of-babylon-is-a-warning-for-ai-unicorns.md",
+      "title": "The Fall of Babylon Is a Warning for AI Unicorns",
+      "excerpt": "When it went public in 2021, Babylon Health was valued at over $4 billion. Now it has declared bankruptcy. Insiders say it could never live up to its hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "originalUrl": "https://www.wired.com/story/babylon-health-warning-ai-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6508e98c779f4cdc81c14771/191:100/w_1280,c_limit/Babylon-Health-Warning-To-AI-Unicorns-Business-1208225667.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-why-discern-security-thinks-ai-can-defeat-the-cyber-attackers.md",
       "title": "Why Discern Security Thinks AI Can Defeat The Cyber Attackers",
       "excerpt": "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software",
@@ -244,7 +296,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34718773/2030-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-industry-report-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1168,58 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory.md",
-      "title": "Agility Robotics will mass-produce humanoid warehouse robots in new Oregon factory",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory/",
-      "originalUrl": "https://www.geekwire.com/2023/agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/agility-robotics-will-mass-produ.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-08-21-elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million.md",
+      "title": "Elemental Cognition, led by IBM Watson’s former CEO, raises USD 60 million",
+      "excerpt": "Elemental Cognition Inc., an AI startup founded by David Ferrucci, the former head of the team that created IBM Watson, has raised USD 60M in new funding.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-led-by-IBM-Watsons-former-CEO-raises-USD-60-million.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-led-by-ibm-watsons-former-ceo-raises-usd-60-million/amp/",
+      "publishedDateTime": "2023-08-21T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-how-ai-is-opening-doors-and-making-entrepreneurship-accessible-for-all.md",
       "title": "How AI Is Opening Doors And Making Entrepreneurship Accessible For All",
       "excerpt": "The AI revolution is ushering in a new era of entrepreneurship, where the barriers that once confined dreams to the realm of impossibility are crumbling. Time, money, access to information and networks are no longer insurmountable obstacles, and entrepreneurship is now a more accessible stepping stone toward a better future.",
@@ -1146,49 +1189,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-19-ai-industrial-robotics-hong-kong.md",
-      "title": "AI Industrial Robotics - Hong Kong",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$65m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.76%, resulting in a market volume of US$172m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/hong-kong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

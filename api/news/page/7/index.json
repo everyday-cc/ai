@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-18-coimbatore-city-police-ai-based-facial-recognition-cctv-cams-in-kovai.md",
+      "title": "Coimbatore city police AI-based facial recognition CCTV cams in Kovai",
+      "excerpt": "COIMBATORE: The Coimbatore city police have introduced AI-based CCTV facial recognition systems (FRS) and Metadata cameras for detecting suspects. The cameras are being fixed within a 5-km radius of the City Police Commissioner's office, where the modern control room is located.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.html",
+      "originalUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/9/18/w600X390/ai_cam.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2023/sep/18/coimbatore-city-policeai-based-facial-recognition-cctv-cams-in-kovai-2615839.amp",
+      "publishedDateTime": "2023-09-17T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-amazon-unveils-new-cloud-storage-offerings-at-aws-storage-day.md",
       "title": "Amazon Unveils New Cloud Storage Offerings at AWS Storage Day",
       "excerpt": "Amazon Web Services AWS announced new features at AWS Storage Day, updating FSx for Lustre, air-gap backups for AWS Backup, and expanded AWS DataSync targets.",
@@ -1011,8 +1054,8 @@
       "title": "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings",
       "excerpt": "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces.",
       "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479",
+      "webUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1036,40 +1079,6 @@
       "provider": {
         "name": "CTV News",
         "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030.md",
-      "title": "AI Quadruped Robot Market Size and Regional Outlook Analysis 2023-2030",
-      "excerpt": "The AI Quadruped Robot Market Insights of 2023 is ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Precision Reports is the credible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

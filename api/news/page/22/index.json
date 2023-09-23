@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-09-07-north-las-vegas-launching-ai-powered-translation-software-in-30-languages.md",
+      "title": "North Las Vegas launching AI-powered translation software in 30 languages",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "originalUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "publishedDateTime": "2023-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-inspecting-quantization-errors-with-quantization-debugger.md",
       "title": "Inspecting Quantization Errors with Quantization Debugger",
       "excerpt": "Although full-integer quantization provides improved model size and latency, the quantized model won't always work as expected. It's usually expected for the model quality (e.g. accuracy, mAP, WER) to be slightly lower than the original float model.",
@@ -1150,57 +1193,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
-      "title": "What is the vulnerability management process?",
-      "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/GettyImages-1489414966.jpg",
-          "width": 2400,
-          "height": 1266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

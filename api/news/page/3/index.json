@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-21-orca-security-expands-relationship-with-google-cloud-adds-generative-ai-features.md",
-      "title": "Orca Security Expands Relationship with Google Cloud & Adds Generative AI Features",
-      "excerpt": "It's been a busy year for Orca. Back in June, the company announced an expanded relationship with Google Cloud. Earlier this month, Orca released a new generative AI-based tool for asset discovery. Between the two events, Forbes named Orca Security to its 2023 Forbes Cloud 100 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/20/orca-security-expands-relationship-with-google-cloud--adds-generative-ai-features/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/20/orca-security-expands-relationship-with-google-cloud--adds-generative-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-09-21-amazon-gives-alexa-an-ai-facelift-as-it-launches-new-smart-speakers.md",
       "title": "Amazon gives Alexa an AI facelift as it launches new smart speakers",
       "excerpt": "At its annual devices bonanza on Wednesday, Amazon introduced new hardware and software with generative artificial intelligence features. Amazon introduced a “smarter and more conversational” version of its Alexa voice assistant that the company hopes will bolster its position in the tech industry’s artificial intelligence race.",
@@ -397,7 +353,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1060,7 +1016,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1187,6 +1143,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.md",
+      "title": "TikTok is launching new tool that will help creators label AI content on the app",
+      "excerpt": "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
+      "publishedDateTime": "2023-09-19T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -37,13 +37,13 @@ related:
         height: 600
         isCached: true
   - title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-    excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS, to rapidly develop and introduce new applications across a wide range of industries. Abdul Latif ..."
-    publishedDateTime: 2023-09-18T23:08:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable/article_0b7ddfdc-2949-5046-b586-758f120f4342.html"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
+    publishedDateTime: 2023-09-19T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "MHsN9cKM3PjAxX9dJqD5c51rqXcH6ueuwqNDKodI39uwNf9yYADDcYJxN4zZZOumaFiTcXvNK7VGdJCkbnJvgQF6Y6+WcesAvVDcydvsSurFrEOotPMQBCtXyWlF3rJNAZiInkE9TViwPpmrazZO1ZRUWMWolaqV0P4N0FGoc/y1w9+u4fYf6upNDa/yqW5rrbzMrXz3qaLFQiB+ND88AT1qzsLMLe6MLwQkd9vyLlrh4K9CzvpXKpjvSfYEY+CvHwyFH3YqKhk3Yimuca1HTEbiqziFCG521QcI264BC6dfjVi9+h2fQXHn60EOnQPgHJ/rvmkuStiFw0wMgmsZg87p4oYjuxvfaeqxDEjztb4=;Prm6ApjWuPQYAvA3eh3TWw=="

@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-08-29-deepmind-says-it-has-a-way-to-identify-ai-imagesbut-only-on-google.md",
+      "title": "DeepMind Says It Has a Way to Identify AI Images...but Only on Google",
+      "excerpt": "We may earn a commission from links on this page. DeepMind says its SynthID system can install a watermark on AI images that won’t be removed via color filters or other image manipulation.Image ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
+      "originalUrl": "https://gizmodo.com/deepmind-ai-watermark-duet-google-cloud-next-1850783568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6ebab563b7a7c1816be76efed12c4d6.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-artificial-intelligence-ai-in-cancer-diagnostics-market-to-surpass-usd-208434-million-by-2032.md",
       "title": "Artificial Intelligence (AI) in Cancer Diagnostics Market to Surpass USD 2,084.34 Million by 2032",
       "excerpt": "Ottawa, Aug. 29, 2023 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in cancer diagnostics market revenue is projected to reach around USD 1,466.72 million by 2029, a Study published by Towards Healthcare a sister firm of Precedence Research.",
@@ -1113,51 +1165,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

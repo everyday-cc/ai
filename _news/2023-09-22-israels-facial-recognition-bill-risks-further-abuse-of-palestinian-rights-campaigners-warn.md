@@ -50,24 +50,6 @@ related:
         width: 725
         height: 482
         isCached: true
-  - title: "Israel’s Ministerial Committee Greenlights Facial Recognition Cameras in Public Spaces"
-    excerpt: "The Ministerial Committee for Legislation gave preliminary approval on Monday for a bill that will legalize the use of facial recognition cameras in public places across Israel, allowing for use of the data to investigate criminal activities. The bill still needs to be approved by Israel’s parliament, the Knesset."
-    publishedDateTime: 2023-09-18T19:08:00Z
-    webUrl: "https://themedialine.org/by-region/israels-ministerial-committee-greenlights-facial-recognition-cameras-in-public-spaces/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 11
-  - title: "Proposal for Israeli police use of live public facial recognition goes before lawmakers"
-    excerpt: "Israel’s government is moving forward with plans to deploy live facial recognition in public spaces for criminal investigations."
-    publishedDateTime: 2023-09-18T22:12:00Z
-    webUrl: "https://www.biometricupdate.com/202309/proposal-for-israeli-police-use-of-live-public-facial-recognition-goes-before-lawmakers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 11
 
 secured: "k+SGtFDioO4NC9bL2XBCVkez2UrodPYnr8n8usdPI2NIVsW1nWSRXEI62FKP6RVpveaCqldAFk9L1cy2VM98cAocy9ib7G00/iUsCS0nBfvSDPkNLH6EJToA8wMkVTp52sIKy8WcGjDSEcO/u10dkQiGti0/G9RIMwDHcbbhPVdZEzkJ9l2RLahZb4a/bu/wjv4ahMv/NsR8vqKOOFf33dJ+lR1dc13JxxCkOkElehMQT7XQcmhy1FPQmlXyPzejWxcM+g+z8/eYQgMp3h0d9YxkkYjaWwq/DLfKH+s57AkWREwaYm4eoTPNFPQcO0z5AQP22IfJLuIXiQb0TBXnJwIXNFgG86eukq5ixFjkTyFiefTrnasPWKvmGoDfQCtak44KlBrctccu67IZpQo3IeEBCYW/svp+jMnmcgUhXH5OnVSG4ojj4Yzfakhg2d+yskXZgbEMBNQs6RTFd5i/f5d2e6HJ/FZ2+bxNxqaTIT1G5oSHBYY7VaT3VvKAY86luNKH7sefAfuY2Jzz9iL6uQ==;NpYcp3xGyoFdPGnkkvA1rw=="
 ---

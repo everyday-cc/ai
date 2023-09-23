@@ -173,20 +173,6 @@ related:
         width: 835
         height: 468
         isCached: true
-  - title: "Microsoft AI team accidentally leaks 38TB of private company data"
-    excerpt: "One problem: The link that was provided by Microsoft's AI team gave visitors complete access to the entire Azure storage account. And not only could visitors view everything in the account ..."
-    publishedDateTime: 2023-09-18T21:30:00Z
-    webUrl: "https://mashable.com/article/microsoft-ai-researchers-leaked-private-data-azure-link-github"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 84
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/01qZErDt17HBgerD7zq3sxn/hero-image.fill.size_1200x675.v1695070443.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft's Copilot AI Coming to Windows on Sept. 26"
     excerpt: "Copilot lands on Windows 11 as part of an operating system update rolling out on Sept. 26. It will arrive on Bing, Edge, and Microsoft 365 Copilot in the fall."
     publishedDateTime: 2023-09-21T16:18:00Z
@@ -243,6 +229,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Microsoft is rolling out generative AI in Windows and Office app"
+    excerpt: "Microsoft Corp. said its AI assistant for Windows will start rolling out Sept. 26 and the Office AI app will be widely available Nov. 1 as the software giant continues to bake generative artificial intelligence into its products."
+    publishedDateTime: 2023-09-23T14:01:00Z
+    webUrl: "https://techxplore.com/news/2023-09-microsoft-generative-ai-windows-office.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-microsoft-generative-ai-windows-office.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-microsoft-generative-ai-windows-office.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "The Future Of Cancer Detection: Microsoft And Paige's AI Behemoth"
     excerpt: "Its latest collaboration with Microsoft aims to take it one step further by advancing a novel AI model featuring billions of parameters by leveraging Microsoft's Azure platform. The revolutionary model is expected to play a pivotal role in deciphering ..."
     publishedDateTime: 2023-09-22T17:15:00Z
@@ -273,15 +275,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft AI Researchers Accidentally Exposed Big Cache of Data"
-    excerpt: "Microsoft Corp.’s AI research team accidentally exposed a large cache of private data on the software development platform GitHub, according to new research from a cybersecurity firm."
-    publishedDateTime: 2023-09-18T21:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-18/microsoft-ai-researchers-accidentally-exposed-big-cache-of-data"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
   - title: "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened"
     excerpt: "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams."
     publishedDateTime: 2023-09-19T07:29:00Z
@@ -348,15 +341,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
-  - title: "Microsoft exposed 38 terabytes of sensitive data while working on AI model"
-    excerpt: "Between July 20, 2020, and June 24, 2023, Microsoft exposed a vast trove of data to the public web through a GitHub public repository. Cloud security"
-    publishedDateTime: 2023-09-18T19:28:00Z
-    webUrl: "https://www.techspot.com/news/100191-microsoft-exposed-38-terabytes-sensitive-data-while-working.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 62
   - title: "Microsoft's Accelerated AI Adoption Could Drive Strong Growth, Analyst Says"
     excerpt: "The analyst's latest Azure checks show an apparent uptick in AI-driven activity sequentially, which gives further confidence in Microsoft exceeding its 25%-26% Azure growth guidance in FY1Q."
     publishedDateTime: 2023-09-21T19:10:00Z
@@ -382,15 +366,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "White Hat Hackers Discover Microsoft Leak of 38TB of Internal Data Via Azure Storage"
-    excerpt: "The Microsoft leak, which stemmed from AI researchers sharing open-source training data on GitHub, has been mitigated."
-    publishedDateTime: 2023-09-18T22:15:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-internal-data-leak-azure/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 59
   - title: "Microsoft AI team accidentally discloses 38 TB of private data"
     excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
     publishedDateTime: 2023-09-19T09:08:00Z
@@ -404,20 +379,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/07/Ransomware.jpg"
         width: 1000
         height: 538
-        isCached: true
-  - title: "Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links"
-    excerpt: "Shared Access Signature (SAS) link exposed a storage bucket with 38TB of private data, including passwords, Teams messages, and the backups of two Microsoft AI research employees' workstations."
-    publishedDateTime: 2023-09-18T21:11:00Z
-    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-data-leak-exposes-dangers-of-file-sharing-links"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt125542a64185f789/64d2addbf05519b482702dee/cloudconcept-ScimanSky-alamy.jpg"
-        width: 646
-        height: 430
         isCached: true
   - title: "Microsoft exposes 38TB of sensitive data during AI research"
     excerpt: "A grave oversight by Microsoft's AI research division resulted in the leak of 38 terabytes (TB) of sensitive data, discovered nearly three years after"
@@ -567,15 +528,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
-  - title: "Microsoft AI Research Division Accidentally Leaks 38TB of Internal Data"
-    excerpt: "Microsoft’s artificial intelligence research division accidentally leaked 38TB of internal sensitive data via GitHub, according to a cybersecurity startup. The compromised data includes passwords, access keys, computer backups, and thousands of Microsoft Teams messages."
-    publishedDateTime: 2023-09-18T21:22:00Z
-    webUrl: "https://www.extremetech.com/internet/microsoft-ai-research-division-accidentally-leaks-38tb-of-internal-data"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Microsoft AI Researchers Leak 38TB of Private Data"
     excerpt: "“Our scan shows that this account contained 38TB of additional data – including Microsoft employees’ personal computer backups. The backups contained sensitive personal data, including passwords to Microsoft services, secret keys, and over 30,000 internal Microsoft Teams messages from 359 Microsoft employees,” it continued."
     publishedDateTime: 2023-09-19T08:30:00Z
@@ -584,15 +536,6 @@ related:
     provider:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
-    quality: 34
-  - title: "Microsoft Under Scrutiny After 38TB Data Leaked Via Azure Storage"
-    excerpt: "Researchers have discovered, in July 2020, a misconfigured link exposed approximately 38TB of sensitive Microsoft data."
-    publishedDateTime: 2023-09-18T19:17:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-accidentally-leaked-38tb-of-sensitive-data-report/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
     quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
@@ -626,6 +569,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 34
+  - title: "Get Ready: Microsoft's AI-Powered CoPilot for Windows 11 Arrives Sept. 26"
+    excerpt: "For enterprise users, Microsoft will also add Copilot to Microsoft 365, where it will shine as it's usually pretty good at summarizing long Office documents, solving math problems, and linking apps. Microsoft 365 Copilot launches on Nov. 1 and will cost $30 per user per month."
+    publishedDateTime: 2023-09-22T17:00:00Z
+    webUrl: "https://www.extremetech.com/computing/get-ready-microsofts-ai-powered-copilot-for-windows-11-arrives-sept-26"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 33
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-09-20T03:34:00Z

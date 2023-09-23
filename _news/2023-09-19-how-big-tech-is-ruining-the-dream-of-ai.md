@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A new global map of the AI future"
-    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
-    publishedDateTime: 2023-09-18T20:00:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
     excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
     publishedDateTime: 2023-09-20T13:20:00Z

@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Hi, Robot: Machines Take Over At China's Asian Games"
-excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
-publishedDateTime: 2023-09-23T10:38:00Z
-originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+publishedDateTime: 2023-09-23T07:04:00Z
+originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 21
+heat: -1
+published: false
 
 provider:
   name: Barron's
   domain: barrons.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-    width: 1320
-    height: 742
-    isCached: true
+  - AI in Robotics
 
 related:
   - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
@@ -36,23 +29,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Robots, machines dominate China's Asian Games"
-    excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
-    publishedDateTime: 2023-09-23T08:37:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1112638-robots-machines-dominate-chinas-asian-games"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 44
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-09-23/l_1112638_123141_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
 
-secured: "it6CmEeXGGmeSRCOrs7Fr8Pr1tJVDVOqpVjEDJoipfyRGmPEjSCSIxoLR5YMlrLCYjXANcjyVN/6+sY6mMUrvfcFzO4maqU6D56d6kLvl1ASoBaklpGo5rmdBddOg6gCYml7TQrUfN3mGM2AMf73Qp2Q4XLnCCvf/3TmPJ7//Hfk0NqNmLJtZ7i2hJoGUw1DuEo6sTaG7fWZobzDigWof3P7qIjQWW4yGlMd5IQ+jtsfsuXnfYW4jeRDU2GTi0mupsLoMKHyBD8MK4doz5IKrDWcnZrfhXb7irW9Aulyz16DtaNMANo9/T2vwDSOoaokYbQM7YrJIpERWTq4pVynjaLTilphsnjNouhohKpRLDY=;6uN5/RIW5wxYLwxoUdi9KQ=="
+secured: "oItm+o9KZUpdWLs9h9VHc80+J/TAArB68wwpSVPXCtLNDOAjBnhwIzwi/CkKvCe0+xarfIX/RMGSlPVuqCwfMqV3FWgdWWGY88GjrqkvNc5pLzfkRlwwW42PVxjAuTswDVYPI/pYGN5plDnI0Y8HWpNco8aq1ctbn8iNk9U4l4fhbIOoPoxq3H7FjNAQf+0Fo9dXHb5ATgwnsLuOC+ol1vgtTSK/hU0vSnR7ficPxvq2vCNN/CjHD6xq4wwEcFAwwNm7DrkIuSPU8Fe1zdklfDYDLeX5cDLJJiL+ZJ0Fv0hkALxOT+GD7qqEF9T4FR3f55FZ5U6I5xoggoVjwMN4/WDOi6hrbj1yW/HDA6SFCKUDCBobZ7m1HP5ivonDtRVcipanUI5qYp2p5+SIz38/rDfa5IbTLqfTt2a2SqClKGg+Xic0SpvqstKSJvyO+NR2+Rk3/8ObA+Cw8FIhxdK69VsiupWUWDaH91Q5+K8HuUVIoIIVknTgokCgssifiqtlgsjqg0JboVTgRSum9+0bog==;T2PbFjU0gZ0Em9JWFwzeHA=="
 ---
 

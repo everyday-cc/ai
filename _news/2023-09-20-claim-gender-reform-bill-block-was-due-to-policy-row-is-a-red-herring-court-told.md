@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/claim-gender-reform-bill-block-was-du
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/claim-gender-reform-bill-block-was-due-to-policy-row-is-a-red-herring-court-told-12965666"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Claiming gender law block was due to policy row is a red herring, court told"
+    excerpt: "A lawyer for the UK Government said the move came because of the effect the changes ‘would have on reserved law’."
+    publishedDateTime: 2023-09-20T17:13:00Z
+    webUrl: "https://www.aol.com/claiming-gender-law-block-due-141328728.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 16
 
 secured: "K/ZG3Dp2GNCY7TrFZPPLmn+ZRKZM90n5LKFj6KSmQmFHmw2ta+E3VdGK6H0zPIGhgBwgfQae46db4R79iCXng7Uu4tK+wyXFxLWIMrbSqAZrnNbxTU5wNj+dnFlWEL2/TJ2lnM9TY0LVk7YwVZWXmPd+wmscerDmXYuRLaPj1QdZQixpzxJ5DtGQOuw/EKp5Ou5omdaNgRJpxIKpZ+K7XapMvmcfoqOZ3q0B+hPZNTYFkC8CBK3eIVFUHJs9/2rjAttcdmG3zxOx0IufH5SEDqhUUPBcNsHro31/jgNx6dqTJ+mpQ/kh39M/HhCYxuYP2NvBAQH0l1ThyxbDuoNoRPBGxarTIlBi9kEuXm0AHlI=;jVEZsu3fKKWnuUCqmcrAVQ=="
 ---

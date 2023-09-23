@@ -2,15 +2,15 @@
 category: news
 title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
 excerpt: "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ..."
-publishedDateTime: 2023-09-19T16:47:00Z
+publishedDateTime: 2023-09-19T12:07:00Z
 originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
 webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: The Korea Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Expands Watsonx Platform With Watsonx.data"
-    excerpt: "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer analyzes the expansion of IBM's watsonx.data offering."
-    publishedDateTime: 2023-09-18T22:04:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508c80a3d69b479bdfdab8c/0x0.jpg?format=jpg&width=1200"
-        width: 936
-        height: 526
-        isCached: true
   - title: "AI for business: IBM is charting the path with watsonx"
     excerpt: "At Think Singapore, IBM spoke about its focus on AI for business amid the hype around commercial generative AI services by its rivals."
     publishedDateTime: 2023-09-19T01:02:00Z
@@ -86,6 +70,6 @@ related:
         height: 682
         isCached: true
 
-secured: "iKCgxGMKTxXn5ejnCvgqEAJIUl8WR8JLCu5tPwLkd40EPffY/4yIxccHPmT8xmECHC5QCJlHv/UnBW9h21nXIhVAkgW4Dyx+wqwDr+I4HcLgHEc7djuIffnw3c/XoIsIQQgZffX8rzWOPk7rBkGKbHvtRRZgnI7htRT353eB0wS8PFsd8a/QuyuYOcIIEjpZMaBoOMiw+0oQUkgJI0XvNuUYYENyiH1nC+ACPMfIcqmtOJ+DdgGtNG/RU0amxZpWhK844RlAMUbdG69DAgP+YIYRf8tVxHB0T3QTWDV8Yi2wM75AFlYsUvMu5R0eAGnsAkpvj7IJryMB4WTz1L3NOQVQ/cPDfnr7Q4U4rkK+lE4=;4Kepn0H/TNxapTUyN3pAdw=="
+secured: "+PiUGQDKPbleClJZRo2x5iZ14GhSZ6R/ThMyo2wKYKfCToaW/I+2kJEKYff6PtKnn6aYyvxFDIEr7sS2PEiTkRRBm4UvEL4FRgumSBufCHyGv8hQnz4yI25EI8CUo/sw/08lzCUd5EXRyUsmIwFlSogKkZcNHZxQOgbo/flUm1lZsscV8ZhaOxN8OgcfM+fvdOXnvTN7+KAoNPVw5r8zP6lj3CzM/iPqhL5qmt8tqNrTiY1faTqwUhP41csZljzeOmq+Dj5rulFGFY2sOHIg/7Dqlx4tn6nKvw9Nnq6UCQCSiIZkYSbMCRf09OwNnpbBRPaLxpJHF5wHH9s4CiT5Jup2nhxjAhu1VWBEbEcK1rE=;XtzjRgQgAMUMB4PMh0iidw=="
 ---
 

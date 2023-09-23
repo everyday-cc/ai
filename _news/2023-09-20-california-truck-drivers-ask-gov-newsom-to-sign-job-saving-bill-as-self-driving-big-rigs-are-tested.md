@@ -1,29 +1,29 @@
 ---
 category: news
 title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-publishedDateTime: 2023-09-20T15:28:00Z
-originalUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads"
+publishedDateTime: 2023-09-20T16:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+webUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/US/wirestory_bf4d494e2c860df72063ec894e29ebdc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -138,6 +138,6 @@ related:
       domain: dailynews.com
     quality: 4
 
-secured: "dZN6KZyfLHuSaBRLmut8Q0pig8v+c4OOkb7e103KPV55WSbpkZ/sHn1WVtXkzy3E75hdGUUriGtJOTXughBr4BMlZIjgGKBSs/KjcXfenwL9hyaZpKWE2j1Qp3xFAw8TWSoVmzunYGElEI09gpXgZb28Qgl750rdJwUHutfpw3CylaQWLULELiX3tAJZDvMIysXhkxoUQBAbuo5J5NLt2gzCjexHP4Y7p71n8kds1SsNFmFGWHJqDEVt2pfWfx9lxaUJDf2bYFHf65LQ7bu8MpekB/PdgOGnV35iXImJ8qFq5xIYpGZozDDWeXHuDljff9zidmXhfUd13wgurVgsECsrKLh1qSGYx3YffD7iVnJcFeWDGxU0Sik6kEbm00AM6iU6c6F0dkt8XSB1qgaeaNGyFfnVpxcQOYKb+zwVP/kvOuCK9H4h1xYO4lU9X0h/ZhEfpB1+LXlL0QX0Ei/71vYXFn12LtfddAFXRSWvY3QGA5MMu3cklDvDKmKt/lYtohcEf8AIchGcvyxa4We/mw==;+IVB5/KzwcnwTIiAUyihUA=="
+secured: "ktK6/3ObQklr6DVDkQ3wn/v7sGjs0/56dgC9wthJYIkNV41syIPmlJYIzRDJInjyMzGudZJ7Op6Iolm2X3PS993jutMK/UYpGFY0XwQtubsvcrkiTjdgplEz4Vh60c9w2mJW0FVh40thXSSEJdDyy8pOBE2Kdz4T1R1S1Rns391KY5blMUckzyXr27TIcdTlzJprvBvgEbB5AcD2tZceb/UI33K1lqIL6YhS1esnTtibzYQctoLduQbnp5n6MUYSX5XWNWm8oucRZecd290Vt4XJA8OXlq4hLJSgkGIWi5TV0AkleP5/IJ5q9FV6vqJ0GEunQtQqmcO+Br6yld9uPzmaCSMDJWl6qjDxvlIIHAA=;STQVgpHL/r/8oXSo9kvohg=="
 ---
 

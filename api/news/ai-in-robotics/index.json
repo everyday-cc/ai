@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
-      "title": "Hi, Robot: Machines Take Over At China's Asian Games",
-      "excerpt": "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
-      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
-      "publishedDateTime": "2023-09-23T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
       "title": "How AI will change the job of the junior banker and raise the bar to entry",
       "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
@@ -157,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -359,7 +316,7 @@
       "originalUrl": "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -814,8 +771,8 @@
       "title": "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings",
       "excerpt": "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces.",
       "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479",
+      "webUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1367,6 +1324,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies.md",
+      "title": "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies",
+      "excerpt": "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438",
+      "originalUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-103655438,updatedat-1694673751837,width-1280,height-720,resizemode-75/103655438.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies-video-103655438/amp",
+      "publishedDateTime": "2023-09-13T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

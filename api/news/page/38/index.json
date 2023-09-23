@@ -2,6 +2,50 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-08-27-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes.md",
+      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service – Forbes",
+      "excerpt": "AWS and Hugging Face announced a partnership to offer large language models (LLMs) and generative AI models on AWS’ ML platform. The Hugging Face community can leverage AWS ML services and infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "originalUrl": "https://www.inferse.com/694977/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service-forbes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-4701.png",
+          "width": 1000,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-ai-brings-the-robot-wingman-to-aerial-combat.md",
       "title": "A.I. Brings the Robot Wingman to Aerial Combat",
       "excerpt": "The emergence of artificial intelligence is helping to spawn a new generation ... “I’m not going to have this robot go out and just start shooting at things,” General Jobe said during a briefing with Pentagon reporters late last year.",
@@ -1080,58 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup.md",
-      "title": "AMD’s Radeon RX 7700 XT and RX 7800 XT fill the gaps in its next-gen GPU lineup",
-      "excerpt": "AMD has been slower than Nvidia to fill out its next-generation GPU lineup, and for months there has been a huge gap between the Radeon RX 7900 XT (currently retailing between $750 and $850) and the Radeon RX 7600 (holding steady at $270ish).",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/7700-7800-1-800x450.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/08/amds-radeon-rx-7700-xt-and-rx-7800-xt-fill-the-gaps-in-its-next-gen-gpu-lineup/amp/",
-      "publishedDateTime": "2023-08-25T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

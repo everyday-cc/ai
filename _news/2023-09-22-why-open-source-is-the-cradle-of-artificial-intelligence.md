@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-crad
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61d43bb78d447e4754d6acf9/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "A new global map of the AI future"
-    excerpt: "AI’s geography is built around the distribution of “compute,” or raw computing power. The author of 2022’s “ Cloud Empires ” — a book about the power of big tech platforms — Lehdonvirta, 43, has just completed a geographical survey of the world’s largest cloud computing data centers, which he is set to publish later this year."
-    publishedDateTime: 2023-09-18T20:00:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/09/18/a-new-global-map-of-the-ai-future-00116580"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/88/0d/0eb79d4d4af596657b14c1ed22be/dnb-united-states.jpeg"
-        width: 800
-        height: 450
         isCached: true
   - title: "How Big Tech Is Ruining the Dream of AI"
     excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."

@@ -2,6 +2,57 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-07-28-house-takes-step-toward-ai-regulation-government-study-on-ai-accountability-due-in-18-months.md",
+      "title": "House takes step toward AI regulation; government study on ‘AI accountability’ due in 18 months",
+      "excerpt": "A House committee this week took a small step toward AI regulation, although broad calls for a sweeping AI bill have largely been ignored in the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability",
+      "originalUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-baby-step-ai-regulation-government-accountability.amp",
+      "publishedDateTime": "2023-07-27T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-facial-recognition-system-implemented-at-incheon-airport.md",
       "title": "Facial recognition system implemented at Incheon Airport",
       "excerpt": "Incheon Airport said it has begun utilizing preregistered facial information to streamline the departure process for passengers from Friday. Dubbed the \"facial recognition smart pass service,\" the newly launched service will allow passengers to quickly pass through the identification process at departure and boarding gates without having to show their passports and boarding passes to security personnel.",
@@ -1154,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-a-simpler-method-for-learning-to-control-a-robot.md",
-      "title": "A simpler method for learning to control a robot",
-      "excerpt": "(Nanowerk News) Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/smart/images/smartworlder.jpg",
-          "width": 400,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

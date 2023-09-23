@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/topics/artificial-intelligence/czi-to-b
 webUrl: "https://www.genengnews.com/topics/artificial-intelligence/czi-to-build-massive-gpu-cluster-for-decoding-biology-with-ai/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Chan Zuckerberg Science To Build AI GPU Cluster To Model Cell Systems"
+    excerpt: "\"AI is creating new opportunities in biomedicine ... especially academic research institutions. The CZI-funded GPU cluster will be one of the first to power openly available models of human ..."
+    publishedDateTime: 2023-09-19T12:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34725290"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34725290"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Chan Zuckerberg Initiative to build 1,000+ GPU cluster for biomedical AI research"
     excerpt: "The Chan Zuckerberg Initiative (CZI) plans to deploy a 1,000+ Nvidia H100 GPU high-performance computing cluster to develop large language models and other artificial intelligence models for biomedicine."
     publishedDateTime: 2023-09-20T16:01:00Z

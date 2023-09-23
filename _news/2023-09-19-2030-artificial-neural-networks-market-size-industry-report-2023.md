@@ -91,6 +91,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "2030, 3D Facial Recognition Market Size | Industry Report 2023"
+    excerpt: "The \"3D Facial Recognition Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The 3D Facial ..."
+    publishedDateTime: 2023-09-19T13:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34717430/2030-3d-facial-recognition-market-size-industry-report-2023"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "SHQA55wRAmPWGuzXuQzErWKONe+dYqMvYpt1P/IXnvO1k57DhjpJGgJW3LUDVP683+eLmLgoUJQQ0bhaVeVaCasZob6MLn8K+FdKNsj/dhRaEc78ix3n+23llBWAH16a01G34k0RjGOXaCnQsyyu0qvVn+1Z8S3kU77X9wlThqkdOjwvBLtKteXTS/79UhR2xwExddoKJLmIvaXcJqFwx6lmkooVhfOrOrn3rwlLJL4R9FP8N539oIeh8qcdV+8ldQCtQU7LguC+tYOjajwlVERJi4a3aSJq6ylZX+sYFM2JhOBZwvBHe3+YRAfJOcvftH7tcuJ3V5yxbdFO0aFB9mzwSwPkFkNzuaZM7bRg6CA=;ynVhPgavEs8jcQs8AlYG/w=="
 ---

@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Writer raises $100M to bring its ‘full stack’ AI model Palmyra to more enterprises"
-    excerpt: "You don't have to be an AI expert to get set up with Writer's LLM Palmyra. The software layers do the heavy lifting, and"
-    publishedDateTime: 2023-09-18T20:10:00Z
-    webUrl: "https://venturebeat.com/business/writer-raises-100m-to-bring-its-full-stack-ai-model-palmyra-to-more-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_vector_art_flat_illustration_minimal_a_hand_holding_a_p_919a46af-58dd-4ab3-9a5c-7dc4510bbc9c.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "bpXUMV3ySG/gooWgPqB/ngOqcUSLBTNsLhY0iYCLcHzbhR4UiI/L8bda2SmXLYiT6B9QSoNBfuEaClU4LgJhuEIETijuILNRVphFkTNkX9YcpxUMVyTEGbrGxU2RODvJC8nTST0n7hrWA0K2F74u0Xk/gETK+1I3hZ+7GNqtTI0HA0KqP600vLiKk6/S8sg9qIYqe9arCJ68gHfFgkjhE8QS3xfuH3zjqyddev5eKGlzuphqDXWiinV4gk0bxIlBydFCARwCD9ucFIAM/DWZb1ilrdHsTEP3Pycn5yqU5w1fgTYM3zLcVFnSLhQKlEplTU2NsYhcy/bf5Lklc/CF7m53NnNzzurmCHDK9JVsQro=;muRCM2/ku/2GGL4EP6Yf0A=="
 ---

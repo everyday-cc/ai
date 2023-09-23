@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34718773"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34718773"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "2030, 3D Facial Recognition Market Size | Industry Report 2023"
+    excerpt: "The \"3D Facial Recognition Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The 3D Facial ..."
+    publishedDateTime: 2023-09-19T13:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34717430/2030-3d-facial-recognition-market-size-industry-report-2023"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "RUmRMyqTwvp9xBe3CjYUIMvFrpsV3kVhps0G9uo5w7+zO57lhxHR0JNzCh48UaCg1MM1wpO0i48RqNHlr9+2+sq5dpUnnEFi1YaRslzwcrMtWohqGMeKhBqNDlHa4lnKKmaz8JEMV8yQeNRONioNYbkMJCoTpTAitpcfNc2CksAL673cz+0+YX8rWKx7/DAaDYo2vTWa7JGK+y3CIX1VHV9FC9Cjkqj7P+I+HHdBQz/bJk9QC+VPPfIRyTxtdju1eDHuBvUnmBvCMQ3iMAJ5SKp1ZinXpYxP5HXFCjDcRszDCP74SYiBiEXFrvd+jNUa9fsPg0SL8EgAgxf0YkZNN/xEFH++Z+go0+n6wRGS80Q=;0ouNem+5TOi2iYlq91bpQQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-sqream-calls-in-45m-to-expand-its-gpu-based-big-data-analytics-platform.md",
+      "title": "SQream calls in $45M to expand its GPU-based big data analytics platform",
+      "excerpt": "Israeli data analytics startup SQream made a bet on the potential of GPUs as a cornerstone of enabling the processing and querying of big",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/12/sqream-series-c/",
+      "originalUrl": "https://techcrunch.com/2023/09/12/sqream-series-c/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/12/sqream-series-c/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/12/sqream-series-c/amp/",
+      "publishedDateTime": "2023-09-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-simaai-creates-drag-and-drop-platform-for-building-ai-workflows.md",
       "title": "SiMa.ai Creates Drag-And-Drop Platform For Building AI Workflows",
       "excerpt": "Assuming it is the software that enables or prevents the adoption of a new AI chip, a reasonable assumption, SiMa has created a new tool called Palette Edgematic to simplify AI solution creation greatly. And build demand for their silicon. As everyone says ...",
@@ -322,6 +374,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
+      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
+      "excerpt": "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits/article_758931d9-1aa6-58b1-9c83-1b415b1a59fb.html",
+      "originalUrl": "https://www.news-journal.com/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits/article_758931d9-1aa6-58b1-9c83-1b415b1a59fb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/9/41/941dee81-2ea0-5e79-ab4d-298e31e30853/64ff12e4efadc.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
       "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
       "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
@@ -363,49 +458,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
-      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
-      "excerpt": "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230911cn05419/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1371,40 +1423,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher.md",
-      "title": "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher",
-      "excerpt": "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

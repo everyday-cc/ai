@@ -2,6 +2,58 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-08-10-chart-ai-stocks-enter-correction-territory.md",
+      "title": "CHART: AI stocks enter correction territory",
+      "excerpt": "AI hype drove huge gains among some tech stocks in the first half of 2023. Lately, that has gone into reverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64d434014dd2b50019c27314?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-enter-correction-territory-chart-analysis-2023-8?amp",
+      "publishedDateTime": "2023-08-10T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-middleware-raises-65m-in-seed-funding-to-transform-cloud-observability-with-ai.md",
       "title": "Middleware raises $6.5M in seed funding to transform cloud observability with AI",
       "excerpt": "Middleware, a startup that uses artificial intelligence (AI) to simplify and enhance cloud observability, announced today that it has raised $6.5 million in a seed round led by 8VC.",
@@ -1119,49 +1171,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/33696346",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33696346",
       "publishedDateTime": "2023-08-09T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-computer-vision-market-trends-report-2023-2030-107-pages-report.md",
-      "title": "Computer Vision Market Trends Report 2023-2030 | 107 Pages Report",
-      "excerpt": "Short Description About Computer Vision Market: The Global Computer Vision market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33694905/computer-vision-market-trends-report-2023-2030-107-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33694905/computer-vision-market-trends-report-2023-2030-107-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33694905",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33694905",
-      "publishedDateTime": "2023-08-09T19:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

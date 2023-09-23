@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 5 AI Stocks to Invest In for 2023"
-    excerpt: "Learn how you can make money from the wave of seasoned companies innovating in the AI realm, and new AI technology companies hitting the market."
-    publishedDateTime: 2023-09-18T20:08:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/?referring_guid=e6f68d20-d452-42d0-83fe-4e5631482140"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 75
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Ochsner to integrate AI into Epic"
     excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
     publishedDateTime: 2023-09-19T14:46:00Z
