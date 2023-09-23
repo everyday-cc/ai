@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cisco to Acquire Splunk for $28 Billion, Accelerating AI-Enabled Security and Observability"
+    excerpt: "Cisco agreed to buy Splunk in a $28 billion deal intended to address AI-enabled security and observability issues."
+    publishedDateTime: 2023-09-22T22:47:00Z
+    webUrl: "https://www.techrepublic.com/article/cisco-to-acquire-splunk-for-28-billion/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2018/10/pic-9.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Exploring the Future of AI with Splunk’s Bill Rowan"
     excerpt: "Looking at the future of AI, it’s clear that AI presents a tremendous opportunity for the tech industry. By leveraging generative AI technologies, companies can extract deeper insights like never before — providing more precise predictive analytics with streamlined data analysis processes that foster more informed decision-making."
     publishedDateTime: 2023-09-21T09:37:00Z

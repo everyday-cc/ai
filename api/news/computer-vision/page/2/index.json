@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-02-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
+      "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
+      "excerpt": "Officials reflected policing minister’s enthusiasm to roll out controversial technology across the country, particularly in retail settings",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_171_5138_3082/master/5138.jpg?width=620&quality=85&auto=format&fit=max&s=a9678567cc87506d36dbf14bfe53583c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
+      "publishedDateTime": "2023-09-02T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
       "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
       "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
@@ -1232,40 +1284,6 @@
       "provider": {
         "name": "Buffalo News",
         "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

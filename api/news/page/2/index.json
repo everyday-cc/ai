@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-21-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.md",
+      "title": "OpenAI beefs up its image generating AI tool with DALL-E 3",
+      "excerpt": "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
+      "originalUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
+      "publishedDateTime": "2023-09-21T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-ethics-in-the-age-of-generative-ai-a-closer-look-at-the-ethical-principles-for-vmwares-ai.md",
       "title": "Ethics in the Age of Generative AI: A Closer Look at the Ethical Principles for VMware’s AI",
       "excerpt": "The development and deployment of artificial intelligence (AI), particularly generative AI and large language models (LLMs), have opened up many opportunities for businesses, researchers, and society.",
@@ -1159,57 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-foundational-models-at-the-edge.md",
-      "title": "Foundational models at the edge",
-      "excerpt": "Foundational models (FM), which are trained on a broad set of unlabeled data at scale, are driving state-of-the-art artificial intelligence (AI) applications.\nThe post Foundational models at the edge appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
-      "originalUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/dji_0051-0060.blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T08:55:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

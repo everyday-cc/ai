@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-22T20:45:00Z
 originalUrl: "https://www.ksat.com/news/local/2023/09/22/utsa-ut-health-san-antonio-medical-students-learning-how-to-use-artificial-intelligence/"
 webUrl: "https://www.ksat.com/news/local/2023/09/22/utsa-ut-health-san-antonio-medical-students-learning-how-to-use-artificial-intelligence/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MKWWKQIGUJEP5IF5HSRD4KTSQQ.jpg?_a=ATAPphC0"

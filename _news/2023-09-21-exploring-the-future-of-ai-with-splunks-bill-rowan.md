@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cisco to Acquire Splunk for $28 Billion, Accelerating AI-Enabled Security and Observability"
+    excerpt: "Cisco agreed to buy Splunk in a $28 billion deal intended to address AI-enabled security and observability issues."
+    publishedDateTime: 2023-09-22T22:47:00Z
+    webUrl: "https://www.techrepublic.com/article/cisco-to-acquire-splunk-for-28-billion/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2018/10/pic-9.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Splunk soars on Cisco takeover in $28 billion AI cloud security deal"
     excerpt: "Cisco said it would pay $157 in cash for Ai-powered cloud data monitoring group Splunk in a deal that values the San Francisco-based tech group at around $28 billion."
     publishedDateTime: 2023-09-21T13:39:00Z

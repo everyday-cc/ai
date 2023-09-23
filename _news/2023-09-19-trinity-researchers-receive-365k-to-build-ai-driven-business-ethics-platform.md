@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-ent
 webUrl: "https://www.siliconrepublic.com/machines/trinity-ai-learnovate-enterprise-ireland-ethics-training"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trinity researchers secure €365,000 funding for AI research"
-    excerpt: "A team of researchers at Trinity College Dublin has secured €365,000 in funding to develop an artificial intelligence (AI) platform to address compliance and ethics issues at large multinationals."
-    publishedDateTime: 2023-09-18T07:31:00Z
-    webUrl: "https://www.businesspost.ie/article/trinity-researchers-secure-e365000-funding-for-ai-research/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=c67b79f6-0f67-5b76-b8c9-39feff0b86e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5472&height=3078&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Trinity College developing AI platform to address ethics and compliance in firms"
     excerpt: "A team of researchers at Trinity College Dublin has secured €365,000 in funding to develop an AI-driven platform to address failings in ethics and compliance."
     publishedDateTime: 2023-09-18T13:34:00Z

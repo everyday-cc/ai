@@ -451,6 +451,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Transforming Digital Ads with Microsoft’s AI Innovations"
+    excerpt: "Microsoft Advertising has unveiled cutting-edge generative AI tools that have the potential to change search and advertising industries."
+    publishedDateTime: 2023-09-23T00:39:00Z
+    webUrl: "https://www.dmnews.com/transforming-digital-ads-with-microsofts-ai-innovations/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 54
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/09/AI-Revolution-Ads.jpg"
+        width: 1000
+        height: 523
+        isCached: true
   - title: "Oracle and Microsoft strengthen cloud partnership with Oracle Database@Azure launch"
     excerpt: "Oracle and Microsoft have announced a new service that will allow customers to access Oracle database servers located in Microsoft Azure data centers. Intended to smoothen the cloud transition and give customers more flexibility when it comes to managing their multi-cloud environment,"
     publishedDateTime: 2023-09-18T14:01:00Z
@@ -602,15 +616,6 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 34
-  - title: "Microsoft and Oracle Partnered to Provide Database Services in Microsoft Azure"
-    excerpt: "This joint venture is if these two tech giants combine the capabilities of Oracle Database on OCI with the flexibility, security, and up-to-the-mark services of Microsoft Azure including the AI services like AZure OpenAI. As a result, they will come up ..."
-    publishedDateTime: 2023-09-18T07:31:00Z
-    webUrl: "https://www.dqindia.com/microsoft-and-oracle-partnered-to-provide-database-services-in-microsoft-azure/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 30
   - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
     excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
     publishedDateTime: 2023-09-19T19:20:00Z

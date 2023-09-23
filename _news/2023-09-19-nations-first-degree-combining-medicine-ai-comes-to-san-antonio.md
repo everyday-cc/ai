@@ -27,7 +27,7 @@ related:
     provider:
       name: KSAT
       domain: ksat.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MKWWKQIGUJEP5IF5HSRD4KTSQQ.jpg?_a=ATAPphC0"
         width: 700
