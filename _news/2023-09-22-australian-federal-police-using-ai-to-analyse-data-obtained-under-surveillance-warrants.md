@@ -60,20 +60,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
-    excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
-    publishedDateTime: 2023-09-18T23:28:00Z
-    webUrl: "https://www.theguardian.com/australia-news/video/2023/sep/19/indigenous-voice-referendum-ama-what-will-happen-if-australia-votes-no"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 23
-    images:
-      - url: "https://i.guim.co.uk/img/media/5dfd425ce0915c0be8196f465ad2e10f0311db65/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc3eddd5dc9af7c524d8a1bfba322331"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8mlDSRwUOTJRKLbH1/Xlx6ek6HtXjouRd4kwDJLmKOrvjv0Ud3I/6J+nd9DlM+faGxwRqK/vf9n47CW4N8HwFUCBgTDDXXtxWAUoGY4Bt3JzYfiedqs+fClkiM2ctj/XmkEFB4qgZLZ+FNWnV0K2TU4gZesxDSXnNfBOhGOFHeVlM3A0JrVDrhfr81n8bIH53ZZq7wkLysVkn3nwOnWUPtC1QRUznsZYoi+AdwYi1bJPQD+/dl0Im4wWMcdFKzRS3BVJ7nxfeTpwQzRotuLfJcFt2EcqVEH78SDB6Z1kmtUD8DNxc3vmKRCZPePt3S7vnu/agDMXgkcxd5CEwvbLV5LouiFnqTq+V64jHHhRR6P4z8r0ow/a7ppsSehTQSO+XL0PIZQy9jLHvmSw9Ane28mA6nLV1A7N1ib6ekt9wp8FixpZvvUTQ9W5u3WZynN/iqrFqwmyfQui0OtqBwkVkzwn0ofdub4cUgdpYOJroYLKeMtJqzAQkAbpWWe9kuRBVEmQgLnmycgWJ79vrYSzPg==;t1CLRJN13ULJI4vqgfIQQg=="
 ---

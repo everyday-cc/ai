@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australia-adapting-generative
 webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
 type: article
 quality: 69
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/238fb6873d4ce535aa0b0119c763946e343f9bc3/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=42f677fa4916d772120252311d118ade"
         width: 620
         height: 372
-        isCached: true
-  - title: "Indigenous voice referendum AMA: what will happen if Australia votes no?"
-    excerpt: "One listener asks if an unsuccessful referendum would mean that constitutional recognition and an advisory body to parliament “will fade from the culture?” Tanya Hosch, yes campaigner, believes a no outcome would not eliminate the aspiration of constitutional recognition."
-    publishedDateTime: 2023-09-18T23:28:00Z
-    webUrl: "https://www.theguardian.com/australia-news/video/2023/sep/19/indigenous-voice-referendum-ama-what-will-happen-if-australia-votes-no"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 23
-    images:
-      - url: "https://i.guim.co.uk/img/media/5dfd425ce0915c0be8196f465ad2e10f0311db65/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc3eddd5dc9af7c524d8a1bfba322331"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "fQLh9O3hMJNSXq7WfS+E2yc4qgODyVH3P5LBOnH3YzkqVsg452e1uIKjAzVtVoiNJVvkNobNQ6B3h6bMWFoYlMT4Yrd6M9zbv6GiVs4FopELzXJhz+AsGs0WJpRjhxsDcDdE0WK4f5j5o8diZogg/PmCRR6mJp7wlFGwAmcOf4/hNxRRyRE9TqadXjcPe5Zc5e2KygWpe/ddsI4pJoKSH71jXk1w4KztldbRO4gG+4V7WCCuMFxaFu/lbkb0U1Y3F6lX7m8W9kPqzobf2IKueEw+j7YTgQZ9HDbUCXKYK/6p1KHifv0/WlxgMa7+zIWcfgRSZ1tAqzx7fwNVnyvNuch6iabrCIAXpZaqzsm+v+X+Ge+9vW5eYEIvZHBuLa/B/AsNhdj2LNeh4WXQyXFkCr4dVmec/qMcQHzoZtCo4S0Nz0zcQL6gakvED7m7qqv4TkOP9p+rGT8BTL7HHYlL3msVNGO3Wfbt7Kknw9N3H4pAhVLybKbIKadAuXqddK77WteuSU3P/BGvuWYGwPXqTg==;kyUgoULCL13+DlGnbKD1Gg=="

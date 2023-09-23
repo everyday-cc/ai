@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-08-30-tech-war-china-exploring-ways-to-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say.md",
+      "title": "Tech war: China exploring ways to make its own AI memory chips despite US sanctions, sources say",
+      "excerpt": "China is exploring ways to produce its own high-bandwidth memory (HBM), the next-generation of memory chips tailored for artificial intelligence (AI) processors, as it pushes ahead with a semiconductor self-sufficiency drive amid US sanctions, industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/89c22c98-89dc-4375-961d-4890592a1140_dbf13453.jpg?itok=q1LwE16L&v=1693216774",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-loom-launches-ai-upgrades-to-maintain-lead-async-communication-space.md",
       "title": "Loom Launches AI Upgrades To Maintain Lead Async Communication Space",
       "excerpt": "Video messaging platform Loom unveiled several generative-AI focused upgrades this week, as it aims to stay ahead of the competition in the red-hot asynchronous",
@@ -1117,58 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-bros-are-at-war-over-declarations-that-googles-upcoming-gemini-ai-model-smashes-openais-gpt-4.md",
-      "title": "AI bros are at war over declarations that Google's upcoming Gemini AI model smashes OpenAI's GPT-4",
-      "excerpt": "Declarations that Google's upcoming Gemini AI model outflanks OpenAI's GPT-4 set the tech world alight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "originalUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64edd5319664cf0019e7f4fa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-gemini-ai-model-smashes-gpt4-says-semianalysis-2023-8?amp",
-      "publishedDateTime": "2023-08-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

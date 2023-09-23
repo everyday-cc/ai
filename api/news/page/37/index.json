@@ -2,6 +2,48 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-08-28-a-beginners-guide-to-automation-and-aiops.md",
+      "title": "A beginner’s guide to automation and AIOps",
+      "excerpt": "How automation—when applied to IT and AIOps—helps you achieve better business results in three key areas.\nThe post A beginner&#8217;s guide to automation and AIOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
+      "originalUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T06:04:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-uw-researchers-find-hole-in-voice-recognition.md",
       "title": "UW researchers find hole in voice recognition",
       "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
@@ -1039,57 +1081,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-ai-will-not-eliminate-jobs.md",
-      "title": "AI Will Not Eliminate Jobs",
-      "excerpt": "That title is a bold statement in a world where AI, ChatGPT and other technologies are doing many tasks that employees have typically performed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e94ab308aeeab5723b0616/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shephyken/2023/08/27/ai-will-not-eliminate-jobs/amp/",
-      "publishedDateTime": "2023-08-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

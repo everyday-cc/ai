@@ -9,8 +9,8 @@ ampWebUrl: "https://www.onmanorama.com/news/business/2023/09/23/startup-artifici
 cdnAmpWebUrl: "https://www-onmanorama-com.cdn.ampproject.org/c/s/www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: onmanorama
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Small businesses can learn about artificial intelligence"
+    excerpt: "Small businesses will be able to learn about artificial intelligence at an event next week. E-Skills IOM, a local provider of technical training and support, will host a two-hour workshop about using free Artificial Intelligence (AI) tools."
+    publishedDateTime: 2023-09-19T03:40:00Z
+    webUrl: "https://www.iomtoday.co.im/news/small-businesses-can-learn-about-artificial-intelligence-639193"
+    type: article
+    provider:
+      name: IOM Today
+      domain: iomtoday.co.im
+    quality: 37
+    images:
+      - url: "https://www.iomtoday.co.im/tindle-static/image/2023/06/07/7/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=750&crop=16:9,smart&quality=75"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Hopes small Island businesses will embrace artificial intelligence"
     excerpt: "An organisation that specialises in artificial intelligence has hopes businesses across the Isle of Man will embrace the technology. ESkills IOM believes it could save sole traders and small setups a significant amount of time. However, there are questions worldwide about how this would affect the jobs market."
     publishedDateTime: 2023-09-19T13:00:00Z

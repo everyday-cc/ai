@@ -2,6 +2,57 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-08-02-new-sci-fi-shorts-prompted-into-existence-with-ai.md",
+      "title": "New Sci-Fi Shorts Prompted Into Existence With AI",
+      "excerpt": "1000 Miles and the other emerging cinematic AI shorts demonstrate the disruptive potential of AI-enabled content production. Anyone can now make the greatest game or movie or comic book universe of all time, with no art or coding skills, no actors, nor studio or distrubutor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c95eda3ffd0e8d3bc6f9a3/0x0.jpg?format=jpg&crop=1386,779,x122,y116,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/01/new-sci-fi-shorts-prompted-into-existence-with-ai/amp/",
+      "publishedDateTime": "2023-08-01T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-generative-ai-services-pulled-from-apple-app-store-in-china-ahead-of-new-regulations.md",
       "title": "Generative AI services pulled from Apple App Store in China ahead of new regulations",
       "excerpt": "China has imposed licensing requirements on other areas of the internet, such as video games, and it remains to be seen what criteria will be needed to obtain a generative AI license.",
@@ -1152,58 +1203,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-uber-driver-in-first-ever-deadly-self-driving-crash-pleads-guilty.md",
-      "title": "Uber driver in first-ever deadly self-driving crash pleads guilty",
-      "excerpt": "The backup driver in the self-driving Uber vehicle that killed a 49-year-old woman in Tempe, Arizona, in 2018 pled guilty to one count of endangerment and was sentenced to three years’ probation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/31/23814474/uber-self-driving-fatal-crash-safety-driver-plead-guilty",
-      "originalUrl": "https://www.theverge.com/2023/7/31/23814474/uber-self-driving-fatal-crash-safety-driver-plead-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/NoO6FNQ5slC3QrKMUCI8ocW0RUc=/0x0:1434x790/1200x628/filters:focal(717x395:718x396)/cdn.vox-cdn.com/uploads/chorus_asset/file/10457951/uber_tempe_2.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

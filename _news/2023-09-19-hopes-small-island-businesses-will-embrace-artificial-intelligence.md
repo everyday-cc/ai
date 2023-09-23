@@ -34,6 +34,20 @@ related:
         width: 1248
         height: 650
         isCached: true
+  - title: "Small businesses can learn about artificial intelligence"
+    excerpt: "Small businesses will be able to learn about artificial intelligence at an event next week. E-Skills IOM, a local provider of technical training and support, will host a two-hour workshop about using free Artificial Intelligence (AI) tools."
+    publishedDateTime: 2023-09-19T03:40:00Z
+    webUrl: "https://www.iomtoday.co.im/news/small-businesses-can-learn-about-artificial-intelligence-639193"
+    type: article
+    provider:
+      name: IOM Today
+      domain: iomtoday.co.im
+    quality: 37
+    images:
+      - url: "https://www.iomtoday.co.im/tindle-static/image/2023/06/07/7/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=750&crop=16:9,smart&quality=75"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "jb+nU6Fhh3s9eiFahzHiNwuOFbO7Xzzk1NFqt8bqj91ls+CKH7a1SYMAtUmnataK+8hJ4H4wYpKB8a3X7/FBAlQFs/NSTEzyIHo0XZIuJVLFx82lz+fLhYDL3D0DY5vUbWQH0jgLwV+GozCheLf5FMHbgRVIEDtA6LIB2gww4hoaheHfxjyrtyp1mf4TFlTkg3Ng+7BB/aQTN4XtMI4L/Y+MnLFnG0Aql9k2FnTXmfb5hGQq/yDZPB8UQzcHpNl2R6MHZxhg7yoP1tZUrFU650MeRxfIGOpOrA3OPZPmhgcDQacd2hsT0Ls927CgJ6f6ABrKGNSkFawb1/IFv/kuX9R/aUqBJ/uKCQuh9fEHAmk=;dMIN1hCJXWPNp6mZE03qQA=="
 ---

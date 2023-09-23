@@ -2,6 +2,61 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-08-29-kaldi-speech-recognition-gains-tensorflow-deep-learning-support.md",
+      "title": "Kaldi speech recognition gains TensorFlow deep learning support",
+      "excerpt": "Kaldi, an open-source speech recognition toolkit, has been updated with integration with the open-source TensorFlow deep learning library. Developers Yishay Carmiel and Hainan Xu of Seattle-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "originalUrl": "https://sdtimes.com/deep-learning/kaldi-speech-tensorflow-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/08/DSC2820-1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
@@ -1120,48 +1175,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-28T06:05:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-a-beginners-guide-to-automation-and-aiops.md",
-      "title": "A beginner’s guide to automation and AIOps",
-      "excerpt": "How automation—when applied to IT and AIOps—helps you achieve better business results in three key areas.\nThe post A beginner&#8217;s guide to automation and AIOps appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
-      "originalUrl": "https://www.ibm.com/blog/a-beginners-guide-to-automation-and-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T06:04:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

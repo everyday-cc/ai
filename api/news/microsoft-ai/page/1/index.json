@@ -292,6 +292,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-18-microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland.md",
+      "title": "Microsoft Announces Availability of Azure OpenAI Service in Swiss Data Center, Accelerating AI Innovation in Switzerland",
+      "excerpt": "Zurich, September 18 2023. Microsoft today announces the availability of the Azure OpenAI Service in the cloud region Switzerland North, marking a significant milestone in accelerating AI innovation and adoption in Switzerland. Swiss organizations can ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
+      "originalUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-amazon-unveils-new-cloud-storage-offerings-at-aws-storage-day.md",
       "title": "Amazon Unveils New Cloud Storage Offerings at AWS Storage Day",
       "excerpt": "Amazon Web Services AWS announced new features at AWS Storage Day, updating FSx for Lustre, air-gap backups for AWS Backup, and expanded AWS DataSync targets.",
@@ -1397,50 +1440,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
-      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
-      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "publishedDateTime": "2023-09-07T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-08-25-the-psychological-impact-of-artificial-intelligence.md",
+      "title": "The Psychological Impact of Artificial Intelligence",
+      "excerpt": "Experts, governmental agencies, and even some of the general public are growing concerned about the evolution of robotic artificial intelligence and its potential impact. How long will it be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-08/Trust%20.png.jpg?itok=5kWRfzwb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/how-not-to-think/202308/the-psychological-impact-of-artificial-intelligence?amp",
+      "publishedDateTime": "2023-08-25T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-kevin-sorbo-wife-sam-believe-ai-is-extraordinarily-dangerous.md",
       "title": "Kevin Sorbo, wife Sam believe AI is 'extraordinarily dangerous'",
       "excerpt": "Kevin Sorbo and wife Sam Sorbo shared their concerns about artificial intelligence and why the actors strike is necessary as negotiations continue to be at a standstill between SAG-AFTRA and the AMPTP.",
@@ -1134,50 +1177,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning.md",
-      "title": "Autism Therapy: Cannformatics Targets Metabolic Imbalances Using Machine Learning",
-      "excerpt": "Cannformatics, an early-stage biotechnology company, has unveiled a groundbreaking advancement in the field of medical cannabis treatment for Autism Spectrum Disorder (ASD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
-      "originalUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/23/artificial-intelligence-7328583_1920.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34014714",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34014714",
-      "publishedDateTime": "2023-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

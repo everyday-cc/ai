@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Generative AI Could Help Empower the Next Generation of Diverse Storytellers"
-    excerpt: "Suddenly, far more people were producing content—and editors could work faster and with more precision than they’d ever imagined possible. The advent of the internet and smartphones, which effectively gave billions of people handheld cameras and publishing platforms, increased this accessibility and quality even further."
-    publishedDateTime: 2023-09-18T23:05:00Z
-    webUrl: "https://www.wired.com/sponsored/story/how-generative-ai-could-help-empower-the-next-generation-of-diverse-storytellers/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
-    images:
-      - url: "https://media.wired.com/photos/6503785e2566aa73b1792970/191:100/w_1280,c_limit/wired-dva-leadin.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Has AI Surpassed Human Creativity?"
     excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
     publishedDateTime: 2023-09-19T23:09:00Z

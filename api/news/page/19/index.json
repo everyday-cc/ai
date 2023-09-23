@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-09-08-what-large-models-cost-you-there-is-no-free-ai-lunch.md",
+      "title": "What Large Models Cost You – There Is No Free AI Lunch",
+      "excerpt": "Recent research reveals that a substantial portion of the computational operations in large models is wasted, with over 99% of floating-point operations resulting in zero calculations. Relying solely on massive models that consume vast amounts of resources is unsustainable in the long term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb30f65900cea4b773b640/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
+      "publishedDateTime": "2023-09-08T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by-idc-innovator-report.md",
       "title": "FarEye Recognized as Leader in AI for Order Management, Fulfillment and Last-Mile Delivery by IDC Innovator Report",
       "excerpt": "FarEye, a leading provider of delivery management solutions, has been named a leader in artificial intelligence (AI) for order management, fulfillment and last-mile delivery by analyst firm IDC. The recognition comes as part of the “IDC Innovators: AI for Order Management,",
@@ -1135,40 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-artificial-neural-networks-market-size-2023-booming-worldwide-by-2031.md",
-      "title": "Artificial Neural Networks Market Size 2023 Booming Worldwide by 2031",
-      "excerpt": "Global Artificial Neural Networks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.Ask for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34346031/artificial-neural-networks-market-size-2023-booming-worldwide-by-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34346031/artificial-neural-networks-market-size-2023-booming-worldwide-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

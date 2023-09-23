@@ -24,34 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "What Does Closed-Door Meeting With AI Industry Leaders Mean for Business?"
-    excerpt: "Businesses should plan for the development of AI regulation in the US, but knowing what it will look like is still a challenge."
-    publishedDateTime: 2023-09-18T23:41:00Z
-    webUrl: "https://www.techrepublic.com/article/tech-industry-leaders-senate-ai-summit/"
+  - title: "This Kerala startup’s AI app helps small businesses design branding materials"
+    excerpt: "The Wizad platform automatically generates brand-specific designs including taglines..Kerala startup. AI. artificial intelligence. Wizad"
+    publishedDateTime: 2023-09-23T03:47:00Z
+    webUrl: "https://www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
+    ampWebUrl: "https://www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
+    cdnAmpWebUrl: "https://www-onmanorama-com.cdn.ampproject.org/c/s/www.onmanorama.com/news/business/2023/09/23/startup-artificial-intelligence-ai-app-branding.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062923-featuredimage-data-scientist-survey-ai-hype.jpg"
-        width: 1400
-        height: 788
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/business/images/2023/9/23/wizad-team.jpg"
+        width: 1248
+        height: 650
         isCached: true
-  - title: "Is chasing artificial intelligence genuinely senseless? | This Week in Business"
-    excerpt: "This Week in Business is our weekly recap column, a collection of stats and quotes from recent stories presented with a dash of opinion (sometimes more than a dash) and intended to shed light on various trends. Check every Friday for a new entry. With a ..."
-    publishedDateTime: 2023-09-22T15:18:00Z
-    webUrl: "https://www.gamesindustry.biz/is-chasing-artificial-intelligence-genuinely-senseless-this-week-in-business"
+  - title: "Hopes small Island businesses will embrace artificial intelligence"
+    excerpt: "An organisation that specialises in artificial intelligence has hopes businesses across the Isle of Man will embrace the technology. ESkills IOM believes it could save sole traders and small setups a significant amount of time. However, there are questions worldwide about how this would affect the jobs market."
+    publishedDateTime: 2023-09-19T13:00:00Z
+    webUrl: "https://www.manxradio.com/news/isle-of-man-news/hopes-small-island-businesses-will-embrace-artificial-intelligence/"
     type: article
     provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 33
-    images:
-      - url: "https://assetsio.reedpopcdn.com/Roblox_h7UMJtg.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 17
 
 secured: "AZYYyZiPuM45hIkE/hp68qVgmO+itraYz1FD7avpYbcgEnT2g9O5k0o7B3lSHQ7/1+cFb2sBtOGjZFEcXfbEGRU5zfNo2ZrFx9aFYkkP/hNWdbKlPst1+FOyBZjDqlYpagrE+9+rY9GX8ThXw+6R85qXHaysjYmci6/eK98xhtv8wTCCaCuxqtUnNjkYK+sc0HDGtl/u1WwVaWmBL1NkGs5A/01sixPkv+0wmbeqSrHCUcerCtyjlIZOsniZ2xuQixV15UTGur/XAsf5hysCb1E748K+/K3Z8k5/ut/D8zEn4vDW6zuWNrEcxvuBbJ+hi6QxxL1p9NFd/kEF1cDmxG6CNpSflmZ5vy98+Cgq62Y=;qhKxPsaNs2z3ufTkrxcHdQ=="
 ---

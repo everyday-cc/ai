@@ -128,15 +128,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Teamsters support bill requiring a human in self-driving vehicles"
-    excerpt: "Teamsters and supporters rallied on Monday, Sept. 18 in Arcadia, supporting a Legislative bill that would require a human operator in self-driving vehicles weighing 10,001 pounds or more."
-    publishedDateTime: 2023-09-18T23:28:00Z
-    webUrl: "https://www.dailynews.com/2023/09/18/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 4
 
 secured: "z0+xUkP40V3kGyj6k8RSJ65GzsE2FCbAsDWohexn/LxNWtbovCYwoGVVj9aUGeMrRkDk+fbD7Z3EG38JcVO8tf6SrNLd1eil5NBvAol+2Zpldd7CPplWxKOpHwzP/+2d9snvQq4g77DyScomU7zNPIf8Xbur+dHNWI2d+ekweWF3xd1xL+EtPLldhBQs+414/jT/t+gEb8KYDQL5TAoB/d0mhSMAPmg3mTBbIPPYgCbhQBFapjl+ZdvmmtHxOnigBnTRpghrmCky/AJyu/MdmjxTXUNWNtiVr2RbWPzsieGZfphDVxgQBVjoNH+vH5BxkXssjxo8UgbpD8A0G2acIEf3jYlQDXMBQpUS4xa/KURrNKrwKpsSwXHMIR3kjZf7D4AcrKa3W6uGR+P+oSdMwYk49L0XYeWgy4tGxyWI8aZFPk6TmTvY+wklMKECW7AqPHub7bhiAKwmq7EcSdLwC1ThfATo1Aw+Dxsf9FHrfBoY5Yld1gn1qzgyjqZxX4NDPmk3sU+bT+62cFhru2waHQ==;UqwV+vrxwacKTDasBcJnJA=="
 ---
