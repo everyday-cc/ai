@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The tricky ethics of AI in the lab"
-    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
-    publishedDateTime: 2023-09-18T05:14:00Z
-    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 56
-    images:
-      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
-        width: 700
-        height: 350
-        isCached: true
   - title: "5 AI Trends in Voice of the Customer Practices"
     excerpt: "Explore how AI in customer experience is revolutionizing the way companies collect and analyze voice of the customer data, from direct to inferred feedback."
     publishedDateTime: 2023-09-18T10:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-softw
 webUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Copyright Office Seeks Comments on Artificial Intelligence"
+    excerpt: "The US Copyright Office (CO) issued a notice, seeking comments on copyright law and policy issues raised by artificial intelligence (AI) systems. Artificial ..."
+    publishedDateTime: 2023-09-22T23:31:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/copyright-office-seeks-comments-on-8715457/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.5223_1814.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Copyright Office Seeks Comments on Artificial Intelligence"
     excerpt: "The US Copyright Office (CO) issued a notice, seeking comments on copyright law and policy issues raised by artificial intelligence (AI) systems. Artificial Intelligence and Copyright, 88 Fe"
     publishedDateTime: 2023-09-21T18:42:00Z

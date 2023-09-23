@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-21T17:15:00Z
 originalUrl: "https://www.reuters.com/legal/transactional/uk-law-firm-is-latest-partner-with-legal-ai-startup-harvey-2023-09-21/"
 webUrl: "https://www.reuters.com/legal/transactional/uk-law-firm-is-latest-partner-with-legal-ai-startup-harvey-2023-09-21/"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "h7hHDcbavgXsShoZATasbODlav0SU2O3Kndu5LJ7+xl3plfGterPCntlsN5G2uGeSOXpBm5i8bUveXV+Q8uiJWH7/CKWlIhIBhOq4ut+9B4ZsHEfucuhxwWDlZ5KgrftNba+zOTfqTuHB5Z9T6kDFrAEYkTyAJ10/tN8MicE8uKgBsNvqsaz52KgWaqxhgUhqtZ7yQwAPhE/xI5bJAr9f3rR4Ifg30Qr/8ZIc4kvRKdEbYKvt9FJeSOjlOXgEk5d2A/BkOyuK7BhqMG9cXsSXC1BcpbiOKGtJNxEz+LHNLaOnd1wOvmIRD0DQelggC+ptokkkn8ytq98mMAXQ03v2WIPNvRX7q84MOiDkOoD/yw=;3O0r53KrdB1maffE+GrRVw=="
+images:
+  - url: "https://www.reuters.com/resizer/xRwViHgIm3BMHiOFRfaPlqvXmMg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MM2DX6IXBBJUHFF2U55NYQ2ZHY.jpg"
+    width: 728
+    height: 381
+    isCached: true
+
+secured: "HXesnFPd1tfvp/J0i0ci3Vzk3juHvYX3izFFYn8jK2mBZQ/sLhLUVRuk3L2TneZwIA6ls4xScSheRVlT7N6yJ3ibeWThhVeZ3p9dSd9LTPNtu3CQOHFWWt5xpfJ/N1GV6QUqLwiNewlLPGcpgH7V/EK79o5nbb/DQuxUmcIPbs1RlgdxMBB3OSMGhuWFcfJ6lOhNdCP4ZXKv77oXwMiXXADZlKscrovGi4xxWVBDlLqRtn6PIkZGzeGPS/J0NINZyHhSxbcrc3cyAyLpTY6shSzYj1pQR/nuessbm2mVK7y/yQNcuR0l91Pi3yVx/EQ1acOr9JJ/ytYEUv15Gkuqox4oqaJmqYBpbEMithkg/wI=;I53M4uy3tl4/vixTZt25Gw=="
 ---
 

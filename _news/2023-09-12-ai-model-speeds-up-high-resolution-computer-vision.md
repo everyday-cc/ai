@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/ai-model-speeds-up-hig.jpg"
@@ -23,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "5OD/YOoxuiDOsfh2Lmqfq3yzx4+1XCBbwZjokDgZBkKmqBGRThQkiEAy+QieI9n7j369wUItIobpkFFxzoHlfHxv1ABPrDdY4fLmtQ/NChQfEXbNLmGxcLzBxk2L+RcQ7ijMpCG0DNOAkhkUFMdF2ZOATLLYA1E+3YpN38zud8cvpRIhnqUnKdf5jQIghqLTCO/9ijw+NxO4nj7FNtqrx6Eg0NsNNM2U4ybQLVOOoC50DQZr1Tjl7kZlTliHhCFabS20aHpW19xJ4+yBNT6ugc1iAmNmvJ79RKId/9wQh/TNpkYsA9i2DYiZLPKG4xEGUahvt7Zfjs1bsK3L+v2Y4QZZ3WRZBSiLXpxJEQ0MAG8=;eEK4d8UxLsBUkP6eY3Wq1Q=="
+secured: "k2XA+t2BQRxvjqAxdBkUeJW9wSkvICl4VOXmmPXRCVSS1MbKFubpWpnL99ASyAjiIxeVl4cpo5EhCIAl9+ggYARn7KCYDg+O1h+gaJXvAiCNtEiB0p38GqcrPxl/b/mHvsOiolKks3MrSbtGbKKmgdWWVeTabXVtqN8X/Zfmu1U5nfHhYlRd5VtdPEqG35u3SSKC0X1R4dbMN/JBlmr1ngdp7TfdQqnkloC64gw5LmF2odFKbfNAt2JEcuLef26Mr4+7pKoTC24dYKXRbUSxS9SPRk83WsVmHtyUqcsiIXkcinCaWxYQliW5KUmRefxj0OddBBObcRErF2TBJT36u0M8NopxSoWolhB1nHlyRTsutP+ugih9iOpNM3NbuLzgpSiWpwTAcqe0RU60YdfIVIYbmid64ZQD+3dZUVkaOMbOqH9BUPqwqlQxZphQHgFjBuyheDyTWuJ7rZ6SxmMpUCHtDgS6hhx2tGyBl57J5ptXDjD9g0CkBRR5Xz4AG6kQVe34bJVmjH8IYjCQQnb4/A==;haHQwtAqfPWQnsRYoW5vdw=="
 ---
 

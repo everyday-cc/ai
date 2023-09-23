@@ -30,8 +30,8 @@ images:
 related:
   - title: "Useful Sensors' new AI-In-A-Box module is the first to perform LLM-based natural language interaction on a low-cost chip with no internet connection"
     excerpt: "MOUNTAIN VIEW, Calif., Sept. 20, 2023 /PRNewswire/ -- Useful Sensors, an AI-focused start-up, today launched the world's first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronic devices, locally and privately, with no need for an account or internet connection."
-    publishedDateTime: 2023-09-20T14:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/20/9884648.htm"
+    publishedDateTime: 2023-09-20T13:09:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884648.htm"
     type: article
     provider:
       name: TMCnet

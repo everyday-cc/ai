@@ -2,9 +2,9 @@
 category: news
 title: "Useful Sensors' new AI-In-A-Box module is the first to perform LLM-based natural language interaction on a low-cost chip with no internet connection"
 excerpt: "MOUNTAIN VIEW, Calif., Sept. 20, 2023 /PRNewswire/ -- Useful Sensors, an AI-focused start-up, today launched the world's first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronic devices, locally and privately, with no need for an account or internet connection."
-publishedDateTime: 2023-09-20T14:16:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/09/20/9884648.htm"
-webUrl: "https://it.tmcnet.com/news/2023/09/20/9884648.htm"
+publishedDateTime: 2023-09-20T13:09:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/09/20/9884648.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884648.htm"
 type: article
 quality: 17
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 401
         isCached: true
 
-secured: "OZtxhzE80cbJQStpWvWicX1KHjTqoVambR6DdWaBNHLz+XHa9iRihGyS2MHat4Uxb7brjtCHZu+nl2yOK8TAtVUXmKpOtkp06eGQT9JVhnx838RM5NLKC9wQzwFG8SPnwp6eEo5uV4HaTgnI9kyLWvkv7VqYVz8mRQstxDxzL242iaOSI4L1qqta9BGF73t3XiTA50kLus/QTsh03+sEXUZt6Xznd82btV95t4wEpIimJu7Gt3ZpfJOxeSL/mHwbYWIhCtuSJ+6THJEQJUftOwayIr3Jy0kWZOJV0nucrxiHOIPufTUtdOp0MytBXEhELxCc9q1ujC2XM4VRPpbpSNL7uTMTtXiDV8M8Y+N3P5U8/wMYnszpbgQdJwIBYJ7lePBa3H045FbF0d5UaHyYgQLqNb/27tjSpoeYJAp6hB2IG2QTQp84KXzbbAjq6UrZsJkckW7dlMMJ8MPBz5eC0BypfMbMOiqsLeobiMjjLo0FCfO3gXVoV0Pw0kjN0m7SKDS11gF8YZKvQfBdRQSzlQ==;IQBGTk4nhs6OuXh/WWtlzA=="
+secured: "igiAiDYf57Xz/bcXWiTBVf9B+8SU3BEHRoqqqCkasV4O0sxSNgndhg6ckbuqTpQlGJ1uxs2TeUJxItgvcNzdtgpNm1wVtd130ct94j3f0sMoFnzDKnnDl3QC1INzJLX3s1uNbvvAzgQt/aP3BNuHmlgSa4QqlWe5M9Jaqa2Gc139bwSWBRfmiQDfqiVLT2TDQvlGu8S4L2KvUooU0ELlzfrcg6t6MV5onu+plErgDk4HcLGisWkZ0919x5ArASMLlXrxEkcaoEEkIt9zSBNwEqOi7mxo6BlPO3mUakJG1gz4q6Aa/qnkMczxL6x+m9ZUDHKswDkMNCNGF+szdjBmViibWUPditD//AVa3y/hDC8=;xyOk3A8I5EfaLjqXakQ3HA=="
 ---
 

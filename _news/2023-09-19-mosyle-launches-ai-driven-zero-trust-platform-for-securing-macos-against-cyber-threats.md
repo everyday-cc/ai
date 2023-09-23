@@ -95,20 +95,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
-    excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
-    publishedDateTime: 2023-09-18T07:01:00Z
-    webUrl: "https://semiengineering.com/quantum-plus-ai-widens-cyberattack-threat-concerns/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/quantumsecurity1.png?fit=1937%2C775&ssl=1"
-        width: 1937
-        height: 775
-        isCached: true
   - title: "AI cybersecurity startup HiddenLayer raises $50M"
     excerpt: "HiddenLayer says its platform is used by Fortune 100 enterprises in multiple sectors. To advance its revenue growth plans, the company has nearly quadrupled its headcount over the 12 months. It will use the $50 million round announced today to hire an additional 40 staffers by year’s end, build new features and accelerate go-to-market initiatives."
     publishedDateTime: 2023-09-19T21:17:00Z

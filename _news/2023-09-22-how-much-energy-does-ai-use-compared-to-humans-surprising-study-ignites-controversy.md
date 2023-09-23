@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to
 webUrl: "https://venturebeat.com/ai/how-much-energy-does-ai-use-compared-to-humans-surprising-study-ignites-controversy/"
 type: article
 quality: 60
-heat: 62
+heat: 64
 published: false
 
 provider:

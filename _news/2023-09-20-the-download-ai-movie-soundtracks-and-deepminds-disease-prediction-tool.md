@@ -327,6 +327,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. Researchers at Google DeepMind have used artificial intelligence to predict whether mutations in human genes are likely to be harmful, in one of ..."
+    publishedDateTime: 2023-09-22T22:39:00Z
+    webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift&signupConfirmation=success&trk=public_post_comment-text"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Breakthrough: Google AI DeepMind successfully diagnoses genetic diseases"
     excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases, a breakthrough is anticipated to accelerate the process of diagnosing"
     publishedDateTime: 2023-09-20T13:41:00Z

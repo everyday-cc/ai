@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 139
 published: true
 
 provider:

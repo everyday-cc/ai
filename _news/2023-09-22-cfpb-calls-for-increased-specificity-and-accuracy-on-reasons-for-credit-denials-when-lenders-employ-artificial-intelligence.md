@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "CFPB issues guidance on credit denials using artificial intelligence"
+    excerpt: "The Consumer Financial Protection Bureau issued guidance on the use of artificial intelligence in credit underwriting, saying that creditors are relying too heavily on a CFPB checklist and sample forms when they should provide specificity to explain why a consumer is denied credit."
+    publishedDateTime: 2023-09-19T19:17:00Z
+    webUrl: "https://www.americanbanker.com/news/cfpb-issues-guidance-on-credit-denials-using-artificial-intelligence"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 17
   - title: "CFPB issues guidance on Credit Denials by lenders using Artificial Intelligence"
     excerpt: "Today, the Consumer Financial Protection Bureau (CFPB) issued guidance about certain legal requirements that lenders must adhere to when using artificial"
     publishedDateTime: 2023-09-19T17:25:00Z

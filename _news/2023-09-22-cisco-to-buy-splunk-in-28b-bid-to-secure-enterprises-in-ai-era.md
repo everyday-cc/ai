@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
+  - title: "Cisco swallows Splunk, the gen AI freight train barrels ahead and Intel touts progress"
+    excerpt: "A big gulp for Cisco and its CEO Chuck Robbins (pictured), but most folks think it’s a good fit: Cisco boosts its cybersecurity and AI ambitions with $28B acquisition of Splunk And Zeus Kerravala’s analysis: AI and security headline Cisco’s acquisition of Splunk, but other synergies exist"
+    publishedDateTime: 2023-09-22T23:16:00Z
+    webUrl: "https://siliconangle.com/2023/09/22/cisco-swallows-splunk-gen-ai-freight-train-barrels-ahead-intel-touts-progress/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/chuckrobbins-cisco-june2017-drop.jpeg"
+        width: 776
+        height: 435
+        isCached: true
 
 secured: "kreslhl1vxSrjzo+GPFw+wyA7oF9bCIbl+YbhS07ZJUSm0F+kVCYxj3ztRseWjDLNCJ/U20JT0Ut0BAaZ/OffUQgi3eYDXYItuN/dEZ7+TlPod4nIb/r5LU9RRapyijlwirra1ehujzWrVvm2OWcmppqrH3P1mstCfjUJNV2OxD4xnYh+rvavleAlFG2+AxAovc1xLMS7KWTLMZFYX5RqUcWKSj4Bcbj3/yMjg2I2xJShnb+C9G0o6GIPwbHM5csxNFELsArbfEBbSTuYIfy19Ij0kfioECrqo1qPaQ7bhG1EDf1qEoIrsKMu6/XTH6293Q2dxZYy3Zlbi7sOmM/tPhlmdIDLmZMq+TIwwzxmg8PrkTxkmUnokT1sY4dyw6r+Mxb1ZRGzAEhv2piOlLVJSt4t/fNJ7jqi13jl/yoQHEu5z+QkM8qokySAR39syoNHSZkVlPj8oeMQwUABW9v7LsxLX1ft2rdNiDbZ3YddHTV5A7OOyxIZ45qu31E9LZmogPuOW3FCeW5tjchqNuGzg==;URSPV2o/RuUgYIBVIjVa3g=="
 ---

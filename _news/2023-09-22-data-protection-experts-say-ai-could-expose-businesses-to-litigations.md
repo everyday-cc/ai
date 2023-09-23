@@ -7,7 +7,7 @@ originalUrl: "https://nairametrics.com/2023/09/22/data-protection-experts-say-ai
 webUrl: "https://nairametrics.com/2023/09/22/data-protection-experts-say-ai-could-expose-businesses-to-litigations/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Lost in Translation: The Importance of Human Expertise in a World of AI-Driven Translations"
-    excerpt: "You’ll come across countless stories on social media about terrible translations that made it onto advertisements, signboards, and even tattoos. A lot of the wilder instances are deliberate manipulation of a machine translation that relies on crowd-sourced input,"
-    publishedDateTime: 2023-09-18T06:24:00Z
-    webUrl: "https://communicateonline.me/category/industry-insights/post-details/lost-in-translation-the-importance-of-human-expertise-in-a-world-of-ai-driven-translations"
+  - title: "A pair of misinformation experts warned about how AI could impact the 2024 election"
+    excerpt: "NewsGuard's Sarah Brandt, center, and Adobe's Andy Parson, right, warned of the dangers generative AI poses to democracy in an appearance at TechCrunch Disrupt Wednesday with Kyle Wiggers, a reporter for the publication."
+    publishedDateTime: 2023-09-21T18:51:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/09/21/experts-warn-of-ais-potential-impact-on-2024-vote.html"
     type: article
     provider:
-      name: CommunicateOnline
-      domain: communicateonline.me
-    quality: 29
-    images:
-      - url: "https://communicateonline.me/storage/posts/060Nd8Y8KnUNnLb7ApBqPzXtBXNLCHA6ARMHvkeB.png"
-        width: 1800
-        height: 1000
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "donDklATcMHjkB1M7IINVm0nt1vgbisaQRr8787ECWHU1Pfl24oYW8YWWnRNypnGVsUJmqZL77duF4NWgCjZKVHE1N3MJeD45hQMp7BZ+hw1JQLuEj4ylgi+BuCEo+9vacyGHooyud1BSekv9sSACqsUzea5VYJliJoOesRRsOSmHDENrA2CAfeCS6pQv7BiwVy07H8oAwUuE5yfG0RnsxXL2fDXoEO37CQz+qbmo/Dn7nCmnY4uDz2teCVHQrZ2nQyCP6ZKdO9V9X2dTLjXsDKcKVcG6ssH95KAIUYp7x1BjCdiLvtwJYVsKaJCtzxkTlO9Y8VhqC7WLBt4Ml1a2p3/e9hvfMqD98+LK0sfHCk=;J1x0c3j0x0Bc9Aswc/oK9g=="
 ---

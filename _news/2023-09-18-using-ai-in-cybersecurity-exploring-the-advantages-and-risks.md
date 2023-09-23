@@ -86,20 +86,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Quantum Plus AI Widens Cyberattack Threat Concerns"
-    excerpt: "Post-quantum cryptography must be applied now to prevent hackers from decoding today's data when quantum computers become available."
-    publishedDateTime: 2023-09-18T07:01:00Z
-    webUrl: "https://semiengineering.com/quantum-plus-ai-widens-cyberattack-threat-concerns/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/quantumsecurity1.png?fit=1937%2C775&ssl=1"
-        width: 1937
-        height: 775
-        isCached: true
   - title: "Mosyle launches AI-driven zero trust platform for securing macOS against cyber threats"
     excerpt: "LeeryAI makes use of a number of different predictive AI techniques to build an AI model for each specific device of what should be running."
     publishedDateTime: 2023-09-19T13:00:00Z

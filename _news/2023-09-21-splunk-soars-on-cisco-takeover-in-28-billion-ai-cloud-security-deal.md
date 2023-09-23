@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cisco swallows Splunk, the gen AI freight train barrels ahead and Intel touts progress"
+    excerpt: "A big gulp for Cisco and its CEO Chuck Robbins (pictured), but most folks think it’s a good fit: Cisco boosts its cybersecurity and AI ambitions with $28B acquisition of Splunk And Zeus Kerravala’s analysis: AI and security headline Cisco’s acquisition of Splunk, but other synergies exist"
+    publishedDateTime: 2023-09-22T23:16:00Z
+    webUrl: "https://siliconangle.com/2023/09/22/cisco-swallows-splunk-gen-ai-freight-train-barrels-ahead-intel-touts-progress/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/chuckrobbins-cisco-june2017-drop.jpeg"
+        width: 776
+        height: 435
+        isCached: true
 
 secured: "V7uyHnxvtniyyV990o7Lh+G2q3/S9PSWXxvF3F5cbTxnpUKODtxdoTb+Bs2YZ9SWlpqr4emRsTdTNa02OXpWHi5jSErfpJbdO9AdsRD+lbNfm9xEXhVHDto8kBRT5uQQ1SjX++t4PNwE/AU7vY32dzdsGwOdkI4dNVkv8/HNBEEqIU+VlntzGzwryFlnlm1u0gVf+2E+L+ZkBR//zTL5+SHem91OUx3vE5J95NT9Me9KaEG9GxPz1yu8lL+9rKnsanrJRMbOnKsyEIjbr8wOO0B0o/D1O9zAyMGfEihSbwOq8s4YcpRNhgobyzdn/GHIJcospD5dYX106o5zCKdiPtuwdYE1BHodeZuNF9KdAHFdsh3ZLHDn2/92AgYlMp/xnYS4Ucv/HxPH5lLV9rFw20kBZ5g3BuAu257TgACHsybTX0KI+Yw5mUQfE0cGGRy5UPMufF84ZYE/gDiZbiDwgOAejrumE2ghNWH6Jh/34IEWeP6cjfFwKayAItSEh8XFFYhsydHQGRnkw1qMx8vAVQ==;opQ8/LIZAV4euuCjlovgPA=="
 ---

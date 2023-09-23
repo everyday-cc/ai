@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Why AI could be a big problem for the 2024 presidential election"
-    excerpt: "Platforms such as ChatGPT can enhance risks to democracy by lowering barriers for the creation of misinformation."
-    publishedDateTime: 2023-09-19T13:05:00Z
-    webUrl: "https://www.popsci.com/technology/ai-2024-election/"
+  - title: "Data protection: Experts say AI could expose businesses to litigations"
+    excerpt: "Some legal and tech experts in the country have called for caution in the deployment of Artificial Intelligence (AI) by"
+    publishedDateTime: 2023-09-22T08:44:00Z
+    webUrl: "https://nairametrics.com/2023/09/22/data-protection-experts-say-ai-could-expose-businesses-to-litigations/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
+      name: Nairametrics
+      domain: nairametrics.com
+    quality: 19
 
 secured: "3PolVC6Fbjg+yaOPfz+bAiM2eg1Wyc7RixRhUbad6CGHq14rrcH4d76YURVjSwcdXjcM7PAB4+SoEFGeN4NX0xtfgqaMo006t6X22VdljSS7l/lgkzLEq0SFRAHxjlGxTxEksG2vNt6cAORmTCy4KhxFyBUIoa48oIjdtbe+PISWa2pMIqAC/DdSS6nFQnacbYcnkN88dovlkvq609E0OmLVNboQlTcTehOAwSMtTVB05W+F8CKY2Aa/8NnONBtIxVWqlke1y3KaDLGx2Q46ne7vy839Os5g8pkMqgwoji/Eeq7bz//0Igd8IzPULL/loGObFBmBQqToFlBNZtrgPjlwuD53QDBoaTHGY7TwseHQCZ63gPhivlrYGpBoSeZs1k28M8fyE0/+tyZrR4W1H5x8ILh1HyZ58BdCifL8iuNC36n/VM/YsrJK6KXMNKV033RjPqugxe1/ZOdH+XlBXZ58Zmwvr7FcmgP6GHAwlEn/+FFulWLr2Px3CD7ihroWWFlPvvM4EhwJvZzPaX/Ppw==;mA+htG0LZ2HB8+M+AnSwyg=="
 ---

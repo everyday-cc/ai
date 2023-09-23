@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-crad
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61d43bb78d447e4754d6acf9/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The tricky ethics of AI in the lab"
-    excerpt: "Uuk calls this a misguided approach that will impede efforts to develop AI as a beneficial technology. “Oftentimes, issues that arise in the research space present themselves downstream in the deployment of AI systems,” he says."
-    publishedDateTime: 2023-09-18T05:14:00Z
-    webUrl: "https://cen.acs.org/business/informatics/tricky-ethics-AI-lab/101/i31"
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 56
-    images:
-      - url: "https://s7d1.scene7.com/is/image/CENODS/10131-cover-opener-related?$responsive$&wid=700&qlt=90,0&resMode=sharp2"
-        width: 700
-        height: 350
         isCached: true
   - title: "Anyscale optimizes open source AI deployments with Endpoints"
     excerpt: "This week at the Ray Conference that runs from Sept 18-19 in San Francisco, Robert Nishihara is outlining the success and growth of Ray to date, and revealing what's next."
