@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Pennsylvania state government will prepare to start using AI in its operations"
-excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
-publishedDateTime: 2023-09-20T21:50:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
-webUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
+publishedDateTime: 2023-09-21T03:08:00Z
+originalUrl: "https://www.seattlepi.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
+webUrl: "https://www.seattlepi.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
 type: article
-quality: 53
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_c7e334ce30728df67dcad5fbad321680_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Pennsylvania state government operations to start using artificial intelligence"
@@ -89,6 +81,6 @@ related:
         height: 800
         isCached: true
 
-secured: "l2QLnjQQyPtiwP0ehTrY4c1S6lArddbNHiqP33GUivxeMna012ShCHD71/uZuImBQ1/ERUOzIPfbQSYIMqvHalA/7uNNi5bkJxDurN1vxTD3u8QfPgsFOKlIXwvaZ5MYjGYJa8QeSXUTT4BYYoaixqWZY3rwtCBzy4RMUW/mj9m7JpFuEhUZt3Kr++tqcW6xvgdpg2t8lSzx/bh9PgAjusdhDzG+6OMUDUKcYjoBy3R2xOp0m+utIWH+/n5IdnJ88l+uxChHVIUNxPeSVO4vLi3QEdq9qfYuCw1Q5hYbXk8s1Q3S6gqF0uogH7rg6Fi/gKijaMLZOqm6A3Cz3M1EMrpGPSVAuP9ZaBBe5jIyq9s=;6Eujhg67NjnDDMph1cSzKA=="
+secured: "jLmQ57eQpt95tLc9N3ta/9DAyDrVQJVhViaZYdAKbLRwLg1ZG1We1GCPEbYR8Q7P6xvtlWgPqtI047gGVTSYLM4ApugFOOXPDntXXYwt0YkpWyY2rlqN+H94/84uxN/Ayf1EwkGu7D1UYJW9SKyPfzGA1Yblc1dGlFL0MN7YiAYZ/I6lkVLesBR9/6ZFu+nZHe/DXPe1sk2JsLR6B0tldTM78/3YIVZLk2e1OE/7uRapbFgSTkmRGyuO4AoW6+Nn5k0e3s157evV6LFtZgDu5yhk7zFGnMsOFdxNLNNzDrMjqgMTjFkkOl6JPP7t2bVu/gTHOuJTgOy2hl/pm1xJ6LL5RHvsOnMLZt7K3nUSV0/5a0OZ+X0ME848TKriAH5hQU8IDUHHMl7FWoxo4xUSX8FxG7zZBu1LmzlMPMWUDt1KwctW0G9bncilli8v+bjPFJrk881/63ulUmESECKX7RgAz2HOPmVWa0c8F0jm3PzHfPwgeljIB8/cu3CwSQmXyhJEvxjjw0Wud8MVbqAymw==;vPEAHF+5Fd7w3rJ6yHrrJw=="
 ---
 

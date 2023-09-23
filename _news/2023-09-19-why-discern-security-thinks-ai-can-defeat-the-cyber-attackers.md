@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-sec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
+    excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."
+    publishedDateTime: 2023-09-21T19:02:00Z
+    webUrl: "https://www.biometricupdate.com/202309/cyberlinks-facial-recognition-receives-south-korean-cybersecurity-certification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
 
 secured: "Gelf/T1BckawCzFqxMsqe9SeoogY3XSleWuhVGvUYCFl4FmUkga8V29xKyoTEAsRqA7xCRmKOKgwx8jZB05GvRbm80rEUV7eVWFhR/aNJJaMxIyahRPm0qvnavFVGbuk2SqnihtHt6l2OzLnhD1TnjXdGTPuycGlOY1R0Ss18HANe0+vKirLs1VSbUof3am0YpTO10/O+7DsDAsEsNJMfWwPNJ6ndqpSwpu9krtib6P1BoxviKYLTrhWdk88mIcs5+ooVIORjKfXsvk09GrlVsrevgMKSz6Pbch57SzCHcq39D3AH1L0Sya44iCN0OIBt51OvJqB9i8Rxz3ewOSgWonEghVP+Fr5V2NgXzF/KVc=;dmMvkxAyB8ERzFcDUtwEfA=="
 ---

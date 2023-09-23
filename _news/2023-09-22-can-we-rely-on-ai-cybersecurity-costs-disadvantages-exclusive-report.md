@@ -96,6 +96,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
+    excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."
+    publishedDateTime: 2023-09-21T19:02:00Z
+    webUrl: "https://www.biometricupdate.com/202309/cyberlinks-facial-recognition-receives-south-korean-cybersecurity-certification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
 
 secured: "bTHttUXO5LLX6DL2zwxvjBK/2Dcq5EkyWFaFj3K3tbioFb71NO67314I1wGk7ajTjoje/ib3HetdLa6Szuvz+317s2309u/yQklsQyL8YHpsl42SGUQsqM+spg4Q65BB4lBm7YRtATz50zSYzupYaeqJAPjYi9udz4qxESyQPSKhiTgLM9HwVcXxFpx7m1EvyWoCHHFwHhFo9LGlXGdjL6zkyOK0PX5MeaadfBfoK6FYpCWAF+KJ+SQgfY3tcYqTaALs7m0aJAj0YmsuMKSD8toha0ddUgEi1xcqHc1ABrtTTsETcSD4C4E+EJDdU46eTzoEErJ9FzFrhKL4KR+v5ftp4W1Q8UtCn0yIUcEkbZgKphcYSxeVrYU+vRyadL37yRj/k2dVio+NXNAH1TVxAmBdHBSQQdwO21w+Ae7mAou2CMnRQ3GZmmA6sD4Q16kRgGwp9O2mfc7C4IQ8uFcIkgr1CfNq6vu5IlfDXkTWRdWKueJvP7ieCKT31GY3tpHa/J/oecPdy9s8Apqub8xaFw==;6DaciJytQX7c4nl4d2mzqQ=="
 ---

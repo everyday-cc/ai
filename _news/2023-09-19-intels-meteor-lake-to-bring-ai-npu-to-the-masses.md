@@ -129,20 +129,6 @@ related:
         width: 801
         height: 568
         isCached: true
-  - title: "Intel unveils glass-based chips"
-    excerpt: "Intel isn’t the only company developing glass substrate solutions: Japanese firm Dai Nippon Printing, for one, outlined a glass core substrate (GCS) solution that, the company says, offers chip designers freedom to balance thickness, warpage, stiffness, and smoothness."
-    publishedDateTime: 2023-09-19T03:38:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/intel-unveils-glass-based-chips.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Intel-glass-substrate-8.jpg"
-        width: 927
-        height: 522
-        isCached: true
   - title: "Meteor Lake Architecture Revealed: AI, Tiles And The Future Of Intel Core CPUs"
     excerpt: "Intel’s Meteor Lake architecture for mobile PCs will be arriving soon and to say that Meteor Lake is the most important shift in Intel’s design and"
     publishedDateTime: 2023-09-19T15:35:00Z

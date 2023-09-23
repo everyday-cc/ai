@@ -60,6 +60,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
+    publishedDateTime: 2023-09-20T12:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 7
 
 secured: "jnwExZ/kXNlWeOvLGRqJMM9T+rW5+1wfj+fc9ibk6F4i8nhDg2pOI1RO/MoJrrU23R5rN5aWMaNTK2RYUnWgg0W0aOI89PxRW3sPyvNNzqpFKbXDIZ9psUoW+/W6vcgb4iPjCrlbM76inbbeuOqorW0Izz9AORodLJXpABYngIgebM5k+jlVgoZI6KFayQ21aamPdwfnbSVLgWjEL8dR4GzOm+yfmgNSEfiK6/ai19eq79loXSrgJ6xjAtRwba8QMfPIvvBZSUeg7uA6wo4PXbmA7/oL5EMGnfmy7jsRhOQIFo9sxr6cfBPsiRN7CuQP3Abb/M/ly9rHW/iOfgriYu7hbHCvBk4gkaVHm3s3YEXp/1dG6SB4x7cFy5/tEQrU0RfpVSq5Hihyn3Oskm0Q+hhjtOMrDNovCVnF+hFOnc+Jon0s4NcVVkjUVUuUyIAvPwfQN30ljponvqkNRrYfjR9RyirEQLkQe8grUyYdmEA/kozJxftv9P1WzTGHwPC3/rTjYDs8ilhXIK+y0eBkgQ==;CP3k8xBBdO7a8bzEOUvE/A=="
 ---

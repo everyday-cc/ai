@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yes, No or I don’t know: Does Australia really know about the Voice?"
+    excerpt: "Over 180 migrant and cultural organisations have expressed support for the Voice, and work has been done on both sides of the debate to engage communities. But after speaking with people on the ground,"
+    publishedDateTime: 2023-09-23T20:30:00Z
+    webUrl: "https://www.sbs.com.au/news/article/yes-no-or-i-dont-know-does-australia-really-know-about-the-voice/0463w21qj"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/b76df1f/2147483647/strip/true/crop/3840x2160+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F17%2F55%2Fb0ced46740988aff275aae915ea4%2Fr2r-voice-cald-header.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Record numbers of Australians enrol for referendum on Indigenous recognition"
     excerpt: "A record number of Australians have enrolled to vote next month in a referendum to recognise the country's Indigenous people in the constitution, according to the election commission. Australians will be asked in a referendum on Oct."
     publishedDateTime: 2023-09-22T12:02:00Z

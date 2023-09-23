@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-Mo
 webUrl: "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mena FN
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence could be future of cancer care"
+    excerpt: "Artificial intelligence could be used in cancer care in Australia within years, offering patients more tailored treatment and diagnosis."
+    publishedDateTime: 2023-09-23T20:08:00Z
+    webUrl: "https://www.aap.com.au/news/artificial-intelligence-could-be-future-of-cancer-care/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 39
+    images:
+      - url: "https://www-media.aap.com.au/wp-content/uploads/2023/09/24060202/82332264-62f4-4b3b-9608-8aefbb18fa09.jpg?v=1695499328"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NASA's Mars rovers could inspire a more ethical future for AI"
     excerpt: "The replacement fantasy is just one of many possible futures for AI and society. After all, no one would watch “Star Wars” if the ‘droids replaced all the protagonists. For a more ethical vision of humans’ future with AI, you can look to the human-machine teams that are already alive and well, in space and on Earth."
     publishedDateTime: 2023-09-21T13:04:00Z

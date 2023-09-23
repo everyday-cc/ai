@@ -338,6 +338,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Everything Microsoft unveiled at its Surface and AI event this week"
+    excerpt: "At a private NYC venue, Microsoft launched a duet of Surface laptops and all the AI features. Here's the low-down of everything announced."
+    publishedDateTime: 2023-09-23T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "What Microsoft's AI Push Means for Your Windows Laptop"
     excerpt: "Microsoft's event was packed with demos showing new ways AI will be cropping up in Windows, and the new Copilot is at the center of it all. The company says Copilot will draw from a combination of the web, your communications, and your devices to be a more personalized and efficient helper."
     publishedDateTime: 2023-09-22T19:32:00Z
@@ -385,20 +394,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/07/Ransomware.jpg"
         width: 1000
         height: 538
-        isCached: true
-  - title: "Microsoft exposes 38TB of sensitive data during AI research"
-    excerpt: "A grave oversight by Microsoft's AI research division resulted in the leak of 38 terabytes (TB) of sensitive data, discovered nearly three years after"
-    publishedDateTime: 2023-09-19T04:42:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1026897/microsoft-exposes-38tb-of-sensitive-data-during-ai-research-1026897.html"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 54
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA5XC9NaWNyb3NvZnQtMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft AI Data Exposure: 5 Things To Know"
     excerpt: "[RELATED: Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz] No customer data was exposed and no other internal services were at risk, according to Microsoft."
@@ -469,20 +464,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/09/Facebook_Logo_2019-360x240.png"
         width: 360
         height: 240
-        isCached: true
-  - title: "Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data"
-    excerpt: "Microsoft accidentally exposed 38TB of private data, including secrets, keys, passwords, and 30K+ internal Teams messages, on GitHub due to a security"
-    publishedDateTime: 2023-09-19T04:06:00Z
-    webUrl: "https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 50
-    images:
-      - url: "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiyJyQb9mcfSjaCa17jIAuIuKveXmj16kftXN2B1lMd8fODbwIrboMDf1VP38_vIFpAb-J_rUVu-2mTraIhsYXVdyZc2bHh0vbDY0bxqCkNb2guDOAp-52gDutokkTKT12srlfZU_gnxTIOy15X9TzCdZWeX4TrEAgpQsMp2qTCkhicAv_DaH_y8kvRukSk/s728-e3650/wiz.jpg"
-        width: 728
-        height: 380
         isCached: true
   - title: "Meta and Microsoft - Citi Analysts Bullish On Both, Spotlight On Advertising And Accelerated AI Innovations"
     excerpt: "With Reels ad loads reaching 19% QTD vs. 17% in 2Q per Josey's proprietary tracking, coupled with newer ad units, greater advertiser demand, and what the analyst believes is an improving online advertising environment, he considers Meta is taking share of the broader online advertising market."

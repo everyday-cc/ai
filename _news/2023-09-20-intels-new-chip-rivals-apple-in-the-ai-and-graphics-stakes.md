@@ -53,20 +53,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Intel's China-specific AI chip in huge demand"
-    excerpt: "Intel's China-specific version of its Habana Gaudi 2 AI processor has seen a sharp rise in demand, according to industry sources."
-    publishedDateTime: 2023-09-19T01:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230918pd216_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
     excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
     publishedDateTime: 2023-09-20T08:37:00Z

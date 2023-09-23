@@ -64,20 +64,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "HKU Urban Analytics team wins First Prize at Baidu's National 2023 Large Model Application Innovation Challenge Competition in Artificial Intelligence"
-    excerpt: "A team from the Department of Urban Planning and Design of the University of Hong Kong (HKU) has won the prestigious First Prize under the Innovation"
-    publishedDateTime: 2023-09-19T04:28:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/237505"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 12
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/691ad9d7-4745-4c65-9657-13c1a086b98d-resslogovertical.png"
-        width: 1261
-        height: 1081
-        isCached: true
   - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
     excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
     publishedDateTime: 2023-09-19T20:00:00Z

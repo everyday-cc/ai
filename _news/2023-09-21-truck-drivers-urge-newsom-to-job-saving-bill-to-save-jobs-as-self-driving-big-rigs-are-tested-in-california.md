@@ -100,6 +100,20 @@ related:
       name: My MotherLode
       domain: mymotherlode.com
     quality: 19
+  - title: "California bill to have humans drivers ride in autonomous trucks is vetoed by governor"
+    excerpt: "SACRAMENTO, Calif. (AP) — California Gov. Gavin Newsom has vetoed a bill to require human drivers on board self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs in the state."
+    publishedDateTime: 2023-09-23T19:17:00Z
+    webUrl: "https://www.timesdaily.com/business/california-bill-to-have-humans-drivers-ride-in-autonomous-trucks-is-vetoed-by-governor/article_1afc546b-c189-5c35-8303-88cf25fe5550.html"
+    type: article
+    provider:
+      name: TimesDaily
+      domain: timesdaily.com
+    quality: 16
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesdaily.com/content/tncms/assets/v3/editorial/5/1f/51fbd1f9-4e43-5b9d-96a0-16761ac92a5c/650f3e27d80da.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
     excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
     publishedDateTime: 2023-09-19T23:25:00Z

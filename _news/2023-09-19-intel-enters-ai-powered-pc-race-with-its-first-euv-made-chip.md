@@ -39,20 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel's China-specific AI chip in huge demand"
-    excerpt: "Intel's China-specific version of its Habana Gaudi 2 AI processor has seen a sharp rise in demand, according to industry sources."
-    publishedDateTime: 2023-09-19T01:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230918pd216_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
     excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
     publishedDateTime: 2023-09-20T01:16:00Z

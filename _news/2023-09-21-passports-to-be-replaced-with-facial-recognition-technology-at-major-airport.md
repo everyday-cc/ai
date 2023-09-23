@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "The Role of Artificial Intelligence in Pet Adoption in Singapore"
-    excerpt: "As pet possession in Singapore Island Island rises, so does the need for effective and innovative slipways to undefined pets with loving homes. we delve into the enchanting earth of […]"
-    publishedDateTime: 2023-09-19T05:01:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-pet-adoption-in-singapore/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/OIP-6.jpg"
-        width: 474
-        height: 276
-        isCached: true
 
 secured: "Ky0dnthW82LbLKtkofv8nJZWU+xS9WVubtZwGSYexCtHUUQ37Xrel3jPk1AY5UaghEXufJrpth61Qcf89jlzXEnxsWgKYY7ty2bZowTqQPihMGGpiU4eakFoDvgAAGF1ypBa1VZsFBXnApBjAY7zQQkjDWEAriARUTbHoyS18WZAfxJ+fzWHpoEpIiyKCegr+UkxA5XjwggRRIHSUF4lLZCvBnjZuc1mwdpnAdUfk0CwKPviMr2SWvi5hkgzz/3MvAHKJqOjFp1GxprvlVgynYkU60poETmwxa9Qov0RxLcByZvb4IOBiyNFLUCaxB+GBuG8qIAsOVZGKTIVRjc6hBjxsx8+mufZRNlEiu2xYaZ55R3nf4Ov0IxytDDiytNDV1RFE7XDJdOS5LNIjIQwWYMDExu1wzAvp2yOyQgF5DNmSxjbfF+CJpG4gsLPebItEyXAylsvST3O9YcodNGPIFfT8rN3oRLpAu0jhShp874BhYkfq+KBLHJsubAGfOQ6SM2FBBUgBHRvXJf2cJRBLw==;95VzLbBpYhc1fr7uBxVZuw=="
 ---

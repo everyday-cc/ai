@@ -35,22 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI in Computer Vision Market Growth 2023 | New Innovations and Challenges for 2023-2030"
-    excerpt: "Opening the comprehensive 112-Page Report on the AI in Computer Vision Market, this analysis deep dives into the market size, share, and industry trends. The AI in Computer Vision market has ..."
-    publishedDateTime: 2023-09-19T04:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34706682/ai-in-computer-vision-market-growth-2023-new-innovations-and-challenges-for-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34706682"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34706682"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Face Recognition Technology Market Growth Insights 2023-2030: New Business Strategies, Developments and Demand Status"
     excerpt: "Opening the comprehensive 121-Page Report on the Face Recognition Technology Market, this analysis deep dives into the market size, share, and industry trends. The Face Recognition Technology ..."
     publishedDateTime: 2023-09-19T07:32:00Z

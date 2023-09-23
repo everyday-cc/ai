@@ -41,20 +41,6 @@ related:
         width: 980
         height: 653
         isCached: true
-  - title: "AI for business: IBM is charting the path with watsonx"
-    excerpt: "At Think Singapore, IBM spoke about its focus on AI for business amid the hype around commercial generative AI services by its rivals."
-    publishedDateTime: 2023-09-19T01:02:00Z
-    webUrl: "https://techwireasia.com/2023/09/can-ibm-conquer-ai-for-business-with-watsonx/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/PaulBurton.jpg"
-        width: 1200
-        height: 813
-        isCached: true
   - title: "IBM Launches Watsonx AI Platform at Seoul Tech Summit 2023; Collaboration with Hugging Face Announced"
     excerpt: "At the IBM Tech Summit Seoul 2023, IBM introduced its innovative Watsonx AI platform, designed to streamline generative AI integration for enterprises. Lee Eun-joo, IBM Koreas General Manager, emphasized"
     publishedDateTime: 2023-09-20T09:11:00Z

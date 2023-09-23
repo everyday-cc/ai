@@ -33,6 +33,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Washington’s Bet on AI Warfare"
+    excerpt: "Secondly, and more importantly, is the stated timeline of the next 18 to 24 months. This is rather alarming, particularly given that issues surrounding AI ethics and regulation have gathered momentum recently. Although the United States claims to follow a ..."
+    publishedDateTime: 2023-09-23T18:10:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/washington’s-bet-ai-warfare-206826"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 19
 
 secured: "NsleW88PdhLPyPt7C4UrnMLypmBNPChPQMLwupIC/3332JiYS9oR2GPCOeNIda2R65qiUmiQ/vee5NYPO2ZvGuaIE5vuMeqKLo/vIgAcppUrGKkiwIAcfLXd7Si36ZOrAaLH2uw1dKDNhcHYiU5wgonHP3Ru7qfzFrATCf2GVLUpe7KnH246ZDIAZGEV55a8/fut6n3gxgIqjBatYPjuDK5aPE46TheOHLYXoUdYvg4Vx9Kg2QXPYHqJ71ng+v1TuALYN+MCSL935SlnsYzUSlXdErQZQGwOsiuo383/+nLomHJPnq1m2b5HlUkyaeZXy1TNxc0l/lpMM0vHWTfADZvm3XsFRauWVNgE3KwhVuV8wCGEodLWMoK37K3ulrlYSC9JLgiw7tfs6mljwPZgN6BokJBkl7Kp9OLvZnFBG7IzP0UG7eIFh07NSdIQtOml555yP28idBLYxEEAiU/vEwp+Lto6+JZ5C8OGTnfMqbNV7WRSF/a8VfcDmtcSHsLwMaelS50N1ooLUmS6Oz1Qhw==;nbnXUAApBi1fED4N/RKVIA=="
 ---

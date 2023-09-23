@@ -36,6 +36,15 @@ related:
         width: 1461
         height: 834
         isCached: true
+  - title: "Washington’s Bet on AI Warfare"
+    excerpt: "Secondly, and more importantly, is the stated timeline of the next 18 to 24 months. This is rather alarming, particularly given that issues surrounding AI ethics and regulation have gathered momentum recently. Although the United States claims to follow a ..."
+    publishedDateTime: 2023-09-23T18:10:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/washington’s-bet-ai-warfare-206826"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 19
 
 secured: "zCKFAlSTEVL4kXYYtfrqMAOgo3tzMRC3TNpX8eQ6XXO8HVSL9DsrDhqCE6JB4+YgV6QKNgU+pX5d4sHPesQxustimlyTKiSpFpEj4HYuQGrmISyd/cAW7vJCCy72bWS+IKMJosAW4dvI6o9ND6EgO6Ob6R3kNZ4cyNBgSZrZNWWjBUZqfjNel7sD8bUXw2C5sofRWMhFKR6rEOTdwmZFIjLe7ifZobL0z52Vty0EkzmN9y25U4K8eQWe/j8NxpxK2AA6gyb7xhv6/WM5Qi0YZfULavYUyNJ6a9Rj727qM+6BR/uGkDuRXFS/Egh+R2zo7g5RVCF5MHq0RbOMeA76JNY9kvjTGvKjNXSCiCvUBpbLVgk6Wl6NjDJlMXPSgmd8HzO14SDdX+HdHYIQ/2fTTs100tT1mpYVksd/HvGQ2fK7Sc1YL8DsBoNVJ2ESYgO5GRgRn8nk+XahoT+6Mm57NJm52WNRzdWFRr1pG0lWGO9YsDE3alnP6KFMazw3C1eR+Qpg+PnFmp8QY8mUt2zJXw==;OoPcchOUklaPGkLqai391w=="
 ---

@@ -50,6 +50,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Geohot’s Comma.ai Self-Driving Code On GitHub"
+    excerpt: "First there was [Geohot]’s lofty goal to build a hacker’s version of the self-driving car. Then came comma.ai and a whole bunch of venture capital. After that, a letter from the Feds and a ..."
+    publishedDateTime: 2023-09-23T00:00:00Z
+    webUrl: "https://hackaday.com/2016/12/01/geohots-comma-ai-self-driving-code-on-github/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 19
 
 secured: "c/U0j+SRkOJ27va/0G+zwK+idPoelzgWB2AgZ9TvHxSRtmiY1JWddvDIaT4vt4zcazuX/H+bY0jNz1ZsPsjBSH3C1+lbeFHDsCJtiPJRytcKP7kNYxRKkIhaRJXLrfIjtX5WrfZQQcgk6YBxOzxYI6jElsJDRGRi3GaOwvz3ruxQvzayqCD5uOBFl4uYwCsFcQS6fTsD0rcP9kjMY6dIbhqzRd2j1ZdonPR0A2zr1fU7TsMpoc/q7+9EZfjRa6WMZxvCNpXAfXKFteER9uOx09O1aODaZKkhcax3cRmmd8LDQ2snd0bmsrvXHkzSSN43tTwZMSHpQsqyli2+UYniT47sYhcBy2/7Fz3aSq/YFGWnVC7PCK5Qn0uAtZ6hjfOE+bS9fVMOqcdh0E9S+LlrFQbwuF3xfg0nTKQ2QWJzVarfIdnIUMuqkVj7Vc+K1THbe85WAIPWealTMfp6gQXIOsprHqwdnLHhscqCZJkC4mBs5gp+A0SkMfXmvBqgKkA/fRswbRI2l4I+7S2fRwrKrw==;aJLUp/rMr1odd1/+T6s5IA=="
 ---

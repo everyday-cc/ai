@@ -33,6 +33,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Artificial intelligence could be future of cancer care"
+    excerpt: "Artificial intelligence could be used in cancer care in Australia within years, offering patients more tailored treatment and diagnosis."
+    publishedDateTime: 2023-09-23T20:08:00Z
+    webUrl: "https://www.aap.com.au/news/artificial-intelligence-could-be-future-of-cancer-care/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 39
+    images:
+      - url: "https://www-media.aap.com.au/wp-content/uploads/2023/09/24060202/82332264-62f4-4b3b-9608-8aefbb18fa09.jpg?v=1695499328"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "p4MqRcj78sJ8K0XigvZ1BKQS4AE02UBdVjrZN+vVuGU9/4Yocp6qGtaVAAQkZZobY3lo4j9bBjhlhNsAeGQFgP/D7jzEdEm6BGdqSKsAB3JrOwJOUZSlhYJEIAoTlpa7HmCwDE1PP48yJL0jiVVBQ9AMBA3I8JjWjkO2HdO4+xvZwp/9QptrrcrInwWOVGj8RU9GiW3EUp1A4E5+XnmEpgp8RuzCLe9WQSz+9CPeIaAInyqqdA4cAkLLc9S5MabeDRYzjPzb49QqZXR2GpNUiDCvN9yVaKs+RfVJCdooXBgOE8F/dcfSlwvZWShCSgiK+G6S+D3anXv9LPMhFicek7ij5KAEloqvdLTXMDvPSzbmtjCqO8ydY93MxIi/UqbKKMJ+nU0c0UsOPT02Yy1xwi7RbA/Hb8edUnljTYxwNHRdqOcjWSROoNd961W+Z8Tby1SCMeCLuQUiZ342xOpcdCYDvykV2F4AJY2fHrBGJlG9tKhXflGTRHVaAlQNr3snXqJ+n4LB5SyoO7UcUGSb0w==;B6iGUvyFqJVQcxIw7kDPTw=="
 ---

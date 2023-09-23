@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-expor
 webUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F9%252F8%252F8%252F6%252F46556889-4-eng-GB%252FCropped-16951063172023-08-28T213834Z_1484932_RC28X2AODZ2U_RTRMADP_3_INTEL-AMD.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
-        isCached: true
-  - title: "Intel's China-specific AI chip in huge demand"
-    excerpt: "Intel's China-specific version of its Habana Gaudi 2 AI processor has seen a sharp rise in demand, according to industry sources."
-    publishedDateTime: 2023-09-19T01:42:00Z
-    webUrl: "https://www.digitimes.com/news/a20230918PD216/ai-china-intel.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230918pd216_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
     excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."

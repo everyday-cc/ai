@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo193619013836"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo193619013836"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "The United States must win the AI race"
-    excerpt: "The United States must win the AI race By Marsha Blackburn Published September 18, 2023; 11:48 p.m."
-    publishedDateTime: 2023-09-19T04:18:00Z
-    webUrl: "https://www.knoxvilledailysun.com/news/2023/september/us-must-win-ai-race.html"
-    type: article
-    provider:
-      name: Knoxville Daily Sun
-      domain: knoxvilledailysun.com
-    quality: 19
 
 secured: "2TjuHyR2RJaci9d3dw/koO0npQioZ1M1hkXvBUEKGGAArR7lbfYoO6bs1JA+9IPuO5oRcQ0X0K1xohP68RP/9BS8GAc8jb+t0284o9NTQBRuWkrwGzrcgx483q/ssbkwYaSe7ci1aU1lueDHuiKunrR684HKCpDzwC4ixHY8/XLDTI5cC3t3/O6ctX3ALSjty//HF7LkrFgD3mlY/QzO0Wi98s+oQGf7cR049YdRrvpqmErMZ/nc1+c8zWDvfHA4oTg++ChT6LK/yQeQldD2kDj/wIa+RbC/p+eFSGhNrboRuCHjE2dI4+B65m54JxVN5mR2CmCVP68iV3AspXLAseL9WZKYrdV+MFNJ1ISGccYD7eU7xtmJ/m0ak8HIBKePLrfv4clD9cygt4HpPOPogdPkIaaCX+d9qpk7w3vKkmEXMqzDYNV4CxcUPA3sQzoJzAY7eddVxd4eJ90qpze6uOFyTNTYMVhean+k/o9afdfCkJFEiYqGSBZHd0q2TE8OERgpY9kGX88SDhES/OhpJA==;tFoEu9BGryx1gLLMm+dLFQ=="
 ---

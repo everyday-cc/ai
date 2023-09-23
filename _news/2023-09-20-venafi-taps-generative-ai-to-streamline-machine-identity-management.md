@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-t
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
+    publishedDateTime: 2023-09-20T12:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 7
 
 secured: "hjDXQB5GKXofWEPEXxK/xOscQbEJDO7uke0OYpcgRcjBw2NyQjLNYzP8rGSfSoUepaJmXagMHdhd9hC0g+DwE1G6MVYiMl+LOMnjeiQm0Hl0tdIT+t7OiLsDeIfmixC2SZSnsaO5t1neCJaKnn8BPjCrZBxUqZQ4bcZVwLuHC0RqaG5XDQvnhYNU6wxAC2aVCH+w30CK0ittasiVp6kKYwPQEuCBlBTeB+5JfcbLO/tgz2D0Z4J9WhAVpUvYks8pbFuLQawMtEXjf3hyySJZqCg3ILR5sJsBEok8lLjtzGeVlluObeQa/H/N1E+3zzExsKxDtOYLjywQn0ptkt+UkuE4hpq763EncMqO9tPb/HfNIjmRp2RBRwxF0ibHwGrhwA4ym8wad39CougLWiBYAcJGwZw+6vvCeSLPhi8U0DAtQWyjzGJFhVng1iTnNEB//6kf5VQ0Jx9xJEa94Me3tCQvvKkNUbSu5drdmqnt42ldNduDMx/6bHb+9HxV17ApNEV9IK32A/sxOGFlKHYHfg==;NF4WrKGkRo/CqcH7S7hAIQ=="
 ---

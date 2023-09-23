@@ -5,10 +5,12 @@ excerpt: "Driverless minibuses are set to shuttle visitors through ... A global 
 publishedDateTime: 2023-09-23T07:04:00Z
 originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
-quality: 21
-heat: -1
-published: false
+quality: 61
+heat: 91
+published: true
 
 provider:
   name: Barron's
@@ -18,6 +20,12 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
+    width: 768
+    height: 512
+    isCached: true
 
 related:
   - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
@@ -29,7 +37,32 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Robots, machines dominate China's Asian Games"
+    excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
+    publishedDateTime: 2023-09-23T08:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1112638-robots-machines-dominate-chinas-asian-games"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 44
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-09-23/l_1112638_123141_updates.jpg"
+        width: 700
+        height: 390
+        isCached: true
+  - title: "Machines take over at Asian Games"
+    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+    publishedDateTime: 2023-09-23T00:00:00Z
+    webUrl: "https://tribune.com.pk/story/2437408/machines-take-over-at-asian-games"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 4
 
-secured: "oItm+o9KZUpdWLs9h9VHc80+J/TAArB68wwpSVPXCtLNDOAjBnhwIzwi/CkKvCe0+xarfIX/RMGSlPVuqCwfMqV3FWgdWWGY88GjrqkvNc5pLzfkRlwwW42PVxjAuTswDVYPI/pYGN5plDnI0Y8HWpNco8aq1ctbn8iNk9U4l4fhbIOoPoxq3H7FjNAQf+0Fo9dXHb5ATgwnsLuOC+ol1vgtTSK/hU0vSnR7ficPxvq2vCNN/CjHD6xq4wwEcFAwwNm7DrkIuSPU8Fe1zdklfDYDLeX5cDLJJiL+ZJ0Fv0hkALxOT+GD7qqEF9T4FR3f55FZ5U6I5xoggoVjwMN4/WDOi6hrbj1yW/HDA6SFCKUDCBobZ7m1HP5ivonDtRVcipanUI5qYp2p5+SIz38/rDfa5IbTLqfTt2a2SqClKGg+Xic0SpvqstKSJvyO+NR2+Rk3/8ObA+Cw8FIhxdK69VsiupWUWDaH91Q5+K8HuUVIoIIVknTgokCgssifiqtlgsjqg0JboVTgRSum9+0bog==;T2PbFjU0gZ0Em9JWFwzeHA=="
+secured: "lFYiL3ac3wXUmXkSp0ZMqIeDeIc0QaKr1dyzy+WN3HfQ1YSF8roVCy5Ui72CMbUhHN0GUBaYdUOhF/azOvs21F3r+58tULg33ZjgNEx84LsGYaxuqZUZr8W0UF4ZTcZ/8i5Rt8i8BUKGoeGxP4qG0+bcCXkRKz7pUJ186wJhOpGBGTDXQRmCSkOW7bhTOsJzCUL7pxXFHgSMbbjs3l9pB9xl1Vpbs8s2JLo0tD7wIgpRzd2wOKoPQdhwpQma/v24R6iSCCRkQ9+128/oYsC9COt9eMNZx8OFzdLKVDAF1HaLZQKKeD7LXmycDZJ/LNN3cvcTEovsMv96BSD8UGqDgsMNBh1JIP6d1BYY6uAZvTE=;ES+vLadP73exrkhwa5nMjA=="
 ---
 

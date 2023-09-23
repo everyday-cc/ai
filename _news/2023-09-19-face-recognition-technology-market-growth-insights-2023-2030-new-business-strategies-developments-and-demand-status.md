@@ -43,22 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI in Computer Vision Market Growth 2023 | New Innovations and Challenges for 2023-2030"
-    excerpt: "Opening the comprehensive 112-Page Report on the AI in Computer Vision Market, this analysis deep dives into the market size, share, and industry trends. The AI in Computer Vision market has ..."
-    publishedDateTime: 2023-09-19T04:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34706682/ai-in-computer-vision-market-growth-2023-new-innovations-and-challenges-for-2023-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34706682"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34706682"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Computer Vision Software Market by Size, Scope 2023: with Development Status 2031"
     excerpt: "The Computer Vision Software Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
     publishedDateTime: 2023-09-19T19:57:00Z

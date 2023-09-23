@@ -115,20 +115,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel unveils glass-based chips"
-    excerpt: "Intel isn’t the only company developing glass substrate solutions: Japanese firm Dai Nippon Printing, for one, outlined a glass core substrate (GCS) solution that, the company says, offers chip designers freedom to balance thickness, warpage, stiffness, and smoothness."
-    publishedDateTime: 2023-09-19T03:38:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/intel-unveils-glass-based-chips.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Intel-glass-substrate-8.jpg"
-        width: 927
-        height: 522
-        isCached: true
   - title: "Intel's Meteor Lake to bring AI NPU to the masses"
     excerpt: "Intel Core Ultra processors – code named Meteor Lake – will be launched on 14 December 2023, \"ushering in a new age of the AI PC,\" according to CEO Pat Gelsinger. Intel corporate vice president and APJ general manager Steve Long described Meteor Lake as a \"generational shift\" for"
     publishedDateTime: 2023-09-19T14:35:00Z

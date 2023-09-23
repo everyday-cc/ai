@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai
 webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-lags-behind-other-industries-hca-ceo-says.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Healthcare: Why Southern Nevada doctors say it's the future of the industry in Southern Nevada"
+    excerpt: "CLARK COUNTY (KTNV) — Artificial intelligence is already being implemented in portions of the healthcare industry today, but some experts say it’s the future of healthcare. The future involves generative A.I. that’s artificial intelligence that can ..."
+    publishedDateTime: 2023-09-22T17:37:00Z
+    webUrl: "https://www.ktnv.com/news/ai-in-healthcare-why-southern-nevada-doctors-say-its-the-future-of-the-industry-in-southern-nevada"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 19
   - title: "HCA Healthcare CEO Sam Hazen talks future of Nashville's health care industry"
     excerpt: "The CEO of Nashville's largest public company spoke at the Nashville Health Care Council's inaugural conference. Here are three things he shared."
     publishedDateTime: 2023-09-19T11:49:00Z

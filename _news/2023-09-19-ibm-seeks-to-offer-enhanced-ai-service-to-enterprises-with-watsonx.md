@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI for business: IBM is charting the path with watsonx"
-    excerpt: "At Think Singapore, IBM spoke about its focus on AI for business amid the hype around commercial generative AI services by its rivals."
-    publishedDateTime: 2023-09-19T01:02:00Z
-    webUrl: "https://techwireasia.com/2023/09/can-ibm-conquer-ai-for-business-with-watsonx/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/09/PaulBurton.jpg"
-        width: 1200
-        height: 813
-        isCached: true
   - title: "IBM's Watsonx to help leverage AI for businesses"
     excerpt: "IBM has introduced its AI foundation model, Watsonx, to help companies leverage the benefits of AI by providing solutions and services tailored for enterprises."
     publishedDateTime: 2023-09-19T08:40:00Z
