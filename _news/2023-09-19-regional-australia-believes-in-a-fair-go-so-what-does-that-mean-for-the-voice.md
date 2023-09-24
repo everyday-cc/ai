@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/20/indigenous-vo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Guardian
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Australia Adapting Fast to a Generative AI World"
-    excerpt: "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks."
-    publishedDateTime: 2023-09-19T14:54:00Z
-    webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Australian federal police using AI to analyse data obtained under surveillance warrants"
-    excerpt: "The AFP’s use of AI has been limited so far but the agency hopes the technology will help police identify money laundering and potential fraud"
-    publishedDateTime: 2023-09-21T23:30:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/22/australian-federal-police-afp-using-ai-analyse-surveillance-warrants-data"
+  - title: "A yes vote for the voice would mean Australians could meet each other’s eyes and not flinch"
+    excerpt: "Those who vote no won’t be harmed if our people have a voice – we will all flourish when we come ... only to see the latest report or heartfelt request for recognition – think the 1998 Barunga Statement – sit ignored in Canberra."
+    publishedDateTime: 2023-09-20T05:02:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/sep/20/indigenous-voice-to-parliament-referendum-yes-campaign-voters"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voice-to-parliament-referendum-yes-campaign-voters"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voice-to-parliament-referendum-yes-campaign-voters"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 49
+    quality: 34
     images:
-      - url: "https://i.guim.co.uk/img/media/238fb6873d4ce535aa0b0119c763946e343f9bc3/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=42f677fa4916d772120252311d118ade"
+      - url: "https://i.guim.co.uk/img/media/49f6aaffda691ad8869b6cc8e4a6889ee31910f2/0_173_5184_3110/master/5184.jpg?width=620&quality=85&auto=format&fit=max&s=98eb911770ecabe229c494b6cf2a7d00"
         width: 620
         height: 372
+        isCached: true
+  - title: "Yes, No or I don’t know: Does Australia really know about the Voice?"
+    excerpt: "Over 180 migrant and cultural organisations have expressed support for the Voice, and work has been done on both sides of the debate to engage communities. But after speaking with people on the ground,"
+    publishedDateTime: 2023-09-23T20:30:00Z
+    webUrl: "https://www.sbs.com.au/news/article/yes-no-or-i-dont-know-does-australia-really-know-about-the-voice/0463w21qj"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/b76df1f/2147483647/strip/true/crop/3840x2160+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F17%2F55%2Fb0ced46740988aff275aae915ea4%2Fr2r-voice-cald-header.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "0tQU0PiFWBHf86KjblM/XEaXQO6Tq4UIGRAQAkjcv4slFMxMVsej4P5I+zT1j7izmvblgIwoWo4WGqBG+u0rcE/0S2sI5uLK++6rB7bMb04h3Dk+gIBWT8o34IPbLT+0C9977oj3O+nGJ0VWsNRcCb8TaYfYjbvv7iMDoe9WkOdYmqqKcpCXY3edIelffSiQwlJgw9VqZi8x1yUAN4opgmhZ+sYSYNj1rFj+XuLGEt2JsGA6zo7BDrS6x18vhZLU/HaVibrWJ1JCRXMhfgEFKDmYIf94AqFP0AuXH+eSGG2prmLqWMSIOT/c1B1G9sGjISy2RB3T1wMOu87MdyosfHu6Za5NPpJT1D3oElRlc/rKXHxaoVdIMEjkc/7N7YPmoX/lnE2QBm0XqABtQtsiFNJdZXriK6wkHnjl8ZAC/Zzq4htJUWKEcWAxJ6mvTAxNy1CEJizXOl8pLn8Nnx4rX1YwZ2f8sxtfeNLezXH+TO++lWZgwOOgQUoRNMU7gXgEiU87lZ28WRRc7mXPqcAHSQ==;T0AtGRA9y0Y3pNyrZKYilQ=="

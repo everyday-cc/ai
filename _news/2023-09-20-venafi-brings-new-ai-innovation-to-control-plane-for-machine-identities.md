@@ -60,15 +60,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
-  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
-    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
-    publishedDateTime: 2023-09-20T12:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 7
 
 secured: "Cc6/sAPF4hqAkYHa5Mjev1xQYQoJW+HKs5923tS36vMM9Q/b207sVQsQV50HLWfy//YpM7XpykdbLBVuiwd20mcT2LuW3VkeOU6aMsvspPYuu7zUr0pTEyRozf7kxYRYocJbmJbkE/werjGie8Vtn/+qDZt40w5WMjpBIvqrvZ2/IrjqszizLwzoGHHhbFgXuISvjWnC6J3euhXkhX6PvmFZoUObRpemHe+D6ZUzoNuLYJJX0KsiqMagzpuxv4ihkY2qfaBlmyneUHc1dgfN8JBFtGYvOPCd4NxRX7cwPs8panWdOutLhXWy/+pWJpPXZvCg6MdrK6t6uFBFC+LMg+Xj9t0kIaek+BXQi78m6tmYUYkUscA9CkwY1hCxIHoXOyFY+x7CEW0L87S82OvJj8q4vGN4FfRTX1lGBq9wBgw/x+mddSrcz9cyqVC9k0lLe6CZLr47D2lndN4aSx7GLWokiGyKrD0WOaUMFrsli6Xjg+RebkB2BJqhIRvIE9YKZc+crWW6xnpmtXjazXF02A==;6DB8L8VDQGMo4wLdnCyFcg=="
 ---

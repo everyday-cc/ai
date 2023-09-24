@@ -46,20 +46,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Shaping The Future Of Autonomous Driving"
-    excerpt: "new era where machine learning meets safety in navigating complex urban terrains,future where self-driving cars adapt to evolving environments"
-    publishedDateTime: 2023-09-19T07:26:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-of-autonomous-driving"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 24
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/09/TN37.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Cruise self-driving cars cause traffic jam on Austin city street"
     excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
     publishedDateTime: 2023-09-19T10:00:00Z

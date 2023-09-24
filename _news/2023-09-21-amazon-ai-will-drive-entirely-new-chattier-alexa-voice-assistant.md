@@ -168,6 +168,15 @@ related:
         width: 2000
         height: 1087
         isCached: true
+  - title: "Amazon's new Echo devices bring generative AI and new smart home features"
+    excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
+    publishedDateTime: 2023-09-20T18:18:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "q8X1FXJWo1h2ODDG1zYrbb4Hee+BZ/VleGDdi+z2Btd3H6FSBeBpyWPXJdQP1nryucU+sQRhRZyU/MWcFq5fIyyqhOKYwRui4tgLA6d62ubb/Kuzpi/xgrrppNZqXzUz1lW9gSqMzWV1uHE2RU91OdygI5OtK0TqaD3WIZpyzY+kMD6ibQz/y9q5Pc5J978muymGnZtFaEjKoCOKwWNXfFGOeD6VHSVO0ECr41qD7IWnCEnRve93tZZRnQquhoP60EteLExAgskaChBfXV7k4pKmX5/nu8NDKpS0Nt/IXIb+rVHe1yUSshJC7mWDnZpfbzmnDLhebAi61W6HJCIPRXwjeB8yU8QUlIrY0XFFjudpM5r3EWuECQ21fwNguN3tQu7KjlPQYpMv6yz3QyTOxiHDQIHHCHt+owGhPXCPiT9rRVp/gWUp5jtlmfCNrjGZz8+Gqhd6Pnh/v/2TbykCZB3dpX3fLFgdvJxcTh2X1HkxqIm9vc+y3Gw5+9dVekqMrWS2ONND0nwigVQ8LEOecg==;5sdEqUpCvRjuXXnN49WUbg=="
 ---

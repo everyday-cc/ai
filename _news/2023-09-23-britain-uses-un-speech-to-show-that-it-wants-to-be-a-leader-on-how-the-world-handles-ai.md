@@ -2,12 +2,14 @@
 category: news
 title: "Britain uses UN speech to show that it wants to be a leader on how the world handles AI"
 excerpt: "Britain is pitching itself to the world as a ready leader in shaping an international response to the rise of artificial intelligence"
-publishedDateTime: 2023-09-23T01:02:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/britain-speech-show-leader-world-handles-ai-103426864"
-webUrl: "https://abcnews.go.com/US/wireStory/britain-speech-show-leader-world-handles-ai-103426864"
+publishedDateTime: 2023-09-23T02:14:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/britain-speech-show-leader-world-handles-ai-103426866"
+webUrl: "https://abcnews.go.com/Technology/wireStory/britain-speech-show-leader-world-handles-ai-103426866"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/britain-speech-show-leader-world-handles-ai-103426866"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/britain-speech-show-leader-world-handles-ai-103426866"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,11 +20,22 @@ topics:
   - AI
 
 images:
-  - url: "https://i.abcnewsfe.com/a/11f2e405-e949-4678-a5c2-47cd9cffd83e/wirestory_55693078e33b68630e20cb3ec1e650b0_16x9.jpg?w=992"
+  - url: "https://s.abcnews.com/images/US/wirestory_55693078e33b68630e20cb3ec1e650b0_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
 
-secured: "w8IvrZAoBs7HwfNCHFp6D8ySKM0DEhp7Lzf+HusGsS3EmbcsYwHNPx9PsP67TdjqDa5VxXK98U1afLVqzkeTKy2zqH2T/SBXIEze2oKvYG/8Egr/tIz8d1Rmt2g7aL3BD1yN+AsgMKV6awHF4R6AWPzFfMk0Rr0kZesP1NFo/5XXPRhLmJPSiF6UD51gEkh03jKIr9St40T21d6ejetlTXiNHd6et3O7Q1MzomK4J/GzALVTv5FnXcSxAbmv/Wf45KkIFTuxEgKi8hOT4Atj0FW0TZ7RQDBDPMJHV4Gmuyhx4sJ+57p4Wvosjtfnd/QRVU8kEPRIyzkNtkht+JnFlVgt+9DCDFjYdv/eYzpbG6g=;6Ox0K7AEloznDM2zULY4Lw=="
+related:
+  - title: "EU Considering Whether to Attend Britain's AI Summit, Spokesperson Says"
+    excerpt: "LONDON (Reuters) - The European Union is considering whether to send officials to Britain's upcoming artificial intelligence safety summit, a spokesperson told Reuters, as the bloc nears completion of wide-ranging AI legislation that is the first of its kind globally."
+    publishedDateTime: 2023-09-22T10:20:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-09-22/eu-considering-whether-to-attend-britains-ai-summit-spokesperson-says"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+
+secured: "0+g/SCNggSy/7eTjE+YiWtXc7lbh64yiTH+U75kzdXG7qOR5sinYWZn0uNpznXt6TgFaVmwh2f/PUJGlHHygp/TzgoAkqF2sHhyXqbJdFSqdDF6FNbqYC4H2jFyMLvMVGqk65eQsYDAvKh+k09P1EVOlWuzSUHWvcO9EVYmqKvjn4JaN8iHEGU7M/LN36XvhOgNA0rTVaIJ2VfRrfFnaU972Rmec4c96wNpFMF4/OKEcvy42SNgfgP9nVC49/9cwFjyGdT6KsTmNn2GI1clgOMieQhhPV+kUX3gx7dwF+VQFos5mPaHxlNM/7VhLmJRhMGdsta7YIzbXG+fU9mp8UwmeXiuhBP/AIPb1si6rCt8=;AkkhT/FJgZJgVFFTQODWMw=="
 ---
 

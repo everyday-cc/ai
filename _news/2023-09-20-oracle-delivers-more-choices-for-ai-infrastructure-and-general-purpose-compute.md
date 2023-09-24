@@ -23,20 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA's next-generation Blackwell GPUs for HPC and AI will use chiplet design"
-    excerpt: "NVIDIA's next generation of GPU hardware for high-performance computing will see the company adopt a chiplet design for the first time."
-    publishedDateTime: 2023-09-19T08:57:00Z
-    webUrl: "https://www.tweaktown.com/news/93346/nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design/index.html"
+  - title: "NASA's Mars Rovers Could Inspire A More Ethical Future For AI"
+    excerpt: "Since ChatGPT's release in late 2022, many news outlets have reported on the ethical threats posed by artificial intelligence. Tech pundits have iss"
+    publishedDateTime: 2023-09-21T17:11:00Z
+    webUrl: "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 65
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://static.tweaktown.com/news/9/3/93346_01_nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://menafn.com/updates/pr/2023-09/21/TC_b1ba0image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
+  - title: "Artificial intelligence could be future of cancer care"
+    excerpt: "Artificial intelligence could be used in cancer care in Australia within years, offering patients more tailored treatment and diagnosis."
+    publishedDateTime: 2023-09-23T20:08:00Z
+    webUrl: "https://www.aap.com.au/news/artificial-intelligence-could-be-future-of-cancer-care/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
+    quality: 39
+    images:
+      - url: "https://www-media.aap.com.au/wp-content/uploads/2023/09/24060202/82332264-62f4-4b3b-9608-8aefbb18fa09.jpg?v=1695499328"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NASA's Mars rovers could inspire a more ethical future for AI"
+    excerpt: "The replacement fantasy is just one of many possible futures for AI and society. After all, no one would watch “Star Wars” if the ‘droids replaced all the protagonists. For a more ethical vision of humans’ future with AI, you can look to the human-machine teams that are already alive and well, in space and on Earth."
+    publishedDateTime: 2023-09-21T13:04:00Z
+    webUrl: "https://www.chron.com/news/article/nasa-s-mars-rovers-could-inspire-a-more-ethical-18379992.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 34
 
 secured: "TOPErJdlDofEhIWP9AvP9HnF9p1KGNDUbCcjo0UU/lJNCumS1a58UftXMvcS0xlAVrHsMMSvjsr2nfuewLZec++CYUHhXWanOg2HPq3xUFd1/acFzKXLrmOMKsQuCTid0RAMdgr+VenezC2dTSZrFWSHrOfKhVi1mxcNi1kT6TGUSqPqLYI9/wVzCZnVmRAKgvny5vippBpnPl7yYS3b3vO1IlG8DAr0CXznWV88JRHuD6J6Ap6Ku7mqqanwbETeB1QPo+WgPPEVeE3WHFa/LpNRWuFgEJMOQGTeCoJp80xPWYEy4hGqV74L2SZRUAYero40RUw6EtUCoHgWzYFXuVRjwNeivtnFTt9m3xe/fSQ=;M9/VZO2+HoiFNryRJNXJOQ=="
 ---

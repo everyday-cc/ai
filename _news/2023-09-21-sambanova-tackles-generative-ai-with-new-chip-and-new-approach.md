@@ -19,80 +19,87 @@ topics:
   - AI
 
 related:
-  - title: "SambaNova unveils new AI chip to power full-stack AI platform"
-    excerpt: "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite."
-    publishedDateTime: 2023-09-19T16:24:00Z
-    webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
+  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
+    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
+    publishedDateTime: 2023-09-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How TRI is using Generative AI to teach robots"
+    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
+    publishedDateTime: 2023-09-19T15:43:00Z
+    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
     quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
+        width: 1000
+        height: 529
         isCached: true
-  - title: "SambaNova: New AI Chip Runs 5 Trillion Parameter Models"
-    excerpt: "Specialty AI chip maker SambaNova Systems today announced the SN40L processor, which the company said will power SambaNova’s full stack large language model (LLM) platform, the SambaNova Suite. Manufactured by TSMC,"
-    publishedDateTime: 2023-09-19T14:07:00Z
-    webUrl: "https://insidehpc.com/2023/09/sambanova-new-ai-chip-runs-5-trillion-parameter-models/"
+  - title: "Australia Adapting Fast to a Generative AI World"
+    excerpt: "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks."
+    publishedDateTime: 2023-09-19T14:54:00Z
+    webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/09/SambaNova-launch-0923-image-1.jpg"
-        width: 1150
-        height: 575
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
-    excerpt: "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,"
-    publishedDateTime: 2023-09-19T17:47:00Z
-    webUrl: "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/"
+  - title: "Why trust is critical to business applications of generative AI"
+    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
+    publishedDateTime: 2023-09-22T15:10:00Z
+    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
+      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "SambaNova debuts self-configuring AI chip with 140 cores and high-speed memory"
-    excerpt: "The SN40L is based on what SambaNova describes as a reconfigurable dataflow architecture. According to the company, the technology allows its processor to analyze an AI model and automatically map out its internal structure. Using this information, the SN40L configures itself in a manner that maximizes the model’s performance."
-    publishedDateTime: 2023-09-19T20:06:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/sambanova-debuts-self-configuring-ai-chip-140-cores-high-speed-memory/"
+  - title: "The era of generative AI: Driving transformation in financial services"
+    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
+    publishedDateTime: 2023-09-19T15:02:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/SambaNova.png"
-        width: 1065
-        height: 642
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
+        width: 970
+        height: 628
         isCached: true
-  - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
-    excerpt: "SambaNova Systems, makers of the only purpose-built, full stack AI platform, announces a revolutionary new chip, the SN40L. The SN40L will power SambaNova's full stack large language model (LLM) platform,"
-    publishedDateTime: 2023-09-19T15:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883820.htm"
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
+    publishedDateTime: 2023-09-20T12:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-  - title: "SambaNova announces SN40L AI chip, capable of handling 5 trillion parameter models"
-    excerpt: "SambaNova Systems has announced a new artificial intelligence chip capable of running models up to 5 trillion parameters. The SN40L is designed for training and inference, but is only available through the company's wider platform 'the SambaNova Suite' - a combined software and hardware offering."
-    publishedDateTime: 2023-09-20T12:27:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/sambanova-announces-sn40l-ai-chip-capable-of-handling-5-trillion-parameter-models/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 28
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 7
 
 secured: "bXdN1mA3YKNC+h1hVbFUs/vhsEAiaCnQh/uJ+yVJslrYt5nS9PmFIvkW1kvjd3shV6guyejTrFL7zoVnlXd+kpoRt4abREF+73JYdmIAnceLQPN0IiDad8YJMQ9LcI0nw0r+34vSm1UejY1pnVJOP+PwCdKKYLWnkdOa7pC8LKlOFxqk0WlijlXV0D6MuKNNZcJqOYnx5fVcZNEiAlid/QUJxx9Mfw3sM6VG7WjUwSDzmS5SxtzyadRnYH98U33dxafGdQ8XgZ5Q+dsrH2OWGelMUNFwrQ2D0ZHrab+UUhrP7e4IFYPYewzDTuXP8zynlmDeex2IPcwAiftGBKIF6HYCUZVG4bP14t8O1KLgNBGlY3GyHn7rgLbR8gsXGarIXsrii00cN22lBAmxuvDSAp3ggETcGRULnnRUKIivebg1QOWGYjNb4Dt0DB1lGtELv79xWCn8cqg18jJXTbuiutf13Wx0Y135lbGdUQUWOhTpj8yz3cHb/dNcOkB3SVV5H8Lpx64EdrbEgZJGZf3OpQ==;a/02LZcFmi2s08Cf4Muq4g=="
 ---

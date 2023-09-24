@@ -170,6 +170,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Amazon's new Echo devices bring generative AI and new smart home features"
+    excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
+    publishedDateTime: 2023-09-20T18:18:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "W0oJWcxK3CgLzikUHPwUAtdCe1cl2eykaquSpRmt1V1O08YDtPro/2GK7T7Z3N3wGbG95PpioQrNeLOQXn8p734lkJ4lvUagd6rBAJcpoYF30ND5rxg2ENKqwXYPJJEB270uYt/AlTLEnJbp8KZn5UtFinJdn1i6j9SvjmPtEP+fnGqxV3bhy1ln/6UqZso4nA3WEbQPP86M1FoTmEtzrn3JKxCkUuyTjn8EtzJlp3GOw+izjYyJYAkyUJoNGdAbzEFNNq4oCUowCsbhsYrI0pjw4wSnTyPReZsH4lfG2uyQb1DBwhhB2J/8FGVrdAL5niCE7nWE6BjIuv804B1JLvMT/hhf9YjHthT8V9VCAvKUPobhE4nd6u8fLPMQFifD8OKBnDlCYHrhudSxgtl5MSMX5KD47qj4vqDknvhfPECC+eMbLXZ+cm7+cqWui9ZJMLZWQTWmoZ0zR1A1MWq7IlM/aeEX+Ylj8ehRzqc3pxsXXftjr2u+oNndepHBtty7usDXcLv588do4PPLppTCug==;VQF75tBgy0TBD48U4jQsXw=="
 ---

@@ -297,22 +297,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI researchers at Microsoft leaked 38TB of private data accidentally: Here’s what happened"
-    excerpt: "Microsoft's AI team has made a huge blunder by leaking 38 TB of the company’s private data. A report has revealed that this data contained confidential information such as passwords for Microsoft services, secret keys, and over 30,000 internal messages from more than 350 Microsoft employees using Microsoft Teams."
-    publishedDateTime: 2023-09-19T07:29:00Z
-    webUrl: "https://www.digit.in/news/general/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened-69001.html"
-    ampWebUrl: "https://www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/69001/ai-researchers-at-microsoft-leaked-38tb-of-private-data-accidentally-heres-what-happened"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 64
-    images:
-      - url: "https://static.digit.in/default/tr:w-1200/microsoft-ai-1280-31bc5370f0.jpeg"
-        width: 1200
-        height: 698
-        isCached: true
   - title: "Microsoft AI researchers leaked 38TB worth of private company data"
     excerpt: "Wiz notified Microsoft of its findings on June 22, and the SAS token was revoked two days later. It took the company almost three weeks to run a thorough investigation, after which it concluded that the data hadn’t been accessed by any unauthorized third parties, TechCrunch said ."
     publishedDateTime: 2023-09-19T13:04:00Z
@@ -444,20 +428,6 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "Microsoft passwords and keys exposed through misconfigured Azure storage"
-    excerpt: "A misconfigured link enabled public access to 38TB of Microsoft's confidential data from two employees' workstations, opening up the potential for injecting malicious code into Microsoft's AI models."
-    publishedDateTime: 2023-09-19T07:11:00Z
-    webUrl: "https://www.computing.co.uk/news/4126373/microsoft-passwords-keys-exposed-misconfigured-azure-storage"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 53
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/bd1f38a/56c64fcb-5c30-4331-ac4c-15d10d825d8b/21/cybersecurity-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Meta and Microsoft - Citi Analysts Bullish On Both, Spotlight On Advertising And Accelerated AI Innovations"
     excerpt: "With Reels ad loads reaching 19% QTD vs. 17% in 2Q per Josey's proprietary tracking, coupled with newer ad units, greater advertiser demand, and what the analyst believes is an improving online advertising environment, he considers Meta is taking share of the broader online advertising market."
     publishedDateTime: 2023-09-22T19:20:00Z
@@ -508,15 +478,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
-  - title: "Microsoft AI Researchers Leak 38TB of Private Data"
-    excerpt: "“Our scan shows that this account contained 38TB of additional data – including Microsoft employees’ personal computer backups. The backups contained sensitive personal data, including passwords to Microsoft services, secret keys, and over 30,000 internal Microsoft Teams messages from 359 Microsoft employees,” it continued."
-    publishedDateTime: 2023-09-19T08:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/microsoft-ai-researcher-leaked/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
   - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
     excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
     publishedDateTime: 2023-09-19T17:04:00Z

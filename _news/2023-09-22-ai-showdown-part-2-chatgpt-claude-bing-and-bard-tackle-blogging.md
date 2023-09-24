@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
-    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
-    publishedDateTime: 2023-09-19T08:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI used in ChatGPT was built in Iowa"
     excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
     publishedDateTime: 2023-09-19T12:04:00Z

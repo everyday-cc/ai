@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 556,
+      "heat": 526,
       "tags": null,
       "images": [
         {
@@ -52,6 +52,50 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners.md",
+      "title": "Gelsinger: Intel Is Prioritizing AI Sales Enablement For Partners",
+      "excerpt": "Intel CEO Pat Gelsinger tells CRN that enabling partners to sell AI products is a priority. Intel executives Christoph Schell and John Kalvin detail how Intel is enabling partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners",
+      "originalUrl": "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0285-190a8cbd605d-03ec85b106f8-1000/gelsinger_intel_ceo.png",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -427,7 +471,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -514,7 +558,7 @@
       "originalUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1375,40 +1419,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo.md",
-      "title": "3 AI Chip Stocks to Buy Instead of the Arm IPO",
-      "excerpt": "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo",
-      "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

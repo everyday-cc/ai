@@ -44,20 +44,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Bing AI vs Google Bard vs ChatGPT performance comparison"
-    excerpt: "Learn more about the differences between Bing AI vs Google Bard vs ChatGPT and the features of each. Allowing you to choose the correct one"
-    publishedDateTime: 2023-09-19T08:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/bing-ai-vs-google-bard-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Bing-AI-vs-Google-Bard-vs-ChatGPT.jpg"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "D5qOaPYrgZQANsjGnMaxJynfVzhR0lKjsNDNvuVWw8GDWXdIxlmrXDdVdlMF2OGsnt94iOAd+OkCsO5LIJR3I+336KfLl5Ij5/eI1pdZSA7nfY1M6jddlbAlaxIkxki9SXXPMCEk8Ys2ULXiZxKBo2B5ganMtjZSJhmwOdV7UDfGakPJbFGshv/xtAjRVHtLWsAa7lvimdk15Kiy1Y1JlSB2QfMqUyM4Zz4TUULYzzn9lfxH4V4h6Fl6n8l7xBzmI+wt/EdW2YTVhzzh+MfXiVrFSyekJIcJYeK4RoSt2+R9zyTmeo7g58yRm+wSIc+3LRuWNlQbrWNsqmB7tNlP486FXLoYIoXH+i+hvnbDobk9gKTqrxH0j0yiuq21yePPbpQPCOoKHo0NfpIHeFZ5YLSkvya7GtXLisiUKrLfr1svoTPFVKVtlo1A+9KvinYwxH5hme+F6eCyx0Uzil6uCKw3xN5t+IJZxorlY4oPn82fwMflfxpI/NFUth5+72Zz7FFMJTmwwrwjHDiXgzmLcQ==;HMnDKEdb07LNZ/hS6juiTA=="
 ---

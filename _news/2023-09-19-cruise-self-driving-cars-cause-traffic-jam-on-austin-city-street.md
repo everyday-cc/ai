@@ -46,20 +46,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Shaping The Future Of Autonomous Driving"
-    excerpt: "new era where machine learning meets safety in navigating complex urban terrains,future where self-driving cars adapt to evolving environments"
-    publishedDateTime: 2023-09-19T07:26:00Z
-    webUrl: "https://www.electronicsforu.com/news/whats-new/shaping-the-future-of-autonomous-driving"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 24
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/09/TN37.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
     excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
     publishedDateTime: 2023-09-20T16:53:00Z

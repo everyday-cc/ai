@@ -32,15 +32,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 14
-  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
-    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
-    publishedDateTime: 2023-09-20T13:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "TdLI+9xlrISAwfj8cR7Q38bjRyTz1cXMrdzNZMC8UcuMnRuIC3pGnipDdDZj3p9IPNNfqOiESHTaMr+ZGwqSS6Y4BzaEXhpEEFy+tmphIY5OcBlTLL4HUtKu0LfxwWfCaKgI8NLUZsTRumw+U4+pMFR37gHNOxytwAWa3eqlUBdM18wrmdm5LOfWPREx56cZdRbDUEHXDu0vuazpxAoXSBXA0O+wsNHVLvYRfmeC/GDJVi5fR7ABWcJok181LaqU8qbS/AC478yXK6uzFpxvYjrfXhoaVc5ENr9ce/GYVj64N+wbwvXpQOS8djRRWfGXI+T8HobGKOBEWpajRYJYtxp8eyDPS8KHaK7uFKNEv9D6cJI7SuJ4KNs9RXYJvcL1cB59LlaOA4DYRSi44jF7KAyVuOh54TvSVWKd+jTn0vvT2uBZw9dmN+y4LlwG1DPbBKzYehgwreAZgHp603ypgXBi8om8iulFHblksh0CXmRc1/BeeFc2FjoeZl30K9wDTtGna+1MU8hl8Ol501sbUA==;sOk46tMs99NiXDYZ6BgIdA=="
 ---

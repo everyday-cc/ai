@@ -39,6 +39,20 @@ related:
         width: 2400
         height: 1596
         isCached: true
+  - title: "Toyota Uses AI to Teach Robots New Behaviors"
+    excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
+    publishedDateTime: 2023-09-21T14:06:00Z
+    webUrl: "https://www.assemblymag.com/articles/98025-toyota-uses-ai-to-teach-robots-new-behaviors"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 54
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/images/TRI.jpg?height=635&t=1695264007&width=1200"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "mrKKYTePuN2GhWfpGK/oHnBrTgQuZf3FgzgRczdgCVS9LAusgj8DB34eyC8mrGuB6vn/prV4mMHGsAy9hSPuxBk0+A7M7zRdlBZ8Y8z1TkE0K8DkgpoRjauSRpGmtqG8EHvJ4Fcqlpcr1XMytOxqcYUwwTih/62j00pui/N5yIjsZRDcNx+Vc8mgWWAIJLErWTOF3zyO+KNa3GP3g6gzoZ7jrcnRL1EKruYnwyZMhKr8Ve4Yg5wCyewNDOmlytW2gSIct7lt8kGe7SUJ8s8M88dqAh/TBkr9DFACzg5x27sFzVCOzVfpk/HHX0oT7ZwAh03G5/qFwQgxJ30crVAW1lW4ghlUo5mjEPKOVIKJOadEbOFix2OzE4tJ3SxebNyDvNxS31ebQnBF1co49iFvOchpkrC3YPg/WGUaVFDxIlN01BwCEkmWW3BRYF6FFm5ys5P0G23/ww+bAZU7yDdKRrwVVpRnK7ZdxtRio7jXMOTdCBCG0XIo6FbRDbXEpu1c57KfV/zrk5NmzVPuZtX5sw==;9C4skf/nAXZTZxNXyJ4CLg=="
 ---

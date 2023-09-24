@@ -19,69 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity"
-    excerpt: "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations."
-    publishedDateTime: 2023-09-19T07:53:00Z
-    webUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/"
-    ampWebUrl: "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/"
+  - title: "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech"
+    excerpt: "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,"
+    publishedDateTime: 2023-09-20T11:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg"
         width: 1200
-        height: 902
-        isCached: true
-  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
-    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
-    publishedDateTime: 2023-09-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI Is Breathing New Life Into Classic Computer Games"
-    excerpt: "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models."
-    publishedDateTime: 2023-09-22T05:31:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Has AI Surpassed Human Creativity?"
-    excerpt: "Has AI technology exceeded humans in the creative realm? A new study compares the abilities of AI versus humans in creative divergent thinking with potential insights on the future of work in creative domains."
-    publishedDateTime: 2023-09-19T23:09:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202309/has-ai-surpassed-human-creativity?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pica14.jpg?itok=1NrgykyG"
-        width: 1528
-        height: 800
+        height: 765
         isCached: true
   - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
     excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
@@ -99,75 +51,69 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Fed’s Cook Sees Signs of AI Improving US Labor Productivity"
-    excerpt: "Cook has supported the Fed’s rate increases intended to cool price growth, and she testified in her confirmation hearing in June that she would continue to work to bring down inflation to the Fed’s 2% target. She also said she favors tailoring regulations based on a bank’s size so that smaller lenders don’t face the same burdens as bigger ones."
-    publishedDateTime: 2023-09-22T12:46:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-22/fed-s-cook-sees-signs-ai-could-improve-us-labor-productivity"
+  - title: "After Reliance and Tata Group, NVIDIA to collaborate with Infosys to help firms with generative AI"
+    excerpt: "NVIDIA is planning to help enterprises drive productivity gains with generative AI applications and solutions with this latest collaboration."
+    publishedDateTime: 2023-09-20T23:32:00Z
+    webUrl: "https://www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai-11695211147675.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai/amp-11695211147675.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai/amp-11695211147675.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
-  - title: "Amazon joins the chorus of companies adding generative AI to products"
-    excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"
-    publishedDateTime: 2023-09-20T20:10:00Z
-    webUrl: "https://www.onmsft.com/news/amazon-joins-the-chorus-of-companies-adding-generative-ai-to-products/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
+      name: Mint
+      domain: livemint.com
+    quality: 45
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Amazon-Echo-Hub.png"
-        width: 1024
-        height: 768
+      - url: "https://www.livemint.com/lm-img/img/2023/09/20/600x338/Jensen_Huang_1695211293891_1695211294130.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Enhancing nuclear power production with artificial intelligence"
-    excerpt: "Artificial intelligence (AI) holds promising potential for advancing nuclear energy production. These sophisticated computer systems mimic human logic in problem solving and decision making. With its capability to enhance efficiency,"
-    publishedDateTime: 2023-09-21T15:04:00Z
-    webUrl: "https://www.iaea.org/bulletin/enhancing-nuclear-power-production-with-artificial-intelligence"
+  - title: "Infosys, NVIDIA to collaborate for generative AI applications, solutions"
+    excerpt: "Infosys: As part of the partnership, Infosys will have access to NVIDIA's full-stack gen AI program and will set up a NVIDIA Centre of Excellence"
+    publishedDateTime: 2023-09-20T11:11:00Z
+    webUrl: "https://www.business-standard.com/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
     type: article
     provider:
-      name: iaea.org
-      domain: iaea.org
-    quality: 39
-    images:
-      - url: "https://www.iaea.org/sites/default/files/styles/half_page_width_landscape_16_9/public/artificial_intelligence_1140x640.jpg?itok=r5GSg-46&c=a37f2ace72bcdc9e07a4fb94b9e55a74"
-        width: 555
-        height: 312
-        isCached: true
-  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
-    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
-    publishedDateTime: 2023-09-20T20:23:00Z
-    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
+    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
+    publishedDateTime: 2023-09-22T00:43:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 29
-    images:
-      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Amazon's new Echo devices bring generative AI and new smart home features"
-    excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
-    publishedDateTime: 2023-09-20T18:18:00Z
-    webUrl: "https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features"
+      name: Finextra
+      domain: finextra.com
+    quality: 34
+  - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
+    excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://www.crn.com/news/computing/infosys-to-train-50-000-staff-on-nvidia-ai-technology-in-new-tie-up"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 16
-  - title: "Artificial Intelligence in its current form not threat to creativity: Javed Akhtar"
-    excerpt: "Amidst concerns by artists and other creatives that artificial technology would rapidly replace them, veteran lyricist Javed Akhtar believes that the technology of artificial intelligence in its current form is unlikely to hurt or become a threat to the artistry of content creators."
-    publishedDateTime: 2023-09-22T13:44:00Z
-    webUrl: "https://theprint.in/feature/artificial-intelligence-in-its-current-form-not-threat-to-creativity-javed-akhtar/1773839/"
+      name: CRN
+      domain: crn.com
+    quality: 19
+  - title: "NVIDIA to train 50,000 Infosys employees in AI technologies"
+    excerpt: "Bengaluru: NVIDIA has announced its third significant collaboration in India this month, joining forces with leading IT firm Infosys to drive productivity improvements through generative AI applications and solutions for enterprises,"
+    publishedDateTime: 2023-09-20T17:59:00Z
+    webUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 11
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 19
+  - title: "Infosys and NVIDIA collaborate to help enterprises boost productivity with Gen AI"
+    excerpt: "Infosys and NVIDIA expand strategic collaboration to help enterprises drive productivity gains with generative AI applications and solutions. Infosys Topaz and NVIDIA AI Enterprise ecosystem to integrate,"
+    publishedDateTime: 2023-09-20T13:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/infosys-and-nvidia-collaborate-to-help-enterprises-boost-productivity-with-gen-ai/article67325931.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 14
   - title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
     excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
     publishedDateTime: 2023-09-21T01:05:00Z
@@ -177,15 +123,6 @@ related:
       name: academy
       domain: newswit.com
     quality: 6
-  - title: "Artificial Intelligence, Real Productivity: Exploring Five Ways In Which AI Maximizes Productivity In The Cannabis Workplace"
-    excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
-    publishedDateTime: 2023-09-20T17:32:00Z
-    webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "OJPE9yj8MG1zx1YMwH52IfJxhmjDlkyX3rvR2QQfhHd6XWFF8iAq32O7LwKAj+lK1Wa+1M1bhYV2tvhAJFxndOqdMAxx7dsQjPybXYxIkl/JEgFWDP9leKtmny5WPxCSlhQkzddmGKRfSXQY3QZ3iwYt7XrI7V2H+qmN0Osht1A5jyayE1JEXLbjtekfLJaZgoXiU6sIJSxkUo1NGdW5bj7XW7ZSfWIpRdk5Tbz57pZxvLoRMPzjgUJ4ikZv0iGVg2I+SNO/BhlaEJHsIC1hxQkN3JqrvwHlrAqrm3M5p26q0o2ymu0kyryfT5FUc7XJEaf9LLT7pANZFpXxth0oGjDmShPHIldyd/z2rOSdz31893bfGCzFbrwJ9okCQnU0hn612Pn3nQBXkucIf0yGxA8720zQgjKCQNKGBa304FVWhkY8dnZ8380aT+RqFMFYjvMXYcuSNdBetKEtUNV5QvT0rQM/LpFV05B+SX9egzwaOX23AOjlcKdrAvWlD4KwdzhSYmA+AOdGCy9o9DVZdg==;j1sLZ6QVp0sFLCEcqxQPTg=="
 ---

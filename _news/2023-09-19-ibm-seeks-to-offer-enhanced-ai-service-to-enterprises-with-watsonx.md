@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's Watsonx to help leverage AI for businesses"
-    excerpt: "IBM has introduced its AI foundation model, Watsonx, to help companies leverage the benefits of AI by providing solutions and services tailored for enterprises."
-    publishedDateTime: 2023-09-19T08:40:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/news/2023-09-19/business/tech/IBMs-Watsonx-to-help-leverage-AI-for-businesses/1873200"
-    type: article
-    provider:
-      name: 중앙일보
-      domain: joins.com
-    quality: 54
-    images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2023/09/19/0828a37d-472e-48b6-98b3-d5f8eb7afe1f.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "IBM Launches Watsonx AI Platform at Seoul Tech Summit 2023; Collaboration with Hugging Face Announced"
     excerpt: "At the IBM Tech Summit Seoul 2023, IBM introduced its innovative Watsonx AI platform, designed to streamline generative AI integration for enterprises. Lee Eun-joo, IBM Koreas General Manager, emphasized"
     publishedDateTime: 2023-09-20T09:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://technology.inquirer.net/128206/chicken-ai-translator"
 webUrl: "https://technology.inquirer.net/128206/chicken-ai-translator"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Researchers create new AI that can translate what chickens are saying"
-    excerpt: "A group of scientists claimed that a newly created artificial intelligence system is capable of translating chicken clucks into emotional states."
-    publishedDateTime: 2023-09-21T06:32:00Z
-    webUrl: "https://www.tweaktown.com/news/93384/researchers-create-new-ai-that-can-translate-what-chickens-are-saying/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "nNLA6ML2ZwfNsUT8dLZEoxLV5ybdGDF0jpsP11GktKmWQ0JhsZTQSAjv2bvIkb8TmXlQ5u2Eu+juavd6n2PP+lZDKKTp193nPRQc473yLWKVxtc3m/+C30Rxj+rr+E98HRWI9uj99RIGZCNaEOC2oRgpcxvdol/TMHnvckZLPTzGeRDkfPqbpeBXN8BQuxe1NEYzj2rVYjOIGpU8g3CkghxrKc9RPn0pqlxb4LBB+6zLKtTHzivx6jRyT0HJ4abhJ5NnTWGw03cPDHHbaKlAdNqlfTf2fawpd9CbtdQ4oVQHrL532n+mF4oTViLrkT5CfVNtjDtEOdxaOH7CqwRgwRHVTidew7NVeTuaBwns+olGBFRVpGlj37YF6hkJRYAVd0Bcrc/5+fVr81Zopn6G5YQBprG3/8D4/WJnuLn9/7Zg8USBsoxOUMZjBVZQ98ruYHfXkMMhklQtkHDZnQwZwpDxmUQLnkA1ZESpqO4v2RSjTH4k22MnzNQUJe2GfmSLqZz8QnDLM7Sl/hn+hqz5Mw==;D3m0Qhr5Ej1cefRNbeq7sA=="
 ---

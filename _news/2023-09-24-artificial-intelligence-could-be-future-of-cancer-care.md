@@ -39,6 +39,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Oracle Delivers More Choices for AI Infrastructure and General-Purpose Compute"
+    excerpt: "New OCI Compute instances with next-generation processors from NVIDIA and Ampere Computing help increase performance and efficiency for GPU- and"
+    publishedDateTime: 2023-09-20T00:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-delivers-more-choices-for-ai-infrastructure-and-general-purpose-compute-1032641694"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "NASA's Mars rovers could inspire a more ethical future for AI"
     excerpt: "The replacement fantasy is just one of many possible futures for AI and society. After all, no one would watch “Star Wars” if the ‘droids replaced all the protagonists. For a more ethical vision of humans’ future with AI, you can look to the human-machine teams that are already alive and well, in space and on Earth."
     publishedDateTime: 2023-09-21T13:04:00Z

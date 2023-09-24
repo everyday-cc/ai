@@ -23,84 +23,67 @@ topics:
   - Google AI
 
 related:
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+  - title: "Generative AI Is Breathing New Life Into Classic Computer Games"
+    excerpt: "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models."
+    publishedDateTime: 2023-09-22T05:31:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
-        isCached: true
-  - title: "Why trust is critical to business applications of generative AI"
-    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
-    publishedDateTime: 2023-09-22T15:10:00Z
-    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Toyota Uses AI to Teach Robots New Behaviors"
-    excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
-    publishedDateTime: 2023-09-21T14:06:00Z
-    webUrl: "https://www.assemblymag.com/articles/98025-toyota-uses-ai-to-teach-robots-new-behaviors"
+  - title: "Breakthrough In Cancer Treatment: The Role Of Generative AI In Drug Development"
+    excerpt: "Dive into the revolutionary world of cancer treatment where Etcembly leverages generative AI to expedite the creation of personalized immunotherapy drugs."
+    publishedDateTime: 2023-09-20T06:28:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
     type: article
     provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://www.assemblymag.com/ext/resources/images/TRI.jpg?height=635&t=1695264007&width=1200"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "TRI is developing a new method to teach robots overnight"
-    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "How new research is teaching AI how to smell"
-    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
-    publishedDateTime: 2023-09-20T22:31:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650a90b7c3a33a96e3bba901/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "How Estes is Using Data and AI to Revamp its LTL Operations"
-    excerpt: "Estes Express Lines is using artificial intelligence and near-real-time data to optimize its LTL operations, from first-and-last-mile to linehaul to dock operations."
-    publishedDateTime: 2023-09-22T20:56:00Z
-    webUrl: "https://www.truckinginfo.com/10206777/how-estes-is-using-data-and-ai-to-revamp-its-ltl-operations"
+  - title: "Generative AI already being used in majority of college classrooms, according to new survey"
+    excerpt: "A new report from Wiley suggests that generative artificial intelligence (AI) is already being used in the majority of college classrooms—and that number could climb quickly."
+    publishedDateTime: 2023-09-21T20:03:00Z
+    webUrl: "https://phys.org/news/2023-09-generative-ai-majority-college-classrooms.html"
+    ampWebUrl: "https://phys.org/news/2023-09-generative-ai-majority-college-classrooms.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-generative-ai-majority-college-classrooms.amp"
     type: article
     provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 47
     images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2023-09/20230924_estes-optym-linehaul-__-1200x630-s.jpg"
-        width: 1200
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/university-lecture.jpg"
+        width: 2763
+        height: 2072
+        isCached: true
+  - title: "Amazon joins the chorus of companies adding generative AI to products"
+    excerpt: "Sandwiched between iPhones, Surface devices and Pixel hardware was an Amazon product launch for 2023 that consisted of upgrades to Fire tablets, Eero Max"
+    publishedDateTime: 2023-09-20T20:10:00Z
+    webUrl: "https://www.onmsft.com/news/amazon-joins-the-chorus-of-companies-adding-generative-ai-to-products/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Amazon-Echo-Hub.png"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "GTWTbuqmkXK030mCm1XS1zw+F5lt2TRGv6nk/jy98dKaw5sJz/0NY7OzIrdiTbzfDJK//40kfoDZCqw/NIf0lFwC0Na2IvmkwuI0wrsYoP+yHwqrGL8KjSM7ybRXuGhpGX8aOs+PmTj5Db/oP9JJwKj8Xvv2rU5bq42HWaJQgo4vi+a9hODQP+sWMNBWW2G8/xvNZXa5oEzB2076ZiJIDQQBRGUS1BAPLbmqKs+0E+QmE01Ce2lkZ7YmtgADuD2cCdZ2zWKF5Pe4rWj8zSnLCDaDeCK1cIr+K03eoCbsacVLgfCidoL04j73mnPxwdL/pI1ot+xQj7jDP/QVy7otwzClJL+3k2ULq7mhdo8nFaE=;KfMset+E3GNUdbzY7UdeQQ=="

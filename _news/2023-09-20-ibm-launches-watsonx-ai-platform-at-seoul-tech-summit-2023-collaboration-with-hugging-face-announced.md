@@ -41,20 +41,6 @@ related:
         width: 980
         height: 653
         isCached: true
-  - title: "IBM's Watsonx to help leverage AI for businesses"
-    excerpt: "IBM has introduced its AI foundation model, Watsonx, to help companies leverage the benefits of AI by providing solutions and services tailored for enterprises."
-    publishedDateTime: 2023-09-19T08:40:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/news/2023-09-19/business/tech/IBMs-Watsonx-to-help-leverage-AI-for-businesses/1873200"
-    type: article
-    provider:
-      name: 중앙일보
-      domain: joins.com
-    quality: 54
-    images:
-      - url: "https://koreajoongangdaily.joins.com/data/photo/2023/09/19/0828a37d-472e-48b6-98b3-d5f8eb7afe1f.jpg"
-        width: 560
-        height: 373
-        isCached: true
 
 secured: "bhAC40ISwmmi+ViIOrYJO0JHt6FfNBAMy8i7FeSLxcwkuTkxa99HXcJKzcaGkFtwzsmuoHTAs/rwxPftEhbs2ArJ7z/XOs2siTtSwORMTG7SSe5UlUL++NUIUq58Uu027sfPfc0+p8OYIoOUs5UdwfX63ysuvRtB8CX0KWXsmfwRqolCGQC/qXGVyHfFYBmP/7uRFjgloaRd+OpA3yDKqhTzICb+FPlyvNuH9CDtmhH40w8oo/EIosO0/2ia9hZ6RlBYgh/WzkknXomxMDOYTpMBIzyMLjSKBxyH/mZl45e4dV3y4YDiAcoZacaXv+Z73TFr88E4khCMpvF316N69oZ+fi/EtFCZlo009+YQezzqbwlYASBQrf30JmAPNRIrX+G1QlxuGM0SHk+j0tC2fObZlxTRFBLSIDhsgyeMqYA3O1cRX1AUaXGjrgNei8XZCybRGl/UmLQozLVhaUIrwz6oW2wHksaNwcXJSPGNFqjMhAhdVwdpb70W5Ci60QszIMG1mQBbBpGDvQYa59fNiA==;c2VgWHbNwX6fXd9WE9ZQhg=="
 ---

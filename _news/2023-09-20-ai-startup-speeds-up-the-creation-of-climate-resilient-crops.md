@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the next generation of AI superstars"
-    excerpt: "Richard Zhang, a senior research scientist at Adobe, invented the visual similarity algorithms underlying image-generating AI models like Stable Diffusion and StyleGAN. Without his work, we would not have the image-generating AI that has captivated the world."
-    publishedDateTime: 2023-09-19T08:37:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 63
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "See the 10-slide presentation a startup used to land $8 million from General Catalyst to speed up rare-disease research with AI"
     excerpt: "Medeloop plans to use the funding from the round led by General Catalyst for its AI-powered research platform."
     publishedDateTime: 2023-09-20T11:00:00Z

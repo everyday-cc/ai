@@ -18,24 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Fighting Canada’s record wildfires with a combination of AI and intuition"
-    excerpt: "That’s where the AI tool can help. Powered by Microsoft Azure Machine Learning, an Azure AI service, AltaML’s wildfire occurrence prediction system can analyze granular data sources to give duty officers more specific insights about the regions they cover."
-    publishedDateTime: 2023-09-19T15:21:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/ai-alberta-canada-wildfire-firefighting/"
+  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
+    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-  - title: "Rogers leverages AI and SpaceX technology to fight wildfires in British Columbia"
-    excerpt: "Through this collaboration, Alberta Wildfire, the province’s forest firefighting agency, has been using AltaML’s wildfire occurrence prediction, powered by Microsoft Azure Machine Learning, to analyze tens of thousands of data points to predict the ..."
-    publishedDateTime: 2023-09-21T13:15:00Z
-    webUrl: "https://www.itworldcanada.com/article/rogers-leverages-ai-and-spacex-technology-to-fight-wildfires-in-british-columbia/547295"
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 29
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "Coqui and Hugging Face Partner to Revolutionize Voice AI with New Open-Access XTTS Model"
+    excerpt: "Berlin, Germany - September 20, 2023 - Advancing the mission of democratizing artificial intelligence, Coqui, a pioneering AI startup established by industry visionaries from Mozilla, proudly introduces the open-access release of their trailblazing ..."
+    publishedDateTime: 2023-09-20T19:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/ab34771936/coqui-and-hugging-face-partner-to-revolutionize-voice-ai-with-new-open-access-xtts-model"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 14
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "b0foWeuAmsW8JMjdeRstUdm4uP66WO++TD1JEqLpE7x0yCIe+usiVrAscQh2bUzjjXPAr15lPHCgxXSlZnmKThKNWRqoUH8aOa98q4kHhmIsr1klj7PPtpUUphYlPHMoFpi/C5qRnFQehbZxtFwn2lW6IYpAZyZopIDlutdF3mQnfQEtOBmzejTrlKVUp2qv6CIx/v17XnbD8n/9RC798uDZ4hXySzLt+n877QsNVXy5a4D5RrTeOH6mgArQ7VgkA6oNgtrKRUI2MbQE7fYEfUHZ7ks7ARjFlisFwT/xWDHuRw/t2hjaqnbYGtIeKtvZRq5arYR2Brnyn0u4Y238OALATjSF8b/rubLheBbjlgs=;8SYdvJVrlQuN7537TqjSew=="
 ---

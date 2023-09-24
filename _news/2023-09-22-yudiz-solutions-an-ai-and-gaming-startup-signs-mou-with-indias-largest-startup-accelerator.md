@@ -32,22 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "“Our vision is AI for All”: Indian ambassador Ruchira Kamboj"
-    excerpt: "India acknowledges the pivotal role of Artificial Intelligence and is poised to lead the way with the vision of ‘AI for All’, India’s permanent representative to the United Nations, Ruchira Kamboj said on Monday."
-    publishedDateTime: 2023-09-19T07:43:00Z
-    webUrl: "https://theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/"
-    ampWebUrl: "https://theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230919071048.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Indian actor Anil Kapoor wins court battle over AI use of his likeness"
     excerpt: "The actor can now send an injunction if his image or voice is used in gifs and deepfakes as well as for unauthorised merchandise"
     publishedDateTime: 2023-09-21T15:31:00Z

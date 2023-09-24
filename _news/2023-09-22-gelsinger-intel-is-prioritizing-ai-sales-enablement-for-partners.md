@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/components-peripherals/gelsinger-intel-is
 webUrl: "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CRN
@@ -35,6 +35,20 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 35
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/09/Intel-Gelsinger-III-Innovation-2023.png"
+        width: 1271
+        height: 647
+        isCached: true
+  - title: "Intel and Dell to Collaborate on AI; Intel and Stability AI Building ‘Most Powerful AI Supercomputer in Europe’ – Gelsinger"
+    excerpt: "This story was updated on September 21 based on input from Intel: With the goal of building the most powerful AI supercomputer in Europe, Intel has formed an alliance with Stability AI, a London-based artificial intelligence- startup."
+    publishedDateTime: 2023-09-22T13:31:00Z
+    webUrl: "https://insidehpc.com/2023/09/intel-and-dell-to-build-most-powerful-ai-supercomputer-in-europe-gelsinger/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 13
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2023/09/Intel-Gelsinger-III-Innovation-2023.png"
         width: 1271

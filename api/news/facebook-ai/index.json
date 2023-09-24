@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-22-toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours.md",
+      "title": "Toyota says its new AI robot can master complex tasks in hours",
+      "excerpt": "Toyota's new AI robot can reportedly master complex tasks in a matter of hours, completing changing how we look at robot learning.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/",
+      "originalUrl": "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-confessions-of-a-viral-ai-writer.md",
       "title": "Confessions of a Viral AI Writer",
       "excerpt": "One day I sat in on a meeting in which an entrepreneur asked him when AI would start replacing human workers. Altman equivocated at first, then brought up what happened to horses when cars were invented.",
@@ -34,58 +78,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-australia-adapting-fast-to-a-generative-ai-world.md",
-      "title": "Australia Adapting Fast to a Generative AI World",
-      "excerpt": "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/australia-adapting-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/australia-adapting-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

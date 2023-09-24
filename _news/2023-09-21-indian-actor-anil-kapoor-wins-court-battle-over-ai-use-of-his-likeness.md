@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "“Our vision is AI for All”: Indian ambassador Ruchira Kamboj"
-    excerpt: "India acknowledges the pivotal role of Artificial Intelligence and is poised to lead the way with the vision of ‘AI for All’, India’s permanent representative to the United Nations, Ruchira Kamboj said on Monday."
-    publishedDateTime: 2023-09-19T07:43:00Z
-    webUrl: "https://theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/"
-    ampWebUrl: "https://theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/our-vision-is-ai-for-all-indian-ambassador-ruchira-kamboj/1768266/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230919071048.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Govt is planning GPU cluster to boost Indian AI startups, says Rajeev Chandrasekhar"
     excerpt: "Speaking in Delhi a day before the groundbreaking of a semiconductor packaging and assembling plant by Micron in Gujarat's Sanand, Chandrasekhar said the project will serve as a signal to other chip companies and investors to take India more seriously in the global electronics value chain."
     publishedDateTime: 2023-09-22T06:00:00Z

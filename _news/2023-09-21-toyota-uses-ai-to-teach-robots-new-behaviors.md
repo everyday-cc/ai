@@ -25,79 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
+  - title: "Toyota says its new AI robot can master complex tasks in hours"
+    excerpt: "Toyota's new AI robot can reportedly master complex tasks in a matter of hours, completing changing how we look at robot learning."
+    publishedDateTime: 2023-09-21T20:43:00Z
+    webUrl: "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: BGR
+      domain: bgr.com
+    quality: 56
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
+      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1596
         isCached: true
-  - title: "How AI is generating change in newsrooms worldwide"
-    excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
-    publishedDateTime: 2023-09-20T14:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/"
+  - title: "Toyota conceives of more efficient method to train robots"
+    excerpt: "The Toyota Research Institute (TRI) has unveiled a ground-breaking generative AI method that enables the rapid and efficient teaching of new and improved dexterous skills to robots."
+    publishedDateTime: 2023-09-19T21:59:00Z
+    webUrl: "https://interestingengineering.com/innovation/toyota-conceives-of-more-efficient-method-to-train-robots"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Why trust is critical to business applications of generative AI"
-    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
-    publishedDateTime: 2023-09-22T15:10:00Z
-    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "TRI is developing a new method to teach robots overnight"
-    excerpt: "TRI is developing a new method to teach robots overnight. The institute discusses the work it's doing to train robots."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/2601313/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "How new research is teaching AI how to smell"
-    excerpt: "A new research project from Philadelphia's Monell Center​ shows artificial intelligence can be as good as -- or better -- than humans at identifying scents."
-    publishedDateTime: 2023-09-20T22:31:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/how-new-research-is-teaching-ai-how-to-smell/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/d29b7eec-c881-44da-b143-2d9d3c9e7c6f/thumbnail/1200x630/7f71e76ce3cf7ad1ca8b9153285d45d8/d6adb1256173caeb2ea3e7f664f1f735.jpg?v=8e14bdb7e67d007af3399b47230d2245"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Estes is Using Data and AI to Revamp its LTL Operations"
-    excerpt: "Estes Express Lines is using artificial intelligence and near-real-time data to optimize its LTL operations, from first-and-last-mile to linehaul to dock operations."
-    publishedDateTime: 2023-09-22T20:56:00Z
-    webUrl: "https://www.truckinginfo.com/10206777/how-estes-is-using-data-and-ai-to-revamp-its-ltl-operations"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 37
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2023-09/20230924_estes-optym-linehaul-__-1200x630-s.jpg"
-        width: 1200
-        height: 600
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/19/image/jpeg/S2P9zGDVeghwt80T55mgNPjf0JVjF8lJEHV9n3pd.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "QPtZt+5tZAdk0MCski2xKXszWBYIJLe2zzVD2yBvh5SwgqRaoxVoMm+nVklUb66QUMOU+1oRyBy0Pmz8sssbCsX4/6GHT3tNNLbDZOEmCW0lQPUlXMYsYJMwDtz5bS5u9WND/Hx5TuWwKiDcJ2ofU1mQKHUOGitO+PpBbPgAaeekHMQyQy46lRRvKWyeZ1eCRs2Bk6MS5W/0kadyrbQjMkzqRMCRMcR7FtvauhKriIFnMjtuNtn8Dh48AZvtKVY6egzUdSqVdOxlZwZ9uPYrMVq4VDKeZZUy+F3YNLRO9WibYwBm6ezAyHIPaV20u+p7wT4WT2heDH+vUOWVQyN9ZzVvhqclaSG8CvXrJoE5f3odTyoY4kdz4ENKoCwrb8sNctQgGaHYxLfQOhEEEjqKfqMs5w8fCdzu/BgzcaYNlzR1kpQzCqGLeYczDTaWv0R1YiJBWaJSGUK71Igwmw8v64ukuwq4xk4vHKXBmB7b+fpfSXrBPGGGvSvq59UKucAEB7jfxvsFiFYNOgHvhnNQcw==;bvZfLLgyD00g46Rh3i/t0A=="

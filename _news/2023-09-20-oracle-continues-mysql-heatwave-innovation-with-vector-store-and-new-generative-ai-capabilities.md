@@ -19,57 +19,88 @@ topics:
   - AI
 
 related:
-  - title: "Venafi taps generative AI to streamline machine identity management"
-    excerpt: "Venafi’s Athena, based on a new large language model (LLM), offers users a natural language interface and provides developers with automated code generation for important integrations."
-    publishedDateTime: 2023-09-20T15:45:00Z
-    webUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html"
-    ampWebUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
+  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
+    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
+    publishedDateTime: 2023-09-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/09/article-2-image-iStock-1354205086-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Venafi Leverages Generative AI to Manage Machine Identities"
-    excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
-    publishedDateTime: 2023-09-19T14:48:00Z
-    webUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/"
-    ampWebUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
+  - title: "How TRI is using Generative AI to teach robots"
+    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
+    publishedDateTime: 2023-09-19T15:43:00Z
+    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
-        width: 900
-        height: 503
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
+        width: 1000
+        height: 529
         isCached: true
-  - title: "Venafi Brings New AI Innovation to Control Plane for Machine Identities"
-    excerpt: "Venafi unveiled Venafi Athena, its new underpinning AI technology for the Venafi Control Plane, to make machine identity management easier and faster."
-    publishedDateTime: 2023-09-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230919556062/en/"
+  - title: "Australia Adapting Fast to a Generative AI World"
+    excerpt: "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks."
+    publishedDateTime: 2023-09-19T14:54:00Z
+    webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-  - title: "Venafi introduces generative AI service for enhanced machine identify management"
-    excerpt: "Machine identity protection Venafi Inc. today unveiled a new generative artificial intelligence service that’s designed to make machine identity management easier and faster for security and platform teams."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/venafi-introduces-generative-ai-service-enhanced-machine-identify-management/"
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Why trust is critical to business applications of generative AI"
+    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
+    publishedDateTime: 2023-09-22T15:10:00Z
+    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The era of generative AI: Driving transformation in financial services"
+    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
+    publishedDateTime: 2023-09-19T15:02:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
+        width: 970
+        height: 628
+        isCached: true
+  - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
+    excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
+    publishedDateTime: 2023-09-20T18:50:00Z
+    webUrl: "https://www.nextplatform.com/2023/09/20/sambanova-tackles-generative-ai-with-new-chip-and-new-approach/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 34
 
-secured: "qc7DVVBTuQzv3afZCGCLM5Q7HomJdnNLA/HKulklJRfkZIwOSMISFJ1NjGoTX8yu2wTZVekYg1yrpGsRwvU18bSFSdSFTZHLJjydWmarwJj1rgnkluPWeM3+u+MQwWVm93UlKSExQ17Xf1xo8cRFTUHwZThRrQX8GCOk2rlD94dqfdPDOVv/kTeiAYpB3vM/z2R77gntkhNLN1BGQ7Cxv8OcOezE6yM3th48s4OhypxEyiK7A7FpU6JuJ+W1io4D5LykThRueIIrtTS1hWx/Ypbkbwtd0pl/v4yFpEBd588EtXXN1xbPstwgpbsam1rZCNGmGQJ7GxeqVXdMDcuBB64i8xeOuX0N3/9LMnqTnYE=;Nty5k+Lb4oooBUSL4IVS2Q=="
+secured: "v1TqYZf8yls1TfSaZ9iKFje0Sai/xJfvp/Tq3Ur+nFMnMoI/z/lhjY9Gi/Rjs1LUigngxQh4yBIn/XvyRix8/UFMlcD2zc82bLk7q+HKreZ8S1mmch4dHCTL9lBNjjczu1K0kqT0Ds1Di/cBaB0wCFQB9PNkSgHswi1BB1YcPrFrCtp75TnOZ4QzEDRR/TCgI7PohNXiyyYPGfn34ydU3ZWFUxfV18DTefIHk6pmaYCUfGEhceoR8yhwoCOaSPGBlxgppeQGehNba+hSL0kKP404gEl12CSVEFzzi8HjBGDPIKP5YW7v9IKpwlPYBIN1oxc8gRuakTBtnO/kxzkdFcgLKdZbjzgB+JsavBI0Mbk=;vQeXh7QgdojwyIyYv6kaag=="
 ---
 

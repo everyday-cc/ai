@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everythi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Amazon's new Echo devices bring generative AI and new smart home features"
+    excerpt: "Amazon's Alexa assistant gets upgraded smarts in new Echo devices that include smart glasses called Echo Frames, an upgraded Echo Show 8 with a display, and new Fire TV devices for audio and visuals."
+    publishedDateTime: 2023-09-20T18:18:00Z
+    webUrl: "https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "LbtOdFmFQGIVMANCmIEvdT9dtpdYOWjTGbUW7BOz5JExum8JwMdJx1tuCLNtF0hmMxCmj1i7wdXDhmFa0hk1c0PGpjYpK55UZsiWFJOJxnN3EWH++bRO1OEQuGN8Sqja8yDw8tY00vylJKl+Cmigg6Mtk2m5f6iFSrYM1ibN7X9278eGl2qC27zwAxFcUyGaFYtpzX+t8vpdUHKrtrbj9MnOV21DjHSOIQnn0qjUDh6D1vunbwJIS2NUQTz7U0bhdrU6CHKxMSFp/LXQXeI9YRaDWufu78dAKrKMM9Xw7QFaDUGm4rEfLBq8uuhEXRfMKZRZyM4pSblgsKvxcL91yRyPr/VtFvtPBovoYvSpLVPz+H07Mwfr9tjSak3Lm5jj6MOpA/BKqlteeTJF2NPxqyrzsY7sW6KGbp3/6QZhxIdFkpA2BEjhT2mMYv0XKPa77RjByKE+UGs1og3iV3n6Clyw1xiGB5tjZ1NSMpmZFT+DBVIr6bVHpzT+3Fxf4zb0exc9Uyp5sUbWtvyOUnvR0g==;StN5imtDaZ8idDVjVpc0Pw=="
 ---

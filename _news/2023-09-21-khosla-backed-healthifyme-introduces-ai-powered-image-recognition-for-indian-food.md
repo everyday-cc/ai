@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduces-ai-powered-image-recognition-for-indian-food/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Indian engineering student builds AI model for real-time sign language translation"
-    excerpt: "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words."
-    publishedDateTime: 2023-09-19T07:33:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
-        width: 1200
-        height: 776
         isCached: true
   - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
     excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet the next generation of AI superstars"
-    excerpt: "Richard Zhang, a senior research scientist at Adobe, invented the visual similarity algorithms underlying image-generating AI models like Stable Diffusion and StyleGAN. Without his work, we would not have the image-generating AI that has captivated the world."
-    publishedDateTime: 2023-09-19T08:37:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079846/meet-the-next-generation-of-ai-superstars/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 63
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/SharonLi_Stathas_34-algo.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "4BnEg8FkQCp3zIsMaxGcWlXOKAnk3GEoZIDiQIy5PKZPL5JLouA0cwin3rzh7Nsijh007qAkETXek8OjiiKSI29CSEVWVyaID6PYK8DeenlPUbtF/AIlg5wUcsUny6oHUHZcxUmpyNu7s0IiiBCn8uTzAOUF0fOlzGepZYJXLvwNKvm4RaAKfeAplwOQ/cAHMKkhzukKFxD0wxqdE7dVZ6B3rUVgtiIoq95/FArNJZHaRudIGETvOkW1Cr2yZtOI+2qJJ6XQb3VRMVfI3tGXjbfoxsFBt094XuLgyBAoY9dEjlncIuft0wL6QlTGxvH5Fn8lxooqMfGHcsGCDtbg+LJaZBUjN/Xua0PBeFa4WJjDP4PrYNjIbJ8Repavr9i+ILcrBPa3QwFGFqxYDAyugcMRh8admKHIV9r0+FpXMBAwAPd6sdYHDxIRr3qNhHlfLu/eJxTnfseOQ2WiZTpximntgSi4r+XNCY1xOmjQ7P1fMODVxfrQBnpvkoXRCWVWeXiGCutyPu8Tz1vAvljZxw==;NrYg/mU9KDqgy26gVSWdWQ=="
 ---

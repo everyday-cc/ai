@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "EU Considering Whether to Attend Britain's AI Summit, Spokesperson Says"
-    excerpt: "LONDON (Reuters) - The European Union is considering whether to send officials to Britain's upcoming artificial intelligence safety summit, a spokesperson told Reuters, as the bloc nears completion of wide-ranging AI legislation that is the first of its kind globally."
-    publishedDateTime: 2023-09-22T10:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-09-22/eu-considering-whether-to-attend-britains-ai-summit-spokesperson-says"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-
 secured: "Md2lPA8Y3XJme85oLAF6Zm1JPfOhPh0akz+TQ6kBEsW7rSnI6BZTfDFlrruuYhGGn55WhmRh0iZ9JOQSvXt5CO7T1anoHLsgDrAbZYQzqneuSic21lGN7nJjX+YGod0i7tx0BiEi7VjVwMmPOG4naLsQcoYc0lwtSV4p/zFzzBMWLO3nsN+ecWMpR26SnoI8VVhCWcC61yym4yO/d4skgWlzYvNroD3O1/iq1nB7Q2aJ6WnmcvDNoa8dtICXYjRjS/bg5sHLfPxAjy0+xPDXNOlrGygFrYM/1gEXuX4fQZdLV23Guwqnh/9N3LIqF//VVQwlDagsYSIdXUY0kNaoOofSY+cmvIdok/8MV8Gv8hhBc8ZALA2J7udyToLcrDCPoeit3p5Iv0HcjeuovRH4suoNjnrvZxh9YAAdIy1ZYEIKhka0U7fWCsqwxFVNSdERcqBlpWiMDvAe8784cIeP9yaE/Wk+Ms7kt3n0LixKyI0nUUrEob2jEQSvLfx8IHIQR+1qVx+p/EDKJD35t4NmDQ==;nKd4W/G3h8O6KWdKTGqa3g=="
 ---
 

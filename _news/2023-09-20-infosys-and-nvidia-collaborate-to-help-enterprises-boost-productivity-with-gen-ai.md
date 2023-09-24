@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
+    excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
+    publishedDateTime: 2023-09-20T11:21:00Z
+    webUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 49
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "After Reliance and Tata Group, NVIDIA to collaborate with Infosys to help firms with generative AI"
     excerpt: "NVIDIA is planning to help enterprises drive productivity gains with generative AI applications and solutions with this latest collaboration."
     publishedDateTime: 2023-09-20T23:32:00Z
@@ -89,6 +105,24 @@ related:
       name: India Blooms
       domain: indiablooms.com
     quality: 19
+  - title: "Infosys, Nvidia Partner To Help Firms Adopt Generative AI, Boost Productivity"
+    excerpt: "Indian tech major Infosys and graphics chip giant Nvidia on Wednesday announced to expand their strategic collaboration with"
+    publishedDateTime: 2023-09-20T17:38:00Z
+    webUrl: "https://menafn.com/1107108236/Infosys-Nvidia-Partner-To-Help-Firms-Adopt-Generative-AI-Boost-Productivity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+  - title: "Infosys and NVIDIA Collaborate to Help World's Enterprises Boost Productivity with Generative AI"
+    excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, and NVIDIA (NASDAQ: NVDA) today announced that they have expanded their strategic collaboration with the aim to help enterprises worldwide, drive productivity gains with generative AI applications and solutions."
+    publishedDateTime: 2023-09-21T01:05:00Z
+    webUrl: "https://www.newswit.com/en/ifolz1xjtwojai5s7l0y697iymeoz6pt"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 6
 
 secured: "mXuTqOYz6y2BENtAjWeHj1QrFBwiMsg5DXc5rSf7V4+wu2gySEvpDYeO1qh2NNnP608kXG1RPQ32u8msT5wEh9rwN1jeUgsfprCYDgO0EWQM/XXNCfsG3yWsK2n7pCqxfs1mi1bWi7NfefgciHZL1hIAInPaPXX/eRs87ueCho2AKM5feDKT54I2usOGrRWmZF+m2kAh9ZzCxm3qMsfGxTMC5DPJjPwCjWzmiQnTwr5Ze4d1m6NaswBwITYFO4K+zXdonmQKP0mfgMuezGRZ+BsB7XyD1p/WLc3JjqLZ5BkhzxcZiYeb8VdyxUstvoWd+FtRCw7gwjDiBMNd3GQRvybTl3HRR3SloWVAhWE9jIQLCwNHpojp0z38zMtDaMQgKfXXapDBfSW0bJoqd8fs0H35apT8A5efbIxiB75RL8pYu5i8gF+QXwK6ToaQxqJ6OmWDBUInWUCqXlFCD6+G3nOk/TJhaoadpu7yI6pvSgxsHhr2lguJkgoQplMW19E9wVCJquMKd6WEkVBN1U8PrQ==;/1b5XOJcJjrceDquPZ2T3g=="
 ---

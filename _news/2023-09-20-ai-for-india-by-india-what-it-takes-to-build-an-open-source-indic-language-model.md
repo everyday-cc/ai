@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Indian engineering student builds AI model for real-time sign language translation"
-    excerpt: "An Indian engineering student has developed an innovative AI model that can translate American Sign Language (ASL) sign language into English words."
-    publishedDateTime: 2023-09-19T07:33:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/indian-engineering-student-builds-ai-model-for-real-time-sign-language-translation/article67321859.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/t0e6lo/article67307334.ece/alternates/FREE_1200/2023-09-08T080429Z_1404446435_RC2Y40ARLAVG_RTRMADP_3_AI-COMPANIES.JPG"
-        width: 1200
-        height: 776
-        isCached: true
   - title: "The Impact of AI-Powered Assistants on Healthcare: A Comprehensive Analysis"
     excerpt: "Artificial Intelligence (AI) has revolutionized numerous industries, and one of the most promising fields where AI is making a significant impact is healthcare. In recent years, AI-powered assistants have emerged as a game-changer in the healthcare sector,"
     publishedDateTime: 2023-09-22T07:17:00Z
