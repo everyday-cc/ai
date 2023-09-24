@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/cfpb-calls-for-increased-specifi
 webUrl: "https://www.jdsupra.com/legalnews/cfpb-calls-for-increased-specificity-1062912/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "CFPB issues guidance on Credit Denials by lenders using Artificial Intelligence"
-    excerpt: "Today, the Consumer Financial Protection Bureau (CFPB) issued guidance about certain legal requirements that lenders must adhere to when using artificial"
-    publishedDateTime: 2023-09-19T17:25:00Z
-    webUrl: "https://www.cuinsight.com/press-release/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 13
 
 secured: "4nLUjpaSVSBvWVF4ITdbsnV4o77R6m65xXS4oBei1V1Q5T7nivUyhDbxy+9oPIsgaRxU2qdK9PHk/7TSIWlfirgzhGuzyDeSs3dtsi+61zd4BO9f6DTa6IrN8Sw1mdITEqYYyIGIFhYEosa14zh3qCEzZ/CPDi1ITK7WXoi/EANb93ZX9ttrU8kbY2DbMx9FgA0QyYDu+r5CigrLBbgB2Td5gBFkkhTgG4PxBv6VKbei1hCuldfr4TG9iiOEReO76SVRo8XdoGwPlcK7TuO7/tiLTKYWWt9/xbL8u0DJG5A0CWJK1EAYw3bQG+qXxtSoNaxGi/0f/MhNxHv8fbfFnPo5rGjDyOrKuxVOm2ha76c=;phQVmLA98YbGctdzliyd4A=="
 ---

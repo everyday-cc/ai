@@ -5,6 +5,8 @@ excerpt: "A Dalhousie University professor says he won't allow his students to u
 publishedDateTime: 2023-09-17T11:44:00Z
 originalUrl: "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-university-classes-research-1.6968138"
 webUrl: "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-university-classes-research-1.6968138"
+ampWebUrl: "https://www.cbc.ca/amp/1.6968138"
+cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6968138"
 type: article
 
 provider:
@@ -14,6 +16,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://i.cbc.ca/1.6945190.1694824581!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg"
+    width: 620
+    height: 349
+    isCached: true
 
 secured: "pa5wBxub9B6otWWzw/C39cdSIq3ltP4Ipf39au9zbm+SHRgAIVxiBCMFJcpTy4Uq7PgZWwzzE9t2P3eYUJzCC0JYlNKO0aVSaTNmAur/BA/CJqg2hnkt3HSTQl7/bXKaFxbE4gqVtHwbYOnCBSlnFkZ27kYJSWbOYd+uvu0O0aOgl9GAU+GSEV5ZQkjbOyIYXIB7NI4lEg7U0lS0G7MDQrU+MpI37j5fGRZ68BPp36hUSnklgtHC7yRRImVpTZ2ifSg+FUJvvpxR3H3GdV9vAyupFVmc02draWaMIjsHDYJax2WmVqEYy6CZQH3Yi7T2Kb/4FRbfvmnTCG9+OZxNpxXHxLo0mJqPfyk8FIzgUxE=;sN0PPcLw6oPqJ6CTozYtQA=="
 ---

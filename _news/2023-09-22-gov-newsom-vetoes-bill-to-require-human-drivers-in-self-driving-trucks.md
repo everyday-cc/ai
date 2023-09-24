@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "California Self Driving Trucks"
+    excerpt: "Friday, May 13, 2022. Newsom has vetoed a bill Friday, Sept. 22, 2023, that would have required human drivers to be onboard self-driving trucks, a measure that union leaders and truck drivers said would save hundreds of thousands of jobs. California's ..."
+    publishedDateTime: 2023-09-24T10:05:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/california-self-driving-trucks/image_c34c0b0a-af41-5d0f-848e-a46f5fdf656a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/34/c34c0b0a-af41-5d0f-848e-a46f5fdf656a/650f989f939d1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
     excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads"
     publishedDateTime: 2023-09-20T16:32:00Z

@@ -63,20 +63,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
-    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
-    publishedDateTime: 2023-09-19T17:24:00Z
-    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
   - title: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator"
     excerpt: "Yudiz Solutions, an AI and gaming Startup signs MoU with India's largest startup accelerator - Yudiz Solutions, a digital transformation and technology services provider, has signed an MoU with"
     publishedDateTime: 2023-09-22T12:31:00Z

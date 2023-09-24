@@ -2,19 +2,21 @@
 category: news
 title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
 excerpt: "These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand. See Also ..."
-publishedDateTime: 2023-09-20T07:23:00Z
-originalUrl: "https://www.benzinga.com/news/23/09/34750258/analyst-bullish-on-microsoft-stock-citing-ais-potential-to-drive-higher-profits"
-webUrl: "https://www.benzinga.com/news/23/09/34750258/analyst-bullish-on-microsoft-stock-citing-ais-potential-to-drive-higher-profits"
-ampWebUrl: "https://www.benzinga.com/amp/content/34750258"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34750258"
+publishedDateTime: 2023-09-20T06:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
+webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
 type: article
-quality: 71
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -22,9 +24,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft.Shutterstock_6.jpeg?width=1200&height=800&fit=crop"
-    width: 1000
-    height: 667
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -428,20 +430,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
-  - title: "What comes after Xbox Series X? Microsoft's 2028 next-gen console plans revealed"
-    excerpt: "The next Xbox is said to double down on cloud integration, enabling \"larger, richer, more dynamic open worlds with increased technical demands\" as well as \"cloud hybrid games\" delivering \"new game genres and types, unlocked through player growth and technical innovation.\""
-    publishedDateTime: 2023-09-19T17:04:00Z
-    webUrl: "https://www.gamesradar.com/what-comes-after-xbox-series-x-microsofts-2028-next-gen-console-plans-revealed/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XmNzZKdLfTX3Wf9KNHvpwe-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft is rolling out generative AI in Windows and Office app"
     excerpt: "Microsoft's Copilot-branded AI assistants will provide a unified experience across operating systems, applications and devices, CEO Satya Nadella said."
     publishedDateTime: 2023-09-21T15:34:00Z
@@ -506,6 +494,6 @@ related:
       domain: searchengineland.com
     quality: 29
 
-secured: "j+pfQl4/RmPvd4t1gT5XEkeq0YsP8AYghTl/C5RsGIQsMXYUH03wjmlCVlxk5hO4auG5ZO8WFbIBQD4R4IqGj0YqJBXgz+y7Bj2e/A9ovJqHbMVHywi1pMZep1DIoCUMdBhTqlklWlLCeIYZbjpY1n8z0+k7U2UXsNfnUtuJkxRDPPvriOHo6jYgo1gsF78xJYmE3+Lbh9s8FSpGJbXMup7iWynJv4HtMQNM7wueJBWQbZl7hLYiyHiM+Wj+IC9SxS84bfkYO8RNQZmSzpQ8PMIMsBXcu9JU7hTCJuVy3LrMsCVwa9SUqn4nrM/qaETPV6Nb2foV1r8yYz6wDL9OMGMHd9jqnnyqjFkA3EZj5FE=;M8iYVTbwHd1Fqxxew5c/rg=="
+secured: "HM2I6LDEYckF3tYbxG54biRblvfe4USw6avB2lzkL//XTbQEoGop6xJNz0mjD3kt0tnNukn0opOm31h6srZS5Jf9JFKKCkHeHPOtpfhi459YXGCV2kg1sRoY/jR3Us48i8sZii+FSdtYqGs145nVWUYPhytd+rh+NcDT5AaIWeO+APg15eZ1B5pwxubhwXi4uwH/p3/UrT/JpY+KLFg5Eh1kO4+FOm58xUlq8sbWOjsOFYdvR33Nb6R0SNAZI1x4MMnO/BMg8lTZ7TM6mkTPy8KqoD8klk7FTuf6TCprW0y0EoN0eiQajQ7Yqy8gRY3frXfe5ymd/JryeYHh5AVCGuA+mUDSWJnF07UkmP21qR0=;Yk42zpEDVKxAR/2hWe9Mug=="
 ---
 

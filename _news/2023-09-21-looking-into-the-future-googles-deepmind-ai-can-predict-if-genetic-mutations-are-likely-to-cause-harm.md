@@ -43,22 +43,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
-    excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T18:49:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google DeepMind AI Tool Predicts Whether Genetic Mutations Are Likely to Cause Harm"
     excerpt: "Four million of these mutations have been observed in humans Only two percent of them have been classified In all, there are 71 million such possible mutations"
     publishedDateTime: 2023-09-20T06:22:00Z
@@ -176,6 +160,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/369152DA-8A6D-4990-B051821507732C5E.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "What’s AlphaMissense? This new Google DeepMind tool analyses genetic mutations"
+    excerpt: "AlphaMissense promises to predict how dangerous a genetic mutation is. Researchers at DeepMind, one of Google’s artificial intelligence (AI) companies, presented a new tool that predicts whether or not genetic mutations are potentially pathogenic, a breakthrough that could help research into rare diseases."
+    publishedDateTime: 2023-09-21T14:45:00Z
+    webUrl: "https://www.euronews.com/next/2023/09/21/whats-alphamissense-this-new-google-deepmind-tool-analyses-genetic-mutations"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 35
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/91/15/00/1000x563_cmsv2_68a11ed3-f436-563a-b400-8121903fecc3-7911500.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
     excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."

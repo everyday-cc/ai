@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TikTok is launching new tool that will help creators label AI content on the app"
-    excerpt: "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce."
-    publishedDateTime: 2023-09-19T18:59:00Z
-    webUrl: "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186"
-        width: 5000
-        height: 3333
-        isCached: true
   - title: "TikTok to More Clearly Label Videos That Are AI-Generated"
     excerpt: "TikTok is creating a new set of labels for videos that use AI and says it improved its algorithm when it comes to automatically tagging videos as AI-generated."
     publishedDateTime: 2023-09-19T21:59:00Z

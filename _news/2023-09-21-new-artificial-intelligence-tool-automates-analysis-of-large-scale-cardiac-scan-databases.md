@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
+    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
+    publishedDateTime: 2023-09-20T13:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "O37u62WTPsIiw4vafGVAU4EMr57thmiRtVTlXUiXNdjOI2jCeJAutOepR3/rpbbkmcsP0H9FtGvV1rD0EsowEQJlA8rHb5Wzjr1hKroGnXCS6di+rv5CXowP+S29GpCQ+C5TGDVacTkJ2X0eQ3pl8J5VDVPcx5ExDarakltlP+puGKdjZxRNp4kIBi6W9BnJ+JURXK1bSbe+U98QEDjIhg7X1ThgOm078R4Ud1ZvFLqk7SrrPwuipiWbEyhawcKGS4Z+1x5NrpRINbXISSnVAj2Gr8sboEYzKZLy7YthoHhXkF2F8UXtvp88FXK7/tLUaxe4jzwRRoOIrOuM0cY1jfrzrqOegbb+ip5xzww3ll3H3NIWjWtyfXLlLPQkPm6E4dDP+A0cvoK54HqN2oUhoGM8DjkUDcb768NQT8VGEsSJgw8ZEOLqIGpOeDetysemnDpI+O+gWz1tnDFAxduI4Q/tqjZUifoyaU3vYzwJUHYjXz3Uj3mVUkQOr2JTgocniNVk/1iO2v8VJKpoVlODbA==;LVSVs5zs+V4wQx1IyKnj7A=="
 ---
 

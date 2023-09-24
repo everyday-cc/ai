@@ -25,54 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "7 Steps To Operationalize AI In Your Organization"
-    excerpt: "While most organizations are eager to tap into the capabilities of artificial intelligence, knowing where to start can be overwhelming."
-    publishedDateTime: 2023-09-21T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
+  - title: "Latest Prompt Engineering Technique Chain-Of-Verification Does A Sleek Job Of Keeping Generative AI Honest And Upright"
+    excerpt: "Prompt engineering welcomes the new Chain-of-Verification technique, aiming to deal with onerous generative AI issues such as errors, falsehoods, and AI hallucinations."
+    publishedDateTime: 2023-09-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 65
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff49f9b9d41ff3c2f9e2cb/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1827,1217,x142,y0,safe&width=1200"
         width: 1200
-        height: 857
+        height: 799
         isCached: true
-  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
-    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
-    publishedDateTime: 2023-09-20T10:40:00Z
-    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
+  - title: "Prompt Engineering New Chain-Of-Density Technique Prompts Generative AI Toward Smartly Jampacking Crucial Content"
+    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
+    publishedDateTime: 2023-09-20T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/20/prompt-engineering-new-chain-of-density-technique-prompts-generative-ai-toward-smartly-jampacking-crucial-content/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 38
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Evading reputational risk when using AI"
-    excerpt: "Instead of learning about every AI-related risk, organisations should focus on building a robust reputational mindset."
-    publishedDateTime: 2023-09-20T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/evading-reputational-risk-when-using-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
-  - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
-    excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
-    publishedDateTime: 2023-09-19T20:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883291.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 28
 
 secured: "bMXHUosCpDjGuReM2aMsfbz+Vm4HJOvMWP33FHHMEwSmVH+8pfuKUv68E6Sw//Rt1xPBIbQ6w3qGruV1QkFakruOvCs9MLACKvw96GscGc2Dz5MWVRs15QEKkSgfuW6cB6thkTd6BxHptJNXMfYRBsuQkcYP+mn2LzoR/5qhpGnSJpGeXaydYnliTgpi+seAiFpzmo9qxWOYCdgg+UyyLy7Fbm11t/0/c1x7gctXB2Sh2ufaEXW4u4+OeH8F6GsrPBgmZUZvgc74x3R8Pi89CvkYmFAmNmYMW0Fx9Iv6fxKqhL/fH5KcVCEL04fq7hVn3j3mWFMaeCwQ93onVTMriY8d4VyV2Ky8KNjkc4YKnM4LhtKhYkhVsuwt/qxcyNACHFyawHfNHf4GPE+FEMpjOR0WKx0aDtVEy8RJw+zaarr1x9aNRIHO/b8IqhbY/es6LJaC0KB9vOSyhji2iTym2m/ydLXFe+2D9WBbwBXnhFNh6Lmb63SU2D5q8i/IhYiVV56k3bVETIxkx4x8gec9Bw==;/1xLddpJjQoKiS7uZif5fg=="
 ---

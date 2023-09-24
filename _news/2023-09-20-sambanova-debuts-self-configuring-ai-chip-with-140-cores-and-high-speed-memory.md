@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/19/sambanova-debuts-self-configur
 webUrl: "https://siliconangle.com/2023/09/19/sambanova-debuts-self-configuring-ai-chip-140-cores-high-speed-memory/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
-    excerpt: "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,"
-    publishedDateTime: 2023-09-19T17:47:00Z
-    webUrl: "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 51
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg"
-        width: 1100
-        height: 550
-        isCached: true
   - title: "SambaNova announces SN40L AI chip, capable of handling 5 trillion parameter models"
     excerpt: "SambaNova Systems has announced a new artificial intelligence chip capable of running models up to 5 trillion parameters. The SN40L is designed for training and inference, but is only available through the company's wider platform 'the SambaNova Suite' - a combined software and hardware offering."
     publishedDateTime: 2023-09-20T12:27:00Z

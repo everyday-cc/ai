@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/anil-kapoor-artificial-intelligence-l
 webUrl: "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1-770x433.png"
         width: 770
         height: 433
-        isCached: true
-  - title: "Pak Asks Its Banks, Regulators To Refrain From Using Indian Origin IT, AI Products And Services"
-    excerpt: "The Pakistan federal government has advised all informational technology (IT) and financial institutions, including regulato"
-    publishedDateTime: 2023-09-19T17:24:00Z
-    webUrl: "https://menafn.com/1107100562/Pak-Asks-Its-Banks-Regulators-To-Refrain-From-Using-Indian-Origin-IT-AI-Products-And-Services"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/19/I_05861image_story.jpg"
-        width: 400
-        height: 220
         isCached: true
   - title: "Artificial Intelligence is reshaping India’s stock market – for better and for risk"
     excerpt: "In conclusion, AI offers thrilling possibilities for the Indian stock market, from better data analysis to democratising sophisticated investment strategies. However, it isn’t a magic bullet. A balanced approach, integrating AI’s computational power with human judgment, is the most prudent path to navigating India’s complex stock market landscape."

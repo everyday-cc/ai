@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importanc
 webUrl: "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI as a catalyst for change in the telecommunications industry"
-    excerpt: "Reinvent how your business works with AI, transforming customer care, IT, network optimization and digital labor.\nThe post Generative AI as a catalyst for change in the telecommunications industry appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-19T18:28:30Z
-    webUrl: "https://www.ibm.com/blog/generative-ai-as-a-catalyst-for-change-in-the-telecommunications-industry/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 98
   - title: "Wisconsin professors discuss changing information landscape in age of AI"
     excerpt: "Culver said in one personal experience she had with Spotify’s generative AI, it went over an hour without playing a female artist. Generative AIs base their predictions on past information, and the biases held within that information manifest it in an even more tangible way."
     publishedDateTime: 2023-09-21T17:50:00Z

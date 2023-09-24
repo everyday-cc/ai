@@ -20,59 +20,36 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "7 Steps To Operationalize AI In Your Organization"
-    excerpt: "While most organizations are eager to tap into the capabilities of artificial intelligence, knowing where to start can be overwhelming."
-    publishedDateTime: 2023-09-21T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/7-steps-to-operationalize-ai-in-your-organization/amp/"
+  - title: "Bolstering enterprise LLMs with machine learning operations foundations"
+    excerpt: "Building a solid foundation in machine learning operations (MLOps) will be critical for companies to effectively deploy and scale LLMs, and generative AI capabilities broadly. In this uncharted territory, improper management can lead to complexities ..."
+    publishedDateTime: 2023-09-21T17:02:00Z
+    webUrl: "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/"
+    ampWebUrl: "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ff49f9b9d41ff3c2f9e2cb/0x0.jpg?format=jpg&width=1200"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/machine_l_bulb_200.png"
         width: 1200
-        height: 857
+        height: 800
         isCached: true
-  - title: "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics"
-    excerpt: "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly"
-    publishedDateTime: 2023-09-20T14:55:00Z
-    webUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/"
+  - title: "Start harnessing the power of AI and LLMs by asking these four questions"
+    excerpt: "It’s no secret that the widespread adoption of artificial intelligence (AI) has brought a host of promises and opportunities to the enterprise. In fact, recent data shows that AI adoption has more than doubled since 2017, and that number will only grow."
+    publishedDateTime: 2023-09-22T05:01:00Z
+    webUrl: "https://www.scmagazine.com/perspective/harness-the-power-of-ai-and-llms-with-the-four-whats-and-hows-of-data-security"
     type: article
     provider:
-      name: hoteltechnologynews
-      domain: hoteltechnologynews.com
-    quality: 58
+      name: SC Media
+      domain: scmagazine.com
+    quality: 36
     images:
-      - url: "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png"
-        width: 1280
-        height: 720
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/09/JoeRegenburgerCol-e1695331255621.jpg"
+        width: 1043
+        height: 707
         isCached: true
-  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
-    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
-    publishedDateTime: 2023-09-20T10:40:00Z
-    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 38
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Evading reputational risk when using AI"
-    excerpt: "Instead of learning about every AI-related risk, organisations should focus on building a robust reputational mindset."
-    publishedDateTime: 2023-09-20T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/evading-reputational-risk-when-using-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "cEZzVvzan2rNxTrFirKT1GYBFHkP/pgIlgag6aK9gDpA1xLUCU6HTH7pajNeQeGXgV0ShX8Sp8FG/MsegDJlCn0/AuT7qREZxPAU+ysjSJwoHLSOf/bgSDoaRT48/uvwMRuPcTN5gewfNeWHb7lShbCW32UixjEJiZY77Th7O50nlLfADLK6it7ZlspcdBXfXe/vBsXRNohDBOEB1UxHlVXx48CanXY80CJ6mbYb7Iq+56emFrnXh5dUIYiQv2EVfi+AdHP/9uq9GjWWCw53Zuy9/xjFUKFB98kJUwc7UQWEehcVHH9hM5WJSGEUJJE2sJFH+OeBr/Q+ApB+aB0/6OThNKhVErP4dniJ2+D3I2Y/hRfozdfP+s0qXzCMXGZBOj6zTqnJVL2xy072JwF9kU1r7EBUlHKc57IFF8iOp12hlCBu3aoKi/2ppKpj7gRH0J6KlhwDq4t5Ap0D2RQEj0oau4Y3FWb53/GVPJ6liwhxPcKfTMzFdZObh2DtPAYrdKgK2FOdLUHPyBDjR7vo6A==;yMD2cnJg0icFRPAcl+b9sA=="
 ---

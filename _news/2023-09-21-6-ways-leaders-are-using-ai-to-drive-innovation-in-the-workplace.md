@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways the generative AI boom is upending the advertising agency business"
-    excerpt: "Agencies are embracing the AI wave, but grappling with new — and sometimes unexpected — business challenges."
-    publishedDateTime: 2023-09-19T18:30:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-changing-advertising-agency-business-2023-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "Using generative AI to drive citizen engagement and empower the workforce"
     excerpt: "Google Public Sector CEO Karen Dahut urges government leaders to get started with generative AI pointing to early successes of public agencies."
     publishedDateTime: 2023-09-20T19:33:00Z
@@ -100,15 +91,6 @@ related:
       name: KALW
       domain: kalw.org
     quality: 25
-  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
-    excerpt: "The work begins with silicon innovation. Intel's five-nodes-in-four-years process development program is progressing well, Gelsinger said, with Intel 7 already in high-volume manufacturing, Intel 4 manufacturing-ready and Intel 3 on track for the end of this year."
-    publishedDateTime: 2023-09-19T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intel-innovation-2023-empowering-developers-bring-ai-everywhere-/2023/09/19/9883938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Trend Micro Launches Internal AI Contest to Drive Innovation"
     excerpt: "Trend is a pioneer in the use of AI and machine learning for cybersecurity, having embedded the technology in products as far back as 2005 for early use in spam filtering. Over the years, the company expanded and matured its use of AI, developing new models to detect and contain unknown threats more effectively."
     publishedDateTime: 2023-09-21T13:22:00Z
