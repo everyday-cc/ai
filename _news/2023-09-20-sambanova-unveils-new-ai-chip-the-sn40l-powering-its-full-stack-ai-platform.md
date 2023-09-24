@@ -39,20 +39,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "SambaNova: New AI Chip Runs 5 Trillion Parameter Models"
-    excerpt: "Specialty AI chip maker SambaNova Systems today announced the SN40L processor, which the company said will power SambaNova’s full stack large language model (LLM) platform, the SambaNova Suite. Manufactured by TSMC,"
-    publishedDateTime: 2023-09-19T14:07:00Z
-    webUrl: "https://insidehpc.com/2023/09/sambanova-new-ai-chip-runs-5-trillion-parameter-models/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/09/SambaNova-launch-0923-image-1.jpg"
-        width: 1150
-        height: 575
-        isCached: true
   - title: "SambaNova debuts self-configuring AI chip with 140 cores and high-speed memory"
     excerpt: "The SN40L is based on what SambaNova describes as a reconfigurable dataflow architecture. According to the company, the technology allows its processor to analyze an AI model and automatically map out its internal structure. Using this information, the SN40L configures itself in a manner that maximizes the model’s performance."
     publishedDateTime: 2023-09-19T20:06:00Z

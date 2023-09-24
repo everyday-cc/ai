@@ -37,15 +37,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 16
-  - title: "IBM Commits To Train 2 Million in Artificial Intelligence in Three Years, With a Focus on Underrepresented Communities"
-    excerpt: "To help close the global artificial intelligence (AI) skills gap, today IBM announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities."
-    publishedDateTime: 2023-09-19T14:07:00Z
-    webUrl: "https://www.csrwire.com/press_releases/783716-ibm-commits-train-2-million-artificial-intelligence-three-years-focus"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 10
   - title: "IBM commits to train 2 million in AI in 3 years, with focus on underrepresented communities"
     excerpt: "To help close the global artificial intelligence (AI) skills gap, today IBM has announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities."
     publishedDateTime: 2023-09-19T21:44:00Z

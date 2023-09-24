@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "This startup aims to fly the banking sector into the heart of fintech revolution"
+    excerpt: "Falcon, a FinTech infrastructure company co-founded by childhood friends Priyanka Kanwar and Prabhtej Bhatia, has quickly gained momentum, acquiring 40+ enterprise customers, earning $10+ million in annual revenue."
+    publishedDateTime: 2023-09-24T06:57:00Z
+    webUrl: "https://www.cnbctv18.com/technology/falcon-fntech-startup-banking-sector-into-the-heart-of-fintech-revolution-17868011.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/falcon-fntech-startup-banking-sector-into-the-heart-of-fintech-revolution-17868011.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/falcon-fntech-startup-banking-sector-into-the-heart-of-fintech-revolution-17868011.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 69
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/09/falcon-1019x573.jpeg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "The Security Industry Shifts to Navigate the Integration of AI, Drones, and Robotics"
     excerpt: "Explore the integration of AI, drones, and robotics in the security industry with William Plante during GSX 2023."
     publishedDateTime: 2023-09-22T01:03:00Z

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence, Real Productivity: Exploring Five Ways In Which AI Maximizes Productivity In The Cannabis Workplace"
+    excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
+    publishedDateTime: 2023-09-20T17:32:00Z
+    webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34769618"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34769618"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/20/david-gabric-kdc5agsz6ik-unsplash_12.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Enhancing nuclear power production with artificial intelligence"
     excerpt: "Artificial intelligence (AI) holds promising potential for advancing nuclear energy production. These sophisticated computer systems mimic human logic in problem solving and decision making. With its capability to enhance efficiency,"
     publishedDateTime: 2023-09-21T15:04:00Z
@@ -37,15 +53,6 @@ related:
         width: 555
         height: 312
         isCached: true
-  - title: "Artificial Intelligence, Real Productivity: Exploring Five Ways In Which AI Maximizes Productivity In The Cannabis Workplace"
-    excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
-    publishedDateTime: 2023-09-20T17:32:00Z
-    webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "bZIiuUYOYWA2a37NESuSaehZTjc6RtGBduTFbR2A5Vu4z3ya1d7VY9g5Q4nb2obsMIqF6RLZU7O8SGvHt02rq3C4qPNhfSziDGzvSR9VjQ/uGmFRkbEiYv4gEcZdtqgJxDZ/FW+JQPkBZ0Ykwo0MOOeFS5ezucbhjmA3Ua4TQIwy5EHAvn/MRtLMa07pniqwKyBYwkOBC/mBTe4DoHzyed7tpFHGDANIdOYgCxBHWhx16ma652FLbY7ecQ2Vmw09xeY3dA8qw82qH1qQxBHjbyn3SFxHPijYuurOlLYz9uipXlAB+U+Ouev9adlDhsL8e4E233FFMvrh0IXeAhej4jJH8ciXVoMh5oIN55eSSk/oJGLoqF5WTgDbycj5uY0tAT3HhJm7I6f5PlqVc8tHn4v1dkVSvajZQ/9JzDCEz3ZaVgm/GGpwDx0NUfcumVJLz9d7E0n48LW7exSnw6ylmsBcp2YV2Uv+3+5YutTBkXW9SlPESI+cBjyWjURCGzAJCxCVrWWT0feTbImEy3+Otw==;+r7v0fdLtCEAC6uYYHrBqQ=="
 ---

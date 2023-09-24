@@ -40,20 +40,6 @@ related:
         width: 720
         height: 401
         isCached: true
-  - title: "AI integration: Transforming the sector and empowering savers"
-    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
-    publishedDateTime: 2023-09-21T04:30:00Z
-    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
-        width: 5115
-        height: 2880
-        isCached: true
 
 secured: "JMZYhYmDm5weF3XRMAl4UQwXi1h8iRRzSv2eD5n9U5favpzwQY0q4+/HsjNQ8Y3WsMjESS48vQ05AGPZt5Z5GczRNGGao7HgA+OTRjsWfiegfRrdAMSG/QNB24uYt2Z84RjPD318DzqLSf2z+87vpb3CU3ihN4vYc91Y2sN8FasPHsA5BPeYFCjgxb9b0yvyPVGmnzmPWwtH7PcVwYPhMfjG+Gb1pjuULnff9zb7/zg8fCHpzFPS1YAiNGQ4rG+HSrort31Ya0mUHgXeDeUE78Q1DEii29XSbiN0LPMNtGd8cT22T2m51Abad7Mv1jPEEGI/pTRGz+UjfN5QVjmyiz6LmKkabL1qS3X8eFjNIGAFFAwyzCxEgJF996gP/nbjVmOwUhcvanudLHQIdjTmsHGuu7rr9CqHcQ7fD40mX7uhIohAJ9VmPWOQQq0NsC3F502ttKAkng0mu+V/y6+mP96D2MrBLqDqTMlagpPxBVTlbSDQhhsgzyWw7DaxWykxuTizx0YpJm20A03m7TQLLg==;yJf8Cxne5d4FydPKqJ/6rQ=="
 ---

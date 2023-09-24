@@ -1,68 +1,84 @@
 ---
 category: news
 title: "Hi, Robot: Machines Take Over At China's Asian Games"
-excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
-publishedDateTime: 2023-09-23T00:00:00Z
-originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
+publishedDateTime: 2023-09-23T10:38:00Z
+originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
 type: article
-quality: 61
-heat: 91
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: Barron's
   domain: barrons.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
-    width: 768
-    height: 512
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
     isCached: true
 
 related:
-  - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
-    excerpt: "Sphere Entertainment's Humanoid Spokesbot and Storyteller to Serve as a First-Of-Its-Kind Guide at the Next-Generation VenueLife-Like Aura"
-    publishedDateTime: 2023-09-19T14:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-sphere-s-very-own-robot-aura-1032640402"
+  - title: "AI Robotics - Southern Asia"
+    excerpt: "The market size in the AI Robotics market is projected to reach US$370.40m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.52%, resulting in a market ..."
+    publishedDateTime: 2023-09-20T12:41:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Robots, machines dominate China's Asian Games"
-    excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
-    publishedDateTime: 2023-09-23T08:37:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1112638-robots-machines-dominate-chinas-asian-games"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 44
+      name: Statista
+      domain: statista.com
+    quality: 69
     images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-09-23/l_1112638_123141_updates.jpg"
-        width: 700
-        height: 390
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Machines take over at Asian Games"
-    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
-    publishedDateTime: 2023-09-23T00:00:00Z
-    webUrl: "https://tribune.com.pk/story/2437408/machines-take-over-at-asian-games"
+  - title: "AI Service Robotics - Southern Asia"
+    excerpt: "The market size in the AI Service Robotics market is projected to reach US$156.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.78%, resulting in a ..."
+    publishedDateTime: 2023-09-20T12:41:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/southern-asia"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 4
+      name: Statista
+      domain: statista.com
+    quality: 69
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision - Southern Asia"
+    excerpt: "The market size in the Computer Vision market is projected to reach US$469.50m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.00%, resulting in a market ..."
+    publishedDateTime: 2023-09-20T12:41:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/southern-asia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition - Southern Asia"
+    excerpt: "The market size in the Speech Recognition market is projected to reach US$145.70m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 20.61%, resulting in a ..."
+    publishedDateTime: 2023-09-20T12:41:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/southern-asia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 19
 
-secured: "PM0bR4Q1StSf+wP5BQimT8Km86oJKoRFnNPlinG219HwGvdiMKgAWgc3S1WstIynGvTxHFEDBpK3ac1P15Bp4TTVu5hZek/L5OuNVzvCQF8NyWR0cHQLDmF2aMYccovpimMxemh7V8rqr8tEEnw7qrNhmJ1g/6URHeIG/O2U+8BEFLHhY78asVe5hQemSyOfMMDzPYL/yzPSHbvo/29L+dHp5d3OHom9zyk4lvlrR0092xo2HWU1rQsYFk6HmcyE9SEgBih5SiJbukNHzLFjvQ15wRnrGTMNqvmNLZFn/5yGALvp0ogMtQdv0L31LWpy/Em6qiT7e21HcM7xHIxHr3WgGwC4GgJvoFAwgN0Ppkg=;vm8/WAxWOwWtJfwRHiRTdA=="
+secured: "4ji/zzMMOqXEMQXwZ0gelbu5AYZ+SCZB2B5VMk5pI58EPyNoN+SMBBxLLkHmCs5YvgP5yb/Uxb+HIxRKSlwOT8UgcFFgf4+niX4DHGgL/hLGWZutxfmhm2F8x7gh4qQzWVHhiroBONM4icSXDRITM8XUxXUvZaOuQjalfDmIDjOR7BsWPX4vFkN5VSqNJPzFedQL+AGjrDXEXLG0fE35xsSgyEpE0noJhgCB7S28FpKZ/cWkqxOdRYQYN+sX+f++Dk1CuHR56WJqSsUonzJv5Erx0QmUkjf0D9KQEBaxv3E/1IZPQ8UDIY2N+Ft+uPeSM0fJhXJohmhbIc59qlBhRpDPigm1yQu29rXXILIve4Y=;8YAuD1EW2ayu3erAi7F6Lw=="
 ---
 

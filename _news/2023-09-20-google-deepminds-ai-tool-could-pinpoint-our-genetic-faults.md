@@ -23,36 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Google DeepMind AI speeds up search for disease genes"
-    excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments."
-    publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.bbc.com/news/science-environment-66847977"
-    ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind’s New AI Can Predict Genetic Diseases"
-    excerpt: "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases."
-    publishedDateTime: 2023-09-19T14:35:00Z
-    webUrl: "https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/635b055393ea9ed771dc518e/1:1/w_270%2Cc_limit/undefined"
-        width: 270
-        height: 270
-        isCached: true
   - title: "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease"
     excerpt: "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic."
     publishedDateTime: 2023-09-21T20:27:00Z
@@ -84,22 +54,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
         width: 3000
         height: 1687
-        isCached: true
-  - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
-    excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
-    publishedDateTime: 2023-09-19T14:26:00Z
-    webUrl: "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f"
-        width: 620
-        height: 372
         isCached: true
   - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
     excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
@@ -142,22 +96,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 64
-  - title: "Google's New AI Tool Predicts Danger Of Genetic Mutations"
-    excerpt: "Researchers at Google DeepMind, the tech giant's artificial intelligence arm, on Tuesday introduced a tool that predicts whether genetic mutations are likely to cause harm, a breakthrough that could help research into rare diseases."
-    publishedDateTime: 2023-09-20T01:51:00Z
-    webUrl: "https://www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728"
-    ampWebUrl: "https://www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/google-new-ai-tool-predicts-danger-of-genetic-mutations-4405728/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-09/40cmfqso_google-generic_625x300_04_September_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Looking into the Future: Google's Deepmind AI can predict if genetic mutations are likely to cause harm"
     excerpt: "Google's Deepmind has unveiled a new AI tool that can predict how a certain genetic mutation will play out and if a particular mutation is going to be harmful or not. Researchers believe that these pr"
     publishedDateTime: 2023-09-21T06:33:00Z
@@ -173,20 +111,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/09/Looking-into-the-Future-Googles-Deepmind-AI-can-predict-if-genetic-mutations-are-likely-to-cause-harm-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "DeepMind AI can predict if DNA mutations are likely to be harmful"
-    excerpt: "By working out which small mutations will probably be damaging, DeepMind’s AlphaMissense system could help doctors identify the cause of genetic diseases"
-    publishedDateTime: 2023-09-19T14:31:00Z
-    webUrl: "https://www.newscientist.com/article/2392821-deepmind-ai-can-predict-if-dna-mutations-are-likely-to-be-harmful/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/09/19142523/SEI_172303762.jpg"
-        width: 1350
-        height: 901
         isCached: true
   - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
     excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
@@ -272,19 +196,19 @@ related:
         width: 1750
         height: 1118
         isCached: true
-  - title: "Google DeepMind Releases AlphaFold Powered AlphaMissense"
-    excerpt: "The scientists employed AlphaMissense to evaluate 71 million single-letter mutations potentially impacting human proteins. When the precision of the program was adjusted to 90%, it estimated that 57% of missense mutations were likely safe,"
-    publishedDateTime: 2023-09-20T09:42:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-releases-alphafold-powered-alphamissense/"
+  - title: "AI Tool Pinpoints Genetic Mutations That Cause Disease"
+    excerpt: "Google DeepMind has wielded its revolutionary protein-structure-prediction AI in the hunt for genetic mutations that cause disease. A new tool based on the AlphaFold network can accurately predict which mutations in proteins are likely to cause health conditions — a challenge that limits the use of genomics in healthcare."
+    publishedDateTime: 2023-09-21T20:58:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-tool-pinpoints-genetic-mutations-that-cause-disease/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/AlphaFill-An-Upgraded-AI-Version-of-AlphaFold-is-Here.png"
-        width: 2240
-        height: 1260
+      - url: "https://static.scientificamerican.com/sciam/cache/file/369152DA-8A6D-4990-B051821507732C5E.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"

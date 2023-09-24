@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/23/chatbots-ai-gp
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/23/chatbots-ai-gpt-4-university-students-creativity"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Five big challenges that AI poses to competition"
-    excerpt: "With AI having huge potential to transform our society and economy, it’s critical to consider its competitive aspects."
-    publishedDateTime: 2023-09-20T01:37:00Z
-    webUrl: "https://www.themandarin.com.au/230772-five-big-challenges-that-ai-poses-to-competition/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/09/Andrew-Leigh-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "47iuIOUoTJT7+jJoyJ0CnGGpvYSYtCDFxF3FPcob65AcyZ2qlyJ+C+B6E8uQwgsxNrK8qJ+bdH5pJS7pQAwHp7Rku31/En1vioyS/bZdR6OonQ9oSvyx9krLPPvRwKFEeuCgg5YBXVivTyQABA3AdtKRx2Q5XQ1e+NtKCOSSnpHV/B+2KDJPjIh2D9Ne9nkzA+qSvzO+t6FuTmQhc3KWj+mMOTflsuzsSlpMiFC3uMxlQy5rZ5tRwU3PhUnpf9G60n1fZsCrkwuALUN+TstazH/VOZcMAxDLmt7y9xl6AG87IYJ64unHGCWHrsocV8kH556iJiqaDEqCXE8Ly0i6/YxZxh285aEw/VkGyAcLjTuIFa3SbZ29gbIz5h4YPf8YaiCrY4QVsO48z2+e1Z+vwDgiDHM6/VCkL5SvQAH7IzVuDT96yp9t5FMzl7rqN0z746BmnOcXL4T1DkA+OIl+8rJbO24uNyCEVuTz+b4a5FpqIMHWHXcofeiQEPfGeDyXqBRuSa8fVWdFNeYfA1VeRQ==;UdXhCZ17BPSSbSkuhtODgw=="
 ---

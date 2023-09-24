@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-t
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Venafi Leverages Generative AI to Manage Machine Identities"
-    excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
-    publishedDateTime: 2023-09-19T14:48:00Z
-    webUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/"
-    ampWebUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
-        width: 900
-        height: 503
-        isCached: true
   - title: "Venafi Brings New AI Innovation to Control Plane for Machine Identities"
     excerpt: "Venafi unveiled Venafi Athena, its new underpinning AI technology for the Venafi Control Plane, to make machine identity management easier and faster."
     publishedDateTime: 2023-09-19T17:00:00Z

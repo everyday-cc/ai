@@ -28,15 +28,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "IBM Commits To Train 2 Million in Artificial Intelligence in Three Years, With a Focus on Underrepresented Communities"
-    excerpt: "To help close the global artificial intelligence (AI) skills gap, today IBM announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities."
-    publishedDateTime: 2023-09-19T14:07:00Z
-    webUrl: "https://www.csrwire.com/press_releases/783716-ibm-commits-train-2-million-artificial-intelligence-three-years-focus"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 10
   - title: "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities"
     excerpt: "According to a recent global study conducted by IBM Institute of Business Value, surveyed executives estimate that implementing AI and automation will require 40% of their workforce to reskill over the next three years, mostly those in entry-level positions. This further reinforces that generative AI is creating a demand for new roles and skills."
     publishedDateTime: 2023-09-19T19:37:00Z

@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How we interact with information: The new era of search"
-    excerpt: "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n"
-    publishedDateTime: 2023-09-19T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/"
+  - title: "AI in education: Challenges to transform learning"
+    excerpt: "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ..."
+    publishedDateTime: 2023-09-24T07:40:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png"
-        width: 720
-        height: 401
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/AI-2-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Useful Sensors' new AI-In-A-Box module is the first to perform LLM-based natural language interaction on a low-cost chip with no internet connection"
-    excerpt: "MOUNTAIN VIEW, Calif., Sept. 20, 2023 /PRNewswire/ -- Useful Sensors, an AI-focused start-up, today launched the world's first low-cost, off-the-shelf AI module to enable intuitive, natural language interaction with electronic devices, locally and privately, with no need for an account or internet connection."
-    publishedDateTime: 2023-09-20T14:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/20/9884648.htm"
+  - title: "Five big challenges that AI poses to competition"
+    excerpt: "With AI having huge potential to transform our society and economy, it’s critical to consider its competitive aspects."
+    publishedDateTime: 2023-09-20T01:37:00Z
+    webUrl: "https://www.themandarin.com.au/230772-five-big-challenges-that-ai-poses-to-competition/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2216161/Useful_Sensors_module.jpg"
-        width: 400
-        height: 286
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/09/Andrew-Leigh-1.jpg?resize=1200,630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "viF3teD+ubimoiQkJjzWcHbDoYLXjKtan+exNFpNTQUDXAbb3FoRfjezucE0FnpsIgQiIE6Iopi9Vy35i78jJLc0rQVt7io8gUq5dZy9/ui/zRGn+adsz0D2ADy9HYKlqYChHGVdawyVgvQgKcJnM2pwUNvLb+gQBXXCRGE6f4QdcCRLeCsE6B2ZpwmWm3bTfQxb0VcMmaOrQh+L7KiEfFkJmLdpNwpm5GSPJWcYAzzjCidcaBIjPT2YkOfgxG70AVnuBHYotJdxQu0RUud9rvhmDBQsifZT4eEm7FYTvV2vRRsiJGbtR5wB5wU2s5MBuzKiDGS9tc3W+XV8BJa/q33vmwK67QKRwUJXbz1FSHs=;Q2dcl9wUrA04cdsT0SBIIA=="

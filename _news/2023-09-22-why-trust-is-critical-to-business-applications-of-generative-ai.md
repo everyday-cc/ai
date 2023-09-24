@@ -59,34 +59,6 @@ related:
         width: 1000
         height: 529
         isCached: true
-  - title: "Australia Adapting Fast to a Generative AI World"
-    excerpt: "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks."
-    publishedDateTime: 2023-09-19T14:54:00Z
-    webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "The era of generative AI: Driving transformation in financial services"
-    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
-    publishedDateTime: 2023-09-19T15:02:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
-        width: 970
-        height: 628
-        isCached: true
   - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
     excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
     publishedDateTime: 2023-09-20T18:50:00Z

@@ -49,20 +49,6 @@ related:
         width: 1000
         height: 529
         isCached: true
-  - title: "Australia Adapting Fast to a Generative AI World"
-    excerpt: "Australia’s private and public sectors have embraced aspects of generative AI throughout 2023 while trying to stay ahead of the risks."
-    publishedDateTime: 2023-09-19T14:54:00Z
-    webUrl: "https://www.techrepublic.com/article/australia-adapting-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09192023-australia-adapting-generative-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Why trust is critical to business applications of generative AI"
     excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
     publishedDateTime: 2023-09-22T15:10:00Z
@@ -77,20 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The era of generative AI: Driving transformation in financial services"
-    excerpt: "Microsoft and the London Stock Exchange are reshaping the future of global finance through our strategic partnership. Learn more."
-    publishedDateTime: 2023-09-19T15:02:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/09/19/the-era-of-generative-ai-driving-transformation-in-financial-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/09/Sibo-social.jpg"
-        width: 970
-        height: 628
-        isCached: true
   - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
     excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
     publishedDateTime: 2023-09-20T18:50:00Z
@@ -101,6 +73,6 @@ related:
       domain: nextplatform.com
     quality: 34
 
-secured: "desGL9eVuJAx8XAiNMQCbNeHtauZmozCtTl1a9FF+Y3VfKOpG55gV4NUbfbHS8J2uLBjXagD80ki4d0/CJMRddaAFCjnjE1+2XEfbTZ4FMswbVpdp0IstuMjvB8m8kQdXl+nkSXImsslCilZdxsrMcn6voocXJkJmsqRWWVezTLd9VJG3hHpAnyAPPbq154r7QvJC3HinC3krWCqJkoI3fiNXG+aJ76Pf89h2T5pgg//kYxw+Mcdb3rJvO/+NKQsEYw+o75G50RHastn5ntjZvJwDxUqsuBIb+3oK85O6fGhg08AIov1lIJTUxSLNK3AV7tnJ3PTnW3QcawPS2k3eUscOXJ0cUzRirm8HwAebe4=;XX1h/sUx7trAXNFF6OEY0A=="
+secured: "KbTNkNywDQBnvlAphpBTktxbbwbPjChYXw8NdGXVO8p+wfDw6g7kdkVoQAfHJGHvxvIeglC09OCFWznjSjFuBXh/xW0D5rZxg4CxTme3ptQwvT9CsKonq7ez9s1gYQ4QBVkYAx88wLXAH9gEPv8RuKYB+ru4NyPKEkUCBVNRkO266ca8wwxpVfKbC80GDOGD0bj4z9+eGr/YPrYs+AVT6SpCj376r3kTwtAlsD/QebHC/yPenh+1kDoOQLzMLuZmoWWUGIyGZDXoeythFC5HclVpgD99t1wT0h26IatpvGNLOGXnf2EIFqapy5UxsO6zUcuPoikQnHk2Fy/SvqHGvEhP8AWRJbG1Zpf5h3Pbc/4=;V5hS/KceMpyqXP1z2gkV5A=="
 ---
 

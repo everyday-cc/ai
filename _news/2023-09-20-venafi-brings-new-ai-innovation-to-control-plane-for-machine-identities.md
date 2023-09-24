@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Venafi Leverages Generative AI to Manage Machine Identities"
-    excerpt: "Venafi launched a proprietary generative AI model to help with the mammoth, complex, and expanding problem of managing machine identities."
-    publishedDateTime: 2023-09-19T14:48:00Z
-    webUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/"
-    ampWebUrl: "https://www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/venafi-leverages-generative-ai-to-manage-machine-identities/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/09/AI_Machine-Identity-Venafi.png"
-        width: 900
-        height: 503
-        isCached: true
 
 secured: "Cc6/sAPF4hqAkYHa5Mjev1xQYQoJW+HKs5923tS36vMM9Q/b207sVQsQV50HLWfy//YpM7XpykdbLBVuiwd20mcT2LuW3VkeOU6aMsvspPYuu7zUr0pTEyRozf7kxYRYocJbmJbkE/werjGie8Vtn/+qDZt40w5WMjpBIvqrvZ2/IrjqszizLwzoGHHhbFgXuISvjWnC6J3euhXkhX6PvmFZoUObRpemHe+D6ZUzoNuLYJJX0KsiqMagzpuxv4ihkY2qfaBlmyneUHc1dgfN8JBFtGYvOPCd4NxRX7cwPs8panWdOutLhXWy/+pWJpPXZvCg6MdrK6t6uFBFC+LMg+Xj9t0kIaek+BXQi78m6tmYUYkUscA9CkwY1hCxIHoXOyFY+x7CEW0L87S82OvJj8q4vGN4FfRTX1lGBq9wBgw/x+mddSrcz9cyqVC9k0lLe6CZLr47D2lndN4aSx7GLWokiGyKrD0WOaUMFrsli6Xjg+RebkB2BJqhIRvIE9YKZc+crWW6xnpmtXjazXF02A==;6DB8L8VDQGMo4wLdnCyFcg=="
 ---

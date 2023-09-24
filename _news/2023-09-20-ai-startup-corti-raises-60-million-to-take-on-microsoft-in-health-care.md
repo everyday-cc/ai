@@ -295,15 +295,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft AI researchers leaked 38TB worth of private company data"
-    excerpt: "Wiz notified Microsoft of its findings on June 22, and the SAS token was revoked two days later. It took the company almost three weeks to run a thorough investigation, after which it concluded that the data hadn’t been accessed by any unauthorized third parties, TechCrunch said ."
-    publishedDateTime: 2023-09-19T13:04:00Z
-    webUrl: "https://www.techradar.com/pro/security/microsoft-ai-researchers-leaked-38tb-worth-of-private-company-data"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
   - title: "Microsoft’s Surface and AI event: all the news and announcements"
     excerpt: "Panos Panay has always been the force behind Microsoft’s Surface line. He helped bring Surface to life as a secret project more than 10 years ago. He’s presented the new devices onstage at events, showed up at malls to promote Surface hardware, and has steered Microsoft’s Surface tablets to success in the years since."
     publishedDateTime: 2023-09-21T13:15:00Z

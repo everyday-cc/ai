@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34724956"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34724956"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2030, Speech and Voice Recognition Technology Market Size | Industry Report 2023"
-    excerpt: "The \"Speech and Voice Recognition Technology Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector."
-    publishedDateTime: 2023-09-19T13:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34717417/2030-speech-and-voice-recognition-technology-market-size-industry-report-2023"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34717417"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34717417"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "2030, 3D Facial Recognition Market Size | Industry Report 2023"
-    excerpt: "The \"3D Facial Recognition Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The 3D Facial ..."
-    publishedDateTime: 2023-09-19T13:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34717430/2030-3d-facial-recognition-market-size-industry-report-2023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Computer Vision Software Market by Size, Scope 2023: with Development Status 2031"
     excerpt: "The Computer Vision Software Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
     publishedDateTime: 2023-09-19T19:57:00Z

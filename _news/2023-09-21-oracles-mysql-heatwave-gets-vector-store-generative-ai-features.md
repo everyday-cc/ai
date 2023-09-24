@@ -34,6 +34,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 49
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "u0FQq36YNgJez1d4jwuPEF1OtpwmeAjUEYc6m65NcEMx2rhmggCd00L0YjtNCUSnerCFuXYuaR2F9yJ5wBBLfaVfmoh2f8HQJVC/KJqiT5b0OAvBwZqKDT/K1ZIKphCdKXmvo/6/QuojONgjmmtvosoTyVZtCM17zfzd7e+kqNsNb+HA+SKc6NVV/QpNKhSVr6HTuVZhbkKvneo6kWbfODNSKU4MbQ2H4EnGMXjxsXasq3GB1QCcGu+ZfVEIKiOFm/uRXcfZz0q07csA8oFAYfqPL8qFDnSgc2j3D9Dv6fXf/dTEnKIP1qK+DIJkRxoClvjboJ9oFli5rnzxPmzeameBYpXn4zFK61gMfldve25P0bH6wuKm76vIuuvb1dtw860md+jAgAKuKzMioUuY7zsvQmMFwYamF/cnLNxz3WaHsWRQTmjrKjnHo80nHGGYR+/FCFoVlzOwpFN69KM4X3Gr8LMaAEltvDtPKmMtEpj5zSyUxI59LedwQyPjywJ+P37WO2ukDLvaNc9n1Xq4rw==;CvaGOX4lgOE0WlXb5usNuA=="
 ---

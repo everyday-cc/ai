@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hi, Robot: Machines Take Over At China's Asian Games"
-    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
-    publishedDateTime: 2023-09-23T00:00:00Z
-    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 61
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
-    excerpt: "Sphere Entertainment's Humanoid Spokesbot and Storyteller to Serve as a First-Of-Its-Kind Guide at the Next-Generation VenueLife-Like Aura"
-    publishedDateTime: 2023-09-19T14:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-sphere-s-very-own-robot-aura-1032640402"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Robots, machines dominate China's Asian Games"
     excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
     publishedDateTime: 2023-09-23T08:37:00Z

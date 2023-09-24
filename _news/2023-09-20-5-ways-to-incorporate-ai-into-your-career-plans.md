@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ochsner to integrate AI into Epic"
-    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
-    publishedDateTime: 2023-09-19T14:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "5 Ways to Achieve AI-Powered Customer Service"
     excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
     publishedDateTime: 2023-09-21T09:49:00Z

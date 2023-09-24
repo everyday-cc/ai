@@ -291,15 +291,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft AI researchers leaked 38TB worth of private company data"
-    excerpt: "Wiz notified Microsoft of its findings on June 22, and the SAS token was revoked two days later. It took the company almost three weeks to run a thorough investigation, after which it concluded that the data hadn’t been accessed by any unauthorized third parties, TechCrunch said ."
-    publishedDateTime: 2023-09-19T13:04:00Z
-    webUrl: "https://www.techradar.com/pro/security/microsoft-ai-researchers-leaked-38tb-worth-of-private-company-data"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
   - title: "AI Startup Corti Raises $60 Million to Take on Microsoft in Health Care"
     excerpt: "Corti ApS, a medical software startup, has raised $60 million to sell an AI “co-pilot” to more hospitals and compete with Microsoft, Amazon and other tech giants racing into health care."
     publishedDateTime: 2023-09-20T11:00:00Z

@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Next Commercial Niche Market? Robot Factories"
-    excerpt: "A 70K-square-foot robot factory opening in Oregon may be the first entry for a niche that will one day rival the automobile industry."
-    publishedDateTime: 2023-09-20T19:04:00Z
-    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/09/next-commercial-niche-market-robot-factories"
+  - title: "Speech and Voice Recognition Market to be Worth $56.07 billion by 2030 - Exclusive Report by Meticulous Research®"
+    excerpt: "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud, On-premise), End User (Consumer Electronics ..."
+    publishedDateTime: 2023-09-20T14:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/g34763772/speech-and-voice-recognition-market-to-be-worth-56-07-billion-by-2030-exclusive-report-by-meticulo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34763772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34763772"
     type: article
     provider:
-      name: FloridaRealtors.org
-      domain: floridarealtors.org
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "0CBJZN96oyBvvwrD66Qg99K+X3OVCNZKsMpX8H5dvdtmnGPpSPkm5seTVPgEmKzv5RdTlhxaWP+bBeJu5dJ426f7pmQ9cbvclRy0QLkCXJgSq3ypMsMk1SmZAmfdKvPFhE/myY+rXzy1+2uputrI1/+ftYEp8BISyzUORCgCpZEyU5hBf1FiFnBGfdCvf799CUVqlihUkKzy1+oPuXu9LmJvthK7HSHPbMz6h2a8veX26jaH4mGPQHl6dZ9yZ3azgf/GVANSvtmYlogyWyjRTo8nxBjsP0Bar+rMj+9vS20QILax7mFP2NinlKXAlrNPOtAe1fSselSQXD4suerDE4vaPaeGnuBVpfAkVCQhVPE=;vzkRGWK7DgmdK0mShVSYdg=="
 ---

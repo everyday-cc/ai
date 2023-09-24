@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/sep/20/indigenous-voice-to-parliament-referendum-yes-campaign-voters"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regional Australia believes in a fair go, so what does that mean for the voice?"
-    excerpt: "Traditional owners have stood alongside farmers to fight against mining developments on farmland – but so far that solidarity has not been returned"
-    publishedDateTime: 2023-09-19T14:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/sep/20/indigenous-voice-to-parliament-referendum-regional-australia-support-polls"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/2ff14d89b8d3d20424b9c1574f39449663df4e3b/0_365_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=700577450433f03e730103537da619b1"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Yes, No or I don’t know: Does Australia really know about the Voice?"
     excerpt: "Over 180 migrant and cultural organisations have expressed support for the Voice, and work has been done on both sides of the debate to engage communities. But after speaking with people on the ground,"
     publishedDateTime: 2023-09-23T20:30:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/b76df1f/2147483647/strip/true/crop/3840x2160+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F17%2F55%2Fb0ced46740988aff275aae915ea4%2Fr2r-voice-cald-header.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Record numbers of Australians enrol for referendum on Indigenous recognition"
+    excerpt: "A record number of Australians have enrolled to vote next month in a referendum to recognise the country's Indigenous people in the constitution, according to the election commission. Australians will be asked in a referendum on Oct."
+    publishedDateTime: 2023-09-22T12:02:00Z
+    webUrl: "https://www.aol.com/news/record-numbers-australians-enrol-referendum-050245658.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 21
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e3a95b235a7add90879ec186e4892804"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "1/LhBHh3lM8QcOnXLmYOJDG35BCCEbQkJJZfHUZfXjZDi3bM4d8YR+yNlD2bcGnobUZrDSg5e8tqPu3o7FfACbWVLKjw2KrKs/nEAM0BflNE4z4n6CkV0JYTNYHcYQXvUAqsF/vFqyAS+f6QBypx5tkmSFtSHLmpqpAllnItjxtZo6BGvHxWPiCHlzXqeVrk2JV/tV2GOU7ypa1ZFskAbmxX+1iWYPNURm3Ro7ADeAdid45z7WfMAcaLzGhBXIqGVpY5XrMRo0CvFYgs/BlN2nxcnsei3fs6XwBXaNLZ0T+DANHYSZvZK3Xy7NPOUo9Kii+Hoi1Dv5SuUwVooMS13Z9lMzSUegPdKidJIQtdwxU=;3pp7YZBa92ytjh9Wae77Pg=="

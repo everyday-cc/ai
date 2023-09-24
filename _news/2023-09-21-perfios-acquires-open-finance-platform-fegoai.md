@@ -78,22 +78,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "Crypto And Fintech Vets Form AI, Biotech-Focused Oak Grove Ventures Amid VC Drought"
-    excerpt: "Alumni from several crypto and fintech companies launched Singapore-based Oak Grove Ventures, a $60 million fund that focuses on the intersection of biotech, Web3 and artificial intelligence (AI)."
-    publishedDateTime: 2023-09-19T13:48:00Z
-    webUrl: "https://www.benzinga.com/markets/cryptocurrency/23/09/34727377/crypto-and-fintech-vets-form-ai-biotech-focused-oak-grove-ventures-amid-vc-drought"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34727377"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34727377"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/09/19/shutterstock_1464098960.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fintech SaaS Startup Perfios Acquires the Open Finance Platform Fego.ai"
     excerpt: "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Prior to this, Perfios acquired Karza Technologies in 2022 and FinTechLabs in 2019. As part of the deal, Fego.ai founders will take up product and strategy roles at Perfios."
     publishedDateTime: 2023-09-22T09:15:00Z

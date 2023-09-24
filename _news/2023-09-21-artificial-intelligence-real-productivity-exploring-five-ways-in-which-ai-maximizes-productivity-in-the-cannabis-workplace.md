@@ -5,8 +5,10 @@ excerpt: "In today's rapidly evolving cannabis industry, successful businesses m
 publishedDateTime: 2023-09-20T17:32:00Z
 originalUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
 webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
+ampWebUrl: "https://www.benzinga.com/amp/content/34769618"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34769618"
 type: article
-quality: 5
+quality: 47
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/09/20/david-gabric-kdc5agsz6ik-unsplash_12.jpg?width=1200&height=800&fit=crop"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Fed’s Cook Sees Signs of AI Improving US Labor Productivity"
@@ -42,6 +51,6 @@ related:
         height: 312
         isCached: true
 
-secured: "G+1+BpY//HRlg2ZnoA18gPUy7bqw7KVBw010w2cyrfBPamBZm9yndw/oeQFN73EHi7/dmUywBIESU1+HWOUTFcf7XxGQTNmx++XvfiDk4XiTZ41/MKZyyxIGPOF0eTYlnuyxAAykoJ1Z32+sy9vYzuy8rPYhViVScCRapRL8GC3qCCONhtJCCqXPFZI85WYEd/gitkPfRWJF2rS9DMhRmli9hhhE0nfCek6H++8h7H+bR/ODEtiiRQhgq957GTJ2BFLGloy2xVDUD1w9Ow3OM0FE+0Zza9PFcZ4jMsVytB4APn3MRGiUC+bn5hjrarss52R4uip7+nSJYqD14Vis2rUv1rCFGDvlq1ivF1gC1MSk+S42nXcVaICfJ92LNBAWSZH6DBmuDBypcJztgGahH72m1i9dLRd+dGqP3RWaUh+tMoTrx9iI9xGzwqLxNrrYYLo+zHWP5HvxM4PUrVOO+nE2NSp4KGPz6Yk61GwDsgGXXKqhBG2sBAGZwfq/OsLySLtMOUGGmU6pn1FbQ/ymYA==;omObJqe9M9BeXlr8to8diA=="
+secured: "3hqAVdHiZDRqM7s7d0e1/YGZvUF3+4iEeWV6AAA3xHiU4hT2Kn+h/4xbYsSGHQKUQ98xNYhvU4HbDhFwu4qHpI+2RWasSxMzM2z4QqflkByW5RZFLPoamX7EsdD9oqjfc+QsGxvY7zRpMtTK4V9YM2ZOfORGhoFwdzUepT0T5HA11Vkt/UsZbl6dXF/meXsw95aMXnMWkuxq+r+ec/G54x7bHAMCB48pp4aT4UyHB/adIuj8oJMj1mZCo7RT96zBo6MUixysZsoJgtFXKdePDcLC5V/jiydb+bbqFBGuA7LSKnnGEMFu9VibUldMwNP0E86SSVGQOfu+vANpRTfGZqS/It/mAcvO+qhTLQ4x7Jw=;BtPQ95L3soqAnJtzxRdzPw=="
 ---
 

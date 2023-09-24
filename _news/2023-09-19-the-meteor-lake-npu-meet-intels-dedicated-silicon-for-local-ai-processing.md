@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel 14th Gen Meteor Lake Brings Arc GPU with Ray Tracing Support"
-    excerpt: "Intel has launched its 14th Gen Meteor Lake chipsets and brought Intel Arc graphics with Ray Tracing for the first time to Integrated chips."
-    publishedDateTime: 2023-09-19T15:00:00Z
-    webUrl: "https://beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/"
-    ampWebUrl: "https://beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-14th-gen-meteor-lake-arc-gpu-ray-tracing-support/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/09/Intel-Arc-Featured.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Intel 14th Gen Meteor Lake Brings Dedicated NPU for Offline AI Processing"
     excerpt: "Intel's new 14th Gen Meteor Lake CPUs come with a ton of new additions including a dedicated NPU for on-device AI processing. Read more here."
     publishedDateTime: 2023-09-19T15:40:00Z
@@ -118,20 +102,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
         width: 801
         height: 568
-        isCached: true
-  - title: "Intel's Meteor Lake to bring AI NPU to the masses"
-    excerpt: "Intel Core Ultra processors – code named Meteor Lake – will be launched on 14 December 2023, \"ushering in a new age of the AI PC,\" according to CEO Pat Gelsinger. Intel corporate vice president and APJ general manager Steve Long described Meteor Lake as a \"generational shift\" for"
-    publishedDateTime: 2023-09-19T14:35:00Z
-    webUrl: "https://itwire.com/business-it-news/hardware-and-storage/resellers/intel-s-meteor-lake-to-bring-ai-npu-to-the-masses.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/b6d9d79be86fe94ac603184b38842dee_M.jpg"
-        width: 375
-        height: 228
         isCached: true
   - title: "Meteor Lake Architecture Revealed: AI, Tiles And The Future Of Intel Core CPUs"
     excerpt: "Intel’s Meteor Lake architecture for mobile PCs will be arriving soon and to say that Meteor Lake is the most important shift in Intel’s design and"

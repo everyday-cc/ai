@@ -49,20 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Ochsner to integrate AI into Epic"
-    excerpt: "Ochsner Health is piloting a program in which AI will draft simple responses to patient messages. 100 physicians will use Microsoft's Azure OpenAI."
-    publishedDateTime: 2023-09-19T14:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/ochsner-to-integrate-ai-into-epic.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "diSb6qhffBeBP9XyWLl99PTNLxKrQHJfTiaMC4Gsfiq6qZp8ST10NIrN27S+p+PvTGHMwd3Zhblnj6hAvo9IRbk1zkY4XRKdI/RMtsoVVckO78z7Sxt++Jk7Fm31I64g6NTgoFmAw2DBTNdp9J57YFQuJtDroY+2qixpoZh3m67MeCOELV0+Y3lhZ6AAxTq4k6RGGoNavIwTZvva1tZ7mBs86w+HYYq2dlsl4tKSCdfCBbKklBVY8CSaX3sdhzASWV8XDnywCDxcVRd2WAUyiZoflDKHJDwXpuQY5GEfWMLs+rxN3elh+2tHq7MOVXiVSCrFXiM2MTlnWL7RRSnvDMenADEQagmMH7fieXcxQ9vQXbobu7X9XMKCf0AjD/V8x76YhKrIknbIcMxmDiKueEXy1uBdRSueIIvJfuANpOLlAazJu1Rab7pzYJruiaNsGpEE4U2Ln30am4B9VNYV0x6fkzIpyETACss5gj3aIKTlGy8vY+qUzvR/UMBhBSg0cKzbPd3i1x8+diPj6BjGUA==;jygTB5kh/QOenFRPu3BcSg=="
 ---

@@ -38,11 +38,18 @@ related:
     excerpt: "In today's rapidly evolving cannabis industry, successful businesses must stay ahead of the curve and embrace emerging technologies like ChatGPT. Although integrating artificial intelligence (AI) into the workplace may seem burdensome,"
     publishedDateTime: 2023-09-20T17:32:00Z
     webUrl: "https://www.benzinga.com/markets/cannabis/23/09/34769618/artificial-intelligence-real-productivity-exploring-five-ways-in-which-ai-maximizes-productivity"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34769618"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34769618"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 5
+    quality: 47
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/09/20/david-gabric-kdc5agsz6ik-unsplash_12.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lu4hi4yOoH1MvRDoWbvxbAU77ckvSW5SMJwB73iKddUdRHRg09RXtffxMhBErR1JKcVhovlpUgH5RLEtYQSP0t8ZmtD2qj50mr8MK92hGZyQUZMxk3H9TX17SYMacGaErLz6WfPwVBE0srUYpFQL9bz1PtJRpui79vcqxNhZY599FLUGNl0eyK5giYDh6aInowKE8VvnypgGWaTr1treKcveAoyFwFSQS9/XspW/WGJW3NPtYIJg3cj1UYQIQFqj7VdnTA6AzpNHTsx9kx0s+ml9MyOlyxBvdQyz3Tjfmf4xtVsBrFWVJDoV99kYVMJq3sjfcNVJnrtu/Ah35+0iANvjS12ZPpTXSvSoGNECD2o27w5RRZs7OynY3beBH4cCAMAwrYYFelcSBzgnNw5SykNa+1QnXH9xkrqQvtbtDaJ47vZH37a7mVhbAeF3lDZHfdA/CnCMG3LrHEa/D+21ClZCVfpKdei2KtC21V6YdpUp82dCXVvf5jyekVFTyySZun6GBxiCPmrabNbUYQ6NFg==;h/HnYzWHM10eCGazzYTvNw=="
 ---
