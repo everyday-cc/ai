@@ -2,7 +2,7 @@
 category: news
 title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
 excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
-publishedDateTime: 2023-09-20T12:08:00Z
+publishedDateTime: 2023-09-19T23:59:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
 webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
 type: article
@@ -101,6 +101,6 @@ related:
       domain: nextplatform.com
     quality: 34
 
-secured: "v1TqYZf8yls1TfSaZ9iKFje0Sai/xJfvp/Tq3Ur+nFMnMoI/z/lhjY9Gi/Rjs1LUigngxQh4yBIn/XvyRix8/UFMlcD2zc82bLk7q+HKreZ8S1mmch4dHCTL9lBNjjczu1K0kqT0Ds1Di/cBaB0wCFQB9PNkSgHswi1BB1YcPrFrCtp75TnOZ4QzEDRR/TCgI7PohNXiyyYPGfn34ydU3ZWFUxfV18DTefIHk6pmaYCUfGEhceoR8yhwoCOaSPGBlxgppeQGehNba+hSL0kKP404gEl12CSVEFzzi8HjBGDPIKP5YW7v9IKpwlPYBIN1oxc8gRuakTBtnO/kxzkdFcgLKdZbjzgB+JsavBI0Mbk=;vQeXh7QgdojwyIyYv6kaag=="
+secured: "0kzzDMKQeaXuHdE/LeWdRoFRD/POPu4S2mDEDQvMYKwcmEQSgdFPRQFoWkYxcatXW7NUmBk72Zk4GQDpJQo0IaMPySeXJkC+eE70aVHA3HvU/Lq6TaLNyeXmaSmC8Gb+OfxgyBT9zV9hmliKLnATlAIFj5FeTbqX3mb3ES+BXXiUg3E+SFAefjDy3DCo9Fu/n4wIpIpp7F2De7DMGRJILJhfFl8f+6EFpF+s4AbVKIigfp5ILR7+yeYFP2q63S9jx2fSU02IuFGckoCIalEkjGk4VK+QaL+cbty8EUAZdrl8gkKnJFv10Mr6CuhnJtLz7Ms+ubiupxbtkDw2B5TB+FPVnK/R3tDJKWRBROp4Ypk=;oGjIEyhemS/1eJ4TG4JeyA=="
 ---
 

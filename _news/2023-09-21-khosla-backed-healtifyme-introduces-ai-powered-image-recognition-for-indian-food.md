@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Deloitte India collaborates with AWS to provide generative AI solutions for Indian companies"
-    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) has announced a collaboration with Amazon Web Services (AWS), to enable generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
-    publishedDateTime: 2023-09-19T09:21:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 63
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
     excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."
     publishedDateTime: 2023-09-20T08:28:00Z

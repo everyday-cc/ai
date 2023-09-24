@@ -363,20 +363,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft AI team accidentally discloses 38 TB of private data"
-    excerpt: "A Microsoft AI research team accidentally disclosed 38 TB of private data and 30,000 internal MS Teams messages. This happened while publishing a bucket"
-    publishedDateTime: 2023-09-19T09:08:00Z
-    webUrl: "https://www.techzine.eu/news/security/111404/microsoft-ai-team-accidentally-discloses-38-tb-of-private-data/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/Ransomware.jpg"
-        width: 1000
-        height: 538
-        isCached: true
   - title: "Microsoft AI Data Exposure: 5 Things To Know"
     excerpt: "[RELATED: Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz] No customer data was exposed and no other internal services were at risk, according to Microsoft."
     publishedDateTime: 2023-09-19T17:00:00Z

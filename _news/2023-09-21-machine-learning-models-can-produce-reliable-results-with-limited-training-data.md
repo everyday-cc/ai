@@ -21,22 +21,6 @@ topics:
 related:
   - title: "Machine learning models can produce reliable results even with limited training data"
     excerpt: "Researchers have determined how to build reliable machine learning models that can understand complex equations in real-world situations while using far less training data than is normally expected."
-    publishedDateTime: 2023-09-19T10:35:00Z
-    webUrl: "https://techxplore.com/news/2023-09-machine-reliable-results-limited.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-machine-reliable-results-limited.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-reliable-results-limited.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 67
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-11.jpg"
-        width: 1280
-        height: 794
-        isCached: true
-  - title: "Machine learning models can produce reliable results even with limited training data"
-    excerpt: "Researchers have determined how to build reliable machine learning models that can understand complex equations in real-world situations while using far less training data than is normally expected."
     publishedDateTime: 2023-09-20T20:40:00Z
     webUrl: "https://www.sciencedaily.com/releases/2023/09/230919155011.htm"
     type: article

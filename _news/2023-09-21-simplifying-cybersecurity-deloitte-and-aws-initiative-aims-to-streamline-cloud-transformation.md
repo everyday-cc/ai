@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/09/21/simplifying-cybersecurity-delo
 webUrl: "https://siliconangle.com/2023/09/21/simplifying-cybersecurity-deloitte-aws-initiative-aims-streamline-cloud-transformation-falcon2023/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,71 @@ images:
     isCached: true
 
 related:
+  - title: "The Emergence of AI in Cybersecurity: Revolutionizing Threat Detection through Machine Learning"
+    excerpt: "Fortunately, the advent of machine learning is offering a lifeline, equipping cybersecurity experts with unprecedented tools to pinpoint and combat digital threats effectively. In this blog post, we will delve into how AI and machine learning are ..."
+    publishedDateTime: 2023-09-20T08:03:00Z
+    webUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revolutionizing-threat-detection-through-machine-learning/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 42
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-20T090019.575.png"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Can We Rely on AI Cybersecurity – Costs & Disadvantages (Exclusive Report)"
+    excerpt: "In today’s fast-paced digital landscape, evolving cyber threats demand innovative solutions. Enter AI cybersecurity — hailed as the groundbreaking shield against modern cyberattacks. Yet, like every groundbreaking tool,"
+    publishedDateTime: 2023-09-22T05:52:00Z
+    webUrl: "https://www.cryptopolitan.com/ai-cybersecurity-costs-disadvantages/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 37
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/image-2023-09-20T110921.717.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
+    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
+    publishedDateTime: 2023-09-21T09:38:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
+    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 29
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
+    excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."
+    publishedDateTime: 2023-09-21T19:02:00Z
+    webUrl: "https://www.biometricupdate.com/202309/cyberlinks-facial-recognition-receives-south-korean-cybersecurity-certification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
   - title: "A Tampa cybersecurity startup surged to become a global company"
     excerpt: "This story originally appeared in Florida Trend Magazine."
     publishedDateTime: 2023-09-22T09:30:00Z
@@ -34,6 +99,15 @@ related:
       name: Tampa Bay Times
       domain: tampabay.com
     quality: 2
+  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
+    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
+    publishedDateTime: 2023-09-20T13:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "2SGeDAgqk7KHdyE9z75d1ci8JehArjdyH6Bmp9eWZTHd4/571pMNoPLKwsyyYMqTWIlYWF0o2NIrM4KQXOwWS9bL3p9kSJyuCz+U9J6vR1AtVoxU9TkSZ3jwGDyETlygNeo6Yxxm8pDyU5E8cohQY1aRsffTpPEa9xOh+BH5tJosAxWsgoSCCCUpY8HfAM2TFZVWKuI9A8VKXjkER//O8YVTYRnbylKeVRCcOpxW8F2xhbgMmSrfBCwfmljuxDeM2NfkHw05iW6ytsnaGcyUmRqcVX48uPKVUziDvkiaUzQsENvo5IUYmL/pd4gSlw6s4RME0miG/E3izQ90nbO7EbR/Rql4p3tdGhxEpOHGvcLAMbYJn1BWPLGh1jIH4m1FmgW5xAyy4cXUCw6urycyla49bQkmlPXQmEDMxY0ptcy7dtKybaUHiOzcLgG1zhK9YBnvNB1JZuyncmVX+cBpZWB8TdIweciFd9gN6fNFB+YyRvc/NGXldo+vlRFTenEMw6rzITODsXmZRJzmZruA2g==;4g2Ltqxep7J/X8b4zHBtIA=="
 ---

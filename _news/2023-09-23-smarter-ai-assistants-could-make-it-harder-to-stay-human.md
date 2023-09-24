@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-
 webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -29,38 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Fairly AI wants to help companies better understand their AI risk"
-    excerpt: "David Van Bruwaene was pursuing his Ph.D. in philosophy at Cornell when he developed a passion for linguistics and natural language processing, the subfield of AI concerned with allowing ... “Our technology allows us to translate compliance requirements ..."
-    publishedDateTime: 2023-09-19T10:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/"
-    ampWebUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
+  - title: "AI could make studying birds easier"
+    excerpt: "Artificial intelligence could make studying birds easier, thanks to the work of a University of Alberta student."
+    publishedDateTime: 2023-09-20T20:12:00Z
+    webUrl: "https://phys.org/news/2023-09-ai-birds-easier.html"
+    ampWebUrl: "https://phys.org/news/2023-09-ai-birds-easier.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-ai-birds-easier.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738"
-        width: 1200
-        height: 738
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-could-make-studying.jpg"
+        width: 2133
+        height: 1444
         isCached: true
-  - title: "Understanding The Human Element Of AI"
-    excerpt: "One of the most remarkable aspects of the AI debate is that it has managed to inject some genuine passion into discussions around enterprise tech. Some people think it is cool. Others say it is terrifying. Some people think it is both—like the first time you ride a roller coaster or get caught by a jump scare in a horror flick."
-    publishedDateTime: 2023-09-21T10:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
+  - title: "How to name your AI so humans will like it"
+    excerpt: "AI branding can make or break a product. Some companies pick human-sounding names, or opt for ones that emphasize helpful assets."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://www.marketplace.org/2023/09/20/how-to-name-your-ai-so-humans-will-like-it/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Marketplace
+      domain: marketplace.org
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650b1b28535d7d1f890c8736/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/09/GettyImages-108024491-e1695238468858.jpg?w=1200"
         width: 1200
-        height: 800
+        height: 676
         isCached: true
+  - title: "Humans must take leadership over machines to steer Artificial Intelligence towards common good"
+    excerpt: "Ahead of the event on October 2-4, titled The Human Revolution, four travel leaders have reassured us that machines aren’t set to take over humans anytime soon… unless we let them. Technologies like AI and machine learning are evolving rapidly, and we ..."
+    publishedDateTime: 2023-09-20T05:47:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/humans-must-take-leadership-over-machines-to-steer-artificial-intelligence/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 7
 
 secured: "H5U7sqaAW94n4U3S2YTwpNwLk7xHzHArPg5vnMunU41RPqc1rgGapYy92uTHRu8pPiPF51bg+fpSZGTXVfAd+pjQsbNLA7yV+JX1PvLfShnOXLxrRolGWLiPrTAG1+qdLILvis3EAIrRRpSPUJVmQwz/ZQxJTlgjc8KHRxEUiFqHHa6MvX5pK204CyvRDX6IcTojerQrxH0J/Whk3JcN6IdoWfB6ibLXWk4uubuPfRyJxkWmetcPvtpNUhTubwUC85AWIVcysARpAq//TpncJbKQWhuV9FK+V1OW+sGIS64VGtYc6v/HSzwv2W5/DAFNHRY8myGvl6fGJGoAfeRDeK6FBi7/dwo79quEVBrb4sZvlnIbDk7iHYC9jMJyeXCvc0EA7Wel0lTA7f3S5vPd2gfqtUxZGkWibUge80bJbqVH7FFfZ1hhSxYXWJbj5Qh3f2OxCdauPcwzYo2up35+m/1EVb0n4jPqpKrGZkEsRmd0utRMxqhvaWOLEYdeIZ4SFatq3pEGZ2nbToHXZYlZfg==;xD0c8ab93xc0sytVCtk6UQ=="
 ---

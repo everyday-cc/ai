@@ -47,19 +47,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Big Tech Is Ruining the Dream of AI"
-    excerpt: "Artificial intelligence once promised to make us healthier and wealthier. Now, we’re faced with either gimmicky chatbots or total annihilation."
-    publishedDateTime: 2023-09-19T10:07:00Z
-    webUrl: "https://newrepublic.com/article/175357/big-tech-ruining-dream-ai"
+  - title: "Understanding The Human Element Of AI"
+    excerpt: "One of the most remarkable aspects of the AI debate is that it has managed to inject some genuine passion into discussions around enterprise tech. Some people think it is cool. Others say it is terrifying. Some people think it is both—like the first time you ride a roller coaster or get caught by a jump scare in a horror flick."
+    publishedDateTime: 2023-09-21T10:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/understanding-the-human-element-of-ai/amp/"
     type: article
     provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.newrepublic.com/b00bcc916a8b134614cbcbe03de22f79cf9345cc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650b1b28535d7d1f890c8736/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
     excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli government pushes bill for facial recognition surveillance cameras in public spaces"
-    excerpt: "The bill says a police officer of undetermined rank will be able to decide that a camera be placed in a public area and at protest demonstrations."
-    publishedDateTime: 2023-09-19T10:55:00Z
-    webUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/"
-    ampWebUrl: "https://forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/561386/israeli-government-pushes-bill-for-facial-recognition-surveillance-cameras-in-public-spaces/?amp=1"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 29
   - title: "Government Supports Police Use of Facial-Recognition Cameras in Israel"
     excerpt: "Facial-recognition cameras will be employed to “prevent, thwart or uncover serious crime,\" according to the bill."
     publishedDateTime: 2023-09-19T15:28:00Z

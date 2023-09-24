@@ -41,15 +41,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Cruise self-driving cars cause traffic jam on Austin city street"
-    excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
-    publishedDateTime: 2023-09-19T10:00:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/self-driving-cars-austin-traffic-18373989.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 4
   - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
     excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
     publishedDateTime: 2023-09-20T16:53:00Z

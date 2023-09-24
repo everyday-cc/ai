@@ -24,86 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Why Discern Security Thinks AI Can Defeat The Cyber Attackers"
-    excerpt: "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software"
-    publishedDateTime: 2023-09-19T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
+  - title: "HiddenLayer raises $50M to bolster defenses of enterprise AI models"
+    excerpt: "Texas-based cybersecurity startup born out of a cyberattack that exploited machine learning code at the founders’ prior company, has announced a $50 million Series A funding round today to further harden the defenses of the rapidly growing number of AI ..."
+    publishedDateTime: 2023-09-19T15:49:00Z
+    webUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65095d4ddf493db59c935f69/0x0.jpg?format=jpg&crop=1280,600,x0,y114,safe&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_zero_trust_in_cybsecurity_acdae9a1-c7e2-4fba-9143-c1af5bde2caf.png?w=1200&strip=all"
         width: 1200
-        height: 563
+        height: 672
         isCached: true
-  - title: "'Job security forever': Bank leaders on AI and cyber defense"
-    excerpt: "\"The people are the most vulnerable point,\" said Reggie Townsend, vice president of the data ethics practice at AI and analytics software company SAS, on the same panel. Legault recommends moving away from focusing on details like typos, which he labeled ..."
-    publishedDateTime: 2023-09-22T18:06:00Z
-    webUrl: "https://www.americanbanker.com/news/job-security-forever-bank-leaders-on-ai-and-cyber-defense"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 53
-  - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
-    excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
-    publishedDateTime: 2023-09-19T13:45:00Z
-    webUrl: "https://venturebeat.com/ai/ai-assisted-cybersecurity-3-key-components-you-cant-ignore/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "The Emergence of AI in Cybersecurity: Revolutionizing Threat Detection through Machine Learning"
-    excerpt: "Fortunately, the advent of machine learning is offering a lifeline, equipping cybersecurity experts with unprecedented tools to pinpoint and combat digital threats effectively. In this blog post, we will delve into how AI and machine learning are ..."
-    publishedDateTime: 2023-09-20T08:03:00Z
-    webUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revolutionizing-threat-detection-through-machine-learning/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-20T090019.575.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Mosyle launches AI-driven zero trust platform for securing macOS against cyber threats"
-    excerpt: "LeeryAI makes use of a number of different predictive AI techniques to build an AI model for each specific device of what should be running."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://venturebeat.com/security/mosyle-launches-ai-driven-zero-trust-platform-for-securing-macos-against-cyber-threats/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 39
-  - title: "Can We Rely on AI Cybersecurity – Costs & Disadvantages (Exclusive Report)"
-    excerpt: "In today’s fast-paced digital landscape, evolving cyber threats demand innovative solutions. Enter AI cybersecurity — hailed as the groundbreaking shield against modern cyberattacks. Yet, like every groundbreaking tool,"
-    publishedDateTime: 2023-09-22T05:52:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-cybersecurity-costs-disadvantages/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 37
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/09/image-2023-09-20T110921.717.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
-    excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."
-    publishedDateTime: 2023-09-21T19:02:00Z
-    webUrl: "https://www.biometricupdate.com/202309/cyberlinks-facial-recognition-receives-south-korean-cybersecurity-certification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
 
 secured: "jHxS97glmVfy2jO7yycgtBr3RXEL1VxsDoz6HM99yEOpIzYU/Ret7R+yDsMms1NHDLTcIcwti17vjV7TwiT4o035s/gww7m8alnOTNHvP7CZIHlh1V5PrprjLEmjrwCqvG02DDjcnk3MgAPSKfI73jdO2SUbfcgRfty5jiwcjWpgTDO7jP0bbdl/l5OTJTo+z3UvgVzLRRTIvklozWl3VXHBbqmccNkf16tf/kFqK+giRkE2AdKNokjysem+vtEjruE8Cw2nyNVIjUbXp7p1Hi/ElxOMwR3NdUwVfksAkxwibgx0tPuze+knsR6b8EC9m5gQbTqAZfXI4WD2blSGAHsrJUHTbfvnc2FjSQrUZWuuXJqVW7fAM8P3RlmrjsRkR8WxPJj4gElFIweUyBoTadJyM/wxdmkfC/qokTzlzkhcJB95RZICO/EC124nOgNh15ifdCaAzmQrMGVc+FTtJB3UeHtnskKjzFN/uIa6Ls2+r6q47/zQi0cLKRlklix1HEmnuft60fAyQ0NAQTrk2g==;0EOL7gyhIVp76sa2qCPQwA=="
 ---

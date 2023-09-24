@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34732100"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34732100"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Security startup Discern launches AI-powered policy management platform"
-    excerpt: "The platform is designed to address three security policy challenges commonly faced by businesses."
-    publishedDateTime: 2023-09-19T10:59:00Z
-    webUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html"
-    ampWebUrl: "https://www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652756/security-startup-discern-launches-ai-powered-policy-management-platform.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/09/japan-control-center-man-computer-monitor-data-center_shutterstock_771481858-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Ally launches proprietary, enterprise AI platform"
-    excerpt: "Focus on internal problem solving, security and scalability underpins Ally's foray into generative AICHARLOTTE, N.C., Sept. 19, 2023 /PRNewswire/"
-    publishedDateTime: 2023-09-19T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ally-launches-proprietary-enterprise-ai-platform-1032640039"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1743708/Ally_Financial_Logo.jpg"
-        width: 400
-        height: 233
-        isCached: true
 
 secured: "CH0XfvhkhuzyZlYWMf3w0dthXYxQ1GWrrWj+9rFpPq1JU+f9qQzfcr4dFDtGWfylGmX4tFAkVLRr/X5MvUWgO9zSvfJYZJAt5KZkjAYJ469IS9a95izWVuKrMcxWydwM1Ov6HlmrxbR+RE+38k9sjYM1GsO4bmuhYql3pp4FzR1RJJVyoj9SZEM7IseTJ3RRCfqmgNxqNR2T9Gke4CTH44uSMcTuq7e9aSNWKgSQsDEr4rWBivTGAse2ct/dYM9srR+q1TWkVjSoqUhmsP9XVKBf0D/l7rPjmxzHSoyWN3HzEI3HCwSTRiHR8hJeDH9nF9PzfVyvyXRwizfSOHgK4vplmCfCamza3jB7CpcySe8=;lMOh/FBPjtGJoIBviJr22Q=="
 ---

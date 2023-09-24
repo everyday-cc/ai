@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduces-ai-powered-image-recognition-for-indian-food/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 84
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/09/Snap-Header-Image-1x.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Deloitte India collaborates with AWS to provide generative AI solutions for Indian companies"
-    excerpt: "Deloitte Touche Tohmatsu India LLP (Deloitte India) has announced a collaboration with Amazon Web Services (AWS), to enable generative Artificial Intelligence (generative AI) driven innovations for Indian enterprises."
-    publishedDateTime: 2023-09-19T09:21:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-deloitte-india-collaborates-with-aws-to-provide-generative-ai-solutions-for-indian-companies-3248424/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 63
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-19T144708.095.jpg"
         width: 1200
         height: 675
         isCached: true

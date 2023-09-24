@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revol
 webUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revolutionizing-threat-detection-through-machine-learning/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,62 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Discern Security Thinks AI Can Defeat The Cyber Attackers"
-    excerpt: "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software"
-    publishedDateTime: 2023-09-19T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65095d4ddf493db59c935f69/0x0.jpg?format=jpg&crop=1280,600,x0,y114,safe&width=1200"
-        width: 1200
-        height: 563
-        isCached: true
-  - title: "'Job security forever': Bank leaders on AI and cyber defense"
-    excerpt: "\"The people are the most vulnerable point,\" said Reggie Townsend, vice president of the data ethics practice at AI and analytics software company SAS, on the same panel. Legault recommends moving away from focusing on details like typos, which he labeled ..."
-    publishedDateTime: 2023-09-22T18:06:00Z
-    webUrl: "https://www.americanbanker.com/news/job-security-forever-bank-leaders-on-ai-and-cyber-defense"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 53
-  - title: "AI-assisted cybersecurity: 3 key components you can’t ignore"
-    excerpt: "Let’s dig into three aspects at the interface of cybersecurity and AI: the security of AI, AI in defense and AI in offense."
-    publishedDateTime: 2023-09-19T13:45:00Z
-    webUrl: "https://venturebeat.com/ai/ai-assisted-cybersecurity-3-key-components-you-cant-ignore/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Mosyle launches AI-driven zero trust platform for securing macOS against cyber threats"
-    excerpt: "LeeryAI makes use of a number of different predictive AI techniques to build an AI model for each specific device of what should be running."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://venturebeat.com/security/mosyle-launches-ai-driven-zero-trust-platform-for-securing-macos-against-cyber-threats/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 39
-  - title: "AI cybersecurity startup HiddenLayer raises $50M"
-    excerpt: "HiddenLayer says its platform is used by Fortune 100 enterprises in multiple sectors. To advance its revenue growth plans, the company has nearly quadrupled its headcount over the 12 months. It will use the $50 million round announced today to hire an additional 40 staffers by year’s end, build new features and accelerate go-to-market initiatives."
-    publishedDateTime: 2023-09-19T21:17:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/ai-cybersecurity-startup-hiddenlayer-raises-50m/"
+  - title: "Simplifying cybersecurity: Deloitte and AWS initiative aims to streamline cloud transformation"
+    excerpt: "A collaboration between Deloitte’s cybersecurity expertise and AWS’ cloud capabilities, ConvergeSECURITY offers an integrated platform for security telemetry and analytics. This integration runs on AWS tooling and helps businesses reduce complexity, improve security efficacy, enhance business outcomes and optimize cost-effectiveness."
+    publishedDateTime: 2023-09-21T14:03:00Z
+    webUrl: "https://siliconangle.com/2023/09/21/simplifying-cybersecurity-deloitte-aws-initiative-aims-streamline-cloud-transformation-falcon2023/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 42
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/HiddenLayer.png"
-        width: 718
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Chris-Richter-Clean.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Can We Rely on AI Cybersecurity – Costs & Disadvantages (Exclusive Report)"
     excerpt: "In today’s fast-paced digital landscape, evolving cyber threats demand innovative solutions. Enter AI cybersecurity — hailed as the groundbreaking shield against modern cyberattacks. Yet, like every groundbreaking tool,"
@@ -96,6 +53,34 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
+    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
+    publishedDateTime: 2023-09-21T09:38:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
+    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 29
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
     excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."
     publishedDateTime: 2023-09-21T19:02:00Z
@@ -105,6 +90,24 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 14
+  - title: "A Tampa cybersecurity startup surged to become a global company"
+    excerpt: "This story originally appeared in Florida Trend Magazine."
+    publishedDateTime: 2023-09-22T09:30:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/09/22/tampa-cybersecurity-startup-surged-become-global-company/"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 2
+  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
+    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
+    publishedDateTime: 2023-09-20T13:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ST8X3NKMV0m8QgA7AqaO1VHOyV1Wf2RHQpTblCRdaBnf4mmrm+8g4euHkKFlulnP4rlUGNSU5bcHP1sU9pFyrdjIuhyLJVr9yqOFKg3cFZGhRcq28MfRk+X8ROq50S45Yot9xvshnGnvLdzpPClPwqfWUDC187GDZXMgUcr+o4Rxd5qnBLe9njGlX5MN+lvskslQsFc14MOwNMhevwxq99E1FVXNeEq2IzeATQdHXftD2CgDNJMKIfKcBjT/X5yYLMfRWDttZz2tDgnV1yUBjaQGhTZQ8my/etJXjw/62PV+Bu8AiTxcSG04Xp0cEpsJgAg9rfoQiYBH25QIX1DCUUZkaU1mLHOSC6/rAydCtjF8eZj8RvIKDruGZ49jM9H4oRFMCSStd3LG8G3/0ZChP4tXg4G8HZN0J4vcKZkP0XadVIqsP1uwbcFlIvcMdqvebNtzKkO+iWz6S+z0/SIw44hYKdAVLOP4GT2NbhblbKYK7OacOFZhoPXnIcClguIbLVIJ1UeRAUvG51DD/vP4+w==;NtO3GThDfRcY+1Hkvj8bUw=="
 ---

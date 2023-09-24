@@ -24,20 +24,20 @@ topics:
 
 related:
   - title: "Hi, Robot: Machines Take Over At China's Asian Games"
-    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
-    publishedDateTime: 2023-09-23T07:04:00Z
-    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+    excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
+    publishedDateTime: 2023-09-23T10:38:00Z
+    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 61
+    quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
   - title: "Robots, machines dominate China's Asian Games"
     excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"

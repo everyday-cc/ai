@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importanc
 webUrl: "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/"
 type: article
 quality: 114
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing A Human-AI Partnership To Harness The Power Of Healthcare Innovation"
-    excerpt: "Combining the best of advanced technology and human expertise creates a win-win situation for both economic prosperity and improved patient well-being."
-    publishedDateTime: 2023-09-19T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/19/embracing-a-human-ai-partnership-to-harness-the-power-of-healthcare-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65087a353cc89f08cb01661d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI as a catalyst for change in the telecommunications industry"
     excerpt: "Reinvent how your business works with AI, transforming customer care, IT, network optimization and digital labor.\nThe post Generative AI as a catalyst for change in the telecommunications industry appeared first on IBM Blog.\n"
     publishedDateTime: 2023-09-19T18:28:30Z

@@ -46,15 +46,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Cruise self-driving cars cause traffic jam on Austin city street"
-    excerpt: "Cruise's self-driving vehicles seem to be taking over city streets in Austin, but not in the way you might be thinking. Over the weekend, videos popped up on TikTok showing Cruise vehicles stopped in the middle of he road, some with their caution lights on, preventing vehicles with human drivers from moving."
-    publishedDateTime: 2023-09-19T10:00:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/self-driving-cars-austin-traffic-18373989.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 4
 
 secured: "gWO6yNKaVkVZ/XNFa1mwubAlK3uyabQKrrKE+DRtEyd2myU3A5Bkxee+ZKOA83Vw7bZAAQVEq9QITzZMUBHvZue7fvrNQm9HimeRArIjpcaYPGkaNVOZ0EV9r35Ow7QG6HR+Oe5BHbyoKEj8O/2kbI7V6et7HSgwZnWdohJ5IEnGaH3y+HYaSwNzkshQaPEDAI6GjigrLjFzqGMnjCzWJVgi5lk+O0Mvn0BHQoKAlqKKnUw6nV61E7HvjXC3NmWFQugaRam/mJvNn9pAkbFoRTUTUikfWOrymbLVC7hGMegp1JGEpiD/ZVVhc0o4vh9rh4hTWwW7ZN3Skv4enVpUxiYNDClT1TvJD43nCcUCGbVCctoIKxTBgYpxE1ik8T55Jv6ImNK8iZ0f0i9EhK8cSCiDjtdLg5Rew9jr9fkM0/Vr0R0u5pjBBCRiIviFaLmhEWuv2Q4s5QR0gEnNtnKogRUiavdDcNg8Ky7Z6EtfGAkvTX+3BbFb2b02IqgkBJ8DdTpyElP5GQuL4xvAl+B3rw==;gT19dFvpUuTVF/xBgmi0dg=="
 ---

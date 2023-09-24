@@ -49,6 +49,15 @@ related:
         width: 815
         height: 451
         isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Artifical intelligence not only affords impressive performance, but also creates significant demand for energy. The more demanding the tasks for which it is trained, the more energy it consumes. Víctor López-Pastor and Florian Marquardt,"
+    publishedDateTime: 2023-09-22T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1002418"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
   - title: "CyberAgent Selects Dell Technologies for Developing Generative AI and Machine Learning Infrastructure for Digital Advertising"
     excerpt: "ROUND ROCK, Texas, Sept. 20, 2023 /PRNewswire/ -- Dell Technologies (NYSE:DELL) announces CyberAgent, a major digital advertising company in Japan, has selected Dell servers as the key IT infrastructure for powering its generative AI (GenAI) development and capabilities."
     publishedDateTime: 2023-09-20T16:50:00Z

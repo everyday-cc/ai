@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Efficient training for artificial intelligence"
+    excerpt: "Artifical intelligence not only affords impressive performance, but also creates significant demand for energy. The more demanding the tasks for which it is trained, the more energy it consumes. Víctor López-Pastor and Florian Marquardt,"
+    publishedDateTime: 2023-09-22T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1002418"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
   - title: "Pioneering AI tool to reshape student advising"
     excerpt: "student reassignment tools and instant multilingual translation. “The student journey tracker means essential steps and deadlines aren’t missed. That offers strong quality control and the AI can do in seconds what can easily take counsellors hours ..."
     publishedDateTime: 2023-09-22T07:42:00Z

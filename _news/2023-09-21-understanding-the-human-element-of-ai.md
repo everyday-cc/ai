@@ -30,36 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "Fairly AI wants to help companies better understand their AI risk"
-    excerpt: "David Van Bruwaene was pursuing his Ph.D. in philosophy at Cornell when he developed a passion for linguistics and natural language processing, the subfield of AI concerned with allowing ... “Our technology allows us to translate compliance requirements ..."
-    publishedDateTime: 2023-09-19T10:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/"
-    ampWebUrl: "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/"
+  - title: "Why open source is the cradle of artificial intelligence"
+    excerpt: "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again."
+    publishedDateTime: 2023-09-21T20:47:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 91
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738"
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 738
+        height: 675
         isCached: true
-  - title: "Smarter AI Assistants Could Make It Harder to Stay Human"
-    excerpt: "AI helpers that make phone calls ... (Reassuringly, other papers were about maintaining ethics in a world full of agents.) Gratch saw similar work at a conference he recently attended at MIT. All the major tech companies were there too, he says, and ..."
-    publishedDateTime: 2023-09-22T18:16:00Z
-    webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
+  - title: "The Indispensable Role Of Middle Management In The AI Era"
+    excerpt: "The emotional well-being of a team often falls under the purview of effective middle management, a task unlikely to be outsourced to algorithms."
+    publishedDateTime: 2023-09-22T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/22/the-indispensable-role-of-middle-management-in-the-ai-era/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/650cd5961f78a02d37c80f8b/191:100/w_1280,c_limit/Smarter-AI-Makes-It-Harder-To-Stay-Human-Business-BD6086-009.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61d43bb78d447e4754d6acf9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
+    excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
+    publishedDateTime: 2023-09-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-powered-intelligence-platform-equity-quotient-charts-the-future-of-inclusive-ai-1032643347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "From Diveplane to Howso: The meaning of AI startup’s name change and its open source future"
+    excerpt: "So I would argue that in many regards we’re more open source because we meet those open-source ideals. Raleigh-Durham Startup Week kicks off with AI & unintended consequences, winning government contracts TW: Do you have any thoughts on the work that ..."
+    publishedDateTime: 2023-09-21T18:44:00Z
+    webUrl: "https://wraltechwire.com/2023/09/21/from-diveplane-to-howso-the-meaning-of-ai-startups-name-change-and-its-open-source-future/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 7
 
 secured: "F+ZxQOGSyb8Ty+JgEt5SvZIxDQf5j8iTPgtgpWq4OqfA3Ymaam17ffOgBlEOUgxoMx+8xTiWBLi+MZuyYcpFniqSW9eG3pPgo9LO0Rzy7ufzzK+xvdjJsQ2tBH1QlF91QhGJluisFIM157zHSBul3wHRaBjnmy/mqQaU322/729PQL/4PPPa6+a2JK9d8kDHOpMru+i0rZJv0G4moLaNoXTuxKM7WHRZd29S3Gj23F18N+tbIlqzRHxdvEHjulQXRG0xKK96/10q2zDLxnbjD978XGzA0z9BStFSOO90S7ksfUcxo/IjTPTFsxLS8PmWy4Hppa3uJSxf8bKywV86qOxtebxcSdaAB4sQstQBAhI=;Q59P8906K7ud4xJ+Gs3pcw=="
 ---

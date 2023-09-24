@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gets-selected-by-
 webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gets-selected-by-abdul-latif-jameel"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -18,33 +18,6 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
-
-related:
-  - title: "AWS to power Abdul Latif Jameel digital transformation"
-    excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS"
-    publishedDateTime: 2023-09-19T10:15:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/aws-to-power-abdul-latif-jameel-digital-transformation-m2fxt9r9?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/N2ZmMDRhZDAtMjE2OC00/3/1410007281.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
-    publishedDateTime: 2023-09-19T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "MHsN9cKM3PjAxX9dJqD5c51rqXcH6ueuwqNDKodI39uwNf9yYADDcYJxN4zZZOumaFiTcXvNK7VGdJCkbnJvgQF6Y6+WcesAvVDcydvsSurFrEOotPMQBCtXyWlF3rJNAZiInkE9TViwPpmrazZO1ZRUWMWolaqV0P4N0FGoc/y1w9+u4fYf6upNDa/yqW5rrbzMrXz3qaLFQiB+ND88AT1qzsLMLe6MLwQkd9vyLlrh4K9CzvpXKpjvSfYEY+CvHwyFH3YqKhk3Yimuca1HTEbiqziFCG521QcI264BC6dfjVi9+h2fQXHn60EOnQPgHJ/rvmkuStiFw0wMgmsZg87p4oYjuxvfaeqxDEjztb4=;Prm6ApjWuPQYAvA3eh3TWw=="
 ---

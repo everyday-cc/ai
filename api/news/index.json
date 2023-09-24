@@ -164,7 +164,7 @@
       "originalUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 526,
+      "heat": 516,
       "tags": null,
       "images": [
         {
@@ -211,19 +211,19 @@
     {
       "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
       "title": "Hi, Robot: Machines Take Over At China's Asian Games",
-      "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
+      "excerpt": "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
+      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg",
-          "width": 768,
-          "height": 512,
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -231,9 +231,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
-      "publishedDateTime": "2023-09-23T00:04:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534",
+      "publishedDateTime": "2023-09-23T03:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -247,9 +247,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -261,7 +260,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/business/smes-need-to-be-careful-in-using-ai-for-learning-and-development-11408691.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -343,6 +342,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-smarter-ai-assistants-could-make-it-harder-to-stay-human.md",
+      "title": "Smarter AI Assistants Could Make It Harder to Stay Human",
+      "excerpt": "AI helpers that make phone calls ... (Reassuringly, other papers were about maintaining ethics in a world full of agents.) Gratch saw similar work at a conference he recently attended at MIT. All the major tech companies were there too, he says, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/",
+      "originalUrl": "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/650cd5961f78a02d37c80f8b/191:100/w_1280,c_limit/Smarter-AI-Makes-It-Harder-To-Stay-Human-Business-BD6086-009.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1162,57 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-salesforce-to-acquire-airkitai-a-low-code-platform-for-building-ai-customer-service-agents.md",
-      "title": "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents",
-      "excerpt": "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
-      "originalUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/feat-e1695328683148.png?w=1120",
-          "width": 1120,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/",
-      "publishedDateTime": "2023-09-21T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

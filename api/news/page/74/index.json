@@ -2,6 +2,135 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-08-02-chatbots-sometimes-make-things-up-not-everyone-thinks-ais-hallucination-problem-is-fixable.md",
+      "title": "Chatbots sometimes make things up. Not everyone thinks AI’s hallucination problem is fixable",
+      "excerpt": "It also helps power automatic translation and transcription services ... parent Meta to offer its customers a smorgasbord of AI language models tailored to their needs. For someone concerned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/",
+      "originalUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/iqROxDJOsVrcvclMj4uVLd0D69o=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/VHYM5RCUK5ERZKJUFZUYTKKYYE.jpg",
+          "width": 767,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/08/01/chatgpt-ai-hallucinate/?outputType=amp",
+      "publishedDateTime": "2023-08-02T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses.md",
+      "title": "Akkio raises $15M to advance no-code AI platform for businesses",
+      "excerpt": "Massachusetts-headquartered Akkio, a company offering a no-code platform to help businesses deploy artificial intelligence (AI) in minutes, today announced $15 million in a series A funding round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/661922/akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses/",
+      "originalUrl": "https://www.inferse.com/661922/akkio-raises-15m-to-advance-no-code-ai-platform-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/08/wp-header-logo-1330.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-bridging-the-ai-language-problem-why-artificial-intelligence-tools-do-not-work-in-many-languages.md",
+      "title": "Bridging the AI language problem: Why artificial intelligence tools do not work in many languages",
+      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the world are changing that.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/AI-Language.png",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/artificial-intelligence-language-problem-8872813/lite/",
+      "publishedDateTime": "2023-08-02T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-amd-projects-strong-year-end-performance-with-ai-chip-launch.md",
       "title": "AMD Projects Strong Year-end Performance With AI Chip Launch",
       "excerpt": "The strong projection will be driven by the planned launch of artificial-intelligence chips that could compete with Nvidia semiconductors.",
@@ -1049,153 +1178,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-warning-over-using-face-recognition-to-catch-shoplifters.md",
-      "title": "Warning over using face recognition to catch shoplifters",
-      "excerpt": "Using facial recognition cameras to crackdown on shoplifting would be \"dangerously authoritarian\", campaigners have warned. The Times says policing minister Chris Philp will ask forces to use the technology to match known shoplifters on the police national computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-politics-66372601",
-      "originalUrl": "https://www.bbc.com/news/uk-politics-66372601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/623E/production/_130605152_fc1125a59aeb71a62844d57c1a9ed1b389181511.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-politics-66372601.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66372601.amp",
-      "publishedDateTime": "2023-08-01T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-researchers-highlight-ethical-issues-for-developing-future-ai-assistants.md",
-      "title": "Researchers highlight ethical issues for developing future AI assistants",
-      "excerpt": "Most people use voice assistant technologies like Alexa or Google Assistant for list making and quick weather updates. But imagine if these technologies could do much more—summarize doctor's appointments,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/researchers-highlight.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-highlight-ethical-issues-future-ai.amp",
-      "publishedDateTime": "2023-08-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-stegai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking.md",
-      "title": "Steg.AI puts deep learning on the job in a clever evolution of watermarking",
-      "excerpt": "Steg.AI lets creators embed a nearly invisible watermark using deep learning, defying the usual \"resize and resave\" countermeasures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/01/steg-ai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking/",
-      "originalUrl": "https://techcrunch.com/2023/08/01/steg-ai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/getty-magnifying-pixels.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/01/steg-ai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/01/steg-ai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking/amp/",
-      "publishedDateTime": "2023-08-01T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
