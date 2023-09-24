@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-gove
 webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
 type: article
 quality: 99
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png"
         width: 906
         height: 412
-        isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-19T05:35:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-19/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "The Real Test of Government-Regulated AI"
     excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."

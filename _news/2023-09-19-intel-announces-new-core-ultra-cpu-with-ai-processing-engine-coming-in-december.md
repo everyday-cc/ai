@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-u
 webUrl: "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year"
 type: article
 quality: 65
-heat: 96
+heat: 97
 published: true
 
 provider:

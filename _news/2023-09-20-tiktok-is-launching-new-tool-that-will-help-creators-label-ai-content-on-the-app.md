@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-tha
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html"
 type: article
 quality: 82
-heat: 102
+heat: 104
 published: true
 
 provider:

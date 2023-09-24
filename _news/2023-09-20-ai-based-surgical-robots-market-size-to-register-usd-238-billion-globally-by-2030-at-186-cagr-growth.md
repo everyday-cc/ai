@@ -33,6 +33,20 @@ related:
         width: 395
         height: 249
         isCached: true
+  - title: "Global Web 3.0 Market Size To Reach USD 81.5 Billion In 2030 | Emergen Research"
+    excerpt: "The global Web 3.0 market size reached USD 3.2 Billion in 2021 and is expected to register a significantly rapid revenue CAGR during the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2023-09-21T17:19:00Z
+    webUrl: "https://menafn.com/1107114383/Global-Web-30-Market-Size-To-Reach-USD-815-Billion-In-2030-Emergen-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?614734"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Cloud Services Market Expected To Reach $2492.6 Billion By 2031-Allied Market Research"
     excerpt: "Expanding digital transformation, remote work trends, and data storage needs fuel the Cloud Service Market's g"
     publishedDateTime: 2023-09-22T07:48:00Z

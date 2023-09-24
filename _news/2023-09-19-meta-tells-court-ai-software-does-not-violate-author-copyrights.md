@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-softw
 webUrl: "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/"
 type: article
 quality: 67
-heat: 88
+heat: 89
 published: true
 
 provider:

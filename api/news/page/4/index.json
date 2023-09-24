@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-20-health-care-flat-amid-inflation-bets-health-care-roundup.md",
+      "title": "Health Care Flat Amid Inflation Bets -- Health Care Roundup",
+      "excerpt": "Health-care companies were more or less flat as traders sought out sectors less susceptible to fears about interest rates and inflation. Drug",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
+      "publishedDateTime": "2023-09-19T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-acceldata-acquires-bewgle-to-offer-customers-more-visibility-into-ai-data-pipelines.md",
+      "title": "Acceldata acquires Bewgle to offer customers more visibility into AI data pipelines",
+      "excerpt": "With this deal, Bewgle's technology and team will come under Acceldata and accelerate the company's data observability capabilities for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/acceldata-acquires-bewgle-to-offer-customers-more-visibility-into-ai-data-pipelines/",
+      "originalUrl": "https://venturebeat.com/ai/acceldata-acquires-bewgle-to-offer-customers-more-visibility-into-ai-data-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Charts_graphs_financial_information_and_other_busine_20716719-ba2e-4ab6-8e42-3b2339caeb10.png?w=1200&strip=all",
+          "width": 803,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.md",
       "title": "TikTok is launching new tool that will help creators label AI content on the app",
       "excerpt": "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -562,7 +665,7 @@
       "originalUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -614,7 +717,7 @@
       "originalUrl": "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -665,7 +768,7 @@
       "originalUrl": "https://www.techrepublic.com/article/australia-adapting-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1100,108 +1203,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-science-vs-data-analytics-unpacking-the-differences.md",
-      "title": "Data science vs data analytics: Unpacking the differences",
-      "excerpt": "Though often used interchangeably, \"data science\" vs \"data analytics\" are two distinctly different concepts. Let's explore.\nThe post Data science vs data analytics: Unpacking the differences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/",
-      "originalUrl": "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/20_43_p_gorodenkoff-017.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-darrow-gets-served-35m-for-an-ai-that-parses-public-documents-for-class-action-lawsuit-potential.md",
-      "title": "Darrow gets served $35M for an AI that parses public documents for class action lawsuit potential",
-      "excerpt": "The U.S. is famous (or infamous) for its litigiousness: the country may not have the highest per capita amount of lawsuits (that's Germany), but it has",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/19/darrow-legal-tech/",
-      "originalUrl": "https://techcrunch.com/2023/09/19/darrow-legal-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1133007677.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/19/darrow-legal-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/darrow-legal-tech/amp/",
-      "publishedDateTime": "2023-09-19T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

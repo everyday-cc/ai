@@ -5,10 +5,12 @@ excerpt: "At a private NYC venue, Microsoft launched a duet of Surface laptops a
 publishedDateTime: 2023-09-23T12:00:00Z
 originalUrl: "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
 webUrl: "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 106
+heat: 556
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Hardware
+
+images:
+  - url: "https://www.zdnet.com/a/img/resize/44ac5ceb6620b58be0b51f6933fe389c00a7b7bd/2023/09/21/ef52c87d-67e3-4dac-9f5a-013c9850287f/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Every product Microsoft unveiled at its Surface and AI event today"
@@ -591,6 +600,6 @@ related:
       domain: searchengineland.com
     quality: 29
 
-secured: "Xs4HEslB8pAGqeIXLE9zZrgSiUwRnNOG8mxFagxwcdeaNsgo11FyBkGCwX1DLJaDSAo/2FH4jTLpXvHZrlg4Y0FoXwprsfKxtWa7LXv3ZcScykO1lt3fP/6VAFwsl/J5CTp7VinqxcYw37jK74E0Rqo2mXmFLepV21mNzGsA1ogq8/bWb0c1tmdBSCd3qEvxZazI53Qsa3d1Eo4FO3oeSM8z6+xKp6zHQBwq+NgoeNFsqm1xi40GP72pHaK1YdBffF8edrvzE2uUJi9Map6g3s35k6YyINazWQrKGxLp3AHYz3baHaafP69+/axF9mBRdE+6Hk+AHhLKS3gTJe0brJLgLcIc9YNjshc6mmgWn5PwQFpWdks2r1l4gKb4ZHEB9UChze6r4rAbzMMauBexdCtUPuHy5qOzy844JOL7n8c85rnz0fNeGZHYNBuxyKNTqFsFbMptxATrNz+3HSJQrRQNcwY+yHvZcTWIhAMDC7hc1tyvWTQ9eMWyzJGZ11zmHIgbMGC2ghx/xJ6f7T0iKw==;Ws0SsiNpuaVzY6xcjbZu6w=="
+secured: "oGsw/PK7NzBVM3cBkNoYeQAP4SuSj74WxauB47Op5WDtBVgb9eZvl9bJ976YMju73eHc4F7Kdf0yb62mrmIjtMHLcIDRdTttHzYoLUDJHDldCILElEZBbzGQ3JO4f/MSE+WemvB4jDE+cjlMKXq0dA9iA7nAkK7BRbPSLCCqjJoU37pd6zOhAUHb85PyDx4B8pbwVhcx9Zq/6ejD3mfNlGst1CQXR9vZR1ktVz8GUVFPA1r3R0vKbtbrFJGaLOYN3fT5tuq8uTF5ETb//iN3nTFll098q830URK/sQ068soc/l9UIlsLoUi/oChgJBAZPsV/8pv9uBV6CJpF8UhiMQKOei1xTR0mAWOB+iI432M=;XQcQ9XoTyEMwOMeLe7solg=="
 ---
 

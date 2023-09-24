@@ -19,6 +19,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Everything Microsoft unveiled at its Surface and AI event this week"
+    excerpt: "At a private NYC venue, Microsoft launched a duet of Surface laptops and all the AI features. Here's the low-down of everything announced."
+    publishedDateTime: 2023-09-23T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/44ac5ceb6620b58be0b51f6933fe389c00a7b7bd/2023/09/21/ef52c87d-67e3-4dac-9f5a-013c9850287f/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Every product Microsoft unveiled at its Surface and AI event today"
     excerpt: "Copilot will be available on Windows 11 devices, across Microsoft 365 services including Powerpoint, Excel, and Teams, and on Microsoft Edge. Because Copilot builds on Bing Chat, it shares similar AI-powered features like the ability to summarize and pinpoint key information of bodies of text, from websites to text messages."
     publishedDateTime: 2023-09-21T14:42:00Z
@@ -332,15 +348,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Everything Microsoft unveiled at its Surface and AI event this week"
-    excerpt: "At a private NYC venue, Microsoft launched a duet of Surface laptops and all the AI features. Here's the low-down of everything announced."
-    publishedDateTime: 2023-09-23T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "What Microsoft's AI Push Means for Your Windows Laptop"
     excerpt: "Microsoft's event was packed with demos showing new ways AI will be cropping up in Windows, and the new Copilot is at the center of it all. The company says Copilot will draw from a combination of the web, your communications, and your devices to be a more personalized and efficient helper."
     publishedDateTime: 2023-09-22T19:32:00Z

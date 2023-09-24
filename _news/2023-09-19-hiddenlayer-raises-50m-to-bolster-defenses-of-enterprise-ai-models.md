@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster
 webUrl: "https://venturebeat.com/security/hiddenlayer-raises-50m-to-bolster-defenses-of-enterprise-ai-models/"
 type: article
 quality: 67
-heat: 68
+heat: 69
 published: false
 
 provider:

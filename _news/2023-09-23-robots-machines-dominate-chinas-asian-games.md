@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hi, Robot: Machines Take Over At China's Asian Games"
-    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
-    publishedDateTime: 2023-09-23T07:04:00Z
-    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+  - title: "Hi, Robot: machines take over at China's Asian Games"
+    excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world—at least at China's Asian Games."
+    publishedDateTime: 2023-09-23T07:53:00Z
+    webUrl: "https://techxplore.com/news/2023-09-robot-machines-china-asian-games.html"
+    ampWebUrl: "https://techxplore.com/news/2023-09-robot-machines-china-asian-games.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-robot-machines-china-asian-games.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 61
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/a-robot-greets-visitor.jpg"
+        width: 1280
+        height: 852
         isCached: true
   - title: "INTRODUCING SPHERE'S VERY OWN ROBOT: AURA"
     excerpt: "Sphere Entertainment's Humanoid Spokesbot and Storyteller to Serve as a First-Of-Its-Kind Guide at the Next-Generation VenueLife-Like Aura"

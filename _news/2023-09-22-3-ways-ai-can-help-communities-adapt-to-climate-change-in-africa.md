@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-h
 webUrl: "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Google
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
   - Google AI
+
+related:
+  - title: "OP-ED: Understanding AI’s Role in Accelerating Africa’s Healthcare Momentum"
+    excerpt: "In Africa, as in much of the world, artificial intelligence (AI) is the latest buzzword amongst healthcare professionals. Globally, we saw an explosion last year of various AI generative platforms, promising unparalleled potential to solve some of the ..."
+    publishedDateTime: 2023-09-21T11:20:00Z
+    webUrl: "https://pctechmag.com/2023/09/op-ed-understanding-ais-role-in-accelerating-africas-healthcare-momentum/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 52
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/09/Eyong-Ebai-GM-640x470.jpg"
+        width: 640
+        height: 470
+        isCached: true
 
 secured: "h9p0WYf39Q10xG+ISM0URHekPBcqjow2Blz2RN3wIe5MyZMhp9XKiogI0dt44/6gDQmR7g2N+gq+8wbXQYcfUSOkOWmivBoYWM3QYb+Je7c/6wLX6DKP5fXUb1zXLhqNb2K3k7lrdW7ZjbHX5N2icSwVTOgn+4+Nja914hL0fowx+nUBWbcA208aFYmp64uIXgQX91dnD+7G7Vo+prv+dnEUBk7pchfnpXMe8I/SW04Wo+speYw6ujS6uCxrQHv+dP5tZecKgkXuF2JIJSAXtnuagVdw848iv9TgLEnn1CGN/cgtn76jdGQEg/aAxcoxIXPNCdYk0FH6cP+VFfYGOGfQeE90owdwdgGAtjqA2Cs=;McRUOVwcCr4lwDHxq8c4RA=="
 ---

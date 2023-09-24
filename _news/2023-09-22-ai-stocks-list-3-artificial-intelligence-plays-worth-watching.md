@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-a
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
 type: article
 quality: 66
-heat: 98
+heat: 96
 published: true
 
 provider:
