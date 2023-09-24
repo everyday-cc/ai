@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
 type: article
 quality: 85
-heat: 139
+heat: 130
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-21-at-10.29.03-AM-2.png?w=1170"
         width: 1170
         height: 692
-        isCached: true
-  - title: "Google Bard AI Dips into Gmail, Google Maps, YouTube"
-    excerpt: "New capabilities for the tech giant's chatbot that span across the Google platform may make Bard more helpful."
-    publishedDateTime: 2023-09-19T23:55:00Z
-    webUrl: "https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/df85caa05a9770568ad18260fc2ad7efcf430315/hub/2023/05/31/a1f398db-3180-46ce-8992-c9c942ee4639/230524-yt-3-settings-bard-ai-protect-yourself-v03.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "YouTube launches a simple video editing app with cool AI tricks"
     excerpt: "YouTube is taking aim at apps like CapCut with its new YouTube Create app, offering a video editor with AI-powered features."

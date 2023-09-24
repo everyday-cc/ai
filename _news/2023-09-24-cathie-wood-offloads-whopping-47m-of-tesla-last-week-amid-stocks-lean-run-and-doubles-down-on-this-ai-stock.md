@@ -2,29 +2,30 @@
 category: news
 title: "Cathie Wood Offloads Whopping $47M Of Tesla Last Week Amid Stock's Lean Run And Doubles Down On This AI Stock"
 excerpt: "Cathie Wood, despite her bullishness on Tesla, has continued to offload the stock in the past week amid its pullback."
-publishedDateTime: 2023-09-24T14:55:00Z
-originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/09/34844076/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stocks-lean-run-and-doubl"
-webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/09/34844076/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stocks-lean-run-and-doubl"
-ampWebUrl: "https://www.benzinga.com/amp/content/34844076"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34844076"
+publishedDateTime: 2023-09-24T15:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206"
+webUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206"
 type: article
-quality: 57
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
   - AI in Autos
 
 images:
-  - url: "https://cdn.benzinga.com/files/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg?width=1200&height=800&fit=crop"
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg"
     width: 1024
-    height: 683
+    height: 768
     isCached: true
 
 related:
@@ -43,6 +44,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "1fExn10FX4/etDhPrIThxTWO0iqA1EbCRihzDiiloXMWyuKhCCwoAyQKYKEptlMsf7unupvUy3jokCtR/XjWsqmvjRZ9hNc233tqriBF9O6/vNhtCIkPGuuNLaNSphR8shcRtIkb/VV5x7271jXoGdLgAL3Crj0e2n4OXaOV0srMXu1vkySX3MK+XfncpfWCRYBIC7ugD8Igeozn/VUtDv13iN5aRao/x6BE0RJUcTl6NY9agPhMtI7osaxizl7I6dlUGokGFmytFUhHJ7hOpXVtdGVA2tKTT1evLmNXvUx9eFq/kvsXZVwmuBfEFr3EFSJKZNTGe2ughn94r1LN4oCn1gbaJQdDjXl6/1j/V6A=;yAfPrr8EywTtLWR7xvP1GA=="
+secured: "uBE/+aCNa/zPvPEe9fZ5GQruxWfOZlSMJJrHXoLC0B/qVY28DpRxtG4X9Fc2T1nbgqHujYdRCTdLz2zv3lO7ghCeuZyF8X0+hoNmYuggsZOfDYB5AlVtepmJZ2T4hWXiQtEoi0D75Q2mnyVlLT/zcqU/ralegbB8eFxyG+mBVrZ8YE+53SZhWvd27MZWXbrXG8Gwqz5vNrf0AJ/tqIDHZJeFV2gAFRcbX0LSyNfnYzfoyISEylMwYYRkFbQn/oTJPkfi5u4oiz5RYrqq0ZSmx/iK3CgaImMeSgQf1lE2yGMbBbqL5jfGiB2FzdyQe4wjs+s7gYTtgDzULkav2LNEQbNA0Ezj2mV46pTsp0Xaujc=;9B6JDmosHazqQTOpHf2YJw=="
 ---
 

@@ -54,6 +54,15 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 34
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
+    publishedDateTime: 2023-09-20T12:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 7
 
 secured: "HrBr55+gJ2Cnu2JxmuvL9ZwukW1en9mNqrPvsmDOEaE41xkimcedh19FGe3DaIM1zrc8lbh8he0PLZAGdrZsOcNC+FsSkywV0CPvFCiaWH+1jqGhkxcB9y+N4tYiUcumY4rYyLopPPvhtb1EyNTb4RorGfEse0Spa2BbQzpS/ekoN7dTnEcY63Jx0wl1o3Htu8J9V2SttesMQ67k4uJE8OytZNkhLgq/atg5Tn3jre44pL0D92FKPMvRUA6Viax2jB8U+B27V5+I9CCGJgX7ti7RFRk7Dtwr6bJBeQPxgo5HRdnVLLYvHqpxV+scI7mJbssrwWd7cbHT068v1aSQWs11Y+SF9rTBYesG6SBLsnA=;8eQuFjjoYRPrq8jQftF6nw=="
 ---

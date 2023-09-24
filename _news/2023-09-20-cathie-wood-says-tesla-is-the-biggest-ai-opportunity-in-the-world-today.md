@@ -31,19 +31,17 @@ images:
 related:
   - title: "Cathie Wood Offloads Whopping $47M Of Tesla Last Week Amid Stock's Lean Run And Doubles Down On This AI Stock"
     excerpt: "Cathie Wood, despite her bullishness on Tesla, has continued to offload the stock in the past week amid its pullback."
-    publishedDateTime: 2023-09-24T14:55:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/09/34844076/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stocks-lean-run-and-doubl"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34844076"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34844076"
+    publishedDateTime: 2023-09-24T15:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg?width=1200&height=800&fit=crop"
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg"
         width: 1024
-        height: 683
+        height: 768
         isCached: true
 
 secured: "tcfFE6T3LRyNYdVQKwPzmE+93G3w0ZeTBv+VVL82KBbGRMi6q5sa8GiMFyRyJdcooPEFYd+2Bw2gCu/sSKIwGXrCdilfEabf/f977xw/0Wl657Blqhn5KL3fYDu+tJNm29DXqLF0/i9HyGY7HYiqC6apXjhZT3XSAKcknz5XRQ9OGWMNdxhooBggYBZ6gA0+frO6dpSptWmrUKAe5bvDFeIjVyfddImtwCQ6AkrnepvLV4DSmZoEE4/DcvT+xYAUSTpnLQHZnH6g0scHdCxhiNn8z0FaKInDHlVLeYl6PjhtRaiXaqRf2rCNRnH2c61MUqCmXtuPhb+p27gU2+jejhGrMq6qnTmleyXcOdoZPhRi1VXzSk7+ctIwxHXJWpxAraimWHMg12hvLfkRi51Sin8IPEtNozIhQVdNdo7aJKWpD+rurp6F4/JLBAS3vGzeMoM4UTCxXZvnjMOad8HcrIghW4zWChX5sIOcckx+o6EOFyEHsbB0QMJKf1WiOl7J6J12GdViVSlIySZQ8hE7pw==;74JzfQeH0te30qw9ECpYtg=="

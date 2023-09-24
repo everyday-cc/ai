@@ -33,20 +33,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel unveils a chip that could run generative AI on a laptop"
-    excerpt: "At the conference, Intel demonstrated laptops that could generate a song in the style of Taylor Swift and answer questions in a conversational style, all while disconnected from the Internet. Chief Executive Officer Pat Gelsinger said Microsoft's \"Copilot\" AI assistant will be able to run on Intel-based PCs."
-    publishedDateTime: 2023-09-19T23:46:00Z
-    webUrl: "https://www.digitalnationaus.com.au/news/intel-unveils-a-chip-that-could-run-generative-ai-on-a-laptop-600435"
-    type: article
-    provider:
-      name: digitalnationaus
-      domain: digitalnationaus.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
-        width: 801
-        height: 568
-        isCached: true
   - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
     excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
     publishedDateTime: 2023-09-20T01:16:00Z

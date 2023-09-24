@@ -34,15 +34,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 49
-  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
-    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support LAS VEGAS,"
-    publishedDateTime: 2023-09-20T12:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-1032643242"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
     excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
     publishedDateTime: 2023-09-20T12:28:00Z

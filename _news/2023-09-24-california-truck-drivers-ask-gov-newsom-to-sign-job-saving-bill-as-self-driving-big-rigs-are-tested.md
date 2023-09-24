@@ -145,34 +145,6 @@ related:
         height: 630
         isCached: true
   - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
-    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would"
-    publishedDateTime: 2023-09-19T23:25:00Z
-    webUrl: "https://tulsaworld.com/ap/business/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/cf/bcfd2091-7cae-563f-a309-4bff1a64797e/650a2fbd433c1.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "California truck drivers ask Gov. Gavin Newsom to sign job-saving bill as self-driving big rigs are tested"
-    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
-    publishedDateTime: 2023-09-20T00:07:00Z
-    webUrl: "https://www.kpbs.org/news/public-safety/2023/09/19/california-truck-drivers-ask-gov-gavin-newsom-to-sign-job-saving-bill-as-self-driving-big-rigs-are-tested"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 6
-    images:
-      - url: "https://cdn.kpbs.org/dims4/default/fbc713b/2147483647/strip/true/crop/5184x2722+0+97/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fassets%2Fimg%2F2015%2F05%2F10%2Ffreightliner_wide-a331a1875a9a645d208ad74f3493fa939cdd5316.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more ..."
     publishedDateTime: 2023-09-23T23:34:00Z
     webUrl: "https://www.wral.com/story/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/21056630/"

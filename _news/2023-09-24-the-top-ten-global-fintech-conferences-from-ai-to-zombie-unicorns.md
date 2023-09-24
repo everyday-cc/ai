@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Fintech Pagaya, Värde Continue to Provide Capital Support to Credit Unions"
-    excerpt: "(NASDAQ: PGY), a global technology company delivering artificial intelligence infrastructure for the financial ecosystem, and Värde Partners, a global alternative investment firm specializing in credit and credit-related assets,"
-    publishedDateTime: 2023-09-19T23:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Spectral AI to Present at 2023 Cantor Fitzgerald Global Healthcare Conference"
     excerpt: "Spectral AI is building on $130+ million to date of non-dilutive U.S. Government contracts for burn wound healing assessment, including under the U.S. federal mass casualty countermeasures program, and is expanding its AI technology platform into Diabetic Foot Ulcers and multiple other clinical indications."
     publishedDateTime: 2023-09-20T20:23:00Z

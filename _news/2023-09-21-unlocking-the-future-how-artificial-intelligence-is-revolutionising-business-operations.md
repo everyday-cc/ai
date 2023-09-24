@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Future: Is Ethical Human Behavior the True Answer to Regulation?"
-    excerpt: "Open Voice Network’s Jon Stine weighs in on new European AI regulations and whether ethical human behavior is a better solution."
-    publishedDateTime: 2023-09-20T13:19:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/ai-ethics-vs-regulaton/"
+  - title: "AI will revolutionise research. But could it transform science altogether?"
+    excerpt: "Jane Dyson, structural biologist at the Scripps Research Institute in La Jolla ... head of the company’s “AI for Science” team, explains. Also, Kunal Patel, one of our producers, meets Erik Bjurström, a researcher at Chalmers University of ..."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://www.economist.com/podcasts/2023/09/20/ai-will-revolutionise-research-but-could-it-transform-science-altogether"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 34
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230923_PDP505.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bW4tNgfZaE0QRNtXeEV8MlxCuO4vDUkjWyHxEPPj0Ja1beDVekLGNBx/ZVJ7kcWqKsbmsMFvRVQnmi9rZAD/uTgR1Xi7oF38lXG3fpuUzK5HNfCShmH+oAr2N0syiGqx8zee1tl0tt3h91es+ElcJ/HFAQookB7sdxBcSwxz9OTXnGbzMOn8HHVdA12L2PugJCoExaEVdPvk2BTSXPsRxwjmytyuhKFQuyq4+WIdS0qRGZkKCCGSxkuhG0TH8L1zeFJbnXoaYY4Ss6A2Hk1JPhiWDGco5nj25YfI5jh0sYEc82qsvDmSaAGMv0ByL2AFJ0/pV2GbS0bumscCss042eGcfD6NErQI8PO8LQ5v4O41BqhcsOPwiNT8ZHkTuNGcuOLTYkPJ61mleun7Khi6Biqmk65/UEvUoO/F/aOWCFF6057NJUAhypbuDXvorUuaRnJJO9kCghhmUC2YdMxUm7Q27kDWOYo18hwMpcBLcakY/dpRLqaJeGNU+cDbQmHj19K+6kZtnIAd74ogpI14NQ==;6fRB1HZtyR/Wa8rYmY4FrA=="
 ---

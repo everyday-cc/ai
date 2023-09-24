@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1"
 type: article
 quality: 76
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/09/google-deepmind-ai-genetic-mutations-disease.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Google DeepMind could speed up the search for disease-causing genes"
-    excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
-    publishedDateTime: 2023-09-19T23:44:00Z
-    webUrl: "https://bgr.com/tech/google-deepmind-could-speed-up-the-search-for-disease-causing-genes/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
-        width: 1750
-        height: 1118
         isCached: true
   - title: "AI Tool Pinpoints Genetic Mutations That Cause Disease"
     excerpt: "Google DeepMind has wielded its revolutionary protein-structure-prediction AI in the hunt for genetic mutations that cause disease. A new tool based on the AlphaFold network can accurately predict which mutations in proteins are likely to cause health conditions — a challenge that limits the use of genomics in healthcare."

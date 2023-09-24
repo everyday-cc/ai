@@ -146,20 +146,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Google DeepMind could speed up the search for disease-causing genes"
-    excerpt: "Google’s AI firm DeepMind says that it could help speed up the search for disease-causing genes by using AI. DeepMind is essentially Google’s AI division, which is responsible for creating large language models and other AI tech. Now, though ..."
-    publishedDateTime: 2023-09-19T23:44:00Z
-    webUrl: "https://bgr.com/tech/google-deepmind-could-speed-up-the-search-for-disease-causing-genes/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2020/09/bgrpic-copy-16.jpg?quality=82&strip=all"
-        width: 1750
-        height: 1118
-        isCached: true
   - title: "What’s AlphaMissense? This new Google DeepMind tool analyses genetic mutations"
     excerpt: "AlphaMissense promises to predict how dangerous a genetic mutation is. Researchers at DeepMind, one of Google’s artificial intelligence (AI) companies, presented a new tool that predicts whether or not genetic mutations are potentially pathogenic, a breakthrough that could help research into rare diseases."
     publishedDateTime: 2023-09-21T14:45:00Z

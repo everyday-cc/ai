@@ -33,15 +33,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Oracle Delivers More Choices for AI Infrastructure and General-Purpose Compute"
-    excerpt: "New OCI Compute instances with next-generation processors from NVIDIA and Ampere Computing help increase performance and efficiency for GPU- and"
-    publishedDateTime: 2023-09-20T00:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-delivers-more-choices-for-ai-infrastructure-and-general-purpose-compute-1032641694"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Artificial intelligence could be future of cancer care"
     excerpt: "Artificial intelligence could be used in cancer care in Australia within years, offering patients more tailored treatment and diagnosis."
     publishedDateTime: 2023-09-23T20:08:00Z

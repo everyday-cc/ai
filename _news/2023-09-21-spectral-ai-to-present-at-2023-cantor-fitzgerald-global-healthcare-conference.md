@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 837
         isCached: true
-  - title: "AI-Powered Fintech Pagaya, Värde Continue to Provide Capital Support to Credit Unions"
-    excerpt: "(NASDAQ: PGY), a global technology company delivering artificial intelligence infrastructure for the financial ecosystem, and Värde Partners, a global alternative investment firm specializing in credit and credit-related assets,"
-    publishedDateTime: 2023-09-19T23:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213135-ai-powered-fintech-pagaya-varde-continue-to-provide-capital-support-to-credit-unions/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
 
 secured: "YdCJtjrhLf5p4JW1Ug6wdet8T8moz/i3CNosK2KpcLVQ/kXiOZgd3bOMIY9vPfOz1zh5TEM2tBzpry7jYbD3KemFgKwmOLpl0JyfRreCOECVWqoZjParhHt0EOKz04+Hsvw1BUrep67TlR3gPirsWFPC3EW60hFS4zlRlEra+hmHaHAZQWO2pgauiWHScd6zvIimo4m5CMYjTdKvtkyXK53fJ7Mrrvm7Sj8k2WaB8gpfNAVLQxfbEvkraEd3NBR+j7tOyO7h8LeUHk4ikgyf3MbVYAtz/8kvqCnYUNZarCkJBE7jNGxU+nHMIWw/Qwh5l1h/AkoKl4DQnGmTP9WjvKLrArtWJZgdWMoSsW0WwZA=;o7VuVO27r+mH1CsFD+QzaA=="
 ---
