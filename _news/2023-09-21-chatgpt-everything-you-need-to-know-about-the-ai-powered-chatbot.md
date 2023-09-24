@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 729
         isCached: true
-  - title: "AI used in ChatGPT was built in Iowa"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-19T12:04:00Z
-    webUrl: "https://madison.com/ai-used-in-chatgpt-was-built-in-iowa/article_72b39369-f744-51da-93c4-3df1fab83363.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 19
 
 secured: "7XGuX7qE74LIJwKkdX3YEUT0wrhBupdwdkgTRMc4wl1OQElnFW/B7Mx+VaqumnSxC+576zj6o5SRn53r9NZCvHCtrSXWFzhMSITxhA+RQ+Phu5jdSThJio71SXF1Unuc3DJagpPVAvZhR5aAJAeCnd3lEErCe0XVX1GqIoZ2TgBE8ki084NXuUhECNfAD9jda5Sv0uAqLhHazQm9d6ro1lB0hqc8Hzhcq40zovoMD57ZSuFwhsMle59SHPCri0J1tdPyTZ/qzJyIgPt2OE2ocbJwICi66hbB63lJzsXfzfcLgizhga4u3uCiI+ShsRHmw+SOgqSvZVf8QjevTm3IVpSe5Vv7kS2o8eLJApVQVWA=;1mGxT/l/P7ScwrLVA2SPBw=="
 ---

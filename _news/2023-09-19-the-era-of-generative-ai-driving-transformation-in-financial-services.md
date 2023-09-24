@@ -98,7 +98,7 @@ related:
     quality: 34
   - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
     excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
-    publishedDateTime: 2023-09-19T23:59:00Z
+    publishedDateTime: 2023-09-20T12:08:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
     type: article
     provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
 type: article
 quality: 85
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 4001
         height: 1485
         isCached: true
-  - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
-    excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
-    publishedDateTime: 2023-09-19T12:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/19/from-hate-speech-to-ai-music-the-youtube-chief-trying-to-leap-techs-biggest-hurdles"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 10
 
 secured: "fNOEF9W9FjMKSjwnoG9tURPY8cMcR52akkl6cp0aIk9TX/Oq8NkNIYltpmQp0s1snpXWg9MyHjoMoJTqtVI9m68uzRrWTcZEHljQdoz0s25Zb40q6BTzqmEZWcc4InXjcOejeGjfvgoyOsohRfDc/K7v4OQCdWwyUXPAkSrF8cSAJ3VeDuFv0BYA3VeV+EXLtuoqJHAxKcGEudZ6Jl/54DMHpdzWCJawQWVQOf92GZw5FyeLYs0AKDJXFnlrNrgGBcFtg3fypWArb95zmThVT1fdi41vhhmbqOphyaWj4hVIQYqcT5H9F4AkpfRiRCtJu5wa/wDtLGy/3Br82FVTauBiMjh4fd88PjygKF1PXzK8XH3/kSafceGG7EHH58DnBLE/BoTnBqYjG+Da+kuvdN4dRR1z8qTZqsSgVYAMcMtlLZKoTbt8wAcCVv+AK8kGwttNB5wFAB9htCjCBTZMd+HFzEKSKuR9W1oqSrjD4gGSRkP3m8pPlkhuCpAMSIjFl/97lksewnB5CL9pfbQo/A==;/+wLj+DYg3WlQF2SZmuo9g=="
 ---

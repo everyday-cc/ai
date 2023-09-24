@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Teamsters support California bill requiring a human in self-driving vehicles"
-    excerpt: "Myers said “significant checks and balances” are already in place for self-driving vehicles, including oversight by the California Department of Motor Vehicles, California Public Utilities Commission, Highway Patrol, National Highway Traffic Safety Administration and U.S. Department of Transportation."
-    publishedDateTime: 2023-09-19T11:42:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/09/19/teamsters-support-bill-requiring-a-human-in-self-driving-vehicles/amp/"
+  - title: "Self-driving trucks can go it alone in California"
+    excerpt: "California's Democratic governor has vetoed a bill that would have required self-driving trucks to have a human driver on board."
+    publishedDateTime: 2023-09-24T04:07:00Z
+    webUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157"
+    ampWebUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 41
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 44
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SGT-L-TEAMSTERS-0919.jpeg?w=1024&h=768"
-        width: 1024
-        height: 768
+      - url: "https://images.perthnow.com.au/publication/C-12000157/64707afb33bc5bc8fa4066de81754c4a38b0e2b7-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."

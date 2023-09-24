@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Truck drivers urge Newsom to job-saving bill to save jobs as self-driving big rigs are tested in California"
-excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
-publishedDateTime: 2023-09-20T18:03:00Z
-originalUrl: "https://www.cbsnews.com/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
-webUrl: "https://www.cbsnews.com/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
-ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+title: "Self-driving trucks can go it alone in California"
+excerpt: "California's Democratic governor has vetoed a bill that would have required self-driving trucks to have a human driver on board."
+publishedDateTime: 2023-09-24T04:07:00Z
+originalUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157"
+webUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157"
+ampWebUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
 type: article
-quality: 26
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/14/560aff8f-06d2-40a6-81e8-9088929c69c6/thumbnail/1200x630/b9445fc6ba5dd9f145bca3dd253979a4/Big-Rig-18-Wheeler-Generic.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+  - url: "https://images.perthnow.com.au/publication/C-12000157/64707afb33bc5bc8fa4066de81754c4a38b0e2b7-16x9-x0y0w1280h720.jpg?imwidth=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -40,22 +40,6 @@ related:
     quality: 44
     images:
       - url: "https://media.nbcbayarea.com/2023/09/25851247555-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self-driving trucks can go it alone in California"
-    excerpt: "California's Democratic governor has vetoed a bill that would have required self-driving trucks to have a human driver on board."
-    publishedDateTime: 2023-09-24T04:07:00Z
-    webUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157"
-    ampWebUrl: "https://www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/self-driving-trucks-can-go-it-alone-in-california-c-12000157.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 44
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-12000157/64707afb33bc5bc8fa4066de81754c4a38b0e2b7-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
         isCached: true
@@ -81,6 +65,22 @@ related:
     webUrl: "https://www.cbsnews.com/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
     ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 26
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/14/560aff8f-06d2-40a6-81e8-9088929c69c6/thumbnail/1200x630/b9445fc6ba5dd9f145bca3dd253979a4/Big-Rig-18-Wheeler-Generic.jpg?v=8e14bdb7e67d007af3399b47230d2245"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Truck drivers urge Newsom to job-saving bill to save jobs as self-driving big rigs are tested in California"
+    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads."
+    publishedDateTime: 2023-09-20T18:03:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/self-driving-trucks-california-newsom-drivers-jobs-big-rigs/"
     type: article
     provider:
       name: CBS News
@@ -143,6 +143,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SIIFHdLyZfIfDkFSZJtTS9VMo8LDyjtN7nY0gzQpmcmnXqbfY5dhGiUXayZ8NhZApi4A+JXGGpx8VVw4Vado7kumHRXWuDFoXy5SKvmcVonmRZAf0XixIFRf4yALWdzHXMDp6rbZB7tOHY6+PekrRWfHPfta7KoqszObbhVBcNeAE+4wbf5sP87mFEOVfG01diLpEPwA9wODtJzRAkOR5fx20NnAGmSBqbnc6ALp2r4MBP3DqaJNTsLpxsZb1rmkvfdRhs1PQ1tslfQ7uqvcvmLFAx1FRRe9egAzpsRyo/WptlGtZKPMBsrYofjMzw+Vy6uMn0yHtMnCSBYJtumFc/w6k59dTPl6vzmwdTStkJKqbenRpMo4ZGmRLDVsPglylTeEaDrMNxfj6THvc8409oSwaNGEX6i+vut975Y4+ePnDwtLF/uZJ1ovehaqN4icHXVDyXCeJabHtI+2wx91N97eLDaagjOf60gJvGyI4BDk0WodsqiCZkdW22Hw2C0Zttn4FmHVVGPjX46sgo2PMA==;DiukKb5cNoB4vvtumfkzSg=="
+secured: "oX3sQAKVy+FQzAtAB7auCUOeEGxzXTNS+M94Rhu/sTU557ZocOI/aKVDnj+KOXWj3FXMpeSrW+i86KuAcvJ9djqlfw2rkKvZmcX75o7CN7Ls76PkQfgCq4kXTUOJifj8AGBGP/o6+Xnq1uHlKcaslQYL3yOJ7NeNToizvpeBe/E5APuk/w+obAH2a42sWURNJVQg6QJj8Hg5v3ZIdZa4J/+u5PHVMEyDIn08iUOcwu4SuOYPUpGOoFPLBv9HUsE/t1FJ4wx1hmSRBTwWhCSst/O4CE2+nzK70HUr6681HSfVn9DDmBjRB4PnI0ZKt/8WY/+nDCqXXJGhtpVDJwCH0E/lOATUEP8DcC5Cd/aPFjA=;BnA+JEMnpePGUm62WjVHJQ=="
 ---
 

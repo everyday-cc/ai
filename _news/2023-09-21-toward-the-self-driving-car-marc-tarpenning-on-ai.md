@@ -32,15 +32,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Inside the startup market trying to capitalize on AI security"
-    excerpt: "Lakera AI, a security startup based in Switzerland, employs a similar idea and offers a firewall-like tool for AI model inputs and outputs to detect AI \"hallucinations,\" prompt injections and other misuses."
-    publishedDateTime: 2023-09-19T12:00:00Z
-    webUrl: "https://www.axios.com/2023/09/19/ai-security-startup-market"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 34
   - title: "Line of Self-Driving Cars Form Barricade in Austin, Texas Street"
     excerpt: "When self-driving cars were first introduced, all I could imagine was a car running a red light or veering into a lane and crashing into another car or someone on a motorcycle or bicycle.  One thing that didn’t occur to me was the possibility of self-driving cars being a public nuisance."
     publishedDateTime: 2023-09-20T16:53:00Z

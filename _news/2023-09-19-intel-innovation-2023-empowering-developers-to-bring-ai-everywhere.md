@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "How Businesses are Using AI in 2023: The Companies Leading the Way"
-    excerpt: "The rise of artificial intelligence in the 21st century has started a new era that is expected to change the course of the world. AI is being hyped as it systematically changes the way things are done – or at least promises to. It affects people, processes, and systems significantly, which contributes to the fervor."
-    publishedDateTime: 2023-09-19T11:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-businesses-are-using-ai-in-2023-the-companies-leading-the-way"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "PA state govt will prepare to start using AI in its operations"
     excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
     publishedDateTime: 2023-09-22T04:44:00Z

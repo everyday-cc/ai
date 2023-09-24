@@ -51,6 +51,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Computer Vision Software Market by Size, Scope 2023: with Development Status 2031"
+    excerpt: "The Computer Vision Software Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
+    publishedDateTime: 2023-09-19T19:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34726670/computer-vision-software-market-by-size-scope-2023-with-development-status-2031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "/Dw9Tnx8zhBnKu/H61fpK8Pe/DBabWqSuE3LlBswYamYDUEs1Sx2XcpNJ8rQ8oxnvFy1oTY+ryy1/3QiynAGqbO/1gxNxhYlzebndvYWIoPVRPECrZPTEqYOndbgWculvE9qVb7/KXsX7haE20PPAIGjljOLVcYDlneYvreGyv6MflBMhmdUhPgWeGYxvths99l/YWs0RHK27oA8tepXUSUZyZWMOa/3QAekvP68QXL5yach9Ukg8At/TyLx7SBr4cS+f84K6PcDdJXQVU1MRZiLwmbLhExm3Cu1ucDzVYOlaApQObOxOpMFB9borJj1NT9y+OOMiEtkWRWLM0MP37iU1EndNGeOC4ESlOxlOTs=;9GWZIaKHKWCa0HPs64ECfw=="
 ---

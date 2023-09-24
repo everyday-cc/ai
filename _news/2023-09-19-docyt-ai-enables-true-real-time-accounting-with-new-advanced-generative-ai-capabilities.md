@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-a
 webUrl: "https://venturebeat.com/business/docyt-ai-enables-true-real-time-accounting-with-new-advanced-generative-ai-capabilities/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1400
         height: 1057
         isCached: true
-  - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
-    excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
-    publishedDateTime: 2023-09-19T11:35:00Z
-    webUrl: "https://www.gadgets360.com/audio/news/airpods-pro-2-upgrade-new-features-ios-17-update-adaptive-audio-conversation-awareness-4403773"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 15
   - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
     excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
     publishedDateTime: 2023-09-20T12:28:00Z

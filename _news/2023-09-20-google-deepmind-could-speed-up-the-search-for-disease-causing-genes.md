@@ -337,15 +337,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 32
-  - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
-    excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
-    publishedDateTime: 2023-09-19T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "eIvxEygPIPMb2PG/SEl0uc5isLYb+jEDoobkqa18ojGEH9JiRNqNnD76abpD7sATAUMxAF1AIyj6ggoA58f2paW0f3BMmeTijc4AHhwkldWEdJTnsGUQ8W9971ddJkbnpibNjiXct0iwxiOdN21s3OLs3rWiwL5NHkO3/j9AtVJ00z6S37TcLM7XjCXv5V5qVdTeyn7rkMAsgM1cGF6GFAX/1arbzOGlpr5lAQ781ojBYvocYlzfX+cdyguzzjjgzvOWkpfvWntMOw3VGi60DJiPhiLASKBBTANzmhlvmN6epQRJVqKVu+e6joT6FJJfMyxrYF54D7cjhPJItxNjBR4MUN4Ed7D8GuGLqJb/wN1nRZmQBByonRI47Xn5R5ay35S9tdWC4zGJMxB6X9JyT8MwdwaeVm6zxkeFB9W0qDYbPtLXwrFIHaMjpQt66rgD4vJJDB5KWDjsUAkHAfaB7XBLPNRMBVB8dAzFkEtkEthjFR24XaI/Yq84qxK8neMZnEL3qujBiK7guH+CRXV6Ew==;PJRWQ3hEwrydGl5ycLe/Sg=="
 ---

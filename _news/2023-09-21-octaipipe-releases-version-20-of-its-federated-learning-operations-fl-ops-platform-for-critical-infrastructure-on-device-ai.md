@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "GXO Accelerates Deployment of Artificial Intelligence Solutions in the U.K."
-    excerpt: "GXO is also using AI to transform its warehousing operations, working with a number of suppliers, such as Körber’s Operator Eye solution. GXO is committed to deploying AI to improve automation efficiency, picking accuracy and processing time while supporting the safety and wellbeing of its colleagues."
-    publishedDateTime: 2023-09-19T11:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gxo-accelerates-deployment-of-artificial-intelligence-solutions-in-the-u-k-1032639507"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "I4efmLdg0LGo+a0ZkoNmaGUSTBYuTuBiLP236a6OReT0YwL2NMDjesPjZaQXYqHrgZdXYfihdnuUcKGzCiJ7mYzbeG/tR0ZdqaZxJavTzma3zM+AcQXOWsQLUziyhe8dzSOCUtXL67+S1kLKN5cRTpu/hGkljhoQ16mGJkTdMp3RS62WQPBn9s8fM53UFQyBckUyYpem8bXs2EeTCDAdo32XkZItrfbp39Qped+bgu/zruzdQesxpR7XUQcKLLYq7gfS8lf1caewnZxYsEHob8Cl054GDebJ4cFClXKbWRxJMzh/GEKuiZRj5kn3VfR8jSz8prLloFBM545iY2UcfQOAHBv/vOexFVbeE9biqTVpPa+hKj08udHl39lpUYOAysa3yfAa4matNGdxnB96ZCvlsshuHstsNnu/igKFQjvgzMm2/WZOUav0ndpthe42It9uZJ8Dw0J/R8zi/7JhBP5l7Ap1RzxDEfaRDagRcAr/BmffzWATKGo2lrtQmy21EaU9AIQdIRIltMt2/Ynnww==;uYzNuTmcRmpp42Yvo0z75g=="
 ---

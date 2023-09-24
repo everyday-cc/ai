@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "GXO Accelerates Deployment of Artificial Intelligence Solutions in the U.K."
-    excerpt: "GXO is also using AI to transform its warehousing operations, working with a number of suppliers, such as Körber’s Operator Eye solution. GXO is committed to deploying AI to improve automation efficiency, picking accuracy and processing time while supporting the safety and wellbeing of its colleagues."
-    publishedDateTime: 2023-09-19T11:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gxo-accelerates-deployment-of-artificial-intelligence-solutions-in-the-u-k-1032639507"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
     excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
     publishedDateTime: 2023-09-21T00:00:00Z

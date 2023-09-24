@@ -102,15 +102,6 @@ related:
         width: 4001
         height: 1485
         isCached: true
-  - title: "From hate speech to AI music: the YouTube chief trying to leap tech’s biggest hurdles"
-    excerpt: "Alison Lomax, London chief of the video platform, says it is committed to embracing artificial intelligence – but ‘responsibly’"
-    publishedDateTime: 2023-09-19T12:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/sep/19/from-hate-speech-to-ai-music-the-youtube-chief-trying-to-leap-techs-biggest-hurdles"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 10
 
 secured: "RXlub5LkQPAlL9HQ4dpmm0zZbqZju2ZNM9yyBM0L6MJ8aaZros5Qawl8P34Bqqo3EdR49N6elYlDX4qUgdoKxxmrY0sXFcJegVJYoUevziGijt9S0WStkJhwSIhBQVuvZr9RzmOhE6TYzvqJ1ZZW+vs+mSzRCvg9xFOgy3B0DB9cS6jkv5zHjE5dhkQ3MMF4n31MgZTGoVsTuPmdhKCnYatNTYKn9YW2sslZKRTUTQq8PMOYgIY8wi7GUai8USqXRnxcxswyc3lxKs0tbBs5II7O1jvxs70i5Dew9vgGdAWtOX5K9QOWmmy4D2DQhR7bB/iRkS81AbIINor/Y1BB4hx4EACPxYvObWHhOTTyhqc=;rfyTlknsWSIcp5AYk2f27A=="
 ---

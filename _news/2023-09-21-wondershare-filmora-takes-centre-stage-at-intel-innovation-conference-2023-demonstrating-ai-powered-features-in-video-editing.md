@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Wondershare Virbo Unveils New Features to Democratize AI Video Creation"
-    excerpt: "VANCOUVER, BC, Sept. 19, 2023 /PRNewswire/ -- Wondershare Virbo, the leading AI avatar video creation platform, has unveiled new features aimed at simplifying the production of captivating and lifelike avatar videos. The updates encompass Talking Photo, AI Video Translation, and Speech to Video."
-    publishedDateTime: 2023-09-19T11:56:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883117.htm"
+  - title: "Spectral AI to Present at 2023 Cantor Fitzgerald Global Healthcare Conference"
+    excerpt: "Spectral AI is building on $130+ million to date of non-dilutive U.S. Government contracts for burn wound healing assessment, including under the U.S. federal mass casualty countermeasures program, and is expanding its AI technology platform into Diabetic Foot Ulcers and multiple other clinical indications."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/20/9885110.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2214665/Virbo_New_Freatures.jpg"
-        width: 400
-        height: 268
-        isCached: true
+    quality: 31
 
 secured: "aAg3yNaM+9XZRLa6U0ZIfcOuMdnGCi3AJwVVBDPKnOYmtT5tZKpCR+GA58rnwX/pdBPQgsxjyHvLM51Zw+KvRH9/yRL8EMG3m51VzLXFDbtaDLk4HFXCKew/oT+bWaz60Ta42VUlL049FeQoNXwKK84a27Y6kv9UOR88juSzaDSW5FoyalIeeBeMGmv3Y/yxm9FXMX9FYl9/32YT0C/oCt6uNM8AUhzWmeidv4/8MgwanbGyNPNTxR6ZYVDYdWvXa9orT/L8oibUHPkeXjgzcV/iKFcOVwksgLx5GpJlyE5jWFSPmedFTGKxVTycpH4Kx3JT+NdaaoazGKJdvg1ROiEx8IuJL1Hiyx0VRCVb8wv2F68N/I3UFVOLj+VJEU/7ripoGm1TVOZEwDG66xT8jHKupHUU5E+SCukeC79KvPIzaYiUgyAGa5L+2GUgIfXx/hLg2ruxoe0+uIJ84Btg+fOGCic1a6GLFiiLHi26H2vzk/xmfQCYKsAeQ1dGz6oZEWOxFGqEdZxP9I1yysq2JQ==;HBuAv7odV1VppESdeB22LA=="
 ---

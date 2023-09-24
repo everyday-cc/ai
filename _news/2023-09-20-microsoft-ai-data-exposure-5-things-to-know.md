@@ -356,22 +356,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI researchers accidentally leaked 38TB data online; Includes passwords, secret keys, more"
-    excerpt: "In a blog post, Microsoft announced that researchers at cloud security firm Wiz discovered that Microsoft's AI division researchers accidentally leaked 38TB of data while contributing to a GitHub repository involving the development of open-source AI models."
-    publishedDateTime: 2023-09-19T11:27:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-ai-researchers-accidentally-leaked-38tb-data-online-includes-passwords-secret-keys-more-71695122254063.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/09/19/1600x900/Europe-Microsoft-Investigation-0_1694134466952_1695122693587.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft AI researchers accidentally leak 38TB of company data"
     excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
     publishedDateTime: 2023-09-19T19:38:00Z

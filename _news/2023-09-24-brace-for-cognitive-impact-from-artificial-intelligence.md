@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202309/brace-f
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202309/brace-for-cognitive-impact-from-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202309/brace-for-cognitive-impact-from-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-09/SpeedThought.png.jpg?itok=Y7lMMRNK"

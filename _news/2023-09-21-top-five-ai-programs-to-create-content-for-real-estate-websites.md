@@ -22,7 +22,7 @@ related:
   - title: "Waitrose turns to AI to create recipes for successful food products"
     excerpt: "The supermarket has used data from menus, online cuisine and social media posts to shape its Japanese range"
     publishedDateTime: 2023-09-23T14:01:00Z
-    webUrl: "https://www.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
+    webUrl: "https://www.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products?ref=astrofeather.com"
     ampWebUrl: "https://amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
     type: article

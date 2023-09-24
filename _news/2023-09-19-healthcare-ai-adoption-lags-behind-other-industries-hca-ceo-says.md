@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai
 webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-adoption-lags-behind-other-industries-hca-ceo-says.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -34,15 +34,6 @@ related:
       name: KTNV Las Vegas
       domain: ktnv.com
     quality: 19
-  - title: "HCA Healthcare CEO Sam Hazen talks future of Nashville's health care industry"
-    excerpt: "The CEO of Nashville's largest public company spoke at the Nashville Health Care Council's inaugural conference. Here are three things he shared."
-    publishedDateTime: 2023-09-19T11:49:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/09/19/sam-hazen-hca-health-care-conference-ai-nursing.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "HGScgmSoKbPEvWjrh4e90H4doqOfh70b7XpB/SIeDsV+i2MQs8Wr4jL17jaKA5gpgrRHzy0Fzp8uRt3XQhukrcJc+oXEfQ7j/3vxG7wrUeK+kexJXEIz9Fkz+rBINvhygZ7Htc2yUkyM+Mlzk7gpd7P5uBPJFjxmrqlBcZqC5MTRtyv/yC+okst0959nAHzY21E/9JxeZuYBNDmjwuazVXujhQITD+nExs9yvP0wexGv82aYiwsRH0q80lAqk0weJqqXZ6if2hMRb69/klKW6gafvTPRZaC6Qnalw2urV01btibkw4o+KHEq3tYVWOuAeRjhPaPI/EjQc0/O7hoHoK785A1sTRjHDDKNebJhUto=;/wMQjJKWgRd4lAnlGKyx6w=="
 ---

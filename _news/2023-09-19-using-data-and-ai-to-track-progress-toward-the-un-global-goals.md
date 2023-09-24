@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-ai-data-un-global-goals/amp
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-ai-data-un-global-goals/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1300
     height: 733
     isCached: true
-
-related:
-  - title: "The Rise Of AI And The Impending Data Aggregation Wars"
-    excerpt: "I’ll go over how AI is disrupting typical attribution models in online marketing and how the companies dependent on them can take action before it’s too late."
-    publishedDateTime: 2023-09-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/19/the-rise-of-ai-and-the-impending-data-aggregation-wars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "ZrOK1VkKNPGs/Ve7mI0tCPqAfpXqjRnC9T4tLrcexJcHlMEKHDv+msurCksg6O2vI3kLmrbfifmS4+nR1VwxdW+Xp/xPcF08QfckxSWSqdazy+HSyAnwpXAJ6K5QIyrEyKiD+zAaiuiS8llsOVxLaz6QC4uc1wHAFhaIULPRgzXaEIinUVNiP0dvu0PslEvQRSlH398P/lKSodpX8NjhIZ9mvv5z+1ktUylDN8z+mrW1xKC+CeOhRzV3hXYs17vp0wF8DQpbDzsvfTW11YeDy3HeSWB9rptkwu1f3C10OGSOE/XvG6YGeZpQa2j9V0VqWPevUCqgIYASkZ1FIM7AnFRs5bEZPUgb0/gI5J5BQoQ=;RWMsbNcNZ6lNOUiaB7fVmQ=="
 ---

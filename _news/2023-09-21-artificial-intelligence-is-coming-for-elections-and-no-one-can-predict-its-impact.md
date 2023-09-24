@@ -23,17 +23,6 @@ images:
     height: 478
     isCached: true
 
-related:
-  - title: "Artificial intelligence, democracy and elections"
-    excerpt: "While concerns about the use of artificial intelligence (AI) in politics and its impact on the democratic process are not new, they have been provoked further by the rise of general-purpose AI and generative AI,"
-    publishedDateTime: 2023-09-19T12:00:00Z
-    webUrl: "https://epthinktank.eu/2023/09/19/artificial-intelligence-democracy-and-elections/"
-    type: article
-    provider:
-      name: EP Research Service
-      domain: epthinktank.eu
-    quality: 17
-
 secured: "CmjcfRapnLYxujaC+lExTHBbfRy6VfglgHRkmXhO1SR/XH+KLFE1tA/27blvrZtCI5fK2Q7X6HityxYikJdf8lwHHiZTb32olnkSUmlm/Yi1k9XYXpq7KTvr79G5lTTkUSgFLSJ6kPPGmWOfoazrtCJjsUOVVDtkyYt20oxgVd0PmseZXMyMYE+c3W0MLtXpKEuPLW41Xm3E7HhmnIbVwOlepv0YwW/5U1M19T3rg4PMqWjYgvJlWSna1QR3svK7kITKY+qw+Ldt+1acg0Zj9e5DzHc5NLx9/ke2/spJMOU/K+i3flRCmYl2pAENpRY9OG8pXiVfM+JpgTV/+I0YQPtEGp903R3kjyGXjLU8CLLhcQlhk4YVJoyqNZImgB4CpaY04m52RqJ+EZIokR+vVU7Cl8MQUzdwMxUuO3yZNZgne1jtZTQEgtpN04GNim5Wwu/dCzfkOnVl5VEBnyez2vOPtTtLSdQEH3ZZr3dbu+ZJCaPWBFZFwdb75WZkAy3NR7ck3ycD9DPtX7MB1ZS4hQ==;u08sazWwahUSJ02IpSnC5w=="
 ---
 

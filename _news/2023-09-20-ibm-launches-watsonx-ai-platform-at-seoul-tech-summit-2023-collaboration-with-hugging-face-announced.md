@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/IBM-Introduces-Watsonx-AI-Platform-to-E
 webUrl: "https://www.econotimes.com/IBM-Introduces-Watsonx-AI-Platform-to-Empower-Businesses-in-South-Korea-1662989"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
-    excerpt: "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ..."
-    publishedDateTime: 2023-09-19T12:07:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202309/eb1134433dae4c958b3dc6e8ae8a024a.jpg"
-        width: 980
-        height: 653
-        isCached: true
 
 secured: "bhAC40ISwmmi+ViIOrYJO0JHt6FfNBAMy8i7FeSLxcwkuTkxa99HXcJKzcaGkFtwzsmuoHTAs/rwxPftEhbs2ArJ7z/XOs2siTtSwORMTG7SSe5UlUL++NUIUq58Uu027sfPfc0+p8OYIoOUs5UdwfX63ysuvRtB8CX0KWXsmfwRqolCGQC/qXGVyHfFYBmP/7uRFjgloaRd+OpA3yDKqhTzICb+FPlyvNuH9CDtmhH40w8oo/EIosO0/2ia9hZ6RlBYgh/WzkknXomxMDOYTpMBIzyMLjSKBxyH/mZl45e4dV3y4YDiAcoZacaXv+Z73TFr88E4khCMpvF316N69oZ+fi/EtFCZlo009+YQezzqbwlYASBQrf30JmAPNRIrX+G1QlxuGM0SHk+j0tC2fObZlxTRFBLSIDhsgyeMqYA3O1cRX1AUaXGjrgNei8XZCybRGl/UmLQozLVhaUIrwz6oW2wHksaNwcXJSPGNFqjMhAhdVwdpb70W5Ci60QszIMG1mQBbBpGDvQYa59fNiA==;c2VgWHbNwX6fXd9WE9ZQhg=="
 ---

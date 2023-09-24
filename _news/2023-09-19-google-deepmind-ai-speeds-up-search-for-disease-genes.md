@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/science-environment-66847977.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp"
 type: article
 quality: 104
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -341,15 +341,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 32
-  - title: "The Download: AI to cure diseases, and China’s deepfake influencers"
-    excerpt: "AI can help us answer these questions and apply that knowledge to improve health and well-being worldwide—if researchers can access and harness these powerful new technologies. Scientific discovery, patient diagnosis, and treatment decisions would all become faster, safer, and more efficient."
-    publishedDateTime: 2023-09-19T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079849/the-download-ai-to-cure-diseases-and-chinas-deepfake-influencers/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "xFuuD03vs8yoJY+9nW5UJMTMYf/a4OmRzph++x8uq5tdED6GTbO4jOGOkR6WWyecmKDgqOUtx6Y1FuduRxLoTRX/OaA/sKkpP+HpGtCppMUwo8NxzIMHxiA/jN83HmzEd+Sk1DYktD3F1MdwG7J233sTWUum+Ny/dDktjR950kAJSbPVFZ+1QGehchdpujvCPBnHXn6aS8/oFUTlHt+q/51zmGw09zY7gQAdYcqah9ZzXxTOXN3KxTzXyxeqJvGQhip5NfFCQ9u5X0I1tM6CgnAqmP0Xkt7ShLrqeu61osDxwYgA053BJAEIyWpIYtO8O4y5ndgIofmYvgiMMNvnGQTVlXmUOEt169iuuIfdcUcbN0xLdZUXlmG7Jxv4/nkUFpwwpixzSXub4Q0UhBxrB/+QDwEyN6vMvJLwfkcyfa5ZXXDz75froj4I2fAK9h6iGAY8AwmgP4/fjGRbBtJhciVLTStAwZUWZainv19DPbANlzDoatKhVrOTcBcMIAYdHlk9cb3rT/fKfeSoMFYXTw==;uT4EBO7h/B6bki3sKfJJew=="
 ---

@@ -52,6 +52,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Computer Vision Software Market by Size, Scope 2023: with Development Status 2031"
+    excerpt: "The Computer Vision Software Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ..."
+    publishedDateTime: 2023-09-19T19:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34726670/computer-vision-software-market-by-size-scope-2023-with-development-status-2031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "4aSXbzYLRAVvORq8QDau2IUl+dFvGl9On6Yf2fMeThYkVRZCpiuz7jhyF6RP0dwQI5BwuK+uSFfwi6XJ666j7rCke+1QbbfWkrK981smfqFxTJ4DH1nEKB1nWQ3GtIbJAHyWOHHsuVd5/0NwIG1Ko+hIIy8FnyimwKm0rVGDejlT4sG2gKm8ojE3EF/vKsUptA2m/XUiVkdRv2kuSW2kWSdAN4dCieJLrzacRZj8p3G/qKIqq3NRDs6ToQNxw8a6nJ+jZuMn2BTRpC7gf9RepGqBQZAerNMvygmGifdKPx54zHUx39D5RflE9xYhisqb/8vzIZYyOfWAv69AcsFIhka1CibZG6nO38Zrj+0Gdlg=;+O9zEQcAyf1RLx5h3cwkfA=="
 ---

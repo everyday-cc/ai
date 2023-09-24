@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Hi, Robot: Machines Take Over At China's Asian Games"
-excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
-publishedDateTime: 2023-09-23T10:38:00Z
-originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+publishedDateTime: 2023-09-23T00:00:00Z
+originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 91
 published: true
 
 provider:
@@ -17,13 +17,14 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-    width: 1320
-    height: 742
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -62,6 +63,6 @@ related:
       domain: tribune.com.pk
     quality: 4
 
-secured: "icUOVB60hdN2ZSRShYY0iWg6hH0D2BF6R7rEM/gzte5ny/o1nRcAuaEmz3azhiaeeENLhu1yGTuGvUQ2XJLb2ZY7JZQJA01NciiQv0zjnKPvLSK2kFlaueBGL5uL3kV5XFxYoBI0XQj9weJILW6xoBBHUQ+q2Bi0UEUkhiROB1HNFeE/aMuxMlmdyMlmiKMVoU79SUdPuFa/OZBjOS/BEZhBDduki+Wk04pafitTN8BI4/icB1YsTXzQtovRNrlGcG7tP84AK/nTT049EYYj/gkuRK5NBUvD5J/elAKzocYUYpr8M2Jr4VJvABBWyOS58zXPQIc6TG+++kKVBSdD4P3m91kgsPUIOYLfZ2yksVU=;V5UEdEcI9o8VNgJrZWo3LA=="
+secured: "PM0bR4Q1StSf+wP5BQimT8Km86oJKoRFnNPlinG219HwGvdiMKgAWgc3S1WstIynGvTxHFEDBpK3ac1P15Bp4TTVu5hZek/L5OuNVzvCQF8NyWR0cHQLDmF2aMYccovpimMxemh7V8rqr8tEEnw7qrNhmJ1g/6URHeIG/O2U+8BEFLHhY78asVe5hQemSyOfMMDzPYL/yzPSHbvo/29L+dHp5d3OHom9zyk4lvlrR0092xo2HWU1rQsYFk6HmcyE9SEgBih5SiJbukNHzLFjvQ15wRnrGTMNqvmNLZFn/5yGALvp0ogMtQdv0L31LWpy/Em6qiT7e21HcM7xHIxHr3WgGwC4GgJvoFAwgN0Ppkg=;vm8/WAxWOwWtJfwRHiRTdA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/21/ai-showdown-part-2-chatgpt-claude-bing-and-bard-tackle-blogging/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "AI used in ChatGPT was built in Iowa"
-    excerpt: "Microsoft made its first $1 billion investment in San Francisco-based OpenAI in 2019, more than two years before the startup introduced ChatGPT and sparked worldwide fascination with AI advancements. As part of the deal, the software giant would supply computing power needed to train the AI models."
-    publishedDateTime: 2023-09-19T12:04:00Z
-    webUrl: "https://madison.com/ai-used-in-chatgpt-was-built-in-iowa/article_72b39369-f744-51da-93c4-3df1fab83363.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 19
 
 secured: "s4h4oZ3isW5tA0VWj2LtAUw9dV9nyiq5YZkc3rG8qL/aqTYREtXuPTdwq+WS/YKAUIpj9hNvP2/ijV2g8xAhdswYZCwnw58BSSuFhHyTMrHLT/QV11rt749vTVydfZMEXMDRFkyIlbulZwLfSMyTebV2LF2r6RJn2JVfebeJgCoyTGjcAJyYfDqLWpX6CuJ26aZyRhpXCVWw9o17/EqWhasZrVIiP1EctQB3Ajkg13+p5XmlWpS8nmgLmtqm+OAbQ9JvvH+dM99OvnsBX9l/+VZYFSnTI+G8cUU0jGmt7RazcxXxJMBGh3RAFqXrWk8Vrz4TfukqL+Y8eQrBm4UoyvRJwaBlR4WoOqspSXOlEbmrDX9WyTTkqpGgd5ezkVyFinCERH32DNMKU2SqX01NX1Q7HctHkbodzypHDOHXQ0pwpLXce4y4fRsM/BGOojxQLqtrCsQUr6jpEa23OMVHdWou72cNC4XTJDhM+EytZmNfv0cy+MrnCeEMVdXCgufHQosku9adKrJYMti0ybeBRA==;wSOq29sDx6j5odOQRX1XYw=="
 ---

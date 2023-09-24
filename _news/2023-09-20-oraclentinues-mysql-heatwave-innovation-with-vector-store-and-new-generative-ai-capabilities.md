@@ -48,15 +48,6 @@ related:
         width: 1400
         height: 1057
         isCached: true
-  - title: "AirPods Pro (2nd Generation) Updated With Adaptive Audio, Machine Learning-Powered Features and More: Details"
-    excerpt: "Announced at WWDC 2023 in June, the first feature that has arrived on the AirPods Pro (2nd Generation) alongside the latest iOS 17 update, is Adaptive Audio. This mode dynamically combines the active noise cancellation (ANC) and transparency modes in real time,"
-    publishedDateTime: 2023-09-19T11:35:00Z
-    webUrl: "https://www.gadgets360.com/audio/news/airpods-pro-2-upgrade-new-features-ios-17-update-adaptive-audio-conversation-awareness-4403773"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 15
 
 secured: "xPRScxwb3gaQBvHXnl0DZlGOugCxrYZBB8kz1w6PvrKYWAJiEZMTxudNSuBRQUmM5hFDJrQt5iE35XkLaGoWZo9tLU/hoDtlUC7t3gZNQTCi+jGo5yr1mOlOZsfoyNTPwXGjVWoos2sJhu8aevlPWnIx40Gt6wDfKMf9uYhG/oyEsdsvNUqaBIIyQcivPUWXl5eyBNFWz+RptjpaA9xpuUmU41cmu4T13d7jG1y0HjJcr4i1SAu1Hidq6QK6hrdQIpOXZTp0gLa7SJxF5woUdtwjJsYLuBO/2mu+KVtGzqASkvqsy2Y6TrTt36SFRZm+xxo4uX3vNknOqhyHIFHSTUNWvhqrYViYLj+iwAud9M8=;6jX4UeBkSi39X3XeM+qNqA=="
 ---
