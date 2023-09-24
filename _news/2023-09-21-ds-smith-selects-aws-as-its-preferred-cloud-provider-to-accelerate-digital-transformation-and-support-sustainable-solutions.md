@@ -1,23 +1,23 @@
 ---
 category: news
 title: "DS Smith selects AWS as its preferred cloud provider to accelerate digital transformation and support sustainable solutions"
-excerpt: "Leading sustainable packaging provider, DS Smith plc, today announced it has selected Amazon Web Services (AWS) as its preferred cloud provider to acc"
-publishedDateTime: 2023-09-21T11:47:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230920857368/en/"
-webUrl: "https://www.businesswire.com/news/home/20230920857368/en/"
+excerpt: "Leading sustainable packaging provider, DS Smith plc, today announced it has selected Amazon Web Services (AWS) as its preferred cloud provider to accelerate innovation, drive efficiencies, and support sustainable solutions."
+publishedDateTime: 2023-09-21T07:47:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support/article_1d183652-8d13-58a7-87a5-757a4b9635b2.html"
+webUrl: "https://www.bakersfield.com/ap/news/ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support/article_1d183652-8d13-58a7-87a5-757a4b9635b2.html"
 type: article
 quality: 8
 heat: 8
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "l+gtNwlpBhC+ARoBrsVegohfjPmeqn1ha7niU839Lii+9vVM4OM+RFETB0bpbgxsSOpJV1qxSxegI8L8uH6acAJoFf2FvX76r0lAuHVMHylY3AA8iijwQLhBH0tqSzvkCLKvbO7WU9690zFa3To0ir1wdQInHs5DXQTsMlfV+HkeA5U6VlBypFPbGWqEB3HlFV0NeFfGBmBKdCJoj2MD0Ve8tm6/+IxxPwERqUepTfP+uftAih+iAeqxERkrEVTftYjFUTY1P8wQty0MfAhkohGY0nPabe9UHB8b83T28yMf8H0IVuqyzzp6oWMkEPzCGhAmciVH4LoqTReOOd845kLFwt9SJhN3xbpqV6s+Qbv1oBNPzVgDv2lKy3+kEm1AaPYaFBPO492xgVvz2K4lbqGlv8cNDCzWbux8iABIuCoYKEfUYKhWLmSLIroxABiY5p+hdeMPAuyDv5tBhZJaY2oaXGyvQ7narQgGPTXjEz6+nN57sggOknn0AmYYeE2AOCI+k/65C7NJT7UOobc0zA==;xJ0O9Wf5Mon2XHRdGcfxPA=="
+secured: "60ykct9cZtW4f4yTEC9RWCqqXHCVPb8CPF5iXGA4ebyCUnkBQ1OagNvLU8vl4qAqgzfQkQ+re7Wt0nru8x6Lr6RSbav/L0fKTIzYxH36jp7huTzY4haUM8UuzSFB2MjwWvnNdRR8LBGGsaS5NYlXpwtXD38m2Eo0E/s/MDXqrz69egl4NPhRppZI+vPfd4Y4P4io7vSXnIX2CPmP3lJoIYqK53oLVKCiWj9iaq1fNthK5zJ9SKsilnowEhwOlY67qbY3Z2mpomiFE3XOAhNVWFVHoKr0jQz27jc4JZecGTK0XXjNYWwx+3Cpi6KyZtbzaYTlNHXKt5vu64WjXis4scGUyw0DxwPZHvfyutvvuRw=;8poy+6piasqgBjaX9E5lLg=="
 ---
 

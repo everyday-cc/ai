@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-expor
 webUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/"
 type: article
 quality: 83
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
-    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
-    publishedDateTime: 2023-09-19T19:17:00Z
-    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 19
   - title: "AI Is Expected To Fuel Up Micron's And Intel's Turnaround"
     excerpt: "While the memory chip market has been weak, Deutsche Bank’s Sidney Ho upgraded Micron Technology Inc (NASDAQ: MU) stock upon signals that AI is providing the much-needed lift. Ho believes the worst of the downcycle has now passed,"
     publishedDateTime: 2023-09-20T17:48:00Z

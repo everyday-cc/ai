@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kosovan PM Albin Kurti says talks with Serbia have reached dead end"
-excerpt: "Under the agreement, both countries would recognise each other’s passports, flags and symbols, Serbia would not object to Kosovo’s membership ... As a way around the impasse, he argued that Ukrainian recognition of Kosovo could provide the catalyst ..."
-publishedDateTime: 2023-09-24T11:48:00Z
-originalUrl: "https://www.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end"
-webUrl: "https://www.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end"
+excerpt: "Kurti claims EU special envoy to talks has lost neutrality and there is ‘no moving further with this method’"
+publishedDateTime: 2023-09-24T11:46:00Z
+originalUrl: "https://www.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end?ref=upstract.com"
+webUrl: "https://www.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/sep/24/kosovan-pm-albin-kurti-says-talks-with-serbia-have-reached-dead-end"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "niRc4/7hKRvblv/ty9O1LJZRIo3iaNjU46ASIYzdP4qDlVyFp2d/0Y03IKcrx2jxyGo5plpRNDOUrvvWjwuya4r4zbhjEWFgPVf0d5BlgPcf2lKBHovCycGNsN18eJ90XjFc/L0uakfPE4+LfuH8TcZpbM8lr7E0Xj7DJTgrqldM58YoT568SkFdIIlOk5Vs2UKwg42HK+DwyKqSWzITwrQcXXwYAzZU61eyr663LnGQW4VOKOUMYkNA5izZhn5GXp/SuCFDbMqVZcEEba8lHFK1U44EI1hQY7haBSbR1Qlbj8MQJdouDo1qrFIZI1np0I0mV21voFrMWiscDnrG6aZsZetvdB8Q4ikO6IItrKU=;s1qHSXn017gG4lR8HumlHw=="
+secured: "wB0Y5ajwkZB/eq0Ew3K82ZzvRssk0eXpX3MT0qempMNhucr97X4VhEEGtGPIsST6Rifa6ql5V8rKhOtFaFKBgHci/fSfrbXQlkPXiHeTBC0YSQOeObc6am1jANhqGK+CKWy2klWgA253MnJz6/aTOZoMrANDFqJI4cmnFfO0JDt/FUuqNHd3BzZPI9ivoZwr7LyCCDLuz5WLxwPRPjeOmxj8tPzx7Dkf4mKeWXJu6yXymadgg4emQhY67mwA8P93urBDfk+r6iSUctu9ty1h9UEFvsFAz4S6ImD3YwJbUJ8jKYIlHbn04sDNg2xy/LNR4wLSFAdQXppWLVuAmiUR5ue/ICQ38PBZYEZVgMjpdQM=;Bwaa2ymZhrx+q9E2XUujRg=="
 ---
 

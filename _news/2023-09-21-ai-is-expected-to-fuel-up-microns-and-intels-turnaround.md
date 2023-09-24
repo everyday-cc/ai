@@ -98,15 +98,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
-    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
-    publishedDateTime: 2023-09-19T19:17:00Z
-    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 19
   - title: "New chip designs on display at Intel Innovation 2023"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
     publishedDateTime: 2023-09-20T17:40:00Z

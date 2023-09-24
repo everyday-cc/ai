@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/medeloop-pitch-deck-raise-8-millio
 webUrl: "https://www.businessinsider.com/medeloop-pitch-deck-raise-8-million-general-catalyst-ai-2023-9"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -29,21 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup speeds up the creation of climate-resilient crops"
-    excerpt: "Avalo is betting its machine learning models can speed up the process of creating climate-resilient crops, and make it way cheaper too."
-    publishedDateTime: 2023-09-19T22:02:00Z
-    webUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/"
-    ampWebUrl: "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/"
+  - title: "Researchers use AI to measure recovery from treatment-resistant depression"
+    excerpt: "Using brain scans, researchers measured recovery from treatment-resistant depression — a crucial step toward objectively tracking recovery."
+    publishedDateTime: 2023-09-20T15:26:00Z
+    webUrl: "https://www.statnews.com/2023/09/20/ai-biomarker-treatment-resistant-depression-recovery/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: STAT
+      domain: statnews.com
+    quality: 35
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/avalo.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://www.statnews.com/wp-content/uploads/2023/09/AdobeStock_381650616-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Generative AI Legal Research Startup Paxton AI Secures $6 Million in Seed Funding"
+    excerpt: "Despite investment in legal tech slowing down for much of the year, generative AI-powered platforms are bucking the trend."
+    publishedDateTime: 2023-09-22T21:44:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/09/22/generative-ai-legal-research-startup-paxton-ai-secures-6-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Contributed-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "4BnEg8FkQCp3zIsMaxGcWlXOKAnk3GEoZIDiQIy5PKZPL5JLouA0cwin3rzh7Nsijh007qAkETXek8OjiiKSI29CSEVWVyaID6PYK8DeenlPUbtF/AIlg5wUcsUny6oHUHZcxUmpyNu7s0IiiBCn8uTzAOUF0fOlzGepZYJXLvwNKvm4RaAKfeAplwOQ/cAHMKkhzukKFxD0wxqdE7dVZ6B3rUVgtiIoq95/FArNJZHaRudIGETvOkW1Cr2yZtOI+2qJJ6XQb3VRMVfI3tGXjbfoxsFBt094XuLgyBAoY9dEjlncIuft0wL6QlTGxvH5Fn8lxooqMfGHcsGCDtbg+LJaZBUjN/Xua0PBeFa4WJjDP4PrYNjIbJ8Repavr9i+ILcrBPa3QwFGFqxYDAyugcMRh8admKHIV9r0+FpXMBAwAPd6sdYHDxIRr3qNhHlfLu/eJxTnfseOQ2WiZTpximntgSi4r+XNCY1xOmjQ7P1fMODVxfrQBnpvkoXRCWVWeXiGCutyPu8Tz1vAvljZxw==;NrYg/mU9KDqgy26gVSWdWQ=="

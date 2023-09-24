@@ -37,7 +37,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.nature.com/immersive/d41586-023-02822-z/assets/pNbEMPXiQO/fb-linkedin-1080-1080x608.jpg"
         width: 1080

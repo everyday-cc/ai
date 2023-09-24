@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/ai-most-excit
 webUrl: "https://www.beckershospitalreview.com/digital-health/ai-most-exciting-new-tech-in-healthcare-upmc-report-says.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "AI Has an Image Problem in Healthcare, Expert Says"
-    excerpt: "PHILADELPHIA -- Artificial intelligence (AI) has an image problem when it comes to healthcare, but it actually represents a big opportunity to improve things, Tom Lawry said at the Population Health Colloquium here."
-    publishedDateTime: 2023-09-19T19:17:00Z
-    webUrl: "https://www.medpagetoday.com/meetingcoverage/phc/106404"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 34
 
 secured: "xO9MAFqX1Zr6DKuV0VIIdfWGyV0nzkGTHxtgyLVaPxW0y1HS/VUeJNK1rHgYgs7fajS9v6BKIobf7VMZO4gp0WGdu47XbBO0eVX3Zc0/ZbHujpqt/1ppNq8U7et8zL3LEvZtDDea3tusHVQoCW1Vp1Cb2WXdtjEdEzy0ttTwbkRS3JcVwCqBKqY9WisOIj4+543QXFBevWNGXLhS+ScmwqKe79PcpV2XoGlRdcCbDBm8A6qlbM/8y9np9wGSVmS2Iqz9UvSKEaxujAF7ARe+k3y2uC3n9f3TMN0rbCMQ0tm+MtsWJzKRheYCbUJBDsVIXCHkpXh82jeU8VQQC9qii4t2/0Ex+IttcQa9JQNpN3w=;kXfcvEEZR9Ku435EBhtAFQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/"
 type: article
 quality: 76
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "There’s A New Copilot In Town: Salesforce Reveals Its AI Roadmap At Dreamforce 2023"
+    excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
+    publishedDateTime: 2023-09-22T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650dda1cfcce969b2611e1b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "There’s A New Copilot In Town: Dreamforce 2023 Reveals Its AI Roadmap At Salesforce"
     excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
     publishedDateTime: 2023-09-22T18:26:00Z
@@ -57,15 +73,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
-  - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
-    excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
-    publishedDateTime: 2023-09-21T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/tether-acquires-stake-northern-data-ai-collaboration"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "Rl6jzyxSiwhIUF/ocR9D8H2Hd1OIVJkMr6+Jzj7g3pJIGQXkLrwSmGwvU35zVhTF+iU/QHPBQXI6vhxwiYlarPYdB/TaGeND6lNvP1AlBIErpR4H3xycKsz6T82tGUbni3cZQDsfaNNvwIfZHgtsbX+oW/B/ZgWG6QLgMZdCzljg8ehxzHcFWBLH/JitdIm0wDCB/EMm7UPY71hgLqnyKS9uuBQPXlKZ5rlE82EUJwNLliR+b4qa6EFAnxnv7ylWUaC0CVtu75BNlWR8IBzp8weNHRNaSIQdtEm8e0coZ57nTZxvB5ElM6L4MLI+/ozaHgAVoY9fZd9DasGSid5N5nHd4FxHvWkOKde97jnioVg=;GGXgbKg6vENTizMtSDMEQQ=="
 ---

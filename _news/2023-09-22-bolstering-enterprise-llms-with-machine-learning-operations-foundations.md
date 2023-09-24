@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enter
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -41,15 +41,6 @@ related:
         width: 1043
         height: 707
         isCached: true
-  - title: "BMC Simplifies Application and Data Workflow Orchestration with New Cloud and Data Integrations"
-    excerpt: "Control-M and BMC Helix Control-M – the industry-leading self-hosted and SaaS application and data workflow orchestration platforms – have operational capabilities plus ongoing, expanding support for the modern cloud and data technology ecosystem to help companies achieve enterprise application and data pipeline orchestration at scale."
-    publishedDateTime: 2023-09-19T20:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883291.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Dq/2yQVtDYZs1l+LoothFNID3X4hC1AIoP/cjBrQnn0Wp7QDytMGsYdvjIvbDUzbd4lXsEuKTO3XY/z5z3bBO4WA4KmYIe6kDRvxQWq1FKjj7seqlU3O7GrlrYFCLGP5m5mfhRY7l7JULKccvo5F8A7cYuEKedi7b32gm4p/qxW6xR74+uh0gX4HHF8hJEjLj2itW5sNvAvKz7WPl4ZbuT87e9KAW2jAf0UwBdBf5YKU3Q3o7NaxYIyoD+0nfW0cZZZQNzKYzmLLK+L87tNLReLlvLlvvjgUutqQ9OSNID68dx+ABF6ce2DGhwcGeodT8mDQUXIrRVxgeGIguy3Ah6aQAgNN8zanL1ugSJaRQEY=;Ow71rIkQQumHp1FJghPTbQ=="
 ---

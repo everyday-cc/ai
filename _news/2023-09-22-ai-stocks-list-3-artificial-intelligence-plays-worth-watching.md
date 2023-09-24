@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-a
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
-    publishedDateTime: 2023-09-19T22:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-ai-stocks-waving-massive-red-flags-right-now-1032641666"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Beware! 3 Machine Learning Stocks Waving Massive Red Flags Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Though artificial intelligence and machine learning have gotten their fair"
     publishedDateTime: 2023-09-20T13:13:00Z

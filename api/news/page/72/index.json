@@ -2,48 +2,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_news/2023-08-03-streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach.md",
-      "title": "Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach",
-      "excerpt": "How IBM Cloud's IaC and shift-left compliance practices can help organizations enhance their cloud infrastructure and maintain a strong focus on compliance.\nThe post Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
-      "originalUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T06:10:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-three-essential-steps-to-protecting-your-data-across-the-hybrid-cloud.md",
       "title": "Three essential steps to protecting your data across the hybrid cloud",
       "excerpt": "The 2023 Cost of a Data Breach report revealed 82% of breaches involved data stored in the cloud. IBM Security® can help organizations protect their data.\nThe post Three essential steps to protecting your data across the hybrid cloud appeared first on IBM Blog.\n",
@@ -1115,6 +1073,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2-earnings.md",
+      "title": "Artificial Intelligence, AWS: What Amazon Investors Are Watching For When E-Commerce Giant Reports Q2 Earnings",
+      "excerpt": "Several factors, including Amazon Web Services (AWS) and commentary on AI ... are focusing on the company’s efforts in artificial intelligence (AI) in light of this year’s AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2",
+      "originalUrl": "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Moenchengladbach,,Germany,-,25,January,2019:,Amazon,Logo,At,The.jpeg?width=1200&height=800&fit=crop",
+          "width": 896,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33529224",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33529224",
+      "publishedDateTime": "2023-08-02T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

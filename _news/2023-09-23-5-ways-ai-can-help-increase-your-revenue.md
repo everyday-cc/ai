@@ -22,35 +22,28 @@ topics:
   - AI
 
 related:
-  - title: "5 Ways To Incorporate AI Into Your Career Plans"
-    excerpt: "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience."
-    publishedDateTime: 2023-09-19T21:15:00Z
-    webUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/"
+  - title: "3 ways AI can help communities adapt to climate change in Africa"
+    excerpt: "Last week at the inaugural Africa Climate Summit (ACS) in Nairobi, Kenya, we joined African leaders and shared our commitment to advance AI solutions to address the clim…"
+    publishedDateTime: 2023-09-22T12:00:00Z
+    webUrl: "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "5 Ways to Achieve AI-Powered Customer Service"
-    excerpt: "While ChatGPT is powerful, there are other sophisticated chatbots to check out as well. They include Google's Bard and Anthropic's Claude. These systems are based on cutting-edge generative AI systems and huge amounts of training data. Bard is also free and Claude has a free tier."
-    publishedDateTime: 2023-09-21T09:49:00Z
-    webUrl: "https://www.inc.com/tom-taulli/5-ways-to-achieve-ai-powered-customer-service.html"
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "OP-ED: Understanding AI’s Role in Accelerating Africa’s Healthcare Momentum"
+    excerpt: "In Africa, as in much of the world, artificial intelligence (AI) is the latest buzzword amongst healthcare professionals. Globally, we saw an explosion last year of various AI generative platforms, promising unparalleled potential to solve some of the ..."
+    publishedDateTime: 2023-09-21T11:20:00Z
+    webUrl: "https://pctechmag.com/2023/09/op-ed-understanding-ais-role-in-accelerating-africas-healthcare-momentum/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 52
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1506733131_533786_uqs8ma.jpg"
-        width: 1024
-        height: 576
+      - url: "https://pctechmag.com/wp-content/uploads/2023/09/Eyong-Ebai-GM-640x470.jpg"
+        width: 640
+        height: 470
         isCached: true
 
 secured: "lYnUghbsKo6vyTM1lr2kE+dp9bKw4EToRw6q5bIJFG0GoDY9J5hJTZII76+WNmtkqr5uv3popv0Ap9BDcceb04yyw1Uw5e9Yj+jyx9cD/GcGAQho1n6oH+A+1CHsbTtWNmAmxFuh1gbuD7cb4EfAbzMn0Cka8Yo2STQyaZVKCUY8kZOUtQyDmOUA95qlRXWfWEMX5Nl0rfz+8bqm0SPcp4tqFvjgCx8qTa9dxl9HfhuxhBgA0VRZwZYUhzjYfwoXd7UWUh7sqYZ4gyaq/6riMrw7zrljrnjTvuEUX8UdgYGIC2q6J8PNmA5rxae6kTkVfCN6IXD9dWk6cootCFYyCHuDmGml7opV/bFTFNriEdIc9mJfYq0TmSpu6Z7Ia8RA0sMtsnU/dsAg4TzUcV78M484dwRswTUa7hExAPA8QaP5eily97iUpviXPffDq7Nwlh4QlANLHvXs1vQJfpzjhsIxzjM1Mk5lPLvA7N/ky8SRYuPaHBUebFTq2FbNmcRL8dLJEL6ta70OrjntMpG2uw==;uET8ebM6+wjUjgMtrJE50Q=="

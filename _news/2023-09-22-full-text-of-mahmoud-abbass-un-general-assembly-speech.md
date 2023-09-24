@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/full-text-of-mahmoud-abbass-un-general
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/full-text-of-mahmoud-abbass-un-general-assembly-speech/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 400
     isCached: true
-
-related:
-  - title: "Volodymyr Zelensky's speech at UN General Assembly (full text)"
-    excerpt: "Ukrinform offers the full text of the speech by Ukrainian President Volodymyr Zelensky at the general debate of the UN General Assembly. I welcome all who stand for common efforts! And I promise – being really united we can guarantee fair peace for all nations."
-    publishedDateTime: 2023-09-19T20:29:00Z
-    webUrl: "https://www.ukrinform.net/rubric-polytics/3763502-volodymyr-zelenskys-speech-at-un-general-assembly-full-text.html"
-    ampWebUrl: "https://www.ukrinform.net/amp/rubric-polytics/3763502-volodymyr-zelenskys-speech-at-un-general-assembly-full-text.html"
-    cdnAmpWebUrl: "https://www-ukrinform-net.cdn.ampproject.org/c/s/www.ukrinform.net/amp/rubric-polytics/3763502-volodymyr-zelenskys-speech-at-un-general-assembly-full-text.html"
-    type: article
-    provider:
-      name: Ukrinform
-      domain: ukrinform.net
-    quality: 44
-    images:
-      - url: "https://static.ukrinform.com/photos/2023_09/thumb_files/630_360_1695151394-191.jpg"
-        width: 630
-        height: 360
-        isCached: true
 
 secured: "M+nR8LVQkRAyh/5kAv9Cw94Ur5sUdVv7W7B4i+1ZcaH8IcxG97OGpBx53+chWTp3P7rGntVXwP8zsddjwmliq4gGqTPMRnf1rCMLjYECa153sQbL3065AEOgaLHlH6LD0RQ7CAT7tzGz84TYz5c0HEW8zmsq2b/CEPpl5L3dA6GU2D3qxNNoIrwd0SKOrg/eXRP5DcwlNS9yhnbimqpGZ2WlCe5t+fZv/1Yct88qDXBrBJ//b/TsgP62B4D6Qv07nfhfY2ekpsh4SoKPX6afGIwSq6RrZNJdTsf23LyIFNzcpsKmlfXiZnSNVXB7U2uHWwSOvkf3peume4+iFYpDFR0xmsr5sWbCdxiDKqkBVZVAJecqP2SlMY7soj6hNRt8+CN/XVcffTzWGjVli/M0SJn1pJO7a97tqRbSg+/ObaZcqiMlEFTySl1O5vXX9EFV81cZDEvFasy+9b0XfM2xRvmq7AFTyddu3eJXq6DLDxHcUALyLdRNNhmCeQItVlqkYwaGLXKBYVIX1BB6kAA8cg==;+9vWuajsphRmo4h3IYFwdA=="
 ---

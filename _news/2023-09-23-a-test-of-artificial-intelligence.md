@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-22T21:13:00Z
 originalUrl: "https://www.nature.com/immersive/d41586-023-02822-z/index.html"
 webUrl: "https://www.nature.com/immersive/d41586-023-02822-z/index.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.nature.com/immersive/d41586-023-02822-z/assets/pNbEMPXiQO/fb-linkedin-1080-1080x608.jpg"

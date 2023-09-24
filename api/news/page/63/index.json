@@ -2,57 +2,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2023-08-10-100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs.md",
-      "title": "100 Days Into Strike: Netflix And Disney Hiring AI Talent, Celebrities Seeking Side Jobs",
-      "excerpt": "Now one of the longest strikes in Hollywood history, celebrities speak out on the picket line while others seek out side hustles. What's at stake in the fight against AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3dab64223489dddb1ea3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/08/10/100-days-into-strike-netflix-and-disney-hiring-ai-talent-celebrities-seeking-side-jobs/amp/",
-      "publishedDateTime": "2023-08-09T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
       "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
       "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
@@ -1151,6 +1100,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-10-automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report.md",
+      "title": "Automated Machine Learning (AutoML) Market Research Report 2023-2030 | 103 Pages Report",
+      "excerpt": "Short Description About Automated Machine Learning (AutoML) Market: The Global Automated Machine Learning (AutoML) market is anticipated to rise at a considerable rate during the forecast period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33657584/automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33657584/automated-machine-learning-automl-market-research-report-2023-2030-103-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33657584",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33657584",
+      "publishedDateTime": "2023-08-09T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

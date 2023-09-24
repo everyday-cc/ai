@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI and Machine Learning: Boosting Indian space exploration to new heights"
+    excerpt: "India’s space program has the potential to achieve unparalleled heights, thanks to a stunning confluence of cutting-edge technology and visionary ambition, fuelled by the unwavering synergy between Artificial Intelligence (AI) and Machine Learning (ML)."
+    publishedDateTime: 2023-09-24T12:29:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 33
 
 secured: "RU8aDkNgIH9pyj+VU3pyTARMRSySPE7McesyCebKrUt/5mlx1MTM1w/1j6LVCg60S8/AHYDrkgKUxNHoLed6s1PA4pBodoBOEIXK33zMo1Hj6xYnLMmCLTGRHGdVI34v5il4gmmANYNy28jEnF9FVD+l6Y93cjkee6m2lzYCYn1bGf/Rc+7gFL1fKz5aa+EPV9iZ5GE6NiDbjsrAjKmSKuqbIow6t66TCxxy5PyCh91NqC7nTTgH9DXChuTKRLPSfsQcmeCBwH55y9+sSi4ie7iIwo9R8xk+1I9Nw2N3YXcCp0/dAb4VfGVCJIw9T7zyDEZDHAonwUSJr3j8U/0WswN/B8Gl99S4uzPa0/TvqxrCtUYe4Sidvn0VHG3arFGR1e/LTJDNCv3BIqhAhPFIwG/hHRMGii/ONPa5P89cTlDR/5hiZmltfmSaiorCpoBrYMtps+Qk7uf6ewTLPgES2HaeDJG+zFQyUsfKjZly7HmfyY0hI7xZ/TZo11Qs6jDoBAy3DWjWY1k7j/fNhecRKA==;IoWSRzEICGLfrvlRRXT1dA=="
 ---

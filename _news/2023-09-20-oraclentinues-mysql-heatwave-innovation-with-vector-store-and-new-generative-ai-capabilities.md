@@ -43,6 +43,15 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support LAS VEGAS,"
+    publishedDateTime: 2023-09-20T12:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-1032643242"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "xPRScxwb3gaQBvHXnl0DZlGOugCxrYZBB8kz1w6PvrKYWAJiEZMTxudNSuBRQUmM5hFDJrQt5iE35XkLaGoWZo9tLU/hoDtlUC7t3gZNQTCi+jGo5yr1mOlOZsfoyNTPwXGjVWoos2sJhu8aevlPWnIx40Gt6wDfKMf9uYhG/oyEsdsvNUqaBIIyQcivPUWXl5eyBNFWz+RptjpaA9xpuUmU41cmu4T13d7jG1y0HjJcr4i1SAu1Hidq6QK6hrdQIpOXZTp0gLa7SJxF5woUdtwjJsYLuBO/2mu+KVtGzqASkvqsy2Y6TrTt36SFRZm+xxo4uX3vNknOqhyHIFHSTUNWvhqrYViYLj+iwAud9M8=;6jX4UeBkSi39X3XeM+qNqA=="
 ---

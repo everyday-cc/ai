@@ -34,6 +34,15 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "5 Ways AI Can Help Increase Your Revenue"
+    excerpt: "Organizations that are going \"all in” on AI attributed at least 20 percent of their 2022 EBIT to use of the technology"
+    publishedDateTime: 2023-09-22T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2023/09/22/5-ways-ai-can-help-increase-your-revenue/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "WwQvVfgwd25vwLlM42gxgauI1s84zSQfL0OpaxlOQnZ7KStyBQCTmuKRvVXdBN92TO86TJ4Zg4/3afL00JdlovnAkP9h2oA63uWNF5v6FTvFHxEceVE/yNLHPJH0dwjPspF9uucBtpHAN8yDKNc5Ku+tv7eA1chwohHlFfEm9/ajRQloJBOuXazI8++tpRitWul1I2jqx8F+WMyLjXJ+Vrsoa8wb3YwFtnelkCLsh9ri92gI3WYkfdCrgqyrQmrMuwWS0Un/wnp0EbwbFVMlkCUtHZ4xV1O6irT78TyEwhQdFZiu2C5h8QTVEnm5d1VMcyLWqnA6OyFiOdbF24Pj+a66y6nm6gAC1KhXX3Xpt3VZUTbzXqDRR64Ff21fEKtqbeBDzkBNNKTQJTixEu1d0eE+aUtCoZpkVcyJh7eUEFpzXqHoWb1lZBFaIdCkUm0bFn6aIAdJ9dGbaxkKyCSXwxv2drG12kPLDNqCdpYgYmMtd/85MFG5M7HMjzB3Ti8meU5OQ0e5bGCVavqMIWXcJQ==;4l5iNSejlgPJ8Wr4taSOdQ=="
 ---

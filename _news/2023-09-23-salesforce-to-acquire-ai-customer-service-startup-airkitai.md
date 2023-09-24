@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "There’s A New Copilot In Town: Salesforce Reveals Its AI Roadmap At Dreamforce 2023"
+    excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
+    publishedDateTime: 2023-09-22T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650dda1cfcce969b2611e1b5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents"
     excerpt: "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ..."
     publishedDateTime: 2023-09-21T21:30:00Z
@@ -52,15 +68,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 17
-  - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
-    excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
-    publishedDateTime: 2023-09-21T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/tether-acquires-stake-northern-data-ai-collaboration"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "gBZCQodRwaXeHUzVXuV1GDzsZGIzz/uga6R1fDbI86dd2Kgod7R2PJcSnlwYhzcGNgi2gS0Bwnv6CGAbhhTw1HVdEn3E3sdLkomFBPuvXpqrj6/BTmpvkOrb9GEJPUBlVQwRFhGyR2vWhT2II54g7G3CXCkYh2YyzPt+14HldZwYh0m/W9IFhPlNJVy/XukEpUTRCHu5jXqURIjj1S7VKNPnfS2ft2LF83RDaUIw8Fl7TCHPtNU+uyL29yUm6Wccaaox1t3HRzaUSJMaahIaqBIAhBViDW0pYq4OJo1Z7CrM+V31ACZa7gGiRyXmOxv7Nk4XlFI/DGs5AVfOfJKRcmcXzIhUI6BBMiSC3JoOCe0uZDHnIjyHd1qRqdJiBWQXePW4K4XDGPJHu91HuSv3u25Yw7GwlSImh5TVgjFp6dSRqI5PGLqmxN4takJITvtwEWkyfO7qMjCvJ+Vf4frDsN40boWcMSyDckbMVTg7h0FJ4Qlk44j07p3iYX8vC7VPeBcVz29Kv2B3ZpK1FFhefg==;kFtC1B71t5GNL+sbuRSqJQ=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "2023 Self-checkout Systems Market Research Reveals Key Insights Driving Industry Evolution"
+    excerpt: "With the growing importance of artificial intelligence (AI) in shaping the landscape of industries, this report places a significant emphasis on the role of AI in revolutionizing the Self-checkout ..."
+    publishedDateTime: 2023-09-20T06:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/09/34749659/2023-self-checkout-systems-market-research-reveals-key-insights-driving-industry-evolution"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34749659"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34749659"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
     excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
     publishedDateTime: 2023-09-20T20:23:00Z

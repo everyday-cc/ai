@@ -39,20 +39,6 @@ related:
         width: 2400
         height: 1596
         isCached: true
-  - title: "Toyota conceives of more efficient method to train robots"
-    excerpt: "The Toyota Research Institute (TRI) has unveiled a ground-breaking generative AI method that enables the rapid and efficient teaching of new and improved dexterous skills to robots."
-    publishedDateTime: 2023-09-19T21:59:00Z
-    webUrl: "https://interestingengineering.com/innovation/toyota-conceives-of-more-efficient-method-to-train-robots"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/19/image/jpeg/S2P9zGDVeghwt80T55mgNPjf0JVjF8lJEHV9n3pd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "QPtZt+5tZAdk0MCski2xKXszWBYIJLe2zzVD2yBvh5SwgqRaoxVoMm+nVklUb66QUMOU+1oRyBy0Pmz8sssbCsX4/6GHT3tNNLbDZOEmCW0lQPUlXMYsYJMwDtz5bS5u9WND/Hx5TuWwKiDcJ2ofU1mQKHUOGitO+PpBbPgAaeekHMQyQy46lRRvKWyeZ1eCRs2Bk6MS5W/0kadyrbQjMkzqRMCRMcR7FtvauhKriIFnMjtuNtn8Dh48AZvtKVY6egzUdSqVdOxlZwZ9uPYrMVq4VDKeZZUy+F3YNLRO9WibYwBm6ezAyHIPaV20u+p7wT4WT2heDH+vUOWVQyN9ZzVvhqclaSG8CvXrJoE5f3odTyoY4kdz4ENKoCwrb8sNctQgGaHYxLfQOhEEEjqKfqMs5w8fCdzu/BgzcaYNlzR1kpQzCqGLeYczDTaWv0R1YiJBWaJSGUK71Igwmw8v64ukuwq4xk4vHKXBmB7b+fpfSXrBPGGGvSvq59UKucAEB7jfxvsFiFYNOgHvhnNQcw==;bvZfLLgyD00g46Rh3i/t0A=="
 ---

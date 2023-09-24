@@ -72,20 +72,36 @@ related:
         height: 630
         isCached: true
   - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
-    excerpt: "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads"
-    publishedDateTime: 2023-09-20T16:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-truck-drivers-newsom-sign-bill-saving-jobs-103326993"
+    excerpt: "California lawmakers, union leaders and truck drivers are trying to steer Democratic Gov. Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads."
+    publishedDateTime: 2023-09-20T15:28:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/california-truck-drivers-gov-newsom-bill-self-driving-big-rigs/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 29
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_bf4d494e2c860df72063ec894e29ebdc_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/20/31bce83b-1405-49c6-9029-0f4fa40c37e2/thumbnail/1200x630/0c5921b40bea2dcfbf3f89bf27352445/ap23262785481493.jpg?v=f5251b37272e6b1bc4e5456ab4445a67"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California truck drivers ask Gov. Newsom to sign job-saving bill as self-driving big rigs are tested"
+    excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more ..."
+    publishedDateTime: 2023-09-23T23:34:00Z
+    webUrl: "https://www.wral.com/story/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/21056630/"
+    ampWebUrl: "https://www.wral.com/amp/21056630/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21056630/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 29
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2023/09/19/21056681/media_945f03c6c9ec4f5a9eff8981773cf197-DMID1-60bhutfvc-640x425.jpg"
+        width: 640
+        height: 425
         isCached: true
   - title: "California truck drivers urge Newsom to sign bill that would save jobs as self-driving big rigs are tested"
     excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more than 10,000 pounds (4,536 kilograms) — which would include ..."
@@ -156,6 +172,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested"
+    excerpt: "Gavin Newsom toward signing into law a proposal that could save jobs as self-driving trucks are tested for their safety on the roads. The legislation would ban self-driving trucks weighing more ..."
+    publishedDateTime: 2023-09-23T23:34:00Z
+    webUrl: "https://www.wral.com/story/california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested/21056630/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 0
 
 secured: "2hL8HtI19LZlAZrFEedqAKJaO20N+b0mvyKXg9/Ss1ZD3ro30Wj3XmeEsdp7LM7fg+RyalwjOUyfMlyESC3luPYAOFK8D+xQYvcpRC4TBV9AJnUacEWMEZjA+Zx/+KXfVI1Lt5GJjThlhjddP9JfT6etBm4XhOox/EXQloYeClzZBGzJKrKm2Us1BfV+AW5tQuzKU4AbGXV6IjsOX584Ak3jKpExurG+6yeSL1ByU6ChXW2j6WEJh0u8O4g+fpE3IY6m78UlfZ7BXm0NnFzVB7cQSbSnsbetY95c+xAMidT0NikbDjGJ2o4RYysk+aqDsS2fwDlrT9hBBUar9aIQWW1MK8O//930P1oCyvAPJj4=;0kWEWCazIAF5awz1MMZFEA=="
 ---

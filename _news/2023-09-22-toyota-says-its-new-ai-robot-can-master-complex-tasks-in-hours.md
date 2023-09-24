@@ -7,8 +7,8 @@ originalUrl: "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-compl
 webUrl: "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: BGR
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota conceives of more efficient method to train robots"
-    excerpt: "The Toyota Research Institute (TRI) has unveiled a ground-breaking generative AI method that enables the rapid and efficient teaching of new and improved dexterous skills to robots."
-    publishedDateTime: 2023-09-19T21:59:00Z
-    webUrl: "https://interestingengineering.com/innovation/toyota-conceives-of-more-efficient-method-to-train-robots"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/19/image/jpeg/S2P9zGDVeghwt80T55mgNPjf0JVjF8lJEHV9n3pd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Toyota Uses AI to Teach Robots New Behaviors"
     excerpt: "Engineers at the Toyota Research Institute are using generative AI technology to quickly teach robots new, dexterous skills."
     publishedDateTime: 2023-09-21T14:06:00Z

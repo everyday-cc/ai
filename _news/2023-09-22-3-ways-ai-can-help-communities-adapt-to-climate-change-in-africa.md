@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-h
 webUrl: "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 640
         height: 470
         isCached: true
+  - title: "5 Ways AI Can Help Increase Your Revenue"
+    excerpt: "Organizations that are going \"all in” on AI attributed at least 20 percent of their 2022 EBIT to use of the technology"
+    publishedDateTime: 2023-09-22T17:44:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2023/09/22/5-ways-ai-can-help-increase-your-revenue/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "h9p0WYf39Q10xG+ISM0URHekPBcqjow2Blz2RN3wIe5MyZMhp9XKiogI0dt44/6gDQmR7g2N+gq+8wbXQYcfUSOkOWmivBoYWM3QYb+Je7c/6wLX6DKP5fXUb1zXLhqNb2K3k7lrdW7ZjbHX5N2icSwVTOgn+4+Nja914hL0fowx+nUBWbcA208aFYmp64uIXgQX91dnD+7G7Vo+prv+dnEUBk7pchfnpXMe8I/SW04Wo+speYw6ujS6uCxrQHv+dP5tZecKgkXuF2JIJSAXtnuagVdw848iv9TgLEnn1CGN/cgtn76jdGQEg/aAxcoxIXPNCdYk0FH6cP+VFfYGOGfQeE90owdwdgGAtjqA2Cs=;McRUOVwcCr4lwDHxq8c4RA=="
 ---

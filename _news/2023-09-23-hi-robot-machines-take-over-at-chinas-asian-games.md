@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Hi, Robot: Machines Take Over At China's Asian Games"
-excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
-publishedDateTime: 2023-09-23T10:38:00Z
-originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+publishedDateTime: 2023-09-23T07:04:00Z
+originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -17,13 +17,14 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-    width: 1320
-    height: 742
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -109,6 +110,6 @@ related:
       domain: statista.com
     quality: 19
 
-secured: "kqi4cCUV3dJwm04yfUNI9HrgQy625QL1G+FfLv9SoLL9ZX8N3bfc/Ay8tObMcVmAyWeNVoABG3cpMcZszPvLr+oxcJZf5V2yLR8vYV6GsOGK2Dw3Esn4c1GKZJPSXJZa3Qm4r5E+UBmsZaGu0Gfjlt90SX9Z+kL93lQFqPVnW37w/Rs2Cklfs0BfE3f0EeLRkvUGjCTe0rsOIZzPiGC0O3JzzzLIe/2VcQqXSuwaFV/XyiU/JHQYOmNRI5qM6ChrDHKbdwsVSSowJIXRgXQY6bPZ0qZiRsuUP6K7ND7pC0wCBJVWGayZCPoOxkhEkkAOXfzoHpbJL3ULWH1ggjJwS9o26UTxthB9//HdQTUgVSk=;o7w7kcX3N6s//Tvug7FQZA=="
+secured: "9No332s27gt57Doy5IQTHOgnXfd2KCi+TcOkwG+PC4lmiCQLZZEE7m0DSuh1+qKS1DDSDds0cIxPxuzFqFyrhT0jANib7qODkdqaYP/To/3i7BcrGJn8LfK7LabKoWngsCdQjdOdtSnAjKmIGokTITblmniipLYzO5kT0sooRal3ATlqmLoDFqIieWJKDE0fYDYPByw73zfLyXyWGwR3y8hYvzUeLeZ5QIoUbIZ5vw07ashyv+Cyzx1Ap9G9l6TNKo0ZiBbOF2oc3gWHxorKirhvxBlITVJlHSCh2e86sFzr32zk88s+mPAGl4IfzDikykBe9QYAoTs+uDCGV3Tf+letuEqyXn+h2M6juLRuRWY=;keTMWH/l9BQqVGurt9LMJQ=="
 ---
 

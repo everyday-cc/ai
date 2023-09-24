@@ -57,20 +57,20 @@ related:
         height: 630
         isCached: true
   - title: "Hi, Robot: Machines Take Over At China's Asian Games"
-    excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
-    publishedDateTime: 2023-09-23T10:38:00Z
-    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+    publishedDateTime: 2023-09-23T07:04:00Z
+    webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+    ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 59
+    quality: 61
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Computer Vision - Southern Asia"
     excerpt: "The market size in the Computer Vision market is projected to reach US$469.50m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.00%, resulting in a market ..."
@@ -110,6 +110,6 @@ related:
       domain: statista.com
     quality: 19
 
-secured: "pqoSUiYGylk0arUoJY0E/GnkobnLHoeYKfJ5QZjPs0pIXl4+S9jm0axgxK5Z49SxOaaPOk2P1qmOLW6EK9aUkv+A4CqmicMZUtgKI6XkflD2ckoUFoqSeliatxQ8VSfPlO65znTJ9jd3/6Per3V/5FmbF+hRpc+Jp+plr/JCtoWScCE+vHZE/dxYvUIqvSEm+7iz0p+sf3LVvp40pBG6CAEJIrTz2TZH6CLKHLxzeV/CzOYBQeXvqh/M7R1YW0wKy8/S/3TeaTDNtpbi0cQTlyGjyMiiYafgcmGsRplz/A8Y+ZdNMqFgF0tkyp4o9cvPWd+3WD+9t/Oq86DcMcbqtsRmohH0o1hvqfWF0DBPKY0=;1yyW5x2bOuZWaDn9Si0EOQ=="
+secured: "d8c+gIkR0lfhC2R/wSwhOa2B1vEbFBUi8GvtlYYwuo4YtmDkj3wHJoRhnobOt/0P67GuPjuSamOdoI1SGhnsp+bd/G2uyXZLwCOwjxgPd7+nQ4pSUEDaF7tsIJCNA/dzWq/jkUtdowBmsezhnGQZGcOvLDmvtI1sYWMLzEK0xN+DrzTgckKqabeIm9m6nyprvYVrpGd40D9DRgExODcf8JGg2huqge7l94gffTQRhzQhUeCjb+VHo7ukcOD5w9G0HgjFzF+jqd1Yp3bp3tXzuDhzR2/dYD/0im33mX1qTDH7tz7tMJ38RCFMM+htFCjOym4ne4m8h+kaGOFZKL0UffcFJK2ZQ+m03FGJ6UStEyXhfY/F+KRpzWntqBkjc/HGa05HcO1xt0qWeQPINXlphaxb4Ri8jbJl6dkvV92JkhovVSor1LocKpAYTqtzQYMIsGtq2klMGaOx38HHwrI04ziiB5y9+U0L88VH8Z63aQRpsEaNboqGunietKgJZvvHMRM+84+3hcwAYVRzAYKi4w==;x0q4d+tc45Vu3Iub+ejx7w=="
 ---
 

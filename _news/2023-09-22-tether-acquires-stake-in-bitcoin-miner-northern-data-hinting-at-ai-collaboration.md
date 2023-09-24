@@ -19,49 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents"
-    excerpt: "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ..."
-    publishedDateTime: 2023-09-21T21:30:00Z
-    webUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/"
-    ampWebUrl: "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/"
+  - title: "Stablecoin Issuer Tether Ventures Into AI With Northern Data in $427M Nvidia Chip Splurge"
+    excerpt: "Damoon, a Tether subsidiary in which Northern Group acquired a stake earlier this year, has purchased $427 million of Nvidia chips for generative AI cloud computing."
+    publishedDateTime: 2023-09-21T15:09:00Z
+    webUrl: "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/"
+    ampWebUrl: "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 65
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/feat-e1695328683148.png?w=1120"
-        width: 1120
-        height: 688
+      - url: "https://www.coindesk.com/resizer/p-ft34p_th1_v-XElMpKfCIQhRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7CGGKFEVYBAZTIY5PS32RW6AYA.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "There’s A New Copilot In Town: Dreamforce 2023 Reveals Its AI Roadmap At Salesforce"
-    excerpt: "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more."
-    publishedDateTime: 2023-09-22T18:26:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/"
+  - title: "Tether Invests in Northern Data Group, Set to Become Established AI Provider in Europe"
+    excerpt: "Tether, the company behind the leading stablecoin USDT, is pleased to announce its strategic investment into Northern Data Group."
+    publishedDateTime: 2023-09-22T10:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/213294-tether-invests-in-northern-data-group-set-to-become-established-ai-provider-in-europe/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/09/213294-tether-invests-in-northern-data-group-set-to-become-established-ai-provider-in-europe/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213294-tether-invests-in-northern-data-group-set-to-become-established-ai-provider-in-europe/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
-    excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
-    publishedDateTime: 2023-09-22T09:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/111562/salesforce-acquires-airkit-ai-a-low-code-platform-to-build-chatbots/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 17
-  - title: "Salesforce to acquire AI customer service startup Airkit.ai"
-    excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
-    publishedDateTime: 2023-09-23T12:19:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 51
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/05/50-Euro-Europe-Money-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "YAqUGl8aLmZnlZA3v8V7bm2m6maiw4zKfn3ZSqkWDWeNbenYeCEEsOimZ0g1D7dDV9h2LFeh/QaZwnPcREjaJDO52fV3zff9tTx5+hEAqKOXvsBpt9WUqP54fz9ud9R2pEGYcSwRcSJHm5ptDBwzjhLPPVg2YWmlXWY6mnVM5PR9ifWxTLRCjPUMVVlgR6fCXWAstz8D8yHCfMiHY88Ct3Dcn+TQmwZJ1l0jlVBNaqHfhsxn0dUtvJN1+eVYod9y+sfhuMWLhHI4ydPdulACd8nkne1AUGMQ663JUdLEu7W0D5VSo+/m0UIvfy4U6UT9cS5QSPx1CidCaW9BAoml2cH104U3axXjc0BMEwqCOIQ9vImXZHO6/RCnKQDVe+/5Qsb4oujqWm4DlLynNnjaZZNiI5SbcRT8pEH/pPHn9y96Hkf3FOIimUlPZEGPC9ySECpG809bFleJa87mSGoVXL0Zu5ye4Jg1StKRtThLlXlDvlBfLNUVT3w2DKg5TNi2l9U/MXG57kv6pAafB43xxQ==;0WttjxWyBqeC1aRJ5jrt1A=="
 ---

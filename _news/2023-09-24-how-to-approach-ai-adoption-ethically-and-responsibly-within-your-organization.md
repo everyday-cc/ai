@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-a
 ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/"
 type: article
-quality: 100
-heat: 120
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/650c4a5e9f2d2805042a51c5/0x0.jpg?format=jpg&crop=2179,1226,x0,y200,safe&width=1200"

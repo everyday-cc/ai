@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/visualstories/education/3-new-types-of-job
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 853
     isCached: true
+
+related:
+  - title: "TikTok's new tool helps creators label AI-generated content"
+    excerpt: "TikTok will roll out a new tool that will help creators label AI-generated content they produce, in order to curb disinformation. With this tool, the platform stated that it aims to continue investing"
+    publishedDateTime: 2023-09-21T03:33:00Z
+    webUrl: "https://www.marketing-interactive.com/tiktoks-new-tool-helps-creators-label-aigenerated-content"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-september/titkos.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "ZzATzSncFnIYDNImOMHjmG2gtZ1gqA/m19/J7E1HUY5BbE/q2jWTTGUfzIht0xzrIsPlSeCrtrbDSYKkR+bjZr64dYsUOMDMzT5ty1AqqPk2W+DmKOnfgId1pjf8tzxv1+r3x+H9H2qjQipRyirzjH53iHX2ZRlY1xxsPsz9LKuxoogdIecCUJh+psBBOhAOQLv82Y+ZSeSdvlxuMCK2eV50t1Enh5V4eJW5QZXDq23RnLjZ/m7N60M+uALXe/4x2uzg8kLLDCCoBkIjOmyVy3bWlixJVEbk2V2ewF1nJFHCOW1TCVwBH8Bw+ETtKQOKzBc3b7BEHbmhRdqOIGCsJy+bZnn0sxIXAbB8CJTybA4=;xg64AVMlEe6G4nMmY4Qn/Q=="
 ---

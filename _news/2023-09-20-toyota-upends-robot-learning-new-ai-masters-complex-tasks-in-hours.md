@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI and Machine Learning: Boosting Indian space exploration to new heights"
+    excerpt: "India’s space program has the potential to achieve unparalleled heights, thanks to a stunning confluence of cutting-edge technology and visionary ambition, fuelled by the unwavering synergy between Artificial Intelligence (AI) and Machine Learning (ML)."
+    publishedDateTime: 2023-09-24T12:29:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 33
 
 secured: "Kp5TW8mdAVSPSNHwgSD50++KSIdIYgAbJEPNVCpFw4UP5pWBxOkgII8kXZl2Sdmf4QZ9Lj0m0dJGZCU//zKGlADs9jmtE7cmbLFiEIr8FGrJHYiCXMLT4PXVyoGsC/nQKOSR7VmFLKzRNfv0ljAMTqVDd44UI+gj1h0sbME7C+PJeD9Y9Ne7Pkq9d7rvaxGO1TmRE/u3wuti5UMW0TtFRWYs8rLeIJZxO0CKgCyY2c6DUYAJ5fkGr/33wGjoqXtzfM6U+GFVWerOh/EXFYr2RUFSmZ6mc8NOLMFRK3LX2sXGOaLzPF0kKKdin81KGg8ggkmqPrAg5w4llVrWqOfOudxxAAbiMNbIoEaH94qlo7HDrtFsmlQtrpV84uiKsixbrObHbM/xEmVIvzYNR71O7vhc01vliOfDWqhEl25hFmfqqTb7viSilXcXs/SxnKzJnMSVxQs31d7ajKn1eIy6Wa42Ty4LsP4lVTR0qS7MEbU9Zgbvjp2/mmSUsX22eGTbSK5filsEKg1fRJzDaa+J/w==;advLxsPz9CLyQnDcfmEmPQ=="
 ---

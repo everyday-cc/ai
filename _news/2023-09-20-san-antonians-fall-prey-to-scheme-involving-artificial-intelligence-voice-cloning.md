@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
+    publishedDateTime: 2023-09-24T11:58:00Z
+    webUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
+    type: article
+    provider:
+      name: WBTW
+      domain: wbtw.com
+    quality: 8
 
 secured: "tKxnvV4FuoB/fwXlnLu1WKUVWuIK057L+3eeawG166Tf4N+dE9N1sVh0fmT7fdZKrk1cyvNbU3DAklquFObSaodIMXS+ohZNF4+BwTpjy7zz9JeZA8tBpb1oi7qVJWJcPkE1K1kDv0qsMqOr93Mp7+zLhQEMxNSjA+st2mgJzK1INd6KnshJebe/Kt5GP3/mkgn1DzpN/VYPDcg1QRikxaG7Dpe8cQgW+mhGbyajMVxwmPllgn1barY6gb0aor1GMmNYz7WIbUzOq2SOgMRe9UOYDWn6G3VSaIte7iFvxhE8h6uG//wpi8LjjcsUVz5fILCWSfXoDpH5qN8KmkJxdp2xIdiG4T2q2WRoKesN6C0t/DFg961nHGkZsQp8POOtxmpmSZYLUEkgI2z7l14K2bwfohn2EqykoeXys2OSvX8C3jp0dEhmSaItQWclmopOLqb54esLJeuqwMASCJhBSNUaI7TrJQomjwOEjJNdnqsdsQaJ7gyHWgOblpynmgE1bpl8/PNlqHwW6hsFg7f3iQ==;f6eZVvua/iCMH7RXf10jtw=="
 ---

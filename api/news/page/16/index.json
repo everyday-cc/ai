@@ -244,50 +244,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-12-ai-model-speeds-up-high-resolution-computer-vision.md",
-      "title": "AI model speeds up high-resolution computer vision",
-      "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere have developed a more efficient computer vision model that vastly reduces the computational complexity of this task. Their model can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1001258",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1001258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d147d840-b04a-4a15-a41f-fe5dc9d95bc9/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-09-12-tim-burton-calls-out-ai-its-like-a-robot-taking-your-humanity-your-soul.md",
       "title": "Tim Burton calls out AI: ‘It’s like a robot taking your humanity, your soul’",
       "excerpt": "It’s like a robot taking your ... I could then start doing it.” Christopher Soto and USC poet and professor Jackie Wang have spent months talking about how AI will change writers ...",
@@ -1170,6 +1126,49 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-ai-leaders-focus-on-impact-on-education-at-derry-conference.md",
+      "title": "AI leaders focus on impact on education at Derry conference",
+      "excerpt": "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
+      "publishedDateTime": "2023-09-11T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/resources/india-and-ai-a-cautionary-tale/amp/"
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/india-and-ai-a-cautionary-tale/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "You and AI: Tech's role in the world of health care"
-    excerpt: "“Artificial intelligence, it can be a great friend, but it also can be something that can harm us,” said Dr. Marshall Chin, Richard Parrillo Family Professor of Healthcare Ethics in the Department of Medicine at the University of Chicago. Chin is an ..."
-    publishedDateTime: 2023-09-19T22:00:00Z
-    webUrl: "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/"
-    ampWebUrl: "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 61
-    images:
-      - url: "https://media.nbcchicago.com/2023/09/web-health-ai-9-19.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "Za0Cbf276tn4FLci7Da5XgUt1gQsZTax1HTNcZmkLAsuy9raZ5egagHLiMaeFn4fp/aThjZMCx5dtUYJlDMZ+UB5P+ZgL0u5R9M8HgqHIrresIGINmitj2pYIfI/oStwDS7YdaskM5qRzZfU9wTqsjJ8m7QBVLCbshsUGYk8m4YbaB9jL4S0LLJJxx+2lbG3UPXdf/ZYuYZBsLresbc+rpG+/iK/l5JXUBNOSKYAUB+yq5AvIKNNYx3p28+UTFxl42Cy08Q6s1dUv5zzHA7SBO+bsj6ixA993JT9xPTPwumqW6RyUEIxjKYk3BSqjsPDtmFRhK4XfYNviSmdcq6LN0CeLTKEKkQfNnB1CKRncG8=;dWO8Q9bFosFQOvrLMmE8KQ=="
+secured: "QUNGQLntqvaLB4tZWKc5qcGkVFk/v3BjVCzb0kypWzXF7WLVsu13+dnzYpo4JVd8qZMlOmNORSgX5OKwST8Evay+ZXPfyLSgYzefYpdQY017XnLVXAX3jC/84BEIvQw26bUj99PS42t04op0G2Sdej5GUxX8IAz9yEb+GG2apclNdLmv+VznhSCI0WDp6fjvTEnSkIx2HMxIM9O3ToYNE6Xv/WwOnNFfTOzRcDAze7+WIKYjNX3Fmy6vM2MVNMlp3uatSCglqbYsFmguZbCINLHCblKcDbSyuLzcRzo4a87pRr0xjdUYl8VOq1pVKdDpHO23o/HahFsh5OH7R8qv0Ikqi5iIsySxZTW/YnrxNS0eD4Lr3GbzftlvWyqmzg86Sn/L2Kbz46rAi1MoKE8LbV5LL1BX26eplMsrhwl4qxcLNCYpW7ObHTZcj/Q0FEyva+6aRXOIsqUHB1yHknFt3mKrrpv8RGbjBqDZCMramcvJOJJl91AugGG7bU+MFe56B/pKzv+afWLI6K4MoG26/g==;VIJwFXUfv20A/gba8Ryiwg=="
 ---
 

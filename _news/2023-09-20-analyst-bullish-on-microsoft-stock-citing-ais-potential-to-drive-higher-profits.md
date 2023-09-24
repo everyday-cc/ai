@@ -6,7 +6,7 @@ publishedDateTime: 2023-09-20T06:56:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
 webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
@@ -338,20 +339,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
-    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
-    publishedDateTime: 2023-09-19T19:38:00Z
-    webUrl: "https://www.aol.com/microsoft-ai-researchers-accidentally-leak-163850385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/mnVp2Kt1tE.xE5QXPeu0Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/e681c7e674a06a84ff0c371c2c519491"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Transforming Digital Ads with Microsoft’s AI Innovations"
     excerpt: "Microsoft Advertising has unveiled cutting-edge generative AI tools that have the potential to change search and advertising industries."
     publishedDateTime: 2023-09-23T00:39:00Z
@@ -457,15 +444,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 33
-  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
-    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
-    publishedDateTime: 2023-09-19T19:20:00Z
-    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-09-20T03:34:00Z
@@ -494,6 +472,6 @@ related:
       domain: searchengineland.com
     quality: 29
 
-secured: "HM2I6LDEYckF3tYbxG54biRblvfe4USw6avB2lzkL//XTbQEoGop6xJNz0mjD3kt0tnNukn0opOm31h6srZS5Jf9JFKKCkHeHPOtpfhi459YXGCV2kg1sRoY/jR3Us48i8sZii+FSdtYqGs145nVWUYPhytd+rh+NcDT5AaIWeO+APg15eZ1B5pwxubhwXi4uwH/p3/UrT/JpY+KLFg5Eh1kO4+FOm58xUlq8sbWOjsOFYdvR33Nb6R0SNAZI1x4MMnO/BMg8lTZ7TM6mkTPy8KqoD8klk7FTuf6TCprW0y0EoN0eiQajQ7Yqy8gRY3frXfe5ymd/JryeYHh5AVCGuA+mUDSWJnF07UkmP21qR0=;Yk42zpEDVKxAR/2hWe9Mug=="
+secured: "nbu3HjqEDSAfLH6lx+5RqZZ/GA/GJ+9grt2Lu+sye4bBHJCZb/Cl82N8sTcjpN93fLjHOB/gNENwHb+bLIYkSHkcPwO3BVG7FGdoB/ouR1iaHsFIU/GlYoBwKcjl2MDQWYirYNEdqAnMnRiFNi3Sfndhv+k5HD1Cw/KJozQVtVtQYdlEHgpy9jZbU/EanMNqziJ5GBHsyuEW5I73C2HyStJKK3Sp0ceRZ4GUYH/zRpj6gQtvB8nM4KRd0iYNKmtPgkgp0q125m1lcr4rzZYXW4hCe0+88EZDEy7q6xXEUioWuDEzi9QcLQSi2hCqz+wyplFwBgHdGJ2F9zcokg+uBKAorZiJav1wnkW9ylww3JJFineH/+gLhwEfvPyr9dNoJUwhbUY8PI4hl5o37tUvNF/yIQdBbXfoSn02BE8cxfNyf4ewFW1kkKAZeakJOBNRXgekyJscCOd6C4u6qP4KaDFws0ka9bhZKwQdzjGHWrAbc57mnhBIuvo9ty2kqSWyGUTTEoGS0ejYPqhJP3NnGQ==;csjKUhcILN0cJWT/bo7Mzg=="
 ---
 

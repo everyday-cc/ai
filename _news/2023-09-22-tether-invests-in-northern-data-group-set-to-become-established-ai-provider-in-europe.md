@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
+    excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
+    publishedDateTime: 2023-09-21T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/tether-acquires-stake-northern-data-ai-collaboration"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "++r5IFgu9ByqGi00QjT4hW7YkwcrfhNf/kN12Y1uZk1DJehGreYDYwr8vsrp6zc6ekYw8LtKv4c9a6zXfLyNwqTmAqZxiPaMeIYN8eN9QWFfy3Wz6+TW53i7rg5FfsgiuzYoo6HGyI/+llqrC5u4mnOZv6mewu6bIkCcgWhRa7hBkgURJsnZB1KnNSqQMyYcaj8Oom1B39pNHQvV7PtpPaeb7dTAltavQkn+NZ0msbG7e19KQIrBteDkqZMOJUYfkexZBipCgAtlXyUIX4UIpLDaOlmPmVhksYDNikZbwBOwHBUKYSRkbSt33wvEJO6s19oS+exReA9Kyc33corhv/+BlC+DouhETZLuPLxqwXc=;1DDG/P4PPBYOhl46sTlFvw=="
 ---

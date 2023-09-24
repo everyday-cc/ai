@@ -24,6 +24,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Israeli gov’t backs bill to use facial recognition tech"
+    excerpt: "Israel’s Ministerial Committee for Legislation last week approved government backing for a bill that would permit and regulate the use of facial recognition technology in public places for security purposes."
+    publishedDateTime: 2023-09-24T08:41:00Z
+    webUrl: "https://www.clevelandjewishnews.com/jns/israeli-gov-t-backs-bill-to-use-facial-recognition-tech/article_93797d2a-306f-5e82-9ebf-2f4df3a19b7b.html"
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 19
+
 secured: "k+SGtFDioO4NC9bL2XBCVkez2UrodPYnr8n8usdPI2NIVsW1nWSRXEI62FKP6RVpveaCqldAFk9L1cy2VM98cAocy9ib7G00/iUsCS0nBfvSDPkNLH6EJToA8wMkVTp52sIKy8WcGjDSEcO/u10dkQiGti0/G9RIMwDHcbbhPVdZEzkJ9l2RLahZb4a/bu/wjv4ahMv/NsR8vqKOOFf33dJ+lR1dc13JxxCkOkElehMQT7XQcmhy1FPQmlXyPzejWxcM+g+z8/eYQgMp3h0d9YxkkYjaWwq/DLfKH+s57AkWREwaYm4eoTPNFPQcO0z5AQP22IfJLuIXiQb0TBXnJwIXNFgG86eukq5ixFjkTyFiefTrnasPWKvmGoDfQCtak44KlBrctccu67IZpQo3IeEBCYW/svp+jMnmcgUhXH5OnVSG4ojj4Yzfakhg2d+yskXZgbEMBNQs6RTFd5i/f5d2e6HJ/FZ2+bxNxqaTIT1G5oSHBYY7VaT3VvKAY86luNKH7sefAfuY2Jzz9iL6uQ==;NpYcp3xGyoFdPGnkkvA1rw=="
 ---
 

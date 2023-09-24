@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-vo
 webUrl: "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
+    publishedDateTime: 2023-09-24T11:58:00Z
+    webUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
+    type: article
+    provider:
+      name: WBTW
+      domain: wbtw.com
+    quality: 8
 
 secured: "rCRerEjPWd3LGZiBvzgK1TP8jdizznByUS+LGGKMtpOYPFLDYbs23ds709p+3KnZ6tMXq5bp8Duns5YPbeYLDpKXZSsg8cmJzeFG/kbpfnYky1a3ubKyy7DYjp3DWDBSSyaxDsYZPH+jLlXhfW7Ne+P+PvbsVSU+czZU8BYCop4HHbfBq0XXPojKPbQ9fUl6Dh+Bh34mEKSLGPKQW9vdIrWVnZHwnJHtmI2og0c1/5FTVArJFsEAMSR36/qwoYEmyOqBGtaRuJFgP0zIGHhmNZSOvS4/evUxwjqqjj8JQ7/Y0CrEBNTObNbQU1FmFUSeE0JO8qN2brzgTiHgXbYdXlGii5j8UIDeDFgBjcqkSqo77XePhbMkB/5w1uSTy9T78cINS5FCZ7RGlrYCNfkPf9uIdCfCp8xrwYNOMIsGPddwls1oqK5qQNOltFXFNTpPQWG9EkoHUYedt2scQ25r+H9kmiL+9SW0yU817urPH1cCXfVdmt7hTtjIRxD+0pBYeYF6NHm009vrv70ZEEh3OA==;PpshI3HvxCIcyaR3Vt+p3w=="
 ---

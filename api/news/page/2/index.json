@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-22-generative-ai-is-breathing-new-life-into-classic-computer-games.md",
+      "title": "Generative AI Is Breathing New Life Into Classic Computer Games",
+      "excerpt": "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
+      "publishedDateTime": "2023-09-21T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-ai-means-new-rules-of-advancement-for-aspiring-managers.md",
       "title": "AI Means New Rules Of Advancement For Aspiring Managers",
       "excerpt": "Artificial intelligence is upending the tried-and-true rules of management — with a surprisingly non-technical bent.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -200,7 +251,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -284,57 +335,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-salesforce-to-acquire-airkitai-a-low-code-platform-for-building-ai-customer-service-agents.md",
-      "title": "Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents",
-      "excerpt": "Airkit.ai’s connection with Salesforce doesn’t stop at the founders’ previous startup. The duo launched their new company in 2020 with $28 million in funding from investors including Accel and Salesforce Ventures, which also invested in follow-on ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
-      "originalUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/feat-e1695328683148.png?w=1120",
-          "width": 1120,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/21/salesforce-airkit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/21/salesforce-airkit/amp/",
-      "publishedDateTime": "2023-09-21T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -547,50 +547,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-22-toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours.md",
-      "title": "Toyota says its new AI robot can master complex tasks in hours",
-      "excerpt": "Toyota's new AI robot can reportedly master complex tasks in a matter of hours, completing changing how we look at robot learning.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/",
-      "originalUrl": "https://bgr.com/tech/toyota-says-its-new-ai-robot-can-master-complex-tasks-in-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all",
-          "width": 2400,
-          "height": 1596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-09-22-deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease.md",
       "title": "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease",
       "excerpt": "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic.",
@@ -725,49 +681,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-bolstering-enterprise-llms-with-machine-learning-operations-foundations.md",
-      "title": "Bolstering enterprise LLMs with machine learning operations foundations",
-      "excerpt": "Building a solid foundation in machine learning operations (MLOps) will be critical for companies to effectively deploy and scale LLMs, and generative AI capabilities broadly. In this uncharted territory, improper management can lead to complexities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/machine_l_bulb_200.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/",
-      "publishedDateTime": "2023-09-21T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -935,7 +848,7 @@
       "originalUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -978,7 +891,7 @@
       "originalUrl": "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1221,6 +1134,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier.md",
+      "title": "Broadcom Shares Fall on Report Google Looks to Drop It as AI Chip Supplier",
+      "excerpt": "By Colin Kellaher Shares of Broadcom moved lower in premarket trading Thursday following a published report that Alphabet's Google unit is looking to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "originalUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
+      "publishedDateTime": "2023-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws.md",
+      "title": "Edtech ConveGenius builds SwiftChat conversational AI platform on AWS",
+      "excerpt": "India on Thursday announced that edtech social enterprise ConveGenius has built a conversational artificial intelligence (AI) chatbot on its platform for government schools and low-free private schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
+      "originalUrl": "https://www.business-standard.com/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
+      "publishedDateTime": "2023-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -94,7 +94,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -457,7 +458,7 @@
       "originalUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 476,
+      "heat": 456,
       "tags": null,
       "images": [
         {
@@ -644,6 +645,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-theres-a-new-copilot-in-town-salesforce-reveals-its-ai-roadmap-at-dreamforce-2023.md",
+      "title": "There’s A New Copilot In Town: Salesforce Reveals Its AI Roadmap At Dreamforce 2023",
+      "excerpt": "This year at Salesforce's annual Dreamforce conference the company showed off its AI strategy including its Copilot, its Einstein 1 platform and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650dda1cfcce969b2611e1b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/",
+      "publishedDateTime": "2023-09-22T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -855,7 +908,7 @@
       "originalUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1178,57 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-generative-ai-is-breathing-new-life-into-classic-computer-games.md",
-      "title": "Generative AI Is Breathing New Life Into Classic Computer Games",
-      "excerpt": "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
-      "publishedDateTime": "2023-09-21T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

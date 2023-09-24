@@ -206,7 +206,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
         width: 1024
@@ -336,20 +336,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI researchers accidentally leak 38TB of company data"
-    excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
-    publishedDateTime: 2023-09-19T19:38:00Z
-    webUrl: "https://www.aol.com/microsoft-ai-researchers-accidentally-leak-163850385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/mnVp2Kt1tE.xE5QXPeu0Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/e681c7e674a06a84ff0c371c2c519491"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Transforming Digital Ads with Microsoft’s AI Innovations"
     excerpt: "Microsoft Advertising has unveiled cutting-edge generative AI tools that have the potential to change search and advertising industries."
     publishedDateTime: 2023-09-23T00:39:00Z
@@ -455,15 +441,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 33
-  - title: "38 Terabytes of Sensitive Data Accidentally Exposed by Microsoft AI Researchers"
-    excerpt: "As much as 38 TB of sensitive data, including private keys, passwords, and personal backups, was leaked by the Microsoft AI researchers."
-    publishedDateTime: 2023-09-19T19:20:00Z
-    webUrl: "https://techreport.com/news/38-terabytes-of-sensitive-data-accidentally-exposed-by-microsoft-ai-researchers/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-09-20T03:34:00Z

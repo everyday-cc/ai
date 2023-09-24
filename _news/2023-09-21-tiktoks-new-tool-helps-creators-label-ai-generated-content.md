@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TikTok to More Clearly Label Videos That Are AI-Generated"
-    excerpt: "TikTok is creating a new set of labels for videos that use AI and says it improved its algorithm when it comes to automatically tagging videos as AI-generated."
-    publishedDateTime: 2023-09-19T21:59:00Z
-    webUrl: "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated"
+  - title: "3 New Types of Jobs Created by AI"
+    excerpt: "As per a new World Economic Forum white paper 'Jobs of Tomorrow: Large Language Models and Jobs', while old jobs disappear due to AI, new jobs are also being created."
+    publishedDateTime: 2023-09-20T11:17:00Z
+    webUrl: "https://www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
+    ampWebUrl: "https://www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/visualstories/education/3-new-types-of-jobs-created-by-ai-64361-20-09-2023"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04SY1CQxofUAEiWDQdOHbxU-1.fit_lim.size_1200x630.v1695160604.jpg"
-        width: 1120
-        height: 630
+      - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/09/cropped-robot-g5a85824fd_640.jpg?size=*:900"
+        width: 640
+        height: 853
         isCached: true
 
 secured: "A6KbEQKbP3JoPsy22nkJPfHKBNhZg5hGO0K6kOY1LHjjGrufoVgCI/YXh2+9XTFSveuUDLSqASOElo4amH26+bYVDCkrqUnPvSJYqPVfHaREJnOWpb4ZuaT5ZYz0A3LfOxen/bFSs+nM1l73htRgjvzDmPZ2x1QDOsQ/dzLdKp5udbVDVY2slfafNTPMenawGF3hPpocGZ3PGC92UPotgaWk531sjwSv7VC3VSPHTX/fT5xmi87KYzzR88kBocVCpmfuWZai2cqJX6427/o3zEefaQNzblxtgELa7WHuIuRCrJSXmFb6u1F+ITXUuHfpDXQVlPSNyvnuA/t97y+1BtgWjz2Hju82DFhE5XfHrcY=;0yh5h5dHe0B0rBYVTj6rfw=="

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "OPINION: The AI ate my homework, and my schoolwork too"
-    excerpt: "Big changes are in the offing, but they will arrive slowly. Classroom practices, for better or worse, are among the stickiest of human institutions."
-    publishedDateTime: 2023-09-19T21:59:00Z
-    webUrl: "https://www.adn.com/opinions/national-opinions/2023/09/19/opinion-the-ai-ate-my-homework-and-my-schoolwork-too/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 39
-    images:
-      - url: "https://www.adn.com/resizer//56-BdJzvGyUoHEAH8oK4CaBs97M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/4JUBBFWLKFB7ND3EOZS5ETCNRU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Opinion: Artificial intelligence comes to the synagogue"
     excerpt: "No sooner did I finish writing all the sermons for the Jewish High Holidays then I wondered what artificial intelligence would have produced on my themes. The High Holidays make for a busy fall for a synagogue rabbi,"
     publishedDateTime: 2023-09-20T15:08:00Z

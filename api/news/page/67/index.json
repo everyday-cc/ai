@@ -2,58 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2023-08-08-vsbltys-ai-technology-replaces-security-cards-for-office-building-access.md",
-      "title": "VSBLTY'S AI TECHNOLOGY REPLACES SECURITY CARDS FOR OFFICE BUILDING ACCESS",
-      "excerpt": "Authorized Employees Quickly Admitted Via Facial Recognition Technology PHILADELPHIA, Aug. 8, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-replaces-security-cards-for-office-building-access-1032527352",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-replaces-security-cards-for-office-building-access-1032527352",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-08-08-new-study-questions-how-long-until-failsafe-is-spelled-using-ai.md",
       "title": "New Study Questions How Long Until “Failsafe” Is Spelled Using AI",
       "excerpt": "A new study provides a muddled answer to whether Artificial Intelligence (AI) is the technological silver bullet and possibly a perspective on engineering responsibility.",
@@ -1215,6 +1163,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.md",
+      "title": "One summer movie shows how dangerous artificial intelligence can be | Youth Views",
+      "excerpt": "With our endless connection with technology and artificial intelligence, we are more susceptible to dangers, like artificial intelligence gaining a mind of its own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
+      "originalUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WWQIBNVV5JBI3GF2HJSR6MJKAU.jpg",
+          "width": 6107,
+          "height": 4072,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2023/08/one-summer-movie-shows-how-dangerous-artificial-intelligence-can-be-youth-views.html?outputType=amp",
+      "publishedDateTime": "2023-08-07T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
