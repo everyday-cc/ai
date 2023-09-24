@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Five big challenges that AI poses to competition"
-    excerpt: "With AI having huge potential to transform our society and economy, it’s critical to consider its competitive aspects."
-    publishedDateTime: 2023-09-20T01:37:00Z
-    webUrl: "https://www.themandarin.com.au/230772-five-big-challenges-that-ai-poses-to-competition/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/09/Andrew-Leigh-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "viF3teD+ubimoiQkJjzWcHbDoYLXjKtan+exNFpNTQUDXAbb3FoRfjezucE0FnpsIgQiIE6Iopi9Vy35i78jJLc0rQVt7io8gUq5dZy9/ui/zRGn+adsz0D2ADy9HYKlqYChHGVdawyVgvQgKcJnM2pwUNvLb+gQBXXCRGE6f4QdcCRLeCsE6B2ZpwmWm3bTfQxb0VcMmaOrQh+L7KiEfFkJmLdpNwpm5GSPJWcYAzzjCidcaBIjPT2YkOfgxG70AVnuBHYotJdxQu0RUud9rvhmDBQsifZT4eEm7FYTvV2vRRsiJGbtR5wB5wU2s5MBuzKiDGS9tc3W+XV8BJa/q33vmwK67QKRwUJXbz1FSHs=;Q2dcl9wUrA04cdsT0SBIIA=="
 ---

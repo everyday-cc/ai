@@ -33,34 +33,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
-    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
-    publishedDateTime: 2023-09-20T01:16:00Z
-    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
-    type: article
-    provider:
-      name: GadgetGuy.com.au
-      domain: gadgetguy.com.au
-    quality: 54
-    images:
-      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Intel's newest laptop chips, software will handle generative AI"
-    excerpt: "The capability, which Intel was expected to show during a software developer conference held in Silicon Valley, could let businesses and consumers test ChatGPT-style technologies without sending sensitive data off of their own computer."
-    publishedDateTime: 2023-09-20T04:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai/103798682"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103798682,imgsize-76678,width-1200,height=765,overlay-etcio/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
     excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
     publishedDateTime: 2023-09-20T08:37:00Z

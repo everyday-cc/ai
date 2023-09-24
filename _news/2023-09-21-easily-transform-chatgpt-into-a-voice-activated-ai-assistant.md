@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Isn’t A Swiss Army Knife—And Other AI Tips For Agencies"
-    excerpt: "Marketing agencies that fail to understand and adapt to AI risk becoming less efficient and innovative—and losing opportunities to their competitors."
-    publishedDateTime: 2023-09-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/09/21/chatgpt-isnt-a-swiss-army-knife-and-other-ai-tips-for-agencies/"
+  - title: "This crazy new AI robot receptionist is basically ChatGPT with a face"
+    excerpt: "A group of engineers have created a robot receptionist that uses GTP-3.5 to communicate with users at The National Robotarium in the UK."
+    publishedDateTime: 2023-09-24T20:12:00Z
+    webUrl: "https://bgr.com/tech/this-crazy-new-ai-robot-receptionist-is-basically-chatgpt-with-a-face/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/rsz_adobestock_386078374.jpg?quality=82&strip=all"
+        width: 2750
+        height: 1834
+        isCached: true
 
 secured: "M28FlQdrB7Lr+x67yAXjXm0LA0Svd9GgPevJnh8uiZBA0DVqDViVYnIDdR+6JexqfMlbKguCTrqPW+YAlOeeGWd5aoSnSvvuK/A6C9QFTbdPRR3oomh74nY1qg6K0GuuZ2n4w9pAxiC+IUUUiwhsidRUr9wzrFEVszRwSeREjvPiv93GSA5J5R3uQTcrtKCTcDV9PLoW4cyNcs3Uu/rG1aQgEDT3Nf3SUzbqVme/iF98mFxRxSzccw2Ob4i5hUNJNS89OmPulPDfgike0Bvor6qrc2O0UJ0sFrVrpDSoThRsHZ80520zZrIWPQTs+4bi6+9YPU/3uwwRLOJ2Edkv+17BhUx8L8ks5Xy/36viYp8=;PTm9ez4rQzxSqgjzuYA8JQ=="
 ---

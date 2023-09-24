@@ -19,35 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Machine-learning-boosted drug discovery with 10-fold time reduction"
-    excerpt: "Boosting virtual screening with machine learning allowed for a 10-fold time reduction in the processing of 1.56 billion drug-like molecules. Researchers from the University of Eastern Finland teamed up with industry and supercomputers to carry out one of ..."
-    publishedDateTime: 2023-09-22T14:18:00Z
-    webUrl: "https://phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.html"
-    ampWebUrl: "https://phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-learning-boosted-drug-discovery-fold-reduction.amp"
+  - title: "As the threat of wildfires rises, groups tasked with fighting them turn to AI for help"
+    excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are scrambling to get ahead of the flames by tapping into the latest AI technology."
+    publishedDateTime: 2023-09-24T20:11:00Z
+    webUrl: "https://www.pbs.org/newshour/science/as-the-threat-of-wildfires-rises-groups-tasked-with-fighting-them-turn-to-ai-for-help"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/as-the-threat-of-wildfires-rises-groups-tasked-with-fighting-them-turn-to-ai-for-help"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/as-the-threat-of-wildfires-rises-groups-tasked-with-fighting-them-turn-to-ai-for-help"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
+      name: PBS
+      domain: pbs.org
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-boost.jpg"
-        width: 1280
-        height: 678
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/09/2023-08-19T143345Z_372780065_RC2XQ2AO6R35_RTRMADP_3_CANADA-WILDFIRES-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Machine learning speeds up virtual drug screening by 10-fold"
-    excerpt: "Boosting virtual screening with machine learning allowed for a 10-fold time reduction in the processing of 1.56 billion drug-like molecules. Researchers from the University of Eastern Finland teamed up with industry and supercomputers to carry out one of the world's largest virtual drug screens."
-    publishedDateTime: 2023-09-23T01:52:00Z
-    webUrl: "https://www.news-medical.net/news/20230922/Machine-learning-speeds-up-virtual-drug-screening-by-10-fold.aspx"
+  - title: "The threat of wildfires is rising. So is new artificial intelligence solutions to fight them"
+    excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
+    publishedDateTime: 2023-09-24T07:07:00Z
+    webUrl: "https://www.wavy.com/news/world/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
+    ampWebUrl: "https://www.wavy.com/news/world/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/world/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
+      name: WAVY-TV
+      domain: wavy.com
+    quality: 48
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2023/09/650fe147a54799.24662047.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "LIHk98L/PkVoKXrQDcgqi23uU5Sbtz8c4sX2o0CHZj1D68WiB+aBhF3ICjZTF08BbmpOjz8sfvHG3QZFoA6GWoxalm68HQxdEtMWy9moZc4Qhwje7ERpQjfGwnok2wUSLinu3q3K84zDCU6cNJuym5mfFER4TzOzALhpI5nbCLgdemKO29VDMjPEeoKiYZZ8nWo/FmCuf1QnAkY4KW1m4ga+v6ceX/5vM6k/ooMme8dWHaZz+SwiYPjUILwaZW2eevD9K/EnpGSAOJDpeoNoNT/6rXhTnN/zOSWp3kQf7UOKSLRdvGoCI4zKGxDMzMv43VcZU2QakG/L9zKKMY0SxKlFMdhORSl2SfD9HPtEWTiFHjIkR1YAMe3BJrWu7CDE7mF1s0v/ilhvjg4BUQPu/nalgZaSO9ZZYuYUiu42Yjdz+RAvnAtdiplmIHmG/G9v4bi3rZDZU8viPjfaLqnm6NnhKQeh44PZUGTNofHrkhsKskcaDmHmOXBjbKdZGpjgzpDPCPHf2PUTcsPifzx2/A==;/G6VWBo2KQMlt3l4MUPX4A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "7 Steps To Update Courses In The Age Of Generative AI"
-    excerpt: "How to systematically use generative AI to refresh a course: objectives, topics, pedagogy, tools, policies, lessons & students' intrinsic motivation to be more effective."
-    publishedDateTime: 2023-09-20T03:28:00Z
-    webUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/beatajones/2023/09/19/7-steps-to-update-courses-in-the-age-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6508a58073f0584781935f6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "pSQe6v76ZcsKxfm6WfVXx1n7z8zOMKX8VgpwUSjcm3zrVca2erloHlkPBixizRZxJ37w/VM+kfvZeogtrukT/CGWJ2qf9ga/nmRtvQGJBjNCf9el25rVWDyPjKmW/UbKT6jH9DXS62FSqGPfhAtVyA7u6T8JVn+HKf+LC1rq0+K41n9XyH8Zuz/u4OY+CquIK39HMnXAwtxffh3wREqpYWlyrLQkVxi9w+7MzvjJbtPX4u4v0xpyNlhXopU8qsXU7csnZ0ql4QhjkIyd0IRLfruBu4zDap3oHEmm9YeOsnQZO09us2W51EeYWT5LwGhcpf9NIfHWT42ZkKQU0KoWzic7AjFVg98mhFGl7DZunrXpXNbkO44UCDsfGgfOkPb6EYc4HcvruCw8nc5/VJHra6oFI7Rq3iFdDKVlgCAs7bmGGfDFPaFDnxNZ5ILbQxYIVC4PLTMO9NVU+zK9as76VisaVzst3uOxUm7KvgdRYVXYhiDbV4CzC4sJXlS0XDa/PFV3jDpuLPEX4qop1PCQNw==;q/+1P32WJ/2KiIqgWqtacQ=="
 ---

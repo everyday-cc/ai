@@ -15,6 +15,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"

@@ -58,6 +58,22 @@ related:
         width: 735
         height: 386
         isCached: true
+  - title: "Pennsylvania state government will prepare to start using AI in its operations"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
+    publishedDateTime: 2023-09-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_c7e334ce30728df67dcad5fbad321680_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
     excerpt: "The Pennsylvania governor signed the order at Carnegie Mellon University, which will work with the AI governing board to guide the state’s use of the technology."
     publishedDateTime: 2023-09-21T18:23:00Z
@@ -72,15 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pennsylvania state government will prepare to start using AI in its operations"
-    excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
-    publishedDateTime: 2023-09-21T03:08:00Z
-    webUrl: "https://www.seattlepi.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 13
 
 secured: "0DSiVD22qrU6sBdFbJ9q467b+bidN92Dcnj7aiqGWyvYps7lZEpju7Gk6E41msSexSQF5VmBLSCVN5qoWC7X6U6fJB1y0XPhC4jG9CDbAVZ9eHSFpGigJ9nz/qFFO2EuF3yjd9LgWOdd6qL4DPs3a1XaX1wmYdmRe94oH4gxXiV9C5sTPx5Il+NAqwPB4ak/4nC+2LLz/Y3E8VSYDj+B1m43+NZvwf/caXQ7IM4zCT+MKupK8K0MdbIvz0Xs8vGeUV5QwrmWeYIxVfvF7QdKOFmneOVRL14Ne0T0trdd3A+sNaYdmKr2UHqO1nxKplqqqMi0HvcWyDvo4PxvOUPYh4nkOtfGnDK+AAeyATYKhJZUF4PIKeO3PU7wYhLhjwTRIqeEEK2ifTYdcU+WOYOoc9oKEXOthW9pvBHFLZTEqYr1NmJawsVkJ+j2n8x+5t3KexdDAoeL7E8ymZa7X8HBklqBdXFoZEt6uzGwKIjLn4P7wPuHOcvQGI23RXrqT9w8uZpkWckO+avu6baUBEdk+w==;fLa+qineQVF6avSLg+o/1w=="
 ---

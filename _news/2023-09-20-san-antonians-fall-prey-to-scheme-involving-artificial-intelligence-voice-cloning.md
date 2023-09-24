@@ -39,6 +39,22 @@ related:
         height: 628
         isCached: true
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
+    publishedDateTime: 2023-09-24T21:36:00Z
+    webUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wave3-com.cdn.ampproject.org/c/s/www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    type: article
+    provider:
+      name: WAVE3
+      domain: wave3.com
+    quality: 48
+    images:
+      - url: "https://gray-wave-prod.cdn.arcpublishing.com/resizer/sOUkDFPrZ4AwsNOVqP2O3SFcZW4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HXKV2U355NETFLZ7HF2N3Q5254.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
     publishedDateTime: 2023-09-24T11:58:00Z
     webUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"

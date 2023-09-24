@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Epistemological Humility in the Age of AI"
+    excerpt: "How technology challenges our sense of self and identity."
+    publishedDateTime: 2023-09-24T19:34:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202309/epistemological-humility-in-the-age-of-ai"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202309/epistemological-humility-in-the-age-of-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202309/epistemological-humility-in-the-age-of-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-09/HumanHand.jpg?itok=UdBxLtdl"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "New AI-Powered Intelligence Platform, Equity Quotient, Charts The Future of Inclusive AI"
     excerpt: "Stakeholder intelligence platform utilizes advanced technology to mitigate the existential risks AI is increasingly imposing on businesses,"
     publishedDateTime: 2023-09-20T13:20:00Z

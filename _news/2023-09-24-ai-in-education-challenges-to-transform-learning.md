@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challen
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
 type: article
 quality: 76
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five big challenges that AI poses to competition"
-    excerpt: "With AI having huge potential to transform our society and economy, it’s critical to consider its competitive aspects."
-    publishedDateTime: 2023-09-20T01:37:00Z
-    webUrl: "https://www.themandarin.com.au/230772-five-big-challenges-that-ai-poses-to-competition/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 39
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/09/Andrew-Leigh-1.jpg?resize=1200,630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI integration: Transforming the sector and empowering savers"
     excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
     publishedDateTime: 2023-09-21T04:30:00Z

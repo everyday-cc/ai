@@ -446,15 +446,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 33
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
-    publishedDateTime: 2023-09-20T03:34:00Z
-    webUrl: "https://www.inferse.com/722932/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Microsoft unveils new AI tools as it looks to ‘transform search and advertising’"
     excerpt: "The tech giant said it was embarking on a new era of generative AI as it introduced its new ad products at the Surface and Copilot event."
     publishedDateTime: 2023-09-21T21:33:00Z

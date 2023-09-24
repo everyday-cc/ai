@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pennsylvania state government will prepare to start using AI in its operations"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
+    publishedDateTime: 2023-09-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_c7e334ce30728df67dcad5fbad321680_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
     excerpt: "The Pennsylvania governor signed the order at Carnegie Mellon University, which will work with the AI governing board to guide the state’s use of the technology."
     publishedDateTime: 2023-09-21T18:23:00Z
@@ -72,15 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pennsylvania state government will prepare to start using AI in its operations"
-    excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
-    publishedDateTime: 2023-09-21T03:08:00Z
-    webUrl: "https://www.seattlepi.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 13
 
 secured: "Bz5KqSweCfPRglKyTwWrtuxs6LYiXTOzuUYMU85+caRJSpSS1GfOiGXJge1RN9RqxKv7JKqqEqwDHrxOSrNzRi5rbGGKjDi7M6NDUxq9xeO2i04oc5HcC6cTEtslEzEr6jEKKcqOTrhktXyeYuFLXnHU402k8TyQ9qNnPA/kHpTkTlZpNljGjI3XA3K3ivwA9s4ue7e+bqEQgW48vKeEAmSGUCiJSMQIB4rhJOtHarbPCBpu2byzaFIPDZrsOsZetsOAamG525MEV5MX2Msr0j2mxpdOKfTNyPrDWBlqhSXB0GmVbZY+qU35c2UA726J1m2j1+OTMqFEIxBtSpj5fGhn4uxf/rOYAq5s1EZqNy1CLEez+so+ryL7H82OKW1JC8FnyXjLNAa0gEmw6ksrDX/KKXtuaeofFUVTK6t4haS6WX13s1YVifago2FMYT26PcJipWfwuG2aMUzNoRUiBzCNqt+zPIpRRWlzN+XwxQ6CYKpzrnpvvpX7w9tySPtfN4vOVv1dApr5TIDrE+TOPw==;b6xHX9sgTp4XnkzvFcscdQ=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "Unlocking the Future of Drug Discovery with Artificial Intelligence"
-    excerpt: "The report highlights a groundbreaking discovery: Over 150 small-molecule medications are currently under development by biotech"
-    publishedDateTime: 2023-09-22T08:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/unlocking-the-future-of-drug-discovery-with-artificial-intelligence-301934565.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 19
 
 secured: "1bToIZwlyy28rz2QVHhekboIqdIGusOrdNUw9bk80XQHZ+qtqQyIfKXMAA6pBRYO6rA0fQ/GjLnMir1AtcsNvvrKuwXnbyc58/EnwOAVn4FSEzFxKzO4OfUA6FnYYoIHovSTG/AgERDbMgkdLe7mi+gbT0TwXJke0Hwvn4Z0onCBrv//mQopBiD9s77XRsadFIqiJG6oJ9AJgkM0b+wjrdPj4ghhNSK7WfJqRJ69WrgzZmpodwyHWc2XOnVQCy2VdDWzrluCV1BY1J2iEgZXczrhUDt6kIdazMyyUwdRTgoXqun5fM+UftuuQc31zTy8smHyAaIrCif44VF7fuFluSxiWQzwZMr/as3kQmcW3go=;WN6kOjIvWSFB+OSbzJ1XUg=="
 ---

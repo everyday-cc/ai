@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-vo
 webUrl: "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
+    publishedDateTime: 2023-09-24T21:36:00Z
+    webUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wave3-com.cdn.ampproject.org/c/s/www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    type: article
+    provider:
+      name: WAVE3
+      domain: wave3.com
+    quality: 48
+    images:
+      - url: "https://gray-wave-prod.cdn.arcpublishing.com/resizer/sOUkDFPrZ4AwsNOVqP2O3SFcZW4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HXKV2U355NETFLZ7HF2N3Q5254.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "San Antonians fall prey to scheme involving artificial intelligence, ‘voice cloning’"
     excerpt: "Criminals are able to clone people's voices from online content, then use that to trick loved ones into handing over money."
     publishedDateTime: 2023-09-20T09:51:00Z

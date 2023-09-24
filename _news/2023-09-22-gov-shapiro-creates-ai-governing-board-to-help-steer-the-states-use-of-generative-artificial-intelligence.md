@@ -73,14 +73,21 @@ related:
         height: 675
         isCached: true
   - title: "Pennsylvania state government will prepare to start using AI in its operations"
-    excerpt: "HARRISBURG, Pa. (AP) — Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."
-    publishedDateTime: 2023-09-21T03:08:00Z
-    webUrl: "https://www.seattlepi.com/business/article/pennsylvania-state-government-will-prepare-to-18378914.php"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
+    publishedDateTime: 2023-09-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 13
+      name: ABC
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_c7e334ce30728df67dcad5fbad321680_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "S5GBjRAbFsBqVtE4qGQkPJGm5oYotuo67T4BkKtq2cQqHdC9h/rLfc8Bj2hlmU69YBDPVzXslyTxxcRNXkg2fy6PhD+TWgySSpbsFOSAKJCR44vMfe5xSUHdz6HfDOTj/Z9nfcaDIwyzaIkgRzyUqOe4vBU8G5Tlw1dl1daExMdbOG8RRMPvtGYTUuB7U6rWqXGvVRmw7xppUDKWn9kUoe3L8CS4NmymhM4uQDzncufrtc2nYI87tasW+pE8E/CVkDfq0SZuLMPYJITMWvKEyGUle+SQsN668oaHeU5MFrv17anucYpVEox3s5pztJvHg11p+/PWR2GmmL2yMuQcC94SA7wF7e03llZB+2/ElgU=;Fv4xgAOZH6RrgNgdT6ApVw=="
 ---

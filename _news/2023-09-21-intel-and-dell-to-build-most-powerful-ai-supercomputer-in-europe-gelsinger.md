@@ -39,6 +39,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Gelsinger: Intel prioritises AI Sales enablement for partners"
+    excerpt: "thanks to its upcoming Core Ultra processors that can handle a diverse range of AI workloads thanks to their CPU, GPU and neural processing unit. “That’s where channel programs are helpful, [deploying] field resources, working with the channel partners ..."
+    publishedDateTime: 2023-09-24T20:26:00Z
+    webUrl: "https://www.crn.com.au/news/gelsinger-intel-prioritises-ai-sales-enablement-for-partners-600535"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/pat-gelsinger-intel-cover-2.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Intel and Dell to Collaborate on AI; Intel and Stability AI Building ‘Most Powerful AI Supercomputer in Europe’ – Gelsinger"
     excerpt: "This story was updated on September 21 based on input from Intel: With the goal of building the most powerful AI supercomputer in Europe, Intel has formed an alliance with Stability AI, a London-based artificial intelligence- startup."
     publishedDateTime: 2023-09-22T13:31:00Z

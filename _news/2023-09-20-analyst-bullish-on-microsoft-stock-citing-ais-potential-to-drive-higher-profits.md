@@ -444,15 +444,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 33
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
-    publishedDateTime: 2023-09-20T03:34:00Z
-    webUrl: "https://www.inferse.com/722932/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-09-21T10:19:00Z
