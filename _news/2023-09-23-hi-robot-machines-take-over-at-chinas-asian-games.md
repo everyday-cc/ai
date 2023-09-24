@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Hi, Robot: Machines Take Over At China's Asian Games"
-excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games."
-publishedDateTime: 2023-09-23T10:38:00Z
-originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-59e13534"
+excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+publishedDateTime: 2023-09-23T07:04:00Z
+originalUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+webUrl: "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -17,13 +17,14 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-    width: 1320
-    height: 742
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -69,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing - Southern Asia"
+    excerpt: "The market size in the Natural Language Processing market is projected to reach US$505.10m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 19.43% ..."
+    publishedDateTime: 2023-09-20T12:41:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/southern-asia"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition - Southern Asia"
     excerpt: "The market size in the Speech Recognition market is projected to reach US$145.70m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 20.61%, resulting in a ..."
     publishedDateTime: 2023-09-20T12:41:00Z
@@ -79,6 +94,6 @@ related:
       domain: statista.com
     quality: 19
 
-secured: "4ji/zzMMOqXEMQXwZ0gelbu5AYZ+SCZB2B5VMk5pI58EPyNoN+SMBBxLLkHmCs5YvgP5yb/Uxb+HIxRKSlwOT8UgcFFgf4+niX4DHGgL/hLGWZutxfmhm2F8x7gh4qQzWVHhiroBONM4icSXDRITM8XUxXUvZaOuQjalfDmIDjOR7BsWPX4vFkN5VSqNJPzFedQL+AGjrDXEXLG0fE35xsSgyEpE0noJhgCB7S28FpKZ/cWkqxOdRYQYN+sX+f++Dk1CuHR56WJqSsUonzJv5Erx0QmUkjf0D9KQEBaxv3E/1IZPQ8UDIY2N+Ft+uPeSM0fJhXJohmhbIc59qlBhRpDPigm1yQu29rXXILIve4Y=;8YAuD1EW2ayu3erAi7F6Lw=="
+secured: "0+SCp6EzsPkNkVIswQtTSF4D0CUNBFAwDGAFoPn6cUbbYHhYCKRSOIKHZePZabmi9yJmFKCf2+XDkCb47JMabcmsXHR6NKwvr9qw8WgQxKQjO+wl5/6Utfg+OU94VdO9+HxGgSL93ocQeoE++hTro/jeK2uFbHOHt/6rK5H6j2d7uZ1eNXTcD+hVdI0nPvusxh2eaxJHmSSIYfiRLMIkqVh0cX4ZAI0eiBB4Rf4S7aIzmo6h8KzLzlNu/xkbFWfFFvhejsg+qoM9QCfdf11nntNnhvfwfOhT2RLBvCpQc8EkFijfbzKfmZ4MPHbvG1xddBfhpbXzzWJlaPh6V0iwbhJCnNdvLwWcI+9yBk2CEuo=;Jr4GdNUXgzsou1b92+lYQA=="
 ---
 

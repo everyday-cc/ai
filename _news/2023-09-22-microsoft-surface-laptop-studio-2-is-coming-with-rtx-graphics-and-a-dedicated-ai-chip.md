@@ -210,20 +210,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
-    excerpt: "Moerdler’s research suggests that Microsoft has taken a significant lead in the development of Generative AI offerings, platform software, and design architectures. These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand."
-    publishedDateTime: 2023-09-20T07:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft-backed FAST Accelerator Announces 12 African Startups Selected for Artificial Intelligence (AI) Program"
     excerpt: "AI-focused accelerator program brings African startups to Silicon Valley to jumpstart technology innovationSILICON VALLEY, Calif. , Sept. 20,"
     publishedDateTime: 2023-09-20T23:04:00Z
@@ -284,6 +270,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
+    excerpt: "These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand. See Also ..."
+    publishedDateTime: 2023-09-20T07:23:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34750258/analyst-bullish-on-microsoft-stock-citing-ais-potential-to-drive-higher-profits"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34750258"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34750258"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft.Shutterstock_6.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI bubble? Speculation arises about Microsoft cutting AI chip orders"
     excerpt: "Speculation has emerged that Microsoft has scaled down its orders for Nvidia's H100 AI chips, which some industry sources believe could help other companies get their hands on more."
     publishedDateTime: 2023-09-21T01:22:00Z
@@ -334,20 +336,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI Data Exposure: 5 Things To Know"
-    excerpt: "[RELATED: Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz] No customer data was exposed and no other internal services were at risk, according to Microsoft."
-    publishedDateTime: 2023-09-19T17:00:00Z
-    webUrl: "https://www.crn.com/news/security/microsoft-ai-data-exposure-5-things-to-know"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0284-18a8717027c5-4d44981de29d-1000/red-cybersecurity-lock.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft AI researchers accidentally leak 38TB of company data"
     excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
     publishedDateTime: 2023-09-19T19:38:00Z

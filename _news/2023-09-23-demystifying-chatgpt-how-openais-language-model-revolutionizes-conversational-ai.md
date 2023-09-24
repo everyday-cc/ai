@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "See How AI Generates Images from Text"
-    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
-        width: 790
-        height: 497
-        isCached: true
   - title: "DALLE 3 AI art generator integrated into Bing Image Creator"
     excerpt: "Microsoft is set to integrate the latest DALL.E 3 model from OpenAI into its Bing Image Creator, marking a significant step forward in the realm of AI-powered image generation ... DALLE 3is currently in a research preview development stage and will ..."
     publishedDateTime: 2023-09-22T08:42:00Z

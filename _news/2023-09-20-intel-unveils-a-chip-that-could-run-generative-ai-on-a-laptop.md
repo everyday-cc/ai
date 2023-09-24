@@ -25,112 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics"
-    excerpt: "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)"
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics"
+  - title: "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions"
+    excerpt: "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors"
+    publishedDateTime: 2023-09-22T02:13:00Z
+    webUrl: "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 83
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/Intel-CPUs.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Intel unveils Meteor Lake processor to democratize AI tech"
-    excerpt: "Intel showed off the chip company's latest code-named \"Meteor Lake\" processor with an AI-based neural processing unit."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://venturebeat.com/games/intel-unveils-meteor-lake-processor-and-other-ai-technologies/"
+  - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
+    excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
+    publishedDateTime: 2023-09-20T01:16:00Z
+    webUrl: "https://www.gadgetguy.com.au/intel-core-ultra-meteor-lake-processor-announcement/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/Intel-glass-substrate-4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The 'Meteor Lake' NPU: Meet Intel's Dedicated Silicon for Local AI Processing"
-    excerpt: "Designed to run AI programs efficiently, the NPU can also work alongside the GPU to accelerate AI workloads. Here's what we know so far about this new, specialized component of Intel's imminent new chips. I've been with PCMag since October 2017 ..."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.pcmag.com/news/the-meteor-lake-npu-meet-intels-dedicated-silicon-for-local-ai-processing"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/046WNjLE2vu2HiqdFZH9YBk-1.fit_lim.size_1200x630.v1694561149.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Intel 14th Gen Meteor Lake Brings Dedicated NPU for Offline AI Processing"
-    excerpt: "Intel's new 14th Gen Meteor Lake CPUs come with a ton of new additions including a dedicated NPU for on-device AI processing. Read more here."
-    publishedDateTime: 2023-09-19T15:40:00Z
-    webUrl: "https://beebom.com/intel-14th-gen-meteor-lake-dedicated-npu-offline-ai-processing/"
-    ampWebUrl: "https://beebom.com/intel-14th-gen-meteor-lake-dedicated-npu-offline-ai-processing/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-14th-gen-meteor-lake-dedicated-npu-offline-ai-processing/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 58
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/09/NPU.jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Intel Core Ultra 'Meteor Lake' Chips Launch Date Set for December 14; to Feature Chiplet Design, AI Coprocessor"
-    excerpt: "Intel's \"Meteor Lake\" processors are the first to use the company's 7nm \"Intel 4\" technology and feature an NPU for improved AI performance."
-    publishedDateTime: 2023-09-20T06:11:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/intel-core-ultra-14th-gen-meteor-lake-launch-december-14-7nm-process-specifications-design-4406026/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
+      name: GadgetGuy.com.au
+      domain: gadgetguy.com.au
     quality: 54
     images:
-      - url: "https://i.gadgets360cdn.com/large/meteor_lake_intel_core_ultra_1695188759047.jpg"
+      - url: "https://gadgetguy-assets.s3.ap-southeast-2.amazonaws.com/wordpress/wp-content/uploads/2023/09/20110421/Intel-Core-Ultra-chip-announcement.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Intel's newest laptop chips, software will handle generative AI"
+    excerpt: "The capability, which Intel was expected to show during a software developer conference held in Silicon Valley, could let businesses and consumers test ChatGPT-style technologies without sending sensitive data off of their own computer."
+    publishedDateTime: 2023-09-20T04:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai/103798682"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103798682,imgsize-76678,width-1200,height=765,overlay-etcio/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
+    excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
+    publishedDateTime: 2023-09-20T08:37:00Z
+    webUrl: "https://trendydigests.com/2023/09/20/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips/"
+    type: article
+    provider:
+      name: trendydigests
+      domain: trendydigests.com
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/09/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips.jpg?fit=1200%2C675&#038;ssl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "Meteor Lake Architecture Revealed: AI, Tiles And The Future Of Intel Core CPUs"
-    excerpt: "Intel’s Meteor Lake architecture for mobile PCs will be arriving soon and to say that Meteor Lake is the most important shift in Intel’s design and"
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://hothardware.com/reviews/intel-meteor-lake-architecture"
+  - title: "Intel details multiple new chip designs"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
+    publishedDateTime: 2023-09-20T17:34:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/intel-details-multiple-new-chip-designs.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/article/3359/content/small_intel-meteor-lake-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Intel Meteor Lake CPU Series: Technical Overview and AI Capabilities"
-    excerpt: "Intel has unveiled its next-generation mobile Core processors, known as Meteor Lake, slated for launch on December 14th. These processors mark a significant advancement in Intel's technology, harnessing the power of their new 4-process node,"
-    publishedDateTime: 2023-09-19T16:18:00Z
-    webUrl: "https://www.guru3d.com/story/intel-meteor-lake-cpu-series-technical-overview-and-ai-capabilities/"
+      name: Network World
+      domain: networkworld.com
+    quality: 34
+  - title: "Intel, playing catch-up, seeks to bring AI to the PC"
+    excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
+    publishedDateTime: 2023-09-19T19:17:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2023/09/intel-playing-catch-up-seeks-to-bring-ai-to-the-pc.html"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
+      name: Oregonian
+      domain: oregonlive.com
     quality: 19
-  - title: "Intel Unveils Meteor Lake Architecture for AI, Efficiency, and Better Graphics"
-    excerpt: "At today’s Innovation event, Intel is finally pulling the tarp off its Meteor Lake architecture. The company says it represents the most significant change to a CPU architecture it’s made in 40 years,"
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-unveils-meteor-lake-architecture-for-ai-efficiency-and-better-graphics"
+  - title: "AI Is Expected To Fuel Up Micron's And Intel's Turnaround"
+    excerpt: "While the memory chip market has been weak, Deutsche Bank’s Sidney Ho upgraded Micron Technology Inc (NASDAQ: MU) stock upon signals that AI is providing the much-needed lift. Ho believes the worst of the downcycle has now passed,"
+    publishedDateTime: 2023-09-20T17:48:00Z
+    webUrl: "https://www.benzinga.com/23/09/34769994/ai-is-expected-to-fuel-up-microns-and-intels-turnaround"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 15
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "New chip designs on display at Intel Innovation 2023"
+    excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San Jose, Calif. Among the highlights is a preview of fifth-generation Xeon processors, which gain performance improvements and faster memory while using the same amount of power as the current generation."
+    publishedDateTime: 2023-09-20T17:40:00Z
+    webUrl: "https://www.networkworld.com/article/3706914/new-chip-designs-on-display-at-intel-innovation-2023.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "UuQJRGybKBfdyNtOST5N5i4s5qVWzDWHJm8VjJ+nygDJcuIZIXdbkUt26AHQIok9jZJjP828LbxEWdRmTczAzdPHflp5K0VPmJunPHPwmheu1f8aO0IPj47WXo/ESIrU8pSAd8RnIQI/G/qeIObWwto0KsJbj3kzI8+MVNAeato6qkNwcXqYBeypwgLRwv5fDAjBqGmP27jb3H2EppuuzVXjqp1mgyf6VzOQcC8kmVXho9YtakQ4q/7axzrMEhmq4HvliDlS7eYC0Xbn8eXb1PhMKReD0KZc+Q/u6BBpdRyUM4PyKn24iNZNHRiCapxc0WUpRnUXfxiQrAEbdamurG9ujFsUdxSVh8X64FW4I65mXa1HhLCKyreAuLrJW5+6rh26JrGxfjSROwt8QrnUpJriH66KDsnaa6Gdj11AlAUR9nLznYLgjBrDEu2P6CxMQWWR/sp3WqvFFdlLHIHTmm6mXE+zF/cpWRxamTuZF+ofVWJtrjz+QoSKCxjlm76Z/aIEc89u+hUYonGWP68frQ==;0/FjgJVpsZj9SZNwooWaLw=="
 ---

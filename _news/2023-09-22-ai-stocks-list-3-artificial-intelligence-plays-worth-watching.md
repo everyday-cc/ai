@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-a
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Though artificial intelligence and machine learning have gotten their fair"
     publishedDateTime: 2023-09-20T13:13:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-machine-learning-stocks-waving-massive-red-flags-right-now-1032643565"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "GOOG Stock: What’s Next After its Latest AI Rally?"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For most tech stocks, excitement for them related to the AI mega-trend has"
-    publishedDateTime: 2023-09-21T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/goog-stock-whats-next-after-its-latest-ai-rally-1032646170"
     type: article
     provider:
       name: Business Insider

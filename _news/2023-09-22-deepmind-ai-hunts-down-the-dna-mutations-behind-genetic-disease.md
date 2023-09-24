@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/?amp=1"
 type: article
 quality: 76
-heat: 266
+heat: 236
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind is using AI to pinpoint the causes of genetic disease"
-    excerpt: "Fresh from solving the protein structure challenge, Google’s deep-learning outfit is moving on to the human genome."
-    publishedDateTime: 2023-09-19T16:19:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/"
-    ampWebUrl: "https://www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/19/1079871/deepmind-alphamissense-ai-pinpoint-causes-genetic-disease/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/google-deepmind-ztYjQO1amf4_crop.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Google DeepMind AI tool assesses DNA mutations for harm potential"
     excerpt: "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders"
     publishedDateTime: 2023-09-19T18:49:00Z
@@ -109,20 +93,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/09/Looking-into-the-Future-Googles-Deepmind-AI-can-predict-if-genetic-mutations-are-likely-to-cause-harm-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Google DeepMind: Drug developers seek a structural advantage from AI"
-    excerpt: "Using AI does not guarantee success. Clinical trials of the first AI-designed molecule — announced in 2020 by Oxford-based Exscientia and Sumitomo Pharma — were unsuccessful. In May, London-based BenevolentAI announced it was laying off 180 staff, after its lead drug candidate failed."
-    publishedDateTime: 2023-09-19T16:05:00Z
-    webUrl: "https://www.ft.com/content/29f8616f-05ad-42b0-b954-ab81c017b03f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "DeepMind AI predicts millions of harmful DNA mutations"
     excerpt: "Google-owned DeepMind has released a massive database of potentially harmful ‘missense’ mutations to help speed up disease diagnosis."
@@ -208,15 +178,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
-    excerpt: "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants"
-    publishedDateTime: 2023-09-19T15:24:00Z
-    webUrl: "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
     excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
     publishedDateTime: 2023-09-20T05:16:00Z

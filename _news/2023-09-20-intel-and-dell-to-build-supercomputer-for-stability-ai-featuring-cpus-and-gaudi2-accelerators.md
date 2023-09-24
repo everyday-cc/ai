@@ -24,6 +24,17 @@ images:
     height: 378
     isCached: true
 
+related:
+  - title: "6 Big Announcements At Intel Innovation 2023: From 288-Core CPU To AI Supercomputer"
+    excerpt: "Intel disclosed an upcoming 288-core Xeon CPU, a new AI supercomputer with 4,000 Gaudi2 chips and the launch of Intel Developer Cloud, among other things at Intel Innovation 2023."
+    publishedDateTime: 2023-09-19T18:27:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/6-big-announcements-at-intel-innovation-2023-from-288-core-cpu-to-ai-supercomputer"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 13
+
 secured: "wSgyw2IVFIBYJmx+OVKE+UUcDfcNTyEHDXs2XSMpbkAyjetVsOqiopg5yD13yH2E38xIDJswgMrzvZoVt5ewDlRoe4QG/XoiqtFqX24mHejPJ30qEwG/tXdASyiiPsqYd6HevEvzF2kNlb6jw6GXn4s1z4S8xAfkUHBvAC4TdblSETgP4i3whv86PQf+WkaA+6gBsW6+ic3oNi4ukGgVCwVD+ps42nfu19iWaMg9rMwCQnN80sLY5fdN1ZjDWdGt81jMryOGTGQhFhsss3FIcG2nvO3I228b2QVlQfy1wuzGarLzy19eFERe8vOWhzcmmIXX/JLRceuSeffJRrWOch+0ZYlHAJeK0xSmOA3n07s=;sdS7+5lLG6NZmKJqvienBA=="
 ---
 

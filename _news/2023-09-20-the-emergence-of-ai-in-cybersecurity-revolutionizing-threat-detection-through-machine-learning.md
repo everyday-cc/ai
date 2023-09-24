@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI cybersecurity startup HiddenLayer raises $50M"
+    excerpt: "HiddenLayer says its platform is used by Fortune 100 enterprises in multiple sectors. To advance its revenue growth plans, the company has nearly quadrupled its headcount over the 12 months. It will use the $50 million round announced today to hire an additional 40 staffers by year’s end, build new features and accelerate go-to-market initiatives."
+    publishedDateTime: 2023-09-19T21:17:00Z
+    webUrl: "https://siliconangle.com/2023/09/19/ai-cybersecurity-startup-hiddenlayer-raises-50m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/HiddenLayer.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Can We Rely on AI Cybersecurity – Costs & Disadvantages (Exclusive Report)"
     excerpt: "In today’s fast-paced digital landscape, evolving cyber threats demand innovative solutions. Enter AI cybersecurity — hailed as the groundbreaking shield against modern cyberattacks. Yet, like every groundbreaking tool,"
     publishedDateTime: 2023-09-22T05:52:00Z
@@ -66,20 +80,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
-    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
-    publishedDateTime: 2023-09-20T20:23:00Z
-    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 29
-    images:
-      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
-        width: 788
-        height: 443
         isCached: true
   - title: "CyberLink’s facial recognition receives South Korean cybersecurity certification"
     excerpt: "CyberLink has been granted cybersecurity certification for its facial recognition software in South Korea by the national biometrics testing center."

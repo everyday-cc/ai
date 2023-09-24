@@ -1,33 +1,30 @@
 ---
 category: news
 title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
-excerpt: "Moerdler’s research suggests that Microsoft has taken a significant lead in the development of Generative AI offerings, platform software, and design architectures. These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand."
-publishedDateTime: 2023-09-20T07:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
-webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
+excerpt: "These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand. See Also ..."
+publishedDateTime: 2023-09-20T07:23:00Z
+originalUrl: "https://www.benzinga.com/news/23/09/34750258/analyst-bullish-on-microsoft-stock-citing-ais-potential-to-drive-higher-profits"
+webUrl: "https://www.benzinga.com/news/23/09/34750258/analyst-bullish-on-microsoft-stock-citing-ais-potential-to-drive-higher-profits"
+ampWebUrl: "https://www.benzinga.com/amp/content/34750258"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34750258"
 type: article
-quality: 83
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
   - Microsoft AI
-  - Facebook AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
-    width: 1024
-    height: 768
+  - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft.Shutterstock_6.jpeg?width=1200&height=800&fit=crop"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -339,20 +336,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft AI Data Exposure: 5 Things To Know"
-    excerpt: "[RELATED: Microsoft AI Research Team ‘Accidentally’ Exposes 38 Terabytes Of Private Data: Wiz] No customer data was exposed and no other internal services were at risk, according to Microsoft."
-    publishedDateTime: 2023-09-19T17:00:00Z
-    webUrl: "https://www.crn.com/news/security/microsoft-ai-data-exposure-5-things-to-know"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0284-18a8717027c5-4d44981de29d-1000/red-cybersecurity-lock.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft AI researchers accidentally leak 38TB of company data"
     excerpt: "Researchers at Microsoft have inadvertently exposed 38TB of personal data."
     publishedDateTime: 2023-09-19T19:38:00Z
@@ -523,6 +506,6 @@ related:
       domain: searchengineland.com
     quality: 29
 
-secured: "hkxlAiFVsU4ESyIsd5H+Dm3r/GLHMJwOQAVO7MgCYuh0viiXFpXe0Z4A/XNx+uQg1h4sS0UROiSEeqBWnWZe4a00yo+edTGgfvGWoYe+HSFgkxfEOBjF+K83Q0LZdJNWkCI9MpPVl2JfLXpMiGPT1/Fwj0S1jgkRQMs1Vp6IdCtENEOiAyNX4eYocqFnp93Rz+ydqgmCs0042vdCnnGCvmAcXMbdjB3aLnSj4oDvTCO+flbawAwBWENcwDfZGFZXQE8tiQFRBpZ9nOrZ8Q5cLnOCKDyhMXTutKZUcH2jM30mtlv9fqsJH8TspuzNiWU87CeAzjo8lz/rWbJg3J2QN3rnU0jbD1EaqznDQI+kaOnW+LEESzJIkKeOnNHHt5hDm9E9vv/uSCLvi0Fdd0uthPMa8MHFGe217d++9F7hJwlJ7L0FqQcHCDdWTJ7clS7tB/fQg53c2gyboHaa3lmOTn8YGZdqK5YzJIzdyC6Sn8ioEne0/EQ86ERag0S97jgcRcnNOQrqUB6WZ0jfpj76pA==;6NPHApWhRTDVOuzhuFyZtw=="
+secured: "j+pfQl4/RmPvd4t1gT5XEkeq0YsP8AYghTl/C5RsGIQsMXYUH03wjmlCVlxk5hO4auG5ZO8WFbIBQD4R4IqGj0YqJBXgz+y7Bj2e/A9ovJqHbMVHywi1pMZep1DIoCUMdBhTqlklWlLCeIYZbjpY1n8z0+k7U2UXsNfnUtuJkxRDPPvriOHo6jYgo1gsF78xJYmE3+Lbh9s8FSpGJbXMup7iWynJv4HtMQNM7wueJBWQbZl7hLYiyHiM+Wj+IC9SxS84bfkYO8RNQZmSzpQ8PMIMsBXcu9JU7hTCJuVy3LrMsCVwa9SUqn4nrM/qaETPV6Nb2foV1r8yYz6wDL9OMGMHd9jqnnyqjFkA3EZj5FE=;M8iYVTbwHd1Fqxxew5c/rg=="
 ---
 

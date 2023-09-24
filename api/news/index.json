@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-24-the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
+      "title": "The Top Ten Global Fintech Conferences: From AI To Zombie Unicorns",
+      "excerpt": "Providing nuggets of wisdom (and perhaps a side order of entertainment) for the assembly is a blue chip roster of over 350 expert speakers ... will focus heavily on the growth and adoption of AI, and how the technology can be used in financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "publishedDateTime": "2023-09-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-better-ai-value-stock-micron-vs-intel.md",
+      "title": "Better AI Value Stock: Micron vs. Intel",
+      "excerpt": "And while Micron initially fell behind rival SK Hynix in high bandwidth memory (HBM) for AI applications, Micron recently announced a new HBM product with better specs than Hynix this summer. That product is in sampling right now and will start shipping in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/24/better-ai-value-stock-micron-vs-intel/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/24/better-ai-value-stock-micron-vs-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/748374/gettyimages-1220395930.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-ai-in-education-challenges-to-transform-learning.md",
       "title": "AI in education: Challenges to transform learning",
       "excerpt": "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -97,58 +200,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-24-palmeiras-facial-recognition-on-match-tickets-helps-police-arrest-criminals.md",
-      "title": "Palmeiras' facial recognition on match tickets helps police arrest criminals",
-      "excerpt": "Facial recognition technology used on match tickets by top flight soccer club Palmeiras has helped the Sao Paulo Public Security Secretariat (SSP) arrest 28 criminals in four games at the Allianz Parque stadium,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/sports/soccer/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-2023-09-23/",
-      "originalUrl": "https://www.reuters.com/sports/soccer/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-2023-09-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/5u-YtQGmit2NfwDzEWotuEAlSRE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJ4S3UEYZZKJPOFRW55M7GMOB4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-23-i-tried-the-new-coke-flavor-made-with-ai-i-was-surprised-by-the-taste.md",
       "title": "I tried the new Coke flavor made with AI. I was surprised by the taste.",
       "excerpt": "Coke added a flavor called y3000 to its Creations line-up, this time with the help of AI. The future-inspired beverage is one-of-a-kind.",
@@ -208,7 +259,7 @@
       "originalUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 496,
+      "heat": 486,
       "tags": null,
       "images": [
         {
@@ -250,6 +301,58 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright.md",
+      "title": "Latest Prompt Engineering Technique Chain-Of-Verification Does A Sleek Job Of Keeping Generative AI Honest And Upright",
+      "excerpt": "Prompt engineering welcomes the new Chain-of-Verification technique, aiming to deal with onerous generative AI issues such as errors, falsehoods, and AI hallucinations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1827,1217,x142,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/",
+      "publishedDateTime": "2023-09-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -502,7 +605,7 @@
       "originalUrl": "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -991,7 +1094,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1109,102 +1212,6 @@
         "name": "Labroots",
         "domain": "labroots.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-ai-stocks-list-3-artificial-intelligence-plays-worth-watching.md",
-      "title": "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network.md",
-      "title": "Waabi’s Robot Trucks Move From The Virtual World To Uber Freight’s Network",
-      "excerpt": "And while robot trucking was seen as an easier market to crack ... along with Softbank’s recent $1 billion investment in autonomous trucking startup Stack AI, much-needed good news for the segment. (Stack was created by the founders of Argo AI, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/09/21/waabis-robot-trucks-move-from-the-virtual-world-to-uber-freights-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650a4b3a9d9c7bf807bba901/0x0.jpg?format=jpg&crop=2500,1406,x0,y214,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
-        isCached: true
   - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
     excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
     publishedDateTime: 2023-09-20T18:50:00Z

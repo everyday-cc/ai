@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latvia central bank opens to fintech with ‘Innovation Hub’"
-    excerpt: "Krasovska highlighted the Bank of Latvia’s Innovation Hub, which has been operating for five years and is a starting point for domestic and international fintech companies that plan to operate in Latvia."
-    publishedDateTime: 2023-09-19T16:31:00Z
-    webUrl: "https://cointelegraph.com/news/latvia-central-bank-fintech-hub"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOGI2ZTM4NzEtMmZhZS00Yzg5LWFhN2EtMjFmMjA4NTViYTcyLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Fintech Research & Innovation Hub Selects Centropy"
     excerpt: "The centre will be led by 25 academics and fintech business leaders and will act as a platform for industry collaboration projects, virtual and augmented reality teaching, and applications of advanced generative AI in financial services. Warwick Business ..."
     publishedDateTime: 2023-09-22T19:22:00Z

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How TRI is using Generative AI to teach robots"
-    excerpt: "TRI said new approach is a step towards building Large Behavior Models (LBMs) for robots, analogous to Large Language Models (LLMs) for conversational AI."
-    publishedDateTime: 2023-09-19T15:43:00Z
-    webUrl: "https://www.therobotreport.com/how-tri-is-using-generative-ai-to-teach-robots/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/09/tri-generative-ai-robots.jpg"
-        width: 1000
-        height: 529
-        isCached: true
   - title: "Why trust is critical to business applications of generative AI"
     excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
     publishedDateTime: 2023-09-22T15:10:00Z
@@ -73,6 +59,6 @@ related:
       domain: nextplatform.com
     quality: 34
 
-secured: "KbTNkNywDQBnvlAphpBTktxbbwbPjChYXw8NdGXVO8p+wfDw6g7kdkVoQAfHJGHvxvIeglC09OCFWznjSjFuBXh/xW0D5rZxg4CxTme3ptQwvT9CsKonq7ez9s1gYQ4QBVkYAx88wLXAH9gEPv8RuKYB+ru4NyPKEkUCBVNRkO266ca8wwxpVfKbC80GDOGD0bj4z9+eGr/YPrYs+AVT6SpCj376r3kTwtAlsD/QebHC/yPenh+1kDoOQLzMLuZmoWWUGIyGZDXoeythFC5HclVpgD99t1wT0h26IatpvGNLOGXnf2EIFqapy5UxsO6zUcuPoikQnHk2Fy/SvqHGvEhP8AWRJbG1Zpf5h3Pbc/4=;V5hS/KceMpyqXP1z2gkV5A=="
+secured: "5lrsQjJVe7kTtG6T2l+MDxa42bmeiv3C93T1l9BH2Ua3zDchTNMn/OEKyLACySquAa7frsvWn1tawdRAwVqfKHKE72EbQiSffYgX6yU/646fFUiQYjQecWCC8vquZlyZ2ZTvt6pRBjCSrai5cybFEEJWmTsBC998TVHr8nymKOakNIvpKxty72Bi3WLj3HRfKIwCTYlKsUAyokUPaXfxv0PH1VGewy5lMFfskzSak3hJJJ/LDlL+IiQ1R7gh+p8oXJyJuwJ4TYNVshdtGVPWxX+n+FTjUZ87fP12Dr8KeiEiZ0hWzi87S34Gfmq4d/pKKtrBaB9CWP6MlKkbaWTeh89ARP3Ay06OvTahPoNw0KQ=;uM2EG0Qss6TV8IAUB6f6pA=="
 ---
 

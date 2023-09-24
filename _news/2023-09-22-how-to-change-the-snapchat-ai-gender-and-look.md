@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI Trading Could Change the Game"
-    excerpt: "AI is shaking up every industry right now, but one area where it is really making waves is in the stock market. This could be an incredible game changer."
-    publishedDateTime: 2023-09-19T15:29:00Z
-    webUrl: "https://coinjournal.net/news/how-ai-trading-could-change-the-game/"
-    type: article
-    provider:
-      name: Internet of People
-      domain: coinjournal.net
-    quality: 39
-    images:
-      - url: "https://coinjournal.net/wp-content/uploads/2023/07/1689852872303-5586e800-dd45-45da-8dc2-7a3d663229b6.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "M1M+D6TtodKpiaJBjfcT8hvi9OCPiaOmVGOGeB3IiQB200xerWi0/fokUFbwJ6+CQ6DkYDF3+pXxwG3R2V+dPYxoHS2aSqj1V8NnUApW166BPBvlxvD8VhTftm1bKQ/EA+SHooFclF1lQvamKxBAV0z30Eo4WXfv7sSLtdQPqC8MZmmEGjuha3u6j3Me57bcvF6a4uTULwDnlQVL7IQycRVkd1BiK3ESWn/CM9KEEJn77WBQVvmRjVkcksbAWn7MPPdcJ0c/kOOblNhm52kZn7A42gmBhHnmuHVQFpPYl2FGSbEeJRTrNO6LJ/HCANXVRdzgLG9kj5s/IIvVO12bmbFOZ9i9RO+4W+sy9X4JacmJ4AS/1KlmTNvXqAgEDgmVWN7zd1gJsFVUW9Mu+FTJsbI43rmKEHPnkaPUFrr451HUyARBVcICNbErBQltGQ6js3Buxpnagk7xkHVW8luL8zpyv8Rb6N9ZGkzvrHeaBbtrTlP1IK41KG6xGN5NRSUW8kcPKYsCZkynbM0Ee9NrMQ==;B3IZeyNu6k+8wfskX/+DOQ=="
 ---

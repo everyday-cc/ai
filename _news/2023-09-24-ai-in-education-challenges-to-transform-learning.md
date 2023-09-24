@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challen
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
 type: article
 quality: 76
-heat: 96
+heat: 98
 published: true
 
 provider:

@@ -100,20 +100,6 @@ related:
         width: 2500
         height: 1696
         isCached: true
-  - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
-    excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
-    publishedDateTime: 2023-09-19T15:11:00Z
-    webUrl: "https://www.maltatoday.com.mt/business/business_news/125028/video_gaming_esport_and_ai_startups_to_benefit_from_government_venture_capital_fund"
-    type: article
-    provider:
-      name: Malta Today
-      domain: maltatoday.com.mt
-    quality: 31
-    images:
-      - url: "https://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/digital_economy_mobile.png"
-        width: 684
-        height: 400
-        isCached: true
   - title: "What’s Next in AI for State and Local Governments?"
     excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
     publishedDateTime: 2023-09-20T18:32:00Z

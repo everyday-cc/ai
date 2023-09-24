@@ -33,19 +33,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel enters AI-powered PC race with its first EUV-made chip"
-    excerpt: "PENANG/TAIPEI -- Intel on Tuesday launched its first AI-equipped chipset for personal computers as the U.S. chipmaker seeks to reenergize the PC market and regain its lead in the global semiconductor industry."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-enters-AI-powered-PC-race-with-its-first-EUV-made-chip"
+  - title: "Intel unveils a chip that could run generative AI on a laptop"
+    excerpt: "At the conference, Intel demonstrated laptops that could generate a song in the style of Taylor Swift and answer questions in a conversational style, all while disconnected from the Internet. Chief Executive Officer Pat Gelsinger said Microsoft's \"Copilot\" AI assistant will be able to run on Intel-based PCs."
+    publishedDateTime: 2023-09-19T23:46:00Z
+    webUrl: "https://www.digitalnationaus.com.au/news/intel-unveils-a-chip-that-could-run-generative-ai-on-a-laptop-600435"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
+      name: digitalnationaus
+      domain: digitalnationaus.com.au
     quality: 54
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F9%252F8%252F8%252F6%252F46556889-4-eng-GB%252FCropped-16951063172023-08-28T213834Z_1484932_RC28X2AODZ2U_RTRMADP_3_INTEL-AMD.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/reuters_intel.PNG"
+        width: 801
+        height: 568
         isCached: true
   - title: "Intel’s new chip rivals Apple in the AI and graphics stakes"
     excerpt: "Previously known by its 'Meteor Lake' codename, Intel Core Ultra adds an NPU for AI workloads and big graphical boosts for media + gaming."
@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Intel's newest laptop chips, software will handle generative AI"
+    excerpt: "The capability, which Intel was expected to show during a software developer conference held in Silicon Valley, could let businesses and consumers test ChatGPT-style technologies without sending sensitive data off of their own computer."
+    publishedDateTime: 2023-09-20T04:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai/103798682"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103798682,imgsize-76678,width-1200,height=765,overlay-etcio/artificial-intelligence/intels-newest-laptop-chips-software-will-handle-generative-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
     excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
     publishedDateTime: 2023-09-20T08:37:00Z
@@ -75,20 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel makes progress on advanced chip manufacturing process as it strives for relevance in AI"
-    excerpt: "Hosting its third annual Intel Innovation event today, Intel Corp. took the opportunity to announce an array of new silicon platforms that it says will support artificial intelligence in every location,"
-    publishedDateTime: 2023-09-19T16:25:00Z
-    webUrl: "https://siliconangle.com/2023/09/19/intel-makes-progress-advanced-chip-manufacturing-process-strives-relevance-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/intelaieverywhere-gelsinger2023.png"
-        width: 2310
-        height: 1287
-        isCached: true
   - title: "Intel details multiple new chip designs"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
     publishedDateTime: 2023-09-20T17:34:00Z
@@ -98,15 +98,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 34
-  - title: "Intel Innovation 2023: Bringing AI Everywhere"
-    excerpt: "As the world experiences a generational shift to artificial intelligence, each of us is participating in a new era of global expansion enabled by silicon. It's the Siliconomy, where systems powered by AI are imbued with autonomy and agency,"
-    publishedDateTime: 2023-09-19T16:41:00Z
-    webUrl: "https://www.guru3d.com/story/intel-innovation-2023-bringing-ai-everywhere/"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
   - title: "Intel, playing catch-up, seeks to bring AI to the PC"
     excerpt: "At Intel’s annual technology showcase Tuesday in San Jose, CEO Pat Gelsinger touted the opportunities created by artificial intelligence – from video encoding to medial research. And he said artificial intelligence could produce a new wave of demand for Intel’s PC chips as desktop computers develop new capabilities."
     publishedDateTime: 2023-09-19T19:17:00Z

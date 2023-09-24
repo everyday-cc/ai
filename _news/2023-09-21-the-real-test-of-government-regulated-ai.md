@@ -95,20 +95,6 @@ related:
         width: 2500
         height: 1696
         isCached: true
-  - title: "Video gaming, e-sport and AI start-ups to benefit from government venture capital fund"
-    excerpt: "Government plans to set up a €10 million venture capital fund to provide equity investment for start-ups in several technology sectors"
-    publishedDateTime: 2023-09-19T15:11:00Z
-    webUrl: "https://www.maltatoday.com.mt/business/business_news/125028/video_gaming_esport_and_ai_startups_to_benefit_from_government_venture_capital_fund"
-    type: article
-    provider:
-      name: Malta Today
-      domain: maltatoday.com.mt
-    quality: 31
-    images:
-      - url: "https://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/digital_economy_mobile.png"
-        width: 684
-        height: 400
-        isCached: true
   - title: "What Generative AI Can—and Can’t—Do for Contract Review"
     excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
     publishedDateTime: 2023-09-20T13:17:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 related:
   - title: "7 Steps To Operationalize AI In Your Organization"

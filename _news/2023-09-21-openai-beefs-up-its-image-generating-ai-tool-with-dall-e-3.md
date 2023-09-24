@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-8971.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "See How AI Generates Images from Text"
-    excerpt: "This article was originally published with the title \"How AI Generates Images from Text\" in Scientific American 329, 3, 66-67 (October 2023) doi:10.1038/scientificamerican1023-66."
-    publishedDateTime: 2023-09-19T15:37:00Z
-    webUrl: "https://www.scientificamerican.com/article/see-how-ai-generates-images-from-text/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/397215D1-F20A-4504-B105F408589D2B04.jpeg"
-        width: 790
-        height: 497
         isCached: true
   - title: "Demystifying ChatGPT: How OpenAI’s Language Model Revolutionizes Conversational AI"
     excerpt: "Welcome to the future of conversational AI! OpenAI’s groundbreaking language model, ChatGPT, has taken the world by storm with its ability to effortlessly engage in intelligent and captivating conversations."

@@ -23,33 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been"
-    publishedDateTime: 2023-09-21T23:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337"
+  - title: "Better AI Value Stock: Micron vs. Intel"
+    excerpt: "And while Micron initially fell behind rival SK Hynix in high bandwidth memory (HBM) for AI applications, Micron recently announced a new HBM product with better specs than Hynix this summer. That product is in sampling right now and will start shipping in ..."
+    publishedDateTime: 2023-09-24T09:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/24/better-ai-value-stock-micron-vs-intel/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Beware! 3 AI Stocks Waving Massive Red Flags Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s been hard to go wrong with artificial intelligence stocks this"
-    publishedDateTime: 2023-09-19T22:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-ai-stocks-waving-massive-red-flags-right-now-1032641666"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Beware! 3 Machine Learning Stocks Waving Massive Red Flags Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Though artificial intelligence and machine learning have gotten their fair"
-    publishedDateTime: 2023-09-20T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beware-3-machine-learning-stocks-waving-massive-red-flags-right-now-1032643565"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/748374/gettyimages-1220395930.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "3TW17P6lcZUBZqVshKt0+us4vXVI6rdlFwUH18QI1oMMKfNgLdQkg0pMomVQElVxzJT2C7XoAT2Bgxti20PUBNHE+gdH/0yGufk9oaW4W3E7MKqA7IyW7s/o1W4eSgyPX4jnXtj6gJTMfhEofoNYFXyDd99ObcliTuJg71vIWXqdzp/KyUIrBiTpoq1/BtQfyr4LLKULAEr2PkWrCIXl1NtB2HxCN9PHwUuQ/hhvm4d63JtLQyPqXh54MzpiaBx5gh2IQP8s/5iv1U1WS/qpWlbutUdS+W7Dgq/aVm3OT+6QOH+KvdSMjuQQCOiibkM2n0kEZhi7XCdFRPy6YavnrtCcZ/9KBWPhs4BFbFlNCks=;hjQRvX8LaDk6FhSO3nZYJQ=="
 ---

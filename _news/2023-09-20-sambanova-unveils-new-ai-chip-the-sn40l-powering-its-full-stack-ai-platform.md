@@ -7,8 +7,8 @@ originalUrl: "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip
 webUrl: "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: insidebigdata.com
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova unveils new AI chip to power full-stack AI platform"
-    excerpt: "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite."
-    publishedDateTime: 2023-09-19T16:24:00Z
-    webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
   - title: "SambaNova debuts self-configuring AI chip with 140 cores and high-speed memory"
     excerpt: "The SN40L is based on what SambaNova describes as a reconfigurable dataflow architecture. According to the company, the technology allows its processor to analyze an AI model and automatically map out its internal structure. Using this information, the SN40L configures itself in a manner that maximizes the model’s performance."
     publishedDateTime: 2023-09-19T20:06:00Z
@@ -53,15 +39,6 @@ related:
         width: 1065
         height: 642
         isCached: true
-  - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
-    excerpt: "SambaNova Systems, makers of the only purpose-built, full stack AI platform, announces a revolutionary new chip, the SN40L. The SN40L will power SambaNova's full stack large language model (LLM) platform,"
-    publishedDateTime: 2023-09-19T15:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
   - title: "SambaNova announces SN40L AI chip, capable of handling 5 trillion parameter models"
     excerpt: "SambaNova Systems has announced a new artificial intelligence chip capable of running models up to 5 trillion parameters. The SN40L is designed for training and inference, but is only available through the company's wider platform 'the SambaNova Suite' - a combined software and hardware offering."
     publishedDateTime: 2023-09-20T12:27:00Z

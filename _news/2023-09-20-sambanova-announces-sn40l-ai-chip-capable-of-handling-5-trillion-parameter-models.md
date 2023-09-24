@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SambaNova unveils new AI chip to power full-stack AI platform"
-    excerpt: "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite."
-    publishedDateTime: 2023-09-19T16:24:00Z
-    webUrl: "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
   - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
     excerpt: "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,"
     publishedDateTime: 2023-09-19T17:47:00Z
@@ -61,15 +47,6 @@ related:
         width: 1065
         height: 642
         isCached: true
-  - title: "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform"
-    excerpt: "SambaNova Systems, makers of the only purpose-built, full stack AI platform, announces a revolutionary new chip, the SN40L. The SN40L will power SambaNova's full stack large language model (LLM) platform,"
-    publishedDateTime: 2023-09-19T15:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/09/19/9883820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "byLMOgcWrZY3wPq3n0ONcE/fS/cq7VUX+lZ+fVgxYd7C1zT96NMQjBwllMNZ92ylTrO2DImG7zzER35liOi+L8Peg0j48LNhAaIJIBUzSEWP/3jiS53l4LPcnUgcjzwnF90Pc4HnjRJcCmZ2ybhpe3NCpjEN+zHGFy5nTStEhEMyHNLCYAJeMks7cmmMWjEkH+SOTDCXsQaOgeiGhsMOtTbokJBASqGxi05qLeqkrs1go7fHN1BNSvChoMJ+/hccoROqZp0kWSacZ94uTjCwolbPxWBPhhfuoXeCshTvDyPN/cCfSZyu4XMCb9TDyGi5WLqQhAozHPbNeVcNHrD73YrMUhQavxCfS2hy9+QoB9a0T6ynNy5V7/UkbqbP38hFLc3d/vt4aDUwxPS7j4usqBVRrEmnXIZ6r3xNP80LOMtssNIWeWjc9n4zAyIUUkI41YvZxLPbwv7oLjf/1vDnPe4JqyFfDnQngLIvwNhbh0SDl4OFc8K3Fi0XS3CofSfHPrGLLjXiihTOdqgWTrmBqA==;GmGc3Kx9wSUTubdnxdBIwQ=="
 ---

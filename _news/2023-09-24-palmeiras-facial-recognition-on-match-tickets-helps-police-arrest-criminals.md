@@ -2,30 +2,26 @@
 category: news
 title: "Palmeiras' facial recognition on match tickets helps police arrest criminals"
 excerpt: "Facial recognition technology used on match tickets by top flight soccer club Palmeiras has helped the Sao Paulo Public Security Secretariat (SSP) arrest 28 criminals in four games at the Allianz Parque stadium,"
-publishedDateTime: 2023-09-23T20:37:00Z
-originalUrl: "https://www.reuters.com/sports/soccer/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-2023-09-23/"
-webUrl: "https://www.reuters.com/sports/soccer/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-2023-09-23/"
+publishedDateTime: 2023-09-24T09:37:00Z
+originalUrl: "https://www.channelnewsasia.com/sport/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-3794426"
+webUrl: "https://www.channelnewsasia.com/sport/palmeiras-facial-recognition-match-tickets-helps-police-arrest-criminals-3794426"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/5u-YtQGmit2NfwDzEWotuEAlSRE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJ4S3UEYZZKJPOFRW55M7GMOB4.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--k2XtFHKM--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-23t213700z_1_lynxmpej8m09g_rtroptp_3_soccer-brazil.jpg?itok=ZTD25wFy"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 573
         isCached: true
 
-secured: "/XkrYKc2b8TMmSj/lxeEllSHngX6RPMdv12DTF+okSS52dE6pjaKwP5a8YlWCAXVtd1Ewm5oVJSAixAL+lWRBAiEOhbFZJaANxJkv3CX2VfMC95kd1DDXGlaCtVdnJWMAkKGpC9QEnBVUdadfIpTOLKW5a/3d++ZZe6yFot8Md/R1W45Ge/ZRD6os/VuwmtdffTwkmnCgyXO2/LNAhv4k6RXcHA9uFAHla2YxgXT22zXpjfpCtnaHs98+YqnrJkynIu9EA0uZaETK873UyWRnEplrDUvf/ScITBTFFFUq0oIpLQJCMumiDusuY5RCPyM3/+5QrWnVN+RVXBxvU1f73kNXF7vh9zzJQBRMWizi70=;veRpe9NYGX1m7jin/ZMpZA=="
+secured: "esvkNYqbuUmq0z8FQHrvJzm+eVCnartY4CuiOOX79Za9N3tPCfqrCSS5GPEGS1aPFze4AT+YY35GJq2+ZcMyZZI47Yj4xbOy272v7KYtjLDtwprxe5Jd6d+B/4bUBiY46AnPkopzOWb+p/M1Gwd+Og4BUSp9GiJ+q5L707U1t2qmFg/fDGKGNWMgv96Bugafbbzax01/4l11yvNV5UDmDMsrcM5s8OBRGTG6xgkFUjsQTGdwAX3atZyJyvcI9z08cUHQcGzDaKQuggF7u8kZwBdXBzme7IZuEEsIA6vDkegOyKGE6lCgYio6IFVwDRLRD/Uk3KADLXUBca+wlKwYF9po2/xKj83qhAeB5yI+8Ds=;6m5WN0qeDXxqr4NfrvQQ0Q=="
 ---
 

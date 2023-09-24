@@ -43,19 +43,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere"
-    excerpt: "At its third annual Intel Innovation event, Intel unveiled an array of technologies to bring artificial intelligence everywhere and make it more accessible across all workloads, from client and edge to network and cloud."
-    publishedDateTime: 2023-09-19T15:35:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/intel-innovation-2023-empowering-developers-to-bring-ai-everywhere/article_d5985576-3c70-5561-9bc5-4d0383f4af15.html"
+  - title: "Using generative AI to drive citizen engagement and empower the workforce"
+    excerpt: "Google Public Sector CEO Karen Dahut urges government leaders to get started with generative AI pointing to early successes of public agencies."
+    publishedDateTime: 2023-09-20T19:33:00Z
+    webUrl: "https://fedscoop.com/using-generative-ai-to-drive-citizen-engagement-and-empower-the-workforce/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 38
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/d1/5d1c2758-e4b5-58b9-b0c6-af6286e5ae6c/6509c1baa93ec.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/site//5/GettyImages-1245360295-2.jpg?w=507"
+        width: 507
+        height: 337
         isCached: true
   - title: "PA state govt will prepare to start using AI in its operations"
     excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, Democratic Gov. Josh Shapiro said Wednesday, as states are increasingly trying to gauge the impact of AI and how to regulate it."

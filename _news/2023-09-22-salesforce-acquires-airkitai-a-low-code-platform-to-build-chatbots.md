@@ -43,15 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Oracle Adds Artificial Intelligence to Marketing, Sales, and Service Applications to Help Customers Grow Revenue"
-    excerpt: "New AI capabilities in Oracle Fusion Cloud CX automate processes, improve insights, and enhance employee productivity  LAS VEGAS, Sept. 19, 2023 /PRNewswire/ -- Oracle CloudWorld -- Oracle has added new artificial intelligence (AI) capabilities in"
-    publishedDateTime: 2023-09-19T15:17:00Z
-    webUrl: "https://www.cmswire.com/the-wire/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 30
   - title: "Salesforce to acquire AI customer service startup Airkit.ai"
     excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
     publishedDateTime: 2023-09-23T12:19:00Z

@@ -24,22 +24,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Government Supports Police Use of Facial-Recognition Cameras in Israel"
-    excerpt: "Facial-recognition cameras will be employed to “prevent, thwart or uncover serious crime,\" according to the bill."
-    publishedDateTime: 2023-09-19T15:28:00Z
-    webUrl: "https://www.jewishpress.com/news/police-news/israeli-government-backs-police-use-of-facial-recognition-cameras/2023/09/19/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 24
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/2023/09/Security-Cameras.jpg"
-        width: 725
-        height: 482
-        isCached: true
-
 secured: "k+SGtFDioO4NC9bL2XBCVkez2UrodPYnr8n8usdPI2NIVsW1nWSRXEI62FKP6RVpveaCqldAFk9L1cy2VM98cAocy9ib7G00/iUsCS0nBfvSDPkNLH6EJToA8wMkVTp52sIKy8WcGjDSEcO/u10dkQiGti0/G9RIMwDHcbbhPVdZEzkJ9l2RLahZb4a/bu/wjv4ahMv/NsR8vqKOOFf33dJ+lR1dc13JxxCkOkElehMQT7XQcmhy1FPQmlXyPzejWxcM+g+z8/eYQgMp3h0d9YxkkYjaWwq/DLfKH+s57AkWREwaYm4eoTPNFPQcO0z5AQP22IfJLuIXiQb0TBXnJwIXNFgG86eukq5ixFjkTyFiefTrnasPWKvmGoDfQCtak44KlBrctccu67IZpQo3IeEBCYW/svp+jMnmcgUhXH5OnVSG4ojj4Yzfakhg2d+yskXZgbEMBNQs6RTFd5i/f5d2e6HJ/FZ2+bxNxqaTIT1G5oSHBYY7VaT3VvKAY86luNKH7sefAfuY2Jzz9iL6uQ==;NpYcp3xGyoFdPGnkkvA1rw=="
 ---
 
