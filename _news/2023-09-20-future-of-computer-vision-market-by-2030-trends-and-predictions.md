@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/34763171"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34763171"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,34 +27,18 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Analysis Trends and Top Key Players 2023 to 2030"
-    excerpt: "The Global AI In Computer Vision Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate and with ..."
-    publishedDateTime: 2023-09-20T08:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34753345"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34753345"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Artificial Intelligence In Stadium Market 2023 Is Set To Fly High In Upcoming Year"
-    excerpt: "The Global Artificial Intelligence in Stadium market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players, the market is expected to rise over the projected horizon."
-    publishedDateTime: 2023-09-20T09:30:00Z
-    webUrl: "https://menafn.com/1107104389/Artificial-Intelligence-In-Stadium-Market-2023-Is-Set-To-Fly-High-In-Upcoming-Year"
+  - title: "Global Web 3.0 Market Size To Reach USD 81.5 Billion In 2030 | Emergen Research"
+    excerpt: "The global Web 3.0 market size reached USD 3.2 Billion in 2021 and is expected to register a significantly rapid revenue CAGR during the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2023-09-21T17:19:00Z
+    webUrl: "https://menafn.com/1107114383/Global-Web-30-Market-Size-To-Reach-USD-815-Billion-In-2030-Emergen-Research"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 31
+    quality: 20
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?345659"
-        width: 524
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?614734"
+        width: 444
         height: 250
         isCached: true
 

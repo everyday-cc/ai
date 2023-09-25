@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-a
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Top Five AI Programs to Create Content for Real Estate Websites"
-    excerpt: "By utilizing these AI programs, real estate agents can save time, improve productivity, and ultimately achieve greater success in their business."
-    publishedDateTime: 2023-09-20T17:10:00Z
-    webUrl: "https://realtybiznews.com/top-five-ai-programs-to-create-content-for-real-estate-websites/98779341/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 19
 
 secured: "gmmMdlnDafCozecgcyM1oU/DnVsIlNjga1VxM3cAShL+e12VCQXXbwbkZIhQS6WFka7y2LADWjxVyqx//Onfp2i4tXTjQkAvveG/r71GE7Dtt+siXSONK9YiKdvXeWmhW8hRIw5qIQi2ocPnBbWPIYRF0mwlPhJJcGIs7F2QoPsEiW6vHxA22EN4Mkw0auhP/E7oJH/yasxTZFEWb2xSrad9K/cauRDyj6MFq00zvuW85IVVLRrgkTufQj8NOYVCt4klVVSwa+a1vJjwlYzvnEZgrFweanCzD1hNnPYge5FJVotYzAPyppN+E9tuPA5nbI8l1Ur3qtmYs142DkpdNCyhUE7eDtJm6XwwsavcYrwbjHmS78+WsoHy5/PYd/ahVvTZE2GCkS/TYCFm7AFFIWRuZce4jmFkzzPOiaPFnf9AOBO1ON2mTSIrM8K/g8JxXlrDh9BH5+/w1/wYK4asS/fkdJzqpqkKRx+m7rRmZenFR+M6i5Qs5JMwDJXV7eZ2E5r+oFlKRLpI2H3kBDaIyA==;peoPmsjVzsdqJeirQu58sQ=="
 ---

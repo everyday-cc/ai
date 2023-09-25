@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pa. state government will prepare to start using AI in its operations"
+    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
+    publishedDateTime: 2023-09-20T21:31:00Z
+    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
+    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
+        width: 3807
+        height: 2538
+        isCached: true
   - title: "Pennsylvania state government will start using AI in its operations"
     excerpt: "Pennsylvania will use artificial intelligence in its operations, Gov. Josh Shapiro said, as states are increasingly gauging the impact of AI and how to regulate it."
     publishedDateTime: 2023-09-21T01:16:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What’s Next in AI for State and Local Governments?"
+    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
+    publishedDateTime: 2023-09-20T18:32:00Z
+    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "Bz5KqSweCfPRglKyTwWrtuxs6LYiXTOzuUYMU85+caRJSpSS1GfOiGXJge1RN9RqxKv7JKqqEqwDHrxOSrNzRi5rbGGKjDi7M6NDUxq9xeO2i04oc5HcC6cTEtslEzEr6jEKKcqOTrhktXyeYuFLXnHU402k8TyQ9qNnPA/kHpTkTlZpNljGjI3XA3K3ivwA9s4ue7e+bqEQgW48vKeEAmSGUCiJSMQIB4rhJOtHarbPCBpu2byzaFIPDZrsOsZetsOAamG525MEV5MX2Msr0j2mxpdOKfTNyPrDWBlqhSXB0GmVbZY+qU35c2UA726J1m2j1+OTMqFEIxBtSpj5fGhn4uxf/rOYAq5s1EZqNy1CLEez+so+ryL7H82OKW1JC8FnyXjLNAa0gEmw6ksrDX/KKXtuaeofFUVTK6t4haS6WX13s1YVifago2FMYT26PcJipWfwuG2aMUzNoRUiBzCNqt+zPIpRRWlzN+XwxQ6CYKpzrnpvvpX7w9tySPtfN4vOVv1dApr5TIDrE+TOPw==;b6xHX9sgTp4XnkzvFcscdQ=="
 ---

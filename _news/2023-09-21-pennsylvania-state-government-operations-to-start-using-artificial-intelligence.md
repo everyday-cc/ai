@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-state-government-opera
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp"
 type: article
 quality: 83
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media.phillyvoice.com/media/images/joshshapiro.2e16d0ba.fill-1200x630-c0.jpg"
         width: 735
         height: 386
+        isCached: true
+  - title: "Pa. state government will prepare to start using AI in its operations"
+    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
+    publishedDateTime: 2023-09-20T21:31:00Z
+    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
+    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
+        width: 3807
+        height: 2538
         isCached: true
   - title: "Pennsylvania state government will start using AI in its operations"
     excerpt: "Pennsylvania will use artificial intelligence in its operations, Gov. Josh Shapiro said, as states are increasingly gauging the impact of AI and how to regulate it."
@@ -92,6 +108,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What’s Next in AI for State and Local Governments?"
+    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
+    publishedDateTime: 2023-09-20T18:32:00Z
+    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "AoyLJZNwnh3OuMLkbZWcA/Qi3d1Fw+Dy5tWLeo32la31voQ7pJYBuAB4rVnxdMr68R8JYKOETgHZkQe39PeoxAJM9jBcm+CtzMsCi42JFS6sjKc/ypJ97/GmvIyOc0Y1C6VLQpmbpW39PgC8rluyOWAVSMaVy62grJr0Qgnh1vtS68yc7G1YgpZQNG20wIKoR/YCEgbMrTjGARf18uXswazAft9CNeZDMic+DXp+/CZ5YqCCrENSkPtvHhD8WH7kk+1P+hxkiHZW2EyJJER+pYR7NRhqmMfKhfMxXqb2tBeJCmKS5E3fF/ev2/CbLSt6dXZ7gUdp452sDh/auWcb5fbd2tYyQ2FA79kTi+7mDoF9bHsiiKpAC3XCWFwPrV3fy1rRY484KbO5ZDcTS5EZ+3Nn7YMVhKn2mF0PWHlImOyClMJKAapjNYMSxvVwtyGJ5PvSybJ2Xvj4tKe6yWMY3HSYVrwrIpNR3lKq6zPPHWoglHSzPuN7/c9ru0goTOrKVgJWcr1o3yHzVic292X4+Q==;u7bkYXDNQ0tVft3+IrUzuw=="
 ---

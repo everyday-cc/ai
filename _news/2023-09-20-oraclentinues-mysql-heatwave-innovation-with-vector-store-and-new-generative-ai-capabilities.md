@@ -43,6 +43,20 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "and machine learning-powered automation within a single MySQL database service. A core part of Oracle’s distributed cloud strategy, MySQL HeatWave is available natively on OCI and Amazon Web Services, as part of the Oracle Database Service for Azure, and ..."
+    publishedDateTime: 2023-09-21T17:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "xPRScxwb3gaQBvHXnl0DZlGOugCxrYZBB8kz1w6PvrKYWAJiEZMTxudNSuBRQUmM5hFDJrQt5iE35XkLaGoWZo9tLU/hoDtlUC7t3gZNQTCi+jGo5yr1mOlOZsfoyNTPwXGjVWoos2sJhu8aevlPWnIx40Gt6wDfKMf9uYhG/oyEsdsvNUqaBIIyQcivPUWXl5eyBNFWz+RptjpaA9xpuUmU41cmu4T13d7jG1y0HjJcr4i1SAu1Hidq6QK6hrdQIpOXZTp0gLa7SJxF5woUdtwjJsYLuBO/2mu+KVtGzqASkvqsy2Y6TrTt36SFRZm+xxo4uX3vNknOqhyHIFHSTUNWvhqrYViYLj+iwAud9M8=;6jX4UeBkSi39X3XeM+qNqA=="
 ---

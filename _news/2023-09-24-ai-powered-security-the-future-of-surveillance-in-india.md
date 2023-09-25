@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Emergence of AI in Cybersecurity: Revolutionizing Threat Detection through Machine Learning"
-    excerpt: "Fortunately, the advent of machine learning is offering a lifeline, equipping cybersecurity experts with unprecedented tools to pinpoint and combat digital threats effectively. In this blog post, we will delve into how AI and machine learning are ..."
-    publishedDateTime: 2023-09-20T08:03:00Z
-    webUrl: "https://techbullion.com/the-emergence-of-ai-in-cybersecurity-revolutionizing-threat-detection-through-machine-learning/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-20T090019.575.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "0grr39U8+VNrYKbUNcqJbcGZlLUl26pRPBR6SSSFp0wkjNO+3nvndo2LQKOhRLpTnzFhUAHmOu/hj2bbQVzMKYFG5vxibMPFd1OEla6+hvPcDLLS3kUufgviDcI9kDmxBmemusTpPFHn79wciINK52hMhV0q3pvw6sz0Xv9aYJQSBjLqZUMUuqhgsis1QCEqT9Mv/yJJR4z8tmKiKEl6QCIVmFL922O55WDA89bElg5Uy/aBe83jUks/y1+Igj1QN1lRFgFhg+pNpls9XAK7axxHYRRSIPKBusBlZFVAemYqimn8V8uoezavd6aWBQgAJuBwfPu3LpS9XOGZkIFjnQjdpIZ6hi1DUHHpLmvgCGO15y9OwdLatozeXVT0teSfxBHVoJJqUNhQ7DYKb69f/YSsFkz/8gtrkOT3Nx+kEWfDZ+ftPXYuy4/40b5KCwoOOwah5g6R9oCi8XVgiYu6iAG35Xx9e+DCCawIHZ7pSSceJY2q2W7pRjk2qrDi5jfB0FxIeCQ9wNILFq8zQD1wfQ==;0fLIszR5iMYLeiP3SfkPNQ=="
 ---

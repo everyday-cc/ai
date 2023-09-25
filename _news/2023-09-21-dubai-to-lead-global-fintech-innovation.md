@@ -66,20 +66,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 59
-  - title: "Is all fintech just AI now? A look at Finovate New York"
-    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
-    publishedDateTime: 2023-09-20T08:00:00Z
-    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
-        width: 2803
-        height: 1578
-        isCached: true
   - title: "3 Fintech Stocks That Will Handsomely Reward Tech-Savvy Investors"
     excerpt: "However, these factors have also brought other fintech companies back to attractive levels ... The company has also recently introduced its new product, Intuit Assist, an AI-based financial assistant that targets both consumers and business and help ..."
     publishedDateTime: 2023-09-22T15:46:00Z

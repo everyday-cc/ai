@@ -40,17 +40,17 @@ related:
         isCached: true
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
-    publishedDateTime: 2023-09-24T23:36:00Z
-    webUrl: "https://www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-    ampWebUrl: "https://www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kwch-com.cdn.ampproject.org/c/s/www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    publishedDateTime: 2023-09-24T22:36:00Z
+    webUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-14news-com.cdn.ampproject.org/c/s/www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
     type: article
     provider:
-      name: KWCH
-      domain: kwch.com
+      name: 14 NEWS
+      domain: 14news.com
     quality: 48
     images:
-      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/bS2X572cFLujU4a-6z7Sr0-YifQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DJ5PKWPBRVESPBOYVNPK4SVEJU.PNG"
+      - url: "https://gray-wfie-prod.cdn.arcpublishing.com/resizer/YWrBHKNqfpN0IrYPppSsbWovxCc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3XMKK34BRFH4LK652MTXWNT4FM.png"
         width: 800
         height: 450
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow targets service management with generative AI integrations"
+    excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
+    publishedDateTime: 2023-09-20T21:52:00Z
+    webUrl: "https://www.ciodive.com/news/ServiceNow-Now-Assist-ITSM-generative-AI/694275/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
     excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
     publishedDateTime: 2023-09-21T00:00:00Z

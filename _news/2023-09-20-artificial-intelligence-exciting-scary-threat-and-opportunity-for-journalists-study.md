@@ -23,6 +23,17 @@ images:
     height: 738
     isCached: true
 
+related:
+  - title: "AI wrote this editorial, and it argues that human journalists should keep their jobs"
+    excerpt: "Microsoft’s Bing Chat AI was asked to write a newspaper editorial arguing that artificial intelligence should not be used in journalism. Here is the result."
+    publishedDateTime: 2023-09-22T15:01:00Z
+    webUrl: "https://www.seattletimes.com/opinion/ai-wrote-this-editorial-and-it-argues-that-human-journalists-should-keep-their-jobs/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 12
+
 secured: "0CEJmiqDdE1PBbpclEkIhT6PY09Yh0haQa5t75nBg+sFR4KE2/8tSAalkSOvPSfTZA3WEvxJ39+gQYNy1zEMAu50Vdr14sLNM8l1mKorawVjG01DTFtG9ES+JyqaZHzmf61B5TYsMRfGVugg8pM7uP1gaAeRcKE9GGShqdnE2Lzm3KBn+G7VtSvGEAiyKxLQgs3ncwxdc51ZNK8b5uF09pgEhPBYsp8aloej7ufKvkuSW4yKHmOuWZhVCo2CfX2UDB9lYgvfha7Mmk5U2aWgASNbcup9xbi/N7HBA7l0HmIxOmpX8MMebluzN8YCd8bCnxTKkjVAVNd0lheg7KQmphCoztaKXVRtKnRatt3kKuw=;UumfmBD8UV/izyiycXShfQ=="
 ---
 

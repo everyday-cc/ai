@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/09/21/1079805/bolstering-enter
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/21/1079805/bolstering-enterprise-llms-with-machine-learning-operations-foundations/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -41,15 +41,6 @@ related:
         width: 1043
         height: 707
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Media & Entertainment Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-09-20T19:22:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-1122807/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 8
 
 secured: "Dq/2yQVtDYZs1l+LoothFNID3X4hC1AIoP/cjBrQnn0Wp7QDytMGsYdvjIvbDUzbd4lXsEuKTO3XY/z5z3bBO4WA4KmYIe6kDRvxQWq1FKjj7seqlU3O7GrlrYFCLGP5m5mfhRY7l7JULKccvo5F8A7cYuEKedi7b32gm4p/qxW6xR74+uh0gX4HHF8hJEjLj2itW5sNvAvKz7WPl4ZbuT87e9KAW2jAf0UwBdBf5YKU3Q3o7NaxYIyoD+0nfW0cZZZQNzKYzmLLK+L87tNLReLlvLlvvjgUutqQ9OSNID68dx+ABF6ce2DGhwcGeodT8mDQUXIrRVxgeGIguy3Ah6aQAgNN8zanL1ugSJaRQEY=;Ow71rIkQQumHp1FJghPTbQ=="
 ---

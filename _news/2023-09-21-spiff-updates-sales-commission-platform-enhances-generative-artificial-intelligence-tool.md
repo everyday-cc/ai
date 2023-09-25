@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deloitte India Collaborates with AWS to Boost Generative Artificial Intelligence Innovations"
-    excerpt: "Deloitte India has unveiled a strategic partnership with Amazon Web Services (AWS) to further develop generative Artificial Intelligence (generative AI) solutions for Indian enterprises. This collaboration aims to assist businesses in sectors such as ..."
-    publishedDateTime: 2023-09-20T08:24:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/deloitte-india-collaborates-with-aws-to-boost-generative-artificial-intelligence-innovations-nid-225455-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 43
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/6I8fSuA1.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "eVRXrhuwfaGK9NeTdnyM8HSG1djENdsgOJably2tPKcSgpwp5ZaKGnUmCCNOG+MQcL1vZAYJIQfrXRNbL267tPx4xEe6I1sCQ3CBDJDhqwyK4fExkytd+GHRpVLC7v2vdgPyfGnLaRya0u6fPoampgJbHS51w89FYWJYX9xO4L96H8UEPPFfHVjYeO99XdLZdB0xstgg7Fg49mBNg262K+nsYHh8hMKBMybD1l2zjEysn42HZmVXI8drKKjWR/fycmMbd0puqUaoe9Hnzu8QXOvnHOno/TtB48VrKowghecdpK367hLDimLa8fedCoQI8lT7ULREaZ2BTGK9QhwtLxE16vTmzKaS4KvtXmValbQ=;W9putGEJmIDBwVzmKY1tdA=="
 ---

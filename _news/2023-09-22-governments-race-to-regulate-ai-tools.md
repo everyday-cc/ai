@@ -28,91 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "What can AI and generative AI do for governments?"
-    excerpt: "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-20T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
+  - title: "Is it possible to regulate artificial intelligence?"
+    excerpt: "Physicist Reinhard Scholl is the founder of the UN's \"AI For Good\" programme. This aims to find and implement practical AI solutions to help achieve the UN's sustainable development goals. These include everything from ending poverty, to eradicating hunger and giving everyone access to clean water."
+    publishedDateTime: 2023-09-20T23:06:00Z
+    webUrl: "https://www.bbc.com/news/business-66853057?at_ptr_name=twitter&at_link_origin=BBCNews&at_bbc_team=editorial&at_link_type=web_link&at_format=link&at_campaign_type=owned&at_link_id=6BF50DD8-5816-11EE-AB2F-B83EFE754D29"
+    ampWebUrl: "https://www.bbc.com/news/business-66853057.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66853057.amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Optimize generative AI workloads for environmental sustainability"
-    excerpt: "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning"
-    publishedDateTime: 2023-09-21T16:48:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: BBC
+      domain: bbc.com
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png"
-        width: 906
-        height: 412
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C318/production/_131144994_gettyimages-1352002665.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "The Real Test of Government-Regulated AI"
-    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
-    publishedDateTime: 2023-09-21T14:13:00Z
-    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-855174/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Pa. state government will prepare to start using AI in its operations"
-    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
-    publishedDateTime: 2023-09-20T21:31:00Z
-    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
-    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
-        width: 3807
-        height: 2538
-        isCached: true
-  - title: "UK Government Announces Major Initiatives in Artificial Intelligence Policy"
-    excerpt: "Viscount Camrose, Parliamentary Under Secretary of State for the Department for Science, Innovation and Technology in the UK government, revealed significant developments in the country's Artificial ... the Medicines and Healthcare Products Regulatory ..."
-    publishedDateTime: 2023-09-21T10:04:00Z
-    webUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiatives-artificial-intelligence-policy-1719730"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 37
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1718050/ai.jpg"
-        width: 2500
-        height: 1696
-        isCached: true
-  - title: "What Generative AI Can—and Can’t—Do for Contract Review"
-    excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
-    publishedDateTime: 2023-09-20T13:17:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/20/what-generative-ai-can-and-cant-do-for-contract-review/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
-  - title: "What’s Next in AI for State and Local Governments?"
-    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
-    publishedDateTime: 2023-09-20T18:32:00Z
-    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "NoHbxSYFxbjgn15Ipyorja8CaQahlXyF5rAX+1Yq/lkFOvRkR9wupTlOZ2by+PXca7Vh1HaFVUG56pJ5Khs+sn8ROBylEbREnfLjc9VOHXoJc+WBTBjVlrF0r349JX7tvIdiGGn5vRwdlhswu6fwEk9qTkXUgilUkEBX6Lzr74DyP7M5MO2pQeVXWRr5rJc4VPrhWPS80goIuTAuv30KexH7gKMonJE6gjjd2cL+zp+EXaVfeCcQykbSIsSHxSvc0jEXUpgE0FJ9l/fmX0whhBk/n1djyR4/EF/X2VtQURbkhzwGNC7O2F4CIgxVdRgKL4eBqQ4bkQVpl4S7TYBvMu51pnb4swxHSYGC5jqTE5yfO8qcBh2b+dz2oboProGVsrk6jPvHly0HKVHhAFXK/7w+WjDFGGS8o7/wCBFa8Ydzi48GYZHUPik6tO5qGMDu8OI2OfpIa6Xvpl9AdsTBWuBIaLhj/op8CktXgvgbOeHcaKWglbK/FLTy0NDWV9hrbBo/sHI1PLthbkqtxc4A0w==;yv7Wp0JJ/5hC9aNKxL0V5w=="
 ---

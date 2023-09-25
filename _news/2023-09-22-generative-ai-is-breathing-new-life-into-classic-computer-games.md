@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is generating change in newsrooms worldwide"
-    excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
-    publishedDateTime: 2023-09-20T14:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-generating-change-in-newsrooms-worldwide/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "Generative AI already being used in majority of college classrooms, according to new survey"
     excerpt: "A new report from Wiley suggests that generative artificial intelligence (AI) is already being used in the majority of college classrooms—and that number could climb quickly."
     publishedDateTime: 2023-09-21T20:03:00Z

@@ -42,20 +42,6 @@ related:
         width: 2359
         height: 1270
         isCached: true
-  - title: "AI chip startups struggling to raise funds"
-    excerpt: "An interesting story in the financial press last week that suggested that Nvidia's dominance of AI computer chips is actually freezing out venture funding for would-be rivals."
-    publishedDateTime: 2023-09-20T07:43:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/blogs/ai-chip-startups-struggling-to-raise-funds"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/scpnd3ae/ai.jpeg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3 Machine Learning Stocks That Should Be on Every Investor’s Radar This Fall"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning has become one of the most transformative technologies of the"
     publishedDateTime: 2023-09-22T12:01:00Z

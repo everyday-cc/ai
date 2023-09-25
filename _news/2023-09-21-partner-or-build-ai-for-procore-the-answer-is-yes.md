@@ -7,7 +7,7 @@ originalUrl: "https://www.forconstructionpros.com/construction-technology/articl
 webUrl: "https://www.forconstructionpros.com/construction-technology/article/22873765/procore-technologies-inc-procore-partner-insights-from-groundbreak-2023"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Procore Announces AI, GIS and Other Initiatives at Groundbreak"
-    excerpt: "The construction project management software leader came to Groundbreak with a massive traunch of AI functionality and partnerships, a new GIS offering and tools to improve user experience for subcontractors."
-    publishedDateTime: 2023-09-20T13:29:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/project-management/article/22873608/procore-technologies-inc-insights-from-procore-groundbreak-2023"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 19
 
 secured: "SPBiOAF2TAs2TacOWbpeB4gaeFgtQTktliK8DrqKaqogqYpjlIRd69tCoVwlfSxVgPmrDnwCC0WiP3K5JU2txXzSOc1eCPdsPuSW1DGfG04Z+zZbV1oQMzUQ0k9egGwY3uA6CIwMHDRe+mdkdFlV64i6KH0pmyeyKH007rAIxzIK5JZqGOC3A/vkeV+WYWFzMao82FFpy2nt6P7fXI1JZ+3uyuQjCUwDdn4+CTQmwHrdKPRiqN+vDPpz9x/z3HDvSooQG9qb2WYHKk16aR4apdzKRt4DRcDfnoJcAtpekSefsIq9J5qMyIyrco2SAgyN7g9Kv+HmEwP1f6b1SKnvOhxEDMaDZMRMkV7U+C7n7fdPX1KB9gA1ngtcOYZI2UX1UGWi13b1Y2g7IwkmzNfMkY0X9oEguPWPiVWjyEhhpjoff1+53LUkZ14W90wjY4EhiSz7z4A1DhgckDUY/1+bYqkGH+ZeftV7OtllR+t6r26pct+FbE11RfE3SEZ/CIC3RDIFpiT4y1zBekbHcY0MpA==;PBM4Uz8F9T12j65ka2hSXw=="
 ---

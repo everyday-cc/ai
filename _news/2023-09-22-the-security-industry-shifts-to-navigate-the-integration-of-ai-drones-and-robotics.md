@@ -52,20 +52,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Is all fintech just AI now? A look at Finovate New York"
-    excerpt: "A look at Finovate Fall, where the dominant conversation was artificial intelligence for fintech firms. The challenge? Weeding through the marketing of AI."
-    publishedDateTime: 2023-09-20T08:00:00Z
-    webUrl: "https://www.altfi.com/article/is-all-fintech-just-ai-now-a-look-at-finovate-new-york"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/5CRyvIzsXGIkeNguqxkHgW/fc798b0a14432aba024a69bdfd7f6341/IMG_0833.jpeg"
-        width: 2803
-        height: 1578
-        isCached: true
   - title: "Dubai To Lead Global Fintech Innovation"
     excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
     publishedDateTime: 2023-09-21T03:47:00Z

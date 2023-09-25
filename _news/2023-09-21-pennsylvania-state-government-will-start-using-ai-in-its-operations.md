@@ -58,6 +58,22 @@ related:
         width: 735
         height: 386
         isCached: true
+  - title: "Pa. state government will prepare to start using AI in its operations"
+    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
+    publishedDateTime: 2023-09-20T21:31:00Z
+    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
+    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
+        width: 3807
+        height: 2538
+        isCached: true
   - title: "Pennsylvania state government will prepare to start using AI in its operations"
     excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
     publishedDateTime: 2023-09-20T21:50:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What’s Next in AI for State and Local Governments?"
+    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
+    publishedDateTime: 2023-09-20T18:32:00Z
+    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "0DSiVD22qrU6sBdFbJ9q467b+bidN92Dcnj7aiqGWyvYps7lZEpju7Gk6E41msSexSQF5VmBLSCVN5qoWC7X6U6fJB1y0XPhC4jG9CDbAVZ9eHSFpGigJ9nz/qFFO2EuF3yjd9LgWOdd6qL4DPs3a1XaX1wmYdmRe94oH4gxXiV9C5sTPx5Il+NAqwPB4ak/4nC+2LLz/Y3E8VSYDj+B1m43+NZvwf/caXQ7IM4zCT+MKupK8K0MdbIvz0Xs8vGeUV5QwrmWeYIxVfvF7QdKOFmneOVRL14Ne0T0trdd3A+sNaYdmKr2UHqO1nxKplqqqMi0HvcWyDvo4PxvOUPYh4nkOtfGnDK+AAeyATYKhJZUF4PIKeO3PU7wYhLhjwTRIqeEEK2ifTYdcU+WOYOoc9oKEXOthW9pvBHFLZTEqYr1NmJawsVkJ+j2n8x+5t3KexdDAoeL7E8ymZa7X8HBklqBdXFoZEt6uzGwKIjLn4P7wPuHOcvQGI23RXrqT9w8uZpkWckO+avu6baUBEdk+w==;fLa+qineQVF6avSLg+o/1w=="
 ---

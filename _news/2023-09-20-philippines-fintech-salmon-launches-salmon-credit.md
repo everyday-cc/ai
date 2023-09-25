@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/98098/philippines-fintech-sa
 webUrl: "https://www.finextra.com/pressarticle/98098/philippines-fintech-salmon-launches-salmon-credit"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Magazine’s Top 10 UK fintech CEOs"
-    excerpt: "Discover the Top 10 UK fintech CEOs driving innovation in the thriving fintech market. Meet the visionaries leading finance's future"
-    publishedDateTime: 2023-09-20T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-uk-fintech-ceos"
+  - title: "Spend Management Fintech Brex Introduces Tool to Streamline Work Processes, Increase Productivity"
+    excerpt: "Brex, the unified global spend platform, announced the launch of Brex Assistant, a proactive assistant that simplifies expense management."
+    publishedDateTime: 2023-09-21T02:10:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/09/213189-spend-management-fintech-brex-introduces-tool-to-streamline-work-processes-increase-productivity/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
     images:
-      - url: "https://assets.bizclikmedia.net/1200/af477ac6c25af0191223798b140fc1d4:5cde1633545bcd84e506648d00fbb5ad/gettyimages-1455167765.jpg.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "LyHwMxOnG1R0zpSEtwHDnGSIboEdEbIZ9lh5DJ5a7Un5+bS43+miagC6zyw8lJV9aF4tk9uteBzvyuBccepg2jIizQKjPGIUn0BdOaICle+pGtN2muHlqw/uwXJxiPBul/dduJ5G2ibRknoTSpno3cGKSrCI0mI8pzfWa8ybwwjq44nkF9FUbM5fDzL47zVW7h8Ye+icIZoT6mGh93qZGR0EDN6SmRiOt14bipZaJWPxjrUsz/afQRxZUF5fzUIdXvDcx3xDPDnuOgJDgh2psPyqktPrBCGlZB34a/2f3y96FCtkg7n8TpokCAC+C5o3ZQXTwU/s1klnvQzuxU21gmmJkVKF326hG/U5Zz0Ll9g=;vD5o5AUD//6XCBOYCbig+Q=="

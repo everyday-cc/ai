@@ -25,50 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle unveils its API-led generative AI service with Cohere’s LLMs"
-    excerpt: "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability."
-    publishedDateTime: 2023-09-20T08:25:00Z
-    webUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
+  - title: "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment"
+    excerpt: "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation."
+    publishedDateTime: 2023-09-20T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/"
+    ampWebUrl: "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://images.idgesg.net/images/article/2023/09/ocw-crowd2-100946179-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 635
         isCached: true
-  - title: "How Moveworks is Revamping Conversational AI with LLMs"
-    excerpt: "Much before generative AI came into existence, Moveworks began its tryst with it, starting with Google’s language model BERT in 2019, in an attempt to make conversational AI better."
-    publishedDateTime: 2023-09-23T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-moveworks-is-revamping-conversational-ai-with-llms/"
+  - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
+    excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
+    publishedDateTime: 2023-09-21T00:00:00Z
+    webUrl: "https://www.01net.it/octaipipe-releases-version-2-0-of-its-federated-learning-operations-fl-ops-platform-for-critical-infrastructure-on-device-ai/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/How-Moveworks-is-revamping-the-conversational-ai-space-with-generative-ai.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
-    excerpt: "and machine learning-powered automation within a single MySQL database service. A core part of Oracle’s distributed cloud strategy, MySQL HeatWave is available natively on OCI and Amazon Web Services, as part of the Oracle Database Service for Azure, and ..."
-    publishedDateTime: 2023-09-21T17:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 27
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "fqprus0DDmz5m3toTgLw+vOAk4DcDeJx9LtIX6XCZKQGH5puzMLIV6WBQ5PIch53ThibYR2sdN8ntImJdxWpyWTVMxbgbhOVlTTDo3rbHqdIuTb1TOmPEL7iJ/JAJiUPz2VX2XH4KeUcGbaP22tI7RsuHdMgbYUHiR3xv5i6HGrAEoBAspFLs+rEq1aLyDsDMD4KT0tbW3n54m0Qs8hdCpxYlGHmTi7SzN4/mh6DyQcxwwqMzS2jyTAYLPR+xkNkXGNf77Q5cNncMT4NZlAyI1egjsu+7twl5lH6Ucz2V3/u7atb8BafDzlkMOF7TtmRLNADnvjgdwVdva354+8iz5d0xy9moREo3n/m7/CIHlI=;JFyqwarMczFFYIVL4qglYg=="
 ---

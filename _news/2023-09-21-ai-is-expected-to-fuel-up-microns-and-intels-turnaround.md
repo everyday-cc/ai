@@ -33,20 +33,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
-    excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
-    publishedDateTime: 2023-09-20T08:37:00Z
-    webUrl: "https://trendydigests.com/2023/09/20/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips/"
-    type: article
-    provider:
-      name: trendydigests
-      domain: trendydigests.com
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/09/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips.jpg?fit=1200%2C675&#038;ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel details multiple new chip designs"
     excerpt: "Intel took the wraps off a number of new chip designs during its Innovation 2023 event in San ... The Granite Rapids processor will offer two- to three-times better AI performance compared to 4th Gen Xeon. The new Sierra Forest Xeon processor, including ..."
     publishedDateTime: 2023-09-20T17:34:00Z

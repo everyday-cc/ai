@@ -25,50 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle unveils its API-led generative AI service with Cohere’s LLMs"
-    excerpt: "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability."
-    publishedDateTime: 2023-09-20T08:25:00Z
-    webUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html"
+  - title: "Oracle’s MySQL HeatWave gets Vector Store, generative AI features"
+    excerpt: "Oracle is adding a Vector Store and new generative AI features to its data analytics cloud service MySQL HeatWave, the company said at its annual CloudWorld conference. MySQL HeatWave combines OLAP ( online analytical processing ), OLTP ( online transaction processing ), machine learning, and AI-driven automation in a single MySQL database."
+    publishedDateTime: 2023-09-20T12:00:00Z
+    webUrl: "https://www.infoworld.com/article/3706879/oracle-s-mysql-heatwave-gets-vector-store-generative-ai-features.html"
     type: article
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/ocw-crowd2-100946179-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ServiceNow targets service management with generative AI integrations"
-    excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
-    publishedDateTime: 2023-09-20T21:52:00Z
-    webUrl: "https://www.ciodive.com/news/ServiceNow-Now-Assist-ITSM-generative-AI/694275/"
+    quality: 49
+  - title: "Oracle’s MySQL HeatWave gets Vector Store, generative AI features"
+    excerpt: "Oracle is adding a Vector Store and new generative AI features to its data analytics cloud service MySQL HeatWave, the company said at its annual CloudWorld conference. MySQL HeatWave combines OLAP ( online analytical processing ), OLTP ( online transaction processing ), machine learning, and AI-driven automation in a single MySQL database."
+    publishedDateTime: 2023-09-20T23:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/708844/oracle-mysql-heatwave-gets-vector-store-generative-ai-features/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 39
     images:
-      - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vid-still-74-of-82-100714303-orig-100933218-orig-100942975-orig.jpgautowebp8570"
+        width: 472
+        height: 315
         isCached: true
-  - title: "How Moveworks is Revamping Conversational AI with LLMs"
-    excerpt: "Much before generative AI came into existence, Moveworks began its tryst with it, starting with Google’s language model BERT in 2019, in an attempt to make conversational AI better."
-    publishedDateTime: 2023-09-23T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-moveworks-is-revamping-conversational-ai-with-llms/"
+  - title: "Oraclentinues Mysql Heatwave Innovation With Vector Store And New Generative AI Capabilities"
+    excerpt: "MySQL HeatWave increases ease-of-use for customers with vector store, AutoML and Lakehouse enhancements, JSON, and JavaScript support<br /> <"
+    publishedDateTime: 2023-09-20T12:28:00Z
+    webUrl: "https://menafn.com/1107106299/Oraclentinues-Mysql-Heatwave-Innovation-With-Vector-Store-And-New-Generative-AI-Capabilities"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/09/How-Moveworks-is-revamping-the-conversational-ai-space-with-generative-ai.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
 
 secured: "EA/ku+nERGBGrZioe5I5ol+q8GJ7RwL1rbpNt9um6o1QxM8sZZVRqsIr0CS+v57zuIHAFz+zKHz/UdmKpRajADhgn1u2amavOtCjMS9DpoqWFbE+LPAQyXOxVlkmCfXd+6NjBRK26vCKL36gp01/qyTDej9+Pb3rZZQnGcraKiaHydpPEYPSA5/KVzxjCtRFYyzkfC8/63VN+GZYk4aBfUDpU0sfW4MxtA8JmpJS3t+Zl5+MBYjjKkRSfoy4a80qqiCHBoBIxiupizAZl7rnp9FtxvBqlsQJNVC+u8x6bzrbiNHGyRk1EF2BazUht/M65fxQ1fY5udPbQvmCnbMXjufrCaGfR1He+po2WDelLLE=;Sue3lqVo/OZ95i30eTRp4Q=="
 ---

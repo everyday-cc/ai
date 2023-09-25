@@ -75,34 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DeepMind AI predicts millions of harmful DNA mutations"
-    excerpt: "Google-owned DeepMind has released a massive database of potentially harmful ‘missense’ mutations to help speed up disease diagnosis."
-    publishedDateTime: 2023-09-20T08:35:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-google-dna-missense-mutations"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/09/AdobeStock_237602801.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "DeepMind applies its AI expertise to genetic diseases"
-    excerpt: "Google’s DeepMind unit has used its artificial intelligence expertise to catalogue millions of ‘missense’ mutations in human DNA that may be related to the development of human diseases."
-    publishedDateTime: 2023-09-20T08:35:00Z
-    webUrl: "https://pharmaphorum.com/news/deepmind-applies-its-ai-expertise-genetic-diseases"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 54
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2021/11/genome-sequencing.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google DeepMind Claims Its AI Can Pinpoint Genetic Mutations That Cause Disease"
     excerpt: "The new model, AlphaMissense, has identified 71 million missense mutations and classified 89 percent of them as likely benign or malignant."
     publishedDateTime: 2023-09-21T21:17:00Z

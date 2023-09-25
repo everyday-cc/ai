@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new
 webUrl: "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "AI vs Advertising Regulation"
-    excerpt: "As businesses and industries continue to embrace AI at an unprecedented rate, the need for regulation becomes increasingly apparent."
-    publishedDateTime: 2023-09-21T17:38:00Z
-    webUrl: "https://www.dmnews.com/ai-vs-advertising-regulation/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 19
 
 secured: "L/PJRwq+f+Sf0lpc/0PgGFIJCxAzRR9mdQWn16x27dCXisg7HHTG1eLU1a3cEN2CZ3p+fcKsd9X72i5HU9di+zcrl2JKpovX40+A+3nsFRHImXcrMKEba1iBFuS9c5MM3UoYgHgYDpoXuMn9goXiffS2+LVmyQvs+aLzaHYU+7u+xuCoK5AXPAfhUT/znfJqaYvyxfnwjrZGuPZgFazU1H1eDMORTA/MvtOLFmOZ9cGKmipyizErAOgBPOJTdjLesbRJqXBJMUbPh58a13FFSB5PnSnrKWFD8TCnBGBJ4QPW6/W8xmRf/6uqruVBEgRetDx6NMHfyLbTc/VOOrrsPH7yU8CeyykvzE/5bbhBJ02hVnRBFsnKxZ5+Lr4WRLsVaTLTDIm/meuyJqlOINQcyp9OLmZzmiaCIbMc9YvojFuSuwwazH/bOdTZv7Y4SGamB+/4RXAGXCyNa+DEU2gwkyTUteZjxbipsWY6sTX2Te1kwYbhtRSYdO3ba01MYIrhVthO21Ag1zF4FwCsbcL8tQ==;/JhlZFg2ajlFyRK2sNZVVA=="
 ---

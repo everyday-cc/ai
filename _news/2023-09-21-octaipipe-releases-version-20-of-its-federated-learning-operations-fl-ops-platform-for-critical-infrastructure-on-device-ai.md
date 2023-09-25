@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 635
         isCached: true
+  - title: "ServiceNow targets service management with generative AI integrations"
+    excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
+    publishedDateTime: 2023-09-20T21:52:00Z
+    webUrl: "https://www.ciodive.com/news/ServiceNow-Now-Assist-ITSM-generative-AI/694275/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "I4efmLdg0LGo+a0ZkoNmaGUSTBYuTuBiLP236a6OReT0YwL2NMDjesPjZaQXYqHrgZdXYfihdnuUcKGzCiJ7mYzbeG/tR0ZdqaZxJavTzma3zM+AcQXOWsQLUziyhe8dzSOCUtXL67+S1kLKN5cRTpu/hGkljhoQ16mGJkTdMp3RS62WQPBn9s8fM53UFQyBckUyYpem8bXs2EeTCDAdo32XkZItrfbp39Qped+bgu/zruzdQesxpR7XUQcKLLYq7gfS8lf1caewnZxYsEHob8Cl054GDebJ4cFClXKbWRxJMzh/GEKuiZRj5kn3VfR8jSz8prLloFBM545iY2UcfQOAHBv/vOexFVbeE9biqTVpPa+hKj08udHl39lpUYOAysa3yfAa4matNGdxnB96ZCvlsshuHstsNnu/igKFQjvgzMm2/WZOUav0ndpthe42It9uZJ8Dw0J/R8zi/7JhBP5l7Ap1RzxDEfaRDagRcAr/BmffzWATKGo2lrtQmy21EaU9AIQdIRIltMt2/Ynnww==;uYzNuTmcRmpp42Yvo0z75g=="
 ---

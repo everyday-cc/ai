@@ -41,15 +41,6 @@ related:
         width: 1051
         height: 701
         isCached: true
-  - title: "AI vs Advertising Regulation"
-    excerpt: "As businesses and industries continue to embrace AI at an unprecedented rate, the need for regulation becomes increasingly apparent."
-    publishedDateTime: 2023-09-21T17:38:00Z
-    webUrl: "https://www.dmnews.com/ai-vs-advertising-regulation/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 19
 
 secured: "VHNdy67r/FR3nN4ioD5mEfg9qXGtQ4MIIZzSkLs2KFLq3POeoT1jRgx+HLXKFeShpX930jDX+3/9ajYbi1AJCYrWkv81njU8e+PLkFpjGfCUih4p1MHiczk6KhYWdMdbQ50z+R2rPyP6Rkpt2dbrFV2zJqkd40X3EjSQgYD5i/es7qI41mO+8ThpmeNi+DMcSHNzy1wB+8edMSzVn6qsDUaaAAXYe/0hyQ/6b2FBFV/C4BkmRqLWH8wnHtH1er+yL/VTfuN/VDodHmrqiFF3vpy02WTqkQpuOTcle0dRbEWocgZo7vmfNIBa2S1L8JUGz5QVQfHB5lUAziQl9MGkV1ON7fMdQZcaoKFjYeSzuszIGl38BL6a41cCBENo2nLd6a23M4vmx8KUAtxYgsGRDqTBwVSNI/3eXC3A9Di/v+fWuz+NFmMr5pbuOn5qIuPo8toaX9+04y7XhGWLHiD3zuNHpiFwu+mwRdhm4SfQ6ZjO59PKSlQk5/42PCPoMCx8KMtbGOn7sN4TOwgj6Ipp7g==;CffjVjTlL8MR3HYow1Jxtg=="
 ---

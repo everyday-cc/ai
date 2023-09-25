@@ -33,20 +33,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Intel’s Glass Substrate Technology Could Power the Next Generation of AI Chips"
-    excerpt: "Intel, the world’s largest chipmaker, has announced a breakthrough in developing glass substrates for advanced packaging, which will enable higher interconnect density and performance for"
-    publishedDateTime: 2023-09-20T08:37:00Z
-    webUrl: "https://trendydigests.com/2023/09/20/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips/"
-    type: article
-    provider:
-      name: trendydigests
-      domain: trendydigests.com
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/trendydigests.com/wp-content/uploads/2023/09/intels-glass-substrate-technology-could-power-the-next-generation-of-ai-chips.jpg?fit=1200%2C675&#038;ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI Is Expected To Fuel Up Micron's And Intel's Turnaround"
     excerpt: "While the memory chip market has been weak, Deutsche Bank’s Sidney Ho upgraded Micron Technology Inc (NASDAQ: MU) stock upon signals that AI is providing the much-needed lift. Ho believes the worst of the downcycle has now passed,"
     publishedDateTime: 2023-09-20T17:48:00Z

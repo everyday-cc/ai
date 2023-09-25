@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-
 webUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cathie Wood says Tesla is the 'biggest AI opportunity in the world' today"
-    excerpt: "Ark Invest CEO Cathie Wood says she believes that Tesla is the \"biggest AI opportunity in the world\" today. \"So we think it has miles to go, it has just started,\" she told CNBC's \"Squawk Box Europe\" on Wednesday."
-    publishedDateTime: 2023-09-20T07:37:00Z
-    webUrl: "https://www.cnbc.com/2023/09/20/cathie-wood-says-tesla-is-the-biggest-ai-opportunity-in-the-world.html"
+  - title: "Cathie Wood Thinks There's Been \"Too Much Emphasis on AI\" With This Chip Stock -- and It's Not Nvidia"
+    excerpt: "Cathie Wood argued in a CNBC interview this week that one chip stock is overrated for two key reasons. Wood doesn't think that AI is overrated, and it continues to present a big investing opportunity. On Wednesday, Wood talked about investing in artificial ..."
+    publishedDateTime: 2023-09-22T09:51:00Z
+    webUrl: "https://www.fool.com/investing/2023/09/22/cathie-wood-too-much-emphasis-on-ai-chip-stock/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107200361-16775195062023-02-27t173330z_1026225286_rc2rjz96tfne_rtrmadp_0_usa-stocks.jpeg?v=1695202650&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
 
 secured: "mtcUWuIBw8OGh2U/DwCnWrl0RwPGnjVVedPH1bCD3qA3r3cqZoPMzybClNkVzmMoyVSr1lyUzkoM2y3QmpW9sN9vS157ME97tFSBk9SckNvd5s0Yj5BLYCUmELg7EvIhG6t68WVouljqa5ljMW7oZbc7EPPZCfaiCfXSFt65C+taWZcy4Rz3pW0IxMDGKQU6RHPlmp1MHCsHGCgXMW3h8dflA2ndFrtPebCd/kMqAFwkT6oXJU1Bm1NRHODVkZPWSVF10eDkKUBHdHxhg/E/WknmsC5hNSyymVOxo0ZFn64TC+w5ba2YPN+L6BzVHYOrRXNeNqFDZEu3PZJb61BUlMKtAzR5SS5XmJRsI+CwDMjRznf6FRqRjtGCohDNXIogwAsVgjmqA1OfUSnH36VSnGawc/KVE+yyW0+rCDMtujLM9Ml6dqYaNrUeXpA9PrdUzy0dJpP5tmyUldzmehujc5v7QG6ljJVMGVZhcdwqf96UFp8oSz2jpnKranFn1tHk2Iw8hhmAXcLxJbszfieTXw==;SOsQZKNy6wnYbMJXM2qZ9w=="
 ---

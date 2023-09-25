@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Firefighters, Startups To Use AI-Enabled Cameras To Predict Wildfires Before It Causes Any Damage"
+    excerpt: "New solutions are required by the firefighters as several communities including Maui, Greece and Canada have been ravaged by wildfires in recent times. Startups are considering using artificial intelligent technologies to scan signs of smoke to predict wildfires before they cause any damage."
+    publishedDateTime: 2023-09-25T01:58:00Z
+    webUrl: "https://www.outlookindia.com/international/firefighters-startups-to-use-ai-enabled-cameras-to-predict-wildfires-before-it-causes-any-damage-news-320357"
+    ampWebUrl: "https://www.outlookindia.com/international/firefighters-startups-to-use-ai-enabled-cameras-to-predict-wildfires-before-it-causes-any-damage-news-320357/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/firefighters-startups-to-use-ai-enabled-cameras-to-predict-wildfires-before-it-causes-any-damage-news-320357/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 44
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1693108350.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YcaJtxq7UPo5VBPu/F+caTt1aN+oezlud7RFCY+Y3rcr5fCvo8/p883a1rm804esUauSUsuYf+uhj9SCaLRNxdMGUeJsXbSb3gYZEFpzbdlrRWy3l2siZDCrKNnUgvh7Vs9CZd5HLKweDJ0yD984BCM/qO4tJN/v+Gc8sbViPjQxkizFzZKcJMwnCRxdOGFFzqL3QqTGxBCDZ8Mjo3lSsv0UzbjUXudVlRqAR//okqmXJmSw+34+HVdaOOcVNjlS4JxeIB9eZw6NYndZRAsCMTQZhUSmcBUmxbjbo2kcKgCxPozX7tEJuucX3jONrTWhI7D4yj1NZcKOjo9C0/tcTmDh3whYC7mHGP9Wic8NZ/j7D7JpJtd9W+w9+iOgOsgB40hHn21F3QsTynP/rHTTxptLJn9lbq9bZjhpk/AnFhRZCUeXvQ8Ypizivbm9L/2L1NdEAd/eonv7vtFUFGnrko54U1fh1vDG2U59FLFtKfPofHkqGytRWiNOgaVtbnzM5H/7GPV/Da2niri26amrmQ==;OrvfJ8EELiBbUOC5W7QJLg=="
 ---

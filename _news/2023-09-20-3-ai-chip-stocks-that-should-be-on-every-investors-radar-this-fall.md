@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on
 webUrl: "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
         width: 2359
         height: 1270
-        isCached: true
-  - title: "AI chip startups struggling to raise funds"
-    excerpt: "An interesting story in the financial press last week that suggested that Nvidia's dominance of AI computer chips is actually freezing out venture funding for would-be rivals."
-    publishedDateTime: 2023-09-20T07:43:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/blogs/ai-chip-startups-struggling-to-raise-funds"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/scpnd3ae/ai.jpeg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
   - title: "3 Stealth AI Stocks That Everyone Is Overlooking"
     excerpt: "Here are my three picks for overlooked AI stocks. Lantheus Holdings (NASDAQ: LNTH) develops, manufactures, and commercializes diagnostic and therapeutic products."

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI For India, By India: What It Takes To Build An Open-Source Indic-Language Model"
-    excerpt: "India boasts of around 19,500 local dialects. Small wonder that a generative AI language model which addresses that is an indispensable goal."
-    publishedDateTime: 2023-09-20T08:28:00Z
-    webUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757"
-    ampWebUrl: "https://news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/project-indus-ai-llm-tech-mahindra-what-it-takes-to-build-an-open-source-indic-language-model-1630757/amp"
-    type: article
-    provider:
-      name: abp LIVE
-      domain: abplive.com
-    quality: 53
-    images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/20/a721dec2c2ea0e2c0b302672d26d6b061695198496524402_original.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Impact of AI-Powered Assistants on Healthcare: A Comprehensive Analysis"
     excerpt: "Artificial Intelligence (AI) has revolutionized numerous industries, and one of the most promising fields where AI is making a significant impact is healthcare. In recent years, AI-powered assistants have emerged as a game-changer in the healthcare sector,"
     publishedDateTime: 2023-09-22T07:17:00Z

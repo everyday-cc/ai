@@ -19,56 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "What can AI and generative AI do for governments?"
-    excerpt: "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-20T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
+  - title: "Pennsylvania state government operations to start using artificial intelligence"
+    excerpt: "The state of Pennsylvania, which plans to use artificial intelligence for its operations, is convening an AI governing board and developing training programs for state employees."
+    publishedDateTime: 2023-09-21T14:58:00Z
+    webUrl: "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Optimize generative AI workloads for environmental sustainability"
-    excerpt: "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning"
-    publishedDateTime: 2023-09-21T16:48:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png"
-        width: 906
-        height: 412
-        isCached: true
-  - title: "The Real Test of Government-Regulated AI"
-    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
-    publishedDateTime: 2023-09-21T14:13:00Z
-    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-855174/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-22T09:22:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f0a9906-43a7-48d5-a658-dbd6fd0bea08/b77c794b-84ab-46d3-a579-637681c78046/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "Gov. Shapiro creates AI governing board to steer state’s use of generative artificial intelligence"
+    excerpt: "Gov. Josh Shapiro on Wednesday signed an executive order to create a AI governing board for Pennsylvania that will guide the commonwealth’s use of generative artificial intelligence, including developing training programs for state employees."
+    publishedDateTime: 2023-09-22T22:40:00Z
+    webUrl: "https://www.phillyvoice.com/gov-shapiro-artificial-intelligence-ai-governing-board/"
+    ampWebUrl: "https://www.phillyvoice.com/gov-shapiro-artificial-intelligence-ai-governing-board/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/gov-shapiro-artificial-intelligence-ai-governing-board/amp/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 58
+    images:
+      - url: "https://media.phillyvoice.com/media/images/joshshapiro.2e16d0ba.fill-1200x630-c0.jpg"
+        width: 735
+        height: 386
         isCached: true
   - title: "Pa. state government will prepare to start using AI in its operations"
     excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
@@ -86,29 +67,52 @@ related:
         width: 3807
         height: 2538
         isCached: true
-  - title: "UK Government Announces Major Initiatives in Artificial Intelligence Policy"
-    excerpt: "Viscount Camrose, Parliamentary Under Secretary of State for the Department for Science, Innovation and Technology in the UK government, revealed significant developments in the country's Artificial ... the Medicines and Healthcare Products Regulatory ..."
-    publishedDateTime: 2023-09-21T10:04:00Z
-    webUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiatives-artificial-intelligence-policy-1719730"
+  - title: "Pennsylvania state government will start using AI in its operations"
+    excerpt: "Pennsylvania will use artificial intelligence in its operations, Gov. Josh Shapiro said, as states are increasingly gauging the impact of AI and how to regulate it."
+    publishedDateTime: 2023-09-21T01:16:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/local/pennsylvania-state-government-will-start-using-ai-in-its-operations/3650506/?amp=1"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 37
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 57
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1718050/ai.jpg"
-        width: 2500
-        height: 1696
+      - url: "https://media.nbcphiladelphia.com/2023/09/AP23263755603050.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "What Generative AI Can—and Can’t—Do for Contract Review"
-    excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
-    publishedDateTime: 2023-09-20T13:17:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/20/what-generative-ai-can-and-cant-do-for-contract-review/"
+  - title: "Pennsylvania state government will prepare to start using AI in its operations"
+    excerpt: "Pennsylvania state government will prepare to use artificial intelligence in its operations, as states are increasingly trying to gauge the impact of AI and how to regulate it"
+    publishedDateTime: 2023-09-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pennsylvania-state-government-prepare-start-ai-operations-103357859"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 19
+      name: ABC
+      domain: abcnews.go.com
+    quality: 53
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_c7e334ce30728df67dcad5fbad321680_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Gov. Shapiro creates AI governing board to help steer the state’s use of generative artificial intelligence"
+    excerpt: "The Pennsylvania governor signed the order at Carnegie Mellon University, which will work with the AI governing board to guide the state’s use of the technology."
+    publishedDateTime: 2023-09-21T18:23:00Z
+    webUrl: "https://technical.ly/civic-news/pennsylvania-shapiro-ai-governing-board/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 34
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/09/Josh-Shapiro-53197244767_b530283d96_k.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "k525tnpewLrT82we70KgbiTvgchUHK0wQXfJAdlg/gb0/e4hZpy1v8y562ih7TI9oiQU0KL0KbSdzA6A7shMIN0hvU5g6br1XTsnYAZjuiXpWlmBlKkVGGewDc7NSFemeTWQpqNCDqtaYz1IBYPZp+JTLddmR9NlprLO2UlurOn+6J4wNRenXtbQmg50Ml+AmYl+frNxs0IyI6Ba3fYxBJ5+JHQSqTMQ991Xg1nLw/n0WB6i1N0lygVBnK+XSkmH70xgOw0gFTfKyTE3uzyHVbDzfT5L3XybVO2Gwq4JNGt3DiWcLH8l/UEcvVep+rUGAcWLBF/IXvO0uRbpHbPtYWHTF+8UDqr4YTDsKWb9mV5lgHA5nIxp1aucvB8ISharEZOwUHWtk80O0Cit2O2o71IIJuQxNjYH6gGX/f3rrMUOq8g7d+4Bd6vFFSenHhAkieE4lJhn6AlaGd5AchJO5vA/RKFrYWnmljS+c5I7FbzAfaACB6MKKZ0JwwsKuIphSuPoCh1AKCiq/JB2eHAFlw==;fEXsBf+3HJKQszBRgqnRWQ=="
 ---

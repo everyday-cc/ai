@@ -19,36 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI Means New Rules Of Advancement For Aspiring Managers"
-    excerpt: "Artificial intelligence is upending the tried-and-true rules of management — with a surprisingly non-technical bent."
-    publishedDateTime: 2023-09-22T02:45:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/"
+  - title: "The Real Test of Government-Regulated AI"
+    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
+    publishedDateTime: 2023-09-21T14:13:00Z
+    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650cf64b3ec8dccf3ecef3be/0x0.jpg?format=jpg&width=1200"
-        width: 1051
-        height: 701
+      - url: "https://images.wsj.net/im-855174/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AWS regional managing director advocates transparency and inclusive dialogue in shaping AI regulations"
-    excerpt: "Artificial Intelligence regulations must be crafted with transparency and inclusive consultation, says AWS executive"
-    publishedDateTime: 2023-09-22T15:52:00Z
-    webUrl: "https://www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm"
-    ampWebUrl: "https://www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/artificial-intelligence-ai-regulation-amazon-web-services-privacy-law-17864011.htm/amp"
+  - title: "Top Five AI Programs to Create Content for Real Estate Websites"
+    excerpt: "By utilizing these AI programs, real estate agents can save time, improve productivity, and ultimately achieve greater success in their business."
+    publishedDateTime: 2023-09-20T17:10:00Z
+    webUrl: "https://realtybiznews.com/top-five-ai-programs-to-create-content-for-real-estate-websites/98779341/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 58
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/AWS-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 19
 
 secured: "ITJfCVsSgjqTSQmB/QkA95UXmk3fAhAMC4oauBW/+dZ3OZM58fbVKqvZj9sWNcwK2ogGr7dJYwqFVCmoi57eudsxPcWmdyGn4Te41o183CBfqQJK9F3owdZNgkon1oUtkSDbP6z0aETEPKebjxbjx7+09aN0ye7qNMxgZrGe8fbfCQDS7vPKJ0H0FMuPFj0xIcdai7oEM45kYFcz4ZuOdU1EjhmqYMSb4A60JeKWrgkNL9niDgJvFAJZgin7TQ86MrkRDhgtK7yVQl1eNJjyJWX5Uuc/7hzOfaNUf1RjEfK50kvN/s0iMeYp06Vtn2+0qmCWGIlYA//v1jW9O76c508211k0kyq4a3BEACNKWaoXI6J2n3We3QwIQk6Qmf1mggRqABOjELqp5sZcHa2BY0Jxl967xXgaMWC6eUnxkFrmFFWgAyp2STPiijmuUm3tvBPXFuaQTYkgCbKFnpbqdAtSeTxE/tKZE2tI1HlHiYmZqAtbnRd6wF6OGyY+XGmDWgCU925I8HL6k0zm+nSoyw==;IqzNe13HAB1Ows6rEK5vSA=="
 ---

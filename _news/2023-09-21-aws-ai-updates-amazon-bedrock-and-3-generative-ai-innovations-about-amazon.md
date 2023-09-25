@@ -7,8 +7,8 @@ originalUrl: "https://www.inferse.com/724673/aws-ai-updates-amazon-bedrock-and-3
 webUrl: "https://www.inferse.com/724673/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Inferse
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte India Collaborates with AWS to Boost Generative Artificial Intelligence Innovations"
-    excerpt: "Deloitte India has unveiled a strategic partnership with Amazon Web Services (AWS) to further develop generative Artificial Intelligence (generative AI) solutions for Indian enterprises. This collaboration aims to assist businesses in sectors such as ..."
-    publishedDateTime: 2023-09-20T08:24:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/deloitte-india-collaborates-with-aws-to-boost-generative-artificial-intelligence-innovations-nid-225455-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 43
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/6I8fSuA1.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Spiff Updates Sales Commission Platform, Enhances Generative Artificial Intelligence Tool"
     excerpt: "Spiff, the leading sales commission software for forward-thinking revenue and sales organizations, announced today a series of updates to its platform"
     publishedDateTime: 2023-09-20T17:02:00Z

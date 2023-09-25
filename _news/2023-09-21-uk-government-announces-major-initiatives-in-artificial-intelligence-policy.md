@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiative
 webUrl: "https://www.ibtimes.co.uk/uk-government-announces-major-initiatives-artificial-intelligence-policy-1719730"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,90 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "What can AI and generative AI do for governments?"
-    excerpt: "The five fundamental properties for trustworthy AI: explainability, fairness, transparency, robustness and privacy.\nThe post What can AI and generative AI do for governments? appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-09-20T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/what-can-ai-and-generative-ai-do-for-governments/"
+  - title: "Procore Announces AI, GIS and Other Initiatives at Groundbreak"
+    excerpt: "The construction project management software leader came to Groundbreak with a massive traunch of AI functionality and partnerships, a new GIS offering and tools to improve user experience for subcontractors."
+    publishedDateTime: 2023-09-20T13:29:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/project-management/article/22873608/procore-technologies-inc-insights-from-procore-groundbreak-2023"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Optimize generative AI workloads for environmental sustainability"
-    excerpt: "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning"
-    publishedDateTime: 2023-09-21T16:48:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png"
-        width: 906
-        height: 412
-        isCached: true
-  - title: "The Real Test of Government-Regulated AI"
-    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
-    publishedDateTime: 2023-09-21T14:13:00Z
-    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-855174/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-09-22T09:22:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-09-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Pa. state government will prepare to start using AI in its operations"
-    excerpt: "Gov. Josh Shapiro says Pennsylvanians expect state government to understand AI, adapt to AI and ensure it’s being used safely in the private sector."
-    publishedDateTime: 2023-09-20T21:31:00Z
-    webUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html"
-    ampWebUrl: "https://www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/09/pa-state-government-will-prepare-to-start-using-ai-in-its-operations.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FENXES5SS5HQ5KBWXXJP7DP4S4.jpg"
-        width: 3807
-        height: 2538
-        isCached: true
-  - title: "What Generative AI Can—and Can’t—Do for Contract Review"
-    excerpt: "LLMs and generative AI are still under development, but they have the potential to revolutionize the way lawyers work, including automating the drafting of contracts, translating legal documents, and identifying potential risks in contracts."
-    publishedDateTime: 2023-09-20T13:17:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/09/20/what-generative-ai-can-and-cant-do-for-contract-review/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
-  - title: "What’s Next in AI for State and Local Governments?"
-    excerpt: "Governments of all sizes are now on the front line of working with an emerging technology faster than ever before. But when it comes to generative AI, what are you really working with?"
-    publishedDateTime: 2023-09-20T18:32:00Z
-    webUrl: "https://www.govtech.com/dc/whats-next-in-ai-for-state-and-local-governments"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
+      name: For Construction Pros
+      domain: forconstructionpros.com
     quality: 19
 
 secured: "PS43SuVTTl3dljrZCSrmFUkBGuIffsIsNAC+jvUbs9VHQi9PdTz9bXYfBH8mXyaf7MwHASJyfJNzrQlsDfBq5XdjgR7OcnZY4Mg+na/hlvKeHUqg6YzuMa3foklEgtXe5XjzbGXTpgGxEsXfIUlrNqiepU1b84knvhALaTuelmFmgCVCt/aeTYDI6FOg9BIZpPZd3/hf8/AK+5fhQu9TWgrL94xDqrV1PPToa8QSeTii0OUnjP0ikvV0RyBIGpYwivhiPA8K5QKXsKb2S/z39MwunY1dddOB29gnxxbtBS5OXt6FUaWFaBB5kjrPy47uBse9j7UTjuDkbqZzFKTQStSsZt2o+F3Drqpi5tzZQsA=;jdSzXmhY8nVwEYItDNK8Jw=="
