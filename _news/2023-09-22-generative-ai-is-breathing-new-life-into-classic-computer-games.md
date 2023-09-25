@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough In Cancer Treatment: The Role Of Generative AI In Drug Development"
-    excerpt: "Dive into the revolutionary world of cancer treatment where Etcembly leverages generative AI to expedite the creation of personalized immunotherapy drugs."
-    publishedDateTime: 2023-09-20T06:28:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a90b7c3a33a96e3bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI is generating change in newsrooms worldwide"
     excerpt: "Our recent research report, Generating Change, shares what newsrooms are doing with AI today."
     publishedDateTime: 2023-09-20T14:00:00Z

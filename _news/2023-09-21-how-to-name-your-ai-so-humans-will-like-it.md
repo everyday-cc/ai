@@ -55,15 +55,6 @@ related:
         width: 2133
         height: 1444
         isCached: true
-  - title: "Humans must take leadership over machines to steer Artificial Intelligence towards common good"
-    excerpt: "Ahead of the event on October 2-4, titled The Human Revolution, four travel leaders have reassured us that machines aren’t set to take over humans anytime soon… unless we let them. Technologies like AI and machine learning are evolving rapidly, and we ..."
-    publishedDateTime: 2023-09-20T05:47:00Z
-    webUrl: "https://www.breakingtravelnews.com/news/article/humans-must-take-leadership-over-machines-to-steer-artificial-intelligence/"
-    type: article
-    provider:
-      name: Travel News
-      domain: breakingtravelnews.com
-    quality: 7
 
 secured: "aX5zBNu7t5nnf0t/+2btDQCG2oBGJubKQigqG/zuwxnmPpR6bfSiC5+fcemQRNhqWlLRKCk81b+40nS0Q7CmTDuoGwpOFaPfiHwT/CFGSi40IjxL0W+O3TXTsP8pRT8oXtKo6ASmmulHW4YhdLx4Fc0KsfikaekeTkDhTSc2ZwbeKAay/61suW0uUiInRLHRV5Mig/NIZQl13eORIepwTefcv+A7yaMuVBsdQ4YCyFQnHqXuG64EujyXwP4UBGWwZSCZGc3WxuOzatbEQ9RjSZD6npExt7+LSOQ3nH05fBKYB/UukTqJ6SSytRx+FuwtnQnG3n1/+JBjt83KLEtlbVnAubfuEwkVSjrP1Ejbg8IOql9ZklhkMAiomUE0b3itr3ePW7HqezroH+N7su2+nPx4p1Wcd01aDrweCbN76F99dy0VvVteX9KG2xew+h94P/QmUEWmKrtAv7Nz+Sbz2SofLEvNMwolJsaXFEqSYh5aXDTUli8l1rTcBWgslaR/on8BiKLTAtacJ3FSNe31OA==;2zQKbs6paM6Lq1mwRN/v7Q=="
 ---

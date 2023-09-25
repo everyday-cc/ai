@@ -2,49 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2023-08-23-hcltech-partners-with-aws-to-drive-genai-adoption.md",
-      "title": "HCLTech partners with AWS to drive GenAI adoption",
-      "excerpt": "The collaboration aims to empower enterprises to leverage the power of AWS' advanced GenAI portfolio which includes Amazon CodeWhisperer, Amazon Bedrock, Amazon Titan, AWS Trainium and AWS Inferentia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/04/HCL.jpg",
-          "width": 763,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hcltech-partners-with-aws-to-drive-genai-adoption-11246411.html/amp",
-      "publishedDateTime": "2023-08-23T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-23-vmware-explore-2023-extends-into-cloud-networking-and-security.md",
       "title": "VMware Explore 2023 Extends Into Cloud Networking And Security",
       "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, covers cloud networking and security at VMware Explore 2023.",
@@ -1159,6 +1116,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-an-ai-powered-bot-could-take-your-next-drive-thru-order-at-one-of-these-top-fast-food-restaurants.md",
+      "title": "An AI-powered bot could take your next drive-thru order at one of these top fast-food restaurants",
+      "excerpt": "Automation tools, from AI to robotics, are growing in popularity ... An automated bot named \"Tori\" created by the startup OpenCity takes orders from drive-thru customers. 7. Popeyes Last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "originalUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e61b01912f290019a98b35?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fast-food-chains-like-white-castle-turn-to-voice-bots?amp",
+      "publishedDateTime": "2023-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

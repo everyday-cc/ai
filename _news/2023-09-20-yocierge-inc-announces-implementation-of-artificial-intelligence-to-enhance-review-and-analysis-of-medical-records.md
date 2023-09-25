@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "New artificial intelligence tool automates analysis of large-scale cardiac scan databases"
-    excerpt: "However, databases are often organized differently by separate organizations and may often contain missing or duplicated files, which presents a significant challenge for processing data. This work would previously have required a significant time investment for manual curation and analysis on the part of health care specialists, whereas an AI tool can be taught to efficiently \"data wrangle ..."
-    publishedDateTime: 2023-09-20T19:33:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-artificial-intelligence-tool-automates-analysis.html"
+  - title: "Generative AI: Revolutionizing Pharmaceutical Industry and Driving Precision Medicine With Innovation, Equity and Ethics"
+    excerpt: "The formulation of drugs, ensuring their stability, bioavailability, and other crucial factors, is an essential aspect of pharmaceutical development. Generative AI supports this process by suggesting optimal formulations based on the desired properties, saving researchers both time , cost and resources."
+    publishedDateTime: 2023-09-20T20:23:00Z
+    webUrl: "https://medcitynews.com/2023/09/generative-ai-revolutionizing-pharmaceutical-industry-and-driving-precision-medicine-with-innovation-equity-and-ethics/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 10
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 29
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "b0foWeuAmsW8JMjdeRstUdm4uP66WO++TD1JEqLpE7x0yCIe+usiVrAscQh2bUzjjXPAr15lPHCgxXSlZnmKThKNWRqoUH8aOa98q4kHhmIsr1klj7PPtpUUphYlPHMoFpi/C5qRnFQehbZxtFwn2lW6IYpAZyZopIDlutdF3mQnfQEtOBmzejTrlKVUp2qv6CIx/v17XnbD8n/9RC798uDZ4hXySzLt+n877QsNVXy5a4D5RrTeOH6mgArQ7VgkA6oNgtrKRUI2MbQE7fYEfUHZ7ks7ARjFlisFwT/xWDHuRw/t2hjaqnbYGtIeKtvZRq5arYR2Brnyn0u4Y238OALATjSF8b/rubLheBbjlgs=;8SYdvJVrlQuN7537TqjSew=="
 ---

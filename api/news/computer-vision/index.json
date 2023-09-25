@@ -106,7 +106,7 @@
       "originalUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -361,18 +361,27 @@
       "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
       "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
-      "originalUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
+      "webUrl": "https://www.aol.com/news/wrongly-arrested-because-facial-recognition-140834575.html",
+      "originalUrl": "https://www.aol.com/news/wrongly-arrested-because-facial-recognition-140834575.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/a9a13a30e578ba01fc9dfffc05413da5",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T07:08:00-07:00",
+      "publishedDateTime": "2023-09-17T08:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",

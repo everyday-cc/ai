@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-
 webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
 type: article
 quality: 69
-heat: 99
+heat: 91
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Humans must take leadership over machines to steer Artificial Intelligence towards common good"
-    excerpt: "Ahead of the event on October 2-4, titled The Human Revolution, four travel leaders have reassured us that machines aren’t set to take over humans anytime soon… unless we let them. Technologies like AI and machine learning are evolving rapidly, and we ..."
-    publishedDateTime: 2023-09-20T05:47:00Z
-    webUrl: "https://www.breakingtravelnews.com/news/article/humans-must-take-leadership-over-machines-to-steer-artificial-intelligence/"
-    type: article
-    provider:
-      name: Travel News
-      domain: breakingtravelnews.com
-    quality: 7
 
 secured: "H5U7sqaAW94n4U3S2YTwpNwLk7xHzHArPg5vnMunU41RPqc1rgGapYy92uTHRu8pPiPF51bg+fpSZGTXVfAd+pjQsbNLA7yV+JX1PvLfShnOXLxrRolGWLiPrTAG1+qdLILvis3EAIrRRpSPUJVmQwz/ZQxJTlgjc8KHRxEUiFqHHa6MvX5pK204CyvRDX6IcTojerQrxH0J/Whk3JcN6IdoWfB6ibLXWk4uubuPfRyJxkWmetcPvtpNUhTubwUC85AWIVcysARpAq//TpncJbKQWhuV9FK+V1OW+sGIS64VGtYc6v/HSzwv2W5/DAFNHRY8myGvl6fGJGoAfeRDeK6FBi7/dwo79quEVBrb4sZvlnIbDk7iHYC9jMJyeXCvc0EA7Wel0lTA7f3S5vPd2gfqtUxZGkWibUge80bJbqVH7FFfZ1hhSxYXWJbj5Qh3f2OxCdauPcwzYo2up35+m/1EVb0n4jPqpKrGZkEsRmd0utRMxqhvaWOLEYdeIZ4SFatq3pEGZ2nbToHXZYlZfg==;xD0c8ab93xc0sytVCtk6UQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-microsoft-unveil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/"
 type: article
 quality: 106
-heat: 446
+heat: 438
 published: true
 
 provider:
@@ -199,20 +199,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/07hzm31uMn48LQSI2k6l2wO-1.fit_lim.size_1200x630.v1695311839.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
-    excerpt: "These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand. See Also ..."
-    publishedDateTime: 2023-09-20T06:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft-backed FAST Accelerator Announces 12 African Startups Selected for Artificial Intelligence (AI) Program"
     excerpt: "AI-focused accelerator program brings African startups to Silicon Valley to jumpstart technology innovationSILICON VALLEY, Calif. , Sept. 20,"

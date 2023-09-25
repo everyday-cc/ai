@@ -214,20 +214,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Analyst Bullish On Microsoft Stock, Citing AI's Potential To Drive Higher Profits"
-    excerpt: "These tools assist clients in capitalizing on their data and AI resources. As part of this advancement, Microsoft is investing heavily in GPU/AI supercomputers to meet growing demand. See Also ..."
-    publishedDateTime: 2023-09-20T06:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-bullish-on-microsoft-stock-citing-ai-s-potential-to-drive-higher-profits-1032642178"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft.Shutterstock_6.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Interview: UK Chancellor Jeremy Hunt visits Amazon and Microsoft; talks AI, China, economy"
     excerpt: "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime, Alexa, logistics, devices, and more. UK Chancellor Jeremy Hunt and Microsoft CEO Satya Nadella. (Photo via X/Twitter.) Chancellor Jeremy Hunt, the United ..."
     publishedDateTime: 2023-09-23T01:35:00Z

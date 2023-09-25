@@ -40,22 +40,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Google DeepMind AI Tool Predicts Whether Genetic Mutations Are Likely to Cause Harm"
-    excerpt: "Four million of these mutations have been observed in humans Only two percent of them have been classified In all, there are 71 million such possible mutations"
-    publishedDateTime: 2023-09-20T06:22:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-ai-tool-predicts-genetic-mutation-dangers-rare-diseases-research-4406178/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 68
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_reuters_1694582304835.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind’s new AI tool can predict genetic diseases"
     excerpt: "DeepMind says its DNA mutation predective AI can be a game changer in the fast diagnosis and treatment of genetic diseases."
     publishedDateTime: 2023-09-20T11:44:00Z
@@ -160,15 +144,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Google’s DeepMind AI tool predicts danger of genetic mutations"
-    excerpt: "AlphaMissense, developed by Google DeepMind, is designed to address ‘missense’ mutations, where one letter in the genetic code is impacted. WASHINGTON: Researchers at Google DeepMind, the tech giant’s artificial intelligence arm, on Tuesday ..."
-    publishedDateTime: 2023-09-20T05:16:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/09/20/googles-deepmind-ai-tool-predicts-danger-of-genetic-mutations/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "DeepMind uses AI to predict harmful genetic mutations in humans"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. Researchers at Google DeepMind have used artificial intelligence to predict whether mutations in human genes are likely to be harmful, in one of ..."
     publishedDateTime: 2023-09-21T05:42:00Z

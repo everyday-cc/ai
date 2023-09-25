@@ -7,7 +7,7 @@ originalUrl: "https://www.bahrainthisweek.com/computer-vision-reveals-working-li
 webUrl: "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

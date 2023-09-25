@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-genera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 34
+  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
+    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
+    publishedDateTime: 2023-09-20T12:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 7
 
 secured: "NRMeGpGQHUbymZS1ll5FXDaXpFnbbIYjIyrCDx9qtAZ/Sn27tL47uUQf0VWQShTsIum+//HqqPvB3oIAZLNB9ldG05Y26/OFv0b+LVtx3Id+Qd1jIp+pPFxOQcsmLbSQm+bgOI6QYwOUQBdS/hYILydaTjhZORdACpyOoPJXsDCgU/neX5ZXiAbeQfCt2sVVKBT20csuXgocm649UXx8xvstanB5T5bYqdwZSxRsZwAKM017/WX6U6koe+nUX33ZfSkOzjC1tYLpQXF0WNn+BEOTX5cSGXcikHDkGzmoqBszjcPep8Sjc04MfTaYZZUcLKg2vxbhKPaPsCRrt7WV61eImhUnRN8/cayYlSi2Gog=;ZV3GCAx/WXIou11gcjWOWQ=="
 ---

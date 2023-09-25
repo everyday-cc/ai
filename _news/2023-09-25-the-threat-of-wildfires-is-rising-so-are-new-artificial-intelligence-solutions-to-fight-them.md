@@ -2,26 +2,26 @@
 category: news
 title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
 excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
-publishedDateTime: 2023-09-24T21:36:00Z
-originalUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-webUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-ampWebUrl: "https://www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-cdnAmpWebUrl: "https://www-wave3-com.cdn.ampproject.org/c/s/www.wave3.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+publishedDateTime: 2023-09-24T23:36:00Z
+originalUrl: "https://www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+webUrl: "https://www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+ampWebUrl: "https://www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+cdnAmpWebUrl: "https://www-kwch-com.cdn.ampproject.org/c/s/www.kwch.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: WAVE3
-  domain: wave3.com
+  name: KWCH
+  domain: kwch.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gray-wave-prod.cdn.arcpublishing.com/resizer/sOUkDFPrZ4AwsNOVqP2O3SFcZW4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HXKV2U355NETFLZ7HF2N3Q5254.jpg"
+  - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/bS2X572cFLujU4a-6z7Sr0-YifQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DJ5PKWPBRVESPBOYVNPK4SVEJU.PNG"
     width: 800
     height: 450
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: wbtw.com
     quality: 8
 
-secured: "ebyur18a+sc1ZQbhMn2BbMR6l822YOZeFFiopTJ9C8IdNAfWpKMYP8iiOu85w/dpfqNB0IxYSPqVi5I7WJJL5JNzbKkY+uaDzwjNO/hooZAhPsaq4GVZ7RfvMkLnDhrBuZctsyKCzX3h2utS8wYuEvSyo0KLoUZglWNyiWtIX09L1ERUKGZNJ2rVLO++jqeUPuaJPYhdD5yhkDt2lBggWKd87MONUWDCJWq7p1OTfePOs6oWlFJgvS8FW2K8rEVJK6ZSNkZ6TicL5g+00f2PgmDHOQQHu9+JRAZ9UI8m1ID0gTKECv6KCa+KBKTFWkoiC0C0rVUb8DTlSjY384/qDO7R03qrgCgwx7PqteXdt9E=;jwcQwBDIE84iFt8Pz1DWkQ=="
+secured: "fi+dw0YpVJ7YyWbIm23+hHmP2iu4EmDFRaXIQV3IvNnMOOjplNU7lmoekiKHY6q+PdCIPMSEBijW6QMM8XbrZsGC0P/0eqOciB0UtfYB13IhyU0NPqyxJKeFGvNjZ3Q75g4p/2q31LlZDdjEs0aerLkLjX1y/G0lAFsNQwLzLD50QSAeYTqUH3N9AZ9FTg06bt4XXwwqwVvyoNXA+bMvWL0XD/fUvDd6BvV2JWHIEkGmP4ICp1uyRuQQ2lftvArtduMENWv2WAoPkq/tEVaYg9uPwAKAN8PS1/X3Ay0ufYUXm83qSwKrphdQPBMkIpAvJn/Fa2H5Y8Y+JntQzCY2AJeZbuoCoIKiBiti9RT7q58=;kCDsDTIcB3dHsg6bwYbUPA=="
 ---
 

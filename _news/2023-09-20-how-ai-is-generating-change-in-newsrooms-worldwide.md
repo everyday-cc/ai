@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Breakthrough In Cancer Treatment: The Role Of Generative AI In Drug Development"
-    excerpt: "Dive into the revolutionary world of cancer treatment where Etcembly leverages generative AI to expedite the creation of personalized immunotherapy drugs."
-    publishedDateTime: 2023-09-20T06:28:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/20/breakthrough-in-cancer-treatment-the-role-of-generative-ai-in-drug-development/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650a90b7c3a33a96e3bba901/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI already being used in majority of college classrooms, according to new survey"
     excerpt: "A new report from Wiley suggests that generative artificial intelligence (AI) is already being used in the majority of college classrooms—and that number could climb quickly."
     publishedDateTime: 2023-09-21T20:03:00Z
