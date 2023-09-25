@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-24-the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
+      "title": "The Top Ten Global Fintech Conferences: From AI To Zombie Unicorns",
+      "excerpt": "Providing nuggets of wisdom (and perhaps a side order of entertainment) for the assembly is a blue chip roster of over 350 expert speakers ... will focus heavily on the growth and adoption of AI, and how the technology can be used in financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "publishedDateTime": "2023-09-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
       "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
       "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1292,51 +1345,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
-      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI in Finance"
       ]
     }
   ],

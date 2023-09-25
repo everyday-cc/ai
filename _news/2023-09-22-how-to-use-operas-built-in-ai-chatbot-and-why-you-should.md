@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-operas-built-in-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-operas-built-in-ai-chatbot-and-why-you-should/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Meta gears up to launch dozens of AI chatbots for younger users"
+    excerpt: "Meta is reportedly working on generative AI chatbot called ‘Gen AI Personas’ for younger users and is expected to unveil it this"
+    publishedDateTime: 2023-09-25T03:47:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/09/d5f1ef7ed336f9b86f5820a673accefc-1.jpg"
+        width: 825
+        height: 450
+        isCached: true
 
 secured: "jzsyejJe7c7SZ+xYlOzDeSsxVaDPkNgONtF7aODNk4rTvHOym5L6ZPHwtxaj+OLxV+tM7hTH7ZQY2nQjzqKKtntmgVcdmFIek1EvuWzBWXoEz11GAeuPAekwMYyUT/HTx+Z4bYSVS+vCd2safdX+py3E+/r+GCqCK6xzr3bY4vZdD+G6hQMqewhbMPWyZ2pE9kYYITpc682i69ARa0Ch4aAclwhDRxsVn46ItpzxaOG++3YgQOItqbWx4AHilzgDSDWm9mURiWacgw+zbil/z349uppunOJUMiV171nhyy5BgaTjNj6Q0RH3Ia567ynoZjmTzI0OUxESNC8dsHse9mnzUqMf7qOfxjfW73JOMevyU4hHnLQqG8IqiWLh5PMrxdWEgtjeRevypo9Twcrr3esfuanhJ3TGpAYUu/U0MdIFjJtagqKXfAXBTfu5nXlSuWuIlqxYX1OnviH8kl3ckb+1GmJq0+av7lLN/K67wq0oXmDeuHiDrwnH+Eh30ZhmA8DR+PrDqesGxc7gyB2+Rg==;lCskNpoLdzRAsgRQz6g/1Q=="
 ---

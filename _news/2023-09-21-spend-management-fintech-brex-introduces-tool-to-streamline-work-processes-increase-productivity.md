@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/09/213189-spend-management-f
 webUrl: "https://www.crowdfundinsider.com/2023/09/213189-spend-management-fintech-brex-introduces-tool-to-streamline-work-processes-increase-productivity/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Philippines fintech Salmon launches Salmon Credit"
-    excerpt: "Consumer fintech Salmon today announces the launch of Salmon Credit – its first credit line product with built-in QR Ph payment options, providing a simple and familiar way for Filipinos to make payments at more than 600,"
-    publishedDateTime: 2023-09-20T09:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98098/philippines-fintech-salmon-launches-salmon-credit"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "jsTsYECnqo+SJvLR5EiQ5ndSfAgs8hoNyG4+iYOaYkTmqhxVVvf39TusXHTjX9GMRFUaOOAu8/sMXvXch9k/Nfb9O6QkMiIuY71K9dwFhs4jpNTje/uZRPZC3FZyOaclKO+kgXf0770rdopZXeHc1N1h6zLYOJ4nqXKMAbsQ+aTUwfSGYTSFWe2e90rzvoyinDSJXFjB1P9qWJDiGfKvfL9s8d+dMUgfYyPzAxGM9p1+JRQe8S1P1ikaHHZ2t9ikLq/TDwlBWCcLsNSjeZ2l5PTThogNfqfJWeJ/8jodTcSrbfYzsyiiInG+GgZmfKgcMTndutbdtf5IzY4IqxiOLjD1HKYolzTjuQOCReVJ/jk/vzsyColIM/a9c+FiaXExJT/xYbcND8zAE8ZCw4gliCtlbL96QammIoigA2aztjo/rvQ1oAsftdCI5g2cCR4xtoIWvD7B5pogPZq5Hdeuaw0NMlLm22cDXRnpvBPE4NAu5dMgRYMUjv35tBvtCW1tidM3cmf0/h+kz8CSHc3qhg==;TpXNSiCjwVxTs1Iy5c9CJw=="
 ---

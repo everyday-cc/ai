@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "EaseMyTrip launches Smart Voice Recognition Technology"
+    excerpt: "EaseMyTrip.com is set to redefine the travel booking experience with the EaseMyTrip Smart Voice Recognition Technology."
+    publishedDateTime: 2023-09-25T00:15:00Z
+    webUrl: "https://www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/"
+    ampWebUrl: "https://www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 44
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/09/shutterstock_1250778367-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
   - title: "EaseMyTrip’s introduces smart voice recognition"
     excerpt: "Easy Trip Planners Ltd.’s EaseMyTrip.com introduces Smart Voice Recognition, a tool using advanced tech to help travellers plan & book journeys. It covers flights, accommodations, vacation packages, trains & buses,"
     publishedDateTime: 2023-09-21T08:25:00Z

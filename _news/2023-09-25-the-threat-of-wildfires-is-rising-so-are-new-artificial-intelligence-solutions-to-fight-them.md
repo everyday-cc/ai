@@ -3,25 +3,25 @@ category: news
 title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
 excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
 publishedDateTime: 2023-09-24T22:36:00Z
-originalUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-webUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-ampWebUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-cdnAmpWebUrl: "https://www-14news-com.cdn.ampproject.org/c/s/www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+originalUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+webUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+ampWebUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: 14 NEWS
-  domain: 14news.com
+  name: WABI-TV
+  domain: wabi.tv
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://gray-wfie-prod.cdn.arcpublishing.com/resizer/YWrBHKNqfpN0IrYPppSsbWovxCc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3XMKK34BRFH4LK652MTXWNT4FM.png"
+  - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/AzYs74NsDRCoqbh14cAUBf9ribs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OT7EXYSEVFZRE3XX6IT3QTCMI.PNG"
     width: 800
     height: 450
     isCached: true
@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "San Antonians fall prey to scheme involving artificial intelligence, ‘voice cloning’"
-    excerpt: "Criminals are able to clone people's voices from online content, then use that to trick loved ones into handing over money."
-    publishedDateTime: 2023-09-20T09:51:00Z
-    webUrl: "https://www.ksat.com/news/local/2023/09/20/san-antonians-fall-prey-to-scheme-involving-artificial-intelligence-voice-cloning/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 30
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/09-20-2023/t_f8ce4b1fd99a4d708a2842516eb78372_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
     publishedDateTime: 2023-09-24T11:58:00Z
@@ -65,6 +51,6 @@ related:
       domain: wbtw.com
     quality: 8
 
-secured: "6s5C24LdMLQVSyblLQnKxPnQnxVqSJuxE5xV+FtP4W5QWgMOvNDOQL0miFP2XCVn5kvKZ+OATPF9Zr9kE3dEsvOIhZQVe1oNyuTwzWJLBY6/Qg9CAQneuYBY8TFS7OnB7MsBfCzla1LS7nPbhOCJfVpSYvgHty4ARs8I8topBgNA06r0dTuQyrwGWdL2YHU4HgfjZIGTj/aN7MXJUK6eS+RhIIN/D6tgAluAOICcwrxQJaOudm1hT6LzhRV08SWStTG3sVBGVIJfJNfLacZoXv/e93HnopwF/XNFnhC/9qHy0LG1bHN5PRnPBEc0WMXvmaUhSAS2ZuSN5RM7/JfDCAer94uJIK9JKL4NJnTkDPY=;cBDQvgfcdDoOK0DFFYkxwA=="
+secured: "aQhosxUp20z4VkpK13GpXZTP0VWg8iRhjZP18EvfGcV0WwLSA03AeQJk6RH6G5pXg4e0Th7w7tiC/mUDjUqkNtiD8P/TWWP36Vanv6p4W/uK9iMbUmiegC5ZDxIha0Nb7edJFPonZD/Se/dsJV4myxsOgNdX0BNRDAUXD+PUTQZ120g+z3NZdVmgH/Ave7CvUPtFIt03gLwCDm0O1FmwtZdvGSM08g9s1SP4pk+QqikG3A6TiPzJM82bF1KIPFsGNCDvIv3kMRw2zh0IFexmO/pFkpUFzvNpmP4FV8xck83Axiq3LVoY4OaOr9Fi8EQF4JHs/WhEmNzzW78d7RrzylLMGBvwCIeR7+hLVMZEUdw=;poZTaRUZ3orDout3qanuaw=="
 ---
 

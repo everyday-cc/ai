@@ -64,20 +64,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 59
-  - title: "Dubai To Lead Global Fintech Innovation"
-    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
-    publishedDateTime: 2023-09-21T03:47:00Z
-    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
     excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
     publishedDateTime: 2023-09-20T12:38:00Z

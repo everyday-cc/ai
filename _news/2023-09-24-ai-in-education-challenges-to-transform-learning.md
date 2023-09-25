@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challen
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
 type: article
 quality: 76
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 5115
         height: 2880
         isCached: true
+  - title: "AI and Machine Learning: Boosting Indian space exploration to new heights"
+    excerpt: "India’s space program has the potential to achieve unparalleled heights, thanks to a stunning confluence of cutting-edge technology and visionary ambition, fuelled by the unwavering synergy between Artificial Intelligence (AI) and Machine Learning (ML)."
+    publishedDateTime: 2023-09-24T12:29:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 33
 
 secured: "K0C/oEy39Q+Kwfx2j54Tq2RlwVcEMVhBscwA7TKbxvX6IB2R2aw3qgmok6VK47WxYoIbmVaQslp8owLaCg/q1HqDhVHAlofL8CrEwnnJB6utjcSqUeFwszuwrZjuBC+C9H2coCr10wO8zqgIsLKLHsuufNV/fqPC4xTXEZsp98KxWhwvD8Mlj+mKiYFnUv6AQgFtTtxTRoBEt7kNStFEgSrmjrcjH0Azh/OInqCl4YZ659V0ddvBbA0i9xlL3ulcu21F26jVO133ZTLdvIUDHegQ8DtC6adCegUcdUnhgpI6yf5ix1wPpcCOjBw+poutfjPf0xQ6nITiKqdGyI9zPb3IrQmrqj99jtLTXUr1amg=;rTS18JhEac8ybqQ63kRMlg=="
 ---

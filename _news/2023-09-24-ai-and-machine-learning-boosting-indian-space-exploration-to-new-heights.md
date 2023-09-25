@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "The Financial Costs Of Deep Learning: What Businesses Should Consider"
-    excerpt: "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems."
-    publishedDateTime: 2023-09-20T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/"
+  - title: "AI in education: Challenges to transform learning"
+    excerpt: "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ..."
+    publishedDateTime: 2023-09-24T07:40:00Z
+    webUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/"
+    ampWebUrl: "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649f2a00eb04efff54d23657/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/AI-2-1.jpg"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "AI integration: Transforming the sector and empowering savers"
+    excerpt: "The correct implementation of artificial intelligence could transform the pensions sector, writes Smart's chief investment officer Paul Bucksey"
+    publishedDateTime: 2023-09-21T04:30:00Z
+    webUrl: "https://www.altfi.com/article/ai-integration-transforming-the-sector-and-empowering-savers"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/52vPSxlenH7NnDJniIxZIr/07caacf9aa69ddb686acf5a59bb50e46/shutterstock_2231710273.jpg"
+        width: 5115
+        height: 2880
         isCached: true
 
 secured: "ZeQcO8v/VhBJp8zeh3mKJKy3/nJReq5ZATWv8HrjhTV1vJv2wIazet3vcrLP2VT8kNw6YP4v8sSRwKR3t3UBXDrFIFsqeL+byYrXkY/LDQbT0ouPMKLozzgR+2DMie3O3ZS8Ed2G94dAQXjEnThBibL5quZAdwJ1qw/gjQYh0WDp+BW05P8b7sCjBe2UnvvskLBICwdmBorng3h6/WkVnENj2jftMQ8XjQyrE0kolEq5dhJFM0FQGjZ/3ZR5sCXPNAag5laStMw8TbRhzrKlgyEXbmIIWSc9SyGXlhJCDJRJoHTUzcaJApcrApHjI1vSSHBHBetxrZeFUavps7BSP7ht+sa3TnkIKsCwVqgsXdSJG3FZ0HcB5caNtXPX9M9yh6RYMbZdai3i4F5+JbrmaICHXsFyHu8LzKuQ+/3CiORoEIgjvB3010KNbWAtReu2CukBFR4d5ZnQ4fINKW92pZjLNMtC46JOX4J60+smALtjwjnazsPHsIOaPN4R5lJXXU6GFdYAYCQ8r9q8vluo1g==;hglNwQXc/NwZPzwtUJG4fw=="

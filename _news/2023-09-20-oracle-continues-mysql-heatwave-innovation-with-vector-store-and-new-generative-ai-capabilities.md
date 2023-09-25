@@ -59,6 +59,6 @@ related:
       domain: nextplatform.com
     quality: 34
 
-secured: "cApOV0HkWzEGtURVCs8dxQouIeGey9Cu+/7Us7taujpda+5D5CJPRqth0VZ3oHtj84uMuUS+2CjL9CmdpOx7oGXDskSdvlsq8EIgXR/mIYFz+/ir72rxhjszRjHLTD0r3X/MgZqOrOT1QX00E/5qzOkyShdpSmYlLo6JvGccdSeGoNE56pJDvEpr+G5AaZzJNo4tTpBZ6ub47qV8h0DGCks5uPr7HfhVXYjJh59jYerix4rGo1di8ua1genbwu4kHyw7UhWa/YvpRssZakD/b9SSCz0ShL9ydKgF4FTv4mgigsRJKfupx590C7whNorVS67e5n7L1+CUzd1uwWug2aY5nyBbMArHgXcnTIybuVg=;M6/JRFpoAqcgCCqiEw0w9Q=="
+secured: "Ud1D1qeZn6i1vBe+/zUHDyULYnV2tdEt/Og1pPGQ+5qkzoVrTA4F1X2n8LEml+JgSPXomG6KPPMdWRJpUizK+URRZcZnT+WIVNB1sEsns3xO+HH7KdZW0olPWQUBfGAbi2XOz0YtDOP81knsPy4xBfrn0lLEVkv+qU6S1SAqQoagQKm9Pd1ROkLkonGVvHNl3OBuST/L1rK/NdO8uDgpenZI6I4WaJAVqPCtPjnH7TYziBWb5zarNC1hhUTYlwWMA1u4Nl4BQ19WPmMlW3AUw3H3UYmpUlLYU4nLigQqQn8pvQILoRwS1qXi+qNN8zcnU6gHRIEvlLC9icNhJMKrjKelMsRMORl9V2u+z0mhuXQ=;hmuGdjjld0qaCAX/Kg6JwA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/markets/easemytrips-introduces-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/easemytrips-introduces-smart-voice-recognition/article67329633.ece/amp/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "EaseMyTrip launches Smart Voice Recognition Technology"
+    excerpt: "EaseMyTrip.com is set to redefine the travel booking experience with the EaseMyTrip Smart Voice Recognition Technology."
+    publishedDateTime: 2023-09-25T00:15:00Z
+    webUrl: "https://www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/"
+    ampWebUrl: "https://www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/easemytrip-launches-smart-voice-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 44
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/09/shutterstock_1250778367-scaled.jpg"
+        width: 2048
+        height: 1291
+        isCached: true
   - title: "EaseMyTrip launches Smart Voice Recognition Technology that Redefines Customers Travel Booking Experience"
     excerpt: "EaseMyTrip.com, one of India’s largest online travel tech platforms is set to redefine the travel booking experience with its groundbreaking innovation - the EaseMyTrip Smart Voice Recognition Technology."
     publishedDateTime: 2023-09-21T12:14:00Z

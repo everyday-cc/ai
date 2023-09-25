@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/09/Amazon-Echo-Hub.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
-    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
-    publishedDateTime: 2023-09-20T10:40:00Z
-    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 38
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "C5CzMN6neXXPeSwLNqL9Ud5D1AjNtLpN5NMlODGH8BkhEXwI3/FrxKlbC2HKI1BwcAgUQnaxwV/z1WU7jywxf6rYh3Vlc1jgXdh2bEkRsQiV1eMJJOiXGlgJcGV9zah6YjkE03ig7XCoX3R2Cb2aG9pk9ISkrvtBGirFnhphDY8jOevFkuQ0bv2GDwQYraEMTSv1o72DztftWEa4/1H3HD4VrIJwOcTDUgPfgtHxuIfH0PgZPJIOwuENX5oK/JuMU3jcKtee2Miw7v9t6KjO9maQByrmvYMRKzMgKnOKKe4fhztFN3fkmNoF56rHKNdcivGhIdpz39nR4m8r3eeYLLK1dq98bWjw5j6Ifg9kP5rvbpVaIJVFAnUv29mF3xzxT0F2/tt9MRrTMtZqP1YjvSIFk9pR/BQ4HPX8rbKPWCmIJBdxt3IPvW0YotGy5uIYyPfe10Zezc78huH0s6ZZbiynCk/dZB5LRQJWbUzGYtU5cQmISlC+245HzcsSFOsbYQ4kM681NeBqhLIb6laH4w==;r963N4ssVXkCTNXPnXC0qA=="

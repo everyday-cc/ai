@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "How AI-Generated Code Is Creating a New Revolution in Cloud Applications"
-    excerpt: "Discover how AI-generated code is reshaping cloud app development, optimizing resources, and enhancing user experiences"
-    publishedDateTime: 2023-09-20T10:40:00Z
-    webUrl: "https://www.techopedia.com/how-ai-generated-code-is-creating-a-new-revolution-in-cloud-applications"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 38
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/09/phohe_with_cloud_01.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "i/qG6Lo1+qKTIao70rcg3EC3DmLvZ2RR8Siv1ZGC/pJSbMOpS6x3z1JGB/o4H2BQyqHlrqCVG8cGLISd9Rci6HRAH1n4Gp+BC2gIdausjlZ9gQVn1xpxWo/vnhwe8vO2U9Zv6Y16bpudM/tchhBiBJlyPscOM9XbBjmnJMbLCZvDy9r3Tui7hPMNDi6ESCr/Q8Oa0wAOb0IMYMKt7p516iL3FERyToiqzr0HJ1Xy/1zEbKT8KsbdbbMIcdVxJnQ984rVoBPl7+vwi+UGJ0pbADG3i4VCHUV+kG7/NKGW4LmQGG+3uGwrKi1gzjBTD6rorHUcM/qwLolwpKGOfJqtb78PwpDgAHXsY+kw8OXv9jBjBCX9apHZ22AG+7cX6eRNMwnUuaSU7O8aq7qofIWAjfrdEYBM2ql5uclyc2aT6JmTUJWEVQ2+le/FeESe10ImsQGYYM5h8MTOIB3uoUdJrd6Ft/B26FsrxTIOUzJ3aylIYP3UL/Rn3Ir5Vdy6ULRDizCq5QZe7PCa33wD4pRI5Q==;324SDQtKBTQiw59++y8TSg=="
 ---

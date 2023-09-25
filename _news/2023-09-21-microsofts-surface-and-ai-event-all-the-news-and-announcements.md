@@ -281,15 +281,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI Startup Corti Raises $60 Million to Take on Microsoft in Health Care"
-    excerpt: "Corti ApS, a medical software startup, has raised $60 million to sell an AI “co-pilot” to more hospitals and compete with Microsoft, Amazon and other tech giants racing into health care."
-    publishedDateTime: 2023-09-20T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-20/ai-startup-corti-raises-60-million-to-take-on-microsoft-in-health-care"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Microsoft Surface Laptop Studio 2 Is Coming With RTX Graphics And A Dedicated AI Chip"
     excerpt: "Microsoft announced its new Surface Laptop Studio 2 with RTX graphics and a dedicated AI chip yesterday. The tech giant also revealed its latest Surface Laptop Go 3 and Surface Go 4. Microsoft Surface Laptop Studio 2 The Surface Laptop Studio 2 is touted as being the most potent and versatile Surface Laptop yet."
     publishedDateTime: 2023-09-22T16:11:00Z
@@ -391,15 +382,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 36
-  - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
-    excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
-    publishedDateTime: 2023-09-20T09:51:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/microsoft-surface-and-ai-event-on-sept-21-where-to-watch-what-to-expect-123092000590_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
   - title: "Microsoft is rolling out generative AI in Windows and Office app"
     excerpt: "Microsoft's Copilot-branded AI assistants will provide a unified experience across operating systems, applications and devices, CEO Satya Nadella said."
     publishedDateTime: 2023-09-21T15:34:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/mg25934570-700-starfield-revi
 webUrl: "https://www.newscientist.com/article/mg25934570-700-starfield-review-too-much-ai-generated-content-makes-for-a-dull-game/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "HeyGen Review: The Best AI Video Generator for Businesses?"
+    excerpt: "Looking for the best AI video generator for your business? Read this HeyGen review to learn about its features, benefits, and more."
+    publishedDateTime: 2023-09-25T01:54:00Z
+    webUrl: "https://www.unite.ai/heygen-review/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/09/heygen-review-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "Jj0m7esb9rH1RWy7A7B+63NZYBki29t7WQrvmlPRRQjPkEIn84Tkuog+rYRF9u/fatj60+w2VDMljCOsw9boshCVZh9m9N8+wSmhrc8tDKGuX7l+eFFqEet1E6Y6Es89vImbv4Z5iAfvGTNFuSW9mrUj1gqzNmwL5IT0sR/0HUgQW6np+YYTOWMfvgAqA+V+all/51CNoMwagXnlQkrdXy+unVq8U9PHUl9Z618ddVDCV2MayPQzctsTzQIPzGvmqCaBee8MP8yKnnv9l9fV4Ycg754aA/bzJRKVFRHKev8AmR9ELIikBnx1GdLtTPYJElZB+MGUk5OjsnhdQ6gcvfOMBgH6A+Yt2WBX7COkvuCI6nL3FQ5hxtB0zQEhpZlwQfSxB+x4hvOEf7fZRI0nUtyc2oV9yLQGeWEpNFJK++RvkrnTfpg+WOsCCGNzmhCTvFA/8iA8OPM0dvOIrfrF+jBZZIo+oxaEJ/a6Netju4l4l0Ocjtquv3l5N/+W4LWR1UOHNgaVjSh/4wDvuwekCA==;uo/JORb+qv3S8drGGNJuFw=="
 ---

@@ -277,15 +277,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI Startup Corti Raises $60 Million to Take on Microsoft in Health Care"
-    excerpt: "Corti ApS, a medical software startup, has raised $60 million to sell an AI “co-pilot” to more hospitals and compete with Microsoft, Amazon and other tech giants racing into health care."
-    publishedDateTime: 2023-09-20T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-09-20/ai-startup-corti-raises-60-million-to-take-on-microsoft-in-health-care"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Microsoft’s Surface and AI event: all the news and announcements"
     excerpt: "Panos Panay has always been the force behind Microsoft’s Surface line. He helped bring Surface to life as a secret project more than 10 years ago. He’s presented the new devices onstage at events, showed up at malls to promote Surface hardware, and has steered Microsoft’s Surface tablets to success in the years since."
     publishedDateTime: 2023-09-21T13:15:00Z
@@ -396,15 +387,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 36
-  - title: "Microsoft Surface and AI event on Sept 21: Where to watch, what to expect"
-    excerpt: "At the event, Microsoft is expected to launch new devices in its Surface laptops line and introduce new AI-powered tools for Windows operating system"
-    publishedDateTime: 2023-09-20T09:51:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/microsoft-surface-and-ai-event-on-sept-21-where-to-watch-what-to-expect-123092000590_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
   - title: "Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data"
     excerpt: "Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data."
     publishedDateTime: 2023-09-22T19:18:00Z

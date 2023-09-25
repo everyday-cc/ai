@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/ibm-commits-to-train-2m-in-a
 webUrl: "https://www.datanami.com/this-just-in/ibm-commits-to-train-2m-in-artificial-intelligence-in-3-years-with-a-focus-on-underrepresented-communities/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
   - AI Ethics
-
-related:
-  - title: "IBM will train 2m in AI, with focus on the underserved"
-    excerpt: "IBM SkillsBuild already offers free coursework in AI fundamentals, chatbots, and crucial topics such as AI ethics. The new generative AI roadmap includes coursework and enhanced features. * Coursework includes Prompt-Writing, Getting Started with Machine ..."
-    publishedDateTime: 2023-09-20T09:17:00Z
-    webUrl: "https://it-online.co.za/2023/09/20/ibm-will-train-2m-in-ai-with-focus-on-the-underserved/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "xlmlXg71TIcaHPJIJAYNlXriwps682ZGuiA0v0XtNvc1Um8OJOdWvVkBIHsNiBPrqW4t56NxT7pfsD8bA5igNIgz7t+d305HYdgPYIBYyatJbQOO4XUdpsn0K8INW8A29PL5GaiRL3oQaCZ6k7mAYueVir//H54dcrsOB6778ZYQMo9rnmA/aKWuMcVggWKWEXWsimNN/IH1QEi9CnDzXg9euul6BVtPTvD7s+UgI60aP36bvO73sfajswVONLdyBc4b8sIczsn/Ho/593jH1OEf7tx0EBmj5bI+xu1OXW7rXlRemgb0bjoAFsrEXfMU6nbohLzjOpINvBrp/VIR7NmwYtYvbxAl3aqxD+QEA0iC56sAIMO22DkJbA6fPxMLWrVx49p5Ug6h5UDcLtCcub9dYZN8VA+WIlYyjkvfuBNECIbv3J8g6BfDglGBbEOuU5Hcs125Gpze/q4A4jVnkRuy1Bq2frB3xZm5SXD6qLkdYX3dn/ddXcUAifuyc1bKJxX65+TnLadILb8Iym53Yg==;sbzFArllc/p6iI8upyn3mg=="
 ---

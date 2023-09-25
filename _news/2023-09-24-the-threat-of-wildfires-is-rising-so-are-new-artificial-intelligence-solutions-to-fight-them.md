@@ -36,32 +36,18 @@ related:
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
     publishedDateTime: 2023-09-24T22:36:00Z
-    webUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-    ampWebUrl: "https://www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-    cdnAmpWebUrl: "https://www-14news-com.cdn.ampproject.org/c/s/www.14news.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    webUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
     type: article
     provider:
-      name: 14 NEWS
-      domain: 14news.com
+      name: WABI-TV
+      domain: wabi.tv
     quality: 48
     images:
-      - url: "https://gray-wfie-prod.cdn.arcpublishing.com/resizer/YWrBHKNqfpN0IrYPppSsbWovxCc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3XMKK34BRFH4LK652MTXWNT4FM.png"
+      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/AzYs74NsDRCoqbh14cAUBf9ribs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OT7EXYSEVFZRE3XX6IT3QTCMI.PNG"
         width: 800
         height: 450
-        isCached: true
-  - title: "San Antonians fall prey to scheme involving artificial intelligence, ‘voice cloning’"
-    excerpt: "Criminals are able to clone people's voices from online content, then use that to trick loved ones into handing over money."
-    publishedDateTime: 2023-09-20T09:51:00Z
-    webUrl: "https://www.ksat.com/news/local/2023/09/20/san-antonians-fall-prey-to-scheme-involving-artificial-intelligence-voice-cloning/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 30
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/09-20-2023/t_f8ce4b1fd99a4d708a2842516eb78372_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "WfhTInxCLUL4lMBFpkfn0BrtC0WkpfD9somJ0Vvbr6oL9qy/P1ZwyKwlVemcwckZqzXoSRKgBu0sTLRedTxNHS6PzstXHqG36/DyuF5MqArMz/eXU1GqilmAIGIiJXfVJ3wQCHh62oYPmG8qRKI6Awj+M6nazYznI1vMez8flCrjXCtdkJaI8Cojcc0D8TEeS9R44Y/RfJ40PXTb+uKOI/MtO+/myKaC3U1RQB+SUo7XhyCvG6A+vSRE5Kx3tOcXoUjCh3jM3TZBPP1/jF8W0ttkNNaQUqf2nE9ZmJoOeAMNjvKdnAmtdqWCir5jNqaFhOfKgiZ5xbzsZfYsCTYKznAStaqpN2/tSUFcHadmEbaJ0jnAIpxxYhQvuZv2vaUwUbS6xHhz2gIW7XooiXXVH9yn1I/S9loCY3JTYtWYGwQq80Lxqa6ZqqtdDMHMsVHsWyYTT5i//6fmhPU7rEDaxpcwIlSCH0IythzwqgdqzmaBZjz5Q6q+DEPmT2WraEl8xS+6bQTl4pGNtRjOSVrqRg==;zB4rHbnOzSvE7oKNeLi/1w=="

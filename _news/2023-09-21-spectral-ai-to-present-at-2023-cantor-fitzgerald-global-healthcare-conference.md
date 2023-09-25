@@ -29,11 +29,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 837
+        isCached: true
+  - title: "Dubai To Lead Global Fintech Innovation"
+    excerpt: "Investments in FinTech, projected to grow at a compound annual growth rate CAGR of 17.2 per cent to $949 billion from 2022 to 2030, a report showed on Wednesday."
+    publishedDateTime: 2023-09-21T03:47:00Z
+    webUrl: "https://menafn.com/1107110297/Dubai-To-Lead-Global-Fintech-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-09/20/KT_0ec69image_story.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YdCJtjrhLf5p4JW1Ug6wdet8T8moz/i3CNosK2KpcLVQ/kXiOZgd3bOMIY9vPfOz1zh5TEM2tBzpry7jYbD3KemFgKwmOLpl0JyfRreCOECVWqoZjParhHt0EOKz04+Hsvw1BUrep67TlR3gPirsWFPC3EW60hFS4zlRlEra+hmHaHAZQWO2pgauiWHScd6zvIimo4m5CMYjTdKvtkyXK53fJ7Mrrvm7Sj8k2WaB8gpfNAVLQxfbEvkraEd3NBR+j7tOyO7h8LeUHk4ikgyf3MbVYAtz/8kvqCnYUNZarCkJBE7jNGxU+nHMIWw/Qwh5l1h/AkoKl4DQnGmTP9WjvKLrArtWJZgdWMoSsW0WwZA=;o7VuVO27r+mH1CsFD+QzaA=="
