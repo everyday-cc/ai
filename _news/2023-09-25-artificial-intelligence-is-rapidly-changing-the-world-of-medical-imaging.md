@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intellige
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 110
 published: true
 
 provider:

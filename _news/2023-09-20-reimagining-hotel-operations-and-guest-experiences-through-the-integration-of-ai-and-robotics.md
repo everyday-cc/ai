@@ -7,8 +7,8 @@ originalUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operatio
 webUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: hoteltechnologynews
@@ -25,31 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Prompt Engineering Technique Chain-Of-Verification Does A Sleek Job Of Keeping Generative AI Honest And Upright"
-    excerpt: "Prompt engineering welcomes the new Chain-of-Verification technique, aiming to deal with onerous generative AI issues such as errors, falsehoods, and AI hallucinations."
-    publishedDateTime: 2023-09-23T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
+  - title: "Mission Lane: Delivering next-level operations through AI"
+    excerpt: "Mike Lempner, Head of Engineering and Technology at Mission Lane, says: \"Our ability to automate tasks that would typically take hours to complete manually has freed up our time to focus more on our customers, delivering quality services, and working with them to improve their financial standing\""
+    publishedDateTime: 2023-09-24T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/mission-lane-delivering-next-level-operations-through-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1827,1217,x142,y0,safe&width=1200"
+      - url: "https://assets.bizclikmedia.net/1200/ab13343781317cd9e4d8be0c401fc12b:ac00513aff45b9e3e65777890cf65040/mike-lempner.jpg.jpg"
         width: 1200
-        height: 799
+        height: 630
         isCached: true
-  - title: "Prompt Engineering New Chain-Of-Density Technique Prompts Generative AI Toward Smartly Jampacking Crucial Content"
-    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
-    publishedDateTime: 2023-09-20T16:18:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/20/prompt-engineering-new-chain-of-density-technique-prompts-generative-ai-toward-smartly-jampacking-crucial-content/"
+  - title: "Unlocking the Future: How Artificial Intelligence is Revolutionising Business Operations"
+    excerpt: "In today’s rapidly evolving business landscape, companies are continually seeking innovative ways to gain a competitive edge and boost efficiency. One such innovation that has been quietly transforming various industries is Artificial Intelligence (AI)."
+    publishedDateTime: 2023-09-21T09:38:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-how-artificial-intelligence-is-revolutionising-business-operations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 28
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/09/Artificial-Intelligence-is-Revolutionising-Business-Operations-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Wondershare Filmora Takes Centre Stage at Intel Innovation Conference 2023, Demonstrating AI-Powered Features in Video Editing"
+    excerpt: "The Intel Innovation Conference is a hub for developers seeking the latest technological advancements. Wondershare Filmora joined Intel on stage to introduce the audience to its tools harnessing Intel's CPU, GPU, and NPU technologies on the Meteor Lake platform."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-filmora-takes-centre-stage-at-intel-innovation-conference-2023-demonstrating-ai-powered-features-in-video-editing-1032644591"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
+  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
+    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
+    publishedDateTime: 2023-09-20T13:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "bMXHUosCpDjGuReM2aMsfbz+Vm4HJOvMWP33FHHMEwSmVH+8pfuKUv68E6Sw//Rt1xPBIbQ6w3qGruV1QkFakruOvCs9MLACKvw96GscGc2Dz5MWVRs15QEKkSgfuW6cB6thkTd6BxHptJNXMfYRBsuQkcYP+mn2LzoR/5qhpGnSJpGeXaydYnliTgpi+seAiFpzmo9qxWOYCdgg+UyyLy7Fbm11t/0/c1x7gctXB2Sh2ufaEXW4u4+OeH8F6GsrPBgmZUZvgc74x3R8Pi89CvkYmFAmNmYMW0Fx9Iv6fxKqhL/fH5KcVCEL04fq7hVn3j3mWFMaeCwQ93onVTMriY8d4VyV2Ky8KNjkc4YKnM4LhtKhYkhVsuwt/qxcyNACHFyawHfNHf4GPE+FEMpjOR0WKx0aDtVEy8RJw+zaarr1x9aNRIHO/b8IqhbY/es6LJaC0KB9vOSyhji2iTym2m/ydLXFe+2D9WBbwBXnhFNh6Lmb63SU2D5q8i/IhYiVV56k3bVETIxkx4x8gec9Bw==;/1xLddpJjQoKiS7uZif5fg=="
 ---

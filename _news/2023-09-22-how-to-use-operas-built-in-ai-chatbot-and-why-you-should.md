@@ -30,19 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "Meta gears up to launch dozens of AI chatbots for younger users"
-    excerpt: "Meta is reportedly working on generative AI chatbot called ‘Gen AI Personas’ for younger users and is expected to unveil it this"
-    publishedDateTime: 2023-09-25T03:47:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
+  - title: "Meta Gears Up To Launch Dozens Of AI Chatbots For Younger Users"
+    excerpt: "Meta is reportedly working on generative AI chatbot called 'Gen AI Personas' for younger users and is expected to unveil"
+    publishedDateTime: 2023-09-25T04:30:00Z
+    webUrl: "https://menafn.com/1107131868/Meta-Gears-Up-To-Launch-Dozens-Of-AI-Chatbots-For-Younger-Users"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/09/d5f1ef7ed336f9b86f5820a673accefc-1.jpg"
+      - url: "https://menafn.com/updates/pr/2023-09/24/I_ccf26image_story.jpg"
         width: 825
         height: 450
         isCached: true

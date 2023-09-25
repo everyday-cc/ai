@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/24/writers-strike-negotiations-hung
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

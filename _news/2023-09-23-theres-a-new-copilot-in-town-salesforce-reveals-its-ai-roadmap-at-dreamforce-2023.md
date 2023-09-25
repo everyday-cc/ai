@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "Salesforce to acquire AI customer service startup Airkit.ai"
+    excerpt: "Following the acquisition, Airkit.ai will become a subsidiary of Service Cloud and will be led by Adam Evans, Co-Founder and CTO of Airkit.ai."
+    publishedDateTime: 2023-09-25T05:10:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/mergers-acquisitions/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/103921513"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103921513,imgsize-41186,width-1200,height=765,overlay-etcio/mergers-acquisitions/salesforce-to-acquire-ai-customer-service-startup-airkit-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Salesforce acquires Airkit.ai, a low-code platform to build chatbots"
     excerpt: "Salesforce is acquiring GPT4-based low-code platform Airkit.ai. The CRM and cloud giant plans to integrate the solution into its Service Cloud"
     publishedDateTime: 2023-09-22T09:23:00Z

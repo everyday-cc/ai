@@ -78,15 +78,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
-  - title: "How scientists are using artificial intelligence to fight pollution from coal trains"
-    excerpt: "A team of researchers is using artificial intelligence to help the city of Oakland figure out how much pollution coal trains leave behind in the communities they travel through."
-    publishedDateTime: 2023-09-20T12:59:00Z
-    webUrl: "https://www.kalw.org/climate/2023-09-20/how-scientists-are-using-artificial-intelligence-to-fight-pollution-from-coal-trains"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 25
   - title: "Trend Micro Launches Internal AI Contest to Drive Innovation"
     excerpt: "Trend is a pioneer in the use of AI and machine learning for cybersecurity, having embedded the technology in products as far back as 2005 for early use in spam filtering. Over the years, the company expanded and matured its use of AI, developing new models to detect and contain unknown threats more effectively."
     publishedDateTime: 2023-09-21T13:22:00Z

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries"
-excerpt: "In addition, DEEPX is forging strategic partnerships with module and IT system OEMs across the globe. These collaborations aim to integrate DEEPX's products into various embedded systems, with plans to expand the range of open-source hardware products compatible with DEEPX's offerings in the future."
-publishedDateTime: 2023-09-11T15:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/09/11/9878244.htm"
-webUrl: "https://it.tmcnet.com/news/2023/09/11/9878244.htm"
+excerpt: "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ..."
+publishedDateTime: 2023-09-11T13:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda"
+ampWebUrl: "https://www.benzinga.com/amp/content/34439742"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34439742"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2206599/DEEPX__M_2_Module_based_Orange_Pi.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "OPSOgybS6phiBzl5yFvc6GWtTjx4pV5x8XxB/0Vyq3oh+6UJ+T/DRcLny8yKjXuFzL2mvKl7fE3XTr1AJEuhJD2JXDFDOd05dmKIuYN7f0eZpxv6jg4qGXNZ15fkFrobxoWc/38FaRagaSEB+Wed2HxMJj0ePtugfmLEANE8lE9p9cWU8Kxqnlvb9CMNzJrzsH5s1IS8WPRsGHx+NsJBiy+h5EbPdZREHokbo6H4GJkzd33E8bpi3oW/iNhomgCQisq2/8gZBQktkejOS7Mv6w8mLpGVJkFiRQkeLOLvxlHrCQMgFJxTPAjgEpZaOujAn455nFd8Tek5MpRzv9f5f67sCUau4BPG+gJ0hRtWb5w=;0v5qDQ7CNhk3a5bUDr5nHw=="
+secured: "ho8qwmKPKJHvEUBSaOAuX9kxm129sPlcQcCQWJx2Bl8TMR96GRJ/K7jwMzLEDILKrKjR/C4YWzG1dLz9/B1Wst5tm2UDv96CIlvXTEGQL+z3QDW9rc+uMAj2hanLsU3ILZmCjf0uHM3dXKZnl08QssgTfwq4/+e4IemhhhVbPPAh+9PxWV08Sq5uw6MWekyA2oc4GkOkW95WcRoXrxY4HRHw+ebx8CCgeq2Gqrn3cky2gYNNzIMigidHCLMMzYHBcgLEIgRjALBWesGo5CzdQHzmu5ukJx8AgSg7zM8rllR/fXHPj2Cg2q7beUdh3lhCoApk4Qwrdl+TYjLJ/IkEP81sfEe08XNW4S9oh0pLDJA=;i9yFk7QjskL6233NOIDGCA=="
 ---
 

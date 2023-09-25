@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-chin
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Barron's
@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics - Southern Asia"
-    excerpt: "The market size in the AI Robotics market is projected to reach US$370.40m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.52%, resulting in a market ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Service Robotics - Southern Asia"
-    excerpt: "The market size in the AI Service Robotics market is projected to reach US$156.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.78%, resulting in a ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/southern-asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hi, Robot: machines take over at China's Asian Games"
     excerpt: "From autonomous bug zappers to android pianists and driverless ice-cream trucks, machines rule the world -- at least at China's Asian Games. The Games open Saturday after a one-year delay because of Covid with about 12,000 athletes and thousands of journalists, technical officials and spectators descending on Hangzhou."
     publishedDateTime: 2023-09-24T09:46:00Z
@@ -72,43 +44,40 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Computer Vision - Southern Asia"
-    excerpt: "The market size in the Computer Vision market is projected to reach US$469.50m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.00%, resulting in a market ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/southern-asia"
+  - title: "Robots, machines dominate China's Asian Games"
+    excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
+    publishedDateTime: 2023-09-23T08:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1112638-robots-machines-dominate-chinas-asian-games"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
+      name: The News International
+      domain: thenews.com.pk
+    quality: 44
     images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-09-23/l_1112638_123141_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
-  - title: "Natural Language Processing - Southern Asia"
-    excerpt: "The market size in the Natural Language Processing market is projected to reach US$505.10m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 19.43% ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/southern-asia"
+  - title: "Hi, Robot: machines ubiquitous at Asian Games"
+    excerpt: "Summing up how keen China is to push the theme at the Games, the mascots are three humanoid robots — Congcong, Lianlian and Chenchen, whose smiling faces adorn massive signs across Hangzhou and other nearby host cities. Hangzhou, a city of 12 million people in China's east, has built up a reputation as a home for tech startups."
+    publishedDateTime: 2023-09-25T05:28:00Z
+    webUrl: "https://en.dahe.cn/2023/09-25/1309395.html"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition - Southern Asia"
-    excerpt: "The market size in the Speech Recognition market is projected to reach US$145.70m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 20.61%, resulting in a ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/southern-asia"
+      name: en.dahe
+      domain: dahe.cn
+    quality: 21
+  - title: "Machines take over at Asian Games"
+    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+    publishedDateTime: 2023-09-23T00:00:00Z
+    webUrl: "https://tribune.com.pk/story/2437408/machines-take-over-at-asian-games"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 19
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 4
 
 secured: "5YfCEqo4QuVeCDpnTH+cRu5X86KhjDyDaTXubgTZYUvEHAQeQw4rbN8iHr75Q8q9YHMgTgkr9o88fcFxecmSEr3ZH+9YCd8J1bzHjBOLtAHQbg3TikziLmTWiNrq37MN6JKgKEGW7wgd4AJtor9W2wYYnU7BNpAANiYDipmvcILnT2QyfyTfu5DMDC1Ldmae5vGvbJYMTT2cp8ASw98bBDW+55e9briMRkiC7WCcnPcetLz6PzBcrsdKLlyoVnbovGyMYYYr+tkWOQraP2UmPBtrihHwRMBSzmc39byuLy/AHetCThlHikFBVicLH+9diZ4AJfP02oZRpE4Zq6h0YtaC+z6hA9GVOsIBQnyxaZzhK4BPeJpV/nooZIWUjStIXmXtlzjKsTi6CPJyhIfp6BEXajHkzS5b4jtkjYpfdaD/H+yPKuCnV+olOwTNFvFClbw2dITnxcTxpG3vj6IpppYMFY0LzGhW9SDtbm1hxZCnGWrEB7mo6Ye9hA6RWmXI++sU8cOD04asIsLMnkHD3w==;x3AJdUntjkvKMz61NN9yAA=="
 ---

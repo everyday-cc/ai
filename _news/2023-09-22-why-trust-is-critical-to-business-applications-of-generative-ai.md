@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-busine
 webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -29,40 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Why Generative AI Must Be Transformative, Not Just Innovative"
-    excerpt: "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques."
-    publishedDateTime: 2023-09-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/"
+  - title: "Latest Prompt Engineering Technique Chain-Of-Verification Does A Sleek Job Of Keeping Generative AI Honest And Upright"
+    excerpt: "Prompt engineering welcomes the new Chain-of-Verification technique, aiming to deal with onerous generative AI issues such as errors, falsehoods, and AI hallucinations."
+    publishedDateTime: 2023-09-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 65
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1827,1217,x142,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 799
         isCached: true
-  - title: "SambaNova Tackles Generative AI With New Chip And New Approach"
-    excerpt: "If you have the entire corpus of the Internet scrubbed of nonsense plus whatever else you can scrounge up in whatever language all put into the right format so you can chew on that data one token at a"
-    publishedDateTime: 2023-09-20T18:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/09/20/sambanova-tackles-generative-ai-with-new-chip-and-new-approach/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 34
-  - title: "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities"
-    excerpt: "These documents are used to augment the prompt given to the LLM so that it provides a more contextual answer. MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't ..."
-    publishedDateTime: 2023-09-20T12:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/09/20/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 7
 
 secured: "HrBr55+gJ2Cnu2JxmuvL9ZwukW1en9mNqrPvsmDOEaE41xkimcedh19FGe3DaIM1zrc8lbh8he0PLZAGdrZsOcNC+FsSkywV0CPvFCiaWH+1jqGhkxcB9y+N4tYiUcumY4rYyLopPPvhtb1EyNTb4RorGfEse0Spa2BbQzpS/ekoN7dTnEcY63Jx0wl1o3Htu8J9V2SttesMQ67k4uJE8OytZNkhLgq/atg5Tn3jre44pL0D92FKPMvRUA6Viax2jB8U+B27V5+I9CCGJgX7ti7RFRk7Dtwr6bJBeQPxgo5HRdnVLLYvHqpxV+scI7mJbssrwWd7cbHT068v1aSQWs11Y+SF9rTBYesG6SBLsnA=;8eQuFjjoYRPrq8jQftF6nw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-
 webUrl: "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/"
 type: article
 quality: 69
-heat: 91
+heat: 89
 published: true
 
 provider:

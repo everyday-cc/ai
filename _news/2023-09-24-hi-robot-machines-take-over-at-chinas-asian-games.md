@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics - Southern Asia"
-    excerpt: "The market size in the AI Robotics market is projected to reach US$370.40m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.52%, resulting in a market ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Service Robotics - Southern Asia"
-    excerpt: "The market size in the AI Service Robotics market is projected to reach US$156.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.78%, resulting in a ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/southern-asia"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hi, Robot: Machines Take Over At China's Asian Games"
     excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
     publishedDateTime: 2023-09-23T07:04:00Z
@@ -72,43 +44,40 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Computer Vision - Southern Asia"
-    excerpt: "The market size in the Computer Vision market is projected to reach US$469.50m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 17.00%, resulting in a market ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/southern-asia"
+  - title: "Robots, machines dominate China's Asian Games"
+    excerpt: "At the Asian Games in China, machines dominate the scene, from autonomous bug eliminators to android pianists and driverless ice-cream vans.After a one-year postponement due to COVID-19, the"
+    publishedDateTime: 2023-09-23T08:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1112638-robots-machines-dominate-chinas-asian-games"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1112638-robots-machines-dominate-chinas-asian-games"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
+      name: The News International
+      domain: thenews.com.pk
+    quality: 44
     images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-09-23/l_1112638_123141_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
-  - title: "Natural Language Processing - Southern Asia"
-    excerpt: "The market size in the Natural Language Processing market is projected to reach US$505.10m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 19.43% ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/southern-asia"
+  - title: "Hi, Robot: machines ubiquitous at Asian Games"
+    excerpt: "Summing up how keen China is to push the theme at the Games, the mascots are three humanoid robots — Congcong, Lianlian and Chenchen, whose smiling faces adorn massive signs across Hangzhou and other nearby host cities. Hangzhou, a city of 12 million people in China's east, has built up a reputation as a home for tech startups."
+    publishedDateTime: 2023-09-25T05:28:00Z
+    webUrl: "https://en.dahe.cn/2023/09-25/1309395.html"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 39
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition - Southern Asia"
-    excerpt: "The market size in the Speech Recognition market is projected to reach US$145.70m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 20.61%, resulting in a ..."
-    publishedDateTime: 2023-09-20T12:41:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/southern-asia"
+      name: en.dahe
+      domain: dahe.cn
+    quality: 21
+  - title: "Machines take over at Asian Games"
+    excerpt: "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans."
+    publishedDateTime: 2023-09-23T00:00:00Z
+    webUrl: "https://tribune.com.pk/story/2437408/machines-take-over-at-asian-games"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 19
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 4
 
 secured: "d8c+gIkR0lfhC2R/wSwhOa2B1vEbFBUi8GvtlYYwuo4YtmDkj3wHJoRhnobOt/0P67GuPjuSamOdoI1SGhnsp+bd/G2uyXZLwCOwjxgPd7+nQ4pSUEDaF7tsIJCNA/dzWq/jkUtdowBmsezhnGQZGcOvLDmvtI1sYWMLzEK0xN+DrzTgckKqabeIm9m6nyprvYVrpGd40D9DRgExODcf8JGg2huqge7l94gffTQRhzQhUeCjb+VHo7ukcOD5w9G0HgjFzF+jqd1Yp3bp3tXzuDhzR2/dYD/0im33mX1qTDH7tz7tMJ38RCFMM+htFCjOym4ne4m8h+kaGOFZKL0UffcFJK2ZQ+m03FGJ6UStEyXhfY/F+KRpzWntqBkjc/HGa05HcO1xt0qWeQPINXlphaxb4Ri8jbJl6dkvV92JkhovVSor1LocKpAYTqtzQYMIsGtq2klMGaOx38HHwrI04ziiB5y9+U0L88VH8Z63aQRpsEaNboqGunietKgJZvvHMRM+84+3hcwAYVRzAYKi4w==;x0q4d+tc45Vu3Iub+ejx7w=="
 ---

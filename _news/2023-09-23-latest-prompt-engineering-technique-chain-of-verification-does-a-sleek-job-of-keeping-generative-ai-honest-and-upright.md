@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-eng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,29 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics"
-    excerpt: "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly"
-    publishedDateTime: 2023-09-20T14:55:00Z
-    webUrl: "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/"
+  - title: "Why trust is critical to business applications of generative AI"
+    excerpt: "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ..."
+    publishedDateTime: 2023-09-22T15:10:00Z
+    webUrl: "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai"
     type: article
     provider:
-      name: hoteltechnologynews
-      domain: hoteltechnologynews.com
-    quality: 58
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Prompt Engineering New Chain-Of-Density Technique Prompts Generative AI Toward Smartly Jampacking Crucial Content"
-    excerpt: "AI Ethics and AI Law also stridently enter into the prompt engineering domain. For example, whatever prompt you opt to compose can directly or inadvertently elicit or foster the potential of generative AI to produce essays and interactions that imbue ..."
-    publishedDateTime: 2023-09-20T16:18:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/09/20/prompt-engineering-new-chain-of-density-technique-prompts-generative-ai-toward-smartly-jampacking-crucial-content/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 28
 
 secured: "VC4z0yXmydbzwnz9tHswwdU6NU7idwKViVBfF4yDAeSz7ExMAVwJLm9Jetqtvy2P/21Y7LFgi5Kldqi1sp5L1UmuIYkB+Va8cTb7xMC4x6hUVmUAvqIHeX4F7rqZyeg7hmt3CyiWcDVKbEeWIYQOmjXfxWwGcwRBiEQNaepxJVXys7exib3iM6SpSWoZRUlwhEKEhcTTZeboQ/KtH733+fIa/ik5T1DRJn4TnS1bymD79jfufIkFGwmQPHH58LpCzqIlSoMmEhE9rrkTekhG1dZ+9sKsCwISde3lu7xlU/HMeSs5oHyaBhHmtdpjnu0GdL2a+2Wp18+ZiBhbxc3LQS1+QX4lEXNQajDmN8tshg4goTxNt8ChatecTDBI3Os57sE5qnB//2PJmKMTeoFWekNTn+eMkJJZKFxhqP2a37crjhj+68afrx0geirxiSw1pJMO0/DqZwcVQ7Ce3kI8U9wjCW2YMlqHT0I1qDhNKKFZqwHy989ZjOl6FE5UlaQ2vsB58mXmZdOJKOqvIvDQ+Q==;EeQckv5ftJy4NgdjOwxAUg=="
 ---

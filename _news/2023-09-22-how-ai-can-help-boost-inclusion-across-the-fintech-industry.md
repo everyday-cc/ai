@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -65,24 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "B0RgBRMMMPxb7yCqvCR0Ls2sF4ovhQwENOQqHXiUkyIjmvZ/UuqvE+gCMqBpSt6kQCJUFDaHohMpVXsvb0GzszX/rgKKFtplcqV+WPXjvey3N8u9KP9RqrWSXq0COqxH4pbCL0p8ayM4Wetw4zs5o1MvDPtjl3mBPJiZzAm1/8/KuGX980zbO2Rpg5kiMrSfXf5Z1FMjBe7qgpZBKgFj5hLvdxxccEpiRED6LcG39HKlBiLvFYhIrgZNvdYSV5kS9Ag59ETxBdzlW4d0k2qDzYwwd3TDmkPwnX1FPw4J5QMPPlunwaP8JpjyD7RvTsHXzcnrRgJV/yLaaXnlzXANfvwmV9HM+HbQj9FtSyaFBAK4KhFnKV1j4ij6wYsz5pkAYRRmZgIxdCmCOavOjpuuFlmMFH2wNgaaLhB3ahR8zD0jHy6UYGYTdbUCHDSaHXiJ4bFARpOK/5m+/FkZjZPDaK3yCs1AH23ZwmMt7CghI3wB6S4erDkKns0r2ovBnRSDMtCPgXp1WRlmxgJDfDczJw==;WYshchMs5pCiVpQZJ2N0bg=="
 ---

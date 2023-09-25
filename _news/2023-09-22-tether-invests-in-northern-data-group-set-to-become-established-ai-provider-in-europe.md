@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
+    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
+    publishedDateTime: 2023-09-22T00:43:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
     excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
     publishedDateTime: 2023-09-21T18:00:00Z

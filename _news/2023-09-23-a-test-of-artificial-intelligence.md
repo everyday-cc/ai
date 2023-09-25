@@ -26,19 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Confessions of a Viral AI Writer"
-    excerpt: "One day I sat in on a meeting in which an entrepreneur asked him when AI would start replacing human workers. Altman equivocated at first, then brought up what happened to horses when cars were invented."
-    publishedDateTime: 2023-09-21T10:00:00Z
-    webUrl: "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/"
+  - title: "The Real Economic Problem Of AI Isn’t Tech But People"
+    excerpt: "The discussion has gone off because everyone is pretending that software makes its own decisions, but that is misdirection. The machines still do what people say."
+    publishedDateTime: 2023-09-25T03:57:00Z
+    webUrl: "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/"
+    ampWebUrl: "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/64efa222a15ccaa9aa267d87/191:100/w_1280,c_limit/WI100123_FF_AILit_01.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651104829b21a4bb90f0d27d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 794
+        isCached: true
+  - title: "The Real Test of Government-Regulated AI"
+    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
+    publishedDateTime: 2023-09-21T14:13:00Z
+    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-855174/social"
         width: 1280
-        height: 670
+        height: 640
+        isCached: true
+  - title: "Role of Artificial Intelligence in procure to pay"
+    excerpt: "With the advent of Artificial intelligence, the entire process of P2P has seen a paradigm shift. Artificial intelligence is a technology that enables machines to perform tasks that require human skills and intelligence."
+    publishedDateTime: 2023-09-23T07:30:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-artificial-intelligence-in-procure-to-pay-2-3251803/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-artificial-intelligence-in-procure-to-pay-2-3251803/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-artificial-intelligence-in-procure-to-pay-2-3251803/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T145345.152.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PkE4rKeY8RTJFDBnmWpXKfcKnm0Ii0gfr8tGht5esESFkwLp8KWN/i0sRjWiMKu5/swsUw433LyhEpoaisIVqBN35aJUumiVq5cm4TAe0YjYajNxx0C0+U51wkKH11j1TfKXHfSpGu4ptrYLSlAVlghXizyMQPd5UyRpeAMjXxvuPx8aCdWS9DFaLdgR5gU4eJNj+FW6b4VL0+uBnR2CUE7fOx4Ua7N441LfBjr317P647UC4cFY+zJ2+lXYEmhDSvIyzpRTBDf6oPXFf3fBKxZ4H5geX8SJIREoCaOX68sroc8kWS88M+ELfx4wZIPlH5BSUgfODD8kSDIV9f7TVMxd+IiuUjvCSnxJpqEyFlI=;e408np0D4gGG2CWyUrU3LQ=="

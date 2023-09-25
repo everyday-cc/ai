@@ -60,6 +60,20 @@ related:
       domain: forbes.com
     quality: 43
   - title: "Salesforce to acquire AI customer service startup Airkit.ai"
+    excerpt: "Following the acquisition, Airkit.ai will become a subsidiary of Service Cloud and will be led by Adam Evans, Co-Founder and CTO of Airkit.ai."
+    publishedDateTime: 2023-09-25T05:10:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/mergers-acquisitions/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/103921513"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-103921513,imgsize-41186,width-1200,height=765,overlay-etcio/mergers-acquisitions/salesforce-to-acquire-ai-customer-service-startup-airkit-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Salesforce to acquire AI customer service startup Airkit.ai"
     excerpt: "Airkit.ai empowers Fortune 500 and fast-growing businesses to create flexible, omni-channel customer engagement apps and AI-powered customer service agents. The addition of Airkit.ai to Salesforce will also assist the Service,"
     publishedDateTime: 2023-09-23T12:19:00Z
     webUrl: "https://timesofindia.indiatimes.com/business/startups/global/salesforce-to-acquire-ai-customer-service-startup-airkit-ai/articleshow/103891311.cms"

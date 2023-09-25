@@ -86,15 +86,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
-  - title: "How scientists are using artificial intelligence to fight pollution from coal trains"
-    excerpt: "A team of researchers is using artificial intelligence to help the city of Oakland figure out how much pollution coal trains leave behind in the communities they travel through."
-    publishedDateTime: 2023-09-20T12:59:00Z
-    webUrl: "https://www.kalw.org/climate/2023-09-20/how-scientists-are-using-artificial-intelligence-to-fight-pollution-from-coal-trains"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 25
   - title: "AI-Powered Assistants in the Workplace: Boosting Productivity and Efficiency"
     excerpt: "Artificial Intelligence (AI) has revolutionized the way we work and live, and one of its most transformative applications in the workplace is AI-powered assistants. These digital companions are reshaping the traditional office landscape,"
     publishedDateTime: 2023-09-22T18:34:00Z

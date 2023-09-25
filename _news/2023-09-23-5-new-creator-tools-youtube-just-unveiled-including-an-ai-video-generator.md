@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-new-creator-tools-youtube
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/"
 type: article
 quality: 85
-heat: 129
+heat: 125
 published: true
 
 provider:

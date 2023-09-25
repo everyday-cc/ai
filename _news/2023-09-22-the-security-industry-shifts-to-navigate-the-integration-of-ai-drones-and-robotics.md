@@ -61,24 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "35SqrITbBK0DZOrKKkRcT+OJV3kPORMUJT5/6CdsSKtK7NNZYJ6eTbMX/dFTxDxfm85EvmR/egtNfiy7nOYubPxhM6+hI6RT2yczwrXzHQAQ/+mcYFxQQD2MqfQXRP8cnMxvdtv0QI+YSabWHyCJSEi/WX7Hf070dCjuxjzAfuRIiwi5NB/c9wVPgOJndjcROsO+YHwGRuB/JoMHHsHFlEmNP6NyTE6EqyFghk8BWV5jb5N3aScHPbo6G3XJcnA83trApFNhcmTsK4MSGTDNsJEOdF0NvAt/7waBlGODkYaYAhmUyYMJMEjlmvUopsQQT4JWlPQX/Xns+vkoXwpYvKNWecOJXrClmY/0/nEq6BA=;dVJOM7WalCcdnRILAJjrow=="
 ---

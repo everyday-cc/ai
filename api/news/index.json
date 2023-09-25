@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
+      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
+      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "publishedDateTime": "2023-09-24T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-the-real-economic-problem-of-ai-isnt-tech-but-people.md",
+      "title": "The Real Economic Problem Of AI Isn’t Tech But People",
+      "excerpt": "The discussion has gone off because everyone is pretending that software makes its own decisions, but that is misdirection. The machines still do what people say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/",
+      "originalUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651104829b21a4bb90f0d27d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eriksherman/2023/09/24/the-real-economic-problem-of-ai-isnt-tech-but-people/amp/",
+      "publishedDateTime": "2023-09-24T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging.md",
       "title": "Artificial Intelligence Is Rapidly Changing The World Of Medical Imaging",
       "excerpt": "Among the most powerful tools that enable modern day healthcare delivery are advanced imaging techniques. Often, these tools are used to validate physical exams, visualize internal anatomy, or triangulate pathology based on subjective symptoms.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -366,7 +461,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -659,21 +754,21 @@
       ]
     },
     {
-      "path": "_news/2023-09-23-latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright.md",
-      "title": "Latest Prompt Engineering Technique Chain-Of-Verification Does A Sleek Job Of Keeping Generative AI Honest And Upright",
-      "excerpt": "Prompt engineering welcomes the new Chain-of-Verification technique, aiming to deal with onerous generative AI issues such as errors, falsehoods, and AI hallucinations.",
+      "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
+      "title": "Hi, Robot: Machines Take Over At China's Asian Games",
+      "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/",
+      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1827,1217,x142,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg",
+          "width": 768,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -681,23 +776,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/23/latest-prompt-engineering-technique-chain-of-verification-does-a-sleek-job-of-keeping-generative-ai-honest-and-upright/amp/",
-      "publishedDateTime": "2023-09-23T04:00:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "publishedDateTime": "2023-09-23T00:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -706,8 +792,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -762,7 +849,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-new-creator-tools-youtube-just-unveiled-including-an-ai-video-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -813,7 +900,7 @@
       "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/09/22/theres-a-new-copilot-in-town-dreamforce-2023-reveals-its-ai-roadmap-at-salesforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -865,7 +952,7 @@
       "originalUrl": "https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1004,6 +1091,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-22-why-trust-is-critical-to-business-applications-of-generative-ai.md",
+      "title": "Why trust is critical to business applications of generative AI",
+      "excerpt": "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai",
+      "originalUrl": "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
       "title": "How AI will change the job of the junior banker and raise the bar to entry",
       "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
@@ -1096,152 +1235,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales.md",
-      "title": "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales",
-      "excerpt": "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
-      "publishedDateTime": "2023-09-22T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-need-sex-help-try-this-ai-sex-coach.md",
-      "title": "Need sex help? Try this AI sex coach.",
-      "excerpt": "Mashable tested out AI Sex Coach, and found that it provides solid nuggets of information — and then directs you to a Beducated course. This makes sense considering the platform made it, and serves as a reminder that chatbots can't replace quality education.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/beducated-ai-sex-coach",
-      "originalUrl": "https://mashable.com/article/beducated-ai-sex-coach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05OKxfCfIspsu7srpyKkccg/hero-image.fill.size_1200x675.v1695306743.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
-      "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
-      "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
-      "originalUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
-      "publishedDateTime": "2023-09-22T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

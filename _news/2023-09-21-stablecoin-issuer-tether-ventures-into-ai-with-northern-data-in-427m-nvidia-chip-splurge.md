@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tethe
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
+    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
+    publishedDateTime: 2023-09-22T00:43:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Tether acquires stake in Bitcoin miner Northern Data, hinting at AI collaboration"
     excerpt: "Following an announcement in which Northern Data said it had reached an agreement with Tether to acquire Damoon, the stablecoin issuer said it had invested an undisclosed amount."
     publishedDateTime: 2023-09-21T18:00:00Z

@@ -64,24 +64,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 59
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "P/yge1qwWMW8q8RT42qC5I2pNjxeUDMxF9uz9krQ9ZPPp7goD1jE14kSKuO6dT6b/BCsoC2Msfc8h8ZlDBUdzdf0n2Lhn5/GD6AaoZg6tzfqxXKIPNGymJJ3LglSYVI7UnoHGxYEpvtJgzBhKVwMDAUWgPADOahRaoJLc8+cE4+wxjwSMF/jPx8HYv7KWHurhNooDh77JaKu6xTH37r6PnSuRnpncH+CZxbf+np3e3Rza0I27DqWijSpsq89Rw0W6hrHWKLBXBiMxhj0Z0Zdl4Ur9HSiRplk0qWbaD3QvYQU39DVqiUNgBW/3pA/h+Ezweh223zueEzFvOpm15v3ow9B0djy7ZVY/YlHxHxhtWpjUedWHnyA5xgLpDI33nhPf9v65Co1tKP1Mo6TF/glrrFiejFU83JfugeHHr7mfHimJ6mhhTSmfIeOWqYwQj24Vv7egnY8DCIVXqCbbUne7k//9LAxgwV9nNxywCi9y0RU5pZmMhkBo5fVRJsLg5Dz58sDSOusPUVyQ71aeE/GfQ==;h6LnMfl6bcqtA8rPZsR4LQ=="
 ---

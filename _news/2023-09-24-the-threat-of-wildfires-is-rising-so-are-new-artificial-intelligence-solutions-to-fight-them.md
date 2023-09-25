@@ -1,22 +1,27 @@
 ---
 category: news
 title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
-excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
-publishedDateTime: 2023-09-24T11:58:00Z
-originalUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
-webUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
+excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new solutions"
+publishedDateTime: 2023-09-24T07:25:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/threat-wildfires-rising-new-artificial-intelligence-solutions-fight-103442591"
+webUrl: "https://abcnews.go.com/Technology/wireStory/threat-wildfires-rising-new-artificial-intelligence-solutions-fight-103442591"
 type: article
-quality: 8
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: WBTW
-  domain: wbtw.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://i.abcnewsfe.com/a/c5ef1eda-089d-4b58-867f-49f698c11d16/wirestory_62002360f2e3be32ccc7df020239efea_12x5.jpg?w=992"
+    width: 992
+    height: 413
+    isCached: true
 
 related:
   - title: "Musicians are eyeing a legal shortcut to fight AI voice clones"
@@ -35,21 +40,21 @@ related:
         isCached: true
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
-    publishedDateTime: 2023-09-24T22:36:00Z
-    webUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-    ampWebUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    publishedDateTime: 2023-09-24T21:36:00Z
+    webUrl: "https://www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wilx-com.cdn.ampproject.org/c/s/www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
     type: article
     provider:
-      name: WABI-TV
-      domain: wabi.tv
+      name: WILX-TV
+      domain: wilx.com
     quality: 48
     images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/AzYs74NsDRCoqbh14cAUBf9ribs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OT7EXYSEVFZRE3XX6IT3QTCMI.PNG"
+      - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/GMzjl-ATePYQveds0YiuKmp--iA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/P23IQYSOHVDPZARE3C4NDCD57E.jpg"
         width: 800
         height: 450
         isCached: true
 
-secured: "WfhTInxCLUL4lMBFpkfn0BrtC0WkpfD9somJ0Vvbr6oL9qy/P1ZwyKwlVemcwckZqzXoSRKgBu0sTLRedTxNHS6PzstXHqG36/DyuF5MqArMz/eXU1GqilmAIGIiJXfVJ3wQCHh62oYPmG8qRKI6Awj+M6nazYznI1vMez8flCrjXCtdkJaI8Cojcc0D8TEeS9R44Y/RfJ40PXTb+uKOI/MtO+/myKaC3U1RQB+SUo7XhyCvG6A+vSRE5Kx3tOcXoUjCh3jM3TZBPP1/jF8W0ttkNNaQUqf2nE9ZmJoOeAMNjvKdnAmtdqWCir5jNqaFhOfKgiZ5xbzsZfYsCTYKznAStaqpN2/tSUFcHadmEbaJ0jnAIpxxYhQvuZv2vaUwUbS6xHhz2gIW7XooiXXVH9yn1I/S9loCY3JTYtWYGwQq80Lxqa6ZqqtdDMHMsVHsWyYTT5i//6fmhPU7rEDaxpcwIlSCH0IythzwqgdqzmaBZjz5Q6q+DEPmT2WraEl8xS+6bQTl4pGNtRjOSVrqRg==;zB4rHbnOzSvE7oKNeLi/1w=="
+secured: "u6EqaC0URJnYHPXRcH1MJ22Z3BLzBTzollD7r7ikppP38BV6Gls6em0iz/OheFNfCO7QrQiVO7jLo1cMgRM4ZRlgfKrwuHpEIBvXznriI1uns2Ru2kafoFO36IZ1kCRAJ/j47pd4FKID1uhq4o5czwmUsm6/8uPoOWpAtfMrUCcA37Vh34D25QUghUeg94ur9uLEIUh4diXi2UAt0vqSOMZwc1oDj1SXYxM7DzaH3SqG0dstO7MiJ8f68+z4qFEjroYejdTw+u3309j8dPsM4cckYPGUu/6PidGn35fVhPsMsHvVem/4vviLbdbVVA5E92AnGf0rKjgOVbQ9bQ74Zo3D5Ao4RKLmjm3xEvC4scs=;TiolQyajgO/VZEUbBlvs9g=="
 ---
 

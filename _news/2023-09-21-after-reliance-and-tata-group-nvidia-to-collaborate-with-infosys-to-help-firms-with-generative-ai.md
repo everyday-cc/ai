@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/after-reliance-and-tata-grou
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/after-reliance-and-tata-group-nvidia-to-collaborate-with-infosys-to-help-firms-with-generative-ai/amp-11695211147675.html"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,76 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech"
-    excerpt: "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,"
-    publishedDateTime: 2023-09-20T11:19:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "NVIDIA collaborates with Infosys to help enterprises boost productivity with Generative AI"
-    excerpt: "The companies announced plans to bring the NVIDIA AI Enterprise ecosystem of models, tools and GPU systems to Infosys Topaz – an AI-first set of services, solutions and platforms. Through this integration,"
-    publishedDateTime: 2023-09-20T11:21:00Z
-    webUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-nvidia-collaborate-to-help-enterprises-boost-productivity-with-generative-ai-17843571.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 49
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Infosys, NVIDIA to collaborate for generative AI applications, solutions"
-    excerpt: "Infosys: As part of the partnership, Infosys will have access to NVIDIA's full-stack gen AI program and will set up a NVIDIA Centre of Excellence"
-    publishedDateTime: 2023-09-20T11:11:00Z
-    webUrl: "https://www.business-standard.com/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/infosys-nvidia-to-collaborate-for-generative-ai-applications-solutions-123092000731_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 38
-  - title: "Tether commits to AI strategy with €400 million NVIDIA chip purchase"
-    excerpt: "Damoon, a Tether company in which Northern Data Group owns a majority stake, has purchased over 10,000 NVIDIA H100 Tensor Core GPUs, a type of chip, at a total cost of approximately €400 million."
-    publishedDateTime: 2023-09-22T00:43:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43001/tether-commits-to-ai-strategy-with-400-million-nvidia-chip-purchase"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
-  - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
-    excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
-    publishedDateTime: 2023-09-20T18:46:00Z
-    webUrl: "https://www.crn.com/news/computing/infosys-to-train-50-000-staff-on-nvidia-ai-technology-in-new-tie-up"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "NVIDIA to train 50,000 Infosys employees in AI technologies"
-    excerpt: "Bengaluru: NVIDIA has announced its third significant collaboration in India this month, joining forces with leading IT firm Infosys to drive productivity improvements through generative AI applications and solutions for enterprises,"
-    publishedDateTime: 2023-09-20T17:59:00Z
-    webUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 19
   - title: "Infosys, Nvidia Partner To Help Firms Adopt Generative AI, Boost Productivity"
     excerpt: "Indian tech major Infosys and graphics chip giant Nvidia on Wednesday announced to expand their strategic collaboration with"
     publishedDateTime: 2023-09-20T17:38:00Z
@@ -124,6 +54,15 @@ related:
       name: academy
       domain: newswit.com
     quality: 6
+  - title: "Northern Data Group: Europe's Largest Deployment of NVIDIA H100 Tensor Core GPUs to Expand Taiga Cloud's Generative AI CSP Offering"
+    excerpt: "The purchase of 20 NVIDIA H100 GPU Pods – each made up of 512 H100 GPUs – builds on Taiga's position as Europe's largest independent cloud service provider of NVIDIA hardware, now with over 19,000 NVIDIA H100, A100, and RTX A6000 GPUs in total, enabling Taiga to offer substantial compute power to the market."
+    publishedDateTime: 2023-09-21T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/09/21/9885712.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "AsosE+0tVss6tZvVtAvpb6TjOIaQaBFzqvSDbYFhYQEEYUf0s0syIoEyMEQQnyuaV00wkyryws2aTKVQdbZjf3VcwEVdib6ENCQQiGzIHhI60EC6YZ/39Ibaf0G58Lb176g8YMKpPsSGXyO2piy8mJ4t8NUfzpBh9PCqNWXeutphVaXs/8oYvCI2e0k/BMFIPyhs2nwAbhtwKduerzZSWwbuE4nv1UvbYpdm+xTqcFObiDBz8VyUoAsfXD3+10lR4EmmvVLM6lh/gIxTSqVpDq8AdlvEOp1LREabTN6VdACP3wmuY/78ll9gBHkTuq2QhyMJzvdWP4iH2KadamengepNDnTy4PM+cHJaXdlrkx0=;00vq03+ogYZ9OrVeUhkO3g=="
 ---

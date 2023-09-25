@@ -61,24 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance indust"
-    excerpt: "\"The widespread availability of generative AI capabilities has opened the doors for even greater innovation within insurance,\" said Richard Sachar, Director of FinTech Global. \"We're entering a new wave of digitalization and insurance firms need to be ..."
-    publishedDateTime: 2023-09-20T12:38:00Z
-    webUrl: "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-greater-than-listed-in-insurtech100-in-recognition-of-its-innovative-ai-technology-and-benefits-for-the-insurance-indust-20230920143545.html"
-    type: article
-    provider:
-      name: Europa Press
-      domain: europapress.es
-    quality: 0
-  - title: "Greater Than listed in InsurTech100 in recognition of its innovative AI technology and benefits for the insurance industry"
-    excerpt: "Greater Than's unique AI technology converts existing GPS driving data into crash probability and climate impact intelligence. Within the motor insurance industry this is utilized to facilitate accurate pricing, improve risk mitigation, and elevate sustainability and ESG management within insurance products."
-    publishedDateTime: 2023-09-20T12:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884622.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "WK+eoy1KkaxVJbiuYWlamBAmQxSJBu8Y2u9jKlz4gsvH+7U/gVf2+ukW3YTDaBCJ//bvpCSFCgMgwHwGjV+7SyjnbTt5usc02xnp6PYWBx7c6gmLyZYoL7zlBzVUPOSkxKuvVKFE0wTFQbereFEfq4EMUIY/6gE/yiPnWuKi4r+CTuOGC7Djyd1xnEwhr9V/VLlTo+5pf4wok0HaXE8ahlej1Jjf1iC5rTub1sfRXlHs5ArywXFOIgYI2FUjlQItBRTzD3tfmpxq+vDZKl+2xU4F8Ygwaz7aVH4AHrpLvrkkClTv03tAp52N8xkH/APaUNgiNw9PKMBS0yYRfTZzxk80iAE7gFttpkSNK3VEDkNkswJsIdQGxsb8Z5HWvve1MB4vlyywcfhK4JG0iZpYnZQMeiSfYV73GCxDn+cVkoDbTG01VlgPML5qCZSCLcp75t9ktum/uVdcvNqf9X6XGd33wLxJVQfmuWUzZ7KEN3gHFSQSPxhgqsG8ZMKQXl3BuEuTQRGPh+slj5VVyYnAjg==;QREOqYBf+s7bn89tNpskvA=="
 ---

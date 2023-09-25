@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The ethical dilemma of AI"
+    excerpt: "This article is authored by Mehdi Hussain, doctoral candidate, School of International Studies, Jawaharlal Nehru University."
+    publishedDateTime: 2023-09-25T05:25:00Z
+    webUrl: "https://www.hindustantimes.com/ht-insight/future-tech/the-ethical-dilemma-of-ai-101695619226840.html"
+    ampWebUrl: "https://www.hindustantimes.com/ht-insight/future-tech/the-ethical-dilemma-of-ai-101695619226840-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/ht-insight/future-tech/the-ethical-dilemma-of-ai-101695619226840-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/09/25/1600x900/_f7f69196-740b-11ea-bbaf-88371e4f22eb_1695619335071.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Epistemological Humility in the Age of AI"
     excerpt: "How technology challenges our sense of self and identity."
     publishedDateTime: 2023-09-24T19:34:00Z

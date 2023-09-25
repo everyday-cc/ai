@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-t
 webUrl: "https://venturebeat.com/ai/phrasee-appoints-new-ceo-to-head-into-the-future-of-ai-based-marketing/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Congress Navigating The Future Of AI In Healthcare"
-    excerpt: "AI's development relies on extensive datasets, often containing sensitive health information. Protecting patient privacy while advancing healthcare through AI is a complex challenge. Congress must consider whether changes to existing regulations, such as HIPAA, are needed to accommodate AI's unique data needs without compromising privacy."
-    publishedDateTime: 2023-09-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/09/20/congress-navigating-the-future-of-ai-in-health/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "How AI and ML Are Powering the Future of Work"
     excerpt: "At Workday, we’ve embedded AI and ML into the very core of our platform – delivering unrivaled business adaptability and competitive advantage to our customers. Here’s how: Workday has long believed that artificial intelligence (AI) and machine learning (ML) will power the future of work."
     publishedDateTime: 2023-09-21T19:40:00Z

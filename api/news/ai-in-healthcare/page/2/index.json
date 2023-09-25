@@ -770,6 +770,51 @@
       ]
     },
     {
+      "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
+      "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
+      "sourceUrl": null,
+      "webUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
+          "width": 315,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drexel University",
+        "domain": "drexel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
       "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
       "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
@@ -1299,49 +1344,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare.md",
-      "title": "CMC Vellore, IIT-M sign MoU on artificial intelligence in healthcare",
-      "excerpt": "The Christian Medical College Hospital (CMC) Vellore has signed a Memorandum of Understanding (MoU) with the Indian Institute of Technology Madras (IIT Madras) to conduct joint exploratory work in the domain of artificial intelligence (AI) in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/cmc-vellore-iit-m-sign-mou-on-artificial-intelligence-in-healthcare/article67205395.ece/amp/",
-      "publishedDateTime": "2023-08-17T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

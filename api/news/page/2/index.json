@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-22-step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales.md",
+      "title": "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales",
+      "excerpt": "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "publishedDateTime": "2023-09-22T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
+      "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
+      "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
+      "originalUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
+      "publishedDateTime": "2023-09-22T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-ozzy-osbournes-son-jack-has-concerns-about-ai-its-a-bit-of-a-pandoras-box.md",
       "title": "Ozzy Osbourne's son Jack has concerns about AI: 'It's a bit of a Pandora's box'",
       "excerpt": "\"The Osbournes\" alum Jack Osbourne, Ozzy Osbourne's son, shares what he likes and dislikes about the proliferation of artificial intelligence.",
@@ -50,58 +154,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-to-invest-in-ai-etfs.md",
-      "title": "How To Invest In AI ETFs",
-      "excerpt": "But with opportunity comes complexity. Navigating AI as an investment isn’t just about acknowledging its transformative power; it’s about discerning genuine prospects from mere hype. Exchange Traded Funds (ETFs) are a perfect way to leave the complexity to the professionals and gain exposure to this technological evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/au/investing/how-to-invest-in-ai-etfs/",
-      "originalUrl": "https://www.forbes.com/advisor/au/investing/how-to-invest-in-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2023/09/HowToInvestInAIETFS-scaled-e1695269097121.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -207,7 +259,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -545,7 +597,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -701,7 +753,7 @@
       "originalUrl": "https://singularityhub.com/2023/09/21/deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1046,7 +1098,7 @@
       "originalUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1164,57 +1216,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.md",
-      "title": "OpenAI beefs up its image generating AI tool with DALL-E 3",
-      "excerpt": "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "originalUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "publishedDateTime": "2023-09-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

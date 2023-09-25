@@ -35,15 +35,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind’s new AI tool can predict genetic diseases"
-    excerpt: "DeepMind says its DNA mutation predective AI can be a game changer in the fast diagnosis and treatment of genetic diseases."
-    publishedDateTime: 2023-09-20T11:44:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-ai-tool-predicts-genetic-diseases"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 64
   - title: "Google DeepMind's AI Tool Could Pinpoint Our Genetic Faults"
     excerpt: "It’s becoming increasingly clear that scientists are only scratching the surface of what artificial intelligence can teach us about human biology and disease. Case in point: new work by Alphabet's AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease."
     publishedDateTime: 2023-09-20T14:30:00Z
@@ -143,15 +134,6 @@ related:
       name: The News International
       domain: thenews.com.pk
     quality: 33
-  - title: "The Download: AI movie soundtracks, and DeepMind’s disease prediction tool"
-    excerpt: "The background: Back in 2021, DeepMind announced that its program AlphaFold was able to accurately predict the shape of proteins, a problem considered a “grand challenge” in biology. Now the company says it has fine-tuned that protein model to predict which misspellings found in human DNA are safe to ignore and which are likely to cause disease."
-    publishedDateTime: 2023-09-20T12:09:00Z
-    webUrl: "https://www.technologyreview.com/2023/09/20/1079895/the-download-ai-movie-soundtracks-and-deepminds-disease-prediction-tool/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 32
 
 secured: "aZXEY99oM8INjSaQ0ECQPpRnVjaJf9Dk3gY6ZlJIy7hu04MgLpyaP3ei+i6gnsCA7t0RD7IhJq556RuLorzg8Fkfu8dZtyvZYYTcNSZyJfnvb1Dg7aDMObc6XDlDlhQjb6mozHj302jfRdlTGRv4DCb3wvGqWbsTJG52ng1iC2CR9L/JuisqnvyUt34591Bq2vI6BTfuoofe3NYsHH+xCus2S1F2Ek7/Q2OeEXjRd/G84rbtI/9OC5n4syJKGdZAATJCmE9etQemluEpI24ZZruGNU0wGSE9yMTEhMUfL0i6j7zDS5VMg2aiOdekIZZXA/qnCUmpuX6u0vUgv7bp2ziWXBbqv4wUOwozYtQHPLUM4gaac9f12BKSTBS7yu+ULcsYkLfpGl14EOEXFxLyNbQhOE9ZLmvhK5/QfYRsXQ0IzfySBzNVrSvjIS3hb0HvFa8uAxk/kUnk+603gwydcxU1GQCVR6qk7rwf7bIDW4slcUh1tM4MTg2HFYWpGSZGeWPsBoq9seBqeaAYO7OU9w==;RaS5fHaZcwMgg71Flo7tHg=="
 ---

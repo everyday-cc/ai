@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologie
 webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: SD Times
@@ -27,6 +27,26 @@ images:
     width: 1280
     height: 680
     isCached: true
+
+related:
+  - title: "Infosys To Train 50,000 Staff On Nvidia AI Technology In New Tie-Up"
+    excerpt: "Infosys plans to train 50,000 employees on Nvidia’s AI hardware and software solutions as part of a new tie-up."
+    publishedDateTime: 2023-09-20T18:46:00Z
+    webUrl: "https://www.crn.com/news/computing/infosys-to-train-50-000-staff-on-nvidia-ai-technology-in-new-tie-up"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+  - title: "NVIDIA to train 50,000 Infosys employees in AI technologies"
+    excerpt: "Bengaluru: NVIDIA has announced its third significant collaboration in India this month, joining forces with leading IT firm Infosys to drive productivity improvements through generative AI applications and solutions for enterprises,"
+    publishedDateTime: 2023-09-20T17:59:00Z
+    webUrl: "https://www.indiablooms.com/life-details/TECH/7495/nvidia-to-train-50-000-infosys-employees-in-ai-technologies.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 19
 
 secured: "HBTAd/vKn2kgIwYJu7zz18NYAzOnGs/6fBMR9nPXBxcWZ0QrF10gX+Fia6YxOvxNo1OBIGny6lGuQW+eP6Pat7SV2RL2xjNArZmLIZeYTTt7s7hwTH98rYK1t1H5Po8MxMUDaRtv/0KHrKjc7GV1ObmkJ6Vqo4XiTr5w+WKttyekKqKN6yP77MwY4tuKBg/FBKhztobHr2wHn5S3PIhs3IYw/Ihi1WzSkNCA3U4HKrsrIskk85lNJ4kd9QK6tkCsflimONA2BJUiJdINJJbSAgCwBsE7b81x0vd0aUFNPuI+4ri9kQ/WKSWOROmkEo+4ImIabqVNL0jG1v/H6FWRBNZYsIznPncNyg6t5rE60vc=;qt6zTxLLzwipHBaTsA0p0Q=="
 ---

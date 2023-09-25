@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Meta gears up to launch dozens of AI chatbots for younger users"
-excerpt: "Meta is reportedly working on generative AI chatbot called ‘Gen AI Personas’ for younger users and is expected to unveil it this"
-publishedDateTime: 2023-09-25T03:47:00Z
-originalUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users"
-webUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users"
-ampWebUrl: "https://glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-gears-up-to-launch-dozens-of-ai-chatbots-for-younger-users?amp=1"
+title: "Meta Gears Up To Launch Dozens Of AI Chatbots For Younger Users"
+excerpt: "Meta is reportedly working on generative AI chatbot called 'Gen AI Personas' for younger users and is expected to unveil"
+publishedDateTime: 2023-09-25T04:30:00Z
+originalUrl: "https://menafn.com/1107131868/Meta-Gears-Up-To-Launch-Dozens-Of-AI-Chatbots-For-Younger-Users"
+webUrl: "https://menafn.com/1107131868/Meta-Gears-Up-To-Launch-Dozens-Of-AI-Chatbots-For-Younger-Users"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/09/d5f1ef7ed336f9b86f5820a673accefc-1.jpg"
+  - url: "https://menafn.com/updates/pr/2023-09/24/I_ccf26image_story.jpg"
     width: 825
     height: 450
     isCached: true
@@ -44,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "5+oLQCS8o/nQ9EccViYadv1VVKTCwEw1A2YFCMgDIZ39KRWmBaBZ+Os9cknsjjXS66Bnj3LFbz91KekmQDHfTvHJWthbgIRCDbjo9MA/osn81StstDYdh4PF/JVCmQTEg70KY87x0ksLvOjbzc1iKUwhRK3M9B13riVbjLjTOmv3pTftDyOfbu/dWLOJx3q4nuGXlUAI0WMJUYGmCZh/5VGCJJjDej6AaIqggLCWbs4Uy9iZEl+pk+qorHHS+Cg17lAyPTOpT591coTIhibtIQhf71++CBqkRgoztLBvv7mdMJUTVDkIlKraPWXvuudHmJDbK4UUHP7hqm7Mddp4I38OtghnIRfh7/DfHycyEpM=;Z6fLsH3fMU7RJ98vjPt9ZA=="
+secured: "SnzarX5icWUF942AIW7Xz/83dRdICVe8CsAGF01sxlrvYPxLUmNk4YzufeMacGHBZizaI08HsGpBtBGGbzJN5nw5V3OYQGfTyqdZSW75hP/N5KH40nXykwTsa5mqAS8lOW8PKnTB4TRnEPwnqn45R+4EpHyVr3DX8T3G+VhL42VRhYjiE2hZJ5eeF/pYbNReSVSVNCM290/neUrWiikMPqWcRy2MSLuOhulChlIE9AAgwKi08ZkIQjZagRJmPBmy8Pzj85qTQxE/r+iG2O5xQBtE7iAaRAMdRCMTDonrfPj60YseNxuQzYF/7InIOQPbepAQTcCTlhCYko64OMSEwjnJduIojXruNRWyxG4MkYc=;n3+6m9zs4fDIBZOp31Hrjw=="
 ---
 

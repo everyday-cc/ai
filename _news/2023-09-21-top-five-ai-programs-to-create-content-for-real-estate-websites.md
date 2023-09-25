@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "The Real Test of Government-Regulated AI"
-    excerpt: "Teachers-union boss Randi Weingarten certainly can’t contribute to the discussion."
-    publishedDateTime: 2023-09-21T14:13:00Z
-    webUrl: "https://www.wsj.com/articles/ai-artificial-intelligence-government-regulation-gender-6e0cc31b"
+  - title: "Waitrose turns to AI to create recipes for successful food products"
+    excerpt: "The supermarket has used data from menus, online cuisine and social media posts to shape its Japanese range"
+    publishedDateTime: 2023-09-23T14:01:00Z
+    webUrl: "https://www.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products?ref=astrofeather.com"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/sep/23/waitrose-turns-to-ai-to-create-recipes-for-successful-food-products"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-855174/social"
-        width: 1280
-        height: 640
+      - url: "https://i.guim.co.uk/img/media/149151e29c140dcb3b471bd075bd5bd772ed9f22/0_258_7737_4642/master/7737.jpg?width=620&quality=85&auto=format&fit=max&s=3e3ac97c6c9d7a61db12168bc85df3c9"
+        width: 620
+        height: 372
         isCached: true
-  - title: "AI vs Advertising Regulation"
-    excerpt: "As businesses and industries continue to embrace AI at an unprecedented rate, the need for regulation becomes increasingly apparent."
-    publishedDateTime: 2023-09-21T17:38:00Z
-    webUrl: "https://www.dmnews.com/ai-vs-advertising-regulation/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 19
 
 secured: "vfcbKoeQAYXcCHviaac2eFp5hTiTe1D+14cJas93gQt80Kn8Njc0fdZIPnqVZEZJ57DNA/uNO+L9/v8ffEx/OqLH7a549y0jv9LxTIDOAMP1CGQIGPEPKEqUyBIMVmsb+s8rN3OX/00BecrKcSEFcCK5CBiKLVcU2qJIysGc75ZQKg4jwai1wbDzC0SVTdZGNO9UqgLUfCWjiqeD0Srrxgp5RviLGXEgj1FkEIJacmAi72IFz39RGvd7inWCGxrQ+mSYSYAyRCSKK+1azLyOaKRkigJidYbgkgYAdrV3/RyGLeszBX7itDFv6hwse5RG92y22XTfV1FALrgVHb21ZFjcC+At0191e25EHXzcfdQ=;X5J+JtHqSMcSeiS57YR99Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-y
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/09/20/amd-says-ai-not-yet-needed-for-pcs--really/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1150
     height: 856
     isCached: true
-
-related:
-  - title: "The AI desktop PC is not coming anytime soon, AMD says"
-    excerpt: "AI-based computer chips aren't a thing just yet, and they will not invade the market for quite some time. Justin Galton, worldwide Business Development director at"
-    publishedDateTime: 2023-09-20T12:13:00Z
-    webUrl: "https://www.techspot.com/news/100215-ai-desktop-pc-not-coming-anytime-soon-amd.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
 
 secured: "uET3IG1Do78pcvYMjxowBy5wCxl9XmZlFPv54t9K1UPqfA1jcMOfuJZsJxCGIymDoMpIPWkkY379oKnfC99ZDZMZJoQAALCwaCSz18bJJfVmD5Kv9PQIb3g/H7OYRSMN+s7rEoXEcWiNXmjxoOXdTQiqmMoqf+iI5KFnt2MdKTn60uWYJ9/FwsxxJZ7v7pwotQPj6ySeGZCY3UvfsBAJyxKoD2y7ALS3Gt/+C/xu3Mc2smIWS6Ns4WiBnTwopc5mrFi/JCLtfGLXuUnOn2RkO58JqZh6JS004FLzXsXEQDm7MTWE9u6ZWt4j53GpeZRDF28JlnsXGnMisXVBHrDwJrDaI2DTEVIsv5/UUiX0F9/yI2FlkyxRROmK8Vn9ioK9wVzCYN8NwDDFInDgt6ddsLSg6r3cY+dDptMKuNk8ARE7IgV3mTo+NLiJYzXWbr4TgpGHpxo9FZCOssICWvMl1V9soJ+lzmsv1P81ONiTrabXl0kD1ZDvovKkYRJ+6+D3/Yoc8tzm2jlOvr+1hhchhg==;fQAZHyDPc5dLiTPjCL9WZA=="
 ---

@@ -25,14 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "YoCierge Inc. Announces Implementation of Artificial Intelligence to Enhance Review and Analysis of Medical Records"
-    excerpt: "The new AI offering integrates with and complements ReChron ™, an existing YoCierge AI product that chonologically orders all records retrieved. YoCierge AI is an in-house developed solution running exclusively on YoCierge's secure servers, guaranteeing that confidential information remains private and never passes through third party AI servers."
-    publishedDateTime: 2023-09-20T13:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/09/20/9884646.htm"
+  - title: "OctaiPipe releases version 2.0 of its Federated Learning Operations (FL-Ops) platform for Critical Infrastructure on-device AI"
+    excerpt: "In addition to Microsoft Azure, OctaiPipe 2.0 is also now available as an AWS ... Edge AI platform optimised for creating, deploying, and managing machine learning IoT solutions in Critical Infrastructure environments. Deployments on OctaiPipe are more ..."
+    publishedDateTime: 2023-09-21T00:00:00Z
+    webUrl: "https://www.01net.it/octaipipe-releases-version-2-0-of-its-federated-learning-operations-fl-ops-platform-for-critical-infrastructure-on-device-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: 01Net
+      domain: 01net.it
     quality: 0
 
 secured: "fiGK8nmYA28uL88g2Tc0/Nys7Y+Ghkuzbv49C9bwNeWBc0+9nO7ayg6VhN4z5gL9A7i9PXEDRufP46VoMFlDssGXTsJQ6m5/UEi93VuDRHhEjAeUwcPeZlmVyvantnBWCfXvdBOYlG31/IBpwq+jUMOs51qeVh4CDW1bJ1RgPG+kVptnQQxaXbKWroXqBH/x4pi2DhRyLcf+Kstol/derxN0yM7B9CQQj4kPcHBWe79VjhwH6KIj+9XuHCOMpQO4QEKksrGTG5TQBJPUyEYDr30uwc/9iHnyRwcFjtggjogjPHPcydIoZe6kWZJ/6hxLOuVUda9kznfMwK1EwH2ySTEVeAzmSTXNNpCKtgvoHcKbXKdLplsjzgrNcfrFFU0s+z8TldGQ9vmD/dqzaTZU5Fn6U5Wggft9/fa0r8BPhx/kbtmlCIRvF53l1FfgIWO25dYr7mW3tUA39K0IS7FcgHjQ6f4+jr+KlFkweJKC1h4460okRqMg9gJhh8oTx3/TFeTJqojNdVRe651qksFb8w==;qIAn8IssYI2HYo1ZlhsdEw=="

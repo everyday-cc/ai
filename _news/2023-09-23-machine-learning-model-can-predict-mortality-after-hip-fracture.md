@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/life-entertainment/nation-world/wellness/machine
 webUrl: "https://omaha.com/life-entertainment/nation-world/wellness/machine-learning-model-can-predict-mortality-after-hip-fracture/article_9f7abe35-f108-5bb0-a251-b01f2a6c7009.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Can artificial intelligence predict the risk of dying in the years following a hip fracture?"
-    excerpt: "A new study published in the Journal of Orthopaedic Research indicates that an artificial intelligence–based model trained on basic blood and lab test data as well as basic demographic data can predict a patient's risk of death within one, five and 10 ..."
-    publishedDateTime: 2023-09-20T11:23:00Z
-    webUrl: "https://medicalxpress.com/news/2023-09-artificial-intelligence-dying-years-hip.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-09-artificial-intelligence-dying-years-hip.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-artificial-intelligence-dying-years-hip.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/crutches.jpg"
-        width: 1920
-        height: 1347
-        isCached: true
 
 secured: "mZ8z2oIhauKFbnZ+X94tKirAO8TyBOoDjgH2PX6gqBrTYYnNZhpKJ9lGyAjS4LbzFwl9E1SvS8BZT5ANAmh2vAn58gjtLaa8FtT8bk07MejlGTRbaVXiVITgFZrMO6yIB8z9Pi37p2mnNyinXHwp6vTg1I8vdMBEweahF842OEsvRKCsv+c3M6TCtKDV/dt7FDzED844AjSzofqIMYxNsYsBisvznaPHKdWrtv5z0Qsfe8ZBqRgS7fTZbopu8KNUxN3I1EMPDUG1LUg7yF4mVp86H9Q9R4l6S+rgRFEgt3Johj1cGWufnM6BJilR7ApBTQYznBQ+tb/jSCCOjgg9+S1XqcEoFEwFevGRADVq0bnB0qI4b69KIRSAnVnFVnMptDDmuwGIvpQI5vWB/w0HKY9FVgxe3vqmOH3y+TXDo8xSanoWRnfRSjIn48pQZOASCAs9pS0UyVXknG5X7FPYvQGYzFQzUVRGg5um9zWENuSuEXEoMAJUhsBJdB2AWd5Ju2GndyNMbeNNwOpF1TeUxg==;LYWVkm0XONoJ0BOBib7/xg=="
 ---

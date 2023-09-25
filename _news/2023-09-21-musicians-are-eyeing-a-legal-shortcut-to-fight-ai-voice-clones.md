@@ -30,29 +30,34 @@ images:
 related:
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "With wildfires becoming larger and more intense as the world warms, firefighters, utilities and governments are trying to get ahead of the flames by tapping into the latest AI technology."
-    publishedDateTime: 2023-09-24T22:36:00Z
-    webUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
-    ampWebUrl: "https://www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    publishedDateTime: 2023-09-24T21:36:00Z
+    webUrl: "https://www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/"
+    ampWebUrl: "https://www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wilx-com.cdn.ampproject.org/c/s/www.wilx.com/2023/09/24/threat-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-fight-them/?outputType=amp"
     type: article
     provider:
-      name: WABI-TV
-      domain: wabi.tv
+      name: WILX-TV
+      domain: wilx.com
     quality: 48
     images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/AzYs74NsDRCoqbh14cAUBf9ribs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OT7EXYSEVFZRE3XX6IT3QTCMI.PNG"
+      - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/GMzjl-ATePYQveds0YiuKmp--iA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/P23IQYSOHVDPZARE3C4NDCD57E.jpg"
         width: 800
         height: 450
         isCached: true
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
-    excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new"
-    publishedDateTime: 2023-09-24T11:58:00Z
-    webUrl: "https://www.wbtw.com/news/world/ap-international/ap-the-threat-of-wildfires-is-rising-so-is-new-artificial-intelligence-solutions-to-fight-them/"
+    excerpt: "Wildfires fueled by climate change have ravaged communities from Maui to the Mediterranean this summer, killing many people, exhausting firefighters and fueling demand for new solutions"
+    publishedDateTime: 2023-09-24T07:25:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/threat-wildfires-rising-new-artificial-intelligence-solutions-fight-103442591"
     type: article
     provider:
-      name: WBTW
-      domain: wbtw.com
-    quality: 8
+      name: ABC
+      domain: abcnews.go.com
+    quality: 26
+    images:
+      - url: "https://i.abcnewsfe.com/a/c5ef1eda-089d-4b58-867f-49f698c11d16/wirestory_62002360f2e3be32ccc7df020239efea_12x5.jpg?w=992"
+        width: 992
+        height: 413
+        isCached: true
 
 secured: "rCRerEjPWd3LGZiBvzgK1TP8jdizznByUS+LGGKMtpOYPFLDYbs23ds709p+3KnZ6tMXq5bp8Duns5YPbeYLDpKXZSsg8cmJzeFG/kbpfnYky1a3ubKyy7DYjp3DWDBSSyaxDsYZPH+jLlXhfW7Ne+P+PvbsVSU+czZU8BYCop4HHbfBq0XXPojKPbQ9fUl6Dh+Bh34mEKSLGPKQW9vdIrWVnZHwnJHtmI2og0c1/5FTVArJFsEAMSR36/qwoYEmyOqBGtaRuJFgP0zIGHhmNZSOvS4/evUxwjqqjj8JQ7/Y0CrEBNTObNbQU1FmFUSeE0JO8qN2brzgTiHgXbYdXlGii5j8UIDeDFgBjcqkSqo77XePhbMkB/5w1uSTy9T78cINS5FCZ7RGlrYCNfkPf9uIdCfCp8xrwYNOMIsGPddwls1oqK5qQNOltFXFNTpPQWG9EkoHUYedt2scQ25r+H9kmiL+9SW0yU817urPH1cCXfVdmt7hTtjIRxD+0pBYeYF6NHm009vrv70ZEEh3OA==;PpshI3HvxCIcyaR3Vt+p3w=="
 ---

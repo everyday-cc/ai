@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-t
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "ServiceNow targets service management with generative AI integrations"
+    excerpt: "The IT service management solution provides AI-driven search capabilities, and can automatically summarize cases, incident details and agent chat history."
+    publishedDateTime: 2023-09-20T21:52:00Z
+    webUrl: "https://www.ciodive.com/news/ServiceNow-Now-Assist-ITSM-generative-AI/694275/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/kj5SO7xbNf-KyuDK_HjiPrCkVR8WVitrNY0R8_1Bny8/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTExNzMwMjA0NjMuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "hjDXQB5GKXofWEPEXxK/xOscQbEJDO7uke0OYpcgRcjBw2NyQjLNYzP8rGSfSoUepaJmXagMHdhd9hC0g+DwE1G6MVYiMl+LOMnjeiQm0Hl0tdIT+t7OiLsDeIfmixC2SZSnsaO5t1neCJaKnn8BPjCrZBxUqZQ4bcZVwLuHC0RqaG5XDQvnhYNU6wxAC2aVCH+w30CK0ittasiVp6kKYwPQEuCBlBTeB+5JfcbLO/tgz2D0Z4J9WhAVpUvYks8pbFuLQawMtEXjf3hyySJZqCg3ILR5sJsBEok8lLjtzGeVlluObeQa/H/N1E+3zzExsKxDtOYLjywQn0ptkt+UkuE4hpq763EncMqO9tPb/HfNIjmRp2RBRwxF0ibHwGrhwA4ym8wad39CougLWiBYAcJGwZw+6vvCeSLPhi8U0DAtQWyjzGJFhVng1iTnNEB//6kf5VQ0Jx9xJEa94Me3tCQvvKkNUbSu5drdmqnt42ldNduDMx/6bHb+9HxV17ApNEV9IK32A/sxOGFlKHYHfg==;NF4WrKGkRo/CqcH7S7hAIQ=="
 ---
