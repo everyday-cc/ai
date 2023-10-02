@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-int
 webUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,7 +57,16 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "EU worries about Nvidia’s AI dominance"
+    excerpt: "While Nvidia is raking in billions from sales of AI hardware, its competitors can't get anywhere near those figures. Yet authorities are unsure whether"
+    publishedDateTime: 2023-10-02T11:56:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/111811/eu-worries-about-nvidias-ai-dominance/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
-secured: "EuHIaRdX1xRrNmw1A48hAyzMjKAAj3oOflHCyT2y0voc2Rg48NRPW50EumJ1vucbKrzy3YERq84SauZ5MEHEH6O6K8m4ToPWm/G2pldRF+7HKonShOsBcZlSmMb27LM7NhstEgIuuR+iMZJLOc/tnJnrDJdQnygvxNF4pqWXY3AVmZKJR6ju+ZBZVq1x/oBEXDtHNj58HXI54Vi6D1p5LIhfbe8ZQTEDxuI1nJSWevULswioaWeGn8V6RSliBmFMe4Rtma9pDnJ4QsktlmpXGGymQL+YvT1TomrdhRkRzRRkPud8RUZ599/IFTw4EFNgd3/UdL9JfSldvSAS7WPk/zuDnxB288ZPkOFIxguqz1I=;Q0aBMbo0gdi8ZsWURr+6+Q=="
+secured: "fmmZXBHWVbDD/AO5Gc2ooZM8u6pmk0Ia7wNA+vhkAI53LRUpc1TYPK5wIiAV2yk5YXBvU+lxLEWgNaggjxPNkkuhjjjOD4ZgqYiENLVgzfyfFkhRQzvyO+CognSdlTEK98DW9CVhzNB27hbQ7N+ctVu3wD8tE8hnqqCzd8nkmYZaaFUogNdKy6mI+8lhrOebDhZjbviu114+7FDBExbXkcOconlcAuzmSdXmGAEzGjmMV3/GO3IZKmafuTyiizOp/SstaVEMWxzecKPx6xyHUdeDGGSUtXhbaLIOqfwA7kk0+hYWmURUp7wJPfRF1LOzgRZLtGGWF7l3tqLPR44ibdZ6DJZ0YSxdsWsixBZ0j80=;dyH+5O35/rQo1VO+4VJ3Mg=="
 ---
 

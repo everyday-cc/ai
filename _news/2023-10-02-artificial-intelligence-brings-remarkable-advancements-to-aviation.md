@@ -73,6 +73,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
+    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
+    publishedDateTime: 2023-09-29T18:05:00Z
+    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
+    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "1CuiUYPCwemhRZxBOYMWlkLeIJSJZoaxcPqVQTQVCWEqYXtfnRiCzeMwRVjdAyYIBnkBDR+bMVYgh1R44hk0kzc5WJeX7Ny0SUH0VF1Dr1JRoAJ/kfzbCla9LdlpZhJdQeYw60UtuwISrJ0bEc6uTh+cyajNNKlR23Ay67LTmEUZIK3m57jdjfzfdMShI0chHE0jJ7a9E+78qrjodRh6+KmXS34bgTAcVs0G4BImrGWvBB//RHRO59xxsnQmu5EGsx61AiG3Piwwr38uFV7nch/3rc9ComynbM36w9BsYwGvEaAQZdAWvgzeuX0EQOlRW45b0STcvvA35kpWHkNb9zkD397f3eie4hV0j40V4az6QzP9s1mkH0gR3HNm98/N5Fdm9Pp90w4veAUf5+SbqFACDRTRAiizCMG9OB6rYfEdguEnUMB5n7BSCxH6Dg1jOELNt2Lq7Z/iF7xgabFQyhFzgI3VLr0mDdJABeICq+IvTxOTNgC1dz9K8nyGJhbAHc/zoA2rJYo6ioeRr7rlRQ==;EQVnC347yVYu0K9qvmSK9Q=="
 ---

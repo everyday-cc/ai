@@ -53,7 +53,16 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "EU worries about Nvidia’s AI dominance"
+    excerpt: "While Nvidia is raking in billions from sales of AI hardware, its competitors can't get anywhere near those figures. Yet authorities are unsure whether"
+    publishedDateTime: 2023-10-02T11:56:00Z
+    webUrl: "https://www.techzine.eu/news/privacy-compliance/111811/eu-worries-about-nvidias-ai-dominance/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
-secured: "fqi2Jra7sC6HYQbjcHGzvkE77ZeuHB1AB4WEiwlAxBe8qf8XkaQaDOLPO1xbMoIaJWDvDDLNDREhODA4KP4+s1iltbMzbN7nK8zrrxOaMcxgRwMzDFMT1U3rFfO9LWXT3zmnJdpYTPvLD99+yETgOFmFGve4q9Jyk8kjzSuHQPW6MA5Wuh7g5nAwuEYvwMVeG/E7bInm9C1caHM2trqye1F6ISYej/KJhivEHDkVvcxPFLZOL3nPY/b5FRxTQ0ZLQg6uJ39VWI9c0twEfbkVHCPGnh4T1u+70jblDp0I+Cf426cGTDK9TSU1gg/dBE8Dx6u5wPOfI18lZNximMQP+NVVkhmEAsu0Ob0Gg3QCKrQ=;PHeVv7aYnjEbqmmmDC6Adw=="
+secured: "GrGXRFbfb/uqaVx8pV/avTaD02P7AaWB+uks7Hgf/nJffLOR/1xwxMAMFyRf9cpskvn6nbD0w/dfGIPtUO6Gziqlnj5ahTtsZcriouZq0PyAs1Qx3ej8chsWbjfW0cPEZ2kGd8FXt4HKf418rQuMGMa3/HfXixtV6E0tO5ajU4yJX7ZNgWZhuXEFoE/8sgRSb+U4R5zzde7Fu1b7Fg4n0A/9S7oMdpNsarDKP6OemLP8+ak/kNnG7q4jxUkNvpHaRtnn61I5nWWyo53GWq5WUtxds+9IUomn8GwnyvrstLUTBmi2W5SD1fLi8dFUzODJ0XrhC/zvSsd30tAulJF7Vg1ltC8hyGGd5XxbwhMCqDezzdkejy6f89UlX2It3gvU9i6O2ECFeAz95VmygET75Qq6aZkbJMlWhA1k+XfR6D4MgRnl6zm+cyM1XduJp+xorsmy8Wfb9+zb80mqvFedU0RXQPgFx14iFWBas2vhpRRilLCOjEvR0bTfxUq8oehS4tUP+Ce+msjiGaduNWRnBw==;0q79uv66ChhYvWmJvDhebg=="
 ---
 

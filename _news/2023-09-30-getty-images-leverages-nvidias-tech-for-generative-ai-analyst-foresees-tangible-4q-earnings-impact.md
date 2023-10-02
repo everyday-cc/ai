@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/getty-images-lever
 webUrl: "https://markets.businessinsider.com/news/stocks/getty-images-leverages-nvidia-s-tech-for-generative-ai-analyst-foresees-tangible-4q-earnings-impact-1032667390"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Seattle-based photo giant Getty Images embraces AI technology"
+    excerpt: "Peters said the new service, called Generative AI by Getty Images, emerged from a longstanding collaboration with California tech company and chipmaker Nvidia that preceded the legal challenges against Stability AI. It’s built upon Edify, an AI model from Nvidia’s generative AI division Picasso."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/seattle-based-photo-giant-getty-images-embraces-ai-technology/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "iC5TwMKbE1BmBPNWTBzpe/Qxc1eaxhUx5/ZkA0Ni72DLvXeKmyatJxtI5B3tEV94G9QWiRgOnAKeofzttrOMgfiWqh7w/5GqDPUGTVBTsWzvqkfW2th8hpvu36jMsE5MQSYzq6cPtXOKUcLonLVphagm/2P1VH6npETIwrKf9yjxwXb89II5i+Dvh/zXHxbZa0OgUw689La7MSpN+XzU2Qu6HuxLnukoE1heFXkpuRTruVhOeXZNAmn9pgWZ1cK4/vIRcQrhx3g+Jh023FulqL9WlCp4MElvF8AMgH2eVXyfxs4adWAdwfEEj4w5FIn4XPD4BDB1KYEyquCWLkCB+bYz2NNJAAedKlpL8lafYFs=;wiLGPrJDz1d6baOTDUfZEg=="
 ---

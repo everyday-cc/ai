@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -64,6 +64,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
+    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
+    publishedDateTime: 2023-09-29T18:05:00Z
+    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
+    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
     excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
     publishedDateTime: 2023-10-02T06:28:00Z

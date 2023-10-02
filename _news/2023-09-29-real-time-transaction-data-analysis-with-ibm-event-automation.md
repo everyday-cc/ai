@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-
 webUrl: "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant"
+    excerpt: "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 72
 
 secured: "q62FZWggP0APi+OdJeBPwt/UmmucL0ZxY9SPnYtC4pWEfXPdRWU74d3/D/1T/Gu2eNGLDMBkxpnGd+ySn3JfAbDCRMliU5AlAdkfuSXk4UGSKdd5hS3ifIKXpRrqN322zqd6dYaJFOtAi9gfV8iwJ9E5c2kCeng3C+IM2EEqi94oDceOtdKP0AI9Vdl/1GbJeRvOOMJR0RxEbQ/ihDH+vzE8sL+Ww/XJdL0Ue05EQkwJ9tg2+tE09WDPoekGf2YoMCXLSn5SAW3ucJ+BQMcDmu3kIVOh6gEiiMYDBbH3vH98zrF5hIJGuLU7vJWmRPVywIOJtQqwba567MQb5KRB0wsLRXsVvpfvoNRUh/OWO/E=;TEx77EnBrkKETUP7xhWH6A=="
 ---

@@ -59,6 +59,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
+    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
+    publishedDateTime: 2023-09-29T18:05:00Z
+    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
+    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
     excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
     publishedDateTime: 2023-10-02T06:28:00Z
@@ -74,6 +97,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "9nh/J5MqEEfWsr9T94RTu0SzY29jinNgyidYAThvqlbjCAcPF0QA2jqZ/2buS559kUZYo/i6d2OAI66jBqKKTpaAgR1TlwXUwJ9k0h2zItdKFUbXXq8VaHYGmhEh7SjhVRcEoRVtGpR/UlCF+dveKZOMXtY3jcsnl6VhMr7PJZHEGa3YMgnseTUiwhFLRKq6HJR44Fo84ZCET8zsNrfFHoj/Iyj1OroKWymS6uywUH9ZclOxyTWr8xakcKGCwvXpEkqnnkhO+6zsF7Bft+U3GjQN3FhDOw22M9HwPrCInYU/ppXXRbdN6vH/AS3QjFC81DOVejjRUT4507mOmDdNCqLJCgU7hQCtSY60bHLLkUM=;h4otXE14Bp4ilj72919Y1w=="
+secured: "WdB4zHZW/Sz1tbYjtvnMs6bcKSPHO+YcPdlb/nvJzvMu1LksNp9GQg7tUb0FL5u5BkjmCFmqZjkiQPN8PJSiFnfMIvMY+sQCC0KpYcE1HLGD73hl8hSuefqhvUfY0WSAP6MO2SIZxKZJiHhkT0D4Crbnm1lex9KgaCpDCwNsSvC88hQDimVOf/SNRueVyWkN5Chih2sOuUt58fTNBOJBWD23s+0XTNmYc2n4f5T0DP/3f5WTGvgMaNm9BuMPbavIGud4f8q6DsAPReUz9OAKSUFcn+T5IAHeRX/snek/GziuldOneshydnF7y1v80KzrJroz4nXi5VQZAJ/sK0DTZmZQFcwEjWsVpCDIZ0ywWBXkN5nnKweNHtGhGoZsWjSLmhMAMBihbpmmYlWw7YH4I1IxoLPKNxEtlreWDG5QHrWsvFalHhuL2bpgOtj3mh9XMcAshrWD6oKNB9H9E6BwiQqrVlHllwJMcRqAuHepCCIrNQYrhcMjFObuYJfBGJDSus5wkkzTy5VTavZCZi4Qfg==;gx6vZV7x+j0owm3EQJ44UA=="
 ---
 

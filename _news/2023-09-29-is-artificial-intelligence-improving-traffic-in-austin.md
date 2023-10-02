@@ -8,8 +8,8 @@ webUrl: "https://www.kxan.com/news/local/austin/is-artificial-intelligence-impro
 ampWebUrl: "https://www.kxan.com/news/local/austin/is-artificial-intelligence-improving-traffic-in-austin/amp/"
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/is-artificial-intelligence-improving-traffic-in-austin/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/09/IMG_4559.jpg?w=1280"

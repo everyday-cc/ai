@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,33 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent"
+    excerpt: "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\""
+    publishedDateTime: 2023-10-02T10:22:00Z
+    webUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
+    excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."
+    publishedDateTime: 2023-10-02T10:37:00Z
+    webUrl: "https://www.pcmag.com/news/unauthorized-tom-hanks-ai-is-promoting-dental-plans"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "lDlngDR7iz4d57kMJ2cvGRA4XWRYINTxtkOSyVHFbAYbZ8kc44Y88FDaK7erPs++YpWz+loIvg7VmlnFHZUk2OsaUJxmF/CQ5TRMMVzchR+CRvCAqD6lhAhIt6S/m0/Xs6k+iyjJ9nNw5eJXPemHWniVnTP8AS7t8z+YOAYRn2ZZs+pE9Qd594UqMK/aKTFCGwzQ5L6dql/SIwHryvFHdmNUenqUTDEY8C3Tf3BxCWZi4Y9hkYfYGllB526gnoi/tg64IAzNmSqUDHREOUkDdaLgXquScojiMAnbUAD5b/r/im0nDjqn2+WnukBpravCJgYPMM4HrDWpKH8hu7kYnf/yeyOLS+ulNQGfFwQWdkJPXL7v738EeReYfgEN890w9GrWxzHZRc2pob37TNqpROPhs6f3JflZOduOMRJF+anSfkOnSJH7tyoEKiIvZK+FcRoJMZpxl8IUZssquo8oLcxSCsInUze0ymfTRzCFRGA1sTMNB3oPYK58KWqGHVwvVY/Nfl/ZtRVmmxk96vMCAA==;D+LEGK3ftELLQOhGQXStLQ=="
 ---

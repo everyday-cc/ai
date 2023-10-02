@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Meta's new AI assistant trained on public Facebook and Instagram posts"
-    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
-    publishedDateTime: 2023-09-29T03:56:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/"
+  - title: "Facebook owner Meta announces launch of AI friends with their own personalities across its platforms"
+    excerpt: "Meta has announced you'll no longer need Facebook friends ... Giving AI chatbots personas however can lead to some unexpected challenges, with recent research finding that doing so with ..."
+    publishedDateTime: 2023-09-28T00:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12568887/Facebook-owner-Meta-announces-launch-AI-friends-personalities-platforms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12568887/amp/Facebook-owner-Meta-announces-launch-AI-friends-personalities-platforms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12568887/amp/Facebook-owner-Meta-announces-launch-AI-friends-personalities-platforms.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
     images:
-      - url: "https://th-i.thgim.com/public/incoming/9enb2b/article67352868.ece/alternates/FREE_1200/2023-09-20T083013Z_1976777224_RC27C3AUUE3P_RTRMADP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG"
-        width: 1200
-        height: 829
+      - url: "https://i.dailymail.co.uk/1s/2023/09/28/00/75914431-0-image-a-21_1695857443493.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Meta unveils AI assistant, Facebook-streaming glasses"
     excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ..."
@@ -51,29 +51,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
-    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
-    publishedDateTime: 2023-09-28T23:32:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/29/2023-09-28T203241Z1477922559RC2WH3A3AZHURTRMADP3META-OPENAI.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Meta introduces new AI tech to Facebook, Instagram and WhatsApp"
-    excerpt: "73 per cent use Facebook, 63 per cent use Messenger, 56 per cent use Instagram and 35 per cent use WhatsApp, according to research by Meltwater. The new assistant Meta AI will be the first time ..."
-    publishedDateTime: 2023-09-28T06:35:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/meta-introduces-new-ai-tech-to-facebook-instagram-and-whatsapp/news-story/e2649522f53b5f4375fc579e13b491ee"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
 
 secured: "EXULzCq3mukVBDYaka0kdjOH+wMvw5VcojbyBVmtPR2R5akUolwhNYopRSwbEVAQLYvybL0tfMD98girNv5d5JNGl4WsGv7aYJ8w3wWMtC/lq513OnV1HeYx+RK8NCvPV9xXaYLigjMpzUgqFbILnSGhWyLkDfEZWxs7Qf5a3HW+rKJiIQsVzZrpcgpqeHLIfS472xlOePSlUOYnCq5VQKzUmRdZdDYZbGpD4ArWJCCC5FG4VdFpBzLrTMagQPtfzbaBunywZ/BHNw8s3j8uaSIUJMSJmeVBmEhHS4HldhtiJujbmEzslPNrSrK3ohlP30dvOKY4g3afRRzTvRhydp1U2G6y7DK55XdLz97Enzs=;nHoTzeY/v4mgjGFzj84oPA=="
 ---

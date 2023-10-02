@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/in
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Microsoft advances healthcare cloud strategy, brings generative AI to Mercy"
-    excerpt: "The healthcare system will use Azure OpenAI Service to assist clinicians, improve the patient experience and develop additional use cases."
-    publishedDateTime: 2023-09-27T20:30:00Z
-    webUrl: "https://www.ciodive.com/news/Micorosoft-Mercy-Azure-OpenAI-generative-AI-healthcare-sector/694967/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 69
-    images:
-      - url: "https://www.ciodive.com/imgproxy/jAlqN0oP3HmLR4uKs0NMzmUjhPihH0fD-YEFN6SYrlM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE3NDg3MjRfMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Dell Apex Cloud Platform For Microsoft Azure Aims To Simplify Hybrid Deployments"
     excerpt: "Dell’s newest APEX Cloud Platform venture with Microsoft gives Dell partners a single user experience whether they are managing workloads in the cloud or on premise, thanks to deep integrations and several automated features."
     publishedDateTime: 2023-09-28T16:30:00Z
@@ -98,20 +84,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 62
-  - title: "Workday aims to transform human capital and financial management with generative AI"
-    excerpt: "Today the human resources software pioneer unveiled a host of new generative AI capabilities and features in its platform that it says will drive productivity, streamline business processes and empower people to make better decisions,"
-    publishedDateTime: 2023-09-27T21:49:00Z
-    webUrl: "https://siliconangle.com/2023/09/27/workday-promises-transform-human-capital-financial-management-generative-ai/"
+  - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
+    excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://ehrintelligence.com/news/mercy-taps-microsoft-azure-openai-for-clinician-patient-experience"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/business-people-casual-meeting.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 49
   - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
     excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."
     publishedDateTime: 2023-10-01T22:12:00Z

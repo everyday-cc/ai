@@ -3,24 +3,18 @@ category: news
 title: "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time"
 excerpt: "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ..."
 publishedDateTime: 2023-09-24T11:13:00Z
-originalUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
-webUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
+originalUrl: "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/"
+webUrl: "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Lubbock Avalanche-Journal
+  domain: lubbockonline.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "ymhDUM7iJePsxRSLwdNtdHcjlEwAMR0wTcjlx3yzI1uMIaGMAd6ooG3jL8YcgnA8QuOpMAf9bfq2JJUU2cMLmYTAePz4X4K0ffiL8L8QaT+x1hP9xgz03nxRYTZbeKNeG6pSpB5MMiBLFFZk6sCfuR4E82DWn8uD8H3srkARUnKKiV9cy1PKkbV/xdBzlvk3f+C/2AJE4QuBsrWVoEUHs9v1wOnCe07Ncjedm6SW/ZDSY8kAtvbub2fC/wtPP3GZeRmJKMnaPjoSRkoQBLe1EQVpdH0iOZA647qI4PPvVbgxGdqUagiN2KB2h/v6FQnPa+WUiGUfnRe0V4311NuZcK9E9VHBUJ2heuyUYs2cHS8=;gFGLZC2USxNVEOTJI0ENiw=="
+secured: "Wduxs4eHhnv/2Z5CiLxzYkDeWt9v5z8hkVM1ooDNkyGBS0Nxx/sQXHCq/XY12cu6BztCikdJVYeiyVUoKdnbd/WBJEs82zcbGSSspl1lH4Vg/90GvSrNu9ibbU4YtQH3qS1zQU3OY2orD7fFD1L50pDt/YgNMbXcU6Ww+xVnuCBsTyN17I12hmji4HowFKmGsY5CAsnXc6XvcvXwvsiTMlZzzRaLBBIDGT0CKd9uO0SwKnLDnfc2qzZoai5HCLPwACpQY6KOUzoH8LhOwElwaX+ohmm+2td2Lr0MbmzND+wl+IuCoFrF2s2kfe2mzE1vJOJz8g99qgpCjm1pUQvoezs4qdMOqjKJyN+Wv/skL30=;9CfJ9x/u1hk+NvEW5hpsZA=="
 ---
 

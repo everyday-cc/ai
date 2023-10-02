@@ -67,20 +67,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Microsoft advances healthcare cloud strategy, brings generative AI to Mercy"
-    excerpt: "The healthcare system will use Azure OpenAI Service to assist clinicians, improve the patient experience and develop additional use cases."
-    publishedDateTime: 2023-09-27T20:30:00Z
-    webUrl: "https://www.ciodive.com/news/Micorosoft-Mercy-Azure-OpenAI-generative-AI-healthcare-sector/694967/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 69
-    images:
-      - url: "https://www.ciodive.com/imgproxy/jAlqN0oP3HmLR4uKs0NMzmUjhPihH0fD-YEFN6SYrlM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE3NDg3MjRfMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Dell Apex Cloud Platform For Microsoft Azure Aims To Simplify Hybrid Deployments"
     excerpt: "Dell’s newest APEX Cloud Platform venture with Microsoft gives Dell partners a single user experience whether they are managing workloads in the cloud or on premise, thanks to deep integrations and several automated features."
     publishedDateTime: 2023-09-28T16:30:00Z
@@ -106,20 +92,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 62
-  - title: "Workday aims to transform human capital and financial management with generative AI"
-    excerpt: "Today the human resources software pioneer unveiled a host of new generative AI capabilities and features in its platform that it says will drive productivity, streamline business processes and empower people to make better decisions,"
-    publishedDateTime: 2023-09-27T21:49:00Z
-    webUrl: "https://siliconangle.com/2023/09/27/workday-promises-transform-human-capital-financial-management-generative-ai/"
+  - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
+    excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://ehrintelligence.com/news/mercy-taps-microsoft-azure-openai-for-clinician-patient-experience"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/business-people-casual-meeting.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 49
 
 secured: "gRdoUEkHXSM7Mp5CcGbKKK/lO6oXLOBtQjGzphUGevCeroZ8x81y8+hBHouQWjEc6wvJmapuZRsGdNmLdQV8/LJcS63qQjINbpHMe2y6KdFi8Orj9/yd8CPDcX104pGJL4q0MPjkr4mIzXHeD05XPuZCINmtxK72LourkahYUWDDdfGQKVkxB3ywmT+GdZO1JeD4girC4bxYVuElwY2Zw2ERYY6i+jAtTOFF+Z/1cAei3JlLHY/K5WroUZaiYChygU+oT8+4A7YlAnGDXn55vmeMwk2wut0uoM3Zqc+3+1PuZwmSwwQ2ZI9I6kPzCyIeGa56J1ydHFsUPqOUaYgwLhGo9bXc0g4ba//hadmO341awWxGFvq/eTWJ1ONdvvAdYRGIZddyVxPBX320cbUFXZlbPQ0yGHaCpB8x5fAvCz3hcJ8cF5UPEnOnNTKAglbM8PHaBfrrXMycRtT24AYpKZyVl0drKGoMrxLlvHudz5Z6/ekjlw1SCO0uo3ix355/HM1R/Im2a2WvsX7ivl8t/A==;42JVju7w1KTyyt2CNy/TKg=="
 ---
