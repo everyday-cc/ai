@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon"
-excerpt: "Abdul Latif Jameel is building a companywide analytics, machine learning, and generative artificial intelligence (generative AI) program, powered by AWS, to rapidly develop and introduce new applications across a wide range of industries. Abdul Latif ..."
-publishedDateTime: 2023-09-19T06:22:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable/article_0b7ddfdc-2949-5046-b586-758f120f4342.html"
-webUrl: "https://www.bakersfield.com/ap/news/abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable/article_0b7ddfdc-2949-5046-b586-758f120f4342.html"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation"
+publishedDateTime: 2023-09-19T10:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
+webUrl: "https://www.businesswire.com/news/home/20230918127784/en/"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "cvTGz/i/Ub0i6XN/H5Psgr/eAOB0Fp2bNET3Sh7408WRGDMSEk1KMAQV6vMMW9Ob4/R+Gmgcr/P1rbaW3D+VqvqBjmGlB1jH23/HjRJ0iMhSc+bA21gGAbdigpFeUhSPZe/V0RPXJbPUJUuqOw4a6DaJJOCvFoDb51QgzeBDKERIkUcF2dcxp/DDwKu08x0prz02VvGZMkJ4H9ZRHGqqS0as3SCLg+LYt/oCmSaskBf8heGEEu0Bi1pQOzF54wgZt2rl2VPV0asjCdIH//iOQCXo0Svqe8YKUSdwCxgsC94RTwMqCZ9lP3fVOxh90+m2GsHbRhv2+kKT6XtV70+o8kUpHpS1DQ9EImp29bsGCCo=;7HWjfxBQ4LxXtKqdEyIfbA=="
+secured: "DMC4rUeKpb2DPU6wsWW6QM5wkk7PYye4mmndpOMTrXWOal1/YpwWlAXMag72KYx4McoRM/rr7p1r1Aq/+bkCNg0rfIRhqiXgz4/Qg8My7YmGciSlKkdWxSkeiX3zYBG7baezeBa9znaF8ftDOPkeiWoXyzweQACeNaPWMGS5879KzfwEZu2TJIbTv1OPZiVTfIYmMjHsjXQA02DwrhfqEA2ARaP0bTMJHHdZYDxAuZEhSyU1OhxgmS9Gv6Gjh1hbydnyQyBxZZr2gDcMYF9UdH4/ZdeTIqFegL6JOO+wllxN9Sw5a1jonFWLUY5nSOQny/AyKPH01i6CM5w9NngbjEIvfrAFXIvG79BJGkoFkXM=;NvnbBsEgcbRCQV5YLNoE2g=="
 ---
 

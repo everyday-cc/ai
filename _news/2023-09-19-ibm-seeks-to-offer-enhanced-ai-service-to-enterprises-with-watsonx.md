@@ -1,16 +1,13 @@
 ---
 category: news
 title: "IBM seeks to offer enhanced AI service to enterprises with Watsonx"
-excerpt: "As the Korean unit chief explained, IBM said its Watsonx platform consists of three solutions, including Watson.ai, Watson.data and Watson.governance. Watson.ai enables users to build, run and ..."
-publishedDateTime: 2023-09-19T12:07:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html"
+excerpt: "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,"
+publishedDateTime: 2023-09-19T07:47:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2023/09/129_359573.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=359573"
 type: article
-quality: 74
-heat: 84
-published: true
 
 provider:
   name: The Korea Times
@@ -26,22 +23,6 @@ images:
     height: 653
     isCached: true
 
-related:
-  - title: "IBM Launches Watsonx AI Platform at Seoul Tech Summit 2023; Collaboration with Hugging Face Announced"
-    excerpt: "At the IBM Tech Summit Seoul 2023, IBM introduced its innovative Watsonx AI platform, designed to streamline generative AI integration for enterprises. Lee Eun-joo, IBM Koreas General Manager, emphasized"
-    publishedDateTime: 2023-09-20T09:11:00Z
-    webUrl: "https://www.econotimes.com/IBM-Introduces-Watsonx-AI-Platform-to-Empower-Businesses-in-South-Korea-1662989"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://f1.econotimes.com/2023/09/a3ah4nizx8_th_1024x0.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-
-secured: "4Rfd1P1NVG5McrFVKPFtkq08IhRsCppjPWwz+YyNc5lIrDgb5kQZG8aBm16BCJSfAwCy6xli277S7f5siUMmsx0h4oYnr1gmTxKx2CmnDCdnuZl52k+68b+3owKI9CgQWcEhXFfyztIzS/G+gRfnok68F6YO4jJqtkWIm5xLIN2Jxz95yuSCJLxdu+fAR72vlC1y1iuCgA2g2KnSwlPijKoVoO4vCoU9q6DyZdaREKP97TRFjEeAl2uTHeEdsm5SBHMYWtbLtYG37Hte9YwSmJNa88ZSsCR3ZskCGNkREy+Kn4Ty2NW0J9YfJRqvZ4iFL4m3r3y4CQ9LMuKch1aKMAYZPx/ZXhJdm6SQebwFj3CtsUsOsCR/jnC8rw4odN0TVjaYbzWFmZsPKtA+I1Al5tjpqTMPPY+qwOwh0+XrqrKYUb96eaNvGPG964NQm0N9dhOZ2zqt/YRSCTV56cNngXvk+S8Nouuf9/Ok0YOhhcWR5rKEnPP9F7i1luJHvWFaSShEvybGzbghtUmvLdKuuQ==;JfJWXND3S/k92LFjdM/QiA=="
+secured: "N85CeomjOEUW0BioFdhrgcZ7+mH7iGP75aFTYjX39GVpwKKBnHAiho8qu5wRbieiabxS/6VV0sS5K8Lfb9Ev7cDzFgEU1ZtqSUpecjb9V+cVAGA1YKBaTjMe6ozNImzUgzcryjbHzS4j2VxA4gJYj4b2f1fhBy4nJiDpKXDp09LfaRiZoGXV54KvEysUZPqoJ1bAHGmIkCQAPd3mZNA0qvVrvSRVfjFmPuGnpSIh55QfwnyUSPcoprKPuSZvdb3d3dN5Za7Of/D/v1DXUIP3JwfAngp/WDmLM6MShzCBvQ7UINVkKvjdG68hKOHRTIZ1ylgZ9EFfBkatP8lCoqEj11/6F87uXJq9FSiNxicbYrU=;yx1Diqxu/J+cOVnk+Z9+AQ=="
 ---
 
