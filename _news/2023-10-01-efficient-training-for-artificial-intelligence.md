@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/09/230922110755.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/09/230922110755.htm"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Science Daily
@@ -23,6 +23,22 @@ topics:
   - AI
   - Machine Learning
   - AI in Autos
+
+related:
+  - title: "Trust-busters come for AI’s building blocks"
+    excerpt: "In a preprint published via the Lancet last week, the researchers write that in a sample size of around 47,000 patients, GPT-4 can provide “relatively accurate” predictions of risk for cardiovascular disease by analyzing factors including age, sex, diabetes, hypertension, smoking status, cholesterol, blood pressure, and body mass index."
+    publishedDateTime: 2023-10-02T20:16:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/10/02/trust-busters-come-for-ais-building-blocks-00119526"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 37
+    images:
+      - url: "https://static.politico.com/80/b6/e35b2c83409899b79d3ad6f5a446/https-delivery-gettyimages.com/downloads/462833149"
+        width: 3353
+        height: 2644
+        isCached: true
 
 secured: "jxbEBxh9WDAxn/7NnjCqaxLZiOg9q7ga8DY88z+Aa3e8afjvuZZ3TP1dMYO93Es4iRTRjoUx8TJ0lHsDpNdeUdzx78o82GqLVHTjZLGgKdicG6UIgcmqe4aN+p0FrQLiXjuY9vlpuQeBMD5hw/Hd+hhRkkYvh910X0F7hN/KlFFtNhtbzj1dxrTPND0/fHmoaRtcxHafJw4TsrBw6j/8wEyHZAsXTdDaaw/tNt6jTAzzzkY/M2KdlDadtbgO9kRj4y2DL4yK1++8fUMxz9zePlh4CpXNNYKaE53/NpctxTuPwNR2DLNF+O6Aycn4CE8h17V7UTYLgcrC5ZNN3ccc78Src+5q5HqKmCsxX3Vlxsw=;NajOfTCq/mnQivkcyTa7/g=="
 ---

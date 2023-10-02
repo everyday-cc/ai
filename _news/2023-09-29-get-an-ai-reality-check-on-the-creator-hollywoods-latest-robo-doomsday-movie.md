@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2023/ai-reality-check-the-creator/"
 webUrl: "https://www.geekwire.com/2023/ai-reality-check-the-creator/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: GeekWire
@@ -27,6 +27,22 @@ images:
     width: 2815
     height: 1375
     isCached: true
+
+related:
+  - title: "Tom Hanks disavows AI clone amid Hollywood's robot reckoning"
+    excerpt: "\"Beware!\" Hanks wrote in an Instagram post this Sunday. \"There's a video out there promoting some dental plan with an AI version of me. I have nothing to do with"
+    publishedDateTime: 2023-10-02T20:16:00Z
+    webUrl: "https://www.victoriaadvocate.com/news/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning/article_cae1329c-6165-11ee-b46c-cfedbce7d18b.html"
+    type: article
+    provider:
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/3a/73afaee4-6166-11ee-ab05-9f955e0fd33c/651b2efb0d244.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "C85QsqrtjQj2fcm8EwP3hNRikchdJFQgm4DeotAIZwgBy29c5Ub5rlt6YHX47J7Bp4kLilypX0et4d+xLOoJVus77Zvsu4W+8SC9awlLyyEGO4ZRMx8nl+sysTOmHwdr3wOnCTnys324vNXWpAybTRd4CrjmKDeP+xy0rYaw4zFNQoeLozRlUKfjig/W2nFWv0CwEHXnW4R6FGUGMre3SfHTFFACJrj4vE2A5/PEzKB86+PJrnukYs+KMKzalEOO2YCHqHOZ5oxNAIY8Lxn7xAToZjpr87ZpSLjUCBFcxesdFiVPyw8582Kr6BXik9utW6f4NOHDr/WRh5oOKUG3aQQ/MH22oczBRxF1x+byqew=;s0SoFqxwnHd0MbDkGbKr9w=="
 ---

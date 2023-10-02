@@ -3,24 +3,18 @@ category: news
 title: "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time"
 excerpt: "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ..."
 publishedDateTime: 2023-09-24T11:13:00Z
-originalUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
-webUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
+originalUrl: "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/"
+webUrl: "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Lubbock Avalanche-Journal
+  domain: lubbockonline.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "8zXUDhJfwvYLJw02ouZKsuWLFxZTTJ0jF2yh3U0mIxXXh4zZlZMo+GerQH/0l5o3ZOseshcchFX5P3sueJOGKh51Ts5ZjIJ55d4Z7Th6YSq03HJOK1F3cB+oHnlDXqXaPDSJUWy82IKqznparNopLQ66+9ccWHzkPicvw1BeOS85XWjZs8fAH1aBxyCClVDEaMPL4WRosAIlmkV6YK/Tdkx2cPchhc5AQvQn3sUdXLJgeXcZ4d/5/KyDWjuQX1vaMgANv53nD5yTctNdzaNbjgIXYJbtgmZLZ6SL8R7fio3JaDO6DU9to0Qspfa6pTIm5UDFM1C3hLRexX5PUZxfMJQLx29QGX6GPuk9hR/Mxfc=;UW+5QVC66qBAkUNvdhHSKg=="
+secured: "h0UIgnqzste3easBwrFYJk0fPBnk53feO5gef7Xl8MG7vHvZHNpQxTtWCAkGzQL6YT6O5iemZicudC90xrGv23JP74cFX1HCAELBjeHc235n4Nu3JYLtniSSpXNsfMH6GvuIB1iiYB8cKevmhGO8TIeWynAiJN0ndUFjfYcuAu4gEHK9qih918RjYopueHodLerKkqrRwj5l/FyjmObPl4Ydu9TrjhpMUfsLWIMOsdi2JWT+baakaST2gbmh/+rw9fmLz7vJBPh+ajS065Ux1vbLnYLMA8ZRQB83vpuczeSkKw8vFK5O58CHx9WSnbxdYv7iOqc0BmLjtbALkWzMqpRTJf81V00PJSO1K6yz2m4=;ZV3dO1cHWKc04hymW8N4Zw=="
 ---
 

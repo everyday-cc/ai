@@ -61,6 +61,34 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "EU starts early-stage probe into Nvidia-dominated AI chip market’s abuses – Bloomberg News"
+    excerpt: "The European Union is examining alleged anticompetitive abuses in chips used for artificial intelligence, a market which Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
+    publishedDateTime: 2023-09-29T16:13:00Z
+    webUrl: "https://kfgo.com/2023/09/29/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 44
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-09/29/2023-09-29T161357Z_1_LYNXMPEJ8S0SY_RTROPTP_3_USA-STOCKS-SEMICONDUCTORS.JPG"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Is Nvidia abusing its dominance in the AI market?"
+    excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."
+    publishedDateTime: 2023-10-02T20:08:00Z
+    webUrl: "https://techwireasia.com/2023/10/is-nvidia-abusing-its-dominance-in-the-ai-market/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jen-Hsun-Huan-NVIDIAs-Founder-President-and-CEO-delivered-a-keynote-speech-at-Computex-in-Taipei-Taiwan-on-May-29-2023-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "kwMhCcyQJIVmboDRW/J7LNfKm8m5WXBCzWJpZjtzHtddv/8SLkviKZ1OsH9QrPCNiCSCHaoGiH9++ONg+int0TqslAQd1EgPqh+Kx5dNzSjvYeuHNPnMxkUmQYkkW1bh8q6A0dzCUQ6stZqzDbKd/CgC5XCPtk6EiAlST2lOHLv5bYxqizyycAUMNxLzEeIfqaYsZ8mfprl2U4c+LHIr0TzjtXZG4L2PcnaRYjL4Dy7jJ+e6dRhlV42XeK6l3195fInydvGIauWXJ3jEaEQ2uSfp/U5ig1PpKnylPC5KreuTjmDi4zOaF6q31edESQ3cLe7R6Y+/sYORKAKTiZbWACs5jflllS+FdoPzCz8v+7h8Q5bb7pAYne8UfMi+qjQFnrOtUsqphp2fo2JD/7sdXiHaQvcA0+4alFQYYWEpyTUGqWxwA6VgY1mLZttB6x5b7OvpROZvitb/mOOf7SNQe47NUHdyqndD8IIIzlQC9kbt0/borc/OstHDwk0QZbpEcsloWtcboAxfEC6WTCOY/A==;EpACNBI6o6ZHStY5AerfLA=="
 ---

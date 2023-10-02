@@ -72,6 +72,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
+    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
+    publishedDateTime: 2023-09-29T20:29:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 19
 
 secured: "tR3CrY+FZSBCMtVu/vyHF34xL5vzehTBbdTTP28+RQvfq+awmSEfikqnhbb6iqwDPJSUj5iaSXxJ4ZzQyguSRw5hsUC+Tsmr9OkD89zqEiQ/JHGhKqd86uH23q3/6m3BUHHoUOJC94yeiVE0JugwxRf5hR+sOUo1cRRxXA15tChU6oagQPL/e3FPQF3RjkJ9ERTOvrD62XJc+gWrRFDm8Ta2FwEBQJisMQGnbespM1qLAW4uLvMHU9E93hQqal1lzVQ5S9i6LrPESeVK0vucHCae7R/BgfbRR9rGkj10AzZEqW0ZyJiC41mbLFjnG+NuKUZSd1mC0l7tu5DU+4whs0lL0PACwG6PtGdmuJozjEU=;P6miqKw3hnyRZIUZLChu4w=="
 ---

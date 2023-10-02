@@ -47,7 +47,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trends in AI ethics before and after ChatGPT"
+    excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
+    publishedDateTime: 2023-09-28T08:23:00Z
+    webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/09/28/trends-in-ai-ethics-before-and-after-chatgpt/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 54
+    images:
+      - url: "https://kvia.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
+        width: 1200
+        height: 855
+        isCached: true
 
-secured: "oZxTBbyX6UVCFpUC5/sz1DUwvrT7EaLe93eFG5KLFZVn6LVokW6N8ulEXe4+uRh1vjTm03BRNiM7O8regj76eld+5bpzK/rcpIs6+BBf8LFIQW9UHLAQgV+uR8sOi1BNt134EL4Q9l6WYH9uOwnYBNRN+JiuKcxBnhlAaJwT/gY2h1ulV1MqOOJ0OleRhqZklzdwAA8XifrZ2KkJ0wmWmVrZ9kK0ejSFJiWmIuaa2JJtdxz+zXbAoMfu7+MPu0zUt3PikSie24MR6OzkQPyoCTOYg6mZTQAWh/clBAjQ2VYecYvOXqYt3+FQORA7FEWnsZOx9hGuhGmJ5nkfoH1wgt2kivcguGJSd6qa8+rmuFc=;2q1Ev8pXnobaVhUXj62d8A=="
+secured: "S/3q9kBy99yp0VlqUo+w2U0dR6bZ4hVm28h1H0uuJ7jAVMFekP+PozlrX52QFNym2KNkgd2EyVPpbXaxC66KaYyGkhMHtTTVgUU444LleD/GKc+YHYcUs604o0cKucMCSzqHUbrngTo+kI0wwFckjqDcRCsum2bivzvcNDM08qEHVtve15xh3/SBdt1pH3T/f4+G/WUtUHUE7Y6P2i6c+LHCYFqCcSKxWMFrRgUyDDHKH1Iy02yTMrqUl0mbUA0UgaE1xXwt12uHDrGA0gPeWIeOK5BcADDb9LgC+qqAquQKGY+BPenZkl5chCWcJoKbIp/eWzaV7sxcRUyR+0y0Cs0rjSEwM6BngeDLGntlx2qBpdEtmGPxzJRe3ezy4f1H7/UslVsu7wusM1vpCShIu6NzfhkYxVNneDVDb6xOV0FhK+K8B49lyJ04pEKJtvDMatQtPc8brZwpLlnYraJBldfg2W+iY5oJx3IKfGMy+8gtSCyF9vUmGNl9QwD2c4qie29dy+iPf0IpkbenqJL3zg==;l7JZ5o94NJ3SqgS+3xh/Jg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-re
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://imgix.bustle.com/uploads/image/2023/9/27/21834a56-7520-4957-a27c-6889fd472a32-23c0332_007-1200x800.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.6894&fp-y=0.6572"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Take a ride in Mercedes-Benz's first self-driving car with new Drive Pilot technology"
-    excerpt: "The self-driving car is here! Drive Pilot is the first system that allows you to relax and let the vehicle take over, and ABC7's Dave Kunz was the first U.S. journalist to drive it."
-    publishedDateTime: 2023-09-28T01:37:00Z
-    webUrl: "https://abc13.com/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    ampWebUrl: "https://abc13.com/amp/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 37
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13836067_kunz-drive-pilot-TN-img.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Will self-driving cars bring us a safer future on the roads? Not everyone is convinced"
     excerpt: "(Paul Sancya/The Associated Press) Spark53:59Robotaxis and a future with driverless cars Liz Lindqwister describes the first time she rode in a self-driving taxi as \"kind of a surreal experience.\""

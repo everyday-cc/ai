@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Take a ride in Mercedes-Benz's first self-driving car with new Drive Pilot technology"
-    excerpt: "The self-driving car is here! Drive Pilot is the first system that allows you to relax and let the vehicle take over, and ABC7's Dave Kunz was the first U.S. journalist to drive it."
-    publishedDateTime: 2023-09-28T01:37:00Z
-    webUrl: "https://abc13.com/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    ampWebUrl: "https://abc13.com/amp/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/2024-mercedes-eqs-drive-pilot-high-tech-driver-assistance-auto-industry/13835667/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 37
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13836067_kunz-drive-pilot-TN-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Will self-driving cars bring us a safer future on the roads? Not everyone is convinced"
     excerpt: "(Paul Sancya/The Associated Press) Spark53:59Robotaxis and a future with driverless cars Liz Lindqwister describes the first time she rode in a self-driving taxi as \"kind of a surreal experience.\""
     publishedDateTime: 2023-09-29T13:01:00Z

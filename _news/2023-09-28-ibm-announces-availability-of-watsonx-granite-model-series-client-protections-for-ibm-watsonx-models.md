@@ -39,6 +39,20 @@ related:
         width: 490
         height: 231
         isCached: true
+  - title: "IBM Announces Availability of watsonx Granite models, New Protections for IBM-developed Models"
+    excerpt: "IBM, one of the leading providers of hybrid cloud and AI, and consulting services, announced the general availability of the first models in the watsonx"
+    publishedDateTime: 2023-10-02T20:27:00Z
+    webUrl: "https://www.datanami.com/2023/10/02/ibm-announces-availability-of-watsonx-granite-models-new-protections-for-ibm-developed-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
+        width: 1000
+        height: 597
+        isCached: true
   - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
     excerpt: "These IBM models — built on a decoder-only architecture — aim to help businesses scale AI. For instance, businesses can use them to apply retrieval augmented generation for searching ..."
     publishedDateTime: 2023-09-28T20:24:00Z
@@ -54,6 +68,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "nJb68+Tnwb6axPJwxvqlWWMHtGxdsQeQvVQRBi71pEFQINKy3r/Mx+vItYanJTzZrU3fYifFkVisEkr/mywcxXY1LnD8AAwrimRrWsz+9XpgpRAyRm45RrURyZHtRi9DchSCm3dDSjcQ6n0PFRm8/ZhXYBl/GuFzHSOos8wnI86lnU93iv5Wy97sv5XY89zO62FVJwTLXhtm4zjs0f5XeMNgoLBfAoQmZw+JtIOL82jdjUWNh9k6dpth4EEBZUpVrBLU2vSp0OWnJa+RXc8kWmk980t8Il4AzxDe72bB9uEpBohYso+3Q1dHMzlS9dCM0oA0X8CyovixzJ4SvHHOjhsmXLgusk7yOhV4JIo5LjY=;qdD0MOEvsK69gh3Umkjn1w=="
+secured: "+EZrEYu8UpFkux3MD15hO9F8ooQ2h3gF2lcEUjV05P9P57O6EsfTScQ9h1n7o0j7OpWrnp0B6mXJU2BQRl3dEiHgBt9B7vltQI46xDRTtmuNXuhb4uPsaHuJtddRlXKiv/hK+4rog31h/y7uRfrqCL/G075c3FjcK05GAw5nT1vZ82igO1ZuSJMKHAwgIzGq4Y5yld2WpSK2CQjZyhPX+fEBoJ/92MNZgvUV8l/KNrSP5H4Gy1GA6xg4ip+rcyP8hyLMvi69chHKCJDK2IRfpX3kk6dA1yMsgwQbgMgn9J6MdcZQ8OWsPx+FY4ZhUY7O8E+xNlbUiI0hsvNkfhCGpH/bUuTdwy0QbDVe9+bEE0Q=;uX4HIc2LGMXpWolDjUHDEw=="
 ---
 

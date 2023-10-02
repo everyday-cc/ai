@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-me
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Visa earmarks $100M to invest in generative AI companies"
+    excerpt: "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,"
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/"
+    ampWebUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
+        width: 1200
+        height: 816
+        isCached: true
   - title: "Mistral AI Releases Generative AI Model Competitor to Meta’s Llama 2"
     excerpt: "The large language model Mistral 7B is free to download, with no restrictions on use. Get details about how businesses can use Mistral 7B."
     publishedDateTime: 2023-09-29T04:33:00Z

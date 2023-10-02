@@ -45,6 +45,22 @@ related:
         width: 1199
         height: 615
         isCached: true
+  - title: "Visa earmarks $100M to invest in generative AI companies"
+    excerpt: "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,"
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/"
+    ampWebUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
+        width: 1200
+        height: 816
+        isCached: true
 
 secured: "Y1nh6le4V5w5Z593RkPPRbi2t1oes09Gon9FJewvm51xmk1xJASUpnSQ/hGSUPtnzbqKVxh+Y5+JogYQ4+5cH2Z7ctlgdYnHg63FDlKazzZPrdob14SmIvJ+yU9lL17oa0eZOrxhYGU4lemCkxhSJHEg+om27RQe73aR2tA6p+vjzwm8B/6vIZGR6oLRo9IOW/xNA4vc33nDJQuB4hxW6PzBpVyGgwE59v42VLWYmL36GsSRM7PumKNK5o98EvNROv1sDg+sbUm4hv411HNI7U+9vCYkyIuLUkt0poAX6dOujQOsz6Ca50IAjKct86Ikcv9ChtkzvthdtXHLd8G8iZskplao+hgfkOqGo42HHideVsbvFjc/OB5RuWJ6i4Jr+jsqwtzYGj9R37ZBqv6Gj6Um4aYzy4nZ7ovtnjKL+sFnSwBF0eM8k8GZd7z5jpk13Rc7zxdoBGZOtwwfAmTUFuClTRE5Joed3D0Vkegr6qheCUOwUzYqUkeBHSDUCWaC7ngVxLmRzawXVIDNvihtKw==;kXKE+qX8r7/+YnFSZOu+3w=="
 ---

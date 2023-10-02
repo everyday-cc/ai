@@ -19,12 +19,26 @@ topics:
   - AI
 
 images:
-  - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?09:02:24pm"
+  - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:00:47am"
     width: 680
     height: 450
     isCached: true
 
 related:
+  - title: "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart"
+    excerpt: "Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
+    publishedDateTime: 2023-10-02T21:30:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/code-llama-jumpstart.jpg"
+        width: 896
+        height: 448
+        isCached: true
   - title: "Build a crop segmentation machine learning model with Planet data and Amazon SageMaker geospatial capabilities"
     excerpt: "In this analysis, we use a K-nearest neighbors (KNN) model to conduct crop segmentation, and we compare these results with ground truth imagery on an agricultural region. Our results reveal that the classification from the KNN model is more accurately representative of the state of the current crop field"
     publishedDateTime: 2023-09-29T21:08:49Z
@@ -39,7 +53,21 @@ related:
         width: 1072
         height: 525
         isCached: true
+  - title: "UAE’s Falcon 180B Breaks Boundaries: Most advanced Falcon 180B Openly Available Large Language Model (LLM) Trained on Amazon SageMaker"
+    excerpt: "In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, announced that Abu D"
+    publishedDateTime: 2023-10-02T08:19:00Z
+    webUrl: "https://menafn.com/1107172955/UAEs-Falcon-180B-Breaks-Boundaries-Most-advanced-Falcon-180B-Openly-Available-Large-Language-Model-LLM-Trained-on-Amazon-SageMaker"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/02/pr_16029_30ad65bc_image_story.jpg"
+        width: 714
+        height: 923
+        isCached: true
 
-secured: "smoEm9YbfhmiwelqK0u81e5dIJW0Gr4OqJHoz26ggG4zNFllcJp6use/N/apsX5W+un2AYDd8TFKGggOCFrNNdGY5mYC8Y36cQt7pCruGT8LqtDCqaVjJ26b1e0T0wE4VmwNC7Rad7/aPI4eq51DWX9Sm1cfOdM0gkMrSPs9MDosRd9bODwd+n0G8D3+yHbsF8Nosxu/iQ1AoKO+uNoNZ3I1rDIKuFzUs5VqoKIz2dLwoAVaBGghUA7Atma90nkM07brj1M4l+QBRaX7FvdXWsPDCtHArvr2aQgutWzpIRAIR7HYg5qTBDpniFeJu5X5YsB0O+O52Gb9DJrI5hxpPJJ3GFuvCQA8VQf9VpgfSy4=;8M8sN13DXDQv/8NF4svgiA=="
+secured: "bkRU2VXpYq97m0FyKCIVnrPr+2gN91mZGKkUMp8zhbUR49B/0ITfArV8bGZXVHawpZOCdAK7XBRv/fid1khoiSpyRgYCEIiuaqw7K8+OApDdSbkldAqrnC/5hOZELzFDv6RKn85fKMxwZEee9zZZUIIMxnDOD2nAyEnisquGNxjf7pZX0EQP8gBgGmRQV0wd3zmIbyU5fhxzIOju0DT6J+7P2RtnWJiaBjgc2Z+GaxkAN3UBBzxJNo7IW35kT3Z4msWWj5sRBu0b3pSBAOv5hXWfFx0K3xCvPDp6LNA4DkF/gXjZhjhsP9J4S7y0iB99VmtkNi9WXSRfMH304atoiddPjpu58B12eYpFqNWBUqo=;smNfG/10HRuTb9K0SjmeSg=="
 ---
 

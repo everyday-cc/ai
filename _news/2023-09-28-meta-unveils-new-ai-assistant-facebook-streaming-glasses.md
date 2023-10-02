@@ -72,6 +72,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
+  - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
+    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
+    publishedDateTime: 2023-09-29T20:29:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 19
 
 secured: "EXULzCq3mukVBDYaka0kdjOH+wMvw5VcojbyBVmtPR2R5akUolwhNYopRSwbEVAQLYvybL0tfMD98girNv5d5JNGl4WsGv7aYJ8w3wWMtC/lq513OnV1HeYx+RK8NCvPV9xXaYLigjMpzUgqFbILnSGhWyLkDfEZWxs7Qf5a3HW+rKJiIQsVzZrpcgpqeHLIfS472xlOePSlUOYnCq5VQKzUmRdZdDYZbGpD4ArWJCCC5FG4VdFpBzLrTMagQPtfzbaBunywZ/BHNw8s3j8uaSIUJMSJmeVBmEhHS4HldhtiJujbmEzslPNrSrK3ohlP30dvOKY4g3afRRzTvRhydp1U2G6y7DK55XdLz97Enzs=;nHoTzeY/v4mgjGFzj84oPA=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 490
         height: 231
         isCached: true
+  - title: "IBM Announces Availability of watsonx Granite models, New Protections for IBM-developed Models"
+    excerpt: "IBM, one of the leading providers of hybrid cloud and AI, and consulting services, announced the general availability of the first models in the watsonx"
+    publishedDateTime: 2023-10-02T20:27:00Z
+    webUrl: "https://www.datanami.com/2023/10/02/ibm-announces-availability-of-watsonx-granite-models-new-protections-for-ibm-developed-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 42
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
+        width: 1000
+        height: 597
+        isCached: true
   - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
     excerpt: "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ..."
     publishedDateTime: 2023-09-28T14:32:00Z
