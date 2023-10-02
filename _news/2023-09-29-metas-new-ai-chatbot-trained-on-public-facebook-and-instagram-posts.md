@@ -55,6 +55,17 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Meta unveils new AI assistant, Facebook-streaming glasses"
+    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Mr. Zuckerberg also said on Wednesday that Xbox cloud ..."
+    publishedDateTime: 2023-09-28T08:54:00Z
+    webUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/"
+    ampWebUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
   - title: "Meta introduces new AI tech to Facebook, Instagram and WhatsApp"
     excerpt: "73 per cent use Facebook, 63 per cent use Messenger, 56 per cent use Instagram and 35 per cent use WhatsApp, according to research by Meltwater. The new assistant Meta AI will be the first time ..."
     publishedDateTime: 2023-09-28T06:35:00Z

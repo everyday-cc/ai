@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/dell-apex-cloud-platform-for-micros
 webUrl: "https://www.crn.com/news/cloud/dell-apex-cloud-platform-for-microsoft-azure-aims-to-simplify-hybrid-deployments"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -50,16 +50,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft and Mercy collaborate to empower clinicians to transform patient care with generative AI"
-    excerpt: "Multiyear alliance creates foundation for innovation and deeper insights with data REDMOND, Wash., and ST. LOUIS — Sept. 27, 2023 — Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies to give physicians,"
-    publishedDateTime: 2023-09-27T15:00:00Z
-    webUrl: "https://news.microsoft.com/2023/09/27/microsoft-and-mercy-collaborate-to-empower-clinicians-to-transform-patient-care-with-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 20
 
-secured: "G8CFKNU0O8XhQLDbwKGJxt7VfzkSG2NsUq90k/JyfS9zvbMCty5RntS6X1ndbKD4Ys9dr1aGQM/BMG+jhP4PbT/dX37oHFqVWGZFuJE0pj5X4JEVfp+qJROXQ7/bdlZ573ZjDppVFHJ7+UUPWHray+UI7VlLDRicWqA3JftbpeUaBLrAr1FwjQiDzyzvTDFYSIIhGJ0nIdBKpIsw0b8JtAbypMRLB6bqqNQAWN4tdNN1N/PPxB1DhaiX2EUImynZvgo6r/C3ykYY+sQPnCWsQDp8nlcufd0Whk2rYfXp988Bzu3ePFqfNTK4xQZDA7PQ1TzKk442we+g3GkReTcWa2B/MoHDgQPzEchhvPoY3Bc=;7ToRuJPOaKYXgxU7FZg/3g=="
+secured: "PA5Jx27kewXFwfnptJFHDrQ64HnXH6s4JrYsY2IAVQTY4X2nZmu3f8hvgHO1SH24rYM5fdzuU3VUwSs+Qa5AIMSkr9gvFxRWjtIipjxM7+Yyhta4vJ2YSdtbmPTjR5aHhCn/BlDSgVS1vdFtPPb5MrTfNJlJF5l7Lkz0bQBKl5J9d26eni4h80SsrfVVHCh3C3L5o+jt6445hnUG5l10r92kbCVSl0SgAhZAUUwzKfSJlaOJmbkeZd0PaQSDTkE3DLdZx1N0bgiVzeCDNgwqzp0qnRnEOm4gmTHOWNJDyGqFpYGdevDagmT3YwyHlxfFARMLNPLGZ1+5Qx2iVYjoJOlHh8e60eObnikyFdDlByWsx8n3cHeiAF1+EkAIk0aODoI+9ByPn219p5eNWCfL1BvN3Z4N6eDD3txvi4rn3Kt/1CWVKD6zcmQ1oOVPVYDDG5DBxvUloNMGisRMjwLzCOjYEIRJdBJkJbGwdvqf22hJMFDOMl4a1DxjUGl2/xGFospCZob6+X9ZyjV/Ky1qWw==;0W19tptO8r8NFKup/JDQ8Q=="
 ---
 

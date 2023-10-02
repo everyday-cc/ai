@@ -5,6 +5,8 @@ excerpt: "China put into force this week its newest regulations on artificial in
 publishedDateTime: 2023-08-18T01:39:00Z
 originalUrl: "https://www.philstar.com/happens/1132"
 webUrl: "https://www.philstar.com/happens/1132"
+ampWebUrl: "https://www.philstar.com/happens/1132/amp/"
+cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/"
 type: article
 
 provider:
@@ -14,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://media.philstar.com/images/bites/artificial-intelligence_2023-05-03_13-02-10.jpg"

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
+    excerpt: "Randal Quran Reid was driving to his mother’s home the day after Thanksgiving last year when police pulled him over and arrested him on the side of a busy Georgia interstate."
+    publishedDateTime: 2023-10-01T15:44:00Z
+    webUrl: "https://www.columbian.com/news/2023/oct/01/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 40
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/09/Facial_Recognition_Mistaken_Identity_65159-a92c3.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Facial Recognition Technology Meets the Cattle Industry"
     excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
     publishedDateTime: 2023-09-29T15:01:00Z

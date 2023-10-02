@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 829
         isCached: true
+  - title: "Meta unveils new AI assistant, Facebook-streaming glasses"
+    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Mr. Zuckerberg also said on Wednesday that Xbox cloud ..."
+    publishedDateTime: 2023-09-28T08:54:00Z
+    webUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/"
+    ampWebUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
   - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
     excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
     publishedDateTime: 2023-09-28T23:32:00Z
@@ -65,6 +76,6 @@ related:
       domain: news.com.au
     quality: 19
 
-secured: "SWSsBw0YlsRd8vDMjLO5q3fXMQ9zcZs1JFLNfLVvW06JUfduFkwFSbsGqEWZJzJVAv/gq1Ccxye6xBmPx9u9/DX1dk8msHv5N+5SYYPTAaRm2d8U7K6xf4wPU45oEvPqmFj1+oTra41jIsZhaVzRRzVIOURhLRjbqKV3zOTETy3aSmMUAgd2D9ibZNmBQddXdkTHiDwkt4Sdnsembzqyo0ULPfEWjaurNrxKNapaPz+Urv/DUSZU/eVZFqsHYQ1ota8yI0Zi6j99ZQ823DEimmEoICL5GIIFouViy71Dx4LD0BJi0vigQrGz62821gx6wGpj1fypA/EOhXPULP7mNYy4fngeHCY8ogMgXal0hn0=;wVtMGXffvFtq5Ms4xumrKg=="
+secured: "SmQgN7eD/8l3MZzETL37w5klYDycPyGdCfuGWdYGkkn4wmwQ+bLIULUl0rqNK+BotF8c3qN/0nbBszgjmb2qllit8xwJhzz7+j+18Fgdl5LWBkbrQjrOnRHCwfXr5o/Yp9B1FdMdO25xsSvMHKxaMa/nTKzUCBKGKcB35SBjgbs+KCuIRnvd9KTwSaYbAc9RLTUItFBCRtDlqOgBw1zwnXTVSsctJtm39XbZ/6cPViFor5ZZVUAXntObkBY4M35arJ9iVSs+DW5PoSzEbAduAum4Qbi40NLjPLV+sfYxN4NvZA5OEdrUFlfO2I0gVLN9bDGpQU1ACT80mQtnzUGiaJ1O3c31+Cpgbl1W6CnwbHQ=;Rz9MM4wR7UWB0HBe8Z53Lg=="
 ---
 

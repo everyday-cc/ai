@@ -3,8 +3,8 @@ category: news
 title: "EU examines Nvidia-dominated AI chip market's abuses, Bloomberg reports"
 excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
 publishedDateTime: 2023-09-29T17:12:00Z
-originalUrl: "https://www.reuters.com/article/nvidia-eu/eu-examines-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news-idUSKBN30Z1J5"
-webUrl: "https://www.reuters.com/article/nvidia-eu/eu-examines-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news-idUSKBN30Z1J5"
+originalUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
+webUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
 type: article
 quality: 84
 heat: 94
@@ -44,6 +44,6 @@ related:
         height: 628
         isCached: true
 
-secured: "HnmylU4X/uQ21+zgIA816cRIM298YYz5KNeuylRFDRJ5+K2ATTRkrD4OsZIwmlPJV483QvshQXi0LZQ/x605QfoC5iRrb2yafKNw6dicdbz7/kfFcx6AixEirgLGCrqEQwH2pNdd5Tl3b42Z3qYPFlTYwQOhIKY21dKaqF8Fbgt67YKfWmZQJMz+O4B6cceSjSnsfUXaerlz6wiedtWbgBrApl4Yi9o/z/YUnCuIWqZZbxkRk6f5nEx2rh5XWO4TCipo4zoHH/mbcJ6urgZ40ShHC5DeG/FStFtuUUfVkCZ/C06G+UDn4J520hO3gIeSRxsqdsHfiAj5gLTOHgvyWtzb7LQxEifdZ/0tnCWFUqs=;YPvdYRIcbtZzn1hxvSzB/g=="
+secured: "HycGlZoXBD8DWp7Y4GOoswCEKdf83DpxE+ApK4JhLFpDn4gPbz4lfPd8dST+HGa3h52er7bZnH+e0QdRmwULH8QP4BCxsYQnOA85+UL/y+RIh6zMlEXr02e2QvL3KIahB2TpNN68KZQUa6wyDapeZ/Jg9a/eVDgfaU5QR0oQzKeX/ygOWUKJQk5DJZJ3n/OjSc8tp4CAknCDfC95rtlDvKorv+TB7G8ea8rm06wWPwP2TKSwDDawsMfG3Lk+Hq7pSvHQtUbLx53Q/VK2awFWoC630WBUHL+vFSRTspM6Im8N61D9NAM6rtBbEKdNVtUuYNGUBuIu90JDeoRtjGl8JGZ1CV5I83JM2T0I6iir4VE=;KLoMSiFo9UylqFwMrgp26Q=="
 ---
 

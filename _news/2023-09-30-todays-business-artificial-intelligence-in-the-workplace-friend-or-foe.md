@@ -2,27 +2,22 @@
 category: news
 title: "Today's Business: Artificial intelligence in the workplace — friend or foe?"
 excerpt: "A recent United Nations study predicts that generative artificial intelligence, one version commonly referred to as ChatGTP, will complement rather than destroy modern-day workplaces. But who has more to lose — employers or employees? Generally ..."
-publishedDateTime: 2023-09-30T09:18:00Z
-originalUrl: "https://www.stamfordadvocate.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
-webUrl: "https://www.stamfordadvocate.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
+publishedDateTime: 2023-09-30T13:53:00Z
+originalUrl: "https://www.chron.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
+webUrl: "https://www.chron.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
 type: article
-quality: 35
-heat: 35
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/22/21/73/21569255/7/rawImage.jpg"
-    width: 2048
-    height: 1878
-    isCached: true
-
-secured: "CzpVagZsW7aXdAZMk1Xg9HXVxz2ikwOvO1Q6XmrFrkNkTec1v5hW4NV2m2T0U3LeKCBVPY7b8hhtgSIszVeHXl40zNotw2FdZvgjDgdHvPcfDNPTAb2sxlMvZy4AuCBp6wgLHjj/FVmTByOv4DOBQLg4YoCYZNC1vDeTARyJP20mOLpXcWElI7wizd5rzAhHORUF3yQq8hVpupiJgFk5BZm+ClVJrI/1iDk1CuLinXUd/B8F69/3eIfuuAFjGsECouktzurlu11mAmk7tliBO4BxA7/38EwZVAcjVzSFREDUUFGbMMqjROIiaMu1WPlimekTC3nvDNOg0VQZKx6cCuqbRqpn5OJBEWTJAfpZG88=;y1QWlOpGqaxaJk+PuhvRkw=="
+secured: "zBjgyDLUOh8uBMmoG3PQcEe7lQcEvwLNEaKJ/ecREq9jXb+ED4sc0+2dektc3KpHV0xTc1YHcd1un2P3tvJjqZWw+OGcd6AQgjN3ouwtz6aoBX7basZK+z79q6te8C5F+CCUaMzJTz6K8lqZSnguCIsvDSp6RucW42PHis9qwYg5ttVYyWyLGzDq3vPNLNZ91tf4Kifz4eKp6WBbKSL3zKEgcCLIA9zOlqvufBBKWbZUwcVG0YRsOFwTkKrrh730mv8HlkxradpKAYELQzAapLTZEUopkXpSdFh+RYq98eR4P+bQxhWi88jyW/4aLkkkB6RsgT5z4c9/LHNvGFFwYRPu5n1cbUS5hEVTJFDl7n3dAs/MFmxwVAyrumYmtIfHOQaahIpYLyPfpDI96P28LnSE8fZMujKvr6KT/GSk9SzcfC8nSNY9s5aMg88wYf+BJW19KOTdytAesxFb6VImTrjk0gN/G6SoNSCa8QvsQ1izkgfQ0ALFV2VdwwrTGoOC+u8RBO8XVRbYiFUVcoB7Zg==;Ve+i5f1jMJmwhMlLUJiOwg=="
 ---
 

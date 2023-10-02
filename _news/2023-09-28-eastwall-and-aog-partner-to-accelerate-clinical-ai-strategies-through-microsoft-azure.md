@@ -49,16 +49,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft and Mercy collaborate to empower clinicians to transform patient care with generative AI"
-    excerpt: "Multiyear alliance creates foundation for innovation and deeper insights with data REDMOND, Wash., and ST. LOUIS — Sept. 27, 2023 — Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies to give physicians,"
-    publishedDateTime: 2023-09-27T15:00:00Z
-    webUrl: "https://news.microsoft.com/2023/09/27/microsoft-and-mercy-collaborate-to-empower-clinicians-to-transform-patient-care-with-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 20
 
-secured: "SdiVKMCSaQm+gpDNUaMxdxvUb5C2At8nVlemlfRuRqj/2iCwtqHpmULJuv4gmSkxSO7MjltKFckUBG/4w/AWUlk15pCsZWUicnNFGMc6fx5BgKq62XbVTMTSjrYr4xySCsdj/krRS9jblDBufHxt4Qd/PSdXdK/hokc8dlTW4Z8gc7OT760VOqx533xCeH+1gHtIajSOlBgCMb740MzyzrKt+UWeL3Q0OWG/O2Yxomx2s+/HDwsEBk7O7unkbs2NwJ46B9jFJ4xLIVkpUnDXo15jkB9qPT571UAfaadATSRwUR9AxOwVpKjROCYDRbh/bsWOSSBJj3DMzLokGJ88G8fqtD8tdJR0JVSDRPEoOLE=;pHvCf+qZjxe1TCTKaJ8n9Q=="
+secured: "qgqOEWiLE93RibO/jxEz3NCFLxV+I49oyOp5Ao+gGA/7y99rqFrTMq6bFJf367o4bdqVAO1RQCfDP1oJtEraI3k0wha9tgzeaJUCARPh+8VEilw0sSvVLTDroBlfqZk+ayirkyQ4xC3WCvnDb9JL14sQeLd4sqXq6ZJEsnNJIlgAbrZDwO+X5/0ME/z106RlX1skPafncSC5dvdpZTFjmHTT/t+QvTzXiAgkDLS0hyxzhmV+5ghWxSZCaPjVEnF/ZQwE1yQUhWsdhTl/+ZP5yeN5g042S19TzMm/UK/p+O69ZAgdMz9k1Oz3S0Ee8mrWStqSg6VNwxmFfRj0HCus6HhiMDM8v7m40C1p5yBMcGU=;MYBm9vhiaLONHgWG93oFtg=="
 ---
 

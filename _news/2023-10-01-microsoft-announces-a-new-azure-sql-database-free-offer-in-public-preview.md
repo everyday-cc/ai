@@ -50,15 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 62
-  - title: "Microsoft and Mercy collaborate to empower clinicians to transform patient care with generative AI"
-    excerpt: "Multiyear alliance creates foundation for innovation and deeper insights with data REDMOND, Wash., and ST. LOUIS — Sept. 27, 2023 — Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies to give physicians,"
-    publishedDateTime: 2023-09-27T15:00:00Z
-    webUrl: "https://news.microsoft.com/2023/09/27/microsoft-and-mercy-collaborate-to-empower-clinicians-to-transform-patient-care-with-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 20
 
 secured: "3Le4N5xwG6OYTCxVT7wJBNqCQPde1voJzSJQIEMPkbsPCjnv/j6VCqovJVyyAW1VEB/enTlO6TdZ8a0OVee0oXD2Mt/rGSjztIGC+3VOLAGnloVZr/gyP38XFUQFxSvKjreAD87rU2Kn3rCIdssEjTC9LbaD2Ma7mk2Kpf5g6/BYmFig6h3CcucbMFdXIiJW2NeLuHTzGBv8AgHkU4emeR6mSpDneculQTbO421itD+4COKqbFZ3TvjqMTT9lY044w6FJzWBjjJA7WlWixkslnW8TUi/5LSTHEpN/CWTq3D/X5B9UDqUGmSGo2g4ARLKyFDjdUz4jrrq+J7JvD7C1skDbri3Nsm1rhbJE1Sii+0=;xLuCChdPgfv4BMCkgZktsA=="
 ---

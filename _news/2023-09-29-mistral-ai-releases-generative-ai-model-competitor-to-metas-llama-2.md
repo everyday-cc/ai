@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/mistral-ai/"
 webUrl: "https://www.techrepublic.com/article/mistral-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Paris-France-National-Assembly.jpeg"
         width: 1280
         height: 1113
+        isCached: true
+  - title: "Europe’s largest seeded startup Mistral AI releases first model, outperforming Llama 2 13B"
+    excerpt: "Mistral’s demonstration of a small model delivering high performance across a range of tasks could mean major benefits for businesses."
+    publishedDateTime: 2023-09-28T00:46:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_aerial_shot_looking_down_at_the_eiffel_tower_surrounded_2c015792-c192-4101-ab81-a0150e8a4af9.png?w=1200&strip=all"
+        width: 835
+        height: 468
         isCached: true
   - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
     excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."

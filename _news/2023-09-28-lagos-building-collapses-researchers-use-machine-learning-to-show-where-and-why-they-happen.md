@@ -26,22 +26,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Lagos building collapses: we used machine learning to show where and why they happen"
-    excerpt: "An AI model shows that building collapses in Lagos are location specific, and soil testing can help to check them."
-    publishedDateTime: 2023-09-27T13:55:00Z
-    webUrl: "https://theconversation.com/lagos-building-collapses-we-used-machine-learning-to-show-where-and-why-they-happen-212303"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 32
-    images:
-      - url: "https://images.theconversation.com/files/548769/original/file-20230918-31-sfwfr4.jpg?ixlib=rb-1.1.0&rect=0%2C392%2C2492%2C1246&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
-
-secured: "WqP8dPZKMXwoSDJX6AxGM+jhRWUpadj3uhwNYdxO3id6/3fr7IF5Wn7/dq1MZbvldwISrPIpwYOElOSXEbUhcez1Kx2c7Lo7ktl6Ik6lrDjfPqqUClQCKya65OVCBo8IvKiJx25thCPLSPxJdp2zf6hVhLetQOlvaiwSF/udVRNvzxbhPKI2AidKz37olbFChhfzqwE0ZpIuSq8j959lDg2BjB1pP85eJUpUseZZRuQzPXvx0dd/ZTa95MK9VlmBaGKE3EZMes5wodqITbRruZrp6tB1myvAVzv+Ii9Aj4mViw7BI/Tuc4ktkHM9v0Nl0Kn1R3ePoVe1IJqlENRZHz2yMFDh4Pzx3vujGCSMnkU=;wY9Bo1r0X9nXM8GOO0Lhmw=="
+secured: "juWhG5iMprHYZnhcTyXuhoNruzZyVDSnHM9ONFlVXVNT5/YB2lBVm+DjEPvwo4xfxA0VJpTr4EYjKgLDFQk2/4AhiQfrhOV1kahiRZZrnPgUrLebb5LIad81CqizRhEaV+ul89VSYy0LTCIRFZpravFb8Ty08Y4RKXG+B2o3dAy02LDvDijC6YlUyN+/GtB+PsAa4ZDjw011dc07AnEEEh0/t3sNa2pUICyBojtwMvyWcZi9jpiE28PkQFDEXsQh/OxWAV++zztxYPkL/+qyvqcsEotN6bJuh7tD9uwFUpvzwwwomhoTK++zns3zcr98goE9j24vP4xvkn7BOFeHzP771e9+KXX8CU2GIvTJ1hR/GS2ITXh+zYb8XPJrFH/oIgSBfMcU3jc4K27T5m6NyUXdcPcD/E9kzZlXjw1AUkJ54DRM1/lbh2KJbzCUp7Sht09xNbRijYbHGaTcc2DMIpuFEdo2Prn8FoMyb0Lx9ikVakc9f3en88+x0olcIEfJa6162JaNF0X54vbXEPjECw==;c/DiSYuni8U70d/jLjv/5g=="
 ---
 
