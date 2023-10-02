@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Startups: of Artificial Intelligence and Unreal Impact"
-    excerpt: "Benefits of artificial intelligence extend beyond startups and industry. Enterprises leveraging AI can introduce unreal benefits Etgreycell.@timesgroup.com Artificial intelligence is doing - Mediawire"
-    publishedDateTime: 2023-10-01T16:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/startups-of-artificial-intelligence-and-unreal-impact/articleshow_new/95194655.cms"
+  - title: "How Big Tech is co-opting the rising stars of artificial intelligence"
+    excerpt: "Data centers are vital to the artificial intelligence industry, making Big Tech companies key gatekeepers when it comes to developing new AI tools. (Dean Mouhtaropoulos/Getty Images)"
+    publishedDateTime: 2023-10-01T01:31:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/09/30/anthropic-amazon-artificial-intelligence/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 41
     images:
-      - url: "https://static.toiimg.com/photo/95194655.cms"
-        width: 800
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
-secured: "Ac6nSEjMflZmAOLUCvIrxoFpEuiV60SbdakfcP/KI0fq1h7oQoEu6pe92lidy9O00QFKWiaOVGCW3rulQWrupvoavRZeBibPbc8oQiZEhd5DjmIVFylVq929B2EOnnObssLCTx7+Tfq4Xh/igF70Pscw+yiylmNu3lu+M7jYlS+8M0yfTRfBfnxL+8X2BO690Sq6svGQbnGTJzaXrYdQYiQYbmDD9qlK/dqr3EwdSipQPttBQs+honB0as5lMsDzzU0USu0rObQZyqG8bXw0+ZyuNpAYWHVxSpHt3AHiA/zuI1Uz08mB1Epq15V61AZRWcJPWADZOnvY24W0zRC5qQSZ1aYBZ7KWsooWOhEMX4A=;5DTkeIufWs307lSJmt/Tzw=="
+secured: "uE8mmdX3C45FvkFk9QJ6diDefUWMIAy4AXad+dT+mMYKWlQw5goitC44u019/nBlG5AEZ9eB/Yv+CAMNk0tcyPVgRlQrq7BUqNII6n5gaozy9ka17QdVIyCAAfBx5QixfFvUsJOqdrSKc//C5rRt560j54r5gHlbz844NAXyGSUn0LTKNQczxdPkgMT/0bx54/D4+AzCserrcsMBcAscyrL8cEzccR7Y2r1893tdgVcizrKhhCufvoeLc6ML0KtP7yWEOcy3Bf7yNo8WriPKGdNIZJjAgUQ25KgZS/LzIwysCcZl9bT5Xs2uFRc5VRZn2507XUiLqzuPC89aB5nhoxHXkyKe4awEEiQE5hSOL8Qo/jRsVaitkIu7tTds38noKRTigjheGfzWm55qjPF/WXkrgoEaz/BwgPNE0wqbdoNpm/irZWLvm1VKnAIMGVMi0IBJ6ko/1pmYtT8MhBuY9uRFtHvzkRWVu60TVCvGaBDMyOmdSFYaSAkyp2nkzAywDcN6lgKYjnt8dgHr2aXLhg==;twR8XO81yBCQuFNG29WeJQ=="
 ---
 

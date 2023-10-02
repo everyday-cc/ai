@@ -41,6 +41,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "New York bans use of facial recognition technology in schools"
+    excerpt: "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ..."
+    publishedDateTime: 2023-10-01T08:22:00Z
+    webUrl: "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
+    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
+    type: article
+    provider:
+      name: WGRZ
+      domain: wgrz.com
+    quality: 59
+    images:
+      - url: "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "New York bans the use of facial recognition technology in schools"
     excerpt: "Commissioner of Education of the State of New York Betty Rosa banned the use of facial recognition technology (FRT) in New York schools on Wednesday after a state report found that student privacy risks outweighed the potential security benefits."
     publishedDateTime: 2023-09-28T10:28:00Z

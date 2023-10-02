@@ -7,7 +7,7 @@ originalUrl: "https://www.register-herald.com/health/artificial-intelligence-may
 webUrl: "https://www.register-herald.com/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/article_dffb7e3a-526a-11ee-a1a1-ebad732eb680.html"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1174
     height: 616
     isCached: true
-
-related:
-  - title: "The Assumptions You Bring into Conversation with an AI Bot Influence What It Says"
-    excerpt: "A new study reveals an “AI placebo effect”: the same chatbot will respond differently depending on its users’ assumptions about artificial intelligence"
-    publishedDateTime: 2023-10-02T15:20:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 52
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3EF61CD8-DF43-4B3D-839801D0ED77C79E.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "nBIOpMSm+994eePXnJVP+wQblpr1igicxpZdpEQLxF9tly9/b5wf5UUSrUKeBe53FWfdBKD0yEajC7Hn0z1OAQFCckl9Aq09vtcoOCIGotLoKQrW0/cRcz+kVAHXx+M5QgaL2x5/eGjofbBJs+gQ3mdJv8yCcxlpf7UAxPFwuLtfDkDptQcCeg8zIOGpy7DyymujevGpk3ylh06QFzQvpOybk4AWizejn8pmkvksiOeRntYfSX1BDmPFK6posQ9O13Vzxr5JygsjA5QCHyduq+eXHKUJQnYX5ux4JivTMXPnhF8hJ1V1VFcnS9sa9af8QKuk0pn8rD+RKyhR+0MiR3/8yLn5BCaA0Iww8SHJGk0=;xLjU25+V1w+IWGMJriWIVg=="
 ---

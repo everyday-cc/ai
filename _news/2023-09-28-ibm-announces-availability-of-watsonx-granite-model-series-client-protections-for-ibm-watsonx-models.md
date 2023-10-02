@@ -39,22 +39,6 @@ related:
         width: 490
         height: 231
         isCached: true
-  - title: "IBM Launches Watsonx Granite Model Series, Pioneering Generative AI for Business Applications"
-    excerpt: "IBM, a global technology leader, has officially introduced the first models in the Watsonx Granite model series, revolutionizing generative AI for seamless integration into various business ..."
-    publishedDateTime: 2023-09-28T16:52:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 63
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2014/01/IBM-HQ.jpg"
-        width: 591
-        height: 371
-        isCached: true
   - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
     excerpt: "These IBM models — built on a decoder-only architecture — aim to help businesses scale AI. For instance, businesses can use them to apply retrieval augmented generation for searching ..."
     publishedDateTime: 2023-09-28T20:24:00Z
@@ -70,6 +54,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "HZz7e6ac97/FPUiZ8p/USi9xJKFYNvke90Z+T+GkByE2YH7jMYrisVY0FJh/Tt3noGMO9DccOiYcDuxsxAFIsGm2QkrlLcmWWE03v6ef0UPkjFlvmsCzJvx+S61laXSgKw1ZuYKbNphGeeIgfATjflOR+OJtLwkUyTQvOeAVNYx7VWUgA21s3OWFOeAdg3YErEkOc5hMrgp9ZcmHMQirOqg+zMliowPsqcKbdDX8T4xyrt/QRTX66tPd9CMRZXERnrwRsjuIjeBrOKhd4ZlOtPq6rjXIwlItG64tr3paF4hIG4mLch1ii0TjFRkbu3BHphswb/ANaT2/B5YhodsC/uURsyxSTaM4fFaD1U15Drc=;p9aVbvBFUW4m+RqmtGwT4Q=="
+secured: "nJb68+Tnwb6axPJwxvqlWWMHtGxdsQeQvVQRBi71pEFQINKy3r/Mx+vItYanJTzZrU3fYifFkVisEkr/mywcxXY1LnD8AAwrimRrWsz+9XpgpRAyRm45RrURyZHtRi9DchSCm3dDSjcQ6n0PFRm8/ZhXYBl/GuFzHSOos8wnI86lnU93iv5Wy97sv5XY89zO62FVJwTLXhtm4zjs0f5XeMNgoLBfAoQmZw+JtIOL82jdjUWNh9k6dpth4EEBZUpVrBLU2vSp0OWnJa+RXc8kWmk980t8Il4AzxDe72bB9uEpBohYso+3Q1dHMzlS9dCM0oA0X8CyovixzJ4SvHHOjhsmXLgusk7yOhV4JIo5LjY=;qdD0MOEvsK69gh3Umkjn1w=="
 ---
 

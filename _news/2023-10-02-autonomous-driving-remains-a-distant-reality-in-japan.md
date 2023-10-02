@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "While Japanese automakers may not aggressively be pursuing autonomous services in Japan, they’re much more active abroad."
-publishedDateTime: 2023-10-02T14:37:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/news/japan-far-behind-us-china-in-ushering-in-autonomous-drive-technology-41696215932064.html"
-webUrl: "https://auto.hindustantimes.com/auto/news/japan-far-behind-us-china-in-ushering-in-autonomous-drive-technology-41696215932064.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/news/japan-far-behind-us-china-in-ushering-in-autonomous-drive-technology/amp-41696215932064.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/japan-far-behind-us-china-in-ushering-in-autonomous-drive-technology/amp-41696215932064.html"
+excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
+publishedDateTime: 2023-10-01T23:02:00Z
+originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+ampWebUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
+cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Auto News India
-  domain: hindustantimes.com
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.hindustantimes.com/auto/img/2023/10/02/1600x900/autonomous_vehicle_1696216061923_1696216062147.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "iRI0UtW8OM01Gd3Xb6bKh2aO8EJClMq/sxCJ64LS9wewp9aasDzfqvCy6MF/olWexyoWWZN04CNVCaFEzzR+9Joj2zcPL/UYFp1r3H8/01A6/G0IoieawV8RJ2Hn+d2BdFeLZur3S8ixHO3xfEtA5YV+6Llc7hzUanbhdzyuL62LA8soz4aUAoGDmogJAtUGP7CrbTQdlBW4JhIQZRgXwItw02echQ3+HfZA1IhSoSQDHDD/WylNIo6t4Pd38Zgh65R1X/91O2l7UeFbZ1Y+WLVNtJ+pI62gsktAo/e2RIgyJ9bJoMTBUHZaBaHgHDVWLEUbURo2xJs87g6UZDb2bj1kD/zPKtpHJn7E0dPEML8=;n1PanLbVDFvSTtvUF0X14w=="
+secured: "AM5GPipvhc43Qui5ffQQJvTV6EKYwxvoEe067CD/rKmtXlpNonO2M9sLbxUeNeSw327b8htwcVeR8/pW2zFvvk3lodMaB4IJB6CSMjqxCmGINMx4aZEEyvNmS6X2l//9iC4bPS6gXY+AeATBWbW4eH33F5jv53Qlkii6+IkGjDhic2b48H/tzYi5RCEx1xmoEh1vffsx6ECT+ZWvs+2XN/hqLwQe691Xbf5kJfAjb6hVAJ17fg2MDjytSRoi1OkwnhcbuC6K10gsjloHWpok/x7pdzoRLGIFjw13r9D50LdEHKwmIv07o85V18FTJcatAPBIKK+n3tF5vmdC+C4+vTRg5+MzDdO0fx7rffkPY5qc5K5Yo8wiR6qxVo9jYlQhEw3raWt8FP1Jm3zjHswb+J97u0DVgNizXgGZJMt/6jhvxP306pOR/ivjvZBORhOzdU1qPI+sAtWYSMrs4MdCX4B6apT6lRWIHuEeKRtT1VbrTWdEiryzrdX0l7HIkIHUHKGNhK5OCMt7p7MB8Zou5g==;/spBbyio+++0OUhzVQN04Q=="
 ---
 

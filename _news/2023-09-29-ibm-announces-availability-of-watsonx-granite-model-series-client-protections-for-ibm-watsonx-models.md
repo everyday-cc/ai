@@ -39,22 +39,6 @@ related:
         width: 490
         height: 231
         isCached: true
-  - title: "IBM Launches Watsonx Granite Model Series, Pioneering Generative AI for Business Applications"
-    excerpt: "IBM, a global technology leader, has officially introduced the first models in the Watsonx Granite model series, revolutionizing generative AI for seamless integration into various business ..."
-    publishedDateTime: 2023-09-28T16:52:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-launches-watsonx-granite-model-series-pioneering-generative-ai-for-business-applications-80842?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 63
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2014/01/IBM-HQ.jpg"
-        width: 591
-        height: 371
-        isCached: true
   - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
     excerpt: "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ..."
     publishedDateTime: 2023-09-28T14:32:00Z

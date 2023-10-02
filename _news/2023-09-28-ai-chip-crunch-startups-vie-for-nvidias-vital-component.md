@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 852
     isCached: true
+
+related:
+  - title: "Better Artificial Intelligence Stock: Nvidia vs. Super Micro Computer"
+    excerpt: "The current market is torn between the believers in artificial intelligence and the skeptics. For the believers, this year's outsize move in AI stocks is just a taste of things to come, given that we are still in the early innings of this technological sea ..."
+    publishedDateTime: 2023-10-02T17:42:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HPE-N/pressreleases/20746253/better-artificial-intelligence-stock-nvidia-vs-super-micro-computer/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 37
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/feccb48a90284c5586254f43568c80a9/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f749407%252fgettyimages-1180684429.jpg%26amp%3Bw%3D700"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "Tq0+WYSRV8oFblViSrCIOKbKrXkm9hgiOMt2bb2hRPTBq8vjxK8mEYdAhR049ZCvfHwjT1dHlzlAEoHXzipQ1ZigkpJBdHUsryw6vtQNFGjfxIiH3Cx1i2KIr0c8dN73U7QkQ232xIE/MQiHI/J3ul+YvcJc2WgikrWEpTWHz7ppc3yU2ZDYkwcVAJcPV3H0+DuXUwe8zLRhz8QmKIK5tLMy0Ei2V6E2F0Oe02JP3VRK/VTeg5bd+mvwJsTlN0xeCzPZ3CEUBLZADtknyIp/BELqx/lxZk5Bpfrenx0XPKcvUVFPLvno5NQshqh++50ml/bzD0As9e1cnP1NlYkgjs/8gCEDZoGj/Jso7Uw+jht3GhkJZpbb2Yhrxat3JLf2jaecDTUZ5mD3VivmOZCIUQUNbJsGWu2V/bzmvfyRyjg/sa0gCD11Kn+gQAnEd8pw9/M35NCD2eyVYZsfCMxfm5NCtTA6jl9dj4Jk8ViNDeTa+ClPor0FLU39KfaoI3YfzWIeEPaYkhh/Zn3uvrEqpw==;tCdXlNT3nvcQyt4JF6KYJA=="
 ---

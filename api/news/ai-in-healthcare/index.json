@@ -97,6 +97,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
+      "title": "Artificial intelligence (AI) – FAQs",
+      "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/GSB-pic.jpg",
+          "width": 687,
+          "height": 989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
+      "publishedDateTime": "2023-09-30T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-the-synergy-of-artificial-intelligence-and-robots-in-medical-practice.md",
       "title": "The Synergy Of Artificial Intelligence And Robots In Medical Practice",
       "excerpt": "This story is part of a series on the current progression in Regenerative Medicine. This piece discusses advances in the use of artificial intelligence in medical robotics. In 1999, I defined regenerative medicine as the collection of interventions that ...",
@@ -433,13 +477,22 @@
       "title": "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time",
       "excerpt": "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/",
-      "originalUrl": "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/",
+      "webUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
+      "originalUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -447,8 +500,8 @@
       "publishedDateTime": "2023-09-24T04:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Lubbock Avalanche-Journal",
-        "domain": "lubbockonline.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1324,50 +1377,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-growth-in-future.md",
-      "title": "Healthcare Natural Language Processing Market Size and Trend Analysis 2023-2030| Poised for Strong Growth in Future",
-      "excerpt": "The \"Healthcare Natural Language Processing Market\" 2023 report conducts a comprehensive analysis of the diverse array of factors that impact market drivers, industry development, and future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34298531",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298531",
-      "publishedDateTime": "2023-09-06T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

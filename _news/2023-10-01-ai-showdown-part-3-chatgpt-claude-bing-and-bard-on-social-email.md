@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances"
+    excerpt: "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning."
+    publishedDateTime: 2023-10-02T14:30:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fwf8o087ezPLXnsnHAapdyywxOMJnWry5Up5ZVYSBgMcDSnn96h8n8DEeD9I7wpId4o+r1osKqVX0hKUTKjmbpW05TV1mC32rQeRnuL16Q/wGQ30o4x9n+I+IDyPG6EoQQ5mM+ac7GcFlYFxzAkGFo4hUG5vZMgm9RiUmnJHyQ68bSvFk7cGJbMzCqbtFVCO5UFHxImZKYB2+TrCCpheDRNo5xPzsKO1WYHbcZRzgsZP05+n7yXQS9FCquifnKlBR7n4hOjcOiJZ7CH/NhAjq6LXCL0ndhgb5uzxSURE6jFLAPI/6RuYvr9LCCC7KtZF7emXfdgRQ3KVefD01eVKLsMLzbZ1uicdpjaBR6kzkVZJ9LSASkf+IuPoA/qt1dK54+kWAhLGOdllsRS2zpqB1+etCO0EJbG4mm2o2VudxEd3TKaBP+pNsaC1V/3L/xH2Vj8TlosznwlDdNKN8tTE+bERIcCP6gmHKQ1PHgaoN/3aN/IFkIhG3vlajuEYpgTtrM563vBsqAulyOjICulj0g==;DWJiiVNMpGCriadErcHAsA=="
 ---

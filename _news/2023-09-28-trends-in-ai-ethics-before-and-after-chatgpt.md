@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
-excerpt: "This is a carousel. Use Next and Previous buttons to navigate Trends in AI ethics before and after ChatGPT Computational systems demonstrating logic, reasoning, and understanding of verbal ..."
-publishedDateTime: 2023-09-27T20:00:00Z
-originalUrl: "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php"
-webUrl: "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php"
+excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
+publishedDateTime: 2023-09-27T20:48:00Z
+originalUrl: "https://www.charlotteobserver.com/news/business/article279840919.html"
+webUrl: "https://www.charlotteobserver.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/34/47/61/24280135/6/rawImage.jpg"
-    width: 2048
-    height: 1459
-    isCached: true
-
-secured: "uIPCvkbtupO8cZ8QAWGgYFEqXOl/x8EX7KCHTruhnrSPG22Q2i5lzWOzzQXKyedA2vycNhVetwpK7pHfpb6MMAV5dDbCmvu6vL9KDFxAPMjuoxFIx6zDdTYsaiE7EH3cHhUtM/T61BnCyqeh8AsBzPMhbeCkeCy3Zc4uZKuebGsgdPwnaEzdB9mNGgf3r2RzbA8MvFS1UEbwV4i3E+cu922cvCka6UQgwu/d1oXfgGcBr22+zBPh1K6t5oZmvNghCRHjNDBKZW7l/8riayKW8NswBlfI00OZ0yQLGipoSr+IMHXhhiR3ZKAlTMhjs0d84VuuXld2x2n036lfDQqZqZGEpxtXuCUZ3xpIl5NXrgI=;+gCBkDah6Q+vu1NaDzf20A=="
+secured: "X7TiwtUXWiZOCSaOYcZEeY2mRwKn5WJXZ71+hOq4CEUKS4thAdD5DxCotBy8VSCCY5dicAjF2hkXNOt//mUgf4vvUz0JYbw/s/TGKMpflIhx9EGUSbpj2aoYPdwclk5s9CBxplGk+f0PT+oFvz3r4nQvxTlQpVyK1syxTP54nmJtf3Cvh1D3MOnlyPu2eKKG99U12zO6IPkkIVp6A/aI+g0kzvZlIIo3mGviRGV4//FxpkaPX0ua9rYti2CZ/dKYlq6aljTgKzaQye4/22hX/Xgs2N6n2ukuHnRiD+YsvUphgdLIezgoj+XQQUpuRVsWOj1WtxUlJGMXSh+Q5YHVlnY0QuWm/eiTMFNw6GDK/Yk=;53ugUP02oysT7xDvtCHZZg=="
 ---
 

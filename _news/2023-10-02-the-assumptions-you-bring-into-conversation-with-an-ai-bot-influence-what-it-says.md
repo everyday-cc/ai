@@ -26,21 +26,39 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may influence whether you can get pain medication"
-    excerpt: "Elizabeth Amirault had never heard of a Narx Score. But she said she learned last year the tool had been used to track her medication use."
-    publishedDateTime: 2023-09-30T19:42:00Z
-    webUrl: "https://www.register-herald.com/health/artificial-intelligence-may-influence-whether-you-can-get-pain-medication/article_dffb7e3a-526a-11ee-a1a1-ebad732eb680.html"
+  - title: "Beware of Bing Chat and its AI conversations that can lure you into malware traps"
+    excerpt: "Hackers are sneaking in malicious ads through Bing Chat. Kurt \"CyberGuy\" Knutsson explains how it works and shares tips on how to keep your data secure."
+    publishedDateTime: 2023-10-02T17:08:00Z
+    webUrl: "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps"
+    ampWebUrl: "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 53
+      name: Fox News
+      domain: foxnews.com
+    quality: 82
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/65/365b9846-526b-11ee-8b7f-134ae682d05a/65020c8431a6c.image.jpg?crop=1174%2C616%2C0%2C254&resize=1174%2C616&order=crop%2Cresize"
-        width: 1174
-        height: 616
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e36333e0-16e6-4b62-a7c8-93de40acbe14/f11b36d6-c1f8-4589-acfa-24c41de9814a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
+    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
+    publishedDateTime: 2023-10-02T17:20:00Z
+    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
+    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
+        width: 2880
+        height: 1920
         isCached: true
 
-secured: "fgSGeg0h91S4y7cegA6Y8UGOjS5TMhKLuWwECEO8ylabTsrnOqoMM/ykaJvTWeAs4pKNvJOeqV0wwGDNzBStDC5B+dGrwvRbdz5vpo6eQKh+UpbJgtwITxQz4C7V3zP6so0MD0uo9hvTTicm3jEOXkqqrzVP9qIuj18BLIbt9+gf3HEICu3aIUqQPkGoO6JUEY68HIn/vGkPs+gp9Fses3x70xcBfu7hcc3+qO8Tijc0reiq70/fqS8vUvzeEd46QLFSjzyeeeFmU1MJvOoIqX0OhkuoSKfkSqnQEkIrHjPMUSEdhHNiHR8QAiYSW8Ivg5YtY/Qbz3Ajc7BVXaMJGcehnlrXVq6Vy5p4D/UMGS4=;2NwLjhDolSDMeUTNDG2kMQ=="
+secured: "mQ/QCiqHEYvW9ND4iLNNoT9tRTM+Lk3qevIkz9JilDmx6Ub3YyEQOrg+sesQQsremejJsNj6qTb8pdLxnPE64Y3kmXM71HgBLxe7Y/rl8opAxoOlUnG7Q/tDXMmIElHs5J58FlIMaUydW7ApKeE0cUw2Gm8YCuwK/XdbSgKX6AOZEJhwTiKFHO056aa4ou/QnP88T9pHYzB+ujbQC1VPS7Dzr09TPsIqunlRqQLjjT5PMuiPbcu3+WAuRjAyBQhilm035OWwSai1bzIsAZzwsA6E1/oWF9lo+kiwg07VEpoWSi1WhLCnyx/Y8tpXNxauFLp5xklUN33KZYpyNgBXqr5Y2GrJg64dYk20MzeqsAvWNE4Z1mRtbh/M0I5rGhuyWdV2W5TlF+zMUuEzv9nIBvRHf1iMiCNntqYS0IdoXz5UAhFLWtyMuaTBaCEkmRcgZAVf0ws9vdQp6GiUAMXfaDESNryzzg0QInYjSrSikPTBfQ/jrASlpOyPNL9hV7ogAPH4uSlVKtdtOOcHHnSb1Q==;7qJngj0pcZHS9klG6w8jEA=="
 ---
 

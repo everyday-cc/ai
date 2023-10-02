@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-01-china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-up-l3-autonomous-driving-tech-investments.md",
+      "title": "China EVs: why BMW, Volkswagen, Mercedes-Benz are revving up L3 autonomous driving tech investments",
+      "excerpt": "The most complex component in self-driving is lidar or light ­detection ... Li Zhenyu, vice-president of Baidu, China’s top artificial intelligence firm that also develops autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/30/32ee7e3b-2e72-477c-8147-ae48fce808b5_f5edd727.jpg?itok=I6-8bxAA&v=1690712542",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3229412/china-evs-why-bmw-volkswagen-mercedes-benz-are-revving-l3-autonomous-driving-tech-investments",
+      "publishedDateTime": "2023-07-31T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-uber-driver-behind-the-wheel-in-fatal-self-driving-vehicle-crash-pleads-guilty.md",
       "title": "Uber driver behind the wheel in fatal self-driving vehicle crash pleads guilty",
       "excerpt": "The Uber driver behind the wheel during the first reported fatal collision involving a fully autonomous vehicle pleaded guilty to endangerment on Friday, and was sentenced to three years of ...",
@@ -1315,49 +1367,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-artificial-intelligence-recent-congressional-activity-and-a-look-to-the-future.md",
-      "title": "Artificial Intelligence: Recent Congressional Activity and a Look to The Future",
-      "excerpt": "In the past few months, the American public has become increasingly fixated on artificial intelligence (AI), especially generative artificial intelligence (GenAI), because of the economic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E",
-          "width": 500,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
         "images": null,
         "publishers": null,
         "authors": null

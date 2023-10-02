@@ -19,6 +19,31 @@ topics:
   - AI
 
 related:
+  - title: "Meta unveils AI assistant, Facebook-streaming glasses"
+    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Mr Zuckerberg also ..."
+    publishedDateTime: 2023-09-28T07:17:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/meta-unveils-ai-assistant-facebook-streaming-glasses"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/28/2023-09-27T185002Z1089277539RC26H3AIAUYURTRMADP3META-PLATFORMS-VIRTUAL-REALITY.JPG"
+        width: 860
+        height: 573
+        isCached: true
+  - title: "Meta unveils new AI assistant, Facebook-streaming glasses"
+    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Mr. Zuckerberg also said on Wednesday that Xbox cloud ..."
+    publishedDateTime: 2023-09-28T08:54:00Z
+    webUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/"
+    ampWebUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
   - title: "Meta's new AI assistant trained on public Facebook and Instagram posts"
     excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
     publishedDateTime: 2023-09-29T03:00:00Z
@@ -34,18 +59,18 @@ related:
         height: 676
         isCached: true
   - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
-    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
-    publishedDateTime: 2023-09-28T23:32:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
+    excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
+    publishedDateTime: 2023-09-29T01:50:00Z
+    webUrl: "https://www.asiaone.com/digital/metas-new-ai-chatbot-trained-public-facebook-and-instagram-posts"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Asia One
+      domain: asiaone.com
     quality: 39
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/29/2023-09-28T203241Z1477922559RC2WH3A3AZHURTRMADP3META-OPENAI.JPG"
-        width: 860
-        height: 573
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/0929_meta_m.jpg?h=2e181f1f&itok=sDQPKgYE"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "tR3CrY+FZSBCMtVu/vyHF34xL5vzehTBbdTTP28+RQvfq+awmSEfikqnhbb6iqwDPJSUj5iaSXxJ4ZzQyguSRw5hsUC+Tsmr9OkD89zqEiQ/JHGhKqd86uH23q3/6m3BUHHoUOJC94yeiVE0JugwxRf5hR+sOUo1cRRxXA15tChU6oagQPL/e3FPQF3RjkJ9ERTOvrD62XJc+gWrRFDm8Ta2FwEBQJisMQGnbespM1qLAW4uLvMHU9E93hQqal1lzVQ5S9i6LrPESeVK0vucHCae7R/BgfbRR9rGkj10AzZEqW0ZyJiC41mbLFjnG+NuKUZSd1mC0l7tu5DU+4whs0lL0PACwG6PtGdmuJozjEU=;P6miqKw3hnyRZIUZLChu4w=="

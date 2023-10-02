@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Generative AI cybersecurity startup Nexusflow raises $10.6M"
+    excerpt: "Generative artificial intelligence cybersecurity startup Nexusflow.ai Inc. today announced that it has raised $10.6 million in new funding in a round led by Point72 Ventures LP, with Fusion Fund LLC and a number of individual investors also participating."
+    publishedDateTime: 2023-09-29T00:07:00Z
+    webUrl: "https://siliconangle.com/2023/09/28/generative-ai-cybersecurity-startup-nexusflow-raises-10-6m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/nexusflow.jpg"
+        width: 5291
+        height: 4000
+        isCached: true
 
 secured: "DcgLm2a1QveaLDMoC6WQrROtSiBODthdi1G/UgcjtqREfQlGqncsl5/XXbMdxv1QVX6owvYgm2hXo3yBp+D+2c5LXTjN6Gw81g0liX+3oqLiL0SLeve8iAxaDGoIv1LipbkLaXEuO4h58Ej6o9DbVmnXKsfX9hMX776CqaujrM0cEUf62vPH0klNEQZiGfixcTRMUuIgg/Mwu86a/PVef5A2lrZ8Ua13dPKL3pvDfma1K4X/YnAY9aW3DKzvGUJrS2Sm1OJ3AOLUSZ7AT3dRtVM2F7j3Vhc7VhTknT6z6oaUyS7wYcaRzBUyYITNts+z7ITGwtnDBma7TOxuihb0FmV0Rsq2Rwx+NjcJc7Xe1zo=;v+afrt+KiO/DPMy/P3YnSg=="
 ---

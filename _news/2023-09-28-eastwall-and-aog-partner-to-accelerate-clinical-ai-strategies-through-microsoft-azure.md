@@ -69,6 +69,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Amazon Web Services Now Offers Generative AI Tools For Businesses, Catches Up With Microsoft Azure, Google Cloud"
+    excerpt: "Clients can now modify and customize generative AI tools for their own purposes though Amazon Web Services. This marks the biggest move yet from Amazon in the generative AI space. The trend shows ..."
+    publishedDateTime: 2023-09-29T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34985659/amazon-web-services-now-offers-generative-ai-tools-for-businesses-catches-up-with-microsoft-azure-go"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34985659"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34985659"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 65
   - title: "Dell Apex Cloud Platform For Microsoft Azure Aims To Simplify Hybrid Deployments"
     excerpt: "Dell’s newest APEX Cloud Platform venture with Microsoft gives Dell partners a single user experience whether they are managing workloads in the cloud or on premise, thanks to deep integrations and several automated features."
     publishedDateTime: 2023-09-28T16:30:00Z
@@ -102,6 +113,6 @@ related:
       domain: journalrecord.com
     quality: 33
 
-secured: "Cw+5ooAVF5/vvmCBBjjp6lpfz7FgdhCmotsqbOyNhsabt6HPxfF4Mj9an+xWxTIIEhiaTj9ghAkazQ8fhfUJERJb3ckp87u66EZ2fk9rdic9/RHzhWolXbhK1HSMQ6HsH2kdW2JzUDPxonDV2k0YHJl9SmbEZ/lK1v2osJPcPEt737Me0cK2/7mlrwzGQIT4a43CCVA9ZZ18uNI86wQs6UM4zThzGZ7ciGfsv7va7uSZG1d5k9hlh4FZPS6MtK0jiOlJhj5SmVRUy7IT/j39w3mEdoi+tu+sv3KNFf2X0/MwXCvEpfJPrYf320mUDK47i+HRJXra2aOPCf/03Fgzgt2DBDUmEzA5e42VcpVwZ5c=;5mZv4s1BROVTfz+JG++UKA=="
+secured: "Jmepgsw3+Rjq9Zcu43zp+WBbhAsCK2EPYjS3LLiDl3a6/QWHm1/yt26Ck7HQhRAQGgrLSdjg0PZBECFx6ksZWsrh5LncFrbAYIMFk+1KrOjNouY0UV5wxBzyI6rVixaWxkrcXc5ffrUUMGeFisTIWYrcZ3EKckkGu/nOXq9haI0Kk9IjmJTS9wgYnww+bQMXZDH49mwl2h5XzB+J+LUcymU/7OUdgxPstXrAscZy8YQOKyLXa1rD4OMcFgVj0b+SOO34WLAYlxwx9qEiTGkr5GgNL6FPIyaOk/IzI2IXawcGJB/+1cgxOncAMg7fZhQLIOr56A+S5wlFNwjc1gsE+20qyoHQISE45zpepm/pwBg=;IoQV65hnxnf3PF3D9rCyLQ=="
 ---
 

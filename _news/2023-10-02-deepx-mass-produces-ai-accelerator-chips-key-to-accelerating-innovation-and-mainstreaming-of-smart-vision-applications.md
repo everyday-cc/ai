@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Call Assistant AI introduces call management solution app for blocking spam calls"
+    excerpt: "Call Assistant AI’s Chief Technical Officer, Paulo Taylor, says the innovation helps users with an incredible incoming call experience for their personal and business needs. Taylor adds that with the app’s voicemail service, users can also enjoy a state-of-the-art voicemail system. According to him, they can listen, share, or download all their"
+    publishedDateTime: 2023-10-02T15:53:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/02/call-assistant-ai-introduces-call-management-solution-app-for-blocking-spam-calls/71032712007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 12
 
 secured: "Kgs9El2s+DON/viWxTQz+eM61JlIn6pE0PpIO8hF6f8yajt0qFQJDxOq9+ezIBTT6MXCqehTqkbWzpWeeFrbGuN73UQeEQL0Q8EZv/f9VA9hYmpJK+JKJBB68kXEwcREzYnl4+r38H5hjCneHgs4AKMtj4iFmrdmbqU+36L/GbfJe8UQ0a1UMO+HpLQHsVAsfp72grVmKcklSQyZb36kLQXxRM06jISqEZN4dPaJQV2OH3Q99DQ4aAqDPRY8UaWJIchzxOQsxXttdAiegIj7+WPuutE+PHX5yB8ZVhWFF1gIv+/4YaAPjyQYnZgh9YtG7/GAPKBtD68VuYPT8T4mHk9+d9QbxIWGDllM51g/Q5Vh7P9hK1K0fr4spc7r9NlBV2+itbdBIzpW0ihhgdBbPyCuo3v3G+qvgU2/A0/fDFmV7BGP7ssSJ2HRe8OfYOO/4h57mJ6UxyG7TalT6clS9+QbifW+AoLNV4mwihUrOc4e913QX1FcGeEnC0Nh2tKcQTB0DZafVdIo+Hz036hVAw==;Wb6ez+LeQJBTNkSLpHZ7uQ=="
 ---

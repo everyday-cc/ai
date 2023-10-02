@@ -73,6 +73,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Amazon Web Services Now Offers Generative AI Tools For Businesses, Catches Up With Microsoft Azure, Google Cloud"
+    excerpt: "Clients can now modify and customize generative AI tools for their own purposes though Amazon Web Services. This marks the biggest move yet from Amazon in the generative AI space. The trend shows ..."
+    publishedDateTime: 2023-09-29T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/23/09/34985659/amazon-web-services-now-offers-generative-ai-tools-for-businesses-catches-up-with-microsoft-azure-go"
+    ampWebUrl: "https://www.benzinga.com/amp/content/34985659"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34985659"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 65
   - title: "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure"
     excerpt: "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions."
     publishedDateTime: 2023-09-28T15:37:00Z
