@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/"
 type: article
 quality: 108
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1200
     height: 673
     isCached: true
+
+related:
+  - title: "The Multiverse Of Metaverse, AI, And Robots"
+    excerpt: "Though we know that advanced, futuristic technology is the backbone of such exhibitions but what made it stand out? Let’s dive into the event highlights to know while also collecting some lessons for India on the"
+    publishedDateTime: 2023-10-02T10:43:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/multiverse-metaverse-ai-robots"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Paramis-BrainBOT.jpg"
+        width: 500
+        height: 503
+        isCached: true
 
 secured: "QlkKqlvEfMgwo+1GOmSEQr3irwt/dLgF/I4nsDBjOZEtQ2h5DENOGP6F3ouDQOUQ+wNwxG3IVmkIP6+sVDL5rZFYbQpsd4soIy4KfN0CKAw6E1jme/j5H6T0s+G/3Ek2Vq7p62ayWva9UE6UCuRGfnGqI9+JFNMIhDBUfPdfChR1BWd6QYSGqz9HmWYI639TYi/48wFqJ2Hnv+W7kgrFO2HPe9azvERpKsB/jkC6vThOZiVWvfVAQRRlP/yPzSqhinQmBclOC1rRa7l98DN+1WYqxdjpgFjJsuzmAN6TEp/58JeXNr9awY86WbbvLXktGRqECWZ7JA9Z3ieAbl2OLstyG1xe5D5ImuEdV4rPPgc=;vNDHuL0zvJjaZKH3CEaM7g=="
 ---

@@ -21,6 +21,68 @@ topics:
   - AI
 
 related:
+  - title: "Infosys collaborates with Microsoft for generative AI"
+    excerpt: "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses."
+    publishedDateTime: 2023-09-28T06:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
+    excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
+    publishedDateTime: 2023-09-30T04:34:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 73
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280"
+        width: 1280
+        height: 1046
+        isCached: true
+  - title: "Cloudflare collaborates with Microsoft to enable AI models to run anywhere"
+    excerpt: "Building the AI railroad tracks of the future so inference tasks can move seamlessly across devices, networks, and clouds"
+    publishedDateTime: 2023-10-02T11:11:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 72
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTdkMWMwNDYtMDYxNy00/0/cloudflare-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Microsoft advances healthcare cloud strategy, brings generative AI to Mercy"
+    excerpt: "The healthcare system will use Azure OpenAI Service to assist clinicians, improve the patient experience and develop additional use cases."
+    publishedDateTime: 2023-09-27T20:30:00Z
+    webUrl: "https://www.ciodive.com/news/Micorosoft-Mercy-Azure-OpenAI-generative-AI-healthcare-sector/694967/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 69
+    images:
+      - url: "https://www.ciodive.com/imgproxy/jAlqN0oP3HmLR4uKs0NMzmUjhPihH0fD-YEFN6SYrlM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE3NDg3MjRfMS5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Dell Apex Cloud Platform For Microsoft Azure Aims To Simplify Hybrid Deployments"
     excerpt: "Dell’s newest APEX Cloud Platform venture with Microsoft gives Dell partners a single user experience whether they are managing workloads in the cloud or on premise, thanks to deep integrations and several automated features."
     publishedDateTime: 2023-09-28T16:30:00Z
@@ -35,21 +97,30 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Microsoft Announces a New Azure SQL Database Free Offer in Public Preview"
-    excerpt: "In this annual report, the InfoQ editors discuss the current state of AI, ML, and data engineering and what emerging ... Microsoft recently announced the public preview of a new Azure SQL Database free offering. This offering provides users a 32 GB General ..."
-    publishedDateTime: 2023-10-01T10:00:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
+  - title: "Workday aims to transform human capital and financial management with generative AI"
+    excerpt: "Today the human resources software pioneer unveiled a host of new generative AI capabilities and features in its platform that it says will drive productivity, streamline business processes and empower people to make better decisions,"
+    publishedDateTime: 2023-09-27T21:49:00Z
+    webUrl: "https://siliconangle.com/2023/09/27/workday-promises-transform-human-capital-financial-management-generative-ai/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://res.infoq.com/news/2023/10/public-preview-azure-sql-free/en/headerimage/generatedHeaderImage-1695896804601.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/business-people-casual-meeting.jpg"
+        width: 2000
+        height: 1125
         isCached: true
+  - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
+    excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."
+    publishedDateTime: 2023-10-01T22:12:00Z
+    webUrl: "https://journalrecord.com/2023/10/01/microsoft-mercy-collaborate-to-transform-patient-care-with-generative-ai/"
+    type: article
+    provider:
+      name: Journal Record
+      domain: journalrecord.com
+    quality: 33
 
-secured: "LCjeOkHdFMAqIqq3xHY5+fbKl8xLvgyjc53Koxkta+8bXTYzyiBesrvOn3KWZDzCYZj4nmfHh+bJ9arhzxnbMsVdXM2mgd50TUseiHtt9uqMIWu5MsrOaB0rdz9ot0A6uzg0W8bfrpKfPZMTvPjnDv2BwkXeFuq65xjHpLf4J4tQMacGl1sf/30838g9LMG4uEMjwh0VRDehjE3TDAzFwlKIAUu6MTCgXs0LRY7o/TPbY6qe/U4RdALFgnGpJzBRb05ilSzK50eMEwzQa0o8y1wWIAnVn5hEeV8QHJqGXfOj1p0DFabITIfr9CeAYZYlNIVwyEC4vS4DoOlnZMAl5M2rLo8ch776FvHxw2HY9+Q=;LzUqbz3ktAkXsOWc7ZYZuQ=="
+secured: "V2/M6Vww5E2V7A5GDp9rcBIUfrxuOjmWeE7dOTWOqvS3G9W90CWyyf3rAz/tc0UztgtNv2IrjMQ7aDRNLsw89rLibXrIOGtyh+KitqEehjaKXb19TTurmyNrknfSM6/SjyBu2UD++bfwXfmn7dk2Y/CGjhZ/IHeHTIxJq5/0rOPbJno2zGUvPi1Y9e5oeZKOKunyT5Yw+RaG+F3rNIlgjZAOO6TJygHmImK10oessncH9lmxvDDe2UAEplqzCkDS8ji53ioOgX8srDxw5WYZWK63CHBU/yWF7gQUP5Chlkzwzw19Ccu8e8kfmy+/9FHi5lh+JueP2JTRPm2srrGCjo8Dbe0Y0bqADFWYfPiezQY=;D02/ThFLwmO4ZVnc1Q6KSg=="
 ---
 

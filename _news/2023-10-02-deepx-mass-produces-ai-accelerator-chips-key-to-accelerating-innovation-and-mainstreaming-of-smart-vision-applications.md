@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS makes generative AI application builder available to all"
-    excerpt: "Users can easily experiment with a variety of top FMs and customise them privately with their proprietary data, added AWS. Amazon Bedrock is serverless, meaning users don’t have to manage any infrastructure, and can securely integrate and deploy ..."
-    publishedDateTime: 2023-09-29T08:19:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-makes-generative-ai-application-builder-available-to-all"
+  - title: "AI Innovation Or Speculation: A Guide To Understanding The Difference"
+    excerpt: "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact."
+    publishedDateTime: 2023-10-02T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 34
-  - title: "AWS Announces Powerful New Offerings to Accelerate Generative AI Innovation"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced five generative artificial intelligence (AI) innovations,"
-    publishedDateTime: 2023-09-28T13:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230928577730/en/AWS-Announces-Powerful-New-Offerings-to-Accelerate-Generative-AI-Innovation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Kgs9El2s+DON/viWxTQz+eM61JlIn6pE0PpIO8hF6f8yajt0qFQJDxOq9+ezIBTT6MXCqehTqkbWzpWeeFrbGuN73UQeEQL0Q8EZv/f9VA9hYmpJK+JKJBB68kXEwcREzYnl4+r38H5hjCneHgs4AKMtj4iFmrdmbqU+36L/GbfJe8UQ0a1UMO+HpLQHsVAsfp72grVmKcklSQyZb36kLQXxRM06jISqEZN4dPaJQV2OH3Q99DQ4aAqDPRY8UaWJIchzxOQsxXttdAiegIj7+WPuutE+PHX5yB8ZVhWFF1gIv+/4YaAPjyQYnZgh9YtG7/GAPKBtD68VuYPT8T4mHk9+d9QbxIWGDllM51g/Q5Vh7P9hK1K0fr4spc7r9NlBV2+itbdBIzpW0ihhgdBbPyCuo3v3G+qvgU2/A0/fDFmV7BGP7ssSJ2HRe8OfYOO/4h57mJ6UxyG7TalT6clS9+QbifW+AoLNV4mwihUrOc4e913QX1FcGeEnC0Nh2tKcQTB0DZafVdIo+Hz036hVAw==;Wb6ez+LeQJBTNkSLpHZ7uQ=="
 ---

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Deep Genomics to Present at the 2023 Elevate Festival"
-excerpt: "Deep Genomics, a leading AI drug development company focused on decoding biology to program life-changing medicines, announced today that its founder"
-publishedDateTime: 2023-09-20T15:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230920974425/en/"
-webUrl: "https://www.businesswire.com/news/home/20230920974425/en/"
+excerpt: "Brendan’s remarks, titled Beacons of Hope: AI in Medicine will highlight recent advances in the use of Artificial Intelligence (AI) and deep learning for drug discovery. As the inventor of one ..."
+publishedDateTime: 2023-09-20T16:31:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival"
+webUrl: "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
   name: Business Wire
@@ -18,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "8ssfta0FTqAJ8FISDAKvSacX1eZWDouuuRtePJrQrEv1noeOk+u2mW8+qgnuGS0LxAqObXorqP6/rQHMZe7PKymOD9Ok3arLFTn7jIrXQbMfi8nMoY5RB1aJWERsysaGAyeHTvmLroDqHnykl1QlL+GZ3GcBIo0p3i2+r/2J8EAGKJK5NGofFzlO6wJ2tgCl2en/rPuzIq+JFmjfBO70wwoXVjk+dTCZDHeacwBZ2bsZjQhUciQdZzuwyAvtVdfQdAxtxhENLp6ZgBqnykyETD4rP82nYn0r5hQjdn7+x3oMx+71h1KwhyUhx8LhqeneptuNl/W11CS0N0XlMDpA9YD+4wsQZficqRF5rrS3hBI=;IzpFCDnOXa/GuHaw5RGXbw=="
+secured: "oAyz2iayOlvHTyky2voMIgrrC9OunpmSI0TJknSRiI38+Dt79K1hTWdVPDDHWRxh5MEEp1iKCc+A+q0F85VsKRjB93D9MD7vLwZ5Bj3ah7YdStCZwsI26U/NqegUXnHlOag300hq48zW58iVvph49IjEOMG6RDNfrJffekb1DfNiUblkV3JEUMknq0mrOGVLTbPBPp8ciozL5GO0YGCZmOuJDAUuNr6A+bChPtwUcsAZCksdoysJqG5ZUaobhA7Uu+txS6DTWLOD2VJ7+oz0xZS3gojMKiMfvedtSBdPy+k8T5yYezeBwnfmqvfpP2UNr/OHNgCVuiV6jDj83Y8rclDlWUJkjQLMxjOPPv69CIQ=;EJ7CAHS0hs5b+CxuwwJLHA=="
 ---
 

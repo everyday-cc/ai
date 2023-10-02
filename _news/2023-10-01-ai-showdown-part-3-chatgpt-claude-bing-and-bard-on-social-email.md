@@ -33,15 +33,15 @@ images:
 related:
   - title: "Trends in AI ethics before and after ChatGPT"
     excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-    publishedDateTime: 2023-09-28T02:45:00Z
-    webUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
+    publishedDateTime: 2023-09-28T08:23:00Z
+    webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/09/28/trends-in-ai-ethics-before-and-after-chatgpt/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 54
     images:
-      - url: "https://ktvz.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
+      - url: "https://kvia.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
         width: 1200
         height: 855
         isCached: true

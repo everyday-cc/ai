@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy"
+    excerpt: "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI."
+    publishedDateTime: 2023-10-02T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Building trust in AI: Ethics and governance for responsible innovation"
+    excerpt: "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ..."
+    publishedDateTime: 2023-10-02T11:03:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
     excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
     publishedDateTime: 2023-10-02T06:28:00Z
@@ -40,7 +72,7 @@ related:
     provider:
       name: cryptopolitan
       domain: cryptopolitan.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
         width: 1024

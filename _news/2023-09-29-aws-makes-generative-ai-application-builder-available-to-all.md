@@ -28,20 +28,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 32
-  - title: "DEEPX mass-produces AI accelerator chips, key to accelerating innovation and mainstreaming of smart vision applications"
-    excerpt: "The recent craze over ChatGPT throws light on the underlying business opportunities of AI applications. AI applications driven by cloud services have attracted their fair share of attention, but Edge Computing AI applications are also on the rise."
-    publishedDateTime: 2023-10-02T01:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20230927PR204/deepx-news-highlights.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 30
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230927pr204_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "e/8/R4FNBcRSQzfRcm0nbJ42DZjL8Af2VY93+5MnKIo0h+CzlbwbKSCmacih3rJXF/UEEcD5pFR1l49FnzKZlD2SWwYBRcL3j2AL8dooXQEgOuKmXoHhj3Dbkf2knPEOcxPUL3YzkEhAADyZv9VeslstYI+hGYwoJsbN0rNR/0sh3oWSIcRqV2FubErJ9bPJ1Y1new9cpUyQ+tQ3rw+wFT8ScMoMg5nWg/rHepiBtrfXvoZ0sTMmy635X0YAy3fxRJYIz1Kg90o3+aA9Rbm62m0IJutnYka5IazXZBlVqp4TSaB36I4Zoz0lLM348TdSbIIoWN66mWbQIxwb3bUmiVkW7feJEhfm3DRjGJ6BOGY=;2SxRZgRygnBlfJ7fs1WJ5w=="
 ---

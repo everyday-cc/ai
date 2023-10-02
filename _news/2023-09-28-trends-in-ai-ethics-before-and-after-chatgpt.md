@@ -2,24 +2,24 @@
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-28T02:45:00Z
-originalUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
-webUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
+publishedDateTime: 2023-09-28T08:23:00Z
+originalUrl: "https://kvia.com/news/business-technology/stacker-money/2023/09/28/trends-in-ai-ethics-before-and-after-chatgpt/"
+webUrl: "https://kvia.com/news/business-technology/stacker-money/2023/09/28/trends-in-ai-ethics-before-and-after-chatgpt/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
+  - url: "https://kvia.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
     width: 1200
     height: 855
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 676
         isCached: true
 
-secured: "Ovr7cTEyFSyVl10zl3hVSTbQBlqmwM7iD0U1CgsF/DluxjxmGDRVNbxm4dsS4HXkJ0uujk/lKoKQycSRxAkS1ODBOrmPJa409ezAWsUnWkOLqKXo0Alfvg/ahx/do5hGtqgXOn7syIBJGZUqPFs3L24xvtxom92YciAFERJAtNe0bO02+ijyoFF772iyC55YCcDstiO6cNKIhUl4npEOxeXtx7EMxOp0hA6oDVTw5ORUWmbQfFLSXOzjtuKeUy0kSaTlaK2hqVqwMbfxYUWlrq02GdIKDmZCvHs73vt31UsAu9fN2x9wChjQPOtObJIu4yt60Ys9DnID5bXJqZkXokdBpJY8ocyNxSMspB09Voo=;YrTc6rkW1uoqDUvYvgVqsw=="
+secured: "mGw1zrY45ZUAqhi2e8XCKelqkvzKgEU9P1RBYxwiYnD8aSEeQpK+bSEkBgw/pp5HzCt0DG2Hc0WpryDc0RG0luef3Yf2uqYE0JWIV2xd/mxn1KTqDRrwqjZfNh/NWJv0dXWPbIdpuVT/MnsWiVJzJcMnLJ8uYNVbJa6BQpTHPWu5S+WOtd67MSGgsuMCXKP5lBToPA5ljDLSvWGBBqC09yuKscQiV9wL/3BMqqEWuNLH8QJ3naufObG6tLALipfo8Y+r5yqUei1p2TI8EBLBdv9ZbFUT6Yvzjj5/VXJeRUiG09MzM4jBvsAOgud0lHZrNeENmjPYE2o682inxy+Ra/dvpE9UHGfma0l2jfH+2SY=;Mu455RdbZDIFVw1Z5qkLiw=="
 ---
 

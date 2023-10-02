@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-07-hepion-pharmaceuticals-announces-management-changes.md",
+      "title": "Hepion Pharmaceuticals Announces Management Changes",
+      "excerpt": "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA), a clinical stage biopharmaceutical company focused on Artificial Intelligence (\"AI\")-assisted therapeutic drug development",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/g34294014/hepion-pharmaceuticals-announces-management-changes",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/g34294014/hepion-pharmaceuticals-announces-management-changes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression.md",
       "title": "Compass Pathways Explores AI-Powered Predictive Model On Psilocybin Therapy For Depression",
       "excerpt": "COMPASS Pathways plc (NASDAQ: CMPS) shared the results from research on the potential of its novel AI technologies to support its proprietary COM",
@@ -1296,59 +1330,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence.md",
-      "title": "Empowering Confidence: Overcoming Math Anxiety In The Age Of Artificial Intelligence",
-      "excerpt": "Grasping mathematical concepts has been one struggle that eventually leads to avoidance. Math will be part of how we transform ALL our futures and more than ever, requires a different approach to engender confidence and resilience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e909ccf9546499753b0614/0x0.jpg?format=jpg&width=1200",
-          "width": 940,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-25T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

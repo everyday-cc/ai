@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-12-democrats-laud-federal-agencys-ai-move.md",
+      "title": "Democrats laud federal agency’s AI move",
+      "excerpt": "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story FEC’s AI decision cheered by Democrats Three Democrats who urged federal action to",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
+      "originalUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
+      "publishedDateTime": "2023-08-11T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
       "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
       "excerpt": "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!",
@@ -1265,58 +1299,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-uber-driver-behind-the-wheel-in-fatal-self-driving-vehicle-crash-pleads-guilty.md",
-      "title": "Uber driver behind the wheel in fatal self-driving vehicle crash pleads guilty",
-      "excerpt": "The Uber driver behind the wheel during the first reported fatal collision involving a fully autonomous vehicle pleaded guilty to endangerment on Friday, and was sentenced to three years of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty",
-      "originalUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/12/06/1200/675/694940094001_5976076808001_5976063722001-vs.jpg?pubId=694940094001?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty.amp",
-      "publishedDateTime": "2023-07-31T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

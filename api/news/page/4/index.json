@@ -2,6 +2,178 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-27-confluents-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.md",
+      "title": "Confluent’s Data Streaming for AI initiative aims to boost AI app development",
+      "excerpt": "The initiative is a result of the managed Apache Kafka service provider partnering with the likes of MongoDB, Pinecone, Rockset, Zilliz, Google Cloud, and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "publishedDateTime": "2023-09-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
+      "title": "Artificial intelligence promises to change the way health care works",
+      "excerpt": "From detecting serious illnesses early, to reducing the administrative burden on doctors, health experts say artificial intelligence promises to change the way medicine is practised.",
+      "sourceUrl": null,
+      "webUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "originalUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2023/09/20220712010_em.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "cdnAmpWebUrl": "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "publishedDateTime": "2023-09-26T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ottawasun",
+        "domain": "ottawasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
+      "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
+      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-us-sues-amazon-in-a-monopoly-case-that-could-be-existential-for-the-retail-giant.md",
+      "title": "U.S. sues Amazon in a monopoly case that could be existential for the retail giant",
+      "excerpt": "U.S. regulators and 17 states sued Amazon on Tuesday in a pivotal case that could prove existential for the retail giant. In the sweeping antitrust lawsuit, the Federal Trade Commission and a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2023/09/26/1191099421/amazon-ftc-lawsuit-antitrust-monopoly",
+      "originalUrl": "https://www.npr.org/2023/09/26/1191099421/amazon-ftc-lawsuit-antitrust-monopoly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2023/08/03/gettyimages-1500412813_wide-fe877b4d2dfaf13b9b3bfb905ecb51318fdbf06c-s1400-c100.jpg",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-a-simple-eye-exam-could-explain-why-females-are-underdiagnosed-with-autism.md",
       "title": "A Simple Eye Exam Could Explain Why Females Are Underdiagnosed With Autism",
       "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
@@ -371,6 +543,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners.md",
+      "title": "FIs of All Sizes Can Harness the Transformative Power of AI with the Help of FinTech Partners",
+      "excerpt": "For too long, smaller banks and credit unions have been challenged by unequal access to AI technology. From conference agendas to marketing materials, community financial institutions with less than $500 million of assets have been segregated and treated  differently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
+      "originalUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/2f40bf95-205d-4aa9-bb2d-f19476075c53.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai.md",
       "title": "Infosys teams up Microsoft to develop enterprise adoption of generative AI",
       "excerpt": "Both companies will help enterprises take an AI-first approach to improve operational efficiencies, drive revenue growth, and enable business transformation.",
@@ -638,6 +853,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-spotify-is-launching-an-eerie-new-ai-led-feature-that-mimics-podcasters-voices-and-translates-them-into-different-languages.md",
+      "title": "Spotify is launching an eerie new AI-led feature that mimics podcasters' voices and translates them into different languages",
+      "excerpt": "Spotify is working with podcasters like Lex Fridman, Bill Simmons, and Steven Bartlett to release AI-generated translations of some podcast episodes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
+      "originalUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6512999b82a83a00194b76de?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
+      "publishedDateTime": "2023-09-26T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
       "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
       "excerpt": "Through the collaboration with Microsoft, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, in order to help enterprise customers transition ...",
@@ -778,293 +1045,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation.md",
-      "title": "Celfocus at DTW23: Machine Learning, Hyperautomation and Generative AI to Power Telco Digital Transformation",
-      "excerpt": "In the aftermath of TM Forum’s DTW23 - Ignite, Ariana Lynn spoke to Carla Penedo, Director of Offer Development and Innovation, Celfocus",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33368-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation",
-      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33368-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/359a9ff102bc2922c4805ebf6f0c1f3c.jpg?t=20230926_072132",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024.md",
-      "title": "From Healthcare To Space: Top 10 Transformative Computer Vision Trends In 2024",
-      "excerpt": "Delving into the transformative world of Computer Vision for 2024, this article highlights pivotal trends, including generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65127e7fdc3814c07ca67293/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/26/from-healthcare-to-space-top-10-transformative-computer-vision-trends-in-2024/amp/",
-      "publishedDateTime": "2023-09-25T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find.md",
-      "title": "LLMs are surprisingly great at compressing images and audio, DeepMind researchers find",
-      "excerpt": "Despite being primarily trained on text, these models achieved remarkable compression rates on image and audio data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
-      "originalUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_hydraulic_press_compresses_glowing_data_285eb276-fc95-4980-ba9f-750d354a3bad.png?w=1200&strip=all",
-          "width": 835,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-chatgpt-update-enables-its-ai-to-see-hear-and-speak-according-to-openai.md",
-      "title": "ChatGPT update enables its AI to “see, hear, and speak,“ according to OpenAI",
-      "excerpt": "when paired with its existing speech recognition features, will enable fully verbal conversations with the AI assistant, OpenAI says. OpenAI is planning to roll out these features in ChatGPT to ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cyber_eyeball_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
-      "publishedDateTime": "2023-09-25T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fintech-trends-that-are-shaping-modern-finance-services.md",
-      "title": "Fintech Trends That Are Shaping Modern Finance Services",
-      "excerpt": "The fintech industry continues to evolve as many processes become increasingly digital. Each year, companies offer new solutions that transform many financial services, making them more secure and client-focused.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
-      "originalUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/pexels-ivan-samkov-7621142-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-deep-learning-revolutionizes-ultra-low-field-brain-mri-for-quicker-clearer-scans.md",
-      "title": "Deep learning revolutionizes ultra-low-field brain MRI for quicker, clearer scans",
-      "excerpt": "Researchers develop a deep learning framework to accelerate ultra-low-field brain MRI, achieving faster scan times and enhanced image quality. The method shows promise in making MRI more accessible and reliable,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_759921_16956990008848687.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

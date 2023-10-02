@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners.md",
+      "title": "FIs of All Sizes Can Harness the Transformative Power of AI with the Help of FinTech Partners",
+      "excerpt": "For too long, smaller banks and credit unions have been challenged by unequal access to AI technology. From conference agendas to marketing materials, community financial institutions with less than $500 million of assets have been segregated and treated  differently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
+      "originalUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/2f40bf95-205d-4aa9-bb2d-f19476075c53.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation.md",
       "title": "Celfocus at DTW23: Machine Learning, Hyperautomation and Generative AI to Power Telco Digital Transformation",
       "excerpt": "In the aftermath of TM Forum’s DTW23 - Ignite, Ariana Lynn spoke to Carla Penedo, Director of Offer Development and Innovation, Celfocus",
@@ -1307,49 +1350,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-banks-must-promote-more-research-on-ai-usage-says-sbis-cto.md",
-      "title": "Banks must promote more research on AI usage, says SBI's CTO",
-      "excerpt": "“There is a need to promote more AI research and researchers in the banking and finance sector,” Balaji Rajagopalan, chief technical officer at the State Bank of India, told Moneycontrol on the sidelines of the Global Fintech Festival in Mumbai on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/SBI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
-      "publishedDateTime": "2023-09-06T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

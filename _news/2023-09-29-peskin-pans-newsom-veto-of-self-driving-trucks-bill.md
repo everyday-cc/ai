@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "In labor snub, California governor vetoes bill that would have limited self-driving trucks"
+    excerpt: "California Gov. Gavin Newsom vetoed a bill that would have hindered efforts to deploy self-driving trucks in the state. But big rigs still face regulatory barriers in the state."
+    publishedDateTime: 2023-09-27T20:02:00Z
+    webUrl: "https://www.autonews.com/mobility-report/california-governor-gavin-newsom-vetoes-ab-316"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 0
+
 secured: "DVCKz/Ajseiz+bHXDJUEoDXH6+0PluGYbmcttonqhE4dBY4vb4SSUrP9eXVCIQHV9o9nhwlWEfWTrLx7O3lsehKdiip0AKUjnWtDSaV1McWR4x+50h/sFwcgsi8xTPZCR79kAT4JcLUxU6OEI1QE+LJhxvGBUw9jY7CVUGeiP5qaZN1LUA6iYvVJqyUNekYgImKHhhHChOBZL7xUERKl6eL2Hid9/cDCzucFJPvnpz9GBZqDqi/w61lpg8ldc9WXNa3N4/LO+e/m/eNZ8ONrRNsNEk+yxU+OsRO2NDjaNivzeKuLrJK+HwgbbMRzPYku3yB3ztSabvC6sBdUNPkr4d/MVzS5HxHZWMdLqiRsTLLjFmz1zIGitlBZ7U6CB6azQQNafSRM91cD7fo0X3CZcMLPOFreZgpu+a1I9juceJ540kH7eqGtrxFFpinz9xVlOuMYkfqKV4RZh8diE1XBgua19DlBhzLtYt75phRNSZH8bBu6nRpjz4fRRiDl5/xn/ZNHamW6FtzVm47i+z+FYw==;n7uaGAmEVhxJ+oDOuzJMHw=="
 ---
 

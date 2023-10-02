@@ -6,8 +6,8 @@ publishedDateTime: 2023-09-30T09:18:00Z
 originalUrl: "https://www.stamfordadvocate.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
 webUrl: "https://www.stamfordadvocate.com/opinion/article/business-slippen-law-artificial-intelligence-ai-18380154.php"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/21/73/21569255/7/rawImage.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1878
     isCached: true
 
-secured: "NNBZ3O1w38ZzYfoYqR2cvyT8DuLQtPkOGfnhlsrOaOkgTju+ZBV1eUw3FeHu25xojb9TmMpOCMbYYegcCZbXYnZA4TGLby/e21DIGyhXUHARjV1ZZF2U4/Z8PcBknHnutKQATFcQ67JTIxEDdtjyg7g2RZIee7NalHqO+4HPdAzgfCTcVT9FVWVP+8tBi8oZl09O0yZtRzMaAWmpdbu7T2+cgky8D1goxlOGPWZypgiWagGT8plVyCIxzv5ltXRAphyegmLzfRo4imssM1JEHwD+zpX6yx8EYuSaETpzwZ9uYCauiHTThRccErcSFpJZyvjOvjwpMPPFyoaAl0Pniv74PGB6lyE4ctgT5H929BI=;B5A9zrOYBR2t+cBGgwLsKg=="
+secured: "OI+rbWGvrBLG/wrVUlTnGOdc59M98EYOEKWnmYaD5HU9/leTqp40ZMkgmujbNwCAPVKZihDnQgIl/YBsvzLmEXdoRONGl2Yof01PZWixzoxbumetuaBoB2xcQs9o9ycSL/Dy2HDnRSAMMuZkelGJKq8RA2E8ubljSaHF9ntZdNUuHXRCfc0nygKFC+FbW3g6e6Yey3lUobXxaFaTS51UPxy+lmdM8rtd9Dx6MyQnaKdJ7o0ez4dDfGEaWAW5XZe8hKiXupGYkh7nhn40n1IOtuyD6xzPaGYmt64y2e6iw66EbBKUE9yJcBkJMyZyUXIByAbHHDAmwuIoh5hotAE4GqK7xl7dJzthDrF0nFrBYIokL5EbuON5b0DIQPpsK1WdzQNeEPsjhmHjXc10e0UbRvjrfveG6OVImJhBtYd+BuOj94s/iorx8CQmxPqjODyYuhuW5yWf7Gq1pZrIXIxyJv2ED2NNwRmtyOXOmfE2KklDS+Fp+ulQUgyCURVAofaDH5EiZ+7o34Pa/lXv0bVCvw==;H56yRbWJlAex+ck+/TosXg=="
 ---
 

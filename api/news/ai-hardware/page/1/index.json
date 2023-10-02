@@ -92,11 +92,11 @@
       "title": "EU examines Nvidia-dominated AI chip market's abuses, Bloomberg reports",
       "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nvidia-eu/eu-examines-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news-idUSKBN30Z1J5",
-      "originalUrl": "https://www.reuters.com/article/nvidia-eu/eu-examines-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news-idUSKBN30Z1J5",
+      "webUrl": "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@",
+      "originalUrl": "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,58 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
+      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
+      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1328,58 +1380,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
-      "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
-      "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "originalUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
