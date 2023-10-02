@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "The limited availability of autonomous driving in Japan stands in stark contrast to the US and China, where robotaxis already roam the streets in some cities."
-publishedDateTime: 2023-10-02T05:06:00Z
-originalUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan/"
-webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan/"
+excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
+publishedDateTime: 2023-10-02T04:33:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Free Malaysia Today
-  domain: freemalaysiatoday.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
-secured: "zGGJl7Ne+q3TW1PBt2Fz7aFjIHwx5iYDXVw7Z0HzV+r9auxNJ/F0VAVJ4+Zv5Tj6ftWTP1drvTByLNX4zhKkeRAHRoIuYaNC7PpNEOvNFjcpzBnouF5K9Q5KvtYbH5PHlOc6xwU5IHdOBnflRACQjGXkv72DU/ZPZ9TOySCLLipYKAe70pDGF6UZSmbd/HslTVnF9WfW41M3XVG++wc/DfijX8HFV3WlCcmq7cd49At0hGdUbFikrPuk/rjxx+L/+wQ2kz8IoMLQRFEjZeUfRsvYJ7nPjFQV6jylNjnbdsheNJtZGGeQH3Wyn4pY2adoKPxRUYsk9ys8sKipQlDXehzfcOo1wViSJ5FfIaAYRITLnjao1S0BI+evHlIGLWkl1h1pJPjws+XQz4BX6yAnNmsTklEoyY4th+0m+LGmvpIYfx6ysB+ikkF8dPvyYMfhlXxsjQAa+JdNKPpUZpMWLNBgBJlQo4ZR/TlHhJu8MRO1hTCEhFo2qJsXs6sDPQMUoTUUikXBLK2NoPPOS1OcCg==;9xIv09cbsaYZzYLtTkEmbg=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
+    width: 1240
+    height: 826
+    isCached: true
+
+secured: "QIEunKp4gCXrSPMDwLPSNbYcTbmcElOto3HWHj/S6kevzO+8dlitpZaTPxLnSXZtEldz/foRo8A8KtxsE/aV74wHq1N0qZToQOcgbh2bjIZ1sjxmgh2NGPLsrljH208tHer2XQjX/ED/34gxUnNiJxOYvZSzH4dfGsgCExso1+Jrv3MoSQQgYLHD2/Mf1Tn5RHRMkpDf3n8qdN2FrdKoKQ8PyRxLDO84PRItPFZTXBROdk+gWD+b/naqEFnX/fdNy/J9lX024iUWugNMgm6gMQAydLusXa2ApkGJ34er+Z5hb1pLcgKpKCJW2N45Xwx58CEVYKp3JM2FrJlYP3qg7ih0o49tYx5Oh+iMIdm7MPw=;9AMnyW0XM67zkrPFEomQ8Q=="
 ---
 

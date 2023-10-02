@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-excerpt: "Enterprise-ready, IBM-developed watsonx Granite model series now generally available to help businesses build and scale generative AI - IBM provides its standard intellectual property protections ..."
-publishedDateTime: 2023-09-28T12:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm"
+excerpt: "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ..."
+publishedDateTime: 2023-09-28T14:32:00Z
+originalUrl: "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/"
+webUrl: "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
   - IBM AI
@@ -70,6 +70,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "weMZrGLYwSyBuZGtlNVfIIvF/hVtXjopb2b5pD9/RGmdx+fRp0v3QeQWMHNBC/FnNyWE+B+P2BqgViorht1UwrrKjorR/4u/J8ParibsVHfiij7TTKCjdkdcKgIHT1CHglXQR/2arWH8yYb6pSa9e5InA3DTxSVkU8E7qPjslcV6EBBkJiwBRPS9lLBN2RKQjA7WjLz2sIQ3ZWj1rLbljX2iM6l+ahJJA3yN5W3rkF3vJOJV/M0lnxdRvhBByWl3/yutOEGEEUUcDXcpiaYQ7fA50DhVD9tB819Uuc24Wfzxiyns+gIrcWsEkIfQuKKg9+qPmIOtqTNPHcKsU3NqkfT+o/Y5QfZC12z1KZuaMRs=;JvkaxDjXPYoP3mcNcFGeRw=="
+secured: "HrieZDe/Yxn3XaW+0nBV3KPz2cdWLadA92zB4icOgZViruZWrc8djsNj1m1hwEWxLrGcfUlpEu6I+aSgAJZmT+pk/Dizn98Bd7QyP/JBa14U6CCVXvgNcvSnAOriOjew4zHL5IlJKDV4pB1T9KMzz/To7IOxEkboDQOad3ADJWeFe5OtZkIWAz2xs/vRG9hX79bYxtGkYh+nzWJ/YpMmQd/37BW1i8MBH5gp9MIV/w7pic/GIqheOmoYIBL/E+1kWnWht3wyYZhuELylrGUut24rVtCD552zJ4UY4dhfzBOGQV/4YIOKBBJZhpJs81YVuzsyjf/Ed+DyuxxaSAeg4vtO6I6u2OGeBlJR/A7BlFY=;2VYaMy5ry658iE68Lbaa7A=="
 ---
 

@@ -43,19 +43,21 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Microsoft May Go Nuclear to Support Its Energy-Hungry AI"
-    excerpt: "Training and running AI needs a lot of power and a lot of water, but Microsoft may want to use microreactors to fuel its big artificial intelligence ambitions."
-    publishedDateTime: 2023-09-27T16:50:00Z
-    webUrl: "https://gizmodo.com/microsoft-hiring-nuclear-energy-expert-ai-1850873864"
+  - title: "Infosys collaborates with Microsoft for generative AI"
+    excerpt: "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses."
+    publishedDateTime: 2023-09-28T06:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 84
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/004c59f2dff197f7a5c9c3a14ae92d95.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
   - title: "Microsoft advances healthcare cloud strategy, brings generative AI to Mercy"
     excerpt: "The healthcare system will use Azure OpenAI Service to assist clinicians, improve the patient experience and develop additional use cases."
@@ -71,6 +73,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
+    excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."
+    publishedDateTime: 2023-10-01T22:12:00Z
+    webUrl: "https://journalrecord.com/2023/10/01/microsoft-mercy-collaborate-to-transform-patient-care-with-generative-ai/"
+    type: article
+    provider:
+      name: Journal Record
+      domain: journalrecord.com
+    quality: 33
 
 secured: "8oUUszdwFUjaexZHjblaWWIblY4kXq5iEVshDDn6KXpaGI2wqyzGcVOIhlFuiRrJ8d10LXrbrP0KDxDGunCVXMpex3D4RfmlRQx+6Lh2C04H9UbGCpMk6TkSHhGLG2kPXDQDw73XO7HeYgrfPUK4qqT2y+Mt5GcVfHgUc+/wRhrAPMCSSLSEkU3X/mp5CfDqJDB/wOjdkg5B36HGA7tNXOZwdoQy8KYGtKWuYpk9ohz/vgBlfGyJwLgoZMpg0108Q+ezIn1TY61VJn7+3FoKe7Of6SU47bFJXdZzegKTn89pqGXA+RzecyPCQPV+qKCE+wJnOjME4TLRqAP0qcdxzI+309uBQVgBRNhhtbPVdn0=;950vwjTyqncXKildFaXq4g=="
 ---

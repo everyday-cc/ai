@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?11:02:39am"
+  - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:02:26pm"
     width: 680
     height: 450
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 525
         isCached: true
 
-secured: "NbwnhWqCH4wvHIF2Dn9C50HzwV6u6YtjDIZiSaa5B9G4DC3i/5DpJLifHNf2L6Aiq59y3heboZNqbgIau8C1/w8hwm77FUhkrj/fDxO9eAK0QA4SisygOoBwCTg/F2R4PvKnLz4JhwTl92sCA6Ch/n1HbYMg+iejTI+ge3YKxbeEelIWf4BsMXh3ErQ/Led41htANb4OY6ni/wkD7v8kv5MnXiTMzYeu1rgpZUCydrlk/IFAMiNThqgVd+G9FvbkQ9Y9vKmiEovWDlJwgVwofmIiSyxKpwpz1Op/HSPwHclcdD1xau3xnnnuuvqTBE5R0cAdJooGuDAAlrg8UT3psIrzAdR9P7k4XfYUmsVFuMY=;nTVu/iqzY1VLtxnjJ+QAVA=="
+secured: "ERrCTTohyFpWke4kCbyvODYwXkCTFxxvjs3UNoWHfLOvBCg9QLf0GEoYioXvW8riLcSzCCsIBjUQsB0m/Dn/6QxQWnXzDaoppxFD13p9Oc7xekIVFjaa1Xoi6Ak9oQQlzMDCmQiEEGP1SvoRHRE/rxikKl07SA5NYCA+LVd7tv/HgeVE8OQPP6NVp6bz8QAQVnufkKRn1b+xkZzKcOzJUmJTFGIlYlNSvuNGqcMe9RFQPMrsiKLIQfZutTpsFUqbvqJ+FpOYK/sFe7/5Uy71siQ0wgiMJhrrbOwHMj12+9oVJG4s9szLXEjGDoV067GiZEtywqcexDcAJNsyJgK2IJ71XMo1FQpOgr83OHx9tcs=;xMqRsjUkI6JKHR1Bu3ujXw=="
 ---
 

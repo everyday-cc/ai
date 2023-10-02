@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-d
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65185bfe96699717e8614931/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "JoyZduOtSX/ehzeez/9Hxq9d9Cm852miu/6MUyRFe0dTG5qPhf6k4x3hL+LIfuuSB3MTXFLwRs0LyN3JGfsU9DWLYoKBVU2codY/pNRz2oNevaqTV4qtbe6moCxWw7IwkO8hojn0cKMXJZ6Z77R/F26cC7Mqx1rLncsa2apGNYZXZFW38OvzHrQqOLh4lPadLE3AqwDdIZhtMPMbKsPdXNcFtVvJjOMCf8X6vFj8H4DMsmX/Y3ZYoZGNAnkaGp5C6RCvnNwUGq+PppQezVRH2EvjRJWRFMNGIzjn3amKp0biHpulKp/YT6u83FhWjnP0PsRUc4SWwVRbIdp1+h8LKk1qctczqxh2dkEpQBUrkxc=;ew04py9PJfB7o/PmasEIOw=="
+secured: "AAiYE3FXvwr30iF/9LKPJT2t2atTMTUMPBJ4QGrpV8Jv5RKX5bnyhDjJOma5EXEX4clUJvy7rZ11ng9aQDeYsLvp8E1PY2c1uWwej+vTa97F7rsiBBKT0Mrle4A4ncS16h9MfhyHtSQM2BiVXxZfUVjCg+0g9Z7cqh9zS67qnsSU/f9IlnvtFRIzsbecKQOmU7PH9gt43f6HGB3lrj3b8c7W/E+V8cHsQWYdhVmCV4gJ1Ptf7+sj0xaEzETOY5DhKUfHjpI78QMpUJGj6+YFZbm5sptdHmCFlP4Pmej0xLwsHcno+C+PNTfV9gRtRuTBl4r33yAnpGURFj2b30Y2taF5cv+jJorbaTx7NAaW2bUbn14Luj/POy5fdhcRVA5aLppTcIyGy2PkhHLy3i/m7FW/QHEfUecKOywPTmf5q6BpTjdctEeX9Popg8BgZjBcyhI1atL6NRzpbMnhWvFnJgQL7HlE8WjNwPsLDv8rhqZz2cKSnsPwXE55ZcK0pAgCmLnrsksgWGb7E+6x7nSBAg==;vjgAmfxIDObMu8skhR6eaA=="
 ---
 

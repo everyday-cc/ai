@@ -41,17 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "NYS education commissioner bans use of facial recognition technology in schools"
-    excerpt: "New York state's education commissioner banned the use of facial recognition technology in schools, but said it will be up to local districts whether to employ other biometric identifying tools."
-    publishedDateTime: 2023-09-27T16:30:00Z
-    webUrl: "https://www.newsday.com/long-island/education/state-education-department-facial-recognition-technology-qzm99b9p"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/education/state-education-department-facial-recognition-technology-qzm99b9p"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/state-education-department-facial-recognition-technology-qzm99b9p"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 52
   - title: "New York bans the use of facial recognition technology in schools"
     excerpt: "Commissioner of Education of the State of New York Betty Rosa banned the use of facial recognition technology (FRT) in New York schools on Wednesday after a state report found that student privacy risks outweighed the potential security benefits."
     publishedDateTime: 2023-09-28T10:28:00Z

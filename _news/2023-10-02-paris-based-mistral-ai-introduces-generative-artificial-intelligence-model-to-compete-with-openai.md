@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mistral AI Releases Generative AI Model Competitor to Meta’s Llama 2"
-    excerpt: "The large language model Mistral 7B is free to download, with no restrictions on use. Get details about how businesses can use Mistral 7B."
-    publishedDateTime: 2023-09-29T04:33:00Z
-    webUrl: "https://www.techrepublic.com/article/mistral-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Europe’s largest seeded startup Mistral AI releases first model, outperforming Llama 2 13B"
-    excerpt: "Mistral’s demonstration of a small model delivering high performance across a range of tasks could mean major benefits for businesses."
-    publishedDateTime: 2023-09-28T00:46:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_aerial_shot_looking_down_at_the_eiffel_tower_surrounded_2c015792-c192-4101-ab81-a0150e8a4af9.png?w=1200&strip=all"
-        width: 835
-        height: 468
-        isCached: true
   - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
     excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."
     publishedDateTime: 2023-09-29T01:02:00Z

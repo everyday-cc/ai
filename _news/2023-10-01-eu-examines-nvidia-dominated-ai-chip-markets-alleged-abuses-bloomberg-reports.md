@@ -32,7 +32,7 @@ related:
   - title: "EU examines Nvidia-dominated AI chip market's abuses, Bloomberg reports"
     excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
     publishedDateTime: 2023-09-29T17:12:00Z
-    webUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
+    webUrl: "https://www.reuters.com/article/nvidia-eu/eu-examines-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news-idUSKBN30Z1J5"
     type: article
     provider:
       name: Reuters

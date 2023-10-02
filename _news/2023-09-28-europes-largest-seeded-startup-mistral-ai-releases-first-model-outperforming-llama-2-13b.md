@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mist
 webUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,47 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Mistral AI Releases Generative AI Model Competitor to Meta’s Llama 2"
-    excerpt: "The large language model Mistral 7B is free to download, with no restrictions on use. Get details about how businesses can use Mistral 7B."
-    publishedDateTime: 2023-09-29T04:33:00Z
-    webUrl: "https://www.techrepublic.com/article/mistral-ai/"
+  - title: "Llama 2 Long outperforms other AI models in long queries"
+    excerpt: "However, Llama 2 Long has been trained on more data that contains longer texts and has been modified to handle longer sequences of information. This allows it to outperform other models such as OpenAI's GPT-3.5 Turbo and Claude 2, which have limitations on how much context they can use to generate responses."
+    publishedDateTime: 2023-09-30T13:09:00Z
+    webUrl: "https://interestingengineering.com/innovation/llama-2-long-outperforms-other-ai-models-in-long-queries"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
-        width: 1400
-        height: 900
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/09/30/image/jpeg/PoCsIymcwAvQ6sepUEEzWvl5CJ9AlgVQPNCtMaK6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Paris based Mistral AI Introduces Generative Artificial Intelligence Model to Compete with OpenAI"
-    excerpt: "France-based Mistral AI recently revealed its first generative artificial intelligence (AI) model in order to compete with US rivals in AI."
-    publishedDateTime: 2023-10-02T03:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Paris-France-National-Assembly.jpeg"
-        width: 1280
-        height: 1113
-        isCached: true
-  - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
-    excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."
-    publishedDateTime: 2023-09-29T01:02:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/09/34984845/mistral-ai-s-new-generative-ai-result-of-ex-meta-platforms-google-employees-collaboration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34984845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34984845"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
 
 secured: "zlcCIpzZDSpzDxPBeaiDEw8rBDeMnIYs+D1dgKPl5KoPLpWqdtdIYT0wwe2MGMJgQX3Pb1MxP9t89Z8RdXalv0RgBQRX1T4u6hz89Rz3a+B8bl4p1q+AyaX8elLlzCnSZ5XUBWaPqdMuc59vErPjr0pllxA+TnvpIaf3+egeMglxcuRaKcrLoZgKU1ojXruAVZMjPPIKW1m4TA72FYY1c/Ffy7sF2yWQ6/Puy7ygYc/+XzwTYLiRUls/rYps/k/rrLm7IFurE2pF8IiH/5BGosZdUg7smO1mkfG6Hx681Gu/goDolZIH88OYNjNhqVpLVCclbS0JPE2Xx6qzfQnCpz+4u52soHM10KtiNw7TxBc=;GXs/hLGnb0+xew2oN5LqSw=="
 ---

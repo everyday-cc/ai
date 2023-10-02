@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/mistral-ai/"
 webUrl: "https://www.techrepublic.com/article/mistral-ai/"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -29,47 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Paris based Mistral AI Introduces Generative Artificial Intelligence Model to Compete with OpenAI"
-    excerpt: "France-based Mistral AI recently revealed its first generative artificial intelligence (AI) model in order to compete with US rivals in AI."
-    publishedDateTime: 2023-10-02T03:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
+  - title: "What does generative AI mean for software companies?"
+    excerpt: "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry."
+    publishedDateTime: 2023-10-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Paris-France-National-Assembly.jpeg"
-        width: 1280
-        height: 1113
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 615
         isCached: true
-  - title: "Europe’s largest seeded startup Mistral AI releases first model, outperforming Llama 2 13B"
-    excerpt: "Mistral’s demonstration of a small model delivering high performance across a range of tasks could mean major benefits for businesses."
-    publishedDateTime: 2023-09-28T00:46:00Z
-    webUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_aerial_shot_looking_down_at_the_eiffel_tower_surrounded_2c015792-c192-4101-ab81-a0150e8a4af9.png?w=1200&strip=all"
-        width: 835
-        height: 468
-        isCached: true
-  - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
-    excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."
-    publishedDateTime: 2023-09-29T01:02:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/09/34984845/mistral-ai-s-new-generative-ai-result-of-ex-meta-platforms-google-employees-collaboration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34984845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34984845"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
 
 secured: "qXtNUpgA5KbB/KnSK0Ku0TPxJ3i5ogQM5HbJizUf2QkP/N5GabINq1/XmgEYRzmYE8d3zSwKQT4OES9H8OW5/uStOYyvkqNe+kAPM+WjWilHzTz4HrZ/2CgO3buimDxoVhffknKC+9I1bY+CyVh1YevKdHowBLtKQWr3qU0S3BoME/uhya53wEIWV6QPbj0m76LRwR+uTFMoUPqfvQl7Re2XDkvCBFf8bTuB5Mbjh4qcVgbYpHqMk59i5bZDaMqOSZPWN7dqcweAMZNjw0Mj0MczsalHDHeo1xLDa5qihDTo1sp65ispO3fBRGCZp/ok5/6pm+oOccGbBKOtNlPJHVghZqFlI1+gvrnjEKXGK4o=;dXRqYDQ60JyAWct4m6EbGQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/llama-2-long-outperf
 webUrl: "https://interestingengineering.com/innovation/llama-2-long-outperforms-other-ai-models-in-long-queries"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Europe’s largest seeded startup Mistral AI releases first model, outperforming Llama 2 13B"
+    excerpt: "Mistral’s demonstration of a small model delivering high performance across a range of tasks could mean major benefits for businesses."
+    publishedDateTime: 2023-09-28T00:46:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_aerial_shot_looking_down_at_the_eiffel_tower_surrounded_2c015792-c192-4101-ab81-a0150e8a4af9.png?w=1200&strip=all"
+        width: 835
+        height: 468
+        isCached: true
 
 secured: "m3S/OyYt1PD59z4RVYvCVIcYozZ+9NSn3rUN2OoGrQiv+Lh0Hz8MjFcs5CPvwN5q36OXDwDwCxRYWpSj9tcrlDiyoxUDvVkyfEgOJLETZWaWYvvmrDVDWyRxoAmj8YGg/1nQXU4aS6VS3n/k0m3MiFa5XNwRU7Xl4PQK47s7h/B9yChYW6Fiq9rdwwsaujahFzvTHm+KJFz7cYmx+0jeGwPyCBY6vyVzsDo6Rvg1tNmz02TLgB4p9U026vDvTcRbF3PuAbG4lAawg5o+7Qs4sMvy+lLNOgW64cBumxerok5NAahnxHg/BUn6JbgrWJlB7HS6BcLMt0uTOs5vIv397m0ssq9xFpZnjWqRT/hJFg8=;p/2++i8KGq+l92rgFwH2Ng=="
 ---

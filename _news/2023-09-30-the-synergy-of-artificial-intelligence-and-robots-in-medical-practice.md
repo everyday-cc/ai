@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/"
 type: article
 quality: 108
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,24 +31,6 @@ images:
     width: 1200
     height: 673
     isCached: true
-
-related:
-  - title: "The future of AI is wide, deep, and large"
-    excerpt: "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments."
-    publishedDateTime: 2023-09-27T16:34:00Z
-    webUrl: "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.html"
-    ampWebUrl: "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-future-ai-wide-deep-large.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-future-of-ai-is-wi.jpg"
-        width: 1780
-        height: 888
-        isCached: true
 
 secured: "QlkKqlvEfMgwo+1GOmSEQr3irwt/dLgF/I4nsDBjOZEtQ2h5DENOGP6F3ouDQOUQ+wNwxG3IVmkIP6+sVDL5rZFYbQpsd4soIy4KfN0CKAw6E1jme/j5H6T0s+G/3Ek2Vq7p62ayWva9UE6UCuRGfnGqI9+JFNMIhDBUfPdfChR1BWd6QYSGqz9HmWYI639TYi/48wFqJ2Hnv+W7kgrFO2HPe9azvERpKsB/jkC6vThOZiVWvfVAQRRlP/yPzSqhinQmBclOC1rRa7l98DN+1WYqxdjpgFjJsuzmAN6TEp/58JeXNr9awY86WbbvLXktGRqECWZ7JA9Z3ieAbl2OLstyG1xe5D5ImuEdV4rPPgc=;vNDHuL0zvJjaZKH3CEaM7g=="
 ---
