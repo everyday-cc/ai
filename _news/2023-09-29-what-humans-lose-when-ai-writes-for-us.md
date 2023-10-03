@@ -9,8 +9,8 @@ ampWebUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Scientific American
@@ -35,6 +35,15 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 19
+  - title: "Trapped in a Dangerous Loop: Humans Inherit Artificial Intelligence Biases"
+    excerpt: "People can adopt biases from artificial intelligence in their decision-making processes, according to a new study. New research provides evidence that people can inherit artificial intelligence biases (systematic errors in AI outputs) in their decisions."
+    publishedDateTime: 2023-10-03T09:00:00Z
+    webUrl: "https://scitechdaily.com/trapped-in-a-dangerous-loop-humans-inherit-artificial-intelligence-biases/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "Lf1kWRQ2w4VhTpApW+TLv1gK7UFGfDPzmrK0WurQIJksIkJ24383i2z7+xoQMR84qXgnUYSzlvNkKLjOab4WxYCOdMg6EsyAIiwTT/gkmQe0Bu/5NSTgqMzRLl1VbPesbS4klHPTmzKYE6CmMx0tyb87cNQlCWhL9keaI+qzGGgQpP7/Q1cJ1JD/Ka6yNbgfs6GGoTNBbmkmQ9WpXNjnxfeOVaSEeHnQcEqk3tbDcIrPV85J3x9QehOL1OYRVbyswU2Qx64IttYBETRivM0A2hca6X/kCIwMMlYUYzc2pgBR03yz/SwzTpbYxnurHLlhy1hC926dZRIt9aLJCnRcapbkwTdqWI05fnRSCuVjjdsPQL6/hFyOsGQNqCFVl94ao5+zX3AMoF4sC2vBh45BGHtd5l5QAxQHkDiL6UTpKc+nKXIPPPqmvIXwAHVCtEVSSaapz1cXLyT3+L70Rxd4fx5xHsyjZr1to19OA9v1eNTQWwZ2wVLW00WZkMFxdpliPbmogPBQOMq6SXtpzcPUhA==;hJJYrH8NLGvoZN54vP6NnA=="
 ---

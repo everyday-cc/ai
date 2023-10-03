@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 833
     isCached: true
+
+related:
+  - title: "The scary side of artificial intelligence"
+    excerpt: "Achin Sharma, CIO, MOVIN Artificial intelligence (AI), as we all know, is the simulation of human intelligence leveraging computer systems and machines. AI programs can continuously learn and evolve with experience. In technical terms, AI systems render ..."
+    publishedDateTime: 2023-10-03T09:39:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-scary-side-of-artificial-intelligence/104128779"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "Uu1CFuTX8uO/3Q9YMBQwXu9KU6CDRDPnvkfv5vgTFfhuIzwFrFIdNBXjYneZorpxDiw9YUf7YBb5Fuq1GjYxfhfrZYA60t9RDGNK9Qoq5ol+xuV2tR8IkD0Wb1JWTVPkpG63844ft4JZ++03l0OrccAQ1A4qdjCE/EiCpJqBj/wc31QbvBYCDwVuhHG0LdfZ/RFBO6t/qtDJ2NWMxDCFQIw0LIG2vKKrIbbVBYaQTauWrnS/UTKQL6phvepWxfacAtcNhm5Zcl3luP2g6YOwUYjxKCymN6vSlokrQADtOfM96ywiXulOZXvvz+Wdj3M8+d5SYUGky94R0CiX7tZwl0ChuRI45Qi+kkSd1nypOog=;k6jSv4A/3VCP5HtLecaZkg=="
 ---

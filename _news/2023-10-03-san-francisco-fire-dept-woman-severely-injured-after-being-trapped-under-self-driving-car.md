@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco: A natural home for our fifth AI Co-Innovation Lab"
-    excerpt: "Around the world, Microsoft AI Co-innovation Labs offer startups and established companies alike a place to collaborate and build, develop, prototype, and test new solutions. We opened our first lab in Redmond in 2017,"
-    publishedDateTime: 2023-09-28T15:29:00Z
-    webUrl: "https://blogs.microsoft.com/bayarea/2023/09/28/san-francisco-a-natural-home-for-our-fifth-ai-co-innovation-lab/"
+  - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
+    excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
+    publishedDateTime: 2023-10-03T09:20:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-car-accident-leaves-pedestrian-trapped-and-injured-in-san-francisco"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/San,Francisco,,Ca,,Usa,-,Feb,23,,2020:,A,Cruise_3.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "RAlLT8OqufsiSKpVxr5AhNAQ5ZYTyid8+8mSmV9bPz9Wic57xSRlS6ss/DAbBouf/hdpKM7+ryzxdJipiE3DGRPlwwxOxkFxq2H+PVPVfTumzH5NvXeVL6fOwl3YISGVoX0V0IBbnlEG2AXLwdqbLbnzI3WdgowLTUGbo1bRHPtL1Pj3eMmr8wgGZFDmVYiDhLELttqC9KNgDPU33NZZpfsY4TtrFlLlvuDk9IAyGtFYVCq+ealaS4c0xz5z4hOlIdDVVr5R0bxqYXIlc0/JDN1V93gR46+eZuE4aQ3FnJKvl/+QZQrH9YEH3kbEud6WSIbESl/JQxvjLwWskUaiCkcGg9C/h8LkGy5m1zk+hts=;9V+poQGU7TOwzc7kNGbshA=="
 ---

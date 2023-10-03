@@ -35,6 +35,15 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Trapped in a Dangerous Loop: Humans Inherit Artificial Intelligence Biases"
+    excerpt: "People can adopt biases from artificial intelligence in their decision-making processes, according to a new study. New research provides evidence that people can inherit artificial intelligence biases (systematic errors in AI outputs) in their decisions."
+    publishedDateTime: 2023-10-03T09:00:00Z
+    webUrl: "https://scitechdaily.com/trapped-in-a-dangerous-loop-humans-inherit-artificial-intelligence-biases/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 17
 
 secured: "6nZLr2JA43S1laVGbxVrvJS/HF7bu8W5CJZN5uLjGi/gNn1O1GR5jTrZ1InnJJZTSaVMA3JUofg090ETU/flCIbt/sPcvDaT/QxCMIb3yW5QyWdPh3CQPNNzTpMMqss2Ul5rX87MfmgfedDvtO1xwZ1F33/2EzIHmHnVG+7xSeN2q3FXcCs/SpegvnakAys4/c1WW2cSzHVWXd42/1BeYwKqExFaIDy3EiTzkrV9KSRpkIf3WtGRs3a4W3Tlh1IgyYBgtH2YJWWX8cBE4RtLCGkqem03bZRw/wcxpW5lnGjmMIK6bnkoNyEYKuPhgRkXiQ+Z1Fyc3Dpt/GGa1ojlQ7AN16F8nJd/clE5GFifSyI=;w80v7mZQ4Womg4zFMsHC2g=="
 ---

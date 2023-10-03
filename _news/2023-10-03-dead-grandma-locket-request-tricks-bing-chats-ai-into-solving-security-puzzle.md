@@ -91,20 +91,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
-  - title: "Dell Apex Cloud Platform For Microsoft Azure Aims To Simplify Hybrid Deployments"
-    excerpt: "Dell’s newest APEX Cloud Platform venture with Microsoft gives Dell partners a single user experience whether they are managing workloads in the cloud or on premise, thanks to deep integrations and several automated features."
-    publishedDateTime: 2023-09-28T16:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/dell-apex-cloud-platform-for-microsoft-azure-aims-to-simplify-hybrid-deployments"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 64
-    images:
-      - url: "https://www.crn.com/resources/0281-1825c212d926-a0ceb394dba3-1000/dell-apex2.jpeg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
     excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
     publishedDateTime: 2023-10-03T05:58:00Z
@@ -119,17 +105,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure"
-    excerpt: "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions."
-    publishedDateTime: 2023-09-28T15:37:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34980295"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 62
   - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
     excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
     publishedDateTime: 2023-10-02T13:00:00Z

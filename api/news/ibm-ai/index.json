@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-02-the-us-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring.md",
-      "title": "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring",
-      "excerpt": "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n",
+      "path": "_news/2023-10-03-security-ai-and-automation-are-key-in-protecting-against-costly-data-breaches-for-retailers-and-consumer-goods-businesses.md",
+      "title": "Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses",
+      "excerpt": "For retailers, AI and automation can significantly reduce the impact of a cybersecurity data breach—financially and beyond.\nThe post Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/",
-      "originalUrl": "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/",
+      "webUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
+      "originalUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T09:00:00-07:00",
+      "publishedDateTime": "2023-10-03T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {

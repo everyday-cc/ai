@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagotribune.com/opinion/editorials/ct-editorial-wri
 webUrl: "https://www.chicagotribune.com/opinion/editorials/ct-editorial-writers-strike-artificial-intelligence-wga-20231002-eurndpbutfbv3jbhmp265uunzy-story.html"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI"
+    excerpt: "Americans have heard a lot about the potential for artificial intelligence to take over jobs now handled by humans. And like it or not (for the record, we don’t)"
+    publishedDateTime: 2023-10-03T09:33:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 43
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "GkymAZdeKgTYHfxZMHNAwlJhodbsWj2Ti0E28UB38841mK5g8BxezGb41sBnCKAtcP/MgNvw9jEjNw6aRaq4h8cGFFgwPIWQoymTEoBh0o1fCnHhPuKAc7PTzB6W/ul44oMlksjm+Fv944vVHsx65U0gLgwsseofq3XgmtkvUmrSTlfM36VTcn15gCxxKBJGv3/WphCAkE/kVQ5kPVjkSX1bg9pn8ttEd/RSCcRUXHxv/vXtYTlYje7PKbZfB2BtnT3/qLEeYRxhWbZfgcvsNIN0Ln/lzdGKuH5Q1i4bhaRulxfzAQE2uhuc6SLzDfWprk7EGU66n+j4tO1c5JHKzn73xga1kAkUJfmY0jqg8yw=;1rJRC1agdt2TAUJxf35Zxw=="
 ---
