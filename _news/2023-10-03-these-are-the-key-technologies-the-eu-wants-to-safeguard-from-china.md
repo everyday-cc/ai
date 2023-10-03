@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from
 webUrl: "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "EU publishes list of 'critical technologies' at risk from global rivals"
+    excerpt: "The European Commission has published a list of critical technologies which may be at risk from global rivals and which officials say should be protected at EU level."
+    publishedDateTime: 2023-10-03T15:29:00Z
+    webUrl: "https://www.rte.ie/news/europe/2023/1003/1408778-eu-technology-list/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 24
+    images:
+      - url: "https://img.rasset.ie/001b33b9-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "Jhgz1XjwekLqYg6PvnTX/01SMIaeDKO+yNmhIk5GDU/84/UxZLqW8FrSYlg3wM23D43b+RoAbBjHxF0fyhA42zwmYpx9K4AVzOwbI3cA6WqTbxtBPJgct1ZYxn+nYui7Tcj7/apkyAl1SD6P34NQhRjkMkdUyKYgfhv339IT4CJlL52u32iB5M3WVdFcXRE/R5VsC4Jg3vgye7cyYHmfR3A+m1zlyTSZwAttM6ifrURgp7TIZzzXQ1Xnhsf4Nw8i/JMYU/AEfNjbtWF02t1PjDOb9eyUEwISW76HXMSTMvPN/vFMcCKMAxW7x85b2WV68nT2M8pVbfLUbsI6QSa+uK/gVI2R1u1CIaG5pVtkf/s=;W4zWGP/YiFBQplGj1epAzA=="
 ---

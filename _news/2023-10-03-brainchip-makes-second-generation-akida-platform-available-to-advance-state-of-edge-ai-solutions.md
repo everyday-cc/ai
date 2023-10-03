@@ -28,17 +28,6 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 34
-  - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
-    excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."
-    publishedDateTime: 2023-09-29T01:02:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/09/34984845/mistral-ai-s-new-generative-ai-result-of-ex-meta-platforms-google-employees-collaboration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34984845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34984845"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
 
 secured: "qi0T5pUVjrgaviPRvFGmakt2KqxnBFFWyfQ+CdGcOnW2GwpNB7aVrSuFHefM1y+XcW5iaP+yu5mvZ1h9eRHIxOqtg1wOW0+wggE7NgbUAHoE0sDKPWCTTv8VRy8d7mPCHF0oMY3jYuzpP7AyeyP8obt9RMvoUsJhBoACqPRdJxnEQJGQhdm86mc+a7RfU+ctFGD7B7JmpNVspCkyVcRpHXSMnA0+CjH2qbgENhJ4Yxz6llN091AYZTxs1Fp408bURqz1myFq7vfI2Lfq6FbV8/0D9CFRqrhoVguvKzMpszc9S9u8kL0FEKkphwiQGa0MoDufZxT8x3dQBbuRHBg/L7VnatlMOMBVbgv3pOepg/c=;rikcF4mpb5Kw1U7/8dYdOQ=="
 ---

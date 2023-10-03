@@ -26,6 +26,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Self-Driving Trucks are 'Not Anywhere Close'"
+    excerpt: "Professor Missy Cummings explained the limitations of artificial intelligence, warning, “There’s so much hype out there; it’s your job as supply chain executives to understand what’s real and what’s not."
+    publishedDateTime: 2023-10-03T15:38:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/38210-self-driving-trucks-are-not-anywhere-close"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 24
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/10/03/MISSY-CUMMINGS-HELEN-ATKINSON.jpg?height=635&t=1696347593&width=1200"
+        width: 951
+        height: 635
+        isCached: true
+
 secured: "oCeCbmcNkYnOGgb9hWY1aqWu7qk384T2UTqjch1SYYCkL2ZbXFoauwmmGA77ZLFH4hcowwEqBFwXbu9D4J36YZDQAtWUyPihlOoa5GlXULWPlKS6UXGCxq6SVMUWgFEskLYgl77ru1Xf1YOmNLE8eJeX8qDdoZDxiPt6u2SR43Xv/XyboHvraegQQ5r5hTz7fty9FE+oAI5RcDuWF3vgkDZ6dW1WgO9Ht8O1FWWZ53XGum46ZsdngiVhMPw3KMnEp0PtZYAtoJDf+ZEFIec2R3D78hvvIH7qIHwfVlPdqUfhErToG84u33wKsqIHCRG4YgJsUF4wjSq1q2osqaoE/iPdO6B+va1RVMoD64oOR88=;gcXMFTEJEwWgsSRplWV9Xw=="
 ---
 

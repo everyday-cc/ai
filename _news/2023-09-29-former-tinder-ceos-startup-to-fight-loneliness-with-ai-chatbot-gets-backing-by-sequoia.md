@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-figh
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI startup Cohere takes on OpenAI with new Chat API and Coral demo chatbot"
-    excerpt: "Cohere said one of the main advantages of its new Chat API is its Retrieval-Augmented Generation or RAG capability. This gives developers a way to control which data sources the chatbot uses when responding to specific prompts. It means they have a simple way to restrict their chat applications to use only the data they supply to it."
-    publishedDateTime: 2023-09-29T00:57:00Z
-    webUrl: "https://siliconangle.com/2023/09/28/ai-startup-cohere-takes-openai-new-chat-api-coral-demo-chatbot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/image_2023-09-29_072513483.png"
-        width: 708
-        height: 463
         isCached: true
 
 secured: "pVwod27qBHCaA7n+EImmsgPU31phRfgzw6pKXzbQaQmqHnBkF7HZsu6LTVzOgdwVTyCETHAuWYcf0iQDkyBnHOqx9enzFXBccMhq/eGDDdcrV30lOBy6GDHl0D++EUI/ZmWdloyCSsWyCqSNkk9hhDLVvsff5NuVcYLZtyi/9XLeBlyQ5rwB+7N7c7OieAG2iB2EpxEZm3JIJLtRVD89v+4SoBvBiFhsE1WU55jjtGZ2kxk33vTYRmf/MX5RQX6Yn+hru/K90Ibx0OARyo0TyzYXL3zdkLPYOu+KfR1sKnqUPh0yIvyKRfDKLpqmLwhoeJD3hJbVr9+KurkowKsZih4gli06K9AaCWWy2ZrKU3CH6Yw+Ib0U1fM+/297rGmKnZgIPESDBzUJ6sd7CrIKKa8aMHTCr/+pzrrimwpyiNb2P/ROjhwK48g949kL9R2GcZYNxVY8+EmEkRvtGv2FH1GHrAT+2h9JozxV6LFTN1cv2Xuv2HiqpKyc7M0kRWBqI0WQF3rfcCqZ4HLBg3sGaA==;cKEbRdUqpznXGceIrqzT8A=="

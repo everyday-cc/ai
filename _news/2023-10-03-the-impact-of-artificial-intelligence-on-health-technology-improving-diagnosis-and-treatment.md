@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-02T19:02:00Z
 originalUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-health-technology-improving-diagnosis-and-treatment/"
 webUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-health-technology-improving-diagnosis-and-treatment/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-tech-3.jpg"

@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
+    excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
+    publishedDateTime: 2023-10-03T16:05:00Z
+    webUrl: "https://www.cbsnews.com/losangeles/video/authorities-investigate-after-a-woman-was-run-over-by-a-self-driving-car-in-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 15
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/03/af69d6a8-2569-40e6-bc2e-d666bcd121db/thumbnail/1200x630/0f91edabff91c4d870e163fc29cc9d45/27f5a6bf5fa6fe9a5b1df8dec2ae2335.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RAlLT8OqufsiSKpVxr5AhNAQ5ZYTyid8+8mSmV9bPz9Wic57xSRlS6ss/DAbBouf/hdpKM7+ryzxdJipiE3DGRPlwwxOxkFxq2H+PVPVfTumzH5NvXeVL6fOwl3YISGVoX0V0IBbnlEG2AXLwdqbLbnzI3WdgowLTUGbo1bRHPtL1Pj3eMmr8wgGZFDmVYiDhLELttqC9KNgDPU33NZZpfsY4TtrFlLlvuDk9IAyGtFYVCq+ealaS4c0xz5z4hOlIdDVVr5R0bxqYXIlc0/JDN1V93gR46+eZuE4aQ3FnJKvl/+QZQrH9YEH3kbEud6WSIbESl/JQxvjLwWskUaiCkcGg9C/h8LkGy5m1zk+hts=;9V+poQGU7TOwzc7kNGbshA=="
 ---

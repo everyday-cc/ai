@@ -88,17 +88,20 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Amazon Web Services Now Offers Generative AI Tools For Businesses, Catches Up With Microsoft Azure, Google Cloud"
-    excerpt: "Clients can now modify and customize generative AI tools for their own purposes though Amazon Web Services. This marks the biggest move yet from Amazon in the generative AI space. The trend shows ..."
-    publishedDateTime: 2023-09-29T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/23/09/34985659/amazon-web-services-now-offers-generative-ai-tools-for-businesses-catches-up-with-microsoft-azure-go"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34985659"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34985659"
+  - title: "Microsoft’s AutoGen framework allows multiple AI agents to talk to each other and complete your tasks"
+    excerpt: "This collaborative approach can lead to significant efficiency gains. According to Microsoft, AutoGen can speed up coding by up to four times."
+    publishedDateTime: 2023-10-03T15:10:00Z
+    webUrl: "https://venturebeat.com/ai/microsofts-autogen-framework-allows-multiple-ai-agents-to-talk-to-each-other-and-complete-your-tasks/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/826150be-bb00-41f7-9952-47ba53104d76.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
     excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
     publishedDateTime: 2023-10-03T11:13:00Z

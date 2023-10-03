@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-03T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-the-intelligence-artificial-or-amplified/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-the-intelligence-artificial-or-amplified/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64d54262188e017c56d9d11b/0x0.jpg?format=jpg&width=1200"
@@ -44,6 +45,6 @@ related:
         height: 400
         isCached: true
 
-secured: "kToeoYyBLpn7SkLMSy5e7u1ojpX/UT8cwUWS6qFFu1owOAgQPh54QtR9ezxr0ViKeNKUUshx3fUH38nuvg95x29i2kzrOC+HBk5yoKVkqO8m+sexSp2l+meRXZPix7Gj7dcZofh+K23o+AwUmrxfVMXJ+cbzRA6ItRZ0BLUi2CVx22LDBV6v5THoerPJAIrahZGCU7kP4p9prtDMqo0Xjia+l7KCu8npLkHZzNAUIXFr/skDg6aFR6S8mrZBPs21+QpRrflY/Z1xkof/+nBnqIdgHognnb86TSYtw/GzlyHesEUIjCMsKvZz1PEh+gM7oqwU4AAD+e5AONxolPRjmnGq4kqRA+VaECmaVO+vQN4=;RIrEDFGJeorABE9uIKHEtQ=="
+secured: "vxWKK9uPd5OlHsxOeF+i9ELGWnfyXs84hxoGgC+dXmTWuK6Yp+XC2wf/VfgX6z5XpiWQ7MljGrvVgDssn8ubZTnv7vaYSIQvzhGW4Na14yOUwXt4+HbovmSyVfkpgW1fEY5jGGTM7G3yIBgaa7waAv11wFh5DKXApUYn8L6XxLUVL2gBXG8MQJPWA6r0FfUuQV7yh1XXECQyBBeAnnCxP+8SvPuVgtnt3XEcU3YftWsOr6To/LvPZkttO+KnqaW4h46/ehKOx5KcF8Xe4xti0NX8nS1IfWW9ipSyocdsFnCfXvcwrjVwc8I1qvafXAawf/Ei06uHB9JEwcemvU8/8hX2gGbqGtguSmsjdFkkM/sIYRAFrcMUTAEG/ljB0zdG6Wg/hy4IFX/SND7l6BkVlUZUSwnks+Uj89HqM4gcbnROIQ6u11TSsTnPk9P6X91NqnU6yk1fy+HryH1s7q4WRclhx3YmbfpU0R5NI8jD3TtNLjsDBoZkJpQmA++W52RxJsEJxicG4t0Vtkh/Fxlsmw==;m4oRDDkpf/CDz9h0ikpSQw=="
 ---
 

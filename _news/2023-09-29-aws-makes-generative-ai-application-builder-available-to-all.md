@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mistral AI 's New Generative AI Result Of Ex-Meta Platforms, Google Employees Collaboration"
-    excerpt: "Paris-based startup company, Mistral AI introduces its first GenAI model for various applications that can operate with English and code. The new launch is seen racing ahead of the available ..."
-    publishedDateTime: 2023-09-29T01:02:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/09/34984845/mistral-ai-s-new-generative-ai-result-of-ex-meta-platforms-google-employees-collaboration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/34984845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34984845"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "BrainChip Makes Second-Generation Akida Platform Available to Advance State of Edge AI Solutions"
     excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced the Early Access availability of its second-generation Akida™ IP solution for use in a wide range of applications across the Smart Home,"
     publishedDateTime: 2023-10-03T14:01:00Z

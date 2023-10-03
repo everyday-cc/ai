@@ -54,20 +54,6 @@ related:
         width: 835
         height: 468
         isCached: true
-  - title: "AI startup Cohere takes on OpenAI with new Chat API and Coral demo chatbot"
-    excerpt: "Cohere said one of the main advantages of its new Chat API is its Retrieval-Augmented Generation or RAG capability. This gives developers a way to control which data sources the chatbot uses when responding to specific prompts. It means they have a simple way to restrict their chat applications to use only the data they supply to it."
-    publishedDateTime: 2023-09-29T00:57:00Z
-    webUrl: "https://siliconangle.com/2023/09/28/ai-startup-cohere-takes-openai-new-chat-api-coral-demo-chatbot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/image_2023-09-29_072513483.png"
-        width: 708
-        height: 463
-        isCached: true
 
 secured: "OWiomIfnCp2OSNT6q5alXZN5KsfbQMIjQXmgvMt0J1Ec6EyM4hvNSHABjUixt0rrteQ5v45IdoKwABxsyChE3UPmWZqw+4ngBO/7UGgQsOnf21XA17CwX4XIHH/me/0m0qicmObjlt6ihqDKKvHYErekt9xyAaN1InPwFSki4pJ2Lhv3f3a+nLg0+0htnc281B2CkFiWtu3BwL0ZBsbbfWfPYLxN+npGhWuo3skcydj4qh7bgJuPzzbJQ2QG11PiUEg5O8TPjeGn0KHTXckMFRBQSvO+0zV6lRMleUr5cqjuH2OvAFhD15YzCWQbABLAAFblMMHJwzVkLQrRPWr+ZibV0EPUjc7iMGMhg+XfWVo4VEf/g2i2n523ENk2RTh4VTXgAqDcahT74yUCck5a7G1zMeAbX/iaXhsp3uLuueLexc2DtNSmS8yZ+yUk0K9AgEVsPS4HvOgou7azoMFICxnU+5Dhkpx7Tl3L+soAD6c5ZV9LyuSGLBBPq0fMS+gGh7SsAH6ADv9O2hW+J8tz7g==;aY7iuVELzQORRHCX8mUqCQ=="
 ---

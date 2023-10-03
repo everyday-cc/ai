@@ -30,7 +30,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-tech-3.jpg"
         width: 1000

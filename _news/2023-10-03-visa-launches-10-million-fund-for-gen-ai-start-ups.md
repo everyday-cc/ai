@@ -49,20 +49,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Generative AI cybersecurity startup Nexusflow raises $10.6M"
-    excerpt: "Generative artificial intelligence cybersecurity startup Nexusflow.ai Inc. today announced that it has raised $10.6 million in new funding in a round led by Point72 Ventures LP, with Fusion Fund LLC and a number of individual investors also participating."
-    publishedDateTime: 2023-09-29T00:07:00Z
-    webUrl: "https://siliconangle.com/2023/09/28/generative-ai-cybersecurity-startup-nexusflow-raises-10-6m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/nexusflow.jpg"
-        width: 5291
-        height: 4000
-        isCached: true
 
 secured: "yMlYumLAvtlq/40FNdE1I7kCWXriSuXPf45CydMNpYRiFYDqO5PTpcE5So4utesGDNh3SDRap9zRvtqZxseG7aEMMGl2PIJ9lcxcT/9h0/54aAwOZQROdB+NAsWEtH63855tkU/y7gEqbMTMExLt/dcrlDYVp7eylyn85ckMWSE6Al7NZ9OmYfaQSKVHaJi5Oj6wg0JwawBcDbMfz0ajjXO48Y0GarpnhRXMBoXL9OFmYsQ169dUc2/3z/ME+44Q4IwbGNGgdHNI7oTXOoUlAH0n7HSsxY1i3O+Avq3elIyYpAVfU+V94o/SJ+z4GLK+3Aqmzl7i5vmrMSJ86IAZ9N79HAq7+hH3opJoTmA4cCg=;yL7SQ0SpYXL4e8OrUQVUXA=="
 ---

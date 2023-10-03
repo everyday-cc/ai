@@ -39,6 +39,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "HalderBay Highlights Spotifys AI-Powered Podcast Translation That is Set to Break Language Barriers for Global Audience"
+    excerpt: "SummarySpotify (SPOT) pioneers AI-driven podcast translation for a more inclusive global audience while navigating financial challenges amid its podcasting expansion and showcasing strong stock performance."
+    publishedDateTime: 2023-10-03T15:51:00Z
+    webUrl: "https://www.benzinga.com/content/35067767/halderbay-highlights-spotifys-ai-powered-podcast-translation-that-is-set-to-break-language-barriers"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "3gNvMGxVXVY5HBjEQiPvaAQ8842o0DYTJg+CGLlGw0RpzamzhLa9vSdV6Pi2VrS4NAsFry3qQQc/AP2WuGbF9c7EXfVKZKwwplWX8hifzGA5h981uzJrGa0fDU7Dk7DCGowfhQAZZK7g20p5K8H8AO73kT+RAKZWn93I5CbBqGMaj6qXHcEShYwvhuxeD5m3Aax3OhxUf8xoM//qMLuXdVMfNROIo6O2aSLw7OIBx4Ubz+26bSq0c1j55l3YaOtehCJcPu0a30+Ei7zMoL2w0BB3g3XgUML2+8DoLYFZVhiv0SDhH8kTATnHrM/eUd3fMS2jaBp/sjD546NTO+TX/077fJIQxH+bUr4IFRQuXpA=;mGlUaMiQ/tBLenWLZRav/g=="
 ---
