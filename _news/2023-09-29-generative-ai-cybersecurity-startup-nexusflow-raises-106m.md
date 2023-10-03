@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
+    publishedDateTime: 2023-10-02T22:43:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "szy5YS2DND3mJDOjWEHp6a0cCVzVxjmUf9Rz5UY1lAREhU11y9JK7nBNec7mAF4nDjdXzu2eH8MJpoKQOU0Td3Uh26Z/zy0I8M+/3HRdxXQt9CYUvqYytTxwAwABQXCSvRq6Xk5L7YF7VDTldlpDlQF1WH5FdqZQaCE266tdY8GiHnt2uVtTT+XBX1PmQZ+td9QKLuohkoxB8LyL5t3NJyuRJVkd0CPW+//N8hVZyGqOgM4FgKDh0qduqG20SPoHGjvy2C9cBhtq7KaS93Aj4gvfuHRy0apd08EknfSTDjjlO9Dt2TMoBqDXjlm4W1ZWbFbtDI+bBjsfnBg9bdeFDglEdp5DqX8gGCw0A5N4D8A=;9Q+VLUh3mA2pG5qdXFBtlw=="
 ---

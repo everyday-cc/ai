@@ -43,6 +43,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "NY bans facial recognition in schools after report finds risks ‘may outweigh benefits'"
+    excerpt: "New York state banned the use of facial recognition technology in schools Wednesday, following a report that concluded the risks to student privacy and civil rights outweigh potential security ..."
+    publishedDateTime: 2023-09-29T01:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 51
+    images:
+      - url: "https://media.nbcnewyork.com/2023/09/GettyImages-1310967692.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New York bans the use of facial recognition technology in schools"
     excerpt: "Commissioner of Education of the State of New York Betty Rosa banned the use of facial recognition technology (FRT) in New York schools on Wednesday after a state report found that student privacy risks outweighed the potential security benefits."
     publishedDateTime: 2023-09-28T10:28:00Z

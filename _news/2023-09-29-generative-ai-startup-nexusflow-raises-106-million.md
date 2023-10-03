@@ -9,8 +9,8 @@ ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: SecurityWeek
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
+    publishedDateTime: 2023-10-02T22:43:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Generative AI cybersecurity startup Nexusflow raises $10.6M"
     excerpt: "Generative artificial intelligence cybersecurity startup Nexusflow.ai Inc. today announced that it has raised $10.6 million in new funding in a round led by Point72 Ventures LP, with Fusion Fund LLC and a number of individual investors also participating."
     publishedDateTime: 2023-09-29T00:07:00Z

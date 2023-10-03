@@ -54,6 +54,20 @@ related:
         width: 835
         height: 468
         isCached: true
+  - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
+    excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
+    publishedDateTime: 2023-10-02T10:45:00Z
+    webUrl: "https://www.thedailybeast.com/the-alarming-way-microsoft-and-openai-want-to-power-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "KoXmH1JTVtOtyPHNaLouE6fbeWAsBVIB5AQ2TZqA0e0aLm0pHTcoDjoGK12dLecdlCtxG9f0J/3MTI3eYaje7R/wAfUgMoVuyTvwbV87ETu36mE/LDNV50pBuHTTouMP5e+DeFgIejM36fNEmTLwKYDHrFFkKJha7045DvoRr+fh9+o2wlczPPJ4GLiKWJy65OfzAvbDIuhqgiuYu0IGb451tXbfo+Lg4c6A+/4clgad8u1KuzKYVc4Khu+w2MFXeXML85qtuvOzmfqaZdX8FguWaKqWFc5SmH/9wufmuthNGeQV6Z8h/YfQ3i+1F5Xe8S7bs9FMs7EidW/jGWE+QbS1D7TvXMcvF8ybD4Sd3WOEB0rXca+2dVOsNgrv01UIlIOpm3XXWrEJMVkYO8M+3NPTuFwlQ2DmvwoXcdIG5QX2h4HZUpMpWJJcZvYvbm0nevzbzXGehGZ25kr7FAtBIM6v50JruBZrQkaz2y6Rfk6wdEKCH2+J1fk4lVaSHtTmw69Vr+fzyWJskxgZFSeT3w==;E+SARnX7e5+GENFLUJ2/Fw=="
 ---

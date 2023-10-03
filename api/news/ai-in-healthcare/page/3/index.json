@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-28-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
+      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
+      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
       "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
       "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
@@ -1317,50 +1361,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
-      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
-      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
-      "publishedDateTime": "2023-08-09T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

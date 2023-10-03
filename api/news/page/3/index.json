@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-28-head-of-ai-and-similar-leadership-roles-are-here-to-stay-says-deloitte-ai-ethicist.md",
+      "title": "Head of AI and Similar Leadership Roles are Here to Stay, says Deloitte AI Ethicist",
+      "excerpt": "Does your business need a head of AI? Deloitte’s AI ethicist Beena Ammanath says the role is crucial. Learn more in our Q&A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-interview-ai-leadership/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-interview-ai-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-10-top-artificial-intelligence-certifications-2023.md",
+      "title": "10 Top Artificial Intelligence Certifications 2023",
+      "excerpt": "It is best for Artificial Intelligence, Machine Learning, or Deep Learning enthusiasts ... Each course may have individual prerequisites. Azure AI Engineer Associate is a certification offered by Microsoft that validates an individual’s skills in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/09/tr_09262023-ai-certifications.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
+      "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
+      "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307592-1695838100881-gettyimages-1704491000-_jhb3989_pt5jwnsd.jpeg?v=1695847852",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "publishedDateTime": "2023-09-27T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
       "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
       "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
@@ -945,135 +1103,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-for-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft for generative AI",
-      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103977486,imgsize-66594,width-1200,height=765,overlay-etcio/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-hands-to-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft Join Hands To Democratize Industry-Wide Adoption of Generative AI",
-      "excerpt": "Indian IT major Infosys has announced that it is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topa",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "originalUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFFLsiJOlqlptOI48CVvv-0OczpUnQhYpn0WZHLfAqik3sppqZy3_VWIbPmHOr8GZMR9VtTBBzbfCaEYXsG6uAI-F7YzTV5leJ1aSlWAY2moHi45p6DPFRrl4qlR1uZD8oKnnuZKp-p2Cu4Uvjet2m_GRpJwnfQdUpC2_DqemjLzNNNH_xb0m_w4bmXYs/s16000/infosys_microsoft.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
-      "title": "$45 million granted to NU cancer therapy device project",
-      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
-          "width": 2001,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

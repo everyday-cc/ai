@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

@@ -2,6 +2,325 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-08-08-nvidia-stock-is-still-a-top-pick-at-bank-of-america-even-after-its-stunning-ai-driven-209-rally.md",
+      "title": "Nvidia stock is still a 'top pick' at Bank of America even after its stunning AI-driven 209% rally",
+      "excerpt": "\"Demand isn't the issue, its supply and importantly the pace with which US cloud service providers are able to set up genAI compute instances.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60747ea52cc1ef0018da1405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-still-top-pick-2q-earnings-ai-rally-bofa-2023-8?amp",
+      "publishedDateTime": "2023-08-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-ai-industrial-robotics-cis.md",
+      "title": "AI Industrial Robotics - CIS",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$58m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.56%, resulting in a market volume of US$142m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/cis",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/cis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-ai-service-robotics-cis.md",
+      "title": "AI Service Robotics - CIS",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.45%, resulting in a market volume of US$121m by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/cis",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/cis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups.md",
+      "title": "IRCAI, AWS Launch 'Compute for Climate Fellowship' To Fund Climate Tech Start-Ups",
+      "excerpt": "It will select start-ups with ideas to tackle climate change and fully fund the building of their proofs of concept",
+      "sourceUrl": null,
+      "webUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
+      "originalUrl": "https://startup.outlookindia.com/sector/saas/ircai-aws-launch-compute-for-climate-fellowship-to-fund-climate-tech-start-ups-news-9060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1691427710.jpg?utm_source=fb",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "startup.outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-ai-language-models-are-rife-with-political-biases.md",
+      "title": "AI language models are rife with political biases",
+      "excerpt": "If you ask an AI you might get wildly different answers depending on which one you ask. While OpenAI’s older GPT-2 and GPT-3 Ada models would advance the former statement, GPT-3 Da Vinci, the company’s more capable model,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
+      "originalUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/Screenshot-2023-08-07-at-17.46.14.png",
+          "width": 656,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/07/1077324/ai-language-models-are-rife-with-political-biases/amp/",
+      "publishedDateTime": "2023-08-07T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company.md",
+      "title": "AWS performs fine-tuning on a Large Language Model (LLM) to classify toxic speech for a large gaming company",
+      "excerpt": "The video gaming industry has an estimated user base of over 3 billion worldwide1. It consists of massive amounts of players virtually interacting with each other every single day. Unfortunately, as in the real world, not all players communicate appropriately and respectfully. In an effort to create",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-performs-fine-tuning-on-a-large-language-model-llm-to-classify-toxic-speech-for-a-large-gaming-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/07/fine-tuning-llm-toxic-speech.jpg",
+          "width": 911,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T09:19:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-07-scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability.md",
+      "title": "Scale generative AI with new Azure AI infrastructure advancements and availability",
+      "excerpt": "We are excited to share a series of announcements that highlight Microsoft Azure’s commitment to driving innovation and empowering businesses with cutting-edge AI solutions.\nThe post Scale generative AI with new Azure AI infrastructure advancements and availability appeared first on Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/scale-generative-ai-with-new-azure-ai-infrastructure-advancements-and-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-must-see-robotics-developers-create-massive-robo-boxer-using-1-to-1-human-controlled-movement.md",
       "title": "Must See! Robotics Developers Create Massive Robo-Boxer Using 1-To-1 Human Controlled Movement",
       "excerpt": "You've probably heard of battlebots, but this is something completely next level. This is the human controlled boxing robot being developed by Chinese tech firm Qibo Robot Company. Buzz60’s Tony",
@@ -800,309 +1119,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-beijings-tougher-regulations-thwart-big-techs-electric-vehicle-dreams.md",
-      "title": "Beijing’s tougher regulations thwart Big Tech’s electric vehicle dreams",
-      "excerpt": "Red tape is frustrating the efforts of Big Tech in China to launch electric vehicles, with car rollouts from search giant Baidu, smartphone maker Xiaomi and ride-hailing group Didi all being stalled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
-      "originalUrl": "https://www.ft.com/content/29d20e6c-29d0-4603-abeb-caf55f5dd9c3?sharetype=gift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction.md",
-      "title": "How can Multimodal Machine Learning ensure positive digital yield extraction",
-      "excerpt": "Artificial intelligence (AI) induced digital revolution seems to be ascertaining how futuristic global technological progress will happen. With machine learning (ML) models considered important for it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "publishedDateTime": "2023-08-06T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-ai-in-education-leads-to-warnings-on-ethics-and-efficacy.md",
-      "title": "How AI in Education Leads to Warnings on Ethics and Efficacy",
-      "excerpt": "Artificial intelligence (AI) is making its way into San Francisco classrooms to address pandemic-induced learning loss. However, the adoption of AI in education has sparked heated debates over its ethics and effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/",
-      "originalUrl": "https://www.cryptopolitan.com/how-ai-in-education-warning-ethics-efficacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/08/msg-842804339-1602.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-exclusive-dhs-used-clearview-ai-facial-recognition-in-thousands-of-child-exploitation-cold-cases.md",
-      "title": "Exclusive: DHS Used Clearview AI Facial Recognition In Thousands Of Child Exploitation Cold Cases",
-      "excerpt": "Clearview facial recognition is at the center of the task force's work. DHS is using facial recognition and AI to find child abusers and rescue victims in a major new operation underway to solve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2023/08/07/dhs-ai-facial-recognition-solving-child-exploitation-cold-cases/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2023/08/07/dhs-ai-facial-recognition-solving-child-exploitation-cold-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d140b357a10c6eba65f247/0x0.jpg?format=jpg&crop=567,378,x0,y45,safe&width=1200",
-          "width": 567,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-salesforce-einstein-studio-to-help-enterprises-train-generative-ai-models.md",
-      "title": "Salesforce Einstein Studio to help enterprises train generative AI models",
-      "excerpt": "Einstein Studio can also help enterprises connect their data from Salesforce Data Cloud to third-party AI offerings including Amazon SageMaker and Google’s Vertex AI for model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/708253/salesforce-einstein-studio-help-enterprises-train-generative-ai-models/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation.md",
-      "title": "National youth robotics competition aims to empower and inspire next generation",
-      "excerpt": "A new to Windsor national robotics competition for youth took place this weekend at the University of Windsor.",
-      "sourceUrl": null,
-      "webUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "originalUrl": "https://windsor.ctvnews.ca/national-youth-robotics-competition-aims-to-empower-and-inspire-next-generation-1.6509188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/6/2740875/_jcr_content/renditions/videothumbnail.1691358876188.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/windsor/2023/8/6/1_6509188.amp.html",
-      "publishedDateTime": "2023-08-06T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-dell-technologies-nvidia-collaborate-on-full-stack-generative-ai-solutions.md",
-      "title": "Dell Technologies & NVIDIA Collaborate On Full-Stack Generative AI Solutions",
-      "excerpt": "Dell and NVIDIA announced new validated designs for inference systems based on NVIDIA GPUs and software, a services offering, and a new Dell Precision AI workstation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d00bf4e0b0b9ba04775ac7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/06/dell-technologies--nvidia-collaborate-on-full-stack-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-08-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

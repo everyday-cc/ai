@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-figh
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_wildlife_photography_underwater_photography_a_biolumini_b7960d94-0386-4a2e-aa9f-20b49860c25c.png?w=1200&strip=all"
         width: 835
         height: 468
+        isCached: true
+  - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
+    excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
+    publishedDateTime: 2023-10-02T10:45:00Z
+    webUrl: "https://www.thedailybeast.com/the-alarming-way-microsoft-and-openai-want-to-power-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI startup Cohere takes on OpenAI with new Chat API and Coral demo chatbot"
     excerpt: "Cohere said one of the main advantages of its new Chat API is its Retrieval-Augmented Generation or RAG capability. This gives developers a way to control which data sources the chatbot uses when responding to specific prompts. It means they have a simple way to restrict their chat applications to use only the data they supply to it."

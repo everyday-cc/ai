@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna118058"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058"
 type: article
 quality: 72
-heat: 83
+heat: 84
 published: true
 
 provider:

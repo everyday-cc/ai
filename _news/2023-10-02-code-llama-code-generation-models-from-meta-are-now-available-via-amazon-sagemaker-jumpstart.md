@@ -53,7 +53,7 @@ related:
       domain: tradearabia.com
     quality: 54
     images:
-      - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:00:47am"
+      - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?03:00:41am"
         width: 680
         height: 450
         isCached: true

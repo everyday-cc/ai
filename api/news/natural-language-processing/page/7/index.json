@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-29-intel-ceo-get-ready-for-the-ai-pc.md",
+      "title": "Intel CEO: Get Ready for the 'AI PC'",
+      "excerpt": "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ...",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
+      "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-lg-v30-closer-look-security-features-including-facial-and-voice-recognition.md",
       "title": "LG V30 closer look: Security features, including facial and voice recognition",
       "excerpt": "The voice recognition feature is pretty cool, and like the others, it works quite well. Once you turn it on though, you'll be greeted with a message about how it's not quite secure, as someone ...",

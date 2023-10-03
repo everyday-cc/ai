@@ -72,15 +72,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Meta introduces new AI tech to Facebook, Instagram and WhatsApp"
-    excerpt: "73 per cent use Facebook, 63 per cent use Messenger, 56 per cent use Instagram and 35 per cent use WhatsApp, according to research by Meltwater. The new assistant Meta AI will be the first time ..."
-    publishedDateTime: 2023-09-28T06:35:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/meta-introduces-new-ai-tech-to-facebook-instagram-and-whatsapp/news-story/e2649522f53b5f4375fc579e13b491ee"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
 
 secured: "UPFwmbz7IvsZu7+tKROB5/SY0vQkzmo7olehNqUdElQ7VXPobSbEdksIT1jbMl5/bkm4e/sOTIWM14gOe2veB8nusFjbZKkKgsVUZN3DPa1PwYm25boeMpnzB5EnTASVQ9EJ+hdL1WRVP14KK3NO9EYCOw9vjSWy4UBoq/ymUoDgfH5KOYzJC6UqQ/9FSzMJ0GjxhAHgMUe9M1yMgW+kjs8S3S8lIA5JWuImHlKHyRKBuCFwMAWZDUs2T8BHxGHrQSBrYhQZcxvGOCa1khTsfruKnxRa6d4r72rInZhMUadd6FWhJwA1Hmt5mo5j7o/5NFoM/osZS02ECDk24pc79SwQ17ZguEzrfKR2untEuC0=;jyhy+z2d11qttuaRoxfc1g=="
 ---

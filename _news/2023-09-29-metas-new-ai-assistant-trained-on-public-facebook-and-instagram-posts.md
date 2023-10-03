@@ -64,15 +64,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Meta introduces new AI tech to Facebook, Instagram and WhatsApp"
-    excerpt: "73 per cent use Facebook, 63 per cent use Messenger, 56 per cent use Instagram and 35 per cent use WhatsApp, according to research by Meltwater. The new assistant Meta AI will be the first time ..."
-    publishedDateTime: 2023-09-28T06:35:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/meta-introduces-new-ai-tech-to-facebook-instagram-and-whatsapp/news-story/e2649522f53b5f4375fc579e13b491ee"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
   - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
     excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. “We think it is, but ..."
     publishedDateTime: 2023-09-29T20:29:00Z
@@ -83,6 +74,6 @@ related:
       domain: straitstimes.com
     quality: 19
 
-secured: "IYxfr6nPs32M40unY88pc9/p4B3qY07jHV2EEUDy1drVaUqJr8pvNDoI2GlpLeg/z1LXoYdXpvwehYHyM/Zp0nYvz4PnmGFWY5AMljzNFUbx60UR7iNhvnJnL6z+2dcFxkggosa5gZsSPL/E2K+iLjBRGYGISNyfqVS06bTtYW4T1Z2qTEjYu4RaQOupvQvnNciID1s7HjrhWyPJNERnaY5P4q1B7VKP3E+ISVqdy905OznCRqX7I5H4rgYAfujHXh/PKrO49n5To8O1ra+BRbOlL7w3QxjFAsTYH4w7abh6kgsnp07TJbErczAermqBobuWV3Zad9k/3c00VgYFGijJbrbxA/i1HHaCu9q/Mtc=;sXZXoBoGUvSlEGTkV2JE8Q=="
+secured: "XCB1FlFxBXy4ghfBgigE1pb3601hPk9OYSMoBLO2w1c30hp9dgchpoNglwmEHRikr+FT/P2+4C1Cdce9ts/q85Jhy7Cvpg/1e22x1G31VuBzT0NkaUf0SGIDRZTNnpVGsmp3vulp+CNCOo8bGIHXalxx6YE/TPU3wEGMO/d4fRKrluWmjTgmR+znpiNRyEi4o2Mr2eeF2FP5GvzX2Upm+xEtskx7aDxpLTy9b0TqbP4o79fejnAcny5GrhPkJv+AzJ5ffzESao7uuLKjs++3kw1thYd8vzMknFNVlYGL2g041UmeuENjh3YYVzLMc3MupYJWJR75K4aPOcxajWzIuNfZfdiuwk/pmHTyuOgilbY=;fIuIX7rgszC93A1aQO3TMg=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -109,6 +109,49 @@
       "provider": {
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased.md",
+      "title": "The Download: Europe vs Chinese EVs, and making AI vision less biased",
+      "excerpt": "Two new papers by researchers at Sony and Meta propose new ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Developers could use these tools to check the diversity of their data sets, helping lead to better, more diverse training data for AI. Read the full story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
+      "originalUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/VEDE0Q5PNefmgBvZ1rolKzsC2tATAsJRne3m8fJSGfCvztlFQPNYRPBaEypIv2Uz3iL12csg1QcthQTZL3tjPgwlUlZ3REOGuc3VOe9QDv5g_Xpk_-BSr1_Hfq1hBMlwd6Cm_I6e6tPkIODHwK1wiws",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
+      "publishedDateTime": "2023-09-26T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1223,59 +1266,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-the-role-of-robotics-in-ensuring-workplace-safety-and-productivity-in-warehouses.md",
-      "title": "The Role Of Robotics In Ensuring Workplace Safety And Productivity In Warehouses",
-      "excerpt": "As we stand on the brink of this transformative era, the question is not whether to adopt but how swiftly you can lead the change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-role-of-robotics-in-ensuring-workplace-safety-and-productivity-in-warehouses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-role-of-robotics-in-ensuring-workplace-safety-and-productivity-in-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6481ecce77812adc1e30c0ae/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/the-role-of-robotics-in-ensuring-workplace-safety-and-productivity-in-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/the-role-of-robotics-in-ensuring-workplace-safety-and-productivity-in-warehouses/amp/",
-      "publishedDateTime": "2023-09-15T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,189 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-26-a-primer-on-artificial-intelligence-and-cybersecurity.md",
+      "title": "A Primer On Artificial Intelligence And Cybersecurity",
+      "excerpt": "Digital generated image of artificial intelligence robot touching projected screens with data ... [+] against black background. The topic of artificial intelligence's rising involvement in our digital world and its associated opportunities and challenges ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65136c483c1ec607ff1b2d66/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-how-big-tech-got-so-big-hundreds-of-acquisitions.md",
+      "title": "How Big Tech got so big: Hundreds of acquisitions",
+      "excerpt": "You probably arrived from a link posted on Apple News, Google News or a social media site like Facebook ... companies to assist workers and artificial intelligence to grow the capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GB7PIRMTBHT5IE4O4NHSLGCPU.jpg&w=1200",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
+      "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
+      "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2222547/Figure_2_Results_verifying_rain_fog_removal_algorithm_developed_study.jpg",
+          "width": 400,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-computer-visions-next-breakthrough.md",
+      "title": "Computer vision's next breakthrough",
+      "excerpt": "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition, image segmentation, and object detection. Pioneering work on facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
+      "originalUrl": "https://www.reseller.co.nz/article/708899/computer-vision-next-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/computer_1.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars.md",
       "title": "Navigating the Evolving Landscape of Robotics, AI and Self-Driving Cars",
       "excerpt": "What’s happening in robotics, artificial intelligence and autonomous navigation? In this session at TechCrunch Disrupt 2023, experts provided context and insights on a variety of fronts, including pure-play L4 and ADAS-first approaches for self-driving cars.",
@@ -189,6 +372,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-indxx-licenses-robotics-and-ai-themed-investment-vehicle-for-korean-etf.md",
+      "title": "Indxx Licenses Robotics And AI Themed Investment Vehicle For Korean ETF",
+      "excerpt": "Indxx has gained the licensing of its Indxx Global Robotics & Artificial Intelligence Thematic Index Methodology to Mirae Asset Global Investments as the underlying benchmark for the TIGER Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
+      "originalUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-09/25/R&AN_d0f49image_story.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -832,221 +1058,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-takes-a-big-stake-in-the-ai-start-up-anthropic.md",
-      "title": "Amazon Takes a Big Stake in the A.I. Start-Up Anthropic",
-      "excerpt": "With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google. By Adam Satariano and Cade Metz Adam ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times.md",
-      "title": "Everything to Know About Artificial Intelligence, or AI – The New York Times",
-      "excerpt": "A.I. NewsletterPart 1 of our weeklong series.By Kevin Roose and Cade MetzKevin and Cade have covered A.I. for many years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-10656.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-funding-wrap-tens-of-millions-raised-for-cybersecurity-ai-robots-in-hospitals.md",
-      "title": "Funding wrap: Tens of millions raised for cybersecurity AI, robots in hospitals",
-      "excerpt": "Check out who has fresh cash in Austin — these kinds of deals often precede hiring and other kinds of expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial-assets.md",
-      "title": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets",
-      "excerpt": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing. (Graphic: Business Wire) EOT is working with AWS to transform how industrial customers unlock,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/6/9d/69dc2d8d-5f00-5b28-87ff-72f3105cacc7/65117806aae56.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, Louisiana, for his ordeal. “I was confused and I was angry because I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
-      "originalUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/_5Zzky3AcJVkwXK-Wy36JFIKiXQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/N4YQ24VK7ZEV3OVDP4IY5AVADM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wctv-tv.cdn.ampproject.org/c/s/www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
-      "publishedDateTime": "2023-09-25T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCTV",
-        "domain": "wctv.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

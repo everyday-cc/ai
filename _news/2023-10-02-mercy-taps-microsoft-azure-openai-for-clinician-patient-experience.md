@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Infosys collaborates with Microsoft for generative AI"
-    excerpt: "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses."
-    publishedDateTime: 2023-09-28T06:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834"
+  - title: "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA"
+    excerpt: "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked."
+    publishedDateTime: 2023-10-02T19:58:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 106
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg"
-        width: 1200
-        height: 765
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
     excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"

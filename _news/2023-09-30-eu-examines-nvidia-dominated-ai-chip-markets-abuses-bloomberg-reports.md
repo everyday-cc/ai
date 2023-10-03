@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-int
 webUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Prices for Nvidia generative AI chips soar in Japan"
+    excerpt: "Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance,"
+    publishedDateTime: 2023-10-02T21:46:00Z
+    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
         isCached: true
   - title: "EU examines Nvidia-dominated AI chip market's alleged abuses- Bloomberg News"
     excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."

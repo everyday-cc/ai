@@ -2,6 +2,342 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-14-navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs.md",
+      "title": "Navigating The Impacts Of Generative Artificial Intelligence (“AI”) On Compliance Programs",
+      "excerpt": "Companies large and small are looking to expand and scale their AI capabilities to better serve clients and increase operational efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/",
+      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65026369ff13951fe79fe77b/0x0.jpg?format=jpg&crop=4409,2480,x0,y281,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2023/09/14/navigating-the-impacts-of-generative-artificial-intelligence-ai-on-compliance-programs/amp/",
+      "publishedDateTime": "2023-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-nauticus-robotics-announces-offshore-service-agreement-with-shell.md",
+      "title": "Nauticus Robotics Announces Offshore Service Agreement with Shell",
+      "excerpt": "Continuous Successful Collaboration Evolves from the Development Stage to Commercial Offshore Service with a Potential Multi-Year Service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nauticus-robotics-announces-offshore-service-agreement-with-shell-1032630051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data.md",
+      "title": "The Next Generation Of Clinical Trials: AI And New Ways To Use Data",
+      "excerpt": "With the advent and widespread use of wearable technologies and the adoption of decentralized clinical trials (DCTs) generating millions of data points for trial organizers, there is immense scope for AI to be deployed to generate valuable insights from this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c16b7f73a49bc1d8964a41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/14/the-next-generation-of-clinical-trials-ai-and-new-ways-to-use-data/amp/",
+      "publishedDateTime": "2023-09-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-chatgpt-made-history-this-year-2-magnificent-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-through-the-boom.md",
+      "title": "ChatGPT Made History This Year: 2 Magnificent Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Through the Boom",
+      "excerpt": "Second, Alphabet has decades of artificial intelligence research under its belt ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/14/chatgpt-made-history-2-ai-growth-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/14/chatgpt-made-history-2-ai-growth-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747367/artificial-intelligence-12.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-beyond-text-and-images-how-generative-ai-enriches-analytics.md",
+      "title": "Beyond Text And Images: How Generative AI Enriches Analytics",
+      "excerpt": "Synthetic data isn’t exactly new: the concept has existed since the 1970s. But synthetic data capabilities have improved dramatically in recent years due to advances in AI and modeling. By 2024, Gartner has predicted that 60% of all data used for developing AI and analytics will be synthetically generated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d7457f3bc1dea938034ea8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/14/beyond-text-and-images-how-generative-ai-enriches-analytics/amp/",
+      "publishedDateTime": "2023-09-14T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-thailands-kbank-starts-100m-fund-targeting-ai-and-web3.md",
+      "title": "Thailand's KBank Starts $100M Fund Targeting AI and Web3",
+      "excerpt": "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/",
+      "originalUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/J4n2CZKpFIA_YB1uT9pyyAOfKd8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MT4473XFL5GDBHPET54LSUNLZU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp",
+      "publishedDateTime": "2023-09-14T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
+      "title": "AI language models need to shrink; here’s why smaller may be better",
+      "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
+      "originalUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
+      "publishedDateTime": "2023-09-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-artificial-intelligence-to-strengthen-indian-army-made-in-india-4-legged-robot-to-take-on-enemies.md",
       "title": "Artificial Intelligence To Strengthen Indian Army, Made-In India '4-Legged Robot' To Take On Enemies",
       "excerpt": "At the North Tech Symposium 2023 in Jammu, the Indian Army unveiled groundbreaking artificial intelligence advancements that are reshaping contemporary warfare strategies, and a Multi-utility Legged Equipment (MULE),",
@@ -842,360 +1178,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-businesses-need-pricing-clarity-as-generative-ai-services-hit-the-market.md",
-      "title": "Businesses need pricing clarity as generative AI services hit the market",
-      "excerpt": "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/",
-      "originalUrl": "https://www.zdnet.com/article/businesses-need-pricing-clarity-as-genai-services-hit-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d4ea5b28fdf0cd75bc8dd9f69f727fdabb9516ec/2023/09/13/d7a94305-a93c-4d75-aaa8-2a2a3a076a46/gettyimages-1295039478.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/businesses-need-pricing-clarity-as-genai-services-hit-market/",
-      "publishedDateTime": "2023-09-13T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight.md",
-      "title": "Visualize an Amazon Comprehend analysis with a word cloud in Amazon QuickSight",
-      "excerpt": "Searching for insights in a repository of free-form text documents can be like finding a needle in a haystack. A traditional approach might be to use word counting or other basic analysis to parse documents, but with the power of Amazon AI and machine learning (ML) tools, we can gather deeper understanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/visualize-an-amazon-comprehend-analysis-with-a-word-cloud-in-amazon-quicksight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/13/visualize-comprehend-wordcloud.jpg",
-          "width": 897,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T09:23:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ey-launches-ai-platform-and-llm-after-14-billion-investment.md",
-      "title": "EY launches AI platform and LLM after $1.4 billion investment",
-      "excerpt": "Today professional services leader EY announced the launch of EY.ai, a comprehensive platform to help clients boost AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
-      "originalUrl": "https://venturebeat.com/ai/ey-launches-ai-platform-and-llm-after-1-4-billion-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-13T115630.104.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-tech-ceos-descend-on-capitol-hill-for-closed-door-artificial-intelligence-meeting.md",
-      "title": "Tech CEOs Descend On Capitol Hill For Closed-Door Artificial Intelligence Meeting",
-      "excerpt": "The closed-door forum on Capitol Hill included almost two dozen tech executives, tech advocates, civil rights groups and labor leaders. The guest list featured some of the industry’s biggest names: Meta’s Mark Zuckerberg and X and Tesla’s Elon Musk as well as former Microsoft CEO Bill Gates. All 100 senators were invited; the public was not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
-      "originalUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6501db272400005e00477695.jpeg?cache=zgKAa7n3oH&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
-      "publishedDateTime": "2023-09-13T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace.md",
-      "title": "CYPHER Learning Modern Learning Platform Immediately Available in AWS Marketplace",
-      "excerpt": "Organizations can directly procure CYPHER Learning Modern Platform, including AI-powered CYPHER Copilot, in AWS Marketplace",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace/article_3a3010cd-d5e6-56b6-b796-755b4e637243.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace/article_3a3010cd-d5e6-56b6-b796-755b4e637243.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
-      "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
-      "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DataCommons_Hero_Image_02_TC_03_49.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-data-commons-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-data-commons-ai/amp/",
-      "publishedDateTime": "2023-09-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-adobes-firefly-ai-art-tools-go-live-but-with-a-credit-plan.md",
-      "title": "Adobe’s Firefly AI art tools go live, but with a credit plan",
-      "excerpt": "Adobe has brought its Firefly generative AI tool out of beta, but with a complicate credit plan that will charge you free \"credits\" that will top up every month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html",
-      "originalUrl": "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/09/Adobe-Firefly-home-page.png?w=1024",
-          "width": 1024,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
