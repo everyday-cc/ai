@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Tom Hanks disavows AI clone amid Hollywood's robot reckoning"
-excerpt: "\"Beware!\" Hanks wrote in an Instagram post this Sunday. \"There's a video out there promoting some dental plan with an AI version of me. I have nothing to do with"
-publishedDateTime: 2023-10-02T20:16:00Z
-originalUrl: "https://www.victoriaadvocate.com/news/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning/article_cae1329c-6165-11ee-b46c-cfedbce7d18b.html"
-webUrl: "https://www.victoriaadvocate.com/news/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning/article_cae1329c-6165-11ee-b46c-cfedbce7d18b.html"
+title: "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning"
+excerpt: "Performers have warned that AI “clones” – digital doubles that could give performances on a computer that no actor ever actually did – could prove disastrous for the profession. Additional concerns have centered on the use of pre-existing footage to train AI software, which relies on vast troves of prior data to generate new content."
+publishedDateTime: 2023-10-03T00:17:00Z
+originalUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-/"
+webUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/3a/73afaee4-6166-11ee-ab05-9f955e0fd33c/651b2efb0d244.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://thumb.spokesman.com/20XXDn7DYkwHouvlbZh7VIGqAMQ=/1200x630/smart/media.spokesman.com/photos/2023/10/02/651b50e499e78.hires.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1375
         isCached: true
 
-secured: "7PUNmvivUefYTclNsU4poEx3U2xjR++PZzJ0hhZXsGapC0UcS++ishqMRb8RsKK8dCg5R3AIOf9oXqUeO6C84bRKcEoWk9n+B0jelZrHpV1mljhoL3AoTGS0N6LL5ebC81mbWBuWVoJ/1Yd+ZTPq+ij1mu85PMatqDZ0fxO/k9geZR0vYRx/cTRD+PhBM4/4OvTDX9iF/p7GYSMk8T4nNlceyQj7tZoY79myC6YkoTDMprX6/D0j0biXJo85Q996jmjsyUhJN0Xul797JoWwL5XbSWdkx4tySh/IrvfsHMyjWxy8xIIpyBAfM+ME2tBGM+cx0PJm68yuUgcL80yF99QMRLTpqQHIAXEr8QR3VkU=;CUfXMPWhHA7kTEgowBKrsw=="
+secured: "wCCpNKDJogWlcpgSYp+76tbXdpOeA5O+oycyXnzbe7lIk+TM32IthyrxIavN39zBjYNx2BlITIsR8ooex2Qb5V/wpMQmWmd13gELLpxfprjy/lBuAs9qqOtaCd9//RElLBvO1Kj0BkWZdDUKu776poJc6a1hgdPTPqDslJlJn9Q3smvZgrvyk5yJiH3c/usbsR474ELwNEMC3kht/g6nvOiCt6vR0FgB2DG53wQeGt45zAvjusvVfrhXCrumwNdCStJXL8AFf2Libn7+UbfLr0EAa8Ti6fBeoCfGdyOfAgtP3joY0F3y/DSB/Edh0w+07nbqnSciQzFl0w/VYLb0VV/lwZbe7WlzgE1RBuo3zEU=;f7lYeLfZqK7fKnVtpcpEPA=="
 ---
 

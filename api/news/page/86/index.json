@@ -2,6 +2,325 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
+      "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
+      "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
+      "originalUrl": "https://www.benzinga.com/23/07/33475213/ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/16544.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33475213",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33475213",
+      "publishedDateTime": "2023-07-31T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-read-this-before-you-pick-your-favorite-artificial-intelligence-stocks.md",
+      "title": "Read This Before You Pick Your Favorite Artificial Intelligence Stocks",
+      "excerpt": "Investors have piled into some of the biggest tech stocks in the market, wagering that they will benefit from the artificial intelligence boom. That has sent shares, and valuations, of tech behemoths sharply higher this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-31-2023/card/read-this-before-you-pick-your-favorite-artificial-intelligence-stocks-YDcS2C0rg20vcZlkrMLT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-826694?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai.md",
+      "title": "Cathie Wood: The Investor Who Changed Wall Street Is Betting Big On Bitcoin And AI",
+      "excerpt": "Cathie Wood has a bold vision for the future as she navigates market fluctuations with confidence, betting big on emerging technologies like AI, blockchain, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c7bd32099775b16569db63/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolecasperson/2023/07/31/cathie-wood-the-investor-who-changed-wall-street-is-betting-big-on-bitcoin-and-ai/amp/",
+      "publishedDateTime": "2023-07-31T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-dobot-robotics-signs-letter-of-intent-with-venhub.md",
+      "title": "DoBot Robotics signs letter of intent with VenHub",
+      "excerpt": "DoBot Robotics has signed a Letter of Intent with VenHub, a company developing a modular retail platform built on expendable containers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "originalUrl": "https://www.therobotreport.com/dobot-robotics-signs-letter-of-intent-with-venhub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/dobot-collab-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-money-saving-fintech-snoop-acquired-by-vanquis-banking-group.md",
+      "title": "Money-Saving Fintech Snoop Acquired by Vanquis Banking Group",
+      "excerpt": "The Board of Vanquis Banking Group plc, a specialist bank, is pleased to announce the acquisition of the money-saving fintech Snoop Limited.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/UK-British-Pound-Money.jpg",
+          "width": 1280,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210844-money-saving-fintech-snoop-acquired-by-vanquis-banking-group/amp/",
+      "publishedDateTime": "2023-07-31T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa.md",
+      "title": "Flapmax Partners with Intel to Accelerate Artificial Intelligence (AI) Innovation in Africa",
+      "excerpt": "Flapmax ( a leading artificial intelligence (AI) company, announced today its strategic partnership with Intel, the global technology leader, to foster AI innovation and drive economic empowerment in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
+      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/files/large/4c4926520fbb131",
+          "width": 929,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/flapmax-partners-with-intel-to-accelerate-artificial-intelligence-ai-innovation-in-africa-j2uxngb4?amp=1",
+      "publishedDateTime": "2023-07-31T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-blocking-chinas-access-to-ai-chips-matters-to-us-national-security.md",
+      "title": "Blocking China’s Access to AI Chips Matters to U.S. National Security",
+      "excerpt": "Targeted semiconductor export controls are an appropriate step to address the threat of China’s military AI advancements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csis.org/analysis/blocking-chinas-access-ai-chips-matters-us-national-security",
+      "originalUrl": "https://www.csis.org/analysis/blocking-chinas-access-ai-chips-matters-us-national-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-07/AdobeStock_483004683_Crop1.jpg?VersionId=MtlVeWKwIL1PV1HeZWiNr8krCa1xEbCR",
+          "width": 4160,
+          "height": 2340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "csis.org",
+        "domain": "csis.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-can-generative-ai-save-journalism-actions-for-b2b-marketers.md",
       "title": "Can Generative AI Save Journalism – Actions For B2B Marketers",
       "excerpt": "GenAI has an almost insatiable appetite for ingesting source data in striving for breadth of topics that it can address as well as the natural language of prompts and",
@@ -886,351 +1205,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
-      "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
-      "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
-      "publishedDateTime": "2023-07-30T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-incheon-airport-introduces-smartpass-facial-recognition-system.md",
-      "title": "Incheon airport introduces Smartpass facial recognition system",
-      "excerpt": "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg",
-          "width": 980,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
-      "publishedDateTime": "2023-07-30T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-fragmented-truth-how-ai-is-distorting-and-challenging-our-reality.md",
-      "title": "Fragmented truth: How AI is distorting and challenging our reality",
-      "excerpt": "Truth and trust have been under attack for quite some time. Why developments in generative AI suggest the trend will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
-      "originalUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_fragmenting_into_smaller_pieces_456c801c-fa4c-4aa1-9c32-ecf46c7653ed.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-workers-at-risk-of-ai-radically-changing-their-jobs-arent-too-worried-about-it.md",
-      "title": "Workers at risk of AI radically changing their jobs aren't too worried about it",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Over 27 million Americans are in work where key activities involved in their job could \"be replaced or aided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
-      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c0278eed4f4600196381d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
-      "publishedDateTime": "2023-07-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
-      "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
-      "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
-          "width": 450,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/30/can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world/amp/",
-      "publishedDateTime": "2023-07-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-artificial-intelligence-the-airplane-of-the-brain.md",
-      "title": "Artificial intelligence, the airplane of the brain?",
-      "excerpt": "The macroeconomic impact of this technology can be significant, accelerating the innovative capacity of society",
-      "sourceUrl": null,
-      "webUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "originalUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.english.elpais.com/resizer/0q5qXMcy-sM7hl5Nwu7g0W0QvlU=/1200x0/filters:focal(1262x338:1272x348)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VLDX7LS4JRGWFHYN6XXC5HPQNM.jpg",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/opinion/2023-07-30/artificial-intelligence-the-airplane-of-the-brain.html?outputType=amp",
-      "publishedDateTime": "2023-07-30T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El País in English",
-        "domain": "elpais.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-30-how-artificial-intelligence-is-helping-hire-promote-and-train-workers.md",
-      "title": "How artificial intelligence is helping hire, promote and train workers",
-      "excerpt": "As artificial intelligence becomes more prevalent in business, HR departments are at the forefront of capitalizing on its potential. A majority of HR leaders are already using AI for a variety of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107274356-1689869031421-gettyimages-1204762097-p_ab_technology153.jpeg?v=1690643722",
-          "width": 2289,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/29/how-artificial-intelligence-is-helping-hire-promote-and-train-workers.html",
-      "publishedDateTime": "2023-07-30T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

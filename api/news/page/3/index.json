@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-28-chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.md",
+      "title": "Chip industry strains to meet AI-fueled demands — will smaller LLMs help?",
+      "excerpt": "Large language models are growing in size, as is the number of companies using generative AI technology. The more the models grow, the more CPUs they consume — exacerbating an already-strained chip supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
+      "originalUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/shutterstockim-imagery-100946402-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707412/chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.amp.html",
+      "publishedDateTime": "2023-09-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-infosys-collaborates-with-microsoft-for-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft for generative AI",
+      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "publishedDateTime": "2023-09-27T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
+      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
+      "sourceUrl": null,
+      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELO",
+        "domain": "kelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-head-of-ai-and-similar-leadership-roles-are-here-to-stay-says-deloitte-ai-ethicist.md",
       "title": "Head of AI and Similar Leadership Roles are Here to Stay, says Deloitte AI Ethicist",
       "excerpt": "Does your business need a head of AI? Deloitte’s AI ethicist Beena Ammanath says the role is crucial. Learn more in our Q&A.",
@@ -41,6 +170,83 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology. Randal Quran Reid filed a lawsuit this month against the Louisiana detective who sought his arrest warrant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/e3/de3c2dfc-01ed-5108-a610-b54e70237088/6512fb098d42d.preview.jpg?crop=1705%2C895%2C0%2C160&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-trends-in-ai-ethics-before-and-after-chatgpt.md",
+      "title": "Trends in AI ethics before and after ChatGPT",
+      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/business/article279840919.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/business/article279840919.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -103,7 +309,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -888,221 +1095,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis.md",
-      "title": "Convolutional Neural Network Accurate for Patients with Idiopathic Scoliosis",
-      "excerpt": "A recent study has found Cobb angles can be measured accurately using a convolutional neural network in patients with idiopathic",
-      "sourceUrl": null,
-      "webUrl": "https://www.emjreviews.com/innovations/news/convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis/",
-      "originalUrl": "https://www.emjreviews.com/innovations/news/convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emjreviews.com/wp-content/uploads/2023/09/Whats-New-2-1.jpg",
-          "width": 821,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emjreviews.com",
-        "domain": "emjreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption.md",
-      "title": "Prototype Chips Deliver AI Task Solutions With Minimal Power Consumption",
-      "excerpt": "A chip with 35M memory devices and 34 tiles attains 12.4 TOPS/W (tera-operations per second per watt ), showcasing software-equivalent accuracy for keyword spotting and near-equivalent accuracy for large neural networks across five chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "originalUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
-          "width": 370,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-forces-to-advance-generative-ai-across-industries.md",
-      "title": "Infosys and Microsoft Join Forces to Advance Generative AI Across Industries",
-      "excerpt": "Infosys & Microsoft forge a partnership advancing AI, unveiling potent solutions that ensure industry-wide innovation & robust business growth",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "originalUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign88-1695795120482.png?fm=png&auto=format",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption.md",
-      "title": "Bain & Company and Microsoft establish strategic partnership to help clients accelerate and scale AI adoption",
-      "excerpt": "BOSTON, Sept. 27, 2023 /PRNewswire/ -- Bain & Company today announced a partnership with Microsoft which will enable Bain's client businesses to build and deploy new artificial intelligence (AI) applications across their operations faster, more effectively, and at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions.md",
-      "title": "Infosys and Microsoft collaborate to bring enhanced AI-enabled solutions",
-      "excerpt": "Infosys announced that it is collaborating with Microsoft to jointly develop industry solutions that will leverage their respective artificial intelligence (AI) tools and services – Infosys Topaz and Microsoft’s Azure OpenAI Service and Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T104942.364.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions-3256009/lite/",
-      "publishedDateTime": "2023-09-26T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

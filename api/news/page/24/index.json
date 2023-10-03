@@ -2,6 +2,341 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-12-6-skills-writers-need-to-hone-amid-the-ai-boom.md",
+      "title": "6 Skills Writers Need To Hone Amid The AI Boom",
+      "excerpt": "While AI is an impressive generalist with a solid base of knowledge across many domains, these models can't easily acquaint themselves with the intricacies of specific workplaces and fields of research. The writers best positioned to thrive in the AI boom are writers with specialized, industry-specific knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6475f9b5e2fec92c8f569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
+      "publishedDateTime": "2023-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
+      "title": "An interactive platform that explains machine learning models to its users",
+      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
+          "width": 1280,
+          "height": 1239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday.md",
+      "title": "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday",
+      "excerpt": "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849947/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
+      "title": "How Machine Learning And AI Could Solve Drug Shortages",
+      "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff387d1989d006addcb9c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions.md",
+      "title": "Parle Products extends collaboration with IBM over cloud and AI solutions",
+      "excerpt": "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
+      "publishedDateTime": "2023-09-12T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-self-driving-truck-technology-market-analysis-report-2023-2030.md",
+      "title": "Self-Driving Truck Technology Market Analysis Report 2023-2030",
+      "excerpt": "The Global Self-Driving Truck Technology market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady rate and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34491300/self-driving-truck-technology-market-analysis-report-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34491300/self-driving-truck-technology-market-analysis-report-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34491300",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34491300",
+      "publishedDateTime": "2023-09-12T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-1-artificial-intelligence-ai-growth-stock-is-a-must-buy-for-most-investors-according-to-this-wall-street-analyst.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock Is a Must-Buy for Most Investors, According to This Wall Street Analyst",
+      "excerpt": "As a recognized leader in cloud computing and AI developer services, AWS is ideally positioned to benefit from the growing demand for generative AI. Straits Research says online retail sales will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747018/market-2.jpg",
+          "width": 2101,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-15-projects-using-ai-to-reach-the-uns-global-goals.md",
       "title": "15 projects using AI to reach the UN’s Global Goals",
       "excerpt": "Google.org is funding 15 projects that will use AI to make progress on the UN’s Sustainable Development Goals.",
@@ -848,341 +1183,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-5-ways-to-use-ai-and-machine-learning-in-dataops.md",
-      "title": "5 ways to use AI and machine learning in dataops",
-      "excerpt": "The tools for automating data pipelines are improving, and many leverage machine learning and artificial intelligence capabilities. AI and machine learning dataops techniques shift data operations from manual- and rule-based approaches toward intelligent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
-      "originalUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock_2299528137-100945614-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706090/5-ways-to-use-ai-and-machine-learning-in-dataops.amp.html",
-      "publishedDateTime": "2023-09-11T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-how-ai-agents-are-already-simulating-human-civilization.md",
-      "title": "How AI agents are already simulating human civilization",
-      "excerpt": "Each agent in the SmallVille environment is equipped with a memory stream, a comprehensive database that records the agent's experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/how-ai-agents-are-already-simulating-human-civilization/",
-      "originalUrl": "https://venturebeat.com/business/how-ai-agents-are-already-simulating-human-civilization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_isometric_a_diverse_collection_of_humanoid_robots_walks_084b21c7-b597-4b68-9c34-c06abcccbfc7.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
-      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
-      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
-      "publishedDateTime": "2023-09-11T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-investors-eye-mongodb-as-a-promising-ai-play.md",
-      "title": "Investors Eye MongoDB As A Promising AI Play",
-      "excerpt": "Customers are increasingly selecting MongoDB’s Atlas cloud database as a key platform to both build and run new AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff6a73a669b8403273b636/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
-      "publishedDateTime": "2023-09-11T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
-      "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
-      "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-oracle-comes-up-short-on-revenue-but-touts-ai-cloud-contracts.md",
-      "title": "Oracle comes up short on revenue but touts AI cloud contracts",
-      "excerpt": "Larry Ellison pointed to a doubling in the amount of money that artificial-intelligence development companies have agreed to spend on Oracle cloud services",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107255187-1686592504227-gettyimages-1175129168-img_6558_2019091665104570.jpeg?v=1694463678",
-          "width": 4512,
-          "height": 3204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
-      "publishedDateTime": "2023-09-11T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ai-integration-in-biotech-pharma-companies-positioned-to-benefit.md",
-      "title": "AI Integration In Biotech & Pharma: Companies Positioned To Benefit",
-      "excerpt": "From optimizing clinical trial design to analyzing vast datasets for potential drug candidates, Novartis sees AI as instrumental in advancing its research. Roche's (OTC:RHHBY) interest in AI isn't just theoretical. They've acquired several companies and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/national-cancer-institute-xknubmnjbkg-unsplash_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

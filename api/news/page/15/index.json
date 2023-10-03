@@ -2,6 +2,343 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-19-natwest-issues-four-year-message-to-anybody-with-an-account-and-says-it-starts-today.md",
+      "title": "NatWest issues four-year message to anybody with an account and says it starts today",
+      "excerpt": "The high street bank says it is expanding its collaboration with Amazon Web Services, Inc. (AWS) to accelerate the use of artificial intelligence (AI). Natwest is improving its security measures ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660",
+      "originalUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.coventrytelegraph.net/incoming/article27739665.ece/ALTERNATES/s1200/0_Borrowing-Interest-Rates-Further-Rise-Expected-Staines-upon-Thames-Surrey-UK-11-Sep-2023.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660.amp",
+      "cdnAmpWebUrl": "https://www-birminghammail-co-uk.cdn.ampproject.org/c/s/www.birminghammail.co.uk/news/midlands-news/natwest-issues-four-year-message-27739660.amp",
+      "publishedDateTime": "2023-09-18T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Birmingham Mail",
+        "domain": "birminghammail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant.md",
+      "title": "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant",
+      "excerpt": "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "originalUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker.md",
+      "title": "Orchestrate Ray-based machine learning workflows using Amazon SageMaker",
+      "excerpt": "Machine learning (ML) is becoming increasingly complex as customers try to solve more and more challenging problems. This complexity often leads to the need for distributed ML, where multiple machines are used to train a single model. Although this enables parallelization of tasks across multiple nodes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-ray-based-machine-learning-workflows-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/DBBLOG_15189_image1.jpng_-716x630.png",
+          "width": 716,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T10:54:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-ai-generated-music-with-real-human-fans.md",
+      "title": "AI Generated Music With Real Human Fans",
+      "excerpt": "According to Schmidt, Musical Bits’ innovation is based on what they call “Creativity Layers,” which stack the creative parts of composition like arrangement, rhythm, instrumental interplay, harmony, melodies, lyrics and text, on top of each other, with each layer having its own set of custom built and trained AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65087a501402c8e8b2935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/18/ai-generated-music-with-real-human-fans/amp/",
+      "publishedDateTime": "2023-09-18T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory.md",
+      "title": "Agility Robotics will mass-produce humanoid warehouse robots in new Oregon factory",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory/",
+      "originalUrl": "https://www.geekwire.com/2023/agility-robotics-will-mass-produce-humanoid-warehouse-robots-in-new-oregon-factory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/agility-robotics-will-mass-produ.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-generative-ai-can-be-the-academic-assistant-an-underserved-student-needs.md",
+      "title": "Generative AI can be the academic assistant an underserved student needs",
+      "excerpt": "ChatGPT and other AI educational tools can increase accessibility and level the playing field for students of all backgrounds. ZDNET delves into the advantages and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-help-level-the-playing-field-for-underserved-students/",
+      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-help-level-the-playing-field-for-underserved-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4c151a8f9f2acc795bcd25f25be8d050de308447/2023/06/29/ef069dda-e837-4a61-adc0-99271c7ebae3/gettyimages-1277290981.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-help-level-the-playing-field-for-underserved-students/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-help-level-the-playing-field-for-underserved-students/",
+      "publishedDateTime": "2023-09-18T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart.md",
+      "title": "How real-time machine learning can make the self-driving cars more smart",
+      "excerpt": "Real-time machine learning and compression techniques are essential for the advancement of self-driving technology. These techniques enable vehicles to make split-second decisions, such as predicting a pedestrian's movements or adjusting paths for cyclists.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/articleshow/103765140.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-91232,msid-103765145/the-system-or-algorithm-works-on-deep-reinforcement-learning-drl-a-machine-learning-technique-to-adapt-to-new-conditions-on-the-route-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/how-real-time-machine-learning-can-make-the-self-driving-cars-more-smart/amp_articleshow/103765140.cms",
+      "publishedDateTime": "2023-09-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch.md",
       "title": "Bird Buddy, the AI-powered bird feeder startup, now lets anyone use its app to birdwatch",
       "excerpt": "Bird Buddy, the startup behind multiple AI-powered smart bird feeders, including the recently announced smart Hummingbird Feeder and Bird Bath, is today",
@@ -844,315 +1181,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-natural-language-processing-nlp-market-methodology-and-estimation-till-2031.md",
-      "title": "Natural Language Processing (NLP) Market Methodology and Estimation till 2031",
-      "excerpt": "Natural Language Processing (NLP) Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Natural Language Processing (NLP) Market, breaking it down into various ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34680826/natural-language-processing-nlp-market-methodology-and-estimation-till-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34680826/natural-language-processing-nlp-market-methodology-and-estimation-till-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34680826",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34680826",
-      "publishedDateTime": "2023-09-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland.md",
-      "title": "Microsoft Announces Availability of Azure OpenAI Service in Swiss Data Center, Accelerating AI Innovation in Switzerland",
-      "excerpt": "Zurich, September 18 2023. Microsoft today announces the availability of the Azure OpenAI Service in the cloud region Switzerland North, marking a significant milestone in accelerating AI innovation and adoption in Switzerland. Swiss organizations can ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
-      "originalUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-how-to-establish-secure-ai-business-models.md",
-      "title": "How to establish secure AI+ business models",
-      "excerpt": "As AI adoption scales and innovations evolve, so will the security guidance mature. Consider these seven tips to secure AI for your business.\nThe post How to establish secure AI+ business models appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust.md",
-      "title": "iFoodDS and IBM forge new path to food safety with IBM Food Trust™",
-      "excerpt": "IBM and iFoodDS are rewriting the script, offering a solution that not only ensures compliance but also elevates food safety to new heights.\nThe post iFoodDS and IBM forge new path to food safety with IBM Food Trust™ appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
-      "originalUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-2030-data-and-ai-ethics-market-size-industry-report-2023.md",
-      "title": "2030, Data and AI Ethics Market Size | Industry Report 2023",
-      "excerpt": "The \"Data and AI Ethics Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The Data and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34687889",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34687889",
-      "publishedDateTime": "2023-09-18T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now.md",
-      "title": "The 10 Most Important AI Trends For 2024 Everyone Must Be Ready For Now",
-      "excerpt": "Dive into the transformative landscape of 2024, where artificial intelligence AI permeates every facet of our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6507ef021f82da452b935f67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/",
-      "publishedDateTime": "2023-09-17T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-mediamonks-pulls-nvidia-adobe-aws-into-ai-and-ml-content-production.md",
-      "title": "Media.Monks Pulls Nvidia, Adobe, AWS Into AI And ML Content Production",
-      "excerpt": "The platform gives fans hyper-personalized content across new media formats by using the most recent GPUs, networking technologies and software platforms from Nvidia, Adobe and Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/09/18/mediamonks-software-defined-production_R1rQrie.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

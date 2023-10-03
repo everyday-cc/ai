@@ -2,6 +2,315 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-09-18-natural-language-processing-nlp-market-methodology-and-estimation-till-2031.md",
+      "title": "Natural Language Processing (NLP) Market Methodology and Estimation till 2031",
+      "excerpt": "Natural Language Processing (NLP) Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Natural Language Processing (NLP) Market, breaking it down into various ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34680826/natural-language-processing-nlp-market-methodology-and-estimation-till-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34680826/natural-language-processing-nlp-market-methodology-and-estimation-till-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34680826",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34680826",
+      "publishedDateTime": "2023-09-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland.md",
+      "title": "Microsoft Announces Availability of Azure OpenAI Service in Swiss Data Center, Accelerating AI Innovation in Switzerland",
+      "excerpt": "Zurich, September 18 2023. Microsoft today announces the availability of the Azure OpenAI Service in the cloud region Switzerland North, marking a significant milestone in accelerating AI innovation and adoption in Switzerland. Swiss organizations can ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
+      "originalUrl": "https://news.microsoft.com/de-ch/2023/09/18/microsoft-announces-availability-of-azure-openai-service-in-swiss-data-center-accelerating-ai-innovation-in-switzerland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-how-to-establish-secure-ai-business-models.md",
+      "title": "How to establish secure AI+ business models",
+      "excerpt": "As AI adoption scales and innovations evolve, so will the security guidance mature. Consider these seven tips to secure AI for your business.\nThe post How to establish secure AI+ business models appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-establish-secure-ai-business-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust.md",
+      "title": "iFoodDS and IBM forge new path to food safety with IBM Food Trust™",
+      "excerpt": "IBM and iFoodDS are rewriting the script, offering a solution that not only ensures compliance but also elevates food safety to new heights.\nThe post iFoodDS and IBM forge new path to food safety with IBM Food Trust™ appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
+      "originalUrl": "https://www.ibm.com/blog/ifoodds-and-ibm-forge-new-path-to-food-safety-with-ibm-food-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-2030-data-and-ai-ethics-market-size-industry-report-2023.md",
+      "title": "2030, Data and AI Ethics Market Size | Industry Report 2023",
+      "excerpt": "The \"Data and AI Ethics Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The Data and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34687889",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34687889",
+      "publishedDateTime": "2023-09-18T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now.md",
+      "title": "The 10 Most Important AI Trends For 2024 Everyone Must Be Ready For Now",
+      "excerpt": "Dive into the transformative landscape of 2024, where artificial intelligence AI permeates every facet of our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6507ef021f82da452b935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/18/the-10-most-important-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/",
+      "publishedDateTime": "2023-09-17T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-mediamonks-pulls-nvidia-adobe-aws-into-ai-and-ml-content-production.md",
+      "title": "Media.Monks Pulls Nvidia, Adobe, AWS Into AI And ML Content Production",
+      "excerpt": "The platform gives fans hyper-personalized content across new media formats by using the most recent GPUs, networking technologies and software platforms from Nvidia, Adobe and Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/389277/mediamonks-pulls-nvidia-adobe-aws-into-ai-and-m.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/09/18/mediamonks-software-defined-production_R1rQrie.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-chinas-ai-applications-are-coming-where-it-matters-for-monetization.md",
       "title": "China's AI applications are coming — where it matters for monetization",
       "excerpt": "Chinese companies are making announcements about artificial intelligence again – this time about applications.",
@@ -780,326 +1089,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report-till-2031.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Future upcoming Analysis Report till 2031",
-      "excerpt": "\"Natural Language Processing For Healthcare And Life Sciences Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34656688/natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34656688/natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34656688",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34656688",
-      "publishedDateTime": "2023-09-16T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care.md",
-      "title": "Have A Heart! We All Do, Actually…And AI Might Improve Cardio Care",
-      "excerpt": "Collin Stultz READY TO POST Back to AI in healthcare – we’ve looked at this from a number of angles, but here in this talk we get sort of a good balance between some",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6505e4d1b29838747b28ff0d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
-      "publishedDateTime": "2023-09-16T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide.md",
-      "title": "2030, Artificial Intelligence (AI) for Security Market Research Report | Booming Worldwide",
-      "excerpt": "The Artificial Intelligence (AI) for Security market research report and industry analysis ... The Juniper Network, Inc, Cisco Systems Inc, Facebook Inc, Broadcom Inc. (Symantec Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34651058",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34651058",
-      "publishedDateTime": "2023-09-16T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
-      "title": "Robots are trained to help revive coral reefs",
-      "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daily-sun.com/assets/news_images/2023/09/16/Coral.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "publishedDateTime": "2023-09-16T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sun",
-        "domain": "daily-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.md",
-      "title": "Tesla FSD and AI Will Drive Share Price Like Amazon AWS",
-      "excerpt": "Amazon AWS are now 70% of the company’s total EBIT ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2023/09/tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.html",
-      "originalUrl": "https://www.nextbigfuture.com/2023/09/tesla-fsd-and-ai-will-drive-share-price-like-amazon-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/amazontesla.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-16T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-remote-monitoring-and-control-system-for-robot-market-trends-challenges-and-opportunities-2023-to-2030-olis-abb-fanuc.md",
-      "title": "Remote Monitoring and Control System for Robot Market Trends, Challenges, and Opportunities 2023 To 2030 | Olis, ABB, Fanuc",
-      "excerpt": "Infinity Business Insights has recently released its latest update on the Remote Monitoring and Control System for Robot Market, offering a comprehensive outlook on various aspects. The Remote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34648276/remote-monitoring-and-control-system-for-robot-market-trends-challenges-and-opportunities-2023-to-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34648276/remote-monitoring-and-control-system-for-robot-market-trends-challenges-and-opportunities-2023-to-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34648276",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34648276",
-      "publishedDateTime": "2023-09-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-ai-showdown-part-1-meet-the-contestantschatgpt-claude-bing-and-bard.md",
-      "title": "AI Showdown, Part 1: Meet The Contestants—ChatGPT, Claude, Bing, And Bard",
-      "excerpt": "In Part 1 of this 3-part AI Showdown series, meet the contenders who battle it out for supremacy over a content marketing use case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/",
-      "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f9ffa7bf9f1ec0151a562f/0x0.jpg?format=jpg&crop=2886,1623,x130,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/09/16/ai-showdown-part-1-meet-the-contestants-chatgpt-claude-bing-and-bard/amp/",
-      "publishedDateTime": "2023-09-16T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

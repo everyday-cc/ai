@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-03-tesla-manages-to-weasel-its-way-out-of-the-full-self-driving-class-action.md",
+      "title": "Tesla manages to weasel its way out of the Full Self-Driving class action",
+      "excerpt": "Tesla has managed to weasel its way out of a class-action lawsuit over its Full Self-Driving claims because it",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/10/02/tesla-weasel-way-out-full-self-driving-class-action/",
+      "originalUrl": "https://electrek.co/2023/10/02/tesla-weasel-way-out-full-self-driving-class-action/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
       "title": "Efficient training for artificial intelligence",
       "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
@@ -186,7 +238,7 @@
       "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -333,7 +385,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1349,40 +1402,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-artificial-intelligence-in-online-casinos.md",
-      "title": "Artificial Intelligence in Online Casinos",
-      "excerpt": "There seems to be a new kid on the block, one everyone talks about and yet, nobody really knows what it is or what it does. It’s called artificial",
-      "sourceUrl": null,
-      "webUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
-      "originalUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "macsources.com",
-        "domain": "macsources.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

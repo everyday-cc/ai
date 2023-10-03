@@ -54,13 +54,13 @@ related:
         height: 597
         isCached: true
   - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-    excerpt: "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ..."
-    publishedDateTime: 2023-09-28T14:32:00Z
-    webUrl: "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/"
+    excerpt: "Enterprise-ready, IBM-developed watsonx Granite model series now generally available to help businesses build and scale generative AI - IBM provides its standard intellectual property protections ..."
+    publishedDateTime: 2023-09-28T12:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"

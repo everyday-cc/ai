@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils AI assistant, Facebook-streaming glasses"
-    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Mr Zuckerberg also ..."
-    publishedDateTime: 2023-09-28T07:17:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/meta-unveils-ai-assistant-facebook-streaming-glasses"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/28/2023-09-27T185002Z1089277539RC26H3AIAUYURTRMADP3META-PLATFORMS-VIRTUAL-REALITY.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Meta unveils new AI assistant, Facebook-streaming glasses"
-    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Mr. Zuckerberg also said on Wednesday that Xbox cloud ..."
-    publishedDateTime: 2023-09-28T08:54:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "Meta's new AI assistant trained on public Facebook and Instagram posts"
     excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
     publishedDateTime: 2023-09-29T03:00:00Z

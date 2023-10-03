@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "I watched YouTube in a self-driving Mercedes and experienced the future of commuting"
-    excerpt: "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic."
-    publishedDateTime: 2023-09-28T09:00:00Z
-    webUrl: "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9"
-    ampWebUrl: "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp"
+  - title: "Tesla manages to weasel its way out of the Full Self-Driving class action"
+    excerpt: "Tesla has managed to weasel its way out of a class-action lawsuit over its Full Self-Driving claims because it"
+    publishedDateTime: 2023-10-02T17:47:00Z
+    webUrl: "https://electrek.co/2023/10/02/tesla-weasel-way-out-full-self-driving-class-action/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Electrek
+      domain: electrek.co
+    quality: 68
     images:
-      - url: "https://i.insider.com/6514798f1c099d0019ad4611?width=1200&format=jpeg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Will self-driving cars bring us a safer future on the roads? Not everyone is convinced"
-    excerpt: "(Paul Sancya/The Associated Press) Spark53:59Robotaxis and a future with driverless cars Liz Lindqwister describes the first time she rode in a self-driving taxi as \"kind of a surreal experience.\""
-    publishedDateTime: 2023-09-29T13:01:00Z
-    webUrl: "https://www.cbc.ca/radio/spark/robotaxis-future-driverless-cars-safety-1.6979889"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6979889"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6979889"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 36
-    images:
-      - url: "https://i.cbc.ca/1.6938486.1695847462!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/gm-cruise-investigation.jpg"
-        width: 620
-        height: 349
+        height: 628
         isCached: true
 
 secured: "GrhGo4iA4foz+d70TSB9WQmVIF54bdUo1GM1b3SQXP3NKf/bDHZbsTBcDd9zV2u7QTk+TxkvCFQKytg7LAXgmeWxn7m3q63DGi+1PwaAUszdb1shDCtbnZ2Q7K0uSC5duo1W9EzhRLmHGjF4/hukmTcdgUzsaCMy5I/0E/bJdqX1RRTmdA5gYaz0ny+xigwriknL07hyln66/stjfjwD5M3fDqAVtw7wBNkmr/IWPcMdaTcoZU4swZtwc9zWvY983VVoQkMWbmub5aYeVdzOuYxW5n4QqREfMwQH15xVBS2lEgwcVGbcWbHE8XEaan/W+ZP1iNOayoxE2o6NOVGJ/kiY/LgxKfI7AANVG2cIMpS+sdOQmIvgC6QjmoSaEtN6nbCNRwhFRIbxLg4BzHVvzIRk/YkG4uWzRQXo/H4UkezpcLirT2Q+DF/JH+eBVcwuEh0YhgKAEP5a5Q+ORIfqlY1fp84KM3Y59kr5x/PVvi0qb8J25TwBbbsb7239C8dRYQDYl/ZOSExG5uIoNOW//w==;zCauudi9o7IGd3kl9YZF7A=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/metas-new-ai-assistant-tr
 webUrl: "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils AI assistant, Facebook-streaming glasses"
-    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Mr Zuckerberg also ..."
-    publishedDateTime: 2023-09-28T07:17:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/meta-unveils-ai-assistant-facebook-streaming-glasses"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/28/2023-09-27T185002Z1089277539RC26H3AIAUYURTRMADP3META-PLATFORMS-VIRTUAL-REALITY.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Meta unveils new AI assistant, Facebook-streaming glasses"
-    excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Mr. Zuckerberg also said on Wednesday that Xbox cloud ..."
-    publishedDateTime: 2023-09-28T08:54:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/09/28/548432/meta-unveils-new-ai-assistant-facebook-streaming-glasses/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
     excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
     publishedDateTime: 2023-09-29T01:50:00Z
@@ -74,6 +49,6 @@ related:
       domain: straitstimes.com
     quality: 19
 
-secured: "XCB1FlFxBXy4ghfBgigE1pb3601hPk9OYSMoBLO2w1c30hp9dgchpoNglwmEHRikr+FT/P2+4C1Cdce9ts/q85Jhy7Cvpg/1e22x1G31VuBzT0NkaUf0SGIDRZTNnpVGsmp3vulp+CNCOo8bGIHXalxx6YE/TPU3wEGMO/d4fRKrluWmjTgmR+znpiNRyEi4o2Mr2eeF2FP5GvzX2Upm+xEtskx7aDxpLTy9b0TqbP4o79fejnAcny5GrhPkJv+AzJ5ffzESao7uuLKjs++3kw1thYd8vzMknFNVlYGL2g041UmeuENjh3YYVzLMc3MupYJWJR75K4aPOcxajWzIuNfZfdiuwk/pmHTyuOgilbY=;fIuIX7rgszC93A1aQO3TMg=="
+secured: "VCqTPBWcWOgvkoYVkCtPorW2RKzAUN7pxvZ5rTzh2Fq19i4sAvNDxBiW8dp5lciU/0u7dYeKTBaqYLO4WoiMmpugW4ZpaDF3TFVtDCpgq2zHSpgVvcUs6eOLJG5vKBTfFukdYBMkVw/AS4eFaLUoqM0tIQr/MQpf58O0+o/don6kq20Wt6twjyVL21Wcj7XF/YQbIDX2ffNGykmbBvbQyA8fXgGY7FHzbjFqNRwmhN07hWl26VxEbMevE7xjZTSaga9oDVSOe/tw2A1WgR9b7trUtoMs2xSdN3Z/Ex9iNR7ADB8dyXKtkl12yL29OpGXLdtBU4xqdzKFls8tqp290kqTOd6tDu7DAt6abm3yfOY=;buo7M61M6s6HP9f5GS4Q6Q=="
 ---
 

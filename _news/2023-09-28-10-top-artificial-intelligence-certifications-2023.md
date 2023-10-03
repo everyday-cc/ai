@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2023/09/tr_09262023-ai-certifications.png"
