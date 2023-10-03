@@ -47,20 +47,6 @@ related:
         width: 1199
         height: 615
         isCached: true
-  - title: "Mistral AI Releases Generative AI Model Competitor to Meta’s Llama 2"
-    excerpt: "The large language model Mistral 7B is free to download, with no restrictions on use. Get details about how businesses can use Mistral 7B."
-    publishedDateTime: 2023-09-29T04:33:00Z
-    webUrl: "https://www.techrepublic.com/article/mistral-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Are Artificial Intelligence and Democracy Compatible?"
     excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
     publishedDateTime: 2023-10-03T15:40:00Z

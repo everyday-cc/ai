@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from
 webUrl: "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Next Web
@@ -43,7 +43,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "EU moves to protect key tech as it eyes China threat"
+    excerpt: "Both officials insisted that the measure was not directly targeted at China. However China is nevertheless a key focus of the EU’s efforts to “de-risk” its supply chains, an effort led by Commission president Ursula von der Leyen."
+    publishedDateTime: 2023-10-03T17:51:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/10/03/eu-moves-to-protect-key-tech-as-it-eyes-china-threat/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 4
 
-secured: "Jhgz1XjwekLqYg6PvnTX/01SMIaeDKO+yNmhIk5GDU/84/UxZLqW8FrSYlg3wM23D43b+RoAbBjHxF0fyhA42zwmYpx9K4AVzOwbI3cA6WqTbxtBPJgct1ZYxn+nYui7Tcj7/apkyAl1SD6P34NQhRjkMkdUyKYgfhv339IT4CJlL52u32iB5M3WVdFcXRE/R5VsC4Jg3vgye7cyYHmfR3A+m1zlyTSZwAttM6ifrURgp7TIZzzXQ1Xnhsf4Nw8i/JMYU/AEfNjbtWF02t1PjDOb9eyUEwISW76HXMSTMvPN/vFMcCKMAxW7x85b2WV68nT2M8pVbfLUbsI6QSa+uK/gVI2R1u1CIaG5pVtkf/s=;W4zWGP/YiFBQplGj1epAzA=="
+secured: "qkpX1Rm9BLloAkrtuo31r4w97ypAevtlblOc5zgzZpwvaB0C1lbAg+nCKQ7QtfoNmKXgJpVz4YNvbaOxkLlEqODvSSZIWbs+eeAUPQe8wlNigmySuvUn4or/HszIdulK51AOoER3DpfWegTfyr6CPJbct6InhlyxZ+O3SC/s2vOk4XPrIbDFkrInjjUTBAg5lKAEFKVJub7909dKl38IDSuqkdKyRkcDo5w/+Qo2QOFPKI7PDcK5jiLYF0H/wWO6l13lCCSpy80nM0DJolC8O5+3SF8WmTIDd3WYJ8ZfNMCxNdFmPYqPwVKqGhsKyiJnonA2juQ+DpsQOn8m5/5t+ib/9WNoQcuTOjI2mRlgcvbMIMkNV5ffX3+sr6LTWckNUO+SNFQCkuFaIqsgKyxqqqfq2HrYgvp75xTp9+RI+tilXcitHKFYFR12B2AfpR7nfa+ZyE749vB+n2LUuZiGcf3/GMdUyVV7TdhFKxl66ZbnOXQL2FtPtG2rfeqes8q8DIjAojjQPw5olcbbq5X8hw==;/ndBioyyVFCj0IVgynrSLQ=="
 ---
 

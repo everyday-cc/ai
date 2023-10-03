@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T18:15:00Z
 originalUrl: "https://washingtontechnology.com/companies/2023/10/vayu-robotics-unveils-itself-and-initial-investors/390874/"
 webUrl: "https://washingtontechnology.com/companies/2023/10/vayu-robotics-unveils-itself-and-initial-investors/390874/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Washington Technology

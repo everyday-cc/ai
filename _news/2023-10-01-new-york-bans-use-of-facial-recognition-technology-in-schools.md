@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WGRZ
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NY bans facial recognition in schools after report finds risks ‘may outweigh benefits'"
-    excerpt: "New York state banned the use of facial recognition technology in schools Wednesday, following a report that concluded the risks to student privacy and civil rights outweigh potential security ..."
-    publishedDateTime: 2023-09-29T01:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 51
-    images:
-      - url: "https://media.nbcnewyork.com/2023/09/GettyImages-1310967692.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial Recognition Technology Meets the Cattle Industry"
     excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
     publishedDateTime: 2023-09-29T15:01:00Z

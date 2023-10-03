@@ -58,7 +58,12 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvZmUyMTNkZTgtM2RhNS00YjcxLWI1OTEtY2NkZDBlOTE5MzllLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "aFCpgHWrwVfy6bv0O2Y5/MrCphs62KYp4/nFRQ/xNJogh0x4nk3Lep4iHzwq7cg4jYC4FGQBt/YMzr5pTQYiVlVaNzXasAg5O/xJ0a9tqzsDwP+mJJbLOQwdhIhoDFi7ekLANVHxjiz+D2sUCgKEoh8zZQFxArqOu8Sj74PiHUfJa1Not/os6vlUsE+vD1RBOd/DTCZOL27nULYt+RsMLrP6n/3aZejUgT6zS0vlk1Grgiq9egT1nMOVzwij2aj8oWd6xHtuoe8MmhfWq7aZ6hCiSVL7wKKMRxTP8N4RNTyGQ8betyqvb12OBeAOMbsJuVBDpqm/GUaENJyMh/NdjtKGPh4dQfSuuLPKogdCcbc6Jywxr7SsKUjLUuVypKn9DljBOttK6kGiocSHdsHDmiqzxzXdeIwwF1PUm77hK1aiTwGmPV3BHaRNIeLJQVJnxEJRi6h584NSABiNfwbuKvY3nF6dBFq7nUlfMFvRNJ3MwPJyVXVFMlhsadNR+EHBhNJop58LI9HdHq2GinPpGg==;Ywdydq2jSwfxu3GeUJitkg=="
 ---

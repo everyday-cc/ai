@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-03T11:58:00Z
 originalUrl: "https://cointelegraph.com/news/samsung-ai-chips-canadian-startup-tenstorrent-nvidia"
 webUrl: "https://cointelegraph.com/news/samsung-ai-chips-canadian-startup-tenstorrent-nvidia"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvZmUyMTNkZTgtM2RhNS00YjcxLWI1OTEtY2NkZDBlOTE5MzllLmpwZw==.jpg"
+    width: 1160
+    height: 773
+    isCached: true
 
 related:
   - title: "Samsung partners with Tenstorrent to produce next-gen AI chips"
@@ -59,6 +65,6 @@ related:
         height: 720
         isCached: true
 
-secured: "NlHG1mIdqlq8bPvyahrRg7IX5peuPYA+LkZ+loxoT1cdeDqnWAbxmKnds2mQfi2tywVLBtnv92/Y/W/e4G859o/miPki1nFGF72/SSK3iCYSPHOetx5h0Sr9dEozLZVhqsFaWx2Qx1Lcw8GBmYW9E+vJVOQ+hjvtqTk2j+qmmZukihf/5iS5jmCzGuPtf0pKGPjvxAbuczY4b/ReivFBrp5ZHH9fs8TEvlszPX9v3KIj540fsgiN7JT5W/Ryl/T1S0dWPOqU167skCLiA/aJpSCR1vGvIYaqZB+0hUseWnMILsJeG/lRLumpSyeGUcjLLlvMFbcADE2yy+Fq8S8wy8T0zE/kaC0EndkOURa/hmk=;GnAK21VAAuvqdMb7iDq7og=="
+secured: "9lCzrlq6NIRShZ7+WHYzQCm43kQhdYt1lmN2H7EGKrExZD6eId7TgSxhXmcwMR9fF+PgKQ9UtqSUj73TIwjwxNDvJkMxHezt8EbHp9x36820jJ1UKRPcWK7VAaEpZVHJNl88aVaK9z9ayP5+QJLj1PV0BddA/hbjAwBEoNsH+Yx97KjbhLWYHd8DbCpiF747VZrfl1eDTaoFEQEZjh8/qcO/KAca4n8DYz/qOKzBAyyLEg2RO8d0EWOryJ+sL5Sfb4yBEuGeiiZEdPBOYY+krAxGLXQx9G+aWnMOSifgBi0Kojhb66mH6iOODgZ9siI6JTh8qD1e1wx6VcxWwZ3mjsoyCEKRNQDCSdlyKHz8V84=;Q2KUpX9XbUIsr2Wv3CKW5w=="
 ---
 

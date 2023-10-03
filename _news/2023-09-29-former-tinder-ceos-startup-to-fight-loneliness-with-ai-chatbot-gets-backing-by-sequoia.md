@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-figh
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise-focused AI startup Cohere launches demo chatbot Coral and Chat API"
-    excerpt: "Cohere touted the fact that its new chatbot API features Retrieval-Augmented Generation (RAG), a method of controlling a chatbot's information sources."
-    publishedDateTime: 2023-09-29T03:13:00Z
-    webUrl: "https://venturebeat.com/ai/enterprise-focused-ai-startup-cohere-launches-demo-chatbot-coral-and-chat-api/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_wildlife_photography_underwater_photography_a_biolumini_b7960d94-0386-4a2e-aa9f-20b49860c25c.png?w=1200&strip=all"
-        width: 835
-        height: 468
-        isCached: true
   - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
     excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
     publishedDateTime: 2023-10-02T10:45:00Z

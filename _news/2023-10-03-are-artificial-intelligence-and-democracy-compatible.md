@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 816
         isCached: true
-  - title: "Mistral AI Releases Generative AI Model Competitor to Meta’s Llama 2"
-    excerpt: "The large language model Mistral 7B is free to download, with no restrictions on use. Get details about how businesses can use Mistral 7B."
-    publishedDateTime: 2023-09-29T04:33:00Z
-    webUrl: "https://www.techrepublic.com/article/mistral-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "What Does the Commercialization of Generative AI Mean for Society?"
     excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
     publishedDateTime: 2023-10-02T10:00:00Z

@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Uber announces startup challenge for innovative solutions to fasttrack adoption of sustainable mobility"
-    excerpt: "Read more about Uber announces startup challenge for innovative solutions to fasttrack adoption of sustainable mobility on Devdiscourse"
-    publishedDateTime: 2023-10-03T12:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2616659-uber-announces-startup-challenge-for-innovative-solutions-to-fasttrack-adoption-of-sustainable-mobility"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 1
-
 secured: "jrUaKov8rdc+SM4wCEe/A7Qqt4ogrrwtCD3I/iSLVSVWjIyWTVdH5EHy7OYkS1vQjWETHgpHqVs7Ab3IvJkPFE4Eo84kGL1UlfTsZnjIYF1vLRXQGiUu0luRJNoctoRpKR4RNGWfgif+lOEAACzbzveyJEh/GNRVOZCNNqc2+PO2PC9W4DwTvEHox4gA55NbFr+u9I5La/KOE85tyXuUvmYNNx0CH1UlOP6JLs0b/bDnZNw77nb+1UybfAbivl9iqMwFz6tGK9ODbJiFp36LvfIEGbQwcy/XHK/Jmt+sw2WVvr3QNZ3NxVex2oWgE3WqQlWp0ClWK9uvZnB/Zn+1ROvLXxG8EQjZMGYvNs8fMeE=;8nygEhFg73q8VNXRuPe/CA=="
 ---
 

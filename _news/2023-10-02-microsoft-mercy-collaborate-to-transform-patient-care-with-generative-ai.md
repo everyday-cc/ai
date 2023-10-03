@@ -146,6 +146,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Domino’s is working with Microsoft to build a proprietary AI assistant"
+    excerpt: "Microsoft Cloud and Azure OpenAI Service are collaborating to create a generative AI tool to improve customer experience and help with back of house tasks"
+    publishedDateTime: 2023-10-03T20:54:00Z
+    webUrl: "https://www.nrn.com/quick-service/domino-s-working-microsoft-build-proprietary-ai-assistant"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 54
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/styles/article_featured_standard/public/store_lansing_0.jpg?itok=-IkEyJsU"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
     excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
     publishedDateTime: 2023-10-02T13:00:00Z
@@ -172,6 +186,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 34
+  - title: "Domino's and Microsoft are working together on artificial intelligence"
+    excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
+    publishedDateTime: 2023-10-03T18:24:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/dominos-microsoft-are-working-together-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
     quality: 34
   - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
     excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"

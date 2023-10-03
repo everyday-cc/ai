@@ -130,6 +130,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Understanding the ethics of artificial intelligence"
+    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
+    publishedDateTime: 2023-10-03T21:16:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "3h/SpwxKLeokZZyxUkmYKQu24nyjweAAf83BECguHOCGXVHLngr8R/fuzrTuX4j0XNgUxlZ5RQ4wB7Or6brn7UDas0WXJhNRdw/Flxh8aES7+XoQg2MHoPSzrJeUB5Foxh6GnEgoKojBwnrr0G2Gxf35Z17DczlnQKWaBUq9S3T0bD4ok0wTleUP4EVo3db1U8XvUn54+BLbUzHw6tyuNNbI9dQV1JN9ofR8WPVa0uM6UfptxfW1X1ZSBwIe/IrXxQlH5kQlkNq3j1XnTj+T0crCHV2iGhxH83VgncMuq5jLnBk90MckF6/+NKQAoh8QqNi/BZ6IdPbMe0691fqVjnCWOQ8rkHK+9LntA+UzYWTtqNTvv57wq9wfxpfP6BXOwLbpUo/ObfeikQUhxurhyJN1q1rcWPyPLcdOLWAfwD519Etv6WVLVAmnna7AoZkBZkXX4XNBxCgaMWuQkGFAvWL8bVZTZLYBwXDBe8ANJzeR982o415cnWXp+I86QkVC617Xr/qrt9uSI/04tHe17g==;FhwSSNwkttseueKNBTFVXQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T18:52:00Z
 originalUrl: "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/"
 webUrl: "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/"
 type: article
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: VentureBeat
@@ -18,7 +21,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
-secured: "nqL8KsgGq75DaYsIuBIsHpQTfREMFH9q65rcap5JbpcZiCw0GSF2Dnqqj1emqzvAvDOTCZMmp6IjK1CqmQxe1j2sWcrKalBbLKh+TMibq+BrDabahzGn+ukpUvgkfA256STF4a0lJy/t/CqFTshMeXIHJ8RO+1lK6xl8vcHnMzcbUUjiQJB6AiD4INrdT+hjjs0PJxlz1iL4lplalV0oG/entxxVeAVvNJLjFyWfTEr8MuJ3+tOToFw10nD+L2vWyz9D1ABnexwBlDK2BiAfGSO2hpc8xEE72L164dxmaeWUMey9J7+vXeHcyfLGdsHIE9wUs069XU8lpS0QjxYVIO9ZhPuHAt06qjur7arQdJ2GCI2u4YRIQiFl+1D0KlkMMb0Otb0p9PCkTlOvsaXO5DLZCj3I+Hm0EODE4LtYbLQEcYQHabGiiISwln5rM3R5GZjtYxTQ3jkByFaQ8/4Km2u6IA5LGvU2756LbSZFvf8nGFT6TQMS9jfcEAySSwLm0rTjGXow5fqUwQaiCLG5lA==;33kb1c6o/koolUlNwl1kcg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all"
+    width: 1199
+    height: 669
+    isCached: true
+
+secured: "U5AvZWfOTdqYc8bZdGLV/p82y7aGbdcVzts6uUN3GWdp1blzDrALtrmyjVesCcwb9tZYe5Secvud0vy6vhBhqSj+wJf/6QJappd6j5HPYQ/vGjYickbMJ3MPyHYmngarb/g5NJdVIfpGKzYiUAPNajcU4Xe6EvoVI2dq7U43zI8yKQk5zFf8PSQMFVTYyEWR60xZYvTwGi/NNMxKrerME9cRWK228EK73H7qHWd+YE7jxwSV3iglsjA7D3i6uCRu+13JCTnItubqLGmihu0q7rpSkmej2DVrJ8P1XzkUGxK9eq8AI8ELlio02f6Rbg7IJk0lplTizgupo8eL4xhlc5OJpicEZDJDYhPf+gsMVf0=;GOJ/LdGEJiZyxFHp9/cLoA=="
 ---
 

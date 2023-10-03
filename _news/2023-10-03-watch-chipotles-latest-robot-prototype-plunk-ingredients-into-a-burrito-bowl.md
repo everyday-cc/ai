@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T12:00:00Z
 originalUrl: "https://www.popsci.com/technology/chipotle-burrito-bowl-salad-robot/"
 webUrl: "https://www.popsci.com/technology/chipotle-burrito-bowl-salad-robot/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Popular Science

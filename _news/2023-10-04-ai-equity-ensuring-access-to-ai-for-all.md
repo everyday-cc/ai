@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T18:47:00Z
 originalUrl: "https://www.gatesfoundation.org/ideas/science-innovation-technology/artificial-intelligence"
 webUrl: "https://www.gatesfoundation.org/ideas/science-innovation-technology/artificial-intelligence"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Bill & Melinda Gates Foundation

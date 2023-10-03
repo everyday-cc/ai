@@ -41,22 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "NY bans facial recognition in schools after report finds risks ‘may outweigh benefits'"
-    excerpt: "New York state banned the use of facial recognition technology in schools Wednesday, following a report that concluded the risks to student privacy and civil rights outweigh potential security ..."
-    publishedDateTime: 2023-09-29T01:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 51
-    images:
-      - url: "https://media.nbcnewyork.com/2023/09/GettyImages-1310967692.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "LWZIdMQ4SBEvzcOliTX0NoQ7PwQi/ar7zoMTv9H1t+cMHOyVvFT2VNliEIsSk6JsyYvVYxoY2YmT7O4XqaBKFceWkQIJyXiV6+ujOQio6nUQNXpCgqK4tV45brZVnmbVUHtcbzIlQY4JwosiRLsMYN+F4G5NHYyHQG+xDqu8p34ds73A8nX5h2jtgZljs1N4QgQjpnr/bgh2Uu0ZBut3dn7EUyPao4gAhtwKJjsGD40ztL4Vs9Cp8NA535c2KcFekT7xEZcLrN+EW0UPoICDZ6BR3QeytFtsKa92h803eU9nfAqA/Az2YlT5Mwzy5jz879TFXnMFompvLbG2Ct71kXBb+OyWvrW0vqrN76PNlSM=;ieLF6ruMACwgFYgVs+JBSw=="
 ---

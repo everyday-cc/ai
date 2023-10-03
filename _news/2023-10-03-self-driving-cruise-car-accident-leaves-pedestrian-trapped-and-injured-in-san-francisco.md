@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "San Francisco FFs rescue woman pinned under self-driving car"
+    excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
+    publishedDateTime: 2023-10-03T17:53:00Z
+    webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
+    type: article
+    provider:
+      name: EMS1
+      domain: ems1.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/SFFD-3.jpg?w=1600&format=jpg&quality=87&crop=232%2C0%2C1536%2C864"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
+    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
+    publishedDateTime: 2023-10-03T19:30:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
   - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
     excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
     publishedDateTime: 2023-10-03T16:05:00Z
@@ -55,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Woman rescued from under self-driving car after being struck twice"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
 
 secured: "5txjG8xP8/wvJvcpNVwoen5iI2GnsNNz4N4tu7zNfZgrdhd8/B+qkvSLhD6ovjJHXaTcnBO5NBizLhKSnOsBh48/X43K+dy0DxLHWmvv4s9DpV4fudPDU2fz9KJKewj/WFaRz2pZXpl+T/bq6wtitm71THpId7WTzwoVHpcWeJljuToqPNH3FZ6QqlLaVj8FuT8U0DZ3w9I98hb7pD5pUUpFBU1S8R7t1+TXrofPTHzsT4WVDWpUlhOnSsO7zOu1jhhpWFmNvTHmQapMwo4b3U+OInJHKceeFUlkRVv4CZIJXAK9/oApbHXEr3uDCCb+j+RmHJCW32Qv8G+uc9s6hfycBICPt28scXLN1gcDYHU=;i8IWV80gipVOuGEdlQnZQg=="
 ---

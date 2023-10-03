@@ -1,0 +1,31 @@
+---
+category: news
+title: "Terrorists will hack driverless cars and use them for horrific attacks, report warns"
+excerpt: "TERRORISTS will hack into driverless cars and use them for mass casualty attacks, a report is warning. They may also hijack drones and use them to drop bombs, it says. The bleak forecasts are"
+publishedDateTime: 2023-10-03T19:00:00Z
+originalUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/"
+webUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/"
+ampWebUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
+type: article
+quality: 52
+heat: 52
+published: false
+
+provider:
+  name: The Sun
+  domain: thesun.co.uk
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/newspress-collage-24254005-1696359271576.jpg?1696362873&strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "YRe2XFViBFDnPlVWOkcoB4A4slzG0hSEQOp87HPVX9ourbgDADpqudmzBD1YlLOZLn2HqLMUZ+Ak0EejL8N9AxkE27hHF85GlYBBZQ2pRYBDUVpu7YvJViAjGLfi9OsBGKB/omKhFCORYUq5IEnjkjUQo10ybPNqhXpzXEsirDHd4S6AMbo64P5Dad/a+emWoNOWCjZY+15JWiiBa89qATF0sdM/OSpQHmu5blliteoExN/R91W27Ow92b9AENYUMJRDrsKIdGNARWYie8mK+wkumg6wvOsIQm6p/z5f0ZET1k+I//qoKAzpuD1cWyDU/O32LIGnF9oqDqeL1HYjF0EfyNAep3ZEU3bd2qjv9+U=;bVdR048flI/6VWJGiS7Pug=="
+---
+

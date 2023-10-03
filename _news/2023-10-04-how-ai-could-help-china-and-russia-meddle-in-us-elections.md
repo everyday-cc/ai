@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T18:00:00Z
 originalUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
 webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Scientific American

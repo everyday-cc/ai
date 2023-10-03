@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Understanding the ethics of artificial intelligence"
+    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
+    publishedDateTime: 2023-10-03T21:16:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "MoKKsthlBbGLMVa2lOccvx29F+tgOhUk4NielrvuKI0vUWfZgvWQAvnO7qKX4Esjkfc9AeXBMLOO+gdKudsWiC9kD8KpRa0frGxb2LRRwOXEccC1vvKVr7LVRC5lanGFECDjMNo1lNXxWyM2mGuaGmcX9yynjlti2SbLYO2Z4YiLjf1LNvo9obwPUCn29VudIE0uN3MVKIiokkDEuu+JepwLbZXmDsHUbGDMduWj6n6RBj2ib45onVxjMaVw7dTGFJ9XQOJn7mzWVjnxQFKJ7+n17eYc3otN1dCUkkb4mH1reBCsKbIX824E2U9iPxhFfbEZ7TJCvufz09bbX+q15JXWAAiHfjUMa6C1rIB9wDE=;gHfC/J8NQWy16+Nvv7ARkQ=="
 ---

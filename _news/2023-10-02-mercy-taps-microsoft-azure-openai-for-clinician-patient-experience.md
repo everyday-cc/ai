@@ -146,6 +146,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Domino’s is working with Microsoft to build a proprietary AI assistant"
+    excerpt: "Microsoft Cloud and Azure OpenAI Service are collaborating to create a generative AI tool to improve customer experience and help with back of house tasks"
+    publishedDateTime: 2023-10-03T20:54:00Z
+    webUrl: "https://www.nrn.com/quick-service/domino-s-working-microsoft-build-proprietary-ai-assistant"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 54
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/styles/article_featured_standard/public/store_lansing_0.jpg?itok=-IkEyJsU"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
     excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
     publishedDateTime: 2023-10-03T12:36:00Z
@@ -163,6 +177,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 34
+  - title: "Domino's and Microsoft are working together on artificial intelligence"
+    excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
+    publishedDateTime: 2023-10-03T18:24:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/dominos-microsoft-are-working-together-artificial-intelligence"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
     quality: 34
   - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
     excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."

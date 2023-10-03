@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "EU moves to protect key tech as it eyes China threat"
+    excerpt: "Both officials insisted that the measure was not directly targeted at China. However China is nevertheless a key focus of the EU’s efforts to “de-risk” its supply chains, an effort led by Commission president Ursula von der Leyen."
+    publishedDateTime: 2023-10-03T17:51:00Z
+    webUrl: "https://www.irishtimes.com/business/2023/10/03/eu-moves-to-protect-key-tech-as-it-eyes-china-threat/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 4
 
 secured: "ih5WaF9X5qJK7jhVkGoc+mBcbBe9b1xDjp5cElV0p5wowU9E7xGUHnrFGXVTV1HFZlmvuEjKIwVRLUoDNHopL0FTgcgce2cZUvSz93I69BgJOIu/CC0lDWCFf/euhIcb0QQdr1rtvs4uh9BeYbuAdtEXr1USGImFuD1RVj3r2TblApJtSj2dqfOI1gxAgr5hg3XEnjqaEwyy1yTuUciopDpCaDaF0FcMHyz3q1Gnuq96bCgQR+wZ/+I7e1JieZw4onO7Qu78UDbzRzTsEfGz+notleZplRtJGX0xQMSa+UUtgkgAtGaQy+bQcf+NBplT/h1TJbwih3SePY5qgvdSiNiZHb4AlA+ssLRIeVsYab4=;SBPNjCYa5jx6WyLTX+SEhg=="
 ---

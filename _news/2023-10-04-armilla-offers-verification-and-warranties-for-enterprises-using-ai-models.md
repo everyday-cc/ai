@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T17:56:00Z
 originalUrl: "https://venturebeat.com/ai/armilla-offers-verification-and-warranties-for-enterprises-using-ai-models/"
 webUrl: "https://venturebeat.com/ai/armilla-offers-verification-and-warranties-for-enterprises-using-ai-models/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

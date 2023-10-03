@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 907
         isCached: true
-  - title: "Enterprise-focused AI startup Cohere launches demo chatbot Coral and Chat API"
-    excerpt: "Cohere touted the fact that its new chatbot API features Retrieval-Augmented Generation (RAG), a method of controlling a chatbot's information sources."
-    publishedDateTime: 2023-09-29T03:13:00Z
-    webUrl: "https://venturebeat.com/ai/enterprise-focused-ai-startup-cohere-launches-demo-chatbot-coral-and-chat-api/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_wildlife_photography_underwater_photography_a_biolumini_b7960d94-0386-4a2e-aa9f-20b49860c25c.png?w=1200&strip=all"
-        width: 835
-        height: 468
-        isCached: true
 
 secured: "OWiomIfnCp2OSNT6q5alXZN5KsfbQMIjQXmgvMt0J1Ec6EyM4hvNSHABjUixt0rrteQ5v45IdoKwABxsyChE3UPmWZqw+4ngBO/7UGgQsOnf21XA17CwX4XIHH/me/0m0qicmObjlt6ihqDKKvHYErekt9xyAaN1InPwFSki4pJ2Lhv3f3a+nLg0+0htnc281B2CkFiWtu3BwL0ZBsbbfWfPYLxN+npGhWuo3skcydj4qh7bgJuPzzbJQ2QG11PiUEg5O8TPjeGn0KHTXckMFRBQSvO+0zV6lRMleUr5cqjuH2OvAFhD15YzCWQbABLAAFblMMHJwzVkLQrRPWr+ZibV0EPUjc7iMGMhg+XfWVo4VEf/g2i2n523ENk2RTh4VTXgAqDcahT74yUCck5a7G1zMeAbX/iaXhsp3uLuueLexc2DtNSmS8yZ+yUk0K9AgEVsPS4HvOgou7azoMFICxnU+5Dhkpx7Tl3L+soAD6c5ZV9LyuSGLBBPq0fMS+gGh7SsAH6ADv9O2hW+J8tz7g==;aY7iuVELzQORRHCX8mUqCQ=="
 ---

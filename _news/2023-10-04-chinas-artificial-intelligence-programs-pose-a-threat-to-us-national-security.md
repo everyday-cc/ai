@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-03T17:58:00Z
 originalUrl: "https://www.ibtimes.co.uk/chinas-artificial-intelligence-programs-pose-threat-us-national-security-1720218"
 webUrl: "https://www.ibtimes.co.uk/chinas-artificial-intelligence-programs-pose-threat-us-national-security-1720218"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: IBTimes UK

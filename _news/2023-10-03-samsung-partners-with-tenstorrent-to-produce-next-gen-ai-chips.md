@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Samsung to develop AI chips with Canadian startup Tenstorrent"
+    excerpt: "The development comes as dominance in the AI chip market is currently held by American tech manufacturer Nvidia, which develops some of the world’s most powerful semiconductor chips for large AI models."
+    publishedDateTime: 2023-10-03T11:58:00Z
+    webUrl: "https://cointelegraph.com/news/samsung-ai-chips-canadian-startup-tenstorrent-nvidia"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvZmUyMTNkZTgtM2RhNS00YjcxLWI1OTEtY2NkZDBlOTE5MzllLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Samsung to manufacture next-gen AI chips for Canada's Tenstorrent"
     excerpt: "Samsung Electronics, the world's largest maker of memory chips, will build next-generation artificial intelligence (AI) chiplets for the computing startup Tenstorrent, the Canadian company has said."
     publishedDateTime: 2023-10-03T08:54:00Z
@@ -50,15 +64,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Samsung to develop AI chips with Canadian startup Tenstorrent"
-    excerpt: "The development comes as dominance in the AI chip market is currently held by American tech manufacturer Nvidia, which develops some of the world’s most powerful semiconductor chips for large AI models."
-    publishedDateTime: 2023-10-03T11:58:00Z
-    webUrl: "https://cointelegraph.com/news/samsung-ai-chips-canadian-startup-tenstorrent-nvidia"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "JZWbYDHis+0pQbzgEmNmiZbQJUoziARdCjemtoxD4vBhr0ATg9foABvrdg1Eo2v5aQY2L0O2YYrM1QFxznmr5rO4stfg8PQ5mMxmmB9HUImB2jsJLexZn6xYddBG7X8kXDDT+/Rn3o5aF9GR90dgFWS+kYPpothNe1WTS1Q7Vm15ZlDM8MEihNewL7Xt21dZYDCZjYEH0Erl/dNu7mhHDa8DQcUxxh/EwKMSkclzs8Ui6fgqlwqe4Hna+GYrWFkh+5cJMtbh29OidKpKnFH/BtE977LO9R68YjeGh3VehvqJNMqG51VJHdis0WGaRm52yA6+ec6R7olWWfy8fGHM3z7kemwzO8Agtxib0dTsMdueEM8UUNZ+rJMojNGznE+Bn/vLR8+mo26M3TZHg/aAVP9JKmi7LxABDcgi+Swri5+o9LlfxwbPlciZLnGTZcrnhdCwpvwdK/K8gPkfjsOLJJwAApf7zqiVA1WrATHFueyQ5UYb7FTzGN2gcCT62fjqaGnSQig/9soa+tqOl2eF5w==;zHGSJx/GVcwwFCmdUU8xMw=="
 ---

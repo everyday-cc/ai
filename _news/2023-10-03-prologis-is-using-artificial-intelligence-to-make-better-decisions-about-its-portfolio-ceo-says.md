@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-02T18:57:00Z
 originalUrl: "https://www.bizjournals.com/chicago/news/2023/10/02/prologis-ai-moghadam.html"
 webUrl: "https://www.bizjournals.com/chicago/news/2023/10/02/prologis-ai-moghadam.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Business Journals
