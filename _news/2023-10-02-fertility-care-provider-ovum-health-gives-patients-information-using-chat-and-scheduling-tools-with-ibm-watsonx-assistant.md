@@ -31,6 +31,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Operationalize automation for faster, more efficient incident resolution at a lower cost"
+    excerpt: "You can take integrated, granular metrics and dynamic topology from IBM Instana to fuel action recommendations from IBM Turbonomic.\nThe post Operationalize automation for faster, more efficient incident resolution at a lower cost appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-03T13:15:40Z
+    webUrl: "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 73
 
 secured: "WEClZ+S+ZFh51p8p/iR8E3AgnSI+E4LvrSU/TdJmnP1BctlsHGTjJlQBHI0hKhkejWvbp1VjuyPRcGWYv7hSv01XmISoSgsj/v8kVKmV3iB6ycEde7bAIFh/Nv2II3+rXH2XCiWfcXfHOU9rO07v3W7PPj5dmI23qwoANpBDB6enZAv2JxUXE7c63f6rfdCeqn0jmu8omCcbx98TRa9SYLFwo+Gd+kZw6waHQVhAH/HigVE3k6rLAaQpuKv5pkcYKpGbkKztJ8KuHZtba8nJ6TSC+OS0pCiu4gOqBKiy1Fa24YRYhrudKhMT0krLZNFNEKsvpZX7+IBrnvPLkoC021zFwsUoPI/RkmMvxHM10T0=;JVXslMAyh2ggXvWWFkqiBA=="
 ---

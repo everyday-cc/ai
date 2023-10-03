@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI"
-    excerpt: "Americans have heard a lot about the potential for artificial intelligence to take over jobs now handled by humans. And like it or not (for the record, we don’t)"
-    publishedDateTime: 2023-10-03T09:33:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/"
+    excerpt: "Americans have heard a lot about the potential for artificial intelligence to take over jobs now handled by humans. And like it or not (for the record, we don’t) journalism has been at the top of many of those lists."
+    publishedDateTime: 2023-10-03T12:30:00Z
+    webUrl: "https://www.aol.com/editorial-why-artificial-intelligence-t-093000623.html"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: AOL
+      domain: aol.com
     quality: 43
     images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 682
+      - url: "https://s.yimg.com/ny/api/res/1.2/6zvmdPLHknn7kEGvXhJCSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/orlando_sentinel_local_122/8f8324c3f7402f1d8852a8b25073c5d1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "GkymAZdeKgTYHfxZMHNAwlJhodbsWj2Ti0E28UB38841mK5g8BxezGb41sBnCKAtcP/MgNvw9jEjNw6aRaq4h8cGFFgwPIWQoymTEoBh0o1fCnHhPuKAc7PTzB6W/ul44oMlksjm+Fv944vVHsx65U0gLgwsseofq3XgmtkvUmrSTlfM36VTcn15gCxxKBJGv3/WphCAkE/kVQ5kPVjkSX1bg9pn8ttEd/RSCcRUXHxv/vXtYTlYje7PKbZfB2BtnT3/qLEeYRxhWbZfgcvsNIN0Ln/lzdGKuH5Q1i4bhaRulxfzAQE2uhuc6SLzDfWprk7EGU66n+j4tO1c5JHKzn73xga1kAkUJfmY0jqg8yw=;1rJRC1agdt2TAUJxf35Zxw=="

@@ -3,18 +3,18 @@ category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
 publishedDateTime: 2023-09-27T20:41:00Z
-originalUrl: "https://www.sunherald.com/news/business/article279840919.html"
-webUrl: "https://www.sunherald.com/news/business/article279840919.html"
+originalUrl: "https://www.newsobserver.com/news/business/article279840919.html"
+webUrl: "https://www.newsobserver.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "l049r2sPGHwLJNxSibt63Dg/p1hNjH+etFFCjOrYFKCHHHRM43zHhESDEo40ufQfx94xzhxHox0/HcRRNM0XiKFwemX2HDELeG6PJpD3YDt18q87TTkMqk7tnp62480wcJC4KCVzrqPvstcMcVxE8wmS0oGGTVBPP50Nec/rGSfx8yUojUJV5uFunsJceyZwxyFilAXeJvqHBEEoglLWCFoQayHZlizGsb+CIqbFu8UYv8oU2nKEarVnKq697XeiI+K5UnHeOeLz3iwv42x7CvqmYJSwunGKC18YVRA/I8e8jURLFEDza9aSRYCrNM4EDiewAghjg1KVXVQElg/A5+XYxvjaXgOlhSLRIRz0HfQ=;DRZ4pCD2zNYTH0EFlTijDw=="
+secured: "GnOfwi0RM5AoqFukmCBY0UlHkrd8QiyTJtQ/KsF2yrgM+jl2IYyYAU6t1rs4ILxPY0IjvVzNTQE4NJnazOVyJi+DzOgzA/V1LLxhVKTaGCHI8zdfv7e9dmu4ZTF7BFs4n8rWu9uBuUoXQpxpyullSOd+tuo9/bkcEBFAsyHxK1oIE8BWoRDjy4gJf4nH+q5NwRoDB3A/ZMoDK+cI+6+iYHGWfPqGkS64BYOkYUPR/jOBve3NEeRI40vRoW4xVlfLQt1KWkL7gCW+M2Ksjmb+nrzIbr1HpA09QAXtnc2MmGp29HzwUwASRglLhVlUQNHVnmRduOvr4AYtUMJ2vxHh9sxPmOgA75gviMklrl0I5yg=;P/eblfA1tTinb4Db48TwoQ=="
 ---
 

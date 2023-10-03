@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-gran
 webUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-granite-model/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
         width: 1000
         height: 597
-        isCached: true
-  - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-    excerpt: "These IBM models — built on a decoder-only architecture — aim to help businesses scale AI. For instance, businesses can use them to apply retrieval augmented generation for searching ..."
-    publishedDateTime: 2023-09-28T20:24:00Z
-    webUrl: "https://www.newswire.ca/news-releases/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-864272711.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2171964/IBM_watson_x_social.jpg?p=facebook"
-        width: 1917
-        height: 1005
         isCached: true
 
 secured: "W3kAaodAg7DvHAMkxAm/8EAo6eDGOp6MheRuBSDcS/ZskcupJHqZ4e2rickXW9bkbNVP7U5EB3yFy+0LDXmfuwQHDR8sAI/XfXZg1VIZbzFXWO2vxe49JJ+EbnEu9CUr6FGYlADZM2yStpCLtgk4r5ezKV3G99AttEUaFcHSsaDhkF0BW6voffEyAr4RS+EnG2h6w9VbQP/OeWj58LC6vNGNjoN7BRKPsybcTna/3gG1JqnZiIUKyjk3DoUrc7Q5D26Mw8QOqscEPfyUmb4f4hozTKhyvNVqzR1T4HAfeta4xkUHAjlfyvLafftahiuzqJxcoDuZwW+O8fu0HdlLmlgQyiYNgw8pCB+WZrJHxMo=;Hhv+LRSLYXP/tCQaeonu3Q=="

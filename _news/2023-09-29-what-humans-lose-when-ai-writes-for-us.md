@@ -9,8 +9,8 @@ ampWebUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Scientific American
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How humans can absorb artificial intelligence biases"
+    excerpt: "Research at Deusto University reveals that people can inherit artificial intelligence biases, potentially leading to systemic errors"
+    publishedDateTime: 2023-10-03T13:54:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artificial-intelligence-biases/167567/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1486818906-scaled.jpg"
+        width: 2000
+        height: 1257
+        isCached: true
   - title: "Trapped in a Dangerous Loop: Humans Inherit Artificial Intelligence Biases"
     excerpt: "People can adopt biases from artificial intelligence in their decision-making processes, according to a new study. New research provides evidence that people can inherit artificial intelligence biases (systematic errors in AI outputs) in their decisions."
     publishedDateTime: 2023-10-03T09:00:00Z

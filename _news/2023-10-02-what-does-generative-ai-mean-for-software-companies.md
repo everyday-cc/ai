@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-me
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "Are Artificial Intelligence and Democracy Compatible?"
+    excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
+    publishedDateTime: 2023-10-03T15:40:00Z
+    webUrl: "https://www.nytimes.com/2023/10/03/world/athens-democracy-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "What Does the Commercialization of Generative AI Mean for Society?"
     excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."

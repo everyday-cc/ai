@@ -35,21 +35,19 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
-    excerpt: "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next"
-    publishedDateTime: 2023-10-02T19:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind&amp"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind&amp"
+  - title: "Microsoft CTO Kevin Scott on how AI and art will coexist in the future"
+    excerpt: "Kevin and I talked about how things are going with Bing and Microsoft’s AI efforts in general now that the initial hype has subsided — I really wanted to know if Bing was actually stealing users from Google."
+    publishedDateTime: 2023-10-03T15:00:00Z
+    webUrl: "https://www.theverge.com/23900198/microsoft-kevin-scott-ai-art-bing-google-nvidia-decoder-interview"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 102
+      name: The Verge
+      domain: theverge.com
+    quality: 86
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.vox-cdn.com/thumbor/1nU002FuqGvs5h2bLxxyvxrwiAE=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971211/KevinScott_Decoder.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
     excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
@@ -122,6 +120,29 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
+    excerpt: "Bing Chat, an AI chatbot from Microsoft similar to ChatGPT, allows users to upload images for the AI model to examine or discuss. Normally, Bing Chat refuses to solve CAPTCHAs, which are visual puzzles designed to prevent automated programs (bots) from filling out forms on the web."
+    publishedDateTime: 2023-10-02T19:58:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 60
+  - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
+    excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
+    publishedDateTime: 2023-10-03T15:12:00Z
+    webUrl: "https://www.restaurantdive.com/news/dominos-microsoft-partnership-generative-artificial-intelligence-ai-operations-customer-experience/695450/"
+    type: article
+    provider:
+      name: restaurantdive
+      domain: restaurantdive.com
+    quality: 54
+    images:
+      - url: "https://www.restaurantdive.com/imgproxy/x5Sak_tdplFC4VVpOtv1ScTzqv_MQQ0R-XjGT1DrObQ/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0RvbWlub3NfTWljcm9zb2Z0LmpwZw.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
     excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
     publishedDateTime: 2023-10-02T13:00:00Z
@@ -131,6 +152,15 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 49
+  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
+    excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
+    publishedDateTime: 2023-10-03T12:36:00Z
+    webUrl: "https://www.qsrmagazine.com/technology/dominos-and-microsoft-create-ai-focused-innovation-lab"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 34
   - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
     excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
     publishedDateTime: 2023-10-03T11:01:00Z
@@ -140,6 +170,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
+    excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"
+    publishedDateTime: 2023-10-03T13:23:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/10/35061660/baking-tech-into-pizza-dominos-and-microsoft-cook-up-an-ai-driven-future-for-store-operations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "gRdoUEkHXSM7Mp5CcGbKKK/lO6oXLOBtQjGzphUGevCeroZ8x81y8+hBHouQWjEc6wvJmapuZRsGdNmLdQV8/LJcS63qQjINbpHMe2y6KdFi8Orj9/yd8CPDcX104pGJL4q0MPjkr4mIzXHeD05XPuZCINmtxK72LourkahYUWDDdfGQKVkxB3ywmT+GdZO1JeD4girC4bxYVuElwY2Zw2ERYY6i+jAtTOFF+Z/1cAei3JlLHY/K5WroUZaiYChygU+oT8+4A7YlAnGDXn55vmeMwk2wut0uoM3Zqc+3+1PuZwmSwwQ2ZI9I6kPzCyIeGa56J1ydHFsUPqOUaYgwLhGo9bXc0g4ba//hadmO341awWxGFvq/eTWJ1ONdvvAdYRGIZddyVxPBX320cbUFXZlbPQ0yGHaCpB8x5fAvCz3hcJ8cF5UPEnOnNTKAglbM8PHaBfrrXMycRtT24AYpKZyVl0drKGoMrxLlvHudz5Z6/ekjlw1SCO0uo3ix355/HM1R/Im2a2WvsX7ivl8t/A==;42JVju7w1KTyyt2CNy/TKg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-wit
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,7 +50,16 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Samsung to develop AI chips with Canadian startup Tenstorrent"
+    excerpt: "The development comes as dominance in the AI chip market is currently held by American tech manufacturer Nvidia, which develops some of the world’s most powerful semiconductor chips for large AI models."
+    publishedDateTime: 2023-10-03T11:58:00Z
+    webUrl: "https://cointelegraph.com/news/samsung-ai-chips-canadian-startup-tenstorrent-nvidia"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
-secured: "gVV2aUFdfz3QHw7ZdSbNMxmSO5iqzlh1B7jQqVIHwDfrFDJenSZNsWMQ1jcRS/2xI8jpSkS5y+ZvzhTJixvE4wZsbvpFvXM0GiaHbbiKSrO5SbxZDM4IiJKEW5QuIxApLyRJXLvBHPjAgZvGNXAksBPNYdjLy2D9haACg5EnYkX5wEbi9nM4/0D0rWuBAtplU4qWeBPTOO6iVSQgRw06VWzwwi/2cIHLLE4YlwZ/wbSdZEEaCQQ4bsxxsPZM4QLvjh/cHUKZTkXFc/+levlse29fwdqUX3Kuy0vjTPU3fy55SEhSnHpO/dSPpLM65+mUY+XeJfzU3EucOpcL4tc/IVUsVSnWn4k8tL4G1L7dr5U=;/mqftvUms2GQLJt5phCkqw=="
+secured: "JZWbYDHis+0pQbzgEmNmiZbQJUoziARdCjemtoxD4vBhr0ATg9foABvrdg1Eo2v5aQY2L0O2YYrM1QFxznmr5rO4stfg8PQ5mMxmmB9HUImB2jsJLexZn6xYddBG7X8kXDDT+/Rn3o5aF9GR90dgFWS+kYPpothNe1WTS1Q7Vm15ZlDM8MEihNewL7Xt21dZYDCZjYEH0Erl/dNu7mhHDa8DQcUxxh/EwKMSkclzs8Ui6fgqlwqe4Hna+GYrWFkh+5cJMtbh29OidKpKnFH/BtE977LO9R68YjeGh3VehvqJNMqG51VJHdis0WGaRm52yA6+ec6R7olWWfy8fGHM3z7kemwzO8Agtxib0dTsMdueEM8UUNZ+rJMojNGznE+Bn/vLR8+mo26M3TZHg/aAVP9JKmi7LxABDcgi+Swri5+o9LlfxwbPlciZLnGTZcrnhdCwpvwdK/K8gPkfjsOLJJwAApf7zqiVA1WrATHFueyQ5UYb7FTzGN2gcCT62fjqaGnSQig/9soa+tqOl2eF5w==;zHGSJx/GVcwwFCmdUU8xMw=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "Driven by breakthrough AI, humanoid robots make grand entry"
 excerpt: "AI, the creation of robot hardware, the implementation of bipedal or wheel drive locomotion, and human-robot interaction are the four key categories under which humanoid robot research is classified. These commercial developments are expected to help in the market expansion of humanoid robots, ReportLinker added."
-publishedDateTime: 2023-10-02T23:35:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
-webUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
+publishedDateTime: 2023-10-02T23:43:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
+webUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202310/03/651b8a6da310d2dc6d28e01b.jpeg"
-    width: 721
-    height: 480
-    isCached: true
 
 related:
   - title: "The Synergy Of Artificial Intelligence And Robots In Medical Practice"
@@ -56,6 +50,6 @@ related:
         height: 503
         isCached: true
 
-secured: "PYVFMNZ6djVwGXJPjHREQMaecudy6HSsjyH0ypvV8d7tXSsH3d6qybu7aFMnzL4MshY24Tt4qjaU2wACB9xlPkJ5Sya00QJbZQb7AlH51maegyOYo6jniCSSwOmwd1hh+apwxWlvT6E7pe3Y/7pCWxq2BvwpDGm1NnLU3CroCXKL28CKqInm/R67oOwhtEc1wYc2NSu1El52Wz1anVJDBgmbCRMoJ0UQ1gvR5oH2QVNkB3v1VxHgZSitRwMx0EVI2hq1JaQfGUSh00YMc22VckmzHPQ2o3A1yjQU2aCwh8TYHWMeBin6HWLwjx7xYN9r5y1+Qp8bkSIFaW2tvjMDE3mVL8Po9zxfGCgpSfAKSik=;vJYzJdeS1pSsEpOnK7m2lg=="
+secured: "SugJguRxyfKHQ4cngCKBejxqt4VutKRGeHyc1ba93XlRmk33tkMiq6ICfXpJGDW2JjLnAh/MdN1AqS+eQGB1Lni5qtkezh0h0Fs5TRIF50wnljhyW9WcTaAmD6rffyvl4hw0yXvit0xJELoBZFEzEdvX5xbGjk996cMeStrCwwcmJ0yRDEwz7LtS59fQGVIeoJmQP4xZHZhJKAuJfdiKmGRKz00PxKpvdRmtY4sIcrssKKOG/aSpa0dHYanjIlOaes0BD1DFcaHHwG28o+xhEwIwN+SIrvFoyuqlHj98SDd+59DqLYx6zstUjO9PL0QW5dWlGrwOaNYAYiwnSBULes3MzLTDgGRDrb4WmZsSB3E=;g9PqD662XkmHFXeeSCwgow=="
 ---
 

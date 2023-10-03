@@ -39,20 +39,6 @@ related:
         width: 490
         height: 231
         isCached: true
-  - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-    excerpt: "These IBM models — built on a decoder-only architecture — aim to help businesses scale AI. For instance, businesses can use them to apply retrieval augmented generation for searching ..."
-    publishedDateTime: 2023-09-28T20:24:00Z
-    webUrl: "https://www.newswire.ca/news-releases/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-864272711.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/2171964/IBM_watson_x_social.jpg?p=facebook"
-        width: 1917
-        height: 1005
-        isCached: true
 
 secured: "+mQpXfjLIYNyAf1w6m+t1pz1SACS9d4dl+HUtXzrwoHdDC9N0CHUcJSLjR/CM7o+csbAHLDBhY+Kkbm8+8zkVIauYTRNiC6/AVxN94PuE6lLpktSCUUwSne7OPYRe65LX3AB2am4CPG0GHGToXtRXGolUVQZx06yAXKfEYpdW4v6cMJq7GzIwleMZ8YWTpIzLmmGyUpIMlkJCV7JJGzIkmNseUkoDJZkF5Tg4+k2Dfh8FZM2007LoRTUu6xBbEbn46zjUsfxifed6qE8oTrd1n5F6zJOmPnAvlGgYWmxuN40OdRNzn3Ilpj2SHEkmJnXcfHZTIoEZZZ3dAYo0h+2kDMnwiY7Z3OBlixZAoYwb/o=;k6oO4obQ3w0l1PaQQJrpIw=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Are Artificial Intelligence and Democracy Compatible?"
+    excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
+    publishedDateTime: 2023-10-03T15:40:00Z
+    webUrl: "https://www.nytimes.com/2023/10/03/world/athens-democracy-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "zZmhfqK8xVGzQapuAz+pTyVx0AgZ+qdfNkQ1lEeryqVzCOgCS3dvSUT0EVem9t0xjlTY16Q5CkustZpPS2kyM+e+aVSUVCi7tOGC9283zG6KkFV7EQuubBru+Xmou9Yb7G57CCNXaXnRUFN+RnjgDCFVx7uWnVZW0V3ShShHbXWcIbW8q6qm7k4JwLkFtu51Fl2ag3nkHm8PIEQx94pRDYW9WNwHRmHKszud2vKBGxupusTSLDslkPQ0duC0KYab7h3U5Q4L4sR9tNWvh20U+uacfi6L6eyWdFpad/ii4PDGOafI4iK+yZTuzpRF86trvSl+ZrD0HDC6qsFwo5bFKfp4gZ4rjbbzrMqfGzu1jMg=;+Zdsz4k/npj8UXAQ5ufwUA=="
 ---

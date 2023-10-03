@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Ganymed Robotics Announces Appointment of Seasoned Leadership Team to Bring to Market Its Next Generation Surgical Technology"
-excerpt: "Ganymed Robotics, a developer of computer vision software and robotics technologies for orthopedic surgeons, is happy to announce a series of senior leadership appointments to drive the company’s growth as it prepares for industrialization and commercial launch."
-publishedDateTime: 2023-10-03T09:30:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2023-10-03/ganymed-robotics-announces-appointment-of-seasoned-leadership-team-to-bring-to-market-its-next-gener"
-webUrl: "https://www.pharmiweb.com/press-release/2023-10-03/ganymed-robotics-announces-appointment-of-seasoned-leadership-team-to-bring-to-market-its-next-gener"
+excerpt: "Ganymed Robotics announces a series of senior leadership appointments to drive the company’s growth as it prepares for commercial launch"
+publishedDateTime: 2023-10-03T10:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231002032667/en/"
+webUrl: "https://www.businesswire.com/news/home/20231002032667/en/"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
-    isCached: true
-
-secured: "xygI5jJ8+/6ekxWvgLF/xEm5F1Yb5gJDrdbAuXp/tYLyk0LzK2IgTohWQANTDVMOpmCYq9JZ2aGsNKclgaiXKRhxKwvTdGmE6s2OdkMmfJQ6WvK/klfyT/lYW5u958Qvuz9kz/MsBvWi5+8PRoB/DfqH/qpX939Q8A0R1BfQziC1pd3J6cjj+SDMOD3Sw3OdXgUFDipBFj9Ge1DHsfNiDCHhiBZgyzEqJgtGlpLRNigzx6j/BhCut04k8yiXCQvD4iAizhWxfz9zGnN+3httAEhHuTUP4+ByPYWYhdgAOi1A99SGRx0xIo67Xq8y6FGtVqAzZtPqecQAAKJwVXzbtOjDpTSWqBHOtLrOpsYx5oY=;e90ID2vdoouthbax4MFiXA=="
+secured: "Jo+stZpBDY1MGhET4Naq6vL2w1w+EhJT47ZntS236DN1geR5bwSfiTK2+uSVVxGJmufN9zI8UBvxOiXkzzPRfNTYbPbPVO7V4Co32LErKFpf1pXC1mT9noGR9giFSIy9DDgq70LPnRDSNuZc0yUFgBu6lvynDq2ViLGu0QELKIzVxjpnAahL2M66eCyEqfrY1TSCJmr2AIejx7MaUGmRR6Yc2W9AgEhLhrvBE506SfAhJaxN9yu4jMRxIR6Iw/Thcf9c2CG0L8swys39tNBsiXwWobH0YmGs75+awkEYlLd+Z9/9h/uJ24VqhJvIb8iBg2Yig2OFgTLvKf6p7DL44sU7H3W7IO5VCiJsIkjkd44fFFr4ltMscIDoD4ZzyMu3ARaE2XcYt9o0pbizmjb6Gf/chrPIUQUzY6tIbyIXGt26lS5tbT87zZvxseDbsKAUi7cN22Ki8RYZC5VC4hFH/g2+peu+DMI0bLIYktR01Qci9fzn1N7MvTkxoq0hRRp87idjFSHtR5drMS5jK5wHCQ==;RaBPCLWLzbIxlC1trD6Sjg=="
 ---
 

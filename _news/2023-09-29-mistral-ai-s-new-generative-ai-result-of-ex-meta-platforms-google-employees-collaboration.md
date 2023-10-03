@@ -30,6 +30,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 34
+  - title: "BrainChip Makes Second-Generation Akida Platform Available to Advance State of Edge AI Solutions"
+    excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced the Early Access availability of its second-generation Akida™ IP solution for use in a wide range of applications across the Smart Home,"
+    publishedDateTime: 2023-10-03T14:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/03/9891721.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "4Wh20VVh67xptxdjgzQKTSnyGwvmhBoIaldAPY34SbSmKRY1nL9drEscQ/B9OZ28F+JDBHhwr8gXr8JzkyjayrVc9R9svF9uiqri3liE4Gs/+rxA/ogEuvor6mx0s3n+e2VVSvW+5oD5DuF237m6SLYZJU1HqEhvjp51hdo9+/IhcUiqVeVYtUe/dJj7/U/MmoRfuleH09ay4QX2VLt8gD5A91bjYUU2ikrMAkm2psXWk7PvHeHrFvMAORsl/kXaNWFGybNppTnLxZwrf2KBezHNTsUKv92m+PUiA8PC+A06cRN+UEIJ/6Q58R49QT9YfeA4LdBm2NhboPBqu7H63LH2+dHZpMvQ5PGL8CR6mEU=;X+3E2XTmw/zU/kSz/ebOiA=="
 ---

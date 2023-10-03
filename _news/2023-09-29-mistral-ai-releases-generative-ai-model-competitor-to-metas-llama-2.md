@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 816
         isCached: true
+  - title: "Are Artificial Intelligence and Democracy Compatible?"
+    excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
+    publishedDateTime: 2023-10-03T15:40:00Z
+    webUrl: "https://www.nytimes.com/2023/10/03/world/athens-democracy-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "What Does the Commercialization of Generative AI Mean for Society?"
     excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
     publishedDateTime: 2023-10-02T10:00:00Z

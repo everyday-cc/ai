@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-
 webUrl: "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - IBM AI
 
 related:
+  - title: "Operationalize automation for faster, more efficient incident resolution at a lower cost"
+    excerpt: "You can take integrated, granular metrics and dynamic topology from IBM Instana to fuel action recommendations from IBM Turbonomic.\nThe post Operationalize automation for faster, more efficient incident resolution at a lower cost appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-03T13:15:40Z
+    webUrl: "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 73
   - title: "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant"
     excerpt: "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n"
     publishedDateTime: 2023-10-02T13:00:00Z
