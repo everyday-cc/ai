@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New York bans the use of facial recognition technology in schools"
-    excerpt: "Commissioner of Education of the State of New York Betty Rosa banned the use of facial recognition technology (FRT) in New York schools on Wednesday after a state report found that student privacy risks outweighed the potential security benefits."
-    publishedDateTime: 2023-09-28T10:28:00Z
-    webUrl: "https://www.jurist.org/news/2023/09/new-york-bans-the-use-of-facial-recognition-technology-in-schools/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 39
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/07/data_privacy_1627064952.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Time to Ban Facial Recognition from Public Spaces and Borders"
     excerpt: "We are at a fork in the road regarding states’ approaches to facial recognition surveillance. On the one hand, governments in places like Israel and the United Kingdom are progressing plans to roll out widespread use of this powerful biometric technology."
     publishedDateTime: 2023-09-29T19:10:00Z

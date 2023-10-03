@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
+    excerpt: "20, 2023, in Atlanta. Reid says the use of facial recognition technology by a sheriff’s detective in Louisiana led to his arrest for crimes he did not commit. (AP Photo/John Bazemore ..."
+    publishedDateTime: 2023-09-28T13:07:00Z
+    webUrl: "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 40
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2023/09/AP23263542093669.jpg?w=788&h=0&crop=1"
+        width: 788
+        height: 525
+        isCached: true
+  - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
     excerpt: "Randal Quran Reid was driving to his mother’s home the day after Thanksgiving last year when police pulled him over and arrested him on the side of a busy Georgia interstate."
     publishedDateTime: 2023-10-01T15:44:00Z
     webUrl: "https://www.columbian.com/news/2023/oct/01/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"

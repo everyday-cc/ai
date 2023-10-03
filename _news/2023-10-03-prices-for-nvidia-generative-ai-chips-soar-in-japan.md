@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Prices for Nvidia generative AI chips soar in Japan"
-excerpt: "Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance,"
-publishedDateTime: 2023-10-02T21:46:00Z
-originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
-webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
+publishedDateTime: 2023-10-03T02:03:00Z
+originalUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
 type: article
 quality: 54
 heat: -1
@@ -67,6 +67,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
+    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
+    publishedDateTime: 2023-10-03T01:46:00Z
+    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "EU starts early-stage probe into Nvidia-dominated AI chip market’s abuses – Bloomberg News"
     excerpt: "The European Union is examining alleged anticompetitive abuses in chips used for artificial intelligence, a market which Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
     publishedDateTime: 2023-09-29T16:13:00Z
@@ -105,6 +119,6 @@ related:
       domain: techzine.eu
     quality: 19
 
-secured: "LTljUOo+lBl4rd73ie8jcI5Gz93Cmm404D6zzxpcdj66544XgOkgEwl2T8F4oSEGbHJ8hhrRF5Jwx6R/MXwCHDmHxYOiQcd3cvXxwMOtkixHkPcgbTyAURi+HcMf7S/YA2o/8Zt8XSU9HB0egJIcJaHMtc4SxdJMnXB1c9faOsiJimmsBDuJU7RGI2CfGN04/5rdHwDYxNFMOYJk7XnQS11SEMUriPu4Og3ysp8WutrATISnwIZvSf4WTZTOrnVQJctfoddUzZjFvyBsj432AJoydMrQQsZ9fx+TPs2S/kRQmNK7AkBKdE4ycrM3nocwfQpb+S1DnOlpweAlLKhzisZNflAQf8bqTR//uMIFzmw=;Cz+rkFWD1hOw66mxv8L5Dg=="
+secured: "Nw/U+yo86K/w7ltlubiFcMEnX+vshAQg+XG15+LPHQrpEooUvwfyT7znMtnqVLViOKYmpWbgCEBDhSx8c0XYnoM19BNQZJ3QdJVqhZsjj/OxCKfQbBcL9UHa0iN/MpwwyLtyjYwzLOeIefjEfq+H3lE0oLe3MlXNpMUlhYURGWyp0E+l++JASuDa6p/6x0HjgpEiEMW4wp0kdrD4ubHKEgPKX0eEeurVuig/6lGX1CvDwaVZu3yiufoEjcN77JFMNg/r+2XQtwf1j7GtjiYW3UjOPm0UFfTL40dNl7KmRgYi4eBupW5t0qyJ8WD/0qz5rNo2d58yiJO9VhqgPUUV4pkjtA/GFmOKX2R1yjO+PTA=;joTiyKqezcsBv04ulxn4fA=="
 ---
 

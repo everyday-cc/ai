@@ -44,20 +44,6 @@ related:
         width: 896
         height: 448
         isCached: true
-  - title: "UAE’s advanced Falcon 180B available on Amazon SageMaker"
-    excerpt: "Trained on a cluster of nearly 4,000 A100 GPUs, Falcon 180B is finely tuned to work seamlessly with the Amazon SageMaker environment. The use of Amazon Simple Storage Service (Amazon S3 ..."
-    publishedDateTime: 2023-09-28T09:48:00Z
-    webUrl: "https://www.tradearabia.com/news/IT_413880.html"
-    type: article
-    provider:
-      name: Trade Arabia
-      domain: tradearabia.com
-    quality: 54
-    images:
-      - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?05:02:21am"
-        width: 680
-        height: 450
-        isCached: true
   - title: "UAE’s Falcon 180B Breaks Boundaries: Most advanced Falcon 180B Openly Available Large Language Model (LLM) Trained on Amazon SageMaker"
     excerpt: "In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, announced that Abu D"
     publishedDateTime: 2023-10-02T08:19:00Z

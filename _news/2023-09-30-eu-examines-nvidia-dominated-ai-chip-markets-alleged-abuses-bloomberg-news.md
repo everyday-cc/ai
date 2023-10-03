@@ -54,9 +54,9 @@ related:
         height: 628
         isCached: true
   - title: "Prices for Nvidia generative AI chips soar in Japan"
-    excerpt: "Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance,"
-    publishedDateTime: 2023-10-02T21:46:00Z
-    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
+    publishedDateTime: 2023-10-03T02:03:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
     type: article
     provider:
       name: Nikkei Asia
@@ -66,6 +66,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
+    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
+    publishedDateTime: 2023-10-03T01:46:00Z
+    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "EU starts early-stage probe into Nvidia-dominated AI chip market’s abuses – Bloomberg News"
     excerpt: "The European Union is examining alleged anticompetitive abuses in chips used for artificial intelligence, a market which Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."

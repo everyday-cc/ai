@@ -5,10 +5,12 @@ excerpt: "A better understanding how the human brain makes memories could help u
 publishedDateTime: 2023-10-02T18:46:00Z
 originalUrl: "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/"
 webUrl: "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +24,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "8bl6KgEBejIi3z0hrlTacRpvA1Axowr4mjEwff4wfGXwD5cYEajBR9DwYmQo3pihZYyoa/xlneCAUGHO7zTsvN3XHZPbzk4P4lZxv1kDHgjZAhnPAQYLoX/2EKZ/+J6K1X39OXyAQQBMA/Eplzy6pwv+5LHgbBP/fSBakn5b1hDjUgVFnGNV6PC95o84JDUm2YF6pnw1ry6q7pNGiYKSiTD0A0vNYifKvs96kkgguq7LlXtj/XXoq9KLL2dlqPYu2lVCz1PSaNFpfp09QpCK3/PdCuRgVykw6xLd1mW1PK36vwmtOejmZwuySKpVxJ9LmXdXdGor5B28TUnTZD1V909oUewrMiMk3eaSTagJvzo=;jz3kZEYKipNern+xbfzBmg=="
+images:
+  - url: "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "+Gi2/sxgaFMv9RLyhg6zQJaWGTs7Wf0jQdb7U10aLaIMGLfUsf8rM7KJND0KBNnn8eayO/jM3Xy/yRwzW4P9+Tjzo0IPWGHEk9Cf1QGBYpjUcObRsMgfLm80OO2coHeqPLErldobsGrvM5MmwQObCjy0nt0mKhxyMLTYwuJMEDvAgfmRde1hqB5Z4SPi68BVuMlE7I78OP52SnGWQ+6gBZofxTaDJKrkVNvXWoxzx3909sdwHzTTEkv/Lw0N6Q4YVH1mDNbE/wKPr5BLptTbsNrPzjMPyb3Utj3E+trcBlMqZzaKMCDWbsmZSl+uR0fsSeVZI5JcAp9rMyu4cLHru7mzCwe5I+gZDMmeoNIAE3U=;+KYSWcJjLJaREapyTdLDag=="
 ---
 

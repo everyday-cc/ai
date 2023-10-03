@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The implications of the generative AI gold rush"
+    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
     excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."

@@ -7,7 +7,7 @@ originalUrl: "https://www.thaipr.net/en/auto_en/3390967"
 webUrl: "https://www.thaipr.net/en/auto_en/3390967"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 768
     height: 512
     isCached: true
+
+related:
+  - title: "Flying and self-driving taxis: Dubai embraces the future of transport"
+    excerpt: "There is also talk of delivery robots - four-legged, semi-human vehicles that can deliver online purchases and medical supplies"
+    publishedDateTime: 2023-10-03T01:54:00Z
+    webUrl: "https://www.brecorder.com/news/40266103"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/10/02213405a415277.jpg?r=213428"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "wJ9O5iLibjX3sw39y2VubZEPDF+mbEbWvLifc4+tQzKGN1Ea7pLnL9qbSvp4/OafhF7kiMzAzpAhu6gOAq4bbCgsmfoMtTnhu6XjOYqAXtLvkSyVK41gFAbUI5ndtZQ3RiUa48m0V2v3vhpbJY7IlslZZfsy0e5/x8MQuX0S2BgyvSYuXoUQj5NLJoDrUYXfijlt/EAt4m7YdNmai/xOdPPdT78DLmwshD7vi8IR0X+e7UFzX/cDk7ZZguUtHd9nxyBFilzJz7voD0H3d9GY8ddtZvlCJN+3uaYeK7Wdkk5T1Dh0SehCcVrvuN1fWc0834cUteJZ9V1wgtf1/OjwgRkgmkiIHiTd6DNCCWJhD8I=;IytLJ7YfKTQ5qTsAjT9WJg=="
 ---

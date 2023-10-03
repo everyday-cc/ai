@@ -28,6 +28,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
+  - title: "FAU Engineering study employs deep learning to explain extreme events"
+    excerpt: "At the core of uncovering extreme events such as floods is the physics of fluids – specifically turbulent flows. Researchers leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows,"
+    publishedDateTime: 2023-10-02T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1003278"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/355c4e68-9232-47b2-b732-f2483bf330bb/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 274
+        isCached: true
 
 secured: "1BX9tQtfeq0smR701F0RQz0cfEjXulnYYxtv2HcL0fN0topdRqGD8tXRHiFTFJ9B7RPB5BgDCb54w9RZ2ECAcoRFGu5s0XbXHu3e9PP4n4l6JBpLOgwua46BgTBNrKCq/TOVneG14QdNI8R1L2RdaTaTHd10gswbufw8IGH+SgcViQyUQmwwk1DY2UGMHaVPZ7lTGHo8I2niYMi6Ybb4/sM2CT107C3qYKprKCn6B/7hwEUpJTY5y/Zm4Xn74WsvN6OKKgiL/hu1VAZiAlSkQwejs0jLgsGOJCgkMlbfQdoyMcDoS5w8nJ5c2SUbSRqIylbv/oQqj/HYKa/W3TYNGhQefQWyykBG3t5qqEXEwiQ=;WbyGXaeEkYhfoDFvoN294w=="
 ---

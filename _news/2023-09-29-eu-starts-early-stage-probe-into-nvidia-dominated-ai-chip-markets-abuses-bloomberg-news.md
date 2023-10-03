@@ -54,9 +54,9 @@ related:
         height: 628
         isCached: true
   - title: "Prices for Nvidia generative AI chips soar in Japan"
-    excerpt: "Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance,"
-    publishedDateTime: 2023-10-02T21:46:00Z
-    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
+    publishedDateTime: 2023-10-03T02:03:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
     type: article
     provider:
       name: Nikkei Asia
@@ -80,6 +80,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/571f0c458515ef2decc79613eebdfa6f"
         width: 800
         height: 533
+        isCached: true
+  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
+    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
+    publishedDateTime: 2023-10-03T01:46:00Z
+    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Is Nvidia abusing its dominance in the AI market?"
     excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."

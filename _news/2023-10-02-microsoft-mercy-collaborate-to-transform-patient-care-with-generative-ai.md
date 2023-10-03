@@ -35,6 +35,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
+    excerpt: "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next"
+    publishedDateTime: 2023-10-02T19:58:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind&amp"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?ref=emergentmind&amp"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 102
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
     excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
     publishedDateTime: 2023-09-30T04:34:00Z
