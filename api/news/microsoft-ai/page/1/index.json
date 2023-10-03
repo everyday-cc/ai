@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -291,6 +291,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
+      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
+      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Photograph ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "originalUrl": "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
+          "width": 670,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "publishedDateTime": "2023-09-27T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
       "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
       "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
@@ -407,49 +450,6 @@
       "provider": {
         "name": "IBS",
         "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
-      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
-      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Both organisations are bringing together their respective artificial intelligence (AI) capabilities to enhance enterprise functions with AI-enabled solutions across multiple industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "originalUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
-          "width": 670,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "publishedDateTime": "2023-09-27T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
         "images": null,
         "publishers": null,
         "authors": null

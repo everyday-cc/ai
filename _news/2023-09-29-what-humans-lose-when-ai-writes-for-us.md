@@ -9,8 +9,8 @@ ampWebUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Scientific American
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI stories are more about humans than about machines"
-    excerpt: "But the more thoughtful AI stories are really more about humans than about machines. The scenarios about good AI versus evil AI push society to consider ethical frameworks for the technology: How can it represent and embody our best and highest values?"
-    publishedDateTime: 2023-09-28T17:49:00Z
-    webUrl: "https://www.csmonitor.com/text_edition/The-Culture/Movies/2023/0928/Why-AI-stories-are-more-about-humans-than-about-machines"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 19
   - title: "Trapped in a Dangerous Loop: Humans Inherit Artificial Intelligence Biases"
     excerpt: "People can adopt biases from artificial intelligence in their decision-making processes, according to a new study. New research provides evidence that people can inherit artificial intelligence biases (systematic errors in AI outputs) in their decisions."
     publishedDateTime: 2023-10-03T09:00:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/samsun
 webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/samsung-to-manufacture-chips-from-ai-chip-startup-tenstorrent"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Samsung partners with Tenstorrent to produce next-gen AI chips"
+    excerpt: "Canadian computing startup Tenstorrent has announced that Samsung Electronics, the global leader in chip and smartphone manufacturing will be producing the advanced next-generation AI chipsets for the company."
+    publishedDateTime: 2023-10-03T10:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/samsung-1696324543.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Samsung to manufacture next-gen AI chips for Canada's Tenstorrent"
     excerpt: "Samsung Electronics, the world's largest maker of memory chips, will build next-generation artificial intelligence (AI) chiplets for the computing startup Tenstorrent, the Canadian company has said."
     publishedDateTime: 2023-10-03T08:54:00Z

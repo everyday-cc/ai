@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-17-new-1b-fintech-fund-aims-to-plug-uks-2b-funding-gap.md",
+      "title": "New £1B fintech fund aims to plug UK’s £2B funding gap",
+      "excerpt": "The UK has devised a novel solution for a funding gap: more funding. In a bid to strengthen the country’s financial sector, up to £1bn (€1.2bn) has been allocated to a new investment vehicle for fintech firms.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "originalUrl": "https://thenextweb.com/news/fintech-growth-fund-funding-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-9-1.jpg&signature=7e8b838df607dd6d1a8cbbf070c273ea",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
+      "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
+      "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
+      "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech.md",
       "title": "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech",
       "excerpt": "Hopper has dubbed its products “fintech” after the trend in companies ... OptionsAway, Gravy.AI, and GDX Travel. “The company is actively looking to acqui-hire other teams in travel, data ...",
@@ -1202,102 +1297,7 @@
         "AI in Finance",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-07-26-generative-ai-a-big-bang-moment-for-fintech.md",
-      "title": "Generative AI: A Big Bang Moment For FinTech",
-      "excerpt": "FinTechs should know to approach generative AI with the right priorities and modern tech infrastructure in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/",
-      "publishedDateTime": "2023-07-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028.md",
-      "title": "AI in Fintech Market Size, Trends, Demand, Growth and Analysis 2023-2028",
-      "excerpt": "IMARC Group, a leading market research company, has released a report titled AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33383147",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383147",
-      "publishedDateTime": "2023-07-25T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

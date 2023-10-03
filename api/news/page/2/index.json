@@ -2,6 +2,390 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-02-tom-hanks-warns-fans-that-an-ai-version-of-himself-in-a-dental-ad-was-created-without-his-consent.md",
+      "title": "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent",
+      "excerpt": "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
+      "originalUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
+      "publishedDateTime": "2023-10-02T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-openai-is-encouraging-people-to-use-chatgpt-for-therapy-thats-dangerous.md",
+      "title": "OpenAI is encouraging people to use ChatGPT for therapy. That’s dangerous.",
+      "excerpt": "Now the company appears to be encouraging users to think of this as an opportunity to use ChatGPT as a tool for therapy. Lilian Weng, head of safety systems at OpenAI, posted on X, formerly known as Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058",
+      "originalUrl": "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230929-chat-gpt-therapy-cs-3fafee.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/rcna118058",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058",
+      "publishedDateTime": "2023-10-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-freedom-on-the-net-report-highlights-dangers-of-ai.md",
+      "title": "Freedom On The Net Report Highlights Dangers Of AI",
+      "excerpt": "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651a8dc65c8025d4ba1aee21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
+      "publishedDateTime": "2023-10-02T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
+      "title": "What does generative AI mean for software companies?",
+      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "publishedDateTime": "2023-10-02T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
+      "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
+      "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
+      "originalUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips.md",
+      "title": "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips",
+      "excerpt": "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
+      "publishedDateTime": "2023-10-02T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-robin-williams-daughter-says-she-finds-ai-recreations-of-her-fathers-voice-personally-disturbing.md",
+      "title": "Robin Williams' daughter says she finds AI recreations of her father's voice 'personally disturbing'",
+      "excerpt": "\"I've witnessed for YEARS how many people want to train these models to create/recreate actors who cannot consent, like Dad,\" she wrote on Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
+      "originalUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/651a23acec74fc001906fb3d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
+      "publishedDateTime": "2023-10-01T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-ai-assistants-boost-productivity-but-paradoxically-risk-human-deskilling.md",
+      "title": "AI assistants boost productivity but paradoxically risk human deskilling",
+      "excerpt": "AI assistants can boost productivity if used judiciously, but we must not implement the technology in ways that degrade human capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-assistants-boost-productivity-but-paradoxically-risk-human-deskilling/",
+      "originalUrl": "https://venturebeat.com/ai/ai-assistants-boost-productivity-but-paradoxically-risk-human-deskilling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-10-blockbuster-ai-ma-deals-on-the-horizon.md",
       "title": "10 Blockbuster AI M&A Deals On The Horizon",
       "excerpt": "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face.",
@@ -158,6 +542,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-01-new-york-bans-use-of-facial-recognition-technology-in-schools.md",
+      "title": "New York bans use of facial recognition technology in schools",
+      "excerpt": "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "publishedDateTime": "2023-10-01T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGRZ",
+        "domain": "wgrz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-my-way-or-the-ai-way-companies-approach-govt-for-infra-amid-gpu-scarcity.md",
       "title": "My way or the AI way: Companies approach govt for infra amid GPU scarcity",
       "excerpt": "GPUs are the highways AI requires. Companies are therefore petitioning the Centre to invest in the vital compute infrastructure so that local startups can compete and win meaningfully in the frenetic global AI race.",
@@ -243,57 +670,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-the-creator-review-its-ai-that-wants-to-save-humanity.md",
-      "title": "The Creator Review: It’s AI That Wants to Save Humanity",
-      "excerpt": "Gareth Edwards’ new sci-fi film invites audiences to cheer for artificial intelligence that affirms the value of human life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-creator-gareth-edwards-review/",
-      "originalUrl": "https://www.wired.com/story/the-creator-gareth-edwards-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6515e9932c8d43531bef449d/191:100/w_1280,c_limit/The-Creator-Review-Culture.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -831,383 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
-      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
-      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "publishedDateTime": "2023-09-29T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-what-humans-lose-when-ai-writes-for-us.md",
-      "title": "What Humans Lose When AI Writes for Us",
-      "excerpt": "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
-      "originalUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/52B06311-23CE-4ED6-BB477C2A55AF5B62.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
-      "publishedDateTime": "2023-09-29T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-real-time-transaction-data-analysis-with-ibm-event-automation.md",
-      "title": "Real-time transaction data analysis with IBM Event Automation",
-      "excerpt": "How real-time transaction data can be put to work in IBM Event Automation.\nThe post Real-time transaction data analysis with IBM Event Automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
-      "originalUrl": "https://www.ibm.com/blog/real-time-transaction-data-analysis-with-ibm-event-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T04:55:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ibm-cloud-inactive-identities-ideas-for-automated-processing.md",
-      "title": "IBM Cloud inactive identities: Ideas for automated processing",
-      "excerpt": "Identities that are inactive should be cleaned up for security reasons. Learn how to automatically tackle the problem on IBM Cloud.\nThe post IBM Cloud inactive identities: Ideas for automated processing appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-inactive-identities-ideas-for-automated-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T04:53:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ai-is-transformative-for-the-geopolitical-order-political-scientist-ian-bremmer-says.md",
-      "title": "‘AI is transformative for the geopolitical order,’ political scientist Ian Bremmer says",
-      "excerpt": "Political scientist Ian Bremmer said he is an \"enthusiast\" about the potential for artificial intelligence, but warned of possible risks on the horizon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107282090-1691159601236-gettyimages-1513209723-CHINA_WORLD_AI.jpeg?v=1695979393",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "publishedDateTime": "2023-09-29T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia.md",
-      "title": "Former Tinder CEO’s startup to fight loneliness with AI chatbot gets backing by Sequoia",
-      "excerpt": "Former Tinder CEO Renate Nyborg's startup Meeno, said Thursday that it has raised a $3.9 million seed round led by Sequoia.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "originalUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Meeno.jpeg?resize=1200,907",
-          "width": 1200,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "publishedDateTime": "2023-09-29T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-new-study-digs-deep-into-neural-networks-to-improve-ai-security.md",
-      "title": "New study digs deep into neural networks to improve AI security",
-      "excerpt": "By intentionally exposing their system to potentially confusing data, researchers build resilience to protect against malicious attacks",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554441",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-spotify-will-use-openais-tech-to-translate-podcasts-to-more-languages.md",
-      "title": "Spotify will use OpenAI's tech to translate podcasts to more languages",
-      "excerpt": "Spotify has unveiled Voice Translation for podcasts, a new pilot service that utilizes AI to translate audio shows into various languages. Through the application of machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
-      "originalUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-28-image-18.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

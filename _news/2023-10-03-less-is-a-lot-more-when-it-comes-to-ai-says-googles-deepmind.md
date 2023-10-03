@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-sa
 ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
-quality: 104
-heat: 134
+quality: 106
+heat: 138
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -76,6 +77,6 @@ related:
         height: 394
         isCached: true
 
-secured: "iqz+PpgBuuhNf6ikMTzG9RUxv+/HcQs+d5A5P8q1acZhnA4P+G4tla10OOW/6/6E0Ofh3Lly+g2OfBE5AkFU9ybptFPvw/LrC0a6UI66bWy68YLLPSXESCn91KX6Iv1Ls3yTpk6VablCZkxL9mBiTn/ILxqkXmM2uPQAEbKdkYVXzlybG46t4JhsgSJF1yflqkVVv54lS1zNaoT6NjU0zCCb/HG1GTCQEwI17wnccMlf0CKp6db/duXnjTgvI0RWSS1wLEUBsqJg4u16lMWlxirkw9lgudKYgBTHumW83yOSJgQcOsQjME0j2BCyl64x4d+QeRc9CaxGlg0qGKZ8PtYnVYbhNaiXtd263rmFIbY=;aTkpxuCAb9/bNb7BCGKmnw=="
+secured: "MZC0LGwKPBslmhkIAm8GGcztV8OCkNdQueNWETCZxMvYqEDZy1XSWkr5sV9P5dZxRZCt0DC3mYZrT+6ZcZtEWhfih1/HkGdaCn0YBYVapynLuihMVAzmdYQqAoGb+aQGCgsgjF55xEPWiP5B7GvjXOgL/ti+NfPp/b2jnpiqxcgkURNuV3zpbLdMr6kGQhgUICL3iaQL8LLmSZLR1ZJtqyEx65MWIcTsJFHQ3PlEz/vIbCKV9/uv97DgKoYw2VijzmvBK0BrVPGLj/CO3xYGV5P+7mk/CHIYY5gC6zy/gkvPQcl/JZoVa2CHwusgrVcF47Z/vkqSk32KTJdu06AUZBpoqaBtudA/a40fLOxnxwhfAjGZQnXm5WO/g2rd9eUCVkByJCzu5UcPzgWGg59WU7FFy4jJhBcAq5SZPALy9RsZfzVMD/beCngMKIeSW9GHIiUjjffHjcJEF5SiZ2SOx5vwRRDQulLVFol8nsXGfUx9jbo2KGf/WX606PueSMBoAHdaVZ+zds8Xtag+BRK1vQ==;b7CbX8i0Qqa3jSw2g2hgtA=="
 ---
 

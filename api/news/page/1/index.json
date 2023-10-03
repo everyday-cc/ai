@@ -2,6 +2,331 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-03-the-matrix-complex-how-to-tackle-skeptical-employee-mindsets-to-reap-the-full-benefits-of-ai.md",
+      "title": "The Matrix Complex: How To Tackle Skeptical Employee Mindsets To Reap The Full Benefits Of AI",
+      "excerpt": "Introducing AI across a business all at once can be overwhelming. Adopt a phased approach: Start with pilot programs in specific areas, tailor solutions to departmental needs and refine through iterative learning. This method respects departmental nuances ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/03/the-matrix-complex-how-to-tackle-skeptical-employee-mindsets-to-reap-the-full-benefits-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/03/the-matrix-complex-how-to-tackle-skeptical-employee-mindsets-to-reap-the-full-benefits-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff7eec453453fd0073b638/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/03/the-matrix-complex-how-to-tackle-skeptical-employee-mindsets-to-reap-the-full-benefits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/03/the-matrix-complex-how-to-tackle-skeptical-employee-mindsets-to-reap-the-full-benefits-of-ai/amp/",
+      "publishedDateTime": "2023-10-03T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-how-does-artificial-intelligence-aid-ivf-success-rate.md",
+      "title": "How Does Artificial Intelligence Aid IVF Success Rate?",
+      "excerpt": "Artificial intelligence (AI) has the potential to increase IVF treatment success by enhancing accuracy, timeliness, and monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "originalUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/sperm-screening-can-detect-harmful.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "publishedDateTime": "2023-10-03T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-exclusive-2-billion-fintech-clear-street-names-steve-bisgay-cfo.md",
+      "title": "Exclusive: $2 billion fintech Clear Street names Steve Bisgay CFO",
+      "excerpt": "\"It’s very much developing in real time. AI capabilities six months ago are not going to be the same as they are in a year or two years from now.\" —Spotify’s CEO Daniel Ek told the Financial Times in an interview that due to the speed of change in ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
+      "originalUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
+      "publishedDateTime": "2023-10-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-veteran-charlotte-execs-launch-ai-focused-fintech.md",
+      "title": "Veteran Charlotte execs launch AI-focused fintech",
+      "excerpt": "Two founders with backgrounds in financial technology and regulatory matters have closed on a $1.7 million, pre-seed funding round for a Charlotte startup focusing on AI for banks.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/",
+      "originalUrl": "https://wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2022/04/lightbulb-g74810bf00_1280-e1650364467522.jpg",
+          "width": 1225,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/?amp=1",
+      "publishedDateTime": "2023-10-03T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips.md",
+      "title": "Samsung partners with Tenstorrent to produce next-gen AI chips",
+      "excerpt": "Canadian computing startup Tenstorrent has announced that Samsung Electronics, the global leader in chip and smartphone manufacturing will be producing the advanced next-generation AI chipsets for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/samsung-1696324543.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
+      "publishedDateTime": "2023-10-03T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-how-intuitive-ai-can-harmonize-a-hybrid-workforce.md",
+      "title": "How Intuitive AI Can Harmonize A Hybrid Workforce",
+      "excerpt": "it is important to carefully think about what data will be used to train your AI. Start by conducting audits to understand the current data landscape within your organization. It’s also essential to ensure that this data is cleaned, labeled and well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f184032107158000722cf84/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "publishedDateTime": "2023-10-03T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026.md",
+      "title": "IBM launches artificial intelligence education efforts, aims to train 2M by 2026",
+      "excerpt": "To help close the global artificial intelligence skills gap, IBM recently announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "originalUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg",
+          "width": 1203,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "publishedDateTime": "2023-10-03T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-security-ai-and-automation-are-key-in-protecting-against-costly-data-breaches-for-retailers-and-consumer-goods-businesses.md",
       "title": "Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses",
       "excerpt": "For retailers, AI and automation can significantly reduce the impact of a cybersecurity data breach—financially and beyond.\nThe post Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses appeared first on IBM Blog.\n",
@@ -54,7 +379,7 @@
       "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -94,7 +419,51 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-review-i-cant-believe-how-much-i-loved-the-shark-ai-ultra-2-in-1-robot-vacuum.md",
+      "title": "Review: I can't believe how much I loved the Shark AI Ultra 2-in-1 robot vacuum",
+      "excerpt": "The robot vacuum space may be dominated by iRobot and Roborock, but Shark has quietly released one of the best robot vacuums we've tested. The Shark AI Ultra is the rare hybrid that vacuums and mops equally well,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
+      "originalUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/reviews/0594eGKLbI7zC1lFEK03GnH/hero-image.fill.size_1200x675.v1693425590.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -314,7 +683,7 @@
       "originalUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-create-or-destroy-value-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -512,7 +881,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -815,49 +1184,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-02-samsung-to-manufacture-chips-from-ai-chip-startup-tenstorrent.md",
-      "title": "Samsung to Manufacture Chips From AI Chip Startup Tenstorrent",
-      "excerpt": "As part of the deal, Tenstorrent plans to use one of Samsung's advanced manufacturing processes, known as 4nm, to produce the chips. The Tenstorrent product manufactured by Samsung is a chiplet, and is designed to sit alongside other chiplets inside a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-10-02/samsung-to-manufacture-chips-from-ai-chip-startup-tenstorrent",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-10-02/samsung-to-manufacture-chips-from-ai-chip-startup-tenstorrent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-02-ai-innovation-or-speculation-a-guide-to-understanding-the-difference.md",
       "title": "AI Innovation Or Speculation: A Guide To Understanding The Difference",
       "excerpt": "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact.",
@@ -890,339 +1216,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-tom-hanks-warns-fans-that-an-ai-version-of-himself-in-a-dental-ad-was-created-without-his-consent.md",
-      "title": "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent",
-      "excerpt": "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
-      "originalUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp",
-      "publishedDateTime": "2023-10-02T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-openai-is-encouraging-people-to-use-chatgpt-for-therapy-thats-dangerous.md",
-      "title": "OpenAI is encouraging people to use ChatGPT for therapy. That’s dangerous.",
-      "excerpt": "Now the company appears to be encouraging users to think of this as an opportunity to use ChatGPT as a tool for therapy. Lilian Weng, head of safety systems at OpenAI, posted on X, formerly known as Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058",
-      "originalUrl": "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230929-chat-gpt-therapy-cs-3fafee.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/rcna118058",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058",
-      "publishedDateTime": "2023-10-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-freedom-on-the-net-report-highlights-dangers-of-ai.md",
-      "title": "Freedom On The Net Report Highlights Dangers Of AI",
-      "excerpt": "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651a8dc65c8025d4ba1aee21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
-      "publishedDateTime": "2023-10-02T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
-      "title": "What does generative AI mean for software companies?",
-      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
-      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
-      "publishedDateTime": "2023-10-02T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
-      "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
-      "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "originalUrl": "https://www.ibm.com/blog/building-cars-in-a-changing-world-audi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips.md",
-      "title": "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips",
-      "excerpt": "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp",
-      "publishedDateTime": "2023-10-02T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-robin-williams-daughter-says-she-finds-ai-recreations-of-her-fathers-voice-personally-disturbing.md",
-      "title": "Robin Williams' daughter says she finds AI recreations of her father's voice 'personally disturbing'",
-      "excerpt": "\"I've witnessed for YEARS how many people want to train these models to create/recreate actors who cannot consent, like Dad,\" she wrote on Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
-      "originalUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651a23acec74fc001906fb3d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
-      "publishedDateTime": "2023-10-01T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

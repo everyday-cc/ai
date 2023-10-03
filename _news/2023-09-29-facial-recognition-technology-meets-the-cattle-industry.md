@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
-    excerpt: "Randal Quran Reid was driving to his mother’s home the day after Thanksgiving last year when police pulled him over and arrested him on the side of a busy Georgia interstate."
-    publishedDateTime: 2023-10-01T15:44:00Z
-    webUrl: "https://www.columbian.com/news/2023/oct/01/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"
+  - title: "New York bans use of facial recognition technology in schools"
+    excerpt: "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ..."
+    publishedDateTime: 2023-10-01T08:22:00Z
+    webUrl: "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
+    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 40
+      name: WGRZ
+      domain: wgrz.com
+    quality: 59
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/09/Facial_Recognition_Mistaken_Identity_65159-a92c3.jpg"
-        width: 900
-        height: 600
+      - url: "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "NY bans facial recognition in schools after report finds risks ‘may outweigh benefits'"
+    excerpt: "New York state banned the use of facial recognition technology in schools Wednesday, following a report that concluded the risks to student privacy and civil rights outweigh potential security ..."
+    publishedDateTime: 2023-09-29T01:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-bans-facial-recognition-in-schools-after-report-finds-risks-may-outweigh-benefits/4717861/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 51
+    images:
+      - url: "https://media.nbcnewyork.com/2023/09/GettyImages-1310967692.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "LWZIdMQ4SBEvzcOliTX0NoQ7PwQi/ar7zoMTv9H1t+cMHOyVvFT2VNliEIsSk6JsyYvVYxoY2YmT7O4XqaBKFceWkQIJyXiV6+ujOQio6nUQNXpCgqK4tV45brZVnmbVUHtcbzIlQY4JwosiRLsMYN+F4G5NHYyHQG+xDqu8p34ds73A8nX5h2jtgZljs1N4QgQjpnr/bgh2Uu0ZBut3dn7EUyPao4gAhtwKJjsGD40ztL4Vs9Cp8NA535c2KcFekT7xEZcLrN+EW0UPoICDZ6BR3QeytFtsKa92h803eU9nfAqA/Az2YlT5Mwzy5jz879TFXnMFompvLbG2Ct71kXBb+OyWvrW0vqrN76PNlSM=;ieLF6ruMACwgFYgVs+JBSw=="

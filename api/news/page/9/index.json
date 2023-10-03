@@ -2,6 +2,405 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-24-cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stocks-lean-run-and-doubles-down-on-this-ai-stock.md",
+      "title": "Cathie Wood Offloads Whopping $47M Of Tesla Last Week Amid Stock's Lean Run And Doubles Down On This AI Stock",
+      "excerpt": "Cathie Wood, despite her bullishness on Tesla, has continued to offload the stock in the past week amid its pullback.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/cathie-wood-offloads-whopping-47m-of-tesla-last-week-amid-stock-s-lean-run-and-doubles-down-on-this-ai-stock-1032651206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Kyiv,,Ukraine,-,February,25,,2021:,In,This,Photo,Illustration.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-ai-powered-security-the-future-of-surveillance-in-india.md",
+      "title": "AI-powered security: The future of surveillance in India",
+      "excerpt": "Key aspects of AI-powered security that are shaping the industry’s future include: Advanced Surveillance: AI-driven smart cameras enable real-time object recognition, behaviour analysis, and anomaly detection. Security systems can proactively identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design244.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-security-the-future-of-surveillance-in-india-3253290/lite/",
+      "publishedDateTime": "2023-09-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-part-5-artificial-intelligence-is-here-to-help-in-healthcare-but-it-might-take-some-time.md",
+      "title": "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time",
+      "excerpt": "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
+      "originalUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization.md",
+      "title": "How To Approach AI Adoption Ethically And Responsibly Within Your Organization",
+      "excerpt": "The widespread integration of artificial intelligence technology has raised ethics questions. To avoid the challenges companies like Facebook and Google face, leaders must ensure responsible AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650c4a5e9f2d2805042a51c5/0x0.jpg?format=jpg&crop=2179,1226,x0,y200,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/",
+      "publishedDateTime": "2023-09-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails.md",
+      "title": "Small Business Tech Roundup: Google’s AI Assistant Can Now Read Your Emails",
+      "excerpt": "Google Bard, QuickBooks, Elon Musk, AI, MGM and a new iPhone operating system are all in this week's tech news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650d7f095b9bb7f7beec1c24/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
+      "publishedDateTime": "2023-09-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
+      "title": "The Top Ten Global Fintech Conferences: From AI To Zombie Unicorns",
+      "excerpt": "Providing nuggets of wisdom (and perhaps a side order of entertainment) for the assembly is a blue chip roster of over 350 expert speakers ... will focus heavily on the growth and adoption of AI, and how the technology can be used in financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "publishedDateTime": "2023-09-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
+      "title": "The Top 10 Global Fintech Conferences: From AI To Zombie Unicorns",
+      "excerpt": "Industry movers and shakers make a point of attending the most influential global fintech conferences. Here are ten for your calendar to keep you busy until next summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "publishedDateTime": "2023-09-24T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.md",
+      "title": "Writers strike negotiations hung up on language over AI, sources say",
+      "excerpt": "Studio executives were not present for the talks Saturday, two sources familiar with the negotiations said. Bargaining will enter a fifth day Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107305480-16954169312023-09-22t210313z_74406097_rc2wd3aq5h62_rtrmadp_0_television-strike.jpeg?v=1695555936",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/24/writers-strike-negotiations-hung-up-on-language-over-ai-sources-say.html",
+      "publishedDateTime": "2023-09-24T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-better-ai-value-stock-micron-vs-intel.md",
       "title": "Better AI Value Stock: Micron vs. Intel",
       "excerpt": "And while Micron initially fell behind rival SK Hynix in high bandwidth memory (HBM) for AI applications, Micron recently announced a new HBM product with better specs than Hynix this summer. That product is in sampling right now and will start shipping in ...",
@@ -809,369 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners.md",
-      "title": "Gelsinger: Intel Is Prioritizing AI Sales Enablement For Partners",
-      "excerpt": "Intel CEO Pat Gelsinger tells CRN that enabling partners to sell AI products is a priority. Intel executives Christoph Schell and John Kalvin detail how Intel is enabling partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners",
-      "originalUrl": "https://www.crn.com/news/components-peripherals/gelsinger-intel-is-prioritizing-ai-sales-enablement-for-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0285-190a8cbd605d-03ec85b106f8-1000/gelsinger_intel_ceo.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-natural-language-processing-nlp-market-worth-681-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing (NLP) Market worth $68.1 billion by 2028 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "The deep integration of NLP with AI, enhanced comprehension of human language, and proliferation of applications across numerous industries will define",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60184440-natural-language-processing-nlp-market-worth-dollar-68-1-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60184440-natural-language-processing-nlp-market-worth-dollar-68-1-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-why-trust-is-critical-to-business-applications-of-generative-ai.md",
-      "title": "Why trust is critical to business applications of generative AI",
-      "excerpt": "The systems should make their purposes clear to users. 2. Establish AI governance to embed the discipline of AI ethics It's easy to say that ethics matter, but embedding those ethical principles into your operations requires governance. AI governance is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai",
-      "originalUrl": "https://www.businessinsider.com/sc/why-trust-is-critical-to-business-applications-of-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6509ad9bbf943d00195b7fb9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
-      "title": "How AI will change the job of the junior banker and raise the bar to entry",
-      "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-will-change-the-investment-banking-career-path-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/650ca702bf943d00195cc7ef?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-amazon-to-run-ads-with-prime-video-shows-unless-you-pay-more.md",
-      "title": "Amazon to run ads with Prime Video shows — unless you pay more",
-      "excerpt": "If you want to watch Amazon Prime Video shows and movies without advertisements, the service is about to get more expensive — about $3 more per month, or $36 a year. Amazon on Friday said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/05/21e663bc-051f-4128-803b-058a35deec24/thumbnail/1200x630/97749d2596f4a8ce8671abfb176985b4/gettyimages-1242123707-prime-video-channels-amazon-prime-day-2023-streaming-deals.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "publishedDateTime": "2023-09-22T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-3-ways-ai-can-help-communities-adapt-to-climate-change-in-africa.md",
-      "title": "3 ways AI can help communities adapt to climate change in Africa",
-      "excerpt": "Last week at the inaugural Africa Climate Summit (ACS) in Nairobi, Kenya, we joined African leaders and shared our commitment to advance AI solutions to address the clim…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales.md",
-      "title": "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales",
-      "excerpt": "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
-      "publishedDateTime": "2023-09-22T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
-      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
-      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
-          "width": 752,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

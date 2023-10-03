@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lockport to Abide State Ban on Facial Recognition in Schools"
-    excerpt: "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying."
-    publishedDateTime: 2023-09-28T17:12:00Z
-    webUrl: "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools"
-    ampWebUrl: "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/44c05f0/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F27%2Fed%2F70a09ee0de701b81d2be08132247%2Fshutterstock-facial-recognition.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "New York bans use of facial recognition technology in schools"
     excerpt: "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ..."
     publishedDateTime: 2023-10-01T08:22:00Z
@@ -59,33 +43,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Facial recognition shut out of New York State schools"
-    excerpt: "However, local schools can use other biometric ID systems so long as officials examine how doing so would affect privacy and civil rights."
-    publishedDateTime: 2023-09-28T18:12:00Z
-    webUrl: "https://www.biometricupdate.com/202309/facial-recognition-shut-out-of-new-york-state-schools"
+  - title: "Facial Recognition Technology Meets the Cattle Industry"
+    excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
+    publishedDateTime: 2023-09-29T15:01:00Z
+    webUrl: "https://www.dairyherd.com/news/education/facial-recognition-technology-meets-cattle-industry"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Dairy Herd
+      domain: dairyherd.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
-  - title: "Time to Ban Facial Recognition from Public Spaces and Borders"
-    excerpt: "We are at a fork in the road regarding states’ approaches to facial recognition surveillance. On the one hand, governments in places like Israel and the United Kingdom are progressing plans to roll out widespread use of this powerful biometric technology."
-    publishedDateTime: 2023-09-29T19:10:00Z
-    webUrl: "https://www.hrw.org/news/2023/09/29/time-ban-facial-recognition-public-spaces-and-borders"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2023/09/202309asia_china_facial_recognition_technology_surveillance.jpg?h=5d199650&itok=MC_kF2TM"
-        width: 1200
-        height: 630
+      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/Veterinarian.jpg"
+        width: 345
+        height: 238
         isCached: true
 
 secured: "yeZmEEelpKFMyULCGOs0ocYe+T/8qbB/+69HXM/NQszJBKmeM/FAIakEJ6kWA1ZbzvDJPwPPwOIa+b6GW2dFpd94I98DOHVpmPTEQ/whxoiex3L+IjqzSCl2R0KZxgXDSWwwqKfQoeQHu+hc+aGelrDslp6rZd6N3zlIjK5yIwaLyl9JxZRQcVg7YeqKornPoeLCJnALLbik/nceWjjgUMqk5wU3xFuSUz5mFucuUYW4/TSLTUtErbHqco+tnut0j8qb9WTlBCcIHtsleUJdHnmKZ1VDuTdcNsBatRNVPgCYKryd24QOH0Qd2gtujc+FlE2Pv/0v6xWymzF+4/CYXjoZli7EnFRCPm5wqYsR1YU=;Goew5TUvCKEhnaQiMXyD+g=="

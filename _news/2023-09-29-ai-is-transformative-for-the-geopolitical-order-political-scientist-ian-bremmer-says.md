@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html"
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

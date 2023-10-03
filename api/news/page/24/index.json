@@ -2,6 +2,340 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-13-how-facial-recognition-is-shaping-the-future-of-conferences.md",
+      "title": "How Facial Recognition Is Shaping the Future of Conferences",
+      "excerpt": "Thanks to improvements in facial recognition technology, meeting and event planners have access to a whole slew of tools to make their conferences and events more interactive, engaging and secure.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2017/09/13/how-facial-recognition-is-shaping-the-future-of-conferences/",
+      "originalUrl": "https://skift.com/2017/09/13/how-facial-recognition-is-shaping-the-future-of-conferences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2017/09/13/how-facial-recognition-is-shaping-the-future-of-conferences/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2017/09/13/how-facial-recognition-is-shaping-the-future-of-conferences/amp/",
+      "publishedDateTime": "2023-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-samunnati-partners-with-singapore-headquartered-fintech-finbotsai-to-transform-credit-risk-management-using-ai.md",
+      "title": "Samunnati partners with Singapore-headquartered fintech finbots.ai to transform credit risk management using AI",
+      "excerpt": "SINGAPORE, Sept. 14, 2023 /PRNewswire/ -- Samunnati, India's largest agri enterprises, today announced signing an agreement with Singapore -headquartered B2B SaaS FinTech finbotsAI, to transform credit risk management using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9880789.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9880789.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-industrial-robotics-argentina.md",
+      "title": "AI Industrial Robotics - Argentina",
+      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-service-robotics-argentina.md",
+      "title": "AI Service Robotics - Argentina",
+      "excerpt": "The market size in the AI Service Robotics market is projected to reach US$8.82m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 8.34%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/argentina",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/argentina",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai.md",
+      "title": "AI hype reaches Coca-Cola with new Y3000 flavor “co-created with AI”",
+      "excerpt": "Stable Diffusion, a technology which is mentioned by name when launching the \"Coca-Cola Y3000 AI Cam\" mobile app, gained its ability to generate images by scraping hundreds of millions of copyrighted works found on the Internet without copyright holder permission and is currently the subject of litigation related to copyright infringement.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/coke_y3000-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-hype-reaches-coca-cola-with-new-y3000-flavor-co-created-with-ai/amp/",
+      "publishedDateTime": "2023-09-12T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030.md",
+      "title": "AI Robot Dog Market Size and Regional Outlook Analysis 2023-2030",
+      "excerpt": "The AI Robot Dog Market Insights of 2023 is an extensive ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Precision Reports is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34514808/ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34514808/ai-robot-dog-market-size-and-regional-outlook-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34514808",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34514808",
+      "publishedDateTime": "2023-09-12T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event.md",
+      "title": "Google Provides More Details On Its Cloud Generative AI Play At Next Event",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into the announcements about generative AI and other developments from the recent Google Cloud Next event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6500d13862dfb07c0e5e700f/0x0.jpg?format=jpg&width=1200",
+          "width": 902,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
+      "publishedDateTime": "2023-09-12T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ai-technology-is-now-fixing-smiles.md",
+      "title": "AI Technology Is Now Fixing Smiles",
+      "excerpt": "So, for instance, our AI takes in your radiographs, and it points out the radiographic bone loss you have in other diseases, which helps the dentist to not miss it.\" To stay updated with top startup news & investments, sign up for Benzinga's Startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/09/34506055/ai-technology-is-now-fixing-smiles",
+      "originalUrl": "https://www.benzinga.com/news/23/09/34506055/ai-technology-is-now-fixing-smiles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Future,Digital,Technology,Cyber,Virtual,Game,Entertainment,Metaverse,,Teenager,Having_0.jpeg?width=1200&height=800&fit=crop",
+          "width": 390,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34506055",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506055",
+      "publishedDateTime": "2023-09-12T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-aws-think-big-space-at-simpson-middle-opens-doors-for-celebration.md",
       "title": "AWS Think Big Space at Simpson Middle Opens Doors for Celebration",
       "excerpt": "J. Lupton Simpson Middle School opened its doors Tuesday to showcase its Amazon Web Services Think Big Space that opened last December with a community celebration.",
@@ -821,384 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-new-photonic-neural-networks-promise-ultrafast-computing-for-complex-tasks.md",
-      "title": "New photonic neural networks promise ultrafast computing for complex tasks",
-      "excerpt": "Neural networks, inspired by networks of biological neurons, have revolutionized artificial intelligence by providing efficient solutions to complex tasks. To further unlock their potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1001105",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1001105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a7c8801d-67a7-4675-bfa1-8accecf582e7/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-customer-service-and-sales-ais-role-alongside-its-human-counterparts.md",
-      "title": "Customer Service And Sales: AI’s Role Alongside Its Human Counterparts",
-      "excerpt": "As AI becomes more sophisticated, how will we maintain the symbiotic relationship between its technological capabilities and human expertise?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff17f7a604d2697273b636/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
-      "publishedDateTime": "2023-09-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-is-facial-recognition-technology-racist.md",
-      "title": "Is facial recognition technology racist?",
-      "excerpt": "Facial recognition technology is an increasingly common part of modern life, used for everything from unlocking iPhones to advanced surveillance technology. But concerns are being raised that face ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/95383/is-facial-recognition-racist",
-      "originalUrl": "https://theweek.com/95383/is-facial-recognition-racist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6wgqSVyu3JpU2uyRTrsd5H-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-6-skills-writers-need-to-hone-amid-the-ai-boom.md",
-      "title": "6 Skills Writers Need To Hone Amid The AI Boom",
-      "excerpt": "While AI is an impressive generalist with a solid base of knowledge across many domains, these models can't easily acquaint themselves with the intricacies of specific workplaces and fields of research. The writers best positioned to thrive in the AI boom are writers with specialized, industry-specific knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6475f9b5e2fec92c8f569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/12/6-skills-writers-need-to-hone-amid-the-ai-boom/amp/",
-      "publishedDateTime": "2023-09-12T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
-      "title": "An interactive platform that explains machine learning models to its users",
-      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
-          "width": 1280,
-          "height": 1239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday.md",
-      "title": "Elon Musk and Mark Zuckerberg will talk AI rules in Senate forum on Wednesday",
-      "excerpt": "Senate Majority Leader Chuck Schumer is convening an AI forum on Wednesday, bringing together big names in tech including Mark Zuckerberg and Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "originalUrl": "https://www.marketwatch.com/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-849947/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-and-mark-zuckerberg-will-talk-ai-rules-in-senate-forum-on-wednesday-296d6ffe",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
-      "title": "How Machine Learning And AI Could Solve Drug Shortages",
-      "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff387d1989d006addcb9c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/12/how-machine-learning-and-ai-could-solve-drug-shortages/amp/",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions.md",
-      "title": "Parle Products extends collaboration with IBM over cloud and AI solutions",
-      "excerpt": "IBM has announced the expansion of its collaboration with Parle Products, an Indian biscuit brand, to further the company’s digital transformation journey. By deploying cloud and artificial intelligence (AI) for business solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-12T161744.255.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-parle-products-extends-collaboration-with-ibm-over-cloud-and-ai-solutions-3241176/lite/",
-      "publishedDateTime": "2023-09-12T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -94,6 +94,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
+  - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
+    excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
+    publishedDateTime: 2023-10-03T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/domino-s-and-microsoft-cook-up-ai-driven-innovation-alliance-for-smarter-pizza-orders-and-seamless-operations-1032673986"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2236722/Dominos_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
     excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
     publishedDateTime: 2023-10-03T05:58:00Z
@@ -117,6 +131,15 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 49
+  - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
+    excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
+    publishedDateTime: 2023-10-03T11:01:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-cto-nvidia-rules-ai-but-amd-will-compete-soon"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
 
 secured: "gRdoUEkHXSM7Mp5CcGbKKK/lO6oXLOBtQjGzphUGevCeroZ8x81y8+hBHouQWjEc6wvJmapuZRsGdNmLdQV8/LJcS63qQjINbpHMe2y6KdFi8Orj9/yd8CPDcX104pGJL4q0MPjkr4mIzXHeD05XPuZCINmtxK72LourkahYUWDDdfGQKVkxB3ywmT+GdZO1JeD4girC4bxYVuElwY2Zw2ERYY6i+jAtTOFF+Z/1cAei3JlLHY/K5WroUZaiYChygU+oT8+4A7YlAnGDXn55vmeMwk2wut0uoM3Zqc+3+1PuZwmSwwQ2ZI9I6kPzCyIeGa56J1ydHFsUPqOUaYgwLhGo9bXc0g4ba//hadmO341awWxGFvq/eTWJ1ONdvvAdYRGIZddyVxPBX320cbUFXZlbPQ0yGHaCpB8x5fAvCz3hcJ8cF5UPEnOnNTKAglbM8PHaBfrrXMycRtT24AYpKZyVl0drKGoMrxLlvHudz5Z6/ekjlw1SCO0uo3ix355/HM1R/Im2a2WvsX7ivl8t/A==;42JVju7w1KTyyt2CNy/TKg=="
 ---

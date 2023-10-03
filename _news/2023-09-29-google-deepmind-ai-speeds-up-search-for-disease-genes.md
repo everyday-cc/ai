@@ -37,7 +37,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200

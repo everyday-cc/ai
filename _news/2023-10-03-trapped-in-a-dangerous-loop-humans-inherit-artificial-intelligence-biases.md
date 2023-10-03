@@ -35,15 +35,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Why AI stories are more about humans than about machines"
-    excerpt: "But the more thoughtful AI stories are really more about humans than about machines. The scenarios about good AI versus evil AI push society to consider ethical frameworks for the technology: How can it represent and embody our best and highest values?"
-    publishedDateTime: 2023-09-28T17:49:00Z
-    webUrl: "https://www.csmonitor.com/text_edition/The-Culture/Movies/2023/0928/Why-AI-stories-are-more-about-humans-than-about-machines"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 19
 
 secured: "5NQQ0izIFo54HP4mpEesPg5rXApAIt0EwPHZBFczSY+9Bb8UVSyelLyCWBUU7ocjb5tEUNtqWnJg9GSVwxL59ABnFryffuf6G4AdsBvk+INtj8PvYdQIsrLQYlo8t4/k4LGMx2bjaQ5EMyGoq7JNEK/iMDTcwLP+UYKYeVv/dAqLtTd9UKwfYXKTj3hjZtqHomDSX/izlRpXOLiknOemnHlD3ze5Hf6ieZYarJtbUhAeZs3CdbUdbn/YeZWS22kycxO1u381NBbZ7p6V/HJcXrj+oLCneSHTyy7sSlOfPvFfvZ4u7UVhg7PXVptijgurCDN0lCLJKBIu9wmF4tsyeJwU9rFDP6MyuG1EXoP4yM8=;DvoyV1J+PbSLtEh5x5Jz0g=="
 ---

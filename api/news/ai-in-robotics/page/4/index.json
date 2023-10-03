@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-06-robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance.md",
+      "title": "Robots Manipulate Objects with Their Whole Bodies with AI Assistance",
+      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
+      "originalUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/09/MIT-Manipulation-Planning-01-press_0.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/robots-manipulate-objects-with-their-whole-bodies-with-ai-assistance/",
+      "publishedDateTime": "2023-09-06T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
       "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
       "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
@@ -1320,49 +1363,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ai-robotics-mainland-china.md",
-      "title": "AI Robotics - Mainland China",
-      "excerpt": "Value in the AI Robotics market is projected to reach US$2bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.85%, resulting in a market volume of US$5bn by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/mainland-china",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/mainland-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

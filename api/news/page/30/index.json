@@ -2,6 +2,384 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-09-08-ai-gpu-accelerators-will-be-in-short-supply-for-two-more-years-tsmc-warns.md",
+      "title": "AI GPU accelerators will be in short supply for two more years, TSMC warns",
+      "excerpt": "AI servers are expected to explode to an estimated market value of $150 billion by 2027, and Nvidia currently makes the most sought-after GPUs designed to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "originalUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-08-image-5.jpg",
+          "width": 2000,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "Their approach relies on physical processes instead of the digital artificial neural networks currently used. The results have been published in Physical Review X (\"Self-Learning Machines Based on Hamiltonian Echo Backpropagation\"). The amount of energy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63602.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63602.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-irs-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-cryptoand-to-harness-ai.md",
+      "title": "IRS Plans To Ramp Up Enforcement On Millionaires, Partnerships, And Crypto—And To Harness AI",
+      "excerpt": "The IRS has announced new enforcement initiatives targeting millionaires, partnerships, and digital assets—just as questions over funding the agency heat up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/",
+      "originalUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/852407772/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/amp/",
+      "publishedDateTime": "2023-09-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock.md",
+      "title": "AI Chip Wars: Nvidia May Be Winning, But Don’t Sleep on AMD Stock!",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the first half of 2023, Advanced Micro Devices (NASDAQ:AMD) stock, commonly",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-product-management-steering-innovation-in-ai-and-web3-startups.md",
+      "title": "Product Management: Steering Innovation In AI And Web3 Startups",
+      "excerpt": "Product managers have become the unsung hero that shape and steer innovation strategies to guide startups through uncharted territories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fbbc3ed6379c6ef3bc9a97d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/amp/",
+      "publishedDateTime": "2023-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems.md",
+      "title": "Prompt Engineering Embraces Tree-Of-Thoughts As Latest New Technique To Solve Generative AI Toughest Problems",
+      "excerpt": "An advanced prompt engineering technique known as Tree of Thoughts is emerging for generative AI. A great deal can be accomplished. Take a close look at what works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64faaefd875152868af9e2c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
+      "publishedDateTime": "2023-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-ant-group-launches-finance-ai-model-as-race-heats-up.md",
+      "title": "Ant Group launches finance AI model as race heats up",
+      "excerpt": "Ant follows AI announcements by tech giants Tencent and Xiaomi on Thursday and Ant's affiliate Alibaba in April. By July in China, more than 130 companies had introduced \"large language models\", the type that powers OpenAI's seminal ChatGPT generative AI app,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/09/ant-group-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ant-group-launches-finance-ai-model-as-race-heats-up-17752271.htm/amp",
+      "publishedDateTime": "2023-09-08T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-companies-look-to-squeeze-more-power-out-of-ai-chips.md",
+      "title": "Companies Look to Squeeze More Power Out of AI Chips",
+      "excerpt": "Strategies that boost the power of advanced processors are in demand as limited chip supplies force companies to get creative",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2",
+      "originalUrl": "https://www.wsj.com/articles/companies-look-to-squeeze-more-power-out-of-ai-chips-fe33e2f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-848428/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-three-ways-to-prepare-for-the-ai-enabled-future.md",
       "title": "Three Ways To Prepare For The AI-Enabled Future",
       "excerpt": "Technically speaking, AI can and probably will replace many professions. Compared to a human, AI is faster and smarter. AI can complete a task in seconds that would take a human artist weeks. When creating text, AI-generated content may still need editing or proofreading today, but give it time.",
@@ -801,385 +1179,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-covid-19-accelerates-quantum-computing-adoption-driving-robust-growth-in-north-america-europe-and-asia-pacific.md",
-      "title": "COVID-19 Accelerates Quantum Computing Adoption, Driving Robust Growth in North America, Europe, and Asia-Pacific",
-      "excerpt": "The global quantum computing market is expected to experience substantial growth with a Compound Annual Growth Rate (CAGR) of 16.08% from 2022 to 2028, driven by various factors, including the rising demand for quantum computing services and systems, technological advancements, and applications in diverse industries.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/09/07/9877392.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/09/07/9877392.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-a-startups-ai-that-made-3d-models-from-2d-art-actually-used-human-workers.md",
-      "title": "A startup's AI that made 3D models from 2D art actually used human workers",
-      "excerpt": "A hot potato: Producing 3D artwork for video games or other projects can be grueling and tedious – a job ideal for AI automation. A young startup is attempting to fulfill that niche, but a recent report alleges that it exports the work to low-wage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
-      "originalUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/09/2022-09-13-image-20.jpg",
-          "width": 1919,
-          "height": 1885,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-underestimated-unprepared-are-we-ready-for-the-next-stage-of-ai.md",
-      "title": "Underestimated & Unprepared: Are We Ready For The Next Stage Of AI",
-      "excerpt": "Are we grossly underestimating AI's potential? In my mind, yes we are. The global community is largely unprepared for the magnitude of change AI might bring",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa3bf75688348511f9e2c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
-      "publishedDateTime": "2023-09-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-why-business-partnerships-are-vital-for-achieving-a-true-ai-renaissance.md",
-      "title": "Why business partnerships are vital for achieving a true AI renaissance",
-      "excerpt": "Explore the transformative power of generative AI and the role of collaboration in driving its adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
-      "originalUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64f1fdbf5114270019af37db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-artificial-intelligence-a-love-story.md",
-      "title": "Artificial intelligence: A love story",
-      "excerpt": "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "originalUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dS0eMY1L-cX_HD0mzRUsgAMm8wc=/0x0:1920x1080/1400x1050/filters:focal(793x447:1099x753):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439648/illust_1_1920px_x_1080px_asya_demidova_UPD2__1_.0.png",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "publishedDateTime": "2023-09-07T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-can-ai-learn-to-love-and-can-we-learn-to-love-it.md",
-      "title": "Can AI learn to love — and can we learn to love it?",
-      "excerpt": "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "originalUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dS0eMY1L-cX_HD0mzRUsgAMm8wc=/0x0:1920x1080/1400x1050/filters:focal(793x447:1099x753):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439648/illust_1_1920px_x_1080px_asya_demidova_UPD2__1_.0.png",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "publishedDateTime": "2023-09-07T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-mobileye-finds-successful-route-to-autonomous-driving-tech.md",
-      "title": "Mobileye finds successful route to autonomous driving tech",
-      "excerpt": "Consulting firm Guidehouse Insights ranks Mobileye atop its 2023 list of automated driving technology developers above Cruise, Waymo and Chinese developer Baidu ... to get self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/suppliers/mobileye-ceo-amnon-sashuas-successful-route-automated-driving",
-      "originalUrl": "https://europe.autonews.com/suppliers/mobileye-ceo-amnon-sashuas-successful-route-automated-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/MOBILEYE_CEO-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-machine-learning-contributes-to-better-quantum-error-correction.md",
-      "title": "Machine learning contributes to better quantum error correction",
-      "excerpt": "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step for making these ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
-      "originalUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-contr-1.jpg",
-          "width": 1280,
-          "height": 1113,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-contributes-quantum-error.amp",
-      "publishedDateTime": "2023-09-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

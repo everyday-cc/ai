@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-01-new-york-bans-use-of-facial-recognition-technology-in-schools.md",
+      "title": "New York bans use of facial recognition technology in schools",
+      "excerpt": "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "publishedDateTime": "2023-10-01T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGRZ",
+        "domain": "wgrz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
       "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
       "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
@@ -1217,40 +1260,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/34637875",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34637875",
       "publishedDateTime": "2023-09-15T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2023-2030.md",
-      "title": "Face Recognition Technology Industry Global Market Size, Share, Supply, Demand, Segments and Forecast 2023-2030",
-      "excerpt": "Global Face Recognition Technology Market (2023-2030) research report provides industry Share, Size, CAGR, Production, Consumption, Revenue, Gross Margin, Cost, and Market Influencing factors of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T08:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

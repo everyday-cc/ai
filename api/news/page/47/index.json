@@ -2,6 +2,404 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-08-29-the-future-of-self-driving-cars-is-here.md",
+      "title": "The Future of Self-Driving Cars Is Here",
+      "excerpt": "But at the same time, opponents of self-driving cars would argue that maybe we're not quite at the point where we should be rolling these out to the masses yet. Jessica Mendoza: Welcome to The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/podcasts/the-journal/the-future-of-self-driving-cars-is-here/8242f8d7-e3ab-48bc-9afd-1d8f447b7769",
+      "originalUrl": "https://www.wsj.com/podcasts/the-journal/the-future-of-self-driving-cars-is-here/8242f8d7-e3ab-48bc-9afd-1d8f447b7769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-653169?width=1280",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-arms-hot-chip-reveal-faster-silicon-development-performance-uplifts.md",
+      "title": "Arm’s Hot Chip Reveal: Faster Silicon Development, Performance Uplifts",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, details Arm's Neoverse CSS and Neoverse V2 platform announcement at the annual Hot Chips event 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed1cb4d9b05823194af6bd/0x0.jpg?format=jpg&width=1200",
+          "width": 691,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/arms-hot-chip-reveal-faster-silicon-development-performance-uplifts/amp/",
+      "publishedDateTime": "2023-08-28T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-vmware-explore-2023-recap-its-all-about-your-data.md",
+      "title": "VMware Explore 2023 Recap: It’s All About Your Data",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, shares interesting announcements and his takeaways from VMware Explore 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ed19ff84e76c4fc0d8ae1f/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/28/vmware-explore-2023-recap-its-all-about-your-data/amp/",
+      "publishedDateTime": "2023-08-28T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful.md",
+      "title": "U of I researchers’ Speech Accessibility Project aims to make voice recognition tech more useful",
+      "excerpt": "Researchers at the University of Illinois are working on a critical project to help make voice recognition technology more useful for people with a wide range of speech patterns and disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/",
+      "originalUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/08/snapshot-45-1.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/medical-watch/u-of-i-researchers-speech-accessibility-project-aims-to-make-voice-recognition-tech-more-useful/amp/",
+      "publishedDateTime": "2023-08-28T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-technology-shares-increase-amid-ai-enthusiasm-tech-roundup.md",
+      "title": "Technology Shares Increase Amid AI Enthusiasm -- Tech Roundup",
+      "excerpt": "Shares of technology companies climbed amid more buzz around AI technology. OpenAI is launching a business version of its ChatGPT tool, putting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "originalUrl": "https://www.marketwatch.com/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/technology-shares-increase-amid-ai-enthusiasm-tech-roundup-ec395667",
+      "publishedDateTime": "2023-08-28T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-siem-and-threat-intelligence-stay-current-on-trending-threats.md",
+      "title": "SIEM and threat intelligence: Stay current on trending threats",
+      "excerpt": "The evolution of cybercriminal tactics necessitates a corresponding evolution in defense strategies, driving organizations to embrace advanced security tools. Among these, Security Information and Event Management (SIEM) solutions and threat intelligence stand as linchpins of modern cybersecurity. By",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
+      "originalUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T13:19:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-academia-vs-industry-ai-showdown.md",
+      "title": "Academia Vs. Industry: AI Showdown",
+      "excerpt": "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "publishedDateTime": "2023-08-28T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-robots-learning-in-multiple-fun-ways-and-getting-more-dextrous.md",
+      "title": "Robots Learning In Multiple Fun Ways And Getting More Dextrous",
+      "excerpt": "Agarwal is also using the term \"artificial physical intelligence\" or API, which might be slightly confusing to people who work with application programming",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfbe9e9c37dfe813b0612/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "publishedDateTime": "2023-08-28T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
       "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
       "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
@@ -784,366 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-macmillan-publishers-authored-success-using-ibm-cognos-analytics.md",
-      "title": "How Macmillan Publishers authored success using IBM Cognos Analytics",
-      "excerpt": "Discover how Macmillan Publishers took on their data challenges with a new “modernized” approach to data analytics and business intelligence.\nThe post How Macmillan Publishers authored success using IBM Cognos Analytics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
-      "originalUrl": "https://www.ibm.com/blog/how-macmillan-publishers-authored-success-using-ibm-cognos-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-back-2-school-artificial-intelligence-in-the-classroom.md",
-      "title": "Back 2 School: Artificial intelligence in the classroom",
-      "excerpt": "BUFFALO, N.Y. — When students to back to school, an innovative companion will be by their side: artificial intelligence. Ready or not- the AI revolution is here, and it is crucial that teachers and parents know about it. Chat GPT is a popular AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "originalUrl": "https://www.wgrz.com/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wgrz.com/assets/WGRZ/images/4524abf6-93e0-42a4-a7ef-b3f3f28ed061/4524abf6-93e0-42a4-a7ef-b3f3f28ed061_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/entertainment/television/programs/daybreak/back-2-school-artificial-intelligence-in-the-classroom-ai-chat-gpt/71-01ac72f6-3661-443f-bb79-10f9580ab3a4",
-      "publishedDateTime": "2023-08-28T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGRZ",
-        "domain": "wgrz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires.md",
-      "title": "Don’t Sleep on These 3 Robotics Stocks That Will Mint Millionaires",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Among the long-term investment themes, robotics stocks are worth considering",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market.md",
-      "title": "US, China at each other's throats for lion's share of over $100b AI chip market",
-      "excerpt": "Tremendous progress in artificial intelligence is leading to significant revenue generation due to increased demands in semiconductor production, which is expected to exceed $100 billion by",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
-      "originalUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-08-28/l_1104528_033804_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
-      "publishedDateTime": "2023-08-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-to-honor-artists-in-the-age-of-ai.md",
-      "title": "How To Honor Artists In The Age Of AI",
-      "excerpt": "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-08-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
-      "title": "The 34 most promising AI startups of 2023, according to top VCs",
-      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
-      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
-      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "publishedDateTime": "2023-08-27T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
-      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
-      "excerpt": "At the age of 30, Ann suffered a brainstem stroke that left her severely paralyzed. She lost control of all the muscles in her body and was unable even to breathe. It came on suddenly one afternoon, f",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "originalUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Facial Recognition Technology Meets the Cattle Industry"
-    excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
-    publishedDateTime: 2023-09-29T15:01:00Z
-    webUrl: "https://www.dairyherd.com/news/education/facial-recognition-technology-meets-cattle-industry"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 39
-    images:
-      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/Veterinarian.jpg"
-        width: 345
-        height: 238
-        isCached: true
-
 secured: "wi+xd2ZuEu8BSVQdrccrH1oteUKl6vWQx31GBymAJYxy6dcbB0o45YxqoJyDcAtio8y7RIVgZh0ytels3hxIQNu1286JlCYOQ6KIP2Nm8wX/pLKsKjJizsfkyHCN7CKz9L9oiNFsK+76zEFxc5pf4CX5WBQgztMSzBc28ISkeR2LVhF0OshRydufgPgehywc6SZotRQN2KMRrhZejlZ4hHvIgLMTt4i5UD6TtPF3/GcYR63Gt6cPqyVZfuOOg8Td7ScPkTdC707wKkkDaRMFzPXbZQjvQIVCVshnrtVFdnfuSolX8qJbdQqUxBpYlrBkkfmuL1fRUaynaBy0CObmBLWxQ/cnGXgyENovAoYsOLs=;ZD6TkkpN87GmaZD3fFr/jg=="
 ---
 

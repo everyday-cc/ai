@@ -86,6 +86,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
+  - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
+    excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
+    publishedDateTime: 2023-10-03T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/domino-s-and-microsoft-cook-up-ai-driven-innovation-alliance-for-smarter-pizza-orders-and-seamless-operations-1032673986"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/2236722/Dominos_Microsoft.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
     excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
     publishedDateTime: 2023-10-03T05:58:00Z
@@ -109,6 +123,15 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 49
+  - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
+    excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
+    publishedDateTime: 2023-10-03T11:01:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-cto-nvidia-rules-ai-but-amd-will-compete-soon"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
     excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."
     publishedDateTime: 2023-10-01T22:12:00Z

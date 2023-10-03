@@ -2,6 +2,430 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-28-integration-propels-machine-vision-research-reviews-in-sensor-visual-perception-and-inference.md",
+      "title": "Integration propels machine vision: Research reviews in-sensor visual perception and inference",
+      "excerpt": "A joint research team in China wrote a review on in-sensor visual computing, a three-in-one hardware solution that is more efficient, economical and secure than conventional machine vision systems, which collect,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/integration-propels-ma.jpg",
+          "width": 1280,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
+      "publishedDateTime": "2023-09-27T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
+      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
+      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-spotify-uses-ai-to-clone-and-translate-podcaster-voices-in-new-pilot-program.md",
+      "title": "Spotify uses AI to clone and translate podcaster voices in new pilot program",
+      "excerpt": "Spotify's answer is Voice Translation, which can reportedly translate English voices into Spanish, French, and German while retaining the distinctive vocal characteristics of the speaker. The feature is currently being used with only select podcasters, such as Dax Shepard, Monica Padman, Lex Fridman, Bill Simmons, and Steven Bartlett.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
+      "publishedDateTime": "2023-09-27T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
+      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
+      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Photograph ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "originalUrl": "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
+          "width": 670,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
+      "publishedDateTime": "2023-09-27T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
+      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
+      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-one-hour-training-is-all-you-need-to-control-a-third-robotic-arm-study-finds.md",
+      "title": "One-hour training is all you need to control a third robotic arm, study finds",
+      "excerpt": "A new study has found that people can learn to use supernumerary robotic arms as effectively as working with a partner in just one hour of training.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-artificial-intelligence-is-already-taking-over-grocery-stores.md",
+      "title": "Artificial Intelligence Is Already Taking Over Grocery Stores",
+      "excerpt": "past. Artificial intelligence has the potential to help retailers personalize shopping, streamline customer service and put what consumers want right in front of them. Lindsey Mazza, Global Retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65106ff80a77c424eb88f65f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
+      "publishedDateTime": "2023-09-27T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape.md",
+      "title": "Cognitive Collaboration Market Outlook Report 2023-2030 | Cisco, Microsoft , Bluescape",
+      "excerpt": "id=728177&Mode=SS Key Player Spotlight for Cognitive Collaboration Market: Cisco (US), Microsoft (US), Slack ... We are specialized in offering services in various industry verticals to recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34944795/cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34944795/cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34944795",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34944795",
+      "publishedDateTime": "2023-09-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived.md",
+      "title": "Mercedes-Benz Drive Pilot: The Self-Driving Car Has (Sort Of) Arrived",
+      "excerpt": "Drive Pilot is the first publicly-available system to achieve Level 3 on the 5-level “autonomous vehicle” scale, allowing drivers to completely disengage from driving",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/",
+      "originalUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6510ca1e6b47cbe244c36910/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/amp/",
+      "publishedDateTime": "2023-09-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-vijayawada-stress-on-creating-strong-artificial-intelligence.md",
       "title": "Vijayawada: Stress on creating strong Artificial Intelligence",
       "excerpt": "An cultural fest was organised on INNOVURA-2023 by the Department of Artificial intelligence of Andhra Loyola College Assistant professor at VIT-AP Dr Kandala NVPS Rajesh attends the programme",
@@ -185,49 +609,6 @@
       "provider": {
         "name": "IBS",
         "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai.md",
-      "title": "Infosys partners with Microsoft to accelerate adoption of GenAI",
-      "excerpt": "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Both organisations are bringing together their respective artificial intelligence (AI) capabilities to enhance enterprise functions with AI-enabled solutions across multiple industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "originalUrl": "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/money/2018/nov/15infy.jpg",
-          "width": 670,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm",
-      "publishedDateTime": "2023-09-27T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -611,6 +992,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
+      "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
+      "excerpt": "The GPU Stack supports instant provisioning of the full array of NVIDIA GPUs, while the new Vultr Container Registry makes AI pre-trained NVIDIA NGC models globally available for on-demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.enidnews.com/region/vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide/article_d7b01aaa-86e7-5c56-86bb-722c214f5da5.html",
+      "originalUrl": "https://www.enidnews.com/region/vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide/article_d7b01aaa-86e7-5c56-86bb-722c214f5da5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-for-generative-ai.md",
       "title": "Infosys collaborates with Microsoft for generative AI",
       "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
@@ -650,394 +1074,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-hands-to-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft Join Hands To Democratize Industry-Wide Adoption of Generative AI",
-      "excerpt": "Indian IT major Infosys has announced that it is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topa",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "originalUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFFLsiJOlqlptOI48CVvv-0OczpUnQhYpn0WZHLfAqik3sppqZy3_VWIbPmHOr8GZMR9VtTBBzbfCaEYXsG6uAI-F7YzTV5leJ1aSlWAY2moHi45p6DPFRrl4qlR1uZD8oKnnuZKp-p2Cu4Uvjet2m_GRpJwnfQdUpC2_DqemjLzNNNH_xb0m_w4bmXYs/s16000/infosys_microsoft.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
-      "title": "$45 million granted to NU cancer therapy device project",
-      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
-          "width": 2001,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-2031-ai-in-computer-vision-market-research-report-booming-worldwide.md",
-      "title": "2031, AI In Computer Vision Market Research Report | Booming Worldwide",
-      "excerpt": "Facebook, Microsoft Corporation, Intel Corporation, Apple Inc., COGNEX Corporation are one of the principal market rivals, according to the research. Global AI In Computer Vision market size is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34930004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34930004",
-      "publishedDateTime": "2023-09-26T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-ms-collaborate-for-cognitive-services.md",
-      "title": "Infosys, MS collaborate for cognitive services",
-      "excerpt": "Bengaluru: Infosys is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topaz, Azure OpenAI Service and.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
-      "publishedDateTime": "2023-09-26T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
-      "originalUrl": "https://www.aviationpros.com/airports/airport-technology/press-release/53073510/passur-aerospace-passur-completes-migration-to-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps.md",
-      "title": "Confluent launches new initiative to deliver fresh, real-time data streams for enterprise AI apps",
-      "excerpt": "Such realtime data is vital for use cases where speed is of the essence in business processes, such as fraud detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/confluent-launches-new-initiative-to-deliver-fresh-real-time-data-streams-for-enterprise-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-ties-with-microsoft-for-industry-wide-adoption-of-generative-artificial-intelligence.md",
-      "title": "Infosys ties with Microsoft for industry-wide adoption of generative artificial intelligence",
-      "excerpt": "Infosys collaborates with Microsoft to develop AI solutions, leveraging Infosys Topaz, Azure OpenAI Service, and Azure Cognitive Services. The integrated solutions aim to enhance enterprise functions and accelerate the democratization of data and intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a-11695728678066.html",
-      "originalUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a-11695728678066.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/09/26/1600x900/INFOSYS-ORDERS--0_1695728957174_1695729066963.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a/amp-11695728678066.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a/amp-11695728678066.html",
-      "publishedDateTime": "2023-09-26T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-coles-accelerates-application-deployments-with-microsoft-azure.md",
-      "title": "Coles accelerates application deployments with Microsoft Azure",
-      "excerpt": "When it comes to customer feedback, Coles wanted to integrate productive updates and changes as quickly as possible to address friction points, add new features, and streamline processes. With Azure DevOps, Coles has been able to achieve efficiency by shifting from monthly to weekly deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retailbiz.com.au/topics/omnichannel/coles-accelerates-application-deployments-with-microsoft-azure/",
-      "originalUrl": "https://www.retailbiz.com.au/topics/omnichannel/coles-accelerates-application-deployments-with-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbiz.com.au/wp-content/uploads/2023/09/Coles-accelerates-application-deployments-with-Microsoft-Azure.jpg",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "retailbiz.com.au",
-        "domain": "retailbiz.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-iisc-project-to-bridge-language-gap-to-tech-access.md",
-      "title": "IISc project to bridge language gap to tech access",
-      "excerpt": "REcognising SPeech in INdian languages (RESPIN) was conceived to address the issue of inadequate speech data in Indian languages and cater to the large majority of users who can communicate only through spoken languages and dialects. Launched in May 2021, RESPIN is set for completion by the end of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
-      "originalUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.deccanherald.com/deccanherald%2F2023-09%2F9c101620-d1f6-4ebd-bfce-e36258305507%2FIISc_Bangalore_DH_1547756621.jpg?rect=0%2C20%2C1000%2C525&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

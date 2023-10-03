@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung partners with Tenstorrent to produce next-gen AI chips"
+    excerpt: "Canadian computing startup Tenstorrent has announced that Samsung Electronics, the global leader in chip and smartphone manufacturing will be producing the advanced next-generation AI chipsets for the company."
+    publishedDateTime: 2023-10-03T10:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/samsung-1696324543.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Samsung to Manufacture Chips From AI Chip Startup Tenstorrent"
     excerpt: "As part of the deal, Tenstorrent plans to use one of Samsung's advanced manufacturing processes, known as 4nm, to produce the chips. The Tenstorrent product manufactured by Samsung is a chiplet, and is designed to sit alongside other chiplets inside a single package."
     publishedDateTime: 2023-10-02T13:03:00Z
@@ -35,6 +51,6 @@ related:
       domain: usnews.com
     quality: 64
 
-secured: "2xAsnIJFucRFCMDMSCEhV9+UJiJg62pDnC99z/dSGOZ5T5ObO8rEDtJCTjIgSM0U9OYlfGXnggDKDZ1qQ5z1ucYGaQ4D2G9Pp78/rsZluV8Ffrd9Bp1L9ueNRjVUdMzCHJbl3u4ObphjaEB0KFF/t2axFS4r8M6oTGUNL4Xrbj7HxiY65NvIyDxPDQ/ZXIlHTGUwObr2xUmLwpFK8gsyOKJSuz7koky83lddkB6JsEiJ3KTRmb/Gy6ww+i/QdFb5zyYYmy6hj16ZKwb4ZoYB4C49op3Wt7zHn++f/eztwmsGGAwJKpJwynGxKb+k/7x8AH5G860PHkVFQJoUhrWaxY0en9RqHxdWvuebVrOJnY8=;vrLNb7gqX85gL0LUF0nTug=="
+secured: "aFCpgHWrwVfy6bv0O2Y5/MrCphs62KYp4/nFRQ/xNJogh0x4nk3Lep4iHzwq7cg4jYC4FGQBt/YMzr5pTQYiVlVaNzXasAg5O/xJ0a9tqzsDwP+mJJbLOQwdhIhoDFi7ekLANVHxjiz+D2sUCgKEoh8zZQFxArqOu8Sj74PiHUfJa1Not/os6vlUsE+vD1RBOd/DTCZOL27nULYt+RsMLrP6n/3aZejUgT6zS0vlk1Grgiq9egT1nMOVzwij2aj8oWd6xHtuoe8MmhfWq7aZ6hCiSVL7wKKMRxTP8N4RNTyGQ8betyqvb12OBeAOMbsJuVBDpqm/GUaENJyMh/NdjtKGPh4dQfSuuLPKogdCcbc6Jywxr7SsKUjLUuVypKn9DljBOttK6kGiocSHdsHDmiqzxzXdeIwwF1PUm77hK1aiTwGmPV3BHaRNIeLJQVJnxEJRi6h584NSABiNfwbuKvY3nF6dBFq7nUlfMFvRNJ3MwPJyVXVFMlhsadNR+EHBhNJop58LI9HdHq2GinPpGg==;Ywdydq2jSwfxu3GeUJitkg=="
 ---
 

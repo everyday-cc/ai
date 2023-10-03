@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Amazon: Anthropic To Use AWS's Trainium Chips; Amazon To Invest In Anthropic"
-excerpt: "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI safety and research company based in San Francisco. Amazon said AWS will become Anthropic's primary cloud provider for mission critical workloads,"
-publishedDateTime: 2023-09-25T07:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazon:-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic"
-webUrl: "https://www.nasdaq.com/articles/amazon:-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic"
+excerpt: "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI"
+publishedDateTime: 2023-09-25T09:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757"
+webUrl: "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "tu/aSP+BJcZxf9ENA5ISs7T7GdJlkPPl2AZFsOXgCV7Kna95+9W/y0M1+KDMEvN96lSpJaJ/EdGFAcJo1bIEjcAPcHf5GRI6kNChGFBK9KNemkZfX+zPSxppmK6MIhK68elEUXGW/BizZA0WLBN33OA/o7+JfWXDzOV0dMwUGz5N7Q04yZ9Z58auXFXiK4V51olO7gFeoTNIFy0UFdbExpFVm3ua8CMP2gKpwublsXrQq/+AEWOfUYm5y95vxaoRJHY9iNHDGHbZVOd1yCStWljc4IjbZFPRM6F/gj425d7h9WOV4x5DfXPWWOcy1e+UdthYzs6GxOKRXIbLM6r0YX6rvSaFXhy2/aCC44xQ9w8=;PhTk3y78xreoGuEdRsT8hw=="
+secured: "fCzYdF3LxIiWFS1GpHDYVWE6kxSwiPOj5DSetMTLeh+HQk68nw1TRnkJP87niPMwww6w9zhxA7K0qcVbms8DkxLhAr2IPp1TY4DpVOi77vtsaTCdyP4zziJNf0x4VP9lMQCZv1G7di2dEX1WW1wFfK7vDotExY/IgiDCzyrgrYiU4/b8IVhUb8AE2o6jHX03E27Vc4yIkvoAbpCX3qkQs7qp+UHesMTDn3LD40vxvZtXUDZ+NioEEr9wdsZFvu9wNYv92OCue3zq2SG1y2G2dSxzCZiIJeV31jCLUpKnd/s9KN/TMbmuHC5TIF3j8whY4dtf+5/DWRUf3oZKl5QgkmLuUbkE535gw8F5Ywnb9YU=;cem3zoa7Td0a/ix1JC2kqw=="
 ---
 
