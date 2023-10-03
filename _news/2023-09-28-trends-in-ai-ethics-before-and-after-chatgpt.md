@@ -3,18 +3,18 @@ category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
 publishedDateTime: 2023-09-27T20:41:00Z
-originalUrl: "https://www.newsobserver.com/news/business/article279840919.html"
-webUrl: "https://www.newsobserver.com/news/business/article279840919.html"
+originalUrl: "https://www.kansascity.com/news/business/article279840919.html"
+webUrl: "https://www.kansascity.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "hHX2dd+V7iX7b3fkD0TEtbvrQ41Pc79iZbBS5M+jypraZysaSoTdcW4/SnjJ0BowQN6s5ftVSvM81lv2aF8MhezQ3UVZ76ptytDSrPLhaX3bWUtPSfG05pwMDApdTBUfvoaj2qnRNH2wNIRdJGCU3IvFtm/4wt0VEIhrpobKMBiAD1qb6pziure/1+gmGdBOvmQsrOsDZojaQ5Q5TRsBzfNJJhFp7M6NxgONwK5erK73Wz5iw9j4LuX6DCeriSVGaaIf3PymFJYm/tUhh0kLcY2LggK8MBwewwAcilsuxWDcn4QueH7nGQXYt9hQI9HeFrUm/UMtV2lJhGCv52czsWt5iDdLyR9n+uAPwF7lqH0=;yRW2TQDbhj6XJo3kVn9jgw=="
+secured: "P3m/UTG1d1+trgOqtZxC6N+/1v2VCX66q4pZhrwHVH806H1fyqNunbuQmKnkmJvEMWHq+n8D1YzrDGw12OXjJ48u0K2Rod1EeLAQLED70GF2pDq7kP3n8HoTWL++9q1uxflM65fx54SYpYfRS+UDZ5DVE2gaqzl4c+9yJaTTjVOoz2xpvhFFiGUKvKrC8DU3V8wGegTa8mZxA7Ax+9pXR0M29ho+ww2NzIa5iqSEuLuNKnmPE5eiPL2hinEAIeeC/2I/vGDLXq+4XmfXAB/7RRX6BcyS1eB5Gdi4+S9+hq/no9PCjmI9v47KHHYttR55yCw9MTS+97xSj/Klu1e6PexZvwRZOrwadQnzLhCnRMY=;ULPhbfxwC2RhpGt6kn47CA=="
 ---
 

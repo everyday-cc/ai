@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?09:03:39pm"
-    width: 680
-    height: 450
-    isCached: true
-
-secured: "arHVC04B+gcEMdrM9SH4h/+PWRqFyf6C2veMdoOQwWMhyv9t3FiKHY3p1zvuocTWjw+DQd1ZdkY2kSeC6iEWr736p6gSJaFzSZzpLdXU0A8ITRcVpL9LcbLjDboI07MymosqFmR70nRvuaCRKiUhuHkJMHDfoFe0MwT0x0q38t6WTL7GyuYTRAJV7r3nZeNT1Mc7HizM1W36exjKuit4RIA6KsCgXZZbAph4hjWBMjN2OgxeGc1JnzEObMsEDyt+qYSZB2aJZ5osnEI3whgaKd/1cgqzOLMCsAvRSvZfaRafS3WL8dAA4007wLTPecG0JtfxY5uY51X6Z4lI1PfMOC+asYmdZtPlpJ53rqPnuuI=;CH/lKDkmTknoG/ut2GYTqA=="
+secured: "y879AKIAGMTCNZXBXCnUVFdQHUW/gmuanpH43qRDUnLlg4B+xXg/micUs1RvvdTBF2bJzJadOe5PBWHps9hTvPO6a0LcwIpNdu9vss3RBvoxUzCS2vpS9yftIwolfpFwYCK1LguRtOuIgRyKrd2mO60/mGN6Zbr3BF+V6iN1diz8tHOcQNw0Hbli2dF0Xmrjp9JI91mA8rywWk4o885xx2V42dQM5G7qvpTp3TVUlPpL6cGXbNTVM+wcKe+1bQkKz6YktG6BcrAz7cOu6e2wei6zLl1V4+WSpFrDY1rBmT/eU6mt+uhiw0TKd30QRHn8SD/2WOvxqQypXUTAIoS4b8NldKvIRelssBn5HWjCaKw=;5mT+XQTHAR83xtKvNzle5Q=="
 ---
 
