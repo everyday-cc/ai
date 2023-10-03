@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI and Consumer Technology: How Artificial Intelligence is Changing Everyday Life"
-    excerpt: "Artificial Intelligence (AI) has revolutionized the way we interact with consumer technology, fundamentally altering our daily lives in ways we could have never imagined just a few years ago. From smart homes to virtual personal assistants and self-driving cars,"
-    publishedDateTime: 2023-09-28T14:45:00Z
-    webUrl: "https://techbullion.com/ai-and-consumer-technology-how-artificial-intelligence-is-changing-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-28T154521.815.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Meta Technology Chief Defends Tech Titan's AI Strategy"
     excerpt: "Meta's chief technology officer is quick to push back on assertions that the company has fallen behind rivals like ChatGPT in the explosive surge across the tech industry in generative AI."
     publishedDateTime: 2023-10-01T07:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/09/30/anthropic-ama
 webUrl: "https://www.washingtonpost.com/technology/2023/09/30/anthropic-amazon-artificial-intelligence/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Outpacing Competition: How LunarTech is Redefining the Future of AI and Machine Learning"
+    excerpt: "The bootcamp covers a wide array of topics, from machine learning to Python programming and cloud computing, and places a strong emphasis on hands-on, practical projects. \"Our bootcamps can be attended either in-person or remotely. We've developed tools to ..."
+    publishedDateTime: 2023-10-03T07:31:00Z
+    webUrl: "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 75
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png?auto=webp?format=pjeg&auto=webp"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "AI Startups Are Facing a Reckoning"
     excerpt: "A reckoning may be coming for once-hot artificial intelligence startups. Among the most vulnerable: consumer apps (think Character.AI) and “thin wrapper” startups like CopyAI that merely provide a nice user interface on top of a third-party model from model developers like OpenAI."
     publishedDateTime: 2023-10-02T14:35:00Z

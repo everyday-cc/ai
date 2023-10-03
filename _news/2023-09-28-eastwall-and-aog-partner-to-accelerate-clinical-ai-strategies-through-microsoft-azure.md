@@ -110,6 +110,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
+    excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
+    publishedDateTime: 2023-10-03T05:58:00Z
+    webUrl: "https://www.tweaktown.com/news/93551/microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-with-amds-improving/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 63
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93551_01_microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-as-amds-offerings-improve_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
     excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
     publishedDateTime: 2023-10-02T13:00:00Z
@@ -129,6 +143,6 @@ related:
       domain: journalrecord.com
     quality: 33
 
-secured: "q5sXXHDU51idmWEHrJG8WXeZXfQLCII5ZvJrfhz0JsDhe+n6mkrI+yexfaLU5S4ZbmUzf7ntZBkyooGubQgsNwbTljHZfCtqlDw6tV4NSke2vg9QinHi06LoYnsLJ6EU/iuQAEpsUaMGzDwJAJI+SVVndUUYC+FbMeJ5SErIiFVjHiYbZjyMnWeUeaLNG/BVDqhePyOgohkzbyZhhogHORuVJxQBxpb8E08V0AnNirbBimzFyassKKyTMs/1AyTSM+9LY+6Bh+rUfRThrclVSGxHDtM2wAFPa511tCVPMd3ksqOLSB0a+FNOTRNuX/S+coElH26RitOFxh6xyr4FRRM1hgOtJWvu5r7DN1omsn4=;PIVAnvWLOdidiw/T+5HJoQ=="
+secured: "U58apQU52D/Rqp8bzpZ+k4ckKwh29ooUmK/KJDJ7EGYDp0WrsjAZUUwyuvPOpYfN/uZAEqCf/OltD+6GMoidWuc0/S3/JSXt2Y5qGUUilUPd6Z9JdKSNXjVWrO/aG/CFCILLx9M1KihrGHeUQlmFSGqhKD/jDlk+bp6z4xAoOj9LCVkD0B1Th+CyEXO9rUl8+tHhFtjHOm+8wC4LKURp39Q8y1n7904wMNjLv21TSAb8WY743LAtbbgEQpnPCs0W2KqSPZbzJAVli0MIMFpuRBoOj9B+qX8unPvDDjxQoH2F5hedJ6H9/TFcU5wzT0AmLnYkplZDXw+jOT5ImLAqQqSKHIIzqCucbPh6aanhI1U=;pnMF/TTJaMwjGG5F+VmF7Q=="
 ---
 

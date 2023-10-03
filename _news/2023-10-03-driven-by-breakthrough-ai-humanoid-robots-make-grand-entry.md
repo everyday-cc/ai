@@ -2,9 +2,9 @@
 category: news
 title: "Driven by breakthrough AI, humanoid robots make grand entry"
 excerpt: "AI, the creation of robot hardware, the implementation of bipedal or wheel drive locomotion, and human-robot interaction are the four key categories under which humanoid robot research is classified. These commercial developments are expected to help in the market expansion of humanoid robots, ReportLinker added."
-publishedDateTime: 2023-10-02T23:43:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
+publishedDateTime: 2023-10-02T23:35:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
+webUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202310/03/651b5b32a310d2dc6d28da8f.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202310/03/651b8a6da310d2dc6d28e01b.jpeg"
     width: 721
     height: 480
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 503
         isCached: true
 
-secured: "jLw6RV2Y6wjs7csj8zIbjvWTs26uovoGQReJKzd5j9tX1McZZFQmTN9POJwyxFOBvB4r5mlph2zL7sS6YyLiz6Q6CrzW7OQb5zhVESwv9x2jTINv/B8Gw23lkFwyx/gNHYhjQ3Mp5yOs1+HK66wxFBJzQwhfx7qQejuJSoLWvSuiEDLRmKVxypAyWmUoSfzZxfCuaTxyyig8pF3Ro7W/rewy+xJTtP28AN7DnGNf6IjsNLU1/IxSR9MNp51qyALuovrNbX/9sKV0EcqyYCzKDEvYswA5clqk25smEN17b2TlmD0+oPN29gALGpkRmXmhVnbRLO+VbAwDfy1KVMHB+A6DC+dYKYHpyyLmnZ4W/EI=;sawO5rCKdqWhvyfrKxIjeg=="
+secured: "z63BWvu2Rp9xo+yUO56g9CCy1DUemXMKUWzoykIngOC4MAVXql3OB7JkNRPf/mS/lr9zCUKZY0TiBBzWiw0C/Lm01rokIu1hJSDuC5S2Bi1UXrbwQ7qzGrRUWmDIKMEbdVZQZZKnkKCZpBmTrx8KkJEMuNdAy4Cm5PY9N+d2b7A2SQ14I0QG/PzXJa9O39jYLwYEMYutrtCOQEa0NCQ8KrrMUvyJNbVSz4b/YFu+/9SJDFtQ2ZSFoRbF+toIY/EeB8R7dr9kjqlB35v8d9VvdjlssRS5LLd73y4moLkFuUzA4eDGuMt7PkwbgIyB92D+VPhyrH9T1wVf0t2zB2P4k+7T8ehzNZqgPQxvCP8RI5Y=;rG5oxZxtbF/qWXMYej9coA=="
 ---
 

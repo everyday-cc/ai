@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Outpacing Competition: How LunarTech is Redefining the Future of AI and Machine Learning"
+    excerpt: "The bootcamp covers a wide array of topics, from machine learning to Python programming and cloud computing, and places a strong emphasis on hands-on, practical projects. \"Our bootcamps can be attended either in-person or remotely. We've developed tools to ..."
+    publishedDateTime: 2023-10-03T07:31:00Z
+    webUrl: "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 75
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png?auto=webp?format=pjeg&auto=webp"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "How Big Tech is co-opting the rising stars of artificial intelligence"
     excerpt: "Data centers are vital to the artificial intelligence industry, making Big Tech companies key gatekeepers when it comes to developing new AI tools. (Dean Mouhtaropoulos/Getty Images)"
     publishedDateTime: 2023-10-01T01:31:00Z

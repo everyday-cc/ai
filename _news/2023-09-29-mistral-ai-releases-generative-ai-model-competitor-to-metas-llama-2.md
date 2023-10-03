@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 816
         isCached: true
+  - title: "What Does the Commercialization of Generative AI Mean for Society?"
+    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
+    publishedDateTime: 2023-10-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
 
 secured: "Y1nh6le4V5w5Z593RkPPRbi2t1oes09Gon9FJewvm51xmk1xJASUpnSQ/hGSUPtnzbqKVxh+Y5+JogYQ4+5cH2Z7ctlgdYnHg63FDlKazzZPrdob14SmIvJ+yU9lL17oa0eZOrxhYGU4lemCkxhSJHEg+om27RQe73aR2tA6p+vjzwm8B/6vIZGR6oLRo9IOW/xNA4vc33nDJQuB4hxW6PzBpVyGgwE59v42VLWYmL36GsSRM7PumKNK5o98EvNROv1sDg+sbUm4hv411HNI7U+9vCYkyIuLUkt0poAX6dOujQOsz6Ca50IAjKct86Ikcv9ChtkzvthdtXHLd8G8iZskplao+hgfkOqGo42HHideVsbvFjc/OB5RuWJ6i4Jr+jsqwtzYGj9R37ZBqv6Gj6Um4aYzy4nZ7ovtnjKL+sFnSwBF0eM8k8GZd7z5jpk13Rc7zxdoBGZOtwwfAmTUFuClTRE5Joed3D0Vkegr6qheCUOwUzYqUkeBHSDUCWaC7ngVxLmRzawXVIDNvihtKw==;kXKE+qX8r7/+YnFSZOu+3w=="
 ---

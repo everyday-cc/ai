@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tom Hanks warns dental plan ad image is AI fake"
+    excerpt: "Tom Hanks has warned an advert that appears to be fronted by him is in fact an artificial intelligence (AI) fake. \"There's a video out there promoting some dental plan with an AI version of me,\" the actor wrote on Instagram. \"I have nothing to do with it,\" he added."
+    publishedDateTime: 2023-10-02T11:17:00Z
+    webUrl: "https://bbc.co.uk/news/technology-66983194?at_campaign=KARANGA&at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66983194.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66983194.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6572/production/_131307952_gettyimages-1498257071.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tom Hanks says AI version of him used in dental plan ad without his consent"
     excerpt: "Actor, who has previously expressed concerns about use of AI in film, tells fans ‘I have nothing to do’ with hoax video"
     publishedDateTime: 2023-10-02T01:03:00Z

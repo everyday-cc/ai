@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/nexusflow.jpg"
         width: 5291
         height: 4000
+        isCached: true
+  - title: "Visa launches $10- million fund for gen AI start-ups"
+    excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
+    publishedDateTime: 2023-10-03T06:17:00Z
+    webUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/232680/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/03/visa-2156-1120-1024x532.jpg"
+        width: 1024
+        height: 532
         isCached: true
 
 secured: "DcgLm2a1QveaLDMoC6WQrROtSiBODthdi1G/UgcjtqREfQlGqncsl5/XXbMdxv1QVX6owvYgm2hXo3yBp+D+2c5LXTjN6Gw81g0liX+3oqLiL0SLeve8iAxaDGoIv1LipbkLaXEuO4h58Ej6o9DbVmnXKsfX9hMX776CqaujrM0cEUf62vPH0klNEQZiGfixcTRMUuIgg/Mwu86a/PVef5A2lrZ8Ua13dPKL3pvDfma1K4X/YnAY9aW3DKzvGUJrS2Sm1OJ3AOLUSZ7AT3dRtVM2F7j3Vhc7VhTknT6z6oaUyS7wYcaRzBUyYITNts+z7ITGwtnDBma7TOxuihb0FmV0Rsq2Rwx+NjcJc7Xe1zo=;v+afrt+KiO/DPMy/P3YnSg=="

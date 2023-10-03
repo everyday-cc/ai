@@ -49,6 +49,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Visa launches $10- million fund for gen AI start-ups"
+    excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
+    publishedDateTime: 2023-10-03T06:17:00Z
+    webUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/232680/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/03/visa-2156-1120-1024x532.jpg"
+        width: 1024
+        height: 532
+        isCached: true
 
 secured: "szy5YS2DND3mJDOjWEHp6a0cCVzVxjmUf9Rz5UY1lAREhU11y9JK7nBNec7mAF4nDjdXzu2eH8MJpoKQOU0Td3Uh26Z/zy0I8M+/3HRdxXQt9CYUvqYytTxwAwABQXCSvRq6Xk5L7YF7VDTldlpDlQF1WH5FdqZQaCE266tdY8GiHnt2uVtTT+XBX1PmQZ+td9QKLuohkoxB8LyL5t3NJyuRJVkd0CPW+//N8hVZyGqOgM4FgKDh0qduqG20SPoHGjvy2C9cBhtq7KaS93Aj4gvfuHRy0apd08EknfSTDjjlO9Dt2TMoBqDXjlm4W1ZWbFbtDI+bBjsfnBg9bdeFDglEdp5DqX8gGCw0A5N4D8A=;9Q+VLUh3mA2pG5qdXFBtlw=="
 ---

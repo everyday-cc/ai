@@ -7,7 +7,7 @@ originalUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-ti
 webUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-titan-s-ai-strategy-93a1a888"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI and Consumer Technology: How Artificial Intelligence is Changing Everyday Life"
-    excerpt: "Artificial Intelligence (AI) has revolutionized the way we interact with consumer technology, fundamentally altering our daily lives in ways we could have never imagined just a few years ago. From smart homes to virtual personal assistants and self-driving cars,"
-    publishedDateTime: 2023-09-28T14:45:00Z
-    webUrl: "https://techbullion.com/ai-and-consumer-technology-how-artificial-intelligence-is-changing-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-28T154521.815.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Climate technology, AI emerging drivers of Capital Region economy"
     excerpt: "RPI and Hudson Valley Community College at the Haas Center for Advanced Manufacturing Skills at HVCC in Troy, N.Y. RPI is considered a major player in artificial intelligence as well as climate technology."
     publishedDateTime: 2023-10-02T18:34:00Z

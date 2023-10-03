@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-me
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/09/tr_09282023-mistral-ai.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "What Does the Commercialization of Generative AI Mean for Society?"
+    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
+    publishedDateTime: 2023-10-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
         isCached: true
 
 secured: "0OLZHWeb4MTWtrs0hfyy1J8xMHbf+50s/gfmsf5s1OaYQQbEHCv6yrfhXGT8hZRYAOXFqsJGyzDR9qBDwCHsF/6k+AoCsqm+pPUipFHdnki6x5EvKTeBmU1mhy5oI5Mg80OC9R2w6vYm/5ugji4JNI6x1lzIoFdoVWvHE1g7ZhW+APRoxtyfmwTOuNan+kmIBtC0PsJFGB7sitkVLQA0Dt8naGetefJw2M/qCG5voRUnA9R/zGiDJMpYbachWM7/QCZ0tZ2l/G28WpwxYT6TtJAxohnm4htO3AM3l14q3JMCaIfBTBC20wr3AyT7C2GxF2229rYfdrQDDPUkI9wv+doADmGUt/qZLKRvEU8PBdFbwmdCmOGyaNB/qbKt/m3LlY2hATcgh5Q5mpIE+ILiHIA5pG3XJpOAksu2PirWTYpz2oCJ6IjytWKiJD9dKYtr1BDh1rp8M0lfBPOkBPav2shvPUF4quA/as8yuk4QV+umNDfhumsX4134tag7B1iT8jPH3qMUcIyg7X6Vs5O9bQ==;ngT0UVk2YlgRVheaSiKCgw=="

@@ -105,6 +105,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
+    excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
+    publishedDateTime: 2023-10-03T05:58:00Z
+    webUrl: "https://www.tweaktown.com/news/93551/microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-with-amds-improving/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 63
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93551_01_microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-as-amds-offerings-improve_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure"
     excerpt: "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions."
     publishedDateTime: 2023-09-28T15:37:00Z

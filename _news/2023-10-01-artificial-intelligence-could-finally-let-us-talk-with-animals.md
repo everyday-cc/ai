@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-01T00:01:00Z
 originalUrl: "https://www.scientificamerican.com/article/artificial-intelligence-could-finally-let-us-talk-with-animals/"
 webUrl: "https://www.scientificamerican.com/article/artificial-intelligence-could-finally-let-us-talk-with-animals/"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/8A9FC0D0-D02D-4909-8E7B90874F98DBF2.jpg"
