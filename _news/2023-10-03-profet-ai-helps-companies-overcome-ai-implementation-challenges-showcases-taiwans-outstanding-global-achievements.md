@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-03T01:52:00Z
 originalUrl: "https://www.digitimes.com/news/a20230927PR205/press-release-profet-ai-taiwan.html&chid=9"
 webUrl: "https://www.digitimes.com/news/a20230927PR205/press-release-profet-ai-taiwan.html&chid=9"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img.digitimes.com/newsshow/20230927pr205_files/2_2b.jpg"
@@ -23,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "K3AorO2miTqqXtZm+Kbgqb6QyjHapNwP7zeL+k/9Eiznb6wBV82T23BkpXIpTYFSDo2LcCDlJof5npk/pH7cPVjgfbkGXXTC6vEGFhT3DC08bteF3fxfJKdOAosv0KcUUkeukiaGlkZ69rkatrDX5QaOecPUsGQLgZbtphLKYYUv0xG3uRVrmfsm+MIonmU71NialnDpaGQOOBrsz9rGR58ENQ4ojRPY0xAwXJYI9sTTpB3SUj0LNFvmLpHAl962RbpfXnKebm+UjanZlNR5nPLVQio2lCXtyprftxtmBaj5YbjcRzQNVRgDLGAVpRjJbifO9xx1y5pnN+a+KPXRq9LtdN7tF9/dMDquFdQCMYE=;DuFIS+iyzwwhRUO2mb2JsQ=="
+secured: "RYWbhEEOLF/5rn4jcOa9OoM2nFIJUP7Ba+++a6X9ASfuFIC2zDr6N0SJc6COSxV2mxPA9YuiWe3ucTaPGMp5tylyeAw3KNWzstx021cEu0Q3gaaFxCEry8PJ7Eo+cSDO7Eefxmqz/KG/8nsKl7ZcXqVlROa2ZWDQFwhSgdUjQrNqh3KWRQh+cHRaiutX5KEJiGQQTrzaxLs7e5ebAVgMC5+bJn9M/o8BXc13wY8h71n+gEqRR31NLi4OTZAKIKvx1V+gECGPDMtaH2oVhpnu8FJRw/h1akdJyds/2e1wWxXgfkdEKfgiKRfydOujF9Qe0DbyQe8omenVyBQ0wGey1487STQQ7Jh4VAPXaiUUwVeTY6WqXLFfR1aerX0hv814a+Oih4stKrY7Uu9CgkBXs9d9MTN6iJSax6CgGvg9L54IRKRm197pkNq5XTJJldwfPCjp4AXcJ+sCFV/nVmOVn62jSrV/ZaOyneDgCSN1F/NebrQmYmZd0YQ0YSd8l11Z8zPC2SGVvbwzDnI1cigYmw==;xbfmRAQWJj3yfbTTfqc4Sg=="
 ---
 

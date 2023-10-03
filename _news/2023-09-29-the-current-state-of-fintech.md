@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Charlotte fintech touts AI, lands nearly $1.7M from investors"
-    excerpt: "According to the Vectari website, the company aims to offer \"bank-grade\" AI solutions to assist with regulatory language, scam detection & prevention, and policy insights for the financial services industry."
-    publishedDateTime: 2023-09-28T11:37:00Z
-    webUrl: "https://wraltechwire.com/2023/09/28/new-charlotte-fintech-touts-ai-lands-nearly-1-7m-from-investors/"
-    ampWebUrl: "https://wraltechwire.com/2023/09/28/new-charlotte-fintech-touts-ai-lands-nearly-1-7m-from-investors/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/28/new-charlotte-fintech-touts-ai-lands-nearly-1-7m-from-investors/?amp=1"
+  - title: "Fintech Klarna Introduces “Conscious” Shopping Tools"
+    excerpt: "Klarna, the AI powered payments network, announced several new products and services to promote circularity/encourage smart shopping."
+    publishedDateTime: 2023-10-02T00:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/213734-fintech-klarna-introduces-conscious-shopping-tools/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213734-fintech-klarna-introduces-conscious-shopping-tools/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213734-fintech-klarna-introduces-conscious-shopping-tools/amp/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/09/WRAL-Featured-Image-Template-40.png"
-        width: 1920
-        height: 1080
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/shop-Shopping-Grocery-Store-Shelf.jpeg"
+        width: 1280
+        height: 1046
         isCached: true
 
 secured: "cxtO/ZkgbuNEqSsBZAAbdkt0RPE8CSmae4p2PHG7wld37O8RG80OHKehKetAntUjJ9uQ+SywRDFzUFJ2AmEyXwZ9b6k2vvxP1P/+ZBMednvtzSmKg8lYcY3KgiceuQuVHZo5yLB/OWQxvme/0HzT81Txg8U2juUgSI8bbb0fDaNwe+RMVC62DQDQaVBvCwSyG/FNCKZnn9IPzFn4HnTlfnabVCJJjJ4OToF8QgUBYY32jXoMi8AdU0QJTUXWrmUBHXDhHHUR47a4j7eyMY4SG0DE+hZWND1Rh83+DvntPS43QQV3jvbS8uZXgw0U6WicR2mEiqpEgP83RWKgKgHFXhUUr6V9x6B/2KLO9lZuTrk=;85Blrqs0kC/zGkFgWssvjw=="

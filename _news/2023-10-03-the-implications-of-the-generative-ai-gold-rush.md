@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-02T21:21:00Z
 originalUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
 webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
@@ -114,6 +115,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "oGqGnsq+OHfzBtRt72NRxkZ155TsQMAs+swBO/awsWUlyKV2jfdw52Vq7y1N8UauwRBwQtySo3VQeU+GQzM6JoX5k81PiN+YGVC/XFeClhmii93bZC6YtFMT5xTcrHqpJemtErnV+BGG+HysZqrYbKYMiAV9WceZO4L2J+sQwo9k27NEyeS6r8rzOrlGoCN8tRPLAe8T3l3U1oadzD+v7yY261zpsK37utUMe+8As9R4X1LH+lhzVktcYDtAb1ulP/SzjDvsQKefeI1YmNwdFlUmaN7nFrMd/YSp/B/ZzSN2WZx2NLFQynXT1/9ikdR87foRXBoA+hDme9uba7AnEchDtpxsWtdIMdZY/4sUEjk=;/Z5Ewzm0WZx2gAWnYRZtFA=="
+secured: "3h/SpwxKLeokZZyxUkmYKQu24nyjweAAf83BECguHOCGXVHLngr8R/fuzrTuX4j0XNgUxlZ5RQ4wB7Or6brn7UDas0WXJhNRdw/Flxh8aES7+XoQg2MHoPSzrJeUB5Foxh6GnEgoKojBwnrr0G2Gxf35Z17DczlnQKWaBUq9S3T0bD4ok0wTleUP4EVo3db1U8XvUn54+BLbUzHw6tyuNNbI9dQV1JN9ofR8WPVa0uM6UfptxfW1X1ZSBwIe/IrXxQlH5kQlkNq3j1XnTj+T0crCHV2iGhxH83VgncMuq5jLnBk90MckF6/+NKQAoh8QqNi/BZ6IdPbMe0691fqVjnCWOQ8rkHK+9LntA+UzYWTtqNTvv57wq9wfxpfP6BXOwLbpUo/ObfeikQUhxurhyJN1q1rcWPyPLcdOLWAfwD519Etv6WVLVAmnna7AoZkBZkXX4XNBxCgaMWuQkGFAvWL8bVZTZLYBwXDBe8ANJzeR982o415cnWXp+I86QkVC617Xr/qrt9uSI/04tHe17g==;FhwSSNwkttseueKNBTFVXQ=="
 ---
 

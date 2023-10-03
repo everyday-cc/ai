@@ -53,20 +53,6 @@ related:
         width: 1000
         height: 597
         isCached: true
-  - title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-    excerpt: "Enterprise-ready, IBM-developed watsonx Granite model series now generally available to help businesses build and scale generative AI - IBM provides its standard intellectual property protections ..."
-    publishedDateTime: 2023-09-28T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "a/kE4sayeXOjFUjnXeDSRmH71xaDWybURbTiFtXv/VNrZKQ29Z6OIW2CpPma72dz8FMb+XV9iWQavOZnDFabMRvcUWJXh89+tT8+unGOyCohjRptfKA7PR5ooYLYzN9q+LHAdgTrH/5jz8VpnzAGVwCdoNtOpSayfuFecDMYw0Of/S59on4RREHjw86tcgjTJEjgRSH/0tQ6lFt9kdtzdIeSGzlQAOD6LmuN5NIHBg1hcH/R+wlHoT89sAfKfGHeTi6pGaCj9qBDQ6qlCduk4TdHj70oA0JQd7moVKiTUhAs4DiX453C3fuPiO49kTynlwdFkJ8rwlgajvyjfiFb2nVEqmBaTwUoNYnliTreJXA=;djOTBE/oKYSIiK1H1tdYXQ=="
 ---

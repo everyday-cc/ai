@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Five Things You Need to Know to Start Your Day"
-excerpt: "JPMorgan CEO sees the workweek getting shorter. US recession worry. Bond selloff. Here’s what you need to know today."
-publishedDateTime: 2023-10-02T22:30:00Z
-originalUrl: "https://www.bloomberg.com/news/newsletters/2023-10-02/five-things-you-need-to-know-to-start-your-day-ln9grrrj"
-webUrl: "https://www.bloomberg.com/news/newsletters/2023-10-02/five-things-you-need-to-know-to-start-your-day-ln9grrrj"
+excerpt: "Good morning. Taiwanese tech companies aid Huawei’s efforts to build an under-the-radar chip network, the UK Prime Minister under pressure and Jamie Dimon on AI. Here’s what people are talking about. Several Taiwanese technology companies are helping ..."
+publishedDateTime: 2023-10-03T05:02:00Z
+originalUrl: "https://www.bloomberg.com/news/newsletters/2023-10-03/stock-markets-today-huawei-chips-sunak-pressure-federal-reserve-jamie-dimon"
+webUrl: "https://www.bloomberg.com/news/newsletters/2023-10-03/stock-markets-today-huawei-chips-sunak-pressure-federal-reserve-jamie-dimon"
 type: article
 quality: 32
 heat: 32
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "piiisXqy0y7VoUk6/UHpnIOtK2Kf3WXL+xKQmlq3UcJUAM0/9X7mb7LCcQt0H0bnJsr69Plo/pS15CyVM5yABii0i9vqy/RsVZUe2kyggWNnYRGVbqxQhPba0iBUsUo5H4OJmnKRV0KNYHVdZrinQh2OzcDg1q6ZFbRnqbSAzpTTkaLeNf5M/F/IMvuMptjMU9n8Nk//FLoigkcOraqJvQcKukHBfh/FKrsLm51CZ9Gmb0HlD8p5BVYIi/ElRNYEOYCb23EW4iLpB1Vy/sdbvlJfZg9PJMcEjAsjZH4tdvmPPKTeCtVLMNFBqbL+Bn1QdGj1a9YKzcfIhy4DPy6MrWfAofacwTsNbtBNeKb3GfOi5zQuMC0+FECyLB9+/vMrH8wISGDAfi6BlhmVjw8mWNN3MLyLQLcif9/sav6LCqOLE5D3h0YzFCsM0aRvOYvSRCL7Q4ozuxkYd0QopPXF3Cod3vKI6xUKxHcs03FqrTWMw8sSEp7GXz1GCVFGPdejjRlcnEvzQMldcFlt1lQDRg==;re+AB/cUtpoknunZ48XIWw=="
+secured: "uGtUBkYqZZFpyY4xxFxtSXF74qlcZE+RLp0hiTTAkB+lha45Bd1sUYyG5uVWJ8e6dGQ8j14MQACMUL7WTdfXhcmuBIti6y5ISlGVHsJJdpxEU+g3SvkKXHT7cIX6gZS7QFJppUWUBNAvKbwXqeAaVqbu+kmcy9y1Yf4SrO5paMniFQdZtrc5DWWQ8P3R1cHNmbN7akypbEeCabnXDQbiwZlGfxtw2BQ2AYcTunwX6pn6HFmd6ij1/CWYIhbF0wn2DkLhzCpqrT6MvKPCPaHiURtWihboAPl9lvdKIHpD0xJtVcNgISGitQTHqrUZpdO3qUqL88ajDhr1sUJRLm4xamoGiL0CXXOgbbWfm1mk/rrdxrEYWQYsJPYhuyPFdlpg9bBafwYYBy7km18YQ5gFStmzO6PoPBu8FR3gl98jNJmfB4qVnDkZrgX/r1AUYEnKsCHMhjBTWiSps+hM4fxKbtMPVBwbNT1TrmAnzaGVrSpfL+u6FA6hNml5nufPXWAh6TBVp92uNjI2DrOLO3iftA==;gofXlzMfPKYIaXHL5Gi2Wg=="
 ---
 
