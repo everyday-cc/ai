@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WGRZ
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Retailers want sector-wide use of facial recognition"
+    excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
+    publishedDateTime: 2023-10-03T23:37:00Z
+    webUrl: "https://www.newstalkzb.co.nz/news/national/retailers-want-sector-wide-use-of-facial-recognition-to-fight-26b-in-crime-losses/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 54
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
+        isCached: true
   - title: "Facial Recognition Technology Meets the Cattle Industry"
     excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
     publishedDateTime: 2023-09-29T15:01:00Z

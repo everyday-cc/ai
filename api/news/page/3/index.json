@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
       "title": "Artificial intelligence (AI) – FAQs",
       "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
@@ -193,7 +238,7 @@
       "originalUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -727,7 +772,7 @@
       "originalUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -817,6 +862,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
+      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
+      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/9enb2b/article67352868.ece/alternates/FREE_1200/2023-09-20T083013Z_1976777224_RC27C3AUUE3P_RTRMADP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
+          "width": 1200,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
+      "publishedDateTime": "2023-09-28T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1039,10 +1127,10 @@
     {
       "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
       "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
-      "excerpt": "Enterprise-ready, IBM-developed watsonx Granite model series now generally available to help businesses build and scale generative AI - IBM provides its standard intellectual property protections ...",
+      "excerpt": "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60231133-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models-008.htm",
+      "webUrl": "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/",
+      "originalUrl": "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1061,11 +1149,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T05:06:00-07:00",
+      "publishedDateTime": "2023-09-28T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1076,101 +1164,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-uaes-advanced-falcon-180b-available-on-amazon-sagemaker.md",
-      "title": "UAE’s advanced Falcon 180B available on Amazon SageMaker",
-      "excerpt": "Trained on a cluster of nearly 4,000 A100 GPUs, Falcon 180B is finely tuned to work seamlessly with the Amazon SageMaker environment. The use of Amazon Simple Storage Service (Amazon S3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tradearabia.com/news/IT_413880.html",
-      "originalUrl": "https://www.tradearabia.com/news/IT_413880.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:03:29am",
-          "width": 680,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trade Arabia",
-        "domain": "tradearabia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-i-watched-youtube-in-a-self-driving-mercedes-and-experienced-the-future-of-commuting.md",
-      "title": "I watched YouTube in a self-driving Mercedes and experienced the future of commuting",
-      "excerpt": "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
-      "originalUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6514798f1c099d0019ad4611?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
-      "publishedDateTime": "2023-09-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

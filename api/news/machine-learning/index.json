@@ -115,7 +115,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231002124257.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -241,10 +241,10 @@
     {
       "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
       "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "These new capabilities are being showcased at Workday Rising, the company's annual customer conference, and include Workday AI Gateway, advanced developer technologies provided by",
+      "excerpt": "Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at ScaleSAN FRANCISCO,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/27/9888874.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/27/9888874.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -254,12 +254,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T10:58:00-07:00",
+      "publishedDateTime": "2023-09-27T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

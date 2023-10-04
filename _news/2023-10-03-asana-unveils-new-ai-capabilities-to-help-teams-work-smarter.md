@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Asana Announces New AI Capabilities To Increase Productivity And Innovation"
+    excerpt: "I had the privilege of interviewing Dr. Rebecca Hinds, Head of The Work Innovation Lab at Asana to learn more about their research on productivity, innovation and AI."
+    publishedDateTime: 2023-10-03T16:51:00Z
+    webUrl: "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651c451313a33fa8fa34ad6f/0x0.jpg?format=jpg&width=1200"
+        width: 1044
+        height: 696
+        isCached: true
   - title: "Asana adds new AI smarts to simplify project management"
     excerpt: "Asana's new AI features drive greater levels of clarity, accountability and impact in different areas for enterprise teams."
     publishedDateTime: 2023-10-03T19:04:00Z

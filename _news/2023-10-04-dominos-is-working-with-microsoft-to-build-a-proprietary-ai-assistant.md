@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft’s Nadella: Google could lock up AI-enabled search"
+    excerpt: "As a witness for the prosecution in the Google antitrust trial, Microsoft CEO Satya Nadella warns that Google’s monopoly profits could lock in publishers as AI-enabled search arrives."
+    publishedDateTime: 2023-10-03T08:54:00Z
+    webUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.techhive.com/images/article/2017/05/microsoft_education_event_satya_nadella_close-100720633-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
     excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
     publishedDateTime: 2023-09-30T04:34:00Z
@@ -207,6 +223,6 @@ related:
       domain: benzinga.com
     quality: 22
 
-secured: "NX/S39frzaBhuA40DDMdjO6keH4irrwsfjfnYDmUpDogtG1hsrfzKD2LTMEmM6hvhrE60EMHPlJ4rpNWp9OjvdV2ymh53IltiuULqRMuG2n8PoedlRs+mQaC6F6c5IurxXpuF8oX++/ws9je6H6PdIpJlYpa8Se5JJ5wLBqNb3OUxCjJcFHes7lPU4cM5Ns02L3cgGqxO4IpSpPDFJBgYZi1VcBHmcOIpjivvT1YuLqRxaU6dUswBOG01HCnAgYIqBrDUKtGsyRJae5tY8TFPjGQmVFGHT+wiXWqbXwOBmBDG/SRPOuxqe+ASfQt7naRtWLYuM75mXJU/liCdGoG7a1ksor9Byxe98l5TKNeN3Q=;POB0d0IDL8Db5N3oh5FHlw=="
+secured: "bfLsyaJYTyaiHLXyUPOVO2+vJZMlf3SEIAzdbKig/VZCV4dWist4auXVK57YxRVt8QYkKcy/IM11cD4iOkEcZqIf9aFNvtFb7EtT5WXvsUPO86bLdDjv/qI+yjbv3LnReF/ESS46c7z/qPPl86cSStu/WbggAuBkPgtgg6pXg/DLAli/mXGPpmVd7c9Y6LFwC3TN7Af8JAj719sRYAlDMSMguDP7Q5tyGDVwvdc/0rIjZYRSRIEy9hZqVR1exX5FvX9R6FAAdaRRj2u6ws7bP18KwEmy2zBTy3xbR73bcTEc1CvJu+nisltwkSmtdFumIs8u500Ikg3nY+f7aCBq+gU8FdAOgI6Bp38LsJChetpa390I4/oeDAUXvv5zrrlFs19yb80uzL/9xAD1Js7sT+aTNNt71mu20010/j6Enc+DQFBtc9QcnmfcTjM0aZoy/paFRYQ58MBDVZK2pAaCmxjolf2giFp9CqCj3D9LfXgoTqbNvlLtpv0yfWjSIq3X4RXzU2VgVcftX71rNYifgQ==;q7g7nkk9uWo9us0l/+uG0Q=="
 ---
 

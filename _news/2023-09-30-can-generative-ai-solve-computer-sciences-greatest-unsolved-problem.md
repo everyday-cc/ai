@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-generative-ai-solve-com
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

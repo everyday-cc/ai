@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft’s Nadella: Google could lock up AI-enabled search"
+    excerpt: "As a witness for the prosecution in the Google antitrust trial, Microsoft CEO Satya Nadella warns that Google’s monopoly profits could lock in publishers as AI-enabled search arrives."
+    publishedDateTime: 2023-10-03T08:54:00Z
+    webUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.techhive.com/images/article/2017/05/microsoft_education_event_satya_nadella_close-100720633-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cloudflare collaborates with Microsoft to enable AI models to run anywhere"
     excerpt: "Building the AI railroad tracks of the future so inference tasks can move seamlessly across devices, networks, and clouds"
     publishedDateTime: 2023-10-02T11:11:00Z

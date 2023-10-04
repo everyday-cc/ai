@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-09-22-step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales.md",
+      "title": "Step Up To The Plate: 6 Tips To Leverage AI For A Grand Slam In Sales",
+      "excerpt": "In this game, AI isn't just part of the team; it's the MVP that ensures your sales strategy always brings you home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650ca351b274591a581ff99d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/09/22/step-up-to-the-plate-6-tips-to-leverage-ai-for-a-grand-slam-in-sales/amp/",
+      "publishedDateTime": "2023-09-22T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
+      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
+      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
+          "width": 752,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030.md",
       "title": "Artificial Intelligence Robotics Market Size, Growth & Trends Report [2023-2030]",
       "excerpt": "The Global Artificial Intelligence Robotics Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate ...",
@@ -1086,101 +1181,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards.md",
-      "title": "Retinal Imaging And Machine Learning Honored In The 2023 Lasker Awards",
-      "excerpt": "The Lasker Foundation’s annual awards for medical research honor the inventors of optical coherence tomography, DeepMind’s AlphaFold program and a legendary Dutch cancer researcher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-next-major-windows-update-is-available-september-26-with-new-ai-and-not-ai-features.md",
-      "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
-      "excerpt": "NEW YORK—Microsoft will be releasing its next major Windows update with \"over 150 new features\" later this month, the company announced in a presentation today. The update furthers Microsoft's crusade to tuck generative AI into all of its products, though as usual, it makes a ton of smaller iterative changes to the OS and its apps.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/paint_cocreator_print-980x613.jpeg",
-          "width": 980,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "publishedDateTime": "2023-09-21T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

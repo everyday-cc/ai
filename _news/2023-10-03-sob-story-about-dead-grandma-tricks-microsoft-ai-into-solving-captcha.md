@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-abo
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 268
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/1nU002FuqGvs5h2bLxxyvxrwiAE=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971211/KevinScott_Decoder.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft’s Nadella: Google could lock up AI-enabled search"
+    excerpt: "As a witness for the prosecution in the Google antitrust trial, Microsoft CEO Satya Nadella warns that Google’s monopoly profits could lock in publishers as AI-enabled search arrives."
+    publishedDateTime: 2023-10-03T08:54:00Z
+    webUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707732/microsofts-nadella-google-could-lock-up-ai-enabled-search.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.techhive.com/images/article/2017/05/microsoft_education_event_satya_nadella_close-100720633-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
     excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"

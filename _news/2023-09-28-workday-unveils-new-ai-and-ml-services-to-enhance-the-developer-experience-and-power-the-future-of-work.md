@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work"
-excerpt: "These new capabilities are being showcased at Workday Rising, the company's annual customer conference, and include Workday AI Gateway, advanced developer technologies provided by"
-publishedDateTime: 2023-09-27T17:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/09/27/9888874.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/09/27/9888874.htm"
+excerpt: "Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at ScaleSAN FRANCISCO,"
+publishedDateTime: 2023-09-27T19:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601"
+webUrl: "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "BjoW1BWZ0v9241z+pdkj713NizbTZUxJ5vyqvEXMpMSBacqwpCPzkMEcpQgP4uPI3XzlikGa/L2bFAV86jp5VYsTJDlfCbRj6MGdlBlWSt3IF1koyorBYCbCmyGvf4kkp2SNeTiUr8Q04jvS3T9AVJoOES4xDqibj8MlNKlPPwdxZAgwo5B4X5Jm9ev9Z7gKLdOT24TyqRKVVoEMH4vWOxfLd6PpLsqXY4K7QF1gm++mcwBsjIlro92BSJ47yzNPfwAEsw2Lauhg/UqeyOSd1+4BDi4FsHizTJAWLaA7VgXM6u7LaX9uR1P1GbjyH80Mpr5FU9tqvMGcGDdfk8qym7iR6nCzHNCWmiCDkph+2VS7yO0uz0r6XW+jmXt4KXr91/9MQKFD4AaGoTy3UbzOxj8XP13KKPhLL2G7JUQXGHIFmqImDqLgwp9Veq06xyhj9jTcXa32WlWQDKuBxBsD9BfIJMISG0rFrKFzvxwevWN0uZGkxVnUO7eTLEVXbgHUfC7+23FecF+CZn91z/fLIQ==;7x/KpGXTyP0Tf4qxxEcv5Q=="
+secured: "JdsL4sSh/wpunamHQvAt/AGX1AkfuYv4n25HIaSF1SlRKVs4B3XFpuP7ZAZf70cslZLJfFSCYBW+tKaiUtZweUjLkyaHZfK42Dn/VHGr0V3h69s6xjeCp5mPcBITw6g9U2jik3gIdM9fL5O+bpv1IsZEclvlntyLyUkXIvPhKRyHTVrDmnZvgTNdE/X99BGadxl9Vrq7VraQ0wMBKZQumylDWNF6IxxWnUetTM4+Yw7EMcreAesfnAI3u6TiG4CvQKPaWWgzS04AKW0QNk7Ss+7El5oN2ZNgBPCLNFrWY39HvZ3NVchd9m5fsiFE+hvpaUAZ2iw5PUoO1rBOraoUiBNlcnS217d2SpiTSwy1pxU=;istXmnGLxz9m8DupnKsVTg=="
 ---
 

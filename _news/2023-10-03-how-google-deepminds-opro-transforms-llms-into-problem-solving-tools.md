@@ -71,6 +71,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "DeepMind's Chinchilla AI toasts FLAC and PNG at lossless data compression despite essentially being just a large language model"
+    excerpt: "A study titled \"Language Modeling Is Compression\" (via ArsTechnica) discusses a finding about an LLM by DeepMind called Chinchilla 70B and its ability to perform lossless data compression better ..."
+    publishedDateTime: 2023-09-30T13:53:00Z
+    webUrl: "https://www.pcgamer.com/deepminds-chinchilla-ai-toasts-flac-and-png-at-lossless-data-compression-despite-essentially-being-just-a-large-language-model/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 26
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UfX3sCr9UhpVkc8P9SiK4S-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qHVSbMfOd2ubWIRCf1VITmqtyHTcLa1cTFMGOGRwKyETFoMQXXKQ3XIWmSpSXKhfr3FY+YJnI2QoE7VBpf1NYmnLFZ8H0Uuk+rA7d89xBq9Q2n8EGT/VN0C3VvPnkOhs/8g9WU0yvSvfvlRn3Rv+GSxIgIbzCdv9JDrUygObVx2Z3UWdfbblMeNaX2T5HMp48dyGsU7ODV0Dz4WKGipYxq8+qE16rQ3UH9zrQxfx4NkkJIMBEnrPH2xmOwJMQb5Lh53n9exVYB7VtTCqjdrLSclRFr4D2B0Bc9v4WcYgzxS0K31YGSa3GIvaLrIkFVDnkE+vGMoo8OpZRgPYRNb1Jpy+0HndFr1g3dwWtdfXI7U=;N9PupHaUVeNwbe4Qr/YCVA=="
 ---

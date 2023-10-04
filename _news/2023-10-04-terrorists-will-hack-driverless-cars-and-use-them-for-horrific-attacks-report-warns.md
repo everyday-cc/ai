@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
+    excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
+    publishedDateTime: 2023-10-03T23:19:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12591057/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 31
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/10/04/00/76138481-0-image-a-21_1696375079235.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "YRe2XFViBFDnPlVWOkcoB4A4slzG0hSEQOp87HPVX9ourbgDADpqudmzBD1YlLOZLn2HqLMUZ+Ak0EejL8N9AxkE27hHF85GlYBBZQ2pRYBDUVpu7YvJViAjGLfi9OsBGKB/omKhFCORYUq5IEnjkjUQo10ybPNqhXpzXEsirDHd4S6AMbo64P5Dad/a+emWoNOWCjZY+15JWiiBa89qATF0sdM/OSpQHmu5blliteoExN/R91W27Ow92b9AENYUMJRDrsKIdGNARWYie8mK+wkumg6wvOsIQm6p/z5f0ZET1k+I//qoKAzpuD1cWyDU/O32LIGnF9oqDqeL1HYjF0EfyNAep3ZEU3bd2qjv9+U=;bVdR048flI/6VWJGiS7Pug=="
 ---

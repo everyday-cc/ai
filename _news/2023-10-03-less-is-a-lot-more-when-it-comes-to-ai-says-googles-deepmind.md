@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
 quality: 106
-heat: 138
+heat: 150
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1f77b79c-0c33-43a0-8929-304bfdd6b88d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
         width: 700
         height: 394
+        isCached: true
+  - title: "DeepMind's Chinchilla AI toasts FLAC and PNG at lossless data compression despite essentially being just a large language model"
+    excerpt: "A study titled \"Language Modeling Is Compression\" (via ArsTechnica) discusses a finding about an LLM by DeepMind called Chinchilla 70B and its ability to perform lossless data compression better ..."
+    publishedDateTime: 2023-09-30T13:53:00Z
+    webUrl: "https://www.pcgamer.com/deepminds-chinchilla-ai-toasts-flac-and-png-at-lossless-data-compression-despite-essentially-being-just-a-large-language-model/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 26
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UfX3sCr9UhpVkc8P9SiK4S-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "MZC0LGwKPBslmhkIAm8GGcztV8OCkNdQueNWETCZxMvYqEDZy1XSWkr5sV9P5dZxRZCt0DC3mYZrT+6ZcZtEWhfih1/HkGdaCn0YBYVapynLuihMVAzmdYQqAoGb+aQGCgsgjF55xEPWiP5B7GvjXOgL/ti+NfPp/b2jnpiqxcgkURNuV3zpbLdMr6kGQhgUICL3iaQL8LLmSZLR1ZJtqyEx65MWIcTsJFHQ3PlEz/vIbCKV9/uv97DgKoYw2VijzmvBK0BrVPGLj/CO3xYGV5P+7mk/CHIYY5gC6zy/gkvPQcl/JZoVa2CHwusgrVcF47Z/vkqSk32KTJdu06AUZBpoqaBtudA/a40fLOxnxwhfAjGZQnXm5WO/g2rd9eUCVkByJCzu5UcPzgWGg59WU7FFy4jJhBcAq5SZPALy9RsZfzVMD/beCngMKIeSW9GHIiUjjffHjcJEF5SiZ2SOx5vwRRDQulLVFol8nsXGfUx9jbo2KGf/WX606PueSMBoAHdaVZ+zds8Xtag+BRK1vQ==;b7CbX8i0Qqa3jSw2g2hgtA=="

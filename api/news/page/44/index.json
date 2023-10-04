@@ -2,6 +2,109 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-08-31-we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent.md",
+      "title": "We Hear From Workers On AI: They’re On Alert, They’re Ambivalent",
+      "excerpt": "More than half of adults believe they need to gain new skills to prepare for the impacts of artificial intelligence—and one-third believe they'll need them within the",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/amp/",
+      "publishedDateTime": "2023-08-30T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-nora-ai-building-up-norways-ai-community-for-global-synergies.md",
+      "title": "NORA AI: Building Up Norway’s AI Community For Global Synergies",
+      "excerpt": "This blog explores the leadership and personal story of Klas Pettersen, CEO of Norway.ai and highlights their accomplishments and collaborations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64efed88b4223f88371e813e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
+      "publishedDateTime": "2023-08-30T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ai-in-viral-work-kill-the-cells.md",
       "title": "AI In Viral Work: Kill The Cells!",
       "excerpt": "You could say that, as a rule, antiviral work is the process of enabling antibodies. The problem, as Gifford puts it, is that viruses can ‘escape’ from the roving healers that consume infected cells.",
@@ -1123,101 +1226,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
-      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
-      "excerpt": "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "originalUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg",
-          "width": 1280,
-          "height": 1057,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "publishedDateTime": "2023-08-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-7-ways-businesses-are-using-google-cloud-ai.md",
-      "title": "7 ways businesses are using Google Cloud AI",
-      "excerpt": "At Google Cloud Next 2023, thousands of people gathered in San Francisco to learn about the newest updates from Google Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
-      "originalUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GCN23_GE_BlogHeader_2436x1200_9.width-1300.png",
-          "width": 1300,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/companies-using-google-cloud-ai/amp/",
-      "publishedDateTime": "2023-08-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

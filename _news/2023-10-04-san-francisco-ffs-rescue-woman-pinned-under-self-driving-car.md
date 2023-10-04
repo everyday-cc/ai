@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
   - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
     excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
     publishedDateTime: 2023-10-03T09:20:00Z
@@ -78,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
 
 secured: "SjaUgzREfrFLnNk7j84O34uds6yRa3gE8TlxcZWBNKBu0UVNLMsaGWc3L3c4eIe7oQtDG51rUFVBDdPCCrErOoC1e/6ZT6FqulEVqKhy+J/qxsO6PN76r43qJWMlwoodEaeWSHUrbeNMqsNIz520vYjM1S9YJS0yDN64Xt81gEGjHypu+UWEyztNod+DFTGtKYlSgSTaHo6Whr8p7nYIIMPFKJ7vZhnXqB2zeq89Y0OTBdhtclkdhiJpqmF+qR9ANwmyWTBoQUbt4gg6nzJRibG0eRORTEbpxqjjdT13X9mfXaWUepXwbvk33/AVqs+RgFTSYKN2YvRAwoU6+yNUkROQd6RYsk7LfJBHplhtkZ0=;DtB97HB3hKMjuMnPc1tdOw=="
 ---

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
-excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
-publishedDateTime: 2023-10-03T20:48:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
-webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
+excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the AI workflow by streamlining the development, testing, and deployment of AI models."
+publishedDateTime: 2023-10-03T21:48:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/03/9892179.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/03/9892179.htm"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ZnXTqAO6ENaqZ8S2ORndZfH7rMYu3Y1nKxq51GFMBAzwWXFXet5D+gM4A6rP8PgnTNOLstn8wDV6xN9d/XY5BFVXl9I4Ms4aSlSZZhvmfhvzSodi2JhfmhjJicA8yPiR0KKuwIt7Nsob8RSJA4RanZ/+DsseWFBqaEVmikxX8G51W3Mvm5xR+C36SuMga+xhVzsP1zSNX0ksLcIpOiEdlJNISsyBzLerdEgkYPKas2cGaT8dIv+BqvuHNtmv67xcTz6rULDRhZ4N5rFRtgFUwU5KBEv/tqTOeauSIH+iGkvvIFy8s7Oou/2o673cfRlA0UxNGDbanoW8vm1xO/ndhPbQPjm6IS7E7bPkPhtc9/k=;77H+7j9dLXfzF2PZbTRwRA=="
+secured: "nqreOlT/FW3CHepaNSEDYChyShExSzE+3ck2xQYH4/9XYXOP3szxMTC9zogQm+Al4/tVEk5UaU6fq9JsaB0svVpALTeTegucqngnIKXOjMRSGk75vo7CF5NlooSS17A1epn5r9WqwhoQbTJG/9EaFn0erFxrEzFrnz3KmfntSx/0bP2HJrs0tfCaKBTkFyA3rTbgPyq+cwisMSAG+1sfPuZzxuySwV68Sb8AP29xSGRovKbPkKdb+VortBtrzD+sVUk9yCenxf8CeKrtfdSFHQpnjAtXZDI96xxgIr8/Cmf3POU5h8LdUaQi/aevKXX20B5hhGSpZx4kB4dyFxNzKv/R5thgoICQasIvyyhnqCo=;vADrbZEympZQ+TBWa9a28Q=="
 ---
 

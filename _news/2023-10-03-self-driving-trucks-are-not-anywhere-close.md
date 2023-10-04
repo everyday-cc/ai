@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/38210-self-driving-truck
 webUrl: "https://www.supplychainbrain.com/articles/38210-self-driving-trucks-are-not-anywhere-close"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 951
     height: 635
     isCached: true
-
-related:
-  - title: "The self-driving trucks that are deliberately crashed"
-    excerpt: "The developers of self-driving trucks don't usually like to see them crash in testing - there would be a lot of mangled metal and the risk of causing serious injury or worse. Instead the hope is ..."
-    publishedDateTime: 2023-09-30T20:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-66866603"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-66866603.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66866603.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7F99/production/_131256623_truck1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "zUaf1KXz1YZbKu2+gMNpW5Di1A0x1OosrBvhVMaSTdf2b9N38kmfFJs6Nt8zyd1gTEWqNhci6d2i7mTxQYd8zFlwNa+97GFHVDIVD7/BRIVfB1T87ov+FL0dfPE/FpjhBR3gsczSn2NYYp13dWsBSy6HHDMTwycH8j9xLn7q6eiR9Pj9DHsNYel4bteGG+JbA48Aijz7tAqiO3ir0/qnBcSfltbSXWmOrhoEiB8C1S0w8GdR1AZXeixQdSzLb/eqQJ8tWJhj4JLtMP1WI/GzWldyh4MKmtiMr2VSQSqWc5OwKngiIMvFZaKKCMWPc1UhzZBRp/Ur2Rge/yPoxXXhDJ+F3Uln75pbKHRCeDoArAg=;oNro2lSjeqIdRbT4I13qKQ=="
 ---

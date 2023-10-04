@@ -2,6 +2,82 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-08-31-self-driving-cruise-cars-have-quietly-expanded-to-offer-rideshare-in-more-areas-of-austin.md",
+      "title": "Self-driving Cruise cars have quietly expanded to offer rideshare in more areas of Austin",
+      "excerpt": "Autonomous cars are in more areas of Austin, as self-driving car company Cruise quietly expands its rideshare coverage area. San Francisco-based Cruise, which is owned by General Motors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/technology/2023/08/31/gm-general-motors-cruise-austin-self-driving-autonomous-car-vehicle-rideshare-services/70710793007/",
+      "originalUrl": "https://www.statesman.com/story/business/technology/2023/08/31/gm-general-motors-cruise-austin-self-driving-autonomous-car-vehicle-rideshare-services/70710793007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-decentralized-ai-artificial-intelligence-in-web3.md",
+      "title": "Decentralized AI: Artificial Intelligence in Web3",
+      "excerpt": "Read our article, as here we explore the potential of AI in a decentralized web and how it can be used to redefine online spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
+      "originalUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cryptonewsz.com/wp-content/uploads/2023/08/Decentralized-AI-Artificial-Intelligence-in-Web3.png",
+          "width": 512,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
+      "cdnAmpWebUrl": "https://www-cryptonewsz-com.cdn.ampproject.org/c/s/www.cryptonewsz.com/decentralized-ai-artificial-intelligence-in-web3/amp/",
+      "publishedDateTime": "2023-08-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cryptonewsz",
+        "domain": "cryptonewsz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-cognitive-services-market-outlooks-2023-size-cost-structures-growth-rate-forecast-to-2030.md",
       "title": "Cognitive Services Market Outlooks 2023 Size, Cost Structures, Growth rate Forecast to 2030",
       "excerpt": "Get a Sample Copy of the Cognitive Services Market Report 2023 Regions are covered: North America (Canada, Mexico, United States, Cuba) Europe (United Kingdom, France, Russia, Germany) Asia ...",
@@ -1077,109 +1153,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent.md",
-      "title": "We Hear From Workers On AI: They’re On Alert, They’re Ambivalent",
-      "excerpt": "More than half of adults believe they need to gain new skills to prepare for the impacts of artificial intelligence—and one-third believe they'll need them within the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/08/30/we-hear-from-workers-on-ai-theyre-on-alert-theyre-ambivalent/amp/",
-      "publishedDateTime": "2023-08-30T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-nora-ai-building-up-norways-ai-community-for-global-synergies.md",
-      "title": "NORA AI: Building Up Norway’s AI Community For Global Synergies",
-      "excerpt": "This blog explores the leadership and personal story of Klas Pettersen, CEO of Norway.ai and highlights their accomplishments and collaborations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64efed88b4223f88371e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/30/nora-ai-building-up-norways-ai-community-for-global-synergies/amp/",
-      "publishedDateTime": "2023-08-30T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

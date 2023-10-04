@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Retailers want sector-wide use of facial recognition"
+    excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
+    publishedDateTime: 2023-10-03T23:37:00Z
+    webUrl: "https://www.newstalkzb.co.nz/news/national/retailers-want-sector-wide-use-of-facial-recognition-to-fight-26b-in-crime-losses/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 54
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
+        isCached: true
 
 secured: "LWZIdMQ4SBEvzcOliTX0NoQ7PwQi/ar7zoMTv9H1t+cMHOyVvFT2VNliEIsSk6JsyYvVYxoY2YmT7O4XqaBKFceWkQIJyXiV6+ujOQio6nUQNXpCgqK4tV45brZVnmbVUHtcbzIlQY4JwosiRLsMYN+F4G5NHYyHQG+xDqu8p34ds73A8nX5h2jtgZljs1N4QgQjpnr/bgh2Uu0ZBut3dn7EUyPao4gAhtwKJjsGD40ztL4Vs9Cp8NA535c2KcFekT7xEZcLrN+EW0UPoICDZ6BR3QeytFtsKa92h803eU9nfAqA/Az2YlT5Mwzy5jz879TFXnMFompvLbG2Ct71kXBb+OyWvrW0vqrN76PNlSM=;ieLF6ruMACwgFYgVs+JBSw=="
 ---
