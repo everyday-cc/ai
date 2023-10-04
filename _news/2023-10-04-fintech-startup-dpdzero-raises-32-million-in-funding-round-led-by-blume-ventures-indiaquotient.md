@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech start-up DPDzero raises $3.25 million in seed funding"
+    excerpt: "DPDzero, a fintech start-up, has raised $3.25M in seed funding from Blume Ventures, IndiaQuotient, banking and fintech leaders. The start-up aims to fix the root cause of delayed repayments and has partnered with NBFCs and attracted interest from private banks."
+    publishedDateTime: 2023-10-04T06:56:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
     excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
     publishedDateTime: 2023-10-04T04:45:00Z

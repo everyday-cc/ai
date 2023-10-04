@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-l
 webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Startup Nexusflow Raises $10.6 Million"
-    excerpt: "Nexusflow scores funding to build an open-source LLM that can deliver high accuracy when retrieving data from multiple security sources."
-    publishedDateTime: 2023-09-29T15:22:00Z
-    webUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/"
-    ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 57
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Visa launches $10- million fund for gen AI start-ups"
     excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
     publishedDateTime: 2023-10-03T06:17:00Z

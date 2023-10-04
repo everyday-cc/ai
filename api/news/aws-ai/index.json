@@ -118,7 +118,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?11:03:47am",
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:02:20pm",
           "width": 680,
           "height": 450,
           "title": null,
@@ -532,6 +532,49 @@
       "provider": {
         "name": "Deep",
         "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-amazon-announces-4b-investment-in-ai-company-anthropic.md",
+      "title": "Amazon announces $4B investment in AI company Anthropic",
+      "excerpt": "25 (UPI) --Amazon said on Monday it will pay up to $4 billion for a minority stake in the artificial intelligence company ... will allow Anthropic will use AWS Trainium and Inferentia chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/8591695644117/2023/1/3975ef2cb59fa3e3bb6cf542ecec035d/v1.5/Amazon-announces-4B-investment-in-AI-company-Anthropic.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "publishedDateTime": "2023-09-25T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1285,58 +1328,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-50-generative-ai-startups-to-watch-in-2023.md",
-      "title": "50 Generative AI Startups to Watch in 2023",
-      "excerpt": "and other forms of artificial intelligence to generate new, original content for a variety of business use cases. Larger tech companies like Google, Microsoft, and AWS are working hard to build up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

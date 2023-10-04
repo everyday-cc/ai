@@ -550,6 +550,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-16-synergy-of-traditional-techniques-and-deep-learning-enables-single-frame-high-precision-fringe-pattern-analysis.md",
+      "title": "Synergy of traditional techniques and deep learning enables single-frame high-precision fringe pattern analysis",
+      "excerpt": "Recently, with the explosive growth of available data and computing resources, deep learning, as a \"data-driven\" machine learning technique, has achieved impressive success in numerous fields ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.html",
+      "originalUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/the-synergy-of-traditi.jpg",
+          "width": 1280,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.amp",
+      "publishedDateTime": "2023-09-15T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-using-the-brain-as-a-model-inspires-a-more-robust-ai.md",
       "title": "Using the brain as a model inspires a more robust AI",
       "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
@@ -1332,60 +1375,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
-      "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
-      "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff362502f97585562b0c97/0x0.jpg?format=jpg&crop=985,554,x18,y0,safe&width=1200",
-          "width": 985,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/09/12/machine-social-network-to-update-air-force-ai-robots-on-the-fly/amp/",
-      "publishedDateTime": "2023-09-12T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
       ]
     }
   ],

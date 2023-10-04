@@ -32,20 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Google stock forecast and price prediction"
-    excerpt: "Get insights into the Google stock forecast with our expert predictions and analysis to help you make informed investment choices."
-    publishedDateTime: 2023-09-29T16:50:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/stock-forecast-google/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 24
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/09/29020847/GettyImages-1253689390-scaled-e1695967768513.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "btMCn6d6yzNuGNuxAZUOtDjfZ0w3HMDPM+i5zJ/QxjMDyAIkLYwAlTFTVFaWrJptJ3XDGunCz0PzAVgB4PoJSeoGtnjZVkAfkw5VWfyW7PKSyDOcbselDqUSqPeGLG/OE9OAAzd/yleZkIP2PJ5ZQRDTPN0CjceZ8vmO9sBX3BUUBGzExSLhl8P1Ft9qQ/7dJ1eA73DNo75vRjXxwS7CSBG5FvuF2W1QNQip9kH6f91oEqgIP191x8zxOcGQEx4at9nI1Uv8Itj4stpi95ZmFPB7Ugk6moQVI+TZjmlS2cXKyaqEsQSeoSexX8Hgr4GwvtXuWx7vKpSszXj9OeurSjnHKVmdbMU/tYOplvjoLQs=;2xIn4Jv3feAipy4wy+6gqQ=="
 ---

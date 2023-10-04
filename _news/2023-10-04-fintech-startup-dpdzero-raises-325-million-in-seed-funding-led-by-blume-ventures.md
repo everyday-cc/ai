@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzer
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Fintech start-up DPDzero raises $3.25 million in seed funding"
+    excerpt: "DPDzero, a fintech start-up, has raised $3.25M in seed funding from Blume Ventures, IndiaQuotient, banking and fintech leaders. The start-up aims to fix the root cause of delayed repayments and has partnered with NBFCs and attracted interest from private banks."
+    publishedDateTime: 2023-10-04T06:56:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/fintech-start-up-dpdzero-raises-325-million-in-seed-funding/article67378775.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
     excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
     publishedDateTime: 2023-10-04T04:45:00Z
@@ -58,6 +69,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "L/c+kCuf9T/9ahu0D4HnNaxwiUHzGoI0SKhaVmyDk8fI1XG4K0t7Gm4/p1vIwzOSnfltQUGRC9Knb2T9pXD2vpQlpfTsRopFcxVUsIuuF+DrFPknCJuKALT7aTa2PgVCPpy6q/v7wYTFlfg6MHo99AZ+3OY29hhkTIdTktjlP2Iv8MeMc3ZUqw8QFoNNa9zm9A0Y+AmEHxHKCltibNTKzbi0iu5rdcdXO9f+2ewbvwACXMUHTsYcY5oL7p+qnkWx3pbVIJRbSOLfbAsDuvTl2hzszk9eeCUpQtRx+fP6yZWGIL6ezzRXgvjDu0Zoi2r+P1FrP9ljMgwqkY5Y+quLCk7smAy7FdhGMB1MzRtInMA=;XRkZeCLuOKzoEuKe5fe9QA=="
+secured: "FGeaou3L5KB2XsfEsqOSI4a4qjD9n8hUlKVxAvylClLYVL9JwkVu/tI4pT832Pa8M7tNhLtJVMgMc4O/xQDpTUQ9hMDD4XrsaB2/GDUmDOWcey7AvNzhDqCfx/fQHRQ2GZG8PlFfcHOUIGpCTfMTdVOBhQN3iLMSZgjqDyZJ/Wn2buHtlccb81uLCV3yD9YcUsXVKbrD3A4z/I3eDoNMXNtpFN8qDlbjYIfayblzPnCx/4xRilu5YIzRRxIG9tfLfRr0oCJH+mOOailgy86SYq7SD+dQQLwLAQ6FH3hnDJ2PK1qTVDtfjtCbGsLBM62+Fbm6m96IVb9/AcCaiKzHSTuYAgBE8cg7vgbyCcZU9ifq+FwGGLtUzKskFnopq5PgGYmve1Ihmr/hMUGX1fatF9zX59yCQIX6leSUjqwjS1hNgHGMFAds6jDDTGgTqifUoB6IpIVSPaca0nexVgYXqn9b81dQLQ/6Mrug5y8FV6Yw97FUPyITaMycRe+RhxUn0FpX7XGMzNrZn2OnHcLTDg==;xKrBTQxcRcFLlwr1WYa1GA=="
 ---
 

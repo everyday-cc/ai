@@ -81,20 +81,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "EU starts early-stage probe into Nvidia-dominated AI chip market’s abuses – Bloomberg News"
-    excerpt: "The European Union is examining alleged anticompetitive abuses in chips used for artificial intelligence, a market which Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-29T16:13:00Z
-    webUrl: "https://kfgo.com/2023/09/29/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-markets-abuses-bloomberg-news/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-09/29/2023-09-29T161357Z_1_LYNXMPEJ8S0SY_RTROPTP_3_USA-STOCKS-SEMICONDUCTORS.JPG"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Is Nvidia abusing its dominance in the AI market?"
     excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."
     publishedDateTime: 2023-10-02T20:08:00Z

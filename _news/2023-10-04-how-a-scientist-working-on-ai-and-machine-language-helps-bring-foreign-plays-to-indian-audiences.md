@@ -43,6 +43,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Sam Altman, Peak XV fund AI startup founded by two Indian-origin teens"
+    excerpt: "Induced is an AI-backed browser (RPA) robotic process automation platform that allows automation of workflows that require real-time reasoning or dynamic judgement (filtering leads, cross-referencing documents,"
+    publishedDateTime: 2023-10-04T08:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-50156,msid-104155893/induced-ai.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meet the Indian teens who raised funds from Sam Altman for their AI startup"
     excerpt: "ChatGPT developer OpenAI’s CEO Sam Altman has invested in an artificial intelligence (AI) startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley in the US."
     publishedDateTime: 2023-10-04T04:50:00Z
@@ -68,6 +84,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Romanian tech startup theCoRD.ai aims to raise EUR 300,000 to scale its AI solution internationally"
+    excerpt: "Romanian tech startup theCoRD.ai, which develops the world’s first AI Team Coaching solution, launched its first round of investment, pre-seed, with a funding target of EUR 300,000. The funds will be directed towards scaling its solution internationally."
+    publishedDateTime: 2023-10-04T09:47:00Z
+    webUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023"
+    ampWebUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023?amp"
+    cdnAmpWebUrl: "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/thecordai-investment-round-october-2023?amp"
+    type: article
+    provider:
+      name: Romania Insider
+      domain: romania-insider.com
+    quality: 43
+    images:
+      - url: "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-10/ruxandra_cord_thecord.ai_-_photo_pr.jpg"
+        width: 984
+        height: 930
+        isCached: true
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
     excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
     publishedDateTime: 2023-10-04T07:25:00Z
@@ -81,6 +113,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Teens’ startup Induced AI raises $2.3 million from Sam Altman, Peak XV"
+    excerpt: "Induced AI, an enterprise AI automation startup, said on October 4 that it raised $2.3 million in a round led by Open AI co-founder Sam Altman, Peak XV and SV Angel. The startup was founded earlier this year by two Indian teenagers."
+    publishedDateTime: 2023-10-04T09:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/teens-startup-induced-ai-raises-2-3-million-from-sam-altman-peak-xv-11475481.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 37
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/07/Funding.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Fw0EUHwgf5QZ0ZLWUT067+iZcSNO8JEL0hQDM3qWQN5YqU9p59500FzMqoiH8jtgQMJ68pa3PYRTe5pGGzVRsWV8QPNGHrD/7m0WfzG4BUGSthV2L8uNGkF+p7UCMSLSbc4X/iA+dzpYTdSmV6dStVjwekGB/Zkq3CYYJMgilg1/CnxZ4su3GzgfWV52SGPcC3X/rdGEbE7bAeIxyDvKC1b+8trSoS6qk73dFZW2NX/R3Wh9/FJ2E5loYvRveuVQSD0nf2ubskk+sVriIUJZFaG+znaRd5ASn9+cxcLApxcU44LJma66g8KfmelR05VHZia1QKXIoSWjwiDFKmTLMdRi+1oBty7+R3KM2ShWO8A=;6lGoEvuGaT0+KmfqWQui0w=="

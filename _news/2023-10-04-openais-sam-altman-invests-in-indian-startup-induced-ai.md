@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
 type: article
 quality: 57
-heat: 97
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sam Altman, Peak XV fund AI startup founded by two Indian-origin teens"
+    excerpt: "Induced is an AI-backed browser (RPA) robotic process automation platform that allows automation of workflows that require real-time reasoning or dynamic judgement (filtering leads, cross-referencing documents,"
+    publishedDateTime: 2023-10-04T08:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-50156,msid-104155893/induced-ai.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meet the Indian teens who raised funds from Sam Altman for their AI startup"
     excerpt: "ChatGPT developer OpenAI’s CEO Sam Altman has invested in an artificial intelligence (AI) startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley in the US."
     publishedDateTime: 2023-10-04T04:50:00Z
@@ -67,6 +83,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Romanian tech startup theCoRD.ai aims to raise EUR 300,000 to scale its AI solution internationally"
+    excerpt: "Romanian tech startup theCoRD.ai, which develops the world’s first AI Team Coaching solution, launched its first round of investment, pre-seed, with a funding target of EUR 300,000. The funds will be directed towards scaling its solution internationally."
+    publishedDateTime: 2023-10-04T09:47:00Z
+    webUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023"
+    ampWebUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023?amp"
+    cdnAmpWebUrl: "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/thecordai-investment-round-october-2023?amp"
+    type: article
+    provider:
+      name: Romania Insider
+      domain: romania-insider.com
+    quality: 43
+    images:
+      - url: "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-10/ruxandra_cord_thecord.ai_-_photo_pr.jpg"
+        width: 984
+        height: 930
+        isCached: true
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
     excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
     publishedDateTime: 2023-10-04T07:25:00Z
@@ -80,6 +112,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Teens’ startup Induced AI raises $2.3 million from Sam Altman, Peak XV"
+    excerpt: "Induced AI, an enterprise AI automation startup, said on October 4 that it raised $2.3 million in a round led by Open AI co-founder Sam Altman, Peak XV and SV Angel. The startup was founded earlier this year by two Indian teenagers."
+    publishedDateTime: 2023-10-04T09:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/teens-startup-induced-ai-raises-2-3-million-from-sam-altman-peak-xv-11475481.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 37
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/07/Funding.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "/Cs6OPI5hAerrrVjWr1yp2038cJibV9bTiQObJkI8IPcCm4TUmTnBN0gN7kxfFNR+7TOis2JBZdSmt/VavoSQgS1zg1Cu/gvC0OGyCnY5rWna1qTWUlP6EJVXRceEWVleFTCeWnW7J3dvxl2wCQa2NTjhwTrSP9S+iHMfrEVsv4FI9J9nMa5NlqyAhNIS5JuV4hDDZZnohoh86Om7mH39kofoAqUqWBguFRLisOjM98kENKc7QbYGjzQNGNBDAwMa57uYU4hVWefAcwmQFw5xgV6BeH4ak89iks10o0LYW56vLOdgenwckM7V7MZ9PHTYbGfzHK3iTOYceOODlB2pv4DPBJqgSZzLz9fVCzGsLk=;3nhdNY948WtTBpHsVPFm1g=="

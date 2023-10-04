@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Startup Nexusflow Raises $10.6 Million"
-    excerpt: "Nexusflow scores funding to build an open-source LLM that can deliver high accuracy when retrieving data from multiple security sources."
-    publishedDateTime: 2023-09-29T15:22:00Z
-    webUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/"
-    ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 57
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
     publishedDateTime: 2023-10-02T22:43:00Z

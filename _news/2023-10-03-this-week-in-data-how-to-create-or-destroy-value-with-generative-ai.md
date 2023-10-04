@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-create-or-dest
 webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-create-or-destroy-value-with-generative-ai/"
 type: article
 quality: 67
-heat: 79
+heat: 78
 published: true
 
 provider:

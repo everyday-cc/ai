@@ -2,6 +2,271 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-08-29-top-8-apm-metrics-that-it-teams-use-to-monitor-their-apps.md",
+      "title": "Top 8 APM metrics that IT teams use to monitor their apps",
+      "excerpt": "A superior customer experience (CX) is built on accurate and timely application performance monitoring (APM) metrics.\nThe post Top 8 APM metrics that IT teams use to monitor their apps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "originalUrl": "https://www.ibm.com/blog/apm-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:03:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-sppu-launches-ai-and-machine-learning-postgraduate-diploma.md",
+      "title": "SPPU launches AI and Machine learning postgraduate diploma",
+      "excerpt": "The advanced curriculum has been jointly designed with the Department of Technology, SPPU keeping in mind the objectives of the NEP2020.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "originalUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/08/SPPU-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/sppu-ai-machine-learning-postgraduate-diploma-8914965/lite/",
+      "publishedDateTime": "2023-08-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-meeranda-the-human-like-ai-is-now-supported-by-the-ovhcloud-startup-program.md",
+      "title": "Meeranda, the Human-Like AI, is Now Supported by the OVHcloud Startup Program",
+      "excerpt": "Meeranda will commence its Seed Funding round by the end of August 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/29/9871453.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month.md",
+      "title": "Google’s new A3 GPU supercomputer with Nvidia H100 GPUs will be generally available next month",
+      "excerpt": "Earlier this year, Google Cloud announced the private preview launch of its H100-powered A3 GPU virtual machines ... given that their focus is on training and serving generative AI models and large language models. When it announced the A3 last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "originalUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-908368194.jpg?resize=1200,640",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/googles-new-a3-gpu-supercomputer-with-nvidia-h100-gpus-will-be-generally-available-next-month/amp/",
+      "publishedDateTime": "2023-08-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-google-debuts-duet-ai-to-tackle-new-cybersecurity-challenges-in-the-cloud.md",
+      "title": "Google debuts Duet AI to tackle new cybersecurity challenges in the cloud",
+      "excerpt": "The use of AI in modern defense has dominated the Google Next security discussion. The tech giant has introduced new solutions capitalizing on AI to fend off cyberattackers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/63b242168e371cf2ef4ae64a90a33d552ba837c4/2023/08/29/268d1250-ced6-490a-9d7c-3f353a068be7/gettyimages-1236886242.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-debuts-duetai-to-tackle-new-cybersecurity-challenges-in-the-cloud/",
+      "publishedDateTime": "2023-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.md",
+      "title": "Ericsson, AWS, Hitachi America R&D trial private 5G for manufacturing",
+      "excerpt": "“By using the Ericsson Private 5G Network product, and running artificial intelligence and machine learning models on an AWS Snow Family device, we were able to demonstrate a reliable and secure connection to run machine vision inferences at the site to ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103175231,imgsize-652940,width-1200,height=765,overlay-ettelecom/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telecom-equipment/ericsson-aws-hitachi-america-rd-trial-private-5g-for-manufacturing/103175231",
+      "publishedDateTime": "2023-08-29T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ubs-upgrades-this-stock-it-says-can-jump-another-20-on-ai-excitement.md",
       "title": "UBS upgrades this stock it says can jump another 20% on AI excitement",
       "excerpt": "\"We believe GPU supply constraints could be enough to drive outsized performance in Oracle shares.\" Shares of Oracle have popped nearly 43% this year, boosted by investors' views that the company is an AI beneficiary. Shares are up 2.7% in premarket ...",
@@ -901,301 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-siem-and-threat-intelligence-stay-current-on-trending-threats.md",
-      "title": "SIEM and threat intelligence: Stay current on trending threats",
-      "excerpt": "The evolution of cybercriminal tactics necessitates a corresponding evolution in defense strategies, driving organizations to embrace advanced security tools. Among these, Security Information and Event Management (SIEM) solutions and threat intelligence stand as linchpins of modern cybersecurity. By",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
-      "originalUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T13:19:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-academia-vs-industry-ai-showdown.md",
-      "title": "Academia Vs. Industry: AI Showdown",
-      "excerpt": "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
-      "publishedDateTime": "2023-08-28T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-learning-in-multiple-fun-ways-and-getting-more-dextrous.md",
-      "title": "Robots Learning In Multiple Fun Ways And Getting More Dextrous",
-      "excerpt": "Agarwal is also using the term \"artificial physical intelligence\" or API, which might be slightly confusing to people who work with application programming",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfbe9e9c37dfe813b0612/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
-      "publishedDateTime": "2023-08-28T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
-      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
-      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
-      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
-      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
-      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
-      "publishedDateTime": "2023-08-28T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-nutanix-introduces-a-turnkey-generative-ai-solution-stack.md",
-      "title": "Nutanix Introduces A Turnkey Generative AI Solution Stack",
-      "excerpt": "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ececc62874c313484af6bb/0x0.jpg?format=jpg&width=1200",
-          "width": 787,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
-      "publishedDateTime": "2023-08-28T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

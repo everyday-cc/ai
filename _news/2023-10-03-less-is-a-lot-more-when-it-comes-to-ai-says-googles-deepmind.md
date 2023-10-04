@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
 quality: 106
-heat: 140
+heat: 138
 published: true
 
 provider:

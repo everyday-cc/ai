@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives
 webUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - IBM AI
-
-related:
-  - title: "IBM announces first release of watsonx Granite model"
-    excerpt: "IBM has announced the release of the first models in the watsonx Granite series, which are generative AI models designed to enhance generative AI's integration into business applications and workflows."
-    publishedDateTime: 2023-09-29T16:59:00Z
-    webUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-granite-model/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2023/09/Screen-Shot-2023-09-29-at-12.23.11-PM-490x231.jpg"
-        width: 490
-        height: 231
-        isCached: true
 
 secured: "WEClZ+S+ZFh51p8p/iR8E3AgnSI+E4LvrSU/TdJmnP1BctlsHGTjJlQBHI0hKhkejWvbp1VjuyPRcGWYv7hSv01XmISoSgsj/v8kVKmV3iB6ycEde7bAIFh/Nv2II3+rXH2XCiWfcXfHOU9rO07v3W7PPj5dmI23qwoANpBDB6enZAv2JxUXE7c63f6rfdCeqn0jmu8omCcbx98TRa9SYLFwo+Gd+kZw6waHQVhAH/HigVE3k6rLAaQpuKv5pkcYKpGbkKztJ8KuHZtba8nJ6TSC+OS0pCiu4gOqBKiy1Fa24YRYhrudKhMT0krLZNFNEKsvpZX7+IBrnvPLkoC021zFwsUoPI/RkmMvxHM10T0=;JVXslMAyh2ggXvWWFkqiBA=="
 ---

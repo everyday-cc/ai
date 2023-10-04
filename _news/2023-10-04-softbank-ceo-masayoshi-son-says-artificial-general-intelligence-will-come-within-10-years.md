@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Softbank CEO Masayoshi Son says artificial general intelligence will come within 10 years"
-excerpt: "TOKYO, Oct 4 (Reuters) - SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realised within 10 years. Speaking at the SoftBank World ..."
-publishedDateTime: 2023-10-04T02:08:00Z
-originalUrl: "https://www.reuters.com/article/softbank-group-conference-idUSP8N39I013"
-webUrl: "https://www.reuters.com/article/softbank-group-conference-idUSP8N39I013"
+title: "Softbank CEO Masayoshi Son Says Artificial General Intelligence Will Come Within 10 Years"
+excerpt: "TOKYO (Reuters) - SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realised within 10 years."
+publishedDateTime: 2023-10-04T01:53:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-10-03/softbank-ceo-masayoshi-son-says-artificial-general-intelligence-will-come-within-10-years"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-10-03/softbank-ceo-masayoshi-son-says-artificial-general-intelligence-will-come-within-10-years"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial general intelligence will come within 10 years: SoftBank CEO Masayoshi Son"
@@ -43,6 +37,6 @@ related:
         height: 765
         isCached: true
 
-secured: "lu9QB+sVFIZ3VFjM92lvG8XZ55as6UnwgeiXEa85ACO8yH0CQ5UHTHb4vXBendHoP0OLNymW7y8V2c9DwWbaEjOMt2AKFpkW7iekd4zdXHDEruse9WJ+ELuKa96mN+Nscu7atWv5uzd7SkJl5LdFDFGFg61rBxqDJq4bYakJPYb8jQMDe/pITPkeTgVbQAt170E/iJSMRgSEYcExYwRMujq+uaJH4Qi2ztbqExEya5B1YNBj9kYXYsjoxbFsAvXzUhL8EzgMvQWRmh4xcZcsdknhQih1qci5dr5hHAM24KApYnijch5Tnm/1HOulLmIHdA5qESxl/xK9fp8h1swBhBh7cX68eeECzumztKdsQTg=;ydCAR/V1CCzHuvgn/JZ7Ew=="
+secured: "LjANNbhGbsOyyuwwVYSnWZfiBz9islSlR8WVvm8lwCaul2+xm0BJKgaakZaGAGQtMSf7lty9MqkbN/NKq6KyJdv9ioFUm0qXnR5Gn9mU9erauyVZNmCugVd9hTC/f0X988sMTtE5WtX1BBQG1wQKXtA4dUVecy4ORvphpbnaMfq5p8vr8aRAvenUzMFugqn60c28ziLyj/uqYcdgCK6GyyNDcJI+sibyFl9emhOfOwQW3aaPp0bx/hD9GjARJgmxyPQEgr2dHN+TLNv+2+qrGBgS2W7AYFYwXbRRLfu252LMYf5zLTYhqG08TmhBWiAjnR88VDuM+351l3a6IMBoQMNF9R4d1FIwVIhunmUd/z8=;olutUKbZorcJM9gMBeh6/g=="
 ---
 

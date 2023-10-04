@@ -24,19 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Washington State Considers Fingerprint Scans And Facial Recognition To Buy Cannabis Or Alcohol"
-    excerpt: "Washington state lawmakers are considering allowing biometric age verification by private entities selling alcohol or weed products via a bill that would put the State Liquor and Cannabis Board in charge of deciding on the fingerprint scanning and facial analysis,"
-    publishedDateTime: 2023-09-29T15:13:00Z
-    webUrl: "https://www.benzinga.com/markets/cannabis/23/09/35003534/washington-state-considers-fingerprint-scans-and-facial-recognition-to-buy-cannabis-or-alcohol"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35003534"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35003534"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
-
 secured: "I+tCjuCzVW37FTZcOGTjy9oaJyAyGsEGoJCRQc5jmNxexm09Gt++6hk9OXLrE4x2bHHThq+Un5CyYAaiXYBXOQjg/TD3FO8qBlYDZ9RjER+FNtl+vVmHD5X5LaA15lteDVcOeyMvqWIsX/vXmTzDJ5uDtpKk7KLojGvEKMY8248flbmuyhdbKZpRrKpE+fIcsNlE5ogwPPReLYjSbbZEBRJgYkxqJNlQwd/CG+NvlI1VCsucLqe600ba+cPueiU+woxDtKbs9E8MpDHwuX19wVvRmAPxvGG4I/amtnpnh8R8jZZoWpjSnDM0hc7eOwpDoXP3plqihzLY1l2W8in3K1t2XIkMKQ9lOUncx1Zg5xc=;O9v2uaIhmVCcnssbBBI2bg=="
 ---
 

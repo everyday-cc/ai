@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Softbank CEO Masayoshi Son says artificial general intelligence will come within 10 years"
-    excerpt: "TOKYO, Oct 4 (Reuters) - SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realised within 10 years. Speaking at the SoftBank World ..."
-    publishedDateTime: 2023-10-04T02:08:00Z
-    webUrl: "https://www.reuters.com/article/softbank-group-conference-idUSP8N39I013"
+  - title: "Softbank CEO Masayoshi Son Says Artificial General Intelligence Will Come Within 10 Years"
+    excerpt: "TOKYO (Reuters) - SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realised within 10 years."
+    publishedDateTime: 2023-10-04T01:53:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-03/softbank-ceo-masayoshi-son-says-artificial-general-intelligence-will-come-within-10-years"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 43
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 23
 
 secured: "8eHk4VQm6+61MvQvMjA60mFBmgqu12D8nUhpUtE6DuCN2ErFMPtWRnqENabdbEAeuCKANFrBbx1s0c6f8auGXA1/bk54feFt2/bga0ktPp2PZj3xXjODAHwgORUFFlroWtnWWkO9yWLsQmELRWYoQbO5vh8fyOzj1uOg2jCK/zDtnG4Eefpec3gGxU74zV1jwQ8eKr+vbzGfyUhelIDAdS2W9sDvx664mnWNyBdUifKoybbMFe1NkiHEXGZtsJGQ0JGDHqTkK68gsCvFCZbKMOiS6MNWB7d2bBN/3jDsdRvw9wzPA28Q6utt9cGUTZzWhIRElQBTmVEhGfunVTjpVo/EjZEidWPmBukYTJWX/7s=;I4dQ9mOlIQv+Yn095/ke/A=="
 ---

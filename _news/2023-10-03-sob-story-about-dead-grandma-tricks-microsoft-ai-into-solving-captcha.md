@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-abo
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
 type: article
 quality: 106
-heat: 288
+heat: 287
 published: true
 
 provider:

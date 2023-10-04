@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
+      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
+      "sourceUrl": null,
+      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELO",
+        "domain": "kelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
+      "originalUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263415?itok=0UTh8f2e",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
+      "publishedDateTime": "2023-09-27T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing.md",
+      "title": "Meta AI’s Long-Context LLMs: Redefining the Landscape of Natural Language Processing",
+      "excerpt": "Large Language Models (LLMs) have revolutionized the world of Natural Language Processing (NLP) with their remarkable abilities to handle intricate and complex tasks. These models have been trained on massive datasets using immense computational power,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2023/09/27/meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing/",
+      "originalUrl": "https://syncedreview.com/2023/09/27/meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2023/09/27/meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/09/27/meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing/amp/",
+      "publishedDateTime": "2023-09-27T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-head-of-ai-and-similar-leadership-roles-are-here-to-stay-says-deloitte-ai-ethicist.md",
       "title": "Head of AI and Similar Leadership Roles are Here to Stay, says Deloitte AI Ethicist",
       "excerpt": "Does your business need a head of AI? Deloitte’s AI ethicist Beena Ammanath says the role is crucial. Learn more in our Q&A.",
@@ -110,8 +239,8 @@
       "title": "Trends in AI ethics before and after ChatGPT",
       "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.kansas.com/news/business/article279840919.html",
-      "originalUrl": "https://www.kansas.com/news/business/article279840919.html",
+      "webUrl": "https://www.kansascity.com/news/business/article279840919.html",
+      "originalUrl": "https://www.kansascity.com/news/business/article279840919.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -121,11 +250,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T13:43:00-07:00",
+      "publishedDateTime": "2023-09-27T13:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -338,8 +467,8 @@
       "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
       "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
-      "originalUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
+      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -976,126 +1105,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts.md",
-      "title": "Infosys and Microsoft to work together over industry-based Generative AI acceptance; industry reacts",
-      "excerpt": "On September 26, 2023, Infosys, a information technology (IT) corporation, entered into a partnership with Microsoft, a multinational technology company. According to an official release, the partnership aims to develop industry-scale solutions around technologies such as Azure Cognitive Services, Infosys Topaz and Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T141137.201.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "publishedDateTime": "2023-09-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
-      "title": "Artificial Intelligence Robotics Market 2023 Is Set to Fly Excessive Growth in Years to Come",
-      "excerpt": "Artificial Intelligence Robotics Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence Robotics Market conditions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34937652/artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34937652/artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34937652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34937652",
-      "publishedDateTime": "2023-09-27T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-how-ai-and-machine-learning-are-transforming-liver-disease-diagnosis-and-treatment.md",
-      "title": "How AI and Machine Learning Are Transforming Liver Disease Diagnosis and Treatment",
-      "excerpt": "It is based on algorithms or arrays of mathematical formulae that make up specific computational learning methods. Machine learning (ML) and deep learning (DL) use algorithms in more complex ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23870_16958047458637908.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

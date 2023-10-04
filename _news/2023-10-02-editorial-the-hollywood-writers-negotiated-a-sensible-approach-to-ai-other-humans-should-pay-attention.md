@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI"
-    excerpt: "Americans have heard a lot about the potential for artificial intelligence to take over jobs now handled by humans. And like it or not (for the record, we don’t) journalism has been at the top of many of those lists."
-    publishedDateTime: 2023-10-03T12:30:00Z
-    webUrl: "https://www.aol.com/editorial-why-artificial-intelligence-t-093000623.html"
+  - title: "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning"
+    excerpt: "Performers have warned that AI “clones” – digital doubles that could give performances on a computer that no actor ever actually did – could prove disastrous for the profession. Additional concerns have centered on the use of pre-existing footage to train AI software, which relies on vast troves of prior data to generate new content."
+    publishedDateTime: 2023-10-03T00:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 43
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 54
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6zvmdPLHknn7kEGvXhJCSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/orlando_sentinel_local_122/8f8324c3f7402f1d8852a8b25073c5d1"
+      - url: "https://thumb.spokesman.com/20XXDn7DYkwHouvlbZh7VIGqAMQ=/1200x630/smart/media.spokesman.com/photos/2023/10/02/651b50e499e78.hires.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "GkymAZdeKgTYHfxZMHNAwlJhodbsWj2Ti0E28UB38841mK5g8BxezGb41sBnCKAtcP/MgNvw9jEjNw6aRaq4h8cGFFgwPIWQoymTEoBh0o1fCnHhPuKAc7PTzB6W/ul44oMlksjm+Fv944vVHsx65U0gLgwsseofq3XgmtkvUmrSTlfM36VTcn15gCxxKBJGv3/WphCAkE/kVQ5kPVjkSX1bg9pn8ttEd/RSCcRUXHxv/vXtYTlYje7PKbZfB2BtnT3/qLEeYRxhWbZfgcvsNIN0Ln/lzdGKuH5Q1i4bhaRulxfzAQE2uhuc6SLzDfWprk7EGU66n+j4tO1c5JHKzn73xga1kAkUJfmY0jqg8yw=;1rJRC1agdt2TAUJxf35Zxw=="

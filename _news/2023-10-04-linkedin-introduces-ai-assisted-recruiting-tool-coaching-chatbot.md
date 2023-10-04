@@ -49,6 +49,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
+  - title: "Exploring AI’s impact on human resources and learning development"
+    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
+    publishedDateTime: 2023-10-04T08:41:00Z
+    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+    type: article
+    provider:
+      name: International Training Centre of the International Labour Organization
+      domain: itcilo.org
+    quality: 39
+    images:
+      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
 
 secured: "/bsTJ8ApinAyjqw0NjHtpTyZRqXMLH1Ef/1179Si0eDVj5NBC3XzL29JhaxHmNAqOeSkI1bduhZ7die7Cjyra5ZuKwwq5ubVaJja21OFGCn4gfZnSHGhxgghJZGihQwl05yif3/KgtWpjqIOI1XMla85Tc2tYclmoAM/6MgtsouXc7CIoieMrqURjCxszYxHVcytRXBTobWU5KfU4P278SmjVndwqalVDRW3X96BGSbzP/N9e+HT+MzNUEFBSBl8jF89c8kaSOzjNuFYLlIf5dIBadojGnwwpg90JyPCTjX2AZRs33+9x8dsnXYMLWvKwJ8WezVHCqVnWIAF8rOUBOElUzj3n9y9hQaoQmRQKyY=;BSrPprBLY0RL6pZGxYIcIA=="
 ---
