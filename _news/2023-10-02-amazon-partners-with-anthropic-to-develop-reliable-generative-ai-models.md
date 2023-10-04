@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
+    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
+    publishedDateTime: 2023-10-04T14:39:00Z
+    webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 84
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The implications of the generative AI gold rush"
     excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
     publishedDateTime: 2023-10-02T21:21:00Z

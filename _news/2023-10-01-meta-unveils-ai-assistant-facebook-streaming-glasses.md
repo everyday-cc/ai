@@ -7,7 +7,7 @@ originalUrl: "https://cyprus-mail.com/2023/10/01/meta-unveils-ai-assistant-faceb
 webUrl: "https://cyprus-mail.com/2023/10/01/meta-unveils-ai-assistant-facebook-streaming-glasses/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1314
     height: 868
     isCached: true
+
+related:
+  - title: "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun"
+    excerpt: "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply."
+    publishedDateTime: 2023-10-04T17:07:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "dd8R4nSY9cnl0ygr9DXuEtN/mDCTrQezU9+42k6u/WskLuVXmnyCeqXkiK4YJzlb1CcGW8LrNZyWsK0tkBdzWcEDBkP+g4FGOnNCcQ3yITz0J4Nacs/RoZ7tFrZ0/+DfOy/plBiyVszMCt5T/iOa9WVMbNc3NPfugIvmhGWAomhNT/yEEPgwlYShefFxotO5zy88VTsz1eOj4TZv0UVgyyCYxpeIwoWzUXBwKMIKkS3HttN76MUC9nn1CLmS2p9gNl2EnmufDsZrypRRgjPqv1tCzDBgsGVL6xOLmNJRVPV18JrYSnijzUyk0RdcmN2AXo4JVfCbhZPx4qiez4bDsZmKqbeztTiFusccFesQ6Uw=;Qk1GN6MFjguhEUBYsjt21w=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1225
         height: 688
         isCached: true
-  - title: "Artificial Intelligence: How conversational AI Tools are disrupting loan collection space for fintech sector, expert explains"
-    excerpt: "Dr Rashi Gupta, Chief Growth Officer of Rezo.ai, explains how conversational AI tools are transforming outputs in loan collection efforts is one of innovation, compliance and unparalleled efficiency."
-    publishedDateTime: 2023-10-02T16:57:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164"
-    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 47
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/02/263156?itok=EGelU5V1"
-        width: 700
-        height: 394
-        isCached: true
   - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
     excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
     publishedDateTime: 2023-10-03T04:38:00Z

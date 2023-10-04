@@ -41,22 +41,6 @@ related:
         width: 1225
         height: 688
         isCached: true
-  - title: "Artificial Intelligence: How conversational AI Tools are disrupting loan collection space for fintech sector, expert explains"
-    excerpt: "Dr Rashi Gupta, Chief Growth Officer of Rezo.ai, explains how conversational AI tools are transforming outputs in loan collection efforts is one of innovation, compliance and unparalleled efficiency."
-    publishedDateTime: 2023-10-02T16:57:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164"
-    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 47
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/02/263156?itok=EGelU5V1"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Former Levvel CEO, Bank of America execs launch AI-focused fintech startup Vectari"
     excerpt: "The round's investors included the Charlotte Fund, Richmond, Virginia-based Walnut Grove Holdings and participation from 11 other backers. Vectari originally planned to raise $1 million but surpassed that due to the local community's substantial support of its mission, said Alexandra O'Rourke, president and co-founder of the startup."
     publishedDateTime: 2023-10-02T11:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://neurosciencenews.com/ai-walking-robot-24911/"
 webUrl: "https://neurosciencenews.com/ai-walking-robot-24911/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
-    excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
-    publishedDateTime: 2023-10-03T20:29:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+  - title: "Researchers use AI to design a walking \"robot\" in seconds"
+    excerpt: "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it"
+    publishedDateTime: 2023-10-04T15:38:00Z
+    webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
     type: article
     provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
-    quality: 54
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
     images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
-        width: 1200
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-8.jpg"
+        width: 1120
         height: 630
         isCached: true
+  - title: "AI stretches its legs: NU researchers use AI to design robots"
+    excerpt: "A team led by Northwestern researchers is the first to use artificial intelligence to build robots from scratch, according to a Tuesday news release. The unique algorithm designed a successfully walking robot in mere seconds that runs on a lightweight console compared to other AI systems that require larger storage and datasets."
+    publishedDateTime: 2023-10-04T04:19:00Z
+    webUrl: "https://dailynorthwestern.com/2023/10/03/campus/ai-stretches-its-legs-nu-researchers-use-ai-to-design-robots/"
+    type: article
+    provider:
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 54
+    images:
+      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/10/FORD_FILE_AvaMandoli2.jpg"
+        width: 2001
+        height: 1334
+        isCached: true
+  - title: "AI Designs New Robot from Scratch in Seconds"
+    excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
+    publishedDateTime: 2023-10-04T16:53:00Z
+    webUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
-secured: "KDs0RS8T62rOrPYA7mBKGgyEQdkQJ9ksJ2yCREWDuxLbG59aCiOnYNqnpu6a14kXn/X1Z1RNJqLFF/p4pt9zO1daBHXByuVWtx7xejJMslU9qZayugwiyo7ugRLP34KJ24gobhftF28KRF/rqUxz4CTttQtyj+5bZ+mMNNAiHP9HcceIQsBWDF5BjNsMiUODzUdT4p+RTISsxARBQ5WGNDffMRbjRK6x6g66REciMNhgYqWQtwcJjrJAviC5DAS5yt9ByGEIvVafYJaJiCcVxF+kSr5/+DK1YEpTlDw+wCwRIDRH1sqKFbW/UB5d2gwHW5tt/SfY2xxE/omL5vxgm0ls2uQRdp6RJh8obI2bb4Y=;/pkHPSsHbhl0T/LGDV4X1A=="
+secured: "ZSt+U0KduVcXCCvxl2/xgnJotApkgbVOp3asqf6vwjw7ns9St/ecko2Rgdf4hwflSFvQE5uPg0qHmMJKGnlYprTu/aT5gj0ooiNNWZmpE0oVbKaKbOpOmLkYm8dOhwjwkT3OGWTxeID/HNLwj9GC7cetf0PneRnInv6MEcP8GDDSIGnVLIDSuu3Y7FE8umhJEBPCveTevfSPGesFNzS2b5NBgKcZbyiUaWHgL7XxDm/PaAvITFqxS8MB1EpOnqt7pRLbF5Py9FQzAskQvLV7HfJHr44/Ec4mHpVfLTlK4eU92MRs4q6kws3ATsFyrdBRKg7OqxeHQuLy1zV0AK60fe0s/9tGj95sDiZZeP+RV463bv4scCKKA4TXZeWCQC7h3mXrnPFBQv4XuVEqz1HmKcUljU0GklO4D6/hYmlpOasEgjqmvMGY6eqHczCnbByY1gptdE+bidvuk7gsQJNUqSm8bX8WYHFYyuBO+XBqAc6EE025hdAr85yFbGHezBN9mt/047ZjqYcrPUAmxoIM1w==;aVLnCEX2svbDFM6znRxMUw=="
 ---
 

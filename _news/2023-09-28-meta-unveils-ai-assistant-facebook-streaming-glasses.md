@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263494-image-1200x900-2023-10-04t044923297.jpg?itok=8VgK6z2V"
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263552-sikkim-floods.jpg?itok=yXTaPekb"
     width: 700
     height: 394
     isCached: true
 
-secured: "sNNwLOJu6FBqDt+9bej9Mi8Glnbo0OehB693cllgtif7BPbjpIEVE5gCVAr+uDlOLwa/uUFGAn+cDNkCb6Qi6lbIwZ3sFHWaDoBjl+DsWePhnod+BH9o2Eudl5EUTsvcpyIkW/8bp4/OuZNvM0k0OIqh3nmG3xbBo9v6EXFcee4rrU9MSR1G6D4X2v+R1MWYY98O8+BpgPI8FqIRf9aCmbkl5THbj6/AChwTKI9752ZgyFQ0PW2sp895Ioztmd5/pPSkb6Elf6WvzMGCSYpIstDkqYLCJd0031n5RCmKQkMyvBxnZq+Shgmg5jwVwMlWKUfeyqRW1+/rEdN7Zjk1i1moT6o1kSMNgguprB4fS/A=;lOFNSSW6qAertrBlOj1vbQ=="
+secured: "SfCfJzUTYL4GhtocYEGvdcChfl+SVIGSKUy1NBXz/F/0uotW69EtYsPIdybcG/MyDvnZgFJX8iu14zH45Rxs64HBg1kOhNzK+L8k7kNVyBJ9Rop7w7IgrUQI0Bm8rfDVSV+VfoQPAikklGfmTYOgvCmbFH5tQztshFjy8YxH+Mm+GCXyOIYQkOnBuLCWiNI8f42kdIiDn8Mvk7SwnSD3SxqVracnYTSm+/IXN4KSX7K3yxkQhSGkf5UgOwjBH/SmIgtzdp2WMoexJiJRWyKK9u1avrlR1zqAtmJ5zLem4WR0tW4AKYVpcTC3u67WSycbTTtBvlN92towJk+qX6+895YK0kMDC6/9Xo1h/qfQvAU=;lN1Y/6mRu/FSeiIodoCBkQ=="
 ---
 

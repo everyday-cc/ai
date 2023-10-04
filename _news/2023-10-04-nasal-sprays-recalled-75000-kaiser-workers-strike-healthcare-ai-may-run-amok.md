@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-04T13:20:00Z
 originalUrl: "https://www.medpagetoday.com/publichealthpolicy/productalert/106622"
 webUrl: "https://www.medpagetoday.com/publichealthpolicy/productalert/106622"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "Bun/4L4aQUIoNjekKizRiks/Dw70Uz3LzaJmSm/20ZWjeJu+EPdoNdXz2pmJPKFeLHndH3wqSjJxo7GK/8C/xM4dfzeqSi502JC2jQjhcT2qc6Z5NRs+TMZW29l5UPpHJWiqD8cmXHH5j00+Vnt9iAh+04RoY3hwttFTbdjCfM/8Petw3JLDm3kZZjySTrs8yStgfosE5T5NfYg9LP1gC7JmSj+DlZFxUjPsk6wfA+kfqcu8SAlU0OWzjGu6kHpw6o8Apx8okAww98/b54yr3giN/xcTu/ELCMwettcQxFw3F9rqRt76XaKX+BKTdQefPaO2E0SwCE7XljMlxTn1wqOZqGwHGcR9kZTjJk0Q++c=;eb7vT4M5U3YGrRitMj0AfQ=="
+images:
+  - url: "https://assets.medpagetoday.net/media/images/106xxx/106622.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "wPjcLAywb52reX3JtTtvFJjKZ49vAWfCr1S1QtPqzqm5GhFERZmveMAfytDd+2IFN46jm7hPdsWNpu+0yWXZTm6QVQ4ZnypEJwVpMyoBMgC8Fa/2DoaV17mUNDAg154Qwpg1cymTMjmYpEVL/B6+7S0PQDKxk5beDdcQxU4Mp/qEhqgLbuFzDLb93oVTAWx59M2qyurxgQOEUR1BsvSjixqDvdLpAJkj336IeSR7RQd5+UAxDtDIX9FjZhQPRtWbFSipAoZ5T9/cxc/Bsn9llLjuFb1BNUBKHYWdimbJDV9XFajEXHnA7K18gHoej6Gx02TAekswiRQQNRYFn+GCoHkyaxUKRspa0Y1RdpkA3tQ=;zDK12MBl1WgKxHIifuEGGQ=="
 ---
 

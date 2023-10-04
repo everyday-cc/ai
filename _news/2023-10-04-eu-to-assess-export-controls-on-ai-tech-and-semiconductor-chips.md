@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semicond
 webUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips"
 type: article
 quality: 54
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231003pr200_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
+    excerpt: "The semiconductor industry, long known for its rapid growth and innovation, encountered unexpected hurdles in 2023. However, Tony Huang highlights the role f generative AI in driving capital expenditure related to data centers. Semiconductor demand for cloud AI is expected to be a major driver of investment in 2024."
+    publishedDateTime: 2023-10-04T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9892918.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/2238663/thumbnail_image001.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "jWB84bBHH4DCvDHSpSCv+GQTT89fZtc+6F+rztRIeA+8e4biqt1cs0z/tiaFPlDx45D4CSPOcNM0+jSvnRuo+P6bnID9UzoWLBgQ9vzHMz7/QEyAzQJ9FxOCW0FcZ5LE1yW3WuumotdsOBIQ3w2ybrISWPPcsnqMrlsRU1BqJ8AX/rgfEkWi7p9Jl5/avP6NX4+70PDx5dX9JP20TlY7LvWi0pN7KNDd/tKQaQHvNYtf8qYNNHddx9gDquNIkmhw+3P+R2OAKYkqanIoGVHfLFpqE2koerGROjniGeiQWG76hybQ1+hA/SL1a28L8kZ5TdTVoP/Eb+iCYRoaRZe69Q+rImdrCaeYs6vxpyE9q4o=;5DsFVP53fau7qn66mpAzog=="

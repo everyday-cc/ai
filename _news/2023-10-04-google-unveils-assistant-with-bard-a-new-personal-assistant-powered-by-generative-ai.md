@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
+    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
+    publishedDateTime: 2023-10-04T14:39:00Z
+    webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 84
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon Partners With Anthropic To Develop Reliable Generative AI Models"
     excerpt: "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks."
     publishedDateTime: 2023-10-02T10:45:00Z
@@ -84,6 +100,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "UaQ8Yo0a7TwTXOfhzCyl0qGID6ckfnlrQbccAZ6E35y10vHIFnOLSla/k1AU+pmhkUhcxk+zA+oxXQ2xZW2o1CRjF632enJbXQJwXbogueYgT+BWgXfF3pv6zCAXwTsrs28ZryNj0tC8NulfdxmvgmvleBzdPyR9VfV2oN5YwmZW8CK/HZtXW7yyrWaY0W+ZfaRWaQjgGdAsdHO7J9F4KRvtKldtDnvhzzX3tcRn4zkcT/vlKpAhiQVxBbU61lzuKG2Fak0sXqMOZ4d0YeLFZ4Jq7KSTu2i6dAX0VSZBIVZZ9SwMwyi7b703yQR2Fn7cj7VPZAFRqIJw5m6BHThr2Gj/EXP4g951VY84N49pnCA=;quIuOQfjnofkMt0DsmVJpg=="
+secured: "NFbWsy5lrSj3+TVDluRtEccCSvm0pnQbj2POkJJT4HmPLaKYK5FlkbwCeA9Y4nHCCyth3YpL6bSI2PQgZLF3qvr9CqWoV5ReooHCtJRc7TR3zlLbXCkzyb+JDFmAf3/c1FifzPtKRqt3+vXocr3HqI/B+5eP7HTA84LdfPNVM28zLzpkcETYbP8FqtQiHPtf4drcN1wFOVIxLGNBhL+JSd7OuLDvDIqS8GmhQkpOsfr5Cv7Pgb0nb3f+GYIX1LXk1ybfBa41TRhL/eO/J2XTmeRrziJYa7jk3iurkE6jpvP//XoHDvHcfoou+BpXmDZ/EMSBFiRJw133V1OnqxwycqN4XGvHX+kzxHToweGtCTqn7B5tYZarBmAHL7U7aRFQw4NzTzV+9wUGTHe0samO4eCxocjsKcnEHN3aVc81dDBvaN6WjJdiY5oYDVW/4+wJvrk887nuFFroD7v36s+85x5qR2hIXni6GzR4Q+mZQ/4maArOgLlMEdUFRllU3U0RlCk1L6AoL0ao18hyba1Tvg==;pCNmxYfhMiNX9G38ZH7Fmw=="
 ---
 

@@ -47,20 +47,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "EU examines Nvidia-dominated AI chip market's alleged abuses- Bloomberg News"
-    excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-29T23:12:00Z
-    webUrl: "https://www.aol.com/news/eu-examines-nvidia-dominated-ai-161357483.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/571f0c458515ef2decc79613eebdfa6f"
-        width: 800
-        height: 533
-        isCached: true
   - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
     excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
     publishedDateTime: 2023-10-03T01:46:00Z

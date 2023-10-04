@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google supercharges its Assistant voice app with AI, hinting at how the company sees the future of chatbots"
+    excerpt: "The new \"Assistant with Bard\" will reboot the Google Assistant with generative-AI capabilities."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/651d516f2ce014759e74557f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Big Tech’s bet on AI assistants is so risky"
     excerpt: "OpenAI unveiled new ChatGPT features that include the ability to have a conversation with the chatbot as if you were making a call, allowing you to instantly get responses to your spoken questions in a lifelike synthetic voice, as my colleague Will Douglas Heaven reported. OpenAI also revealed that ChatGPT will be able to search the web ."
     publishedDateTime: 2023-10-03T09:42:00Z
@@ -62,6 +78,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "q6k9jwoO0COqeJuqsJFF07TdGcmHHYnFpoSC5094/nHfBjj/miPS5MFL0gN3u1U83jeWVvx4M0NcWaUysHrj7NYvf+p/DY0CuyrCyFdrEPyd8RHq/YPzsMzCamcrmKlCFCMOxchJon1bdGJOEJfpjRJUQEkwb3COJRWCsPyuyeiIHcECLUS0ir2K0weI8QiwHxGEv/suGEtUjRhuD43fKBMeutwk3HplUA18cjS3TzAqoOwb3NA7okQh/71ctjuywauYVDDJ+mMKFoD7uSiR1F636Y9/JsShadNkb4rHOWmbLkzbJ3Ns4K13LC52WiMC/TU02f5vNBAlpRFDy+ZVedXmrFlwy7nBUIQSGl2VORw=;+oNZbt+Z1f1meubpVjyxXw=="
+secured: "i+zO9g/g3KDs2G/qMc+zpmx234QVF92UGPLD6o/YD+fdAHSuHjsccKZRMrSqHMGw01mQvwv5EyE/MUjOyksbbe7GzRVw1DIvtwjpq9YEplSlq5s2qYBOoJ04zYqYx0z3qf8BKaj1snqslqB1GuWHzMzlg8O2ev/Kf22+2OoLqwl3zeLqI8JrLFY3r9UQo0ireiESoFprFl2KH/mL3w33grnmFu8cjEB4G+OangBgK2nqk0TIUFESyye2ekOw9w9ezmhw/xrmpZ9HrsyuQ7JL7sjq3q8NecvaE3c6VB7l23DUXwp/wJzbX5nC04pPktT5Snd9/kL861f5LaKTH3vQnkyvRdNn90MtP/BVfBwtMRwqULffJXLEFHz/o3BRLlvxX7ahfhFcmrwrN/0DRUtq4mTmL/HoXxKmngEVX3Z8CNzceVy4F6IX5uc3PcMYbc1mw4L52zW5Qrf3kMTWIW81RzNQwRK23JGFRJal0zJDXzzDLP62EnB1MxOJ14wcCJqV9HTszLsxaXXaAitk0yRkCg==;pMmfM3pf0t9iwh7aysdzwA=="
 ---
 

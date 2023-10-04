@@ -26,6 +26,17 @@ images:
     height: 468
     isCached: true
 
+related:
+  - title: "Making fintech investments work: The secrets to successful partnerships"
+    excerpt: "Banks and credit unions often take a “set it and forget it” approach with their tech partners. They’ll spend a ton of time choosing the partner, then completely ignore them before, during or after the onboarding process. Ultimately, this leads to wasted time, energy and resources."
+    publishedDateTime: 2023-10-04T16:57:00Z
+    webUrl: "https://www.finextra.com/blogposting/24998/making-fintech-investments-work-the-secrets-to-successful-partnerships"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+
 secured: "YsLw1EdQv0EcGeTawG1hhWESgg9KYSFZCUprfOZsKgcZ6gNrrNXpEWUyI/qqgqZKzfGNUtzas6RK58Hb0DreGHGTmqqwZjsxq/ukmplVwOa3Y5KkkgbtxOA9YZTikmiC3+bYGvA/0LnB2x1ZBVKvktNIROfDr7eUXoq7bkn3QWy8HM0xns5tOsr++QS2/dHUtw4pRu6mWpYFyJtAc1ajQ+cUKH6WUqE7+IGFhrrBT7HJvw39A1OsYxR6J7xOS1m0WeYOCq3CYbn7szsWmZ7P7v4PBb37U2m2fHYFRFh1p6ebhcac3K8ZPs3wIKukXJkNdjeYQdhb+bVSDD42YDUPApO3vc8GrTnCqw0tFuhoAKY=;Lwwsl05bt3umAPsYGBVAsA=="
 ---
 

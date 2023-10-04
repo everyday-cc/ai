@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "IBM Announces Availability of watsonx Granite models, New Protections for IBM-developed Models"
-    excerpt: "IBM, one of the leading providers of hybrid cloud and AI, and consulting services, announced the general availability of the first models in the watsonx"
-    publishedDateTime: 2023-10-02T20:27:00Z
-    webUrl: "https://www.datanami.com/2023/10/02/ibm-announces-availability-of-watsonx-granite-models-new-protections-for-ibm-developed-models/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 42
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/05/brain_shutterstock_Zapp2Photo.jpg"
-        width: 1000
-        height: 597
-        isCached: true
 
 secured: "rMbhlsB//caVJuo++otUhNNW6KdwXjKAYizaVVN3vy62ki94kAUXOE38ttgcb+rTAr+BUkSX1nnYz2KfFychOrXWRAHkE7F9KAs+8U9N7RTGvCjpezp2/Qryr4YQp6BvMZ2FPv6qhV3IGdQi3JtoC6ww+NWkt48oC6DkvwbZQyhI+p0QNcIlvkkik/sf2foGnbqK5KqDSuFDzicI+tTtwULpy3NBhqxrcWFfkMKeNyUCQPziKnhNQXnTzS5KLUkmCaoFlDWQKDIgaF4xeSuWHIH0ORF/JLacwkRDLsm8XiLhpjXKZ0FajTFpKZXZV5E0QTuso9ZFBUOEdI2VR7zwNrY1+Jypc1pDdMbwL0YXI5HH5HjdWIStf1PfT5jYrIOdSGjoQ/JL7dNNSFMlmvj9pK0kYZHUtrgzMsU/ffX8zgQg8ccVaCl58n/KLhnfbbHEzOBBOrXylJ3PYoL0w6SNBUgRnLqmEAxQOpcKyRUXUxukPr+TnkbQqe0GTusP+25Md4LZGeDTjchwG1fLoheJEg==;6mM2lHrfiAPmQzmyUBwr2g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generativ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
+    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
+    publishedDateTime: 2023-10-04T14:39:00Z
+    webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 84
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon Partners With Anthropic To Develop Reliable Generative AI Models"
     excerpt: "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks."
     publishedDateTime: 2023-10-02T10:45:00Z

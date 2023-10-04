@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Woman Injured After Being Knocked Into Path of Self-Driving Car"
+    excerpt: "A female pedestrian was severely injured after being struck by an alleged hit-and-run driver and then thrown into the path of a Cruise driverless vehicle that ran over her in downtown San Francisco on Monday."
+    publishedDateTime: 2023-10-04T16:32:00Z
+    webUrl: "https://www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car"
+    ampWebUrl: "https://www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d0e100/2147483647/strip/true/crop/977x509+0+60/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F5e%2F49a4e71bf123cead254a01922e11%2Fshutterstock-4458509441.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
     excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
     publishedDateTime: 2023-10-04T12:37:00Z
@@ -32,6 +48,36 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
         width: 1920
         height: 872
+        isCached: true
+  - title: "Self-driving car mows down woman, leaving her trapped underneath vehicle: cops"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    ampWebUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 40
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000055015213.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "How a 1986 self-driving car inspired this AI researcher"
+    excerpt: "Dr Amir Atapour-Abarghouei from Durham University discusses his machine learning and AI research to remove skin-type biases in melanoma detection."
+    publishedDateTime: 2023-10-03T06:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-research-durham-university-machine-learning-depth-estimation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/Amir-photo.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
     excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
@@ -63,6 +109,20 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Pedestrian Found Critically Injured Under Self-Driving Car"
+    excerpt: "A woman was found trapped and injured underneath a self-driving car — but the autonomous vehicle (AV) doesn't seem to be the one to hit her."
+    publishedDateTime: 2023-10-04T17:39:00Z
+    webUrl: "https://futurism.com/the-byte/pedestrian-under-self-driving-car"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/10/pedestrian-under-self-driving-car.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
     excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
     publishedDateTime: 2023-10-03T19:30:00Z
@@ -72,6 +132,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
+  - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
+    excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
+    publishedDateTime: 2023-10-03T09:20:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-car-accident-leaves-pedestrian-trapped-and-injured-in-san-francisco"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/San,Francisco,,Ca,,Usa,-,Feb,23,,2020:,A,Cruise_3.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
     excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
     publishedDateTime: 2023-10-03T16:05:00Z
@@ -86,6 +160,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving car involved in accident leaves woman in critical condition."
+    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
+    publishedDateTime: 2023-10-03T23:43:00Z
+    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 3
 
 secured: "hxmjoMkGDam7URkyGP0dwUKj0S5Hc3VQI+SpbnWZrIVJL5h0IYDjpmc/RUrG+QC3VEEmq8Xww8aeuz2Hi2ZYWhRcQEBFa9VYUbDb5Zm8jWhcgvL2i86u2gmYPoc6qanUuyMjNo/9MeudSVKrfV66cKg2Fy6ue85TVZKIWw0nTVV7w7T5e8IdPLNO8e1vnz2G1SljCC0ZT5jDP5tIBHIMoFQu2lkkoYCfNtXQywAOVOg2ENm0qNp+FiJToyeFgaJnf8yD3M7Js/WwAN7GNsbf1ucr4e7BjvdOOZFYuxM42yio1ObI7o6Zk9p7XhfyXzwC+K+r0r3TzOFmqn1F2H+ZtjDNLkJM5i4hZtrWZmfzQy0=;dL+o54k2BmKpM4aDj/pYEQ=="
 ---

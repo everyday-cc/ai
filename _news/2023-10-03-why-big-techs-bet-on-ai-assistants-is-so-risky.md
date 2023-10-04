@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google supercharges its Assistant voice app with AI, hinting at how the company sees the future of chatbots"
+    excerpt: "The new \"Assistant with Bard\" will reboot the Google Assistant with generative-AI capabilities."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/651d516f2ce014759e74557f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here are all the cool new AI features coming to the Pixel 8 and 8 Pro"
     excerpt: "Google has added a few AI-powered features to the new Pixel 8 and Pixel 8 Pro, and they are going to remain exclusive to them for a while."
     publishedDateTime: 2023-10-04T15:14:00Z

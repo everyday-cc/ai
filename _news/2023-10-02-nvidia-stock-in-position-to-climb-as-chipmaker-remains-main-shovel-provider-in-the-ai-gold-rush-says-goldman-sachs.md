@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35035
 webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35035241/nvidia-stock-in-position-to-climb-as-chipmaker-remains-main-shovel-provider-in-the-"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Goldman Sachs Is Bullish On Relx: Why It's A Generative AI Play"
+    excerpt: "Shares of Relx PLC (NYSE: RELX) were climbing on Wednesday. The company is “well positioned on generative AI to strengthen its existing data and IP competitive advantage,” according to Goldman Sachs."
+    publishedDateTime: 2023-10-04T17:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/goldman-sachs-is-bullish-on-relx-why-it-s-a-generative-ai-play-1032679020"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/04/ai.metamorworks.shutterstock_1348479254.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "LBlqWsspbJifFD30TXm1tD/eqIpGVb1lU6C8inCSecUrXvw7ESL/OiThwkp/wsa/2e0PIHXARz9NoUd1XpctU6IijVQIUxQLtzeymaL0QS4ZShmm5Pz4tNnob6tmSsvuVYbP5HgdqUiyCauiDOGYSxIy27iK/4GekKRdlcNyBuDP/UbLzrCcEJM6AVIQV14Z8GCRo9UIJ1rHxebLtyJVSSt6HeDj2pXJtgp1KU6lqTxOTSr/nIK+59uXvDtuZdSWTP8yZ4Z554szzi/vLwXXoDPRX1XEzHlc9GuAzAyinax8GTXjorf0Iimo9v1I3X7cQ8+XJdgKWXMELMnA427IFxIn7sg9e0u4lsGIFmrNRk4=;HjMeZgZfxeqFWqCkpHD/dw=="
 ---

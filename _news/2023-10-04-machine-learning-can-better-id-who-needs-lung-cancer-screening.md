@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
-excerpt: "TUESDAY, Oct. 3, 2023 (HealthDay News) -- A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs lung cancer screening with better performance than currently used methods ..."
-publishedDateTime: 2023-10-04T01:13:00Z
-originalUrl: "https://kdhnews.com/living/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_842d0397-5e20-5d0d-8353-a5516a1d8344.html"
-webUrl: "https://kdhnews.com/living/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_842d0397-5e20-5d0d-8353-a5516a1d8344.html"
+excerpt: "A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs"
+publishedDateTime: 2023-10-03T23:00:00Z
+originalUrl: "https://www.republicanherald.com/lifestyles/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_ca8f7fba-c7ec-5af4-88b0-6cb475eb5d2e.html"
+webUrl: "https://www.republicanherald.com/lifestyles/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_ca8f7fba-c7ec-5af4-88b0-6cb475eb5d2e.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Killeen Daily Herald
-  domain: kdhnews.com
+  name: Republican Herald
+  domain: republicanherald.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/f6/6f64b7fc-45de-5a91-9546-1a30b5b3fffd/651cb95b52c9c.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/republicanherald.com/content/tncms/assets/v3/editorial/6/07/60720729-a6ce-5b47-a1b7-967b8902390b/651cb96965898.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "eoFZUM50m6o8ftCGOvSRXDJ2Dhu5R8psdZqPd4czDppwsl1Hp+aPcZRZeC/rTdFDgDbwhDk4TAsEv81rLbM+yWwFwiy79VmQvQdaSZDUjWDdB6eC3xGuR4UTxR5wmmyrtlhf4CE9Q4iH9HSCEApWvvJWscGm0m5GgsPaVva0p6yg8CPx7mqhV7souKHA0fVB4pywGSkleSuslxQM3vlZX1OtcH3uDLu560KaPNLg11xnqsiXpV3A+uHa20lS3tgSYq8m7FkBw1W4e4e5m2DbtuC0lOcQiQ/1o3EOpzkiX4i5VVhGnXm6IrbdWn0vzRupksO2gLqsPyAMsTCMRO3W+U3Jepk6qYkNqCbVaZYTPX8=;PsAVUJG2gtD/DbwHR474Hw=="
+secured: "pbK12i4qDqnWV+jqgQVfZBxFMtq0+PHJUtGYxLDAFFjsp4WJTMXFHQVYhvr5wdVkm2r8lnUyr2Ab9nNs2LqRnVQ77rHFJXDGTfb0T0xCaJ+vDrWF6roR+nZaJ8bI1ctRMRXC0C9x8MjJOm9ePAzQeT3tjKDE8GbvwTYlkk9whMtPTNWhS5jGE1P4MfZ+c6M8XTdNCRelleGdRAWILO4YiBv6XQBILuioHwAAqmgLefu1UJf5PuyrGdjZ4qOHWlOTSJJD7UX6pxNh3tHPXJBZ6YhGeQ7jXJMd3gkWo6WNn16axlKDzHyyYeWzELShK2dV3Mo/UmejzhFvULPsVGmoUHLydxEYZFvG55l5AYhWQTw=;sWuPLRycInW5U1qeVWHUkA=="
 ---
 

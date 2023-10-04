@@ -68,6 +68,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
+    excerpt: "The semiconductor industry, long known for its rapid growth and innovation, encountered unexpected hurdles in 2023. However, Tony Huang highlights the role f generative AI in driving capital expenditure related to data centers. Semiconductor demand for cloud AI is expected to be a major driver of investment in 2024."
+    publishedDateTime: 2023-10-04T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9892918.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/2238663/thumbnail_image001.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "vpfz9g5mjwcT7MXlBgeubfZTFEqarGhN1GZzTPlgyXjAJQetCUQ8gwQQBVIGtBLa1qr4ysxQ6Y5ge7nCyIbX7WfZERDPf+lek1+77t/W4IIUsw996vjTmO0TjeIZv7mSY3lz1rJpV/RnKjNlmq7C6likwGfJc0r5Q0hwCP1yU2WuCIymomU67q4rih2+SvnFLffv76aNey/h/CKU6B4U/ETCgobfE7uwjixlA2m/Zh7dO4+u3uMSfQeuDFmU/nFaR1qJ1nGgalGfe3RSHiPnBsRWYsP1M237ICT6niJHLqzl849adAmvTZQJJW8ebkBUBf+rujdnrfzzt7eK3Jv1KiU+QXHtZ5BA8vFHwQ2TOZ4=;FkJHuqz034+cIOGJXm8BaA=="
 ---
