@@ -39,20 +39,6 @@ related:
         width: 896
         height: 448
         isCached: true
-  - title: "Build a crop segmentation machine learning model with Planet data and Amazon SageMaker geospatial capabilities"
-    excerpt: "In this analysis, we use a K-nearest neighbors (KNN) model to conduct crop segmentation, and we compare these results with ground truth imagery on an agricultural region. Our results reveal that the classification from the KNN model is more accurately representative of the state of the current crop field"
-    publishedDateTime: 2023-09-29T21:08:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-crop-segmentation-machine-learning-model-with-planet-data-and-amazon-sagemaker-geospatial-capabilities/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/28/ML-14309-image003.png"
-        width: 1072
-        height: 525
-        isCached: true
 
 secured: "/x9owhCw0V6NlT7+zmsdNzOSmBz9jpNXSTFTkckwH7uUENuCYLAU4LnnK9Ppni8UWw+dth0lHnn7U6uIhG8/hL4+PHAkqPXbI1oeEeuD+Wfg21kTbZvFohNjAsmFvxywdbBUhUXzgG2UylgwmWoc4/8DYxZ/L3iAtXZ84ZOtOkIrO4SxUbzJveNuCSg8jFZEmI+jnwYzjhpdmjN6JPhUuEBDysp6hwDt59F4JZ+yXqv79IQXxxkAeDOBF3eYZJHvedUa7iX0MupAub5YKRRFgjz5dzdFVdv9Ox1K0o4DDo04Q+UUgk1R9N4MSdvyqco50bZziUZjNBUg+opgrAb/1cwn453qtrC0AoOoCRrgcza6bzIrfnuf/LvBCWC5bAwkKdtchR6zRwrnlYriH8L6Qiny2J8d9q7yoYaZqLqvYrarWd221QNUvNNSphvh5aGKfkVDNZ0xDTD67dHsP0FB0wXyr84gVlnfTePCQCbfeEKOqtgseoA+wIXhAGnM0+MUaSQCIRL8HU/4Rd5OV1LVtg==;lxr/7OTfX8xPb6eXS0Iwrw=="
 ---

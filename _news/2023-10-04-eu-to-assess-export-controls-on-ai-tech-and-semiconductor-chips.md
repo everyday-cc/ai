@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semicond
 webUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

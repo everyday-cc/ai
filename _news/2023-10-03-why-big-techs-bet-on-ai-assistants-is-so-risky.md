@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI assistants boost productivity but paradoxically risk human deskilling"
-    excerpt: "AI assistants can boost productivity if used judiciously, but we must not implement the technology in ways that degrade human capabilities."
-    publishedDateTime: 2023-10-02T01:20:00Z
-    webUrl: "https://venturebeat.com/ai/ai-assistants-boost-productivity-but-paradoxically-risk-human-deskilling/"
+  - title: "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
+    excerpt: "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now."
+    publishedDateTime: 2023-10-04T14:31:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/ad698d33b7c8e0e75df21ffc651e7430f7318a87/2023/10/03/90e02f4e-395f-4536-861c-5bb54304fc5e/google-assistant-screen-read.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Here are all the cool new AI features coming to the Pixel 8 and 8 Pro"
+    excerpt: "Google has added a few AI-powered features to the new Pixel 8 and Pixel 8 Pro, and they are going to remain exclusive to them for a while."
+    publishedDateTime: 2023-10-04T15:14:00Z
+    webUrl: "https://www.androidauthority.com/google-pixel-8-ai-features-3371529/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Pixel-8-and-Google-Pixel-Watch-2-Lifestyle-shot.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "vu55AK1WrIqOCwqdOpXvgytdXwOiVW1XLyCiYjDxGwAF/lsHfKy3jNL63PBHQpIE+5xfKAO1eJQ4WWNv70+NzI6/uWLCsplSCna1xRn896tPk7Vr1EfzSngoK894rUfzXiyobnK73P9b6Srbx178Pg2iRe0lBS6Gz96p23miUGR/qsHEh3WoM1h83kVwUhP5R//LVrNhms0ki4M6spYoYv3m6XpDaPM62/3Ll1xANS28iQg5v2PyZaCC9luV5gVbACe+AWWXy6oMgSGqUd5gHNptENF6jOrwPUVxV7qNLoBiG5q0dB9Rq5kVrQczoCyurvAiXxdeONcgsGSMA73Joy2KkR6YVj+piXsu2oz6oR17umVJITbYLwePnxBjvlEQEAbBHwqUgauYTXTSbCQMc4uLZlPAtubzRs6W8A4PQpeif87Xih2taJge5FrxecgplCpkrhbosWb/Lvvq9y3MW1Jpm2IFN8r2MtTDgGD7gsCGpRAzCpknrG01JGY0e6z+gSWmbBNUBqUWfpwSyeYDGA==;Z2X+6QG+2lGvY/Izf6mVQg=="

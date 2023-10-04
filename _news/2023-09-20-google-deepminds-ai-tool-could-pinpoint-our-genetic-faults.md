@@ -15,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
-
-secured: "4UztDrapVwR6PLwNUHB3eKQhDkgcJ72jMIHJGuSWK0LZ9CcLjPHuPNiJxwJnw8ThbaZY44DztuF8s5Aekb+b/8nTyfzZwd7yy88n4Svmz91Arrdrxxpv9zMbXEH612YpP43+rn0AzB8bSYEhdZsKQyLOE1iMsldxcHsQ+8jHXcgAWnadXbMtjNOQM6NE1WkXmgNUjfIChsDq4TY8rLASSYVzrwPOP/aKw6ITow8t8nNvGWrdjFYukA9p5UUsh7euaRYY0Bh+9pHi3/w6v6AtTnYxafsAAzPKyglWVdhigEFYKH2jAR7d8jzXOzN57w5AdaQciwUtdRnKfZpxvZIpm2Lmw2pFGA7/77gdVVJpCk0=;kVGjJjdm0mkqLjDpjnvFuw=="
+secured: "J4KIGWwb6lwAUVq4KCLiS81JlswPJBeRYjvMaIJ6fc6ycLsGg/+mUhSSknZaJfg6qy2CqKvHZhotV1z1HoStg+goSDEgbeWR7FPk46EzxFifnzcw/mzayp5XGOIw8n6EZhrntWTXPBg+oWU+YG8DXiPCVvAARiKPEJhJl9EmZ060x0OWAKJfrLkmPoQGtVWSgv2QgnudBefX0j/Oa5wGOTyv/RtWLPpJXmal0cP8dFH1pzJrXP+ypb9N86A4f5yVNIejrOKrHjqBZozeTW5lWcmXr9Dy32GN3+zSBna+YU4PQ1hw6DDzE7usAuX4e8A9MwscuHnVbi4Y2aUZTwwh06yip0cPhVA3fGFwCvE0Q2s=;cNGCYJX7NSlArOpQT0RRGg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-al
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 840
     isCached: true
 
-secured: "JmL1tdi9hYN4FBoGgjbIExH2gM2jwrCjUD+qKBKmWK0TbgIoDXp3iAgXSenfhA+bWHJdkA23QxKszHV66t1/jxOGHjJqHzlLoG13e6+Zu2CCNbZA9/339tKIKzMKvq+iFLH8JrLMPgRuZcswPviEWRWpxjTVyYzCaaS0hdRcgVqZahIg6qJVw9821PTPUJJhhZmqI+/wRHdCWDzSrTf7kB0rxWjmVUsPJR7LvS+pemkcvnvpVA2++UltnYMHTTXMa0xrb5uBoR98ThyJDfrDJ+FAKoDFy9GXvy1t4Xd1egFcue58E1jMpMaDdSMwbYxJtlJbh/Bd9gmFtyppK+uhSTUgAjUubQ1KEcGzVQbLi7g=;352Jff6vH93OtpYsJGs67A=="
+secured: "TQ5CzLtVJ3yJ2tWY6dTERMryyz3XHSDSZs2tWk/cbQgqkmDxFFhHvcM4rqA/v0JWJRvJ03K/a0Vuj+dZD5r17bhJXr8JpCEXdzZkoSoaxBzq4wADytTebGFPliWGksGlbPP1OMD+FIriUwE+7Np8JZKqJbhQzhbFMyRwZnb3Hropp6Er6njXdfHa3nt6+Zp5T9VAw7HmcUd18tRInaZvNvcJHA6uSZ2MpRGPrcgkAhL8JcbZOd2zHQqybOqHExHlHs0r5kiNIqrTe3GKLs6FHUR2gqs+qqxSbjzRCk4+4Zi3PGcFhq0VBIo9ZItUefF57YJtISDIwJG61OGCJfu5R4wUmonO/AdGVzL/RGYb5VGMRvh9sJfd+OzUpe78llSfeupTO5ABBLJSDRmbpQG62MsNP9ykZ+/Emeyzk8MisDVB00dw7sLqM+w2VsKtXhZcL+szpuR3AmglfH0vkbK1wtWWOuch33rSfvgta1Iy1NskvSfXCOvVmZZyaWl3Ibh0826t5AaE0UzT9aGeSdfDyg==;FzZ9W4pym6/kguyaP/PhEg=="
 ---
 

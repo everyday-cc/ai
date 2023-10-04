@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
+    excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
+    publishedDateTime: 2023-10-04T12:30:00Z
+    webUrl: "https://hellenicnews.com/greek-premier-discusses-benefits-of-artificial-intelligence-with-deepmind-ceo-demis-hassabis/"
+    type: article
+    provider:
+      name: Hellenic News of America
+      domain: hellenicnews.com
+    quality: 43
+    images:
+      - url: "https://hellenicnews.com/wp-content/uploads/2023/10/w03-202909w1284651ai.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z
@@ -85,6 +99,6 @@ related:
         height: 675
         isCached: true
 
-secured: "idgabX82fTBewTzqG341b0lwuSxdWQg6N0TNS5S10cvgV9KFaPpeYEhRdWX7Td5npa+BgEl+WXAozbVn3JUszLdBT5wSVbQfNCMUa/gBf/YnvlzzT2WqDQUygYFsF5ambR8rcngo0zm1+6W4YHCcxciya4djjVUe0UQprTbTkhJWyAfJ01P7/JMB6iiLkJC5iC0Vs4Fxdk9YlKN7PreF8z4qCo6dsc2ZFwSHJmAP2x4OlXrBoklEeNxv3WSdKHObp+gfxhVcPtBR7PzzEkhjcVwgPtrQpgPNJrYMVBv/uXVQAud4J3/f9S4VGs8ulh24I3LUqUeH2ci4Dgx1euNs8wi9xs42wmmpGWJoc//rpnM=;fiX1wmXlN31UPSbQsWu+lg=="
+secured: "uk2bCxmdnjCOhF9EZWIH6dj7+1E5jr1G1b+Se+5NxZzjVPekGvKgwZR3fOUqKhagAWhEgRIwT++ZXnW2AQG5k9kgHOMpWcwVyOJaDo7mYuVnPK8JvKdN+Vtdje7xkoV4wNwHr24JGO9LwBneXxNQbIjldHI0h9Cvwd3IYJ2yyy7k7wwbzHCHw10S5Ls4bNW3ytnPlxnOdo95dbmpN0DMGj9lCmtwOaIA8aL5ZDLFGCxZ85bVm42fQaGsjcOcW+1SBD7MjXVT3otNX1x+/K3eqVf9OIhoFdshsz3UYgoFGyAbeuhIP/GLzyBx7UcEhCsywOVDXhgmsUGDb9rSKMpFAlzdv53SN5ujraVsf6WNWMvHNgvIu/I55WAi2On3U/eEQsSGyu832C6uJoxPTUpUM7MCL7J7IXawDKwq5WV2y5wgEhDRx0+rfIuY9T1wN86S6j14iHXLDw6zW4/DqGTqsEZ1zsUZocBH1eJ0yqwezLNLWnVaU8jW21chDIVYvXXOUgCyWX1P9IzsuprnPVGfmQ==;7hQphG6FF5kLnG8FW/Bhxg=="
 ---
 

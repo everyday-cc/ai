@@ -55,6 +55,20 @@ related:
         width: 1300
         height: 737
         isCached: true
+  - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
+    excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
+    publishedDateTime: 2023-10-04T12:30:00Z
+    webUrl: "https://hellenicnews.com/greek-premier-discusses-benefits-of-artificial-intelligence-with-deepmind-ceo-demis-hassabis/"
+    type: article
+    provider:
+      name: Hellenic News of America
+      domain: hellenicnews.com
+    quality: 43
+    images:
+      - url: "https://hellenicnews.com/wp-content/uploads/2023/10/w03-202909w1284651ai.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

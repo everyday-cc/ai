@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
     excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
     publishedDateTime: 2023-10-02T17:20:00Z
@@ -71,6 +57,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
+    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
+    publishedDateTime: 2023-10-04T15:41:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Visa invests $100m in Generative AI innovation for payments"
     excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
     publishedDateTime: 2023-10-03T14:34:00Z
@@ -82,20 +77,6 @@ related:
     quality: 39
     images:
       - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Visa is investing in artificial intelligence startups"
-    excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
-    publishedDateTime: 2023-10-03T18:24:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/why-visa-is-investing-in-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/3518ecc/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F14%2F2a%2Fc21ab2204e25859bc0438ac7f0ee%2F384724421.jpg"
         width: 1200
         height: 630
         isCached: true

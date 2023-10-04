@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-gene
 webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build a crop segmentation machine learning model with Planet data and Amazon SageMaker geospatial capabilities"
-    excerpt: "In this analysis, we use a K-nearest neighbors (KNN) model to conduct crop segmentation, and we compare these results with ground truth imagery on an agricultural region. Our results reveal that the classification from the KNN model is more accurately representative of the state of the current crop field"
-    publishedDateTime: 2023-09-29T21:08:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-crop-segmentation-machine-learning-model-with-planet-data-and-amazon-sagemaker-geospatial-capabilities/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/28/ML-14309-image003.png"
-        width: 1072
-        height: 525
-        isCached: true
   - title: "UAE’s Falcon 180B Breaks Boundaries: Most advanced Falcon 180B Openly Available Large Language Model (LLM) Trained on Amazon SageMaker"
     excerpt: "In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, announced that Abu D"
     publishedDateTime: 2023-10-02T08:19:00Z

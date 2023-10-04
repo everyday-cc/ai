@@ -49,6 +49,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Entrepreneurs Use AI To Transform Clinical Trials"
+    excerpt: "Establishing trust in the research community is difficult, especially from the institutional review boards (IRBs) that monitor a study’s ethics. IRBs and the FDA already control so many aspects of clinical trials that convincing them of AI’s benefits ..."
+    publishedDateTime: 2023-10-04T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/greglicholai/2023/10/04/entrepreneur-uses-ai-to-transform-clinical-trials/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
     excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
     publishedDateTime: 2023-10-04T10:10:00Z

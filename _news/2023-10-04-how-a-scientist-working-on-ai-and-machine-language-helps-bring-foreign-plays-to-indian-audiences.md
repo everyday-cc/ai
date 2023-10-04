@@ -114,20 +114,6 @@ related:
         width: 907
         height: 503
         isCached: true
-  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
-    publishedDateTime: 2023-10-04T07:25:00Z
-    webUrl: "https://telanganatoday.com/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Teens’ startup Induced AI raises $2.3 million from Sam Altman, Peak XV"
     excerpt: "Induced AI, an enterprise AI automation startup, said on October 4 that it raised $2.3 million in a round led by Open AI co-founder Sam Altman, Peak XV and SV Angel. The startup was founded earlier this year by two Indian teenagers."
     publishedDateTime: 2023-10-04T09:07:00Z
@@ -142,6 +128,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
+    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
+    publishedDateTime: 2023-10-04T12:33:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
 secured: "Fw0EUHwgf5QZ0ZLWUT067+iZcSNO8JEL0hQDM3qWQN5YqU9p59500FzMqoiH8jtgQMJ68pa3PYRTe5pGGzVRsWV8QPNGHrD/7m0WfzG4BUGSthV2L8uNGkF+p7UCMSLSbc4X/iA+dzpYTdSmV6dStVjwekGB/Zkq3CYYJMgilg1/CnxZ4su3GzgfWV52SGPcC3X/rdGEbE7bAeIxyDvKC1b+8trSoS6qk73dFZW2NX/R3Wh9/FJ2E5loYvRveuVQSD0nf2ubskk+sVriIUJZFaG+znaRd5ASn9+cxcLApxcU44LJma66g8KfmelR05VHZia1QKXIoSWjwiDFKmTLMdRi+1oBty7+R3KM2ShWO8A=;6lGoEvuGaT0+KmfqWQui0w=="
 ---

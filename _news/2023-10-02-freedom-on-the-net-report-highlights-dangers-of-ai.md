@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Understanding the ethics of artificial intelligence"
-    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "Uu1CFuTX8uO/3Q9YMBQwXu9KU6CDRDPnvkfv5vgTFfhuIzwFrFIdNBXjYneZorpxDiw9YUf7YBb5Fuq1GjYxfhfrZYA60t9RDGNK9Qoq5ol+xuV2tR8IkD0Wb1JWTVPkpG63844ft4JZ++03l0OrccAQ1A4qdjCE/EiCpJqBj/wc31QbvBYCDwVuhHG0LdfZ/RFBO6t/qtDJ2NWMxDCFQIw0LIG2vKKrIbbVBYaQTauWrnS/UTKQL6phvepWxfacAtcNhm5Zcl3luP2g6YOwUYjxKCymN6vSlokrQADtOfM96ywiXulOZXvvz+Wdj3M8+d5SYUGky94R0CiX7tZwl0ChuRI45Qi+kkSd1nypOog=;k6jSv4A/3VCP5HtLecaZkg=="
 ---

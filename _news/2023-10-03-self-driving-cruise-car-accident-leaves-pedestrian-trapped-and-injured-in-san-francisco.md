@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-c
 webUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-car-accident-leaves-pedestrian-trapped-and-injured-in-san-francisco"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "San Francisco FFs rescue woman pinned under self-driving car"
-    excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
-    publishedDateTime: 2023-10-03T17:53:00Z
-    webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
-    type: article
-    provider:
-      name: EMS1
-      domain: ems1.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/SFFD-3.jpg?w=1600&format=jpg&quality=87&crop=232%2C0%2C1536%2C864"
-        width: 1536
-        height: 864
-        isCached: true
 
 secured: "5txjG8xP8/wvJvcpNVwoen5iI2GnsNNz4N4tu7zNfZgrdhd8/B+qkvSLhD6ovjJHXaTcnBO5NBizLhKSnOsBh48/X43K+dy0DxLHWmvv4s9DpV4fudPDU2fz9KJKewj/WFaRz2pZXpl+T/bq6wtitm71THpId7WTzwoVHpcWeJljuToqPNH3FZ6QqlLaVj8FuT8U0DZ3w9I98hb7pD5pUUpFBU1S8R7t1+TXrofPTHzsT4WVDWpUlhOnSsO7zOu1jhhpWFmNvTHmQapMwo4b3U+OInJHKceeFUlkRVv4CZIJXAK9/oApbHXEr3uDCCb+j+RmHJCW32Qv8G+uc9s6hfycBICPt28scXLN1gcDYHU=;i8IWV80gipVOuGEdlQnZQg=="
 ---

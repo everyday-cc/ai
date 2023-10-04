@@ -35,22 +35,6 @@ related:
         width: 1225
         height: 688
         isCached: true
-  - title: "2023 Ecobank Fintech Challenge Grand Finale to crown winner of Challenge prize"
-    excerpt: "African fintech industry players to converge in Lomé, Togo, for the 2023 Ecobank Fintech Challenge Grand Finale"
-    publishedDateTime: 2023-10-03T15:01:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize"
-    ampWebUrl: "https://www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 55
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2019_17_56_36_524669.png?width=1280"
-        width: 1280
-        height: 671
-        isCached: true
   - title: "Artificial Intelligence: How conversational AI Tools are disrupting loan collection space for fintech sector, expert explains"
     excerpt: "Dr Rashi Gupta, Chief Growth Officer of Rezo.ai, explains how conversational AI tools are transforming outputs in loan collection efforts is one of innovation, compliance and unparalleled efficiency."
     publishedDateTime: 2023-10-02T16:57:00Z

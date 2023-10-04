@@ -27,61 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Veteran Charlotte execs launch AI-focused fintech"
-    excerpt: "Two founders with backgrounds in financial technology and regulatory matters have closed on a $1.7 million, pre-seed funding round for a Charlotte startup focusing on AI for banks."
-    publishedDateTime: 2023-10-03T10:18:00Z
-    webUrl: "https://wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/"
-    ampWebUrl: "https://wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/03/veteran-charlotte-execs-launch-ai-focused-fintech/?amp=1"
+  - title: "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST"
+    excerpt: "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB)."
+    publishedDateTime: 2023-10-04T14:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 62
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/lightbulb-g74810bf00_1280-e1650364467522.jpg"
-        width: 1225
-        height: 688
+      - url: "https://img.etimg.com/thumb/msid-104160797,width-280,height-210,imgsize-36962/what-is-aap-mp-sanjay-singhs-link-to-the-delhi-excise-policy-case.jpg"
+        width: 280
+        height: 210
         isCached: true
-  - title: "Artificial Intelligence: How conversational AI Tools are disrupting loan collection space for fintech sector, expert explains"
-    excerpt: "Dr Rashi Gupta, Chief Growth Officer of Rezo.ai, explains how conversational AI tools are transforming outputs in loan collection efforts is one of innovation, compliance and unparalleled efficiency."
-    publishedDateTime: 2023-10-02T16:57:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164"
-    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-how-conversational-ai-tools-are-disrupting-loan-collection-space-for-fintech-sector-257164/amp"
+  - title: "Fintech unicorn Slice to merge with North East SFB; Karnataka doubles down on GST"
+    excerpt: "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB)."
+    publishedDateTime: 2023-10-04T13:38:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms?from=mdr"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 47
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/02/263156?itok=EGelU5V1"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Former Levvel CEO, Bank of America execs launch AI-focused fintech startup Vectari"
-    excerpt: "The round's investors included the Charlotte Fund, Richmond, Virginia-based Walnut Grove Holdings and participation from 11 other backers. Vectari originally planned to raise $1 million but surpassed that due to the local community's substantial support of its mission, said Alexandra O'Rourke, president and co-founder of the startup."
-    publishedDateTime: 2023-10-02T11:31:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/fundings/2023/10/02/vectari-ai-fintech-startup-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
-  - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
-    excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
-    publishedDateTime: 2023-10-03T04:38:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/681274"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 7
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "aKMSgEOFea0OAVrx7md+3XXFz7lAPdzd4sujJc+JYHWspIYZ724xfq3C/ZP44qDcnvxoV1mqrdTiwW5yL5wCnwBMNoYGxT7VcUZYiSYAn4eoUT2sf34j38MidVvcgcoMqB2vtO4R6dEFON3wPE/uRwXr5r31d+qtFNHJcy7+b+fPE4SAIxTW66HMlLGpU4zSEJrXrUB4PDeYN+Sm9/tHct6MDII+jcIoIJvmyHsoJvbYOltdNVfmzusdzprTgCj98iEOBpGb0I6bkUKYJEhiZWVUlmcCwU3oe3EbXSdBsl3JTRTLIA2v/d5hUDmtQB8Cipmwfi0iqbxSEri/ymnBbhwF1g3KC7SiyCFu+Q4Ztcw+WFJQl8ZaC5CTkFAGyIgP1Mn0IrrnqZ2ayGNtDExdjHs0fqkmydepb8s7Kw3mOTVt6++bsJuOycXMilw/BVDoc1pcLSjra0QoKyJwYAYoNM6PnzN/OhWs5AwX+EQ5WZ4bknY4Uczn0mqb454L/5UXbZEwdxcwqLXpQt+k75NPtw==;we1N5sJeyee+rUWloqKD/A=="
 ---

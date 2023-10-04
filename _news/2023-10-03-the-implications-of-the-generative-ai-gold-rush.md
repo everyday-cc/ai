@@ -29,103 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "Current Risks Involved In Adopting Generative AI Technology"
-    excerpt: "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ..."
-    publishedDateTime: 2023-10-03T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
+  - title: "Pixel 8 Pro runs Google’s generative AI models on-device"
+    excerpt: "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device."
+    publishedDateTime: 2023-10-04T15:23:00Z
+    webUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/"
+    ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Amazon Partners With Anthropic To Develop Reliable Generative AI Models"
+    excerpt: "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks."
+    publishedDateTime: 2023-10-02T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/"
+    ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 69
+  - title: "Google unveils Assistant with Bard, a new personal assistant powered by generative AI"
+    excerpt: "Google introduced \"Assistant with Bard,\" a new AI-powered personal assistant that combines the generative and reasoning capabilities of an AI system known as Bard with the personalized assistance of Google Assistant."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/google-unveils-assistant-with-bard-a-new-personal-assistant-powered-by-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c2217aca56578158bcdc4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_Google_Assistant_logo_vector_art_ca11f82b-bc76-4945-8ec4-4ff56706a196-transformed.png?w=1200&strip=all"
         width: 1200
-        height: 712
+        height: 960
         isCached: true
-  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
-    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
-    publishedDateTime: 2023-10-02T17:20:00Z
-    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
-    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+  - title: "Pixel 8 and 8 Pro are portals into Google’s AI-powered future"
+    excerpt: "Google just unveiled the Pixel 8 and Pixel 8 Pro. They’re more expensive, but the price hike is warranted for a big reason - here’s why."
+    publishedDateTime: 2023-10-04T14:32:00Z
+    webUrl: "https://bgr.com/tech/pixel-8-and-8-pro-are-portals-into-googles-ai-powered-future/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Generative AI in the telco industry: Three waves of adoption"
-    excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
-    publishedDateTime: 2023-10-03T09:16:00Z
-    webUrl: "https://totaltele.com/generative-ai-in-the-telco-industry-three-waves-of-adoption/"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
+      name: BGR
+      domain: bgr.com
     quality: 39
     images:
-      - url: "https://totaltele.com/wp-content/uploads/2023/09/zx8pwng2wui-440x264.jpg?crop=1"
-        width: 440
-        height: 264
+      - url: "https://bgr.com/wp-content/uploads/2023/10/pixel-8-pro-5.jpg?quality=82&strip=all"
+        width: 1598
+        height: 1066
         isCached: true
-  - title: "Visa invests $100m in Generative AI innovation for payments"
-    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
-    publishedDateTime: 2023-10-03T14:34:00Z
-    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Visa is investing in artificial intelligence startups"
-    excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
-    publishedDateTime: 2023-10-03T18:24:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/why-visa-is-investing-in-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/3518ecc/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F14%2F2a%2Fc21ab2204e25859bc0438ac7f0ee%2F384724421.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on Health Technology: Improving Diagnosis and Treatment"
-    excerpt: "Artificial Intelligence (AI), once confined to the realm of science fiction, has rapidly become a game-changer in almost every industry. From self-driving cars to virtual assistants, AI is revolutionizing how we live and work."
-    publishedDateTime: 2023-10-02T19:02:00Z
-    webUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-health-technology-improving-diagnosis-and-treatment/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-tech-3.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Meta Technology Chief Defends Tech Titan's AI Strategy"
-    excerpt: "Meta's chief technology officer is quick to push back on assertions that the company has fallen behind rivals like ChatGPT in the explosive surge across the tech industry in generative AI."
-    publishedDateTime: 2023-10-01T07:27:00Z
-    webUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-titan-s-ai-strategy-93a1a888"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "3h/SpwxKLeokZZyxUkmYKQu24nyjweAAf83BECguHOCGXVHLngr8R/fuzrTuX4j0XNgUxlZ5RQ4wB7Or6brn7UDas0WXJhNRdw/Flxh8aES7+XoQg2MHoPSzrJeUB5Foxh6GnEgoKojBwnrr0G2Gxf35Z17DczlnQKWaBUq9S3T0bD4ok0wTleUP4EVo3db1U8XvUn54+BLbUzHw6tyuNNbI9dQV1JN9ofR8WPVa0uM6UfptxfW1X1ZSBwIe/IrXxQlH5kQlkNq3j1XnTj+T0crCHV2iGhxH83VgncMuq5jLnBk90MckF6/+NKQAoh8QqNi/BZ6IdPbMe0691fqVjnCWOQ8rkHK+9LntA+UzYWTtqNTvv57wq9wfxpfP6BXOwLbpUo/ObfeikQUhxurhyJN1q1rcWPyPLcdOLWAfwD519Etv6WVLVAmnna7AoZkBZkXX4XNBxCgaMWuQkGFAvWL8bVZTZLYBwXDBe8ANJzeR982o415cnWXp+I86QkVC617Xr/qrt9uSI/04tHe17g==;FhwSSNwkttseueKNBTFVXQ=="
 ---

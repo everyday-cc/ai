@@ -113,20 +113,6 @@ related:
         width: 984
         height: 930
         isCached: true
-  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
-    publishedDateTime: 2023-10-04T07:25:00Z
-    webUrl: "https://telanganatoday.com/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Teens’ startup Induced AI raises $2.3 million from Sam Altman, Peak XV"
     excerpt: "Induced AI, an enterprise AI automation startup, said on October 4 that it raised $2.3 million in a round led by Open AI co-founder Sam Altman, Peak XV and SV Angel. The startup was founded earlier this year by two Indian teenagers."
     publishedDateTime: 2023-10-04T09:07:00Z
@@ -141,7 +127,16 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
+    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
+    publishedDateTime: 2023-10-04T12:33:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
-secured: "iPyBV/s1vfqrKGkXCliDgZfoW6wVlTsLmla1Wlq7g2ETl8i76snMTtdS743eDNHIah3l1wbkMMNZrH19i1FIAGmnbWJpDjHFyPPZw87BO7/XCm/EH9NyeBbIpks9uLIglC91gD9I69ZooaJ9+9cVcJcBNDywYIAWq0vyO1nRMsHkUZCpwkDiUuMHlf5OD767eTuQ6xIXj9Bg/kSB1ALwfTEZFW0zD+o9nH8UPU/UJPtF/qRF8SzbZaImPHPGGQhvASWuHo+MozucmefvFpKhK8lz3BZGrsugRU4aBPBqOoQA+WFUx+j0IS7Xm8ASV+pquBfVjgjGDvoCcqH9lBP5mqBwLh090C3v2LSpzujFUBI=;sbQINT1klIQNPRip4tkxVg=="
+secured: "H7CpkOte/dpdhmPpbOd9CYgrwjTpKVqnE13ipg/fKr9R8jo4EHxC5nRMie2ttSl6DzprlpfU+aTQVkFlVvzxGjskCFxZm5C4S6OZ65qiYt7mHY575yKLU+1nfeX0O0jh0XEGhdwHebM/CrNJrp8pgNSLx5PqPRoLb8dASU9z3c9OzMY8JmAyUJZ5L9jTLCFWFrkdRTxqd8DWwAxAjayhhPtZAGwVXTVuxung3qh50OOIwcv0Q1kedpUmxHNdQks9vrnWcl4UBfodWcuvRJXxnZYaHxctS2qyNl2DvpexIpepZKBbWdch+hoFC+kiOqzPAjqRIVXA0UeWtISyfwaZoVAwxzd0n/bhwE+ER68XUzZkX0CORTSUiSdBAd+51pJHrr0VaKpqEUBUaRMnPAoqlrxxdD12xHB/XTDSpIGnnK3Ob/OXVokd7P+ZI7BC+xtUcG86XV6eTZE/62mIBDWGVJb8V/kw66iIE3XgJOkcxHb0Ewolw4bkALhafgiXApv0FRR3QuU0UV2W5Or3497B0g==;onxLEEK8yawV/1wcsBQfYw=="
 ---
 

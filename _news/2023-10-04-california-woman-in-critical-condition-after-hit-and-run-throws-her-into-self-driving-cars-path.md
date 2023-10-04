@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving car mows down woman, leaving her trapped underneath vehicle: cops"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    ampWebUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
+  - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
+    excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
+    publishedDateTime: 2023-10-04T12:37:00Z
+    webUrl: "https://www.techspot.com/news/100377-cruise-self-driving-car-runs-over-stops-pedestrian.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 40
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000055015213.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
+        width: 1920
+        height: 872
         isCached: true
   - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
     excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
@@ -55,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "San Francisco FFs rescue woman pinned under self-driving car"
+    excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
+    publishedDateTime: 2023-10-03T17:53:00Z
+    webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
+    type: article
+    provider:
+      name: EMS1
+      domain: ems1.com
+    quality: 24
+    images:
+      - url: "https://media.cdn.lexipol.com/article-images/SFFD-3.jpg?w=1600&format=jpg&quality=87&crop=232%2C0%2C1536%2C864"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
     excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
     publishedDateTime: 2023-10-03T16:05:00Z
@@ -69,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving vehicle testing in Pittsburgh area shifting gears to focus on trucking industry"
-    excerpt: "Not long ago, cars topped with a futuristic apparatus could regularly be seen cruising along Pittsburgh’s streets, testing technology that allowed the vehicles to get around without a person steering the wheel."
-    publishedDateTime: 2023-10-01T08:00:00Z
-    webUrl: "https://triblive.com/local/regional/self-driving-vehicle-testing-in-pittsburgh-area-shifting-gears-to-focus-on-trucking-industry/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 13
-    images:
-      - url: "https://assets-varnish.triblive.com/2023/10/6592797_web1_Terminal_4.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Woman rescued from under self-driving car after being struck twice"
     excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
     publishedDateTime: 2023-10-03T19:09:00Z
@@ -92,15 +90,6 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
 secured: "q5HZmMqiNM87GwqfWRrT+JUMKY0M2KQ8l3PABpORP8CpQMrpA0tA12jrztToAXY5tHSLmKRnc8GVqPMDJcbOfXA427zrC4Eb4SBSJ72VLcRw7KoRH0v1oOR/5fRZP78/Bdl8d04UAvvOpruORxzEPjDBd29oIkGzGu7i9OSQCHMIkglAAqC+lumsvk/Y+zC0oj7S8qZXJGaAsHhyDX3nir/+Abce1vMcj/EnPkLXjw+UL7bdxrkjR5pWHjSFpY0LgREAGFG2vzdB5meXuiJzgV4zjzIB3OF4yri3vcoDh5SH4lwZ9w81FXwrbowqrU3TlXB5cpicTAj7oqU5ZMXnpX+iB2avLhW/xi7Y3vB3f9sPO1x7KNtIg9biSuhxYAl4+g2JiWayNgKfxoFTnXqCWfN+l8ALxBYpf/0chk5swW1r/IFTxcheYBpdyQswinwH1miOPQJ5XvZsHn+HD2o6SxC71aAhIYwxjN++k/zdqKdgCD+rw0TyTdUfv+KnpVx6pj+WTDZm2pDfa9xqf2i2IA==;0bqeyXMXTeHjc9l6Yhi2wQ=="
 ---

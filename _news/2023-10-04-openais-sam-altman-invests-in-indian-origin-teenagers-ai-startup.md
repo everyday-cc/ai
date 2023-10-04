@@ -1,27 +1,21 @@
 ---
 category: news
 title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
-publishedDateTime: 2023-10-04T07:25:00Z
-originalUrl: "https://telanganatoday.com/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup"
-webUrl: "https://telanganatoday.com/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup"
+excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
+publishedDateTime: 2023-10-04T12:33:00Z
+originalUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
+webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
-    width: 1280
-    height: 750
-    isCached: true
 
 related:
   - title: "OpenAI's Sam Altman invests in Indian startup Induced AI"
@@ -142,6 +136,6 @@ related:
         height: 420
         isCached: true
 
-secured: "QuyxXyUlFjqFQ6FZbDof+p+4eW/AiiHcg8tVP9r8jaGaleUsKgSXItS+ns+0e2vFJtWSU8zE+sjEMJ/2N9XNyxCL7wmP6gbDXZMdMaky6NJws5QbpRhLH3V+ajHtangy/kiH20f0Wb6ZwTihpHHeFDMrw4KxCGzyv3aiefc7pYmi3J4FkedLPM5jC/KkY5W83orefJImFxxDi3aMcLaKSc0KkmlkQU8wWoUmzGHAPaMZC5Nex8hkuO8212ZnawsCdyjYdLrE/dvgW3VIF4Z5L1oK8U0m/5NQQbjGPGWB5SxI/AejYf/K3rNyetiVkJqsHF8ZwCvR/hePOtVu2Af9KVLFhgFk2eVvGI3FI/wnlcET5qp9P4YEwFAuP5cnBZIhQxdapzq9tMVWRWBbOgSwiGck3Fno3byIjKh1HvltAYA8laNBvBOW/MoJB8wW2EICeBMaXoCbtTiILjUc+GKGwkHmUFIoJZNY4neGX7AVvUWO2P3hX/Hm8iICdPuSGxSEMGbUCGGr4mfy0bHtw056rg==;o4kaVnJAAWVkkR/q2NrJIA=="
+secured: "j4jYUqXvEijjSc0wRpitAZxXzQMqmn7NWmrtFxp17V6aEMe5WqqjKk5pEOAeaZ4JTOVe/F04Vtw9DSAl+3blyzFpb82x0I+Kp4sTXQ1SG3S/v/+QJICgHMiP+tfvSr0Ulc1zX/oAUxM5rR3Ly44EJon7pdwOLhMw2S3KTm5D0j/PeD9LACZ31hgFoM2A+/aZUEVnJUOqLdaJzK5Egzr/l6IENFxGfVQIB9ZZIk4L3gC7Y/JxIgMFAyVDMgHwhn2sThDRUDXZh7Rduo7/rVrfgFYGnKrLh9Zis+QMbsjkIw7u7IWelORQf2WbvLjId/SXqdlgE7FKCWYeLciAMqsneyV3e9gNG8UZmwLEZvX7lkA=;iBzN+wrBiX43QNYLeiPHjA=="
 ---
 

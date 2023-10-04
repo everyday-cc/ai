@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -25,21 +25,63 @@ topics:
   - AI
 
 related:
-  - title: "Anthropic Navigating The AI Landscape With Billions From Big Tech Backing"
-    excerpt: "Anthropic, a prominent competitor to OpenAI in generative artificial intelligence, is securing additional funding despite having already raised billions of dollars."
-    publishedDateTime: 2023-10-04T11:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35081462/anthropic-navigating-the-ai-landscape-with-billions-from-big-tech-backing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35081462"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35081462"
+  - title: "Pixel 8 Pro runs Google’s generative AI models on-device"
+    excerpt: "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device."
+    publishedDateTime: 2023-10-04T15:23:00Z
+    webUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/"
+    ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/04/anthropic_claude.png?width=1200&height=800&fit=crop"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The implications of the generative AI gold rush"
+    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Google unveils Assistant with Bard, a new personal assistant powered by generative AI"
+    excerpt: "Google introduced \"Assistant with Bard,\" a new AI-powered personal assistant that combines the generative and reasoning capabilities of an AI system known as Bard with the personalized assistance of Google Assistant."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/google-unveils-assistant-with-bard-a-new-personal-assistant-powered-by-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_Google_Assistant_logo_vector_art_ca11f82b-bc76-4945-8ec4-4ff56706a196-transformed.png?w=1200&strip=all"
+        width: 1200
+        height: 960
+        isCached: true
+  - title: "Pixel 8 and 8 Pro are portals into Google’s AI-powered future"
+    excerpt: "Google just unveiled the Pixel 8 and Pixel 8 Pro. They’re more expensive, but the price hike is warranted for a big reason - here’s why."
+    publishedDateTime: 2023-10-04T14:32:00Z
+    webUrl: "https://bgr.com/tech/pixel-8-and-8-pro-are-portals-into-googles-ai-powered-future/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/pixel-8-pro-5.jpg?quality=82&strip=all"
+        width: 1598
+        height: 1066
         isCached: true
 
 secured: "cuQeVE8CiteWHtld4NPXsUV9cgzUFAqLgBmGla2Wjb3YOwbBiablZafqgmZ9BkMHHFgTO498Hifp+VWRLzSipHGJu990TXUs0gAFctAJEhojfBC+2fzs0mxEnbfZ9l5aubpWA40ofxee4RM1RTu5gRm5LwdDjw4H+MoV7LqNqHVsMuOGYkeh2nOWB3Yt2hq+w5TANPuzeethCnf3EKV44pF0DDRpTK5/XxtIOCV3FoDBygG2y+sq9Haqfcy3mG4zyiBiz/i30EW2+q+b4eadI2C6Oc9d60M3fvUOUmQQUqrEFnEHHSgw4OtbYvyJB7ykMUWyoHAbSqxFQtAepCblkqoHKsAHd1nz3zo6NPVHC94=;917L9GpZA7vxL4ff3KCHBQ=="

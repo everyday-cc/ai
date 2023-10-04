@@ -128,19 +128,14 @@ related:
         height: 503
         isCached: true
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
-    publishedDateTime: 2023-10-04T07:25:00Z
-    webUrl: "https://telanganatoday.com/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup"
+    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
+    publishedDateTime: 2023-10-04T12:33:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/ai.jpg"
-        width: 1280
-        height: 750
-        isCached: true
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
 secured: "1cCHJuOZv7Efy5Tzn+oIFzLRFDb7qT9uOdV9A172nokUI0ZfnZ67pKsdsWhXNR8l/8CRqmuQCTszw5uR0GKBuhOXCb4ifrXo8/xj6/rP/npy96MHvheOB8yffvTWrbTPDNwQE4EnIX7cq1xtFiUTAZMhX2nEg8Qc9JcezsNWUu/KUwd9BUI6ZEeVysK0hqYf7FnhiLCtksf7e9UMxhRrW5Y+4iz+V4rG6+TPJE7KVbXAg2NbUPh2vq5C6I48K6k0KfKgfBwL3tbACcTkhpci8QQILVx9roJUkgo/ABsJftJns+YTjEXS2tZ4wW13VgOKhBuOR+oDLPtp1xr7syY9dv2dQdxdSFUQaHocTrYLxvX9ZuSAS4iUU4rMZlBvdJWoz2cA/52FxPl0k9LVXfxppJ1EwqDCPGoh9nSYNNcnJcJXsKGRrFCUMC9eY/j90zanbxiX2UxSHShLiZ2t4YnOLCgPAtgj7YxcxGySDCbjE9izc+AuUmB2gYrG0M5H7P2YtpBrjskzshCcHEVRWDpQzw==;ekeZzO9yGb8A8XWY5dT6Pg=="
 ---

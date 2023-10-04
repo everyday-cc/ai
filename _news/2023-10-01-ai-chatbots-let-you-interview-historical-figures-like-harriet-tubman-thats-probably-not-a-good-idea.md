@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historica
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
+    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
+    publishedDateTime: 2023-10-04T12:00:00Z
+    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "HlmlImuoCw7rtf62H0cn0HhiszaXODF8OHNkRJ/eNNOk7is9W2Ru2Tfd7qgv28WEAduoKYtLQjJuwWaBuLV1GVzF0jI4THAsjS3xYugVHlbO7Z1lvSDRfYq/Hi9oRpSZ+25EfQXnIob7KY3lDKQaZzcxxHv3L27dVcUZDh/ruw9MTmtn/34p0zbmqu5Cf8iw2PxmLYqQzMrKb8Z6G8rUCYL/BlIjv5Zeqkl61dZ+Mr9Op429wOIWXoVcAfWKGMQ6mYiZ61ffZQRzXEJ/4nkOXtxOkbrbFMImgM9j8N1tOhXD3BSXu/pKuEunlDbZ4bQzjALIuHOtbn2aRClStt/tvQDiKGEaFoWFzzFDEcgQUHU=;BrSGvmW2ffDt1SvNHMXLog=="
 ---

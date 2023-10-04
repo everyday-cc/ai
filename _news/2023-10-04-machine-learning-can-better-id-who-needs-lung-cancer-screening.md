@@ -3,23 +3,23 @@ category: news
 title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
 excerpt: "TUESDAY, Oct. 3, 2023 (HealthDay News) -- A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs lung cancer screening with better performance than currently used methods ..."
 publishedDateTime: 2023-10-04T01:13:00Z
-originalUrl: "https://www.standardspeaker.com/lifestyles/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_422f593b-2e16-5b13-8ee5-0410837a358d.html"
-webUrl: "https://www.standardspeaker.com/lifestyles/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_422f593b-2e16-5b13-8ee5-0410837a358d.html"
+originalUrl: "https://kdhnews.com/living/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_842d0397-5e20-5d0d-8353-a5516a1d8344.html"
+webUrl: "https://kdhnews.com/living/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_842d0397-5e20-5d0d-8353-a5516a1d8344.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Hazleton Standard Speaker
-  domain: standardspeaker.com
+  name: Killeen Daily Herald
+  domain: kdhnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/standardspeaker.com/content/tncms/assets/v3/editorial/9/c8/9c8938aa-d54d-51f7-9c90-d5fe87d116d0/651cb95712437.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/f6/6f64b7fc-45de-5a91-9546-1a30b5b3fffd/651cb95b52c9c.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "uKAKf19C6QwsSFoIZS9o4u8Et6p9XtA3JknKBeBwJPHKkhq0ILDYbmLVvgW2oi3cufVxnRR7EcwHt0UN4WUyEy+t4HPmVUFPFsvoXJIFNSNS/8UXLu4hLaxlKOr8O+BPSdf4aHrA53y+cBD5Ujbf8twXccdONZRN6yLdqcuIomDuqHnAkP0G0M0zHiAIsbdj6R+kcHFxMYG4dzlNgiNbsVc+IlJ0a3c96bU1sgWn26DFkPRcttcakJtZADX7XTNdsPpzRHD0kMHKb3juVLDWrTIjhq/p0vi9GAPOpyVaC+9b6ujl6xmV7efzF3q60gKbsMmQTzPMzg7y8+xAVmF8MHFGsadu8Lm26mPMJ/HiZiw=;2CDkgepJpE/Ew//r9zmnpA=="
+secured: "eoFZUM50m6o8ftCGOvSRXDJ2Dhu5R8psdZqPd4czDppwsl1Hp+aPcZRZeC/rTdFDgDbwhDk4TAsEv81rLbM+yWwFwiy79VmQvQdaSZDUjWDdB6eC3xGuR4UTxR5wmmyrtlhf4CE9Q4iH9HSCEApWvvJWscGm0m5GgsPaVva0p6yg8CPx7mqhV7souKHA0fVB4pywGSkleSuslxQM3vlZX1OtcH3uDLu560KaPNLg11xnqsiXpV3A+uHa20lS3tgSYq8m7FkBw1W4e4e5m2DbtuC0lOcQiQ/1o3EOpzkiX4i5VVhGnXm6IrbdWn0vzRupksO2gLqsPyAMsTCMRO3W+U3Jepk6qYkNqCbVaZYTPX8=;PsAVUJG2gtD/DbwHR474Hw=="
 ---
 

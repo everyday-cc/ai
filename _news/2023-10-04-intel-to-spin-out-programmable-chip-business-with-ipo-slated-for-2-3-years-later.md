@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/03/intel-spin-programmable-chip-b
 webUrl: "https://siliconangle.com/2023/10/03/intel-spin-programmable-chip-business-ipo-slated-2-3-years-later/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "INTC Stock Alert: What to Know as Intel Preps to Spin Off Programmable Chip Unit"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Intel (NASDAQ:INTC) is trending today on news of a planned spinoff. The"
+    publishedDateTime: 2023-10-04T15:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intc-stock-alert-what-to-know-as-intel-preps-to-spin-off-programmable-chip-unit-1032678740"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Intel will separate programmable chip unit, with IPO eyed"
     excerpt: "The Programmable Solutions Group is based on the Altera business that Intel acquired in 2015 for $16.7 billion."
     publishedDateTime: 2023-10-03T21:51:00Z

@@ -28,14 +28,14 @@ related:
   - title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
     excerpt: "TUESDAY, Oct. 3, 2023 (HealthDay News) -- A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs lung cancer screening with better performance than currently used methods ..."
     publishedDateTime: 2023-10-04T01:13:00Z
-    webUrl: "https://www.standardspeaker.com/lifestyles/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_422f593b-2e16-5b13-8ee5-0410837a358d.html"
+    webUrl: "https://kdhnews.com/living/health/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_842d0397-5e20-5d0d-8353-a5516a1d8344.html"
     type: article
     provider:
-      name: Hazleton Standard Speaker
-      domain: standardspeaker.com
+      name: Killeen Daily Herald
+      domain: kdhnews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/standardspeaker.com/content/tncms/assets/v3/editorial/9/c8/9c8938aa-d54d-51f7-9c90-d5fe87d116d0/651cb95712437.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/f6/6f64b7fc-45de-5a91-9546-1a30b5b3fffd/651cb95b52c9c.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

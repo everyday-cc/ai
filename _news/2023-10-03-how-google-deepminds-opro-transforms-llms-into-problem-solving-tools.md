@@ -55,6 +55,20 @@ related:
         width: 1300
         height: 737
         isCached: true
+  - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
+    excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
+    publishedDateTime: 2023-10-04T12:30:00Z
+    webUrl: "https://hellenicnews.com/greek-premier-discusses-benefits-of-artificial-intelligence-with-deepmind-ceo-demis-hassabis/"
+    type: article
+    provider:
+      name: Hellenic News of America
+      domain: hellenicnews.com
+    quality: 43
+    images:
+      - url: "https://hellenicnews.com/wp-content/uploads/2023/10/w03-202909w1284651ai.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "When it comes to AI and democracy, we cannot be careful enough"
     excerpt: "When it comes to AI and elections, I believe we cannot be careful enough. Democracies are precious experiments, with a growing set of enemies. Let us hope that 2024 will indeed be the “Year of Democracy” — and not the year that marks its decisive decline."
     publishedDateTime: 2023-10-02T15:05:00Z

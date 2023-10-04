@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "INTC Stock Alert: What to Know as Intel Preps to Spin Off Programmable Chip Unit"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Intel (NASDAQ:INTC) is trending today on news of a planned spinoff. The"
+    publishedDateTime: 2023-10-04T15:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intc-stock-alert-what-to-know-as-intel-preps-to-spin-off-programmable-chip-unit-1032678740"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Intel to spin out programmable chip business, with IPO slated for 2-3 years later"
     excerpt: "Intel Corp. today announced plans to spin out its programmable chip unit as a standalone business, and will treat it as a separate entity going forward. Ultimately, the chip giant aims to hold an initial public offering for the unit,"
     publishedDateTime: 2023-10-04T00:49:00Z

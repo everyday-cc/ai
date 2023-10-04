@@ -24,6 +24,17 @@ images:
     height: 3985
     isCached: true
 
+related:
+  - title: "Signzy Featured in the 2023 CB Insights' Fintech 100 List"
+    excerpt: "Signzy has been recognized for its robust No code low code technology and more than 240 APIs that help banks and financial institutions, apart from fintech, gaming, and e-commerce businesses to combat cyber threats and ensure regulatory compliance within the digital ecosystem."
+    publishedDateTime: 2023-10-04T12:50:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20231004/4125774.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
+
 secured: "FNj1yxPWRvz7uWgEUsrRlOjcfjvaHnZh6ip1h+VCnI9oezKanpSg2Cg7lMl6S608QwBjcvYn6UBWRWr8FE6pRRZqh06nD3+JNKQPZZLKdDD4SVh173oM/FlXFy+cpfQIkVe9y6dYe75/ZMeysmW60Qlnd1K5iUT4PHHxWad0wjyLHimMvzvw/lYvEt3TcN2PC8RnaQXAB7ZAjBzvoTC1iHtIJZIjeg+v0esGNb2DVdg0zKQ5dakV+eI3uSL42cdleD/oPot2UzSTBBUeEUtucL3l14BHqE6m16KWCFJgV9z7L/NBJS+xVfngikAWi9b28BOE2Ug1YBzNZJmMeeKSylwO6WznfgFOB9hEKyxGzwE=;J/2QePuX5EXW+PqpXlzgsQ=="
 ---
 

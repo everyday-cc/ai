@@ -7,7 +7,7 @@ originalUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-
 webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
-    excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
-    publishedDateTime: 2023-10-03T09:20:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-car-accident-leaves-pedestrian-trapped-and-injured-in-san-francisco"
+  - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
+    excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
+    publishedDateTime: 2023-10-04T12:37:00Z
+    webUrl: "https://www.techspot.com/news/100377-cruise-self-driving-car-runs-over-stops-pedestrian.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/San,Francisco,,Ca,,Usa,-,Feb,23,,2020:,A,Cruise_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
+        width: 1920
+        height: 872
         isCached: true
+  - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
+    excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
+    publishedDateTime: 2023-10-03T03:07:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 34
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/03/ba65bd1e-591b-40d3-89dd-f99326ef853e/thumbnail/1200x630/ca32f7b684105929590e709bbc390d09/snapshot-10.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
+    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
+    publishedDateTime: 2023-10-03T19:30:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
+  - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
+    excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
+    publishedDateTime: 2023-10-03T16:05:00Z
+    webUrl: "https://www.cbsnews.com/losangeles/video/authorities-investigate-after-a-woman-was-run-over-by-a-self-driving-car-in-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 15
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/03/af69d6a8-2569-40e6-bc2e-d666bcd121db/thumbnail/1200x630/0f91edabff91c4d870e163fc29cc9d45/27f5a6bf5fa6fe9a5b1df8dec2ae2335.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Woman rescued from under self-driving car after being struck twice"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
 
 secured: "SjaUgzREfrFLnNk7j84O34uds6yRa3gE8TlxcZWBNKBu0UVNLMsaGWc3L3c4eIe7oQtDG51rUFVBDdPCCrErOoC1e/6ZT6FqulEVqKhy+J/qxsO6PN76r43qJWMlwoodEaeWSHUrbeNMqsNIz520vYjM1S9YJS0yDN64Xt81gEGjHypu+UWEyztNod+DFTGtKYlSgSTaHo6Whr8p7nYIIMPFKJ7vZhnXqB2zeq89Y0OTBdhtclkdhiJpqmF+qR9ANwmyWTBoQUbt4gg6nzJRibG0eRORTEbpxqjjdT13X9mfXaWUepXwbvk33/AVqs+RgFTSYKN2YvRAwoU6+yNUkROQd6RYsk7LfJBHplhtkZ0=;DtB97HB3hKMjuMnPc1tdOw=="
 ---
