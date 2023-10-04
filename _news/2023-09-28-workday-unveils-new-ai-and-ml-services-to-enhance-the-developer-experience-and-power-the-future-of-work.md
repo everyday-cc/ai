@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work"
-excerpt: "Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at ScaleSAN FRANCISCO,"
-publishedDateTime: 2023-09-27T19:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601"
-webUrl: "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601"
+excerpt: "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ..."
+publishedDateTime: 2023-09-27T18:35:00Z
+originalUrl: "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html"
+webUrl: "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "jtlm8jkqUZ5/wJ8p4TOayW7x0+OaavKaPpA6EuE+MRkhdhWJirx0XkJpG6jKM8XVh2KrIkxhm7+etmShVgYM/T0tx2e1SM/dj+L26RsJQh3sOE79I4BusQ/uvEW6wttzOQjcmQUfzcb1IWuJshiu+g1XEZmWtxLvTp5a+2l4I0kQ0c8mMTC6jGNwDHcj0qf5TB31LgGpc7j6BrSq38JbP2VW5XRicgcCi/II71Fhl+HA68NXXrJTWgyYYV9rXQ+P0W8iOFzrsilpXN8u9wVhQhGiZJYKY12ldlEo//dVrF5ytwBlVgpLmc6lbqFITW1GjgOebFstvGaVyD6VWcx95rJgD9ssir42zsN1CSLqO/c=;rev66u22vF/kYOt6OIh0uA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize"
+    width: 1107
+    height: 581
+    isCached: true
+
+secured: "d5H0ErgKttVzmj0NESrPRqKNf/lcCQ6OIkkHiUDlq13jK0Q5bB08E6qsW1abNwd4S54LjgbLs0/rMRr9GG1QOG2oub3GqvbZkeyPrSFbPu1cQ3TEstvvV5sKfJnWZJaIRhqrcPFK4vaBlctgTHggti+eONmzZ8qPh4hScctQ+gReAvI0ACVaCi3CORdevAYTYwk2YMdj36WG0GEHFCp2PsUUqModg80aPesw9VyXHqxcv0VoX+ncesZTu0+Frxt058QwKwyTVoLjdrqddnSokJSbN6bTCyWWIAscH4tnW26b34ADaKDx3WwTnZ+IwVPYMFX/9auJmE8OB2sLXVNa0KH0YvTp1YX2FRXSg6aLaP8=;smH3qMUIaCMOgn7RMbYa1A=="
 ---
 

@@ -171,6 +171,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
+    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
+    publishedDateTime: 2023-10-04T06:04:00Z
+    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 52
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
+        width: 1051
+        height: 701
+        isCached: true
   - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
     excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
     publishedDateTime: 2023-10-02T13:00:00Z

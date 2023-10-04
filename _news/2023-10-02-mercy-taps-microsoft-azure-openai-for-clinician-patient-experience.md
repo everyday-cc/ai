@@ -176,6 +176,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
+    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
+    publishedDateTime: 2023-10-04T06:04:00Z
+    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 52
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
+        width: 1051
+        height: 701
+        isCached: true
   - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
     excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
     publishedDateTime: 2023-10-03T12:36:00Z

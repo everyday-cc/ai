@@ -22,121 +22,66 @@ topics:
   - AI
 
 related:
-  - title: "Ethics First: The Imperative Of Responsible AI Adoption In Marketing"
-    excerpt: "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ..."
-    publishedDateTime: 2023-09-29T13:42:00Z
-    webUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
+  - title: "What does generative AI mean for software companies?"
+    excerpt: "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry."
+    publishedDateTime: 2023-10-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 615
         isCached: true
-  - title: "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy"
-    excerpt: "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI."
-    publishedDateTime: 2023-10-02T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Current Risks Involved In Adopting Generative AI Technology"
-    excerpt: "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ..."
-    publishedDateTime: 2023-10-03T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c2217aca56578158bcdc4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 712
-        isCached: true
-  - title: "Building trust in AI: Ethics and governance for responsible innovation"
-    excerpt: "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ..."
-    publishedDateTime: 2023-10-02T11:03:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
+  - title: "Visa earmarks $100M to invest in generative AI companies"
+    excerpt: "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,"
     publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
+    webUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/"
+    ampWebUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
         width: 1200
-        height: 672
+        height: 816
         isCached: true
-  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
-    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
-    publishedDateTime: 2023-09-29T18:05:00Z
-    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
+  - title: "Are Artificial Intelligence and Democracy Compatible?"
+    excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
+    publishedDateTime: 2023-10-03T15:40:00Z
+    webUrl: "https://www.nytimes.com/2023/10/03/world/athens-democracy-ai.html"
     type: article
     provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 54
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
-        width: 1000
-        height: 600
+      - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
-    excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
-    publishedDateTime: 2023-10-02T06:28:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-brings-advancements-to-aviation/"
+  - title: "What Does the Commercialization of Generative AI Mean for Society?"
+    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
+    publishedDateTime: 2023-10-02T10:00:00Z
+    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 39
     images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
         isCached: true
-  - title: "Understanding the ethics of artificial intelligence"
-    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "uAODDO3uFGPb4syjtxUYoAGzFIj7oJWjmevySCKuvvabBGntvdzVLBcdd4yDq9aha8iPezTGhPRCQSr7r6ATJ+w+8DWhuf6mom4DqydhDACyguVx5d7BUBNsfZk+HSGdZU/wGHID0ReD0Q16jeL1VxlIO90+jn12VtAi/gqZcO58yPtUHGEu+ORPaqKEEuDj7qdgBqR9ZgapBfeaqUl8+BOXNZQ828LPihW5TJvFgDa8uWVZEfjBgXY35koO/R3AZdjrwNyh4iZ9Jr7v/dGFnpOMKOqgUgZn5bPV54YSFpqf1uGSN3sk2K1H3FbDqohZXVHH1jAZILMIzPoULUgW+tYsSg3cfVEQuikKn+w8Zk4KcteA2tKxjWjl7kdBB+ELLuFbpOeNHKhxCwsUNP6zzlI92npHRfLRLDEJUwRxJF1Pp7LS4/ftyLu3is25K0NqZyQpv5kZ/zoBVzsLri/Svq7g+iGGwIrULzgrFpCzNXCPn+OmkkYQ1T/h7n5Ore+1DUlHUold9LTFnNi5nChnhg==;/yW+imwfqz8Cg1cKVANKpw=="
 ---

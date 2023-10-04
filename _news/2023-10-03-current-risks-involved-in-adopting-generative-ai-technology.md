@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-ri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Forbes
@@ -30,54 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethics First: The Imperative Of Responsible AI Adoption In Marketing"
-    excerpt: "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ..."
-    publishedDateTime: 2023-09-29T13:42:00Z
-    webUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy"
-    excerpt: "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI."
-    publishedDateTime: 2023-10-02T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Building trust in AI: Ethics and governance for responsible innovation"
-    excerpt: "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ..."
-    publishedDateTime: 2023-10-02T11:03:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The implications of the generative AI gold rush"
     excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
     publishedDateTime: 2023-10-02T21:21:00Z
@@ -92,52 +44,87 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
-    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
-    publishedDateTime: 2023-09-29T18:05:00Z
-    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
+  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
+    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
+    publishedDateTime: 2023-10-02T17:20:00Z
+    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
+    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
     type: article
     provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 54
+      name: Phys.org
+      domain: phys.org
+    quality: 51
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
-        width: 1000
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
-    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
+  - title: "Generative AI in the telco industry: Three waves of adoption"
+    excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
+    publishedDateTime: 2023-10-03T09:16:00Z
+    webUrl: "https://totaltele.com/generative-ai-in-the-telco-industry-three-waves-of-adoption/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
-    excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
-    publishedDateTime: 2023-10-02T06:28:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-brings-advancements-to-aviation/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
+      name: Total Telecom
+      domain: totaltele.com
     quality: 39
     images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://totaltele.com/wp-content/uploads/2023/09/zx8pwng2wui-440x264.jpg?crop=1"
+        width: 440
+        height: 264
         isCached: true
-  - title: "Understanding the ethics of artificial intelligence"
-    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
+  - title: "Visa invests $100m in Generative AI innovation for payments"
+    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
+    publishedDateTime: 2023-10-03T14:34:00Z
+    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Visa is investing in artificial intelligence startups"
+    excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
+    publishedDateTime: 2023-10-03T18:24:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/why-visa-is-investing-in-artificial-intelligence-startups"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/3518ecc/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F14%2F2a%2Fc21ab2204e25859bc0438ac7f0ee%2F384724421.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Impact of Artificial Intelligence on Health Technology: Improving Diagnosis and Treatment"
+    excerpt: "Artificial Intelligence (AI), once confined to the realm of science fiction, has rapidly become a game-changer in almost every industry. From self-driving cars to virtual assistants, AI is revolutionizing how we live and work."
+    publishedDateTime: 2023-10-02T19:02:00Z
+    webUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-health-technology-improving-diagnosis-and-treatment/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-tech-3.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Meta Technology Chief Defends Tech Titan's AI Strategy"
+    excerpt: "Meta's chief technology officer is quick to push back on assertions that the company has fallen behind rivals like ChatGPT in the explosive surge across the tech industry in generative AI."
+    publishedDateTime: 2023-10-01T07:27:00Z
+    webUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-titan-s-ai-strategy-93a1a888"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "rNG2ZhpPB36CTcQhL2S0RqS7NtCngT+aEv6CgSpDh7NjX/+GaY+1Q2opNT3gtgP/H2sk93jwJcTamT+FuZ3FRbK1GHftgqEavDyrMzxVWSKA1exzfYFnjmwgcYAvkw4sJYfe0z+mEZJKnEBhElQ9mzX0UINp/tLAOrCuQdPnIZTRo6EgLfOnBPm65aI1oBBjiK0RAwqQ7B+bMIwiPw0zS3/R5BdicUDlBghFq8C7v1XuT70awK0EdhLKtcDhFbQJlAyo5na34a25Nh6iJP2WWrdNy+5lowGoTFD7jmvLVgPr2pu5nkHlki4QvoMlfKIv3LPs4+jPzAxuP4o1zhaLPlr3kU38BfbazZ+vwVIx4g0=;FZ1Hm1VTWEp2qKXK0f8OZQ=="
 ---

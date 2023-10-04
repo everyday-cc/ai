@@ -7,8 +7,8 @@ originalUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-
 webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Engineering News
@@ -24,6 +24,22 @@ images:
     width: 1022
     height: 575
     isCached: true
+
+related:
+  - title: "US – Senate Hearing On AI And Financial Services."
+    excerpt: "US - Senate Hearing On AI And Financial Services. Legal News and Analysis - USA - Banking & Finance, Telecommunications, Media & Technology -"
+    publishedDateTime: 2023-10-04T07:44:00Z
+    webUrl: "https://conventuslaw.com/report/us-senate-hearing-on-ai-and-financial-services/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 39
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2023/07/2-3.jpg"
+        width: 1748
+        height: 1240
+        isCached: true
 
 secured: "zL+wMrMpmG9YXP8cmFmW85dwmZC03675cyrX+eYLBsg4YlXSkIvRTHm9heV7Ta1mvSfbeFuNvKo/oaYZGJpnNgjeu06kkh6KlXAq8nc7eqEm2tj1hZRAAFSNMB90hA8I4e+hhAFvoPkxlOVK7zhAMEE3cxkwZuEEKp8wS4W6zZEMvkk7/vGaH3PfdNTn91O7M4K64Q+gHyaHmtrm2k4tl1e7A2H8KJwJZae0O2x9VFBvatIfx+Wh9R6YxNcAq7VEt1l47f5FsC7wPOofqvs0EXLiszAzjMuI53MeXw5zBQPzGAw5K8GwZPM4LvcC/c77lBcAl+xdvDmte/AXUwG6dpLbUdoPq/9uMZPTEORXGFs=;yrDrk+GbmuiXG0Ik4jfLLg=="
 ---

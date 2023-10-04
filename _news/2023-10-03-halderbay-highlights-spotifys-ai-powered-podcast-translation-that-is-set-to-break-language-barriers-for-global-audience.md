@@ -39,20 +39,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Visa invests $100m in Generative AI innovation for payments"
-    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
-    publishedDateTime: 2023-10-03T14:34:00Z
-    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "W2faDAuqn8vTJ5/ZWf9LrzfDDEDHWDOLsmF8Xurnf0WpP7WDyTIdEGCMvDX82mt8QZ6sMhglV/SWlhgQvw/slitYghCaKfAH/de7Pl9Zs6XwulM3XjMiGVoMdp6Vg8qxY9sCz+NGy79/Ta7kpnEE4WIEph8/dEzi03JRA2hjL1DxwPXgVkAkq78bwFjf5D5AeCwaA+flCz+X2HIYQMr47ECfeV6xESy4WsmSevBe0s86fQKvZGyM6e1X46hpNnYeHMq/0qoDqeLwNx9jKQ0ahtQdV84UzbrBFQw6sKnXFVLHsS282bwPgu6bMtC0m7EFK21eUk2oYMmvYSXitE/gug1o+o1SxZxrA7P/+lpudfQ=;z7pNrTkWTqcmqsTa8uFtkw=="
 ---

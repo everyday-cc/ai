@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Instant evolution: AI designs new robot from scratch in seconds"
-excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
-publishedDateTime: 2023-10-04T00:07:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
+excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
+publishedDateTime: 2023-10-03T20:29:00Z
+originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
 type: article
-quality: 64
-heat: 64
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: mccormick.northwestern.edu
+  domain: northwestern.edu
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "o/R3fjDViJ5TXe4UMe7ECZS9UL4gpAVbRzMHT1QP9iRNith2CyCnmBGwUptrMGdYvFnky3oVxweOcSMrwOVX8Q8eIAAfObZ/UOfTK/mk2yjRS02+SpRX6t0sqYvObXh+JnwD5noeArHyY2gNR/jVLIo6EEna856NmSM4dH7DLE4UcGtoiaQ94uSPuq+gmIQxS7T6d9RVEQBk6CSEQLvZ23MQHsnFddCHpfFj2EyyWiG7YMp4CVqp3VBMdMULiN/maoc4enRo8TqIsr/y3PdDbF4G8vABFb0xv/LUuyb6Yi07PuMWZcb76ZO5Emn27GrjClKPCee7zFZfPeK/ek9wT6LQnJ9Idq4VhPGsfls4doQ=;h096nwszNatNsdtyZLs4Tw=="
+images:
+  - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "RbTwmJF/W+Sg5Dmi8r+ByBSDGG3EWLGft79a+rnndxnyETitooXrC1JDGqYXGSraPnNK2x9ON2dcV0UkyoIiluCCUikk5Cc8+d0f+yfNiEnwWBDjGOGvZlDZSr46G+xTAIvR47T+gL8zV0N9VNZjEsOzT7kmsJyyeESk9GTVe90SeeSOa1mPsCjb0dlOEX1zGMFgnt+kmRLfthTjJ+RG0GVcfFN4GEKk5XIO5QhEZTo2dHrLLvjrt7dIk0XsaZ0EfHaR6pa/o9RbYkC0tHuF8qvf8IETFBO0XrkDQG5RjrQvM7+FqqmluIIOXOAT2e6/6QveO+3fBhYJ/a4cuHpSogsk+o5T1olmszWKsEJPwNA=;aIDiioJobIZ5AR3uQCMFVA=="
 ---
 

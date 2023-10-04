@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-27-aws-launches-new-healthcare-focused-services-powered-by-generative-ai.md",
+      "title": "AWS launches new healthcare-focused services, powered by generative AI",
+      "excerpt": "Amazon says that the AI capabilities in HealthScribe are powered by Bedrock, its platform that provides a way to build generative AI-powered apps via pretrained models from startups as well as Amazon itself. This might be cause for alarm, given generative AI’s tendency to exhibit biases, confidently invent facts and generally go off the rails.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
+      "originalUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 341,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/amp/",
+      "publishedDateTime": "2023-07-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-amazon-cloud-unit-enters-health-care-ai-market-adds-chatbot-tools.md",
       "title": "Amazon Cloud Unit Enters Health Care AI Market, Adds Chatbot Tools",
       "excerpt": "Amazon Web Services is unveiling AI services for doctors, business analysis and chatbots as it aims for Microsoft and Google",

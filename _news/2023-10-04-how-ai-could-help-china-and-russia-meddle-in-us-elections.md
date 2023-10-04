@@ -1,13 +1,13 @@
 ---
 category: news
 title: "How AI Could Help China and Russia Meddle in U.S. Elections"
-excerpt: "The following essay is reprinted with permission from The Conversation, an online publication covering the latest research. Elections around the world are facing an evolving threat from foreign actors, one that involves artificial intelligence. Countries ..."
-publishedDateTime: 2023-10-03T18:00:00Z
-originalUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
-webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
+excerpt: "ChatGPT and similar AI programs give propagandists and intelligence agents a powerful new tool for interfering in politics. The clock is ticking on learning to spot this disinformation before the 2024"
+publishedDateTime: 2023-10-03T19:03:00Z
+originalUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/?ref=upstract.com"
+webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/?ref=upstract.com"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,9 +15,14 @@ provider:
   domain: scientificamerican.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "Dg/91dUqiuxOvukaIwpuwJthVZueEgfqjbl7AD2rP/1CYF3bxQPbmvJULEXH4kOYEDQHcsRG/s6K1XQqVT2dyFLQGslHiwcM1YuisqEJb6vRo4lHzeERxMTDbwgDUTvKaaCSToMo7PXtnh+dasSwX2P3YqKzkoQ5QOHZb7DkuSHgKBV7BVyRR/AqvFzDQbzlpn0zouXe72Q61wPjVQ8u7d/WGiKnlB2CQP1YvU/gTL2GQ3KaEZo+sxpSQXLIEWTLhBmser7nxXBoUOcFwvkXC4FwXuEceFBlqfZMICNywKpCjiTRRfwk6VtpDftTQdO+y3/a7MFsJqWMhDtT5ZVinDtDrxkjJsPITVMA8ZS0D/IZI9QOSl6dWKQmV8ezP06i3ZKvoMlwJVlQX07wuLgyFeJeg69sjAXCvLlh/H6PFWutoReLgroxo6XZ9IoRPWy1Ewtll+bvKR3YsLg7nz7y7LH8i06MuWC5oLtolsVOJNun2XKOKCbcDg+sWtMR1WcaaoG/sEIEYnAH8wp/itGwHw==;rejUxZME1Np6+V6PKzLdSw=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/6C2FD54A-33B7-4E44-A9FCD109953D7F42.jpg"
+    width: 791
+    height: 496
+    isCached: true
+
+secured: "jEt/7TjayBMafqht2+Cvv8L58NAf3ny03YN327rPy2jwOAb3LFZyhaaphWoVYwr2tOWJw6ar+iEUDNn6JoKlEArLt5GY3fGPn+xYDZqUj8qyhLcI/PsCiJi929XBcInfs51m23KNK568XD0sNW//6AYKqKtge/YjNkIg53U7bl1hgujOGskooo08R/cpykYN/kgi/hCc9uNuHN6RQzK2BlxnQw6tzXiSO8I/h+UG1BaPXa5UeoQVlCzZiBhLYxPlCc7HjeC74HuUjy6Sf7A8Wwrhsxgp+fu+8c2NN1q65DBee7v5MLYzdwBkw6Ys3y2sT9to/L3qHgBxYF3V+tKXcVphwvQXbOzVgBlFuKVK6Ec=;GsJtcAy8CM0yupVWjp+b3w=="
 ---
 

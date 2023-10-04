@@ -19,120 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Ethics First: The Imperative Of Responsible AI Adoption In Marketing"
-    excerpt: "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ..."
-    publishedDateTime: 2023-09-29T13:42:00Z
-    webUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy"
-    excerpt: "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI."
-    publishedDateTime: 2023-10-02T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Current Risks Involved In Adopting Generative AI Technology"
-    excerpt: "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ..."
-    publishedDateTime: 2023-10-03T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
+  - title: "Freedom On The Net Report Highlights Dangers Of AI"
+    excerpt: "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text."
+    publishedDateTime: 2023-10-02T09:31:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c2217aca56578158bcdc4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651a8dc65c8025d4ba1aee21/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 712
+        height: 833
         isCached: true
-  - title: "Building trust in AI: Ethics and governance for responsible innovation"
-    excerpt: "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ..."
-    publishedDateTime: 2023-10-02T11:03:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/"
+  - title: "The scary side of artificial intelligence"
+    excerpt: "Achin Sharma, CIO, MOVIN Artificial intelligence (AI), as we all know, is the simulation of human intelligence leveraging computer systems and machines. AI programs can continuously learn and evolve with experience. In technical terms, AI systems render ..."
+    publishedDateTime: 2023-10-03T09:39:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-scary-side-of-artificial-intelligence/104128779"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
-    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
-    publishedDateTime: 2023-09-29T18:05:00Z
-    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
-    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
-    excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
-    publishedDateTime: 2023-10-02T06:28:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-brings-advancements-to-aviation/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 39
     images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "1u3uwEKYfP2bH89Bi+codu99aJqJQhPFFKGgsk1H1PyPbSwixY0um0kwhehivRRQpB2Znr/YuF+IyS6bIW3l0YL5ySsZ/ODWyGNd76azOr77cUavWpjpJiKZnHTESwmGwrqtiDHsOa0qnIFAvUdaM7PZLRxuaEz09fja1cKYvoEmXTI4bIhy02zhEsq7M7NrQ+16ugHJJ5Keh7aiPUdqzSPCCs6UjkJoa9Zi5jT5LxAFuHPEkRke9QGFWScscvEciRRn47+mM5IA0qcFjsK1Wq+xVuySeOBmjH0+vzpidFP/m5gZ33v/tcw9ZhHXido+8VROTE8+KxQldWXWw0SoFONUb4FI/EbgjfMGiEzNxAE=;CCebafPwVb0TgYXpvsY9SA=="

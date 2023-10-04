@@ -71,6 +71,15 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
+    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "zZmhfqK8xVGzQapuAz+pTyVx0AgZ+qdfNkQ1lEeryqVzCOgCS3dvSUT0EVem9t0xjlTY16Q5CkustZpPS2kyM+e+aVSUVCi7tOGC9283zG6KkFV7EQuubBru+Xmou9Yb7G57CCNXaXnRUFN+RnjgDCFVx7uWnVZW0V3ShShHbXWcIbW8q6qm7k4JwLkFtu51Fl2ag3nkHm8PIEQx94pRDYW9WNwHRmHKszud2vKBGxupusTSLDslkPQ0duC0KYab7h3U5Q4L4sR9tNWvh20U+uacfi6L6eyWdFpad/ii4PDGOafI4iK+yZTuzpRF86trvSl+ZrD0HDC6qsFwo5bFKfp4gZ4rjbbzrMqfGzu1jMg=;+Zdsz4k/npj8UXAQ5ufwUA=="
 ---

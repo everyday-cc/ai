@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-30-contextai-wants-to-merge-product-analytics-sensibilities-with-llms.md",
+      "title": "Context.ai wants to merge product analytics sensibilities with LLMs",
+      "excerpt": "The way it works is customers share chat transcripts with Context via an API. It then analyzes the information using natural language processing (NLP). The software groups and tags conversations based on topic, and then analyzes each conversation to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
+      "originalUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1625240294.jpeg?resize=1200,692",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/amp/",
+      "publishedDateTime": "2023-08-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-the-generative-ai-revolution-a-paradigm-shift-in-work-culture.md",
       "title": "The Generative AI Revolution: A Paradigm Shift In Work Culture",
       "excerpt": "It carefully chooses the language, tone and style best suited for the intended ... With this as a starting point, generative AI becomes a skilled translator, converting these objectives into discernable search criteria and detailed role definitions.",
@@ -1274,58 +1326,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-is-building-a-space-age-universal-language-translator.md",
-      "title": "Meta is building a space-age ‘universal language translator’",
-      "excerpt": "But Facebook owner Meta wants to change that with SeamlessM4T, an AI-powered “universal language translator” that could instantly convert any language in the world into whatever output you want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "originalUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/meta-facebook.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
-      "publishedDateTime": "2023-08-22T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

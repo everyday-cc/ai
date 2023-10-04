@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Visa invests $100m in Generative AI innovation for payments"
-    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
-    publishedDateTime: 2023-10-03T14:34:00Z
-    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "HalderBay Highlights Spotifys AI-Powered Podcast Translation That is Set to Break Language Barriers for Global Audience"
     excerpt: "SummarySpotify (SPOT) pioneers AI-driven podcast translation for a more inclusive global audience while navigating financial challenges amid its podcasting expansion and showcasing strong stock performance."
     publishedDateTime: 2023-10-03T15:51:00Z

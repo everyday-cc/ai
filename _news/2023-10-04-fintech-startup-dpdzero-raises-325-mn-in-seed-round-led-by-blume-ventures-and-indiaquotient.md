@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures"
+    excerpt: "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults."
+    publishedDateTime: 2023-10-04T06:31:00Z
+    webUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/"
+    ampWebUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fintech startup DPDzero raises $3.2 million in funding round led by Blume Ventures, IndiaQuotient"
     excerpt: "DPDzero plans to use the funds primarily to “enhance product distribution, expedite product development, and assemble a high-calibre team”."
     publishedDateTime: 2023-10-04T05:00:00Z
@@ -42,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hupE4hB+yDHVOTmWYsmYsa2KkOp30+87htnNv7pL8Eg+yvOQOqFsLoA3r4kda7EtTylnAGKfxt9O+HVWMRf8NB4csuYCUcKy6fhOK0QoLbT91qQF2jlv6Ypnv4/THEjuqc01fHy1GYWfD0VZkxZO+WwVf/gBAF9JWo8O3J0e+f5kaoFjLFxhHqYsc0ctYs2mFqWAmD82yxj6Wf98WkMPPr4rfRl25KrIyNSm96kvWOiq54GNtdbA88KxUVtcOfwHUMBKKx1LhaHm2GqS4UdTagpgYxbfyuE+T6E+Zm05g3wMUBJRpHmqt6tOiZqH+U6Ez2jtL2z0bTK4Y7Cp6BlcKmDWEBNaTE54h5FvRsQxPG4=;aYYmlVhjuz/ZfGLxyl4sUA=="
+secured: "2oJrQ0C99t7pO3uwJhL+4ZdceeZPEzOwErxlZdtveHan4eQgdZAOtS916C0q1EP+4iLVc/48cze6ttZEi3iKC7p4rG+r/WNBuJoLQueiIVYrc2XOs5k2xe2JFHMMWsSkwqZ4Qg86iMUyKaOzVddXLcA2V10U77KDk3yMPmDOCDO7QsqBPgAN/r3OFBn2pYD1WDMzEi1yaHkVSuUFFq+XMDmW7+hjMmYKWhyH3DIgQjifBvnV+xsYDRZ9l77zqrW0tXEcPT2Sqh9TcrJJAoywh2Pw99Gd76yFrUNrwk9t/YqL9wiq+u0Jmh430XZBFCRqPWCoHfsVFqpnO/+FY4Wf7Yp28iNmAoyBXCikjh4SaUCRRaqR2GiX1C8kaiIf/lkm/jipaFZn40FuhSGxGxc67qcTXZvlmJyo7ueThIwhjKWGgp4GfqrimUXOPOKlBoBmBsvdgmU6e1/bfXp9dN/wtZ9D5GiX5aHQq3BuNvQpIDDQMeuyjYW3135z/I/F652dUUrciu2/d8PtWwXVQi4z1w==;BCboTYqyCv9AEXP0+OLX6w=="
 ---
 

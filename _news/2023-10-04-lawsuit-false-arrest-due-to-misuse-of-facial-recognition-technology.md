@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Lawsuit: False arrest due to misuse of facial recognition technology"
-excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29, was driving to his ..."
-publishedDateTime: 2023-10-04T02:32:00Z
-originalUrl: "https://abc11.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
-webUrl: "https://abc11.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
+publishedDateTime: 2023-10-04T07:30:00Z
+originalUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+webUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WTVD
-  domain: abc11.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
@@ -56,21 +56,7 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Facial Recognition Technology Meets the Cattle Industry"
-    excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
-    publishedDateTime: 2023-09-29T15:01:00Z
-    webUrl: "https://www.dairyherd.com/news/education/facial-recognition-technology-meets-cattle-industry"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 39
-    images:
-      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/Veterinarian.jpg"
-        width: 345
-        height: 238
-        isCached: true
 
-secured: "jgmUahvrFDsWSHBS2I8necj4dyCXU1yKV2yMMp2nK/YC49IqJC/MLvPmo8fTiqqYk1jTVPFt2F3gWd89lfHeE+1Uuie37Ya17lHAqqONndDzrvj81DXaFpdY5sXQsKvUpK8vJo4m9dU6DXjWLJfU6ctleXx3dnJlVfEmkmPSn5qoEbAftXdhs+P513pLY4vKj8Bogrlp9fBZl9VyqnsfbruuMziPBP+bCNaBxhsZeUSnauIPXTofET/Q8abir2PPMEDDoA5MKrEnsXQmOspDEVGhoCngAX/DqdtmRXpZwOpFoDWG5MbeZRa1kG6Eyb1KYmMLJiKOWECVqBuKp6DYw85wX9pQOLZZAUR/f89Jzl4=;zzIstMcOWxdtqjroIaHyVg=="
+secured: "ye5qGTTw2L/h/UBU9tq4R540Tsc3ObF0O+iXI6YwKkVOmbDb41ExzppoWmAKTjV10Lxv5xa/EZRhPQsQLF5Cth6OnMbPDLqo11tibY1bLA4UXMzvPziGZg36AoAi/dlDQ3cOCGwkmFQFHimsHozedjJyEFXOJApjPB7yyrlYXrBn7iT5X/2u6bAMVUv0DHlkN5bIGbjTVNJm3l/GTLsStEVS/2mGaH1ihqj691s/nYyJmbidhYioQLbaJ7H6I8e/o2YtVbUDYuqp+4JiLdlUXlz5CubCHQBH2GWg5I7sNZFzmPNmzZo9BSJH+kgoxPLWjFwf2FMEYQLKAATi/BZKvc6XDlYaUliRc187ktpoqfk=;7++3z/8oaEq5+0gAXmx1Xg=="
 ---
 

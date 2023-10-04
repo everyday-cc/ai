@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind AI speeds up search for disease genes"
-    excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations."
-    publishedDateTime: 2023-09-29T13:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/science-environment-66847977?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/science-environment-66847977.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-66847977.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "When it comes to AI and democracy, we cannot be careful enough"
     excerpt: "When it comes to AI and elections, I believe we cannot be careful enough. Democracies are precious experiments, with a growing set of enemies. Let us hope that 2024 will indeed be the “Year of Democracy” — and not the year that marks its decisive decline."
     publishedDateTime: 2023-10-02T15:05:00Z

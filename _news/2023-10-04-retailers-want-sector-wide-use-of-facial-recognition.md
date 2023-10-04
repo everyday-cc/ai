@@ -42,32 +42,18 @@ related:
         height: 641
         isCached: true
   - title: "Lawsuit: False arrest due to misuse of facial recognition technology"
-    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29, was driving to his ..."
-    publishedDateTime: 2023-10-04T02:32:00Z
-    webUrl: "https://abc11.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
+    publishedDateTime: 2023-10-04T07:30:00Z
+    webUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 41
     images:
       - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
         width: 608
         height: 342
-        isCached: true
-  - title: "Facial Recognition Technology Meets the Cattle Industry"
-    excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
-    publishedDateTime: 2023-09-29T15:01:00Z
-    webUrl: "https://www.dairyherd.com/news/education/facial-recognition-technology-meets-cattle-industry"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 39
-    images:
-      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/Veterinarian.jpg"
-        width: 345
-        height: 238
         isCached: true
 
 secured: "Uk14yMl36PbELBp5oBU1BphpmpjfUGUK7ifLmYyz3mnQ9pYBfcB+Lu50MBWLugQDds73JPCkWNYIza1OStwHnp96luU3Vh9/y837jIIyj2kebmV5zJ3uKpx3iGQLWYFfU8jsXISQSMidTS8Yhoucrhff3VAxO2WrkCnhGB7BZikNzPdjxFhE9Vu2RNrhKscR1umoXtFMtgBNW70ORpqbGCIdlqJW6B/SPze/yntRZelrPzn8N+B2aK9y+Id033IDYNkp7qvy/PYeUxkEyK/LbjFgD53inmFBczga/Bi+EfYRtEsM63MiqKgxm8Y7K6h0FK7ClNMu8XpcMc7wOX0fPoIXDKl+xlATyCseiURWMfKGcv3O5MpI08QO/pjOuvBuKASKGUe1Z8omJtTD/5wLxwmvEq8Q+b2bSJj1/JF890LX6OEchaBwSeo9WW7yd/+cgJgFUPfQsZA6oAjLJG5vr+TKzqQ7UC1gFQGx3bSTFbspPI+zY0uHNUp1BLW4xX9LbNbnLlHYiI4oeQVSyULtKA==;NYTJIaiU4nILNSauQ7EMkA=="

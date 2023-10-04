@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind AI speeds up search for disease genes"
-    excerpt: "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations."
-    publishedDateTime: 2023-09-29T13:51:00Z
-    webUrl: "https://www.bbc.co.uk/news/science-environment-66847977?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/science-environment-66847977.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-66847977.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

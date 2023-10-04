@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-14-pitfalls-in-artificial-intelligence-at-least-for-now.md",
+      "title": "Pitfalls In Artificial Intelligence (At Least, For Now)",
+      "excerpt": "AI makes stuff up. It starts with one word and then predicts – based on biased data – what the next word should be ad infinitum. That’s what’s called a dumb system. But when you ask AI to explain how it arrived at its answer, it can’t. That requires intelligence, and it exposes AI as an impostor in the field of intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650223b233682072663e675b/0x0.jpg?format=jpg&width=1200",
+          "width": 619,
+          "height": 930,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/amp/",
+      "publishedDateTime": "2023-09-13T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-is-ai-the-key-to-improving-mental-healthcare-accessibility.md",
       "title": "Is AI the Key to Improving Mental Healthcare Accessibility?",
       "excerpt": "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare.",
@@ -1311,51 +1364,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

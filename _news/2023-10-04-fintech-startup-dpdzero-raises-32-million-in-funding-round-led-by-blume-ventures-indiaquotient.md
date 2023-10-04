@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-dpdzero-rai
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures"
+    excerpt: "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults."
+    publishedDateTime: 2023-10-04T06:31:00Z
+    webUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/"
+    ampWebUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
     excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
     publishedDateTime: 2023-10-04T04:45:00Z
