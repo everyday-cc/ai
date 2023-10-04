@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-gran
 webUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-granite-model/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 490
     height: 231
     isCached: true
+
+related:
+  - title: "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant"
+    excerpt: "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 72
 
 secured: "W3kAaodAg7DvHAMkxAm/8EAo6eDGOp6MheRuBSDcS/ZskcupJHqZ4e2rickXW9bkbNVP7U5EB3yFy+0LDXmfuwQHDR8sAI/XfXZg1VIZbzFXWO2vxe49JJ+EbnEu9CUr6FGYlADZM2yStpCLtgk4r5ezKV3G99AttEUaFcHSsaDhkF0BW6voffEyAr4RS+EnG2h6w9VbQP/OeWj58LC6vNGNjoN7BRKPsybcTna/3gG1JqnZiIUKyjk3DoUrc7Q5D26Mw8QOqscEPfyUmb4f4hozTKhyvNVqzR1T4HAfeta4xkUHAjlfyvLafftahiuzqJxcoDuZwW+O8fu0HdlLmlgQyiYNgw8pCB+WZrJHxMo=;Hhv+LRSLYXP/tCQaeonu3Q=="
 ---

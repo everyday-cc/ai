@@ -1,0 +1,47 @@
+---
+category: news
+title: "Fintech startup DPDzero raises $3.2 million in funding round led by Blume Ventures, IndiaQuotient"
+excerpt: "DPDzero plans to use the funds primarily to “enhance product distribution, expedite product development, and assemble a high-calibre team”."
+publishedDateTime: 2023-10-04T05:00:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/articleshow/104148425.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/articleshow/104148425.cms"
+ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
+type: article
+quality: 46
+heat: 46
+published: false
+
+provider:
+  name: Indiatimes
+  domain: indiatimes.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-52360,msid-104148428/founding-teaml-r-ranjith-ramachandra-ananth-shroff-.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+related:
+  - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
+    excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
+    publishedDateTime: 2023-10-04T04:45:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/fintech-startup-dpdzero-raises-325-mn.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 28
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItlYjUaH2zC4gnhsi95XtTk69BMPLWbU2PxeCVYucaFMpoJaP8uTsl24V4fwwiXN-j9H4BbudVWD1kuSguaa0CJ8duMwPfz-ABjXiyaKI9PQi0JRLGhbMRGfHc9ItMSUyJl7LRGmgQ01Qmnp8ED8Xxtk-XV9dMAHiSzxiCp4JZ1nC9KTVW-5bsWOFCIs/s16000/Founding%20Team_Ranjith%20Ramachandra%20&%20Ananth%20Shroff.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
+
+secured: "ZVt3K/udUEb8Lcri60EYVH23t+NqsQxIQhTQ/Gt4qymwf8sm0FY4duxYVckaqKvZwyp8q1PO+T3tN9ta55N4FBon4VVKxz7Zt5yhC8IV+k0+ZSq5z4QcTiSVDUhBpQizfHX07gymMLhT/qiOz55ciIirxpio+Ge4pLjPOr7JNKVDRFZGkD2G4Un+K/uODr0nrlFnnRFbpI9RbRGGgttcC5rof7pm/peNhMO5RRi+kQiF9KiwCZa5QCWzO6XvUwL8aDvPMxACwngOnDYmQKXrbAKHf43/Qkqv9d+J42LWhe4u9QbGbN+KJP7kydL5vmlMQ1bA9HWxmw5jA52QjC4EdWSLyrJtSLJEg2C9SIi8jeg=;Qz8lcFJ+ARUP5FnENE1+zA=="
+---
+

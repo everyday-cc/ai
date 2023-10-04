@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial general intelligence will come within 10 years: SoftBank CEO Masayoshi Son"
+    excerpt: "SoftBank CEO Masayoshi Son predicts that artificial general intelligence (AGI), which surpasses human intelligence, will be achieved within 10 years. Son believes that AGI will be 10 times more intelligent than the sum total of human intelligence."
+    publishedDateTime: 2023-10-04T05:09:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/artificial-general-intelligence-will-come-within-10-years-softbank-ceo-masayoshi-son/104148557"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 15
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104148557,imgsize-85730,width-1200,height=765,overlay-etcio/artificial-intelligence/artificial-general-intelligence-will-come-within-10-years-softbank-ceo-masayoshi-son.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+
 secured: "lu9QB+sVFIZ3VFjM92lvG8XZ55as6UnwgeiXEa85ACO8yH0CQ5UHTHb4vXBendHoP0OLNymW7y8V2c9DwWbaEjOMt2AKFpkW7iekd4zdXHDEruse9WJ+ELuKa96mN+Nscu7atWv5uzd7SkJl5LdFDFGFg61rBxqDJq4bYakJPYb8jQMDe/pITPkeTgVbQAt170E/iJSMRgSEYcExYwRMujq+uaJH4Qi2ztbqExEya5B1YNBj9kYXYsjoxbFsAvXzUhL8EzgMvQWRmh4xcZcsdknhQih1qci5dr5hHAM24KApYnijch5Tnm/1HOulLmIHdA5qESxl/xK9fp8h1swBhBh7cX68eeECzumztKdsQTg=;ydCAR/V1CCzHuvgn/JZ7Ew=="
 ---
 

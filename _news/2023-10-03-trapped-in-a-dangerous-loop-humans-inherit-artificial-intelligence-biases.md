@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "What Humans Lose When AI Writes for Us"
-    excerpt: "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves"
-    publishedDateTime: 2023-09-29T12:46:00Z
-    webUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/"
-    ampWebUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/52B06311-23CE-4ED6-BB477C2A55AF5B62.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "How humans can absorb artificial intelligence biases"
     excerpt: "Research at Deusto University reveals that people can inherit artificial intelligence biases, potentially leading to systemic errors"
     publishedDateTime: 2023-10-03T13:54:00Z

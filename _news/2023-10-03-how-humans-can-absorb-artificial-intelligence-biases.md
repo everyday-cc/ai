@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artific
 webUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artificial-intelligence-biases/167567/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Humans Lose When AI Writes for Us"
-    excerpt: "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves"
-    publishedDateTime: 2023-09-29T12:46:00Z
-    webUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/"
-    ampWebUrl: "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/52B06311-23CE-4ED6-BB477C2A55AF5B62.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Trapped in a Dangerous Loop: Humans Inherit Artificial Intelligence Biases"
     excerpt: "People can adopt biases from artificial intelligence in their decision-making processes, according to a new study. New research provides evidence that people can inherit artificial intelligence biases (systematic errors in AI outputs) in their decisions."
     publishedDateTime: 2023-10-03T09:00:00Z

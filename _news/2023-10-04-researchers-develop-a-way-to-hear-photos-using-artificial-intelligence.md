@@ -2,17 +2,17 @@
 category: news
 title: "Researchers develop a way to hear photos using artificial intelligence"
 excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
-publishedDateTime: 2023-10-03T18:58:00Z
-originalUrl: "https://www.abcactionnews.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
-webUrl: "https://www.abcactionnews.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
+publishedDateTime: 2023-10-03T20:45:00Z
+originalUrl: "https://www.wxyz.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
+webUrl: "https://www.wxyz.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RpORydN67hD5+X816Ua4/oAq/U/YqC54CtpymyL73mkehiKm+/AjEY/GE5ryk6PPvc6VdigOrk0PwPNFbt4W6GCueAPZOtXrXDnnd2CeJSqFmUAxlJFMSHyVJz1BNmcFlxLMLZOyqNxsFTR863laQ1GHr9VNPB6+0pQsvmNtZ+x/h16Ch5ug9oWlrWId7wZhkXbt8sTma8cQltVM4Fu+EX13vKS1yptjDVVTRg0xHP1uL41fGvH7Nt6NVE32tcD49khWpi/XXn5Ux36dCk2/p0YpNKknVdxT57KLmcie0Zvt0iZAqS6dwnSmEF5gvVeVauJKXP7lGPlr4HPPMRVpNb4xjTkPmAS1HsluVY8k5JXSfYEhS8isk5mmHHoMPSOxcOacvMPOy0PRqyz0dIVV4+TCB1Vrt3lCvGp6WsBZ6mRm+9vumdqtETKQrFSJ7wFxF5q57hkt0LnHAMN8Eu8/GZtaSwyfdUb4VPq21/3UxqvyDZ0K6TYE/F4AlVjkxHgX/YKNF+SKTMzkjvewry/2Ng==;ZuMp6KRKf3pT/sv9T+RnSQ=="
+secured: "FNU20W3Lgp/6BroH1yPVubAcKQL8YA9/7S65MfM3ndgMpnsF5rn5DzUtOWwtYtwTM2C6w6pF5p5VcgBDotsI6qbmJ9baB8SYrs1iS9lSs4rXEafw3AGilPe6v+aM+gAXpSzEVDZaSocrIUL3nJXXBDBc5s/GwnFeG1oEyvNy+Q6/W7pDh5Hvy92FAb3lhVMRPvVOMTd6VL0CO9op0lNV3O39xfM1ROWz4IiVpSnwlQq/OUS3p6iwRLxC00K8J1bYJ1W0hLU//+WAaF6GiSfM9D7NzLCNJIuw+DaAE/gxGRpjg8gZEJw0Ea49Gm0wOPNktVw4z2tRbCHVAg8TFOku5oe4/FHcP227WttU6Gk+SDI=;DWZHTbLRDKgcEjsW9DYGPg=="
 ---
 

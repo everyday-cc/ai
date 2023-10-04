@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LinkedIn introduces AI-assisted recruiting tool, coaching chatbot"
+    excerpt: "New AI-based tools will improve efficiency so recruiters can focus on strategy and people-centric work, the company says."
+    publishedDateTime: 2023-10-04T05:11:00Z
+    webUrl: "https://www.hrdive.com/news/linkedin-introduces-ai-assisted-recruiting-tool/695471/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/imgproxy/8eatHHWLQzgI-WxN4QUkSzWnOtbulmSJq7P3qkVCwUI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMzA1Mzc4NTVfT25jbmxnQi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "Ju8eRy7iSZYIITeHpR9VMUkQFkCekApcuXeXuR4wEHOL8vHsTTggNy/MEaZieg+CvfLiXwsoYrLR4cR+erk1+73q89p16y7O1lvDM3UwJ9FNPzhMaoRfFYX1RMY6wyPECnsU1wT6PB7naQAzE5lL8jhT3vYSaF09N9pMhPvu/Nb6wMh7MLwq3enuH5s9q3b5E57o6NImZsUt4F/JDCZ1Jw9EcqCaAeU9CDyRf1opfZTDBM3db9nPGDkWobWGs8W2iCCYgftPF9yB+PBRJ2+kk+h2qvrgqChUGJ030mmZ23YwAWezMJmj19sBjZUHAzu0tVsZu6p/sTEgaC4TVd/vITVvgbTvH0A3d+UUrOX6LDKUbZtExt/mUAq5eqJhpAvjz/Sxqg+1dXV08Z+bo9rXKcJQYRkrSQL4w3Pd64gHz2eTl0ehAzr1GvDflcKa86k7Sn8yx+HmxCnOzB/KVuLXYtvZ7BZduuC9BK3ANZkduGyufbWLaIVOVhwWgm+ZFeKfhc+hbcCFSeTDnj16w9OGZw==;8nQQZv81p36mNPD0RHPrrw=="
 ---

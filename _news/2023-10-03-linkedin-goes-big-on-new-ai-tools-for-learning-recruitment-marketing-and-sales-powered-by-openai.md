@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
 type: article
 quality: 107
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 40
+  - title: "LinkedIn introduces AI-assisted recruiting tool, coaching chatbot"
+    excerpt: "New AI-based tools will improve efficiency so recruiters can focus on strategy and people-centric work, the company says."
+    publishedDateTime: 2023-10-04T05:11:00Z
+    webUrl: "https://www.hrdive.com/news/linkedin-introduces-ai-assisted-recruiting-tool/695471/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/imgproxy/8eatHHWLQzgI-WxN4QUkSzWnOtbulmSJq7P3qkVCwUI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMzA1Mzc4NTVfT25jbmxnQi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "Q91ORdC1ZFUDRvBRt3ve93v58dLjDEpQBxSNRb/ruXX2By/TpHMxZwI09C4Te0/U84FOrmuMxjl8D+8patYdL1J+ku3N0I7lVV1sT0sjmupaQTrrcQ3C7kBKM5IKhjwUTbIKa5E7c4ZYuJycZvXxpP+OLOTXq/xgKymxaLay04KpsZRSnjSVSSQ+JtmG7pjCL4qlTrato0uQb2fggnzqqUoWrM2jmhvYRx0+dxZkazPwJWUAHHSqQIF3HeE//pLqYGW1EkHvwEevJfcDH7dXesi6qv53B3Ff+xqCuSv+g9hKQp2+xnHLMcwL5aW7CgV1l7H5vOlEAAQm6CEZZUJvzt4puTaOKUvT1sYBGZK4vrU=;y/1oojrqnsUA9maZxwELIA=="
 ---

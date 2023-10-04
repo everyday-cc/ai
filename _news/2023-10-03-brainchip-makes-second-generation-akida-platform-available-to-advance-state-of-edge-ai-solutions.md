@@ -18,17 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "AWS launches process optimization solution for downstream and midstream operations"
-    excerpt: "Amazon Web Services announced at the ADIPEC Exhibition and Conference the introduction of the Process Optimization solution for downstream and midstream operations."
-    publishedDateTime: 2023-10-03T13:45:00Z
-    webUrl: "https://www.hydrocarbonprocessing.com/news/2023/09/aws-launches-process-optimization-solution-for-downstream-and-midstream-operations/"
-    type: article
-    provider:
-      name: Hydrocarbon Processing
-      domain: hydrocarbonprocessing.com
-    quality: 13
-
 secured: "qi0T5pUVjrgaviPRvFGmakt2KqxnBFFWyfQ+CdGcOnW2GwpNB7aVrSuFHefM1y+XcW5iaP+yu5mvZ1h9eRHIxOqtg1wOW0+wggE7NgbUAHoE0sDKPWCTTv8VRy8d7mPCHF0oMY3jYuzpP7AyeyP8obt9RMvoUsJhBoACqPRdJxnEQJGQhdm86mc+a7RfU+ctFGD7B7JmpNVspCkyVcRpHXSMnA0+CjH2qbgENhJ4Yxz6llN091AYZTxs1Fp408bURqz1myFq7vfI2Lfq6FbV8/0D9CFRqrhoVguvKzMpszc9S9u8kL0FEKkphwiQGa0MoDufZxT8x3dQBbuRHBg/L7VnatlMOMBVbgv3pOepg/c=;rikcF4mpb5Kw1U7/8dYdOQ=="
 ---
 
