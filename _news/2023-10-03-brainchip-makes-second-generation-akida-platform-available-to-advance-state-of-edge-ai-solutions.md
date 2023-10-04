@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/10/03/9891721.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/03/9891721.htm"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AWS makes generative AI application builder available to all"
-    excerpt: "Users can easily experiment with a variety of top FMs and customise them privately with their proprietary data, added AWS. Amazon Bedrock is serverless, meaning users don’t have to manage any infrastructure, and can securely integrate and deploy ..."
-    publishedDateTime: 2023-09-29T08:19:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-makes-generative-ai-application-builder-available-to-all"
+  - title: "AWS launches process optimization solution for downstream and midstream operations"
+    excerpt: "Amazon Web Services announced at the ADIPEC Exhibition and Conference the introduction of the Process Optimization solution for downstream and midstream operations."
+    publishedDateTime: 2023-10-03T13:45:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2023/09/aws-launches-process-optimization-solution-for-downstream-and-midstream-operations/"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 34
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 13
 
 secured: "qi0T5pUVjrgaviPRvFGmakt2KqxnBFFWyfQ+CdGcOnW2GwpNB7aVrSuFHefM1y+XcW5iaP+yu5mvZ1h9eRHIxOqtg1wOW0+wggE7NgbUAHoE0sDKPWCTTv8VRy8d7mPCHF0oMY3jYuzpP7AyeyP8obt9RMvoUsJhBoACqPRdJxnEQJGQhdm86mc+a7RfU+ctFGD7B7JmpNVspCkyVcRpHXSMnA0+CjH2qbgENhJ4Yxz6llN091AYZTxs1Fp408bURqz1myFq7vfI2Lfq6FbV8/0D9CFRqrhoVguvKzMpszc9S9u8kL0FEKkphwiQGa0MoDufZxT8x3dQBbuRHBg/L7VnatlMOMBVbgv3pOepg/c=;rikcF4mpb5Kw1U7/8dYdOQ=="
 ---

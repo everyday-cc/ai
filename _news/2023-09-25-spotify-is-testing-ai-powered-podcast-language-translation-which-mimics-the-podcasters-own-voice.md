@@ -2,27 +2,25 @@
 category: news
 title: "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice"
 excerpt: "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ..."
-publishedDateTime: 2023-09-25T04:59:00Z
-originalUrl: "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!"
-webUrl: "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!"
-ampWebUrl: "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/"
+publishedDateTime: 2023-09-25T12:15:00Z
+originalUrl: "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html"
+webUrl: "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html"
 type: article
 
 provider:
-  name: Variety
-  domain: variety.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://variety.com/wp-content/uploads/2023/09/Spotify-AI-Voice-Translation-App.jpg?w=1000&h=563&crop=1"
-    width: 1000
-    height: 563
+  - url: "https://s.yimg.com/ny/api/res/1.2/km5tsriIK7HZ5aZlEQDBdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/aol_variety_168/93178d697a7d0f57e5ba4995fa0530ad"
+    width: 1200
+    height: 677
     isCached: true
 
-secured: "JzkRWIrsBSVZzD4QDPyyvwwSIhMWu3kRM4hubEgCE2l3fIDEFmAeG8X6HuPr1XFWfnPNeoKZDhrfcqqblB/BDA+9tQdxeU9K0Qp0Sn3qkXgY6+1LncwAnD6k4q9ALUnt80gFD1ziqEt0fZO8MfZBmPGwYhkwV0Mp/yA0E123UQRDajFH2pr1cIJHjoieoLdoC8WL5o/qu0zkCDZtM4cOUJFdNdDI6VQljxHAP9300ljVC4LSjoDzU8OG0xsHMo0p4ZTLJMMRa3ltfqpPtqNAz9kX+cXQBDmrcbPt9og1kWNbZZ2CgUXKmRIyug5ZBH8gDgFsXEdydy/On9gk2jKeSZdsY5RtXdvuJD2GF9awu+U=;fGuLq5Mw1dSQzAfhVfctgA=="
+secured: "1Zhdom8DdeNWW/6l+ybvYy/zEPAqPU3JKBk7hXRhWg9El+6M0F7M/kSD1n2YHRM5xB9IvuSR6rBOfg/Ol58CjhPDNeHCut2duJ0yXlBzv+unObyCw0UvzpqGIH9mR0d6tScHHKxfZWBcU1Sm3+5kfsV6sfmn6Bfrsa2T1tqPd/trHKIMXR4uDACI/sycJ9eK/50/P597oFPTKqqhrTf/UZhBm7CHrryNFQArfkybKrvNYLe8EpDcoazSKIGKPUBil0oM2DsvG5F+Juzpk8icigvDUKP9PyCeNgUqauRNu7oFV6o8js//K+fsgl8+iI+9IyKZHF5Qg6w8etQkmbHLNgEBL98j6ieU6EzAczEfIjk=;7RnufovmPMXq5ilAoLYQsg=="
 ---
 

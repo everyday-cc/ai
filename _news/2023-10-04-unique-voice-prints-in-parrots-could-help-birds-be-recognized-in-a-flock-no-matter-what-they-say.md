@@ -26,6 +26,36 @@ images:
     height: 1280
     isCached: true
 
-secured: "6JgSybNxi6DQXIxNDNCXZqcpxyf2Xg+5PTrEEXYnEGCHEogFkYnAbD9V/RigmlfJUlkdWOR3ha5n9PcI08a1hKQghO3SOFzDI73t6K3aUz+B1Jot6BKr45YoX2KRu52e7Q0KojZxnOUufwJvcHug0/YCy1vZeqkxkHGT1mqg1WS3zOSTPmVpx/KJD66u26W1B/m5aO0znbD27WZ+d9zA2exHMBe/vKjcWU+kYxnihk1Vy/d4PG8i7BNi+hXqk7z3qXYqZ3oqsB7xNlVu+kXB8Xbs64KX4T+MfGRju3rzRCzUQhyVtuHjroal9VQfcqnqy1SRr1d+oybjag62rcfQVNTsty4cmFlfhhonAG4AQkQ=;VBy5DjTTTl+B2Wx3dvjHzg=="
+related:
+  - title: "Parrots have a unique voice print similar to humans"
+    excerpt: "If you have ever been mesmerized by a parrot's ability to mimic sounds or words, you're not alone. Parrots voice print always sparks curiosity"
+    publishedDateTime: 2023-10-04T00:37:00Z
+    webUrl: "https://www.earth.com/news/parrots-have-a-unique-voice-print-similar-to-humans/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 24
+    images:
+      - url: "https://cff2.earth.com/uploads/2023/10/03181832/monk-parakeets_1medium.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Unique voice print in parrots"
+    excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so the"
+    publishedDateTime: 2023-10-04T00:40:00Z
+    webUrl: "https://www.mpg.de/20884176/0927-ornr-evidence-found-for-unique-voice-print-in-parrots-987453-x?c=2249"
+    type: article
+    provider:
+      name: Max Planck Society
+      domain: www.mpg.de
+    quality: 24
+    images:
+      - url: "https://www.mpg.de/20885516/original-1695890553.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4ODU1MTZ9--a86123dea979f2ae4ec05a256e5bb725b9c5119f"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "g/6gIkan5ilu6xHa6C/R+ppk7A8wmRKVTHjzGkUoSIv0JHO2CJGBkjamvKQbqpmw9iuujJYDOmdBkCLqjX3M7eGhAKEMXii6Hmuv6NavdsgatkxxA7IwA2IOVM5DFggGsoUTlI6FVWoDo0xzqYmlZ/bOAJ//9Qdsn+EOZkicWwkNyGzBG5zj2pUrtlsuGgQ8+F9QTDojp6iny9vaIWcDe0aCc98DjQmBAXfIM1Pmn5qez6HkghQ61gP7OtLxGfgvt4IGmJr5GGrU0j7I+/h6KRzeSLtiL2+nU31ctb4739S5Buu/VSNxakS1RFblQBh3FwyuUQV5H6oD8dl/EmRKwNkbyOeukwu4xLqUyPThSIE6KFvyV7XgNv8swgFqYIEx+tKGC8P4ngnFt7EbVB8F8VM2n2XbjPbUq8J0bDagfK6+xXF9xU+N/1aTANbe/aSphYAJTpORfK5lQls4ox7PRFgCY2TUxJvrY7tQGBD5pG9XF7SW7U6fHmiYAMLogrjhBZEBNfVUUOVii98uWMiymw==;RctBl71i2DGt0NwIBYP0kQ=="
 ---
 

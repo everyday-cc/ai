@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "IBM announces first release of watsonx Granite model"
-    excerpt: "IBM has announced the release of the first models in the watsonx Granite series, which are generative AI models designed to enhance generative AI's integration into business applications and workflows."
-    publishedDateTime: 2023-09-29T16:59:00Z
-    webUrl: "https://sdtimes.com/ai/ibm-announces-first-release-of-watsonx-granite-model/"
+  - title: "IBM Enables Safe Enterprise AI with Granite Foundation Models"
+    excerpt: "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI."
+    publishedDateTime: 2023-10-04T00:47:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2023/09/Screen-Shot-2023-09-29-at-12.23.11-PM-490x231.jpg"
-        width: 490
-        height: 231
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
+  - title: "Armilla offers verification and warranties for enterprises using AI models"
+    excerpt: "The goal is to give both vendors and customers greater confidence in AI solutions by directly addressing issues of quality, accuracy and risk."
+    publishedDateTime: 2023-10-03T17:56:00Z
+    webUrl: "https://venturebeat.com/ai/armilla-offers-verification-and-warranties-for-enterprises-using-ai-models/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
 
 secured: "+mQpXfjLIYNyAf1w6m+t1pz1SACS9d4dl+HUtXzrwoHdDC9N0CHUcJSLjR/CM7o+csbAHLDBhY+Kkbm8+8zkVIauYTRNiC6/AVxN94PuE6lLpktSCUUwSne7OPYRe65LX3AB2am4CPG0GHGToXtRXGolUVQZx06yAXKfEYpdW4v6cMJq7GzIwleMZ8YWTpIzLmmGyUpIMlkJCV7JJGzIkmNseUkoDJZkF5Tg4+k2Dfh8FZM2007LoRTUu6xBbEbn46zjUsfxifed6qE8oTrd1n5F6zJOmPnAvlGgYWmxuN40OdRNzn3Ilpj2SHEkmJnXcfHZTIoEZZZ3dAYo0h+2kDMnwiY7Z3OBlixZAoYwb/o=;k6oO4obQ3w0l1PaQQJrpIw=="
 ---

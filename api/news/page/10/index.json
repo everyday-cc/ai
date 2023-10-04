@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-09-24-small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails.md",
+      "title": "Small Business Tech Roundup: Google’s AI Assistant Can Now Read Your Emails",
+      "excerpt": "Google Bard, QuickBooks, Elon Musk, AI, MGM and a new iPhone operating system are all in this week's tech news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650d7f095b9bb7f7beec1c24/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
+      "publishedDateTime": "2023-09-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-24-the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
+      "title": "The Top Ten Global Fintech Conferences: From AI To Zombie Unicorns",
+      "excerpt": "Providing nuggets of wisdom (and perhaps a side order of entertainment) for the assembly is a blue chip roster of over 350 expert speakers ... will focus heavily on the growth and adoption of AI, and how the technology can be used in financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
+      "publishedDateTime": "2023-09-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-the-top-10-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
       "title": "The Top 10 Global Fintech Conferences: From AI To Zombie Unicorns",
       "excerpt": "Industry movers and shakers make a point of attending the most influential global fintech conferences. Here are ten for your calendar to keep you busy until next summer.",
@@ -1095,92 +1199,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-amazon-to-run-ads-with-prime-video-shows-unless-you-pay-more.md",
-      "title": "Amazon to run ads with Prime Video shows — unless you pay more",
-      "excerpt": "If you want to watch Amazon Prime Video shows and movies without advertisements, the service is about to get more expensive — about $3 more per month, or $36 a year. Amazon on Friday said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/05/21e663bc-051f-4128-803b-058a35deec24/thumbnail/1200x630/97749d2596f4a8ce8671abfb176985b4/gettyimages-1242123707-prime-video-channels-amazon-prime-day-2023-streaming-deals.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-prime-video-ads-subscription-increase-for-no-ads/",
-      "publishedDateTime": "2023-09-22T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-3-ways-ai-can-help-communities-adapt-to-climate-change-in-africa.md",
-      "title": "3 ways AI can help communities adapt to climate change in Africa",
-      "excerpt": "Last week at the inaugural Africa Climate Summit (ACS) in Nairobi, Kenya, we joined African leaders and shared our commitment to advance AI solutions to address the clim…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/3-ways-ai-can-help-africans-adapt-to-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

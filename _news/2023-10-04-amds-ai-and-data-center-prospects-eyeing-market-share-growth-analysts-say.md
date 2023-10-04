@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-
 webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say-1032675831"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Defects of Human and Artificial Intelligence"
+    excerpt: "Regarding Joshua Ben Rosen’s “AI Can Do as Bad a Job as Your PR Department” (op-ed, Sept. 21): Human communication is mostly imperfect, even in well-thought-through text. It has unintentional “defects” in logic or aesthetics, and such subtleties ..."
+    publishedDateTime: 2023-10-03T18:00:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8?mod=tech_trendingnow_opn_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-861763/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "2 AI Stocks With Bullish Catalysts & High Growth Prospects"
     excerpt: "Israel-based Mobileye Global (MBLY) is a leading provider in the autonomous driving space. Mobileye, which was spun off from semiconductor giant Intel Corp (INTC), develops fully autonomous driving systems that leverage AI to navigate complex urban environments, paving the way for the future of self-driving cars."
     publishedDateTime: 2023-10-01T22:46:00Z

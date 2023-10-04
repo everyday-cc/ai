@@ -3,18 +3,18 @@ category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
 publishedDateTime: 2023-09-27T20:41:00Z
-originalUrl: "https://www.newsobserver.com/news/business/article279840919.html"
-webUrl: "https://www.newsobserver.com/news/business/article279840919.html"
+originalUrl: "https://www.sacbee.com/news/business/article279840919.html"
+webUrl: "https://www.sacbee.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "RLkI3/1FCQSRXaeNeF02Zo/vAnyEnKI6j1ioSNbpa9/Q/ds3v4/D+WCqY6L1CByFjCArk58ja6m1/J+fzK3h+Xu0vH3i2L0ampbyxbR3tMoYehhtowAtKT1eDNBJU7tbU/pThaYVzn14oF5rL5F5smZ+tvOBPBvcruAc1d1gZVNcUNiMXXr39VVv4TSDtKFlvnAaYQ1pcHHVHzBfocMODvwzsU8TUW2kwnPGCQK7jNBLgA35xuLRNP0vX1OGdXFtPyxtTP0cSOJX+5UIc60NLUFvphbw0Q9WkIW8x6uwIwkdS7SQfrpN8cU41gVuJHgKI1dwcbFKQaggfiCVOOztOpBefpSUcsRemZBKNwv4Fqg=;WGshoAR/C3a7vH8s2j3PfA=="
+secured: "08YYIJKBbrpN/G0dzAMqV4iD085eGz0Pkz647+Ptvx4/DOzAZ24xfuXwpOMoBh+HFXz4C5hCfSHx+Qg2XXFd4hx5qm8cn8344AhwZHEv5I9B4emozmo/DeYgM7CT8I/7cvhrZAw7NQgsKynsYgik2Vp1OAhc7eX5gT9VFVho+FOvyiOQ4iWBPJrEqu7JR0Avrz/mAbewMTeT2hxzZF/DGSoHiIIRsk1c7dFU1dye/7aZynx6IUMa1TsNzzg50aMi3eOqJIRKIcdEdlioZc109ReuLblQB834usXUq5vwP9TE7rD/2qFVbKACZbTP6MKRbLgGm/d326JePeimgFnznI5kYMNxzStENl3V1XS8xpk=;cZLOVUjGVvsIFMqGVbA3jA=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
+    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
+    publishedDateTime: 2023-10-03T19:30:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
   - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
     excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
     publishedDateTime: 2023-10-03T09:20:00Z
@@ -69,6 +78,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Woman rescued from under self-driving car after being struck twice"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
+  - title: "Self-driving car involved in accident leaves woman in critical condition."
+    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
+    publishedDateTime: 2023-10-03T23:43:00Z
+    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 3
 
 secured: "RAlLT8OqufsiSKpVxr5AhNAQ5ZYTyid8+8mSmV9bPz9Wic57xSRlS6ss/DAbBouf/hdpKM7+ryzxdJipiE3DGRPlwwxOxkFxq2H+PVPVfTumzH5NvXeVL6fOwl3YISGVoX0V0IBbnlEG2AXLwdqbLbnzI3WdgowLTUGbo1bRHPtL1Pj3eMmr8wgGZFDmVYiDhLELttqC9KNgDPU33NZZpfsY4TtrFlLlvuDk9IAyGtFYVCq+ealaS4c0xz5z4hOlIdDVVr5R0bxqYXIlc0/JDN1V93gR46+eZuE4aQ3FnJKvl/+QZQrH9YEH3kbEud6WSIbESl/JQxvjLwWskUaiCkcGg9C/h8LkGy5m1zk+hts=;9V+poQGU7TOwzc7kNGbshA=="
 ---

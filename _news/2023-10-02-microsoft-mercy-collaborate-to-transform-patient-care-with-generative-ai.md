@@ -212,6 +212,15 @@ related:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
     quality: 34
+  - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
+    excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
+    publishedDateTime: 2023-10-03T23:24:00Z
+    webUrl: "https://www.mediapost.com/publications/article/389845/dominos-partners-with-microsoft-to-build-ai-assis.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 34
   - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
     excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"
     publishedDateTime: 2023-10-03T13:23:00Z

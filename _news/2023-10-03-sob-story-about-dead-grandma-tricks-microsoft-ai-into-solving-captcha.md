@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-abo
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
 type: article
 quality: 106
-heat: 268
+heat: 278
 published: true
 
 provider:
@@ -208,6 +208,15 @@ related:
     provider:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
+    quality: 34
+  - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
+    excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
+    publishedDateTime: 2023-10-03T23:24:00Z
+    webUrl: "https://www.mediapost.com/publications/article/389845/dominos-partners-with-microsoft-to-build-ai-assis.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
     quality: 34
   - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
     excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."

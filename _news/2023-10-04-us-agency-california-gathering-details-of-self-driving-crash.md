@@ -1,26 +1,28 @@
 ---
 category: news
-title: "US Agency, California Gathering Details of Self-Driving Crash"
-excerpt: "WASHINGTON (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
-publishedDateTime: 2023-10-03T22:49:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2023-10-03/us-agency-california-gathering-details-of-self-driving-crash"
-webUrl: "https://www.usnews.com/news/top-news/articles/2023-10-03/us-agency-california-gathering-details-of-self-driving-crash"
+title: "US agency, California gathering details of self-driving crash"
+excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
+publishedDateTime: 2023-10-04T01:49:00Z
+originalUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
+webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "The self-driving trucks that are deliberately crashed"
@@ -39,39 +41,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Chinese tech startups are testing self-driving cars on California roads"
-    excerpt: "The race on American streets to develop self-driving cars has attracted increasing scrutiny in recent months, but some competitors — China-based tech startups — have received little mainstream attention."
-    publishedDateTime: 2023-10-03T21:00:00Z
-    webUrl: "https://www.aol.com/news/chinese-tech-startups-testing-self-180000843.html"
+  - title: "Self-Driving Trucks are 'Not Anywhere Close'"
+    excerpt: "Professor Missy Cummings explained the limitations of artificial intelligence, warning, “There’s so much hype out there; it’s your job as supply chain executives to understand what’s real and what’s not."
+    publishedDateTime: 2023-10-03T15:38:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/38210-self-driving-trucks-are-not-anywhere-close"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Supply Chain
+      domain: supplychainbrain.com
     quality: 24
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89"
-        width: 1200
-        height: 900
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/10/03/MISSY-CUMMINGS-HELEN-ATKINSON.jpg?height=635&t=1696347593&width=1200"
+        width: 951
+        height: 635
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
 
-secured: "0kbkz6uL3CRvGeYwYYxGjNK4AkHvPStLDGfB6jfD+VZdbEkb1q4xP1J9hnkm3zb43vkf+HGHkfroLoQ25vnx8SvZ0ctokaSXcVsRrRG/9DLxd90hqblNJ4lVgCQDsH0oH/2ueDD0m4e3R4wjdzcB/eUe42XtcFNdvFPkA7YzSvqXPzvS4Ys6MGuOmETCd1b/jneXNRQcNouUMnbkWsqtPdlytVAWTmnbOGX9zlN9N5OZFTi1OuVZU0ewIULHqa5VI+zB9R4NpcIrazIyCnNtG98fzwcEBN9yo0yyg7IcY0vV+tIDnofnDwpM3nLgtFtG8lNmry5yd/Lpwvcdos/aU9C7FFFk0sle7iIMtxRMP+25KOx9285NYwMqKrH2iAFFKbmFFxXHDkxyUGYEY2/b2X1/Fvksgl+1WfC0af419xRhhOn1U8kCR9uEha3Uq1wZBEorw1DjNCfLoO/RANf0LXvNjMLBCP29TMVbNoNXLmWYx991hO2lau/Ae4hsZOWjzILRU397fP5H5JU1nD/KEQ==;v8pYZImcW+/UEoGUfFQpHg=="
+secured: "UMBg74lu1Kmzj7pkp5CtARBU9jaURwpOk9hZHd15jt5j5fu077/Hk5S5osJzQhABhNaxS4o6/wBQ3emxsm0pW74G/bOYZXiyXczOVaBjcd2FS9IaqvQhRrJf2vPekpdPjbOHQw6K06pQhU3+YEYRqQ4u2AbdG1ZMY6YCJVOMWm1ae6PBdDe+mmsBr5EgQsQlChEmyz819VrEBZiHjb4Su3n8P63BQwUxQJ1iIYYvSI6rX7veJBb8qY/u44zWDygTuHLlMVhcuEQbgWIjCNdnJj/JP8FSarjNdVPGEPtRN0vNl84wlcJgr13dg7MYZmJ9y9EWb5sLapezuzLkNcUb1uitESc7RIAf9Oj6X5haIRo=;2zlKT9xaYVeBfiaWU82yrg=="
 ---
 

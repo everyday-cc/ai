@@ -2,9 +2,9 @@
 category: news
 title: "Driven by breakthrough AI, humanoid robots make grand entry"
 excerpt: "AI, the creation of robot hardware, the implementation of bipedal or wheel drive locomotion, and human-robot interaction are the four key categories under which humanoid robot research is classified. These commercial developments are expected to help in the market expansion of humanoid robots, ReportLinker added."
-publishedDateTime: 2023-10-02T23:35:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
-webUrl: "https://www.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0_1.html"
+publishedDateTime: 2023-10-02T23:43:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
+webUrl: "https://global.chinadaily.com.cn/a/202310/03/WS651b53afa310d2dce4bb8cc0.html"
 type: article
 quality: 54
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 503
         isCached: true
 
-secured: "RyDV9VEapTpEhTOVsAPpoIcgwbmka/c7CzR6ZuX6OGXc/ulz0uyJ9fXF7vh1TTseycFHqCHHEyzAazpr6zAVowji2k+s6BQdOlASZQtlTntciLFmjSk6E47z2ecH6/FjbkfqAEsXHtKLIdc8j75sKL7fQXANEg5OGR8sMJONGRpZqDuinNFfCQOvqYn0ZgbXq2eYYfjpFNw2+xYB7JTQSJNz703zpFJVct3RIQCWepbBGfiy2ZRPiqSiOb8mRb/uQaOCZiWmcAfzqDd7hezJxlCXVlYnV3XuIsxpS2ewROTTxRSgyvxL2gpaKcsDi3W0/CvQ05z0ATOzFV8ratCiE05egHLqrdejAbFiME3VUbQ=;IzxVYKACp6DGHbMX1tnGSA=="
+secured: "/nEioSpFWvtT0SzLtJRnvStMxK37plfKufaeP1574AaOQCu8ZlmLyeW9z8LLIo+y4sUja1Cl1lWH9VBIbH7r2hdG/NSi8YCdThwRcfhte5d2ezOAW+npfTVt6lFMj+LzNFJc2JanBhLRMAFkYqcx+qgfJqc/ifzA8lLY+p2GNJUz7DwBuIQxyXK/7XmZqGusl9Men55H3ZyHzG00nfI0ngtH8sBfXUkowzEgfo7OWa7jX0KOOrltyUUYqDYFBPePuK9D7vylTaxKHsDo3Tgq6k0dCQFVBLB4OFwIoJFrVFkOigQgwcApAym9DQ7p25y3Uqz0jWzw4iV+PRJsTDOK/NHuEegTRy65LJMVPyoWIfs=;TJqkKGttkUrcJTEmS6x21Q=="
 ---
 

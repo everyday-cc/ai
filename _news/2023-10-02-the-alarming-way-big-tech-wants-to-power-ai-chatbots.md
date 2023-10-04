@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Former Tinder CEO’s startup to fight loneliness with AI chatbot gets backing by Sequoia"
-    excerpt: "Former Tinder CEO Renate Nyborg's startup Meeno, said Thursday that it has raised a $3.9 million seed round led by Sequoia."
-    publishedDateTime: 2023-09-29T07:35:00Z
-    webUrl: "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text"
-    ampWebUrl: "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/"
+  - title: "Nearly 10% of people ask AI chatbots for explicit content. Will it lead LLMs astray?"
+    excerpt: "Beyond programming tips and writing help, a million conversations reflect people's desires for other kinds of 'usafe' information. Here's what researchers are doing about it."
+    publishedDateTime: 2023-10-03T14:49:00Z
+    webUrl: "https://www.zdnet.com/article/nearly-10-of-people-ask-ai-chatbots-for-explicit-content-will-it-lead-llms-astray/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: ZDNet
+      domain: zdnet.com
+    quality: 60
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Meeno.jpeg?resize=1200,907"
+      - url: "https://www.zdnet.com/a/img/resize/d93c52e1b29060811a7bcd10b1f0ee65e05a99b4/2023/10/02/ec9f3a70-79ed-420a-8108-a969f43bf685/serious-gettyimages-891315918.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 907
+        height: 675
         isCached: true
 
 secured: "OWiomIfnCp2OSNT6q5alXZN5KsfbQMIjQXmgvMt0J1Ec6EyM4hvNSHABjUixt0rrteQ5v45IdoKwABxsyChE3UPmWZqw+4ngBO/7UGgQsOnf21XA17CwX4XIHH/me/0m0qicmObjlt6ihqDKKvHYErekt9xyAaN1InPwFSki4pJ2Lhv3f3a+nLg0+0htnc281B2CkFiWtu3BwL0ZBsbbfWfPYLxN+npGhWuo3skcydj4qh7bgJuPzzbJQ2QG11PiUEg5O8TPjeGn0KHTXckMFRBQSvO+0zV6lRMleUr5cqjuH2OvAFhD15YzCWQbABLAAFblMMHJwzVkLQrRPWr+ZibV0EPUjc7iMGMhg+XfWVo4VEf/g2i2n523ENk2RTh4VTXgAqDcahT74yUCck5a7G1zMeAbX/iaXhsp3uLuueLexc2DtNSmS8yZ+yUk0K9AgEVsPS4HvOgou7azoMFICxnU+5Dhkpx7Tl3L+soAD6c5ZV9LyuSGLBBPq0fMS+gGh7SsAH6ADv9O2hW+J8tz7g==;aY7iuVELzQORRHCX8mUqCQ=="

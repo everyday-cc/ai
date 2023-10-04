@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-25-amazon-is-investing-up-to-4-billion-in-ai-startup-anthropic-in-growing-tech-battle.md",
+      "title": "Amazon is investing up to $4 billion in AI startup Anthropic in growing tech battle",
+      "excerpt": "followed by another multibillion-dollar investment at the start of year. Amazon has been rolling out new services to keep up with the AI arms race, including an update for its popular assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_72d21e6c663d506dbf968f50628e7ded_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
+      "publishedDateTime": "2023-09-25T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-amazon-takes-a-big-stake-in-the-ai-start-up-anthropic.md",
+      "title": "Amazon Takes a Big Stake in the A.I. Start-Up Anthropic",
+      "excerpt": "With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google. By Adam Satariano and Cade Metz Adam ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
+      "originalUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times.md",
       "title": "Everything to Know About Artificial Intelligence, or AI – The New York Times",
       "excerpt": "A.I. NewsletterPart 1 of our weeklong series.By Kevin Roose and Cade MetzKevin and Cade have covered A.I. for many years,",
@@ -118,6 +212,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-spotify-is-testing-ai-powered-podcast-language-translation-which-mimics-the-podcasters-own-voice.md",
+      "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
+      "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
+      "originalUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/km5tsriIK7HZ5aZlEQDBdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/aol_variety_168/93178d697a7d0f57e5ba4995fa0530ad",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -519,49 +656,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-25-spotify-is-testing-ai-powered-podcast-language-translation-which-mimics-the-podcasters-own-voice.md",
-      "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
-      "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
-      "originalUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2023/09/Spotify-AI-Voice-Translation-App.jpg?w=1000&h=563&crop=1",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
-      "publishedDateTime": "2023-09-24T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-25-the-real-economic-problem-of-ai-isnt-tech-but-people.md",
       "title": "The Real Economic Problem Of AI Isn’t Tech But People",
       "excerpt": "The discussion has gone off because everyone is pretending that software makes its own decisions, but that is misdirection. The machines still do what people say.",
@@ -954,13 +1048,22 @@
       "title": "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time",
       "excerpt": "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/",
-      "originalUrl": "https://www.lubbockonline.com/story/news/healthcare/2023/09/24/ai-can-help-in-healthcare-but-it-might-take-sometime/70934288007/",
+      "webUrl": "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html",
+      "originalUrl": "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -968,8 +1071,8 @@
       "publishedDateTime": "2023-09-24T04:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Lubbock Avalanche-Journal",
-        "domain": "lubbockonline.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,110 +1137,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails.md",
-      "title": "Small Business Tech Roundup: Google’s AI Assistant Can Now Read Your Emails",
-      "excerpt": "Google Bard, QuickBooks, Elon Musk, AI, MGM and a new iPhone operating system are all in this week's tech news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650d7f095b9bb7f7beec1c24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/24/small-business-tech-roundup-googles-ai-assistant-can-now-read-your-emails/amp/",
-      "publishedDateTime": "2023-09-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns.md",
-      "title": "The Top Ten Global Fintech Conferences: From AI To Zombie Unicorns",
-      "excerpt": "Providing nuggets of wisdom (and perhaps a side order of entertainment) for the assembly is a blue chip roster of over 350 expert speakers ... will focus heavily on the growth and adoption of AI, and how the technology can be used in financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
-      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650e906396a43ffdbaede990/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2023/09/24/the-top-ten-global-fintech-conferences-from-ai-to-zombie-unicorns/amp/",
-      "publishedDateTime": "2023-09-24T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
