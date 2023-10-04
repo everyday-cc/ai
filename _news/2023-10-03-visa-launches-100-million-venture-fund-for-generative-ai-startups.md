@@ -52,6 +52,15 @@ related:
         width: 1024
         height: 532
         isCached: true
+  - title: "Visa puts $100 million behind generative AI push"
+    excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
+    publishedDateTime: 2023-10-03T15:24:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/03/visa-puts-100-million-behind-gen-ai-push"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "BafqiTSMc230kTFqjL/EwChYd1bOiSbuBmXzMBebxXK2tcj/CfkWOoATAP1kWNaL/ehtbQFdJbozyy/b7mwWvMn3HEBUWmbZmtd11qfVP9bIc+kWZTOfGrPOmVtV35eHrxdDAjPLQA1cXfdFAUTdkoB3q4V+vBjvZmcu8/Gw7jkHL0mX0hXWBQ4zztq5YqHMo7m21Hz6XGXHM1e9p7PbS8uIDMTG9roNOOjWwCOZO1zkpedrTVA2rkhvFdob5LE9U0ysy/zV9iYIuSoRfJRj3VZT9WrGlOB6YI2Q2IjBrpV7Ikw1xCDzbJBlr3Cf61qFnf94xZZr6s+8ek19ZiDzaRbZzcBNTHfKNGauJhzhEdg=;4d7RT6aNFg7HFkuwbJsP4g=="
 ---

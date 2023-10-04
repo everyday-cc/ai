@@ -42,18 +42,18 @@ related:
         height: 1280
         isCached: true
   - title: "Unique voice print in parrots"
-    excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so the"
-    publishedDateTime: 2023-10-04T00:40:00Z
-    webUrl: "https://www.mpg.de/20884176/0927-ornr-evidence-found-for-unique-voice-print-in-parrots-987453-x?c=2249"
+    excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
+    publishedDateTime: 2023-10-03T23:20:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1003104"
     type: article
     provider:
-      name: Max Planck Society
-      domain: www.mpg.de
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 24
     images:
-      - url: "https://www.mpg.de/20885516/original-1695890553.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4ODU1MTZ9--a86123dea979f2ae4ec05a256e5bb725b9c5119f"
-        width: 1200
-        height: 800
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b76ae98b-d253-4f3c-ba9a-f379619bfcac/Rendition/low-res/Content/Public"
+        width: 424
+        height: 700
         isCached: true
 
 secured: "M8Gch0QV34/qVPcaGz1ukcpvYZpPbcSYVtXWrm/N+xsCmCHNvg5IUeQqfqTvAWs4z7SOfy7xVGR4hywSBJHvQRx4SRXYL8v70SY34yy3Oow7+CAJA+fY/IqYhCtkG8LAB6NI2LY723Fnux4m40k0FdJm+1mYQ4V1GDF9wXyt6adx+ob/1dGV6+1evHJyW/Ue3otgE18h/kv6GKF/a+Ockg0L089Z7uYz8gSuPZZYm+H3vS70fgOnfCcUfDRioOmOPSZQNlwa6JiYgsK6iLeAqlqrYp5ZImzCqCEfpcFw0qQJ6K4TFHNao6cXzgbvNvgJP0tXJ+Ewc5F98ZIR0xMwNeReHnlQ8fw2MWr4JISmVa4=;sMbU3CXhHXnSajAHpv9KQw=="

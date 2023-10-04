@@ -291,12 +291,12 @@
       ]
     },
     {
-      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
-      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at ScaleSAN FRANCISCO,",
+      "path": "_news/2023-09-28-oil-and-gas-cos-increasing-machine-learning-and-ai-adoption.md",
+      "title": "Oil and Gas Cos Increasing Machine Learning and AI Adoption",
+      "excerpt": "Organizations across the oil and gas industry are increasing their adoption of machine learning and artificial intelligence, according to AWS.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
+      "webUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "originalUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -306,21 +306,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T12:15:00-07:00",
+      "publishedDateTime": "2023-09-28T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
+      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
+      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
+          "width": 1107,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -336,34 +370,25 @@
     },
     {
       "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
-      "title": "The future of AI is wide, deep, and large",
+      "title": "The Future of AI Is Wide, Deep, and Large",
       "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.html",
+      "webUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
+      "originalUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/the-future-of-ai-is-wi.jpg",
-          "width": 1780,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-future-ai-wide-deep-large.amp",
-      "publishedDateTime": "2023-09-27T09:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "RPI News",
+        "domain": "rpi.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -455,6 +480,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-27-how-ai-and-machine-learning-are-transforming-liver-disease-diagnosis-and-treatment.md",
+      "title": "How AI and Machine Learning Are Transforming Liver Disease Diagnosis and Treatment",
+      "excerpt": "It is based on algorithms or arrays of mathematical formulae that make up specific computational learning methods. Machine learning (ML) and deep learning (DL) use algorithms in more complex ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
+      "originalUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23870_16958047458637908.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-convolutional-neural-network-accurate-for-patients-with-idiopathic-scoliosis.md",
       "title": "Convolutional Neural Network Accurate for Patients with Idiopathic Scoliosis",
       "excerpt": "A recent study has found Cobb angles can be measured accurately using a convolutional neural network in patients with idiopathic",
@@ -484,6 +552,40 @@
       "provider": {
         "name": "emjreviews.com",
         "domain": "emjreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-springboard-launches-new-100-online-machine-learning-engineering-and-ai-bootcamp-for-university-partners.md",
+      "title": "Springboard Launches New, 100% Online Machine Learning Engineering and AI Bootcamp for University Partners",
+      "excerpt": "Springboard today announced the launch of a new course offering for university partners: a machine learning engineering and AI bootcamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1160,136 +1262,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-venafi-taps-generative-ai-to-streamline-machine-identity-management.md",
-      "title": "Venafi taps generative AI to streamline machine identity management",
-      "excerpt": "Venafi’s Athena, based on a new large language model (LLM), offers users a natural language interface and provides developers with automated code generation for important integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html",
-      "originalUrl": "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csoonline.com/wp-content/uploads/2023/09/article-2-image-iStock-1354205086-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/652952/venafi-taps-generative-ai-to-streamline-machine-identity-management.html/amp/",
-      "publishedDateTime": "2023-09-20T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities.md",
-      "title": "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities",
-      "excerpt": "LAS VEGAS, Sept. 20, 2023 /PRNewswire/ -- Oracle CloudWorld-- Oracle today announced significant enhancements to MySQL HeatWave, including support for vector store, generative AI, new in-database ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities/article_eb6ab094-74b7-5fff-8cae-16cb52612c47.html",
-      "originalUrl": "https://www.victoriaadvocate.com/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities/article_eb6ab094-74b7-5fff-8cae-16cb52612c47.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-the-financial-costs-of-deep-learning-what-businesses-should-consider.md",
-      "title": "The Financial Costs Of Deep Learning: What Businesses Should Consider",
-      "excerpt": "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f2a00eb04efff54d23657/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/the-financial-costs-of-deep-learning-what-businesses-should-consider/amp/",
-      "publishedDateTime": "2023-09-20T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -55,6 +55,20 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Lawsuit: False arrest due to misuse of facial recognition technology"
+    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29, was driving to his ..."
+    publishedDateTime: 2023-10-04T02:32:00Z
+    webUrl: "https://abc11.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 41
+    images:
+      - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "LWZIdMQ4SBEvzcOliTX0NoQ7PwQi/ar7zoMTv9H1t+cMHOyVvFT2VNliEIsSk6JsyYvVYxoY2YmT7O4XqaBKFceWkQIJyXiV6+ujOQio6nUQNXpCgqK4tV45brZVnmbVUHtcbzIlQY4JwosiRLsMYN+F4G5NHYyHQG+xDqu8p34ds73A8nX5h2jtgZljs1N4QgQjpnr/bgh2Uu0ZBut3dn7EUyPao4gAhtwKJjsGD40ztL4Vs9Cp8NA535c2KcFekT7xEZcLrN+EW0UPoICDZ6BR3QeytFtsKa92h803eU9nfAqA/Az2YlT5Mwzy5jz879TFXnMFompvLbG2Ct71kXBb+OyWvrW0vqrN76PNlSM=;ieLF6ruMACwgFYgVs+JBSw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 1024
         height: 532
         isCached: true
+  - title: "Visa puts $100 million behind generative AI push"
+    excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
+    publishedDateTime: 2023-10-03T15:24:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/03/visa-puts-100-million-behind-gen-ai-push"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "DcgLm2a1QveaLDMoC6WQrROtSiBODthdi1G/UgcjtqREfQlGqncsl5/XXbMdxv1QVX6owvYgm2hXo3yBp+D+2c5LXTjN6Gw81g0liX+3oqLiL0SLeve8iAxaDGoIv1LipbkLaXEuO4h58Ej6o9DbVmnXKsfX9hMX776CqaujrM0cEUf62vPH0klNEQZiGfixcTRMUuIgg/Mwu86a/PVef5A2lrZ8Ua13dPKL3pvDfma1K4X/YnAY9aW3DKzvGUJrS2Sm1OJ3AOLUSZ7AT3dRtVM2F7j3Vhc7VhTknT6z6oaUyS7wYcaRzBUyYITNts+z7ITGwtnDBma7TOxuihb0FmV0Rsq2Rwx+NjcJc7Xe1zo=;v+afrt+KiO/DPMy/P3YnSg=="
 ---

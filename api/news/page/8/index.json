@@ -2,6 +2,232 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-09-26-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance.md",
+      "title": "AWS at DTW23: Generative AI to Transform Telco CX, Network Operations and Business Performance",
+      "excerpt": "Amazon Web Services (AWS), a global cloud computing provider, showcased it's suite of solutions for the telecoms industry at DTW23's AWS Next Level balcony",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
+      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/1deb0eeb092a613d579a5b63b078edfa.jpg?t=20230926_033003",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-deep-learning-revolutionizes-ultra-low-field-brain-mri-for-quicker-clearer-scans.md",
+      "title": "Deep learning revolutionizes ultra-low-field brain MRI for quicker, clearer scans",
+      "excerpt": "Researchers develop a deep learning framework to accelerate ultra-low-field brain MRI, achieving faster scan times and enhanced image quality. The method shows promise in making MRI more accessible and reliable,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230925/Deep-learning-revolutionizes-ultra-low-field-brain-MRI-for-quicker-clearer-scans.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_759921_16956990008848687.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-a-primer-on-artificial-intelligence-and-cybersecurity.md",
+      "title": "A Primer On Artificial Intelligence And Cybersecurity",
+      "excerpt": "Digital generated image of artificial intelligence robot touching projected screens with data ... [+] against black background. The topic of artificial intelligence's rising involvement in our digital world and its associated opportunities and challenges ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65136c483c1ec607ff1b2d66/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-how-big-tech-got-so-big-hundreds-of-acquisitions.md",
+      "title": "How Big Tech got so big: Hundreds of acquisitions",
+      "excerpt": "You probably arrived from a link posted on Apple News, Google News or a social media site like Facebook ... companies to assist workers and artificial intelligence to grow the capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GB7PIRMTBHT5IE4O4NHSLGCPU.jpg&w=1200",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
+      "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
+      "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/26/9888093.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2222547/Figure_2_Results_verifying_rain_fog_removal_algorithm_developed_study.jpg",
+          "width": 400,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-computer-visions-next-breakthrough.md",
       "title": "Computer vision's next breakthrough",
       "excerpt": "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition, image segmentation, and object detection. Pioneering work on facial ...",
@@ -841,238 +1067,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages.md",
-      "title": "Spotify Uses AI Voice Cloning to Translate Podcasts Into Other Languages",
-      "excerpt": "The tech retains an English-speaking host's voice and style and translates their podcasts into Spanish, French, and German. Look for it on shows from Dax Shepard, Bill Simmons, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "originalUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03jBQZi1jbvflYpJbWgyjCg-1.fit_lim.size_1200x630.v1695652153.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-large-language-model-llm-market-size-to-grow-usd-408-billion-by-2029-at-a-cagr-of-214-valuates-reports.md",
-      "title": "Large Language Model (LLM) Market Size to Grow USD 40.8 Billion by 2029 at a CAGR of 21.4% | Valuates Reports",
-      "excerpt": "The LLM Market is Segmented by Type (Hundreds of Billions of Parameters, Trillions of Parameters), by Application (Medical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/large-language-model-llm-market-size-to-grow-usd-40-8-billion-by-2029-at-a-cagr-of-21-4--valuates-reports-301937644.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/large-language-model-llm-market-size-to-grow-usd-40-8-billion-by-2029-at-a-cagr-of-21-4--valuates-reports-301937644.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-lawsuits-by-black-plaintiffs-over-misidentification-by-facial-recognition-grow.md",
-      "title": "Lawsuits by Black plaintiffs over misidentification by facial recognition grow",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, La., for his ordeal. “I was confused and I was angry because I didn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b7f637b/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5c%2F3e3aa6de4b948117b18f31902b06%2F65110882005975-19167542.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-1-billion-gamble-to-ensure-ai-doesnt-destroy-humanity.md",
-      "title": "The $1 billion gamble to ensure AI doesn’t destroy humanity",
-      "excerpt": "is describing to members of the AI startup’s “alignment” team in a conference room at its downtown San Francisco offices. Alignment means ensuring that the AI systems made by companies like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "originalUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PMO5NtFcDVf9JdEllg9NGtnDS5o=/0x47:2400x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24788204/Vox_Anthropic_final.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-role-of-artificial-intelligence-in-digital-transformation.md",
-      "title": "The Role of Artificial Intelligence in Digital Transformation",
-      "excerpt": "In today’s rapidly evolving digital landscape, the term “digital transformation” has become a buzzword, and for a good reason. Companies across industries are recognizing the need to adapt and leverage technology to stay competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "originalUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-25T151443.982.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

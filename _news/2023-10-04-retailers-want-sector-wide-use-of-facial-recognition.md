@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Lawsuit: False arrest due to misuse of facial recognition technology"
+    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29, was driving to his ..."
+    publishedDateTime: 2023-10-04T02:32:00Z
+    webUrl: "https://abc11.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 41
+    images:
+      - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
   - title: "Facial Recognition Technology Meets the Cattle Industry"
     excerpt: "Company founder Bryan Elliott conceived the idea when he was working as a ranch manager in Montana. He was frustrated with the loss of premiums when cattle lost their RFID tags, and wanted to come up with a more permanent, reliable way to identify animals and document their histories."
     publishedDateTime: 2023-09-29T15:01:00Z

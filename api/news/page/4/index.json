@@ -2,6 +2,117 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
+      "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
+      "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
+      "originalUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/44c05f0/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F27%2Fed%2F70a09ee0de701b81d2be08132247%2Fshutterstock-facial-recognition.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "publishedDateTime": "2023-09-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34980295",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295",
+      "publishedDateTime": "2023-09-28T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-oil-and-gas-cos-increasing-machine-learning-and-ai-adoption.md",
+      "title": "Oil and Gas Cos Increasing Machine Learning and AI Adoption",
+      "excerpt": "Organizations across the oil and gas industry are increasing their adoption of machine learning and artificial intelligence, according to AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "originalUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems.md",
       "title": "Supermicro At 30: From Designing AI Chips To Selling AI Systems",
       "excerpt": "There is something about late September. Nvidia was founded 30 years ago on Tuesday this week, Google was founded 25 years ago on Wednesday, and Supermicro was founded 30 years ago today. Three decades ago,",
@@ -100,7 +211,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?05:02:11am",
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?07:04:04am",
           "width": 680,
           "height": 450,
           "title": null,
@@ -676,50 +787,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
-      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at ScaleSAN FRANCISCO,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work-1032660601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
       "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
       "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
@@ -816,6 +883,50 @@
       ]
     },
     {
+      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
+      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
+      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
+          "width": 1107,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
       "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
       "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
@@ -864,49 +975,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
-      "title": "The future of AI is wide, deep, and large",
-      "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/the-future-of-ai-is-wi.jpg",
-          "width": 1780,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-future-ai-wide-deep-large.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-future-ai-wide-deep-large.amp",
-      "publishedDateTime": "2023-09-27T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1006,65 +1074,12 @@
       ]
     },
     {
-      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
-      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
-      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
+      "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
+      "title": "The Future of AI Is Wide, Deep, and Large",
+      "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
       "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
-      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-one-hour-training-is-all-you-need-to-control-a-third-robotic-arm-study-finds.md",
-      "title": "One-hour training is all you need to control a third robotic arm, study finds",
-      "excerpt": "A new study has found that people can learn to use supernumerary robotic arms as effectively as working with a partner in just one hour of training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
+      "webUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
+      "originalUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1074,21 +1089,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T06:00:00-07:00",
+      "publishedDateTime": "2023-09-27T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "RPI News",
+        "domain": "rpi.edu",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1097,59 +1103,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-artificial-intelligence-is-already-taking-over-grocery-stores.md",
-      "title": "Artificial Intelligence Is Already Taking Over Grocery Stores",
-      "excerpt": "past. Artificial intelligence has the potential to help retailers personalize shopping, streamline customer service and put what consumers want right in front of them. Lindsey Mazza, Global Retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65106ff80a77c424eb88f65f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
-      "publishedDateTime": "2023-09-27T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     }

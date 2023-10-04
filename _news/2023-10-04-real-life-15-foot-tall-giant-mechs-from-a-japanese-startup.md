@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A Japanese Startup Brings Transformers to Life with ARCHAX: The Real-Life Optimus Prime for Just $3 Million"
-    excerpt: "Japanese startup Tsubame Industries creates $3 million, 4.5-meter tall robot, ARCHAX, potentially for disaster relief."
-    publishedDateTime: 2023-10-03T00:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/03/tsubame-industries-archax-robot/"
+  - title: "Japanese start-up builds a Gundam-like robot"
+    excerpt: "It may be a while before Transformers take on Gundam, but Japan is already setting the pace in robot development."
+    publishedDateTime: 2023-10-04T01:15:00Z
+    webUrl: "https://techwireasia.com/2023/10/why-build-a-gundam-like-robot/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 36
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/tsubame-industries-archax-robot.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/gundam_robot_2-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "k6zDsRjo2TubbSpy2OlDXwithzwOFWJ8ipR95H4RjyDbohdx27SqpKXQohpll05ArVk8IG8JpGP4ltbINkLNyPRxEpj+G2v3208vZbyMkZy9RJjzOakv/NzBerDC64rhJnpgHT8a8xnuj9KDDkXuCC0Z2jA0Aq7H7pShSbSQdfQnFLPDPDrGGDoi9wc3zGCqAGWoczU+uKfdKv1JtAKBYQ/7OskCCmmgWJwK2oa2Qfl3WHaydC474uxrWBnvsUD3vvUfSQKZFFVl+Tv8K9wDfLeQ7uL4yROyluwARfHf5dvaMd9rfjdynlMuHOd1aYM5vDe7VIDry3LT5KT1PU7wilXsl67J+ZpztdwL7zHzufA=;5ssTxbMsKW6l+4otBKax9A=="

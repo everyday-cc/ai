@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Unique voice print in parrots"
-excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so the"
-publishedDateTime: 2023-10-04T00:40:00Z
-originalUrl: "https://www.mpg.de/20884176/0927-ornr-evidence-found-for-unique-voice-print-in-parrots-987453-x?c=2249"
-webUrl: "https://www.mpg.de/20884176/0927-ornr-evidence-found-for-unique-voice-print-in-parrots-987453-x?c=2249"
+excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
+publishedDateTime: 2023-10-03T23:20:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/1003104"
+webUrl: "https://www.eurekalert.org/news-releases/1003104"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Max Planck Society
-  domain: www.mpg.de
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.mpg.de/20885516/original-1695890553.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA4ODU1MTZ9--a86123dea979f2ae4ec05a256e5bb725b9c5119f"
-    width: 1200
-    height: 800
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b76ae98b-d253-4f3c-ba9a-f379619bfcac/Rendition/low-res/Content/Public"
+    width: 424
+    height: 700
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "UXdRhtCmomQb206/CShf3Dyg7pdnT1aLLr+AdFlUYrie/0Bo3hmbn/nGsWODe1DFl1FKvZ+Q3UjLoUTf/QeApcXMo40RwmRSuGlzU4BbkJ6OY3Z7ARMA7v/KOAKRJ+ZckLUSHcfuMJA3fnH/RCxcrKkUHRlr2owXkYzlp4Ajw17gd5IoHoxxm5ungyNOj4Lj88ZJl0nv8zSwFLHFczfRCkbgjkDEAvpDWupA+AScePgVzfg92USuyBPM5Prvke5Bwau6yqk/4yX89HyDzLT0xw5urGQzES1kMOINfVx1kw9PSwqaCmpcbzzJHK1jY7GFsspwmo0LqekRtpkPnKTjMGIS8+NLVhavyAtzwUWplyE=;vHn7rnedEp7XLG1XVyd0iw=="
+secured: "0w1k9ADpbIskDTHnVbN2b9QYAlozq6Rg5kHRWTKKjwy/eNBBeln1NfrtiS5Mqxfz/kUH4v8n0xki90zJACJVLudjQWaPQzGtX1RKMesISkpVzdsflQXHL+mLil+El3+VafrZu+AEacd+wi45r8TojE+2ygLdn9b/vWa8HlT+MbyaNQUexXksUq+TD2x5b3ixS9OfcYVm5ZKLLv4CgxbEC1pBMAK4XkDMn3nYmM1Yi+Y5t5D9YhE1lKC7Qaq2VA65jU5JFwPA2rjlhxf/CHYfna7mL5Tg4rwQ9HMXan60QtVR51XkaVluIpri3viQO7YsmlomJ7cOfBRTx7utjWL8mmmRnDbDowuZs7UhYLkk7DA=;f+lLaIJY2YCLCDtconxd0A=="
 ---
 

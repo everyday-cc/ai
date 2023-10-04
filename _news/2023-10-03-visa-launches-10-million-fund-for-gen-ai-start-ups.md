@@ -49,6 +49,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Visa puts $100 million behind generative AI push"
+    excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
+    publishedDateTime: 2023-10-03T15:24:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/03/visa-puts-100-million-behind-gen-ai-push"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "yMlYumLAvtlq/40FNdE1I7kCWXriSuXPf45CydMNpYRiFYDqO5PTpcE5So4utesGDNh3SDRap9zRvtqZxseG7aEMMGl2PIJ9lcxcT/9h0/54aAwOZQROdB+NAsWEtH63855tkU/y7gEqbMTMExLt/dcrlDYVp7eylyn85ckMWSE6Al7NZ9OmYfaQSKVHaJi5Oj6wg0JwawBcDbMfz0ajjXO48Y0GarpnhRXMBoXL9OFmYsQ169dUc2/3z/ME+44Q4IwbGNGgdHNI7oTXOoUlAH0n7HSsxY1i3O+Avq3elIyYpAVfU+V94o/SJ+z4GLK+3Aqmzl7i5vmrMSJ86IAZ9N79HAq7+hH3opJoTmA4cCg=;yL7SQ0SpYXL4e8OrUQVUXA=="
 ---

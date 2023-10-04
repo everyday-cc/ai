@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
+      "title": "Can AI Tear Down Healthcare’s Data Silos?",
+      "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6519b37e747725fd8ee62144/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
+      "publishedDateTime": "2023-10-01T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social-email.md",
       "title": "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email",
       "excerpt": "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -182,6 +234,58 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
+      "title": "How General AI Will Eventually Reshape Everything",
+      "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/09/30/how-general-ai-will-eventually-reshape-everything/amp/",
+      "publishedDateTime": "2023-09-30T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -637,7 +741,7 @@
       "originalUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1087,83 +1191,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
-      "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
-      "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
-      "originalUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/44c05f0/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F27%2Fed%2F70a09ee0de701b81d2be08132247%2Fshutterstock-facial-recognition.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
-      "publishedDateTime": "2023-09-28T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
-      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
-      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34980295",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295",
-      "publishedDateTime": "2023-09-28T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
