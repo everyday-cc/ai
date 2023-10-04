@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "Meta’s AI stickers are here and already causing controversy"
     excerpt: "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more."
-    publishedDateTime: 2023-10-04T02:32:00Z
-    webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/?ref=biztoc.com"
+    publishedDateTime: 2023-10-04T09:23:00Z
+    webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
     type: article
     provider:
       name: VentureBeat
@@ -55,20 +55,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
-    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
-    publishedDateTime: 2023-09-29T18:05:00Z
-    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "mQ/QCiqHEYvW9ND4iLNNoT9tRTM+Lk3qevIkz9JilDmx6Ub3YyEQOrg+sesQQsremejJsNj6qTb8pdLxnPE64Y3kmXM71HgBLxe7Y/rl8opAxoOlUnG7Q/tDXMmIElHs5J58FlIMaUydW7ApKeE0cUw2Gm8YCuwK/XdbSgKX6AOZEJhwTiKFHO056aa4ou/QnP88T9pHYzB+ujbQC1VPS7Dzr09TPsIqunlRqQLjjT5PMuiPbcu3+WAuRjAyBQhilm035OWwSai1bzIsAZzwsA6E1/oWF9lo+kiwg07VEpoWSi1WhLCnyx/Y8tpXNxauFLp5xklUN33KZYpyNgBXqr5Y2GrJg64dYk20MzeqsAvWNE4Z1mRtbh/M0I5rGhuyWdV2W5TlF+zMUuEzv9nIBvRHf1iMiCNntqYS0IdoXz5UAhFLWtyMuaTBaCEkmRcgZAVf0ws9vdQp6GiUAMXfaDESNryzzg0QInYjSrSikPTBfQ/jrASlpOyPNL9hV7ogAPH4uSlVKtdtOOcHHnSb1Q==;7qJngj0pcZHS9klG6w8jEA=="

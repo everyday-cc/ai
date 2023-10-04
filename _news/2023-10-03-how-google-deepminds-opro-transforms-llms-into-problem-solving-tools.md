@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind Open-Sources Largest-Ever Robotics Dataset"
+    excerpt: "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs"
+    publishedDateTime: 2023-10-04T11:47:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png"
+        width: 1300
+        height: 737
+        isCached: true
   - title: "When it comes to AI and democracy, we cannot be careful enough"
     excerpt: "When it comes to AI and elections, I believe we cannot be careful enough. Democracies are precious experiments, with a growing set of enemies. Let us hope that 2024 will indeed be the “Year of Democracy” — and not the year that marks its decisive decline."
     publishedDateTime: 2023-10-02T15:05:00Z

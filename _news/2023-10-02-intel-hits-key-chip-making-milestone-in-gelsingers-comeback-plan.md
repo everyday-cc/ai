@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Intel pivoting towards AI to regain leadership in chip making"
+    excerpt: "PENANG] The rising demand for artificial intelligence (AI) has disrupted the global semiconductor industry, as key players enter a race to offer more powerful, more efficient hardware to support the growing AI workload."
+    publishedDateTime: 2023-10-04T10:07:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/asean/intel-pivoting-towards-ai-regain-leadership-chip-making"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
+
 secured: "BpUzXoXUyid3JoRUw4ZSg5L8AbHHj2Vp4vmycXCvWhFxtvJixRhtze6a1VVTC13JDKs+0nm+pHdFRj8wgR8aVqQ5+OtId3lX0xgJWooRMJhkt5L06AkmnvSfJk43tooWuVmry2xLIKsyAof/Vsids5g7b/iadrwM2bGiSKk3vlTAeg/WsPuv2+NVmQuR3jb1h7yY9Hz8rpWeKADcBbUT7fLL9f0qlwJaQkZm9eskBowXS/Bx81S/zyxI61QqLfMK1sMuf5wYuID66LORg7cJkHcJw9lLlMD00OmVGZ8Q450gHF9C3NwolqBcdVgj2FpZ2XpoUljhW/xwOkQyf2eyTT2CJSV/k07EY/yWcshf17U=;O+J+Q8CNGQ6f2b8DYZqaYw=="
 ---
 

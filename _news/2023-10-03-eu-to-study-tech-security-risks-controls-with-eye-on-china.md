@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "EU to assess export controls on AI tech and semiconductor chips"
+    excerpt: "The EU Commission says the technologies are under assessment due to their transformative nature, the risk of civil or military fusion and the risk that these technologies could pose to human rights."
+    publishedDateTime: 2023-10-04T11:19:00Z
+    webUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMjI5MmIxYzItZWU0Yi00MmM1LWI4NjUtYzc1OWJjMjZlMGI1LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "EU to assess tech security risks and consider controls"
     excerpt: "The European Union will assess whether semiconductor, artificial intelligence and quantum technologies and biotechnology pose a risk to the bloc's economic security, which could lead to curbs on exports or investments in third countries such as China."
     publishedDateTime: 2023-10-03T13:43:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/ce05e5060ebcb8c18157f29287fea3b4"
         width: 800
         height: 533
+        isCached: true
+  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
+    excerpt: "In 2024, the semiconductor sector faces pivotal shifts as demand for silicon wafers varies and global equipment spending adapts. At the forefront of these changes are innovations in high-performance computing (HPC) and AI server supply chains."
+    publishedDateTime: 2023-10-04T04:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20231003PR200/ai-server-digitimes-automotive-ic-generative-ai-memory-chips.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 40
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231003pr200_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "vpfz9g5mjwcT7MXlBgeubfZTFEqarGhN1GZzTPlgyXjAJQetCUQ8gwQQBVIGtBLa1qr4ysxQ6Y5ge7nCyIbX7WfZERDPf+lek1+77t/W4IIUsw996vjTmO0TjeIZv7mSY3lz1rJpV/RnKjNlmq7C6likwGfJc0r5Q0hwCP1yU2WuCIymomU67q4rih2+SvnFLffv76aNey/h/CKU6B4U/ETCgobfE7uwjixlA2m/Zh7dO4+u3uMSfQeuDFmU/nFaR1qJ1nGgalGfe3RSHiPnBsRWYsP1M237ICT6niJHLqzl849adAmvTZQJJW8ebkBUBf+rujdnrfzzt7eK3Jv1KiU+QXHtZ5BA8vFHwQ2TOZ4=;FkJHuqz034+cIOGJXm8BaA=="

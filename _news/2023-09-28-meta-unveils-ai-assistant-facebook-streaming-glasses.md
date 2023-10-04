@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263415?itok=0UTh8f2e"
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263494-image-1200x900-2023-10-04t044923297.jpg?itok=8VgK6z2V"
     width: 700
     height: 394
     isCached: true
 
-secured: "q0jn6PrHo0B0ijXiChQjFfOeLDhf05uVINSONovDElgQxUayXgFF1Q9SBw8ZBCV/DxAimAptud1dcyA3p8CpxriAnrmIWrrrmSPBas9jlexPu/p1gbXZeAtviX2k7iH+0uHS+MGnG7OAYn3pzjoAJ+OEiriBgDFRz7peJ5uT1ssp14wQG7IbYphtYxyWUqpqMITy8c82MnCGGBhR21TP6Xo+I0Zh6sWJ7miL5aa5qF2bKTIbDjr+sEbGC/G91BjlTd+eNB2010FAz/1MgXPnIwTg1imlyQmhR1pw42q43OveoRhM55K4TyRWyBIbmM3JdmntilW5ebqVDSt9o7pf9lwyZ+SORXgyXBKw/9Sr/pk=;Hbd28+4s5I0nC125kKu3mg=="
+secured: "SCsV3gjvcpi7NYaL7XjSYUmdkV4kKBQu7FB81rIMFDEofAp/8+Zj1iHUrF/hUfIj4mxeWwn7PfPh9MJoUXpHM3lXe1orF8FFgHIzl2a84gZIBJBNPRwdcCC4NaBNUpwnP3dVqRKe+BofU2ESFbjMPQ8Drqq/T4bTaRQhXMBPXBSx6XA+6SAK2Rc9Irv9CoBvHbQ3gincHC9cWfPpXf7233pstZN1ayp6qKidGbxcQFPyqTYUbqbDtIdpQujKuz+/9/Xiip5kC5wVOMpJIj8KoS00tasGfl5G44GXv+dVmMlBASZZtXqeo7AmmF8RUPIgYokFuHDQdbP6+agy8/3yj6od7QvaG8QObSJtwbxb++c=;KEYCOz2lbK3r2VTVJYaxFA=="
 ---
 

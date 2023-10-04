@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-04-eu-to-assess-export-controls-on-ai-tech-and-semiconductor-chips.md",
+      "title": "EU to assess export controls on AI tech and semiconductor chips",
+      "excerpt": "The EU Commission says the technologies are under assessment due to their transformative nature, the risk of civil or military fusion and the risk that these technologies could pose to human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
+      "originalUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMjI5MmIxYzItZWU0Yi00MmM1LWI4NjUtYzc1OWJjMjZlMGI1LmpwZw==.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
+      "title": "The AI Transformation Is The Tip Of The Tech Spear",
+      "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-not-all-algorithms-are-ai-part-2-the-rise-of-real-ai.md",
+      "title": "Not All Algorithms Are AI (Part 2): The Rise Of Real AI",
+      "excerpt": "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
+      "publishedDateTime": "2023-10-04T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-gain-exposure-to-the-artificial-intelligence-ai-revolution-with-this-towering-dividend-stock.md",
       "title": "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock",
       "excerpt": "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ...",
@@ -112,7 +259,7 @@
       "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1090,152 +1237,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-a-lab-just-3d-printed-a-neural-network-of-living-brain-cells.md",
-      "title": "A Lab Just 3D-Printed a Neural Network of Living Brain Cells",
-      "excerpt": "Mini-brains that work and grow like their full-size counterparts could offer an alternative to animal testing and advance the quest for personalized medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
-      "originalUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/651705be6b593d112edbb6bc/191:100/w_1280,c_limit/3dprinter-science-Image-1.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-how-does-artificial-intelligence-aid-ivf-success-rate.md",
-      "title": "How Does Artificial Intelligence Aid IVF Success Rate?",
-      "excerpt": "Artificial intelligence (AI) has the potential to increase IVF treatment success by enhancing accuracy, timeliness, and monitoring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
-      "originalUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/sperm-screening-can-detect-harmful.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
-      "publishedDateTime": "2023-10-03T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-exclusive-2-billion-fintech-clear-street-names-steve-bisgay-cfo.md",
-      "title": "Exclusive: $2 billion fintech Clear Street names Steve Bisgay CFO",
-      "excerpt": "\"It’s very much developing in real time. AI capabilities six months ago are not going to be the same as they are in a year or two years from now.\" —Spotify’s CEO Daniel Ek told the Financial Times in an interview that due to the speed of change in ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
-      "originalUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
-      "publishedDateTime": "2023-10-03T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,314 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-07-25-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors.md",
+      "title": "Google DeepMind, Strategy Partner, Technology, Claudia van der Salm proposed for election to Greater Than's Board of Directors",
+      "excerpt": "Van der Salm currently holds the position of Strategy Partner, Technology, at Google DeepMind, a unit of Google. Google DeepMind is committed to solving intelligence to advance science and benefit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-optimizing-energy-production-with-the-latest-smart-grid-technologies.md",
+      "title": "Optimizing energy production with the latest smart grid technologies",
+      "excerpt": "Smart grid technology promises to modernize the traditional electrical system with an infusion of digital intelligence.\nThe post Optimizing energy production with the latest smart grid technologies appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
+      "originalUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T06:08:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
+      "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
+      "excerpt": "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-823051/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
+      "publishedDateTime": "2023-07-25T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-138-during-period-2023-to-2030.md",
+      "title": "A Thorough Examination of the Automatic Speech Recognition Market Size, anticipating CAGR of 13.8% during period 2023 to 2030",
+      "excerpt": "The report provides actual figures about the \"Automatic Speech Recognition Market\" and the challenges within the industry. The market size can help businesses understand in better detail the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33373365/a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-13-8-du",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33373365/a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-13-8-du",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33373365",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33373365",
+      "publishedDateTime": "2023-07-25T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023.md",
+      "title": "Cigniti's IP, ZastraTM, has been Recognized in the \"The Computer Vision Tools Landscape, Q2 2023”",
+      "excerpt": "Zastra™, Cigniti’s Computer Vision (CV) Platform offering is identified in the report as a general purpose foundation, built to be extensible, that can be used to build any type of application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
+      "originalUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png",
+          "width": 396,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY-TV",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm.md",
+      "title": "IBM named a leader in ESG reporting and data management software by independent research firm",
+      "excerpt": "Independent research firm Verdantix recently identified IBM as a leader in their report, &#8220;Green Quadrant: ESG Reporting and Data Management Software&#8221; (July 17, 2023), which evaluated and provided a detailed assessment of solution providers and their product offerings. The rigorous analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-the-generative-ai-battle-has-a-fundamental-flaw.md",
+      "title": "The Generative AI Battle Has a Fundamental Flaw",
+      "excerpt": "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-copyright-law/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp",
+      "publishedDateTime": "2023-07-25T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
       "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
       "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",

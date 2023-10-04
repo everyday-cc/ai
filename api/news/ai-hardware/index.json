@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-04-eu-to-assess-export-controls-on-ai-tech-and-semiconductor-chips.md",
+      "title": "EU to assess export controls on AI tech and semiconductor chips",
+      "excerpt": "The EU Commission says the technologies are under assessment due to their transformative nature, the risk of civil or military fusion and the risk that these technologies could pose to human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
+      "originalUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMjI5MmIxYzItZWU0Yi00MmM1LWI4NjUtYzc1OWJjMjZlMGI1LmpwZw==.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
+      "title": "The AI Transformation Is The Tip Of The Tech Spear",
+      "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-amds-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say.md",
       "title": "AMD's AI and Data Center Prospects Eyeing Market Share Growth, Analysts Say",
       "excerpt": "AMD continues to execute strongly on its roadmap with a potential AI tailwind from its MI300A/X ramp in 4Q23E/2024E and sees it as attractive vs. Nvidia Corp (NASDAQ:NVDA) at >40x F24E P/E.",
@@ -210,7 +305,7 @@
       "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -359,6 +454,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-02-amazon-partners-with-anthropic-to-develop-reliable-generative-ai-models.md",
+      "title": "Amazon Partners With Anthropic To Develop Reliable Generative AI Models",
+      "excerpt": "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/",
+      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/",
+      "publishedDateTime": "2023-10-02T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips.md",
       "title": "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips",
       "excerpt": "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch",
@@ -432,6 +570,58 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
+      "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
+      "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "originalUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1213,189 +1403,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-intel-fills-the-gap-in-chinas-ai-chip-market-amid-us-export-restrictions.md",
-      "title": "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions",
-      "excerpt": "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
-      "originalUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/Intel-CPUs.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-ai-gpu-demand-remains-strong-says-aws.md",
-      "title": "AI GPU demand remains strong, says AWS",
-      "excerpt": "AI GPU demand remains strong and the chip shortage has yet to have a significant impact on Amazon Web Services (AWS), according to Robert Wang, managing director of AWS in Taiwan and Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230921PD222/ai-chips-ai-gpu-aws-data-center-local-zones-taiwan.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230921PD222/ai-chips-ai-gpu-aws-data-center-local-zones-taiwan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230921pd222_files/1_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-ai-stocks-list-3-artificial-intelligence-plays-worth-watching.md",
-      "title": "AI Stocks List: 3 Artificial Intelligence Plays Worth Watching",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Since the release of ChatGPT in November 2022, organizations have been",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-list-3-artificial-intelligence-plays-worth-watching-1032648337",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge.md",
-      "title": "Stablecoin Issuer Tether Ventures Into AI With Northern Data in $427M Nvidia Chip Splurge",
-      "excerpt": "Damoon, a Tether subsidiary in which Northern Group acquired a stake earlier this year, has purchased $427 million of Nvidia chips for generative AI cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
-      "originalUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/p-ft34p_th1_v-XElMpKfCIQhRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7CGGKFEVYBAZTIY5PS32RW6AYA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp",
-      "publishedDateTime": "2023-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
         "images": null,
         "publishers": null,
         "authors": null

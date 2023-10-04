@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-03T19:03:00Z
 originalUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/?ref=upstract.com"
 webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/?ref=upstract.com"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/6C2FD54A-33B7-4E44-A9FCD109953D7F42.jpg"
@@ -24,6 +23,6 @@ images:
     height: 496
     isCached: true
 
-secured: "MR3lKcjErset8XqwM2zt0RUTTi7xsE7S8Bm08M1wTDnnG0Q//cY5tNLRRCqMqm0xrF5Io8qGhlnAcEJWbKsExnsTLJoxnEh7FkHXJ5OSbF6/lLi5nF1fkGjKXJh0sPw/PYgIbdndWl2Vfh7JIy8w9mhTnTxtkEjS0C4yGaLTMQAvGytqWe5bpeHzW+JZCz1/0Yj7mAJ2zTfXbgAm8zejOpLDNke7GmeFIiZJ5HqfOWCEKWO4TxEJQl4LT235RnD0KpzMoo+IvahpIJWYHT9P/CohaD+QpzOZsKO4EjG94GPf8T5EmOSzWExEuHQhoU2lPZ2j7Zmu3Sfzd2XgKo7KvC07R/WDE+MBrFOh29p3OH7Izoty6wwrM2K6rnp/aj4G0UM2tEI72Tt7XyOffRKz4fegPCDpMD8XvgP2GbtH2xW3L/jBlY+haVf4+HfMXLKSc4dejKzWyYyQw27WSZzja1C2lY4RbUJLOqXT0lRHwp5BOXASCzpGD5AcVK41OY7O9KPE8VK39qaJTPrqibSTWg==;9uycMRl33+o1VaguAle8zQ=="
+secured: "3kbqsxXzsiuh5ueNAmC4hflTPimiOPam2Cg6W+2ATvYrBNQ+myINM5OSk6NpezhPndzah6ZHXI38sFnR7AGqcqItAVmQ8EHRlJpldIJQjxUa/UUsSCQwmv6Lmw9kVFETd0OLcNvUyS0W2XQB22TStd2F7hYHQ2ZZLSDUFmTGmB+zHcV3z1oBDtDrp4c0Z51AjvyqGG1JOOiSpY+hyJZHT/k8ggvCTAiWe6UZu/K3gQOr3afbiQfS7WIu3JX2kaaA9Trsd/WCHUGKzgxYnTFNxM3OZjR0hF/cg7P/KU59f38yKrw1saFCqnJO8enns9uFMeJQBdYfV2tyJRUyAFXRoU6pkHkw7vS+FziKWullYr0=;jVI3mxLVuz7aCZxPchHD2A=="
 ---
 

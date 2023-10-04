@@ -55,6 +55,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Parrots Have a Unique Voice \"Print\""
+    excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so they can be individually recognized by members of their flock."
+    publishedDateTime: 2023-10-04T08:24:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/parrots-have-a-unique-voice-print-379495"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/379495/parrots-have-a-unique-voice-print-379495-640x360.jpg?cb=20231004"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "0w1k9ADpbIskDTHnVbN2b9QYAlozq6Rg5kHRWTKKjwy/eNBBeln1NfrtiS5Mqxfz/kUH4v8n0xki90zJACJVLudjQWaPQzGtX1RKMesISkpVzdsflQXHL+mLil+El3+VafrZu+AEacd+wi45r8TojE+2ygLdn9b/vWa8HlT+MbyaNQUexXksUq+TD2x5b3ixS9OfcYVm5ZKLLv4CgxbEC1pBMAK4XkDMn3nYmM1Yi+Y5t5D9YhE1lKC7Qaq2VA65jU5JFwPA2rjlhxf/CHYfna7mL5Tg4rwQ9HMXan60QtVR51XkaVluIpri3viQO7YsmlomJ7cOfBRTx7utjWL8mmmRnDbDowuZs7UhYLkk7DA=;f+lLaIJY2YCLCDtconxd0A=="
 ---

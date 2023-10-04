@@ -155,6 +155,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
+    excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
+    publishedDateTime: 2023-10-04T09:32:00Z
+    webUrl: "https://www.newfoodmagazine.com/news/195390/dominos-and-microsoft-team-up-to-use-ai-for-smarter-pizza-orders/"
+    type: article
+    provider:
+      name: New Food Magazine
+      domain: newfoodmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.newfoodmagazine.com/wp-content/uploads/shutterstock_1347282647-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "Domino’s is working with Microsoft to build a proprietary AI assistant"
     excerpt: "Microsoft Cloud and Azure OpenAI Service are collaborating to create a generative AI tool to improve customer experience and help with back of house tasks"
     publishedDateTime: 2023-10-03T20:54:00Z

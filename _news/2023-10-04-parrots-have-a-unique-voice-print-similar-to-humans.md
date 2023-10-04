@@ -41,6 +41,20 @@ related:
         width: 775
         height: 1280
         isCached: true
+  - title: "Parrots Have a Unique Voice \"Print\""
+    excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so they can be individually recognized by members of their flock."
+    publishedDateTime: 2023-10-04T08:24:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/parrots-have-a-unique-voice-print-379495"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/379495/parrots-have-a-unique-voice-print-379495-640x360.jpg?cb=20231004"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Unique voice print in parrots"
     excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
     publishedDateTime: 2023-10-03T23:20:00Z

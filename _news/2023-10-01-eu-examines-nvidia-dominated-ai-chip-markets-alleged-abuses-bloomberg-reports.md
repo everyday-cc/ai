@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-earl
 webUrl: "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: Reuters
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU examines Nvidia-dominated AI chip market's abuses, Bloomberg reports"
-    excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-29T17:12:00Z
-    webUrl: "https://www.reuters.com/technology/eu-starts-early-stage-probe-into-nvidia-dominated-ai-chip-market-abuses-2023-09-29/?n=@"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Prices for Nvidia generative AI chips soar in Japan"
     excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
     publishedDateTime: 2023-10-03T02:03:00Z

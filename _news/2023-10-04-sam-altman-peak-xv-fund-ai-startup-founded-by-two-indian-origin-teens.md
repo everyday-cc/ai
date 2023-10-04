@@ -99,6 +99,20 @@ related:
         width: 984
         height: 930
         isCached: true
+  - title: "OpenAI’s CEO Sam Altman Backs AI Startup Founded by Indian Origin Teens"
+    excerpt: "Sam Altman, has invested in an AI startup Induced, established by two Indian-origin teenagers, Aryan Sharma and Ayush Pathak"
+    publishedDateTime: 2023-10-04T10:16:00Z
+    webUrl: "https://analyticsindiamag.com/openais-ceo-sam-altman-backs-ai-startup-founded-by-indian-origin-teens/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-3.42.51-PM.png"
+        width: 907
+        height: 503
+        isCached: true
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
     excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"
     publishedDateTime: 2023-10-04T07:25:00Z
@@ -128,6 +142,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Nu2IxTzwC24Z+pebrA2sGbUUVBxqlddzJG7pkMPnvUsiKkXUdATyNvyqkTqAoS7e0O2v8Q3oq56+YIc8W4hECQ7PMLhIiYWyqyep0Fr67p0psxwbd5vIaAZeyOsCJdIWUTTqUQ6lKxtXlM5xeeCM7q1ThCAqcpj5Ml9jS82ClGGGIK2HJthDNwpWqU6JRIJAVfu7hzPDYNjyI5VLgosSlJ952JbOr+4Lzw1ihQbPRqjMg5D3BlFjZPhH0RWMYJZNVDijtnoweXWokQZIBc4mQ53rP3sFm4/OBoDj6JKdMISw20WAgfNWgEVHOstCCzPjqczogbXycnOKXXdTHYku6VgAjBv/OpdfqBjUBRaw9x8=;LxeQInXMAolvgWGwfU8EtA=="
+secured: "dD5nfNmqKj4jweTuiY5k9zY8Vvqx+ECY21r26sM+c/N1lQIT2ZHnllW6+NB2MhE9A4gHUiEuywXRjFpiCBZkxap+X+ti3GOMHYFmxcdLOlrD+fd01jE1CrwfYs0wvYqfSeSOGpdSqslppRY5RijB0IfiomI0TpIu9hzSdfPAs5/yMhxm8mk5E3webd8Vli8rwsF8FdEJkY+oHZylUoDHjknByS4FRRYi5IlLSJfY3RbbqAUrrH4JdWyx88tXD36q+jLKDPPu5fpPUFrol8Z/LnkcCU1E19DSVe4t5HHFFxxzf4EtY/enJmTT51aEreLWTkB5oA40gQd+upwOJ/7WW9sD5/eWNuP4uQLdIgLrdXS3XaPJNvqLUBd4enIMx/5UEMMqbApKR1RsmRuGbR7uGZz0DLancz9CUIP7n4LL4sDBVg8IQgpQ2HHZo0QEfg+uhwlmdDvfn+Ozu2AkMM0fVESmiV7U2oa6JrBVz+C3SGG0mDKP4kkuDc+I9hhzZecPTv/WYP0D3pKazKlu3fWu0w==;obVamguXOlU+LH3CsCvU2A=="
 ---
 

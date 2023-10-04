@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
 type: article
 quality: 57
-heat: 127
+heat: 138
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-10/ruxandra_cord_thecord.ai_-_photo_pr.jpg"
         width: 984
         height: 930
+        isCached: true
+  - title: "OpenAI’s CEO Sam Altman Backs AI Startup Founded by Indian Origin Teens"
+    excerpt: "Sam Altman, has invested in an AI startup Induced, established by two Indian-origin teenagers, Aryan Sharma and Ayush Pathak"
+    publishedDateTime: 2023-10-04T10:16:00Z
+    webUrl: "https://analyticsindiamag.com/openais-ceo-sam-altman-backs-ai-startup-founded-by-indian-origin-teens/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-3.42.51-PM.png"
+        width: 907
+        height: 503
         isCached: true
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
     excerpt: "Sam Altman has invested in an artificial intelligence startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley"

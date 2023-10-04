@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-bo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
-    excerpt: "In 2024, the semiconductor sector faces pivotal shifts as demand for silicon wafers varies and global equipment spending adapts. At the forefront of these changes are innovations in high-performance computing (HPC) and AI server supply chains."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20231003PR200/ai-server-digitimes-automotive-ic-generative-ai-memory-chips.html"
+  - title: "The AI Transformation Is The Tip Of The Tech Spear"
+    excerpt: "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ..."
+    publishedDateTime: 2023-10-04T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://img.digitimes.com/newsshow/20231003pr200_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
+    excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
+    publishedDateTime: 2023-10-04T10:10:00Z
+    webUrl: "https://www.techopedia.com/ai-translation-could-help-crack-the-secrets-of-chicken-language"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 39
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/10/Farming.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Information Technology And Robotics: Innovations Transforming Our World"
+    excerpt: "Implementing robotics and AI can help measure behaviors and worker performance, which was previously impossible. However, it's essential to approach the adoption of these technologies responsibly to avoid dehumanizing workers or promoting discrimination in the workplace."
+    publishedDateTime: 2023-10-02T19:25:00Z
+    webUrl: "https://menafn.com/1107175558/Information-Technology-And-Robotics-Innovations-Transforming-Our-World"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "/skxXqjeaVmf7xggeJ82FMV5P6GCq5TFdKd4EcOWMsmKk1t5LS7S7g55mUNFahNvyQQKd8g2zInjpJ5jwOxLcMqKH7TJeMb0CfPyKaQK4bO6m2mraaQqqQdLhQ/BOvbIoZ3qSFVpBf6S1kMr/tfp5mKq5LHtb17RmhJIl2UJG8COgFJCDe8NA7or9Je0zrtvpFtcBncqAbkjNvcGFy1PyzW801f3Tou14c5hHE/P2WgMmveEWbrwN77NNG6qHmrb4WML0l2PMJq3BTdn2OO0pufjthk04JSa+7+o6wWVTTlterOMLuMXCW/8p06C/c5xltbvmnJ4bHapsrXdvvsaeRIZ5Z4Y3UpgiMK5TC4JkDjJZ274422ucP98JHJk4jnYiaGkgkZDcNv8zJ38/LY9SZi85cmOsMJ/ik7fqGBdT7xm2+OQapjK2TY7b65UQExhgOEW6/KNc7xZndzFXNqgNjQeF+ILHC1C2Sf5iiKlT5Ig4lkmYj+EX68/AJkfzCLGPgrufGt3R9lk87yP6RbwkA==;Doq1OUsVTVirUeEp2AJYDw=="
 ---

@@ -70,6 +70,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "There's a new squishy robot in town, and was created by AI"
+    excerpt: "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch."
+    publishedDateTime: 2023-10-04T11:18:00Z
+    webUrl: "https://interestingengineering.com/innovation/squishy-robot-created-by-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "woNiir3BWiFzWF9Khu82yReFT/T/RQRC80KwD9Oo9OZKkY/CPxu545N91ah+j5FUHrx08mmEZGToE1hqC+GV6xcbZMZRwogmv+nZRW3Ph2A41cXpaGxVsvyAVj7M/M/YyENehCNoHC2GhnJztjIMHQVAh6/kzZ/3S7Yu2ALNhiVzywtqLnS325WUm1d6f7Bhe3GkZZ4Nz4xY/mW27NNwhc+q4mHqjycCc2d+SjJdyrvAJDwqwVqn55IjTtvu2Jj8doy0kxy2B/pcfcjcO2+fp4IBaSoKfPonqiK0hI/n6RHrGQjM3wml5wgPon4fegGb82rbx4gWLFnrK2ladUggoZ/gqzSPcgvks8VIlJmKfcFvmUWFKYyBwQrV38WS7XE8WIfBjUByFRRKt08+nff6rshVhH22MrT/wBLzYnRFpDA7vNlAHz6+VXM3ll6RMaw2Tw0URm++X55XiytRb9v/HDfHIb8Xy3Pqe8N0wUbcQFIWqNDCS9/al7SzzdZnAsECD/OyBDp5jcuWqE5FyDvx4A==;D3zfHZfNgWH9N72JZdwPAA=="
 ---

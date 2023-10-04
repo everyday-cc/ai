@@ -2,9 +2,9 @@
 category: news
 title: "Meta’s AI stickers are here and already causing controversy"
 excerpt: "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more."
-publishedDateTime: 2023-10-04T02:32:00Z
-originalUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/?ref=biztoc.com"
-webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/?ref=biztoc.com"
+publishedDateTime: 2023-10-04T09:23:00Z
+originalUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
+webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
 type: article
 quality: 67
 heat: -1
@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Unlocking the future of HR: Embracing AI, ethics, and innovation"
-    excerpt: "Fresh from his recent Disrupt HR event and brandishing a powerhouse of fresh ideas, disruption, and creativity, HR expert Jeff Waldman, founder and principle at Scale HR, shares valuable insights on the transformative power of AI in the HR landscape."
-    publishedDateTime: 2023-09-29T18:05:00Z
-    webUrl: "https://www.hcamag.com/nz/specialisation/hr-technology/unlocking-the-future-of-hr-embracing-ai-ethics-and-innovation/461486"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 54
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/038/0321_638316075013262690.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The Assumptions You Bring into Conversation with an AI Bot Influence What It Says"
     excerpt: "A new study reveals an “AI placebo effect”: the same chatbot will respond differently depending on its users’ assumptions about artificial intelligence"
     publishedDateTime: 2023-10-02T15:20:00Z
@@ -75,6 +61,6 @@ related:
         height: 496
         isCached: true
 
-secured: "mMFF6fxn4Oly2uIzEnynsKGfisPv0cNg2+L54NIihOvqcl4Mik0Kt2I11Tlc0JkKaI1yanTeJ1NRiAVX7w4IBmGFdSUzjgLZMlHdEJqoDI349ZNeW5Kswg6qqZkPZkC3Dfh1fFVO2hyEI7QfgY7WmL0Id3VXZ/1ucOW+CuPAnBiXS88Wl4alYrhKXoAxUGlMgtb7ASDz6TkEo7+RonIByxxiM815othlwgtgpDCF0wciTrihOrqEh/lgVrBYyfPvAUtdyFx++SYskrcux6bSrhZygy+leHDTj+sIdtdC2KfZ1sX9InuuiMoUs4vyO7Z3n4tJeRFTw/P+Cy5mVhlEXlDTbr090sNfI7tiUT30XJm/7bK3VjJY85T/i2GPrX4reYeVidNSz0squ+VErGC66dNDO8DEKYAeJK4OhvJkRAuKB/o82DqXG+1CqthvSjfibnRiFB4iNKTdEVSyaqdKIduZgPnRAMpCB0XlLiuG+I4fzDy5OhUnQfNdJdyVxoL2GnzkKTNQVZBpuxT9wkqncQ==;E6p2LewQb7dWrggfiHOatA=="
+secured: "H48PGZgEafJ8QtjV+UmfCdLGn1adG5GuD93AEbk/WBZA0KmS4xZ1lJ50nmiLbv+vApu7hNaiKk6Qam0Oa7yhs+k8mCqiEtbd9heM2gX6MR+Y3lq3lsMj9u93US/urVFMKtpYl20VIIXLxaLW7+Ne0dJdKRHE3J/SnpOxRopOxLaL2P7VaroK4WQ6UmQ9Hek2GatTSWIo/HsCRFlpl2CiZp7OeQvethcNg/b+fbO3z5IJcmoL7yK58BDy2GVi8TFvU+TLdJTgVf/I/OOPoawdbU4VfOOOxXEgqmzNPOkeJLEMfAV5yBqacL8fs0Or8zkFGfiO2bwvIIq3DAMa8av4/0irDmHHH65kDlNh9KyWqSw=;mVQGA4Cf4vchXWTadlfuIg=="
 ---
 

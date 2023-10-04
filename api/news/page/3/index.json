@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-02-an-ai-experts-guide-to-customer-delight.md",
+      "title": "An AI Expert's Guide To Customer Delight",
+      "excerpt": "The emergence of large language models means that the bar is even higher for chatbot technology. Customers will come to expect open-ended prompts and humanlike responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648728901a0300c8f3f4b947/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
+      "publishedDateTime": "2023-10-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant.md",
+      "title": "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant",
+      "excerpt": "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/",
+      "originalUrl": "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-ai-innovation-or-speculation-a-guide-to-understanding-the-difference.md",
+      "title": "AI Innovation Or Speculation: A Guide To Understanding The Difference",
+      "excerpt": "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
+      "publishedDateTime": "2023-10-02T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy.md",
       "title": "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy",
       "excerpt": "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI.",
@@ -97,6 +242,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-02-amazon-partners-with-anthropic-to-develop-reliable-generative-ai-models.md",
+      "title": "Amazon Partners With Anthropic To Develop Reliable Generative AI Models",
+      "excerpt": "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/",
+      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/10/02/amazon-partners-with-anthropic-to-develop-reliable-generative-ai--models/amp/",
+      "publishedDateTime": "2023-10-02T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-tom-hanks-warns-fans-that-an-ai-version-of-himself-in-a-dental-ad-was-created-without-his-consent.md",
       "title": "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent",
       "excerpt": "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\"",
@@ -105,7 +293,7 @@
       "originalUrl": "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -916,6 +1104,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
+      "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
+      "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "originalUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
       "title": "Artificial intelligence (AI) – FAQs",
       "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
@@ -957,250 +1197,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-us-national-security-agency-unveils-artificial-intelligence-security-centre.md",
-      "title": "US National Security Agency unveils artificial intelligence security centre",
-      "excerpt": "The United States National Security Agency (NSA) has announced the creation of an artificial intelligence security centre that will oversee the development and integration of AI capabilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "originalUrl": "https://www.aljazeera.com/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23271693350092-1695953886.jpg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/9/29/us-national-security-agency-unveils-artificial-intelligence-security-centre",
-      "publishedDateTime": "2023-09-30T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-5-hot-ai-jobs-to-consider-for-2024.md",
-      "title": "5 Hot AI Jobs To Consider For 2024",
-      "excerpt": "It’s clear that AI (artificial intelligence) is here to stay and these are 5 AI jobs that will be in-demand in the future",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651751537e5abdefd7b1f0bc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
-      "publishedDateTime": "2023-09-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology.md",
-      "title": "Waymo's self driving cars on Miami streets as company tests its technology",
-      "excerpt": "To improve their next generation of software, company officials have returned along with their vehicles to the streets of Miami. While the cars will be in autonomous mode at times, there will be an operator inside of them, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "originalUrl": "https://www.cbsnews.com/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/08/31/2decdf36-b00e-4972-8ab9-96992453c9a8/thumbnail/1200x630/ae72ef8ccc3824360c6317c4fc32f677/waymotestdrive.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/waymos-self-driving-cars-on-miami-streets-as-company-tests-its-technology/",
-      "publishedDateTime": "2023-09-29T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-can-generative-ai-solve-computer-sciences-greatest-unsolved-problem.md",
-      "title": "Can generative AI solve computer science's greatest unsolved problem?",
-      "excerpt": "Does P = NP? -- is a grand theoretical challenge. Scientists took the approach of spoon-feeding ideas to GPT-4 to seek an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "originalUrl": "https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2a2f4ea75ba97a05d420448e3fbda0449abec4e7/2023/09/29/1cf390aa-8895-4a67-8373-05221dc63edb/an-incredibly-complex-computer-the-size-of-a-room-with-hundreds-of-gears-levers-and-dials-and-a-dig-clipdrop-variants-clipdrop-enhance.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/",
-      "publishedDateTime": "2023-09-29T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-the-synergy-of-artificial-intelligence-and-robots-in-medical-practice.md",
-      "title": "The Synergy Of Artificial Intelligence And Robots In Medical Practice",
-      "excerpt": "This story is part of a series on the current progression in Regenerative Medicine. This piece discusses advances in the use of artificial intelligence in medical robotics. In 1999, I defined regenerative medicine as the collection of interventions that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65130a5ead5718f2fc508e5d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
-      "publishedDateTime": "2023-09-29T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

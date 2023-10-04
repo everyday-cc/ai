@@ -62,6 +62,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "There's a new squishy robot in town, and was created by AI"
+    excerpt: "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch."
+    publishedDateTime: 2023-10-04T11:18:00Z
+    webUrl: "https://interestingengineering.com/innovation/squishy-robot-created-by-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
     excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."
     publishedDateTime: 2023-10-02T10:37:00Z

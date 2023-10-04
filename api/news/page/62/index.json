@@ -2,6 +2,332 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-08-18-elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m.md",
+      "title": "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M",
+      "excerpt": "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/08/Elemental-Cognition-headed-by-the-former-CEO-of-IBM-Watson-raises-USD-60M.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m/amp/",
+      "publishedDateTime": "2023-08-18T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology.md",
+      "title": "The Rise In AI Will Change The C-Suite: What Does This Say About The State Of Technology?",
+      "excerpt": "Accenture announced a $3B investment in AI to help companies build a strong technology foundation and advance skills needed for greater growth, efficiency and resilience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/18/the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/18/the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de0f53e3c8979b82d8ae1f/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/18/the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/18/the-rise-in-ai-will-change-the-c-suite-what-does-this-say-about-the-state-of-technology/amp/",
+      "publishedDateTime": "2023-08-18T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-barbie-and-the-dark-side-of-generative-artificial-intelligence.md",
+      "title": "Barbie and the dark side of generative artificial intelligence",
+      "excerpt": "Many are excited about the ways in which AI might enhance our lives. Any development that gives people the ability to express themselves in a new way is a thrilling one, and the speed at which AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/08/17/barbie-and-the-dark-side-of-generative-artificial-intelligence/",
+      "originalUrl": "https://www.salon.com/2023/08/17/barbie-and-the-dark-side-of-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/08/barbie_artificial_intelligence_code_172215601_84768690.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-the-machine-economy-and-the-convergence-of-web3-ai-and-fintech.md",
+      "title": "The Machine Economy and the Convergence of Web3, AI and Fintech",
+      "excerpt": "Humans, software machines, and our ever-evolving hybrids are connected through fintech financial networks and anchored to blockchains. Digital production, powered and accelerated by generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/",
+      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/JOrjM9OPnYjbZa7YfM1INBhcvAI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PXVXPW2XQ5EJBNK7TVP3IQWPYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/08/16/the-machine-economy-and-the-convergence-of-web3-ai-and-fintech/?outputType=amp",
+      "publishedDateTime": "2023-08-18T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-will-ai-replace-freelancers-using-ai-to-grow-and-empower.md",
+      "title": "Will AI Replace Freelancers? Using AI To Grow And Empower",
+      "excerpt": "I believe that more than putting freelancers out of a job, AI can help you grow your businesses and empower you on your way to success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de254a1a13566b673d5165/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/18/will-ai-replace-freelancers-using-ai-to-grow-and-empower/amp/",
+      "publishedDateTime": "2023-08-18T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.md",
+      "title": "Buy this chip stock to ride a 'wave of AI-led growth,' according to B. Riley Securities",
+      "excerpt": "Moderating inventory headwinds and a reacceleration in hyperscale spending should propel this chip stock into its next growth wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/18/buy-this-chip-stock-to-ride-a-wave-of-ai-led-growth-according-to-b-riley-securities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-applying-cyber-resilience-to-dora-solutions.md",
+      "title": "Applying cyber resilience to DORA solutions",
+      "excerpt": "A strong cyber-resilience strategy can help organizations protect against and rapidly recover from disruptive cyber incidents.\nThe post Applying cyber resilience to DORA solutions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
+      "originalUrl": "https://www.ibm.com/blog/applying-cyber-resilience-to-dora-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-fantasy-football-meets-artificial-intelligence-as-gridiron-ais-technology-helps-fans-quarterback-their-team.md",
       "title": "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team",
       "excerpt": "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases.",
@@ -859,345 +1185,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-driverless-rideshare-company-tests-cars-in-charlotte.md",
-      "title": "Driverless rideshare company tests cars in Charlotte",
-      "excerpt": "Cruise, an all-electric, driverless car company ... The sensors send that data to the artificial intelligence that runs the cars, allowing it to make “real-time predictions on what’s happening ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
-      "originalUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/fJgu43u2hruEwJutewQz0DqyqNU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/E6BUORQT6REBLLD37GP76BO7JE.jpeg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
-      "publishedDateTime": "2023-08-17T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSOC-TV",
-        "domain": "wsoctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-governments-including-washington-state-making-policy-for-use-of-generative-ai.md",
-      "title": "Governments, including Washington State, making policy for use of generative AI",
-      "excerpt": "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html",
-      "originalUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html",
-      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html",
-      "publishedDateTime": "2023-08-17T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Center Square",
-        "domain": "thecentersquare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-building-llm-applications-with-vector-search-in-azure-cognitive-services.md",
-      "title": "Building LLM applications with vector search in Azure Cognitive Services",
-      "excerpt": "Tools like Semantic Kernel, TypeChat, and LangChain make it possible to build applications around generative AI technologies like Azure OpenAI. That’s because they allow you to put constraints around the underlying large language model (LLM), using it as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
-      "originalUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/02/cw_hoyhoy_210120-100832442-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
-      "publishedDateTime": "2023-08-17T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-google-deepmind-testing-personal-life-coach-ai-tool.md",
-      "title": "Google DeepMind testing ‘personal life coach’ AI tool",
-      "excerpt": "DeepMind, the tech firm’s artificial intelligence arm, has announced it is testing a new tool that could soon become a “personal life coach”. The project will use generative AI to perform at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
-      "originalUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "publishedDateTime": "2023-08-17T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-the-30-young-leaders-who-are-forging-a-new-future-for-the-healthcare-industry-in-2023.md",
-      "title": "The 30 young leaders who are forging a new future for the healthcare industry in 2023",
-      "excerpt": "Christie also advises state and private organizations on increasing access to midwifery services and helped push for a Rhode ... dark glasses and headphones she's designing for people with mild cognitive impairment, Alzheimer's, and Parkinson's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
-      "originalUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64dd439b4ef9f30019f8a662?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-intriguing-results.md",
-      "title": "Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results",
-      "excerpt": "Moemate is a new app that lets large language models including Anthropic's Claude and GPT-4 'read' what's on your PC's screen.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
-      "originalUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/maxresdefault-2-e1692142737398-transformed-1.webp?resize=1200,447",
-          "width": 1200,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
-      "publishedDateTime": "2023-08-17T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
-      "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
-      "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "originalUrl": "https://6abc.com/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13664068_081723-wpvi-phillies-facial-recognition-4pm-CC-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/philadelphia-phillies-tickets-to-citizens-bank-park-face-scanner-mlb-go-ahead-entry/13663900/",
-      "publishedDateTime": "2023-08-17T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google DeepMind Open-Sources Largest-Ever Robotics Dataset"
+    excerpt: "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs"
+    publishedDateTime: 2023-10-04T11:47:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png"
+        width: 1300
+        height: 737
+        isCached: true
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

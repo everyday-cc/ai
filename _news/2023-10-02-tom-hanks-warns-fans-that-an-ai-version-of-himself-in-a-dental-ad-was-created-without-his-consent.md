@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9eb1b3a98fafac0c881dd3084e00ac54444702ba/527_574_3137_1882/master/3137.jpg?width=620&quality=85&auto=format&fit=max&s=d7965bbc4cce24a1eda4381fec63d872"
         width: 620
         height: 372
+        isCached: true
+  - title: "There's a new squishy robot in town, and was created by AI"
+    excerpt: "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch."
+    publishedDateTime: 2023-10-04T11:18:00Z
+    webUrl: "https://interestingengineering.com/innovation/squishy-robot-created-by-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
     excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."

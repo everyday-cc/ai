@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-warfare-pentago
 ampWebUrl: "https://www.cbsnews.com/amp/news/ai-artificial-intelligence-warfare-pentagon/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-artificial-intelligence-warfare-pentagon/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/30/b518b50a-27ce-4fec-a945-67862f2967af/thumbnail/1200x630/78d461f9b2605b9c428337ed5a274a5d/ai-and-military-a-1280.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"

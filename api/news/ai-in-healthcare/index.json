@@ -660,6 +660,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-to-2031.md",
+      "title": "Artificial Intelligence for Healthcare Applications Market Recent Trends | Global Forecast From 2024 To 2031",
+      "excerpt": "Global 116 Pages Updated Report of \"Artificial Intelligence for Healthcare Applications Market\" report also encompasses investment analysis and trend analysis of |Information Technology| category ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34870275",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34870275",
+      "publishedDateTime": "2023-09-25T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging.md",
       "title": "Artificial Intelligence Is Rapidly Changing The World Of Medical Imaging",
       "excerpt": "Among the most powerful tools that enable modern day healthcare delivery are advanced imaging techniques. Often, these tools are used to validate physical exams, visualize internal anatomy, or triangulate pathology based on subjective symptoms.",
@@ -1326,58 +1369,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-nvidia-amgen-back-ai-driven-drug-firm-generatebiomedicines-273-mln-fundraise.md",
-      "title": "Nvidia, Amgen back AI-driven drug firm Generate:Biomedicines' $273 mln fundraise",
-      "excerpt": "Biomedicines, which uses artificial intelligence (AI) to find new treatments, said on Thursday it has raised $273 million from investors including Nvidia's venture capital arm and Amgen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO",
-      "originalUrl": "https://www.reuters.com/article/generatebio-funding-idUSL4N3AQ2BO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GV6NJ4N6ANM2BHU5EL2PEY5AEM.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
