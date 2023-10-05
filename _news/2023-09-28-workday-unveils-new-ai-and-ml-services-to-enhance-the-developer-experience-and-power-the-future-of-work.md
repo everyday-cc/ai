@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize"
-    width: 1107
-    height: 581
-    isCached: true
-
-secured: "5xtenXwNXo7FHmcAcPWu/YQsm1sQTKvX9WcFAemIzkEnM9XIYiiwY5cH6jZiv6kjR51hPTSndYVTSKApAwQmwqo5KtJTj2/JPsLKH5Q9CW9HgA9EmVRBAFs2y+Qqrtx9Dp+Bp9/dn+xGvZfoBKdM+y93yd5bL4CEohWQnOBaAtTwUNvjlTgrFaoYWFEYVsy3/1Ls2tZof1xR+JQAFVtgfk177ShU5ENIEWJsxz88i3Ug/NrqA0OnpLWZoQNVHez+7+JgglU59RZCMd9Vv3M7Omf4FRrLL27SBr+iLEgEw8+e6tLnpUnnDcgILGRLTKTKBkiew6Lez6zuHBzqvjlv6llk7QAMJoN0G0+ms/qK5A8=;ikAY6rDuRE0fWSC8XYXJ8w=="
+secured: "DP2rcWj0BXExbmW8+7eMLklIb2mT25DxXfTtXepcpwZ1ZpLi7nPMpPAEbQtXNFBQTVf8M1ZxUZODYfkuKRNrSwUsmP3TTO6W6AfYstkTiXiyQuRpsRSCCF/aTjjnjsL4+aAiFI1UhUowtU+A0k86LXj4u3Lh8itIfbm1lpYhn9FdC4IU1WULLJizXcjZkOQZSF7OJwaYu6yyO5cPjnoAOALIxawVK2g8Css/MXDhSDrwnN8xZU8zGQGMnZmUiOV483nx3kzu3PDlIR3LQ6Jl4EJu0ZxEKHjQjfFY5iXT9gaQS5vXod/xfYQ0LQ4iD7xtPBv/quyovptO0ypeREm9DCNtXuDz0HI3rmEW9IASQVk=;mj2hvgKet7c0Q/Wh3QET8g=="
 ---
 
