@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop
 webUrl: "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Creator Review: It’s AI That Wants to Save Humanity"
-    excerpt: "Gareth Edwards’ new sci-fi film invites audiences to cheer for artificial intelligence that affirms the value of human life."
-    publishedDateTime: 2023-09-30T12:00:00Z
-    webUrl: "https://www.wired.com/story/the-creator-gareth-edwards-review/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6515e9932c8d43531bef449d/191:100/w_1280,c_limit/The-Creator-Review-Culture.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "Htp+MU0nHfmeM7F1MI+V0WBREmz51qXqlP91tG2xYPmefG9xuVyp1EXTjpyMxQ6k4DjDjDSpTblC4nh7WMjBPltKVXQsM5EsfHKov5NcZRiftI4xJJUIinDd7AEbU34MIDy65bLMdCT+2waC23ZHmP+sRtZgE71lsFzUsNjcph7Ad0+V+l0KmIQXlqoofj2HMdOiIWUjRObkrIPytcmOmHV4f1LNKZ2LKsqZS31sT/+ZnhDXunzuBDAVBgwnyVLuldMxI9qLgiMvfI3xam8PKhE+3fqLr+t1Ro6T4vgkCv/jSOlyhC7FENxL+rlf8G/X/qm/kim4NAxQFPD/WFO/6gE1+wpDlEtaF7/105xfBl8VIZSRVYRvkzDNBQT162zLLKR3BbQjIE1IVQRCDxcLYIqwrCeTS4tt3aVnfi4oosX6PhUoN5g7DTjvwg67k+UoUo9iNEx2Plg3qoGBESCIl6X2fQ0usAT+4/0N1lPD5+ncN0ZcVrTmpqpUzDoNWn8Se8+41xZYGELdTb3XUfNgYQ==;kgT7HQ73Q/91Nc4fiJfuMg=="
 ---

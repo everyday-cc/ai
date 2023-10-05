@@ -35,6 +35,20 @@ related:
         width: 1225
         height: 688
         isCached: true
+  - title: "Experts convene on impact of fintech sector"
+    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law"
+    publishedDateTime: 2023-10-05T05:54:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/05/10/2023/experts-convene-on-impact-of-fintech-sector"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231005_1696485382-143.jpg?1696485382"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
     excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
     publishedDateTime: 2023-10-03T04:38:00Z

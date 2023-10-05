@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-08-02-machine-learning-blockchain-technology-could-help-counter-spread-of-fake-news.md",
+      "title": "Machine learning, blockchain technology could help counter spread of fake news",
+      "excerpt": "A proposed machine learning framework and expanded use of blockchain technology could help counter the spread of fake news by allowing content creators to focus on areas where the misinformation is likely to do the most public harm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230801172011.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-robot-manicures-and-eyelash-extensions-how-ai-is-attracting-new-beauty-industry-customers.md",
       "title": "Robot manicures and eyelash extensions: How A.I. is attracting new beauty industry customers",
       "excerpt": "How artificial intelligence and robotics are transforming the beauty ... In San Francisco, a startup called Clockwork has set out to revolutionize the beauty service experience with its A.I ...",
@@ -1162,50 +1205,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-a-computer-visionbased-teleoperation-system-that-can-be-applied-to-different-robots.md",
-      "title": "A computer vision–based teleoperation system that can be applied to different robots",
-      "excerpt": "Recent advances in the fields of robotics and artificial intelligence (AI) have opened exciting new avenues for teleoperation, the remote control of robots to complete tasks in a distant location. This could,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-computer-vision-base.jpg",
-          "width": 1999,
-          "height": 1159,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-visionbased-teleoperation-robots.amp",
-      "publishedDateTime": "2023-08-01T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

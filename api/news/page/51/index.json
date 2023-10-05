@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-08-28-how-trusted-generative-ai-can-improve-the-connected-customer-experience.md",
+      "title": "How trusted generative AI can improve the connected customer experience",
+      "excerpt": "Most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/",
+      "originalUrl": "https://www.zdnet.com/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fb75745b44f01fa4d5cf36abe01d34db33c54850/2023/08/28/7c2abcc6-62cd-49cb-94ec-f7eae7046cf1/gettyimages-1501525419.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-trusted-generative-ai-can-improve-the-connected-customer-experience/",
+      "publishedDateTime": "2023-08-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-revolutionising-healthcare-how-ai-is-transforming-radiology.md",
       "title": "Revolutionising Healthcare: How AI is transforming radiology",
       "excerpt": "The rapid advancement of Artificial Intelligence (AI) in radiology is set to revolutionise the healthcare sector, with experts predicting a surge in its application over the next decade.",
@@ -1047,40 +1099,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "AI Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "What distinguishes the Air Force’s pilotless XQ-58A Valkyrie experimental aircraft is that it is run by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/ai-brings-the-robot-wingman-to-aerial-combat/?amp=1",
-      "publishedDateTime": "2023-08-27T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

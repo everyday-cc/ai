@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -905,17 +905,17 @@
       "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
       "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
       "sourceUrl": null,
-      "webUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
-      "originalUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
+      "webUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
+      "originalUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://variety.com/wp-content/uploads/2023/09/Spotify-AI-Voice-Translation-App.jpg?w=1000&h=563&crop=1",
-          "width": 1000,
-          "height": 563,
+          "url": "https://s.yimg.com/ny/api/res/1.2/km5tsriIK7HZ5aZlEQDBdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/aol_variety_168/93178d697a7d0f57e5ba4995fa0530ad",
+          "width": 1200,
+          "height": 677,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -923,13 +923,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
-      "publishedDateTime": "2023-09-24T21:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

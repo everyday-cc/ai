@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Google Assistant Finally Gets a Generative AI Glow-Up"
+    excerpt: "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.wired.com/story/google-assistant-multi-modal-upgrade-bard-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651d9dd27ae07554ed1e0507/191:100/w_1280,c_limit/Google-Hardware-Assistant-With-Bard-Business.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
     excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
     publishedDateTime: 2023-10-04T14:39:00Z

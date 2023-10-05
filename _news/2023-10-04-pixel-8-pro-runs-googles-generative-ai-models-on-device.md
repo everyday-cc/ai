@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generativ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Google Assistant Finally Gets a Generative AI Glow-Up"
+    excerpt: "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.wired.com/story/google-assistant-multi-modal-upgrade-bard-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651d9dd27ae07554ed1e0507/191:100/w_1280,c_limit/Google-Hardware-Assistant-With-Bard-Business.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Google unveils Assistant with Bard, a new personal assistant powered by generative AI"
     excerpt: "Google introduced \"Assistant with Bard,\" a new AI-powered personal assistant that combines the generative and reasoning capabilities of an AI system known as Bard with the personalized assistance of Google Assistant."

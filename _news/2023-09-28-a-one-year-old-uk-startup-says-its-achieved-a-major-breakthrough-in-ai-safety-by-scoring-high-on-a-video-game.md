@@ -3,8 +3,8 @@ category: news
 title: "A one-year-old U.K. startup says it’s achieved a major breakthrough in AI safety by scoring high on a video game"
 excerpt: "A small startup in Oxford, England says it has achieved an important breakthrough in AI safety that could make self driving cars, robots, and other AI-based products far more reliable for ..."
 publishedDateTime: 2023-09-28T08:14:00Z
-originalUrl: "https://www.aol.com/finance/one-old-u-k-startup-050000329.html"
-webUrl: "https://www.aol.com/finance/one-old-u-k-startup-050000329.html"
+originalUrl: "https://www.aol.com/one-old-u-k-startup-050000329.html"
+webUrl: "https://www.aol.com/one-old-u-k-startup-050000329.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 896
     isCached: true
 
-secured: "pcdHNB+bK7ZEGKgNHfjYSfnMSaGJqBA03NneNVQyoVJYx8qixec/6ZGZSXTVk/SLBfxSEIVBVJ3tTg77iZtHRemXuZeAguvXz7svqYxJRUdCVQ5ILg2X5plaTRQW7Z5Y+6IRO6WknD0ZDf8JQHQlN40pxcFm5RvC7X0+qtVEX3ldikSmALcFgVlW38M7+ddA/fWmFaFiqkSdnodXJneVldA+KmC/nhNExleIk+h2uI5oNMiNqcbNJvp73NNtw88whKoxD5dDzQE9x/f7tfamTUX9rF0H5vYaMPpz8VEsIJy+kA8SYEHD+RMr/qUF//uRUQrEF5FkjW5+Xs9WEUwPpAVnmcQ6jt91madiPYvdKPQ=;7KfesQI0/F/1EIyerGvIuQ=="
+secured: "1GVyw4F9OaSmyIob2PX1gijUoYbgbJVLIHTZtJBG2/ZHzbh4RspipBpQC8bFijYaL14gJWVWm9qjX6ikF8XtXB/S5x6svsaZ/ePUuw4GYeV6v7UfDO6YlkrZ8siISzg6x2zJLXJDd2Ln+hmTuihqiYv3MPxw2b3pViNJ+VoKHEf7RuyQ8xqrDyQWptHU36ftkGD719p3Wom+Ky2BSDGoZgrA1Wj/kcKW9KGk/jFzE7QQtL6AHxPGNqINvLgZKLpOFmzE2Lq3AJIflQ7BEt2i1O5AQOn9I8NUsbTv2HgNOzK6cxpKJU68FzL7yakjA/CeOEZPRNwwYA028CsJ29+AK1Z1DHIqGd5bL8eenD/V4yI=;UU+/DR5hYWtnVgrUsXkFHg=="
 ---
 

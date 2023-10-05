@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Google Assistant Finally Gets a Generative AI Glow-Up"
+    excerpt: "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.wired.com/story/google-assistant-multi-modal-upgrade-bard-generative-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651d9dd27ae07554ed1e0507/191:100/w_1280,c_limit/Google-Hardware-Assistant-With-Bard-Business.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google unveils Assistant with Bard, a new personal assistant powered by generative AI"
     excerpt: "Google introduced \"Assistant with Bard,\" a new AI-powered personal assistant that combines the generative and reasoning capabilities of an AI system known as Bard with the personalized assistance of Google Assistant."
     publishedDateTime: 2023-10-04T14:30:00Z

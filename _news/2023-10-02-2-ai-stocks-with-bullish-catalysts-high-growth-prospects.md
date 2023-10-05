@@ -56,6 +56,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
+    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
+    publishedDateTime: 2023-10-05T05:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "3rHNiUyCxwFvtIe5cBcfPXDa3xrLvycmhwRHUMXfQQ5lhesCFRiFUMYvQE2r8Gzbma0wr2UfYhFsJyQtA/wscMWzqDWk9f7zvMf85diBi/bsTYcLnQVG2WL/2SDGxhA4wpGIKSBDFmaE3AuARWRq5rAw4ljNIlu2GgvDy/tJtXuE17xxuhejMr2EI9wb30UJ3SvaK94r+0e2x0WPZuiqyr4JJ70bD3GGiTta8KWjqcycFTq40LyEqFh/6BbkEVfv1haIQ2Ta0dEd2W2mBD979HbL8WsCK8UWRURFssNgfrm473+cY5IAZ1vvWH51dhc0pjUXRWUz4oiaNmTd7b8RlNYYyBsbPo75ACWOycHCXTA=;zRZu5oD7ecHwIRwGfZ3DAA=="
 ---

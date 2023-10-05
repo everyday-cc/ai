@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-
 webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Donghia Grant Enables Exploration of Artificial Intelligence in Interior Architecture Education"
+    excerpt: "A grant from the Angelo Donghia Foundation will be used to explore the potential of artificial intelligence, or AI, in design education and how it can help the students' creative process."
+    publishedDateTime: 2023-10-05T05:46:00Z
+    webUrl: "https://news.uark.edu/articles/66444/donghia-grant-enables-exploration-of-artificial-intelligence-in-interior-architecture-education"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 42
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2023-10-04_10-55-59-AMAN_Donghia_Huh_Tracy_Miri_IMG_3690.jpg"
+        width: 900
+        height: 674
+        isCached: true
   - title: "US – Senate Hearing On AI And Financial Services."
     excerpt: "US - Senate Hearing On AI And Financial Services. Legal News and Analysis - USA - Banking & Finance, Telecommunications, Media & Technology -"
     publishedDateTime: 2023-10-04T07:44:00Z

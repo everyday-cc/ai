@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-09-07-artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size, Trend, Analysis 2023-2030",
+      "excerpt": "Artificial Intelligence (AI) Robots Market 2023 with 117 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Robots Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34317861/artificial-intelligence-ai-robots-market-size-trend-analysis-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34317861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34317861",
+      "publishedDateTime": "2023-09-07T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ibm-expands-cloud-security-and-compliance-center.md",
       "title": "IBM Expands Cloud Security and Compliance Center",
       "excerpt": "IBM added features around data protection for workloads and AI data repositories to its Cloud Security and Compliance Center.",
@@ -1150,50 +1193,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
-      "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
-      "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-securities-remains-a-sell-on-c3ai-ai-1032612242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

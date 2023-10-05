@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-
 webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say-1032675831"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
+    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
+    publishedDateTime: 2023-10-05T05:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "nqRnEOF03nqU0CDuOpm2X9EsZ8btkK13tslN9jD5oTItK5NkH4pQSc2pgzz6nMC1Aue8twvFqx9S4JibWtI0/iHiyBQxU+KG+tXHnhAJGdosJGhFpEEhXvyuu/A7kPmLY2aXdGNmWP4JtKAeg/Wt8fRXuhnFhKW6pUW4JFMMYxsJBWV7n5mk22P6PrYCp/LNWfRt+Yxvb2KGzr/mahOiCYUAAQOoZ/NZlf1/ELcD4xijEvgmFhbkxTxBbepeGyN9GEjLNRr2dS6VQbu233v1MVIB0jHBkP3wsv4GhYjXCGJIZIOOho3Il2D4MZRehwYebT1z6ZTpHCAx0JvhhzesCHqyNUI19h44fJrUZpazWPT1TdYC0+Nuy+NFFA6CivPrwJXajrIGTzlx6SQ3ulhY/fIn/bKXoI+VeE8x8k1VO38vjLZPPcF92rZtXmENVag3XBU2k8Mi3G0PMzYUdYJ2/h8J1/kd2c1fBdB0Tv+g4Fpcb1QxOYgiwNPN0Hxh1lAX66hhnNqqfvZvhVuO4IHQbQ==;0K0FdToiPEmRD3pgL/yHJA=="
 ---

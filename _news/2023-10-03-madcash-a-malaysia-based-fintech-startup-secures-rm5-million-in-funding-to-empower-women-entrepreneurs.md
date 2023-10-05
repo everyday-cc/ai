@@ -50,6 +50,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 28
+  - title: "Experts convene on impact of fintech sector"
+    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law"
+    publishedDateTime: 2023-10-05T05:54:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/05/10/2023/experts-convene-on-impact-of-fintech-sector"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231005_1696485382-143.jpg?1696485382"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "HGTNnUbOsWe+Bhga678+s79/7nvtVYKZcSATihOlrPpaSvrHTdT55K0saPKC5R114jSIb1AxbLmkqdtxzOygMeCidxe4+qgIms1D9pgmaMXSYT6iBazKJu4rUC5puumXzu3tiYlOf6AuD2iHHF0zfWU418lxGLw+W0dRZ2F30GCtCTyxPQGt0oy0sQ0dE4Zp84siMfsJOFiN3FIOxvont0fZNN8faMhaaVi+TwQ2ha/Z5Ft4G6LOG7ZH6pChJqi0QfMjBpqYfUjUcDeK9U5L1lKNSAPJulMbB5HNiY7LQCBxmG1b4Ln4dRsT+cFZY4ZmuyRAgOwtcdtSIpXtKr0dL3cyhQv1ffYp5/ntWydg4EWBxhZbZjci7GfvYEm1Y+gCBEHjSoThedr2L0aM5sip6t0G7V9jhz7n3TXVNK0XNWkfvpgxCtZMO5FQDum0ciKScYqY+uPoCZVDfjQglnCi9UBGCj5rId8/dwx1/1C0iWzZn/hrp1JERKl4Ur2b0FRRjqybrrOg6in8UK3rm3kgCw==;BL5oLcL/f1mmhUyDozbqWA=="
 ---

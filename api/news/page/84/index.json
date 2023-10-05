@@ -2,6 +2,57 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-08-04-toyota-ponyai-to-set-up-robotaxi-jv-with-139-mln-investment.md",
+      "title": "Toyota, Pony.Ai to set up robotaxi JV with $139 mln investment",
+      "excerpt": "Autonomous vehicle technology startup Pony.Ai on Friday said it would set up a joint venture with Japan's Toyota Motor with an investment of 1 billion yuan ($139 million) to mass produce robotaxis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/",
+      "originalUrl": "https://www.reuters.com/technology/toyota-chinas-ponyai-set-up-jv-with-139-mln-investment-2023-08-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/b4Hz6J1ik8QHWhHnLhfVga1xQ9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TG54DV7IVNMMNEMUWJZ6ZQYQYU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-ai-influencer-attracts-men-despite-not-being-real-expert-shares-red-flags-on-celebrity-dating-apps.md",
       "title": "AI influencer attracts men despite not being real; expert shares red flags on celebrity dating apps",
       "excerpt": "Virtual AI influencer Milla Sofia is catching a lot of attention on social media, with some users wanting to meet her in-person even though she isn't human.",
@@ -1118,59 +1169,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-23b-loan.md",
-      "title": "CoreWeave, which provides cloud infrastructure for AI training, secures $2.3B loan",
-      "excerpt": "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
-      "originalUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
-      "publishedDateTime": "2023-08-03T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

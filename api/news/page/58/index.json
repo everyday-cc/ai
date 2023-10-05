@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-08-23-metas-new-ai-model-is-a-real-time-translation-expert.md",
+      "title": "Meta's new AI model is a real-time translation expert",
+      "excerpt": "Meta's latest AI output is a major advancement for real-time text and speech translation. On Tuesday, the company released SeamlessM4T: a multimodal model that translates text to speech and vice versa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
+      "originalUrl": "https://www.aol.com/metas-ai-model-real-time-200728287.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/BgNJI31cnHuufEMZ4rCbRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/38dc5aa082fba818e4fe45f494572fa0",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
       "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
       "excerpt": "In a bid to help enterprises running IBM Z systems modernise their applications, IBM is expanding the abilities of its generative AI based Watson Code Assistant to include COBOL code translation into Java. The Big Blue claims that the introduction of the ...",
@@ -1076,49 +1119,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-how-microsoft-is-looking-to-ease-uk-antitrust-worries-over-75b-activision-deal.md",
-      "title": "How Microsoft is looking to ease UK antitrust worries over $75B Activision deal",
-      "excerpt": "Ubisoft games are distributed through services such as Amazon Luna and Nvidia’s GeForce Now — consoles that are in direct competition with Microsoft’s Xbox. By bringing Ubisoft into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
-      "originalUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-5grqt4wsg-1692715112760.jpg?quality=75&strip=all&1692700791&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/22/microsoft-looks-to-ease-uk-antitrust-worries-over-activision-deal/amp/",
-      "publishedDateTime": "2023-08-22T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

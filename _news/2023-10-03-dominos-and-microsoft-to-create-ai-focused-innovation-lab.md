@@ -197,6 +197,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 49
+  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
+    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
+    publishedDateTime: 2023-10-05T05:31:00Z
+    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 48
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
     excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
     publishedDateTime: 2023-10-04T17:16:00Z

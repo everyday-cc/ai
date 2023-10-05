@@ -2,6 +2,58 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-08-12-which-companies-will-be-winners-in-the-ai-arms-race.md",
+      "title": "Which Companies Will Be Winners in the AI Arms Race?",
+      "excerpt": "While AI is in the early innings, Palantir and Meta are already separating from the pack. One of my favorite technology research analysts ... higher monetization on Facebook and Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/11/which-companies-will-be-winners-in-the-ai-arms-rac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/742168/artificial-intelligence-ai.jpg",
+          "width": 2102,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
       "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
       "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
@@ -1152,58 +1204,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-why-humans-cant-use-natural-language-processing-to-speak-with-the-animals.md",
-      "title": "Why humans can't use natural language processing to speak with the animals",
-      "excerpt": "We’ve already got machine-learning systems and natural language processors that can translate human speech into any number of existing languages, and adapting that process to convert animal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "originalUrl": "https://www.engadget.com/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/GnGxXoosyOXq2paJpthi2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/310806a0-3541-11ee-baf7-fd5a418556a5",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "publishedDateTime": "2023-08-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

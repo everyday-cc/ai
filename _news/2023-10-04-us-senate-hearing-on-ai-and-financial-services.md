@@ -39,6 +39,20 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Donghia Grant Enables Exploration of Artificial Intelligence in Interior Architecture Education"
+    excerpt: "A grant from the Angelo Donghia Foundation will be used to explore the potential of artificial intelligence, or AI, in design education and how it can help the students' creative process."
+    publishedDateTime: 2023-10-05T05:46:00Z
+    webUrl: "https://news.uark.edu/articles/66444/donghia-grant-enables-exploration-of-artificial-intelligence-in-interior-architecture-education"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 42
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2023-10-04_10-55-59-AMAN_Donghia_Huh_Tracy_Miri_IMG_3690.jpg"
+        width: 900
+        height: 674
+        isCached: true
 
 secured: "7LwZkKctJSvVin0eSOaN9D0RqCNVIcNpPGBEEvaRuxKQ7w+AZXAwI4Vx78+myaRAZCPCfJxEO9KkZ3amVSjz4PYoIprArFD7cWJT2EkaHm71VI1DdUrqJE3NHM7FsYiSxjfLp15o6SjRrt4KeotbLLZlkIbkP9k/AvCENW89EdiOmnJS7WPv/rZuxdL/z1CepIy70zK+ZjU6ZdX3X4QhtH4CLqD2tu0HOHZdp5khId0qfaCVpW4LNEkwKJTFjhr7e2pyi3/6YPdVSl5DzV63Vnk2C7gQchkVcamN0c1siDDd74NLIReLRZlo4oltksuuy1LdxuEZrycff1EUM/lBUfwEzfXgYrFPvrG91wxTG4k=;+VE3O7mg9iQtOLml2CzKCw=="
 ---
