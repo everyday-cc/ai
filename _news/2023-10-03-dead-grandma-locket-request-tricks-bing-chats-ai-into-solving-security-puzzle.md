@@ -127,22 +127,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Microsoft Translator now supports 20 Indian languages"
-    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-    publishedDateTime: 2023-10-05T08:48:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 61
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263649-screenshot-2023-10-05-141841.png?itok=MG_69xaf"
-        width: 700
-        height: 393
-        isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
     publishedDateTime: 2023-10-03T15:12:00Z
@@ -296,6 +280,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Microsoft Translator now supports 20 Indian languages"
+    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
+    publishedDateTime: 2023-10-05T13:58:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 21
 
 secured: "LefBo04J3J2C/URS/pbXEdvGK9b4RK+S1RB0S/xYoTZpxdKKjvbjUlYMXK5f2OY6DieqYOyOlo4idxDR+shbqwZ9jd2CJEh0HBB+aGzGm6kUxzKIHVQmuWOlxX6uNrXemhczf+i4RhpAKUnBPvZzRMB9Wsf4b/QWxEj3Gep/84mipRmU6t8CF/TGnd1wPiSnU6QNN/eFEFNa+VMhfINPBzU58jDUUMl6t9vZXEfgj7FFNC6h6Gjr1FJJbKYHJGz10w3xuJXLE1qOMIC9vVR/LdbbL+TFwBIYJKow1/VGdITtbdr/PyxzfFNtjfK77mzYrgMb6Drz1sab+2VMiEZSeoW2VzDI7POIYrAWMBK9nL3tjI/JBVSO3Qs/qphkKFVAZJcAYOY2pPHiJjlVELO2q4/KWqnQ2skeyqseiiw8PI5M3VJpzl7tCSnXwZNjzyLe4Lwo5ZWZFgu44MSh2nI4pl9sOzy3IAFZMv3mog1vRuxxTaK6+U99WROE6v5kTTnmChQhz3FXT40DuJl3X6lqdw==;+S4cWDDCylQVQmljstGunA=="
 ---

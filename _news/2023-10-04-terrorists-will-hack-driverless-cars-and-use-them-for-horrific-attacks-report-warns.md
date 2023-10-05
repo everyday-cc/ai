@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 82
+published: true
 
 provider:
   name: The Sun
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
+    excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
+    publishedDateTime: 2023-10-05T14:48:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/texas-driverless-cars-autonomous-vehicles-cruise-18408377.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 36
+    images:
+      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
     excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
     publishedDateTime: 2023-10-03T23:19:00Z
@@ -43,6 +57,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Cyngn Revolutionizing Labor Shortage Challenges Through Driverless Forklift Partnership, Featured in Forbes"
+    excerpt: "DriveMod uses artificial intelligence and sophisticated software to transform ... Together, the companies have embarked on a journey to integrate driverless forklifts into Arauco's operations, culminating in a 100-unit DriveMod Forklift pre-order."
+    publishedDateTime: 2023-10-05T12:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893356.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "dGWp9XHHVuivg5c3TT462L3MEmdNosM5LrO4miUq+bNUSmaRgS1sdpb4QHWfyBTcGxpDMJX8lWGcwVrbxIyp1Sa89cJ2iMcJdivMWK4EJxCSy3X4TNl1QlB+fHp3/0mhduDNol0t6R8Qu4ZSvskxbzsOhzAyJwVOv7bYuUdoZaWCj56DOv2nk31Ycdn6tHAK9crZBdsiTekPYrdbghCLw5ZyCy6boUDtGB9Dbkg8wIYgjInWib5QtGbXhhAldUir5jEdNoUJAwIf3sJEArNP5/GyDrc2kHBoxus+elt63euJHKZRXZwuHktKJijk5rbTSHyjt3+MnlV/05dDza0+yq796zS0rOaZl/IuKnPtZqKyrQ7x0pdfVpdkU+IIKelfloWfuNR2uM+QnH0Pp8LoL9C1gi4L7gynVa7Fnf6wWeuxLjjZjCkz28RWTsdj4FedRjn5IG1Jh8R8CI2CSwBA3y19wCpZ73CsDMrPob3oPOz7AYctaErfzofbDaspYgMMKXJolaT9rAENRf1fXEgKVA==;QEO9JOPSUq2yb59BmCjmvA=="
 ---

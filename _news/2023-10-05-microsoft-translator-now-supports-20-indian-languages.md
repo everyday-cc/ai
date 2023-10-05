@@ -2,30 +2,22 @@
 category: news
 title: "Microsoft Translator now supports 20 Indian languages"
 excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-publishedDateTime: 2023-10-05T08:48:00Z
-originalUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700"
-webUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700"
-ampWebUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
-cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
+publishedDateTime: 2023-10-05T13:58:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
+webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
 type: article
-quality: 61
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Zee Business
-  domain: zeebiz.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263649-screenshot-2023-10-05-141841.png?itok=MG_69xaf"
-    width: 700
-    height: 393
-    isCached: true
 
 related:
   - title: "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA"
@@ -295,6 +287,6 @@ related:
       domain: benzinga.com
     quality: 22
 
-secured: "39MQnWEnGpNbNazw1PhF2J1shtSFvGBDeconxS7IanKS/ZTkcpqj3g39tAWoqSFvHfxj3WFREsG2Qdf/FAiLF9D9ElgmEjCLniEdi95glI+LFyrmyZZoO6Fx64NRHwG6ZfP9YSV4/0y+QLfoYIMztKe//NDTGHvakelLR/Z2qKom1cmDHlbXCyucnZu8uZdfGhqUR0Vyh0Zx2vJUebCRlwCaZJ8SRvhfRsd+Sz5i9HIW6Jxtzm1hAwwJVxuWg4M9rpB9DQdyBda9A/ve4t4W0cWoLcVvv+AHCouQx+ElcCg7BmCIkymicFj/ZL3b7OdK/WLL6JU+5H7wiw9/Qub3JQRBXGDcpdY8uF31uXa91/k=;obw9/TyXeQw+JoTwWj+cyg=="
+secured: "Z48zOVf/E4ttWcJyDSC5Bu3/tiO4c2VlxpTv3jDxU2fHHrUTiXbSRD3sya+uSD234PH30Cw6wKZXJBT921Q6vRYcJE+3sRomhS31epCC2kgwq1eVklZ66NQ+sbo2RlJ6yQEozBpSYfdztE8BbEK/o0y5WCIFQV7C7xR8PPfyzOehaKk7ADKYXIY3MuGYCqS+miLefKvszbVVPhKam40Ooc4xQlJCtEYqXbLIPk7FjxsLtGtxZ3a+2G4j5/ScsGBKvTvfTJEClYUEeLpYKaEg+mm5sudA2MgSSV4jTCLfAzcupfmZQdvMhXTwR6KzE8Sf0ZnFtDzZzsJxZNFHTD45F9xGHIhgBFSMhCXAHpZSdzwk//YaP6TyxWpVJx9W4H8U34Q709dlUObFyXZTzYoMez/lScHr/IxhZmY/F/2nVTkeCSSrE/sCXqlle5F0UcniifoHyVlnsRhqWDdIrvjmCIF5g/a5DmMjB6jL2w3+J7ODSCpKqhNfZU+8/78bNN0hMqT12ZijNfr1qZQRuL+SSA==;MhAXfxMSoOW8Jy54d1hPeA=="
 ---
 

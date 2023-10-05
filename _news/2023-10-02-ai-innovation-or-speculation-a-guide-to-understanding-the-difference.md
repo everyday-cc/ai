@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "CX is a good place to start with AI-driven innovation"
+    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
+    publishedDateTime: 2023-10-05T12:51:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 17
   - title: "Call Assistant AI introduces call management solution app for blocking spam calls"
     excerpt: "Call Assistant AI’s Chief Technical Officer, Paulo Taylor, says the innovation helps users with an incredible incoming call experience for their personal and business needs. Taylor adds that with the app’s voicemail service, users can also enjoy a state-of-the-art voicemail system. According to him, they can listen, share, or download all their"
     publishedDateTime: 2023-10-02T15:53:00Z

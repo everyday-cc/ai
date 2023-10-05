@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
-publishedDateTime: 2023-10-02T04:33:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
+publishedDateTime: 2023-10-01T23:02:00Z
+originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
-    width: 1240
-    height: 826
-    isCached: true
 
 related:
   - title: "Nodar Increasing Sensing Range for Autonomous Driving"
@@ -39,7 +33,21 @@ related:
         width: 1107
         height: 630
         isCached: true
+  - title: "Self-driving vehicle testing in Pittsburgh area shifting gears to focus on trucking industry"
+    excerpt: "Not long ago, cars topped with a futuristic apparatus could regularly be seen cruising along Pittsburgh’s streets, testing technology that allowed the vehicles to get around without a person steering the wheel."
+    publishedDateTime: 2023-10-01T08:00:00Z
+    webUrl: "https://triblive.com/local/regional/self-driving-vehicle-testing-in-pittsburgh-area-shifting-gears-to-focus-on-trucking-industry/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 13
+    images:
+      - url: "https://assets-varnish.triblive.com/2023/10/6592797_web1_Terminal_4.jpg"
+        width: 480
+        height: 320
+        isCached: true
 
-secured: "UAUTNEgfuuhZYeWxswULtsLoloOu7smLEG9urbIesxL4MMh1ZEvAbLM0HS0zAXGkGxZpRT/oFbisuafvmEXGbTrGW4eDC9EuIi86Jq8v24f9NOpWVAAKcGL1PsNpAls224AdGDXxTACur9dzIu5bn/BgyOSxQhsQDfmNJ96pZWbZByas4eyHlRbnIgCE3rbFsbfRrwVwDH6hsKRU6s7djaQunWWXVNFANlGi0vCrKeVKtAfCssoHoz+fT1oM0Ft+OVS8x5i06BIeYXp4gMQGSZB6Cpgywr05SoAuX0hva3Oc3Xs4UwDiysU+bt88lg+0Cxts+TArcx/SR9VyWQY4hiwLapQe1R65PDT7g+ffpuc=;Uj9+8Ro3toc23dJBzcQ7WA=="
+secured: "C/QRIqXMvgKhqcpV4YN7UewrPbfnp/iw7Dv3ak0KWGzkbgR53Ex58jpjWKl7xkXd1IPJnyB09tO8Nybgwyg3lfvHCJJc2mvG9Wb9aCNBXlVrBZhNf6vtuffZvpFCE7LVNrYdKZ+6WNW6Vs2bqWJ0VyJc+/yyIFRe+5WQrU8WT8Cq0yjsB3LN0L9lf0Tau7vHxdLiKQ5MROVg4Rq3tueZo2vLEzE9m3S+D2KH+SsiaSRqZozFNDY2RqZP2K/iNNNjFNxK73tFKbUfwUpbSgj9D1/e3co1lqllZX/T8k0lmkp+3BIoKsfOsbtgRRylODvDOa1Tw+sBtHIfGjngWnpmP+bUGa+CNK9MjtaO2tTSFjtaV1YSPw5isRA2i9sffADxIAkw/aJopnIEJfgF2APRUay454Ld5WY76uwrlpHLC/KhOLEY5T3/jBkDCvkrtpNbswQvz0wobe+8LxlxcaBZnSNbMnbIVj+TEO+c+MGLseHKquEmkfB2aYJlsLcdxdY9xhgNab3QqDi4XhVZquHGaA==;u/S0SLUjhNGwNLXyu1XimQ=="
 ---
 

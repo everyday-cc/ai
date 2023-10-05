@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/idRW634102102023RP1"
 webUrl: "https://www.reuters.com/video/watch/idRW634102102023RP1"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "Likewise debuts Pix, an AI chatbot for entertainment recommendations"
+    excerpt: "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own"
+    publishedDateTime: 2023-10-05T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/"
+    ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642"
+        width: 1200
+        height: 642
+        isCached: true
+  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
+    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
+    publishedDateTime: 2023-10-04T12:00:00Z
+    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Nearly 10% of people ask AI chatbots for explicit content. Will it lead LLMs astray?"
     excerpt: "Beyond programming tips and writing help, a million conversations reflect people's desires for other kinds of 'usafe' information. Here's what researchers are doing about it."
     publishedDateTime: 2023-10-03T14:49:00Z
@@ -42,20 +72,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Robots crafted by artificial intelligence: Instant evolution"
-    excerpt: "Researchers have achieved a significant milestone by creating a artificial intelligence system capable of crafting robots from scratch."
-    publishedDateTime: 2023-10-04T10:41:00Z
-    webUrl: "https://www.openaccessgovernment.org/robots-crafted-by-artificial-intelligence-instant-evolution/167609/"
+  - title: "Bill Gates-Backed Startup Launches AI Chatbot for Personalized Movie, Book Picks"
+    excerpt: "The chatbot, called Pix, runs on OpenAI language-processing tech and will learn user preferences over time."
+    publishedDateTime: 2023-10-05T12:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/bill-gates-backed-startup-launches-ai-chatbot-for-personalized-movie-book-picks-3badd854"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1364859722-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 42
   - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
     excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
     publishedDateTime: 2023-10-02T10:45:00Z
@@ -70,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
+    excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
+    publishedDateTime: 2023-10-05T13:27:00Z
+    webUrl: "https://variety.com/vip/celebrity-just-might-be-metas-edge-in-ai-chatbot-war-1235745299/?n=@"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "ht/iv8hajIbZF0qf6HOMHXoK7UZOYpKlsapTYz2ygUWfgDfZrxqOv47XO3cz3ksWIn0svHmaTL6AERHTSaQQ6Ce6HCPl1oFoyUOFsJPSJ7O1Ew8kabtb4FwXtJAP7vZU9q6zBPn6IgZ2C7JYGdCC4hjxW5YFz+Q9byfcMZ3c9cdIAHmg9r4ZPg8YWDzHDMsWLpOBvAFUZuftx4LzRMTo8dQHuHWPtsRtQiyQuiVIi1e55uxw+UvS6h08pI/ArS2vPhbzDuOlHmdvhLZs+Y1gm0SiDlx0IFIeII4YSz14EhJGDXwI8wu5gA4PmDoBOQOgQR03zfvptnS0tMLK46UDX7n70M8rP0B/9zIC7zlF7Ms=;e+L/3RdSxoiEuNfAld4bqA=="
 ---

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -605,8 +605,8 @@
       "title": "DeepMind uses AI to predict harmful genetic mutations in humans",
       "excerpt": "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec",
-      "originalUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec",
+      "webUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
+      "originalUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -667,6 +667,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential.md",
+      "title": "Google DeepMind AI tool assesses DNA mutations for harm potential",
+      "excerpt": "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?trk=public_post-text",
+      "originalUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?trk=public_post-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1376,40 +1419,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards - FT",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's NVDA.Oartificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here are all the cool new AI features coming to the Pixel 8 and 8 Pro"
-    excerpt: "Google has added a few AI-powered features to the new Pixel 8 and Pixel 8 Pro, and they are going to remain exclusive to them for a while."
-    publishedDateTime: 2023-10-04T15:14:00Z
-    webUrl: "https://www.androidauthority.com/google-pixel-8-ai-features-3371529/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Pixel-8-and-Google-Pixel-Watch-2-Lifestyle-shot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Big Tech’s bet on AI assistants is so risky"
     excerpt: "OpenAI unveiled new ChatGPT features that include the ability to have a conversation with the chatbot as if you were making a call, allowing you to instantly get responses to your spoken questions in a lifelike synthetic voice, as my colleague Will Douglas Heaven reported. OpenAI also revealed that ChatGPT will be able to search the web ."
     publishedDateTime: 2023-10-03T09:42:00Z

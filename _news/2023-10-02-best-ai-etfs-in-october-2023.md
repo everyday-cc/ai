@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Signal Says Avoid This Chip Stock in October"
+    excerpt: "Schaeffer's Senior Quantitative Analyst Rocky White just released his list of the worst S&P 500 Index (SPX) stocks to own in October. AMD is the only semiconductor stock to land on the list, averaging a loss of 3.7% in October and ending the month lower 60% of the time."
+    publishedDateTime: 2023-10-05T14:18:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 39
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/sectors/bigstock-global-semiconductor-shortage--437330732.jpg?sfvrsn=e875d306_4"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Amazon Prime Day 2023 - the 35 best early deals from the October sale"
     excerpt: "Browse all early deals at Amazon Standout deals so far include Amazon devices such as the Fire TV Stick, Echo Pop and Fire TVs, which are all available for record-low prices. There are a number of ..."
     publishedDateTime: 2023-10-03T16:11:00Z

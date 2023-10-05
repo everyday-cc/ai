@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-26-driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians.md",
+      "title": "Driverless cars ‘worse at detecting children and darker-skinned pedestrians’",
+      "excerpt": "Dr Jie Zhang from the Department of Informatics at King’s College London, in collaboration with colleagues, assessed eight artificial intelligence ... which tell a driverless car whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
+      "originalUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/AI-autonomous-fleet-platooning.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
       "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
       "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
@@ -1355,58 +1398,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-exclusive-top-chinese-ev-maker-byd-opts-out-of-deal-to-use-baidus-autonomous-driving-technology-sources-say.md",
-      "title": "exclusive | Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say",
-      "excerpt": "Baidu said during its third-quarter results in November 2022 that one of China’s largest carmakers intended to use the Apollo technology suite, calling the partnership a sign of “increasing appetite for its self-driving solutions from automakers”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=more_top_stories_asia&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3231045/top-chinese-ev-maker-byd-opts-out-deal-use-baidus-autonomous-driving-technology-sources-say?module=more_top_stories_asia&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/14/8d0c8faa-5516-4e6e-86d6-fb4767cae9e5_be05c4b5.jpg?itok=9WZuQ1Up&v=1692010100",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

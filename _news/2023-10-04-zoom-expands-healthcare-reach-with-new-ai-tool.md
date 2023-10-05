@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/zoom-expands-
 webUrl: "https://www.beckershospitalreview.com/digital-health/zoom-expands-healthcare-reach-with-new-ai-tool.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -25,24 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI company raises $31M"
-    excerpt: "Health Data Analytics Institute (HDAI) has raised $31 million in series C financing to expand its HealthVision platform, using AI to generate lists of patients"
-    publishedDateTime: 2023-10-02T19:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/healthcare-ai-company-raises-31m.html"
+  - title: "Atropos Health leverages AI to democratize access to real-world evidence in healthcare"
+    excerpt: "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research."
+    publishedDateTime: 2023-10-05T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+  - title: "UST, Hyro announce tie-up to leverage conversational AI in healthcare"
+    excerpt: "Hyro, a leader in responsible conversational AI for healthcare, partners with UST, a digital transformation solutions company, to offer healthcare providers automation solutions for routine tasks. The partnership aims to enhance contact center efficiency by deflecting 60-85% of calls,"
+    publishedDateTime: 2023-10-04T13:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ust-hyro-announce-tie-up-to-leverage-conversational-ai-in-healthcare/article67380008.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 34
-  - title: "Spectral AI Adds Healthcare Services Leader and Population Health Expert Deepak Sadagopan to Board of Directors"
-    excerpt: "Deepak brings a wealth of knowledge and relevant experience to Spectral AI as we advance the DeepView ® System through late-stage development and launch,” said Wensheng Fan, the Company’s CEO. “This is a transformational period for our company."
-    publishedDateTime: 2023-10-02T15:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/02/9890616.htm"
+  - title: "We know how to regulate new drugs and medical devices–but we’re about to let health care AI run amok"
+    excerpt: "There’s a great deal of buzz around artificial intelligence and its potential to transform industries. Healthcare ranks high in this regard. If it’s applied properly, AI will dramatically improve patient outcomes by improving early detection and ..."
+    publishedDateTime: 2023-10-03T19:28:00Z
+    webUrl: "https://www.aol.com/finance/know-regulate-drugs-medical-devices-162304419.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/848qCIgdifhsw2LY75famg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/aol_fortune_385/0dd17a080d2ba9c16e382c041f6092b0"
+        width: 1200
+        height: 836
+        isCached: true
+  - title: "CharmHealth Advances Provider and Patient Intelligence With AI"
+    excerpt: "\"By making it remarkably simple to integrate patient health data and information into a single platform, AI uncovers richer diagnostic insights from millions of data points. This results in a care experience that is much more tailored to the individual."
+    publishedDateTime: 2023-10-05T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-charmhealth-advances-provider-patient-intelligence-with-ai-/2023/10/05/9893755.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 14
+    quality: 19
 
 secured: "A5wliOJM34bZpGYXCfH3seDZSiO0tTwT7bZEtzbiWjFRoGYRNvuTZdqJYG4BBooR5uC/npvOwSs+IUtS7rTfak7AuDjWDyqdVWFpFlg2LW+dfnoVlroDeZKagz3XuTx2VHUTNu38Q0djpIiA5QY1BXMacN7Q0dKfqZSntcQgXz1Ki0utvKGSdERjSzdvWJsKchf8H/AAjHLLxbjpxcBES1/EIWIRXPEQd+oAjVP9ZCQtjv/jrYEUeS5SrO/iafK8NqErZmg7apYd7yPmDxMjvd6cdK3fN0HBRpp8IUUfb4xDc0lFhED3+kD/KUf/ZKj9MvUXHhluk/ocUDQh6Ue8FleVpR34Gsvju4tywkotNK8=;NPffcOschOjvSe9jssPqQQ=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-05-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri.md",
+      "title": "Microsoft Translator adds four new Indian languages including Bhojpuri and Kashmiri",
+      "excerpt": "Microsoft Translator gets a step closer to its goal of supporting all 22 official Indian languages with the addition of four new local languages including Bhojpuri, Bodo, Dogri, and Kashmiri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_08_2021_14_14_20_6213924.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "publishedDateTime": "2023-10-05T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-not-all-algorithms-are-ai-part-2-the-rise-of-real-ai.md",
       "title": "Not All Algorithms Are AI (Part 2): The Rise Of Real AI",
       "excerpt": "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry.",
@@ -905,17 +949,17 @@
       "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
       "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
-      "originalUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000187.html",
+      "webUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
+      "originalUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/#!",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/ny/api/res/1.2/km5tsriIK7HZ5aZlEQDBdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/aol_variety_168/93178d697a7d0f57e5ba4995fa0530ad",
-          "width": 1200,
-          "height": 677,
+          "url": "https://variety.com/wp-content/uploads/2023/09/Spotify-AI-Voice-Translation-App.jpg?w=1000&h=563&crop=1",
+          "width": 1000,
+          "height": 563,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -923,13 +967,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:15:00-07:00",
+      "ampWebUrl": "https://variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/digital/news/spotify-ai-podcast-language-translation-1235732548/amp/",
+      "publishedDateTime": "2023-09-24T21:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "Variety",
+        "domain": "variety.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1357,59 +1401,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-fairly-ai-wants-to-help-companies-better-understand-their-ai-risk.md",
-      "title": "Fairly AI wants to help companies better understand their AI risk",
-      "excerpt": "David Van Bruwaene was pursuing his Ph.D. in philosophy at Cornell when he developed a passion for linguistics and natural language processing, the subfield of AI concerned with allowing ... “Our technology allows us to translate compliance requirements ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/",
-      "originalUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/",
-      "publishedDateTime": "2023-09-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Signal Says Avoid This Chip Stock in October"
+    excerpt: "Schaeffer's Senior Quantitative Analyst Rocky White just released his list of the worst S&P 500 Index (SPX) stocks to own in October. AMD is the only semiconductor stock to land on the list, averaging a loss of 3.7% in October and ending the month lower 60% of the time."
+    publishedDateTime: 2023-10-05T14:18:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 39
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/sectors/bigstock-global-semiconductor-shortage--437330732.jpg?sfvrsn=e875d306_4"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Best Stocks To Buy Now in October 2023"
     excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
     publishedDateTime: 2023-10-05T00:24:00Z

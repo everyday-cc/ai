@@ -2,6 +2,502 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-09-12-artificial-intelligence-ai-verticals-market-by-size-2031.md",
+      "title": "Artificial Intelligence (AI) Verticals Market by Size | 2031",
+      "excerpt": "Artificial Intelligence (AI) Verticals Market Research Report give analysis of industry development growth opportunities, Trend till 2031. Artificial Intelligence (AI) Verticals Market detailed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34463482/artificial-intelligence-ai-verticals-market-by-size-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34463482",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34463482",
+      "publishedDateTime": "2023-09-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-investors-eye-mongodb-as-a-promising-ai-play.md",
+      "title": "Investors Eye MongoDB As A Promising AI Play",
+      "excerpt": "Customers are increasingly selecting MongoDB’s Atlas cloud database as a key platform to both build and run new AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff6a73a669b8403273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/09/11/investors-eye-mongodb-as-a-promising-ai-play/amp/",
+      "publishedDateTime": "2023-09-11T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
+      "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
+      "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-oracle-comes-up-short-on-revenue-but-touts-ai-cloud-contracts.md",
+      "title": "Oracle comes up short on revenue but touts AI cloud contracts",
+      "excerpt": "Larry Ellison pointed to a doubling in the amount of money that artificial-intelligence development companies have agreed to spend on Oracle cloud services",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255187-1686592504227-gettyimages-1175129168-img_6558_2019091665104570.jpeg?v=1694463678",
+          "width": 4512,
+          "height": 3204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
+      "publishedDateTime": "2023-09-11T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-ai-integration-in-biotech-pharma-companies-positioned-to-benefit.md",
+      "title": "AI Integration In Biotech & Pharma: Companies Positioned To Benefit",
+      "excerpt": "From optimizing clinical trial design to analyzing vast datasets for potential drug candidates, Novartis sees AI as instrumental in advancing its research. Roche's (OTC:RHHBY) interest in AI isn't just theoretical. They've acquired several companies and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-integration-in-biotech-pharma-companies-positioned-to-benefit-1032621068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/national-cancer-institute-xknubmnjbkg-unsplash_1.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.md",
+      "title": "Hyderabad can emerge as India's AI, robotics hub: Experts",
+      "excerpt": "Boston, USA: Experts in the fields of artificial intelligence (AI), robotics and data protection in the US appreciated the progress being made by India in general and Telangana state in particular, saying Hyderabad has emerged as the new technology hub of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "originalUrl": "https://www.deccanchronicle.com/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qdjlmll247sgamvbuhqasf3u62-20230911230129.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110923/hyderabad-can-emerge-as-indias-ai-robotics-hub-experts.html",
+      "publishedDateTime": "2023-09-11T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-ai-app-characterai-is-catching-up-to-chatgpt-in-the-us.md",
+      "title": "AI app Character.ai is catching up to ChatGPT in the U.S.",
+      "excerpt": "That’s notable growth following Character.ai’s May 2023 launch, when the startup shared it had topped 1.7 million installs in its first week. Of course, installs don’t equate to users, much less active ones. In fact, the average mobile app has a 30 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "originalUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
+          "width": 1011,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/amp/",
+      "publishedDateTime": "2023-09-11T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you.md",
+      "title": "Even TurboTax is adding an AI tool. Here's what Intuit Assist can do for you",
+      "excerpt": "Intuit, the company behind popular tax software TurboTax, has announced a new generative AI tool called Intuit Assist. The AI tool, intended primarily for small entrepreneurs and business owners but available to anyone, is designed to give those users the same leverage as large corporations when it comes to taxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "originalUrl": "https://www.zdnet.com/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/814a0f43f23c03c4c7ef58e3508089f746827abd/2023/09/11/bf9e9aec-646a-4ff5-8cee-5496f8db4cba/tax-gettyimages-1170832686.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/even-turbotax-is-adding-an-ai-tool-heres-what-intuit-assist-can-do-for-you/",
+      "publishedDateTime": "2023-09-11T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-powering-the-future-the-synergy-of-ibm-and-aws-partnership.md",
+      "title": "Powering the future: The synergy of IBM and AWS partnership",
+      "excerpt": "The true power of this partnership and its offerings becomes evident when considering real-world scenarios.\nThe post Powering the future: The synergy of IBM and AWS partnership appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/powering-the-future-the-synergy-of-ibm-and-aws-partnership/",
+      "originalUrl": "https://www.ibm.com/blog/powering-the-future-the-synergy-of-ibm-and-aws-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T09:44:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-state-laws-are-putting-ai-in-the-drivers-seat.md",
+      "title": "State laws are putting AI in the driver's seat",
+      "excerpt": "Are you riding alongside driverless vehicles in your state? TruckInfo.net analyzed legislation across the U.S. to make sense of the range of laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/collection_f53d3dc1-771c-5c4a-bf25-6afb4a5655d0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
+      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
+      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
+          "width": 714,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "publishedDateTime": "2023-09-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-new-alarms-sounded-about-china-deploying-generative-ai-as-a-social-media-weapon.md",
       "title": "New alarms sounded about China deploying generative AI as a social media weapon",
       "excerpt": "The Rand Corp. is warning that new artificial intelligence tools will provide China with a pathway to use social media to more effectively manipulate people worldwide.",
@@ -634,524 +1130,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-can-a-child-understand-everything-instantly-should-ai-be-different.md",
-      "title": "Can A Child Understand Everything Instantly? Should AI Be Different?",
-      "excerpt": "The lack of an intimate human fabric in the evolution of AI would be less than ideal for the future of the technology—and could prove dangerous for us, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb5b677db5811873f9e2d1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/can-a-child-understand-everything-instantly-should-ai-be-different/amp/",
-      "publishedDateTime": "2023-09-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-a-vision-of-ai-enhanced-test-automation.md",
-      "title": "A Vision Of AI-Enhanced Test Automation",
-      "excerpt": "To further increase testing precision, one could employ feature recognition bolstered by computer vision libraries that can categorize and identify UI elements within application screenshots. Convolutional neural networks (CNNs) step in, classifying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/11/a-vision-of-ai-enhanced-test-automation/amp/",
-      "publishedDateTime": "2023-09-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m.md",
-      "title": "Open Cosmos, a UK satellite startup focused on sustainability, raises $50M",
-      "excerpt": "Now, UK startup Open Cosmos, which is building what it describes as ... the amplifying effects of climate change and the rapidly growing number of AI/ML solutions that extract insights from this data that the market is now ready to reach its full ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/open-cosmos-data.jpg?resize=1200,611",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/amp/",
-      "publishedDateTime": "2023-09-11T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-robot-fried-chicken-entrepreneur-seeks-to-improve-s-koreas-favourite-food.md",
-      "title": "Robot Fried Chicken: Entrepreneur Seeks To Improve S. Korea's Favourite Food",
-      "excerpt": "In fried-chicken-obsessed South Korea, restaurants serving the nation's favourite fast-food dish dot every street corner. But Kang Ji-young's establishment brings something a little different to the table: a robot is cooking the chicken.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
-      "originalUrl": "https://www.barrons.com/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP7482220699834898514323190859962703852672---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/robot-fried-chicken-entrepreneur-seeks-to-improve-s-korea-s-favourite-food-a06efd08",
-      "publishedDateTime": "2023-09-11T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-top-5-ai-and-robotics-companies-transforming-the-agriculture-sector.md",
-      "title": "Top 5 AI and Robotics Companies Transforming the Agriculture Sector",
-      "excerpt": "In this article, we will look at the top 5 AI and robotics companies transforming the agriculture sector. If you are interested in reading an in-depth industrial analysis along with a more extensive list of the topic, head straight to the the Top 20 AI and Robotics Companies Transforming the Agriculture Sector .",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/10/11061545/Stocks.jpg?auto=format&expires=1725926400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-5-ai-and-robotics-companies-transforming-the-agriculture-sector-1192684/?amp=1",
-      "publishedDateTime": "2023-09-11T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition.md",
-      "title": "Arm IPO: 5 things to know about the chip designer central to the AI transition",
-      "excerpt": "As with all things chip-related, China is a risk factor, and AI might not live up to hype Taiwan might as well be the center of the universe when it comes to the semiconductor industry with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
-      "originalUrl": "https://www.marketwatch.com/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-840106/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/arm-ipo-5-things-to-know-about-the-chip-designer-central-to-the-ai-transition-154d7059",
-      "publishedDateTime": "2023-09-11T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-artificial-intelligence-and-machine-learning-news-and-features.md",
-      "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "A convolutional neural network is a type of artificial neural network in which the neurons are organized into receptive fields in a very similar way to neurons in the visual cortex of a biological brain. A new study examines the phenomenon of visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134",
-      "originalUrl": "https://www.technologynetworks.com/genomics/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/134",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230923",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-sundar-pichai-on-googles-ai-microsofts-ai-openai-and-did-we-mention-ai.md",
-      "title": "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?",
-      "excerpt": "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
-      "originalUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-tesla-stock-rallies-as-morgan-stanley-boosts-rating-citing-ai-prowess-via-dojo.md",
-      "title": "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’",
-      "excerpt": "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-849720/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
-      "publishedDateTime": "2023-09-11T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-meta-is-developing-a-new-more-powerful-ai-system.md",
-      "title": "Meta is developing a new, more powerful AI system",
-      "excerpt": "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
-      "publishedDateTime": "2023-09-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
-      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
-      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
-      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
-      "publishedDateTime": "2023-09-11T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

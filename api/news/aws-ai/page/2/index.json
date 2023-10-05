@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-19-abdul-latif-jameel-teams-up-with-aws-to-power-its-digital-transformation-and-signs-renewable-energy-agreement-with-amazon.md",
+      "title": "Abdul Latif Jameel Teams Up With AWS to Power Its Digital Transformation and Signs Renewable Energy Agreement With Amazon",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Abdul Latif Jameel, a nearly 80-year-old internation",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230918127784/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230918127784/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-50-generative-ai-startups-to-watch-in-2023.md",
       "title": "50 Generative AI Startups to Watch in 2023",
       "excerpt": "and other forms of artificial intelligence to generate new, original content for a variety of business use cases. Larger tech companies like Google, Microsoft, and AWS are working hard to build up ...",
@@ -1414,40 +1448,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-red-hat-openshift-now-available-in-aws-marketplace-for-the-us-intelligence-community.md",
-      "title": "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community",
-      "excerpt": "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "originalUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

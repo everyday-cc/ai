@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 1113
         isCached: true
+  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
+    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
+    publishedDateTime: 2023-10-05T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "1CuiUYPCwemhRZxBOYMWlkLeIJSJZoaxcPqVQTQVCWEqYXtfnRiCzeMwRVjdAyYIBnkBDR+bMVYgh1R44hk0kzc5WJeX7Ny0SUH0VF1Dr1JRoAJ/kfzbCla9LdlpZhJdQeYw60UtuwISrJ0bEc6uTh+cyajNNKlR23Ay67LTmEUZIK3m57jdjfzfdMShI0chHE0jJ7a9E+78qrjodRh6+KmXS34bgTAcVs0G4BImrGWvBB//RHRO59xxsnQmu5EGsx61AiG3Piwwr38uFV7nch/3rc9ComynbM36w9BsYwGvEaAQZdAWvgzeuX0EQOlRW45b0STcvvA35kpWHkNb9zkD397f3eie4hV0j40V4az6QzP9s1mkH0gR3HNm98/N5Fdm9Pp90w4veAUf5+SbqFACDRTRAiizCMG9OB6rYfEdguEnUMB5n7BSCxH6Dg1jOELNt2Lq7Z/iF7xgabFQyhFzgI3VLr0mDdJABeICq+IvTxOTNgC1dz9K8nyGJhbAHc/zoA2rJYo6ioeRr7rlRQ==;EQVnC347yVYu0K9qvmSK9Q=="
 ---

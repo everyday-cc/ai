@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
 webUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
+    excerpt: "Dynatrace (NYSE: DT), the leader in unified observability and security, today announced the availability of its latest core innovations for customers"
+    publishedDateTime: 2023-10-05T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231005651888/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 45
 
 secured: "3Le4N5xwG6OYTCxVT7wJBNqCQPde1voJzSJQIEMPkbsPCjnv/j6VCqovJVyyAW1VEB/enTlO6TdZ8a0OVee0oXD2Mt/rGSjztIGC+3VOLAGnloVZr/gyP38XFUQFxSvKjreAD87rU2Kn3rCIdssEjTC9LbaD2Ma7mk2Kpf5g6/BYmFig6h3CcucbMFdXIiJW2NeLuHTzGBv8AgHkU4emeR6mSpDneculQTbO421itD+4COKqbFZ3TvjqMTT9lY044w6FJzWBjjJA7WlWixkslnW8TUi/5LSTHEpN/CWTq3D/X5B9UDqUGmSGo2g4ARLKyFDjdUz4jrrq+J7JvD7C1skDbri3Nsm1rhbJE1Sii+0=;xLuCChdPgfv4BMCkgZktsA=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Unique voice print in parrots"
+    excerpt: "\"It makes sense for monk parakeets to have an underlying voice print,\" says the Max Planck's Simeon Smeele, first author on the paper. \"It's an elegant solution for a bird that dynamically changes its calls but still needs to be known in a very noisy flock.\""
+    publishedDateTime: 2023-10-04T16:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003202004.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Unique voice prints in parrots could help birds be recognized in a flock, no matter what they say"
     excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
     publishedDateTime: 2023-10-03T23:00:00Z
@@ -54,20 +63,6 @@ related:
       - url: "https://cff2.earth.com/uploads/2023/10/03181832/monk-parakeets_1medium.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Unique voice print in parrots"
-    excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
-    publishedDateTime: 2023-10-03T23:20:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003104"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b76ae98b-d253-4f3c-ba9a-f379619bfcac/Rendition/low-res/Content/Public"
-        width: 424
-        height: 700
         isCached: true
 
 secured: "wZEdLR+1ZG+MDsVZtUvv1N3xZ/7JaBVF7PZy4NjGoXoPd7/3FaoXMmghyJXmzsdL/4JSWixH4BlAiZVdEQHS98Q/byR9W8JmWjr/xyBrzz6Gx6guaFBAJ3D0nLkMrKGk5401eB7TvhtrmXIilci/w8qcbSW0nbjrgPmu40qJACBXDuJQxDosGidRv+anmLLQkgPWJa5HE55hlXqOS1D2PM/DPk24FZkQjVEkm3yzxVLOZeVMHgZoyxYtXCqSMYnwUbmbYFyZc3LdBp6CK1fYDooNINwyDE1jJu1oM0AHiLmhUh7EjpGw4A6ljCq4rYVcfxzNRyIN6p3ilrZkHchvFuiZY9Zw+BLio208OFPbmR4=;QsAcX5Q+SNcRagJ2y+V/yQ=="

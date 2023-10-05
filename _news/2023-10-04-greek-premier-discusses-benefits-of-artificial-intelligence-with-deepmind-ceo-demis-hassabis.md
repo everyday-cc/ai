@@ -55,6 +55,15 @@ related:
         width: 1300
         height: 737
         isCached: true
+  - title: "DeepMind cofounder is tired of ‘knee-jerk bad takes’ about AI"
+    excerpt: "Suleyman, the DeepMind cofounder who is now cofounder and CEO of Inflection AI (which set off fireworks in June for its $1.3 billion funding), may reasonably be all-talked-out after a slew of interviews about his warnings about ‘unprecedented’ AI risks ..."
+    publishedDateTime: 2023-10-05T13:54:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-cofounder-is-tired-of-knee-jerk-bad-takes-about-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

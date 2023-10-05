@@ -39,10 +39,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "4 Open Banking platforms accelerating FinTech growth in Middle East"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-05T13:58:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
+        width: 2560
+        height: 1362
+        isCached: true
   - title: "How Fintech Is Making Smaller Suppliers More Resilient"
-    excerpt: "3. AI provides cash-flow predictions. The way fintech platforms can help SMEs manage their cash flows is nothing short of revolutionary. These platforms can automatically compile transactional data and use artificial intelligence (AI) to analyze SMEs ..."
-    publishedDateTime: 2023-10-04T15:01:00Z
-    webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient?ab=HP-hero-latest-text-1"
+    excerpt: "Historically, smaller, lower-tier suppliers have had trouble obtaining financing. New fintech platforms are changing that. They are making it easier for them to use assets such as approved invoices, inventories,"
+    publishedDateTime: 2023-10-04T12:35:00Z
+    webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient"
     type: article
     provider:
       name: Harvard Business Review

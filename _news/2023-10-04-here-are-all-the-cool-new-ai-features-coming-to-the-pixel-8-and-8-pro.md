@@ -29,51 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
-    excerpt: "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now."
-    publishedDateTime: 2023-10-04T14:31:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
+  - title: "Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating"
+    excerpt: "ChatGPT-style AI can tackle the drudge work of responding to RFPs faster than humans. Sales teams at Google, Twilio, and others say productivity is spiking."
+    publishedDateTime: 2023-10-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: Wired
+      domain: wired.com
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ad698d33b7c8e0e75df21ffc651e7430f7318a87/2023/10/03/90e02f4e-395f-4536-861c-5bb54304fc5e/google-assistant-screen-read.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/65174569f8a5c34a7770661b/191:100/w_1280,c_limit/092923-drudge-work-generative-ai.png"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Google supercharges its Assistant voice app with AI, hinting at how the company sees the future of chatbots"
-    excerpt: "The new \"Assistant with Bard\" will reboot the Google Assistant with generative-AI capabilities."
-    publishedDateTime: 2023-10-04T14:30:00Z
-    webUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+  - title: "Quizzing Intel exec Sandra Rivera about generative AI and more"
+    excerpt: "A couple of interesting things. They said they feel like they could speed up AI processing by 10 to 100 times. They were running the CPU and not the GPU, and they felt like the CPU’s flexibility was its advantage and the GPU’s repetitive processing was ..."
+    publishedDateTime: 2023-10-01T15:45:00Z
+    webUrl: "https://venturebeat.com/ai/quizzing-intel-exec-sandra-rivera-about-generative-ai-and-more/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 69
     images:
-      - url: "https://i.insider.com/651d516f2ce014759e74557f?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-6.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 799
         isCached: true
-  - title: "Why Big Tech’s bet on AI assistants is so risky"
-    excerpt: "OpenAI unveiled new ChatGPT features that include the ability to have a conversation with the chatbot as if you were making a call, allowing you to instantly get responses to your spoken questions in a lifelike synthetic voice, as my colleague Will Douglas Heaven reported. OpenAI also revealed that ChatGPT will be able to search the web ."
-    publishedDateTime: 2023-10-03T09:42:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/amp/"
+  - title: "How generative AI is boosting the spread of disinformation and propaganda"
+    excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
+    publishedDateTime: 2023-10-04T04:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/ai-assistant2.jpg?w=3000"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/easy-copies.jpg?w=3000"
         width: 3000
         height: 1688
         isCached: true

@@ -43,6 +43,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
+    excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
+    publishedDateTime: 2023-10-05T14:48:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/texas-driverless-cars-autonomous-vehicles-cruise-18408377.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 36
+    images:
+      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
+        width: 1200
+        height: 804
+        isCached: true
+  - title: "Cyngn Revolutionizing Labor Shortage Challenges Through Driverless Forklift Partnership, Featured in Forbes"
+    excerpt: "DriveMod uses artificial intelligence and sophisticated software to transform ... Together, the companies have embarked on a journey to integrate driverless forklifts into Arauco's operations, culminating in a 100-unit DriveMod Forklift pre-order."
+    publishedDateTime: 2023-10-05T12:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893356.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "k2Ao7JGH5en5Fn9GJDcP1JRH5qudh+Bp8gPDPePcj9elioe/RCPwDbaAWsxMfKEVCGuVM9GKYnHnTAo9RixvaGGga1GslQt+tgj4yI3UaxCn1M6yW7RQwiiBg9kFhWrYrsD8CfUcQiN53MbXRSGBJSZmpgI05WTV7t53/8oVF10LOHF0P8rrxc9KOzoFP9FH6Cx9xrvyG67RKmyYp3Acqgf+eCCovL1+i6hra9iZY4039sdotbh+3+gNE6u0TIKjsmBnryAxVFaKFaXpIcemTpMQEY49IOeq2my8CkwdZFDPaykRAn0OWmcpjfGVyiQ23RPemVkZJwdr8xHPUPgOAwIeSdgaxFaP5mVhAxXEsq8=;OGiJdnzvO5VuBhjPD+7VHQ=="
 ---

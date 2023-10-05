@@ -28,29 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "AMD's AI and Data Center Prospects Eyeing Market Share Growth, Analysts Say"
-    excerpt: "AMD continues to execute strongly on its roadmap with a potential AI tailwind from its MI300A/X ramp in 4Q23E/2024E and sees it as attractive vs. Nvidia Corp (NASDAQ:NVDA) at >40x F24E P/E."
-    publishedDateTime: 2023-10-03T21:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say-1032675831"
+  - title: "5 Human Advantages Marketers Can Use In The AI Revolution"
+    excerpt: "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/03/amd-_wikimedia.jpg"
-        width: 1024
-        height: 768
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "2 AI Stocks With Bullish Catalysts & High Growth Prospects"
-    excerpt: "Israel-based Mobileye Global (MBLY) is a leading provider in the autonomous driving space. Mobileye, which was spun off from semiconductor giant Intel Corp (INTC), develops fully autonomous driving systems that leverage AI to navigate complex urban environments, paving the way for the future of self-driving cars."
-    publishedDateTime: 2023-10-01T22:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-with-bullish-catalysts-high-growth-prospects"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "The Defects of Human and Artificial Intelligence"
     excerpt: "With AI, there is nothing to be read between the lines.’"
     publishedDateTime: 2023-10-03T16:57:00Z
@@ -60,15 +53,29 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
-    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
-    publishedDateTime: 2023-10-05T05:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+  - title: "How humans can absorb artificial intelligence biases"
+    excerpt: "Research at Deusto University reveals that people can inherit artificial intelligence biases, potentially leading to systemic errors"
+    publishedDateTime: 2023-10-03T13:54:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artificial-intelligence-biases/167567/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
     quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1486818906-scaled.jpg"
+        width: 2000
+        height: 1257
+        isCached: true
+  - title: "Undetectable AI Writes Like A Human"
+    excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
+    publishedDateTime: 2023-10-05T14:31:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/05/undetectable-ai-writes-like-a-human/71045778007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 19
 
 secured: "QyB54i3sqQLQOKwinmeObHnwmLABw4WgOUerYUXObh9zlOv0uRZUUb5fNLvmvRso00e86jACof7jp4ecp/9BEi1wq4n48f15tywq3UTaoo+TKmR8FCspEYFyw0WEdFfsD9NXsFtBJwC9aP7HJmtFsQsDUMjubcGJ8DtxHMIB5C350JUamwhQEVehPHxtTBmmMEjxyfGqElMycGZNP2u9Z8G+d6FrW8gwqlDxyG3plqaQC+7vR5BNz79VvduGXs9qK7sxnJszGTL00PZhCIBO+1A7xHAFoj2g6Dh28uIoV/WwGc6/MQ15Ecda6dWTUqmeNvJ64y4KNhKEgNxcHHL5mSFa9tswEpJNoY3NL+lj7SxjY4jTxnCS+Ad/pXpstlv/A4J9MJmqcdxF5oW2wzoywS/j5z1JX5LiT5imvT0sXF/JFXlRzycwbY37IfrkCszhGj/cSlH3HK5aMFW+m2Tsjp3hldZlMRdrcAKeYZO0UGBTTQfnbaFG7uhY0+qdcTR4OFVPsNhh9cTC2OE8PJRFZQ==;XrStC6vhFU+hX9m5ynwnAQ=="
 ---

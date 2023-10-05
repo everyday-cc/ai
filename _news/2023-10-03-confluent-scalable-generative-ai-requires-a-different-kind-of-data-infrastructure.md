@@ -43,6 +43,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "How AI is changing data center design"
+    excerpt: "Data centers have historically been built around CPU-powered racks to tackle traditional computing workloads. However, AI compute instead requires GPU-powered racks, which consume more power, emit more heat, and occupy more space than an equivalent CPU capacity."
+    publishedDateTime: 2023-10-05T15:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-ai-is-changing-data-center-design/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/NiklasHeadshot.22fc4791.fill-1200x630.jpg"
+        width: 500
+        height: 263
+        isCached: true
 
 secured: "IJXlFuIK+t0uz1BXy/VGl1GDxhR+9FunziQXFEi6Zl8SeFZwtHyCudfEg169L+PjetiK7jzk+Q2fRoiAiZMRBVgwzniacE8ru3m9YcpbnGdHBfCJVqvEwDmQL/lDB74kNR2/g1ZWCNM+h4nZLsQDepR8z1REMBSbaC7KkrVJ5FOpL3AmtEQLIni4TNm3FzjPfECfScnKxKWLg7MgWXAaIDnOjUGCd8eAmc9TrqaQzej4HK7UGoWonNldKjDHumj0LEFQqVtWKqrDXwvbqOqL0q2wzUkM2dk9cWXsF3VJ+/nyCpprCZxyVAN4O/N3y7HWzxk40zBzs7QoMcI1lYF0gRGpAxzo59DZXD/hMC0t1nk=;/5NCx8lisUrCBgF0QV6kVg=="
 ---

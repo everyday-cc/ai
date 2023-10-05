@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports"
-    excerpt: "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter."
-    publishedDateTime: 2023-09-30T20:20:00Z
-    webUrl: "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ"
+  - title: "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips"
+    excerpt: "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch"
+    publishedDateTime: 2023-10-02T07:35:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
+      name: Firstpost
+      domain: firstpost.com
+    quality: 77
     images:
-      - url: "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg"
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "European Commission to keep track of AI and semiconductor chips"
+    excerpt: "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies."
+    publishedDateTime: 2023-10-05T05:11:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
   - title: "Prices for Nvidia generative AI chips soar in Japan"
     excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."

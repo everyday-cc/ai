@@ -32,6 +32,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 13
+  - title: "Cybersecurity Startup Nexusflow Raises $10.6M From Point72 Ventures, Fusion Fund"
+    excerpt: "Nexusflow raised $10.6 million as part of a seed round led by Point72 Ventures, with participation from Fusion Fund and several artificial intelligence (AI) luminaries."
+    publishedDateTime: 2023-10-05T13:03:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/10/35098385/cybersecurity-startup-nexusflow-raises-10-6m-from-point72-ventures-fusion-fund"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "9SpRqMv4GpPuz1XrddkLHPdF0DceAQBrIHMPJEod7sRLAUtorwURN/1fEzBOipZhS2sf1skx8XerbSra2FfW+CVwcjzunfK2H73P0BYALu5ycLa7vTqbiRqmdEQ49IRaF4qPmPh8iWGwvs5eRtkGJe0NTWuZsBxDCAdD6ndDMqcxNqfXJJ4jUKK57GIHew+V0tnR3DzlHsBFUVdbw0baK++6/ZlcTl7zxTnmUvnWKb1B9AzoCIq5v6WBkXEqqOns0FJgvsvSwdoxiOBYwcs4ZoJVwAsqp14Qfy+nVUKqbQeu1V1c0pZyY66mmkSKo1lpYOhC4haUAb9FermadowJ0CCwAhnc1lM1P4ZaYyiQH9nudobY0BNf3d7r955d3SRUPr14zKTwokroO5kWLfP1jYvKRyZFm/fmTzvXAIngyMNVSIzvedJN8JMSdyCjsg2daeEH5WOySgrdx+sfK4pATm+5iSuWoktY5cf6HTamYrXKkS6PMDyDksV1CWVEOtF74AzJlHb9ldlb3DL8iZvtwQ==;MjW81WSCkSMzNSms4zgjvw=="
 ---

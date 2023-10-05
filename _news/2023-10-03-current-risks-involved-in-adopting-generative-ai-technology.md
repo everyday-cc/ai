@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-ri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "rNG2ZhpPB36CTcQhL2S0RqS7NtCngT+aEv6CgSpDh7NjX/+GaY+1Q2opNT3gtgP/H2sk93jwJcTamT+FuZ3FRbK1GHftgqEavDyrMzxVWSKA1exzfYFnjmwgcYAvkw4sJYfe0z+mEZJKnEBhElQ9mzX0UINp/tLAOrCuQdPnIZTRo6EgLfOnBPm65aI1oBBjiK0RAwqQ7B+bMIwiPw0zS3/R5BdicUDlBghFq8C7v1XuT70awK0EdhLKtcDhFbQJlAyo5na34a25Nh6iJP2WWrdNy+5lowGoTFD7jmvLVgPr2pu5nkHlki4QvoMlfKIv3LPs4+jPzAxuP4o1zhaLPlr3kU38BfbazZ+vwVIx4g0=;FZ1Hm1VTWEp2qKXK0f8OZQ=="
 ---

@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
+    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
+    publishedDateTime: 2023-10-05T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
     excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
     publishedDateTime: 2023-10-02T06:28:00Z

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Unique voice print in parrots"
-excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
-publishedDateTime: 2023-10-03T23:20:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1003104"
-webUrl: "https://www.eurekalert.org/news-releases/1003104"
+excerpt: "\"It makes sense for monk parakeets to have an underlying voice print,\" says the Max Planck's Simeon Smeele, first author on the paper. \"It's an elegant solution for a bird that dynamically changes its calls but still needs to be known in a very noisy flock.\""
+publishedDateTime: 2023-10-04T16:49:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003202004.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/10/231003202004.htm"
 type: article
-quality: 24
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b76ae98b-d253-4f3c-ba9a-f379619bfcac/Rendition/low-res/Content/Public"
-    width: 424
-    height: 700
-    isCached: true
 
 related:
   - title: "Unique voice prints in parrots could help birds be recognized in a flock, no matter what they say"
@@ -70,6 +68,6 @@ related:
         height: 360
         isCached: true
 
-secured: "0w1k9ADpbIskDTHnVbN2b9QYAlozq6Rg5kHRWTKKjwy/eNBBeln1NfrtiS5Mqxfz/kUH4v8n0xki90zJACJVLudjQWaPQzGtX1RKMesISkpVzdsflQXHL+mLil+El3+VafrZu+AEacd+wi45r8TojE+2ygLdn9b/vWa8HlT+MbyaNQUexXksUq+TD2x5b3ixS9OfcYVm5ZKLLv4CgxbEC1pBMAK4XkDMn3nYmM1Yi+Y5t5D9YhE1lKC7Qaq2VA65jU5JFwPA2rjlhxf/CHYfna7mL5Tg4rwQ9HMXan60QtVR51XkaVluIpri3viQO7YsmlomJ7cOfBRTx7utjWL8mmmRnDbDowuZs7UhYLkk7DA=;f+lLaIJY2YCLCDtconxd0A=="
+secured: "hMzFJQpc0dwzw6dOJDIy/CkZSyXq82z1FvcGIRABL0aZmtjei9iiMmC0Phz6m+5VNY4GerS6r8v2BQyYLWLcxvbZbGHtdoilTeFDuRpKOA5dQy13WC+OCy/0QhhCFUNxYrN7kDV4nYtebGyGfR0V5RSyWgMJ5ivZjG8lddULFlvK7sLGC5UBAMgMknxeqWx8Yw4Rj8A5QP9nXqJqmy7HcHtwkeAehW+pdmw+BCGEUbp5Bg9B32pTXmRqREVcU74Ky6cUj3wx67R2DOQUBwd0uBySOTnZoHDYe/KGCnfM/nRr6SkZ9HIOXKrr/hBRoYxZjus+ofPTXApkI4t2fcZxaq08338ehKJcNiiYjFYDYX0=;go25J2xBZhgUWIxFZsPkMA=="
 ---
 

@@ -2,6 +2,446 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-03-these-are-the-key-technologies-the-eu-wants-to-safeguard-from-china.md",
+      "title": "These are the key technologies the EU wants to safeguard from China",
+      "excerpt": "In the latest round of geopolitical tech chess, the European Commission today published a list of critical technologies to keep safe from geopolitical rivals, in an effort to bolster the bloc’s own economic (and not only) security.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
+      "originalUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FmapEuropetech-e1696341924126.jpg&signature=1ead97d29ff1df7b4da0812926ea08ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-apples-ai-prowess-lies-in-its-neural-engine.md",
+      "title": "Apple's AI Prowess Lies In Its Neural Engine",
+      "excerpt": "The new GPU can run complex applications ... Apple's neural engine uses a different approach from competitors. It allows more onboard AI processing instead of relying on server-based AI solutions. This methodology means that running AI programs on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651b05c1d2aa717e77be38c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
+      "publishedDateTime": "2023-10-03T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023.md",
+      "title": "Oracle Doubles Down On Generative AI Trend At CloudWorld 2023",
+      "excerpt": "AI Vector Search functionalities include a new vector data type ... though its partnership with Microsoft–arguably the leader in GenAI thus far–currently focuses on Oracle Database@Azure, we can all speculate what that partnership may grow to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651c19e2eb69afd4ac308520/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
+      "publishedDateTime": "2023-10-03T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost.md",
+      "title": "Operationalize automation for faster, more efficient incident resolution at a lower cost",
+      "excerpt": "You can take integrated, granular metrics and dynamic topology from IBM Instana to fuel action recommendations from IBM Turbonomic.\nThe post Operationalize automation for faster, more efficient incident resolution at a lower cost appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/",
+      "originalUrl": "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T06:15:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ai-is-the-intelligence-artificial-or-amplified.md",
+      "title": "AI: Is The Intelligence Artificial Or Amplified?",
+      "excerpt": "In today’s environment, there’s barely a day that goes by when there isn’t some discussion or article written about the latest in artificial intelligence. It’s a very exciting time as we look at what computers can accomplish with or without human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-the-intelligence-artificial-or-amplified/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-the-intelligence-artificial-or-amplified/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d54262188e017c56d9d11b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ibm-and-espn-use-ai-models-built-with-watsonx-to-transform-fantasy-football-data-into-insight.md",
+      "title": "IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight",
+      "excerpt": "Discover how ESPN and IBM Watson are serving up billions of AI-powered insights to the 11 million people who play fantasy football.\nThe post IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T05:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-a-lab-just-3d-printed-a-neural-network-of-living-brain-cells.md",
+      "title": "A Lab Just 3D-Printed a Neural Network of Living Brain Cells",
+      "excerpt": "Mini-brains that work and grow like their full-size counterparts could offer an alternative to animal testing and advance the quest for personalized medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
+      "originalUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651705be6b593d112edbb6bc/191:100/w_1280,c_limit/3dprinter-science-Image-1.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-how-does-artificial-intelligence-aid-ivf-success-rate.md",
+      "title": "How Does Artificial Intelligence Aid IVF Success Rate?",
+      "excerpt": "Artificial intelligence (AI) has the potential to increase IVF treatment success by enhancing accuracy, timeliness, and monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "originalUrl": "https://www.medindia.net/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/sperm-screening-can-detect-harmful.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-does-artificial-intelligence-aid-ivf-success-rate-213697-1.htm",
+      "publishedDateTime": "2023-10-03T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-exclusive-2-billion-fintech-clear-street-names-steve-bisgay-cfo.md",
+      "title": "Exclusive: $2 billion fintech Clear Street names Steve Bisgay CFO",
+      "excerpt": "\"It’s very much developing in real time. AI capabilities six months ago are not going to be the same as they are in a year or two years from now.\" —Spotify’s CEO Daniel Ek told the Financial Times in an interview that due to the speed of change in ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
+      "originalUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/03/2-billion-fintech-clear-street-steve-bisgay-cfo/amp/",
+      "publishedDateTime": "2023-10-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-veteran-charlotte-execs-launch-ai-focused-fintech.md",
       "title": "Veteran Charlotte execs launch AI-focused fintech",
       "excerpt": "Two founders with backgrounds in financial technology and regulatory matters have closed on a $1.7 million, pre-seed funding round for a Charlotte startup focusing on AI for banks.",
@@ -337,7 +777,7 @@
       "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -778,472 +1218,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development.md",
-      "title": "Two divergent skills that matter in an AI world: Math and business development",
-      "excerpt": "For those seeking to get heavily immersed in building AI applications, it's time to shore up basic math skills. For those seeking more right-brained roles, business development skills are the top requirement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
-      "originalUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bdbde0facf0ff42db0a2012db3bc30d5b6e47a03/2023/09/26/3c2c8202-701f-403f-b22d-8d1df03a9b9d/2paths-gettyimages-1320194843.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
-      "publishedDateTime": "2023-10-02T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha.md",
-      "title": "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA",
-      "excerpt": "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 326,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
-      "publishedDateTime": "2023-10-02T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember.md",
-      "title": "What AI forgets could kill us, but new research is helping it remember",
-      "excerpt": "A better understanding how the human brain makes memories could help us to reduce neural networks' habit of 'catastrophic' forgetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "publishedDateTime": "2023-10-02T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-beware-of-bing-chat-and-its-ai-conversations-that-can-lure-you-into-malware-traps.md",
-      "title": "Beware of Bing Chat and its AI conversations that can lure you into malware traps",
-      "excerpt": "Hackers are sneaking in malicious ads through Bing Chat. Kurt \"CyberGuy\" Knutsson explains how it works and shares tips on how to keep your data secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
-      "originalUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e36333e0-16e6-4b62-a7c8-93de40acbe14/f11b36d6-c1f8-4589-acfa-24c41de9814a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/beware-bing-chat-ai-conversations-lure-malware-traps.amp",
-      "publishedDateTime": "2023-10-02T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1.md",
-      "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge – Part 1",
-      "excerpt": "A successful deployment of a machine learning (ML) model in a production environment heavily relies on an end-to-end ML pipeline. Although developing such a pipeline can be challenging, it becomes even more complex when dealing with an edge ML use case. Machine learning at the edge is a concept that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/ML-6965-pipeline-scribble-820x630.jpg",
-          "width": 820,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T09:31:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-humata-ai-summarizes-and-answers-questions-about-your-pdfs.md",
-      "title": "Humata AI summarizes and answers questions about your PDFs",
-      "excerpt": "Humata AI, a startup developing a platform to summarize and answer questions about documents, has raised seed capital from GV and others.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
-      "originalUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1218924349.jpg?resize=1200,1021",
-          "width": 1200,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
-      "publishedDateTime": "2023-10-02T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-an-ai-experts-guide-to-customer-delight.md",
-      "title": "An AI Expert's Guide To Customer Delight",
-      "excerpt": "The emergence of large language models means that the bar is even higher for chatbot technology. Customers will come to expect open-ended prompts and humanlike responses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648728901a0300c8f3f4b947/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
-      "publishedDateTime": "2023-10-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-ai-innovation-or-speculation-a-guide-to-understanding-the-difference.md",
-      "title": "AI Innovation Or Speculation: A Guide To Understanding The Difference",
-      "excerpt": "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
-      "publishedDateTime": "2023-10-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy.md",
-      "title": "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy",
-      "excerpt": "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
-      "publishedDateTime": "2023-10-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

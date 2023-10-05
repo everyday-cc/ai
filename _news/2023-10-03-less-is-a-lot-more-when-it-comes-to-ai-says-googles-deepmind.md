@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1300
         height: 737
         isCached: true
+  - title: "DeepMind cofounder is tired of ‘knee-jerk bad takes’ about AI"
+    excerpt: "Suleyman, the DeepMind cofounder who is now cofounder and CEO of Inflection AI (which set off fireworks in June for its $1.3 billion funding), may reasonably be all-talked-out after a slew of interviews about his warnings about ‘unprecedented’ AI risks ..."
+    publishedDateTime: 2023-10-05T13:54:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-cofounder-is-tired-of-knee-jerk-bad-takes-about-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
     excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
     publishedDateTime: 2023-10-04T12:30:00Z

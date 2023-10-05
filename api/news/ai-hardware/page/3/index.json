@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-13-3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo.md",
+      "title": "3 AI Chip Stocks to Buy Instead of the Arm IPO",
+      "excerpt": "and it has shipped over 250 billion chips to date. Part of the catalyst behind the IPO is to raise cash for investments in artificial intelligence (AI), where Arm hopes to compete with chip design rivals like Nvidia (NVDA). So if you're looking for an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo",
+      "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-to-buy-instead-of-the-arm-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-siri-and-apples-ai-moves.md",
       "title": "Siri and Apple’s AI Moves",
       "excerpt": "We’re midway through Apple’s new Watch Series 9 introduction and we’ve heard how Siri has gotten better. The assistant now processes info right on the device and you can ask it about your health data.",
@@ -1388,40 +1422,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-nvidia-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy.md",
-      "title": "Nvidia: Why This Phenomenal Artificial Intelligence (AI) Stalwart Is Still a Screaming Buy",
-      "excerpt": "According to the Financial Times (via Tom's Hardware), Nvidia could ship 550,000 of its H100 data center graphics processing units (GPUs) for AI workloads in 2023. Given that the cheapest version of this GPU is sold for around $30,000, Nvidia could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

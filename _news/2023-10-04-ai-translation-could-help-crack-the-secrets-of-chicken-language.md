@@ -53,22 +53,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How generative AI is boosting the spread of disinformation and propaganda"
-    excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/easy-copies.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Entrepreneurs Use AI To Transform Clinical Trials"
     excerpt: "Establishing trust in the research community is difficult, especially from the institutional review boards (IRBs) that monitor a study’s ethics. IRBs and the FDA already control so many aspects of clinical trials that convincing them of AI’s benefits ..."
     publishedDateTime: 2023-10-04T12:01:00Z

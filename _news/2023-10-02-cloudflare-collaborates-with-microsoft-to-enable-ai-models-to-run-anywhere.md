@@ -115,22 +115,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Microsoft Translator now supports 20 Indian languages"
-    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-    publishedDateTime: 2023-10-05T08:48:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 61
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263649-screenshot-2023-10-05-141841.png?itok=MG_69xaf"
-        width: 700
-        height: 393
-        isCached: true
   - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
     excerpt: "Bing Chat, an AI chatbot from Microsoft similar to ChatGPT, allows users to upload images for the AI model to examine or discuss. Normally, Bing Chat refuses to solve CAPTCHAs, which are visual puzzles designed to prevent automated programs (bots) from filling out forms on the web."
     publishedDateTime: 2023-10-02T19:58:00Z
@@ -293,6 +277,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Microsoft Translator now supports 20 Indian languages"
+    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
+    publishedDateTime: 2023-10-05T13:58:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 21
 
 secured: "SzZ6LywUknfjkvuEfl+Hh9PpJtxdSb4D++jvLWthM9ls5xb6DRa9HmwN3AIbwJ14YOJZqwS+ofVfjZZC5ge9lGLE0bEc7iQxZuInjgdkEmSnXlS0mFpOl7yPsae2DXWjaBfODYXNBEOOEQBAgNWDZZNjubOioJkN3ZErGSkCZ/p1ru0wadDIiSwtrZiUGnH5jnAH4X+oXYkTrbfdwvzXiRi892Z2hLaL6INtzPADJGPy1aOB/3kOUNAJyACdOBvorqyzFrODfcE+8ekyigL27X+Z7ezAx5DfMNwETFDuynqEKDudN00ixsrXxhZmhQt6z3VXPOkKGyKepyX36TmCYa5NSb5qfHeQN07P2SJSe808vkIYQo0vsx+Mf6BdAX+HLxgNGTbaaNAxfbV31wUHc9j+kVIkjkuZZjqI1z9efDDu0W6+hGt/bQnPJyEcf16+G4DntehNlw0ZXycki96Qf1Aje8Xkyv+JXzv1NvsKlkvkFbB84KsAPY582WkslK4sPhNP7ZHV07Dznujct1DX0A==;Tt6N8IbZWLQHsNpskoYz/w=="
 ---

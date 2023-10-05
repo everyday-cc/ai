@@ -147,6 +147,29 @@ related:
         width: 700
         height: 370
         isCached: true
+  - title: "So long iPhone. Generative AI needs a new device"
+    excerpt: "Moreover, it emerged that OpenAI was in talks with Sir Jony Ive, Apple’s former designer, to create a new gadget for the AI era. What form it will take is still unclear. But if the idea is to build a new consumer-electronics device better suited to the back-and-forth of seeing,"
+    publishedDateTime: 2023-10-05T15:47:00Z
+    webUrl: "https://www.aol.com/finance/long-iphone-generative-ai-needs-124755464.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google says new phones to run on powerful AI tools"
+    excerpt: "Google on Wednesday said its latest premium-priced Pixel phone would have powerful generative AI models running independently on the"
+    publishedDateTime: 2023-10-05T12:24:00Z
+    webUrl: "https://manilastandard.net/business/314377165/google-says-new-phones-to-run-on-powerful-ai-tools.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "MZHQ6KZzD7jGiTR7v0iHXSe+Qwo478v5dxJxlnzwwbo4HIMAKuaWG60oXduV/27Fjh9DCjuMPYag+VYB4TDYO4s2D/x6rZisgGcM6OqZKs8fmZasf51dWPNiXTkuv6WZFyUJxqrAn6pCXGYEnZDdZ8zEtzqaOairskmlBjkaP63lNoDpwozJqJzI8ri1nQIj7OBk8IXiLX8WjZ9Ydz7/YNq8MszoHhxZrpGBpd5nCVHepRVpF/qXTRiCUA+QC0zex5fVxe+iuHf9HscJu+Ha3+u40WbNoUZYV5z1KcxHpH08OAEhRZ9JmZFCCpfPsAHMR2JhNnbWGl4NjGgHOsU/OQITceWepHbUuQOT4iqDuac=;WhuMvtctLLT2YC1m2KQZPg=="
 ---

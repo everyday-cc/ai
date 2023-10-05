@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
+    excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
+    publishedDateTime: 2023-10-05T15:07:00Z
+    webUrl: "https://fintechmagazine.com/articles/ai-powered-ap-automation-fintech-stampli-gets-60m-in-funds"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/51c2ca8e33a492b66d9d514236202d0f:e9a329251a0dd808ab62ce9cd73ef70d/stampli-closes-its-series-d.png.jpg"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "Israeli fintech co Stampli raises $61m"
     excerpt: "Stampli is today one of the fastest-growing providers of accounts payable automation and ePayment services. In August alone, Stampli processed more than 1 million invoices totaling a collective value of more than $5 billion."
     publishedDateTime: 2023-10-03T12:06:00Z
@@ -36,6 +50,15 @@ related:
       name: globes.co.il
       domain: globes.co.il
     quality: 19
+  - title: "AI-Powered Payments Startup Stampli Scores $61M In Blackstone-Led Venture Capital Round"
+    excerpt: "Stampli, a key provider in accounts payable automation, received $61 million in its Series D venture funding round."
+    publishedDateTime: 2023-10-05T12:42:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/10/35095891/ai-powered-payments-startup-stampli-scores-61m-in-blackstone-led-venture-capital-round"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "6AHMu/rapKKpHcQ/rQP8HIW96HAENb53yktknPpTmV4/QbJxODS6vl1tL0b7eKUTVnmpa0bFEsSBeBReFbeYLDw8BPKzzhKNwQ7m4k+7iMBrqVnmOWlCT8hi/6w8albuNpg3VhoorVpKAPQ7cw4bD2Sl244F2iBZ/GQ0eRX0DeUeb7TJvzVKqeZRKr488lQ8tY5VkHy0smFwq3PkzGQFkI6uBrBf5S3YZKhOW6SKqF9IxVBRc/K6YmaoT7N3XqDjeRx+0q+jY5JBetoTJ3ouCFL71czuk9A/zcRDv06qW5f2stK0XrFBZwi4x0ByNIrmo7zw7S5Yfa23BfY/mfgSQQELLBXpxjjcFtBN7H59PtKa0Ou4s5m5R2oecQbrbT7Cj9eh9ZeDoML/82yaYhlVMXRjGZTggIX+9k4v0YFJDY/BtM9oBL0kiuMGWF7dEvhkhw7IgtZ9U2sVBshd4bRFOAtd1APrWO55WJL+3zWqKSmTjnfi/Ol8HYfzsi5gP5c7GWrvFKPDoOz1JR0lFLY30g==;t3TNB+rfnqhw9q/KsGwnVQ=="
 ---

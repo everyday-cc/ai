@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generativ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -151,6 +151,29 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "So long iPhone. Generative AI needs a new device"
+    excerpt: "Moreover, it emerged that OpenAI was in talks with Sir Jony Ive, Apple’s former designer, to create a new gadget for the AI era. What form it will take is still unclear. But if the idea is to build a new consumer-electronics device better suited to the back-and-forth of seeing,"
+    publishedDateTime: 2023-10-05T15:47:00Z
+    webUrl: "https://www.aol.com/finance/long-iphone-generative-ai-needs-124755464.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google says new phones to run on powerful AI tools"
+    excerpt: "Google on Wednesday said its latest premium-priced Pixel phone would have powerful generative AI models running independently on the"
+    publishedDateTime: 2023-10-05T12:24:00Z
+    webUrl: "https://manilastandard.net/business/314377165/google-says-new-phones-to-run-on-powerful-ai-tools.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 19
 
 secured: "xmEXn+qhYsFNArPdR7PZLI49yc23vnsfl80vuG4BdnbqjY18iemp0+xmuNEYymHVQOJXz8yeBIIpxdxfMsVPkXmKBnnotcA/llE0mOkG6TN+kH/tvtauLc2tsW9RcaxFihjhYDPgN3rMK4GcWVwYRwioJ4Wqi11d+acGN+euLgKpjKtnGQQ+KuJnjMDzrCQ15SW0T9RjbcO+JTNVY50ui0V7lfoVPD+OlVz1CYjHQGxnCutqlhgBpE+I4aOAttBZsbwq077Y6wdI5sc4ln+P+R8FENdUK5LGKdJzsBjx+lOSzQ32oSnMzufB4TrfGYt4sezfFCXxG2JvzPXtW36pdIjMqjSOWAcmlNW3JW1gjFU=;ymB/qL1iHYS3yOQY3EZfPw=="
 ---

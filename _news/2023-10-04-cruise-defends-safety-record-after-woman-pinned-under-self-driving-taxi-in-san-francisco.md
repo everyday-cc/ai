@@ -87,6 +87,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "US agency, California gathering details of self-driving crash"
+    excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
+    publishedDateTime: 2023-10-04T01:49:00Z
+    webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
+        width: 800
+        height: 533
+        isCached: true
   - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
     excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
     publishedDateTime: 2023-10-03T03:07:00Z
@@ -130,6 +144,20 @@ related:
       - url: "https://wp-assets.futurism.com/2023/10/pedestrian-under-self-driving-car.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "People Are Souring On Self-Driving Cars"
+    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
+    publishedDateTime: 2023-10-04T20:01:00Z
+    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "What happens if you get in an accident with a self-driving car in TN?"
     excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."

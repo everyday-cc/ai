@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-05-amd-stock-falls-an-analyst-says-the-ai-chip-boom-could-take-longer.md",
+      "title": "AMD Stock Falls. An Analyst Says the AI Chip Boom Could Take Longer.",
+      "excerpt": "Dell DELL –3.02% Technologies expects annual revenue growth of 3% to 4% going forward, with adjusted profit growth of 8% or better, the PC and enterprise-hardware company said Thursday at a meeting with securities an...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-55789d99",
+      "originalUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-55789d99",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-74608090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d99",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d99",
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-pixel-8-pro-runs-googles-generative-ai-models-on-device.md",
       "title": "Pixel 8 Pro runs Google’s generative AI models on-device",
       "excerpt": "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -129,58 +172,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-amds-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say.md",
-      "title": "AMD's AI and Data Center Prospects Eyeing Market Share Growth, Analysts Say",
-      "excerpt": "AMD continues to execute strongly on its roadmap with a potential AI tailwind from its MI300A/X ramp in 4Q23E/2024E and sees it as attractive vs. Nvidia Corp (NASDAQ:NVDA) at >40x F24E P/E.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say-1032675831",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-s-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say-1032675831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/03/amd-_wikimedia.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -251,6 +242,49 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-the-ai-boom-props-up-datacenter-infrastructure-spending.md",
+      "title": "The AI Boom Props Up Datacenter Infrastructure Spending",
+      "excerpt": "If there is one thing that is absolutely immune from inflationary curbs and that is, to a certain degree, also contributing to inflationary pressures in the global economy, it is generative AI. In fact,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacenter-infrastructure-spending/",
+      "originalUrl": "https://www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacenter-infrastructure-spending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2022/03/microsoft-quincy-datacenter-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacenter-infrastructure-spending/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacenter-infrastructure-spending/amp/",
+      "publishedDateTime": "2023-10-03T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -357,7 +391,7 @@
       "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -514,7 +548,7 @@
       "originalUrl": "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1380,49 +1414,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-gpus-transformed-ai-now-theyre-here-for-quantum.md",
-      "title": "GPUs Transformed AI. Now They’re Here For Quantum.",
-      "excerpt": "While quantum hardware remains immature, companies say they found another way to put complex quantum algorithms to work: running them on the same chips used for powering artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
-      "originalUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/09/21/600x338/im-854571_1695320625458_1695320666858.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
-      "publishedDateTime": "2023-09-21T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.truckinginfo.com/10207479/nodar-increasing-sensing-ran
 webUrl: "https://www.truckinginfo.com/10207479/nodar-increasing-sensing-range-for-autonomous-driving"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,18 +26,27 @@ images:
 
 related:
   - title: "Autonomous driving remains a distant reality in Japan"
-    excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
-    publishedDateTime: 2023-10-02T04:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+    excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
+    publishedDateTime: 2023-10-01T23:02:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
+  - title: "Self-driving vehicle testing in Pittsburgh area shifting gears to focus on trucking industry"
+    excerpt: "Not long ago, cars topped with a futuristic apparatus could regularly be seen cruising along Pittsburgh’s streets, testing technology that allowed the vehicles to get around without a person steering the wheel."
+    publishedDateTime: 2023-10-01T08:00:00Z
+    webUrl: "https://triblive.com/local/regional/self-driving-vehicle-testing-in-pittsburgh-area-shifting-gears-to-focus-on-trucking-industry/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 13
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
-        width: 1240
-        height: 826
+      - url: "https://assets-varnish.triblive.com/2023/10/6592797_web1_Terminal_4.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "IhDaFwD5Fd5SjLK2IDKUvHoabX9cuB5HfJWk0G0gioj1evl9t9DAv6r+BAdywZXHCKBqx1hJoBlMfENjHEv4MfejlQlyj1NQoC6AYUkZ2NJvl4DFmcgb9aVbEDcP1Df2ZJOQCmAtLaPAxBUCoc+vBgXI8rEgEWg93jA+tOwesl7mCW63BUhsfAbM9M8P5dAyIkUifR1Gk9u+PczNyspEoR5gkeRDzobwUCokiXeLVZ2l2/QUcQPMsre+iDXC9WUpwql4eexhskRRmWBsoYTzJQku7cqSukrClAPEvU61hSk5KrOhBvPgMo0/5fhKWvtiwiQLrqMm/whlsAJpTeQ9+G3dvfHuGFRch7IKBXQrpvs=;cpULkySTPvrvntwJAGMXfw=="

@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "Likewise debuts Pix, an AI chatbot for entertainment recommendations"
+    excerpt: "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own"
+    publishedDateTime: 2023-10-05T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/"
+    ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642"
+        width: 1200
+        height: 642
+        isCached: true
+  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
+    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
+    publishedDateTime: 2023-10-04T12:00:00Z
+    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Generation AI: Meta's many chatbots"
     excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
     publishedDateTime: 2023-10-04T23:15:00Z
@@ -42,20 +72,15 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Robots crafted by artificial intelligence: Instant evolution"
-    excerpt: "Researchers have achieved a significant milestone by creating a artificial intelligence system capable of crafting robots from scratch."
-    publishedDateTime: 2023-10-04T10:41:00Z
-    webUrl: "https://www.openaccessgovernment.org/robots-crafted-by-artificial-intelligence-instant-evolution/167609/"
+  - title: "Bill Gates-Backed Startup Launches AI Chatbot for Personalized Movie, Book Picks"
+    excerpt: "The chatbot, called Pix, runs on OpenAI language-processing tech and will learn user preferences over time."
+    publishedDateTime: 2023-10-05T12:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/bill-gates-backed-startup-launches-ai-chatbot-for-personalized-movie-book-picks-3badd854"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1364859722-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 42
   - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
     excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
     publishedDateTime: 2023-10-02T10:45:00Z
@@ -70,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
+    excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
+    publishedDateTime: 2023-10-05T13:27:00Z
+    webUrl: "https://variety.com/vip/celebrity-just-might-be-metas-edge-in-ai-chatbot-war-1235745299/?n=@"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "bH7GXLBoNjTn1ghMeQVYwSL+x+GJXiBtcAPAq2fQgzgovTwzK5Ab+KFltD7oBBp0JCRk2YIgRleKtviP9CyCPDdIvgIRzkVN4F3p/Bo0xXtzwQZmUI6yjLcAp4gw3f/LL97Ta/D6iWmFClkLlomWGFab/5d0G0Sd87R+Aq1H/ujloQsmzzJyN6oKB7c74BMrKRNEwEe9lLQpRPyUv3T2qUjefrIWRx9+UvGBur1z3gZaYrYVd7ydGozACdSN6bynIYdfGgJf3j+8/5/vVLLgWC3/9CqCOpdv5HnOl2KTf+Yb4T5zYrpxgp9BXCdv9n4GHgJ17kSt6P1XeCZhc05SwbD5fSv9Nz4lwnAFHha7Djc=;vQipHgRJnu7ruRroJQmfmg=="
 ---

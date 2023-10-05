@@ -2,6 +2,429 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-05-network-security-gurus-5-bets-on-azure-aws-and-cisco-splunk.md",
+      "title": "Network Security Guru’s 5 Bets On Azure, AWS And Cisco-Splunk",
+      "excerpt": "Microsoft Azure, AWS and Cisco’s acquisition of Splunk are big bets for Sentinel Technologies around increasing network security and services sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
+      "originalUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0286-19249d9d056d-3a61f7e24af0-1000/bob-keblusek-sentinel.jpeg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-amd-stock-falls-an-analyst-says-the-ai-chip-boom-could-take-longer.md",
+      "title": "AMD Stock Falls. An Analyst Says the AI Chip Boom Could Take Longer.",
+      "excerpt": "Dell DELL –3.02% Technologies expects annual revenue growth of 3% to 4% going forward, with adjusted profit growth of 8% or better, the PC and enterprise-hardware company said Thursday at a meeting with securities an...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-55789d99",
+      "originalUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-55789d99",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-74608090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d99",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d99",
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-new-technique-based-on-18th-century-mathematics-shows-simpler-ai-models-dont-need-deep-learning.md",
+      "title": "New technique based on 18th-century mathematics shows simpler AI models don't need deep learning",
+      "excerpt": "Researchers from the University of Jyväskylä were able to simplify the most popular technique of artificial intelligence, deep learning, using 18th-century mathematics. They also found that classical training algorithms that date back 50 years work better than the more recently popular techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/simpler-ai-models-dont.jpg",
+          "width": 1654,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "publishedDateTime": "2023-10-05T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-ai-powered-parking-platform-metropolis-raises-17b-to-acquire-sp-plus.md",
+      "title": "AI-powered parking platform Metropolis raises $1.7B to acquire SP Plus",
+      "excerpt": "AI-powered parking platform Metropolis today announced that ... where it sees a large addressable market. For example, the startup — which recently announced a team-up with Uber to launch Uber Park — uses insights from its platform to inform staffing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/",
+      "originalUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-200245146-001.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/ai-powered-parking-platform-metropolis-raises-1-7b-to-acquire-sp-plus/amp/",
+      "publishedDateTime": "2023-10-05T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts.md",
+      "title": "Google Pixel Launch Event Impresses With New Tech And AI, Stock Price Lifts",
+      "excerpt": "The launch was a welcome distraction for Google from its ongoing antitrust trial, with rival Microsoft CEO Satya Nadella testifying this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ed1af3984ca41e96f20cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/amp/",
+      "publishedDateTime": "2023-10-05T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri.md",
+      "title": "Microsoft Translator adds four new Indian languages including Bhojpuri and Kashmiri",
+      "excerpt": "Microsoft Translator gets a step closer to its goal of supporting all 22 official Indian languages with the addition of four new local languages including Bhojpuri, Bodo, Dogri, and Kashmiri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_08_2021_14_14_20_6213924.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp",
+      "publishedDateTime": "2023-10-05T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations.md",
+      "title": "Likewise debuts Pix, an AI chatbot for entertainment recommendations",
+      "excerpt": "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/",
+      "originalUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/",
+      "publishedDateTime": "2023-10-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-5-human-advantages-marketers-can-use-in-the-ai-revolution.md",
+      "title": "5 Human Advantages Marketers Can Use In The AI Revolution",
+      "excerpt": "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-10-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare.md",
+      "title": "Atropos Health leverages AI to democratize access to real-world evidence in healthcare",
+      "excerpt": "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-choosing-a-strategic-investment-partner-in-the-ai-gold-rush.md",
       "title": "Choosing A Strategic Investment Partner In The AI Gold Rush",
       "excerpt": "Michelle Gonzalez, Corporate Vice President and Head of M12, Microsoft’s Venture Fund.",
@@ -50,6 +473,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-generative-ai-is-coming-for-sales-execs-jobsand-theyre-celebrating.md",
+      "title": "Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating",
+      "excerpt": "ChatGPT-style AI can tackle the drudge work of responding to RFPs faster than humans. Sales teams at Google, Twilio, and others say productivity is spiking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "originalUrl": "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65174569f8a5c34a7770661b/191:100/w_1280,c_limit/092923-drudge-work-generative-ai.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -163,7 +638,7 @@
       "originalUrl": "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -256,57 +731,6 @@
         "AI",
         "AI in Education",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-generation-ai-metas-many-chatbots.md",
-      "title": "Generation AI: Meta's many chatbots",
-      "excerpt": "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRW634102102023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idRW634102102023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20231004&i=RW634102102023RP1&r=RW634102102023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -574,7 +998,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -669,7 +1093,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -814,434 +1238,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-money-machines-and-meeting-goals-healthier-cash-flow-with-ai.md",
-      "title": "Money, Machines And Meeting Goals: Healthier Cash Flow With AI",
-      "excerpt": "Plus, predictive analytics provided by AI and ML further fortify the company’s financial position through accurate forecasting. Samuel’s approach—combining traditional financial acumen with modern fintech solutions—illustrates how I believe you can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c364909d97bda96db65c6/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "publishedDateTime": "2023-10-04T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability.md",
-      "title": "Fashion’s New Frontier: Exploring The Role Of AI In Apparel And Sustainability",
-      "excerpt": "The impact is a self-healing supply chain that learns from its mistakes faster, takes action and then feeds its new decisions and processes back to the AI brain. Wash, rinse, repeat. These feedback loops—an essential building block for AI systems—are where humans just can’t compete.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644923fd6eac23cc20a3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "publishedDateTime": "2023-10-04T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-seven-key-insights-on-graphql-trends.md",
-      "title": "Seven key insights on GraphQL trends",
-      "excerpt": "Seven key insights on GraphQL trends for the coming years based on learnings from GraphQLConf 2023.\nThe post Seven key insights on GraphQL trends appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
-      "originalUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:48:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
-      "title": "Achieve your AI goals with an open data lakehouse approach",
-      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-common-grounds-unleashing-innovation-and-growth-through-partnership.md",
-      "title": "Common Grounds: Unleashing innovation and growth through partnership",
-      "excerpt": "At IBM, we believe we can make greater progress together. Our purpose is to be the catalyst that makes the world work better&#8212;and our partners are key to this mission. Together with our partners and clients, we work to solve the most complex challenges with AI and hybrid cloud. Last year, we launched",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
-      "originalUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-eu-to-assess-export-controls-on-ai-tech-and-semiconductor-chips.md",
-      "title": "EU to assess export controls on AI tech and semiconductor chips",
-      "excerpt": "The EU Commission says the technologies are under assessment due to their transformative nature, the risk of civil or military fusion and the risk that these technologies could pose to human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
-      "originalUrl": "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMjI5MmIxYzItZWU0Yi00MmM1LWI4NjUtYzc1OWJjMjZlMGI1LmpwZw==.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
-      "title": "The AI Transformation Is The Tip Of The Tech Spear",
-      "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-not-all-algorithms-are-ai-part-2-the-rise-of-real-ai.md",
-      "title": "Not All Algorithms Are AI (Part 2): The Rise Of Real AI",
-      "excerpt": "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "publishedDateTime": "2023-10-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-gain-exposure-to-the-artificial-intelligence-ai-revolution-with-this-towering-dividend-stock.md",
-      "title": "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock",
-      "excerpt": "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749351/investor-considering-new-dividend-stocks.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

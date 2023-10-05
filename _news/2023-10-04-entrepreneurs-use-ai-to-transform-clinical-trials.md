@@ -51,22 +51,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How generative AI is boosting the spread of disinformation and propaganda"
-    excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/easy-copies.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
     excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
     publishedDateTime: 2023-10-04T10:10:00Z

@@ -103,6 +103,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "oBYAGH1uH1jJHAzGx+51A+0EJC1nhAqMpINGHlU8ILuxz99HVJFo3BDlt7pEVs3RuAQUIWFbPH4zqT3+OvudVibbbr96ttSUwbIFouqUuHjHJp/ilKVcs2hfQZ1xYa3PnJC9OcoqUPzhQswKCP3h9sbwLbbhpL6+eOyEZswMQeLtYFuXh9MTl8JXwmfBz6JJw2utfbSG9aUBsqSmFu/3dgTjUOiBlnU4h4Z7I37McBejbiiQIJLouH73oDuvDgoW7BJwalkvo9+5pLPU3zzdQG1gDA4qmM+kJTWIDW7uyvhtHYge/Etato+xYVwHQmBmXZp34lJBddZarrwZdcFnxeI53iyZlldWjcw8vD6LiGU=;IBM7INhBXbzUoM8FKY9Ajg=="
 ---

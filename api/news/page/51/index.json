@@ -2,6 +2,544 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-08-28-siem-and-threat-intelligence-stay-current-on-trending-threats.md",
+      "title": "SIEM and threat intelligence: Stay current on trending threats",
+      "excerpt": "The evolution of cybercriminal tactics necessitates a corresponding evolution in defense strategies, driving organizations to embrace advanced security tools. Among these, Security Information and Event Management (SIEM) solutions and threat intelligence stand as linchpins of modern cybersecurity. By",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
+      "originalUrl": "https://www.ibm.com/blog/siem-and-threat-intelligence-stay-current-on-trending-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T13:19:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-academia-vs-industry-ai-showdown.md",
+      "title": "Academia Vs. Industry: AI Showdown",
+      "excerpt": "Does the scale of AI research make it hard for academia to contribute ... versus an academic approach to hardware structuring and innovative GPU design. “People even had this crazy idea that maybe you could run computation on the GPUs, not just render ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfd321e4fef49de4af6c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/academia-vs-industry-ai-showdown/amp/",
+      "publishedDateTime": "2023-08-28T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-robots-learning-in-multiple-fun-ways-and-getting-more-dextrous.md",
+      "title": "Robots Learning In Multiple Fun Ways And Getting More Dextrous",
+      "excerpt": "Agarwal is also using the term \"artificial physical intelligence\" or API, which might be slightly confusing to people who work with application programming",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecfbe9e9c37dfe813b0612/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/08/28/robots-learning-in-multiple-fun-ways-and-getting-more-dextrous/amp/",
+      "publishedDateTime": "2023-08-28T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
+      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
+      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-leading-the-robotics-revolution-1032587043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
+      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
+      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
+      "publishedDateTime": "2023-08-28T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-nutanix-introduces-a-turnkey-generative-ai-solution-stack.md",
+      "title": "Nutanix Introduces A Turnkey Generative AI Solution Stack",
+      "excerpt": "Nutanix's new GPT-in-a-Box brings together the elements necessary to deploy a large language model (LLM) into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ececc62874c313484af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 787,
+          "height": 1037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/08/28/nutanix-introduces-a-turnkey-generative-ai-solution-stack/amp/",
+      "publishedDateTime": "2023-08-28T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-generative-ai-makes-grammarly-an-essential-student-learning-tool.md",
+      "title": "Generative AI Makes Grammarly An Essential Student Learning Tool",
+      "excerpt": "With the release of a host of generative AI features for Grammarly, students now have a rich set of tools available to help them with every aspect of their writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ecdaa5bfa770a03fd8ae25/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2023/08/28/generative-ai-makes-grammarly-an-essential-student-learning-tool/amp/",
+      "publishedDateTime": "2023-08-28T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-healthcare-natural-language-processing-market-poised-to-surge-to-us-185-billion-by-2033-fueled-by-impressive-180-cagr.md",
+      "title": "Healthcare Natural Language Processing Market Poised to Surge to US$ 18.5 Billion by 2033, Fueled by Impressive 18.0% CAGR",
+      "excerpt": "Healthcare Natural Language Processing Market is anticipated to culminate at approximately US$ 3.5 Billion by the culmination of 2023, the worldwide market is poised for a compelling trajectory, exhibiting a robust CAGR of 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/Healthcare-Natural-Language-Processing-Market.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ibm-introduces-watsonx-your-business.md",
+      "title": "Ibm Introduces 'Watsonx Your Business'",
+      "excerpt": "(MENAFN- PR Newswire) New Advertising Reinforces the Transformative Power of Innovative AI Solutions Tailored to Business ARMONK, N.Y., Aug. 28, 2023 /PRNewswire/ -- IBM (NYSE: IBM ) today ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106974965/Ibm-Introduces-Watsonx-Your-Business",
+      "originalUrl": "https://menafn.com/1106974965/Ibm-Introduces-Watsonx-Your-Business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-08/28/PN_bef0e01b-8_Image_In_Body.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-this-is-how-ai-will-shape-early-career-tech-jobs.md",
+      "title": "This is how AI will shape early-career tech jobs",
+      "excerpt": "According to the World Economic Forum (WEF), 50% of all employees will need reskilling by 2025 as the adoption of technology increases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
+      "originalUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-the-best-credit-monitoring-services-that-can-help-you-spot-fraud-early.md",
+      "title": "The best credit monitoring services that can help you spot fraud early",
+      "excerpt": "The cost of the services mentioned below are up-to-date at the time of publication. Credit monitoring services can provide you with early notice of potential fraud on your credit report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
+      "originalUrl": "https://www.cnbc.com/select/best-credit-monitoring-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106578035-1592226645583gettyimages-948732752.jpeg?v=1592226710",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/select/best-credit-monitoring-services/",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/best-credit-monitoring-services/",
+      "publishedDateTime": "2023-08-28T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-how-trusted-generative-ai-can-improve-the-connected-customer-experience.md",
       "title": "How trusted generative AI can improve the connected customer experience",
       "excerpt": "Most people are concerned about the implications of generative AI on data security, ethics, and bias. In fact, 81% of customers want a human to be in the loop, reviewing and validating generative AI outputs.",
@@ -614,491 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
-      "title": "The 34 most promising AI startups of 2023, according to top VCs",
-      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
-      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
-      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
-      "publishedDateTime": "2023-08-27T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
-      "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
-      "excerpt": "At the age of 30, Ann suffered a brainstem stroke that left her severely paralyzed. She lost control of all the muscles in her body and was unable even to breathe. It came on suddenly one afternoon, f",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "originalUrl": "https://www.realclearscience.com/2023/08/28/how_artificial_intelligence_gave_a_paralyzed_woman_her_voice_back_975671.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-china-gpu-firms-aim-at-ai-chip-orders-in-the-long-term.md",
-      "title": "China GPU firms aim at AI chip orders in the long term",
-      "excerpt": "Despite Nvidia's whooping 90% share in the high-end AI GPU sector, China-based GPU chip makers are still keen on contracting their customers frequently to improve their products, eyeing to tighten the partnerships in the hopes of gaining their orders in the long term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230828PD209/artificial-intelligence-china-gpu-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230828pd209_files/3_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage.md",
-      "title": "Cheap Chinese robot waiters worry South Korean tech firms amid labour shortage",
-      "excerpt": "Tech executives are concerned about the business impact from cheap Chinese robots that can cost one-fifth of the price of domestically made equivalents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3232505/cheap-chinese-robot-waiters-worry-south-korean-tech-firms-amid-labour-shortage?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/5e880516-8465-4e5b-b955-dc0d12ec5535_6ad7cbed.jpg?itok=c2ArTYvn&v=1693190899",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-the-uk-comprised-only-5-of-global-sales-of-semiconductors.md",
-      "title": "The UK comprised only .5% of global sales of semiconductors",
-      "excerpt": "The United Kingdom has pledged to spend 100 million pounds (or $125.8 million) on buying and developing computer chips necessary for artificial intelligence (AI) systems in a move that seeks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home",
-      "originalUrl": "https://www.foxnews.com/world/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Semiconductor-Chip.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home",
-      "publishedDateTime": "2023-08-27T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-3-artificial-intelligence-stocks-leading-the-robotics-revolution.md",
-      "title": "3 Artificial Intelligence Stocks Leading the Robotics Revolution",
-      "excerpt": "The company’s automation and robotics technologies are critical ... from high-performance computing segments tied to artificial intelligence. While its robotic unit faces macro uncertainty ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
-      "originalUrl": "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-leading-the-robotics-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-5-computer-vision-stocks-with-a-clear-path-to-growth.md",
-      "title": "5 Computer Vision Stocks with a Clear Path to Growth",
-      "excerpt": "That phase is AI's industrialization, which will be facilitated by the IoT, edge computing, and computer vision stocks like the ones listed here. These are the leading players in computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-computer-vision-stocks-with-a-clear-path-to-growth",
-      "originalUrl": "https://www.nasdaq.com/articles/5-computer-vision-stocks-with-a-clear-path-to-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-dont-fear-the-self-driving-car.md",
-      "title": "Don’t Fear the Self-Driving Car",
-      "excerpt": "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
-      "originalUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300&ssl=1",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/amp/",
-      "publishedDateTime": "2023-08-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-robotaxis-are-dividing-san-francisco.md",
-      "title": "How robotaxis are dividing San Francisco",
-      "excerpt": "He represents a faction in San Francisco that doesn't like robotaxis - and believes the city has agreed to a dangerous experiment, which is putting lives at risk. And some have gone a step further. Over the summer a campaign group has begun to disable the cars, by putting cones on their bonnets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-66611513?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-66611513?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AF95/production/_130894944_7.8-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66611513.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66611513.amp",
-      "publishedDateTime": "2023-08-27T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

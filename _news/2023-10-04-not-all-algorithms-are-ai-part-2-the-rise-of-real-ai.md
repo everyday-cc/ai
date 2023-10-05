@@ -32,16 +32,16 @@ images:
 
 related:
   - title: "Artificial intelligence in 2023: Expanding frontiers and the promise of smart algorithms"
-    excerpt: "The dawn of the 21st century heralded the rise of digital innovations and their transformative power. Yet, among these innovations, none have evoked as much wonder, curiosity, and debate as Artificial Intelligence (AI)."
-    publishedDateTime: 2023-10-05T03:59:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/"
+    excerpt: "The dawn of the 21st century heralded the rise of digital innovations and their transformative power. Yet, among these innovations, none have evoked as much wonder, curiosity, and debate as artificial intelligence (AI)."
+    publishedDateTime: 2023-10-05T04:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 52
+    quality: 50
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/IMG_1801.jpg"
         width: 1256

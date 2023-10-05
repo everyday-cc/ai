@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-10-unique-voice-parrots-birds-flock.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-unique-voice-parrots-birds-flock.amp"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Unique voice print in parrots"
+    excerpt: "\"It makes sense for monk parakeets to have an underlying voice print,\" says the Max Planck's Simeon Smeele, first author on the paper. \"It's an elegant solution for a bird that dynamically changes its calls but still needs to be known in a very noisy flock.\""
+    publishedDateTime: 2023-10-04T16:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003202004.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Parrots have a unique voice print similar to humans"
     excerpt: "If you have ever been mesmerized by a parrot's ability to mimic sounds or words, you're not alone. Parrots voice print always sparks curiosity"
     publishedDateTime: 2023-10-04T00:37:00Z
@@ -54,20 +63,6 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/379495/parrots-have-a-unique-voice-print-379495-640x360.jpg?cb=20231004"
         width: 640
         height: 360
-        isCached: true
-  - title: "Unique voice print in parrots"
-    excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
-    publishedDateTime: 2023-10-03T23:20:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003104"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b76ae98b-d253-4f3c-ba9a-f379619bfcac/Rendition/low-res/Content/Public"
-        width: 424
-        height: 700
         isCached: true
 
 secured: "g/6gIkan5ilu6xHa6C/R+ppk7A8wmRKVTHjzGkUoSIv0JHO2CJGBkjamvKQbqpmw9iuujJYDOmdBkCLqjX3M7eGhAKEMXii6Hmuv6NavdsgatkxxA7IwA2IOVM5DFggGsoUTlI6FVWoDo0xzqYmlZ/bOAJ//9Qdsn+EOZkicWwkNyGzBG5zj2pUrtlsuGgQ8+F9QTDojp6iny9vaIWcDe0aCc98DjQmBAXfIM1Pmn5qez6HkghQ61gP7OtLxGfgvt4IGmJr5GGrU0j7I+/h6KRzeSLtiL2+nU31ctb4739S5Buu/VSNxakS1RFblQBh3FwyuUQV5H6oD8dl/EmRKwNkbyOeukwu4xLqUyPThSIE6KFvyV7XgNv8swgFqYIEx+tKGC8P4ngnFt7EbVB8F8VM2n2XbjPbUq8J0bDagfK6+xXF9xU+N/1aTANbe/aSphYAJTpORfK5lQls4ox7PRFgCY2TUxJvrY7tQGBD5pG9XF7SW7U6fHmiYAMLogrjhBZEBNfVUUOVii98uWMiymw==;RctBl71i2DGt0NwIBYP0kQ=="
