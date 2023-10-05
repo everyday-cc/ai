@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: 5 Things Business Leaders Must Know"
-    excerpt: "AI-powered chatbots are enhancing customer service with intelligent, real-time responses in almost every industry, while translation capabilities are making information accessible across languages. In the coding world, generative AI boosts efficiency by ..."
-    publishedDateTime: 2023-10-04T21:21:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-5-things-business-leaders-must-know/"
+  - title: "Are AI-powered virtual bands the future of K-pop?"
+    excerpt: "K-Pop girl bands Eternity and Mave's videos have racked up millions of views. None of these singers are real. CNN's Ivan Watson has more."
+    publishedDateTime: 2023-10-05T00:28:00Z
+    webUrl: "https://www.cnn.com/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 49
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230822184145-ai-kpop-watson-pkg-intldsk-00004211.png?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "g+RJuD4U37U3tACfV/tPvomWVSJaXruxPvKBPcDDawR7PHDqBlPvFQbN2pq8voB7ahBODkit1jeg59oUsVA9U9Id19gZdCuQ3mvJxQNUJHaOZYCbUgNAIKM4ymLym02vtPtXn17Eb3X3A0DTnsgIIHXRb+d67nvZ7uuazDlT04FZCJfG63CSv7BIvd7M3zwlWjsQ0XTghQCAcZHfI/3B+BQW4604+Vb2W8zZUlVo77QJbG2XMgDRIVZxACRT5icCnX/LXvy6JFGrZj+rqo/bAsboALzFa3nl1UmNzVVPXtFz2fJudaGQXGASCKRUKpaKYc63YAgFlHibXCjfukRa6DINdpNbxxDuJA6oYGbNDj4=;/9Q/k8xEdLr6EsVMzhIjVA=="
 ---

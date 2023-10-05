@@ -81,6 +81,20 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
+  - title: "Both camps in Australia’s Voice referendum pledge to cut spending for impoverished Aborigines"
+    excerpt: "Donate today The Voice’s origins lie in the decision of then Liberal ... The gathering, which agreed to moves towards indigenous Constitutional recognition which have culminated in the current referendum, was an attempt by Abbott to suppress anger ..."
+    publishedDateTime: 2023-10-05T03:38:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/05/zttk-o05.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/d42b4694-e8a4-4e3a-8bc8-c25caae9b57a?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "yoPYkbe5q0a1Cy/uebCIeoT/htUynXU1OBPGj/Y8gzgS3zNGqEXcPUDKwoTd5Hv1124GXseV/sfMrXnEq9xRINYsrHTp3cwS2ZGG9229uGEh8LvorQPaYHmeHLiUeqY56BhBykyaBlK0Of4HuaV+0auXM/A8bdlRDbJK7j/BxgHoBlBeqe2yDWFVKa7hY0qiFp4PXUqn1kJ+KHTBYGh3fHgqw4yc6OJRLGTbwXEcxosA6Dw64d0KKonKSBEXKoxla/RwaqTmCTgJCClj97+wiM4qxW3WFi7vZ9qI/BzeU99fY1Vl2hE3jgSj021o5n3Lj6W7sduxXxkMKmb28N6hmAYY99OgZJZLaUmXk6AYmuBY9Mm9Xt2ImGoY3FRY6OePqSvapdKEe7jzsJLgNf3Q+HEe6IDNV1Xcyxo27xiEY7i/DkKOHxDKihd9c9xO2QFoWrXvCiHBuBMdMO0lsYfGuVt8/w/Me6V8sAKhuEj14CWp1vLROilW1ujRufV9tfpl1tddZwtkU7XHD4K4ZHBTMw==;Mkq/e6OcSr8vOfojJ3IsLw=="
 ---

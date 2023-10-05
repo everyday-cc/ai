@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/devdays-asia-2023-microsoft-democ
 webUrl: "https://www.asiaone.com/business/devdays-asia-2023-microsoft-democratizes-taiwans-ai-skilling-initiative"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 316
     isCached: true
+
+related:
+  - title: "DevDays Asia 2023: Microsoft Democratizes Taiwan's AI with Skilling Initiative"
+    excerpt: "Taiwan's Ministry of Digital Affairs (moda), in collaboration with the Administration for Digital Industries, moda (ADI), and Microsoft Taiwan, proudly sponsored the eighth edition of this year's DevDays Asia conference."
+    publishedDateTime: 2023-10-05T03:27:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2812"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 50
+    images:
+      - url: "https://mma.prnasia.com/media2/2236316/LIN_4974.jpg?p=medium600"
+        width: 600
+        height: 324
+        isCached: true
 
 secured: "dZOZ9+UIHBelsT+ScpGLx9X4K/LZ+5CGNDE5/G5C3hzOXEg/iOnyoBUl7vlsYNomHkGMl5AqfnhjB3yY6uikq6OHFqsZkKXC/kOYN/VwQWI+WGJ8CBP/6+A3b0V3wcmxT8DWPzQKW/zbjSoTikO8R7/okID49LuZLbygZesd8S4/YtF6NCTPHzbsbKbP9S9L6ccEzpVeV2hKSUgNg+andzUEaNjTZkdu1O2xpmMyQRI8gVn8Izt9DpgYmiw2rSxiAPWF3llFUsRc73zY1nEVId+EB3ZPZPorkLx/pcESFh9B8D/ETYLLid8SqDTdkp3T75XgxmSlewPtq6A8BsKCgkkrQNqNVhaxdWoiBbSCK1o=;gCoy5pcl5gq6ZhjMYjFKRA=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 951
         height: 635
         isCached: true
+  - title: "People Are Souring On Self-Driving Cars"
+    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
+    publishedDateTime: 2023-10-04T20:01:00Z
+    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UMBg74lu1Kmzj7pkp5CtARBU9jaURwpOk9hZHd15jt5j5fu077/Hk5S5osJzQhABhNaxS4o6/wBQ3emxsm0pW74G/bOYZXiyXczOVaBjcd2FS9IaqvQhRrJf2vPekpdPjbOHQw6K06pQhU3+YEYRqQ4u2AbdG1ZMY6YCJVOMWm1ae6PBdDe+mmsBr5EgQsQlChEmyz819VrEBZiHjb4Su3n8P63BQwUxQJ1iIYYvSI6rX7veJBb8qY/u44zWDygTuHLlMVhcuEQbgWIjCNdnJj/JP8FSarjNdVPGEPtRN0vNl84wlcJgr13dg7MYZmJ9y9EWb5sLapezuzLkNcUb1uitESc7RIAf9Oj6X5haIRo=;2zlKT9xaYVeBfiaWU82yrg=="
 ---

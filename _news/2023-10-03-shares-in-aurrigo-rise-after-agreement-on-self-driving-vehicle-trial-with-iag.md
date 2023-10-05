@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "People Are Souring on Self-Driving Cars"
-    excerpt: "The U.S. public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J.D. Power and MIT. The growing distrust applies to self-driving cars in general, including autonomous vehicles used by ride ..."
-    publishedDateTime: 2023-10-05T01:30:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/people-are-souring-on-self-driving-cars/"
+  - title: "China leads way with self-driving vehicle tech"
+    excerpt: "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training."
+    publishedDateTime: 2023-10-05T02:43:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
+      name: 中国日报网
+      domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/3749901aa3359f0f844363550c274978.jpg?quality=75"
-        width: 3999
-        height: 2249
+      - url: "https://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "RQZiqfwbz2JZdRn7WSLc4Az4oCvu72Moj8qdkIATjbcr8VMguO6+CM316EEt1aNNlXryOPlYIZZEV7mC4mwTwmsq8nMZnANrwrQoB7BArkY13aDu9KsdEbPQzzTq2eXDqC118xBIbBauFZ6KOY2RFk/tEWIVsRVaLsVvvmr0hSrGnEToVKkFAXTlIp/pH+eofSbi8seR22Fhr7oXNLASHtoqtLNvhp5UB3BwNzqQfmX8Umid/Jgqi9GVj1wkHccF5z0qe7cjqBFQW53Y+WqeUztOICKkzzpcPHbPDo87zVwW/71AMyyiqTYXlc8ZAP32lNc+LMk4Xs6w9b0lj2sd/Iq/oe9UCayPusX5QGCx/fc=;hPfLf9WFoCcpauhRz2Xcpg=="

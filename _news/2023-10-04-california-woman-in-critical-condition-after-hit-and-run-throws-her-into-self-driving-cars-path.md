@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What happens if you get in an accident with a self-driving car in TN?"
+    excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
+    publishedDateTime: 2023-10-05T03:22:00Z
+    webUrl: "https://www.newschannel5.com/news/what-happens-if-you-get-in-an-accident-with-a-self-driving-car-in-tn"
+    type: article
+    provider:
+      name: WTVF
+      domain: newschannel5.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d6ec3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fde%2Fd2%2Fe40be43547daaba1d5b8799f46be%2Fcruise.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
     excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
     publishedDateTime: 2023-10-03T09:20:00Z

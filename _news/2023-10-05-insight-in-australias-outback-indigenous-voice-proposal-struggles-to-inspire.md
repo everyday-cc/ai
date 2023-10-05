@@ -77,6 +77,20 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
+  - title: "Both camps in Australia’s Voice referendum pledge to cut spending for impoverished Aborigines"
+    excerpt: "Donate today The Voice’s origins lie in the decision of then Liberal ... The gathering, which agreed to moves towards indigenous Constitutional recognition which have culminated in the current referendum, was an attempt by Abbott to suppress anger ..."
+    publishedDateTime: 2023-10-05T03:38:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/05/zttk-o05.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/d42b4694-e8a4-4e3a-8bc8-c25caae9b57a?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The time has come: Labor to work with gov on indigenous recognition"
     excerpt: "Shadow Minister for Indigenous Australians Linda Burney speaking to media at Redfern park in Sydney about the Labor party's support for the Uluru statement and willingness to work with government to achieve an indigenous voice to parliament. Burney says it ..."
     publishedDateTime: 2023-10-03T10:32:00Z
