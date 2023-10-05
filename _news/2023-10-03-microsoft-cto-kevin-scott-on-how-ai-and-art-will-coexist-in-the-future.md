@@ -46,6 +46,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
+    excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
+    publishedDateTime: 2023-10-05T16:37:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft’s Nadella: Google could lock up AI-enabled search"
     excerpt: "As a witness for the prosecution in the Google antitrust trial, Microsoft CEO Satya Nadella warns that Google’s monopoly profits could lock in publishers as AI-enabled search arrives."
     publishedDateTime: 2023-10-03T08:54:00Z

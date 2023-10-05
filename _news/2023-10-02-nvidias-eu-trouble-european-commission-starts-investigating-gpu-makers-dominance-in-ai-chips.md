@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-euro
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
 type: article
 quality: 77
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "EU worries about Nvidia’s AI dominance"
-    excerpt: "While Nvidia is raking in billions from sales of AI hardware, its competitors can't get anywhere near those figures. Yet authorities are unsure whether"
-    publishedDateTime: 2023-10-02T11:56:00Z
-    webUrl: "https://www.techzine.eu/news/privacy-compliance/111811/eu-worries-about-nvidias-ai-dominance/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "OsdRdEx8OhHRPgTcap5A3CL9Nrfsp0U0MldUZbrw5eMjIYceFsy8Q184z+XwZb0cVGvVE1kIZrWxcLZ2g3k8MofI3S7mJsJ+602oHs31WnJNtMzM/ZQi8RjaUesnkw4tzld9H0eYvKuaI4auv/y2X9t2QpFlrDxolu5m3BTgQShXCK3JrlQnyEhcdPl6uI6FBdMfavgjAGLA7bnL7fSQWMLJcWwwT5KyKFvRQwN4CruymYK2X5uPUbhkGyUt8z5JJaWBqjj7KWJvipd22tmzcz8Dcv6x39bz+Smanur5UyRB9Yq5Lrgl2boxyO/cEhwaQeHk7UTEw9T3eTljEq18lXKXasVmkYGWcpxdTVvrSQyILgBCH1w1Gkpims6dd2ms3LJ7f/Celw6qCL0F1AM/+Ke9y0hscodiZXSXNmvZEmwiQEoNmms3s4LSOPQBKWau3Q/Cvt6vVeccBrjI67eDiShxgNYctpDQNmMNIb9B+9WXRx9BUfRpnOBiNKkTLjswvhiKaI4Wgps8IYyBGdOncw==;5WUotpfGwHOY4kCetPHF5Q=="
 ---

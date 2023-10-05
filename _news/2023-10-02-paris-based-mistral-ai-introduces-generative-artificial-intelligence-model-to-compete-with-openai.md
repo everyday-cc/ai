@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
+    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
+    publishedDateTime: 2023-10-05T17:48:00Z
+    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z

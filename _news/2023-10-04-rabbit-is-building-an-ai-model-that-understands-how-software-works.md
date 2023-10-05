@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-t
 webUrl: "https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "AI is now powering your snacks"
-    excerpt: "PepsiCo offers one example of the AI-powered future actually happening today — reshaping all manner of work, including the making of the humble Cheetos. The company’s chief strategy and transformation officer, Athina Kanioura, said in an interview on the POLITICO Tech podcast that she’s infusing AI at all levels of the operation."
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/10/04/ai-is-now-powering-your-snacks-00119962"
+  - title: "Lemurian Labs is building a new compute paradigm to reduce cost of running AI models"
+    excerpt: "Lemurian Labs is an early stage startup with a big ambition to build a software and chip solution to make processing LLMs more efficient."
+    publishedDateTime: 2023-10-04T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 17
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1312904817.jpg?resize=1200,848"
+        width: 1200
+        height: 848
+        isCached: true
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect fires from space. Microsoft is using AI models to predict ..."
+    publishedDateTime: 2023-10-04T19:21:00Z
+    webUrl: "https://azdailysun.com/news/the-threat-of-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-to-fight-them/article_dd63420c-446e-5348-bef0-f7a3efb595c6.html"
+    type: article
+    provider:
+      name: Arizona Daily Sun
+      domain: azdailysun.com
+    quality: 6
 
 secured: "G+Zfd920i63KpQsMNHMO/htCEOWEWJMdr/Qb32Y4SxTbApQEvjVvZHjUZMMIM+gi0g4QDTxIABq2axsdjCCePcDXUhIwFmMaOJAtdOISqaSZCC0wSSWO9zyC8FqGFrb+1N0mxqP3+KEBaFqWdjhYH/E6AjiV6gSXyZxD1R3pjqnWDHTFzjlgD6IvL5ZyYdlQQZvOpv01iAJFvWiTr5D0re4PmL+p7c62wHmASG8Becx5GnaK2uN7kWheLDZ/XpcCfgyz3PB2jhsDRwkg/aobY4QOedlGoSKAiHveWH/Tjd5SEKgodXJ3jwR9pnYhrwh+RHURexKE+LOI6+vNebO5/1h1LhPSfGkVhfet6OfeWHk=;bY5wSEMtbfR1kHM2gElP8g=="
 ---

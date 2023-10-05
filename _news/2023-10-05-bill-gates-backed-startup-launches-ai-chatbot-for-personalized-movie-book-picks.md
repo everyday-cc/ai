@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
+    excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
+    publishedDateTime: 2023-10-05T16:58:00Z
+    webUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/"
+    ampWebUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8F55F0EE-179B-4E3C-BD4FF56C2F58D717.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
     excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
     publishedDateTime: 2023-10-02T10:45:00Z

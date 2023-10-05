@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
-excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
-publishedDateTime: 2023-10-03T20:29:00Z
-originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
-webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+title: "Instant evolution: AI designs new robot from scratch in seconds"
+excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
+publishedDateTime: 2023-10-04T00:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 64
+heat: 84
+published: true
 
 provider:
-  name: mccormick.northwestern.edu
-  domain: northwestern.edu
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Robots crafted by artificial intelligence: Instant evolution"
@@ -39,7 +37,21 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Wing-flapping robot helps explain the evolution of insect flight"
+    excerpt: "Researchers built tiny robots that can switch between two different kinds of flight, one involving unusually fast wing-flapping, to better understand insect evolution"
+    publishedDateTime: 2023-10-04T15:03:00Z
+    webUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-helps-explain-the-evolution-of-insect-flight/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/04154200/SEI_174616579.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
-secured: "co5VIDOxcT5j9cvatHOW6pY5GkV1xpz4T4OZYTAWp21ZJDx6s9WFfomWfitvUBZPf7wsN4Y/TiLyOAKb+B+nBjbvTrYu4LUR2ZgIPRrgOIKOdCo7BC2ZS4eokCryKAMcLrPY+vvvHtUcDTeCO1qiDx/CRVvNgidxVhIA81al7xu948s1alX5Dm5GveGNo2IumCpOaKzBMNPs/NIAag/U4yLLT3F37T8PwntCa1nfvR590swIZMb50FqZEgQUq0S9PT3LEF1Nuac0FeiXCpkKxil916lwyFUhVKNAYk9WWH1MOA6Oiozm3LOOQuID2m9bBuKsY6a3hCYKjuBc+0gj3uf6tl82IoIm2AoBhudX7+Q=;sZFD3It7scn5OUwp2XWPMg=="
+secured: "bSqTdChWjMDaovJBO2XQI739a7SGWfZ7vQTaKkq5096r8xr1HJHWzaNXKR3jLz2IWuxudBtenU9gD2RVUKsku/DCi9SCpVH5lLQgTLLRIrDuPnzRmRDi3+KSbWjQ1i49R60WGdylBZXMrL644rvrdMLRJVbSFeISQsfzpwSyveQmQPy2cM0gNPHgK5783NbgQ9tBkO+lB1BZYD2OqrV87gEWtYhQn2FGC6fS3VE/eyQLTiQ1K23ROI2FQpMbWVDsa6F5U68AGoMV4OIAaywUKHB9qxA79YlkTM18bIMIdZliGKPi1a6Ng1PNKYXAqSpOe4gv6HiU61hLnoCGMFr4hF73ZuJ/ofGj9kV0wyz42+g=;sLg1dt4Dlk5W6Jq2L3r2nw=="
 ---
 

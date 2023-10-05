@@ -39,6 +39,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Commerce’s CHIPS-focused semiconductor tech center expected this fall, Raimondo says"
+    excerpt: "The National Semiconductor Technology Center would be key for semiconductor research and development and could be important for emerging technologies like AI, Commerce’s top official said."
+    publishedDateTime: 2023-10-05T17:04:00Z
+    webUrl: "https://fedscoop.com/commerce-semiconductor-tech-center-expected-in-fall/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 47
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/05/GettyImages-1394012992.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "EU to assess tech security risks and consider controls"
     excerpt: "The European Union will assess whether semiconductor, artificial intelligence and quantum technologies and biotechnology pose a risk to the bloc's economic security, which could lead to curbs on exports or investments in third countries such as China."
     publishedDateTime: 2023-10-03T13:43:00Z
@@ -82,6 +96,6 @@ related:
         height: 267
         isCached: true
 
-secured: "dogOCj21qvgpBNcWlfZLXSMH9B1CuZqhbyeFeu0w4uYuEPyH5TQiECpw9Kio0OXvqUy86o5l6zefkqMgqEme1/nc7G9S0sj6xnmtulqvfOYAHYUS/rJ5Z8W+jdKcvDJZFZ5h19xZwBPB2p8w86cduwWrOLstBlTqB8AlLrhlXTd93NcPVIh+/yvgNW5bYAe3+TlpMhGlQc7j+mOZu0zBJc7lcNVmLnp8Z3FHL9tiwrAN5YoFjg5TjaG1xGLzXbnuxVmQpkBLwEuN+5JtxtUZYKhME+q6wygFfg+SMJQmFYmvQxctFsgrdwDQr0KoR6Bamf5g05DqB74uRZq37ynRgD/cPiBGOeR09Rnp38X0ClY=;Sy/2EISPPbR2q3IWZIVf8A=="
+secured: "2VyIYELSowl/ydWCGB9S1luRzw7PlUI1Fv3F6nUm/vL4YGN9Dy4L0Vt4o65KL1MwmgIlOizCH4CSqgSNXAdRCqD+AkLF/YQOwYx8EMqJJhHF4vcVuyxar9biC3R1OkX9hpgb/p1l5DzStsiRzEVAmb/CSgpeFOJJhtoIsCLuiCVIG/hEJHpTtfSgesxiUUJ4s8Zq1xtoXzdu8FiM+bW/G+lcjrWUMeiXqETWjD5AG2SkkAlnr5d7QNoH1ooCnwMw6MnCpWVbtplW+PqagWo35rd4tm7z4ijsNX2RFqY0ylN2SixtwaS1Py6jrPSHVQhEr+mSMtidgG3F8xVTkJoE992NpZA28ASbHrxbyb4a2LqG4CAy83VewllZu2YYxemZgJbHVS5iKuSkvnd15pFjeDxgKl+EuIN/FlF50j4aRmED3RUNziQMPF4RbdX9KnPrHfhz4XHt01L8Ggpeh9i8GVBcQphE91GIqnoZXWwzlzEPx7/t02nhjcTF2ggX0R7vvpELLNYOUoXSTEBbmF1G1Q==;vQMzXFWdD+IAic8RZTEsUw=="
 ---
 

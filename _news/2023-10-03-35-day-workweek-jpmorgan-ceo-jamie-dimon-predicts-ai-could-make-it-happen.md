@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/willskipworth/2023/10/02/35-day-work-
 webUrl: "https://www.forbes.com/sites/willskipworth/2023/10/02/35-day-work-week-jpmorgan-ceo-jamie-dimon-predicts-ai-could-make-it-happen/?n=@"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "JPMorgan CEO Jamie Dimon Says AI Could Ultimately Reduce The Workweek To 3.5 Days—But There’s A Catch"
+    excerpt: "JPMorgan CEO Jamie Dimon predicts that artificial intelligence will lead to a three-and-a-half-day workweek for the next generation of employees."
+    publishedDateTime: 2023-10-05T16:18:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/10/05/jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-days-but-theres-a-catch/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651ee11751addfab8a33165f/0x0.jpg?format=jpg&crop=8191,4605,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7iOVmhET0HCQqIotXYZGnKdlrLo+qvtA9JayAFz4BIngio0QS5Y/8L/9tQn8IukpVqj0zRwTf/Poqw7kjhkQ9ded8Saoaz2hn/b3mzxcpsCDDjSn16P5LoE8nFHFDT7lBZa35fKNaIZyVLCaNWCynhXc9zhsWCJFdLyyb6NC/qrflsENtcB/qNJaMvr1C09xkrx6fJfRWrmKHV4nzcrsjJ9ZE5AmheByOv4E1YebPaiG588y7qvXQPxmv8PNyZ2dQ+0DAxOOhD6v+aNI4gAyvOXCSTMu7vtt52Mi0YKnX8O2ZBwIwqYss+wQrBn5Fc9idU3vQjoUkFZ3/+zQBxQw59YIapE9boe/dSPnWHq9k0yYSqdt0MQ/Tl0Pl1/6HczkTnIUUM2Jh58j3mt28TNShUXAbB4wSSQcp1lU+27Dwt4jgEjb7kYuCIQepyW1m8IVjnkeqm2RAa2lwfUJfJHG/Db2Hj5ZR0AezeCk5mAztCp8CU5EWW9xgK+RFNoMvOL/fw2pwtL+LnDqQeRLDfhl+w==;Y+fDFbwjDCFap3jCKvHWFw=="
 ---

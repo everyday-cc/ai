@@ -19,79 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips"
-    excerpt: "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch"
-    publishedDateTime: 2023-10-02T07:35:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
+  - title: "NVIDIA DGX Cloud Gives CSPs And Their Customers Exactly What They Want: Fast AI, Fast"
+    excerpt: "While some may confuse this as NVIDIA competing with cloud service providers (CSPs), the DGX Cloud AI is offered in close partnership with CSPs, who love getting revenue without the hassles. And enterprises love access to state-of-the-art hardware and software in their favorite cloud."
+    publishedDateTime: 2023-10-05T17:05:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "European Commission to keep track of AI and semiconductor chips"
-    excerpt: "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies."
-    publishedDateTime: 2023-10-05T05:11:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651dd3aa33db71290192a6cb/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Prices for Nvidia generative AI chips soar in Japan"
-    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
-    publishedDateTime: 2023-10-03T02:03:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
-    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
-    publishedDateTime: 2023-10-03T01:46:00Z
-    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Is Nvidia abusing its dominance in the AI market?"
-    excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."
-    publishedDateTime: 2023-10-02T20:08:00Z
-    webUrl: "https://techwireasia.com/2023/10/is-nvidia-abusing-its-dominance-in-the-ai-market/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jen-Hsun-Huan-NVIDIAs-Founder-President-and-CEO-delivered-a-keynote-speech-at-Computex-in-Taipei-Taiwan-on-May-29-2023-scaled.jpg"
-        width: 2560
-        height: 1707
+        height: 648
         isCached: true
 
 secured: "kwMhCcyQJIVmboDRW/J7LNfKm8m5WXBCzWJpZjtzHtddv/8SLkviKZ1OsH9QrPCNiCSCHaoGiH9++ONg+int0TqslAQd1EgPqh+Kx5dNzSjvYeuHNPnMxkUmQYkkW1bh8q6A0dzCUQ6stZqzDbKd/CgC5XCPtk6EiAlST2lOHLv5bYxqizyycAUMNxLzEeIfqaYsZ8mfprl2U4c+LHIr0TzjtXZG4L2PcnaRYjL4Dy7jJ+e6dRhlV42XeK6l3195fInydvGIauWXJ3jEaEQ2uSfp/U5ig1PpKnylPC5KreuTjmDi4zOaF6q31edESQ3cLe7R6Y+/sYORKAKTiZbWACs5jflllS+FdoPzCz8v+7h8Q5bb7pAYne8UfMi+qjQFnrOtUsqphp2fo2JD/7sdXiHaQvcA0+4alFQYYWEpyTUGqWxwA6VgY1mLZttB6x5b7OvpROZvitb/mOOf7SNQe47NUHdyqndD8IIIzlQC9kbt0/borc/OstHDwk0QZbpEcsloWtcboAxfEC6WTCOY/A==;EpACNBI6o6ZHStY5AerfLA=="

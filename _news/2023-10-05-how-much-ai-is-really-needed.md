@@ -39,6 +39,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Writing AI art DallE 3 prompts for beginners"
+    excerpt: "Over the last few weeks the AI art generation market has seen the introduction of OpenAI’s new DallE 3 AI art generator. If you have already been using the AI artist and wondering how to improve your creativity. This quick guide will provide a few ideas ..."
+    publishedDateTime: 2023-10-05T12:29:00Z
+    webUrl: "https://www.geeky-gadgets.com/writing-dalle-3-prompts/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Writing-DallE-3-prompts-.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "National Security Agency to create an artificial intelligence center"
     excerpt: "China has in recent months stepped up cyber operations focused on U.S. and allied institutions that may include pre-positioning malware."
     publishedDateTime: 2023-10-02T18:34:00Z

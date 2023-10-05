@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/10/05/world/middleeast/iran-armita-ge
 webUrl: "https://www.nytimes.com/2023/10/05/world/middleeast/iran-armita-geravand.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "A 16-Year-Old Iranian Girl Is in a Coma, Putting the Spotlight Back on the Morality Police"
+    excerpt: "In security camera footage shared by Iran’s state television, the teen, Armita Garavand appeared to have her hair uncovered when she walked into a subway car in Tehran on Sunday. Shortly after, more security camera footage shows Armita being taken out of the train car unconscious."
+    publishedDateTime: 2023-10-05T17:50:00Z
+    webUrl: "https://time.com/6320956/teen-girl-coma-armita-iran-morality-police/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 44
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/10/Tehran.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ZnsU3ndN6MCEjCtCftWeYkoVd4cntd9Nk18b7hX++OMgWjJMzybFQaet6PeoYFZvW3JCkH9rjqIiRGB7VL5eVl1XRXzZPMHHW7NOPtSFsHUILRMaSV6PNRTCwP3GtyRD0eWTb53geOtndMn9M6XGB7kNrpbNofjbhx5CaiMaR7i/0y6XDcJxp8HxcIwmMV6IzguFgcqibNVTkQBhInhoIazTk8pxO/KG/s1vyzVvMjeCJ62EtbcX1wqNtekLcuHzKQ1iMbdSXdih+Aineu2I7rMafgfCoDeybaN3VasmGfaOezSkvLyoAmWSDTpTzKL0xKeaZdb4HeO+3ekfThriROUa6ZAmC+LWPmeAJqEhRZINaQmduoRD3cvKG62/8a2Yj8bCp+vb3aK+I1r3y9ihfC8T9EjhFFaG8d93/IlBPe7T7eZarj7eJLpmSpGX+Q8EuASW0YMt6/NUDsbNg3EskoD4ohXWBqLUVYkCN6rHeJ5OVROgmMlB3wkYyjGjFFZM/gGhatYUlC1i2psXIvseEw==;q+4t4ozKgByThkPg2o1bxw=="
 ---

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
+    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
+    publishedDateTime: 2023-10-05T17:48:00Z
+    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Paris based Mistral AI Introduces Generative Artificial Intelligence Model to Compete with OpenAI"
     excerpt: "France-based Mistral AI recently revealed its first generative artificial intelligence (AI) model in order to compete with US rivals in AI."
     publishedDateTime: 2023-10-02T03:58:00Z

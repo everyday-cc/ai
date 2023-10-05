@@ -2,27 +2,25 @@
 category: news
 title: "Meta's new AI assistant trained on public Facebook and Instagram posts"
 excerpt: "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ..."
-publishedDateTime: 2023-09-29T03:56:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/"
+publishedDateTime: 2023-09-29T03:00:00Z
+originalUrl: "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761"
+webUrl: "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761"
 type: article
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/incoming/9enb2b/article67352868.ece/alternates/FREE_1200/2023-09-20T083013Z_1976777224_RC27C3AUUE3P_RTRMADP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--sFDhGANt--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t204110z_2_lynxmpej8r103_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=1UluD5Ph"
     width: 1200
-    height: 829
+    height: 676
     isCached: true
 
-secured: "qi92GcbzQHeX53DjsggOFdL6TLMHcF5B14MxkPm3Eb4mVsz/xg59EQhuXXm3wVcAC0VvAU0nbIPiSWXg1lRUhtyqUq/XeQT8BorD1/pMYsRa+L+2C6k59ajxAQiIrUoX2pf7Xa0PNkPTnu2Sb8GTh3D4mr6QevL7DIHUn5ByXNFEeKX9M5PhK/2R4SVI06zLjHKShRcODsZUygU2eZxAbcfMWGb6vh7/o1Ro5GXL2hboaSV7vdNMNrQwBdEjv3mtg0M6DFd75/ILwW3jW36E/0C1UfZxP9XGuyRgVCndQ2f5st4MJ2492GYtWeaC7xzmNofXfysu4kgCiMCUV5uKvG25/ABkIv5hCus0dgNeric=;0izF4xfDZGNO7VLManUtlg=="
+secured: "xTtbKbXsT/PY0aaj3TyY5ihMtvz9QLrVNV297ynfINi4DMP+J2Vce1HyXeIRXjra/spSHHOyqLIGvnGYdYYB4Vy9CGMzp0BQwOWyEVCxW8XQvEewRt37o7em54v54+gvVoA1PQVGFX2gR96di3SIWWSsDdrl8PviFzyPghalKLqoL7fXsInbKS3ZZzt3yzIauzuZlf1vVXRdBx9czS9eced6RBc4ij7UaGKPdRVowD5JcdStJ00rYA+92VXpHS4kmvBVo/LhKLgLfDfSIJUwVMyrpZFbWhP4UT/43BY+LPNoh/IIZd8k9r6wCjQSrMxjoj8qStEq6t+CVr3e0yndEj9SV+ghxMGcYCVlm4XqitQ=;HILsaYL+f3hDRePWb3Rmag=="
 ---
 

@@ -28,14 +28,14 @@ related:
   - title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
     excerpt: "A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs"
     publishedDateTime: 2023-10-03T23:00:00Z
-    webUrl: "https://trib.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_9e5c8cf0-b94c-5daa-9e2e-78e9a8c993df.html"
+    webUrl: "https://greensboro.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_cdab0702-8c01-544e-9892-841802361ac1.html"
     type: article
     provider:
-      name: Casper Star-Tribune
-      domain: trib.com
+      name: News & Record
+      domain: greensboro.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/a/0e/a0eb1810-d32a-5e78-8783-424e3227ea72/651cbccabdf31.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/f/3c/f3c3e987-7149-5135-922e-fb2053ecdc1d/651cbc9a620c5.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

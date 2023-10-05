@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-03-slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy.md",
+      "title": "Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy",
+      "excerpt": "Fact-checkers scrambled to deal with faked audio recordings released days before a tight election, in a warning for other countries with looming votes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/",
+      "originalUrl": "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651bef2d057aae56f7d274cf/191:100/w_1280,c_limit/slovakia-deepfake-biz-GettyImages-1710142957.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-10-blockbuster-ai-ma-deals-on-the-horizon.md",
       "title": "10 Blockbuster AI M&A Deals On The Horizon",
       "excerpt": "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face.",
@@ -163,17 +215,17 @@
       "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
       "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
+      "webUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
+      "originalUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://th-i.thgim.com/public/incoming/9enb2b/article67352868.ece/alternates/FREE_1200/2023-09-20T083013Z_1976777224_RC27C3AUUE3P_RTRMADP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--sFDhGANt--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t204110z_2_lynxmpej8r103_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=1UluD5Ph",
           "width": 1200,
-          "height": 829,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,13 +233,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
-      "publishedDateTime": "2023-09-28T20:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T20:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -247,19 +299,19 @@
     {
       "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
       "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses",
-      "originalUrl": "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses",
+      "webUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
+      "originalUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/mark-ai.jpg?h=0429cc9e&itok=Qora5VtN",
-          "width": 600,
-          "height": 316,
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263736-fundraising-startup-freepik.jpg?itok=NWuXPY6P",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -267,13 +319,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T01:36:00-07:00",
+      "ampWebUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
+      "publishedDateTime": "2023-09-27T19:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1373,51 +1425,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-sundar-pichai-on-googles-ai-microsofts-ai-openai-and-did-we-mention-ai.md",
-      "title": "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?",
-      "excerpt": "The tech giant is 25 years old. In a chatbot war. On trial for antitrust. But its CEO says Google is good for 25 more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
-      "originalUrl": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "Google AI"
       ]
     }
   ],

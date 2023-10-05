@@ -75,6 +75,20 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "The Indian Govt Is Planning To Build A 25,000 GPU Cluster To Support AI Startups"
+    excerpt: "An AI revolution has been quietly brewing on foreign shores with innovations including ChatGPT and Stable Diffusion, but India has been largely left out of the action. But India's AI startups might ge"
+    publishedDateTime: 2023-10-05T15:29:00Z
+    webUrl: "https://officechai.com/stories/the-indian-govt-plans-to-build-a-25000-gpu-cluster-to-support-ai-startups/"
+    type: article
+    provider:
+      name: officechai.com
+      domain: officechai.com
+    quality: 49
+    images:
+      - url: "https://officechai.com/wp-content/uploads/2023/10/Collage-Maker-05-Oct-2023-08-35-PM-505.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sam Altman backs teens’ AI startup automating browser-native workflows"
     excerpt: "Sam Altman, Peak XV, Eric Schmidt’s trust, and Daniel Gross and Nat Friedman’s AI grant are among backers of an AI startup, founded by two teenagers, that’s aiming to assist businesses in automating numerous workflows in previously unexplored ways."
     publishedDateTime: 2023-10-03T18:31:00Z

@@ -47,6 +47,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Writing AI art DallE 3 prompts for beginners"
+    excerpt: "Over the last few weeks the AI art generation market has seen the introduction of OpenAI’s new DallE 3 AI art generator. If you have already been using the AI artist and wondering how to improve your creativity. This quick guide will provide a few ideas ..."
+    publishedDateTime: 2023-10-05T12:29:00Z
+    webUrl: "https://www.geeky-gadgets.com/writing-dalle-3-prompts/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Writing-DallE-3-prompts-.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "FoLMP75c/of2mOBka82s1v3j2MtFziFvtZuWc+pLuWMwKXpaXS0TTSOes5Q2/Wocatnzz18KIhtHpZ6J0TteGK/8RtCRgsxFR+CkBODu1xyLj/7YEstHWsMDpYZ9FyziQ0/zaIFiFeVEF4RBO+Z87u5X3eJTU5smTfcHmR1WexvVTJLSNkHu9I5ChXM4dglzhUY7HOQBk+S+ow2TigvYexYRTSoQreSWBmwBm3APx7RjX5TprbEGu3iUyOzU+kaGMPJ6kbCE/nIgQEPkNC+PK8x0gBQIRvQ+PD+CEXSt8riS4OlmUlN+MkYGUQtoNgOCR7KP1pVTkAO7UK6OfF8QkuB/SzpO5u+uxAXh83xheQ8=;TGfrqqUzWhk4oDg1Cx8V1g=="
 ---

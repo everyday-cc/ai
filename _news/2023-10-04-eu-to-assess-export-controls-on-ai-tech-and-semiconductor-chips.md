@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semicond
 webUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips"
 type: article
 quality: 54
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Commerce’s CHIPS-focused semiconductor tech center expected this fall, Raimondo says"
+    excerpt: "The National Semiconductor Technology Center would be key for semiconductor research and development and could be important for emerging technologies like AI, Commerce’s top official said."
+    publishedDateTime: 2023-10-05T17:04:00Z
+    webUrl: "https://fedscoop.com/commerce-semiconductor-tech-center-expected-in-fall/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 47
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/05/GettyImages-1394012992.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "EU to assess tech security risks and consider controls"
     excerpt: "The European Union will assess whether semiconductor, artificial intelligence and quantum technologies and biotechnology pose a risk to the bloc's economic security, which could lead to curbs on exports or investments in third countries such as China."
     publishedDateTime: 2023-10-03T13:43:00Z

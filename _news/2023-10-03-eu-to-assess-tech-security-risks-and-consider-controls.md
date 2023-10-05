@@ -40,6 +40,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Commerce’s CHIPS-focused semiconductor tech center expected this fall, Raimondo says"
+    excerpt: "The National Semiconductor Technology Center would be key for semiconductor research and development and could be important for emerging technologies like AI, Commerce’s top official said."
+    publishedDateTime: 2023-10-05T17:04:00Z
+    webUrl: "https://fedscoop.com/commerce-semiconductor-tech-center-expected-in-fall/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 47
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/05/GettyImages-1394012992.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "EU to study tech security risks, controls with eye on China"
     excerpt: "The EU executive says its assessment, to be completed by the end of the year, will not focus on any third countries. The economic security paper does not name China, but talks of partnering with like-minded countries and de-risking, which form part of its policy of reducing reliance on China."
     publishedDateTime: 2023-10-03T14:45:00Z
