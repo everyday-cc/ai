@@ -127,6 +127,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Microsoft Translator now supports 20 Indian languages"
+    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
+    publishedDateTime: 2023-10-05T08:48:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-translator-now-supports-20-indian-languages-257700/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 61
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263649-screenshot-2023-10-05-141841.png?itok=MG_69xaf"
+        width: 700
+        height: 393
+        isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
     publishedDateTime: 2023-10-03T15:12:00Z

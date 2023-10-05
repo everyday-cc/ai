@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM tries to ease customers’ qualms about using generative AI"
+    excerpt: "IBM said it would indemnify companies against copyright or other intellectual property claims for using its generative AI systems. IBM will also publish its data sets."
+    publishedDateTime: 2023-10-05T09:15:00Z
+    webUrl: "https://www.seattletimes.com/business/ibm-tries-to-ease-customers-qualms-about-using-generative-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "O8Ql5AwP7PVBnCxsXnEuVSCslwqlqfQ70jqLPVPeoxT+5do/5a5Upg6UztC1kiIigdYtV9gfYr1kecbh25+h6Mj9lqeG5kWOK0pInyFvK9As1QCZWW6QZZDaGDbPI3hbPjcAsonD/ocbyS7XY7U/aFMM9AZlynRZJRl8lhqoCK0FtklIFXSYLLn54xSugLp8aUU/CYicJYObQzUWZxg6OEqaLbt+MMj401c9KPVrdkm9nkrxrB0B3FkTdeLbaiWEI9OzDwWgtI9rJLC2sK2tMqgl7c6AlMEjPEcbGqJxPVA2ZNRuYrhlsGqimXNwwGeX+H2XCJzg2dn+JwZUqToHc3UXNsh1RC7M05kvo5Do5As=;gQ2UIRb0OmA2eQbX3aqWag=="
 ---

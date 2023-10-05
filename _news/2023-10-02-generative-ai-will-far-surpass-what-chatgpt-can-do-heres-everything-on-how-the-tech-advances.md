@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "ChatGPT distracting from wider AI issues, industry body warns"
+    excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
+    publishedDateTime: 2023-10-05T09:55:00Z
+    webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "S/3q9kBy99yp0VlqUo+w2U0dR6bZ4hVm28h1H0uuJ7jAVMFekP+PozlrX52QFNym2KNkgd2EyVPpbXaxC66KaYyGkhMHtTTVgUU444LleD/GKc+YHYcUs604o0cKucMCSzqHUbrngTo+kI0wwFckjqDcRCsum2bivzvcNDM08qEHVtve15xh3/SBdt1pH3T/f4+G/WUtUHUE7Y6P2i6c+LHCYFqCcSKxWMFrRgUyDDHKH1Iy02yTMrqUl0mbUA0UgaE1xXwt12uHDrGA0gPeWIeOK5BcADDb9LgC+qqAquQKGY+BPenZkl5chCWcJoKbIp/eWzaV7sxcRUyR+0y0Cs0rjSEwM6BngeDLGntlx2qBpdEtmGPxzJRe3ezy4f1H7/UslVsu7wusM1vpCShIu6NzfhkYxVNneDVDb6xOV0FhK+K8B49lyJ04pEKJtvDMatQtPc8brZwpLlnYraJBldfg2W+iY5oJx3IKfGMy+8gtSCyF9vUmGNl9QwD2c4qie29dy+iPf0IpkbenqJL3zg==;l7JZ5o94NJ3SqgS+3xh/Jg=="
 ---

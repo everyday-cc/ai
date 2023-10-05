@@ -1,0 +1,63 @@
+---
+category: news
+title: "ChatGPT distracting from wider AI issues, industry body warns"
+excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
+publishedDateTime: 2023-10-05T09:55:00Z
+originalUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
+webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: The Sunday Business Post
+  domain: businesspost.ie
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email"
+    excerpt: "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!"
+    publishedDateTime: 2023-10-01T13:12:00Z
+    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/"
+    ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651829d4d7d9789d5dd0259f/0x0.jpg?format=jpg&crop=3544,1995,x0,y183,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances"
+    excerpt: "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning."
+    publishedDateTime: 2023-10-02T14:30:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "7X99fwogUmYoXOeuZ3ZOekNFfC175cbeTY35wVOW5BvDemV4F4Bru5Z4rl5qPG12/Yfxgto7GJF7kOIJF/2IJJ8GcLGeBJnFF8L8zZxuA22z/2LkPnSQh3a6sy69Zw0z1T87F7eSExkHrw1mlnTF7v3nlR916AIjA0YDopSBV1noYOPAfSTGI6o5L74PRxSSOquDGTNuyWjEr9ut+2AF9S2t86PkvgHLvnqVFRSFKdXT5tlTv1DVTS31Bb/Ht6zL0gBcG9IE679ijgwjwtYeiFVRmUVD4DYfJst9SgSOLChA/CQebuCv/85WWpv8vJd8bXApzMe4bE7mlqa5t55Qk5MZ5IXQ20ftnyBRMTuThn8=;icHMw76Dw3oJ9QopsnCpSg=="
+---
+

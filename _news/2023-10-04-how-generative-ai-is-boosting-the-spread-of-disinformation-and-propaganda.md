@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The U.S. Isn’t Ready for the New Age of AI-Fueled Disinformation—But China Is"
+    excerpt: "Thanks to generative AI, the impact of China’s social media manipulation will be both greater in volume and more convincing"
+    publishedDateTime: 2023-10-05T08:00:00Z
+    webUrl: "https://time.com/6320638/ai-disinformation-china/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 64
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1441688102.jpg?quality=85"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Entrepreneurs Use AI To Transform Clinical Trials"
     excerpt: "Establishing trust in the research community is difficult, especially from the institutional review boards (IRBs) that monitor a study’s ethics. IRBs and the FDA already control so many aspects of clinical trials that convincing them of AI’s benefits ..."
     publishedDateTime: 2023-10-04T12:01:00Z

@@ -34,7 +34,7 @@ related:
   - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
     excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
     publishedDateTime: 2023-10-04T12:00:00Z
-    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/"
+    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
     type: article
     provider:
       name: Wired
