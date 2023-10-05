@@ -305,19 +305,19 @@
     {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
       "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced that it",
+      "excerpt": "Through the collaboration with Microsoft, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, in order to help enterprise customers transition ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook",
-          "width": 1997,
-          "height": 1047,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -325,13 +325,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34897804",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34897804",
       "publishedDateTime": "2023-09-26T03:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

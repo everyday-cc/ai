@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-04-how-shaq-and-william-became-early-investors-in-the-ai-boom.md",
+      "title": "How Shaq And Will.i.am Became Early Investors In The AI Boom",
+      "excerpt": "Google, ChatGPT-maker Open AI, Anthropic, Runway, Inflection AI and Hugging Face are just a few of the investments Shaq & Will.i.am have made as they bet on an AI future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650267b9e67a47ad659fe77b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
+      "publishedDateTime": "2023-10-04T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
       "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
       "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
@@ -233,49 +284,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
-      "title": "Instant evolution: AI designs new robot from scratch in seconds",
-      "excerpt": "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-04-amds-ai-and-data-center-prospects-eyeing-market-share-growth-analysts-say.md",
       "title": "AMD's AI and Data Center Prospects Eyeing Market Share Growth, Analysts Say",
       "excerpt": "AMD continues to execute strongly on its roadmap with a potential AI tailwind from its MI300A/X ramp in 4Q23E/2024E and sees it as attractive vs. Nvidia Corp (NASDAQ:NVDA) at >40x F24E P/E.",
@@ -379,7 +387,7 @@
       "originalUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {

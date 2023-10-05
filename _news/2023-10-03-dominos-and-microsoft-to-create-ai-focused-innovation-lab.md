@@ -236,6 +236,17 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 44
+  - title: "Microsoft adds four more Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
+    publishedDateTime: 2023-10-05T11:36:00Z
+    webUrl: "https://www.business-standard.com/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
   - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
     excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
     publishedDateTime: 2023-10-03T11:01:00Z

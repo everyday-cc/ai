@@ -233,6 +233,17 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 44
+  - title: "Microsoft adds four more Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
+    publishedDateTime: 2023-10-05T11:36:00Z
+    webUrl: "https://www.business-standard.com/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
   - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
     excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
     publishedDateTime: 2023-10-03T12:36:00Z

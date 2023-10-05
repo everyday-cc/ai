@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generativ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -83,6 +83,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_Google_Assistant_logo_vector_art_ca11f82b-bc76-4945-8ec4-4ff56706a196-transformed.png?w=1200&strip=all"
         width: 1200
         height: 960
+        isCached: true
+  - title: "Zoom chucks generative AI everywhere in product blitz"
+    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
+    publishedDateTime: 2023-10-05T10:36:00Z
+    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
+    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
+        width: 1844
+        height: 1246
         isCached: true
   - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
     excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."

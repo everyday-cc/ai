@@ -39,7 +39,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Open Banking platforms accelerating FinTech growth in Middle East"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-05T10:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
+        width: 2560
+        height: 1362
+        isCached: true
 
-secured: "MvXOa7ZyIQ1CQ+WVMoueVYgizn9Ew/R6Af5jN6muknzGvFqk6D0+VJP7ij7RuWZoqG85uiQr5qIvHY1lj0/cfTV8hhJRuTT1GnK/nx2IZIdT5GdP6AE57vrH/WsRbOvKWOmSpmTDaFdn7hhMBlkPYrVpY27J278d6fplO8M/YhRKIiWBNFnjj2Hsx9WYOgtRE3F57iyAz7OkjW38GCQIqWwFhl4+6nw55++jehOi8hqB/UsePbXIsoO4X3NTDSZxUUgGWLhR98FnTyvSlAwUc33tKeoo1GsPIY/YMIJCvpwn3vzszRgCdJb4NWC0DVhaLCc+Sy6dAQclHWTo/m/wkO4/ulOfc/lpc5348ofnYCg=;6uy+GNr59TCubD0BZE3/Tw=="
+secured: "VRyhnTaYHQUOsTMN5nIv0q18e30VEuav02BnyJvvfnz4021SiTLBafSyMcAQ+cZZ7vhJJAqBztbjK4+sj0BFIc2v6Cxyo4fmUd+DnkWKXaWNdMlOt42sjp1kwnd3bjI0cFZbrWqRv5deXUemxU2gsq8rt1Xvo0C66QvsHmcuULrbrxmuOKlKi5BB/tm3/X01eK43lJt8Gtk7WiLWwFsB4R70JdkvGmYvp6KGfc2DpVEz6AZdqtGEsAQhr/HbOIA/kKUxOfMEKEg5Rdc/xU9jxn9HDUIXDpitm8bnKUON8pSs1RYAALRKcK5UkqU/qT+oIKjzfLuounGIL/wKC1ApME3qT2MmD0y5xicR+zYLRrcP7FSuKruMjatvB56kv/drz8YT1ti5Y8xblEA7/+lUUG9/lSKYyn0RbRvXNIiSQqy69H6ZH9cIZhH9cbnEPxBJC2bj9mcXQswjKIPx/Bk8Hwp0UVAJnNh2xd63OxCzT60U3ZFsPUqR7gYdEfu7+BJH7qBdunEoi/tT4yG6k63SeQ==;lgz0qtrdBV3OKwL3v+fsHA=="
 ---
 

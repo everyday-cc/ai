@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-h
 webUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-helps-explain-the-evolution-of-insect-flight/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Instant evolution: AI designs new robot from scratch in seconds"
-    excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
-    publishedDateTime: 2023-10-04T00:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
 
 secured: "XMIHwsPK9ZTAeaBKLvhb1X3L9/+Cggs+aExapS6Vr2jTGZRgvoaoVIj1W1116QcsxPGijDJnGGeFDm6qpXNW6efq4//Bdpk/bPmooHHU5HizxbQPiPivEY9Zb7qGYkpmxlr4U4mSk9LOTHwTmItS1RmiWf7k01jWIOgsgwRFmkOgPJPMveLo7kk20URhCXbsOQ3LTJLomqA8+18FVLAIbBEOzxGSFXWg9xwtEerjUlG2NUZh0CwA01g4d0mR7lrGncIOvu1VlwnlK2XoxIZs4df+pUsFf7SVaWMNmDkNVPbDvAm8JMfwujZaXhfT1rRQi5juARoHv0rC2CWvE7e1mBNB9bOtdrL1we9ryWXDI+Y=;sS03asyETDdkjnbnJwwZgw=="
 ---

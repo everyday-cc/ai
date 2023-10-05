@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Best Stocks To Buy Now in October 2023"
+    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
+    publishedDateTime: 2023-10-05T00:24:00Z
+    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Best AI ETFs in October 2023"
     excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
     publishedDateTime: 2023-10-02T08:31:00Z

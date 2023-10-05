@@ -115,7 +115,7 @@
       "originalUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -361,33 +361,24 @@
     {
       "path": "_news/2023-09-28-trends-in-ai-ethics-before-and-after-chatgpt.md",
       "title": "Trends in AI ethics before and after ChatGPT",
-      "excerpt": "This is a carousel. Use Next and Previous buttons to navigate Trends in AI ethics before and after ChatGPT Computational systems demonstrating logic, reasoning, and understanding of verbal ...",
+      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php",
-      "originalUrl": "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php",
+      "webUrl": "https://www.charlotteobserver.com/news/business/article279840919.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/business/article279840919.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/34/47/61/24280135/6/rawImage.jpg",
-          "width": 2048,
-          "height": 1459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T13:00:00-07:00",
+      "publishedDateTime": "2023-09-27T13:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

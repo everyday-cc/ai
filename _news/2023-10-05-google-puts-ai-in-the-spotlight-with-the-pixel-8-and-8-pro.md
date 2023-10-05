@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Zoom chucks generative AI everywhere in product blitz"
+    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
+    publishedDateTime: 2023-10-05T10:36:00Z
+    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
+    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
+        width: 1844
+        height: 1246
+        isCached: true
   - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
     excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
     publishedDateTime: 2023-10-04T14:39:00Z
