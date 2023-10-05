@@ -8,7 +8,7 @@ webUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/ar
 ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/IMG_1801.jpg"
@@ -44,6 +45,6 @@ related:
         height: 840
         isCached: true
 
-secured: "jQRTIstN0DKPF8ykufmtGygPOAqfJV0v7Davak1TjJeVQUWSJsdmUtHDFJxn5Se7KwwjHL8MIvTLoFTKKbkFQi0RATjDTNZUsU5j0otb3fTqItM5FoqaUQLeBpPnNm2WohhhQdWuwT9nqn0/uRMvBvCbN01p+Rf5kKBFU4c8fJYvp88VPqnbN2cvFgQwBs1eTu7aFLUXreLQsNh9N9To1ddgZY9lSktRbEqH2+1/3+gik+9hdvEKNuBqhjjvUZG/CZW1PJtzjGYhXTCdilxUGXFakduL0WCb9V5+4bUyZ3JY3ob5Znph8MqlJc7kGvNIZ4dtBeTxKsT7qRw8R1Mc6J7Rt/LM5DE5lKKgjnYJZCw=;iwJ402MGdLOcdgT52DWV4A=="
+secured: "6LuSTVq6CYFb5xFJ8V+Xlka2Thn1iqTPVM7tWOuiAwbdxAzMeeFMwIhwQOdpbtJHUqyN2QDB656XT4+c/2mhPQy4n74gQ72moZDn9dDXyFpOnBqaDjxcu/FQcrHuHmJaISLBZDltaMZwdiaeAdsHgVk9kzatshgHi/QxcOIVtaUOjt3rfMt8mi6VR5M23a/AjrAQMyQyb9ge8ZfG+eqVSx573HYXSKupotVCaDVcTCS8+L1izxH5VmiPw9ZJZKcTuzQ4qBUdbRCtHYeuXriqkNYOC9vfp3+Smd3rafsiBkK0/sHR3D8CdPtO7WRg6dsdxyLHT74N5xMRnfsOejNm1OrrJ8to7cmb7bV2VSHG3OrPaq0WQ8KpuVXsqRxKIIbdDJSkAm7lX/b4wl1icqjpyYXWGs8IioYyJyIWf5shkH0atvo1dgYoe+R+s795lZVbsUqlXRwgmVwbTmTl+Sak7/rxnUVSgMM+6sSWQ9p61enTqPs6c4YXksdvLAOPNAN4OusJoPBVU1Qj04K+CBi2tQ==;BXy2AiSIplPHrSUuwmlErg=="
 ---
 

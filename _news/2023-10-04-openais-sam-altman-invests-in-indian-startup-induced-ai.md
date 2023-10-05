@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
 type: article
 quality: 57
-heat: 139
+heat: 147
 published: true
 
 provider:
@@ -82,6 +82,22 @@ related:
       - url: "https://images.indianexpress.com/2023/10/Untitled-design.png"
         width: 1200
         height: 667
+        isCached: true
+  - title: "OpenAI's Sam Altman invests $2.3 million in Indian teens' AI startup. But what are they doing?"
+    excerpt: "Two Indian-origin teenagers, Aryan Sharma (18) and Ayush Pathak (19), recently secured $2.3 million in seed funding from OpenAI co-founder Sam Altman for their AI startup, Induced AI."
+    publishedDateTime: 2023-10-05T07:38:00Z
+    webUrl: "https://www.dailyo.in/technology/openais-sam-altman-invests-23-million-in-indian-teens-ai-startup-but-what-are-they-doing-41823"
+    ampWebUrl: "https://www.dailyo.in/amp/technology/openais-sam-altman-invests-23-million-in-indian-teens-ai-startup-but-what-are-they-doing-41823"
+    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/openais-sam-altman-invests-23-million-in-indian-teens-ai-startup-but-what-are-they-doing-41823"
+    type: article
+    provider:
+      name: DailyO
+      domain: dailyo.in
+    quality: 45
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202310/induced-ai-photo-dailyo051023121428.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Romanian tech startup theCoRD.ai aims to raise EUR 300,000 to scale its AI solution internationally"
     excerpt: "Romanian tech startup theCoRD.ai, which develops the world’s first AI Team Coaching solution, launched its first round of investment, pre-seed, with a funding target of EUR 300,000. The funds will be directed towards scaling its solution internationally."

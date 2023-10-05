@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Much AI Is Really Needed?"
+    excerpt: "It is very common for at least 70% of AI training time to be spent on but on finding the right data, cleaning the data, and extracting useful information from the data. Much of the balance is spent on fine tuning AI and machine learning models."
+    publishedDateTime: 2023-10-05T07:07:00Z
+    webUrl: "https://semiengineering.com/how-much-ai-is-really-needed/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "National Security Agency to create an artificial intelligence center"
     excerpt: "China has in recent months stepped up cyber operations focused on U.S. and allied institutions that may include pre-positioning malware."
     publishedDateTime: 2023-10-02T18:34:00Z

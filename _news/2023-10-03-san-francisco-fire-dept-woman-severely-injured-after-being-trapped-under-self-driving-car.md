@@ -87,6 +87,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cruise defends safety record after woman pinned under self-driving taxi in San Francisco"
+    excerpt: "Cruise, the company that operates the driverless taxi, said its vehicles are safer than rideshares operated by humans."
+    publishedDateTime: 2023-10-04T00:01:00Z
+    webUrl: "https://www.cbsnews.com/news/cruise-av-hits-woman-hit-and-run-san-francisco/?ftag=YHF4eb9d17"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 35
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/03/51a486c5-16be-48a3-a422-bba2a808c826/thumbnail/1200x630/013cebc868298c9c8f21e7b24a85cb7f/cruise-av.png?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "San Francisco FFs rescue woman pinned under self-driving car"
     excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
     publishedDateTime: 2023-10-03T17:53:00Z

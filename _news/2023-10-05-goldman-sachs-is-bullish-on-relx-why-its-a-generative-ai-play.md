@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/goldman-sachs-is-b
 webUrl: "https://markets.businessinsider.com/news/stocks/goldman-sachs-is-bullish-on-relx-why-it-s-a-generative-ai-play-1032679020"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

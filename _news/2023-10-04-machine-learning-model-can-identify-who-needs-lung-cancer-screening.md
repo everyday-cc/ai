@@ -28,14 +28,14 @@ related:
   - title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
     excerpt: "A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs"
     publishedDateTime: 2023-10-03T23:00:00Z
-    webUrl: "https://missoulian.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_709c662d-37c3-5ffe-8b7a-235fe339bbc1.html"
+    webUrl: "https://trib.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_9e5c8cf0-b94c-5daa-9e2e-78e9a8c993df.html"
     type: article
     provider:
-      name: Missoulian
-      domain: missoulian.com
+      name: Casper Star-Tribune
+      domain: trib.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/f/28/f28a27df-cfb7-51c9-a9e4-eb0181c3cf26/651cbba767983.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/a/0e/a0eb1810-d32a-5e78-8783-424e3227ea72/651cbccabdf31.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true
