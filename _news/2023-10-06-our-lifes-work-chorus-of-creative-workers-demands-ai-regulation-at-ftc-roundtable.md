@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T18:36:00Z
 originalUrl: "https://venturebeat.com/ai/our-lifes-work-chorus-of-creative-workers-demands-ai-regulation-at-ftc-roundtable/"
 webUrl: "https://venturebeat.com/ai/our-lifes-work-chorus-of-creative-workers-demands-ai-regulation-at-ftc-roundtable/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: VentureBeat

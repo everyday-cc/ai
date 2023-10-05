@@ -196,6 +196,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
+  - title: "Self-driving car runs over pedestrian who was hit by human driver in San Francisco"
+    excerpt: "A hit-and-run driver struck a pedestrian Monday night, tossing her into the path of a Cruise self-driving car that then drove over her, according to videos."
+    publishedDateTime: 2023-10-04T00:59:00Z
+    webUrl: "https://www.aol.com/news/driver-hits-pedestrian-pushing-her-173132868.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 18
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/jBUIf35lmB2aM1jlQsdXpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/4b27c684cef9c69b28cbbfdbf24eba49"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
     excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
     publishedDateTime: 2023-10-03T16:05:00Z

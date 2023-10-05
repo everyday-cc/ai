@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 139
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
+    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
+    publishedDateTime: 2023-10-05T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
   - title: "ChatGPT distracting from wider AI issues, industry body warns"
     excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
     publishedDateTime: 2023-10-05T09:55:00Z
@@ -60,6 +69,34 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
         width: 1600
         height: 900
+        isCached: true
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "fwf8o087ezPLXnsnHAapdyywxOMJnWry5Up5ZVYSBgMcDSnn96h8n8DEeD9I7wpId4o+r1osKqVX0hKUTKjmbpW05TV1mC32rQeRnuL16Q/wGQ30o4x9n+I+IDyPG6EoQQ5mM+ac7GcFlYFxzAkGFo4hUG5vZMgm9RiUmnJHyQ68bSvFk7cGJbMzCqbtFVCO5UFHxImZKYB2+TrCCpheDRNo5xPzsKO1WYHbcZRzgsZP05+n7yXQS9FCquifnKlBR7n4hOjcOiJZ7CH/NhAjq6LXCL0ndhgb5uzxSURE6jFLAPI/6RuYvr9LCCC7KtZF7emXfdgRQ3KVefD01eVKLsMLzbZ1uicdpjaBR6kzkVZJ9LSASkf+IuPoA/qt1dK54+kWAhLGOdllsRS2zpqB1+etCO0EJbG4mm2o2VudxEd3TKaBP+pNsaC1V/3L/xH2Vj8TlosznwlDdNKN8tTE+bERIcCP6gmHKQ1PHgaoN/3aN/IFkIhG3vlajuEYpgTtrM563vBsqAulyOjICulj0g==;DWJiiVNMpGCriadErcHAsA=="

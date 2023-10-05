@@ -63,7 +63,7 @@
       "originalUrl": "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -299,33 +299,24 @@
     {
       "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
       "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Mr Zuckerberg also ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
-      "originalUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
+      "webUrl": "https://www.straitstimes.com/tech/tech-news/meta-unveils-ai-assistant-facebook-streaming-glasses",
+      "originalUrl": "https://www.straitstimes.com/tech/tech-news/meta-unveils-ai-assistant-facebook-streaming-glasses",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263736-fundraising-startup-freepik.jpg?itok=NWuXPY6P",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "publishedDateTime": "2023-09-27T19:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,6 +26,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Curql invests in BlastPoint, innovator of predictive Intelligence Fintech"
+    excerpt: "Curql Collective, a Credit Union Service Organization spurring innovation for the credit union industry, recently announced it has welcomed BlastPoint to"
+    publishedDateTime: 2023-10-05T19:01:00Z
+    webUrl: "https://www.cuinsight.com/press-release/curql-invests-in-blastpoint-innovator-of-predictive-intelligence-fintech/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 3
+
 secured: "3IX3BKDaHVAwYf8txOem50KpXJPeorFvWobYcBHSuwpZrAirJlCd5/CSgXxdQEjmhKX4Xxz1Y9KZGQeW+r05KGYZb4/Z9xTN0i1Sbljm90ua9kxqa1l4r/GDd+f7ceCI4pxMwo501TpZCh7QpeNDqI2JPKQh7JNyJMjGFuPmBLgKzKie40Qemuow+SS0NSOQH5odLMKy6zFlaFHT27PpM/lJorNeo7Y7RJVYyk9lXwZmriG5QQboBqBOo2vEurxO1h8HW78ccQqal9PuTB6hlFj3Xe8zkNE4ZsxjwANHruo1qCGYwpUe8ZMLCaYG8b39MKlSfsk7wc0o75iBCnTsUn8QTcifMHfg1xaslNOdMRaJd9ryb+Dfeups7+BXwmmmb9eRp0c9I1UgjBMpqHvl007rgFJgpfWc4z7oiSDscgsqOrtagzMw7vuQKWaR+FOYn2Lfd6DipfkWN1RNrrIvPEakGCZf2rlC/3C8c/LBP1zQe+X2KnBA0LimqS3+Y8SxxWFmHVkDDfttd/Hguug9Xw==;6xNU+WHwxct8Vd3fBKy4Sw=="
 ---
 

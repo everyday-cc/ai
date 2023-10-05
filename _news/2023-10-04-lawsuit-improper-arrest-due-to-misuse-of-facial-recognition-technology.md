@@ -69,6 +69,34 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
+    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
+    type: article
+    provider:
+      name: gijn.org
+      domain: gijn.org
+    quality: 41
+    images:
+      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
+        width: 771
+        height: 512
+        isCached: true
+  - title: "Privacy Commission: Facial Recognition Technology not justified"
+    excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
+    publishedDateTime: 2023-10-05T21:11:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018909973/privacy-commission-facial-recognition-technology-not-justified"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://media.rnztools.nz/rnz/image/upload/s--E2BzJiqh--/t_tohu-badge-facebook/v1643766427/4MIUIS3_image_crop_114408"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uwArX0lTRYnA4w6Meql1ckpb8HbDAZytamjGqilkLxmy2+VrBN82BT7GcOS6McCDZBcUIbGvTc31hEoVGSdJ5PhQL1HXlkkKXW9rg1/T4jIyI+28Q6EOa/zJZeSAb14L1k06Hh2guMH9BaPNCUplfJ+/9e8csb3Ys9zfJad9v3ygYd5/FgCNFTRkfoOKVnvER04G/Hk/Y6IBzdnWY/BlgRcNaJMrHlVTZPoqqW0CMVPUofKwI7OR9s9kg+xZDckQqM3c4CnDe5Uw2a5Xj+eJgspkab0ApxE7mTU9q5oyio4FjvMxxF8BQ+qEXFWkyWlqH3P8kn0bEedCssSLcz6jVKWkZVAdJMjOQ5nK3OE58JM=;u5nqmIrjYzqfJvu+9tC7DQ=="
 ---

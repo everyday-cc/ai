@@ -2,6 +2,57 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-08-22-about-21-million-jobs-held-by-women-and-9-million-jobs-held-by-men-could-be-replaced-by-ai-ilo.md",
+      "title": "About 21 million jobs held by women and 9 million jobs held by men could be replaced by AI: ILO",
+      "excerpt": "A new study by the ILO published on Monday finds admin workers and women face a greater risk of their jobs being replaced by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
+      "publishedDateTime": "2023-08-21T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
@@ -1107,58 +1158,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-ibms-new-analog-ai-chip-is-more-efficient-than-power-hungry-gpus.md",
-      "title": "IBM's new analog AI chip is more efficient than power-hungry GPUs",
-      "excerpt": "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "originalUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

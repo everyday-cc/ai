@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-19-collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24.md",
+      "title": "Collina Strada Takes On AI Fashion At New York Fashion Week SS24",
+      "excerpt": "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "publishedDateTime": "2023-09-18T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-engineering-whistleblower-explains-why-safe-full-self-driving-cant-ever-happen.md",
       "title": "Engineering whistleblower explains why safe Full Self-Driving can't ever happen",
       "excerpt": "Pulled from the pages of science fiction, self-driving cars seem to be on the way to becoming real. Cruise and Waymo are expanding their reach with their autonomous taxi experiment and Tesla ...",
@@ -1118,49 +1169,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-israels-pm-talks-to-elon-musk-about-antisemitism-on-x-and-artificial-intelligence.md",
-      "title": "Israel's PM talks to Elon Musk about antisemitism on X and artificial intelligence",
-      "excerpt": "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/09/Musk-Netanyahu.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1",
-      "publishedDateTime": "2023-09-18T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

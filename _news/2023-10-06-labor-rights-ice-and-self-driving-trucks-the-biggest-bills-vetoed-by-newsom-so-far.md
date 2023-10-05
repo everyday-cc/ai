@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T19:07:00Z
 originalUrl: "https://www.kqed.org/news/11963514/labor-rights-ice-and-self-driving-trucks-the-biggest-bills-vetoed-by-newsom-so-far"
 webUrl: "https://www.kqed.org/news/11963514/labor-rights-ice-and-self-driving-trucks-the-biggest-bills-vetoed-by-newsom-so-far"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KQED

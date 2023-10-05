@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T19:37:00Z
 originalUrl: "https://www.infoworld.com/article/3708211/docker-ties-up-with-neo4j-langchain-and-ollama-to-launch-gen-ai-stack.html"
 webUrl: "https://www.infoworld.com/article/3708211/docker-ties-up-with-neo4j-langchain-and-ollama-to-launch-gen-ai-stack.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: InfoWorld

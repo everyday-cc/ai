@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T14:13:00Z
 originalUrl: "https://bgr.com/tech/adobe-is-about-to-unveil-a-powerful-ai-photo-editor-that-sounds-too-good-to-be-true/"
 webUrl: "https://bgr.com/tech/adobe-is-about-to-unveil-a-powerful-ai-photo-editor-that-sounds-too-good-to-be-true/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: BGR

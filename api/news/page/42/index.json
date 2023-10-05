@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-04-your-ai-doctor-will-see-you-now-how-technology-is-disrupting-medicine-and-beyond-in-south-africa.md",
+      "title": "Your AI doctor will see you now: How technology is disrupting medicine and beyond in South Africa",
+      "excerpt": "Artificial intelligence remains hotly contested, but scientists in South Africa are spearheading its development across various sectors, from healthcare to hospitality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "originalUrl": "https://www.cnn.com/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230904095302-inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl-00023730.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/08/31/inside-africa-technology-is-disrupting-medicine-and-beyond-in-south-africa-spc-intl.cnn",
+      "publishedDateTime": "2023-09-04T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-how-to-get-a-handle-on-shadow-ai.md",
       "title": "How to get a handle on shadow AI",
       "excerpt": "By allowing the use of AI tools proven to be safe, but requiring them to be used within explicit guidelines, you can alleviate both employee frustration and organizational risk.",
@@ -1120,49 +1171,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study.md",
-      "title": "Deep learning used by seismologists to improve prediction of earthquakes: Study",
-      "excerpt": "The methods that researchers and governmental organisations employ to predict earthquake aftershocks have mostly stayed unaltered for more than 30 years. The large seismology datasets that are currently accessible are difficult for these older models to handle,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/",
-      "originalUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/09/ANI-20230902134029.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/deep-learning-used-by-seismologists-to-improve-prediction-of-earthquakes-study/1744032/?amp",
-      "publishedDateTime": "2023-09-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

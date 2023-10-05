@@ -36,6 +36,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 13
+  - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
+    excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
+    publishedDateTime: 2023-10-05T17:28:00Z
+    webUrl: "https://www.koaa.com/news/covering-colorado/learn-from-and-connect-with-experts-this-weekend-at-bsides-cybersecurityconference"
+    type: article
+    provider:
+      name: koaa
+      domain: koaa.com
+    quality: 0
 
 secured: "TrEVwVt8jWAw4hIJDqatKzkGjSVQ8uWfIc/CxKFJd+zOYTAc/S7zKb3w4/FRkJaLWvsuzcBdmX4rXS404dXT9pNmnv9Db6qGJvRAqRyKOaZN4JNT77PqE9KE3466fegbLusaQyJ9OjoyKL2lOAWVbRTgekXsRHQOpw4iHMVWItG+3sbx7XTqzyhUiXaeAKcxEBKkQ7TJcgae8wqRgCVkDai2COTG3uYGZkqMWmfrhrYenLyfI3RDwodZ30wk5BU6xrblJ/fOtdQWBGm1F7/e6TEF42Ii8hV/Vdmgy2Iaby309xvZDkpY0dO4F5SD/BWtLX8KId0nzEaZHVkLm6uOR4bPP9JhOgJzyS1/DwEi0SkhThXe9fDVNte/SRynpUkEV+vSLwIrySShpHmeUQITO+yovkRFmFr9uhHLnquuEQsnhqyOsKAu4KpKAr5MxwStYkzU5TUGyoKHi9pxoip3hKS9Kf6eSlg0gQrQDDNnx5t8/94+TD0u32IBR4rvgq/UzlTPY0UKesvDJPzkiycHOw==;xEK/cOOOie+iKbHpWAfmtQ=="
 ---

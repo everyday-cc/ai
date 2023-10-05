@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-09-01-brain-inspired-learning-algorithm-realizes-metaplasticity-in-artificial-and-spiking-neural-networks.md",
+      "title": "Brain-inspired learning algorithm realizes metaplasticity in artificial and spiking neural networks",
+      "excerpt": "Catastrophic forgetting, an innate issue with backpropagation learning algorithms, is a challenging problem in artificial and spiking neural network (ANN and SNN) research.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/brain-inspired-learnin-1.jpg",
+          "width": 1271,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-inspired-algorithm-metaplasticity-artificial-spiking.amp",
+      "publishedDateTime": "2023-09-01T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-google-deepmind-co-founder-wants-us-to-link-ai-chip-sales-to-minimum-artificial-intelligence-standards.md",
       "title": "Google DeepMind co-founder wants US to link AI chip sales to minimum artificial intelligence standards",
       "excerpt": "DeepMind's co-founder, Mustafa Suleyman, has called on the US government to enforce minimum standards for AI companies to be eligible to purchase Nvidia's AI chips. He believes that buyers should agree to ethically use the technology.",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-list-of-55-artificial-intelligence-companies-in-usa.md",
-      "title": "List of 55 Artificial Intelligence Companies in USA",
-      "excerpt": "On 21st July 2023, seven major tech giants, including Alphabet Inc (NASDAQ:GOOG), Microsoft Corp (NASDAQ:MSFT), Meta Platforms Inc (NASDAQ:META), and Amazon.com, Inc (NASDAQ:AMZN) pledged a",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/list-of-55-artificial-intelligence-companies-in-usa-1189885/",
-      "originalUrl": "https://www.insidermonkey.com/blog/list-of-55-artificial-intelligence-companies-in-usa-1189885/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

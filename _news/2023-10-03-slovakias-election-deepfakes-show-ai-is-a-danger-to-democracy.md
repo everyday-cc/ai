@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-i
 webUrl: "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,17 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Meta and X questioned by lawmakers over lack of rules against AI-generated political deepfakes"
-    excerpt: "But her bill, if passed, would empower the Federal Election Commission to start enforcing a disclaimer requirement on AI-generated election ads similar to what Google is already doing on its own. The FEC in August took a procedural step toward potentially ..."
-    publishedDateTime: 2023-10-05T17:25:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/10/05/meta-and-x-questioned-by-lawmakers-over-lack-of-rules-against-ai-generated-political-deepfakes/"
+  - title: "Meta, X questioned by lawmakers over lack of rules against AI-generated political deepfakes"
+    excerpt: "Two Democratic members of Congress sent a letter Thursday to Meta CEO Mark Zuckerberg and X CEO Linda Yaccarino expressing \"serious concerns\" about the emergence of AI-generated political ads on their platforms."
+    publishedDateTime: 2023-10-05T15:49:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/meta-x-political-deepfakes-lawmakers-question-platforms-over-lack-of-rules/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/meta-x-political-deepfakes-lawmakers-question-platforms-over-lack-of-rules/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/meta-x-political-deepfakes-lawmakers-question-platforms-over-lack-of-rules/"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 25
+      name: CBS News
+      domain: cbsnews.com
+    quality: 47
     images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/10/Artificial_Intelligence_Election_Deepfakes_73304.jpg?w=1024&#038;h=696"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/05/ab76a6ab-299f-4a10-9402-3c5dceb9e3ed/thumbnail/1200x630/654c422b1c03cfc550c00fb2a3976647/facebook-meta-x-twitter-1614381147.jpg?v=f334c339940ae79342a8ce7757900604"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta and X questioned by lawmakers over lack of rules against AI-generated political deepfakes"
+    excerpt: "But her bill, if passed, would empower the Federal Election Commission to start enforcing a disclaimer requirement on AI-generated election ads similar to what Google is already doing on its own. The FEC in August took a procedural step toward potentially ..."
+    publishedDateTime: 2023-10-05T21:52:00Z
+    webUrl: "https://www.news-herald.com/2023/10/05/meta-and-x-questioned-by-lawmakers-over-lack-of-rules-against-ai-generated-political-deepfakes/"
+    ampWebUrl: "https://www.news-herald.com/2023/10/05/meta-and-x-questioned-by-lawmakers-over-lack-of-rules-against-ai-generated-political-deepfakes/amp/"
+    cdnAmpWebUrl: "https://www-news--herald-com.cdn.ampproject.org/c/s/www.news-herald.com/2023/10/05/meta-and-x-questioned-by-lawmakers-over-lack-of-rules-against-ai-generated-political-deepfakes/amp/"
+    type: article
+    provider:
+      name: The News-Herald
+      domain: news-herald.com
+    quality: 45
+    images:
+      - url: "https://www.news-herald.com/wp-content/uploads/2023/10/Artificial_Intelligence_Election_Deepfakes_73304.jpg?w=1024&h=696"
         width: 1024
         height: 696
         isCached: true

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-06-why-ai-might-mean-fewer-discounts-at-your-favorite-stores.md",
+      "title": "Why AI might mean fewer discounts at your favorite stores",
+      "excerpt": "Syrup Tech's CEO James Theuerkauf explains how the company's AI platform is designed to help retailers like Faherty and Abercrombie & Fitch optimize their inventory.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Why-AI-might-mean-fewer-discounts-at-your-favorite-stores/d1a4fe01-85c3-47ed-be56-37d405d0c28c",
+      "originalUrl": "https://fortune.com/videos/watch/Why-AI-might-mean-fewer-discounts-at-your-favorite-stores/d1a4fe01-85c3-47ed-be56-37d405d0c28c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/d1a4fe01-85c3-47ed-be56-37d405d0c28c/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/why-ai-might-mean-fewer-discounts-at-your-favorite-stores/d1a4fe01-85c3-47ed-be56-37d405d0c28c/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/why-ai-might-mean-fewer-discounts-at-your-favorite-stores/d1a4fe01-85c3-47ed-be56-37d405d0c28c/amp",
+      "publishedDateTime": "2023-10-05T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-raleigh-based-ai-startup-closes-on-75m-in-new-financing.md",
       "title": "Raleigh based AI startup closes on $7.5M in new financing",
       "excerpt": "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020.",
@@ -208,7 +259,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -248,7 +299,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -991,7 +1043,7 @@
       "originalUrl": "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1170,57 +1222,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
-      "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
-      "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
-      "publishedDateTime": "2023-10-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

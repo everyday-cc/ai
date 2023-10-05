@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T19:44:00Z
 originalUrl: "https://www.forbes.com/sites/charliefink/2023/10/05/this-week-in-xr-wearable-ai-that-can-see-and-talk-new-celeb-deep-fakes-denounced/"
 webUrl: "https://www.forbes.com/sites/charliefink/2023/10/05/this-week-in-xr-wearable-ai-that-can-see-and-talk-new-celeb-deep-fakes-denounced/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Forbes

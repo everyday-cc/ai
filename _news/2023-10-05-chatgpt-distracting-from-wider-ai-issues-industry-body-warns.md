@@ -57,6 +57,43 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
+    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
+    publishedDateTime: 2023-10-05T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "7X99fwogUmYoXOeuZ3ZOekNFfC175cbeTY35wVOW5BvDemV4F4Bru5Z4rl5qPG12/Yfxgto7GJF7kOIJF/2IJJ8GcLGeBJnFF8L8zZxuA22z/2LkPnSQh3a6sy69Zw0z1T87F7eSExkHrw1mlnTF7v3nlR916AIjA0YDopSBV1noYOPAfSTGI6o5L74PRxSSOquDGTNuyWjEr9ut+2AF9S2t86PkvgHLvnqVFRSFKdXT5tlTv1DVTS31Bb/Ht6zL0gBcG9IE679ijgwjwtYeiFVRmUVD4DYfJst9SgSOLChA/CQebuCv/85WWpv8vJd8bXApzMe4bE7mlqa5t55Qk5MZ5IXQ20ftnyBRMTuThn8=;icHMw76Dw3oJ9QopsnCpSg=="
 ---

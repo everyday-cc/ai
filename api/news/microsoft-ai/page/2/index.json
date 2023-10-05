@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-26-infosys-partnerss-with-microsoft-for-generative-ai.md",
+      "title": "Infosys Partnerss With Microsoft For Generative AI",
+      "excerpt": "This collaboration leverages Infosys Topaz and Microsoft's AI services to advance the shift to AI from digital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gbecbkr9n2sevi4j_1695737847.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "publishedDateTime": "2023-09-26T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-on-generative-ai.md",
       "title": "Infosys collaborates with Microsoft on generative AI",
       "excerpt": "Infosys and Microsoft collaborate to develop AI-enabled solutions leveraging Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Solutions will help businesses increase productivity, drive new revenue growth and transition from digital to AI.",
@@ -1319,49 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-pwc-wins-2023-digital-innovation-of-the-year-at-international-accounting-forum-awards.md",
-      "title": "PwC wins ‘2023 Digital Innovation of the Year’ at International Accounting Forum & Awards",
-      "excerpt": "PwC was awarded the 2023 ‘Digital Innovation of the Year Award’ at the 12th annual International Accounting Forum & Awards in London, June 29, for its global suite of AI services in support of its auditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "originalUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thaipr.net/wp-content/uploads/2023/09/พื้นที่สร้างโอกาส-1.jpg",
-          "width": 705,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

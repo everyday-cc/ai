@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-me
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 1100
         height: 550
         isCached: true
+  - title: "10 Leading Social Media Companies In The Artificial Intelligence Theme"
+    excerpt: "Facebook is no stranger to AI either ... which is the next-generation AI efforts that we’ve talked about around advanced research and Gen AI and that’s a place where we’re already standing of training clusters and inference capacity, but we don ..."
+    publishedDateTime: 2023-10-05T16:37:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-leading-social-media-companies-in-the-artificial-intelligence-theme-1196752/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 19
 
 secured: "0OLZHWeb4MTWtrs0hfyy1J8xMHbf+50s/gfmsf5s1OaYQQbEHCv6yrfhXGT8hZRYAOXFqsJGyzDR9qBDwCHsF/6k+AoCsqm+pPUipFHdnki6x5EvKTeBmU1mhy5oI5Mg80OC9R2w6vYm/5ugji4JNI6x1lzIoFdoVWvHE1g7ZhW+APRoxtyfmwTOuNan+kmIBtC0PsJFGB7sitkVLQA0Dt8naGetefJw2M/qCG5voRUnA9R/zGiDJMpYbachWM7/QCZ0tZ2l/G28WpwxYT6TtJAxohnm4htO3AM3l14q3JMCaIfBTBC20wr3AyT7C2GxF2229rYfdrQDDPUkI9wv+doADmGUt/qZLKRvEU8PBdFbwmdCmOGyaNB/qbKt/m3LlY2hATcgh5Q5mpIE+ILiHIA5pG3XJpOAksu2PirWTYpz2oCJ6IjytWKiJD9dKYtr1BDh1rp8M0lfBPOkBPav2shvPUF4quA/as8yuk4QV+umNDfhumsX4134tag7B1iT8jPH3qMUcIyg7X6Vs5O9bQ==;ngT0UVk2YlgRVheaSiKCgw=="
 ---

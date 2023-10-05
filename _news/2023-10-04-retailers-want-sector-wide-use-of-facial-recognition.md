@@ -55,6 +55,20 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
+    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
+    type: article
+    provider:
+      name: gijn.org
+      domain: gijn.org
+    quality: 41
+    images:
+      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
+        width: 771
+        height: 512
+        isCached: true
   - title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
     excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
     publishedDateTime: 2023-10-04T11:14:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
         width: 608
         height: 342
+        isCached: true
+  - title: "Privacy Commission: Facial Recognition Technology not justified"
+    excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
+    publishedDateTime: 2023-10-05T21:11:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018909973/privacy-commission-facial-recognition-technology-not-justified"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://media.rnztools.nz/rnz/image/upload/s--E2BzJiqh--/t_tohu-badge-facebook/v1643766427/4MIUIS3_image_crop_114408"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Uk14yMl36PbELBp5oBU1BphpmpjfUGUK7ifLmYyz3mnQ9pYBfcB+Lu50MBWLugQDds73JPCkWNYIza1OStwHnp96luU3Vh9/y837jIIyj2kebmV5zJ3uKpx3iGQLWYFfU8jsXISQSMidTS8Yhoucrhff3VAxO2WrkCnhGB7BZikNzPdjxFhE9Vu2RNrhKscR1umoXtFMtgBNW70ORpqbGCIdlqJW6B/SPze/yntRZelrPzn8N+B2aK9y+Id033IDYNkp7qvy/PYeUxkEyK/LbjFgD53inmFBczga/Bi+EfYRtEsM63MiqKgxm8Y7K6h0FK7ClNMu8XpcMc7wOX0fPoIXDKl+xlATyCseiURWMfKGcv3O5MpI08QO/pjOuvBuKASKGUe1Z8omJtTD/5wLxwmvEq8Q+b2bSJj1/JF890LX6OEchaBwSeo9WW7yd/+cgJgFUPfQsZA6oAjLJG5vr+TKzqQ7UC1gFQGx3bSTFbspPI+zY0uHNUp1BLW4xX9LbNbnLlHYiI4oeQVSyULtKA==;NYTJIaiU4nILNSauQ7EMkA=="

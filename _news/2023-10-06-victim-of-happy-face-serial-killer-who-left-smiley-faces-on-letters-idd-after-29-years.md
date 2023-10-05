@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T19:52:00Z
 originalUrl: "https://www.usatoday.com/story/news/nation/2023/10/05/happy-face-killer-keith-jesperson-victim-identified/71072426007/"
 webUrl: "https://www.usatoday.com/story/news/nation/2023/10/05/happy-face-killer-keith-jesperson-victim-identified/71072426007/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: USA Today

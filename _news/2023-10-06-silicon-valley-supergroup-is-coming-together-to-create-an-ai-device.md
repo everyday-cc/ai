@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T18:25:00Z
 originalUrl: "https://www.seattletimes.com/business/silicon-valley-supergroup-is-coming-together-to-create-an-ai-device/"
 webUrl: "https://www.seattletimes.com/business/silicon-valley-supergroup-is-coming-together-to-create-an-ai-device/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seattle Times

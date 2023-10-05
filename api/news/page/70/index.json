@@ -2,6 +2,57 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-08-15-ai-startup-grit-raises-7-mln-to-automate-software-maintenance.md",
+      "title": "AI startup Grit raises $7 mln to automate software maintenance",
+      "excerpt": "Artificial intelligence code cleanup startup Grit has raised a $7 million in a seed round, the New York City-based startup said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-grit-raises-7-mln-automate-software-maintenance-2023-08-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/arc-authors/reuters/75b029fc-7f40-49c1-b055-b519a14d825f.png",
+          "width": 1399,
+          "height": 1399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-cio-100-award-winners-prove-the-transformative-value-of-it.md",
       "title": "CIO 100 Award winners prove the transformative value of IT",
       "excerpt": "From combatting election fraud to aiding in the prevention of suicide, this year’s award-winning projects for IT innovation and leadership demonstrate IT’s transformational impact on business, well-being,",
@@ -1138,40 +1189,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-same-people-excel-at-object-recognition-through-vision-hearing-and-touch-another-reason-to-let-go-of-the-learning-styles-myth.md",
-      "title": "The same people excel at object recognition through vision, hearing and touch – another reason to let go of the learning styles myth",
-      "excerpt": "This relationship between recognition abilities in different senses stands in contrast to learning styles studies’ failure to find expected correlations among variables. For instance, people’s preferred learning styles do not predict performance on measures of pictorial, auditory or tactile learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/the-same-people-excel-at-object-recognition-18294640.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

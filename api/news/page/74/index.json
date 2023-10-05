@@ -2,6 +2,60 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-08-11-the-godfather-of-ai-has-a-hopeful-plan-for-keeping-future-ai-friendly.md",
+      "title": "The ‘Godfather of AI’ Has a Hopeful Plan for Keeping Future AI Friendly",
+      "excerpt": "Geoffrey Hinton left Google so he could speak more freely about AI’s dangers. He argues that building analog computers instead of digital ones might keep the technology more loyal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
+      "originalUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64d52f58d78d78815e4d0414/191:100/w_1280,c_limit/GeoffHinton_plaintext_biz_GettyImages-1260047116.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-im-an-ai-prompt-engineer-here-are-3-ways-to-use-chatgpt-to-get-the-best-results.md",
       "title": "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results.",
       "excerpt": "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned.",
@@ -1150,49 +1204,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran.md",
-      "title": "Best of artificial intelligence, machine learning will be deployed at Air India: Chandrasekaran",
-      "excerpt": "Tata Sons Chairman N Chandrasekaran on Thursday said the best of artificial intelligence and machine learning will be deployed at Air India and emphasised that the airline is not just another business for the group but a passion and a national mission.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/08/11/1600x900/INDIA-AIR-INDIA-5_1691716811984_1691716831312.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-chandrasekaran-71691691379963.html",
-      "publishedDateTime": "2023-08-10T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

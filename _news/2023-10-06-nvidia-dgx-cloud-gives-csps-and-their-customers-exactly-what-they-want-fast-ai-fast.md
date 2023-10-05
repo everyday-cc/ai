@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-giv
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:

@@ -33,12 +33,12 @@ related:
   - title: "Researchers develop a way to hear photos using artificial intelligence"
     excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
     publishedDateTime: 2023-10-03T20:45:00Z
-    webUrl: "https://www.wxyz.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
+    webUrl: "https://www.ktvq.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
     type: article
     provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 37
+      name: ktvq
+      domain: ktvq.com
+    quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/6bacb83/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1696361237_IUSG3T.jpg"
         width: 1200

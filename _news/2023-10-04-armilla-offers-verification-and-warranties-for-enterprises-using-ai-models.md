@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
+    excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
+    publishedDateTime: 2023-10-05T18:36:00Z
+    webUrl: "https://siliconangle.com/2023/10/05/ais-tectonic-shift-blueprint-ai-integration-modern-enterprise-teradatapossible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
 
 secured: "qt6by1AyzojwCIO7ewaXYVkGTq2bPG5eTgMqOABgL4g4bN7JjBiOdjDgKWkAIT7AlTLHLBlddhVZ+TSCN3LInL/kjri7PByfOhTvGKL/tf0Fh4MzaA2dw1ozuLnhoKIELQHpn80hlUQolvi7pzSQSouzKyL/VQZrY5c6/zUqj6h09eoYRHmpQO4SQk8EG3aL6k28ZLOeJmPlJzhmXkOvXP+6gVRx/lSuJVN9MZuVJ5a+mx57+H71kcDyIIWQ2bwD1PU4Fl44mjqIebQmmAoghm4Pge0bpEkw50NDM+1V1fkLepI2JdTmFvN44ljrNwFS+8HKAmGhZcCAW9XnquTv/wjM+G/+SbfChRULygAElkEJOwIF7MvWrsRYBo3TigQgdpsbVJRJW4IfuwXCHTbTLxi6nP3vdmaK19g3B9aTBR/+1LN/mKP46xbpdQxETHdLe4nVg6/g4DpoQOGyXi/9nIR83BpriZ5I+B4RpbkiPr7HwhmCJG7bjlIX0ChbfdtFS5IMzwrdpBEAHEha4Kuqyw==;64TZNZm+xw528pt7cCx1QQ=="
 ---

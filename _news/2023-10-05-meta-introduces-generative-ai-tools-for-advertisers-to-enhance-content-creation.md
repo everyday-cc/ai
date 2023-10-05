@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-adver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
 type: article
 quality: 83
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Opsera raises $12M to introduce generative AI DevOps features"
+    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
+    publishedDateTime: 2023-10-05T18:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "/dpHTiMIwK43FHdRt4gAZmElfmbwlqsYW0WCDh9y30EFLkmTha151+3BIEC+Y5RmIhcya5oEkDIwD06U/UgeBU8vObo/i/WzX5kQZgHU19KJQJmmFeU8R+X2sGqXuyNd4enfNrz6TLhlaWfMK6sHQvLtuqE9P11pmz2T1olx7z1qWTk6tf1quNRN6IQ4locfL0wgliEEx01jkwCeBlalIGdB6oVrDpWg+gm0esYlb95/ihtbwMu0UrZUpy34O/eg6mZvvvylbrSqNf5GCWLpt21KO1kd4BFKNLYTGXIEwGJQiSKjycFcLPWTI+hz8DnfP/+fI2Lp2+wD0JhkEmr0HU3Djs+LVbuduTKrzGtgzupkoFJrmMRrxzvWpbQmjcz1fQhm13eLmWH8Bjf2+S1LeM2W62zyuZvNY4FWHAzcW+vCKel2puUWCo0Sb9GuRRAkM4QFVr7KdIfD9s/ZbB/Zf6XTO5wy9ywRCEjJEwnGeiror1r0FljuZki8mYjpVHrZRmjNXbg9ZcsB2w3fxCI0qQ==;JPmZmAqQuV5v2bb+SoUPWw=="
 ---

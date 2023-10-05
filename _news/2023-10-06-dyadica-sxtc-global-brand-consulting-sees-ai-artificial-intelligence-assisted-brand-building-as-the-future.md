@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T19:27:00Z
 originalUrl: "https://menafn.com/1107198234/Dyadica-SXTC-Global-Brand-Consulting-Sees-AI-Artificial-Intelligence-Assisted-Brand-Building-As-The-Future"
 webUrl: "https://menafn.com/1107198234/Dyadica-SXTC-Global-Brand-Consulting-Sees-AI-Artificial-Intelligence-Assisted-Brand-Building-As-The-Future"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Mena FN

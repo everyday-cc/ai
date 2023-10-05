@@ -5,6 +5,8 @@ excerpt: "Infosys said on Tuesday it is collaborating with Microsoft to jointly 
 publishedDateTime: 2023-09-27T15:23:00Z
 originalUrl: "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
 webUrl: "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+ampWebUrl: "https://m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "6E9TW+IEP17p2+0LYKqNOn4Vhd1jRmPOIQlrQwJZ9AweNhp+OkXE+rN80dXRKsVBBBVlK7fVR1fpXlulrC819k6p5oeuUbJkOQT7t3ABXOv+V6HV56B11VvHXoudTyjhoj7RA/+2ExfvrnsQMHwO6hYGSz8Ey90AeqGP4cyM9o1HaFOLB3XHSJtUQJqsG5xdMH10bRqJIGtpQF2sn5kEFXPwpIXl3emJD1uk+PR9VwkVWcCpAu5VWCQGKrmLQ0WrZPrIR1eTEkGad4+20Wfw+0+EMwqVPjzoPr6nVzTaqLSFIQv+HCWaJq8U9XFwVAIy8r2GJ4H16qafF5GpPoFJue9IEGd8tzp7JT9yFEo8HWA=;FKOCS2WkHjmKlJJERE1CzQ=="
+images:
+  - url: "https://im.rediff.com/money/2018/nov/15infy.jpg"
+    width: 670
+    height: 455
+    isCached: true
+
+secured: "UXNSpigvRU7Ouh23GYLbY0JXwhuVQEokxDxvbLpgXMxRUcGkSBuWlWnSLAgQwtFFNVzQqZAojMz2KZ79fZ2/sQYNDv4H2GKDJZIHaArVvH1OfvStOSaR0bpNBap4vkVkMWvKhSCc8LgI4NjTuim+4SjoPuN9hFShfU2OmiO/BHaoOljyag9GO5HruCuVM1CEtFQQOOsbCpVdagGJYMZoZJbJ75SuLNaY5tsB2h58Ybd/0Ywpf0WHNsTvBsfR9qg311zSxib4yjAdPGgYSVDriXIE25+B0upm+qoNUC9IBJS0g7hR0nj8tl5hLZNfrxb0gDJZlG+2gBcLrrjb0DggldWiF/vkGvQlXcxiVmLTeSs=;QPxcSQSuhShX5LHWhewMug=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T18:51:00Z
 originalUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
 webUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

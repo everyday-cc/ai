@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-05T13:00:00Z
 originalUrl: "https://www.aol.com/news/column-ai-chatbot-trained-using-100019746.html"
 webUrl: "https://www.aol.com/news/column-ai-chatbot-trained-using-100019746.html"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:

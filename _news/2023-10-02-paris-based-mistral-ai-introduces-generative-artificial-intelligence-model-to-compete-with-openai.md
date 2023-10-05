@@ -95,6 +95,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Opsera raises $12M to introduce generative AI DevOps features"
+    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
+    publishedDateTime: 2023-10-05T18:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "/Fh22KZAY+bqK4h5xUbkYQJw7eAKPXp9bFc43WJ0/3aIooq0fw3K50NpH+wcFcTPvALcLeC4DM48UPHrL0648d1797GOTY1Fd4O5XLpwB99Sxo3W/bCzVmENn8Bt8Ne/ELRWIGs7VJ7b8/kTyp0CVkrH7PJj4kRK/bo+4A5s5fPCaBso618lRjtF+cmg3uuSK+ZTS/O2PN4VNsqFfTJ6cEakYnkKE2spVvuPPVvimrlXRtmxRVczpe/wZAoBjaxX8kj37wQCFvT154ZPEwOA5FGhz8djgNhXoX0upFIqA8xtAZSL7Ghwz7SM2pG6lDsqFqiPjITmIvKIal++8voxHz12aZxvYTTu94jML1T9yFlADvhuUpZWgyvMUqfLP0NwcIzS5mZRvJ3MluvTT0gqGh4VYHqKSxh7csUGUwy+7FFvN2Wbw1vvGVy7oA9uMWdTaJXs+sByKVWsBLxcXkJfLS74Z0mfc451dLrfG2Z15l/7r1vVqDmr9jN1O+1IkXTX+5rFyZjL8TuqdPwLrg3y4w==;kv3S7VtxBU1Cb2DzvZea5g=="
 ---

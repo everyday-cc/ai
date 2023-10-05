@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-09-19-why-discern-security-thinks-ai-can-defeat-the-cyber-attackers.md",
+      "title": "Why Discern Security Thinks AI Can Defeat The Cyber Attackers",
+      "excerpt": "Discern Security has raised a seed round worth $3 million as it seeks to scale up its artificial intelligence-based cybersecurity software",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65095d4ddf493db59c935f69/0x0.jpg?format=jpg&crop=1280,600,x0,y114,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/09/19/why-discern-security-thinks-ai-can-defeat-the-cyber-attackers/amp/",
+      "publishedDateTime": "2023-09-19T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-nasdaq-cta-artificial-intelligence-robotics-nqrobo.md",
       "title": "Nasdaq CTA Artificial Intelligence & Robotics (NQROBO)",
       "excerpt": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all ...",
@@ -1108,57 +1160,6 @@
         "Microsoft AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24.md",
-      "title": "Collina Strada Takes On AI Fashion At New York Fashion Week SS24",
-      "excerpt": "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
-      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
-      "publishedDateTime": "2023-09-18T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -15,6 +15,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "h2ffPoKskwmDCIYw2Efe9fBwbxfKr6v13Ard1AlEXMbm/2Y+hUym1roRTkhZkqnFurGYvs2WBlDp2nuRRcqE9OdXYShtpT+e4X/dW3CjWM3+yKE9ssHsT3NjCP3e1feTbB9nc5V0H0xKpFqraMjchA5qvHLHtW7+8vGlpCO9kNlX1JjVJUOaQHAEG599BB9EbnVXlBw6nYI/I9ovqQVWvc8jEDdfhaAMBd9KuNhkhLE6xA3rIksM4XJFxwNQAEZ2dCJlUthXKIaGy4Wsp5ldlhqHbCaOVHSwWap50jnA6mLYT3IeZ9bLScf1ZHbynVNh3qqaP5B3iCsMcgN2/G749F4xfdKL1tFSOOTI241Pqlw=;4rJgaH4z9JZTuJIALm1yqw=="
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "BjflqP3jJsZ1NRxRAAQD64gfmciXctuEjver0Cdj09YTo88+6uHU0vynL/JMC73H0NuYJtfXWDVo6dahfzHuyzCYxvlJI0ZJIa0uevM9uhi2VcfqxDpIm8QtuiwA1UP1UkxP5i0GKnECVp7gvQ5MNjH9RUc03VsGYeyJp3aj4xyENpNcFqoCOA3v8WqsERmCgJv6kUsiEIBiaCeydFyjqwaZBTdBS2yQ5OyNhBcMniZJjykipem1CToslROSVCMbWAcBaVKOK9YVSbaHagfVT1cvQmDljAtYFUlKo/oiTENKdOc5Lrxl7K/X7MUKKToQL5m66ZxVWxrlgRNULRNJGjoCPKHJH2hCa2XrolGnrEk=;AfOkDkvVTsr6eKalXwBEgg=="
 ---
 

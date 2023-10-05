@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Big Tech is co-opting the rising stars of artificial intelligence"
-    excerpt: "Data centers are vital to the artificial intelligence industry, making Big Tech companies key gatekeepers when it comes to developing new AI tools. (Dean Mouhtaropoulos/Getty Images)"
-    publishedDateTime: 2023-10-01T01:31:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/09/30/anthropic-amazon-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 41
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "NYSBA’s 147th annual meeting to address legal ethics in AI"
     excerpt: "While notable figures will be recognized, the event’s primary focus remains on substantive discussion, particularly around the ethical and regulatory challenges presented by artificial intelligence (AI) in the legal sector. The Presidential Summit ..."
     publishedDateTime: 2023-10-03T20:48:00Z

@@ -36,6 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
+    excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
+    publishedDateTime: 2023-10-05T17:28:00Z
+    webUrl: "https://www.koaa.com/news/covering-colorado/learn-from-and-connect-with-experts-this-weekend-at-bsides-cybersecurityconference"
+    type: article
+    provider:
+      name: koaa
+      domain: koaa.com
+    quality: 0
 
 secured: "/AyLKbCwwtk6Dpse4+uv9o5QCDhwimeJNfMroPOeczisTOUhTbf3KNBPt4KWOFEaZfCkHdfvNPZ7r/EQj30wLXjnnMv2GE8AdHcZpQWsRi+ued5a0HGy6/bemWotbaFVIyBZN932sopfRABTt12aMzd9ujSxsVwZENpcv3aiJh0YqMHeFWc+8gfQf/qKnrrysE14xkBE9L3grHXUfJl8Yp5T99p/0saKnbDzZ3UG1zNydG0HNKNZNsGDcezw1SWlP/MYa8JUDRfgBAlaUK/npjCeMbbzJ55OuLbdHWcXGrcAp26lZpDyfl2bZQVIfm/Xw0EtucjjR9yoxIxjW19tCZCbqZLQPjxG+3zsRMBUvFdRLo/Qq+CTRd53kuXmJ6lNOLCafFOh1iFvcSHnN7HB9oJk6R8tdIG7YTUia1i5q8qvOjFvaQdkWT4Wnop5IjJdRbImBDg7rV4ZciLoirMDxY8uEJTLMUnN7c744a9h/3Tm1ls1lOX9miU2cRxcoA11zjyw8bAvj1HejANEIJu4tQ==;9jC7MPQpiVbGaEgdDSqzNg=="
 ---

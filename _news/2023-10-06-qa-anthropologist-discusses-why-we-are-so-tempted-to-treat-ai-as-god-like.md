@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-05T18:15:00Z
 originalUrl: "https://techxplore.com/news/2023-10-qa-anthropologist-discusses-ai-god-like.html"
 webUrl: "https://techxplore.com/news/2023-10-qa-anthropologist-discusses-ai-god-like.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: techxplore

@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-07-27-lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb.md",
+      "title": "Lenovo Unveils New ThinkSystem Storage Offerings Targeted At AI And SMB",
+      "excerpt": "Lenovo introduces new ThinkSystem storage products: the DG-series, a QLC-based array blending capacity and performance, and a new DM model for SMB market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c1961fe0a59bc2a216a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/07/26/lenovo-unveils-new-thinksystem-storage-offerings-targeted-at-ai-and-smb/amp/",
+      "publishedDateTime": "2023-07-26T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-machine-learning-megatrends-3-ai-stocks-set-to-dominate.md",
       "title": "Machine Learning Megatrends: 3 AI Stocks Set to Dominate",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the strength and momentum we’ve seen in AI",
@@ -1144,58 +1196,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group.md",
-      "title": "Google and Microsoft partner with OpenAI to form AI safety watchdog group",
-      "excerpt": "Called the Frontier Model Forum, the partnership comes after a White House meeting last week with the same companies, plus Amazon and Meta, to discuss the secure and transparent development of future AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "originalUrl": "https://www.zdnet.com/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 383,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0430dc198ab4ed046b02d5baab33192ccb668571/2023/07/26/a18398ef-86e6-4115-8cdd-48c6fc6907e2/ai-gettyimages-1373071138.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-microsoft-partner-with-openai-to-form-ai-safety-watchdog-group/",
-      "publishedDateTime": "2023-07-26T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
