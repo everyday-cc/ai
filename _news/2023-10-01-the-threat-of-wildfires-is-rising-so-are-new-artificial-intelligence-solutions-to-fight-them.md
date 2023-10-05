@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
+    excerpt: "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect fires from space. Microsoft is using AI models to predict ..."
+    publishedDateTime: 2023-10-04T19:21:00Z
+    webUrl: "https://azdailysun.com/news/the-threat-of-wildfires-is-rising-so-are-new-artificial-intelligence-solutions-to-fight-them/article_dd63420c-446e-5348-bef0-f7a3efb595c6.html"
+    type: article
+    provider:
+      name: Arizona Daily Sun
+      domain: azdailysun.com
+    quality: 6
+
 secured: "Dn1/VrKSuYl2f1QvzKrICbbgil9cCUE4gwGX8IlOK5xe3boiuXx0xm1PXqiEA+i/DwArvKe3FiwIeOG2JJz98yNFzVAJ6PXEpUQGHsZlZe6Zd537Po8M1BmlzjzwTrGyA93PL/7TH/OiIRNoTkHemSJp4wjuKmNmatoxZBfNvOPyPeSfvdlfUXU4QzcZkeG/TLEdQIWJUJYxpXnu8Aoc3XoRMKUwxnNzOn8P0E8vetNNQJKz7BZVdwd+n3WGkNOM1pQjI70JjqptJMtlhBbW+4m2tzTMvF1VuR3q0hQRw45U89VJfIROIjE7vtzmCODz9pDLBJn5Jvd+04JggS0b/dC1p/KMdLNEUXAIVUt41ninfmrpD6tBYxoa2lDA6hRerazpul0UReK8Ph2TgcVjNtgvQ7ptj6DyOKT5Uvl09KNYPgE88kOJbiZfUyG4K52c9ubdg/nlIEZIlxyVHi7Wpi47XNRRivftMYW4wBBvbrAfk2daGHbAxVzuzblWmwn6qo4Ls27+Sg9USIXIxMHy5Q==;L/CPNaiykCVpJRHDWIT45A=="
 ---
 

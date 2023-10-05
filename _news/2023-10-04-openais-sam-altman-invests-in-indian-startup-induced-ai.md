@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
 type: article
 quality: 57
-heat: 138
+heat: 139
 published: true
 
 provider:

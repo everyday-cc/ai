@@ -33,6 +33,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire"
+    excerpt: "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ..."
+    publishedDateTime: 2023-10-04T23:15:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 50
+    images:
+      - url: "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Voice referendum: Is Australia playing catch-up on Indigenous rights?"
     excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
     publishedDateTime: 2023-10-04T15:21:00Z
@@ -49,6 +63,24 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "In Australia's Outback, Indigenous Voice Proposal Struggles to Inspire"
+    excerpt: "AREYONGA, Australia (Reuters) - In this dusty corner of the Outback, Tarna Andrews sat in the local schoolyard and rolled off a catalogue of problems afflicting her largely Indigenous community: Lack of jobs. Inadequate health services. Spotty internet."
+    publishedDateTime: 2023-10-04T23:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2023-10-04/in-australias-outback-indigenous-voice-proposal-struggles-to-inspire"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Voice referendum: Indigenous rights vote is a reckoning for Australia"
+    excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
+    publishedDateTime: 2023-10-04T19:32:00Z
+    webUrl: "https://www.bbc.com/news/world-australia-66944609.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 34
 
 secured: "yoPYkbe5q0a1Cy/uebCIeoT/htUynXU1OBPGj/Y8gzgS3zNGqEXcPUDKwoTd5Hv1124GXseV/sfMrXnEq9xRINYsrHTp3cwS2ZGG9229uGEh8LvorQPaYHmeHLiUeqY56BhBykyaBlK0Of4HuaV+0auXM/A8bdlRDbJK7j/BxgHoBlBeqe2yDWFVKa7hY0qiFp4PXUqn1kJ+KHTBYGh3fHgqw4yc6OJRLGTbwXEcxosA6Dw64d0KKonKSBEXKoxla/RwaqTmCTgJCClj97+wiM4qxW3WFi7vZ9qI/BzeU99fY1Vl2hE3jgSj021o5n3Lj6W7sduxXxkMKmb28N6hmAYY99OgZJZLaUmXk6AYmuBY9Mm9Xt2ImGoY3FRY6OePqSvapdKEe7jzsJLgNf3Q+HEe6IDNV1Xcyxo27xiEY7i/DkKOHxDKihd9c9xO2QFoWrXvCiHBuBMdMO0lsYfGuVt8/w/Me6V8sAKhuEj14CWp1vLROilW1ujRufV9tfpl1tddZwtkU7XHD4K4ZHBTMw==;Mkq/e6OcSr8vOfojJ3IsLw=="
 ---

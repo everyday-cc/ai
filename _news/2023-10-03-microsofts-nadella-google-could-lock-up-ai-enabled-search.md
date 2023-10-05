@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
-    excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
-    publishedDateTime: 2023-09-30T04:34:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 73
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280"
-        width: 1280
-        height: 1046
-        isCached: true
   - title: "Cloudflare collaborates with Microsoft to enable AI models to run anywhere"
     excerpt: "Building the AI railroad tracks of the future so inference tasks can move seamlessly across devices, networks, and clouds"
     publishedDateTime: 2023-10-02T11:11:00Z
@@ -205,6 +189,15 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 49
+  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
+    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
+    publishedDateTime: 2023-10-04T17:16:00Z
+    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
   - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
     excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
     publishedDateTime: 2023-10-03T12:36:00Z

@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
-      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
+      "path": "_news/2023-09-28-infosys-collaborates-with-microsoft-for-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft for generative AI",
+      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
-      "originalUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263552-sikkim-floods.jpg?itok=yXTaPekb",
-          "width": 700,
-          "height": 394,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
+          "width": 1200,
+          "height": 765,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "publishedDateTime": "2023-09-27T19:20:00-07:00",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
+      "publishedDateTime": "2023-09-27T23:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,93 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
+      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
+      "sourceUrl": null,
+      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELO",
+        "domain": "kelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings.md",
+      "title": "Riverside Health System to use artificial intelligence in breast cancer screenings",
+      "excerpt": "According to Riverside, the AI serves as a “second set of eyes for providers to identify patterns of cancerous breast tissue and aims to detect cancer early, when it may be easier to treat.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
+      "originalUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/1dd6e66/2147483647/strip/true/crop/2148x1128+0+176/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc5%2F09%2F5871ddd34cb48490ef7933efc9e7%2Fai-breast-cancer-riverside.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTKR",
+        "domain": "wtkr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -136,6 +222,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology. Randal Quran Reid filed a lawsuit this month against the Louisiana detective who sought his arrest warrant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -424,8 +544,8 @@
       "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
       "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
+      "webUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-executive-leading-ai-chip-efforts-leave-position-sources-2023-09-27/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -985,126 +1105,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses.md",
-      "title": "Infosys & Microsoft to accelerate adoption of generative AI for businesses",
-      "excerpt": "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibsintelligence.com/wp-content/uploads/2023/06/Infosys-.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
-      "title": "UAE’s Falcon 180B breaks boundaries",
-      "excerpt": "Abu Dhabi's Technology Innovation Institute (TII), the applied research pillar of Abu Dhabi’s Advanced Technology Research Council (ATRC), has made a groundbreaking advancement in the field of artificial intelligence by making its Falcon 180B large language model available for deployment on Amazon's SageMaker JumpStart platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4?amp=1",
-      "publishedDateTime": "2023-09-27T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts.md",
-      "title": "Infosys and Microsoft to work together over industry-based Generative AI acceptance; industry reacts",
-      "excerpt": "On September 26, 2023, Infosys, a information technology (IT) corporation, entered into a partnership with Microsoft, a multinational technology company. According to an official release, the partnership aims to develop industry-scale solutions around technologies such as Azure Cognitive Services, Infosys Topaz and Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T141137.201.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
-      "publishedDateTime": "2023-09-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

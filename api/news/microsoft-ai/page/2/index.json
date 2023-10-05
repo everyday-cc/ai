@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-26-infosys-microsoft-partner-to-accelerate-adoption-of-generative-ai.md",
+      "title": "Infosys, Microsoft partner to accelerate adoption of generative AI",
+      "excerpt": "Infosys and Microsoft are expanding their partnership to develop cutting-edge AI solutions for businesses in various sectors",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsbytesapp.com/news/business/infosys-microsoft-expand-ai-partnership-to-democratize-data/story",
+      "originalUrl": "https://www.newsbytesapp.com/news/business/infosys-microsoft-expand-ai-partnership-to-democratize-data/story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cdn.newsbytesapp.com/images/l48220230926180057.jpeg",
+          "width": 1920,
+          "height": 1079,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsbytesapp.com",
+        "domain": "newsbytesapp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-partners-with-microsoft-to-accelerate-industry-wide-adoption-of-generative-ai.md",
       "title": "Infosys partners with Microsoft to accelerate industry-wide adoption of generative AI",
       "excerpt": "Through the partnership, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, to help enterprise customers transition from digital to AI solutions.",
@@ -270,7 +313,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/34897804",
@@ -1320,49 +1372,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-meta-is-developing-a-new-more-powerful-ai-system-report.md",
-      "title": "Meta is developing a new, more powerful AI system: Report",
-      "excerpt": "Llama 2 is Meta's open source AI language model launched in July, and distributed by Microsoft's cloud Azure services to compete with OpenAI's ChatGPT and Google's Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103563732,imgsize-59692,width-1200,height=765,overlay-ettelecom/internet/meta-is-developing-a-new-more-powerful-ai-system-report.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/meta-is-developing-a-new-more-powerful-ai-system-report/103563732",
-      "publishedDateTime": "2023-09-10T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
         "publishers": null,

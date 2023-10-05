@@ -33,6 +33,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 23
+  - title: "SoftBank CEO Predicts Advent of Artificial General Intelligence (AGI) Within 10 Years"
+    excerpt: "SoftBank CEO Masayoshi Son has predicted that artificial general intelligence (AGI ... AGI could transform the healthcare, finance, and transportation industries, making them more efficient and effective. However, the development of AGI also raises ..."
+    publishedDateTime: 2023-10-04T18:27:00Z
+    webUrl: "https://techreport.com/news/softbank-ceo-predicts-advent-of-artificial-general-intelligence-agi-within-10-years/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 0
 
 secured: "8eHk4VQm6+61MvQvMjA60mFBmgqu12D8nUhpUtE6DuCN2ErFMPtWRnqENabdbEAeuCKANFrBbx1s0c6f8auGXA1/bk54feFt2/bga0ktPp2PZj3xXjODAHwgORUFFlroWtnWWkO9yWLsQmELRWYoQbO5vh8fyOzj1uOg2jCK/zDtnG4Eefpec3gGxU74zV1jwQ8eKr+vbzGfyUhelIDAdS2W9sDvx664mnWNyBdUifKoybbMFe1NkiHEXGZtsJGQ0JGDHqTkK68gsCvFCZbKMOiS6MNWB7d2bBN/3jDsdRvw9wzPA28Q6utt9cGUTZzWhIRElQBTmVEhGfunVTjpVo/EjZEidWPmBukYTJWX/7s=;I4dQ9mOlIQv+Yn095/ke/A=="
 ---

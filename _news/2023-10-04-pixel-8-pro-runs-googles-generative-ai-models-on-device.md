@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generativ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
-    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
-    publishedDateTime: 2023-10-04T14:39:00Z
-    webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
-    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 84
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Amazon Partners With Anthropic To Develop Reliable Generative AI Models"
     excerpt: "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks."
     publishedDateTime: 2023-10-02T10:45:00Z
@@ -86,6 +70,15 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
+    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
+    publishedDateTime: 2023-10-04T14:39:00Z
+    webUrl: "https://www.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 44
   - title: "Pixel 8 and 8 Pro are portals into Google’s AI-powered future"
     excerpt: "Google just unveiled the Pixel 8 and Pixel 8 Pro. They’re more expensive, but the price hike is warranted for a big reason - here’s why."
     publishedDateTime: 2023-10-04T14:32:00Z
@@ -99,6 +92,34 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/10/pixel-8-pro-5.jpg?quality=82&strip=all"
         width: 1598
         height: 1066
+        isCached: true
+  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
+    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
+    publishedDateTime: 2023-10-04T23:37:00Z
+    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 39
+    images:
+      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
+  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
+    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
+    publishedDateTime: 2023-10-04T23:57:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
+        width: 375
+        height: 225
         isCached: true
 
 secured: "xmEXn+qhYsFNArPdR7PZLI49yc23vnsfl80vuG4BdnbqjY18iemp0+xmuNEYymHVQOJXz8yeBIIpxdxfMsVPkXmKBnnotcA/llE0mOkG6TN+kH/tvtauLc2tsW9RcaxFihjhYDPgN3rMK4GcWVwYRwioJ4Wqi11d+acGN+euLgKpjKtnGQQ+KuJnjMDzrCQ15SW0T9RjbcO+JTNVY50ui0V7lfoVPD+OlVz1CYjHQGxnCutqlhgBpE+I4aOAttBZsbwq077Y6wdI5sc4ln+P+R8FENdUK5LGKdJzsBjx+lOSzQ32oSnMzufB4TrfGYt4sezfFCXxG2JvzPXtW36pdIjMqjSOWAcmlNW3JW1gjFU=;ymB/qL1iHYS3yOQY3EZfPw=="

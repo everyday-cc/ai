@@ -39,15 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Israeli fintech co Stampli raises $61m"
-    excerpt: "Stampli is today one of the fastest-growing providers of accounts payable automation and ePayment services. In August alone, Stampli processed more than 1 million invoices totaling a collective value of more than $5 billion."
-    publishedDateTime: 2023-10-03T12:06:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-stampli-raises-61m-1001459202"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 19
 
 secured: "fLLpwkg2RUc2OuzBiEEsPMEBWVzQdbm1iPIrP0jHbHMzJxkfFpftbKh6IHfTEH4yx/g+a2HiqXJBRqMdbgqX4RZnfWud2sJRsq7Mq1CplY4mH8hLe8p1hk/2NNAD5ojss17pUAuMfAZqlX0RUaecyq/a0mDfUJcSN71oLaB2r2cnoF3pF8qKoK7vIrMp84jsC+Gnet+O/dfpVd0ok9id9/IuQ0802Br7hSL675jbXvjZQ3Cp5ImpQi+qYcX9PknSInP2vuNV4sNLFZU7s3IkCL9YTIZCEhmFCRYB+P6vAkLC13S7x5bvpgDT7g6Ri+QzoB/4fhsaXBFiLvznKPqQyOHQ5QvjM/IA6DyHqxZQuzPFwbUFLDerZN2fK4DYm7o9WT5Fc85GIl87vWjgu2Lvk0JI7pQWxbzNL8gAn62z56HOboSygNKFXgdtC2wS+pYlp07EIS40m9IdMpU2JyxmjLbWk5I8kdS+sik5sIRTlFxLKvaiJCwjbtBRVGAZ+HCVGLbVZjzIJ98Jl3pcuVmWmw==;nD722DDyZClm3XwXwJK8NA=="
 ---

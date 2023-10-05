@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,13 +43,27 @@ related:
         isCached: true
   - title: "Lawsuit: False arrest due to misuse of facial recognition technology"
     excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
-    publishedDateTime: 2023-10-04T07:30:00Z
-    webUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+    publishedDateTime: 2023-10-04T02:30:00Z
+    webUrl: "https://abc7.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 41
+      name: ABC7
+      domain: abc7.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
+  - title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
+    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
+    publishedDateTime: 2023-10-04T11:14:00Z
+    webUrl: "https://abc7.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 39
     images:
       - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
         width: 608

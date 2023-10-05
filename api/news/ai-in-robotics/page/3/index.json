@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-13-advancing-research-to-clear-humanoid-robots-for-takeoff.md",
-      "title": "Advancing Research to Clear Humanoid Robots for Takeoff",
-      "excerpt": "Adapted to the Cockpit David Shim, one of the researchers involved in the project told EuroNews, \"Pibot is a humanoid robot that can fly an airplane just like a human pilot by manipulating all the single controls in the cockpit, which is designed for humans.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
-      "originalUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodnet",
-        "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-13-ai-industrial-robotics-argentina.md",
       "title": "AI Industrial Robotics - Argentina",
       "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ...",
@@ -1284,6 +1250,49 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
+      "title": "Boxfish Research Renames To Boxfish Robotics",
+      "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "publishedDateTime": "2023-09-06T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

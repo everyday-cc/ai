@@ -1,57 +1,29 @@
 ---
 category: news
-title: "Instant evolution: AI designs new robot from scratch in seconds"
-excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
-publishedDateTime: 2023-10-04T00:07:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
+excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
+publishedDateTime: 2023-10-03T20:29:00Z
+originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: mccormick.northwestern.edu
+  domain: northwestern.edu
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Robots crafted by artificial intelligence: Instant evolution"
-    excerpt: "Researchers have achieved a significant milestone by creating a artificial intelligence system capable of crafting robots from scratch."
-    publishedDateTime: 2023-10-04T10:41:00Z
-    webUrl: "https://www.openaccessgovernment.org/robots-crafted-by-artificial-intelligence-instant-evolution/167609/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1364859722-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Wing-flapping robot helps explain the evolution of insect flight"
-    excerpt: "Researchers built tiny robots that can switch between two different kinds of flight, one involving unusually fast wing-flapping, to better understand insect evolution"
-    publishedDateTime: 2023-10-04T15:03:00Z
-    webUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-helps-explain-the-evolution-of-insect-flight/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/04154200/SEI_174616579.jpg"
-        width: 1350
-        height: 900
-        isCached: true
+images:
+  - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "BfNCxhDmXqOqj0zr1HdNQdxGP9NJ9a6ybWB8eV6yDLc8acjvoI13qCVYqlGDhjRygb8cY4CUmdGq6XnICLFi19Lgzc/lcQWUe9mEKnXa6sUyj/cx3LqvOEGxUYVVw99Y5KsTIcUCnro10BYcSinuM762BTTYrQ2DEuP38UQQh1Gy0qqKw2I0pwzyrZXG6KgZy77WJm+aJt2OiXlScLuQNCUP0xYGtNSA26SAjl32rGTsUXb29VbkWOnvlu5Mz0rpgMF4uDxaStVd7OWCOUq1ebxbpHSSqm8SdT8kWoTAZht+tHRccpnbkacSdJBBF/zD0ij4ShSb0cYEyNL2rXWPb6XVOWnlg2TyKKVFTIVEovs=;6F/NxZCWGTbsHU0htSxrlA=="
+secured: "MLiOqpD0CqjIEgz4O4EWQPgmeJ/qZwjeodi7akM1I/qrSni7D0XeSBdD1OE/GU20iHBA9hJGJYWyv43NB2Rg3UeAFKNkGmCkhcqe0u4FalZZ9mhfYl1Xm8HL630qfdTOuC3kHBgQq9QNkjWcOJRVf2HFb+/hefbLU9Y9e658nUa+eRK9ORtVLiaalVdzxkgfHSV9I7tWxuk27iA4vgt9pVP7MW0wgXYgoV7hMdlUysH/nbhX08p+vDi6AjJYaKv2Xon58vXWg5cVIwfjgnVlVotmPE+cvxDamER99GekVPQhg+dC6oYGVvvV0N90Na4342NZgAJ/5rOl7rx+TBlJifxUKqsqVLJMGwfZIo0wyXQ=;wRtsz0i8Mcls+exHs9eqiw=="
 ---
 

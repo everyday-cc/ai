@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
+      "title": "An interactive platform that explains machine learning models to its users",
+      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
+          "width": 1280,
+          "height": 1239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
+      "publishedDateTime": "2023-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-how-machine-learning-and-ai-could-solve-drug-shortages.md",
       "title": "How Machine Learning And AI Could Solve Drug Shortages",
       "excerpt": "Although AI’s presence on the public stage has become more prevalent in just the past year, it has been used in the medical field for more than four decades.",
@@ -1276,49 +1319,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Size, Regional Status and Outlook 2023-2030",
-      "excerpt": "The Automated Machine Learning (AutoML) Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34168664",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34168664",
-      "publishedDateTime": "2023-09-01T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

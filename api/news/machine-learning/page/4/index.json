@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-01-automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market Size, Regional Status and Outlook 2023-2030",
+      "excerpt": "The Automated Machine Learning (AutoML) Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34168664",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34168664",
+      "publishedDateTime": "2023-09-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity.md",
       "title": "NC State researchers show that ‘introspective’ AI chooses, thrives on diversity",
       "excerpt": "Researchers from North Carolina State University created a test system with AI and gave it the capability to modify the composition of its own neural network. When choosing between identical artificial neurons and more diverse neurons,",
@@ -1334,50 +1377,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-can-googles-interactive-ai-tools-transform-education-finally-answered.md",
-      "title": "Can Google's Interactive AI Tools Transform Education? Finally answered",
-      "excerpt": "As technology advances, Google’s AI Platform and AutoML empower educators and students to delve into machine learning, fostering data analysis and predictive modeling skills. By bridging virtual assistants with academic empowerment, Google is paving the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Aug/1692607126_okio.jpg",
-          "width": 558,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/can-googles-interactive-ai-tools-transform-education-finally-answered/cid/1960511",
-      "publishedDateTime": "2023-08-21T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

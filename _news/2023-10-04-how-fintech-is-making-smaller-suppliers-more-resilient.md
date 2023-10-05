@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How Fintech Is Making Smaller Suppliers More Resilient"
-excerpt: "3. AI provides cash-flow predictions. The way fintech platforms can help SMEs manage their cash flows is nothing short of revolutionary. These platforms can automatically compile transactional data and use artificial intelligence (AI) to analyze SMEs ..."
-publishedDateTime: 2023-10-04T15:01:00Z
-originalUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient?ab=HP-hero-latest-text-1"
-webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient?ab=HP-hero-latest-text-1"
+excerpt: "Historically, smaller, lower-tier suppliers have had trouble obtaining financing. New fintech platforms are changing that. They are making it easier for them to use assets such as approved invoices, inventories,"
+publishedDateTime: 2023-10-04T12:35:00Z
+originalUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient"
+webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_04_1193669057.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Pacemakers: Fintech partnerships spur community bank growth"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0QgL53Z3WWLx8qeFAfuco1SJtMw9YqPFBLMzwQaKTmOwCnIzWkMKRREU2NpodmbrzUmAuv8K1eaiYcDt1te40w3s+QkMNQmAgcR44AyYmeN6PWBaz9ucLBJvBkUnXsYnRT2DllvPJHoNDg2HOkAx+HluzlI9iXRl4izVFBEd0zr3W7uZpilNqdWMFLlwBVegNNuNoLmwi1SdDo4zqlhIRw5WONar/oWIdJFsgSkZPrQ2z4HkJNn/xLe+ItVByG6Rstwqb9YGraXoRvjryHaaYcQNS/4Qv+WNS6QXB0StRCTLl2eOODWYeXo0Uv8u90BtgAx7FWHjrRWLqgNSobKnwVzRVu1+RyvZi64/A0XXC1JxBFkpgrNc2Bi8VWcbygL0ay5i+78hMJWi2RL/vUz3FmDJHf6IEob5vdR1pxls7jYvyBH7bmP3sI01HQZeH2AjVko6YFqioH3SblhcJZB144IfCOTaAUoDi7BGvaipZviN/mFvUbUl7ECuF0VLKpLJdQeiNaAiUvO5n3YSRCcP1g==;dRTcNj8JzdnDEGRzGacOgQ=="
+secured: "v20+BiNG3JcncWRur5i3DgOOOW2Z12bwpCRdUIJQhoktpjVoR27detNCQBqAagS2E+eQjugMhjFpfiCwRR4pnN3ZPrk+GJt/62Ar3nugNAHo+KtA5RfpaKM0CYQiqv3UmF+LKnev8QxpUj7GoUr+tCy86ZpVIP65y+UWGiqWfU5j5ZyRP+Qfy2HKMoR2EszQc/AbZwRrMWGpComQD+cheQj4vgb07MDGzdhKOok9iFuItxRx/PAjHZcf5YmgrBwkH65/Q0wLTUeMSSCBGO+W7SzkO991oO5rkGLdzLd8kPzN0U4axg/ZLm5rz2WcBVdmg7N9ckzTGo3QJStB+sYUPMa2wT6vi+OB6IyL7C+rduc=;Ard30MmUpf/slV8lDWJTtA=="
 ---
 

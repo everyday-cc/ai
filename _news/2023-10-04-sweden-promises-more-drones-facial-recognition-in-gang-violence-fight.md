@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Gang violence pushes Sweden to consider face biometrics as surveillance cameras multiply"
+    excerpt: "Conservative and rightward leaning parties including the Moderates, Christian Democrats and Liberals are working together to bolster biometric surveillance."
+    publishedDateTime: 2023-10-04T17:52:00Z
+    webUrl: "https://www.biometricupdate.com/202310/gang-violence-pushes-sweden-to-consider-face-biometrics-as-surveillance-cameras-multiply"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
+
 secured: "NKoVwueR2LeONjDAVXk7sgL5Pnuw1de0y1dzbkaQuBw74bRlTwtIE3uBmEfKiZLCAbf0Yzo1WJTKiiCqOtpQ9fln4BLGEcjTEkvwSdaxNEVlmjQV8g4RMzLrw7wzn8PwieXondLusTngbLQH468GuizrCsUHqbjYmA+b2XeaF/vaVsOv5vkTPoo1uLq9niR9UVSQX7b/qbwAz+fAiwFviQ/qRALSyzQ3H9cORzgCuf+/8Ntc0GQ/xQd9gFMPMmugirQ4puFLJZ+JiYNUyuXKlte2lWRC1wowJgB2oe1C/xKnnpR8e5Yzlb/hlzwt6/x5eugOjqpAlogtJYhaFMq9QidfkzhOeLJtlZCn88adRaGUMc95GyGAAS4dWk0owUYn8JKz9AnS/dUPT7BG1OB/Cpq9cdtpH/K2UB2XmWKMpWfskfbb9+EL+iIgm5mpnphy3pAWlDIQq4Zqnn3GKl289j2lbQjLN2TfFAiv/VoK/zHL2JLaw8LSnJD8FnWohfnbtbCJQDOECnC/3WE5iWGQyQ==;82t99RdvkY3v9J3VIaLGxw=="
 ---
 

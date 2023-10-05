@@ -19,33 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "UK Fintech Gemba chooses ThetaRay for its AML programme"
-    excerpt: "Gemba Finance, a leading provider of innovative banking and financial management solutions, and ThetaRay, the leader in next-generation AI-powered trusted global payments, announced today the implementation of ThetaRay’s AI-powered transaction monitoring technology,"
-    publishedDateTime: 2023-10-03T11:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98238/uk-fintech-gemba-chooses-thetaray-for-its-aml-programme"
+  - title: "AP Automation Fintech Stampli Announces $61M Round Led by Blackstone"
+    excerpt: "Stampli, a key player focused on AI-powered accounts payable automation, today announced that it has raised $61 million via a Series D."
+    publishedDateTime: 2023-10-04T23:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/213881-ap-automation-fintech-stampli-announces-61m-round-led-by-blackstone/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213881-ap-automation-fintech-stampli-announces-61m-round-led-by-blackstone/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213881-ap-automation-fintech-stampli-announces-61m-round-led-by-blackstone/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "UK Fintech Gemba Chooses ThetaRay for its AML Program to Support Global Growth"
-    excerpt: "Gemba Finance, a leading provider of innovative banking and financial management solutions, and ThetaRay, the leader in next-generation AI-powered trusted global payments, announced today the implementation of ThetaRay’s AI-powered transaction monitoring technology,"
-    publishedDateTime: 2023-10-03T11:16:00Z
-    webUrl: "https://www.eagletribune.com/region/uk-fintech-gemba-chooses-thetaray-for-its-aml-program-to-support-global-growth/article_4dd0426e-b70c-5a87-b3c0-8870e2deb104.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/35/a357f99d-f8f1-595d-b77b-b037dc780965/651bfa0f6dcbf.image.jpg?crop=1200%2C630%2C0%2C285&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/09/Clock-Machine-Pendulum-Swing-1024x768.jpeg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "3+hSJLW+FWaySc2BnJWRB9Mb5Y9SgtzndORZ28dFJb0i0c7xabHPN0dQiczpUI1ZqSJ+HM4rrXR3YtaFEuumHWinp0mhijrRls8p+/FKM+rGfNzWOLzwEj4T+d1RI3L3V0sdnLGAw/u8jrOxtJWJE5Qh7jRmV4kK+aqQJpLyvAdcT8U22pXZAbYuCC8lTwyZfQ2yFG0G+1hrUhcDghlFeLlUxZ2d9qQJtC6mJeduTX7i9o/KJMKJ5shrMZiioOVRR66tyjW6N/0IjsZQCposVX7ltaLK0qA4HJ7bfj4YxqVQ+9Ef7Cp4AX0SomkwiyAixZwxKVNEnRnKhGsulZf7myj+s/Fwr0FmMKzencVy6/8=;W3S48fw5ITwNVWDypSkTAQ=="

@@ -3,8 +3,8 @@ category: news
 title: "AI Designs New Robot from Scratch in Seconds"
 excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
 publishedDateTime: 2023-10-04T16:53:00Z
-originalUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds"
-webUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds"
+originalUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds/fulltext"
+webUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds/fulltext"
 type: article
 quality: 34
 heat: -1
@@ -62,6 +62,6 @@ related:
         height: 1334
         isCached: true
 
-secured: "KLDefJB7TQhZGYcg6MAhd4I/kwiKiKVFZXy1xii6oRfvgSfnQQjZL/MDU7eztcrli38Pcgkqeo/5CBMiVKB7lfxZyzDxdqi+/w+vMHZgrQYV2J5MknxNlMoz9UThcO4lBdGmaD4JRW1cDAS0bJfZ2hH/oFC4MxdFYzWCSPvcgxnUqQLOya/qOmIxMB+Qivvp0Ejk8nZ0DON4J+t64VEFGSO4NdFgM1WgnPmZiJzLDT1BAubfHOfcLG8dyXfvr6ZMq1LxK3/BjZzSrEo8oo2UORmU+ydcylunmjyUgaqXe3bo1jaxlyJJwxUyRqEs/u4k8mfCfbsT0FARtXdxLvtU1c46Vzn43prlKadoJmSObQ4=;ul61GAEdMPhafLIVUqGUgA=="
+secured: "hgJTzlHTb1PPvds+GVxZqyuSTFkTvl/vuZGfhgjsnyiHfN81/692f9zzd9BRpF79uhYEP8GG0ngt9Q18ozjvhn+isKf4gj04os+7iD5vN7Hos1TDMAjkfhXOKHy2WlhI3ZGuTMh21/T7zxLbP+55MnPjpZgv1K82u7RsceNiPWCVoaPN/fRhcyRhneS4f3szgW4ad6s+HnimF45rUphBLZcl4NFAjpqCv9Z8oJ+cW8C8ZZ6FcDfWund+wWWNc+00jana7fyTk7r7SXQ/s4C6iFZm06RQ4G3wkzEHZw/KpJvFHbkwe8Wqze23iIQ+zQ4E547awVEP/sz3qyqe5W2qsMdRXSDL1lXcI9s88KrkpU4E1bH7Wp6Pd7o97hyRsrxtkUv6HhfCIsmpoJG9E9nIaUt0KBDPuQZvjCd0fRJoldtSJ2ArOpRzUHuWy+Tc87FOIKarXzkpzlND3halzwT93XIyWt9JUa4jL06irv2iMWKO5tKrb9atE2nQPLt/5XCFztaa0IJ0iNYGTB9hnpZ19g==;+IPHwhymIPs67jer5mE2FA=="
 ---
 

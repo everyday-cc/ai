@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-02-freedom-on-the-net-report-highlights-dangers-of-ai.md",
+      "title": "Freedom On The Net Report Highlights Dangers Of AI",
+      "excerpt": "According to Freedom House’s new report, Freedom on the Net 2023: The Repressive Power of Artificial Intelligence, governments are using automated systems to ramp up online censorship, while distributors of disinformation are using AI tools to fabricate images, audio and text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651a8dc65c8025d4ba1aee21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/",
+      "publishedDateTime": "2023-10-02T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture.md",
       "title": "Report outlines uses of AI in healthcare, education, financial systems and agriculture",
       "excerpt": "A report, titled 'South Africa and Artificial Intelligence' published by Boston Consulting Group (BCG), the University of the Witwatersrand (Wits) Business School and Microsoft South Africa has highlighted currently possible uses for artificial intelligence (AI) systems to make a positive impact on South Africa's healthcare,",
@@ -450,7 +501,7 @@
       "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1160,59 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
-      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
-      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "publishedDateTime": "2023-09-29T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

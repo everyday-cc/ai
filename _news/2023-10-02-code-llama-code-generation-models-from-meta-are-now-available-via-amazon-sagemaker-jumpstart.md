@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-gene
 webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
 type: article
 quality: 93
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     isCached: true
 
 related:
+  - title: "Simplify medical image classification using Amazon SageMaker Canvas"
+    excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
+    publishedDateTime: 2023-10-04T18:58:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-medical-image-classification-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+  - title: "Create an HCLS document summarization application with Falcon using Amazon SageMaker JumpStart"
+    excerpt: "Healthcare and life sciences (HCLS) customers are adopting generative AI as a tool to get more from their data. Use cases include document summarization to help readers focus on key points of a document and transforming unstructured text into standardized formats to highlight important attributes. With"
+    publishedDateTime: 2023-10-04T18:50:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-an-hcls-document-summarization-application-with-falcon-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 57
   - title: "UAE’s Falcon 180B Breaks Boundaries: Most advanced Falcon 180B Openly Available Large Language Model (LLM) Trained on Amazon SageMaker"
     excerpt: "In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, announced that Abu D"
     publishedDateTime: 2023-10-02T08:19:00Z

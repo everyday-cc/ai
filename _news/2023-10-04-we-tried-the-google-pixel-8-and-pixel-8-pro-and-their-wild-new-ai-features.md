@@ -3,12 +3,10 @@ category: news
 title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
 excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
 publishedDateTime: 2023-10-04T14:39:00Z
-originalUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
-webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
-ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
+originalUrl: "https://www.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+webUrl: "https://www.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
 type: article
-quality: 84
+quality: 44
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "Pixel 8 Pro runs Google’s generative AI models on-device"
@@ -99,7 +91,35 @@ related:
         width: 1598
         height: 1066
         isCached: true
+  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
+    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
+    publishedDateTime: 2023-10-04T23:37:00Z
+    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 39
+    images:
+      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
+  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
+    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
+    publishedDateTime: 2023-10-04T23:57:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
 
-secured: "wscLR81devYxmUqGziuUIYp5NQdTcpNVNPiK0/eeECUJIgE5/dMUhw/bVJbsur7Z01iBPU6jYhhKWpw1DZkgKM+DzHRWhokOBzSKPMj9xIfdNTfod3unrUkf43Hf1Y3E6fSpGT93EBu7T1lAXKhPpnc0I+v+VINg8stCY2BzLhFm5N98gRQ6kCayHHHh7Sv0EUxuwivAfjubieMTTlPxK6JihkxWa+IiiC/KppFebai+/w/AHJ12PjBEaP5QYWzWfrUBqlg0De/USm4PwpYaYfe/qoTUS9Kr3awzXl/zbmsgvYWlPf9f1pOa0saIopbKViLpHwzRfEW4QEhKPMtRC6KL9w5BbJtwY012GSI58QE=;3Z0b7FUhUS5xmyuq9B+Lxg=="
+secured: "DzndBbn6ExtAmcftqmC5EtqIrEn85jR/kAyUOOoLieFmQFeBDQV1WFC8x+KATz5OW5xXlS4oreON4HHK27ReSKkm4u1/ZhV8VgBFSgOs+Yfuz9v2WWmkadSqLO8uzRHSjGdr3y6qX6lfAkbubKC98s89jg2aARunYTqLGnttGEgMyIShvqH/1Cj+HmOvYoM2n4rnKLLMDNyEF2AZJQpWyB29PhHR8lZ4n0+geoCZZw1fIasL7mg3rgAwfbW8jiWASd6/jYk0OZDpbTOUD/rO2/Wm+GypYQI26gW3Cr1dt+d3TJ4SypfuZOeD3J4SWi0jPKpj5pfYj0eLKS0HPU83RWkOVN3Yx1VGnTJk7MjywyesZc3jPvdaZbLXgMTylawWsU+LBKy1PZ42ZWGjChuM5yTqissIxtpth6e1qQyZgNbIX4xo+NBcrv47PIQyGMQ+zWtQlbv1JMwdFnswTz2WNs25DFLTVfMo/ygFR1M3noPv5d+LmF5LvJOMHcw/7BeCkTYOb3JjXi95XfYxoUEPsw==;g8Z9yx+i6+NT7ruil/oERw=="
 ---
 

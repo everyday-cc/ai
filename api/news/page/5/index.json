@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
+      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
+      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
+      "publishedDateTime": "2023-09-29T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-what-humans-lose-when-ai-writes-for-us.md",
       "title": "What Humans Lose When AI Writes for Us",
       "excerpt": "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves",
@@ -704,6 +757,57 @@
       ]
     },
     {
+      "path": "_news/2023-09-28-biden-teases-forthcoming-executive-order-on-ai.md",
+      "title": "Biden teases forthcoming executive order on AI",
+      "excerpt": "The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence, President Joe Biden said Wednesday. “This fall, I’m going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "originalUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230927191755-joe-biden-file-092723.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "publishedDateTime": "2023-09-28T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-uaes-advanced-falcon-180b-available-on-amazon-sagemaker.md",
       "title": "UAE’s advanced Falcon 180B available on Amazon SageMaker",
       "excerpt": "Trained on a cluster of nearly 4,000 A100 GPUs, Falcon 180B is finely tuned to work seamlessly with the Amazon SageMaker environment. The use of Amazon Simple Storage Service (Amazon S3 ...",
@@ -716,7 +820,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?09:02:56pm",
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?03:02:01am",
           "width": 680,
           "height": 450,
           "title": null,
@@ -795,6 +899,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses",
+      "originalUrl": "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/mark-ai.jpg?h=0429cc9e&itok=Qora5VtN",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -958,135 +1105,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-infosys-collaborates-with-microsoft-for-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft for generative AI",
-      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-104004834,imgsize-32626,width-1200,height=765,overlay-etbrandequity/digital/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/infosys-collaborates-with-microsoft-for-generative-ai/104004834",
-      "publishedDateTime": "2023-09-27T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
-      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
-      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
-      "sourceUrl": null,
-      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KELO",
-        "domain": "kelo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings.md",
-      "title": "Riverside Health System to use artificial intelligence in breast cancer screenings",
-      "excerpt": "According to Riverside, the AI serves as a “second set of eyes for providers to identify patterns of cancerous breast tissue and aims to detect cancer early, when it may be easier to treat.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
-      "originalUrl": "https://www.wtkr.com/news/health/riverside-health-system-to-use-artificial-intelligence-in-breast-cancer-screenings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/1dd6e66/2147483647/strip/true/crop/2148x1128+0+176/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc5%2F09%2F5871ddd34cb48490ef7933efc9e7%2Fai-breast-cancer-riverside.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTKR",
-        "domain": "wtkr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

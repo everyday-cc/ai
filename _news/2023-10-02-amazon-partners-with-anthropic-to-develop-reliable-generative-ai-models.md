@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
-    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
-    publishedDateTime: 2023-10-04T14:39:00Z
-    webUrl: "https://edition.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
-    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/google-pixel-8-hands-on"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 84
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231003214438-google-pixel-8-hands-on-cnnu-5.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The implications of the generative AI gold rush"
     excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
     publishedDateTime: 2023-10-02T21:21:00Z
@@ -85,6 +69,15 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
+    excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."
+    publishedDateTime: 2023-10-04T14:39:00Z
+    webUrl: "https://www.cnn.com/cnn-underscored/electronics/google-pixel-8-hands-on"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 44
   - title: "Pixel 8 and 8 Pro are portals into Google’s AI-powered future"
     excerpt: "Google just unveiled the Pixel 8 and Pixel 8 Pro. They’re more expensive, but the price hike is warranted for a big reason - here’s why."
     publishedDateTime: 2023-10-04T14:32:00Z
@@ -98,6 +91,34 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/10/pixel-8-pro-5.jpg?quality=82&strip=all"
         width: 1598
         height: 1066
+        isCached: true
+  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
+    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
+    publishedDateTime: 2023-10-04T23:37:00Z
+    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 39
+    images:
+      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
+  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
+    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
+    publishedDateTime: 2023-10-04T23:57:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
+        width: 375
+        height: 225
         isCached: true
 
 secured: "cuQeVE8CiteWHtld4NPXsUV9cgzUFAqLgBmGla2Wjb3YOwbBiablZafqgmZ9BkMHHFgTO498Hifp+VWRLzSipHGJu990TXUs0gAFctAJEhojfBC+2fzs0mxEnbfZ9l5aubpWA40ofxee4RM1RTu5gRm5LwdDjw4H+MoV7LqNqHVsMuOGYkeh2nOWB3Yt2hq+w5TANPuzeethCnf3EKV44pF0DDRpTK5/XxtIOCV3FoDBygG2y+sq9Haqfcy3mG4zyiBiz/i30EW2+q+b4eadI2C6Oc9d60M3fvUOUmQQUqrEFnEHHSgw4OtbYvyJB7ykMUWyoHAbSqxFQtAepCblkqoHKsAHd1nz3zo6NPVHC94=;917L9GpZA7vxL4ff3KCHBQ=="

@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "This week in data: How to create or destroy value with generative AI"
-    excerpt: "Why data is your moat, the latest in generative AI productivity research and why chief data officers are set up to fail."
-    publishedDateTime: 2023-10-03T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-create-or-destroy-value-with-generative-ai/"
+  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
+    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
+    publishedDateTime: 2023-10-04T23:45:00Z
+    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
+    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_enhancing_human_productivity._C_42ae2946-beae-44e1-b10f-949d52a27c98.png?w=1200&strip=all"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
+    excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
+    publishedDateTime: 2023-10-02T06:28:00Z
+    webUrl: "https://www.cryptopolitan.com/ai-brings-advancements-to-aviation/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "/Fh22KZAY+bqK4h5xUbkYQJw7eAKPXp9bFc43WJ0/3aIooq0fw3K50NpH+wcFcTPvALcLeC4DM48UPHrL0648d1797GOTY1Fd4O5XLpwB99Sxo3W/bCzVmENn8Bt8Ne/ELRWIGs7VJ7b8/kTyp0CVkrH7PJj4kRK/bo+4A5s5fPCaBso618lRjtF+cmg3uuSK+ZTS/O2PN4VNsqFfTJ6cEakYnkKE2spVvuPPVvimrlXRtmxRVczpe/wZAoBjaxX8kj37wQCFvT154ZPEwOA5FGhz8djgNhXoX0upFIqA8xtAZSL7Ghwz7SM2pG6lDsqFqiPjITmIvKIal++8voxHz12aZxvYTTu94jML1T9yFlADvhuUpZWgyvMUqfLP0NwcIzS5mZRvJ3MluvTT0gqGh4VYHqKSxh7csUGUwy+7FFvN2Wbw1vvGVy7oA9uMWdTaJXs+sByKVWsBLxcXkJfLS74Z0mfc451dLrfG2Z15l/7r1vVqDmr9jN1O+1IkXTX+5rFyZjL8TuqdPwLrg3y4w==;kv3S7VtxBU1Cb2DzvZea5g=="

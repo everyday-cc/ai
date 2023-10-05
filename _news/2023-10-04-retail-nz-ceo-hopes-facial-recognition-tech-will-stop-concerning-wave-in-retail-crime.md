@@ -24,6 +24,17 @@ images:
     height: 395
     isCached: true
 
+related:
+  - title: "Retail NZ wants widespread number plate, facial recognition in stores to reduce crime"
+    excerpt: "Retail NZ wants to \"drive sector-wide solutions\" including facial recognition and number plate technology to tackle crime in the sector. The organisation has also pleaded for the next Government to work closer with retailers and itself on the \"huge issue\"."
+    publishedDateTime: 2023-10-04T18:07:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2023/10/retail-nz-wants-widespread-number-plate-facial-recognition-in-stores-to-reduce-crime.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 27
+
 secured: "KHSo+Q5kQq9ffFtsz7jPEbNOzo3RTVLniMYhq1zYLFtpvyoKbQ4K9LAChIlU75hYgDHyxRxYcdNEkkOvxKkU9/oC7dxf2wD2jCmFt9OZ7LdHUuBjg8qR875netHRlDo3GXPxAGEyhSIT+pDha4LRuHRDpqQ2pjfV0p+1+KRp8XDJLmwWVM/0kgYLrgbED84H7iFaRzJSJGOJ0hbOJd2VKcag1uX3a9YzXBgD0XAgb1S/6Yoq7qQ8UtCo7vmqfuP61eHYGP68VypLXLlPsdt29vQXT0jXtJ/JkeOTExDm15Qd47UICyLc/0RFmbsxbtLpOfvmKhXjUvB1isiWQwLNreuCV/JB+8hGmTFyl1iA/Ys=;+pCqPEugTIoLTQIMueLKoQ=="
 ---
 

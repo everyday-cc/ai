@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-27-infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses.md",
+      "title": "Infosys & Microsoft to accelerate adoption of generative AI for businesses",
+      "excerpt": "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space.",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/infosys-microsoft-to-accelerate-adoption-of-generative-ai-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ibsintelligence.com/wp-content/uploads/2023/06/Infosys-.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
+      "title": "UAE’s Falcon 180B breaks boundaries",
+      "excerpt": "Abu Dhabi's Technology Innovation Institute (TII), the applied research pillar of Abu Dhabi’s Advanced Technology Research Council (ATRC), has made a groundbreaking advancement in the field of artificial intelligence by making its Falcon 180B large language model available for deployment on Amazon's SageMaker JumpStart platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-l5e54ug4?amp=1",
+      "publishedDateTime": "2023-09-27T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts.md",
+      "title": "Infosys and Microsoft to work together over industry-based Generative AI acceptance; industry reacts",
+      "excerpt": "On September 26, 2023, Infosys, a information technology (IT) corporation, entered into a partnership with Microsoft, a multinational technology company. According to an official release, the partnership aims to develop industry-scale solutions around technologies such as Azure Cognitive Services, Infosys Topaz and Azure OpenAI Service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T141137.201.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-infosys-and-microsoft-to-work-together-over-industry-based-generative-ai-acceptance-industry-reacts-3256347/lite/",
+      "publishedDateTime": "2023-09-27T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-artificial-intelligence-robotics-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
       "title": "Artificial Intelligence Robotics Market 2023 Is Set to Fly Excessive Growth in Years to Come",
       "excerpt": "Artificial Intelligence Robotics Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence Robotics Market conditions ...",
@@ -954,127 +1074,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
-      "title": "AI chip startup Kneron secures $49M investment",
-      "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
-      "originalUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Kneron.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-spotify-using-ai-to-translate-podcasters-original-voices-to-additional-languages.md",
-      "title": "Spotify Using AI to Translate Podcasters' Original Voices to Additional Languages",
-      "excerpt": "Spotify this week announced an AI translation feature for podcasters that could give it an edge over Apple's podcasting platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
-      "originalUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
-          "width": 2500,
-          "height": 1407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
-      "originalUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

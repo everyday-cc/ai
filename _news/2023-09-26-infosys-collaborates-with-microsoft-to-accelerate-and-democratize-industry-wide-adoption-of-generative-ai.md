@@ -17,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "GKKNJE0rgTA47a6NLSLNaubZoZhFDmwOlV8KPbWrW3dDCAmbt5UWvo04CutjSxxPQDzade/ZAHuS9VoZpFq5AXKorGsLVUlPBq4vN44dWjQjzEnBtMP4x53ICIKTq+KStj6XZn/EO+EatSyBYlw6HZonrNWlQuFHW/RUDt068xFqd9RG/LM9264uPWaYGME1UE2C0ElY+pzA16klWJSFfrvmDZcz+/Ex3Jfvv5noDKvS/hKGQXNy3NbxZDe7TitUfJH/SJrruUOOumYX2H2lVUSxN6eTINyF9MvXM1rC9r1OSXnWCsP8AkCnuBzR3acUQyW6UHVAQnm362b0pOWooy2BU9DzVklDnio58s6UW0c=;RMn3fQKTIT/jM7Jkiu7NyQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "Vk42wA7ftHzMJyydz9DwOzzdpv+XSrOKY2OPMqHE2pXWZviMqbW8XDNJ+fIYjV9tzvgfyhVBWuc9/0nvSWxnJZ5dz69e+kQ9rmv2wH8UemnjuoV51++1y0b0Dh9wsrfjOfQokbwgIRFVlZPhrkppmQsp+qEwug+waIpqa7dofo/4C/heemaFSi4ugYrd4sE3Cka10iRvtwEUzA7HlN5Bn56uFBzOu02nFcjuEjCAr7H64UJ5qctjBPmrc0xypnpXrkZvSOuC05HRCm2lTXyQayihSj2OLfjmTaA7B6GclqheexAZliJKCAxsT8n9Ep/KLTcMdntlr4mVu7Bjc8ryQhnWsyD5R+cgIhi0c/GhVVs=;m5f7lQK8MsRAVznSs+mfhQ=="
 ---
 

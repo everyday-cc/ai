@@ -2,6 +2,187 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
+      "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
+      "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33845037",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33845037",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-florida-high-schools-to-teach-ai-courses-developed-by-uf.md",
+      "title": "Florida High Schools to Teach AI Courses Developed by UF",
+      "excerpt": "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
+      "originalUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
+      "title": "IBM unveils an analog AI chip that works like a human brain",
+      "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "originalUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-the-new-york-times-prohibits-ai-vendors-from-devouring-its-content.md",
+      "title": "The New York Times prohibits AI vendors from devouring its content",
+      "excerpt": "The New York Times updated its terms of service (TOS) to prohibit scraping its articles and images for AI training, reports Adweek. The move comes at a time when tech companies have continued to monetize AI language apps such as ChatGPT and Google Bard,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
+      "publishedDateTime": "2023-08-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
       "title": "AWS cloud migration with IBM Turbonomic",
       "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
@@ -965,187 +1146,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
-      "title": "Is Generative AI Destroying The Internet?",
-      "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "publishedDateTime": "2023-08-13T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
-      "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
-      "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "publishedDateTime": "2023-08-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off.md",
-      "title": "This expert-led Python bootcamp bundle is on sale for 82% off",
-      "excerpt": "TL;DR: The 2023 Complete Python Certification Boot Camp Bundle is on sale for £11.80, saving you 82% on list price.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "originalUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/deal/t/this-exper/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off_7bv3.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sea.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
-      "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
-      "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
-      "originalUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

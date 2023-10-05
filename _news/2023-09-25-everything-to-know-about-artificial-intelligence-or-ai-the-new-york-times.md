@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-10656.png"

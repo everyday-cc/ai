@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU
 webUrl: "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU"
 type: article
 quality: 51
-heat: 71
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire"
+    excerpt: "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ..."
+    publishedDateTime: 2023-10-04T23:15:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 50
+    images:
+      - url: "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Voice referendum: Is Australia playing catch-up on Indigenous rights?"
     excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
     publishedDateTime: 2023-10-04T15:21:00Z
@@ -45,6 +59,24 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "In Australia's Outback, Indigenous Voice Proposal Struggles to Inspire"
+    excerpt: "AREYONGA, Australia (Reuters) - In this dusty corner of the Outback, Tarna Andrews sat in the local schoolyard and rolled off a catalogue of problems afflicting her largely Indigenous community: Lack of jobs. Inadequate health services. Spotty internet."
+    publishedDateTime: 2023-10-04T23:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2023-10-04/in-australias-outback-indigenous-voice-proposal-struggles-to-inspire"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Voice referendum: Indigenous rights vote is a reckoning for Australia"
+    excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
+    publishedDateTime: 2023-10-04T19:32:00Z
+    webUrl: "https://www.bbc.com/news/world-australia-66944609.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 34
   - title: "The time has come: Labor to work with gov on indigenous recognition"
     excerpt: "Shadow Minister for Indigenous Australians Linda Burney speaking to media at Redfern park in Sydney about the Labor party's support for the Uluru statement and willingness to work with government to achieve an indigenous voice to parliament. Burney says it ..."
     publishedDateTime: 2023-10-03T10:32:00Z

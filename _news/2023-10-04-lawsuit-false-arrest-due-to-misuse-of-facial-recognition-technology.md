@@ -2,22 +2,21 @@
 category: news
 title: "Lawsuit: False arrest due to misuse of facial recognition technology"
 excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
-publishedDateTime: 2023-10-04T07:30:00Z
-originalUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
-webUrl: "https://abc7chicago.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+publishedDateTime: 2023-10-04T02:30:00Z
+originalUrl: "https://abc7.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
+webUrl: "https://abc7.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
@@ -56,7 +55,21 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
+    excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
+    publishedDateTime: 2023-10-04T11:14:00Z
+    webUrl: "https://abc7.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
 
-secured: "EaoyXfU0geGDvJHXZTnFb9bmIKTkxX7dXfaulSjfCn8lf+kCFWEiCxnQivalu9kHo8I+RDSWk7VibRcz9gz+U8zjaC8Ur2qyD1RiJE8Otx3yFlTYKKEWcgIxoaPOuoI0iCh+rroRhWtHCyyvBJ8Xqu+5H8WIZb3iMHvwQ+cjYDInXVO5xrUfnmlOS1W8nTX73EJX0m/x91gvw8yH4xugJQkOabF/ULRfYDD74OaAgJN+O6gMAxW1FgzmMOLrahZ+BykN2k8PGj85Vq7X111zFAb57cqtz9AZx1+Vcd6PRhZ30ovbMQGWaNbtuc1epyJhxmgMArNzmeIo7Fx95Qibxci64qvdFyMbsOWcEpR8ts3bZP+s/8n4ZWOL6IyLFPK2i3WVzkp/utInRAeHc4VSuhPhFs7Hakw8noLlxqJzURzQFEKHYMqk+yt4NHstgAnnO6QBc7sBe6FVeyk2CofMStBp5UYiwoW77/JHH8CJoQ8BEEmQZnF2jFkEL5bHHS4s4lw1HtMx2jEzh/h8IRr16w==;mm2v4iHPrFMFql6hfIGDnA=="
+secured: "8889PIbDEAtAEICymOFh1mW2hXW/BnCrZbqE83i4a5I9KCBmLHsqaoldzdTxan0VaXObN4rn/VfLVo01aTyv4GqODPV3L/FCfXYtrD6mT9igKn17jwqTgsaXr2dfVE4hb/3HxFkvbGzKORTsfcEamFU//7E0e3h8XjU/5IeKQ2zICyzGQ+UZQKAAMMBdgETr/SjhR05NX/hxOgCoV5q4ZCP08dR2nrpXALcGSpKnwKarnhsB+dLKjaebWShUknv+ohOe7PyvI5TsQxuAdyjasC/HuRBqzKNorV9wOwK1ueBkCyP7wtlo8UACPyxQ01mR5j7YG0xufl1hWyUeD44VmtAn/tiKvm676A2by8643MU=;7zLyqLH9bqxVZrCpUdO3Ew=="
 ---
 

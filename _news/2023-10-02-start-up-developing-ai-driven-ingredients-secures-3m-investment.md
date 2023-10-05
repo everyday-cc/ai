@@ -7,7 +7,7 @@ originalUrl: "https://www.foodmanufacture.co.uk/Article/AI-start-up-twig-secures
 webUrl: "https://www.foodmanufacture.co.uk/Article/AI-start-up-twig-secures-3m-in-funding"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "The Future of AI: Latest Developments in AI"
-    excerpt: "Many employees lose interest in their work when repetitive activities adversely affect their psychological well-being. However, robots and artificial intelligence (AI) enable organizations to re-engage their employees for more creative responsibilities while automating mundane tasks."
-    publishedDateTime: 2023-10-04T13:20:00Z
-    webUrl: "https://techbullion.com/the-future-of-ai-latest-developments-in-ai/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/maxresdefault-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "DeLorean AI: Shaping the Future of Disease Management"
-    excerpt: "\"Our product has been custom-built and coded as the result of over four years of Research and Development using the scientific method,” DeLorean AI’s CEO,Severence MacLaughlin, Ph.D explains."
-    publishedDateTime: 2023-10-02T17:17:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/02/delorean-ai-shaping-the-future-of-disease-management/71033892007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "C1yXQtZFlZ9vepXONlTGM4snP3B4tlwma7bTha+SJkzZDP+L/sjLo2iTaOwqBOqbinIuGtjDS1avgflv4fPqLNUxjlqVSwgMHWy9sOEZ8xgfwJfKW8MQYmEtu1mLebB1QN9dYyoGd0uBWnvD+35lpGsgE7ivareb1ghosdCnmmm46ILS8Ue2HK2GSG8ggf5bxukMgpjzhqN6suFP1rJTEEqde2FJp5/LV4e7RUzuQp0Vqscuhhe01N4iertq3dzs4zeDz8ByPQpvWvAFH5R616ocEjarN+7cxcqkSAIH0yN5CJyQ3PL3a2HhZZmUaiz+HVbcc6pUY5TqXu2HgC9Vbchnetc3QeqvJh25ZBCOuuPI6wfZaNHC17BShY5kjFRX+12AJj75/qMQz2zGCKH5dD6e2Dfdh1Jni22HSqu97UbyhFJ2ov0Uha5Krj+C/C51TvT+8OWFd/nls9bMeaydZerclRo9QR5ZVjXLn9I26ZFWE2nXFCpR3irFF3Vyhv5+9h+gjm8Sf7j1627tMlt8Pw==;3kUMJbDZ3wAG4bJlYOy9Yg=="
 ---

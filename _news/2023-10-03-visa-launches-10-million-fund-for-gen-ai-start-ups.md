@@ -7,7 +7,7 @@ originalUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/23
 webUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/232680/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     isCached: true
 
 related:
+  - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
+    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
+    publishedDateTime: 2023-10-02T22:43:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
+    excerpt: "The injection of more artificial intelligence, or AI, into Google’s products marks another step in the company’s attempt to bring more of the technology into the mainstream."
+    publishedDateTime: 2023-10-04T17:51:00Z
+    webUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
+    type: article
+    provider:
+      name: wyomingnewsnow
+      domain: wyomingnewsnow.tv
+    quality: 20
   - title: "Visa puts $100 million behind generative AI push"
     excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
     publishedDateTime: 2023-10-03T15:24:00Z

@@ -2,6 +2,213 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-14-mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai.md",
+      "title": "Mind the trust gap: Data concerns prompt customer caution over generative AI",
+      "excerpt": "A general lack of trust in data security and privacy is holding organizations back from going all in with generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b7229e536aa765caeba8e4af11d71c48fdd64669/2023/09/14/ad2626bd-f76f-456d-bf28-e83d8935ee36/ailockgettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-the-trust-gap-data-concerns-prompt-customer-caution-over-generative-ai/",
+      "publishedDateTime": "2023-09-14T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-singapore-arms-firefighters-with-ai-glasses.md",
+      "title": "Singapore arms firefighters with AI glasses",
+      "excerpt": "A two-year initiative will see Singapore firefighters using 5G-enabled smart glasses to inspect and identify defects in their equipment, so they can be better prepared to respond to emergencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-arms-firefighters-with-ai-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/87371fc7b94eb81e6924f651340f21a41e628750/2023/09/14/11a698c5-ba64-4f23-9643-d3150dbeacd0/punggol-fire-station-facade.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-arms-firefighters-with-ai-glasses/",
+      "publishedDateTime": "2023-09-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
+      "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
+      "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png",
+          "width": 928,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-5-standout-announcements-as-tech-takes-iaa-mobility-2023-by-storm.md",
+      "title": "5 Standout Announcements As Tech Takes IAA Mobility 2023 By Storm",
+      "excerpt": "It’s been a busy year in automotive technology and IAA Mobility 2023 proved more big advancements are on the way. A look at 5 standout announcements at IAA Mobility 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/09/14/5-standout-announcements-as-tech-takes-iaa-mobility-2023-by-storm/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/09/14/5-standout-announcements-as-tech-takes-iaa-mobility-2023-by-storm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650324de10afe77c1eaea6b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/09/14/5-standout-announcements-as-tech-takes-iaa-mobility-2023-by-storm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/09/14/5-standout-announcements-as-tech-takes-iaa-mobility-2023-by-storm/amp/",
+      "publishedDateTime": "2023-09-14T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-identity-theft-and-the-emergence-of-artificial-intelligence.md",
       "title": "Identity theft and the emergence of artificial intelligence",
       "excerpt": "As tech leaders Bill Gates, Elon Musk and Mark Zuckerberg meet in Washington D.C. to discuss the potential future of artificial intelligence, the tools utilizing AI are sweeping the world; but our",
@@ -972,177 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-winnai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups.md",
-      "title": "Winn.AI Introduces AI-Powered \"Magic Emails\" To Revolutionize Sales Follow-Ups",
-      "excerpt": "Winn.AI, an Israel-based sales tech startup that helps sales teams win more deals with less hassle through its innovative real-time tracking, capturing, and CRM updating features, introduces Magic Emails,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/ab34558719/winn-ai-introduces-ai-powered-magic-emails-to-revolutionize-sales-follow-ups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34558719",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34558719",
-      "publishedDateTime": "2023-09-13T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "She later learned police identified her as a suspect after running security footage through the department’s facial recognition software, relying on a 2015 mugshot from a past traffic arrest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html",
-      "originalUrl": "https://www.independent.co.uk/news/world/americas/crime/facial-recognition-technology-police-arrests-b2402940.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-elon-musk-calls-for-artificial-intelligence-referee-at-closed-door-senate-ai-summit.md",
-      "title": "Elon Musk calls for artificial intelligence ‘referee’ at closed-door Senate AI summit",
-      "excerpt": "Billionaire Elon Musk called for an artificial intelligence “referee ... downplayed concerns about risks associated with self-driving technology, which is under active development at his ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/09/13/elon-musk-calls-for-artificial-intelligence-referee-at-closed-door-senate-ai-summit/",
-      "originalUrl": "https://nypost.com/2023/09/13/elon-musk-calls-for-artificial-intelligence-referee-at-closed-door-senate-ai-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000039397338.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/09/13/elon-musk-calls-for-artificial-intelligence-referee-at-closed-door-senate-ai-summit/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/09/13/elon-musk-calls-for-artificial-intelligence-referee-at-closed-door-senate-ai-summit/amp/",
-      "publishedDateTime": "2023-09-13T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-eu-to-let-responsible-ai-startups-train-models-on-its-supercomputers.md",
-      "title": "EU to let ‘responsible’ AI startups train models on its supercomputers",
-      "excerpt": "The European Union has signalled a plan to expand access to its high performance computing (HPC) supercomputers by letting startups use the resource to train AI models. However there’s a catch: Startups wanting to gain access to the EU’s high power compute resource — which currently includes pre-exascale and petascale supercomputers — will need to get with the bloc’s program on AI governance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/",
-      "originalUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/13/eu-supercomputers-for-ai/amp/",
-      "publishedDateTime": "2023-09-13T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

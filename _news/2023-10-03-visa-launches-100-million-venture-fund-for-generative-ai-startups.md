@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-l
 webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
-    excerpt: "(AP) – Google on Wednesday unveiled a next-generation Pixel smartphones lineup that will be infused with more with more artificial intelligence tools capable of writing captions about photos that can be altered by the technology, too. The injection of ..."
-    publishedDateTime: 2023-10-04T17:54:00Z
-    webUrl: "https://www.wlox.com/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
-    ampWebUrl: "https://www.wlox.com/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wlox-com.cdn.ampproject.org/c/s/www.wlox.com/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/?outputType=amp"
+  - title: "Visa launches $10- million fund for gen AI start-ups"
+    excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
+    publishedDateTime: 2023-10-03T06:17:00Z
+    webUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/232680/"
     type: article
     provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 58
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
     images:
-      - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/369iF4_JHazII-mGhB9uPizy-3k=/800x450/filters:focal(439x260:449x250):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/N4JMVJPLIZEHDE7UBFU5YNNE5E.png"
-        width: 800
-        height: 450
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/03/visa-2156-1120-1024x532.jpg"
+        width: 1024
+        height: 532
         isCached: true
+  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
+    excerpt: "The injection of more artificial intelligence, or AI, into Google’s products marks another step in the company’s attempt to bring more of the technology into the mainstream."
+    publishedDateTime: 2023-10-04T17:51:00Z
+    webUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
+    type: article
+    provider:
+      name: wyomingnewsnow
+      domain: wyomingnewsnow.tv
+    quality: 20
+  - title: "Visa puts $100 million behind generative AI push"
+    excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
+    publishedDateTime: 2023-10-03T15:24:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/03/visa-puts-100-million-behind-gen-ai-push"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "BafqiTSMc230kTFqjL/EwChYd1bOiSbuBmXzMBebxXK2tcj/CfkWOoATAP1kWNaL/ehtbQFdJbozyy/b7mwWvMn3HEBUWmbZmtd11qfVP9bIc+kWZTOfGrPOmVtV35eHrxdDAjPLQA1cXfdFAUTdkoB3q4V+vBjvZmcu8/Gw7jkHL0mX0hXWBQ4zztq5YqHMo7m21Hz6XGXHM1e9p7PbS8uIDMTG9roNOOjWwCOZO1zkpedrTVA2rkhvFdob5LE9U0ysy/zV9iYIuSoRfJRj3VZT9WrGlOB6YI2Q2IjBrpV7Ikw1xCDzbJBlr3Cf61qFnf94xZZr6s+8ek19ZiDzaRbZzcBNTHfKNGauJhzhEdg=;4d7RT6aNFg7HFkuwbJsP4g=="
 ---

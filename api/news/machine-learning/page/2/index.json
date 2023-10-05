@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-20-deep-genomics-to-present-at-the-2023-elevate-festival.md",
+      "title": "Deep Genomics to Present at the 2023 Elevate Festival",
+      "excerpt": "Brendan’s remarks, titled Beacons of Hope: AI in Medicine will highlight recent advances in the use of Artificial Intelligence (AI) and deep learning for drug discovery. As the inventor of one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival",
+      "originalUrl": "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-venafi-taps-generative-ai-to-streamline-machine-identity-management.md",
       "title": "Venafi taps generative AI to streamline machine identity management",
       "excerpt": "Venafi’s Athena, based on a new large language model (LLM), offers users a natural language interface and provides developers with automated code generation for important integrations.",
@@ -1304,49 +1338,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-an-interactive-platform-that-explains-machine-learning-models-to-its-users.md",
-      "title": "An interactive platform that explains machine learning models to its users",
-      "excerpt": "Machine learning models are now commonly used in various professional fields, while also underpinning the functioning of many smartphone applications, software packages and online services. While most people are exposed to these models and interact with them in some form or the other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/an-interactive-platfor.jpg",
-          "width": 1280,
-          "height": 1239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-interactive-platform-machine-users.amp",
-      "publishedDateTime": "2023-09-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
