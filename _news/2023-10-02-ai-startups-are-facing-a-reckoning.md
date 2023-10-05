@@ -38,6 +38,22 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future"
+    excerpt: "One of the most significant ways AI is transforming the fintech industry is through personalised financial services"
+    publishedDateTime: 2023-10-05T00:55:00Z
+    webUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805"
+    ampWebUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
+    type: article
+    provider:
+      name: abp LIVE
+      domain: abplive.com
+    quality: 74
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "uE8mmdX3C45FvkFk9QJ6diDefUWMIAy4AXad+dT+mMYKWlQw5goitC44u019/nBlG5AEZ9eB/Yv+CAMNk0tcyPVgRlQrq7BUqNII6n5gaozy9ka17QdVIyCAAfBx5QixfFvUsJOqdrSKc//C5rRt560j54r5gHlbz844NAXyGSUn0LTKNQczxdPkgMT/0bx54/D4+AzCserrcsMBcAscyrL8cEzccR7Y2r1893tdgVcizrKhhCufvoeLc6ML0KtP7yWEOcy3Bf7yNo8WriPKGdNIZJjAgUQ25KgZS/LzIwysCcZl9bT5Xs2uFRc5VRZn2507XUiLqzuPC89aB5nhoxHXkyKe4awEEiQE5hSOL8Qo/jRsVaitkIu7tTds38noKRTigjheGfzWm55qjPF/WXkrgoEaz/BwgPNE0wqbdoNpm/irZWLvm1VKnAIMGVMi0IBJ6ko/1pmYtT8MhBuY9uRFtHvzkRWVu60TVCvGaBDMyOmdSFYaSAkyp2nkzAywDcN6lgKYjnt8dgHr2aXLhg==;twR8XO81yBCQuFNG29WeJQ=="
 ---

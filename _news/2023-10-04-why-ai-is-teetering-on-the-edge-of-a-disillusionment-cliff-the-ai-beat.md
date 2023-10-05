@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-di
 webUrl: "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/"
 type: article
 quality: 70
-heat: 80
+heat: 82
 published: true
 
 provider:

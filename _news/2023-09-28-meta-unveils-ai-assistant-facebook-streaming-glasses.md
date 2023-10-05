@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Meta unveils AI assistant, Facebook-streaming glasses"
-excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ..."
-publishedDateTime: 2023-09-28T08:36:00Z
-originalUrl: "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses"
-webUrl: "https://www.asiaone.com/digital/meta-unveils-ai-assistant-facebook-streaming-glasses"
+excerpt: "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ..."
+publishedDateTime: 2023-09-28T02:20:00Z
+originalUrl: "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596"
+webUrl: "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596"
+ampWebUrl: "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp"
+cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Zee Business
+  domain: zeebiz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2023/mark-ai.jpg?h=0429cc9e&itok=Qora5VtN"
-    width: 600
-    height: 316
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/05/263554-dfsd-2.jpg?itok=LVVOi7jm"
+    width: 700
+    height: 394
     isCached: true
 
-secured: "M96eEKssKrLnQqh8uqYYiul2oRfyIc3hvOkv8GO96bfH2XKVJGlNN8O2VMktTcFYaJy4DhLT5bPuEFyynJkwjXdjdYjZLX/gYzPyyO7KOh3RdQ0d53btAs4cYkh4Y1Xfws74+OM4joc/Xu5pyneJxblDROMYk9FmZlotCL+OxMjRNKmB0yNhR6kI8gYapOLORgjOVDoBVXqWmkowwAhEJNsOeITTQRKY4ypIcUMqDea697s4AijHqZQXJayzJFbOgGUQiT4fcWVOJVbJ5ZzmI2LwfUMXAe5sUx1l5PtUrhorWSTyqfxC7lb8KsMYNihWAk5JB2DHPBGthnWs928yyCbI5Kt9inKtC8/QQKbdYkw=;1y/3Bci/QXClVlrWNzxYGA=="
+secured: "OeW1mm/gv3XeBHZZgpIDS1ZBTswQjXnehKntUTvPo+2i+QWntksPLqSeFP7eVky58LlH2B0sNRZCJGz5P+DgQDmsi9vd9lT+mzoIfZrdv3fHLH3GXuMlFDVPlPp5GyeqUBq0F52kXpxVXvZH4M2fkvX2YWs25ilxXa5Re1xfadwJV/pKVLYjPEIKy8Pb29XUHOXWeORVuZA8ASxbNsUquzOn2WqXQDwLq64ndM9IUUWw/SeXa7tj3xR16JK0nKw2WT/YxFnztzCl/OaZPluGQa7modvzYyOjdMMYzOVIYelcjxtuD7ynwBt/SZ4VmD/wdD0GvYxgnmH0cLWDbZZ9j9p60e8rs+/OW0yCFdi2vX8=;ZmITVj93NeeZFyUqwkMgmA=="
 ---
 

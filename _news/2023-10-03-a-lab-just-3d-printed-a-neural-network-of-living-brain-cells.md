@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network
 webUrl: "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

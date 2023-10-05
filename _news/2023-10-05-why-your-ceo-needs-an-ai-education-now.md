@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-need
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/651df2b8214ddd9eb4621a70/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 545
     isCached: true
 
-secured: "2FA582PITaGPMezP5wqiteMeIeG0o84hmHd8t8Q1hyrIVPg89qr670GFAZDewCFiPM8CZvy1q9Hk24lZTXiellEzTFCvqTk9oDoyuJoiPUpKP7MGeYQMLtHfsT8sIvcR5CkIVaTAsXqu7El0HghBNdLa3jUu9xTAitOwf0fZaMmSxz1itwfkBPKeL+/RQiL8KMUH3ooropFrCwBXngu9W/kHlmlcmAzsNxDhoOE0ieG7bKHVBY1H5yru/4hjngCAOUZh/C3+DKLaCFUW7IKvQ1IK9vLwyb8rfk3OR9pt3Fc3TV9pblnhw5tAdHZIFU9l/sjrbCSbMtSBaCMi7CukVpvyDplOp3UidstHTywxMbc=;ovJBxMzRF0qc2po+VKlU6Q=="
+secured: "QOG4aFBH0H8dOT87EAHRCY65vsztCiUqWlcNRB/pKpqdk4KC+rccZkmr8kPQm09kx6c+AtlQRWaLdtW50D/q9cg8LQM4qDCjXdQzKuzWDguAPOW8Rqlgh4KaJWlxWHaOQt9sm1wpZNx4FKe2dSFkl7D3yjXzwdQ9z/a6mL8OWHw0GIdhFXwFKf4K9rjIdizRlyQyAlulyhsAVwf5GN5lVZo5HSkli2AsMIkFSRS7f9d7SRSb4PlR1KYQnP6Hath1WG+BDxQCvi0cjbqJOkT5uG5Wi50GdKJ9Xi4GYvD7urn4n1dGulPewQyMDrnA1HgNqnumVM3oSx9TT+fp2IlbTNkraQYGFxa/CWUGaYWFgqdLEWXEDfktFgS3qJablHK84EafOxiiaD3MAEKKJiYJa8ROjZVl96j1GgMQZEGDTLWV0KV51rl+kzBTYvlw/Nh6j7Ylex4LIpu8fk7rsHmarLYz8tPD+3HNPb1SabODHa+ji9a4dtwJ5P+BvDwr4SLKpwoGbLJiuO0b+l0k01KrYQ==;B3sjzf0iO7UvNSCJO5hHUw=="
 ---
 

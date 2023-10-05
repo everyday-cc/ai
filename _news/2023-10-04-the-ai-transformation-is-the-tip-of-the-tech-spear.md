@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 109
+heat: 110
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "vhNCmvmhCJiPLWdyk8HEdNp+kvv27rIbGDA+H0JTOQW082K1n2BAm1LdC0Q1BCOr7gRInBDp73VnTFAnrk3JqLrdPkHBhnpmrjDmrEDO2kLzYw30WxknM0goK8Yv1wsAwcweNwqIKBV0tdaFozno2toSOBnMZ9smnhNvYLAzI9LI0GkK+QAbcC+9dTJPhYdWtdjTM9mk7taDUBNHw9g0hyDXnZ8hc0+L3owtHFr7MqqfVnQK5abiP03spwGlmSBqeuIa0IYhRT7tTnVwLVCX44rrGzaWBix/6OiSbwESeKsNcGGac3pYdMGgnro56LYq0+X5FqDQ8oN7lisJbZD+647zqajntv9twxvADBo9TXc=;5HhdIYAbj6ulDPbqJiwa5w=="
+secured: "Xaz3yFJq64QCdV6r2xW9wS1Kv0ekvPQxtg+3aGvVQNJIHeqNauYCaB6BWJ744Hqx/uI6heemCQM7S9h7/JeiLC+Ijgvb+uAfdGbXK9rH7tyPjeHL8AyOf7pWGFIgj9pbKLOzshdlPr7Jk581aTYnCFRerdSh+xypNYE4fDXMsXuDx2DrxE3hHlhmB5Q398qyD0KUnXiLI10Nhnvc/u3gl3GQyoDWsLRSShDDmcIcnOY+zNVyr0t17OwsFtMh2ArOuFI+JD3nKqoDm2ojd3vEzr0ZAXCXg/h0BgSsgfJ/Qw64Ry/nfyMecsgHHh/XNT3rGW3YfhUHPAl7gzVQL4WmWsUy0dv8uYi9GcyeZ5nZByb349QmZIsOJcI0LCisa92ek/aFApBf1fwhTNlaM8w9KSNW0t6Q0ZkJy51d5ksnddxbRoYcFGaabEUlYoJLuxFPtLjSGBomRXt7E/1dYmL1b15cepmiw/TrPufeuuJ2/HZJhmckFo5t8LW6QvDbw6rwk5oUSrAGDZu+WvFqzB/lJA==;ebqcBQuKz2I+BDm/oY47fg=="
 ---
 

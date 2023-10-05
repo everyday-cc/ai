@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-04T02:30:00Z
 originalUrl: "https://abc7.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
 webUrl: "https://abc7.com/lawsuit-false-arrest-due-to-misuse-of-facial-recognition-technology/13860699/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
@@ -70,6 +71,6 @@ related:
         height: 342
         isCached: true
 
-secured: "8889PIbDEAtAEICymOFh1mW2hXW/BnCrZbqE83i4a5I9KCBmLHsqaoldzdTxan0VaXObN4rn/VfLVo01aTyv4GqODPV3L/FCfXYtrD6mT9igKn17jwqTgsaXr2dfVE4hb/3HxFkvbGzKORTsfcEamFU//7E0e3h8XjU/5IeKQ2zICyzGQ+UZQKAAMMBdgETr/SjhR05NX/hxOgCoV5q4ZCP08dR2nrpXALcGSpKnwKarnhsB+dLKjaebWShUknv+ohOe7PyvI5TsQxuAdyjasC/HuRBqzKNorV9wOwK1ueBkCyP7wtlo8UACPyxQ01mR5j7YG0xufl1hWyUeD44VmtAn/tiKvm676A2by8643MU=;7zLyqLH9bqxVZrCpUdO3Ew=="
+secured: "UqLqjTzVGC+P5yBHiwbd4mfbnVDcpS7P4P3Hn/Jjo5RWL51ZXkN6eB9BDdyycH0EA3OFWc201mNeyGwdFQ+wkY70kbdQ1ly2hJDFprzmwJPdjL5rmzm7jbqLs1iZGM0fepVa7KmKp9cn0Qs4p3vB4+rZAVoOCpFuzQbLdfkqza0UWWtiYjsOnMli+zqJwOOWJT4k5EDdo4xW1oEXtfsWJSKookL0TNnZzCYB4VBqTP64zyuN6BAg9JonexHOFokcDwuPi5gI7SfzT+LlekbH8DV5Z/CpeWU9cxIfkY9sy+hidYLGhRnCCiz4Y5AKaRDg/aKwxiISPeZsEvObI6tsmTaQ/vW09aMwxE2ZL+UUmWivDzJ2h7zNGoyDJHlPzugUx3GMoxSLhapmiSNh4VeQGzBO/ScqpYVoqYR3lljoFi1ZhaTTTTCWNezgQOwvsmu21EMP7qdk4qGijfay890S0JbJWTf05vFb4VKBUVHPTfubJ+1R70X25xZqlAVH39Ci7e999VV95R7inJ55v1VLpw==;Aa+lfZWzxUmlahoiZOWwtg=="
 ---
 

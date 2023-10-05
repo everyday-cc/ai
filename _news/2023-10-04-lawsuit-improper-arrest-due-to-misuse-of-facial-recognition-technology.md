@@ -63,7 +63,7 @@ related:
     provider:
       name: ABC7
       domain: abc7.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
         width: 608

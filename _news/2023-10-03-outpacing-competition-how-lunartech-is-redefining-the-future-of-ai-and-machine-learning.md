@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/ka/business-news/outpacing-competitio
 webUrl: "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future"
+    excerpt: "One of the most significant ways AI is transforming the fintech industry is through personalised financial services"
+    publishedDateTime: 2023-10-05T00:55:00Z
+    webUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805"
+    ampWebUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
+    type: article
+    provider:
+      name: abp LIVE
+      domain: abplive.com
+    quality: 74
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI Startups Are Facing a Reckoning"
     excerpt: "A reckoning may be coming for once-hot artificial intelligence startups. Among the most vulnerable: consumer apps (think Character.AI) and “thin wrapper” startups like CopyAI that merely provide a nice user interface on top of a third-party model from model developers like OpenAI."
     publishedDateTime: 2023-10-02T14:35:00Z
