@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/29/11/shutterstock_402194665-100939116-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
+    excerpt: "Trend Micro has expanded its partner program, improving the ability for partners to offer assessments to customers."
+    publishedDateTime: 2023-10-06T03:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 38
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+        width: 504
+        height: 315
         isCached: true
 
 secured: "jgTmyodFTVBddbqrHT29NJZ/zI+eeSRZRYp7w28GKb/hpfdudISSNfIERIzEcs3zfCNCys2jMCwaXM3JjXJ0w0YzpoSQTMSuKp6X3eYMdoCSPPiErXhUtEKY3aMkztp/9fFzcBBcBFfj8AoStaFFJ1C6BuG1dxY4Hw0Q0Kp8c0Y3VXg+sBFoZ2lhHgZqOWmuQx5ActZL3dzY+wzxXpJcdpCCxdu6eRpt/d8VpVV6b18mnGYZN61e3rG0DK7xiRiiKkUR5IdzCLP0/EjeD4MgnKLT8xhen7vleZtFo958a638C0PSv597cpI1pnsyfZ4jc6upMXiH6CjN9m/lEvxcAQyzp5A/F37YlZ6/LfqWWVA=;r0GcPfCmen0o+4N5g/Snqg=="

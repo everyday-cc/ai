@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austi
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What you need to know about driverless cars in Texas"
+    excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."
+    publishedDateTime: 2023-10-06T02:21:00Z
+    webUrl: "https://abc13.com/self-driving-cars-texas-roads-autonomous-vehicles-driverless-on/13868256/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13869252_100523-ktrk-driverless-cars-texas-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
     excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
     publishedDateTime: 2023-10-05T14:48:00Z
@@ -74,6 +88,6 @@ related:
         height: 382
         isCached: true
 
-secured: "G3uUCp3OeigOeeltO/v/fzW3gPzDUsL+yXVQ41rThfnbanTrpmU63AfXHRsur4hvFNvMsCyszjexF3s7gDfz/mCPzoPSr0ZoUExxxMXC8WL2hEKASsViXWzP9kWMAYUzx11YirnoUHxnM2wjVCJaEAMByVZgEPFUqfqbSJjfUOAMCB58pBdD6OsT1xLoK36LUBf3RRwL6G9zlLfoRCvP3AU7KzKj/MNmFv6kAJkBOppGFMHOk09qzTxFzs8kUMMIRGAqqKX10uaGXMS7R2kra90yC0PeGAkqrG1CiSWz8qXqOWhUF9vB/PSG763fUx41qY+l1usrNMPSgDbNgJ93z3W5SVaUC0bcRTHdoV7P1es=;IFJ25iE2Ldmr4fHxKpZl+w=="
+secured: "aDVOH3YLgIfaFYHJ88nTBLIpufrtKsg/4RMtY+BOJy+NBQ1eKiRqz+P61URUiiMESzO+3QNCtQxvbiqiJSM2miggAp8SSPkLme8cpZRG5OpLMS6mDXK5nHKaP2TOzuFexoaoOHUlb/mgsjwxtrPGwfGYfA69hCsruQYbPkREX2KwDfV+/wXcCGhFztrn7Bc2BHAZsCn2xKMjbCChAdxrb/vF0n03IoH1sKqrj6YYEoLIa8u7YAywU3xH7RLT89etL9NutguIayFQuXE2d7z948VoUV1K4qiMH8KsFbwGiUuQfegNWooiLqdEjJUUEKhD5+PfKxluj2ss1VZf2BIIGFMNP2fuIIMX22muhfa8EV0flZJo1s+lqUFML8lHrJJHpZz3Cv1UybzoZWtPmCZM2HMiXA/hojA1rdKbZi7uvd7EbnBWAeGYVHRyx/crLrDWcF5xMG2/n6iuLiFDOHXl0Xdq4tUx7j3YfXZoFEbEpw1Qhf8SBxUoh+u2kak/RMQp0YJbxC10eewUS1T51U1ToQ==;mDyGhm9WtSu4v1F/5I7uPg=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 1198
         height: 599
         isCached: true
+  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
+    excerpt: "Trend Micro has expanded its partner program, improving the ability for partners to offer assessments to customers."
+    publishedDateTime: 2023-10-06T03:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 38
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "fmEKLX9LWu3gB/m6wymHCR/Ts+6up2jXFdD8oCIdNgl1iKZl/cbkKhStOk1Fv06aOvKJs4imIQ6ZVmZJEYuPTdVFKWXAK1oDvuCssfEe9QJ5mbnAaHCQDHe7Ovc4S8D6R1Zkxdi+9turDUJko1lLdVNn02cYoR35IaZc6U/5PgUwe205EPL+yNbyP1dm8/U2VrYnEO6q5unYwsm2Uk7VcvNFYMg0CQw4z/devBxu0YMDBy5oFuGEPaARpUh9T3Ux3cjr0VG+kykIjr06FpDT/wDZOp63goFXk/tOj1yS/39dMCysemVf9HqvJOVJMfea20KKq9pqUzBFN83A3SNKoArNbWdG2WRljxQrkxfw0ArzPyslroq5CJFKNN9XXxhSJDGyFMRDALu9L2I40+5QzbiiY8k1eoP812VmM+NMBwQ6ACjsW1keI1ChHo9NqC/rX2Sz9O+S0q1p+GYfZ8gpDX5eOKSZ8L/H9u7fFOtSKNyPY4v08ipnjRfl6a1KGcLZDVbgEilcud6ci6Lj/jKJLg==;fnYPfEHk65JdZMX/EcjIkQ=="
 ---

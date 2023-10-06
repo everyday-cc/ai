@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What you need to know about driverless cars in Texas"
+    excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."
+    publishedDateTime: 2023-10-06T02:21:00Z
+    webUrl: "https://abc13.com/self-driving-cars-texas-roads-autonomous-vehicles-driverless-on/13868256/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13869252_100523-ktrk-driverless-cars-texas-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
     excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
     publishedDateTime: 2023-10-03T23:19:00Z

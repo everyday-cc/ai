@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
+    excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
+    publishedDateTime: 2023-10-06T02:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "Fintech start-up DPDzero raises $3.25 million in seed funding"
     excerpt: "DPDzero, a fintech start-up, has raised $3.25M in seed funding from Blume Ventures, IndiaQuotient, banking and fintech leaders. The start-up aims to fix the root cause of delayed repayments and has partnered with NBFCs and attracted interest from private banks."
     publishedDateTime: 2023-10-04T06:56:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItlYjUaH2zC4gnhsi95XtTk69BMPLWbU2PxeCVYucaFMpoJaP8uTsl24V4fwwiXN-j9H4BbudVWD1kuSguaa0CJ8duMwPfz-ABjXiyaKI9PQi0JRLGhbMRGfHc9ItMSUyJl7LRGmgQ01Qmnp8ED8Xxtk-XV9dMAHiSzxiCp4JZ1nC9KTVW-5bsWOFCIs/s16000/Founding%20Team_Ranjith%20Ramachandra%20&%20Ananth%20Shroff.jpeg"
         width: 1600
         height: 1066
+        isCached: true
+  - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
+    excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
+    publishedDateTime: 2023-10-03T04:38:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/681274"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 7
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "ZVt3K/udUEb8Lcri60EYVH23t+NqsQxIQhTQ/Gt4qymwf8sm0FY4duxYVckaqKvZwyp8q1PO+T3tN9ta55N4FBon4VVKxz7Zt5yhC8IV+k0+ZSq5z4QcTiSVDUhBpQizfHX07gymMLhT/qiOz55ciIirxpio+Ge4pLjPOr7JNKVDRFZGkD2G4Un+K/uODr0nrlFnnRFbpI9RbRGGgttcC5rof7pm/peNhMO5RRi+kQiF9KiwCZa5QCWzO6XvUwL8aDvPMxACwngOnDYmQKXrbAKHf43/Qkqv9d+J42LWhe4u9QbGbN+KJP7kydL5vmlMQ1bA9HWxmw5jA52QjC4EdWSLyrJtSLJEg2C9SIi8jeg=;Qz8lcFJ+ARUP5FnENE1+zA=="

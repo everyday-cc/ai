@@ -3,20 +3,26 @@ category: news
 title: "Machine Learning Can Better ID Who Needs Lung Cancer Screening"
 excerpt: "A machine learning model that uses only data on age, smoking duration, and pack-years can predict lung cancer risk and identify who needs"
 publishedDateTime: 2023-10-03T23:00:00Z
-originalUrl: "https://trib.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_9e5c8cf0-b94c-5daa-9e2e-78e9a8c993df.html"
-webUrl: "https://trib.com/life-entertainment/nation-world/wellness/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_9e5c8cf0-b94c-5daa-9e2e-78e9a8c993df.html"
+originalUrl: "https://www.gwinnettdailypost.com/plus/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_93912b11-876f-5f41-8b88-3700c6e9c1e4.html"
+webUrl: "https://www.gwinnettdailypost.com/plus/machine-learning-can-better-id-who-needs-lung-cancer-screening/article_93912b11-876f-5f41-8b88-3700c6e9c1e4.html"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Casper Star-Tribune
-  domain: trib.com
+  name: Gwinnett Daily Post
+  domain: gwinnettdailypost.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/9/90/9903e70c-4288-568b-ac11-ef017841983c/651cb971e5436.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Machine learning model can identify who needs lung cancer screening"
@@ -34,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "aa/tBC5T9SaCTDXuqOtVwUWpnSzWs/7PNk1Jc4uZGXdWMDUigwPTLpUSM4motFWwJ+G4+OS/sGOCrvUd/uUl8HZ1LGw7us2j0WLDFFwoU6QTldlehdsBm6pywGDfVRlzrrP4cYz4mbggE2vEZwNeFVp+alDzVYyGkIa32Rgte3odbH6N5bQkb6QYFxaLyagkMktk6F/TYdGYIs2hqSMHvFBAWG+X9UgRw7YDJKLr16J7+iWXEz88GfRQ+GOx26gzARpsArH+f4swPzBLrl1i3ELHHj5KcXetBUso17I6ObrMAw0UqHGh95nn6wZAOYSV9TM+7cWaYQJ6Tuttj3VctMmmDnFbDxXdGq1Lvgp9RolS6QRDO+5Pe6E6xa011U/M8aH/uC2dsJ3nWBsnVGT/Z/uUQOTqyVmVTWobLj6I4wvOivZjRpqJbzfAFM2iqMGzjduHSdfrIKfRipikP6FfNgWfsAYLD+D9638GL0Y1y5CjzcUGINKBn6Vn4GAGcLpcbagCC9sU5Pc9L7fJ3e+Uiw==;ytcHKKrHY9fGoOSjLBitXQ=="
+secured: "rXG4JuYWIrK8RawO/mv4cQeqQpFLGP83awpsk1t32yjdvMeW0JDHriU6uAq1lnLesy6+KH/5CFjYmUDvT6VVINZ+rmk980mFsZQrgXC6oKWShUKooIgujFYXrqRhCn2ZGLlX6GmUbfwBmsiXN0X0jVeLqTUnMK6jiDm5RPu+9+xAQvoy0yJg/P+t3xJxoLO+bffa/mO0N0ATJrOlQyOXmRA0/i2NotIcq7EIMPw5JqZl2IZTG4bZ5fJp0b0FFwlnhs9Ycv+lpQI5JIKzJEKBpj2YN05OqGoIGfgRUsWZKyqaQNzNz9p8UVHUkGW8jQsn/s3nl5+WwPI/YLgoKE+CryJYLlqEPU3CZr6zljLlJjQ=;mdY4AntBXyrAKGmyvfQn5Q=="
 ---
 

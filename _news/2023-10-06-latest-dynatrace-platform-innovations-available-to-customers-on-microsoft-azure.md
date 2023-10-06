@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-pl
 webUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.html"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Announces a New Azure SQL Database Free Offer in Public Preview"
-    excerpt: "In this annual report, the InfoQ editors discuss the current state of AI, ML, and data engineering and what emerging ... Microsoft recently announced the public preview of a new Azure SQL Database free offering. This offering provides users a 32 GB General ..."
-    publishedDateTime: 2023-10-01T10:00:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
-    images:
-      - url: "https://res.infoq.com/news/2023/10/public-preview-azure-sql-free/en/headerimage/generatedHeaderImage-1695896804601.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
     excerpt: "Dynatrace (NYSE: DT), the leader in unified observability and security, today announced the availability of its latest core innovations for customers"
     publishedDateTime: 2023-10-05T12:00:00Z
@@ -49,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 45
 
-secured: "kl65t00qHAo14tA/Y+/Qqi/AzP5bgR46Oity5GgmR3qW0zid9avQDdxYLKNRXmNuNAz08Zi9RR8WRBu7Mrz4hEFnINcRnCJb240Hs5HIWdxmL7s0V2+nFRLt3q7l8Z4M793XY3XiggRRpunauDH88jXjR8aoh+d2TYidMPBK4aeiP/CEEsZ5BjYL+j2AmRZDvRhv0rxrRIlfBnn82B2FXMg+dk/xVp2ib9me7OqqzAc0lgloTpymX9W2mcarHNJZ7NnbzQ0MkZsIft5jPQS9LGdekNLj2X1XNMV7DTWnOSF6PENI100AfNid1lGs+dRJUu9ytaYlPohPlmT5JLhJRMvvAnenpD954BV/E6DshUA=;xgNlRFHGU7dB+kmx/W45HQ=="
+secured: "xtXMhMp1zmUDCv+EVQDVtc7zOPVPlkVxPBRsrjlZLH6eKu0BAmHmkRA+nahr6MZVlAc9wR5HWEU1fciYHvNFTYREuUHFm/dELAGAQ93jlSz275TXCCL9Ru8M2AAXiHyKnSQM7gF/aGsrRa1O9b6XdU344Mepldc5XweBE7/GNPr4HCJX5mRbz72zb08vj0Cem/xEhuiXwbaFMDp4ha2tyTatuQB2qXppSU64cY3VwBZQPr+15fTDsPwMVQDbF9WFdEbWvXkZ5L7Ffb4wZUeGfDHuxKICEmnFv8//c24LXpqwi6PoMKR0t98j+208h46eq+namtpFZJnAhMu5by+wk3/bgN9ngxBcALVxYw4qohLn9FEIZEkarq9HTolMyfX+75hh7Sir+oKRXklnbBX7/RFuOVVLi2Cg8OtH4a3/C/n0dOV8TCivRzm8pDhN4XUZ+P0iDXyerW2vWZM1TpV0l+fu+99oR6ny52EKu1jg4EYztdW1kXdYUuw66vIc2k6Osv4YYJ6LbWQ8lL2eqS+BXg==;sKw8C9/epcryUKBFu95afw=="
 ---
 

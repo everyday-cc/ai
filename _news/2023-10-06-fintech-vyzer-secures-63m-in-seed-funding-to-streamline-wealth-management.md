@@ -1,27 +1,29 @@
 ---
 category: news
-title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
-excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
-publishedDateTime: 2023-10-03T04:38:00Z
-originalUrl: "https://www.malaysiakini.com/announcement/681274"
-webUrl: "https://www.malaysiakini.com/announcement/681274"
+title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
+excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
+publishedDateTime: 2023-10-06T02:25:00Z
+originalUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
+webUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
+ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
 type: article
-quality: 7
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Malaysiakini
-  domain: malaysiakini.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
-    width: 1000
-    height: 600
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
+    width: 1080
+    height: 1080
     isCached: true
 
 related:
@@ -57,22 +59,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
-    excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
-    publishedDateTime: 2023-10-06T02:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Fintech start-up DPDzero raises $3.25 million in seed funding"
     excerpt: "DPDzero, a fintech start-up, has raised $3.25M in seed funding from Blume Ventures, IndiaQuotient, banking and fintech leaders. The start-up aims to fix the root cause of delayed repayments and has partnered with NBFCs and attracted interest from private banks."
     publishedDateTime: 2023-10-04T06:56:00Z
@@ -98,7 +84,21 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
+    excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
+    publishedDateTime: 2023-10-03T04:38:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/681274"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 7
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "HGTNnUbOsWe+Bhga678+s79/7nvtVYKZcSATihOlrPpaSvrHTdT55K0saPKC5R114jSIb1AxbLmkqdtxzOygMeCidxe4+qgIms1D9pgmaMXSYT6iBazKJu4rUC5puumXzu3tiYlOf6AuD2iHHF0zfWU418lxGLw+W0dRZ2F30GCtCTyxPQGt0oy0sQ0dE4Zp84siMfsJOFiN3FIOxvont0fZNN8faMhaaVi+TwQ2ha/Z5Ft4G6LOG7ZH6pChJqi0QfMjBpqYfUjUcDeK9U5L1lKNSAPJulMbB5HNiY7LQCBxmG1b4Ln4dRsT+cFZY4ZmuyRAgOwtcdtSIpXtKr0dL3cyhQv1ffYp5/ntWydg4EWBxhZbZjci7GfvYEm1Y+gCBEHjSoThedr2L0aM5sip6t0G7V9jhz7n3TXVNK0XNWkfvpgxCtZMO5FQDum0ciKScYqY+uPoCZVDfjQglnCi9UBGCj5rId8/dwx1/1C0iWzZn/hrp1JERKl4Ur2b0FRRjqybrrOg6in8UK3rm3kgCw==;BL5oLcL/f1mmhUyDozbqWA=="
+secured: "anI+Wn7wu7FgbNZ+NeaEGaiEJTscHI7ibNNu2KUyHKQECPKaIkP7JiSN5CM+ZvG0gxrTxxJU0nc5J4vgtHqYZGu44rkiwd/SX7b9YsmIPE+ra7dnkwVcok7evxE53M9JDx+L5k0LcKS/rCaHfVz4OASOSWsTFrBBw1Jpc9VIRS+vinwz6TAEn6EB6LJ919DwpCa4Rjpjjkpx9M0rin2aXLQs2sHfKLgk63i5rBu0ilKX05ey6O+Czr8joz0Ak2HWQjSCwMvZhZ8SgZ44v2NJFj4cXWiS5ekUkh4cN7HnmXZV9bWMlGdUl5hUZPOJBxULrGsaksNAdE4K91AsdwtRTuVuhKKsLFKsAfW3scH6LcM=;furuUMKfA6gTAcsE1NNiOg=="
 ---
 

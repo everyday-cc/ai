@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Asana adds new AI smarts to simplify project management"
-excerpt: "Asana's new AI features drive greater levels of clarity, accountability and impact in different areas for enterprise teams."
-publishedDateTime: 2023-10-03T19:04:00Z
-originalUrl: "https://venturebeat.com/ai/asana-adds-new-ai-smarts-to-simplify-project-management/"
-webUrl: "https://venturebeat.com/ai/asana-adds-new-ai-smarts-to-simplify-project-management/"
+title: "Trend Micro expands partner program with new assessments, AI capabilities"
+excerpt: "Trend Micro has expanded its partner program, improving the ability for partners to offer assessments to customers."
+publishedDateTime: 2023-10-06T03:57:00Z
+originalUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
+webUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
 type: article
-quality: 67
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1371339943-e1675104302184.jpg?w=1200&strip=all"
-    width: 1198
-    height: 599
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+    width: 504
+    height: 315
     isCached: true
 
 related:
@@ -44,6 +41,20 @@ related:
         width: 1044
         height: 696
         isCached: true
+  - title: "Asana adds new AI smarts to simplify project management"
+    excerpt: "Asana's new AI features drive greater levels of clarity, accountability and impact in different areas for enterprise teams."
+    publishedDateTime: 2023-10-03T19:04:00Z
+    webUrl: "https://venturebeat.com/ai/asana-adds-new-ai-smarts-to-simplify-project-management/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1371339943-e1675104302184.jpg?w=1200&strip=all"
+        width: 1198
+        height: 599
+        isCached: true
   - title: "Asana unveils new AI capabilities to help teams work smarter"
     excerpt: "Work management software provider Asana is set to roll out a host of new AI capabilities, powered by the company’s Work Graph, working to ensure that clarity and accountability is baked into the new tools."
     publishedDateTime: 2023-10-03T10:02:00Z
@@ -60,21 +71,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
-    excerpt: "Trend Micro has expanded its partner program, improving the ability for partners to offer assessments to customers."
-    publishedDateTime: 2023-10-06T03:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 38
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
-        width: 504
-        height: 315
-        isCached: true
 
-secured: "zet4iIIMPS2iEw5+QWAkCRAi0JkvsU61lMM4EspTLq6jJ39/6S3fn7Y35pJZX+eIyA2KMNNJ9tiVLSwwkw0lxgj1QtnFPEoj50FcH5KOfwAlaasXVS5XBDWxco45e7ov/nJgW7EgiNCmYuMflsth/hfQXo7QM6IVCwtYT7+Hxq+vEBgN3obJ+aNlF6B/Ln4o64pMUuco4oIt4Q/N3DXPCvA34UmKjqotwEMfYKKXPuehgKw2FXu339YEUmuLFe/oHn4SJqQkrzuUSZT6A8DfAoKARpixhN6CyPRGksRteGf4Ok9VvTfVOeFKhfkWVqg+Cu9+njtIYN0h20S7QCCr5TRj9Y7+5a4UifqRdp9SsoE1k67Og32Ubxy98+J/CpCgiuioMtDEd5MaMljyF4H1wwWcIzDc25/Dbj6ceYTH4SfLbrPjp1umx5xecKtWtrfbsnsLRK9GYqWp3fHNzq+CzS308g3axyHXStNqIcGh+xA+fuMLKwjMWdudcXch2Hy+59EqkuihPsUYfm62KkWhAQ==;fUyWd3KZbv10Qk5HycKN6w=="
+secured: "3o4LP0gIcxWmepChonGmUgn87oJSrvziNmWVKiRuqn67cGDwqNVgJuACSrlyTTRfzk5Srm8CQDftD8TK/JJ8xHXHD+5qtcJ+/acpc8+6q97CNhpvoPHd6IvjuFmObAnMS4hJQmiR5Jt3f1x2INFXQhMGL6gTYcHkI1TbqEkijX8RizRrFvI16EIlyBDwUWORcfNZEQLLNJwCN7ieeCBCjTp91JwyQAP2k0VXcCgwazaCAV1dIHJkwGMVx5/8P61STfmPUWsytFMWeTfnGiKh1DzVBKNmRCNwj6ZCFMIy3fpWOiDHqid+grWWj2A7Hgal73WsWj/G69iuL2MGAPrVdzVm0brFyQ0QKM9tkffKtec=;Hmvig9V0y9vw0zpGv95XMA=="
 ---
 

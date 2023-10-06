@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What you need to know about driverless cars in Texas"
+    excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."
+    publishedDateTime: 2023-10-06T02:21:00Z
+    webUrl: "https://abc13.com/self-driving-cars-texas-roads-autonomous-vehicles-driverless-on/13868256/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13869252_100523-ktrk-driverless-cars-texas-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
     excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
     publishedDateTime: 2023-10-05T14:48:00Z

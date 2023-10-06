@@ -1,47 +1,32 @@
 ---
 category: news
-title: "Raleigh based AI startup closes on $7.5M in new financing"
-excerpt: "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020."
-publishedDateTime: 2023-10-05T17:45:00Z
-originalUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/"
-webUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/"
-ampWebUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+title: "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform"
+excerpt: "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility."
+publishedDateTime: 2023-10-06T02:29:00Z
+originalUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/"
+webUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/"
+ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 71
+heat: 111
+published: true
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2023/10/aampe-e1696527952618.png"
-    width: 477
-    height: 306
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
-  - title: "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform"
-    excerpt: "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility."
-    publishedDateTime: 2023-10-06T02:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 71
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Veteran Charlotte execs launch AI-focused fintech"
     excerpt: "Two founders with backgrounds in financial technology and regulatory matters have closed on a $1.7 million, pre-seed funding round for a Charlotte startup focusing on AI for banks."
     publishedDateTime: 2023-10-03T10:18:00Z
@@ -74,6 +59,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Raleigh based AI startup closes on $7.5M in new financing"
+    excerpt: "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020."
+    publishedDateTime: 2023-10-05T17:45:00Z
+    webUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/aampe-e1696527952618.png"
+        width: 477
+        height: 306
+        isCached: true
   - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
     excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
     publishedDateTime: 2023-10-05T15:07:00Z
@@ -89,6 +90,6 @@ related:
         height: 629
         isCached: true
 
-secured: "9e3F4o60lmXzSyhnsimR6+thM+VuUd8qE4c2Kanz4W0Pus5cN70kZKXMB3b3fFGGYO9h1/sAWblhbyP//TLTeVytrfLrtWzvV3TmUexOIpGjxmenPBuRsZPe81L2VUrsBuBUK9sGBp/SVNt0wD9fM1sFlMMQSBA8xrXP4DGkle1tTaVJVuzh8zuuqUjryy6ax9fUjWSbGSi2WnbmxJZEN/Xt6ToykgvkKja0FNYt8b8C7m+8o3mUVxjTSBbVQFUcZYnmayCx83Ode2wLF6yV6Kp8HA0ahp70cFQndY1RzziYdQCp9AOircNpS29jjhbkBFLMuCyoCR7Zt8TH4lcgTuNVck9X0g7Ul4g6Uj8BLLzjBaHEbFtK4qWe5u6qKessqQKhumIX0P9vvYJaryyoLu8q8gawt+HJQw5v1ihcaJ07koenQ9sRqvi20gcZYxuNSr96Y7I/CKHg9qOCHXWqfzY1hdsofcDNC/ovlF5ls370qonyBJk6dD2s+zBPhXvg5xAycYpbxVQMKoKpWs+NrA==;Me369Rq72spwwfKXukgKoA=="
+secured: "yMnXbtqqRAO9LpaT6p/w4Gl375QNorDsrL8nLmziKIJOMUN3MqdpgadfvBxyZYr43hyZwvBLZLhyySD6Bll2eeS9vYvOZCLWQvb09dUFhh8P9BkVkcm9/TqH/bVGUSTYWaWGqDQLS1Q5k3I1WwkHIFYTl3qNBXncHf2Mtr4TwaY2W5yl2cUZL8l3+/relBKIIrTzsTIhDsEapNHYF8GrRbf9cCALBMfXoBVfZS877Dox4awCLpg6r4hY2Mx7ldBNEdhDqxGCsKrdcnLvxrBHHy3/YPYV6wqZtH9OfXbn8F648lEEuW43rrulplog5f8dK7CK4N8LRt4EdAIQipkTqRALoFJ48l9ix8hDZr0dmSI=;lKETnlE38P8oqGHEOvKJUQ=="
 ---
 

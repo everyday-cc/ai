@@ -46,6 +46,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
+    excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
+    publishedDateTime: 2023-10-06T03:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/startup-rootly-wins-2023-cybersecurity-breakthrough-award-for-its-enterprise-grade-incident-management-platform-1032682358"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "5TvynNzR4RTfwX/yVp7zC0fAmXAweX6MUxlkwK5CQDptUg3NNwH/dtygiVxO+KG9aB1d6v1jElEoOvGFx7/ZDYSdLHB7PRgBzhu6Kjanfp4do8A3AViCd8Q2FcuB71k+lY5zy42VoBBYpj36fOPJkWDRyWlb+zr+pevL04BzQBty40CUZXjbfl48SM8R0mIdH2TUgLrh/xGDTJUfjI8/xS95Wpu/deJS645kA1t2VzPYtRTsloxTnsJE3edgJxqxWVotccJE6YS1mttMu0JuFpoYQ7aABRA4bcVOoAIvPXgOdgF5oqix8CWdLaPS4NoMXwQPMv6haiXNpHUgW9da0DV+6cTu1vcCk8WrQTX+YcMEuoVFZMKmOb2ZsWh6hgIK2tPn+NWBFA2Jb9gGz/GqL+rllAnQnMTYZy4V+q6pjWE5AzfAySxDYIxuCU8DYyGWQVSUJ13BV986X2kLj6rwBqFRt4pTYHmbxHl8RJkjinx7qEUQH/CTyLGeU4hIx181wVVZ9qDywt+0atrcTUEnPw==;u5IJExDmA+ZBQxMBymDe+g=="
 ---

@@ -25,19 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
-    excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
-    publishedDateTime: 2023-10-03T20:29:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+  - title: "Instant evolution: AI designs new robot from scratch in seconds"
+    excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
+    publishedDateTime: 2023-10-04T00:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
     type: article
     provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Wing-flapping robot helps explain the evolution of insect flight"
+    excerpt: "Researchers built tiny robots that can switch between two different kinds of flight, one involving unusually fast wing-flapping, to better understand insect evolution"
+    publishedDateTime: 2023-10-04T15:03:00Z
+    webUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-helps-explain-the-evolution-of-insect-flight/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
     quality: 54
     images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/04154200/SEI_174616579.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "avN+Pmvf7a+q3t3mmDg1G5MYjKC6Q57QklGwfbxj4fot/P84+u+Y+WSynPqFPQ4oF5i/82ScomyroVU5A3UeGoUbm/YsLWHvenaRMjSh+ucLZYJGfKdy/qCSldYiVjEf6XCXRcpclGBDQ8rRgoC3HgXQuOwb2vcneWCqO25D62lMdoGI7zRgGDm9xqdab3BQ/wL8boev5RW9/tFJIhK1sHQ7/a50qgZaQbJT8hNgm45Ng9yCZ2G46n9hM8rSI7OcO1/xtbEFQmXHwf6FhZEfi+My9A7kSKKljkf2x3Hgu1gHrJCe9DFU8AcrJ6Dya13MDeFyPgIqUv8IpkGp8RXKlaIyTvSH/ulGSk6577W/gdsMQZirRBveWh6fRyhA6bklRua2b+UG1L8VjHbCJLB2SKCbSybh2Ul/pSS87aB9c/EZpwIoFvVDs1tRbCRuiKJaJ3AFyki6BNCMI4nnGiDxgJkHRrzNWa090sEiT2Aw3Z/vy69lb4OxDuRH3DCqx3mKvPQbGrAVXBQeTZJE5yBVdQ==;X9UlxDSIi7Xqf50+pJoXGA=="
