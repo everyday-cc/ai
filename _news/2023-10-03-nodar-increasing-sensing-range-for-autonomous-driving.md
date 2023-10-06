@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Autonomous driving remains a distant reality in Japan"
-    excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
-    publishedDateTime: 2023-10-02T04:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+    excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
+    publishedDateTime: 2023-10-01T23:02:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+    ampWebUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "IhDaFwD5Fd5SjLK2IDKUvHoabX9cuB5HfJWk0G0gioj1evl9t9DAv6r+BAdywZXHCKBqx1hJoBlMfENjHEv4MfejlQlyj1NQoC6AYUkZ2NJvl4DFmcgb9aVbEDcP1Df2ZJOQCmAtLaPAxBUCoc+vBgXI8rEgEWg93jA+tOwesl7mCW63BUhsfAbM9M8P5dAyIkUifR1Gk9u+PczNyspEoR5gkeRDzobwUCokiXeLVZ2l2/QUcQPMsre+iDXC9WUpwql4eexhskRRmWBsoYTzJQku7cqSukrClAPEvU61hSk5KrOhBvPgMo0/5fhKWvtiwiQLrqMm/whlsAJpTeQ9+G3dvfHuGFRch7IKBXQrpvs=;cpULkySTPvrvntwJAGMXfw=="
 ---

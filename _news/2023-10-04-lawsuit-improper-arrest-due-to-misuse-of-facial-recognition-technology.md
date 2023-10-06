@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York bans use of facial recognition technology in schools"
-    excerpt: "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ..."
-    publishedDateTime: 2023-10-01T08:22:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 59
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Retailers want sector-wide use of facial recognition"
-    excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
-    publishedDateTime: 2023-10-03T23:37:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/national/retailers-want-sector-wide-use-of-facial-recognition-to-fight-26b-in-crime-losses/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 54
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "Lawsuit: False arrest due to misuse of facial recognition technology"
     excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
     publishedDateTime: 2023-10-04T02:30:00Z
@@ -69,33 +39,19 @@ related:
         width: 608
         height: 342
         isCached: true
-  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
-    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
+  - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
+    excerpt: "Randal Quran Reid was driving to his mother’s home the day after Thanksgiving last year when police pulled him over and arrested him on the side of a busy Georgia interstate."
+    publishedDateTime: 2023-10-01T15:44:00Z
+    webUrl: "https://www.columbian.com/news/2023/oct/01/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"
     type: article
     provider:
-      name: gijn.org
-      domain: gijn.org
-    quality: 41
+      name: The Columbian
+      domain: columbian.com
+    quality: 40
     images:
-      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
-        width: 771
-        height: 512
-        isCached: true
-  - title: "Privacy Commission: Facial Recognition Technology not justified"
-    excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
-    publishedDateTime: 2023-10-05T21:11:00Z
-    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018909973/privacy-commission-facial-recognition-technology-not-justified"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://media.rnztools.nz/rnz/image/upload/s--E2BzJiqh--/t_tohu-badge-facebook/v1643766427/4MIUIS3_image_crop_114408"
-        width: 1200
-        height: 630
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/09/Facial_Recognition_Mistaken_Identity_65159-a92c3.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "uwArX0lTRYnA4w6Meql1ckpb8HbDAZytamjGqilkLxmy2+VrBN82BT7GcOS6McCDZBcUIbGvTc31hEoVGSdJ5PhQL1HXlkkKXW9rg1/T4jIyI+28Q6EOa/zJZeSAb14L1k06Hh2guMH9BaPNCUplfJ+/9e8csb3Ys9zfJad9v3ygYd5/FgCNFTRkfoOKVnvER04G/Hk/Y6IBzdnWY/BlgRcNaJMrHlVTZPoqqW0CMVPUofKwI7OR9s9kg+xZDckQqM3c4CnDe5Uw2a5Xj+eJgspkab0ApxE7mTU9q5oyio4FjvMxxF8BQ+qEXFWkyWlqH3P8kn0bEedCssSLcz6jVKWkZVAdJMjOQ5nK3OE58JM=;u5nqmIrjYzqfJvu+9tC7DQ=="

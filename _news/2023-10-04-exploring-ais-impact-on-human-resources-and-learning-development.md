@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "The company has not yet decided to move ahead, according to recent internal discussions described to Reuters. However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on,"
+    publishedDateTime: 2023-10-06T01:27:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/chatgpt-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
+    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
+    publishedDateTime: 2023-10-06T01:12:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
   - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
     excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
     publishedDateTime: 2023-10-03T18:36:00Z

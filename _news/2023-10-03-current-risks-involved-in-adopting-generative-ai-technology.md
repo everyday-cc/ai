@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-ri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Meta Technology Chief Defends Tech Titan's AI Strategy"
-    excerpt: "Meta's chief technology officer is quick to push back on assertions that the company has fallen behind rivals like ChatGPT in the explosive surge across the tech industry in generative AI."
-    publishedDateTime: 2023-10-01T07:27:00Z
-    webUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-titan-s-ai-strategy-93a1a888"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
   - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
     excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
     publishedDateTime: 2023-10-05T14:00:00Z

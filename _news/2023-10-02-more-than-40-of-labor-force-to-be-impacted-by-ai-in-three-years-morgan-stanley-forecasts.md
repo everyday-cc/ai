@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/10/02/more-than-40percent-of-labor-force
 webUrl: "https://www.cnbc.com/2023/10/02/more-than-40percent-of-labor-force-to-be-impacted-by-ai-in-three-years-morgan-stanley-forecasts.html"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Morgan Stanley says these global stocks will soar on the $150 billion generative AI boom"
+    excerpt: "Generative artificial intelligence is taking the world by storm and it's not just the U.S. tech giants that are set to benefit, according to Morgan Stanley."
+    publishedDateTime: 2023-10-05T22:34:00Z
+    webUrl: "https://www.cnbc.com/2023/10/06/morgan-stanley-says-these-global-stocks-will-soar-on-the-150-billion-generative-ai-boom.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 58
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107305942-1695654513120-gettyimages-1488105094-phone_05.jpeg?v=1696552383&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "d2KP0cMdlwWzsABmpCS54JuH+QeMM1QuTnBCMt+UIlYNPLmKBxAIo88tYLRX0+gr3MMAVzKED8IDr7/jm4SowpUOYHHZDeD2RV59VGu7kQBp/nUKG/5YXvZ9NFAtqEhejEPzdnfYFrJ4ocV65e696GNR3IpDyPEUC6EYuPBtqcTmgZi4NXP02i1KuYGX8VB6Q6MLxJwykKN4jIEdIBiN2LsZuADbABHnDs0g2nvze411uTqBs3HkMJRMIvq1dDf8SwfXIvsyM55fFHjLpzQtCDnKhFrtbBWSnrS2sRvPe996kj03oP8fIbPzIL2mb9I0kfsf+CewhoAolXKaavbZUM2kAko1OoI2HAoP/VJATaJQFFv1idW5LxyB7DL1GqNJs2P3HUpihBHJOpPJvzGckgtAGcjLhwhf0q7uXXRQFOaASVUgpb1jK+TszOeiya87pmf4yAEwNpAca9efTwmcO1BRTyKo5tczkPnHdBj3EFlNKpa/1BeU4sTGKfbpDBTGc/ltE3c4B56D/CsT6s0ulA==;gtHU4WWl0AknzPGucYaPIQ=="
 ---

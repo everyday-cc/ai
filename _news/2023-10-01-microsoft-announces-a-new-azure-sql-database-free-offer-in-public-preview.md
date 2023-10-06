@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
 webUrl: "https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
+    excerpt: "Empower teams across organisations to collaborate, create, and share AI-driven analytics, apps, and automations for any business, development, security, or operations use case Dynatrace (NYSE: DT), is the leader in unified observability and security,"
+    publishedDateTime: 2023-10-05T23:49:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 65
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/b2a197dd16cc9d405266ac9083e398e3_M.jpg"
+        width: 375
+        height: 485
+        isCached: true
   - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
     excerpt: "Dynatrace (NYSE: DT), the leader in unified observability and security, today announced the availability of its latest core innovations for customers"
     publishedDateTime: 2023-10-05T12:00:00Z

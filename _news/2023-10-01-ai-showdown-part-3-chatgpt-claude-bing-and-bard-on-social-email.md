@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sources: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential"
+    publishedDateTime: 2023-10-06T01:17:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    ampWebUrl: "https://www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 74
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/06/152495.JPG?v=1696557960"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "ChatGPT owner OpenAI is exploring making its own AI chips: Sources"
+    excerpt: "SAN FRANCISCO/WASHINGTON - OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence (AI) chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
+    publishedDateTime: 2023-10-06T01:53:00Z
+    webUrl: "https://www.straitstimes.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/06/ITALY-TECHNOLOGY-AI-175154.jpg"
+        width: 860
+        height: 573
         isCached: true
   - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
     excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."

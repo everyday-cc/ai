@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
-publishedDateTime: 2023-10-02T04:33:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
+publishedDateTime: 2023-10-01T23:02:00Z
+originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+ampWebUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
+cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
-    width: 1240
-    height: 826
-    isCached: true
 
 related:
   - title: "Nodar Increasing Sensing Range for Autonomous Driving"
@@ -40,6 +36,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ADjNrBToFIBz5kKM/XQRdIgDazKfyq1E0gGoZ97Fmq2XBgPpS250iNIhcsFhWnRzGawGnyW64jqEr/ZovY9qtFZmockgO3iiO9QqPIlq//zcu52U86Ul86VmFXVwq0Ug04QjCNdRgyRJwZ3xOBgYcI6/8kg4kVDYPMZb3FqfVMxQLu7un6lK9w3zGiTOs0d7Ks9iqQQHP05fQsayDeomYdkZ2u3MCW26maSxUuURZOScspY9JCi9sKwGZwyq5Hab59rxh98r5mbkWjzK+mf1v5l3tTyaP/uROkoNaDRlxRMPqE3WU9P14YDIu+/SZ44ZPeMYrznaRC3H0tUHb+EYkGUJdXyWjUg6meTATpXkrhbsf3AMojiScZ3FyiWUXM0MeggCAyt3AhMoUzFOh/S9/lu+l3cYdf7Rls9LkETaximb4XH41/NSIc9D1t6oYyLRrHgjSb1PejsaMOEYWTObAlMe3EThdqMAIfczDIKsr5BBiHC/M+GW7DMiRmY3Czs+r755YFd1ENBFmBYrFr9eqA==;Tzqao78gntwiXUoco8OAlg=="
+secured: "4cLGWsaxuqoIhGX1p3FXPaalC8yWsCt7goJoC3HaoK+09ksRZjuC6dJHcFhhCHmtrVPn5fqFUlDqqMZKhYxKZcZ1X1GEr9jvQWt+DY9Qxz1G5NPAqe07NVGAX0qwHVsuboE7WZ/qXLb82/nSF2aPPFGbklwf3OVtIPfg0wj8YIc1tXy0N8CL2/kKa+4AqlevQ6t2aDAiLyWCl7aVIxtd95PjemybTpFzvd6rSUpRt9eC4HLPvbtaC4hmJx20dDriPrQD/CkCSTkd0s6jEF6uIoPcpx/o7N266i0W9F6RIbRkcpRVrkKTrFym7dPM2NTan0a8HkcEBaZVyzEwGTtS2MgF/3ZqCXoGMZrcXOJA+H73Ds2cKHs1ps0G2ZTOKgZoakvbkycU4VC32fLK+LdTQoZJdrjqjPPHK0SzpienGEfiF5X/xpQTGhNLPwmAncSJjzprtUdlEr33LvBKVBxhbdgoYN0UR0MV3164jINdi91FcRUkZoxSrcbQvZ839IU9IZowO015FIDNZ0WbZ0ug1w==;FdO7GZ043q5NSKmja9/eZg=="
 ---
 

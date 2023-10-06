@@ -1,0 +1,95 @@
+---
+category: news
+title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
+excerpt: "The company has not yet decided to move ahead, according to recent internal discussions described to Reuters. However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on,"
+publishedDateTime: 2023-10-06T01:27:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html"
+webUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2023/09/chatgpt-bbo.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI"
+    excerpt: "Given that AI sales of this kind are well established in the world at large — I’ve even heard VCs complain that they can’t consider “yet another AI sales startup” — this seems somewhat overdue for LinkedIn to add."
+    publishedDateTime: 2023-10-03T14:41:00Z
+    webUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 107
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
+    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
+    publishedDateTime: 2023-10-06T01:12:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
+  - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
+    excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
+    publishedDateTime: 2023-10-03T18:36:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-just-added-ai-powered-coaching-and-recruiting-tools-to-make-your-job-easier/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
+  - title: "Exploring AI’s impact on human resources and learning development"
+    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
+    publishedDateTime: 2023-10-04T08:41:00Z
+    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+    type: article
+    provider:
+      name: International Training Centre of the International Labour Organization
+      domain: itcilo.org
+    quality: 39
+    images:
+      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "LinkedIn introduces AI-assisted recruiting tool, coaching chatbot"
+    excerpt: "New AI-based tools will improve efficiency so recruiters can focus on strategy and people-centric work, the company says."
+    publishedDateTime: 2023-10-04T05:11:00Z
+    webUrl: "https://www.hrdive.com/news/linkedin-introduces-ai-assisted-recruiting-tool/695471/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/imgproxy/8eatHHWLQzgI-WxN4QUkSzWnOtbulmSJq7P3qkVCwUI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMzA1Mzc4NTVfT25jbmxnQi5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+
+secured: "3E08WqP8nfYNJfOhPOge0wfdm64yFfzGj05wDWjzIin20DG/V90y9EjUwBDWGgOJfNbVbMJuLeNrRyhAzjW9Wjf3ZDk/FgnwPluxaWfymCHImMzw1Xk0MgZbges/g4l6lqn4JsX5X2nz8uoFKvd4olFjMP8hfYTHE7WAA6GDIaf4y3HNZDC1z1x9eNNYMUxKYdAQOwWXZ09jAGIMT0RDSnr4SriGh8d80alKJLaN5Ga6qpOGJkczLEwVIz16KaNFgCJLCnlzgyXScXf8mxAh5VZla0/l+zki02uML+3igY+ZQNUYOxbPTYW2m80jX73F7PiiT/mqc6e7O0QYxV3IZdWezBhy+bS+V8HNxBzGyWg=;ueyhUW0qIlVomwJwGgyDwQ=="
+---
+

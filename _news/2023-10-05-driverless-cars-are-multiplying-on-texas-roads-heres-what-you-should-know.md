@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
+    excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
+    publishedDateTime: 2023-10-06T01:16:00Z
+    webUrl: "https://www.wfaa.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 56
+    images:
+      - url: "https://media.wfaa.com/assets/KVUE/images/f8780d49-b3b5-44ae-a983-32e51110b0a4/f8780d49-b3b5-44ae-a983-32e51110b0a4_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Terrorists will hack driverless cars and use them for horrific attacks, report warns"
     excerpt: "TERRORISTS will hack into driverless cars and use them for mass casualty attacks, a report is warning. They may also hijack drones and use them to drop bombs, it says. The bleak forecasts are"
     publishedDateTime: 2023-10-03T19:00:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/newspress-collage-24254005-1696359271576.jpg?1696362873&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
-    excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
-    publishedDateTime: 2023-10-05T23:10:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 36
-    images:
-      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
-        width: 1200
-        height: 804
         isCached: true
   - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
     excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
@@ -71,15 +73,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Cyngn Revolutionizing Labor Shortage Challenges Through Driverless Forklift Partnership, Featured in Forbes"
-    excerpt: "DriveMod uses artificial intelligence and sophisticated software to transform ... Together, the companies have embarked on a journey to integrate driverless forklifts into Arauco's operations, culminating in a 100-unit DriveMod Forklift pre-order."
-    publishedDateTime: 2023-10-05T12:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893356.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "PAP8m9SL0iW4YCswP72CrcdDcke7BHeKFHijWoRLtvVwA6gPostBlvlClysTTu9ArjNcdtHugZK9o3X1h+LXzS62XR/IPwb6CKxRQNz03CYnh+a8dxdlsO8InLczupI+n1km2BnN4lfVAg2RDFWfCLfMEVv/239cgc/seQY6G4dgLc/KiIiHtrwOctgY9PZkdV8qJgAGVDln7myRGK3753CREm/Po9xQ8B2vU2sPOe/KXNAzlTYhkkRMxn0kver0CP1wFpSnMJHVLrtT09Y4dL9whR74NRjp9JfLoPaVlw67i/6weLQeIgp/+Ggn2PuDCU+aDzjRkbYiezIsWmRRqTqsyisl3BZXKRLdZPmOHV2L72y9kwKG8ZbyDhT7Q6u37z3Rtsu7QJcZRd5DkRAZ/E0xDaFnOOaiNqlFkrN99FideAQdH8Nk69CCr1avv1VFUAu8VFlZavB6w9t47yW6XMhaJW8lD2NZqBEEj7FlP0Of5+kaTlNoqcdbZPdEULkhZ/Xs4y/WAQPC80aiLGmn4g==;ifT4whqCH6WFOv8iIzL8iA=="
 ---

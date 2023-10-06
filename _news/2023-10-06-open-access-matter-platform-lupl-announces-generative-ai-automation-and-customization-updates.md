@@ -109,6 +109,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
+    excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
+    publishedDateTime: 2023-10-06T01:35:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2853"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 26
+    images:
+      - url: "https://mma.prnasia.com/media2/2237422/Employees_Businesses_Open_Embrace_Generative_AI_Concerns_Over_Jobs_Skills.jpg?p=medium600"
+        width: 599
+        height: 422
+        isCached: true
   - title: "Opsera raises $12M to introduce generative AI DevOps features"
     excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
     publishedDateTime: 2023-10-05T18:59:00Z

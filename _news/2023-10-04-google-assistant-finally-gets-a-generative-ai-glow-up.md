@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Generative AI at the BBC"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2023-10-05T20:46:00Z
+    webUrl: "https://www.bbc.com/mediacentre/articles/2023/generative-ai-at-the-bbc"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google unveils Assistant with Bard, a new personal assistant powered by generative AI"
     excerpt: "Google introduced \"Assistant with Bard,\" a new AI-powered personal assistant that combines the generative and reasoning capabilities of an AI system known as Bard with the personalized assistance of Google Assistant."
     publishedDateTime: 2023-10-04T14:30:00Z
@@ -98,6 +112,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
         width: 1844
         height: 1246
+        isCached: true
+  - title: "Google is accelerating AI on the Pixel 8 with its Tensor G3 chip"
+    excerpt: "The enhanced AI performance is the main feature upgrade of the Tensor G3 chip, the most powerful Pixel chip so far."
+    publishedDateTime: 2023-10-06T01:20:00Z
+    webUrl: "https://techwireasia.com/2023/10/tensor-g3-chip-enhances-ai-on-googles-latest-pixel/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/000_33XD9HG-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
   - title: "We tried the Google Pixel 8 and Pixel 8 Pro — and their wild new AI features"
     excerpt: "The Google Pixel 8 and Pixel 8 Pro promise slicker designs, better cameras, brighter screens and a wealth of promising image editing features for getting the perfect shot."

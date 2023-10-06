@@ -54,6 +54,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sources: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential"
+    publishedDateTime: 2023-10-06T01:17:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    ampWebUrl: "https://www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 74
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/06/152495.JPG?v=1696557960"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "ChatGPT owner OpenAI is exploring making its own AI chips: Sources"
+    excerpt: "SAN FRANCISCO/WASHINGTON - OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence (AI) chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
+    publishedDateTime: 2023-10-06T01:53:00Z
+    webUrl: "https://www.straitstimes.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/06/ITALY-TECHNOLOGY-AI-175154.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "ChatGPT distracting from wider AI issues, industry body warns"
     excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
     publishedDateTime: 2023-10-05T09:55:00Z

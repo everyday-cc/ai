@@ -157,20 +157,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "People Are Souring On Self-Driving Cars"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What happens if you get in an accident with a self-driving car in TN?"
     excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
     publishedDateTime: 2023-10-05T03:22:00Z
@@ -227,24 +213,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
 secured: "q5HZmMqiNM87GwqfWRrT+JUMKY0M2KQ8l3PABpORP8CpQMrpA0tA12jrztToAXY5tHSLmKRnc8GVqPMDJcbOfXA427zrC4Eb4SBSJ72VLcRw7KoRH0v1oOR/5fRZP78/Bdl8d04UAvvOpruORxzEPjDBd29oIkGzGu7i9OSQCHMIkglAAqC+lumsvk/Y+zC0oj7S8qZXJGaAsHhyDX3nir/+Abce1vMcj/EnPkLXjw+UL7bdxrkjR5pWHjSFpY0LgREAGFG2vzdB5meXuiJzgV4zjzIB3OF4yri3vcoDh5SH4lwZ9w81FXwrbowqrU3TlXB5cpicTAj7oqU5ZMXnpX+iB2avLhW/xi7Y3vB3f9sPO1x7KNtIg9biSuhxYAl4+g2JiWayNgKfxoFTnXqCWfN+l8ALxBYpf/0chk5swW1r/IFTxcheYBpdyQswinwH1miOPQJ5XvZsHn+HD2o6SxC71aAhIYwxjN++k/zdqKdgCD+rw0TyTdUfv+KnpVx6pj+WTDZm2pDfa9xqf2i2IA==;0bqeyXMXTeHjc9l6Yhi2wQ=="
 ---

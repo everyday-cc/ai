@@ -2,26 +2,28 @@
 category: news
 title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
 excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
-publishedDateTime: 2023-10-05T23:10:00Z
-originalUrl: "https://www.mysanantonio.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
-webUrl: "https://www.mysanantonio.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
+publishedDateTime: 2023-10-06T01:16:00Z
+originalUrl: "https://www.wfaa.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+webUrl: "https://www.wfaa.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 56
+heat: 86
+published: true
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
-    width: 1200
-    height: 804
+  - url: "https://media.wfaa.com/assets/KVUE/images/f8780d49-b3b5-44ae-a983-32e51110b0a4/f8780d49-b3b5-44ae-a983-32e51110b0a4_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -71,16 +73,7 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Cyngn Revolutionizing Labor Shortage Challenges Through Driverless Forklift Partnership, Featured in Forbes"
-    excerpt: "DriveMod uses artificial intelligence and sophisticated software to transform ... Together, the companies have embarked on a journey to integrate driverless forklifts into Arauco's operations, culminating in a 100-unit DriveMod Forklift pre-order."
-    publishedDateTime: 2023-10-05T12:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893356.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
-secured: "CvMKSySjnR83xslaTQTSQPpEacOzR+SLAUBp2MrO2OLGO0+VRY7LjUDPRhbjmAHN+wpcviPc3brLZ1+I2CY36pVomgfRkoLPDM4MgGOlAoOWkDEUNoisko370Zpapc+fXEF/2nj/1wqMNL2iKcTGF0zo7XEZwsyZJNZVXxO0/FIWdhQE+9DKcS0D+1ITRsgzc6kphLxR5POV3mC2Ney8dp+Gs/g2RXk1typwM2VV/s5E2vG/scZApbabW4uAwEMLQKM5zV5Gdqn8BF8nP8thPxA1WkHI3UD1LQoQkJFWnmUbbZHFrRKL6LbQreF3NoUdbbQUx4a5sIZ6qndQqEdWDUvIFh0T7qjrWzUKDfrAcMI=;CMX7Y9W98UPSgHyggmZXvw=="
+secured: "G3uUCp3OeigOeeltO/v/fzW3gPzDUsL+yXVQ41rThfnbanTrpmU63AfXHRsur4hvFNvMsCyszjexF3s7gDfz/mCPzoPSr0ZoUExxxMXC8WL2hEKASsViXWzP9kWMAYUzx11YirnoUHxnM2wjVCJaEAMByVZgEPFUqfqbSJjfUOAMCB58pBdD6OsT1xLoK36LUBf3RRwL6G9zlLfoRCvP3AU7KzKj/MNmFv6kAJkBOppGFMHOk09qzTxFzs8kUMMIRGAqqKX10uaGXMS7R2kra90yC0PeGAkqrG1CiSWz8qXqOWhUF9vB/PSG763fUx41qY+l1usrNMPSgDbNgJ93z3W5SVaUC0bcRTHdoV7P1es=;IFJ25iE2Ldmr4fHxKpZl+w=="
 ---
 

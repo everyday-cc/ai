@@ -101,15 +101,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Meta Technology Chief Defends Tech Titan's AI Strategy"
-    excerpt: "Meta's chief technology officer is quick to push back on assertions that the company has fallen behind rivals like ChatGPT in the explosive surge across the tech industry in generative AI."
-    publishedDateTime: 2023-10-01T07:27:00Z
-    webUrl: "https://www.barrons.com/news/meta-technology-chief-defends-tech-titan-s-ai-strategy-93a1a888"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "aXtKHfLQjOk9FKpt8fklxe+yMdyV7kyXmKib8kNIk48FaLF3s6W16sbr8/EylZum8/aQ279weZ+qz0i6/lEnH/XMhHdomxmg+dvV+J/FSAIqgnJVUx6zcQYZaZYtT5B+YH2/J1SCDn+ra5LQb+Nl/aobhCNjBTm0PO+eurPaqLh/NANTz6SyaiIeS7WwO8mVE/E+4UiYBZbt7nBf0USNivL6wrdcT64jjae9AO46LUrg4lL4xOmOU6BiEDBDwFfC5L40/hnTtnkS1hEkkTD/T7Gqbs4QJl/CAi8Kf9P+8FDfXul0D26XaIj744Z9hON+fLyPuSQ8HSna0y8qIgOm4w2DWhKytPL8VGLLJPwCkN/UzF+uNV8onSlzRNS7XKzYOPyvOITQkIhkeA9kfmMOEgVpwHqyKONO4Oj1IH/MaTVBfQMOOq2FxWouS6weg1RUMywstz3g1d/o4DUNsMzU7CtIRvDDxCPM4Jfl/N52TSz/JHKy9PffRmdL+6ai1ZFs0dJHnROjEHbtNYCPykeMGA==;88MIuG4f6gGEA7xsa+zbkg=="
 ---

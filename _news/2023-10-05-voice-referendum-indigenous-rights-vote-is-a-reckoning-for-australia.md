@@ -2,25 +2,27 @@
 category: news
 title: "Voice referendum: Indigenous rights vote is a reckoning for Australia"
 excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
-publishedDateTime: 2023-10-04T19:32:00Z
-originalUrl: "https://www.bbc.com/news/world-australia-66944609.amp"
-webUrl: "https://www.bbc.com/news/world-australia-66944609.amp"
+publishedDateTime: 2023-10-05T04:08:00Z
+originalUrl: "https://www.aol.com/voice-referendum-australia-playing-catch-151705753.html"
+webUrl: "https://www.aol.com/voice-referendum-australia-playing-catch-151705753.html"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/631ccfa74992b516681755c5d2cc2777"
+    width: 976
+    height: 549
+    isCached: true
 
 related:
   - title: "Support for Australian Indigenous recognition up slightly with vote underway"
@@ -50,6 +52,22 @@ related:
       - url: "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
+    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
+    publishedDateTime: 2023-10-06T00:34:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
+    images:
+      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
+        width: 620
+        height: 372
         isCached: true
   - title: "Voice referendum: Is Australia playing catch-up on Indigenous rights?"
     excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
@@ -116,6 +134,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "oI7lzeBXMMciIIUBtY0uGrPs3NfhX/sD279Gx4IIBY9aQnK5QYtot/eFX6PWdQAivieeHnMTF/7JTozVlLxHJ3vNnDn42K/PnYZTP5Wq05NWMRb8+RXFl3cpWix45NX+5ul4rH1y2w+rUeMVr4FKG28w8MN+8Yx6Bxanv2sbPUu/8XQbwWaY6Qy906qGlS2JoXMDZ8oZdk4fd7fdS9acWr/2Cic+kJ8cIomj18MH0IF0dKyMchP3A7x40o4xDURWADYJnWMYpMHhNdLVV1CuuweF1dKTaDxDeIdHNdalFY7kgu6beA+oACxQe9SqbDq5l8MpT17cB6EFiBedacAmv0jq3i0flxYI3LsNln95J36g03ou9hRkhlyToe6BOowDjtHqk0qflmh/xhkgcoxO4IqD3fGcwxbd+8/xN3XQY0jh1yEM3Xpdx5WCueaAQojL+wDZzpuVNWXzQ1yl02P5HOanqhEuah5hqGRRJYYwgL2Z2nyIo31l3yjfodYp8Uo8X37UljcqCTYdrSBbXBnNfw==;B/bJsLb94H5s9nBqPhurOg=="
+secured: "qrWt5Ls+lKvLwbgHwqzmTJvC/WISQeDnFC6kfSY5svIeXYJzgzapZNr/nnBq0fRViHGXsmTw78d9A2YHxHj3PN9lJmAzdNhwe03UNgN88wU7o7Z74FxCOfVV1ENxjzj5KmjYZ6+JetJHhrQjdtl1vqa8Oknt0gFjyZLR7Ci08khe9hHZW7zmyc3zHpzEC1GV64L0+UafSfxNgd1JUo4dScoUfMQDLycVYQQBRbn/rK0h10c+jA7jxNcMsdwvgxa4aTYLSDZ0eg0xNOrT4WfjMruVbHAXwDzJiGGv5crB1j4iyU62MsJcBPd1A2iiD+eaCqz15m+FOJgQytmbaq34/mOWi9344br3sHvGMKbiwjs=;q2BKDZvWy9WpQOviXLncMA=="
 ---
 
