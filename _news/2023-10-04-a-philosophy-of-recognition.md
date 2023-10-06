@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "MPs and peers call for ‘immediate stop’ to live facial recognition surveillance"
+    excerpt: "UK police forces and private firms urged to drop technology due to impact on human rights"
+    publishedDateTime: 2023-10-06T06:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/bae772c8b30911becc38ec36bc0e377f2d3ff713/0_270_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=823bb1db2294cf7a1ea42664b4b65100"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Retailers want sector-wide use of facial recognition"
     excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
     publishedDateTime: 2023-10-03T23:37:00Z
@@ -58,18 +74,18 @@ related:
         height: 395
         isCached: true
   - title: "MPs join campaign group’s call for facial recognition ban"
-    excerpt: "We hold differing views about live facial recognition surveillance, ranging from serious concerns about its incompatibility with human rights, to the potent"
-    publishedDateTime: 2023-10-06T05:38:00Z
-    webUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
+    excerpt: "MPs and peers from all sides have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T06:39:00Z
+    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/23837679.mps-join-campaign-groups-call-facial-recognition-ban/"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
+      name: Telegraph & Argus
+      domain: thetelegraphandargus.co.uk
     quality: 54
     images:
-      - url: "https://static.standard.co.uk/2023/10/06/05/c9bf02f7f09dec0e6259925340a0222eY29udGVudHNlYXJjaGFwaSwxNjk2NjUzMDY2-2.49806345.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
+      - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
+        width: 945
+        height: 630
         isCached: true
   - title: "The rise and fall of Clearview.AI and the evolution of facial recognition"
     excerpt: "Facial recognition software has come full circle, from tech darling to tech disaster."

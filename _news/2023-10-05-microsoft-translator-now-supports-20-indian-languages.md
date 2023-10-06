@@ -140,6 +140,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Microsoft Translator gets four new Indian languages"
+    excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
+    publishedDateTime: 2023-10-05T22:49:00Z
+    webUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html"
+    ampWebUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 61
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
     excerpt: "Bing Chat, an AI chatbot from Microsoft similar to ChatGPT, allows users to upload images for the AI model to examine or discuss. Normally, Bing Chat refuses to solve CAPTCHAs, which are visual puzzles designed to prevent automated programs (bots) from filling out forms on the web."
     publishedDateTime: 2023-10-02T19:58:00Z

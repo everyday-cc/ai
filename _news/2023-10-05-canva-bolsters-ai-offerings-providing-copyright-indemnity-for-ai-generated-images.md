@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Rising Role of Artificial Intelligence in Insurance"
+    excerpt: "Welcome to the future of insurance! Gone are the days of piles upon piles of paperwork and lengthy phone calls with agents. Say hello to a streamlined, efficient, and surprisingly human-like experience,"
+    publishedDateTime: 2023-10-03T13:25:00Z
+    webUrl: "https://techbullion.com/the-rising-role-of-artificial-intelligence-in-insurance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Insurance-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "KPEr8EtSf8oQq/jp4XI4GK8TyIxgnQPdCc2TOT/c2bDVFNyvRr3RO/e360CmOrdi2fHFBfdIIMR42rJBYMDvj39qDMkLP9w1v1L/899QRl4J0lQj+SA4U7Ht+1+OYWDl13lVnAXOoE/gH9EQRNcAzQyEYbJlGVPzVXENd3W7mHPmbdipizMrxMJ+B4BN+Sa311MPvh68aufLr1ucWpy6VEgt2MBwkZGue1kp8Jooe0SAznHT36q8bpYb7HN4YMEP68AwB4qc7M3u2QwOkvfg3ZpHpBypkq9Xq3sJdKKHufI2goorzp6dwQjN10IayXQlO53a5V0dxpd7nXBxs6Fvu3TwuV0ES5hzC2Z4Mv9+VWS2txbf91xCOUwNI2C35iuIGQAHx22Wp1uj/S5hvlBI7CGsTwponcmfRu52sfmG6ikrXbxtvi9QOr7gEp9S47BAEEZp/P7dpKbHn91q4mkknUOHrsdOk8FKAgDFcqWKPARzewu/gf979wRvCXryjcV7lYQtCdlycOd77xwygZeOZA==;MD1PQmGHY2uqMoOXjVaD1g=="
 ---

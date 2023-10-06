@@ -56,6 +56,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "OpenAI explores in-house AI chip making: Report"
+    excerpt: "OpenAI, the ChatGPT maker that has been behind the recent AI surge, is now looking for alternatives to avert the shortage of expensive AI chips it needs, to run those advanced AI models. These chips,"
+    publishedDateTime: 2023-10-06T06:28:00Z
+    webUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/"
+    ampWebUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 74
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2023/05/48838377432_d109be2066_b.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "ChatGPT maker OpenAI plans to start making its own AI chips. Here's why it's important"
+    excerpt: "OpenAI aims to resolve AI chip shortage by diversifying suppliers and testing custom chip. The company has also been exploring potential acquisition target."
+    publishedDateTime: 2023-10-06T06:45:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important-11696569243350.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 66
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/06/1600x900/OPENAI-FUNDING--1_1696569546695_1696569602090.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI is considering making its own AI chips"
     excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
     publishedDateTime: 2023-10-06T04:30:00Z

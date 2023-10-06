@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "MPs and peers call for ‘immediate stop’ to live facial recognition surveillance"
+    excerpt: "UK police forces and private firms urged to drop technology due to impact on human rights"
+    publishedDateTime: 2023-10-06T06:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/bae772c8b30911becc38ec36bc0e377f2d3ff713/0_270_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=823bb1db2294cf7a1ea42664b4b65100"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Retailers want sector-wide use of facial recognition"
     excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
     publishedDateTime: 2023-10-03T23:37:00Z
@@ -46,18 +62,18 @@ related:
         height: 395
         isCached: true
   - title: "MPs join campaign group’s call for facial recognition ban"
-    excerpt: "We hold differing views about live facial recognition surveillance, ranging from serious concerns about its incompatibility with human rights, to the potent"
-    publishedDateTime: 2023-10-06T05:38:00Z
-    webUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
+    excerpt: "MPs and peers from all sides have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T06:39:00Z
+    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/23837679.mps-join-campaign-groups-call-facial-recognition-ban/"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
+      name: Telegraph & Argus
+      domain: thetelegraphandargus.co.uk
     quality: 54
     images:
-      - url: "https://static.standard.co.uk/2023/10/06/05/c9bf02f7f09dec0e6259925340a0222eY29udGVudHNlYXJjaGFwaSwxNjk2NjUzMDY2-2.49806345.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
+      - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
+        width: 945
+        height: 630
         isCached: true
   - title: "The rise and fall of Clearview.AI and the evolution of facial recognition"
     excerpt: "Facial recognition software has come full circle, from tech darling to tech disaster."
@@ -155,6 +171,6 @@ related:
       domain: mobileidworld.com
     quality: 19
 
-secured: "N2JNc9dNk8DRRtNu1fHGQsm9MT12H9vUBUjfQeimdl+88xJEmhOVOLKNCq93cubQXcN1FTixxOLg+qTk6OxXzIY0XGxrGxzzl8Z0d2zOLc34hxRkcCtu+U2GD+9j0SOuGvxu1swQv01W5//+1jPMcwYLiEzbDK15IfwIxN/WefSADY0Oc9/jBvPDz8F6bbxbANRo7lSdoA/r/Dz8UpuyCy19PbjiFGmF8CIt5LmPjbM0KkKsFftj2KRrdCP6/opMv37k9lzM2CDfPtcjPjLmx7fAAZ/s8BAbUYjUBn9ORfLIKTMYPPnaIPn7b+SlDC12yf2iLsaphu9nGIJco9tZHOH16g9mzrtBwFWnaZSEBdp34aosg+8W80KEUPg7GF1PIyOkFbD+nYXH1Mqj4sduzDH/3qwLqgbW86Bq2l1la9b9PLE0xSSwv2629vtUX4D4yLP80mE3UtvnljOnfvPQpXVn3rC/0Q0Z9Of8fn+olsMvXCYZQX9K8EOeFWRTXB4Hg0p6ZAfuVqmZ7xpGwIGAIw==;Hznz+zB/vgW34+W2JZO4Xw=="
+secured: "nLgBHJkcEHjffUFz1QBNfAbL5Hdp6n30/Fc8xD69fvy9FvHJCprS8ILprKqzKpAhgLbl/1CZ9D+Smp1p595jV9DzGWebYOm+nq7ODA7AlHx76tiHlXEVoH5Gd15A6uqAv3yZAPF6bDLfREFv9qEiK63Y31iWV5q6l95rVGmjX/0DjcCYm4U27bAvkih74UyYrPnTwRcLwZFzTx+iGrThtQsKeHa7Hn9y9rC0ObUR9qUrpTGKBvJ3LJjiFS57SanSTpW9zC1q2VUgiiLGlLk9DTsHwQC1Gx57U79+cP8k82Zty/mjwimcRY3tgmh47NPjFmk8nF9lvYpfiLv5T+nJqpeqt7jHwQkBh2b8ylz/Mjw=;1PLuSQ2rcNqBAHgMWUXl+A=="
 ---
 

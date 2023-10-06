@@ -1,27 +1,27 @@
 ---
 category: news
 title: "MPs join campaign group’s call for facial recognition ban"
-excerpt: "We hold differing views about live facial recognition surveillance, ranging from serious concerns about its incompatibility with human rights, to the potent"
-publishedDateTime: 2023-10-06T05:38:00Z
-originalUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
-webUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
+excerpt: "MPs and peers from all sides have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies."
+publishedDateTime: 2023-10-06T06:39:00Z
+originalUrl: "https://www.thetelegraphandargus.co.uk/news/national/23837679.mps-join-campaign-groups-call-facial-recognition-ban/"
+webUrl: "https://www.thetelegraphandargus.co.uk/news/national/23837679.mps-join-campaign-groups-call-facial-recognition-ban/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: London Evening Standard
-  domain: standard.co.uk
+  name: Telegraph & Argus
+  domain: thetelegraphandargus.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.standard.co.uk/2023/10/06/05/c9bf02f7f09dec0e6259925340a0222eY29udGVudHNlYXJjaGFwaSwxNjk2NjUzMDY2-2.49806345.jpg?width=1200&width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 800
+  - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
+    width: 945
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +40,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "MPs and peers call for ‘immediate stop’ to live facial recognition surveillance"
+    excerpt: "UK police forces and private firms urged to drop technology due to impact on human rights"
+    publishedDateTime: 2023-10-06T06:19:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/bae772c8b30911becc38ec36bc0e377f2d3ff713/0_270_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=823bb1db2294cf7a1ea42664b4b65100"
+        width: 620
+        height: 372
         isCached: true
   - title: "Retailers want sector-wide use of facial recognition"
     excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
@@ -151,6 +167,6 @@ related:
       domain: mobileidworld.com
     quality: 19
 
-secured: "6U7cjm44Ir9aYdZ0qrtjrDYHiLuyxElkmLAuhXc5Gu/QDQ5kWYtONd/UYqbhijBr2jX3ffIbmmhUd+D/kATGLlY3yWKh97pden8YqSmOZpEE1Bj0eGBVt7h+k4vt2bXbcP4eWs/gKJTgNCNqerUhZamI4huwKvqNyocJBTJIqLeY9DwWjjwOZpU3fYnXCHAa1BX/HVY7jGMM4ER4PWwC0T7dmuEF0kzON6qKfyJYTxZfu83pQ+iPAcn0+fkuO9N1bXo4UIS9Q5Z0xl0eW0hK3GHTpLA11oxWsvJGzfY3VToMs+VdRlLQsVFERK4iaZYL/bwNuTcmYohI7i9BGRmj7hhx6ldharnLl/rdDF6e4Bo=;2mb4z1MJ/uqhokjQYEh2Aw=="
+secured: "5xsfKLLlMAVX7TcWcdSUdqUV8HffX6bp9HYpUXc+J6hDebUQOOQe6exA1IXkmYoKMRgOsyFLcjdesRBu+IZAqpmaVbgDEnz4uey4B61QAyt0eYhZUvqbCKwt1w/2iJzhNVmLuZrljU22kxQ2Wbekk8YCvDUoLO+Y+H4LUMcdOlMWF6i2999BcywAxqoc9MTc8+RaI1ts3PdfqhAYU8xTYE0WfJWga1mEgD2TKhav0wCXKNmTRV8ZrTWXz4QiyvNSWUFsCFVNHjQiCBSd8UlZO6XCNA9r7CJbyLXU7EsDolCY35C6iUWBwk6Mnadb1p0ZUjy7wFVUnlAZcfd9ZnIIYZLxCqsZCxzUKrxp7VNF6wA=;gTXwCdCsP1xkxvzw05ZZGg=="
 ---
 

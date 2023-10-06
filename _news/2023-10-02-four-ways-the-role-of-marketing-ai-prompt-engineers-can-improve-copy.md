@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Rising Role of Artificial Intelligence in Insurance"
+    excerpt: "Welcome to the future of insurance! Gone are the days of piles upon piles of paperwork and lengthy phone calls with agents. Say hello to a streamlined, efficient, and surprisingly human-like experience,"
+    publishedDateTime: 2023-10-03T13:25:00Z
+    webUrl: "https://techbullion.com/the-rising-role-of-artificial-intelligence-in-insurance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Insurance-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Canva bolsters AI offerings, providing copyright indemnity for AI-generated images"
     excerpt: "With Canva reporting that its AI tools have already been used 3 billion times in six months, the visual communication software provider is doubling down on the technology by adding a brand-new suite of AI-powered design offerings."
     publishedDateTime: 2023-10-05T10:15:00Z

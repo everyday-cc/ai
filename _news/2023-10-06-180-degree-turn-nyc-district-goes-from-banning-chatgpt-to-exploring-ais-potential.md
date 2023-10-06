@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email"
-    excerpt: "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!"
-    publishedDateTime: 2023-10-01T13:12:00Z
-    webUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/"
-    ampWebUrl: "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/"
+  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target."
+    publishedDateTime: 2023-10-06T04:18:00Z
+    webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651829d4d7d9789d5dd0259f/0x0.jpg?format=jpg&crop=3544,1995,x0,y183,safe&width=1200"
+      - url: "https://www.reuters.com/resizer/AYDTLmV1LPipfgBXyKlapFZSymk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCPUZRTQHBPT3A36QWC7ZIBZZU.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
   - title: "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances"
     excerpt: "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning."
@@ -73,6 +71,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "OpenAI is encouraging people to use ChatGPT for therapy. That’s dangerous."
+    excerpt: "Now the company appears to be encouraging users to think of this as an opportunity to use ChatGPT as a tool for therapy. Lilian Weng, head of safety systems at OpenAI, posted on X, formerly known as Twitter,"
+    publishedDateTime: 2023-10-02T10:00:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna118058"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 72
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230929-chat-gpt-therapy-cs-3fafee.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
     excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
     publishedDateTime: 2023-10-06T04:04:00Z
@@ -84,6 +98,36 @@ related:
     quality: 68
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/06/f766d764-37e7-44a4-b8ff-55abaf92d6cc_9d899f76.jpg?itok=-r1GFiTG&v=1696564271"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ChatGPT's Silicon Ambition: OpenAI Reportedly Eyes AI Chip Domination Amid Nvidia's Reign"
+    excerpt: "OpenAI, known for its AI chatbot ChatGPT, is reportedly contemplating developing its own AI chips or possibly acquiring a chip-making company to address the ongoing AI chip shortage and reduce dependency on Nvidia's GPUs,"
+    publishedDateTime: 2023-10-06T03:13:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35119686/chatgpts-silicon-ambition-openai-reportedly-eyes-ai-chip-domination-amid-nvidias-reign"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35119686"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35119686"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 65
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/ChatGPT.OpenAI.Shutterstock_3.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
+    excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
+    publishedDateTime: 2023-10-06T04:17:00Z
+    webUrl: "https://www.deccanherald.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-report-2715018"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 54
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F63302664-37f4-4e0b-a85c-8b6fc2ac8611%2F2023newsmlRC2R3Z9F6OUK821735775.jpeg?rect=0%2C0%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
         isCached: true
@@ -101,15 +145,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
-    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
-    publishedDateTime: 2023-10-05T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "ChatGPT distracting from wider AI issues, industry body warns"
     excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
     publishedDateTime: 2023-10-05T09:55:00Z

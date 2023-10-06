@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/02/freedom-on-the-net-report-highlights-dangers-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "DIGITIMES Research highlights the market currents of AI servers and bottlenecks within the supply chain"
+    excerpt: "The surge in demand for generative AI and large language models (LLMs) has attracted major cloud service providers (CSPs) and leading server brands to participate in the competition for AI servers. Their focus is on high-end AI servers that primarily rely on High Bandwidth Memory (HBM)."
+    publishedDateTime: 2023-10-06T06:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20231005VL205/ai-gpu-ai-server-supply-chain-cloud-service-provider-digitimes-research.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 23
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231005vl205_files/6_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "Uu1CFuTX8uO/3Q9YMBQwXu9KU6CDRDPnvkfv5vgTFfhuIzwFrFIdNBXjYneZorpxDiw9YUf7YBb5Fuq1GjYxfhfrZYA60t9RDGNK9Qoq5ol+xuV2tR8IkD0Wb1JWTVPkpG63844ft4JZ++03l0OrccAQ1A4qdjCE/EiCpJqBj/wc31QbvBYCDwVuhHG0LdfZ/RFBO6t/qtDJ2NWMxDCFQIw0LIG2vKKrIbbVBYaQTauWrnS/UTKQL6phvepWxfacAtcNhm5Zcl3luP2g6YOwUYjxKCymN6vSlokrQADtOfM96ywiXulOZXvvz+Wdj3M8+d5SYUGky94R0CiX7tZwl0ChuRI45Qi+kkSd1nypOog=;k6jSv4A/3VCP5HtLecaZkg=="

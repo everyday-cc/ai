@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
-excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
-publishedDateTime: 2023-10-03T20:29:00Z
-originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
-webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+title: "Instant evolution: AI designs new robot from scratch in seconds"
+excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
+publishedDateTime: 2023-10-04T00:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: mccormick.northwestern.edu
-  domain: northwestern.edu
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.mccormick.northwestern.edu/images/news/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds-social.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Robots crafted by artificial intelligence: Instant evolution"
@@ -40,6 +38,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "Vin4EEfDl01fJPpDdbG9WUPK9FtR4VDUM7bXARadJaz8idpb6UATdAgQ09H+k1FtUDTUEWkt1ZACOuzbny7mKvuEkPrNKsXBxqzP46HKgRhfxl9wlcJ4Ok3sQe9AiufP+8NOQm78vHvdYuNXa3Buypzzcvwwlva2CjWxT7VXvMJxCdp69VfFDelD6qUHMUifY/UgnUttfjA9qkEgs5CWJzxLsX/u8a5cPV968YAm06ZkjDvTQaViyQd1VSzJCLz4zwYvHS5HxXOwy4N6lIdG/tsbuSW3f7/z0jUZEMuczVQC2NWwBATcVAy58w+YMGVC5St6SOS5wlvUNhalQIa+vrOTRaburEROl3r8jRUI9as=;/ytCXhwrXZB+GBH8ElII3Q=="
+secured: "wuUKCHo7gA97jDWnbr9ObzvqkoF+Vb86Me3vsDOtjySmkn677n/ZtOI79KsFjOpAvYoFICoFBxin5Wsstjvgwe8dMal91GQsi0pxEnPCH5owt8/NiDE8KINL+fd6s/jWpPSinYW/6eNk0xgsbrJWX6uVYQfuzTGSdV1SXhZcneS75mMLtLFB8+LJm5is2rYOUwd2o0W0NbroEtJ3bsUG8rfmiuB3cHxVwjEDseOkbMF9nDtxQEQ1YI0IsHV3Q1vN71ugStjSj9SzqtT4X7DYEJkSQs0PKl0KuN4IJIzW7xH7u0usplNnLEtAOr3gX1PqsVlQlf833p2JOqsMdUlQa8bamjrJk5He8i62c+cy5ZI=;no+alxasYKyUSMEFGhCFYg=="
 ---
 

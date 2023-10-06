@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 833
         isCached: true
+  - title: "DIGITIMES Research highlights the market currents of AI servers and bottlenecks within the supply chain"
+    excerpt: "The surge in demand for generative AI and large language models (LLMs) has attracted major cloud service providers (CSPs) and leading server brands to participate in the competition for AI servers. Their focus is on high-end AI servers that primarily rely on High Bandwidth Memory (HBM)."
+    publishedDateTime: 2023-10-06T06:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20231005VL205/ai-gpu-ai-server-supply-chain-cloud-service-provider-digitimes-research.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 23
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231005vl205_files/6_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "mhMAdCsGzjg7uMhMfgBDeL21gYDn+QtECfy9o50O+oGTJ2TUinubDn4ZpJXPDwordzxkVFTlB5/fFRa/5VtqVabl0fyj/0WtA0M2zZo9+BWV+AFjymBtiLi7vwk/6NK+vtt5OH4V6ei90zrL8Y7WIF2ssfqd01/nSYUjnAP7z/Nlzw/pM2NJ07SQpt8n7sFmbmvIgXknfX0MVdvsZVEmQSlyy32h/MLFYP12o2iKFZsIOaMbPwY5LazbBeYA1ayZL8+zn2AHT0OpVeiTVvZ14CEW7rIDy6PUSzOo3XqyWIt/eBDf1V5o3CUsxNAG2dnAjJDm7aBxOWvrFs1iuokxeDHUshH2sdlYbVY24itDUfi+0VCqok1tz1JmMaG1utTv/JbfLd5hxEzjJfcy25pjJk6Q/h0WtERdmOgrvrBzaKieGcxzprzYNwVzUgsQy0Jcjp5UFZW8NEZQGTx9DMrF4VzW/b96bP4wnbANTu719GuLBIytq3ZAQbjwV4llVyQM8cEUtJqmxjcuSeA3yRigYQ==;3P1L5gvjcPwRT0+251SzLg=="
 ---

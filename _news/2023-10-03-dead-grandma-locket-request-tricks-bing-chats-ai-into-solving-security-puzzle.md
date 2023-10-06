@@ -143,6 +143,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Microsoft Translator gets four new Indian languages"
+    excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
+    publishedDateTime: 2023-10-05T22:49:00Z
+    webUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html"
+    ampWebUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 61
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
     publishedDateTime: 2023-10-03T15:12:00Z
