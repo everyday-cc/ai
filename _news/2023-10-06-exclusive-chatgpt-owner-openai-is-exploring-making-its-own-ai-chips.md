@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-explori
 webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com"
 type: article
 quality: 84
-heat: 184
+heat: 224
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI is exploring making its own chips as AI companies scramble to overcome the global processor shortage, report says"
+    excerpt: "OpenAI is considering building its own AI chips to power ChatGPT, in the latest sign that the company is diverging from its partner Microsoft."
+    publishedDateTime: 2023-10-06T10:26:00Z
+    webUrl: "https://www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/651fd1b86e038039826b41eb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances"
     excerpt: "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning."
     publishedDateTime: 2023-10-02T14:30:00Z
@@ -134,6 +150,48 @@ related:
       - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256139.JPG"
         width: 1000
         height: 666
+        isCached: true
+  - title: "ChatGPT owner OpenAI wants to make its own AI chips - report"
+    excerpt: "OpenAI, the AI startup behind ChatGPT, is reportedly exploring the possibility of creating its own high-end chips and has considered potential acquisition targets to address the shortage of expensive AI chips it relies on, according to Reuters."
+    publishedDateTime: 2023-10-06T10:42:00Z
+    webUrl: "https://za.investing.com/news/chatgpt-owner-openai-wants-to-make-its-own-ai-chips--report-432SI-2887529"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/news/AI_800x533_L_1688636864.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "OpenAI may produce the hottest commodity in tech: AI chips"
+    excerpt: "As per a new report, OpenAI may soon become a competitor with NVIDIA – as it seeks to produce high-end AI chips."
+    publishedDateTime: 2023-10-06T11:35:00Z
+    webUrl: "https://interestingengineering.com/innovation/openai-may-produce-ai-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/06/image/jpeg/HmeSRzjUwicPmMpGRoTl6WHf11NHIHj4x5NdBiaa.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "OpenAI wants to develop its own AI processors to combat GPU shortage"
+    excerpt: "OpenAI wants to develop its own AI processors to solve the shortage of specialized processors, especially GPUs. To this end, the generative AI specialist"
+    publishedDateTime: 2023-10-06T09:52:00Z
+    webUrl: "https://www.techzine.eu/news/devices/111987/openai-wants-to-develop-its-own-ai-processors-to-combat-gpu-shortage/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1458458495.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "ChatGPT distracting from wider AI issues, industry body warns"
     excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"

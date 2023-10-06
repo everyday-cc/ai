@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-bas
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 390
     isCached: true
+
+related:
+  - title: "Kochi-based entrepreneur develops robot to tap toddy from coconut tree"
+    excerpt: "The robot will not climb all the way to the top of the tree by itself but someone must carry and set it against the coconut tree’s inflorescence at least once"
+    publishedDateTime: 2023-10-06T09:45:00Z
+    webUrl: "https://www.onmanorama.com/news/kerala/2023/10/06/kochi-based-entrepreneur-develops-robot-to-tap-toddy-from-coconut-tree.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 39
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2023/10/6/toddy-robot-main.jpg"
+        width: 1248
+        height: 650
+        isCached: true
 
 secured: "r0R2Qlr4MK7BVHTVG6Mo3GYSJ0br4sErgOY5o0FGuDsDC7EOEbJ4bITV0zFPwujFUJPRxjdpnkcJNUa1OSIss2v/dHwKjwc5770pKgtRHPR4NE+VYVqC0CCpq01Vz0o6bpIdOOLzyXVaACEd+5F5HCLJH+UsvFCSdV7embElJVy4gPNknazzYfL/tNry/EUVoDHgEq7QhXMpXyE/6aac6MFNsK/xs6ETKwaXWRsrgfn4r7urEyk5sfAzKCKGAcEWwiXtNUvhSgP8Vn5ZkB7gf9q9+IXcvW5EP6DQBGcwyVM71gUaTSk16xuuFnGcB7grf3BbAhjYbnOeiOhg1a9Ewh2VfzzmyN2WdSciWUdv8M+rY7mzH+FbvRvr/5cU4/ch81u3UerfbHzZH1I2d3m54I287xt36+EfrganzUjPlOuZe9ZraIspjqYk0cWE9RvZyNOTdmkMPUH+r8hlEViZVaLOLMGNi/bvms8fMTVdTf/Hih0pWFAarKb7uTS8+optV4Tomo5WHYPFDpuqmwMNFg==;GQ5ksnIfizbv1dQOIU/ucw=="
 ---

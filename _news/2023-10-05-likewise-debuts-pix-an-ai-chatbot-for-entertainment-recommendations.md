@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
+    excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://legaltechnology.com/2023/10/06/linklaters-explores-gen-ai-with-googles-vertex-ai-for-search-an-openai-chatbot-and-cocounsel/"
+    type: article
+    provider:
+      name: Legal Technology
+      domain: legaltechnology.com
+    quality: 27
+    images:
+      - url: "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
     excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."

@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/customized-test-benchmarks-and-openness-c
 ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/d039fd7760b5fe0894f985195ed1f16ac2e93d0c/2023/10/05/b3bc94d2-7bbd-4136-8189-bb8a0ed7c09b/gettyimages-1403599191.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -45,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google Home will get a generative AI boost, too"
+    excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
+    publishedDateTime: 2023-10-06T09:50:00Z
+    webUrl: "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Amazon Partners With Anthropic To Develop Reliable Generative AI Models"
     excerpt: "Amazon already collaborates with Anthropic to develop reliable generative AI models that will allow AWS customers to do things like automate common tasks."
@@ -218,6 +235,6 @@ related:
       domain: manilastandard.net
     quality: 19
 
-secured: "cWGwN44YTmBm6wDqOeYGnG4yZ/MwSixEtdijYGiJiJ32Mc2pUUZuOXK91lqUCAlzhkER/lJrzfhXYzE4DgtE6a0dshaxGcUMtILLZc1K+8jFcbcpiIbINXl1nSYmAyi3qjpv1rHvno7nnNDDhwfRl9yoGAPY1ypYLRSnDxHoXJSiKT4Oyo6ZzBGydz5QLcQU6ukUdzMeBBA2NBRukz7OcZzI2uyWtcLG4MYBDNU4PLrl3wVgeRgxZ7gqyRvjwHr2EEiBfzzY0Gfv9B3ywJl0eoWD1DoX4UTZn31bHffYtvm5GFpbOGQQG8h2oEyTYvs86c9urp9VarQhG6LNFapTI+KWRjG1p4CbVDda4550b80=;gMjnUjpZjJw0ZcMoAMWY5w=="
+secured: "nu8ZoK0PjQVQ2yg0FD1bzp5tMDJ5TWzONa5mUiwyoEvFWX38J8/qZKeT1GPz6Vxl6Beg/s97GwVvSrDd7TVtt5jglHxGttDmqdrlfpsOQXUWLEYoHP96wHujZVAwBUNSOOBriKdmXgyz17mCuBeuBlaFuvGZ6aVy15L+f1DphA+ES2vBCYbnHY5Ih8Yh/n/NLMVzW77snr4Vl+nAtxqYmkmzirCLRmZz/YYVqbGDqqf9mjR9T8X3ehByTjH/dA6Qa5Ycem5zg1uhJ4aCxW0DVrF7ESVRY2/YZ36nRC9ymN/2PAeFchXwylpn4WB+xJmCFSx2RHWYKSX1DasLI0XvRlMwGfHn6QiZnqD5cFP4CjEH5dS0vdyL6O791AOuSDaIfg4zUjOowWK/mjIL2qiJixrL2HRd2j6kLYek8IZqziptwpD0G7PV1k4kjTBXYEPQpX+uqbINaomBAvNrpASJ9nkX1nxwvMHJOJ6iHIGQ3HumQSKtsmptuEqHx6jSp1ENwwsbHfLLnm1YVjwwmLVuwA==;0bBBp0otuD0ibY1NFCXnGw=="
 ---
 

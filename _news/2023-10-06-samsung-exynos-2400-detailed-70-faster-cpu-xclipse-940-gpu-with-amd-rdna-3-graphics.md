@@ -9,8 +9,8 @@ ampWebUrl: "https://m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_x
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: GSM Arena
@@ -25,6 +25,22 @@ images:
     width: 1220
     height: 526
     isCached: true
+
+related:
+  - title: "Samsung Announces Exynos 2400 SoC With Xclipse 940 GPU"
+    excerpt: "Samsung officially pulled back the curtain on its latest homegrown chipset, the Exynos 2400. The future Exynos chipset was unveiled"
+    publishedDateTime: 2023-10-06T10:46:00Z
+    webUrl: "https://www.lowyat.net/2023/308680/samsung-announces-exynos-2400-soc-with-xclipse-940-gpu/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 39
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Samsung-Exynos-2400-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "SitnbZc0UQJQ7i5w0/jTbGUyoqVapP8b697ekrAWaqWUikhof6uBaV5EDbTdIVr49NYu1ZxKNUzlkclI9VAvGChci9Ns/nUePLZA7tuTtrZ3ZSxrFe/KIJcrzemWsRTkjB6GoTm139hIHaikoMZNmDb1qtdXLnblnWaPVwRYSXfo9HTYjIpP044J43NSRNVNNm8g+n4ObFmOs7Hf4lnSgW/1nIaFvAblJHM6RsWDEIRfjSm4uv9Kw+a9l3B2Zb0XBO8RSkAXa48YEgDwwqMa0s1J04e4QmzTgTIR0VMnxde4SPNHYsWopwxrEMfoN9YPRUtUoG4RgPbJbPQzx7K8EMpBo3QRWs5Y8Je3MJviUlA=;j9qk8gBv2yrYW+TvZMov/Q=="
 ---

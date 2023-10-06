@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
 type: article
 quality: 107
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 74
     images:
       - url: "https://thetechportal.com/wp-content/uploads/2023/05/48838377432_d109be2066_b.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "OpenAI May Start Manufacturing AI Chips for Itself"
+    excerpt: "OpenAI, the company popularly known for its AI chatbot ChatGPT, is reportedly interested in manufacturing custom AI chips."
+    publishedDateTime: 2023-10-06T11:10:00Z
+    webUrl: "https://www.coinspeaker.com/openai-ai-chips/"
+    ampWebUrl: "https://www.coinspeaker.com/openai-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-ai-chips/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/openai-class-action-lawsuit.jpg"
         width: 1024
         height: 683
         isCached: true

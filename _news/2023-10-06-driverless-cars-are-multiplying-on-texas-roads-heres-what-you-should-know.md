@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austi
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/newspress-collage-24254005-1696359271576.jpg?1696362873&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Move over: Drones and autonomous vehicles are on the way to Texas roads"
+    excerpt: "On Thursday, investors attended the UP.Summit to learn more about the future of artificial intelligence in transportation."
+    publishedDateTime: 2023-10-06T10:59:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/RlpajcAUg5_5geOwL1GEZjLppNU=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/35QQ32RRXNHVJFCG6W6RCKFZWA.jpg"
+        width: 830
+        height: 467
         isCached: true
   - title: "What you need to know about driverless cars in Texas"
     excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."

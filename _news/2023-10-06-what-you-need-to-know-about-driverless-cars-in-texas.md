@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Move over: Drones and autonomous vehicles are on the way to Texas roads"
+    excerpt: "On Thursday, investors attended the UP.Summit to learn more about the future of artificial intelligence in transportation."
+    publishedDateTime: 2023-10-06T10:59:00Z
+    webUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/"
+    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/RlpajcAUg5_5geOwL1GEZjLppNU=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/35QQ32RRXNHVJFCG6W6RCKFZWA.jpg"
+        width: 830
+        height: 467
+        isCached: true
   - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
     excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
     publishedDateTime: 2023-10-05T14:48:00Z

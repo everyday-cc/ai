@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "OpenAI May Start Manufacturing AI Chips for Itself"
+    excerpt: "OpenAI, the company popularly known for its AI chatbot ChatGPT, is reportedly interested in manufacturing custom AI chips."
+    publishedDateTime: 2023-10-06T11:10:00Z
+    webUrl: "https://www.coinspeaker.com/openai-ai-chips/"
+    ampWebUrl: "https://www.coinspeaker.com/openai-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-ai-chips/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 74
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/openai-class-action-lawsuit.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "OpenAI is considering making its own AI chips"
     excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
     publishedDateTime: 2023-10-06T04:30:00Z

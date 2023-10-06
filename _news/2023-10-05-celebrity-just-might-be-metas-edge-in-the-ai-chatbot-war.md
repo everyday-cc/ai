@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
+    excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://legaltechnology.com/2023/10/06/linklaters-explores-gen-ai-with-googles-vertex-ai-for-search-an-openai-chatbot-and-cocounsel/"
+    type: article
+    provider:
+      name: Legal Technology
+      domain: legaltechnology.com
+    quality: 27
+    images:
+      - url: "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "tcebg2lRTfPSb/cUzbE3kqa6l5sedvvQAiPEiuLh+TrcM1RijAJ/f0hJ+Fi4PB+Ij5JaoK8vY2bMj3Oe++wdQtBZnDWi9fMKyO90WzWEi8SUKUz5jOf4jFQQeF//GmfOU6fbgLu6z4G8f79y+cqfwz43YUxTIq6PVkpTvjilq8hYfUd8EarIyNreQaxb35iPX/KiBzXR5ACZWyw5j+WeTDHzd1OKbRBNRZ9KvqgG3L9+7JApo5J3d+6CdbbBAQ02FTQOoPNzuVH62OM48E8csbE41BGzDi5neCLQr4KKTXPTwsvD9GKmNvfepJRAiZXDtcl2IAXDzyFa3vVwo7e3CQ3Z3HEq7k/v80U9zw34cE6R2NO90tUGrWqecPzTdZt2iB6ujq4utvfjq7qPcqB0xrPUNiSc2yLMSoVbGeGrWJBu4HB+ESCtm/95z1GjxtUp2E1tJ8lZKVDeYIBj/tSHhsZg2zrc8VS9zGPw6p140KuVEYZjfP1SMsM6OZThbwEsWvs7lgzu5qeSiHfDD8W8rw==;J5QNLg5TdGg4+Odz8LIANw=="
 ---

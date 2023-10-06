@@ -3,26 +3,22 @@ category: news
 title: "AI facial recognition: Campaigners and MPs call for ban"
 excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
 publishedDateTime: 2023-10-05T23:00:00Z
-originalUrl: "https://www.bbc.com/news/technology-67022005"
-webUrl: "https://www.bbc.com/news/technology-67022005"
-ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-67022005"
+webUrl: "https://www.bbc.co.uk/news/technology-67022005"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
 type: article
-quality: 104
-heat: 204
+quality: 74
+heat: 174
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
@@ -171,6 +167,6 @@ related:
       domain: mobileidworld.com
     quality: 19
 
-secured: "HlxKEjeh0Pac8MlOSDTtFvxlwwLUgFgmD5KNpDdmjISzOn6m05NJLo0ETmu+R9G8zlhB/zDWXsDmk2jRiwg3kHsiLDkaNbz0Eg2E2Sz1X9Ag8nuQLwBRFRbLVJJVeMBli5iZE/FcA6rLLVLLHtGoYozLATliFcqFzWDlK/vMCoSe9qG59yvI1SdpUVwLElM5IWBvSpUfmOKWxgHf2DlaRIudxI4p9XVIvZ3Z33gK2mXKpFkHl271Wn36i0UVOS/P6E/v42Sng5pZL6SNfqV/MjqSv62+tt7h8az8u4RS56QJKMn/tfiaKDxH3M3qf4w1x+/PNt5z4cP68M2ddYeEwcgGc84/syzjg8+1SO3q0x0=;jDyTj+ZMij/65ILL1PA2cg=="
+secured: "Jcgs67MF2iA5s3MtOZaHTFrkFyemU6D9Z83f0Eines66SKivvQeOJ5y7PFKfjXO56J8TeaZtnisjGqTai8TWYuhLZJ8OOGE4w19UvieWfJvjpiqxiOnyW0XZh4XNU+KNRh66tLjzxw1IxAsKtFWDZQQv0ZbmRS1P2ILR7jriIiAS5pGpa3bimSukfdFSGzhh/fVAckpNt/EdKp/2TikFXbICNn+4bck1NtrXwBBF/7nlFG9qHwBEN1vlkeJP8B3LzNll2Rh4r9BkbB0vk6R8qaDthTRDQV9BMR7rRa56eSyPSMZU9JFqT1HGZYh9DBUdCPWmpehirZdUdc6haSPREl6tPh7o6CDRdDx0CeyIE0U=;LYjZe20CFO4yL7KFXEfjeg=="
 ---
 
