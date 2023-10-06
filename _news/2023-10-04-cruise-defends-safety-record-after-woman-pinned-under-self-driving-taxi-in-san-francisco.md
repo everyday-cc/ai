@@ -87,20 +87,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "US agency, California gathering details of self-driving crash"
-    excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
-    publishedDateTime: 2023-10-04T01:49:00Z
-    webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
-        width: 800
-        height: 533
-        isCached: true
   - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
     excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
     publishedDateTime: 2023-10-03T03:07:00Z
@@ -159,15 +145,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
   - title: "Self-driving car runs over pedestrian who was hit by human driver in San Francisco"
     excerpt: "A hit-and-run driver struck a pedestrian Monday night, tossing her into the path of a Cruise self-driving car that then drove over her, according to videos."
     publishedDateTime: 2023-10-04T00:59:00Z

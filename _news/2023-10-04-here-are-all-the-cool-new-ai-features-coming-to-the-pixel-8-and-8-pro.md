@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Quizzing Intel exec Sandra Rivera about generative AI and more"
-    excerpt: "A couple of interesting things. They said they feel like they could speed up AI processing by 10 to 100 times. They were running the CPU and not the GPU, and they felt like the CPU’s flexibility was its advantage and the GPU’s repetitive processing was ..."
-    publishedDateTime: 2023-10-01T15:45:00Z
-    webUrl: "https://venturebeat.com/ai/quizzing-intel-exec-sandra-rivera-about-generative-ai-and-more/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-6.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "How generative AI is boosting the spread of disinformation and propaganda"
     excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
     publishedDateTime: 2023-10-04T04:10:00Z

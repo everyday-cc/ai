@@ -1,27 +1,27 @@
 ---
 category: news
-title: "ChatGPT owner OpenAI is exploring making its own AI chips: Sources"
-excerpt: "SAN FRANCISCO/WASHINGTON - OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence (AI) chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
-publishedDateTime: 2023-10-06T01:53:00Z
-originalUrl: "https://www.straitstimes.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
-webUrl: "https://www.straitstimes.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+title: "ChatGPT-owner OpenAI is exploring making its own AI chips: sources"
+excerpt: "Obstacles include a shortage of the advanced processors and the 'eye-watering' costs associated with running the hardware."
+publishedDateTime: 2023-10-06T08:17:00Z
+originalUrl: "https://www.japantimes.co.jp/business/2023/10/06/companies/chatgpt-openai-chips/"
+webUrl: "https://www.japantimes.co.jp/business/2023/10/06/companies/chatgpt-openai-chips/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: ジャパンタイムズ
+  domain: japantimes.co.jp
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/06/ITALY-TECHNOLOGY-AI-175154.jpg"
-    width: 860
-    height: 573
+  - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256139.JPG"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -174,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pmw0Ck7IpBuAhSUi6Cn0iu7hesqNm0RfbLP02ssqUH8AUvkAiXPCxGSHcDQSm3gnCRdLuziPnYszt5Qu4QJLVyYz0f7m4u/VmH+U1fCSGV42sDagVoCOcRfnBoDaP015MmTOthB02ThC82o1UxhHxRXW6seESaaIA/7ZcJLN0bPttkTNq5bcrjs4fdo9O0ZtrX+LaaJDR523IHUD9BsB5pY4LOjpWwikxE+6XCusFZpIOpF5QyId63XcJihHXs+oZE9x3+4fVq3kNQvrbfEn2qq6dz+KXm4b+B0wmsmE2RHPqLmW8J9SVm4ENmoCAosy4m5AocqSI2YYsrIVTL+CyvrHl74LObJguqvhPPZq+50rWS1QvMe2oQF2R4MJMkQYaf6lbjDZqd7S/SPsjMFPbrz2tYIsUja96bP20LCqXp7K6m5+oTBEKcgqSf8nPl64pg4qGiF+pzxfppMqDM2E+vguYD2ONguWprASM2GpWqWXD60UviEUkzZeGNEOE7F1uGZNeBclOCAgxWIrJkS0Jg==;9SZ63RbKe16wsdPbTXpiNw=="
+secured: "WULoCSup9fZIuTbbkqPF1L/q2KVQekR7mPxs63hRslS1es4lJQfVB22gcgJdEawEOwkmVyYquD0q/x4+4D5O3mGtIQoR0rQTNFqQ8Hu7ELGViD0su/osJrzlfxvyGamgnxZKGRL8t8FVoV45jbMgNNmmVW6asWzQGNvj8T7LCPS4xJl0jNsZz/0vx1d/ZtLxRF1p0pEXHaBFtFbe3aP1gSxHG9nyhWJ45TUMFr2BFQu8sUB/esNxt8ukpksYM2JA7wAttrFfxmtXRhiVPTqfOaiO5e7F6obKXG8gLxs+sQS9yZr+fYqIAnqyGRd97ICN/WSe2Kxuz4LkwNdgfL1QwMotnBTaB34tZLjcAvmLWEA=;GD/i5OZdsb3kXrvG4u2opA=="
 ---
 

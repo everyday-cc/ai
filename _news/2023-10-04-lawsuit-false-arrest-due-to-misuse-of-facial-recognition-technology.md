@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs"
-    excerpt: "Randal Quran Reid was driving to his mother’s home the day after Thanksgiving last year when police pulled him over and arrested him on the side of a busy Georgia interstate."
-    publishedDateTime: 2023-10-01T15:44:00Z
-    webUrl: "https://www.columbian.com/news/2023/oct/01/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 40
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/09/Facial_Recognition_Mistaken_Identity_65159-a92c3.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
     excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
     publishedDateTime: 2023-10-04T11:14:00Z

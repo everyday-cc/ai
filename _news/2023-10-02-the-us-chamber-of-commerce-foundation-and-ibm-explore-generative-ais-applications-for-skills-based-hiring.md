@@ -32,6 +32,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 91
+  - title: "How retailers and consumer goods companies are realising the power in planning ahead"
+    excerpt: "British supermarket chain Asda serves more than 18 million customers every week via its supercentres, superstores, small grocery stores, Asda Living stores and e-commerce site. To ensure it can deliver the right products to the right customer in the right place at the right time,"
+    publishedDateTime: 2023-10-06T08:39:00Z
+    webUrl: "https://www.technologyrecord.com/article/how-retailers-and-consumer-goods-companies-are-realising-the-power-in-planning-ahead"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 32
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4618/retail-feature_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "cBppX/ftW9nZ7laMuAS8Jmf+PAw28WkC5dJT9meRMgnu/HATX86W3PpzOwSW/Yt4rpYwlc5h2WV+h9isnF4FtkLPoR53MW3I98r1qkj+tpHoL3mfPf48ht5XW8Rth846rgV7GtJ89PYpe2V1NjavbM5TUhkJGxhnpUPyt+2eDU/ngCoTGA06VPmJ9LUHIsftUp7+3Dbwcm551Zb/UYhONkIra8XapGO2XfXN37IV9DrY8E4hLxDInMi2iLiMTyE7ZncgDRDMTVQpDuAqIybEeaYVnqpHP+Q7m9iutbkuUb2lVOtO7D9gjQK7N59mBfLNUVQCqfEqPpcYzUw3SwiH2+5xTFXU4ZMEyRJhJunu0Fo=;touKE6+RTvSq6Vddbb/f2w=="
 ---

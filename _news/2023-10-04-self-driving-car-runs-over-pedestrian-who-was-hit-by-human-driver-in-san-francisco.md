@@ -85,20 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "US agency, California gathering details of self-driving crash"
-    excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
-    publishedDateTime: 2023-10-04T01:49:00Z
-    webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Cruise defends safety record after woman pinned under self-driving taxi in San Francisco"
     excerpt: "Cruise, the company that operates the driverless taxi, said its vehicles are safer than rideshares operated by humans."
     publishedDateTime: 2023-10-04T00:01:00Z
@@ -173,15 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
   - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
     excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
     publishedDateTime: 2023-10-03T09:20:00Z

@@ -131,19 +131,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT owner OpenAI is exploring making its own AI chips: Sources"
-    excerpt: "SAN FRANCISCO/WASHINGTON - OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence (AI) chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
-    publishedDateTime: 2023-10-06T01:53:00Z
-    webUrl: "https://www.straitstimes.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: sources"
+    excerpt: "Obstacles include a shortage of the advanced processors and the 'eye-watering' costs associated with running the hardware."
+    publishedDateTime: 2023-10-06T08:17:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/10/06/companies/chatgpt-openai-chips/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
     quality: 54
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/06/ITALY-TECHNOLOGY-AI-175154.jpg"
-        width: 860
-        height: 573
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256139.JPG"
+        width: 1000
+        height: 666
         isCached: true
   - title: "ChatGPT distracting from wider AI issues, industry body warns"
     excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
