@@ -51,6 +51,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
+  - title: "Axis execs talk AI regulation, cloud economics, cybersecurity and more"
+    excerpt: "Axis co-founder Martin Gren, and Tom Nilsson, Vice President of the Americas for Axis, talked about the future of artificial intelligence, the prospects for regulation in the"
+    publishedDateTime: 2023-10-06T17:34:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53074573/axis-execs-talk-ai-regulation-cloud-economics-cybersecurity-and-more"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/IMG_5666.65203fc86238b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "R Street Institute Launches Cybersecurity-Artificial Intelligence Working Group"
     excerpt: "The rapid development of artificial intelligence (AI)-driven technologies has opened the floodgates to novel opportunities and"
     publishedDateTime: 2023-10-02T12:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107172955/UAEs-Falcon-180B-Breaks-Boundaries-M
 webUrl: "https://menafn.com/1107172955/UAEs-Falcon-180B-Breaks-Boundaries-Most-advanced-Falcon-180B-Openly-Available-Large-Language-Model-LLM-Trained-on-Amazon-SageMaker"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 714
     height: 923
     isCached: true
-
-related:
-  - title: "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
-    publishedDateTime: 2023-10-02T21:30:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/code-llama-jumpstart.jpg"
-        width: 896
-        height: 448
-        isCached: true
-  - title: "Simplify medical image classification using Amazon SageMaker Canvas"
-    excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
-    publishedDateTime: 2023-10-04T18:58:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-medical-image-classification-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
-  - title: "Create an HCLS document summarization application with Falcon using Amazon SageMaker JumpStart"
-    excerpt: "Healthcare and life sciences (HCLS) customers are adopting generative AI as a tool to get more from their data. Use cases include document summarization to help readers focus on key points of a document and transforming unstructured text into standardized formats to highlight important attributes. With"
-    publishedDateTime: 2023-10-04T18:50:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-an-hcls-document-summarization-application-with-falcon-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 57
 
 secured: "/x9owhCw0V6NlT7+zmsdNzOSmBz9jpNXSTFTkckwH7uUENuCYLAU4LnnK9Ppni8UWw+dth0lHnn7U6uIhG8/hL4+PHAkqPXbI1oeEeuD+Wfg21kTbZvFohNjAsmFvxywdbBUhUXzgG2UylgwmWoc4/8DYxZ/L3iAtXZ84ZOtOkIrO4SxUbzJveNuCSg8jFZEmI+jnwYzjhpdmjN6JPhUuEBDysp6hwDt59F4JZ+yXqv79IQXxxkAeDOBF3eYZJHvedUa7iX0MupAub5YKRRFgjz5dzdFVdv9Ox1K0o4DDo04Q+UUgk1R9N4MSdvyqco50bZziUZjNBUg+opgrAb/1cwn453qtrC0AoOoCRrgcza6bzIrfnuf/LvBCWC5bAwkKdtchR6zRwrnlYriH8L6Qiny2J8d9q7yoYaZqLqvYrarWd221QNUvNNSphvh5aGKfkVDNZ0xDTD67dHsP0FB0wXyr84gVlnfTePCQCbfeEKOqtgseoA+wIXhAGnM0+MUaSQCIRL8HU/4Rd5OV1LVtg==;lxr/7OTfX8xPb6eXS0Iwrw=="
 ---

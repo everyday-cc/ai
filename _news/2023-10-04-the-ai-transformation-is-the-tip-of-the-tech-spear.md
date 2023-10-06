@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/10/Farming.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI can transform health care benefits administration"
+    excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
+    publishedDateTime: 2023-10-06T13:01:00Z
+    webUrl: "https://www.benefitspro.com/2023/10/06/ai-can-transform-health-care-benefits-administration/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
+        width: 616
+        height: 372
         isCached: true
   - title: "Information Technology And Robotics: Innovations Transforming Our World"
     excerpt: "Implementing robotics and AI can help measure behaviors and worker performance, which was previously impossible. However, it's essential to approach the adoption of these technologies responsibly to avoid dehumanizing workers or promoting discrimination in the workplace."

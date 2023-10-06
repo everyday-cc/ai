@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/10/231002124257.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231002124257.htm"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "FAU Engineering study employs deep learning to explain extreme events"
-    excerpt: "At the core of uncovering extreme events such as floods is the physics of fluids – specifically turbulent flows. Researchers leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows,"
-    publishedDateTime: 2023-10-02T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003278"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/355c4e68-9232-47b2-b732-f2483bf330bb/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 274
-        isCached: true
   - title: "Using Active Machine Learning for Chemical Engineering Research"
     excerpt: "Chemical engineering researchers have a powerful new tool at their disposal: active machine learning. In a recent perspective article published in Engineering, the research team at Ghent University lead by Kevin M. Van Geem explores the potential of active machine learning (AML) in revolutionizing the field of chemical engineering."
     publishedDateTime: 2023-10-06T14:49:00Z

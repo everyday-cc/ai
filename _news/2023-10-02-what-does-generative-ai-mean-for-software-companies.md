@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-me
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
-    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "What Does the Commercialization of Generative AI Mean for Society?"
     excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
     publishedDateTime: 2023-10-02T10:00:00Z

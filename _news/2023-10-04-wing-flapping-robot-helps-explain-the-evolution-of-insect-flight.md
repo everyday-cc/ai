@@ -41,15 +41,6 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Patra Introduces the Future of Policy Checking in Industry's First SaaS-based Policy Checking Solution Featuring Artificial Intelligence"
-    excerpt: "Patra, a leading provider of tech-enabled insurance outsourcing services, announced today the upcoming release of their new SaaS-based PolicyChecking."
-    publishedDateTime: 2023-10-01T23:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231001580311/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "XMIHwsPK9ZTAeaBKLvhb1X3L9/+Cggs+aExapS6Vr2jTGZRgvoaoVIj1W1116QcsxPGijDJnGGeFDm6qpXNW6efq4//Bdpk/bPmooHHU5HizxbQPiPivEY9Zb7qGYkpmxlr4U4mSk9LOTHwTmItS1RmiWf7k01jWIOgsgwRFmkOgPJPMveLo7kk20URhCXbsOQ3LTJLomqA8+18FVLAIbBEOzxGSFXWg9xwtEerjUlG2NUZh0CwA01g4d0mR7lrGncIOvu1VlwnlK2XoxIZs4df+pUsFf7SVaWMNmDkNVPbDvAm8JMfwujZaXhfT1rRQi5juARoHv0rC2CWvE7e1mBNB9bOtdrL1we9ryWXDI+Y=;sS03asyETDdkjnbnJwwZgw=="
 ---

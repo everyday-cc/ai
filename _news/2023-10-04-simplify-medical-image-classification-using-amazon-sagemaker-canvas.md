@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
+    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
+    publishedDateTime: 2023-10-06T16:26:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
+        width: 1183
+        height: 630
+        isCached: true
   - title: "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart"
     excerpt: "Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
     publishedDateTime: 2023-10-02T21:30:04Z
@@ -37,6 +51,29 @@ related:
         width: 896
         height: 448
         isCached: true
+  - title: "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring"
+    excerpt: "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-02T16:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 80
+  - title: "The implications of the generative AI gold rush"
+    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Create an HCLS document summarization application with Falcon using Amazon SageMaker JumpStart"
     excerpt: "Healthcare and life sciences (HCLS) customers are adopting generative AI as a tool to get more from their data. Use cases include document summarization to help readers focus on key points of a document and transforming unstructured text into standardized formats to highlight important attributes. With"
     publishedDateTime: 2023-10-04T18:50:15Z
@@ -46,20 +83,44 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 57
-  - title: "UAE’s Falcon 180B Breaks Boundaries: Most advanced Falcon 180B Openly Available Large Language Model (LLM) Trained on Amazon SageMaker"
-    excerpt: "In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, announced that Abu D"
-    publishedDateTime: 2023-10-02T08:19:00Z
-    webUrl: "https://menafn.com/1107172955/UAEs-Falcon-180B-Breaks-Boundaries-Most-advanced-Falcon-180B-Openly-Available-Large-Language-Model-LLM-Trained-on-Amazon-SageMaker"
+  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
+    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
+    publishedDateTime: 2023-10-02T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/02/pr_16029_30ad65bc_image_story.jpg"
-        width: 714
-        height: 923
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
+    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
+    publishedDateTime: 2023-10-06T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "More than half of organisations are putting generative AI to work"
+    excerpt: "Gartner advises organisations to have a strategy for AI trust, risk and security management as they increasingly adopt AI."
+    publishedDateTime: 2023-10-05T03:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Coda bucks trend of additional charges for generative AI tools"
+    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
+    publishedDateTime: 2023-10-06T09:49:00Z
+    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "WklDC1vwtSNerAvkh8f08BETzRBvOA8xBPTfjpBdWdUsjtafDjsESXL+MSvy/Is83pG2QOT/UupAgMf7M06+rHZA/AAho0wtDKE8t9re1gOk+bOyOm5I4RHtlpu//VgFCSopoBvlwLFs6ohNIUBxwJ2FQ0+HfhR9Im6h7/p8k5kWCDEoPbSWN4/ITxvvZWfjitI48skTJ03YWrFTzOgaMnQwbeIOjjDU47jM8W1KO9BWWQjtMkp+8FwVo8gfgNjUttknqbiVAO4hzeBpd4JE39ap6e0p4POiRUacACkF/r3yKDo80xpz/IDQ722h/lP/jHanTH4rhh78ctpBVY5wVPOQNaPBY56Rp6Co+8KBOqw=;O3iSIZ1gGrANRRd2W7wcbA=="
 ---

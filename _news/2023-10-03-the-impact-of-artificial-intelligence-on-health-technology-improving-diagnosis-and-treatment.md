@@ -95,15 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Coda bucks trend of additional charges for generative AI tools"
-    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
-    publishedDateTime: 2023-10-06T09:49:00Z
-    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
   - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
     excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
     publishedDateTime: 2023-10-05T14:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
+    excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
+    publishedDateTime: 2023-10-06T15:54:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immediate-stop-use-live-facial-recognition"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 38
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
+        width: 1180
+        height: 585
+        isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
     publishedDateTime: 2023-10-04T21:17:00Z
@@ -208,6 +222,6 @@ related:
       domain: theiet.org
     quality: 19
 
-secured: "YT3PerEsLTjLFskOm0qxbOceUhxwEvXLrnZzZEcpGGFBi7k+TkMeGgqMcJpln2h3SDKIyna7QrBB7/8O+2iZjP+YhPI2OxZ7U2LVrotPrC+6sByqk78S+spo4jz+nXbvVUU7Ie5UEzOb3oY/9KnkFzIVfYkN+zAEZ1P39jYD8L34uH3BAnrVeykaDJY5FCHc4uPJov5tnFpUMVHVSXrLQ6u5PFaE9bnzOCoLc5wm2V3QZbQEqj7mO87hfblFFlXpsBYae8g6ukJsHrCAKvif+7Knhf1M6YOJ8NH1dY4NiLF3kCml6j5z7cxMdDmrY+wuADm+tVtJsPPZZtheDbUKrleh7HsIHTCxgy66qwBZAys=;QopZERvMhqM6tAQGdF0t7A=="
+secured: "QbjDJ8sc3lxXNH4De0/zLrYPpcAfs6KWE9Onmjw4mbOdWHFK1sRPMLgjQ1BC5+sRG/ipzNah2RTPu6ZBGBRBbnuWGV07u/1wztP70/uniAnU7mt+HG16/3Kd7w/EYFyzosUrv3QII6Spw2dX+TCZu6reYX951OHEDAyr7LMeGo8dCuEFK8QWLtZGWXemRztwrIZVN6uxJJ+GEZYRj2Je5NWeGocJbP9QQJSUJOSPsptwX0xD68Mw/TP1NeiW7THwebXrXCQ31azAp3L2FMLd9eN3hEhAWBoXLHgkrpDUh6fzXQO/a4/ALUMzmdIFfkJznrg8ZVGvay2SZ59Pr/bqZGM1lBsFCdHV6O0Hy7cOE0tCxrE8ZSH3wvqAX8l/br6OBdYWprfCPpHeT96T96q9dF7Be2dnUQrBYu+DFU6Eto5NKICcsirFWXAPM3q8M0VULxqhn6udLMxOVeUBckQ22nXLl+ZdfARx9J7Yz/NIew2l9YBDCP1vxU7UMmufpzHbDBPv0kAcHnkmptKlQbu3ew==;ZmT4veb1UT/u1mNbXoxXLw=="
 ---
 

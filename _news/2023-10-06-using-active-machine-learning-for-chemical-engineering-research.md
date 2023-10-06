@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "FAU Engineering study employs deep learning to explain extreme events"
-    excerpt: "At the core of uncovering extreme events such as floods is the physics of fluids – specifically turbulent flows. Researchers leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows,"
-    publishedDateTime: 2023-10-02T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003278"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/355c4e68-9232-47b2-b732-f2483bf330bb/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 274
-        isCached: true
   - title: "Study employs deep learning to explain extreme events"
     excerpt: "Researchers from Florida Atlantic University's College of Engineering and Computer Science leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows, which are pervasive in ..."
     publishedDateTime: 2023-10-02T18:55:00Z
@@ -58,6 +44,6 @@ related:
       domain: phys.org
     quality: 34
 
-secured: "8x4DHDdVOmGkPIV5XjO2ssgOwMZ7pLSPbL4Ei+s4yewYs0j43yAhXUZK8wr8Hr+HbDOD/fXfMgkDZgBs4Y/mX2iTytEjGxBewvjt83bvmTFBYyo2jHTcYkhsf9gXkQlFHo4Wyas7yppLCGNBATkwQMRzb+P0GteSJxZOC0cSwjqxWngAOYxw/6QKGUDheaQCcR1Fz4/Mtn4wXh9hW8Yi6/vVxtr04k0klzhPx3iIpL44ByKrOwRykVK0zuRTD9qr8YuSClOFs/Vb6e4OBjiHsH/J9/y0AuGOWw59q0Lk8fCvhOnUA6We8HxIUc2yOIY1E3fbsOY/HYxnsd9rrGGqmwd02dsvABuU2oCTzec9M78=;2cmq82oN4cL3Xq0BVUktxg=="
+secured: "gjoiWyv8LeYDHrBnu9f280bZhPVyb/2WvVRitRVsPRwJ6NiswcDamjf9ZeWEhPN122JkpaAD2LY59VHZr+ikKUme2wH6XrPIxreV/M0vxjBv1t4+xChYUJYpAypHpNeNxNNJAE5qpP4blPG5DyFNIm39HGuGbrvzDH0J1x9M+ouhudxaEq96mKmUWBsUN8rmRD7+WFknwywFVa6uIW8VxcrdPbgU999yJ+iGG5GPGaFBLnXt7yq5S7Lk5Z3LVf5CuI8CjeJ286zDhhCb53Fm3Dy8V08imgMAjKHROPMJAlJGUyy9gBv31RbrCyMk7XO0bVfAWs4IP2Bxiu3nxmy5Twemx9EfihZMSmDhpa68WVETNdTWgaykvadvxo/H6nqDZFLZaBt5CwUu73uFe+gKqGTIDxCys7BObk4HFjRt4zaUnmxlrKwTxOnTPa2cg3wJ/TDEJZbOvPm+x+61mbI6VOESJiyuzBxpanpvAl6zi+w9QfuHHoKJbggqBEIwts0wsNOYREL92zTmegMGdn5OYg==;zotRUk7qhZZJC/ioSukYRg=="
 ---
 

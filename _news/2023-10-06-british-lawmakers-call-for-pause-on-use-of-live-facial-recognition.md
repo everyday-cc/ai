@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
+    excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
+    publishedDateTime: 2023-10-06T15:54:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immediate-stop-use-live-facial-recognition"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 38
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
+        width: 1180
+        height: 585
+        isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
     publishedDateTime: 2023-10-04T21:17:00Z
@@ -204,6 +218,6 @@ related:
       domain: theiet.org
     quality: 19
 
-secured: "DAOgCzg9sxLOiP1AJitCEpP5bV3KHiuKq44z65vrq0/YbV2stxdFClLNrWRCoPT7v3RHiIXaG/edxUy6wkIDtoU6i7bCgSgtwjSM0fbjbfIsLKDsGH8zjBpbr0nHdqzzvrF3p2x+5gnNB5hyh+RVZ53K19nIBCX6ddOxGJJcMzOBfaEHc+DjGXadL3RZePO39sBTlD0GD+jXndGXfOGLJ59NL3ukdtU/3Zptt98eWC5JcR/xxo967B+isrgYtDrHSu/BdEzNBa1imyQY8Ep1udgl4WURe4jXhi7O1HgMRiYNWXq+5AZC0am45cbMOb/CWSLg2J8+3rJLqUnNjoQWL9dqx5A2JBGm7QRbDNmGvy0=;vXSFeEe0JZ0exGfcthe67g=="
+secured: "tRCl3g53/s7ZBOr1V2Ppy+mTx7CzoSNRz5hvqgw08egc1GZY699yy9wgapzGRiOTl0Q6yALvxnSpJMel0QsJFycIVjMVHhuZ4fi+3xplB2vsO69hbleQVYJwzSK3b91EQKZUIV+X3wqhTph2pTzovUiaV5ntlHJWxT8dSOkbEaic3r7yMoXQlYdwvD4EPVEDc3mr8g5TwCQkUodUeLrUtSRTEQvb3THnhUghB/liB9mhkB2KCrwqvvkRLQPsFYT2Mbj5QBp8CHcJEulaV2DWzJkzGMNBSWhAgg41QvimW82b1pasJH6mB0igu/XS9mUTPlfMXj9ZGg9uCPgW1oB5BDiBZL1hIu+uPIn5pUeQn1lLBNoyBuRL4xuD/qzUmdVH1cYvhPi/zlx347TllunBtROmt5KzPBidax1y6Ka3nijzE3sPopCvVPFrBfsEH75pcclZ9MnMEo96t88XdWCgNX33eqPiETYwCnJVgivR4USC4pC6lCqu95mp7h5pKc5j8URT8nRGqrmhP5jSn860MA==;YbkjxlnbaubGIWljvokjsA=="
 ---
 

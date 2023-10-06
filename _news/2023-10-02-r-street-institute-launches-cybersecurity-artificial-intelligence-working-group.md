@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
+  - title: "Axis execs talk AI regulation, cloud economics, cybersecurity and more"
+    excerpt: "Axis co-founder Martin Gren, and Tom Nilsson, Vice President of the Americas for Axis, talked about the future of artificial intelligence, the prospects for regulation in the"
+    publishedDateTime: 2023-10-06T17:34:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53074573/axis-execs-talk-ai-regulation-cloud-economics-cybersecurity-and-more"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/IMG_5666.65203fc86238b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
     excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
     publishedDateTime: 2023-10-06T03:38:00Z

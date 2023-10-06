@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI can transform health care benefits administration"
+    excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
+    publishedDateTime: 2023-10-06T13:01:00Z
+    webUrl: "https://www.benefitspro.com/2023/10/06/ai-can-transform-health-care-benefits-administration/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
+        width: 616
+        height: 372
+        isCached: true
 
 secured: "or3YORoWLuvMhoQPnrt57PK7wd2XINfDwE9zQFsZUTZ1Qu95H4FChDatvdET4IKQF6ZjAPuPCr/wABeHZa6CxNP7DxpbOCAsE+J7AFFYAqudQa4GWUElLRyu3gvQWMJ8L3rdNUDAGaWEy4wsBRj2ee5PXjNrdou4QvMLRg4ScJRvyWHkYoamQvR6yXI35MjUQYPiyp/8W+jDQhzS31WRpFrZVmkqCMQRcMMIXarxfrmwUca9iCxyuxpLYONPcR/8M/X270ellmjZb9cfvD97379UrXXazsvVzra2/C+pT/wP6d1Ibech9ZBZRyyWgguZANEi6lqt8qMpxMgnB9WaX+n3w8oC/vogxESpQV/tiRNlwlJZorOnx80UwU4C0spdfP0ykOQksDMrvvgfHsEprvwwF9J+BNosDFqxe0oA8yoknIqnuTFiC2kjpw1533aFI8goSJy3mvOhcYYn5ypc5dDJ2F1WT8TtP2QuMJiwahA4XVFMIZ2gV3kvduxlhS0+EMPw4XgNDmMJZXAjTqjH+w==;IaO2mqcxMAWyYeDCohDv1w=="
 ---

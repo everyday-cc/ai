@@ -22,75 +22,104 @@ topics:
   - AI
 
 related:
-  - title: "What does generative AI mean for software companies?"
-    excerpt: "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry."
-    publishedDateTime: 2023-10-02T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html"
+  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
+    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
+    publishedDateTime: 2023-10-06T16:26:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 615
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
+        width: 1183
+        height: 630
         isCached: true
-  - title: "Visa earmarks $100M to invest in generative AI companies"
-    excerpt: "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,"
+  - title: "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart"
+    excerpt: "Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
+    publishedDateTime: 2023-10-02T21:30:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/code-llama-jumpstart.jpg"
+        width: 896
+        height: 448
+        isCached: true
+  - title: "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring"
+    excerpt: "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-02T16:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 80
+  - title: "The implications of the generative AI gold rush"
+    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
     publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/"
-    ampWebUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
         width: 1200
-        height: 816
+        height: 672
         isCached: true
-  - title: "Are Artificial Intelligence and Democracy Compatible?"
-    excerpt: "Nick Clegg of Meta says that they can be, with the right systems in place. This article is from a special report on the Athens Democracy Forum, which gathered experts last week in the Greek capital to discuss global issues."
-    publishedDateTime: 2023-10-03T15:40:00Z
-    webUrl: "https://www.nytimes.com/2023/10/03/world/athens-democracy-ai.html"
+  - title: "Simplify medical image classification using Amazon SageMaker Canvas"
+    excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
+    publishedDateTime: 2023-10-04T18:58:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-medical-image-classification-using-amazon-sagemaker-canvas/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "What Does the Commercialization of Generative AI Mean for Society?"
-    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
-    publishedDateTime: 2023-10-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+  - title: "Create an HCLS document summarization application with Falcon using Amazon SageMaker JumpStart"
+    excerpt: "Healthcare and life sciences (HCLS) customers are adopting generative AI as a tool to get more from their data. Use cases include document summarization to help readers focus on key points of a document and transforming unstructured text into standardized formats to highlight important attributes. With"
+    publishedDateTime: 2023-10-04T18:50:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-an-hcls-document-summarization-application-with-falcon-using-amazon-sagemaker-jumpstart/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 57
+  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
+    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
+    publishedDateTime: 2023-10-06T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "More than half of organisations are putting generative AI to work"
+    excerpt: "Gartner advises organisations to have a strategy for AI trust, risk and security management as they increasingly adopt AI."
+    publishedDateTime: 2023-10-05T03:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
     quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "10 Leading Social Media Companies In The Artificial Intelligence Theme"
-    excerpt: "Facebook is no stranger to AI either ... which is the next-generation AI efforts that we’ve talked about around advanced research and Gen AI and that’s a place where we’re already standing of training clusters and inference capacity, but we don ..."
-    publishedDateTime: 2023-10-05T16:37:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-leading-social-media-companies-in-the-artificial-intelligence-theme-1196752/"
+  - title: "Coda bucks trend of additional charges for generative AI tools"
+    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
+    publishedDateTime: 2023-10-06T09:49:00Z
+    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 19
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "uAODDO3uFGPb4syjtxUYoAGzFIj7oJWjmevySCKuvvabBGntvdzVLBcdd4yDq9aha8iPezTGhPRCQSr7r6ATJ+w+8DWhuf6mom4DqydhDACyguVx5d7BUBNsfZk+HSGdZU/wGHID0ReD0Q16jeL1VxlIO90+jn12VtAi/gqZcO58yPtUHGEu+ORPaqKEEuDj7qdgBqR9ZgapBfeaqUl8+BOXNZQ828LPihW5TJvFgDa8uWVZEfjBgXY35koO/R3AZdjrwNyh4iZ9Jr7v/dGFnpOMKOqgUgZn5bPV54YSFpqf1uGSN3sk2K1H3FbDqohZXVHH1jAZILMIzPoULUgW+tYsSg3cfVEQuikKn+w8Zk4KcteA2tKxjWjl7kdBB+ELLuFbpOeNHKhxCwsUNP6zzlI92npHRfLRLDEJUwRxJF1Pp7LS4/ftyLu3is25K0NqZyQpv5kZ/zoBVzsLri/Svq7g+iGGwIrULzgrFpCzNXCPn+OmkkYQ1T/h7n5Ore+1DUlHUold9LTFnNi5nChnhg==;/yW+imwfqz8Cg1cKVANKpw=="
 ---

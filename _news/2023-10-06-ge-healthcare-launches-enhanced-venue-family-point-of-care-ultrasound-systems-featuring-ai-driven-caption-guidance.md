@@ -70,6 +70,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 24
+  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
+    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
+    publishedDateTime: 2023-10-06T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "F9Pmrbv97GDq+HkSx0ETWsdoiSKuW89ABUP/3iCMOO3jKC2Q6XMJTSr0UT36wbMNpsgNc5t9bcR+fsxyiieC3Am9+h4kskTlGmZ4ZxGDowcDaDY5xvtTdTmp1rI/tRUu2IukbDyn3XYOKA8fU7mc0/IVNmy2yPYn0tdWInH3Eb2wM8kQY89g0ly/im1Wh7vue2qkNqN3bSWd+iaHM1sC4i+pldDM1B6IVNf7KpPemfpQXqDDgAoPv+MHgIiq8Za/DfrpzM3uQFtZQQIhnVQE5d/jo4/9q5SBEhR9Rpd84/VOTmEFjIhdB3UOjNtXmEhCfNA+dzWYTW/bLsQR48SAAQm37PbSU0s3khLMvlkNhtY=;MeaqenxnY4VXMewsFhcs/w=="
 ---

@@ -87,20 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Google Assistant Finally Gets a Generative AI Glow-Up"
     excerpt: "Google is adding AI capabilities from its chatbot Bard to the humble Google Assistant, allowing the virtual helper to make sense of images and draw on data in documents and emails."
     publishedDateTime: 2023-10-04T14:30:00Z

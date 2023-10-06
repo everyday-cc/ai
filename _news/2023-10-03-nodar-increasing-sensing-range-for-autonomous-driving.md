@@ -7,7 +7,7 @@ originalUrl: "https://www.truckinginfo.com/10207479/nodar-increasing-sensing-ran
 webUrl: "https://www.truckinginfo.com/10207479/nodar-increasing-sensing-range-for-autonomous-driving"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Autonomous driving remains a distant reality in Japan"
+    excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
+    publishedDateTime: 2023-10-02T04:33:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Autonomous driving remains a distant reality in Japan"
     excerpt: "So far, Fukui Prefecture is the only place with vehicles featuring level-4 capabilities — defined when they can handle all driving tasks ... operators including Baidu to charge for fully ..."
     publishedDateTime: 2023-10-02T22:44:00Z

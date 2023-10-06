@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-ai-automation-protecting-against
 webUrl: "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring"
-    excerpt: "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-02T16:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 80
   - title: "How retailers and consumer goods companies are realising the power in planning ahead"
     excerpt: "British supermarket chain Asda serves more than 18 million customers every week via its supercentres, superstores, small grocery stores, Asda Living stores and e-commerce site. To ensure it can deliver the right products to the right customer in the right place at the right time,"
     publishedDateTime: 2023-10-06T08:39:00Z

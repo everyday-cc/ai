@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-
 webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 12
+  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
+    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
+    publishedDateTime: 2023-10-06T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
 
 secured: "zL+wMrMpmG9YXP8cmFmW85dwmZC03675cyrX+eYLBsg4YlXSkIvRTHm9heV7Ta1mvSfbeFuNvKo/oaYZGJpnNgjeu06kkh6KlXAq8nc7eqEm2tj1hZRAAFSNMB90hA8I4e+hhAFvoPkxlOVK7zhAMEE3cxkwZuEEKp8wS4W6zZEMvkk7/vGaH3PfdNTn91O7M4K64Q+gHyaHmtrm2k4tl1e7A2H8KJwJZae0O2x9VFBvatIfx+Wh9R6YxNcAq7VEt1l47f5FsC7wPOofqvs0EXLiszAzjMuI53MeXw5zBQPzGAw5K8GwZPM4LvcC/c77lBcAl+xdvDmte/AXUwG6dpLbUdoPq/9uMZPTEORXGFs=;yrDrk+GbmuiXG0Ik4jfLLg=="

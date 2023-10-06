@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-b
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Patra Introduces the Future of Policy Checking in Industry's First SaaS-based Policy Checking Solution Featuring Artificial Intelligence"
-    excerpt: "Patra, a leading provider of tech-enabled insurance outsourcing services, announced today the upcoming release of their new SaaS-based PolicyChecking."
-    publishedDateTime: 2023-10-01T23:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231001580311/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "Gw0iXAgPhLIegEpt+dSOoCQ/PGk/SttoWgLlhsYyNxcm5e6Ybk7HqiaE0XyJv/KJ1wxbO5cCTri9k6GxztieLeaHYNGaqJRRidREJn/OX9Huw6o5vg1S+7vkz134EfqHDODRWamUvY79ETGLhJjDJAJNUdTOgs7qcYMIVzZDPgF/geEIUQNagGrGdqc/SS76FD0PCCf1UopyN7yRmSFILpistUpB+Klsy17Sn+LonFDKgcOt/soQkwI6XXB1/bGw+qrPm1KkuP9LGqtPgyToov6k6GVQijHovWKBBMmng50EHwqy5OuNgHzPLKkETWxmgJ2K2RKqPt6iAQDmjO1VuR5Ebl33nO5mIfJyluuRI+g=;OB7bA9egSsXY1KQ66yQq0Q=="
 ---

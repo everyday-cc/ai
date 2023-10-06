@@ -41,6 +41,20 @@ related:
         width: 1050
         height: 1008
         isCached: true
+  - title: "Australia’s Telecommunications Industry Following Global Peers on Generative AI"
+    excerpt: "Global telcos are already deploying generative AI. Chatbots are likely the first use cases in Australia, but data security challenges remain."
+    publishedDateTime: 2023-10-06T16:19:00Z
+    webUrl: "https://www.techrepublic.com/article/telcos-embracing-generative-ai-australia-new-zealand/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
   - title: "Editorial: The Hollywood writers negotiated a sensible approach to AI. Other humans should pay attention."
     excerpt: "And unlikely as it sounds, the recently concluded Hollywood writers’ strike could come to the rescue of those jobs by establishing new and exportable guidelines that ensure people have a say in how AI is used."
     publishedDateTime: 2023-10-02T10:00:00Z

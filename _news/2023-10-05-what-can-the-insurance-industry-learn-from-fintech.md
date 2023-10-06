@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "African Fintech Industry Players To Converge In Lomé, Togo, For The 2023 Ecobank Fintech Challenge Grand Finale"
-    excerpt: "Download logo <br />The 2023 Ecobank Fintech Challenge Grand Finale, hosted at the Ecobank Pan African Conference Center, will crown the wi"
-    publishedDateTime: 2023-10-03T07:35:00Z
-    webUrl: "https://menafn.com/1107177563/African-Fintech-Industry-Players-To-Converge-In-Lomé-Togo-For-The-2023-Ecobank-Fintech-Challenge-Grand-Finale"
+  - title: "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko"
+    excerpt: "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data."
+    publishedDateTime: 2023-10-06T17:29:00Z
+    webUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/"
+    ampWebUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: TechRound
+      domain: techround.co.uk
+    quality: 69
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?358300"
-        width: 437
-        height: 249
+      - url: "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "ZMaFIcyKVvXjz8O/jogTAIQj7+0SvwAqvt03Tgd7it8tSEhl8znhz8DxftHDqmw+PeD9qLVQKR0u33jyuO9EAXYFK9xlo0kg4tsh2Z0GhvuZFDq/B1R40ECOqDLfLL5H3bWgIbBFkKKdWiiiCNUWtlEEYSz3D3ik/dNG30Ztvgb6rNqqKvrftO1ywuP5zpDgs7/9pvZbAQzwOfIrPGjnKpdF/NqGfwSDeuXnuC+2E5CN366drrPsmBIyxnKkGl1+mXb+nlXzpx2Yj5GgVSaaMNPLIGIAO0F5NlgPQt52SFmA+QummL9OGGyu96znv0kNTZzK7kFcdq6UTq3gW3eXau+TL2Mo/+SRIqY2KPBTRjQ=;mE0jU4pF8/7H162Pn1/B8g=="

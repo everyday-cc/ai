@@ -185,6 +185,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
+    excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
+    publishedDateTime: 2023-10-06T15:54:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immediate-stop-use-live-facial-recognition"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 38
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
+        width: 1180
+        height: 585
+        isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
     publishedDateTime: 2023-10-04T21:17:00Z

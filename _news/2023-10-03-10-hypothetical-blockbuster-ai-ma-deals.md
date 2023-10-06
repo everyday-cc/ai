@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/robtoews/2023/10/02/10-hypothetical-b
 webUrl: "https://www.forbes.com/sites/robtoews/2023/10/02/10-hypothetical-blockbuster-ai-ma-deals/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "10 Blockbuster AI M&A Deals On The Horizon"
-    excerpt: "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face."
-    publishedDateTime: 2023-10-01T23:23:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/"
+  - title: "Trust-busters come for AI’s building blocks"
+    excerpt: "In a preprint published via the Lancet last week, the researchers write that in a sample size of around 47,000 patients, GPT-4 can provide “relatively accurate” predictions of risk for cardiovascular disease by analyzing factors including age, sex, diabetes, hypertension, smoking status, cholesterol, blood pressure, and body mass index."
+    publishedDateTime: 2023-10-02T20:16:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/10/02/trust-busters-come-for-ais-building-blocks-00119526"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Politico
+      domain: politico.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65185bfe96699717e8614931/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.politico.com/80/b6/e35b2c83409899b79d3ad6f5a446/https-delivery-gettyimages.com/downloads/462833149"
+        width: 3353
+        height: 2644
         isCached: true
 
 secured: "7skDUJChmao0Z25VWTgkuPwY5zOzrHoQLUasICStQzQdSK3dRy+z5Y1CM1erXZj+T/jdjLhMKYHQ9/YEKfk+zDii/4JTpZOFsIxrA9Sz0gYsz1lq5GCbY4QfYQ7rg3HxAAp0gdjQJPD8L5Dm/ltSSQvBeC9/QIeNrdA4xVDE/tybiuUZvSTyc8ckJahcu7SdpYwmGl9jtdLqtw43VdiInWLyUr4zOT/eLR5s90oZ5WPEoRVVQwPzjYBZIMgZp/vBqkpfp/E/lTwhNcDYhrQJxDVkGhZfBh2KoFg0a/BQeQJXa0nFRSddN77A0v0sIk0HmafZljSIxN3bkjY+Gv4uNIEl/29GU13BBLqIRmM24jJVa6tIyIHTjxWtcHBNI8qQUPBEoUlwMVcAu7vHLD0DPVjJrbuhmFXisBs95xdS8rJ7yfKEGmZAjIgTKfbGgf+JlLNLzN49Xy2YhyoJtFoCQV4p/4l8uEPhyyTc1y6j7M0Me7VOiqxpIPUUwLKlFd0Myy2jbpAP+sKpBsiHSETxrA==;IjVHEho8jYwRjO3qVjyWTA=="

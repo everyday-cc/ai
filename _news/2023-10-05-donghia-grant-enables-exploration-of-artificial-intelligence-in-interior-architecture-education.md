@@ -71,6 +71,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
+    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
+    publishedDateTime: 2023-10-06T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "d8+xg3j+mSkYZey8Ma8v75oAeyBx6C/dhI4Z67hwJGgx3c85dsYa8uq/jhCRck/oI3YtN8o4Zr8aeCpQeM1P9TG5J40r8+BvjRXbAEFdoQXOonrfwZdZRCUZFL44gssG/uDpyVh/qkVISb0sX4zeV+vvHMAMoaekF8WcBVugDfRBVcs8gSfrgw7zNWnTST3mC2VnXosoxl9RkPq7FnTxVW8DDFQv2ujIqkY6T3U+I6I83tqmPfLI3UzXsr8FPqiRB+61KUV0etfNidYfGYmCID1//ZdAwQIwsGdhVzzqhu/PQsP4D01qHkDp5PL+7d5bg+n2yMKhM3fNSnlFZA3Xpk9O3lZvA8xzS4wldDEWQag=;Ff69FXs/QG/wbRXRGxnh3g=="
 ---

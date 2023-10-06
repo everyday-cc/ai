@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 657
     isCached: true
+
+related:
+  - title: "3 AI Stocks That Will Make Early Investors Rich"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks have been among the best performers on the"
+    publishedDateTime: 2023-10-06T16:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-explosive-ai-stocks-that-will-make-early-investors-rich-1032685368"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "kyiKcLS4Buo2U7a1w1fxieLf5bkXsuMJAY1DoxzvYGWP9+zkRzQbp4H/AqpA5+IAMTqC0/84VXnGfw/GsacJ7k6bAcJ49Dh/y13M81e+02xsDHiQAWdEb/1oH/dY9kEXhlj23I0g7ahStIMXdWD4EsD+o8xQC4uEY+niOpFLqS9xnnIFOO4pxwU9NUoEoXfyZTX5W11VVIHRYThKHmUdNZWHaJ2mMaZbwLU5vNZEd0zBTVceknnoRuEvEHu0imzvJxJGPU3bYIb387tUTMTjdHtmZQmweYRQwjH0IeKz9epvmDdhCHQeTXVhByFYDBarlrCt0Bl2PbHGPm72r92aqYDH0L53hpGhayP99DeOn+M=;IdfxuCOurh2dvp1zzCiYdQ=="
 ---

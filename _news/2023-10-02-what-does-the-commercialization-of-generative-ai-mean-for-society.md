@@ -71,15 +71,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
-    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "10 Leading Social Media Companies In The Artificial Intelligence Theme"
     excerpt: "Facebook is no stranger to AI either ... which is the next-generation AI efforts that we’ve talked about around advanced research and Gen AI and that’s a place where we’re already standing of training clusters and inference capacity, but we don ..."
     publishedDateTime: 2023-10-05T16:37:00Z

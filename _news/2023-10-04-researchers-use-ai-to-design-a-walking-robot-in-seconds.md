@@ -57,6 +57,20 @@ related:
         width: 2001
         height: 1334
         isCached: true
+  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
+    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
+    publishedDateTime: 2023-10-06T13:03:00Z
+    webUrl: "https://www.eastoregonian.com/news/nation_world/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_6403be31-be64-53ac-b581-9723ba5c3df4.html"
+    type: article
+    provider:
+      name: East Oregonian
+      domain: eastoregonian.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/6/40/6403be31-be64-53ac-b581-9723ba5c3df4/65200c4fc86f8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Designs New Robot from Scratch in Seconds"
     excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
     publishedDateTime: 2023-10-04T16:53:00Z
@@ -65,15 +79,6 @@ related:
     provider:
       name: acm.org
       domain: acm.org
-    quality: 34
-  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
-    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
-    publishedDateTime: 2023-10-06T13:03:00Z
-    webUrl: "https://www.ktbs.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_30d42c10-3edf-5f3c-b12d-187c891e0aca.html"
-    type: article
-    provider:
-      name: KTBS
-      domain: ktbs.com
     quality: 34
 
 secured: "7b6lDsVXi96nOcQUTFpnbbYq1uq66ytDzEwBNrzEBwTp6ns9iCw7/4SRUFS2JmjightaWy/od33/4wS9STLPo75GR437rG95NmeXLRYeKSf/1SZCK6an4y1TpcavB97xfIYcSI2H15Q/ncJxZiWyFTVzyq+l3mS9BxsIt2tWL3rUWmF9rkgww8ToNalOYZcj83NCn8bXmGMm14Kl+S1m2fIqM81hsyLGTuMEOUq1ANIPVbGbZd/j/Eny7VH/1z7Yp3sB/J3TzPGA7W5xYrsXWNEfdkEmr9h73zSKWVSn8MeX3dES12m9nErPEE0kXUMbB0R+OqSwtP6iFwrg9+7YYgUucTeXi0AGZGZbH5FF/XU=;3j3fkOp+Hk2cfZvM01XZZw=="

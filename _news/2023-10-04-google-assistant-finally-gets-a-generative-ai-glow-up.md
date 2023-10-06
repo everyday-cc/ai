@@ -87,20 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Generative AI at the BBC"
     excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
     publishedDateTime: 2023-10-05T20:46:00Z

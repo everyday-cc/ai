@@ -1,14 +1,16 @@
 ---
 category: news
 title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
-excerpt: "Broken guardrails for AI systems lead to push for new safety measures . Back in the day when I first read Asimov's three laws of robotics, this really isn ... Sounds like we need to start building these models around specific concepts, rather than ..."
-publishedDateTime: 2023-10-06T14:09:00Z
-originalUrl: "https://arstechnica.com/civis/threads/ai-firms-working-on-“constitutions”-to-keep-ai-from-spewing-toxic-content.1496264/"
-webUrl: "https://arstechnica.com/civis/threads/ai-firms-working-on-“constitutions”-to-keep-ai-from-spewing-toxic-content.1496264/"
+excerpt: "In response, leading companies including Anthropic and Google DeepMind are creating “AI constitutions”—a set of values and principles that their models can adhere to, in an effort to prevent abuses. The goal is for AI to learn from these fundamental principles and keep itself in check, without extensive human intervention."
+publishedDateTime: 2023-10-06T13:42:00Z
+originalUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
+webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
+ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 86
+heat: 106
+published: true
 
 provider:
   name: Ars Technica
@@ -19,8 +21,13 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-list-800x450.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Voting Yes is about constitutional recognition to get better outcomes"
@@ -37,7 +44,18 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Indigenous voice to parliament will fill long silence in our Constitution"
+    excerpt: "The Australian continent is covered with the intricate lacework of the age-old stories of the Dreaming. They explain the shaping of the landscape and the relationship of First Peoples to it and to each other."
+    publishedDateTime: 2023-10-05T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 23
 
-secured: "A2DPXsQMheR1Z5X1Yg+hh0oEnCO1/kiL3inDHwNXuh1l6DfOuCGNK5CnDoH3v0ZYdY63XrkHiGM6X0gfxFdcay6BHuxVidbG6lByBh8dcrfqsO1adpRgGndeYh+P46A0Z5HRe//YIi5rKjg0VlFPxas+sJakD9DeDLygjdSOrR6YhDazjjOlmv1GESHTyR/uSv1q4ZVM3aiAqsoM7kHe2ZaCw7uC0TDRph82EnhxmTh13w3cTHw62wVPqVTSot9Fr3ah0/sObFEL4pC7hsPyiCUcl1yKIfO+0PWxoz53bwtNH5VYJQHhQSoYELlGLLDB2bCcoowD+1Tave3q0wjbj/8EPHAR+uwKUJ9XPr7KFzY=;JH0h4dPz9QrQn/VAXY2vGw=="
+secured: "nqJCF3LnXlpNHNEUeHKZccepKfq1uVRPvQvcilcKDJ1vbhl8JEk449h1xGHoTZNdoidDiXqUfNzMAWDVFih1LyKSBONQ40ugXps1bkQdZcBT+4AyveWUaPlqF3FoYb7gwctKvnJzvlA3u7lD+9ZbzBkGyeIs1w7W2t/oNKYM+8LrsuUE+Vcb4TiJ1jJpsYGmTmf3bTaXtGiLmoaGEdQv66WNCIPr8JlRrQd7g+lelg/EoGzIn1fcB1ezdt8nVCDualmWFSClZ8V88FYAYqznclIjPC28qTtEFz1d/2TDb5YBrliVhQiC32FU4xdf41dcxHe1C8LsdoVbxz+oiKu+TWoqrgmaa/Fs5qp04kIRZns=;JynGWQR1giiY7m4bTULqFg=="
 ---
 

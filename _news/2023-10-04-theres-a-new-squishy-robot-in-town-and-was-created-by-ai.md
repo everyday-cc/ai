@@ -57,22 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tom Hanks says AI version of him used in dental plan ad without his consent"
-    excerpt: "Actor, who has previously expressed concerns about use of AI in film, tells fans ‘I have nothing to do’ with hoax video"
-    publishedDateTime: 2023-10-02T01:03:00Z
-    webUrl: "https://www.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake"
-    ampWebUrl: "https://amp.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/oct/02/tom-hanks-dental-ad-ai-version-fake"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/9eb1b3a98fafac0c881dd3084e00ac54444702ba/527_574_3137_1882/master/3137.jpg?width=620&quality=85&auto=format&fit=max&s=d7965bbc4cce24a1eda4381fec63d872"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
     excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."
     publishedDateTime: 2023-10-02T10:37:00Z

@@ -64,12 +64,17 @@ related:
   - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
     excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
     publishedDateTime: 2023-10-06T13:03:00Z
-    webUrl: "https://www.ktbs.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_30d42c10-3edf-5f3c-b12d-187c891e0aca.html"
+    webUrl: "https://www.eastoregonian.com/news/nation_world/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_6403be31-be64-53ac-b581-9723ba5c3df4.html"
     type: article
     provider:
-      name: KTBS
-      domain: ktbs.com
-    quality: 34
+      name: East Oregonian
+      domain: eastoregonian.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/6/40/6403be31-be64-53ac-b581-9723ba5c3df4/65200c4fc86f8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hgJTzlHTb1PPvds+GVxZqyuSTFkTvl/vuZGfhgjsnyiHfN81/692f9zzd9BRpF79uhYEP8GG0ngt9Q18ozjvhn+isKf4gj04os+7iD5vN7Hos1TDMAjkfhXOKHy2WlhI3ZGuTMh21/T7zxLbP+55MnPjpZgv1K82u7RsceNiPWCVoaPN/fRhcyRhneS4f3szgW4ad6s+HnimF45rUphBLZcl4NFAjpqCv9Z8oJ+cW8C8ZZ6FcDfWund+wWWNc+00jana7fyTk7r7SXQ/s4C6iFZm06RQ4G3wkzEHZw/KpJvFHbkwe8Wqze23iIQ+zQ4E547awVEP/sz3qyqe5W2qsMdRXSDL1lXcI9s88KrkpU4E1bH7Wp6Pd7o97hyRsrxtkUv6HhfCIsmpoJG9E9nIaUt0KBDPuQZvjCd0fRJoldtSJ2ArOpRzUHuWy+Tc87FOIKarXzkpzlND3halzwT93XIyWt9JUa4jL06irv2iMWKO5tKrb9atE2nQPLt/5XCFztaa0IJ0iNYGTB9hnpZ19g==;+IPHwhymIPs67jer5mE2FA=="
 ---

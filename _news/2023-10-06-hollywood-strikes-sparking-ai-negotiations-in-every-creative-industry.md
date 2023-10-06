@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australia’s Telecommunications Industry Following Global Peers on Generative AI"
+    excerpt: "Global telcos are already deploying generative AI. Chatbots are likely the first use cases in Australia, but data security challenges remain."
+    publishedDateTime: 2023-10-06T16:19:00Z
+    webUrl: "https://www.techrepublic.com/article/telcos-embracing-generative-ai-australia-new-zealand/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
   - title: "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning"
     excerpt: "Performers have warned that AI “clones” – digital doubles that could give performances on a computer that no actor ever actually did – could prove disastrous for the profession. Additional concerns have centered on the use of pre-existing footage to train AI software, which relies on vast troves of prior data to generate new content."
     publishedDateTime: 2023-10-03T00:17:00Z

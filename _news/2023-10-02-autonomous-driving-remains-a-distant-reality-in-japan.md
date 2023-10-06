@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
-publishedDateTime: 2023-10-01T23:02:00Z
-originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
-webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
-ampWebUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
-cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
+excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
+publishedDateTime: 2023-10-02T04:33:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Nodar Increasing Sensing Range for Autonomous Driving"
@@ -35,7 +39,16 @@ related:
         width: 1107
         height: 630
         isCached: true
+  - title: "Autonomous driving remains a distant reality in Japan"
+    excerpt: "So far, Fukui Prefecture is the only place with vehicles featuring level-4 capabilities — defined when they can handle all driving tasks ... operators including Baidu to charge for fully ..."
+    publishedDateTime: 2023-10-02T22:44:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/10/02/economy/japan-autonomous-driving/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 19
 
-secured: "4cLGWsaxuqoIhGX1p3FXPaalC8yWsCt7goJoC3HaoK+09ksRZjuC6dJHcFhhCHmtrVPn5fqFUlDqqMZKhYxKZcZ1X1GEr9jvQWt+DY9Qxz1G5NPAqe07NVGAX0qwHVsuboE7WZ/qXLb82/nSF2aPPFGbklwf3OVtIPfg0wj8YIc1tXy0N8CL2/kKa+4AqlevQ6t2aDAiLyWCl7aVIxtd95PjemybTpFzvd6rSUpRt9eC4HLPvbtaC4hmJx20dDriPrQD/CkCSTkd0s6jEF6uIoPcpx/o7N266i0W9F6RIbRkcpRVrkKTrFym7dPM2NTan0a8HkcEBaZVyzEwGTtS2MgF/3ZqCXoGMZrcXOJA+H73Ds2cKHs1ps0G2ZTOKgZoakvbkycU4VC32fLK+LdTQoZJdrjqjPPHK0SzpienGEfiF5X/xpQTGhNLPwmAncSJjzprtUdlEr33LvBKVBxhbdgoYN0UR0MV3164jINdi91FcRUkZoxSrcbQvZ839IU9IZowO015FIDNZ0WbZ0ug1w==;FdO7GZ043q5NSKmja9/eZg=="
+secured: "z9C9VbUZe45o4kkT+GxDLU6eb7zzKVHU4PW+qrhnG4+CjjUV0slQl7T5BS50JnBcS252VwfjN6nKzPFtfxo5S+NOB1Z/T8VKbo/qP/sdQBi3/ApF20onjK4VGQsy0/xot/j9R/RYqM+DAYJ0BP3UOwevJipA9uPGRxkHRYsiN06o59sGp/XAs/QsE2OsDRiy++C1pbaccOe58z1M2tFD5//xKIWauFUapTo/HnJxR3ei4IPi7mgePTb7kgIIQuTWbRhJc07w8y9OdUKyOV2QChuZp9iHP03nWjBKnK/FyuNKZn90y/BVs8Lb0a9HGrkxhwze3TfaD/pNtqAFrzuN7PbRX2xjfxaWI9vWO+Ik2ms=;bH4n/e0dyQTQNkALlojtDw=="
 ---
 

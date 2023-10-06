@@ -26,14 +26,32 @@ images:
 
 related:
   - title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
-    excerpt: "Broken guardrails for AI systems lead to push for new safety measures . Back in the day when I first read Asimov's three laws of robotics, this really isn ... Sounds like we need to start building these models around specific concepts, rather than ..."
-    publishedDateTime: 2023-10-06T14:09:00Z
-    webUrl: "https://arstechnica.com/civis/threads/ai-firms-working-on-“constitutions”-to-keep-ai-from-spewing-toxic-content.1496264/"
+    excerpt: "In response, leading companies including Anthropic and Google DeepMind are creating “AI constitutions”—a set of values and principles that their models can adhere to, in an effort to prevent abuses. The goal is for AI to learn from these fundamental principles and keep itself in check, without extensive human intervention."
+    publishedDateTime: 2023-10-06T13:42:00Z
+    webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 48
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-list-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Indigenous voice to parliament will fill long silence in our Constitution"
+    excerpt: "The Australian continent is covered with the intricate lacework of the age-old stories of the Dreaming. They explain the shaping of the landscape and the relationship of First Peoples to it and to each other."
+    publishedDateTime: 2023-10-05T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 23
 
 secured: "3JAgsIJbgK9M+L76F+QlZe69TwDpeZE6DOF/mdhC+Vda9yL6cERf7A3dL74oVfK0Nhu9kjRhMWYzmH0TZam8CfUXx4yVOS10/u+TOFuiRRH79DGgj/Zew+kBgZCC3kGDXAw+J00pJjrownfJdciqrIcWSGz0TuL3nCUHngBMdPq0uC3J3qDus2tmRRkFS+BOX8Vj1TigxwuLn7dDY+1s8dWl+PMIJ68lW2VrzqkDgYSMmjsYbEB0xCxLbStZK0ZBJ8jhNpnXNw4R/4ihMJ72IWGVZginckYnLifoWEHjUiEpGQtelHecqWarjHKGuaVaUjrn1h9GBNIkmhYpakEZFDZJQ2SZLbhaAstOEP/5X8m1dB2T1k8xZnTXP+N+rw7J2t/IPDdGaUtHqmB9e1OOvTNwd5cLIEKCUViu51MKII7zW8mPTB3MWNBbva9rhe/3gy8kUvea3IcgkmIGuvLodlF7BRJCXDxrZOTifdjEjCZVlwRdojxFGwG9NpKxZIvPwPKF75nYxdoqU1B5eOJ4yw==;6jb7/Y6wcM9bG9OcEJAIxw=="
 ---
