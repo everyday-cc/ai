@@ -28,14 +28,14 @@ related:
   - title: "AI facial recognition: Campaigners and MPs call for ban"
     excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
     publishedDateTime: 2023-10-05T23:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
+    webUrl: "https://www.bbc.com/news/technology-67022005"
+    ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      domain: bbc.com
+    quality: 104
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
         width: 1024
@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
+    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
+    publishedDateTime: 2023-10-06T14:55:00Z
+    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+    type: article
+    provider:
+      name: LBC
+      domain: lbc.co.uk
+    quality: 44
+    images:
+      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
     excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
     publishedDateTime: 2023-10-05T12:06:00Z
@@ -157,6 +171,20 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "British lawmakers call for pause on use of live facial recognition"
+    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
+    publishedDateTime: 2023-10-06T15:19:00Z
+    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
     publishedDateTime: 2023-10-04T21:17:00Z
@@ -165,6 +193,15 @@ related:
     provider:
       name: Mobile ID News
       domain: mobileidworld.com
+    quality: 19
+  - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
+    excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
+    publishedDateTime: 2023-10-06T12:07:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/10/mps-call-for-urgent-stop-to-use-of-facial-recognition-tech-by-police-forces/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
     quality: 19
 
 secured: "UuNXo+EzhbnTK0H+1czfWO8ZQQDSXw82Yzww6KxmqPl7qkr0kMpBmKvuE+IohlaKYY3BToz+TEGRtUvAP6+9viNMeLcVo2oT6eVdQTvXunur6/82ckFz54ey642+dW/6kR9VtmPX68c6vcsrkq20EBeCzaiyFOFuMLblRqr8T0dP37p+FNi137ZTB08mgDLsAZBWMcZ9dyQOG0c7YWSU7B+6yXKsk3T+Lq+uTgkkwdyeEv+LfiK+LVWJ9S41PyRgvEeKVCIZoWtK4FHUWvtBjFxLfXW0YpEw1I/R4i3MN00E4rWGAGOhL7+nkehaesMK/wMdiSg9fJnObTBc3gdds7lEnHGZrew8ZDka9g4+AQg=;p0SkiQbRwFN45oLcHG0VEA=="

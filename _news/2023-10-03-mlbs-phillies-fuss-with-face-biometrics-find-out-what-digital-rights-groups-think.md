@@ -24,6 +24,22 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Talking cars closer to reality with voice biometrics products from Aculab, Kardome"
+    excerpt: "AcuLab and Kardome have each launched new voice biometrics software for automobiles, the former for door unlocking, the latter to tell passengers apart."
+    publishedDateTime: 2023-10-06T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202310/talking-cars-closer-to-reality-with-voice-biometrics-products-from-aculab-kardome"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
+        isCached: true
+
 secured: "4sOUwXM6hxGKy+BRNZzGfcA/8JuWHBNCIIUMQ25y4FmeySfXufnwrCqfle41EL+9OMoU7treCg42b7uM/w2VUy8Cn4Upmj2YrsOrQg7pZpx5YfGJkY3J+CaVHlksYSboAi3oz+2SHXuMehQkJW8f0MHSimgq91czcHjfLywk4EJ5A5gLpu//Ady4qq1CNZ7iQByQRK251NieUC2qv7RlhU//D4nWGvu2jYdunxqrGAYGYuCR1YTchFmYQIWsEchZK3QCIVntsimkU4Ug2cCkCSDsjQFKlG7BD6p9oggwC+HZ4oJAHKZgLY29Q/83Fk4c+GXykv//18nk/EmBsoNru1amskkQFGuxRT8u/hdx9C8=;r3JlCPV6TvC8v2xR+Dlh1A=="
 ---
 

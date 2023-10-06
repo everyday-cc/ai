@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
+      "title": "Hi, Robot: Machines Take Over At China's Asian Games",
+      "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "publishedDateTime": "2023-09-23T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-paralyzed-man-walks-using-mind-controlled-robot.md",
+      "title": "Paralyzed man walks using mind-controlled robot",
+      "excerpt": "A man paralyzed from the shoulders down has been able to walk using a pioneering four-limb robotic system, or exoskeleton, that is commanded and controlled by signals from his brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "originalUrl": "https://www.reuters.com/video/watch/idRCV007BNU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20191004&i=RCV007BNU&r=RCV007BNU&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-will-change-the-job-of-the-junior-banker-and-raise-the-bar-to-entry.md",
       "title": "How AI will change the job of the junior banker and raise the bar to entry",
       "excerpt": "Want a job as an investment banker? Generative AI is about to change everything, from the job itself to the skills required to be an analyst.",
@@ -1243,101 +1339,6 @@
       "provider": {
         "name": "Oregonian",
         "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-drinks-company-appoints-ai-robot-as-experimental-ceo.md",
-      "title": "Drinks company appoints AI robot as 'experimental CEO'",
-      "excerpt": "A drinks company has appointed what it says is the world's first artificial intelligence \"experimental\" chief executive to work in Poland. Angela Johnston explains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idRW182413092023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230914&i=RW182413092023RP1&r=RW182413092023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
-      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
-      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
-      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

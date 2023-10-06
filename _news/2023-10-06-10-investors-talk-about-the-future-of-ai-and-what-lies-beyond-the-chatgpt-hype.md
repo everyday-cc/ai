@@ -22,19 +22,120 @@ topics:
   - AI
 
 related:
-  - title: "Reka launches Yasa-1, a multimodal AI assistant to take on ChatGPT"
-    excerpt: "Yasa-1 can be customized with private datasets of any modality and used for different enterprise-centric use cases."
-    publishedDateTime: 2023-10-05T02:14:00Z
-    webUrl: "https://venturebeat.com/ai/reka-launches-yasa-1-a-multimodal-ai-assistant-to-take-on-chatgpt/"
+  - title: "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances"
+    excerpt: "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning."
+    publishedDateTime: 2023-10-02T14:30:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_representation_of_sound_waves_film_strips_and__96931419-9a47-4314-91df-e0fb713b91b9.png?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 672
+        height: 675
+        isCached: true
+  - title: "OpenAI is encouraging people to use ChatGPT for therapy. That’s dangerous."
+    excerpt: "Now the company appears to be encouraging users to think of this as an opportunity to use ChatGPT as a tool for therapy. Lilian Weng, head of safety systems at OpenAI, posted on X, formerly known as Twitter,"
+    publishedDateTime: 2023-10-02T10:00:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna118058"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 72
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230929-chat-gpt-therapy-cs-3fafee.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
+    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
+    publishedDateTime: 2023-10-06T00:34:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
+    images:
+      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa ..."
+    publishedDateTime: 2023-10-05T09:48:00Z
+    webUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860"
+    ampWebUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 48
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.724861.1696498833!/image/image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ChatGPT distracting from wider AI issues, industry body warns"
+    excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
+    publishedDateTime: 2023-10-05T09:55:00Z
+    webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "3 ways AI is revolutionizing how health organizations serve patients. Can LLMs like ChatGPT help?"
+    excerpt: "Machine learning and AI are transforming medical treatment involving functionality, diagnostics, and more. Meanwhile, large language models -- like ChatGPT -- are still in the early stages."
+    publishedDateTime: 2023-10-05T18:51:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "s1iCBfZ3a+15c+c9Qv7eFiMZintPyuHCm0VgkKv9GbGYIkZgY7j3yUb24IioZxkugLqV2ou+0PVLxGbm0HteYrFJr2BBgkZ2dKSuEnCaifM6X2S9bvLaW+WUNaO4WedSzv0CaR1wopgd5CQWYGB2RvYU9Ad8Xn9rUkAjJxu43wL1lelNO0PsBzos/e5NBgfRkQdRFRVhFbab188jbYeA3B0AzyMTFFOEalDdZXBN+MalY9Ngy43vwUwXvsq2vfTijokLJreeDQOHoAw0X2IT2ZwNLV0FQSKhz4sdkMi1KwQ7yqrqRjj9hU9phi7HtNEBZoewYrDEGZSw1g0x5ICTn9olRnVKc57b6+XZ3UxCXYg=;PCkHa4ed7V+8uhaqFduhuQ=="

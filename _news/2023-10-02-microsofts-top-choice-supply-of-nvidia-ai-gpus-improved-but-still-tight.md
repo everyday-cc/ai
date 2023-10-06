@@ -7,8 +7,8 @@ originalUrl: "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia
 webUrl: "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: On MSFT
@@ -24,6 +24,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Nvidia tells us how AI will tackle the slowing of Moore’s Law for RTX GPUs"
+    excerpt: "“NVIDIA will be using generative AI more and more for the graphics process. DLSS paves the way, by reconstructing more pixels with Super Resolution, generating more pixels with Frame Generation, and making ray tracing look even better with Ray Reconstruction. 79% of 40-series gamers turn on DLSS, a testament to the technology’s benefits.”"
+    publishedDateTime: 2023-10-06T12:46:00Z
+    webUrl: "https://www.videogamer.com/news/nvidia-interview-ai-moores-law-gpus/"
+    type: article
+    provider:
+      name: VideoGamer
+      domain: videogamer.com
+    quality: 32
 
 secured: "BjhN48JbjHUzrrWyar9sP9B7g+w+h0Lw6u6ySgVrT9snSapWCik4BTvn7XfMBTNLpl1khnSZIEtITBId2VMv2QX7UPdtnLEX/Y/JlGJeJYtmnsM3oqjbfUU/O0G29Mxtm2c13TjzoGwxLqkm6Pp+0WrRyYmDFXyw6Dey11LurgCXhVuyRJD+HnCrRvise4faOVFILCv0Pf4fg2gl04+Oyvr5GElZQ0+4UBdrtBC9eolLVQ8utxhqAkjDaQ8ZgE4euJZNYohfDjJ3oTpBsNlpgC4aKNMhw3ZhoeJp+smq5aiUqaVOQtMs/q++dsRBz+XCxgVoH04HxGpMae2XUJ93SxoQXnZNHbqRPcY7Ejg56arZuOoliRv80nF/Ym4CPOWmTv+l/z2w3f/zihn1LXD+4TWulir5O33ORNOCb2FmaDRDMfDzk+1KpZrZcpDMVKPfLZP7Es7aTAqlC5cEVMW3yJTqiR0j39qtPj4tuBaXbByY97BnxVHzrgs2pInRHcpLBB6V1/cWdoV3TypEu3d+Ug==;9u5B8FbaJxg8W+66oK5Duw=="
 ---

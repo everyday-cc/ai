@@ -62,6 +62,15 @@ related:
       name: acm.org
       domain: acm.org
     quality: 34
+  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
+    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
+    publishedDateTime: 2023-10-06T13:03:00Z
+    webUrl: "https://www.ktbs.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_30d42c10-3edf-5f3c-b12d-187c891e0aca.html"
+    type: article
+    provider:
+      name: KTBS
+      domain: ktbs.com
+    quality: 34
 
 secured: "laWPswR5+ZUKD4cUVHqc4A938zs3cex9FypDARFPNBaXJmfo6GIBDbO9PbKT8MUd4uy/8TBfAbeng1oQguPc84fiBaSl9c6HAgTfkd+GOozjdx609Dt8BSBCVp2sj3xm2aSk0jt6Mgb0mvjhnsQYn9a6ocRC/vohF5VViJ1Ns7j7qiSPCX4vLjcQ6Fn25ZKZ2roYLe4Y9uzlxZew0+s8nl2oU/kaScIrNe6HAWB6w0HE5nyzUGZKqjiIns1ZBJjxsz9jQL9Dmaf/xKRD/oBmcUo1fqrAhWrjznVz6hiB5PZ94XZ2TTJBdSO1NgZFaF37/COj+mzv59hEs1lfcI4ysjKPmXfIiNfUIlR6lAlIwyA=;vXsXtnFyMDe5BRovMiVOgA=="
 ---

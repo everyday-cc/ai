@@ -22,14 +22,14 @@ related:
   - title: "AI facial recognition: Campaigners and MPs call for ban"
     excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
     publishedDateTime: 2023-10-05T23:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
+    webUrl: "https://www.bbc.com/news/technology-67022005"
+    ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      domain: bbc.com
+    quality: 104
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
         width: 1024
@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
+    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
+    publishedDateTime: 2023-10-06T14:55:00Z
+    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+    type: article
+    provider:
+      name: LBC
+      domain: lbc.co.uk
+    quality: 44
+    images:
+      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
     excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
     publishedDateTime: 2023-10-05T12:06:00Z
@@ -151,6 +165,20 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "British lawmakers call for pause on use of live facial recognition"
+    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
+    publishedDateTime: 2023-10-06T15:19:00Z
+    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Privacy Commission: Facial Recognition Technology not justified"
     excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
     publishedDateTime: 2023-10-05T21:11:00Z
@@ -165,6 +193,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
+    excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
+    publishedDateTime: 2023-10-06T12:07:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/10/mps-call-for-urgent-stop-to-use-of-facial-recognition-tech-by-police-forces/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 19
 
 secured: "7ntndN2waHyNHORTydlcf3a29RS63sb//3iNBcabaqGtvLt2zAx/x1GkL3PjNXOsxJVyonYSDO+z90XN/Tj4/NBWSe5wyZHC9oi9tuNuYM+ChOzGDIzTfFeRcRkr8TEy2hbKq4Lwdd/yifc7cn01gxnYXCD9uWmJxKq1IiuVnMs/QJxco0JQib0WzZc/crLJFie8B9lNvN9IS1E+WaV5+CKyOfGYdodkEEzr61gBi2ynuUNkMp2E+qBbRAv1Ur0sP0i7OmD112jtcD+FYNTKE0ercOIWvrKexXhQ7TC7+LB0UAd68ofAwoMUkHVDoaeKBfr9V/1mDzfMIpwQARNK7baLfDXYdZjXhmaQfOmt2sQaZDDwjKQbKAh/ioXoozpYBwK+5O/tLTYYDSdfds2AcHxk4+KUK7/ZwMJcJ5NrNtPQ5J9jRBoHIIOPxUO4rsEO1TBeNer3SvI+fVYDgXmlCEUgAjZDuBweg3NMa6RyL0VAyj9MEj3y+a/McK7qumC4749IkYSFUi3AZXtLESl6JQ==;Us6zSw0HDrMnvCjP+V1EKg=="
 ---

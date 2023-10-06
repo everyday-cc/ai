@@ -52,6 +52,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Translator now supports 20 Indian languages: All the details"
+    excerpt: "Microsoft Translator has added support for 20 more Indian languages, bringing the total to 23. This includes major languages such as Hindi, Bengali, T"
+    publishedDateTime: 2023-10-06T06:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-gets-supports-for-20-indian-languages-all-the-details/articleshow/104189572.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
+    excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
+    publishedDateTime: 2023-10-06T12:18:00Z
+    webUrl: "https://www.digit.in/news/apps/microsoft-translator-gets-updated-with-new-indian-languages-here-are-all-of-them.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 16
 
 secured: "wfdVUuv3bNufD1s6U4MlFtsZp6hI0lngB8Xq188Vq+BXIMDehSteGrHLH9sZylSKbxhW/KcYXiIc2r8lejUu8pVdyKxfK77CmH7jG1w6kC+Lsg9C7IXX1GFVMJd0D7TUMxDZsUPs0pIAEtdRUBE2ewCROExXTPFf3s/zviyJnnvd0fEjgmQkT1kUHYXfDsk2sCHa7cUmo0V0dJ8dnrTO73+LbkLvC3gs2Q5AA2KEyY4f0LBUrJVcbQDYzyqIdXV2FhVQncNBImdwtR4AlXPXWaUfn7YKgdaePbhMHjop3m8A8xKB4pc18vnzaMmShpJmSt/koAhdCj2H2tGqEKggI8j+0p52TZPx/HKw1QW2FGVodLtJ0QQQw87FrulhMinvl11UYFnLIV9nuRSAiQbjuZVuQQRGIBOm1QesczLa+V8gaWBtHYz32y+K9KiXjkDujBmj9U++4vHYgRpYpyR+uIp/wo7aOSV0ZuWsR1TbK0nPKDmGLfJlzNBfAhYUqXm3J1l3srtqtxqgfbr6jhujug==;ePg9vbHKS2O0g0jhaFAlkw=="
 ---

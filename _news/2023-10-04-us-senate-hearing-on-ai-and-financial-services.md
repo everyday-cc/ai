@@ -62,6 +62,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 24
+  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
+    excerpt: "Caption Guidance on the Venue Family point-of-care ultrasound systems is available in the United States. GE HealthCare plans to integrate this innovative AI technology into other ultrasound systems, including handheld systems, helping to further expand access to diagnostic care as well as the use of ultrasound in a variety of care settings."
+    publishedDateTime: 2023-10-06T13:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-launches-enhanced-venue-family-point-of-/2023/10/06/9894403.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "7LwZkKctJSvVin0eSOaN9D0RqCNVIcNpPGBEEvaRuxKQ7w+AZXAwI4Vx78+myaRAZCPCfJxEO9KkZ3amVSjz4PYoIprArFD7cWJT2EkaHm71VI1DdUrqJE3NHM7FsYiSxjfLp15o6SjRrt4KeotbLLZlkIbkP9k/AvCENW89EdiOmnJS7WPv/rZuxdL/z1CepIy70zK+ZjU6ZdX3X4QhtH4CLqD2tu0HOHZdp5khId0qfaCVpW4LNEkwKJTFjhr7e2pyi3/6YPdVSl5DzV63Vnk2C7gQchkVcamN0c1siDDd74NLIReLRZlo4oltksuuy1LdxuEZrycff1EUM/lBUfwEzfXgYrFPvrG91wxTG4k=;+VE3O7mg9iQtOLml2CzKCw=="
 ---

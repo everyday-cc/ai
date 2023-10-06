@@ -2,84 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-09-19-five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets.md",
-      "title": "Five experimentations in computer vision: seeing (through) images from Large Scale Vision Datasets",
-      "excerpt": "Using images from large-scale vision datasets (LSVDs), five practice-based studies – experimentations – were carried out to shed light on the visual content, replications of historical continuities, and precarious human labour behind computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "originalUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-facial-recognition-scanners-in-supermarkets-security-measure-or-privacy-invasion.md",
-      "title": "Facial Recognition Scanners in Supermarkets: Security Measure or Privacy Invasion?",
-      "excerpt": "Major supermarkets such as John Lewis, Co-op, Waitrose, Next, Tesco, and Sainsbury's are joining forces with the police in a new data-sharing initiative called Project Pegasus. These retailers are collectively contributing £600,",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "originalUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/09/thom-bradley-Vi7qXASPu4g-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-09-18-ministers-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras.md",
       "title": "Ministers to approve bill legalizing police use of facial recognition cameras",
       "excerpt": "According to the bill, police will be allowed to deploy the facial recognition technology to “prevent, thwart or uncover serious crime and those involved in planning or carrying it out.”",
@@ -1304,6 +1226,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-these-9-stadiums-are-already-using-facial-recognition-at-games.md",
+      "title": "These 9 Stadiums Are Already Using Facial Recognition at Games",
+      "excerpt": "Sports arenas across the country are racing to use your face to replace traditional tickets in spite of worries from privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose-bowl-met-1850798207",
+      "originalUrl": "https://gizmodo.com/9-stadiums-using-facial-recognition-games-rose-bowl-met-1850798207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d5ad754baa503fe4d030e26538bbc050.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-computer-vision-western-asia.md",
+      "title": "Computer Vision - Western Asia",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$355.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.56%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/western-asia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/western-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DaVinci Resolve Studio AI neural engine features"
+    excerpt: "It uses advanced machine learning algorithms to automate and enhance various aspects of the video editing process, from facial recognition to object removal. One of the standout features of the Neural Engine is its facial recognition capability."
+    publishedDateTime: 2023-10-06T11:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/davinci-resolve-studio-ai-neural-engine/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/DaVinci-Resolve-Studio-AI-neural-engine.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "aHtqbfCyOZlrX6I+DfdGHxHveTC+C9W6drG1T/DbyThdRb5ChgrD59jehkd5TyRSnsKlcI5oYEs7wHjnm40+um5I69lOKVdD0LTlOSo3/DdDLSoo+LEZ8udPza3+40C3ItR8xqJ7840rqcXSg7HLzhYPq8p0+kBb2k5SkZciJfFTzcdN3F9fyQHTOz2h87YcfC4jFAbi7cx3CXFlwwxV/QfGjRmWg4MIMA4mujsWnDGBUBScHeWxY4W13xojHOfg4q/2+DOq/zpCHP2dZKt0uSgshLXhmZUccd3BjxJTd7yuhq0sIFOa6cKZUofHs+gVRvrVHKn0Awv9HcSH/b1cB+uSuVEzTVnPB2Ah1zK4iCs=;c6z3rPCx2iMKp9gezVzkag=="
 ---

@@ -165,6 +165,33 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "OpenAI considers making its own AI chips, acquiring hardware business"
+    excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
+    publishedDateTime: 2023-10-06T12:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 36
+  - title: "ChatGPT-owner OpenAI might be exploring making its own AI chips"
+    excerpt: "The effort to get more chips is tied to two major concerns Altman has identified: a shortage of the advanced processors that power OpenAI's software and the “eye-watering” costs associated with running the hardware necessary to power its efforts and products."
+    publishedDateTime: 2023-10-06T11:51:00Z
+    webUrl: "https://www.cnbctv18.com/technology/chatgpt-owner-openai-might-be-exploring-making-its-own-ai-chips-17974651.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 34
+  - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
+    excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
+    publishedDateTime: 2023-10-06T12:00:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/fed-up-with-expensive-ai-chips-openai-is-now-planning-to-start-making-its-own-ai-chips-13213102.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 26
 
 secured: "mhrX8bpZLlXQ7JhAVnVGaxY6FETNCFv7UIOllGwEHirPqx7bfgL5+nQM/apDB3m4npulF+HJEx/OfgsJRpCc1hE+/F6JokZEWiO61hvjTFwiO+jdrAqiMjf0HJjuPR3wBN1eKT6qZzEJ8S79bQmxJsLCJnfkgvtfAsrFGmYOIaMcLbl8onyi4TLVHTaJfPUfoyCHEU+9O55eECoP0aPxuxLpRzjf6Wqj8Oi4Pt4mVUNFW6vrj65G7uil2VlfRL1fV1dHvge2tYVewggleoFczFAxXfP8yF8EAL8mVHewmqj+hS9AvjBXulfK7RavpME6Aoe30UPkozy+yj022H1YhxQFKsx/PmAvMkzOJ8eFcLsh2IIOaKPkqZuokY0BmrSuzwQjuH++DfXaZRzbeOduXr45JzvcCuq/F8FtsUncQTSJzgRiNWmFHoT+6Jw1vSevJADMiWVG9hCY6Ey+1QyW4Mkt1jAI99OtIJxynKgJzmfm+ry5SZE9QYtwRZ+j/W935CGcLGVDg6Jhoa2u6tl4gg==;d86C3a0mKmIScn8xelPKEw=="
 ---

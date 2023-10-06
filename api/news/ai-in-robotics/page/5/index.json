@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-01-book-review-robot-souls-programming-in-humanity-by-eve-poole.md",
+      "title": "Book review: Robot Souls: Programming in humanity by Eve Poole",
+      "excerpt": "Experts in the complex intellectual areas that she covers — AI history and development, philosophy of mind ... us to use and control its power virtuously. Poole’s more whimsical solution is to programme virtues or “souls” into robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
+      "originalUrl": "https://www.churchtimes.co.uk/articles/2023/1-september/books-arts/book-reviews/book-review-robot-souls-programming-in-humanity-by-eve-poole",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.churchtimes.co.uk/media/5692391/poolee_robotsouls-20230824151609494_web.jpg?center=0.33412322274881517,0.58510638297872342&mode=crop&width=600&height=314&rnd=133379472460000000",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Church Times",
+        "domain": "churchtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-marines-overhaul-approach-to-smart-robots-eye-new-military-job.md",
+      "title": "Marines overhaul approach to smart robots, eye new military job",
+      "excerpt": "The Marine Corps has dabbled in drones for a while: It has invested in quadcopters for infantry squads, robotic mules that lug gear, even, earlier in 2023, its first MQ-9 Reaper hunter-killer unmanned aerial vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "originalUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/E_g2rw1tQutwbTSIqZLQAt0VM1c=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/X6U4TSASWFHXZLRPOOW7TSPMFA.jpg",
+          "width": 1024,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-new-ai-technology-gives-robot-recognition-skills-a-big-lift.md",
       "title": "New AI technology gives robot recognition skills a big lift",
       "excerpt": "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ...",
@@ -1240,101 +1326,6 @@
         "name": "myrepublica.nagariknetwork",
         "domain": "nagariknetwork.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-pharmaceutical-industry-enlists-packaging-robotics.md",
-      "title": "Pharmaceutical Industry Enlists Packaging Robotics",
-      "excerpt": "Two new packaging robotics pick-and-place systems for pharma applications use a cobot and a 6-axis robot, respectively, to load blisters and to cap primary aseptic pharma packs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
-      "originalUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.healthcarepackaging.com/files/base/pmmi/all/image/2023/08/ESS_Packaging_Robotics.64caf6c126cce.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcarepackaging",
-        "domain": "healthcarepackaging.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient.md",
-      "title": "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "originalUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/moto1-1.jpeg",
-          "width": 2000,
-          "height": 1583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI's Sam Altman invests in Indian startup Induced AI"
-    excerpt: "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”."
-    publishedDateTime: 2023-10-04T07:07:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 57
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Sam Altman, Peak XV fund AI startup founded by two Indian-origin teens"
     excerpt: "Induced is an AI-backed browser (RPA) robotic process automation platform that allows automation of workflows that require real-time reasoning or dynamic judgement (filtering leads, cross-referencing documents,"
     publishedDateTime: 2023-10-04T08:56:00Z
@@ -95,22 +79,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "How a scientist working on AI and machine language helps bring foreign plays to Indian audiences"
-    excerpt: "Niranjan Pedanekar has adapted important texts, such as 'God of Carnage', 'A Hunger Artist' and Steiner’s 'Lemons Lemons Lemons Lemons Lemons' into Marathi."
-    publishedDateTime: 2023-10-04T06:41:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 46
-    images:
-      - url: "https://images.indianexpress.com/2023/10/Untitled-design.png"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "OpenAI's Sam Altman invests $2.3 million in Indian teens' AI startup. But what are they doing?"
     excerpt: "Two Indian-origin teenagers, Aryan Sharma (18) and Ayush Pathak (19), recently secured $2.3 million in seed funding from OpenAI co-founder Sam Altman for their AI startup, Induced AI."
     publishedDateTime: 2023-10-05T07:38:00Z
@@ -127,22 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Romanian tech startup theCoRD.ai aims to raise EUR 300,000 to scale its AI solution internationally"
-    excerpt: "Romanian tech startup theCoRD.ai, which develops the world’s first AI Team Coaching solution, launched its first round of investment, pre-seed, with a funding target of EUR 300,000. The funds will be directed towards scaling its solution internationally."
-    publishedDateTime: 2023-10-04T09:47:00Z
-    webUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023"
-    ampWebUrl: "https://www.romania-insider.com/thecordai-investment-round-october-2023?amp"
-    cdnAmpWebUrl: "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/thecordai-investment-round-october-2023?amp"
-    type: article
-    provider:
-      name: Romania Insider
-      domain: romania-insider.com
-    quality: 43
-    images:
-      - url: "https://cdn.romania-insider.com/sites/default/files/styles/article_large_image/public/2023-10/ruxandra_cord_thecord.ai_-_photo_pr.jpg"
-        width: 984
-        height: 930
-        isCached: true
   - title: "OpenAI’s CEO Sam Altman Backs AI Startup Founded by Indian Origin Teens"
     excerpt: "Sam Altman, has invested in an AI startup Induced, established by two Indian-origin teenagers, Aryan Sharma and Ayush Pathak"
     publishedDateTime: 2023-10-04T10:16:00Z
@@ -157,15 +109,6 @@ related:
         width: 907
         height: 503
         isCached: true
-  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
-    publishedDateTime: 2023-10-04T12:33:00Z
-    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 17
 
 secured: "1cCHJuOZv7Efy5Tzn+oIFzLRFDb7qT9uOdV9A172nokUI0ZfnZ67pKsdsWhXNR8l/8CRqmuQCTszw5uR0GKBuhOXCb4ifrXo8/xj6/rP/npy96MHvheOB8yffvTWrbTPDNwQE4EnIX7cq1xtFiUTAZMhX2nEg8Qc9JcezsNWUu/KUwd9BUI6ZEeVysK0hqYf7FnhiLCtksf7e9UMxhRrW5Y+4iz+V4rG6+TPJE7KVbXAg2NbUPh2vq5C6I48K6k0KfKgfBwL3tbACcTkhpci8QQILVx9roJUkgo/ABsJftJns+YTjEXS2tZ4wW13VgOKhBuOR+oDLPtp1xr7syY9dv2dQdxdSFUQaHocTrYLxvX9ZuSAS4iUU4rMZlBvdJWoz2cA/52FxPl0k9LVXfxppJ1EwqDCPGoh9nSYNNcnJcJXsKGRrFCUMC9eY/j90zanbxiX2UxSHShLiZ2t4YnOLCgPAtgj7YxcxGySDCbjE9izc+AuUmB2gYrG0M5H7P2YtpBrjskzshCcHEVRWDpQzw==;ekeZzO9yGb8A8XWY5dT6Pg=="
 ---

@@ -19,24 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
-    publishedDateTime: 2023-10-02T22:43:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
+  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
+    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
+    publishedDateTime: 2023-10-06T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
-    excerpt: "The injection of more artificial intelligence, or AI, into Google’s products marks another step in the company’s attempt to bring more of the technology into the mainstream."
-    publishedDateTime: 2023-10-04T17:51:00Z
-    webUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
+  - title: "SuccessConnect '23 - under the hood of SAP's generative AI news, and beyond"
+    excerpt: "On the generative AI side, we're partnering very closely with Microsoft in SuccessFactors, leveraging some of the open API services running out of this Azure, that is ChatGPT 3.5 turbo. Ludlow also noted the evolution of conversational AI: We've had some ..."
+    publishedDateTime: 2023-10-04T21:27:00Z
+    webUrl: "https://diginomica.com/successconnect-23-under-hood-saps-generative-ai-news-and-beyond"
     type: article
     provider:
-      name: wyomingnewsnow
-      domain: wyomingnewsnow.tv
-    quality: 20
+      name: Diginomica
+      domain: diginomica.com
+    quality: 17
 
 secured: "z6gQ4B1/LW6fYSg10DIkbzQcFHhym7c+sQJgRqFaz6X0DmIJ/kcrik+xV/bJQQeMjRth1KMGxOESpKNkY7gXrvykqWBIhCrRdu7W7Sr1XdO8z5xbn/dvpeTj4qlCpvJ+BpaiunW878nZLVcwQHnYDn2bkDfq7Vf/bz3wzTTk0QgZo8LY6KGcNacDtsvrPo3drV5Kgp7geyKkhfbKEWENUoqAOrec6Dx71vuPEEf+ktqWCX8UZJaaHj11MoPUbNk2I3TyEBvJHEA36kYy+O08FdyU0uM9nwQPaR9FtCuawuvqAQ4XAs+jDOxvkb03rzPgWQlodU/e/1nS3U2atpD3KjeI2cxKuEZTlWavJUNOS7aDVfGAz4UE5KwwpLxkKBDB3wWdnleNwKcQUhUdw0v6IWcdiLZ1V+PENwZEKHl7MP2dzO3mDkNHN1uubxhwBj6v0PUlgQeoURMdvbXQUW6aFaIXif+PVi84aEG82PJewPRwlgmOB6jNxmUgtxFFXst15T9BShm7BnQRLy5bfIPLeQ==;5ftXS1cSDrt8ODG0xauRhA=="
 ---

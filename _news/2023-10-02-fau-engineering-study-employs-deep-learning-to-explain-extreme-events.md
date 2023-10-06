@@ -34,6 +34,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
+  - title: "Using Active Machine Learning for Chemical Engineering Research"
+    excerpt: "Chemical engineering researchers have a powerful new tool at their disposal: active machine learning. In a recent perspective article published in Engineering, the research team at Ghent University lead by Kevin M. Van Geem explores the potential of active machine learning (AML) in revolutionizing the field of chemical engineering."
+    publishedDateTime: 2023-10-06T14:49:00Z
+    webUrl: "https://www.powderbulksolids.com/chemical/using-active-machine-learning-chemical-engineering-research"
+    type: article
+    provider:
+      name: powderbulksolids
+      domain: powderbulksolids.com
+    quality: 39
+    images:
+      - url: "https://www.powderbulksolids.com/sites/powderbulksolids.com/files/Active%20machine%20learning%20for%20chemical%20engineering.jpg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Study employs deep learning to explain extreme events"
     excerpt: "Researchers from Florida Atlantic University's College of Engineering and Computer Science leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows, which are pervasive in ..."
     publishedDateTime: 2023-10-02T18:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/voting-yes-is-about-constitut
 webUrl: "https://www.afr.com/politics/federal/voting-yes-is-about-constitutional-recognition-to-get-better-outcomes-20231004-p5e9np"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Voice is an opportunity to listen to Indigenous communities and receive ‘better outcomes’"
-    excerpt: "“Secondly – the form of recognition that Aboriginal and Torres Strait Islander people themselves have asked for – a gracious request to say that they want a non-binding advisory committee. “That’s all the Voice is – an opportunity to listen to ..."
-    publishedDateTime: 2023-10-02T17:19:00Z
-    webUrl: "https://www.theaustralian.com.au/news/voice-is-an-opportunity-to-listen-to-indigenous-communities-and-receive-better-outcomes/video/2ba9c523c199d66ec0ba6aab009d74bc"
+  - title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
+    excerpt: "Broken guardrails for AI systems lead to push for new safety measures . Back in the day when I first read Asimov's three laws of robotics, this really isn ... Sounds like we need to start building these models around specific concepts, rather than ..."
+    publishedDateTime: 2023-10-06T14:09:00Z
+    webUrl: "https://arstechnica.com/civis/threads/ai-firms-working-on-“constitutions”-to-keep-ai-from-spewing-toxic-content.1496264/"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 48
 
 secured: "3JAgsIJbgK9M+L76F+QlZe69TwDpeZE6DOF/mdhC+Vda9yL6cERf7A3dL74oVfK0Nhu9kjRhMWYzmH0TZam8CfUXx4yVOS10/u+TOFuiRRH79DGgj/Zew+kBgZCC3kGDXAw+J00pJjrownfJdciqrIcWSGz0TuL3nCUHngBMdPq0uC3J3qDus2tmRRkFS+BOX8Vj1TigxwuLn7dDY+1s8dWl+PMIJ68lW2VrzqkDgYSMmjsYbEB0xCxLbStZK0ZBJ8jhNpnXNw4R/4ihMJ72IWGVZginckYnLifoWEHjUiEpGQtelHecqWarjHKGuaVaUjrn1h9GBNIkmhYpakEZFDZJQ2SZLbhaAstOEP/5X8m1dB2T1k8xZnTXP+N+rw7J2t/IPDdGaUtHqmB9e1OOvTNwd5cLIEKCUViu51MKII7zW8mPTB3MWNBbva9rhe/3gy8kUvea3IcgkmIGuvLodlF7BRJCXDxrZOTifdjEjCZVlwRdojxFGwG9NpKxZIvPwPKF75nYxdoqU1B5eOJ4yw==;6jb7/Y6wcM9bG9OcEJAIxw=="
 ---

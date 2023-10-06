@@ -33,6 +33,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Impact of AI and Machine Learning on Startup Innovation"
+    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
+    publishedDateTime: 2023-10-06T14:57:00Z
+    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
+    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 56
   - title: "AI in the Classroom Is a Problem. Professors Are the Solution."
     excerpt: "We must embrace attention to writing in all fields and at all levels, not just in first-year composition courses."
     publishedDateTime: 2023-10-03T11:23:00Z

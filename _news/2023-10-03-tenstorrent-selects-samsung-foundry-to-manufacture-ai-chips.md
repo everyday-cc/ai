@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Samsung unveils AI-focused Exynos 2400 with a 70% faster CPU"
+    excerpt: "Samsung has announced the Exynos 2400, its next-gen flagship chipset for smartphones. It is heavily focused on AI performance."
+    publishedDateTime: 2023-10-06T11:35:00Z
+    webUrl: "https://www.androidheadlines.com/samsung-exynos-2400-official-specs-features"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
 
 secured: "wmvGw4yij62r0fAYbLwLtADA9pnSeaPMKd9dKSZ9buV4ddcjOsVM3Oa7u0nlq+PldieJB0hhysSoMuIrw3F/xmgrMfRNSjSV1C72QosLcdy0BTygg2bkLuymrEJ/HuAYaXDUCUwj+r1C54iU2Req0XXvSOuIZf3KnL1odrQKVXL1twH/3eJp8v6pfTY1rXzPZr728CCVDW0ulxzw88B7g49YV7n0xk+DVWXQQgV3/Y3t8uXRkeJ90bssRx5mrBwkb1SDdXaMNaLZGBwq+50uaAxWjM6rC82/7wPKCINHN559sa5811cLWcfAv1GdWwwfLB+mX90jDd0VweM2reHMMOwVUPCFaTZjOiHBwgFVMZI=;/SHkq10xiZapA/DKKd6/1Q=="
 ---

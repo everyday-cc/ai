@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/reka-launches-yasa-1-a-multimodal-ai-as
 webUrl: "https://venturebeat.com/ai/reka-launches-yasa-1-a-multimodal-ai-assistant-to-take-on-chatgpt/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
-    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
-    publishedDateTime: 2023-10-05T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
 
 secured: "91i9Q9cZHPIgAmVF2y+dp9WWvGmqP+MjUAVtT/PPeqQdhxklD8NYfuMbMCwdHmzDxIOsVASHUpEWmyiL8RXru1oYZvCA/V4WoED/IWUa+6Kvtm/f8OoT5JQ1LEUGUUsUFORer/JobYp8R03ukGm21tr13JqKDI8PU5YjAMu3kCZS4cRpfhOjyLuCGXy9EvQnXYixGKxN88m3dGyBWNZacD8D2oXd6ojmOmxq+EoN16+hsd75ictCksh7EBQs79R1r3NjMAeRxv0mXlUNyqLZe+F1F5JpIGffS6Qw3lML0xiFKpCJdIfUMdEQTtoq4Zymg4vrvrMGaiP+mwwa826kksKPk9riVsK6gJSQVxWWda9x3mtTvF2Xb0Hv4qxm4A+mv1rChy+a6PmJIkbAumZq9kobi/PrJdSpE1nxct3k/00u5c4hNCWIrCVD1zkXKW3iugKLBZIpmh02ZgtiXLERItGd/gezy/lEj0zclH67RE8vTcsj8Oh/mkqSC5mVzijhem0OW/pMiQx9Wt5yMS/9Ww==;KJgNAsTz2dpt78a+HFRKTA=="
 ---

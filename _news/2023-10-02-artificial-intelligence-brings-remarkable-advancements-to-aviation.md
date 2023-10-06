@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Paris based Mistral AI Introduces Generative Artificial Intelligence Model to Compete with OpenAI"
-    excerpt: "France-based Mistral AI recently revealed its first generative artificial intelligence (AI) model in order to compete with US rivals in AI."
-    publishedDateTime: 2023-10-02T03:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Paris-France-National-Assembly.jpeg"
-        width: 1280
-        height: 1113
-        isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z
@@ -95,6 +79,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 47
   - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
     excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."

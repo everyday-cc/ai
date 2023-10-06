@@ -7,7 +7,7 @@ originalUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/sig
 webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Prime Day 2023 - the 35 best early deals from the October sale"
-    excerpt: "Browse all early deals at Amazon Standout deals so far include Amazon devices such as the Fire TV Stick, Echo Pop and Fire TVs, which are all available for record-low prices. There are a number of ..."
-    publishedDateTime: 2023-10-03T16:11:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
+    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
+    publishedDateTime: 2023-10-06T13:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 34
+      name: The Motley Fool
+      domain: fool.com
+    quality: 58
   - title: "Best Stocks To Buy Now in October 2023"
     excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
     publishedDateTime: 2023-10-05T00:24:00Z
@@ -57,6 +57,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 19
+  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at AUSA 2023 on October 9-11"
+    excerpt: "One Stop Systems, Inc. (Nasdaq: OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at the Association of the United States Army (AUSA) Annual Meeting,"
+    publishedDateTime: 2023-10-05T12:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893557.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "pFlasO3ipNIn/D8PuqmAsQZGiloGgMG/JsSzhEhx0RI8Y/HWSsOUCutMkYQffJoZ/UHn4RckIN4k1AZpQHMnEUNksajMwnV3kod08oxlgxhWy1hEaIkPF+VPsI1FmqTI/zsInBhf6VA/gTlEHtr8BgOlHJ5ZBlGgAzXAZ2etr/uaA1idPhLnCQSwk53T/zRATt+z+gvqwc/QCf79QGWjB0rB4goIx4zdXk0wOeZx9Yx6F7RdiF/HvrUWVJcSpxPwHZ016HygkKQWKi+zFesG7ZEdiyHjjhbz2VxaJqPs6o8QB72cYw2T3UzbEz+qKfjU2Y+JFoCtvp7NHinRkGEC6+qpzIgxaQCNdpnFsrpqMt0=;KjbUHFodOtKqVboLijgWMQ=="
 ---

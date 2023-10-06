@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
-    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
-    publishedDateTime: 2023-10-06T00:34:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 50
-    images:
-      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Voice referendum: Is Australia playing catch-up on Indigenous rights?"
     excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
     publishedDateTime: 2023-10-04T15:21:00Z

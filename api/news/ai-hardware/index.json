@@ -2,21 +2,64 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-06-tsmc-sales-slump-less-than-expected-it-isnt-just-ai-buoying-the-chip-market.md",
-      "title": "TSMC Sales Slump Less Than Expected. It Isn’t Just AI Buoying the Chip Market.",
-      "excerpt": "Taiwan Semiconductor Manufacturing makes the main processors inside Apple iPhones, Qualcomm mobile chipsets, and processors made by Advanced Micro Devices.",
+      "path": "_news/2023-10-06-2-stock-split-artificial-intelligence-ai-stocks-to-buy-hand-over-fist-in-october.md",
+      "title": "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October",
+      "excerpt": "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ...",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40",
-      "originalUrl": "https://www.barrons.com/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40",
+      "webUrl": "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-openai-plans-in-house-ai-chip-production-amidst-industry-challenges.md",
+      "title": "OpenAI plans In-House AI Chip Production amidst industry challenges",
+      "excerpt": "To combat a shortage of advanced processors , OpenAI, is actively considering the development of its own AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
       "tags": null,
       "images": [
         {
-          "url": "https://images.barrons.com/im-548523/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-174910.png",
+          "width": 1022,
+          "height": 659,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +67,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40",
-      "publishedDateTime": "2023-10-06T04:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T05:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +93,59 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Sales"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-graphcore-which-wants-to-be-an-ai-chip-rival-to-nvidia-has-shut-offices-and-needs-more-investor-cash.md",
+      "title": "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash",
+      "excerpt": "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10",
+      "originalUrl": "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -76,58 +179,6 @@
         "name": "GSM Arena",
         "domain": "gsmarena.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.md",
-      "title": "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips",
-      "excerpt": "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/AYDTLmV1LPipfgBXyKlapFZSymk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCPUZRTQHBPT3A36QWC7ZIBZZU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -592,7 +643,7 @@
       "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -644,7 +695,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -833,6 +884,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
+      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
+      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1343,101 +1438,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
-      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
-      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption.md",
-      "title": "Prototype Chips Deliver AI Task Solutions With Minimal Power Consumption",
-      "excerpt": "A chip with 35M memory devices and 34 tiles attains 12.4 TOPS/W (tera-operations per second per watt ), showcasing software-equivalent accuracy for keyword spotting and near-equivalent accuracy for large neural networks across five chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "originalUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
-          "width": 370,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

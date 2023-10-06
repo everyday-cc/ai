@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-th
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/ai-is-the-intelligence-artificial-or-amplified/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/651ebc0e4a8614b468841a52/0x0.jpg?format=jpg&width=1200"
         width: 1200

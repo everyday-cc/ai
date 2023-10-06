@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-wit
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Samsung unveils AI-focused Exynos 2400 with a 70% faster CPU"
+    excerpt: "Samsung has announced the Exynos 2400, its next-gen flagship chipset for smartphones. It is heavily focused on AI performance."
+    publishedDateTime: 2023-10-06T11:35:00Z
+    webUrl: "https://www.androidheadlines.com/samsung-exynos-2400-official-specs-features"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
 
 secured: "JZWbYDHis+0pQbzgEmNmiZbQJUoziARdCjemtoxD4vBhr0ATg9foABvrdg1Eo2v5aQY2L0O2YYrM1QFxznmr5rO4stfg8PQ5mMxmmB9HUImB2jsJLexZn6xYddBG7X8kXDDT+/Rn3o5aF9GR90dgFWS+kYPpothNe1WTS1Q7Vm15ZlDM8MEihNewL7Xt21dZYDCZjYEH0Erl/dNu7mhHDa8DQcUxxh/EwKMSkclzs8Ui6fgqlwqe4Hna+GYrWFkh+5cJMtbh29OidKpKnFH/BtE977LO9R68YjeGh3VehvqJNMqG51VJHdis0WGaRm52yA6+ec6R7olWWfy8fGHM3z7kemwzO8Agtxib0dTsMdueEM8UUNZ+rJMojNGznE+Bn/vLR8+mo26M3TZHg/aAVP9JKmi7LxABDcgi+Swri5+o9LlfxwbPlciZLnGTZcrnhdCwpvwdK/K8gPkfjsOLJJwAApf7zqiVA1WrATHFueyQ5UYb7FTzGN2gcCT62fjqaGnSQig/9soa+tqOl2eF5w==;zHGSJx/GVcwwFCmdUU8xMw=="
 ---

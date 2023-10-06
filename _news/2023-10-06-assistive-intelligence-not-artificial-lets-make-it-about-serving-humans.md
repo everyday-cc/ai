@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 72
+heat: 92
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/651ebc0e4a8614b468841a52/0x0.jpg?format=jpg&width=1200"
@@ -59,6 +60,6 @@ related:
         height: 400
         isCached: true
 
-secured: "fkM3la9IZFVyUq5ep3XkDHtjbVJi2UKeaKX/vAqW2No4OsIQ4mv2R7SYFFZO1CuHVChKWLKcSfWPl13qOUaYVWl8NuyUpdFUxXph/iQPOAZHhhz4Lh3RHecHMqHmOw7rwBq7fksJIu/f2Guwqg/2DknSBdkpPMihKt/dsqPxY4JR6EJLS4QhMnFeyDnH6QmGvt76vB0hKaiXhx+C0MhPsQgPxCuVQcOPKZilA0wWKpDvPOpCi22pgXbdCPr20rZ5KcO4yvgEC9Y1ut3LhLeQFFtwC4jwHxFuGqllNFMVFY7KLqXAYh4AOE8mMeEw69RtDX1h1l8mVI8Ig1T6Tv7lZzMxFhQhBMtXEjoZRutx/iE=;O2ypWxD+iCApm7x2RLIc0g=="
+secured: "D7iZphm8EWKVhgb4u2PJgGOchmAmqWHNJK2KXRGvrk1DaRzYuj6KAjNKcRiRYSIuLXZpRUCHYgXEsl/cqZSrKP8vpbNld9rDg6OGJXqDPIyDxu7b6yC9IBndg3ZwSXP/C5UVatQ7Oqie2gDvZRhxtUwecCK6Uic7CRO1HmCsThtCn+bkQ8DJDStEii2PELkLKcwg2MVx2Xritx7am20yw9Go0V2D/OI0tAbjsyUq5MEoMu9/omRXrX3ZO3wnk0L8aQi/QvWUR1PpkHXmPNntERMATlkwDR0GBk9l4LcVY2eDvOnfoC+771sX+fVCjztAUHqsJCn/5YVIq2gvwya0iColBZZAZqSU8QQZfgmRpFIbZAdSiyA0Rtvl5sRigpSZZgx2mYd4FWQ1La3NjX4lbrxDsq+nlHiInzmQsOVQ9aHKtVBPwJx26l3N0GRcywzZxenBp5pgpad0NI2AlQ+yrAtm9tk9lykYDV4KMuHjnEg68bbjjfQcVal9AVYmwuje8pU7/ITgCQd40deocVY47g==;jSiK2w4SD9o6eOky23iKpg=="
 ---
 

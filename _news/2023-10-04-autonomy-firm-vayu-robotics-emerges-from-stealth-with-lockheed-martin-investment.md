@@ -24,17 +24,6 @@ images:
     height: 1258
     isCached: true
 
-related:
-  - title: "Vayu Robotics makes its debut with its initial investors"
-    excerpt: "Lockheed Martin's venture arm is one of Vayu's early backers as the artificial intelligence startup looks to further scale its robotic product development efforts."
-    publishedDateTime: 2023-10-03T18:15:00Z
-    webUrl: "https://washingtontechnology.com/companies/2023/10/vayu-robotics-unveils-itself-and-initial-investors/390874/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 34
-
 secured: "N7XNFc9bjvb5pNqNuwqJBW4uh/1odoRjT4ubRydXHzqOz9br2nplCUYZdDkwE4unM1SNavFM6chooT8Fzzb5l0+na2KAdA6kkSxvVyf8lHAdCyKiFNOoYwvdhMYUV3AjQTJT5lyxW2Ir2L6nzjbx/bdDTA0DNNtrrb15qPmMY7Zk6MqbFruDy2eQTdriSTv1+GTx4TlnKsndc4QxYVej/waDsnNUPryPDJ6O56eaJV8+VGJnV9I1/I4pYnMKU4219giTHjmqGC8NDgL3U8Bh/AzZKO7zEBt8+CBFrhZbcQsQlAgaEkV3VGtKE53EgUGnIDc3hU5kmDoliNI6U84w+PEnH0iVKFXi8xUXLR/H+3IW9gWpGtOyL61Lw1fenN8Q/mFkVUNdqR3I5hV+4/L6iuO3K336DRI96/jGzXy/l5BJHKv0DHmlESXJuzdyGNcVdp0qUf5/MIYa3tfYx+fzAkvsnaNiRSmMwd9MhY/cIwUahoSzw17p44CbbxhSiKKAeHNFLxbcGMWex+tVEwSywA==;kiK7GHUif1toCj0RbBoosg=="
 ---
 

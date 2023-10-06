@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
+      "title": "Is This AI and Robotics Chip Stock a Buy Now?",
+      "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg",
+          "width": 3372,
+          "height": 1809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-robot-litter-boxes-cast-iron-skillets-and-more-4-things-you-didnt-know-were-made-in-sheboygan.md",
+      "title": "Robot litter boxes, cast iron skillets and more — 4 things you didn’t know were made in Sheboygan",
+      "excerpt": "In addition to household company names and goods, like Ellingers Agatized Bowls and Kohler, here are four products you may not have known were locally made. Well-known for toilet seats, Bemis Manfacturing also makes parts for Whisker’s robotic cat litter box.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
+      "originalUrl": "https://www.sheboyganpress.com/story/money/2023/07/25/robotic-litter-boxes-and-more-surprising-things-made-in-sheboygan/70434424007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sheboygan Press",
+        "domain": "sheboyganpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-artificial-intelligence-ai-robots-market-projections-regional-outlook-rapid-growth-and-trend-by-2023-to-2030.md",
       "title": "Artificial Intelligence (AI) Robots Market Projections, Regional Outlook, Rapid Growth and Trend by 2023 to 2030",
       "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",

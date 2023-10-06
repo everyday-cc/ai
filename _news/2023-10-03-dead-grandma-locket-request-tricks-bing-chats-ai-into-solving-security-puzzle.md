@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
+    excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
+    publishedDateTime: 2023-10-06T14:53:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530"
+    ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 76
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Microsoft’s Nadella: Google could lock up AI-enabled search"
     excerpt: "As a witness for the prosecution in the Google antitrust trial, Microsoft CEO Satya Nadella warns that Google’s monopoly profits could lock in publishers as AI-enabled search arrives."
     publishedDateTime: 2023-10-03T08:54:00Z
@@ -201,6 +217,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
+    excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
+    publishedDateTime: 2023-10-06T14:28:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/252f5c3126fe5d8c8091b518774c5dbf/zaybb216crh9inxl.png"
+        width: 884
+        height: 640
+        isCached: true
   - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
     excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
     publishedDateTime: 2023-10-04T06:04:00Z
@@ -294,15 +324,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 34
-  - title: "Microsoft, Mercy collaborate to transform patient care with generative AI"
-    excerpt: "Microsoft Corp. and Mercy are forging a long-term collaboration using generative AI and other digital technologies they say will give physicians, advance practice providers and nurses more time to care for patients and improve the patient experience."
-    publishedDateTime: 2023-10-01T22:12:00Z
-    webUrl: "https://journalrecord.com/2023/10/01/microsoft-mercy-collaborate-to-transform-patient-care-with-generative-ai/"
-    type: article
-    provider:
-      name: Journal Record
-      domain: journalrecord.com
-    quality: 33
   - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
     excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"
     publishedDateTime: 2023-10-03T13:23:00Z

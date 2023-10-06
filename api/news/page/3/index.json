@@ -2,6 +2,315 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-05-why-your-ceo-needs-an-ai-education-now.md",
+      "title": "Why Your CEO Needs An AI Education — Now",
+      "excerpt": "CEOs, CFOs, CHROs, and COOs should also become well-versed in the power and potential of AI, Sohigian adds. “They can provide comprehensive thinking around employee experience, business agility, privacy and security, and openness through integration and extensibility.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651df2b8214ddd9eb4621a70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "publishedDateTime": "2023-10-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far.md",
+      "title": "Arc browser is offering the most truly helpful spin on AI I've seen so far",
+      "excerpt": "Arc browser decided it was time to throw its hat into the AI ring but opted to go a much different route than most browsers and it should pay off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "originalUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a7643cbe6ce5794abb138e6ad77042c891efc74/2023/10/04/0f7f87bc-106f-4f18-aa27-c04b19bd5404/gettyimages-1333147307.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "publishedDateTime": "2023-10-04T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-goldman-sachs-is-bullish-on-relx-why-its-a-generative-ai-play.md",
+      "title": "Goldman Sachs Is Bullish On Relx: Why It's A Generative AI Play",
+      "excerpt": "Shares of Relx PLC (NYSE: RELX) were climbing on Wednesday. The company is “well positioned on generative AI to strengthen its existing data and IP competitive advantage,” according to Goldman Sachs.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/goldman-sachs-is-bullish-on-relx-why-it-s-a-generative-ai-play-1032679020",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/goldman-sachs-is-bullish-on-relx-why-it-s-a-generative-ai-play-1032679020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/04/ai.metamorworks.shutterstock_1348479254.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
+      "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
+      "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-vistry-unveils-conversational-ai-platform-for-food-commerce.md",
+      "title": "Vistry Unveils Conversational AI Platform for Food Commerce",
+      "excerpt": "SAN DIEGO, Oct. 4, 2023 /PRNewswire/ -- Vistry, a San Diego-based startup, leading the way in Generative AI and restaurant automation, proudly announced the launch of its Conversational AI platform, along with its AI Customer Assistant chatbot. The chatbot ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vistry-unveils-conversational-ai-platform-for-food-commerce-1032678946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vistry-unveils-conversational-ai-platform-for-food-commerce-1032678946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2238315/Vistry_Conversational_AI.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models.md",
+      "title": "Lemurian Labs is building a new compute paradigm to reduce cost of running AI models",
+      "excerpt": "Lemurian Labs is an early stage startup with a big ambition to build a software and chip solution to make processing LLMs more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1312904817.jpg?resize=1200,848",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
+      "publishedDateTime": "2023-10-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-researchers-use-ai-to-design-a-walking-robot-in-seconds.md",
       "title": "Researchers use AI to design a walking \"robot\" in seconds",
       "excerpt": "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it",
@@ -10,7 +319,7 @@
       "originalUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -249,59 +558,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-microsoft-onedrive-is-getting-a-major-overhaul-with-the-addition-of-copilot-and-ai-search-features.md",
-      "title": "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features",
-      "excerpt": "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,",
-      "sourceUrl": null,
-      "webUrl": "https://techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html",
-      "originalUrl": "https://techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-5.jpg",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -733,6 +989,48 @@
       ]
     },
     {
+      "path": "_news/2023-10-04-sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens.md",
+      "title": "Sam Altman, Peak XV fund AI startup founded by two Indian-origin teens",
+      "excerpt": "Induced is an AI-backed browser (RPA) robotic process automation platform that allows automation of workflows that require real-time reasoning or dynamic judgement (filtering leads, cross-referencing documents,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-50156,msid-104155893/induced-ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms",
+      "publishedDateTime": "2023-10-04T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-how-shaq-and-william-became-early-investors-in-the-ai-boom.md",
       "title": "How Shaq And Will.i.am Became Early Investors In The AI Boom",
       "excerpt": "Google, ChatGPT-maker Open AI, Anthropic, Runway, Inflection AI and Hugging Face are just a few of the investments Shaq & Will.i.am have made as they bet on an AI future.",
@@ -772,48 +1070,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
-      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
-      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "publishedDateTime": "2023-10-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -959,265 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-ibm-enables-safe-enterprise-ai-with-granite-foundation-models.md",
-      "title": "IBM Enables Safe Enterprise AI with Granite Foundation Models",
-      "excerpt": "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "publishedDateTime": "2023-10-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-closing-the-gap-addressing-ethical-issues-in-integrating-ai-systems.md",
-      "title": "Closing the Gap: Addressing Ethical Issues in Integrating AI Systems.",
-      "excerpt": "The purpose of this article is to examine the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "originalUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2286759/earth-space.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "publishedDateTime": "2023-10-03T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
-      "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
-      "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-ai-has-always-had-a-hardware-problemuntil-now.md",
-      "title": "AI Has Always Had A Hardware Problem...Until Now",
-      "excerpt": "With such an unprecedented show of how generative AI can conduct very human-like conversations and provide (mostly) accurate answers, every other tech company from Microsoft to Google to Salesforce suddenly jumped into the fray with their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651bebb5e15343b946b1459d/0x0.jpg?format=jpg&width=1200",
-          "width": 994,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "publishedDateTime": "2023-10-03T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation.md",
-      "title": "Asana Announces New AI Capabilities To Increase Productivity And Innovation",
-      "excerpt": "I had the privilege of interviewing Dr. Rebecca Hinds, Head of The Work Innovation Lab at Asana to learn more about their research on productivity, innovation and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c451313a33fa8fa34ad6f/0x0.jpg?format=jpg&width=1200",
-          "width": 1044,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/",
-      "publishedDateTime": "2023-10-03T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

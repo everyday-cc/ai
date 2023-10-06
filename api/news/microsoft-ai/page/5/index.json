@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-25-if-youre-neurodivergent-here-are-steps-to-make-your-workplace-more-inclusive.md",
+      "title": "If you're neurodivergent, here are steps to make your workplace more inclusive",
+      "excerpt": "Whether you do or don't disclose to an employer that you're neurodivergent, here are steps you can take to make your workplace more inclusive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
+      "originalUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/24/USAT/f4dcb51e-7e98-4be8-9ec9-ace73785c349-XXX_IMG_LEGOLAND_QUIET_ROOM__1_1_ESIVCL7P.JPG?auto=webp&crop=6387,3593,x0,y115&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZ Central",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-i-actually-felt-like-they-heard-me-companies-work-to-include-neurodivergent-employees.md",
       "title": "'I actually felt like they heard me:' Companies work to include neurodivergent employees",
       "excerpt": "More companies are making it a priority to hire employees who are autistic or have other diagnoses that lead them to behave or think differently.",
@@ -1300,58 +1343,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-building-llm-applications-with-vector-search-in-azure-cognitive-services.md",
-      "title": "Building LLM applications with vector search in Azure Cognitive Services",
-      "excerpt": "Tools like Semantic Kernel, TypeChat, and LangChain make it possible to build applications around generative AI technologies like Azure OpenAI. That’s because they allow you to put constraints around the underlying large language model (LLM), using it as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
-      "originalUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/02/cw_hoyhoy_210120-100832442-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
-      "publishedDateTime": "2023-08-17T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

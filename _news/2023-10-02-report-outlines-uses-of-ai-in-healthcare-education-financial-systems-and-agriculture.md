@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-
 webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 24
+  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
+    excerpt: "Caption Guidance on the Venue Family point-of-care ultrasound systems is available in the United States. GE HealthCare plans to integrate this innovative AI technology into other ultrasound systems, including handheld systems, helping to further expand access to diagnostic care as well as the use of ultrasound in a variety of care settings."
+    publishedDateTime: 2023-10-06T13:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-launches-enhanced-venue-family-point-of-/2023/10/06/9894403.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "zL+wMrMpmG9YXP8cmFmW85dwmZC03675cyrX+eYLBsg4YlXSkIvRTHm9heV7Ta1mvSfbeFuNvKo/oaYZGJpnNgjeu06kkh6KlXAq8nc7eqEm2tj1hZRAAFSNMB90hA8I4e+hhAFvoPkxlOVK7zhAMEE3cxkwZuEEKp8wS4W6zZEMvkk7/vGaH3PfdNTn91O7M4K64Q+gHyaHmtrm2k4tl1e7A2H8KJwJZae0O2x9VFBvatIfx+Wh9R6YxNcAq7VEt1l47f5FsC7wPOofqvs0EXLiszAzjMuI53MeXw5zBQPzGAw5K8GwZPM4LvcC/c77lBcAl+xdvDmte/AXUwG6dpLbUdoPq/9uMZPTEORXGFs=;yrDrk+GbmuiXG0Ik4jfLLg=="
 ---

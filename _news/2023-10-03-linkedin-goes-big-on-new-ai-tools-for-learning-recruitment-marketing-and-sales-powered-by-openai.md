@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
 type: article
 quality: 107
-heat: 207
+heat: 237
 published: true
 
 provider:
@@ -170,6 +170,33 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "OpenAI considers making its own AI chips, acquiring hardware business"
+    excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
+    publishedDateTime: 2023-10-06T12:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 36
+  - title: "ChatGPT-owner OpenAI might be exploring making its own AI chips"
+    excerpt: "The effort to get more chips is tied to two major concerns Altman has identified: a shortage of the advanced processors that power OpenAI's software and the “eye-watering” costs associated with running the hardware necessary to power its efforts and products."
+    publishedDateTime: 2023-10-06T11:51:00Z
+    webUrl: "https://www.cnbctv18.com/technology/chatgpt-owner-openai-might-be-exploring-making-its-own-ai-chips-17974651.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 34
+  - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
+    excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
+    publishedDateTime: 2023-10-06T12:00:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/fed-up-with-expensive-ai-chips-openai-is-now-planning-to-start-making-its-own-ai-chips-13213102.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 26
 
 secured: "Q91ORdC1ZFUDRvBRt3ve93v58dLjDEpQBxSNRb/ruXX2By/TpHMxZwI09C4Te0/U84FOrmuMxjl8D+8patYdL1J+ku3N0I7lVV1sT0sjmupaQTrrcQ3C7kBKM5IKhjwUTbIKa5E7c4ZYuJycZvXxpP+OLOTXq/xgKymxaLay04KpsZRSnjSVSSQ+JtmG7pjCL4qlTrato0uQb2fggnzqqUoWrM2jmhvYRx0+dxZkazPwJWUAHHSqQIF3HeE//pLqYGW1EkHvwEevJfcDH7dXesi6qv53B3Ff+xqCuSv+g9hKQp2+xnHLMcwL5aW7CgV1l7H5vOlEAAQm6CEZZUJvzt4puTaOKUvT1sYBGZK4vrU=;y/1oojrqnsUA9maZxwELIA=="
 ---

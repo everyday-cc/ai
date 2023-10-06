@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-rai
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/51c2ca8e33a492b66d9d514236202d0f:e9a329251a0dd808ab62ce9cd73ef70d/stampli-closes-its-series-d.png.jpg"
         width: 1200
         height: 629
+        isCached: true
+  - title: "Car financing fintech Lendbuzz gets $345m funding boost"
+    excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
+    publishedDateTime: 2023-10-06T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/car-financing-fintech-lendbuzz-gets-345m-funding-boost"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/db4f84c6423b84fd88b5c6fdc4d228aa:42aeed92c0b38ec787a3b0a16b0526b2/gettyimages-1186093106.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K9gMiNa57mqbhDI7TuKvy4r+90j8cCbeZwqkxmAfOSZlzhbKGZqYHMtOjFWTs5qlVKO+rztmnusza6pYREpFWorIrEY5hTaonkvF+ntFX0upNG2bFPJ7TJnrKgbyCjLwhw6xjStoffmryDpz3NhEQOXl8h1VrUWXPWNMbSUpr8J6oqCFNrZXP0LHm0nuLp99jGd9XdmaEHA+/zwyZtzxvXETwp+ViyNaQCfQ3dwVaVLNWkXiYBJ/cuoskxs8qpQSz4ShUYfpJm5HTDYVlz4FFn2ldAncIXnoKe7iObd7O4uIldJuCPzacTefUlsKE1yIQah1fFS2QuDh+E0MaIiWPHLz7gYrxeKwrtGEydgagIKlberRN488wu0slMJEDqVLlAZN08L/VFXkI+VVVzxquW+cEojbhBRt48wTmDWRjs6jZcQMVBJu71EZwFJdNALAZrrujPzWTiRmW5QW5GhJtbBTWpzcxlK5lIVilW43oKj24OjAan7OMcA+hDIW8PnEUXi42aEajb2h+Cbf/XKMvg==;Q2a1O3f3Yw2Xdh2awSqYlA=="

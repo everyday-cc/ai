@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/unitary-ai-social-media-content-modera
 webUrl: "https://thenextweb.com/news/unitary-ai-social-media-content-moderation"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Impact of AI and Machine Learning on Startup Innovation"
+    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
+    publishedDateTime: 2023-10-06T14:57:00Z
+    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
+    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 56
   - title: "Insights and workflow automation dominate AI solutions"
     excerpt: "Over 40 technology leaders discussed their recent accomplishments and plans for the future, and nearly all of them involved AI in some form, mostly for insights and workflow automation."
     publishedDateTime: 2023-10-02T19:30:00Z

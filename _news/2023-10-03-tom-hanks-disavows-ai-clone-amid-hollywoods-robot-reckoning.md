@@ -7,7 +7,7 @@ originalUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-a
 webUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood Strikes Sparking AI Negotiations In Every Creative Industry"
+    excerpt: "Rather than imposing strict limitations, we should advocate for regulations and guidelines that promote responsible and ethical use of AI in every creative industry."
+    publishedDateTime: 2023-10-06T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65201588a7304fbf34c72d20/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 1008
+        isCached: true
   - title: "Editorial: The Hollywood writers negotiated a sensible approach to AI. Other humans should pay attention."
     excerpt: "And unlikely as it sounds, the recently concluded Hollywood writers’ strike could come to the rescue of those jobs by establishing new and exportable guidelines that ensure people have a say in how AI is used."
     publishedDateTime: 2023-10-02T10:00:00Z

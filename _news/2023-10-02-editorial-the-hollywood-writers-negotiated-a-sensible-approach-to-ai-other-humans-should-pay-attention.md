@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hollywood Strikes Sparking AI Negotiations In Every Creative Industry"
+    excerpt: "Rather than imposing strict limitations, we should advocate for regulations and guidelines that promote responsible and ethical use of AI in every creative industry."
+    publishedDateTime: 2023-10-06T14:26:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65201588a7304fbf34c72d20/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 1008
+        isCached: true
   - title: "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning"
     excerpt: "Performers have warned that AI “clones” – digital doubles that could give performances on a computer that no actor ever actually did – could prove disastrous for the profession. Additional concerns have centered on the use of pre-existing footage to train AI software, which relies on vast troves of prior data to generate new content."
     publishedDateTime: 2023-10-03T00:17:00Z

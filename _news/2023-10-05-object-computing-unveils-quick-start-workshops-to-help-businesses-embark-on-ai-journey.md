@@ -27,6 +27,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Deep space missions will test astronauts' mental health. Could AI companions help?"
+    excerpt: "The mental health challenges of space travel are as important, if not more so, than issues of physical health."
+    publishedDateTime: 2023-10-06T12:00:00Z
+    webUrl: "https://www.space.com/astronauts-artificial-intelligence-companions-deep-space-missions"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 11
 
 secured: "ADGaHtTc0rbwBkxxGD/HoNxB0HBuakWFBDanhTpnFylSrTD4hEp+j5DUAL7ZJHsZy3rTgWEKNR76OCsagRTSXJm1AAY6KQrlVuIVDDGQtukYerdBvxiSVL/oOUMyql5Y5bqYcpJi3aP5/Kv0VQ8O9COkQ0WI9evbwMCwxLZm4iVtkARy5N+eNL3mpJx7BSvaliSG7q9PDzwpPDSS61HXOGorwfx4hqC+UdSDYHweji6QJUVL40voE2sh65TUQUtrGy0Qx1mAJXbsf0iN9Vt1/UQr9x8O7wvgBCbrN210n5wP0m5JB6AxgxXFCi9MjuNoxfDWgblfq40f5h/gCknRqPzDj/NQyg8mwL9FVr3/UEA=;esyL4NXgVMxS1GfPT9mGjg=="
 ---

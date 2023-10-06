@@ -42,6 +42,20 @@ related:
         width: 300
         height: 274
         isCached: true
+  - title: "Using Active Machine Learning for Chemical Engineering Research"
+    excerpt: "Chemical engineering researchers have a powerful new tool at their disposal: active machine learning. In a recent perspective article published in Engineering, the research team at Ghent University lead by Kevin M. Van Geem explores the potential of active machine learning (AML) in revolutionizing the field of chemical engineering."
+    publishedDateTime: 2023-10-06T14:49:00Z
+    webUrl: "https://www.powderbulksolids.com/chemical/using-active-machine-learning-chemical-engineering-research"
+    type: article
+    provider:
+      name: powderbulksolids
+      domain: powderbulksolids.com
+    quality: 39
+    images:
+      - url: "https://www.powderbulksolids.com/sites/powderbulksolids.com/files/Active%20machine%20learning%20for%20chemical%20engineering.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "1BX9tQtfeq0smR701F0RQz0cfEjXulnYYxtv2HcL0fN0topdRqGD8tXRHiFTFJ9B7RPB5BgDCb54w9RZ2ECAcoRFGu5s0XbXHu3e9PP4n4l6JBpLOgwua46BgTBNrKCq/TOVneG14QdNI8R1L2RdaTaTHd10gswbufw8IGH+SgcViQyUQmwwk1DY2UGMHaVPZ7lTGHo8I2niYMi6Ybb4/sM2CT107C3qYKprKCn6B/7hwEUpJTY5y/Zm4Xn74WsvN6OKKgiL/hu1VAZiAlSkQwejs0jLgsGOJCgkMlbfQdoyMcDoS5w8nJ5c2SUbSRqIylbv/oQqj/HYKa/W3TYNGhQefQWyykBG3t5qqEXEwiQ=;WbyGXaeEkYhfoDFvoN294w=="
 ---

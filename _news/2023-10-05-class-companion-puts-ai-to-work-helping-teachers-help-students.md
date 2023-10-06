@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Deep space missions will test astronauts' mental health. Could AI companions help?"
+    excerpt: "The mental health challenges of space travel are as important, if not more so, than issues of physical health."
+    publishedDateTime: 2023-10-06T12:00:00Z
+    webUrl: "https://www.space.com/astronauts-artificial-intelligence-companions-deep-space-missions"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 11
   - title: "Object Computing Unveils Quick Start Workshops to Help Businesses Embark on AI Journey"
     excerpt: "ST. LOUIS, Oct. 4, 2023 /PRNewswire/ -- Object Computing, Inc., announced the launch of its new Quick Start Workshops, the first of which are centered around AI. These workshops are designed to help businesses to launch or advance their AI strategies quickly and efficiently."
     publishedDateTime: 2023-10-04T20:12:00Z

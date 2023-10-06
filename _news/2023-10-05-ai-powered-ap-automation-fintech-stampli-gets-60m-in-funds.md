@@ -89,6 +89,20 @@ related:
         width: 477
         height: 306
         isCached: true
+  - title: "Car financing fintech Lendbuzz gets $345m funding boost"
+    excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
+    publishedDateTime: 2023-10-06T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/car-financing-fintech-lendbuzz-gets-345m-funding-boost"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/db4f84c6423b84fd88b5c6fdc4d228aa:42aeed92c0b38ec787a3b0a16b0526b2/gettyimages-1186093106.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aS1W915k10tsFdWkNmKbe2QeIDe6qvwK49nijjlhpQBkaGu3UqcRCZ7j68x1/fHEzF+qaF1md+kJVejww4MM7etuBmXjCNx1HyzFXxP7fRB9tg+fIJxNmkUKPPvfu4NkEPFU2eME5V7Zn5FgLxPBVgZiQ+u5F1NKQaR39ynMMbsZbGA59ef91FR2AmipwUYdqhq/3+LTNqPWcH8iknrmgAMqh8heYEQoPQxQlhdrHiuzJ9EFeJZ+OqSc1cFP2oL8CD55DgWtxo9wwwyHjd5+PlOTpuDCvAxyCUNPt+hvZFri+KJiVLNtt+7x5vPaMA6VmVK4IiV/gxoQeBXK42SR/SVT7MvCh3xWv3DO34FXFZIPe81R8PfPiqc4NayPUkFjjAGaogRchLKf308KmMmy7ixSqgu7QMzUbh483kuRfqGH/SSGKXdl5bAwYboH1XTkvUb38lW6cbiMMkr7ttgdEon9V4fiKWojSp3sUsT6qoML3Ff76C4KV6Isv3lwT5aMQ5Y9CFw1K+YrJ6fxQLdb+A==;ly/96Uh84mcwuofVAeQF4g=="
 ---

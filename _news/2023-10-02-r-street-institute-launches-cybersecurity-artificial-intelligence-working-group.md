@@ -41,6 +41,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How Deep Learning Is Moving Cybersecurity From A Reactive Response To Proactive Prevention"
+    excerpt: "In the battle against cybercrime, AI automation and deep learning models are crucial elements that are important to understand."
+    publishedDateTime: 2023-10-06T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/how-deep-learning-is-moving-cybersecurity-from-a-reactive-response-to-proactive-prevention/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
   - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
     excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
     publishedDateTime: 2023-10-06T03:38:00Z

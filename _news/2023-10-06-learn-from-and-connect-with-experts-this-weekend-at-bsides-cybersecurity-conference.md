@@ -42,6 +42,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How Deep Learning Is Moving Cybersecurity From A Reactive Response To Proactive Prevention"
+    excerpt: "In the battle against cybercrime, AI automation and deep learning models are crucial elements that are important to understand."
+    publishedDateTime: 2023-10-06T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/how-deep-learning-is-moving-cybersecurity-from-a-reactive-response-to-proactive-prevention/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
   - title: "R Street Institute Launches Cybersecurity-Artificial Intelligence Working Group"
     excerpt: "The rapid development of artificial intelligence (AI)-driven technologies has opened the floodgates to novel opportunities and"
     publishedDateTime: 2023-10-02T12:19:00Z

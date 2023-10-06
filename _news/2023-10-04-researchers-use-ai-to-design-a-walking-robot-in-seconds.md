@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-wal
 webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     provider:
       name: acm.org
       domain: acm.org
+    quality: 34
+  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
+    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
+    publishedDateTime: 2023-10-06T13:03:00Z
+    webUrl: "https://www.ktbs.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_30d42c10-3edf-5f3c-b12d-187c891e0aca.html"
+    type: article
+    provider:
+      name: KTBS
+      domain: ktbs.com
     quality: 34
 
 secured: "7b6lDsVXi96nOcQUTFpnbbYq1uq66ytDzEwBNrzEBwTp6ns9iCw7/4SRUFS2JmjightaWy/od33/4wS9STLPo75GR437rG95NmeXLRYeKSf/1SZCK6an4y1TpcavB97xfIYcSI2H15Q/ncJxZiWyFTVzyq+l3mS9BxsIt2tWL3rUWmF9rkgww8ToNalOYZcj83NCn8bXmGMm14Kl+S1m2fIqM81hsyLGTuMEOUq1ANIPVbGbZd/j/Eny7VH/1z7Yp3sB/J3TzPGA7W5xYrsXWNEfdkEmr9h73zSKWVSn8MeX3dES12m9nErPEE0kXUMbB0R+OqSwtP6iFwrg9+7YYgUucTeXi0AGZGZbH5FF/XU=;3j3fkOp+Hk2cfZvM01XZZw=="
