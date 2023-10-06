@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     excerpt: "Suleyman, the DeepMind cofounder who is now cofounder and CEO of Inflection AI (which set off fireworks in June for its $1.3 billion funding), may reasonably be all-talked-out after a slew of interviews about his warnings about ‘unprecedented’ AI risks ..."
     publishedDateTime: 2023-10-05T13:54:00Z
     webUrl: "https://venturebeat.com/ai/deepmind-cofounder-is-tired-of-knee-jerk-bad-takes-about-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "DeepMind’s ‘remarkable’ new AI controls robots of all kinds"
+    excerpt: "Compared to specialized models developed for each robot, RT-1-X had a 50% higher success rate at various tasks."
+    publishedDateTime: 2023-10-06T18:27:00Z
+    webUrl: "https://venturebeat.com/ai/deepminds-remarkable-new-ai-controls-robots-of-all-kinds/"
     type: article
     provider:
       name: VentureBeat

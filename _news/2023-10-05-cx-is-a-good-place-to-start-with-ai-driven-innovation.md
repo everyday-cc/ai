@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DEEPX mass-produces AI accelerator chips, key to accelerating innovation and mainstreaming of smart vision applications"
-    excerpt: "The recent craze over ChatGPT throws light on the underlying business opportunities of AI applications. AI applications driven by cloud services have attracted their fair share of attention, but Edge Computing AI applications are also on the rise."
-    publishedDateTime: 2023-10-02T01:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20230927PR204/deepx-news-highlights.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 30
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230927pr204_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Call Assistant AI introduces call management solution app for blocking spam calls"
     excerpt: "Call Assistant AI’s Chief Technical Officer, Paulo Taylor, says the innovation helps users with an incredible incoming call experience for their personal and business needs. Taylor adds that with the app’s voicemail service, users can also enjoy a state-of-the-art voicemail system. According to him, they can listen, share, or download all their"
     publishedDateTime: 2023-10-02T15:53:00Z

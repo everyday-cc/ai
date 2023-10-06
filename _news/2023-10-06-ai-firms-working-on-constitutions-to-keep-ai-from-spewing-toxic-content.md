@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
-excerpt: "In response, leading companies including Anthropic and Google DeepMind are creating “AI constitutions”—a set of values and principles that their models can adhere to, in an effort to prevent abuses. The goal is for AI to learn from these fundamental principles and keep itself in check, without extensive human intervention."
+excerpt: "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”"
 publishedDateTime: 2023-10-06T13:42:00Z
-originalUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
-webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
-ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
+originalUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/"
+webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/"
+ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
 type: article
-quality: 86
-heat: 106
+quality: 68
+heat: 78
 published: true
 
 provider:
@@ -21,13 +21,8 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-list-800x450.jpg"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "Voting Yes is about constitutional recognition to get better outcomes"
@@ -44,18 +39,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Indigenous voice to parliament will fill long silence in our Constitution"
-    excerpt: "The Australian continent is covered with the intricate lacework of the age-old stories of the Dreaming. They explain the shaping of the landscape and the relationship of First Peoples to it and to each other."
-    publishedDateTime: 2023-10-05T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-will-fill-long-silence-in-our-constitution/news-story/d3af73690a7d9044f6903e4dae9e67de?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
 
-secured: "nqJCF3LnXlpNHNEUeHKZccepKfq1uVRPvQvcilcKDJ1vbhl8JEk449h1xGHoTZNdoidDiXqUfNzMAWDVFih1LyKSBONQ40ugXps1bkQdZcBT+4AyveWUaPlqF3FoYb7gwctKvnJzvlA3u7lD+9ZbzBkGyeIs1w7W2t/oNKYM+8LrsuUE+Vcb4TiJ1jJpsYGmTmf3bTaXtGiLmoaGEdQv66WNCIPr8JlRrQd7g+lelg/EoGzIn1fcB1ezdt8nVCDualmWFSClZ8V88FYAYqznclIjPC28qTtEFz1d/2TDb5YBrliVhQiC32FU4xdf41dcxHe1C8LsdoVbxz+oiKu+TWoqrgmaa/Fs5qp04kIRZns=;JynGWQR1giiY7m4bTULqFg=="
+secured: "wGW9U0maB6fentI+g/SoGDl6vldZoQI5WHmIeHTX6khg0N289Je5gsKtOmdxvpFi5Vttu+my7+CPa3gn8rlLbxwBe/7ay+56nwV/ZA0XeqAG2MJGDz6bfJd5acNdykO0tKyPlvoHL0PKJ0JDE2K241T+r65CJtPGxjIXS1m9J1EAeopC2cRb1WZ+MUx1UnhSMFPHw0OzBSs+pi5MYqzhNxc2jJB9BV1foFFrFthQGq80zt7PNTUBoDmQ9Kj0SsSNO0/M3OUaSomgurrExuVC6pp4N7mne+XZH1wlo3buoRJYXHf+JmY46xWpQG7bvwLnXZqWdWVZm0MbZ7zLZb5Bp7LAJYgkutqXDDMa0oKmNHcu+ib/xQF4loV7FQnrz9GpaE+jINBAU/uC2mgEVzur1nwFeC3TJEM3HgUG2wcNdAPHysdjpqRD+ri4RRjxJApsDkkFHSmmCiO8SUNpxWqREh8iskcPF1qluNkA0fXXjPOn7mo86suPXlv2HYY8jefpKiJ7T6FqgaV1c44G9zmzrQ==;P19N7RcEhmrmWemDlMk/aQ=="
 ---
 

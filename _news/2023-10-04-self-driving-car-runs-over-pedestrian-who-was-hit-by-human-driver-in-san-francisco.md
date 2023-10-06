@@ -187,6 +187,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "San Francisco Self-driving Car Involved In Serious Accident"
+    excerpt: "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed."
+    publishedDateTime: 2023-10-03T23:20:00Z
+    webUrl: "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "1ixAZgttlpvM8/h7IvG6R2gKoTO8v9QhsojgQSo7ITz7FfxzsoxtZ2YNRe41xSBMfllfdAHF35Ixlti3h0jX64c1TXVJ9GLSvDV/60uKwVLRcJxbnX5DuPrI0KZaXyoZnTd8RUTRnYjMefvXranpnXWUlcENGoh+WPNDjCr4hKBJaQBaiQKIYziUgEOG3yykZN6i5AsOvx/KhqQqzwkTQJ4uxeop3JlwRtFRsEG17Ktb/1WPjT4gw66bLO/SV5E/grvLqOEBnGLG05WmCnOwdDvgwjJKPhyarHMUk1q+ic3KH7Cqi72V8c+SQP7+ThSDJpLscTPWgtuW2Ynk+y5kSsaZx7PH/vzPmaYPPbG0ykKKchM1PJtnd7DFh15j9YYNWU63YlAZeuujX/rqC9bUAnAESInX2DRsdpikoXsQ+WBWN7zBKigM1I/B78CEe3YXBB5+sHNJg4A4ELSHB1tm4w/7scIaS2/KoUImZFkwDeQNA/iuTkeEZ3bCIxdKrRtCRlbLrc9XWNsIFe/pTYd/gA==;c+5k6uCWPwtblIYuGPNXkg=="
 ---

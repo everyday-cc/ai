@@ -7,7 +7,7 @@ originalUrl: "https://dailycollegian.com/2023/10/why-is-ai-only-coming-for-engli
 webUrl: "https://dailycollegian.com/2023/10/why-is-ai-only-coming-for-english-majors/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2001
     height: 1572
     isCached: true
+
+related:
+  - title: "What Teachers Should Know Before Using AI With English Learners"
+    excerpt: "Experts at an Education Week webinar and in an interview share advice on the benefits and caveats of AI tools."
+    publishedDateTime: 2023-10-06T18:31:00Z
+    webUrl: "https://www.edweek.org/teaching-learning/what-teachers-should-know-before-using-ai-with-english-learners/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/6029a38/2147483647/strip/true/crop/3000x1926+0+0/resize/981x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fa2%2F59%2F1338688947809cff88b4c7ce7c7a%2Fai-laptop-102023-1473211827.jpg"
+        width: 981
+        height: 630
+        isCached: true
 
 secured: "o/S0HI5Q00Aw4DJk682uSidxQHFZ9YKyVNRMhhvnTebivsPiroDl/qJF2kal0V8zDhyAj42PJsnSQq/LKqFjoq6XMxl5sc+dolvnx5sSSGIcCW90F+lrQXyW5ZreEcLxKFa3pVDYhixb9vI8AyYcPJ1UcIbEviu0Lh70eto1qzn0vuoRBFgBPiBajSWIFfabFfM1MzufqvkSq9Es28NXUM2cLakQxcq4qYAoMihkGmaQRt+PDYhHV22dckB5BENgPuijEmB6Sw7CCltX15DJ7kgbQ+Bf/i7EGSaO3nRfd660grb7FPdMO+EJ3JcdWsgqPBg9ev4QPzUcPeUjHZ7KSVjJ5rpgA35xMf1JsIF4LDU=;yL0fIaSDbaU8rwo1cjIm3Q=="
 ---

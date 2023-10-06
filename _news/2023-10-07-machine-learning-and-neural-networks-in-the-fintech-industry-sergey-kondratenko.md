@@ -8,8 +8,8 @@ webUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintec
 ampWebUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg"
@@ -37,6 +38,6 @@ related:
       domain: confused.com
     quality: 4
 
-secured: "KRoop28kgBwu/LZEhiIavbA8unvfetxsT1Cs+qM2i/8mY9ltBW9k/kBQ7ckjRsA5m2H2eV3x2o98QoqC6sJd0MNMIL9285knmtRGuhXiYJPvNKyhazuTYQ2grKOMsA4bnGZe9PPIgQr7H9HFVRYxK6uLRWpMIfZQOLGSrYbOGJeuMNaHig0UmltZQPD0rsKEQwIr88hJ83JavpCzwZ+OufnxfJPv1QZWBkS6AbStlA5svSs0jVa+UO5dG+jiSezkqeJ4hb+Ny9LzumSRkskRgEe/isxsK6E7fkSoauNY7IyjtGsYhOwxB/lguyPBwMqhyJUk+3JEltXnxB6yhw17E6pNNsAXXJbK9tsAdi1YwhI=;p6jLMqsCNWevZYHxwi4mig=="
+secured: "splbdnYi+BXd/2tyx7308elPf9eZKruQ/IXShE60n9pLKuw5NKOWyT62ndB2irKDGGMZHryn2490NtXD+kNyIAz/hSgvDwBDVe9ziMGx2+jrhFfpRWU0ngAo/2VPnL2YeUvDn2p89TvTGI5unzAiZNIaPDqX58iKEoGv9xMSeeULchuc4iqg8EOSS5D+ybiPKRfP+MLQzfAg13pwWuue7JRLvfU/Q4fhzQcLspK4F/NPnPsccuxmCIloPC6bFgXkoa12yM34Qqu52RoD4exTULBk+TIH+1B3mEXVNeURaSvUwKiaq3+pGr9pKmeExO4d6pbnhq0hboZR7/UnxArsGxYLVbJUszEM/WxTHrEjkQouto4TpPCh0JBXLyzUPDYVTBVKcv+huTv2VTMK1vFMwgLMcISLZGRpM6oGp/agSluzx/cff7liGGt7LZlQfubUUgX6Su7Utg4HOugcKq+Or1fVIAx/Pg42wZyf5mlREix57ATWsqzuvS64dvYymGa/iThYITg+5by1VPoEvES9NQ==;HGU3x0smj1XBISZISyASTQ=="
 ---
 

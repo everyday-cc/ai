@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-di
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2880
     height: 1617
     isCached: true
+
+related:
+  - title: "Arabic-language AI breakthroughs pave the way for linguistic diversity"
+    excerpt: "In recent times, the world has witnessed the rise of large language model AI platforms like Chat-GPT, which have garnered"
+    publishedDateTime: 2023-10-06T20:32:00Z
+    webUrl: "https://www.arabtimesonline.com/news/arabic-language-ai-breakthroughs-pave-the-way-for-linguistic-diversity/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 41
+    images:
+      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/AI_171966ffc69_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "K49qcOXnFghHDTuXw1rPujUHY6UR4QdplLR2BhhUhDHPuhyepV3U9VsiwQsOMdxm9JK0VaPXUxOTF1Ac8xaagdYHBIJPKsiUqKwPqcyZEOQ3e2MX8bIDmrvTgfW3hc/GxXMLfbVHQIaPIitGsFW+6SiCZEjWKXlD3vQNKXHHK62K9T63p8OFcll8erkIwc3/VxE99SdYriRt6gHFD655ydRFKXq/C4HRRQhEPA10O0sT3+phxo8yLGGmvu4OEVwlxgJ795iDUx/AeDOHBDRo+jhD3JYfsR8o1pAKhCkBk77cpUcjSogMs8mjgNLsb0q47APzZD1yz2S/UeZ6E8OsOGtVyk64AhsEX25ZYLVCX7Dpthe0EhAtdld6Nlit18OhSnbF8mM60UqU25eKUfnRbyIhfmzZBpY7RCIrTLk5RjmzzhWW3QGCZlxk92TxqZhPPsoVmVzNYllQ/IC98A+ZbYrguu7SRflVy27rAO6TalXt5xR2rBCx+9FzdZmqqFMxx45OdZAR5wle9oBdYkCocA==;w16PylwF+X3zbIHrvWEQRA=="
 ---

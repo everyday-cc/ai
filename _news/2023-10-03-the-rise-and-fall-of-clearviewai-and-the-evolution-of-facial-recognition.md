@@ -143,6 +143,20 @@ related:
         width: 771
         height: 512
         isCached: true
+  - title: "British lawmakers call for pause on use of live facial recognition"
+    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
+    publishedDateTime: 2023-10-06T15:19:00Z
+    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Spanish courts call facial recognition for employee management overkill"
     excerpt: "A Spanish legal ruling on facial recognition could have ramifications for businesses using biometrics to monitor workers."
     publishedDateTime: 2023-10-03T15:45:00Z
@@ -156,20 +170,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1333
-        isCached: true
-  - title: "British lawmakers call for pause on use of live facial recognition"
-    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
-    publishedDateTime: 2023-10-06T15:19:00Z
-    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Privacy Commission: Facial Recognition Technology not justified"
     excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
@@ -216,6 +216,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 19
+  - title: "MPs call for 'immediate stop' to live facial recognition"
+    excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.express.co.uk/news/politics/1820935/live-facial-recognition-stop-mps"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
     quality: 19
 
 secured: "7Q2i3sIO4CZS883vU4g5HkaDgj7pxFYiY21EGGSYtVv2PQcedmrNuwxhqJ4pxBoDa9gz2xlYn59wQ3HTwi66Tfmze7b1oUU4lb/4OaPzrLjIHqFiOsV6oswlLgI7nGRSmQ9REgGp2zowPyH1cN2GKbnBNsiWTChCd2LmdaqxLBBhOn/ulBCA0Dq46pqB9i80SR8YdLvcnpvu2em8ViPQAi3fMTwPsIW53eyfA1UVevdy+l++XgBP6q6RUU8Uirr82pP/u828b7XI0btA3zJ9HV3E9eGhrzfw/ysJrFla+bxnRjIcjQLuwi8NsezCoOM5JEg2owKaBK4Dri91MwR89wrKmMauaSU5en91WLvjyrk=;+9zaRndZMDvzE5GmRW+Ddw=="

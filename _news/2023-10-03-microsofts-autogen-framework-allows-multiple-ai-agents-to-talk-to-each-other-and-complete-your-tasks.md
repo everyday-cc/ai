@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
+    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
+    publishedDateTime: 2023-10-06T20:06:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-to-debut-ai-chip-next-month-that-could-cut-nvidia-gpu-costs"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 86
+    images:
+      - url: "https://tii.imgix.net/production/articles/11418/b13870cc-3991-4322-8e1f-3cd48e02df56.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
     excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
     publishedDateTime: 2023-10-06T14:53:00Z
@@ -122,6 +136,22 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTdkMWMwNDYtMDYxNy00/0/cloudflare-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
+        isCached: true
+  - title: "Milleniumchain Broker Talks About Microsoft and its AI-Driven Surge: Gains for Investors"
+    excerpt: "Summary: Analysts foresee even more positive developments, including the potential stabilization of Azure cloud computing, the upcoming Microsoft Ignite event, and the AI-driven Microsoft 365 Copilot."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.benzinga.com/content/35131479/milleniumchain-broker-talks-about-microsoft-and-its-ai-driven-surge-gains-for-investors"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35131479"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35131479"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 65
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
     excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
@@ -324,6 +354,15 @@ related:
     provider:
       name: MediaPost
       domain: mediapost.com
+    quality: 34
+  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
+    excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
+    publishedDateTime: 2023-10-06T19:36:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SREN/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 34
   - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
     excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"

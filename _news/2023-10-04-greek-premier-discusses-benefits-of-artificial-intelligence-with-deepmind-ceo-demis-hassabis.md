@@ -64,6 +64,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "DeepMind’s ‘remarkable’ new AI controls robots of all kinds"
+    excerpt: "Compared to specialized models developed for each robot, RT-1-X had a 50% higher success rate at various tasks."
+    publishedDateTime: 2023-10-06T18:27:00Z
+    webUrl: "https://venturebeat.com/ai/deepminds-remarkable-new-ai-controls-robots-of-all-kinds/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

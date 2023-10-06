@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 712
         isCached: true
+  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-06T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
   - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
     excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
     publishedDateTime: 2023-10-02T17:20:00Z

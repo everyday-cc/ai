@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DEEPX mass-produces AI accelerator chips, key to accelerating innovation and mainstreaming of smart vision applications"
-    excerpt: "The recent craze over ChatGPT throws light on the underlying business opportunities of AI applications. AI applications driven by cloud services have attracted their fair share of attention, but Edge Computing AI applications are also on the rise."
-    publishedDateTime: 2023-10-02T01:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20230927PR204/deepx-news-highlights.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 30
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230927pr204_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "CX is a good place to start with AI-driven innovation"
     excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
     publishedDateTime: 2023-10-05T12:51:00Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: TechRound
       domain: techround.co.uk
-    quality: 69
+    quality: 71
     images:
       - url: "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg"
         width: 500

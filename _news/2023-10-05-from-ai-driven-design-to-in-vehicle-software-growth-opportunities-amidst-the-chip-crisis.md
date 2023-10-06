@@ -118,22 +118,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Paris based Mistral AI Introduces Generative Artificial Intelligence Model to Compete with OpenAI"
-    excerpt: "France-based Mistral AI recently revealed its first generative artificial intelligence (AI) model in order to compete with US rivals in AI."
-    publishedDateTime: 2023-10-02T03:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213740-paris-based-mistral-ai-introduces-generative-artificial-intelligence-model-to-compete-with-openai/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Paris-France-National-Assembly.jpeg"
-        width: 1280
-        height: 1113
-        isCached: true
   - title: "OpenAI's Sam Altman invests in Indian startup Induced AI"
     excerpt: "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”."
     publishedDateTime: 2023-10-04T07:07:00Z
@@ -245,6 +229,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Report: OpenAI could develop custom AI chips"
+    excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."
+    publishedDateTime: 2023-10-06T18:12:00Z
+    webUrl: "https://siliconangle.com/2023/10/06/report-openai-develop-custom-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
     excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
     publishedDateTime: 2023-10-04T12:33:00Z

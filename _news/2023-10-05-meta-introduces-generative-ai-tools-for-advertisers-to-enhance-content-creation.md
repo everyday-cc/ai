@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-adver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
 type: article
 quality: 83
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
+    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
+    publishedDateTime: 2023-10-06T19:42:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
   - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
     excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
     publishedDateTime: 2023-10-02T06:28:00Z

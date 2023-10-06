@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 712
         isCached: true
+  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-06T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
   - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
     excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
     publishedDateTime: 2023-10-04T15:41:00Z

@@ -157,6 +157,20 @@ related:
         width: 771
         height: 512
         isCached: true
+  - title: "British lawmakers call for pause on use of live facial recognition"
+    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
+    publishedDateTime: 2023-10-06T15:19:00Z
+    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Spanish courts call facial recognition for employee management overkill"
     excerpt: "A Spanish legal ruling on facial recognition could have ramifications for businesses using biometrics to monitor workers."
     publishedDateTime: 2023-10-03T15:45:00Z
@@ -170,20 +184,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1333
-        isCached: true
-  - title: "British lawmakers call for pause on use of live facial recognition"
-    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
-    publishedDateTime: 2023-10-06T15:19:00Z
-    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
     excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
@@ -216,6 +216,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 19
+  - title: "MPs call for 'immediate stop' to live facial recognition"
+    excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.express.co.uk/news/politics/1820935/live-facial-recognition-stop-mps"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
     quality: 19
 
 secured: "UuNXo+EzhbnTK0H+1czfWO8ZQQDSXw82Yzww6KxmqPl7qkr0kMpBmKvuE+IohlaKYY3BToz+TEGRtUvAP6+9viNMeLcVo2oT6eVdQTvXunur6/82ckFz54ey642+dW/6kR9VtmPX68c6vcsrkq20EBeCzaiyFOFuMLblRqr8T0dP37p+FNi137ZTB08mgDLsAZBWMcZ9dyQOG0c7YWSU7B+6yXKsk3T+Lq+uTgkkwdyeEv+LfiK+LVWJ9S41PyRgvEeKVCIZoWtK4FHUWvtBjFxLfXW0YpEw1I/R4i3MN00E4rWGAGOhL7+nkehaesMK/wMdiSg9fJnObTBc3gdds7lEnHGZrew8ZDka9g4+AQg=;p0SkiQbRwFN45oLcHG0VEA=="

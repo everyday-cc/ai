@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-06T15:19:00Z
 originalUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
 webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
@@ -216,6 +217,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 19
+  - title: "MPs call for 'immediate stop' to live facial recognition"
+    excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.express.co.uk/news/politics/1820935/live-facial-recognition-stop-mps"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
     quality: 19
 
 secured: "tRCl3g53/s7ZBOr1V2Ppy+mTx7CzoSNRz5hvqgw08egc1GZY699yy9wgapzGRiOTl0Q6yALvxnSpJMel0QsJFycIVjMVHhuZ4fi+3xplB2vsO69hbleQVYJwzSK3b91EQKZUIV+X3wqhTph2pTzovUiaV5ntlHJWxT8dSOkbEaic3r7yMoXQlYdwvD4EPVEDc3mr8g5TwCQkUodUeLrUtSRTEQvb3THnhUghB/liB9mhkB2KCrwqvvkRLQPsFYT2Mbj5QBp8CHcJEulaV2DWzJkzGMNBSWhAgg41QvimW82b1pasJH6mB0igu/XS9mUTPlfMXj9ZGg9uCPgW1oB5BDiBZL1hIu+uPIn5pUeQn1lLBNoyBuRL4xuD/qzUmdVH1cYvhPi/zlx347TllunBtROmt5KzPBidax1y6Ka3nijzE3sPopCvVPFrBfsEH75pcclZ9MnMEo96t88XdWCgNX33eqPiETYwCnJVgivR4USC4pC6lCqu95mp7h5pKc5j8URT8nRGqrmhP5jSn860MA==;YbkjxlnbaubGIWljvokjsA=="

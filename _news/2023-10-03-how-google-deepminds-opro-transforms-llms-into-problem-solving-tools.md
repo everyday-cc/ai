@@ -64,6 +64,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "DeepMind’s ‘remarkable’ new AI controls robots of all kinds"
+    excerpt: "Compared to specialized models developed for each robot, RT-1-X had a 50% higher success rate at various tasks."
+    publishedDateTime: 2023-10-06T18:27:00Z
+    webUrl: "https://venturebeat.com/ai/deepminds-remarkable-new-ai-controls-robots-of-all-kinds/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
     excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
     publishedDateTime: 2023-10-04T12:30:00Z

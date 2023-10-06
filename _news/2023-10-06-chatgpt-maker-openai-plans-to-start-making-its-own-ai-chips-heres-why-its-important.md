@@ -44,20 +44,36 @@ related:
         height: 800
         isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "The company has not yet decided to move ahead, according to recent internal discussions described to Reuters. However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on,"
-    publishedDateTime: 2023-10-06T01:27:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-11486351.html/amp"
+    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
+    publishedDateTime: 2023-10-06T14:04:00Z
+    webUrl: "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/chatgpt-bbo.jpg"
-        width: 1280
-        height: 720
+      - url: "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249"
+        width: 594
+        height: 395
+        isCached: true
+  - title: "OpenAI To Join The Custom AI Chip Club?"
+    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
+    publishedDateTime: 2023-10-06T19:28:00Z
+    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
+    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
+        width: 8000
+        height: 4940
         isCached: true
   - title: "OpenAI explores in-house AI chip making: Report"
     excerpt: "OpenAI, the ChatGPT maker that has been behind the recent AI surge, is now looking for alternatives to avert the shortage of expensive AI chips it needs, to run those advanced AI models. These chips,"
@@ -119,6 +135,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "OpenAI said to be considering developing its own AI chips"
+    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
+    publishedDateTime: 2023-10-06T19:31:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z

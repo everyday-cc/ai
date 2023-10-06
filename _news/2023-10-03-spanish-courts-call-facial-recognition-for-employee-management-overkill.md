@@ -165,7 +165,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
         width: 2048
@@ -216,6 +216,15 @@ related:
     provider:
       name: IET
       domain: theiet.org
+    quality: 19
+  - title: "MPs call for 'immediate stop' to live facial recognition"
+    excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.express.co.uk/news/politics/1820935/live-facial-recognition-stop-mps"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
     quality: 19
 
 secured: "2l8wRM3rJ8abcUeZeXauQJ+aBAvOdSXuKFkPh0cXT7+9s6ixHXEDmqYzk00+OuaXHlg3QbUepEX2NNd/Oe+aZctdjCnKun919Q+FRSV/XKvUhU8Hj2vCjLIeyVKIP5SfejUyKSDmssovLaS+eTZ5iCB81nPUQkGzlUTOUHjCUzrbWeA2Lu+kYyiKvq4u6busC+kXxrZpfw8JprO+aZN/2E0W6+ufHvOkUiQBVTAzdg14CI8tUnJDZ7NxnizjtFmq/mXMlLs5/YOcnraTqURHZwDsk92C4/iJTDH3Rw1EvbyQLpX/j8FhkbXnrpn47Ar98IWjCxu2BhfVTF6p85h5F/d/0rXoC/FPmFBovTJBGEU=;oKQpFlKi5yaXQxyZ6bKP8w=="

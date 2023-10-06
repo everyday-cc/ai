@@ -56,6 +56,15 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
+    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
+    publishedDateTime: 2023-10-06T19:25:00Z
+    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
+    type: article
+    provider:
+      name: wglt
+      domain: wglt.org
+    quality: 26
 
 secured: "mQ/QCiqHEYvW9ND4iLNNoT9tRTM+Lk3qevIkz9JilDmx6Ub3YyEQOrg+sesQQsremejJsNj6qTb8pdLxnPE64Y3kmXM71HgBLxe7Y/rl8opAxoOlUnG7Q/tDXMmIElHs5J58FlIMaUydW7ApKeE0cUw2Gm8YCuwK/XdbSgKX6AOZEJhwTiKFHO056aa4ou/QnP88T9pHYzB+ujbQC1VPS7Dzr09TPsIqunlRqQLjjT5PMuiPbcu3+WAuRjAyBQhilm035OWwSai1bzIsAZzwsA6E1/oWF9lo+kiwg07VEpoWSi1WhLCnyx/Y8tpXNxauFLp5xklUN33KZYpyNgBXqr5Y2GrJg64dYk20MzeqsAvWNE4Z1mRtbh/M0I5rGhuyWdV2W5TlF+zMUuEzv9nIBvRHf1iMiCNntqYS0IdoXz5UAhFLWtyMuaTBaCEkmRcgZAVf0ws9vdQp6GiUAMXfaDESNryzzg0QInYjSrSikPTBfQ/jrASlpOyPNL9hV7ogAPH4uSlVKtdtOOcHHnSb1Q==;7qJngj0pcZHS9klG6w8jEA=="
 ---
