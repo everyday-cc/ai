@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
+    quality: 36
+    images:
+      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
+        width: 1200
+        height: 804
+        isCached: true
+  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
+    excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
+    publishedDateTime: 2023-10-05T23:10:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
     quality: 36
     images:
       - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"

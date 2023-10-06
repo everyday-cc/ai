@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-africa-66987869.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-66987869.amp"
 type: article
 quality: 87
-heat: 89
+heat: 91
 published: true
 
 provider:

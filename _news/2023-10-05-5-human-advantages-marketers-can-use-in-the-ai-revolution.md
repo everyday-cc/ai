@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-huma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.wsj.net/im-861763/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
+    excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
+    publishedDateTime: 2023-10-05T16:33:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
+        width: 1528
+        height: 800
         isCached: true
   - title: "The Defects of Human and Artificial Intelligence"
     excerpt: "With AI, there is nothing to be read between the lines.’"

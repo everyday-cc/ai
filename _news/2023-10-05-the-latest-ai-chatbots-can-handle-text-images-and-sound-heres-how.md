@@ -93,6 +93,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 42
+  - title: "Meta Is Paying Creators Millions for AI Chatbots"
+    excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
+    publishedDateTime: 2023-10-05T22:01:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-is-paying-creators-millions-for-ai-chatbots"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 39
+    images:
+      - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
     excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
     publishedDateTime: 2023-10-02T10:45:00Z

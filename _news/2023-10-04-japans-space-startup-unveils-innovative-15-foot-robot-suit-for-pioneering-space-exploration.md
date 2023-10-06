@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/japans-space-startup-unveils-innovative-15-fo
 webUrl: "https://techstory.in/japans-space-startup-unveils-innovative-15-foot-robot-suit-for-pioneering-space-exploration/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Uber announces startup challenge for innovative solutions to fasttrack adoption of sustainable mobility"
-    excerpt: "Read more about Uber announces startup challenge for innovative solutions to fasttrack adoption of sustainable mobility on Devdiscourse"
-    publishedDateTime: 2023-10-03T12:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2616659-uber-announces-startup-challenge-for-innovative-solutions-to-fasttrack-adoption-of-sustainable-mobility"
+  - title: "Japan startup unveils 15-foot robot suit for space exploration"
+    excerpt: "Engineers in Japan have created a 3.5-ton robot suit that resembles a character from a hugely popular animation series, which they hope to use for space exploration and in emergency situations."
+    publishedDateTime: 2023-10-05T21:18:00Z
+    webUrl: "https://www.independent.co.uk/tech/japan-robot-suit-gundam-space-b2425036.html"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 1
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2023/10/02/10/japan%20robot%20suit%20gundham.png?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lZehEs3QyiboXxb6xWi2GR+wGDhQVQmW/YJXljUQSCO0veIAtVP92xY/VNQpWMvD4+2v1VKJtErAqrRWgbH37DOw7OP8O/8B4kCCYkLRjNxuWn3MjFEehvrmmEU/Tnf5LEKAJ54oyZxxPQX72w81OFET+dMD2YUz74HS+Ct1i9TjPo//oNVsfKqLuDzrHNWWqqyfCKw3Jd1j3glxRjZC4KqvUBoo2IoMTn8c9hyCe5SMx+Mgl8tPeJFdDnJ8DE53P7Z1OGHCjW/30ogCXNAg1fy+VSw2CvNaGlBh93RxGVFqmRsiWGnS1JfRhqoF2axjFoqYDxZWBjJAGnRnGxcxsEc9SdAnfrPavaOhB8uit8o=;HTS/d0c+rihx7eEaQ4xyOw=="
 ---

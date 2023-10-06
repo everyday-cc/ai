@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/"
 webUrl: "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/"
 type: article
 quality: 82
-heat: 85
+heat: 88
 published: true
 
 provider:

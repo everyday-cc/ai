@@ -76,6 +76,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "More than 70 university law professors say Voice 'not constitutionally risky' in letter to Australian public"
+    excerpt: "Dozens of constitutional and public law teachers from across the country have signed a letter in a bid to tackle \"misunderstandings and misconceptions\" about the Voice to Parliament."
+    publishedDateTime: 2023-10-05T23:19:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-06/open-letter-constitutional-law-university-voice-to-parliament/102937352"
+    ampWebUrl: "https://amp.abc.net.au/article/102937352"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102937352"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 25
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/62dab7690b8df7fca27b1b66dd42f541?impolicy=wcms_crop_resize&cropH=1365&cropW=2048&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "Both camps in Australia’s Voice referendum pledge to cut spending for impoverished Aborigines"
     excerpt: "Donate today The Voice’s origins lie in the decision of then Liberal ... The gathering, which agreed to moves towards indigenous Constitutional recognition which have culminated in the current referendum, was an attempt by Abbott to suppress anger ..."
     publishedDateTime: 2023-10-05T03:38:00Z

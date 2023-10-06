@@ -87,6 +87,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
+  - title: "More than 70 university law professors say Voice 'not constitutionally risky' in letter to Australian public"
+    excerpt: "Dozens of constitutional and public law teachers from across the country have signed a letter in a bid to tackle \"misunderstandings and misconceptions\" about the Voice to Parliament."
+    publishedDateTime: 2023-10-05T23:19:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-06/open-letter-constitutional-law-university-voice-to-parliament/102937352"
+    ampWebUrl: "https://amp.abc.net.au/article/102937352"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102937352"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 25
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/62dab7690b8df7fca27b1b66dd42f541?impolicy=wcms_crop_resize&cropH=1365&cropW=2048&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "The time has come: Labor to work with gov on indigenous recognition"
     excerpt: "Shadow Minister for Indigenous Australians Linda Burney speaking to media at Redfern park in Sydney about the Labor party's support for the Uluru statement and willingness to work with government to achieve an indigenous voice to parliament. Burney says it ..."
     publishedDateTime: 2023-10-03T10:32:00Z

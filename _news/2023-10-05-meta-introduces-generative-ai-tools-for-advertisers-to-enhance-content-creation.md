@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-adver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
 type: article
 quality: 83
-heat: 145
+heat: 157
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
+    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
+    publishedDateTime: 2023-10-05T22:59:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Opsera raises $12M to introduce generative AI DevOps features"
     excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."

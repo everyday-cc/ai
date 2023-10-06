@@ -104,6 +104,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
+    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
+    publishedDateTime: 2023-10-05T22:59:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "Z6bh6X6pGzCqd72ORRyqmjKIU8gBnbH7C+OOqFh9eGosT7SUxUINBTdJM3nm93c/yaX2az7Kybo9g7KmGkbkDjhW0KSopfXnXphk16bcT3lvA5sga87Gdc2OBD4hpUB4ZWn39KTq7yL48HXdPuVnU+a5w3IkYbXnvoDHNByjiuBhg+OIfjtLRqiD+cwM3fzZ/6tjFDdZLRiQcXXhNQjkEq13v5TdyAOG3k0sCvNvWcYW99dm71XvMKZU+dwXqstjyKc7iBUW5jTrdqHZZbbtyWwZPs1QoY2ECxeu9V4KUNEKzZY5yaClwHWFDKsQcDhubFKUVknQv5C/XePN1xMsglLjwiIyxxYkFas27RBeWffXxmU+G94mDjq8mnCxXO3KkaQM7KcIToRJeswU2APNv3TfgO1Sbu4RldbEFU2LY/PuM3Nct4Y0E8qXdmuIKb5GcBXuEv7QUKKRyx9dgJ7xDTC97MvRDgU3heVYYtNsvVgndqrJmec7bTbaUVGZwxEuecZnDVRqcKydMYgGcUqoeQ==;1xkGE7hpFZiy1pPZXkikeQ=="
 ---

@@ -107,6 +107,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 42
+  - title: "Meta Is Paying Creators Millions for AI Chatbots"
+    excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
+    publishedDateTime: 2023-10-05T22:01:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-is-paying-creators-millions-for-ai-chatbots"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 39
+    images:
+      - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
     excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
     publishedDateTime: 2023-10-05T13:27:00Z
