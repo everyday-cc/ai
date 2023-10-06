@@ -54,6 +54,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "OpenAI is considering making its own AI chips"
+    excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
+    publishedDateTime: 2023-10-06T04:30:00Z
+    webUrl: "https://www.newsbytesapp.com/news/business/openai-is-weighing-options-for-securing-ai-chip-supply/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l16820231006095044.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "OpenAI looking at producing AI chips in-house : Report"
+    excerpt: "OpenAI reportedly weighed up a chip making firm as an acquisition target so it could produce its own AI chips. OpenAI, the company behind artificial intelligence chatbot ChatGPT, is reportedly exploring the possibility of manufacturing processing chips in ..."
+    publishedDateTime: 2023-10-06T04:24:00Z
+    webUrl: "https://cointelegraph.com/news/openai-looks-at-making-in-house-chips"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvODQwNWE3MWUtNTcwMS00MzdkLWFmNGMtY2Q2YzE5YWVjMTcyLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
     excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
     publishedDateTime: 2023-10-03T18:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
         width: 635
         height: 395
+        isCached: true
+  - title: "MPs join campaign group’s call for facial recognition ban"
+    excerpt: "We hold differing views about live facial recognition surveillance, ranging from serious concerns about its incompatibility with human rights, to the potent"
+    publishedDateTime: 2023-10-06T05:38:00Z
+    webUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 54
+    images:
+      - url: "https://static.standard.co.uk/2023/10/06/05/c9bf02f7f09dec0e6259925340a0222eY29udGVudHNlYXJjaGFwaSwxNjk2NjUzMDY2-2.49806345.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The rise and fall of Clearview.AI and the evolution of facial recognition"
     excerpt: "Facial recognition software has come full circle, from tech darling to tech disaster."

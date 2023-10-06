@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35117020"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35117020"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 400
     height: 600
     isCached: true
-
-related:
-  - title: "Patra Introduces the Future of Policy Checking in Industry's First SaaS-based Policy Checking Solution Featuring Artificial Intelligence"
-    excerpt: "Patra, a leading provider of tech-enabled insurance outsourcing services, announced today the upcoming release of their new SaaS-based PolicyChecking."
-    publishedDateTime: 2023-10-01T23:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231001580311/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "BD21WeaNxbN234F103lDRyB65CRUASguSgv1cr3+Z4j81+8vWo3RbMOVlMOk5Ahrn4AabfvXTdph3xmvRc5vQ5cAHmWtVfLzOhyrpovppQ8pzfqIInJcZNUUL5ZH4Ed4K2JaS87s5vnfBoLSLIk8cPqlW2EEvh1MFZZO0F/HSQQZfxM/r/sWHTsqs+K2wtWuwY9LL9YunddRw+VV3kacABdcjPI1UDeQy5ym0TO0i8xlB7tCx7FPyqcAKojhuR9VusHszs7Xh+BFu8AuX9IgqJbFzWtNX/9HOyiTjAzfKMKG7cq/DbBKVpDPGrDWQPBEiVVlMn0bD27JCPF8MyCIvEXTE3NZNVJV0Hkyd5JsNKU=;EnDP6+925ZpNU8y/sCVslw=="
 ---

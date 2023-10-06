@@ -55,6 +55,20 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "MPs join campaign group’s call for facial recognition ban"
+    excerpt: "We hold differing views about live facial recognition surveillance, ranging from serious concerns about its incompatibility with human rights, to the potent"
+    publishedDateTime: 2023-10-06T05:38:00Z
+    webUrl: "https://www.standard.co.uk/news/politics/david-davis-shami-chakrabarti-mps-brexit-house-of-lords-b1111763.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 54
+    images:
+      - url: "https://static.standard.co.uk/2023/10/06/05/c9bf02f7f09dec0e6259925340a0222eY29udGVudHNlYXJjaGFwaSwxNjk2NjUzMDY2-2.49806345.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
     publishedDateTime: 2023-10-06T00:08:00Z

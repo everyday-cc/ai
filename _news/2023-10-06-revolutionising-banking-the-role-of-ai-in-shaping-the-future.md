@@ -1,29 +1,56 @@
 ---
 category: news
-title: "Revolutionising Banking: The Role Of AI In Shaping The Future"
-excerpt: "Artificial intelligence is a crucial driver of innovation and financial inclusion. It can help banks offer better services, reduce risks, and increa"
-publishedDateTime: 2023-10-06T03:44:00Z
-originalUrl: "https://menafn.com/1107199254/Revolutionising-Banking-The-Role-Of-AI-In-Shaping-The-Future"
-webUrl: "https://menafn.com/1107199254/Revolutionising-Banking-The-Role-Of-AI-In-Shaping-The-Future"
+title: "Revolutionising banking: The role of AI in shaping the future"
+excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
+publishedDateTime: 2023-10-06T05:31:00Z
+originalUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
+webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
+ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-10/05/KT_a22feimage_story.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
+    width: 799
+    height: 533
     isCached: true
 
-secured: "rI4ovmFgQH/KiwkVDlBsE8xDHJOBJMBJIF8wb+CTRnL0ycxXvcBGk4EWE7OncEl895P/y1eAZkGfR0ikdJmWBbTF46bdWDI2LIxbo9v4cnX9Ok65ZGIuMm4DpvVJI58u1LeOUEitiWPWlBLrHQKdxl9FYcoL5UHKvH/e7C+QcncpES0gqANPDHP7goFnP/c7BkFYMDq17zt0StjS8JGeVCqvNkXxm1YAsD4vFr7AjR0M+lAS2BgBTZ4o7EvSdlPqfu3gSEzTgjvz4jC5OL8zg5TkoC0D/rM+FBaduqLLmPU7dYx/487cS9dv0atXs+tojOtcxgYsImy4vyVQRIUc5KSs7tty7hSD3vEBOSFGI2U=;Sx6eA3HsiAEcIsnehKEIdA=="
+related:
+  - title: "Wing-flapping robot helps explain the evolution of insect flight"
+    excerpt: "Researchers built tiny robots that can switch between two different kinds of flight, one involving unusually fast wing-flapping, to better understand insect evolution"
+    publishedDateTime: 2023-10-04T15:03:00Z
+    webUrl: "https://www.newscientist.com/article/2395779-wing-flapping-robot-helps-explain-the-evolution-of-insect-flight/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/04154200/SEI_174616579.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Patra Introduces the Future of Policy Checking in Industry's First SaaS-based Policy Checking Solution Featuring Artificial Intelligence"
+    excerpt: "Patra, a leading provider of tech-enabled insurance outsourcing services, announced today the upcoming release of their new SaaS-based PolicyChecking."
+    publishedDateTime: 2023-10-01T23:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231001580311/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
+secured: "Gw0iXAgPhLIegEpt+dSOoCQ/PGk/SttoWgLlhsYyNxcm5e6Ybk7HqiaE0XyJv/KJ1wxbO5cCTri9k6GxztieLeaHYNGaqJRRidREJn/OX9Huw6o5vg1S+7vkz134EfqHDODRWamUvY79ETGLhJjDJAJNUdTOgs7qcYMIVzZDPgF/geEIUQNagGrGdqc/SS76FD0PCCf1UopyN7yRmSFILpistUpB+Klsy17Sn+LonFDKgcOt/soQkwI6XXB1/bGw+qrPm1KkuP9LGqtPgyToov6k6GVQijHovWKBBMmng50EHwqy5OuNgHzPLKkETWxmgJ2K2RKqPt6iAQDmjO1VuR5Ebl33nO5mIfJyluuRI+g=;OB7bA9egSsXY1KQ66yQq0Q=="
 ---
 

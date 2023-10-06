@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
+    excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
+    publishedDateTime: 2023-10-05T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/modern-campground-announces-partnership-with-insider-perks-to-launch-campy-an-ai-chatbot-1032664766"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://thenewsfront.com/wp-content/uploads/2023/09/campy-original-high-300x300.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Bill Gates-Backed Startup Launches AI Chatbot for Personalized Movie, Book Picks"
     excerpt: "The chatbot, called Pix, runs on OpenAI language-processing tech and will learn user preferences over time."
     publishedDateTime: 2023-10-05T12:00:00Z

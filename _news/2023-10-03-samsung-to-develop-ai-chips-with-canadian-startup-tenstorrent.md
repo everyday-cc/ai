@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Tenstorrent selects Samsung Foundry to manufacture AI chips"
+    excerpt: "Tenstorrent, a startup that sells AI processors and licenses AI and RISC-V IP, has announced that Samsung Foundry has been chosen to deliver Tenstorrent's next generation of AI chiplets to market."
+    publishedDateTime: 2023-10-03T07:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20231003VL202/ai-chips-samsung-foundry.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231003vl202_files/3_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "AXGuziuRExKC+pG7ERMe1fi+vda9pvVnTiK7O3WjAjU7dNgvKPKkUtqHl26NJwDGG854rVCuqXf9nC/4bBMhmTV1T5NseyGZjLDct3LRU6XfJXJ8Nh+cIQ6A/q00PG1eZRa+MaTHS55aKrYR4l2tgfsyYdiKCpcr+I6xraBpvFYytDgMyVLGgyiWOZ+/Ytx5MVj93JCTffryWONFl22888aIOK2ZRrAUEy3VQ+iqPf4zpJU82gPQYugg0lM2SxQJ7ZEeGJcKnZbptNMZ0RHh4horko7GUX42nXem8TbiDAfcMavGcgECfqbxN45HVfJsG+AJCEBDjIklY7pPMbblgs7UrWHtbmx1vQH811N1uKfNofbkZ6/NBQLgJ+6PHK033ky817kjX70WDXibzq4ewiw676h9OCzMjxeQGy0mJAhfhEzuizuglmYsxeQj5v77eQj9G4hIEP+a4Fw8nsTzXBCaxaRssS7VaaB/oQ64vjIe3X1Q84rTwc6t+X0up8guQydEBencXoAqMzwmrhbNyA==;/sC33/q6lCZ315DLEUi/rg=="
 ---

@@ -57,16 +57,16 @@ related:
         height: 599
         isCached: true
   - title: "Trend Micro expands partner program with new assessments, AI capabilities"
-    excerpt: "Trend Micro has expanded its partner program, improving the ability for partners to offer assessments to customers."
-    publishedDateTime: 2023-10-06T03:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/709043/trend-micro-expands-partner-program-with-new-assessments-ai-capabilities/"
+    excerpt: "The updates include improved cyber risk assessments and new external attack surface, cloud posture and Azure Active Directory (AD ... Further, it addresses the emergence of artificial intelligence (AI), with generative AI capabilities enabling SOC teams ..."
+    publishedDateTime: 2023-10-06T03:55:00Z
+    webUrl: "https://www.arnnet.com.au/article/709043/trend-micro-expands-partner-program-new-assessments-ai-capabilities/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 38
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
         width: 504
         height: 315
         isCached: true

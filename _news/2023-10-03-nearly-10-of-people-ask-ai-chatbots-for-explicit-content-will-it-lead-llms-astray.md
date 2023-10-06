@@ -72,6 +72,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
+    excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
+    publishedDateTime: 2023-10-05T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/modern-campground-announces-partnership-with-insider-perks-to-launch-campy-an-ai-chatbot-1032664766"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://thenewsfront.com/wp-content/uploads/2023/09/campy-original-high-300x300.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
     excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
     publishedDateTime: 2023-10-05T16:58:00Z

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Calamu Wins \"Data Security Innovation of the Year\" in 7th Annual CyberSecurity Breakthrough Awards Program"
+    excerpt: "Data-First Security Pioneer Has Been Honored Yet Again for its Leading Solution to Double-Extortion RansomwareCLINTON, N.J., Oct. 5, 2023"
+    publishedDateTime: 2023-10-05T22:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/2240072/Calamu_Award_banner.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Boardroom Blueprint: AI's Cybersecurity Risks"
     excerpt: "fostering the development of AI ethics. To steer organizations safely through the AI revolution, boards should consider the following action items: Develop AI Security Protocols: Implement appropriate AI security protocols to safeguard against potential ..."
     publishedDateTime: 2023-10-03T13:29:00Z
@@ -40,15 +54,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 13
-  - title: "Cybersecurity Startup Nexusflow Raises $10.6M From Point72 Ventures, Fusion Fund"
-    excerpt: "Nexusflow raised $10.6 million as part of a seed round led by Point72 Ventures, with participation from Fusion Fund and several artificial intelligence (AI) luminaries."
-    publishedDateTime: 2023-10-05T13:03:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/10/35098385/cybersecurity-startup-nexusflow-raises-10-6m-from-point72-ventures-fusion-fund"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
     excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
     publishedDateTime: 2023-10-05T17:28:00Z

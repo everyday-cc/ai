@@ -63,6 +63,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
+    excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
+    publishedDateTime: 2023-10-06T04:04:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3237002/chatgpt-owner-openai-exploring-designing-ai-chips-through-acquisition-or-working-closely-nvidia"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 68
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/06/f766d764-37e7-44a4-b8ff-55abaf92d6cc_9d899f76.jpg?itok=-r1GFiTG&v=1696564271"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT owner OpenAI is exploring making its own AI chips: Sources"
     excerpt: "SAN FRANCISCO/WASHINGTON - OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence (AI) chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
     publishedDateTime: 2023-10-06T01:53:00Z

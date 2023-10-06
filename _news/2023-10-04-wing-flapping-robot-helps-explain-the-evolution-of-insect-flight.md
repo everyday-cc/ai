@@ -25,29 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Instant evolution: AI designs new robot from scratch in seconds"
-    excerpt: "Researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
-    publishedDateTime: 2023-10-04T00:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+  - title: "Revolutionising banking: The role of AI in shaping the future"
+    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
+    publishedDateTime: 2023-10-06T05:31:00Z
+    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
+    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Robots crafted by artificial intelligence: Instant evolution"
-    excerpt: "Researchers have achieved a significant milestone by creating a artificial intelligence system capable of crafting robots from scratch."
-    publishedDateTime: 2023-10-04T10:41:00Z
-    webUrl: "https://www.openaccessgovernment.org/robots-crafted-by-artificial-intelligence-instant-evolution/167609/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
+      name: Zawya
+      domain: zawya.com
+    quality: 74
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1364859722-scaled.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
+        width: 799
+        height: 533
         isCached: true
+  - title: "Patra Introduces the Future of Policy Checking in Industry's First SaaS-based Policy Checking Solution Featuring Artificial Intelligence"
+    excerpt: "Patra, a leading provider of tech-enabled insurance outsourcing services, announced today the upcoming release of their new SaaS-based PolicyChecking."
+    publishedDateTime: 2023-10-01T23:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231001580311/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "XMIHwsPK9ZTAeaBKLvhb1X3L9/+Cggs+aExapS6Vr2jTGZRgvoaoVIj1W1116QcsxPGijDJnGGeFDm6qpXNW6efq4//Bdpk/bPmooHHU5HizxbQPiPivEY9Zb7qGYkpmxlr4U4mSk9LOTHwTmItS1RmiWf7k01jWIOgsgwRFmkOgPJPMveLo7kk20URhCXbsOQ3LTJLomqA8+18FVLAIbBEOzxGSFXWg9xwtEerjUlG2NUZh0CwA01g4d0mR7lrGncIOvu1VlwnlK2XoxIZs4df+pUsFf7SVaWMNmDkNVPbDvAm8JMfwujZaXhfT1rRQi5juARoHv0rC2CWvE7e1mBNB9bOtdrL1we9ryWXDI+Y=;sS03asyETDdkjnbnJwwZgw=="
 ---

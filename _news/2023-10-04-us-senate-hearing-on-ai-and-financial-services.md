@@ -53,6 +53,15 @@ related:
         width: 900
         height: 674
         isCached: true
+  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
+    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
+    publishedDateTime: 2023-10-06T04:20:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 24
 
 secured: "7LwZkKctJSvVin0eSOaN9D0RqCNVIcNpPGBEEvaRuxKQ7w+AZXAwI4Vx78+myaRAZCPCfJxEO9KkZ3amVSjz4PYoIprArFD7cWJT2EkaHm71VI1DdUrqJE3NHM7FsYiSxjfLp15o6SjRrt4KeotbLLZlkIbkP9k/AvCENW89EdiOmnJS7WPv/rZuxdL/z1CepIy70zK+ZjU6ZdX3X4QhtH4CLqD2tu0HOHZdp5khId0qfaCVpW4LNEkwKJTFjhr7e2pyi3/6YPdVSl5DzV63Vnk2C7gQchkVcamN0c1siDDd74NLIReLRZlo4oltksuuy1LdxuEZrycff1EUM/lBUfwEzfXgYrFPvrG91wxTG4k=;+VE3O7mg9iQtOLml2CzKCw=="
 ---

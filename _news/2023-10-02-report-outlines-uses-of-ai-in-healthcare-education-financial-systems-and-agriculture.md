@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-
 webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1748
         height: 1240
         isCached: true
+  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
+    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
+    publishedDateTime: 2023-10-06T04:20:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 24
 
 secured: "zL+wMrMpmG9YXP8cmFmW85dwmZC03675cyrX+eYLBsg4YlXSkIvRTHm9heV7Ta1mvSfbeFuNvKo/oaYZGJpnNgjeu06kkh6KlXAq8nc7eqEm2tj1hZRAAFSNMB90hA8I4e+hhAFvoPkxlOVK7zhAMEE3cxkwZuEEKp8wS4W6zZEMvkk7/vGaH3PfdNTn91O7M4K64Q+gHyaHmtrm2k4tl1e7A2H8KJwJZae0O2x9VFBvatIfx+Wh9R6YxNcAq7VEt1l47f5FsC7wPOofqvs0EXLiszAzjMuI53MeXw5zBQPzGAw5K8GwZPM4LvcC/c77lBcAl+xdvDmte/AXUwG6dpLbUdoPq/9uMZPTEORXGFs=;yrDrk+GbmuiXG0Ik4jfLLg=="
 ---

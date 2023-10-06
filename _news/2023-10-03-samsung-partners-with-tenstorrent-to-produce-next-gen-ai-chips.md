@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-wit
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/10/03/1386147-samsung.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Tenstorrent selects Samsung Foundry to manufacture AI chips"
+    excerpt: "Tenstorrent, a startup that sells AI processors and licenses AI and RISC-V IP, has announced that Samsung Foundry has been chosen to deliver Tenstorrent's next generation of AI chiplets to market."
+    publishedDateTime: 2023-10-03T07:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20231003VL202/ai-chips-samsung-foundry.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231003vl202_files/3_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "JZWbYDHis+0pQbzgEmNmiZbQJUoziARdCjemtoxD4vBhr0ATg9foABvrdg1Eo2v5aQY2L0O2YYrM1QFxznmr5rO4stfg8PQ5mMxmmB9HUImB2jsJLexZn6xYddBG7X8kXDDT+/Rn3o5aF9GR90dgFWS+kYPpothNe1WTS1Q7Vm15ZlDM8MEihNewL7Xt21dZYDCZjYEH0Erl/dNu7mhHDa8DQcUxxh/EwKMSkclzs8Ui6fgqlwqe4Hna+GYrWFkh+5cJMtbh29OidKpKnFH/BtE977LO9R68YjeGh3VehvqJNMqG51VJHdis0WGaRm52yA6+ec6R7olWWfy8fGHM3z7kemwzO8Agtxib0dTsMdueEM8UUNZ+rJMojNGznE+Bn/vLR8+mo26M3TZHg/aAVP9JKmi7LxABDcgi+Swri5+o9LlfxwbPlciZLnGTZcrnhdCwpvwdK/K8gPkfjsOLJJwAApf7zqiVA1WrATHFueyQ5UYb7FTzGN2gcCT62fjqaGnSQig/9soa+tqOl2eF5w==;zHGSJx/GVcwwFCmdUU8xMw=="
