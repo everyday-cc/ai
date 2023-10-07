@@ -3,23 +3,23 @@ category: news
 title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
 excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
 publishedDateTime: 2023-10-06T13:03:00Z
-originalUrl: "https://www.eastoregonian.com/news/nation_world/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_6403be31-be64-53ac-b581-9723ba5c3df4.html"
-webUrl: "https://www.eastoregonian.com/news/nation_world/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_6403be31-be64-53ac-b581-9723ba5c3df4.html"
+originalUrl: "https://www.djournal.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_60e213b7-f533-5e39-8249-d892145a9a2c.html"
+webUrl: "https://www.djournal.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_60e213b7-f533-5e39-8249-d892145a9a2c.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: East Oregonian
-  domain: eastoregonian.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/6/40/6403be31-be64-53ac-b581-9723ba5c3df4/65200c4fc86f8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/0e/60e213b7-f533-5e39-8249-d892145a9a2c/65200c2a3b7c7.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -77,6 +77,6 @@ related:
       domain: acm.org
     quality: 34
 
-secured: "mNUCpei+KvxrrYWOwvmYldIzGzPwCx7D/th5bTulihUqz4skH5Eg2QClkWALBLMI5mVmrfoY1xstL62sa1F2opwhORqBBs8qX66GbIxzyTWvllMj6gq/nPE4qEbkRSAYQVeJ9qUIzEz6Yyd+pvGr7DOe1T15QNpSngXa9+ZFrTWEthnAiJDm973ynmzK/xx819wDK8t8iWZysSTeEEhQ7j6tCXD/hVYBuI59ln2xaMISr/63HLdERF6acvzzrG5QSnJiKYxaphIIAiqFHet9Rd/OL6VogspQyq097vtp6PK7ts6q1tuT3l8ZKoKpGQy0acyzjynk++yDPUG7oXsnfUxRjxbx2qugRZiCYnHEe5qcsYgDlO89+aKsvh2sT+iTWVcboDJtlFzgfuL1AhC0+biLoj+HRFRz6g2MR6rwUIrlWEsiE/DD59dbIzlGB+/yPrqH/PfUV30WQUmJmVomjAwbYRbJut8ya/XkSKiOAjl7V6O7AxgH6L9QrYLtnkap7zwy4egeQNZJzRXkbug7VQ==;SoRhWM3SXxGa26ZwRr2oaA=="
+secured: "GVPQ5Wyeehmb1FqOdYUUdbzbEhZoXSzYzjQ5jBMIOY7i99nME7pG9IAR3F1Z7y8xqwHZMWDmozJmceq2tVbgRL969xSQk6mdHL/dWpbVgNfO+eoIzlFnbKYOcW1GpUzpbBXj9UNiTj3166vrEmlQZpA62xWmzu5oXbsrCLAFjDR8faITtQz0PUtupF1LiWbSdqXXh55Irb2BE9d+pz0s9RLTkebe25JYd9dZqJwe+3juydLSxmPZpvJq29SEyf/8KFc8VF8bWMdq9t5sBQcDPO5J4FPaz1uMA3MYd8Dmh+KwSTv1um71XXzBNpwZlIe/6mwuF2VbfiR165g04UQg+E7TNT7XFfHT1Ksvyif9ycw=;pbazujqTx+uU665NkSq56Q=="
 ---
 

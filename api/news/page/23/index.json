@@ -2,6 +2,161 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-09-18-seat-massages-smartphones-and-driverless-features-automakers-turn-to-tech-to-take-on-tesla.md",
+      "title": "Seat massages, smartphones and driverless features: Automakers turn to tech to take on Tesla",
+      "excerpt": "The company is making a big push into the automotive space, where its chips can be used to help power artificial intelligence ... automakers are ramping up the driverless features and capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107296312-1694002722665-AWS_Iaa_stand.jpg?v=1694412104",
+          "width": 4000,
+          "height": 2252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "publishedDateTime": "2023-09-18T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-3-key-startup-opportunities-in-remote-work.md",
+      "title": "3 Key Startup Opportunities In Remote Work",
+      "excerpt": "In this article, we explore why 3 different remote work niches hold immense potential for new innovative startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650860fe17567a7b42935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/09/18/3-key-startup-opportunities-in-remote-work/amp/",
+      "publishedDateTime": "2023-09-18T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration.md",
+      "title": "The Metaverse: Shaping The Future Of The Internet And Business Through AI Integration",
+      "excerpt": "It's more than just an effort to expand the internet; it's a transformative shift in how we perceive and engage with the digital world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/the-metaverse-shaping-the-future-of-the-internet-and-business-through-ai-integration/amp/",
+      "publishedDateTime": "2023-09-18T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-the-next-wave-of-payments-modernization-minimizing-complexity-to-elevate-customer-experience.md",
       "title": "The next wave of payments modernization: Minimizing complexity to elevate customer experience",
       "excerpt": "IBM aims to help clients transform modern payments architectures and maximize investments while accelerating cloud adoption for the most sensitive data.\nThe post The next wave of payments modernization: Minimizing complexity to elevate customer experience appeared first on IBM Blog.\n",
@@ -990,116 +1145,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-progress-or-peril-the-brave-new-world-of-self-driving-science-labs.md",
-      "title": "Progress or peril? The brave new world of self-driving science labs",
-      "excerpt": "The relentless march of technology has brought us to the doorstep of another unprecedented revolution: self-driving laboratories (SDLs). Picture a bustling lab, humming with activity but devoid of ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/",
-      "originalUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4205109-progress-or-peril-the-brave-new-world-of-self-driving-science-labs/amp/",
-      "publishedDateTime": "2023-09-17T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-wrongly-arrested-because-of-facial-recognition-why-new-police-tech-risks-serious-miscarriages-of-justice.md",
-      "title": "Wrongly arrested because of facial recognition: Why new police tech risks serious miscarriages of justice",
-      "excerpt": "The latest generation of police surveillance tools are overused, underregulated and often completely wrong, opponents tell Josh Marcus and Alex Woodward",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
-      "originalUrl": "https://www.aol.com/wrongly-arrested-because-facial-recognition-191508983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/a9a13a30e578ba01fc9dfffc05413da5",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought.md",
-      "title": "Experts say Artificial Intelligence is coming into the workplace faster than previously thought",
-      "excerpt": "Artificial intelligence (AI) is growing in popularity in almost everything we see and touch. Now is the time for workers to get ahead and improve their skills to be a valuable commodity within the ...",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/",
-      "originalUrl": "https://nbc-2.com/news/2023/09/14/experts-say-artificial-intelligence-is-coming-into-the-workplace-faster-than-previously-thought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

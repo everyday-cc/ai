@@ -20,19 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Frank Brennan says Indigenous voice to parliament referendum ‘created a hell of a mess’"
-    excerpt: "failing to release draft voice legislation and Anthony Albanese handpicking 21 Indigenous leaders for the government’s referendum working group had harmed constitutional recognition and reconciliation. “What we’ve done is we’ve created a hell of a ..."
-    publishedDateTime: 2023-10-03T01:33:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/frank-brennan-says-indigenous-voice-to-parliament-referendum-created-a-hell-of-a-mess/news-story/09bd96cffab2578ecc081dc63625ed94"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/frank-brennan-says-indigenous-voice-to-parliament-referendum-created-a-hell-of-a-mess/news-story/09bd96cffab2578ecc081dc63625ed94?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/frank-brennan-says-indigenous-voice-to-parliament-referendum-created-a-hell-of-a-mess/news-story/09bd96cffab2578ecc081dc63625ed94?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
-
 secured: "IPYIzwAFfA7koQF8xUHDpJoHPYCMpUfiNYrg9Qzs4ELSEB7TCX4Cs5LdYJOUVRqnwIi0mYYcpbW+Ad4q1YANEfZcmpo6OF5VnMbkl9X1BYWzm85JnTNgIN36Iss639U7w0e624bzBwK0rpa2xVw1DEY8aahOCzOxHPOJXOUJjc8JNjJ5ZbgofBZUllfA/HGJ6hW4t8I5ALRidmsYD1eSXiqhEsU6Ye4nKQuLJUHK/OkP4vg+xu9zg7v/6c4rqEmBRRAeulsmd7to1wtUviPMaT02WSZq3WVUhFthPlc+m0FHF8n+5+faK+GZGiIAMz325oNwuTRC5Gg1xgJ7RZUfiHxPVS78oURxiTQ6mIO3C6TYGQQMVNCLA/ms5BEMUL0sPLrPnpljwKPYtwVSibbSvrPdeGyv1dKzvr0ktNbXCtaPRmIP0ljmhwdzQ30Zq/Dh4hexq7mu8PaRl0iUvZPLhRFvWFTgF50FHZi1/+Q4VSVDKm1uSo0/VoOTooC/y2p6tc6sTIBVpErgkxD++MXfmA==;ZukjCFGvQQ6d+/7oNduK5A=="
 ---
 

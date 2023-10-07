@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
-    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
-    publishedDateTime: 2023-10-05T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
     publishedDateTime: 2023-10-06T11:27:00Z

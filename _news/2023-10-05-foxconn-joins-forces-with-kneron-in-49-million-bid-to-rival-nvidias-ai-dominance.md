@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
-    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
-    publishedDateTime: 2023-10-03T01:46:00Z
-    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "South Korean's chip IP firm challenges Nvidia with cutting-edge NPU IP"
     excerpt: "South Korean semiconductor intellectual property (IP) firm Chips&Media is gearing up for the AI era with its latest semiconductor IP core, designed to capitalize on the burgeoning artificial intelligence landscape and challenge Nvidia's dominance in the AI server market."
     publishedDateTime: 2023-10-05T04:17:00Z

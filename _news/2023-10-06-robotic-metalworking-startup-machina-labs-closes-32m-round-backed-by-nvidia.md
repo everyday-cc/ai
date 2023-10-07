@@ -34,20 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "Prices for Nvidia generative AI chips soar in Japan"
-    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
-    publishedDateTime: 2023-10-03T02:03:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Nvidia Deepens Push Into AWS’ Turf"
     excerpt: "Nvidia’s ambition to compete with Amazon Web Services is growing. Nvidia is best known for designing server chips for artificial intelligence, but it has been running a nascent cloud service for corporate customers that develop AI with those chips."
     publishedDateTime: 2023-10-03T13:00:00Z

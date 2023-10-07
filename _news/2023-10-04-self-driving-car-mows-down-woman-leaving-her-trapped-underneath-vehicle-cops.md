@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "San Francisco Fire Dept.: Woman severely injured after being trapped under self-driving car"
-    excerpt: "A woman suffered major injuries after being run over and pinned under a self-driving car in San Francisco on Monday night, a spokesperson for the fire department said. First responders received a 911 call around 9:35 p.m. reporting a woman trapped underneath an autonomous vehicle on Fifth Street just south of Market Street."
-    publishedDateTime: 2023-10-03T03:07:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/san-francisco-fire-dept-woman-severely-injured-after-being-trapped-under-self-driving-car/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/03/ba65bd1e-591b-40d3-89dd-f99326ef853e/thumbnail/1200x630/ca32f7b684105929590e709bbc390d09/snapshot-10.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "San Francisco FFs rescue woman pinned under self-driving car"
     excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
     publishedDateTime: 2023-10-03T17:53:00Z

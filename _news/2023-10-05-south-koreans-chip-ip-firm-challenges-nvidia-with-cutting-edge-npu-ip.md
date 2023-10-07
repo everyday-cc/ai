@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20231004PD205/south-korea-chip-and
 webUrl: "https://www.digitimes.com/news/a20231004PD205/south-korea-chip-and-media-ai-npu-nvidia.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
-    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
-    publishedDateTime: 2023-10-03T01:46:00Z
-    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
     excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
     publishedDateTime: 2023-10-04T17:25:00Z

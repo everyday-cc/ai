@@ -3,8 +3,8 @@ category: news
 title: "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time"
 excerpt: "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ..."
 publishedDateTime: 2023-09-24T11:13:00Z
-originalUrl: "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html"
-webUrl: "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html"
+originalUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
+webUrl: "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ERT+Etl6ljIA/GZ5TDvegHT1tpaCMMJEIhr2emSr4RruU30GV4Dmwx63F/T38GMgOHYMfXve3dwVUKDO0ZNgfYYLB/bjEF8m7sf5i3itY1uPu/zbSIsxJLoLtYqb1BOIcrIBQ1Cl8Y6CPsF2SwQIsiUE10zXgJ2wkdjjgxzVtpPRJPwJIcLRjw4ex3JlpVVekuXW7ce8sS3KMrlQh34bivsjOjR5fpaMpuO9kxTKJONTQAWy+IBxvXauqHyA9vQfNGsEqy5GQr8DrY0Ttntaly/0lSpWkKbfIoQMT1MqT5u0n29hIzQKcGEAOmaFgBioWiKJAezQluko5wOne8XgReqFKb8EThir89bUIc7yn+I=;M0XVNKlP5D0SHgkrMnAf+g=="
+secured: "XYY1GE2iDOo+FO4XjXiSpjVHz/0XXx+lPGsiGbXeCDNxSZ+8UQP8YEe0BTQMP2f7VUyheGHVKS6ibJI0luMNL8zEqeVb8aooE5tEFi9WaV0ToyweudCfVbWJtTzRu+VxTbUPFFBrs+hHtIiDpYmJtR46fbWVro2j9NUbkIT8szn+r0nVusORPl6zqeJy/P15i4qnqZg9N9tqgmnMtkCUhBtOVN/tFZnjfz51YK26XLDjvF+0yPYC1D5Gl5WXq8eZDM3VLPSm0cNEkDyg4Is6UVR8njgB/OKHOxvy8PLkb3MWkrd55NuYtcvME3DTuRCVs8a4zQFCl18QrPOnNNFix/nQMV3eOYEKq4nYfA2PprY=;gv3vzghXq+mIRePIKfeQ+A=="
 ---
 

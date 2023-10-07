@@ -84,20 +84,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
-    excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
-    publishedDateTime: 2023-10-03T04:38:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/681274"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 7
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "ZVt3K/udUEb8Lcri60EYVH23t+NqsQxIQhTQ/Gt4qymwf8sm0FY4duxYVckaqKvZwyp8q1PO+T3tN9ta55N4FBon4VVKxz7Zt5yhC8IV+k0+ZSq5z4QcTiSVDUhBpQizfHX07gymMLhT/qiOz55ciIirxpio+Ge4pLjPOr7JNKVDRFZGkD2G4Un+K/uODr0nrlFnnRFbpI9RbRGGgttcC5rof7pm/peNhMO5RRi+kQiF9KiwCZa5QCWzO6XvUwL8aDvPMxACwngOnDYmQKXrbAKHf43/Qkqv9d+J42LWhe4u9QbGbN+KJP7kydL5vmlMQ1bA9HWxmw5jA52QjC4EdWSLyrJtSLJEg2C9SIi8jeg=;Qz8lcFJ+ARUP5FnENE1+zA=="
 ---

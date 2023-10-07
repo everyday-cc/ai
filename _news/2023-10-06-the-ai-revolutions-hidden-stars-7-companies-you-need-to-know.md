@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35126850"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35126850"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "Good morning. Taiwanese tech companies aid Huawei’s efforts to build an under-the-radar chip network, the UK Prime Minister under pressure and Jamie Dimon on AI. Here’s what people are talking about. Several Taiwanese technology companies are helping ..."
-    publishedDateTime: 2023-10-03T05:02:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-10-03/stock-markets-today-huawei-chips-sunak-pressure-federal-reserve-jamie-dimon"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 32
 
 secured: "aWsZ4oaYBH+jOhy/CpAtbjE728hyHiYqmNRFFEWp7eblw0r/BPJ3l0ehmo3YXYY9G3JyVD7mhu9pdVy66+ngzqTv7/03tHIliI0Q5vNY+/W8XEkdKy1RaohIVJ5DVOUe70U3uth5kNAOqb/Qg/nPn9mPF90yDYYlEDyjHxduWuGaRtXtQiGnGJSq6IBTyHC9T7YRfkYrAB00NrkGb2kh2j6hQc5wM9vkLSEc8umFVxjh3RSkzZi1kiovP7pnHZNDwqbMTAVe6R3AI6cm9Q8wzSM5JhhMvSvnC/4FM5kPtgV2GirBu/EK9Ycp5swO2Hb5eq0rrYdBZzTr5PXBKM6bGRdtsopXKECiV0tUkShX00M=;fGrHJiXesv9rDQfm2g3tUg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/computing/microsoft-cto-nvidia-rules-a
 webUrl: "https://www.extremetech.com/computing/microsoft-cto-nvidia-rules-ai-but-amd-will-compete-soon"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip"
+    excerpt: "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip."
+    publishedDateTime: 2023-10-07T21:10:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35137068"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 84
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "XxIUDODB4JxJXU+7K+PXGO2wbN+0E8ZWBCKIorr6sC0yP5aYHcUiqlW8049FjU49Qr/NYiHBBDp/LpSqd5RpEIyTTHBVoj2gJNSq8VbTJYh9sDVIxf6Da1zTWdbcNOKzZWvvXPkT4qCifia3+xsdcKfz1yJ+qJQo3j8REMODCxcnbOlBwAnLW2qUExum6JCHazzNWtIsovsAkCVhauevDbcPTKug3xNzwaRxI5AzeIcEaN/sbszww4ciRul0hPTrTMafN2uQGm2rvRxg5dQaTglrPzZ5GjOmlnRO8dPMPjjeWbvSe4FfO+EUw7nu/+qSicKPF6UfxErYN0GtAn/wBN7Rx1DaSQO7kEpuQMyWqLLCXlM3TZZIIfnqoIdwbzxgpY4ZxbNcBvDSaBjC+R0rZXBjIrc+4mrgvs6qfM3PmjcUJeQF9YO/s8ROHGIO0Yql7V/jmWdGxCmEoiBQvUOf17HO6m2M8Y9+Dl7eyl01o8jhlgcD3XCnHJj/PTCozwcHbbbK/pn/JEHmm2B6wLYpIg==;N1wN7Lup5WfbtkxlT248Vw=="
 ---

@@ -151,24 +151,33 @@
     {
       "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
       "title": "Autonomous driving remains a distant reality in Japan",
-      "excerpt": "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times.",
+      "excerpt": "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
-      "originalUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T16:02:00-07:00",
+      "publishedDateTime": "2023-10-01T21:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

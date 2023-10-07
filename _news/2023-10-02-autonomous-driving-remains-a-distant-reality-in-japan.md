@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
-publishedDateTime: 2023-10-01T23:02:00Z
-originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
-webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
+excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
+publishedDateTime: 2023-10-02T04:33:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
 type: article
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
-secured: "+DsFBDyGbMad1HlFRY9mRCPV1sR4U+ipreikxMPKVkBboArZDLpvZFtcs7hmUdZpKrcUUDdsFMefQNM71MEAYGL6Y/wjqWEM/lYafH/z69nUJWHgeLwSjUWBMbGzLnFPB6pwAirKqUoaaZAl2U7fapGOvU+kKIFikalcxveo3OmmKR3QNFPnAwAcMj0QUG5E9YdkAc90kLjo/tcP6M3YCFgn1w7zerBAv86op24hP6YAiGdlsRPlS1HyIzClb7S/NPjTBpOeWf1vqmDo/zM/MudcVdi599gjUFZw7Pq7h2Cty34a7RfsLrPCQ59/ijxrnLK6bp7SNNI6MjnDoB7X3EpKSbv/PHY05W6G+D/JIMpdXzzUFVvnd7x7BOF+JIDB83R6mX9f6iLV91fYZtxfGM6UQKeKSOQ/hbht0UtZOkzGYnw3E82NA9gkKkNWlfz3y2bdkW8fl3pQl/Y2bag0CkauKna2mjMlxzLuA+6jBCladvazZrelCUFl2XSOP+4hUfX5Xesqkc9DIjspMgKCog==;3WPoHaofmwc+TYPxK/bqrw=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg"
+    width: 1240
+    height: 826
+    isCached: true
+
+secured: "EC4MtwmcjSfNJPnV3tohCYMGEoRS2rkR7zHrzKTrAnOANKfH2uwXB1n2Aaq3elj8MOwlVmAcS9rOYfsgD/tPr2M9wzuHV8fAmg7bz9RO93+GQ/NKofI58tqGPNQG2pwm8xsAGC4EiNq4W+iqVfY4qFLxlbG2NkwAwk2oytjtPoHCStpwRvwwmEl4TNeBZhheEtKOpn17sz4ndtbxyKdTHOqEHvQr+Q0HBTJxxVJzylh1p0WiO1BGm9j5NzkcJ+I2Dd+fY63Vl/+fl8291eAzmaBVFhKoP4MCkMkSKJxsakhRa+T1ZFvk7+TIBrTDzOss0Hv81wSfJC4AjQOcZxMGLXgKH1fQBpdrZ/OtHibHw3Y=;AzorD4BJRuu9pyDLk4otmA=="
 ---
 

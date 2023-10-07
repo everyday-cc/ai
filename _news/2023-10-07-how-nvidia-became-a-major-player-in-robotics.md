@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player
 webUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Prices for Nvidia generative AI chips soar in Japan"
-    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
-    publishedDateTime: 2023-10-03T02:03:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Robotic metalworking startup Machina Labs closes $32M round backed by Nvidia"
     excerpt: "Machina Labs Inc., a startup using robots equipped with artificial intelligence to manufacture metal products, today announced that it has raised $32 million in funding. The Series B investment was jointly led by Nvidia Corp."
     publishedDateTime: 2023-10-05T20:27:00Z

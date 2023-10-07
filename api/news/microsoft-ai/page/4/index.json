@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-05-itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management.md",
+      "title": "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management",
+      "excerpt": "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "originalUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
+      "publishedDateTime": "2023-09-04T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-msft-path-or-nvda-which-ai-stock-is-the-most-promising-pick.md",
       "title": "MSFT, PATH, or NVDA: Which AI Stock is the Most Promising Pick?",
       "excerpt": "The tech world has been gripped by the generative artificial intelligence (AI) wave since the success of OpenAI’s ChatGPT sparked interest in",
@@ -1413,50 +1456,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
-      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
-      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "originalUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
-          "width": 799,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34045380",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380",
-      "publishedDateTime": "2023-08-25T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

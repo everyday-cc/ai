@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzer
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItlYjUaH2zC4gnhsi95XtTk69BMPLWbU2PxeCVYucaFMpoJaP8uTsl24V4fwwiXN-j9H4BbudVWD1kuSguaa0CJ8duMwPfz-ABjXiyaKI9PQi0JRLGhbMRGfHc9ItMSUyJl7LRGmgQ01Qmnp8ED8Xxtk-XV9dMAHiSzxiCp4JZ1nC9KTVW-5bsWOFCIs/s16000/Founding%20Team_Ranjith%20Ramachandra%20&%20Ananth%20Shroff.jpeg"
         width: 1600
         height: 1066
-        isCached: true
-  - title: "MADCash, a Malaysia-based Fintech Startup, Secures RM5 Million in Funding to Empower Women Entrepreneurs"
-    excerpt: "a fintech startup focused on providing zerointerest microfunds ... These newly acquired funds will be used to enhance the Company’s online platform using AI technology, cover operational and marketing expenses, and explore expansion opportunities within ..."
-    publishedDateTime: 2023-10-03T04:38:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/681274"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 7
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/10/93bf19c74b3968063828a21aa1b85829.png"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "FGeaou3L5KB2XsfEsqOSI4a4qjD9n8hUlKVxAvylClLYVL9JwkVu/tI4pT832Pa8M7tNhLtJVMgMc4O/xQDpTUQ9hMDD4XrsaB2/GDUmDOWcey7AvNzhDqCfx/fQHRQ2GZG8PlFfcHOUIGpCTfMTdVOBhQN3iLMSZgjqDyZJ/Wn2buHtlccb81uLCV3yD9YcUsXVKbrD3A4z/I3eDoNMXNtpFN8qDlbjYIfayblzPnCx/4xRilu5YIzRRxIG9tfLfRr0oCJH+mOOailgy86SYq7SD+dQQLwLAQ6FH3hnDJ2PK1qTVDtfjtCbGsLBM62+Fbm6m96IVb9/AcCaiKzHSTuYAgBE8cg7vgbyCcZU9ifq+FwGGLtUzKskFnopq5PgGYmve1Ihmr/hMUGX1fatF9zX59yCQIX6leSUjqwjS1hNgHGMFAds6jDDTGgTqifUoB6IpIVSPaca0nexVgYXqn9b81dQLQ/6Mrug5y8FV6Yw97FUPyITaMycRe+RhxUn0FpX7XGMzNrZn2OnHcLTDg==;xKrBTQxcRcFLlwr1WYa1GA=="

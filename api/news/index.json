@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
+      "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
+      "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35137068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068",
+      "publishedDateTime": "2023-10-07T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-generative-ai-unleashed-charting-the-enterprise-future.md",
+      "title": "Generative AI Unleashed: Charting The Enterprise Future",
+      "excerpt": "Generative AI is rapidly emerging and represents a turning point for businesses in nearly every industry. Article offers a blueprint for leaders to ride this wave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6521b9ec75d709eee0dd5adb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/",
+      "publishedDateTime": "2023-10-07T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-asimovs-three-laws-of-robotics-applied-to-ai.md",
+      "title": "Asimov’s Three Laws of Robotics, Applied to AI",
+      "excerpt": "Within the confluence of the modern AI ecosystem, the term \"robot\" feels rather antiquated. Instead, our engagement with AI has expanded our conception from mere physical robots to complex, omnipresent computational algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/AsimovDigital.png.jpg?itok=8eTw2Wef",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
+      "publishedDateTime": "2023-10-07T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-ai-is-going-to-be-challenging-but-robo-calls-and-texts-are-stealing-money-every-day-what-you-need-to-know-to-prevent-fraud.md",
       "title": "AI Is Going To Be Challenging, But Robo-Calls And Texts Are Stealing Money Every Day. What You Need To Know To Prevent Fraud",
       "excerpt": "You can easily watch out for common phone scams like government impersonator scams. If someone calls you out of the blue and asks you to hand over personal information or wire money or pay with a gift card, it’s a scam. That’s always an immediate flare that you’re being targeted.",
@@ -61,7 +200,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1066,142 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-google-picks-start-ups-for-inaugural-ai-accelerator.md",
-      "title": "Google picks start-ups for inaugural AI accelerator",
-      "excerpt": "Google selected 11 African start-ups that are using artificial intelligence (AI) to address Africa's challenges and broader global issues. The cohort is made up of start-ups from South Africa, Kenya, Ghana, Uganda, Nigeria, Ethiopia and Senegal. According to Google, the selected start-ups will undergo a 10-week accelerator journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/G98YdqLGzZdMX2PD",
-      "originalUrl": "https://www.itweb.co.za/content/G98YdqLGzZdMX2PD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/10/for-Startups-Google-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD",
-      "publishedDateTime": "2023-10-06T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house.md",
-      "title": "Now Dine With Robot Waiters As Lucknow Gets Its 1st ‘Robot Restaurant – Yellow House’",
-      "excerpt": "What sets these robo-servers apart is their ability to communicate with diners. When encountering an obstruction, they politely utter “Please excuse me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
-      "originalUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2023/10/robot-restaurant.jpg",
-          "width": 700,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/now-dine-with-robot-waiters-as-lucknow-gets-its-1st-robot-restaurant-yellow-house-6386206/amp/",
-      "publishedDateTime": "2023-10-06T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-how-generative-ai-is-used-to-fight-miscarriages-of-justice-at-the-california-innocence-project.md",
-      "title": "How Generative AI Is Used To Fight Miscarriages Of Justice At The California Innocence Project",
-      "excerpt": "Discover how the California Innocence Project is utilizing groundbreaking generative AI technology to expedite the review of complex legal cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/06/how-generative-ai-is-used-to-fight-miscarriages-of-justice-at-the-california-innocence-project/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/06/how-generative-ai-is-used-to-fight-miscarriages-of-justice-at-the-california-innocence-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651fada175a614819d473dce/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/06/how-generative-ai-is-used-to-fight-miscarriages-of-justice-at-the-california-innocence-project/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/06/how-generative-ai-is-used-to-fight-miscarriages-of-justice-at-the-california-innocence-project/amp/",
-      "publishedDateTime": "2023-10-05T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
