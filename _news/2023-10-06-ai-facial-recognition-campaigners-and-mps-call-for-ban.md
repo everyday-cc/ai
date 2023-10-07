@@ -3,22 +3,18 @@ category: news
 title: "AI facial recognition: Campaigners and MPs call for ban"
 excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
 publishedDateTime: 2023-10-05T23:00:00Z
-originalUrl: "https://www.bbc.com/news/technology-67022005"
-webUrl: "https://www.bbc.com/news/technology-67022005"
-ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
 type: article
-quality: 104
-heat: 254
+quality: 74
+heat: 224
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -231,6 +227,6 @@ related:
       domain: express.co.uk
     quality: 19
 
-secured: "QbjDJ8sc3lxXNH4De0/zLrYPpcAfs6KWE9Onmjw4mbOdWHFK1sRPMLgjQ1BC5+sRG/ipzNah2RTPu6ZBGBRBbnuWGV07u/1wztP70/uniAnU7mt+HG16/3Kd7w/EYFyzosUrv3QII6Spw2dX+TCZu6reYX951OHEDAyr7LMeGo8dCuEFK8QWLtZGWXemRztwrIZVN6uxJJ+GEZYRj2Je5NWeGocJbP9QQJSUJOSPsptwX0xD68Mw/TP1NeiW7THwebXrXCQ31azAp3L2FMLd9eN3hEhAWBoXLHgkrpDUh6fzXQO/a4/ALUMzmdIFfkJznrg8ZVGvay2SZ59Pr/bqZGM1lBsFCdHV6O0Hy7cOE0tCxrE8ZSH3wvqAX8l/br6OBdYWprfCPpHeT96T96q9dF7Be2dnUQrBYu+DFU6Eto5NKICcsirFWXAPM3q8M0VULxqhn6udLMxOVeUBckQ22nXLl+ZdfARx9J7Yz/NIew2l9YBDCP1vxU7UMmufpzHbDBPv0kAcHnkmptKlQbu3ew==;ZmT4veb1UT/u1mNbXoxXLw=="
+secured: "Psh+jBTqtJOVVdoZf+0I8oopnKGfvh4rrEzi1lOgi6nHh25RjjqqpEJU71JO2eODnhacnWfItFQ7IhTdTou9gkRt16kCLITNspt64Wvgyj2EEDr7ceE9BcU4gVVBhLa8cvaEbXgdwQv9wcSBvBV+hFq9jcYVd5R44WP5AbO0QZxbD4drEeV8yii4lLeK8IFu76ThNNDluIG40JdEiYcRp3Mkr79vUqLIDRpD+0KH2hMK+vT0c+gw4rcHdWlVbWsuHJDcebf1jZuVFMyHJZQjv4TdEbNZfRCXmnMrv6PYOULBsdIH11tBBBTvJrLmU82VhyriE7ab699h9/8PtIg8Tjhqemr6soHmDGRaKTBBWlg=;R5tWE2cfnkVqlkE3789bJA=="
 ---
 

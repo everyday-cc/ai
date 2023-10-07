@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA's EU Trouble: European Commission starts investigating GPU-maker’s dominance in AI chips"
-    excerpt: "NVIDIA seems to be in massive in the EU. Given the prowess of its AI chips, it is the most valuable chipmaker in the world. However, it is now under investigation over accusations of abusing its AI-ch"
-    publishedDateTime: 2023-10-02T07:35:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/nvidias-eu-trouble-european-commission-starts-investigating-gpu-makers-dominance-in-ai-chips-13193362.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 77
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/NVIDIA-in-trouble-EU-starts-investigating-GPU-makers-dominance-in-AI-chips.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "European Commission to keep track of AI and semiconductor chips"
-    excerpt: "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies."
-    publishedDateTime: 2023-10-05T05:11:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Prices for Nvidia generative AI chips soar in Japan"
     excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
     publishedDateTime: 2023-10-03T02:03:00Z
@@ -85,6 +53,52 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Better Artificial Intelligence Stock: Nvidia vs. Super Micro Computer"
+    excerpt: "The current market is torn between the believers in artificial intelligence and the skeptics. For the believers, this year's outsize move in AI stocks is just a taste of things to come, given that we are still in the early innings of this technological sea ..."
+    publishedDateTime: 2023-10-02T17:42:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HPE-N/pressreleases/20746253/better-artificial-intelligence-stock-nvidia-vs-super-micro-computer/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 37
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/feccb48a90284c5586254f43568c80a9/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f749407%252fgettyimages-1180684429.jpg%26amp%3Bw%3D700"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Already Partnered With Nvidia and Eli Lilly, Iambic Adds $100M for AI Drug Discovery"
+    excerpt: "In the span of two years, Iambic has developed four AI-discovered molecules, the most advanced of them now on the cusp of Phase 1 testing. To support those programs and develop more of them, the La Jolla, California-based startup has raised $100 million."
+    publishedDateTime: 2023-10-05T00:28:00Z
+    webUrl: "https://medcitynews.com/2023/10/already-partnered-with-nvidia-and-eli-lilly-iambic-adds-100m-for-ai-drug-discovery/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
+    excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
+    publishedDateTime: 2023-10-04T17:25:00Z
+    webUrl: "https://www.benzinga.com/startups/23/10/35094321/foxconn-joins-forces-with-kneron-in-49-million-bid-to-rival-nvidias-ai-dominance"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "NVIDIA, Intel and Google Alums Form Lemurian Labs, Raise $9M for 20X AI Throughput Boost"
+    excerpt: "In addition, the demand has created chip shortages, further halting development, resulting in only a select handful of massively capitalized companies that can afford to run high-end AI models. “AI models have grown in complexity and adoption at a rate ..."
+    publishedDateTime: 2023-10-04T20:44:00Z
+    webUrl: "https://insidehpc.com/2023/10/nvidia-intel-and-google-alums-form-lemurian-labs-raise-9m-for-20x-ai-throughput-boost/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 10
 
 secured: "8Dlq8JcbFa1gv2m42HR/0jSghrIntyokyxG0mpYg1OlG3/CVqrW/7tdk7tQeoK0OOMn/Y7PB5161Q3TRxsmuQCsFqknQnoOxynBzzHa0ZupiyToKOvUJpyEtf03jIUaDr1TEqXzW9bE8wFQ2PHBXUKELeVt/Din8sUI5qLl+jbRRc+YA7XiiVOWA1Gd97g7/rx+wwEwVgbNlPLJWsPHWj8xlmI15M6QPmZ8UDw0Mbwsu/rtqWK65R5wGYQydg0r/M3+05RxXz+tjCrtuSaiLv1KD7lbfYLKHsv0exZS/HtTPaniBvi8Zh26YjD5nKIxP4qWpK/choDOGrziVLxH1Gndm+V1cnRgyHENu9VVK2mg=;aBe9qzARjIqAcOyO4awcNg=="
 ---

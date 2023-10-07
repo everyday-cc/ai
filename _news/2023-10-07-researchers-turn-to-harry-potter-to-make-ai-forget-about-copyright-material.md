@@ -45,6 +45,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Researchers turn to Harry Potter to make AI forget about copyrighted material"
+    excerpt: "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more"
+    publishedDateTime: 2023-10-06T22:21:00Z
+    webUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Researchers develop a way to hear photos using artificial intelligence"
     excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
     publishedDateTime: 2023-10-03T20:45:00Z

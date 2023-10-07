@@ -19,40 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Social media has new moderation problems. This AI startup has a solution"
-    excerpt: "Unitary's AI-based content moderation system could help social media platforms comply with strict new European laws."
-    publishedDateTime: 2023-10-03T09:29:00Z
-    webUrl: "https://thenextweb.com/news/unitary-ai-social-media-content-moderation"
+  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-06T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 73
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design4.jpg&signature=0780397fe23ddbc32f4db7141cc508fb"
-        width: 1280
-        height: 640
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
         isCached: true
-  - title: "The Impact of AI and Machine Learning on Startup Innovation"
-    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
-    publishedDateTime: 2023-10-06T14:57:00Z
-    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
-    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+  - title: "Artificial Intelligence And International Business Decisions"
+    excerpt: "There has been no shortage of predictions about the different consequences of the recent Article Intelligence Boom (AI Boom)."
+    publishedDateTime: 2023-10-06T18:01:00Z
+    webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 56
-  - title: "AI in the Classroom Is a Problem. Professors Are the Solution."
-    excerpt: "We must embrace attention to writing in all fields and at all levels, not just in first-year composition courses."
-    publishedDateTime: 2023-10-03T11:23:00Z
-    webUrl: "https://www.chronicle.com/article/ai-in-the-classroom-is-a-problem-professors-are-the-solution"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI in the telco industry: Three waves of adoption"
+    excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
+    publishedDateTime: 2023-10-03T09:16:00Z
+    webUrl: "https://totaltele.com/generative-ai-in-the-telco-industry-three-waves-of-adoption/"
     type: article
     provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 17
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 39
+    images:
+      - url: "https://totaltele.com/wp-content/uploads/2023/09/zx8pwng2wui-440x264.jpg?crop=1"
+        width: 440
+        height: 264
+        isCached: true
+  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
+    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
+    publishedDateTime: 2023-10-05T05:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "4nxvXJH+hto/uHdb2GG/sf/maesxnydZfvJmyTpk68Y3b3hPJTEAxgPCTwHDK9UT7ht/+iqsEXeaOQT9VFtS4NCRNucOHziWr1MdTkBmHBCWIK8IMeJAzzj5mLI1cLPVCueE2WTSh7nr9G5CU0UnrRhnctOoAI58pEQhDMhxqdEcFkZer+GskeUaBc3K5q/1g4IOSeOWO9hQxZSeJaWfxhXdR91u0KR28zJEeqcEkvuiWOGoAhU+TNS4rZuSYzurPqBufKPy4C/r/c3x3dVQttnTtVVk6MKPkkpa5jk3DJidWKoLkj6tXNKqjIvKDo2QdNdGG+u9b34tS25kEsyC9zj/KBRwAzjnEhFiWeR01IiwyQAOzr8GVk3Rqra6Hmi2ZlKADYmbStiBgAIhtDTCozg/wj4K1vVffbSPy7wHDnJz2z3JFSABYNGB5fqqxcSEFzCUZKnQMYqyd7JZuQmystrjVOgmxkxsNIMVzIe8KmmNhAaJkHohqHpCkJaFMiw2Sg5OFUL4LBS9D97+J421ow==;smPKD53iKnl5iJL7pZDyZA=="
 ---

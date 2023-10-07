@@ -46,21 +46,7 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Start-up developing AI driven ingredients secures £3m investment"
-    excerpt: "Bioengineering firm twig has been awarded £3m in funding to develop sustainable alternatives to ingredients found in everyday consumer items."
-    publishedDateTime: 2023-10-02T08:47:00Z
-    webUrl: "https://www.foodmanufacture.co.uk/Article/AI-start-up-twig-secures-3m-in-funding"
-    type: article
-    provider:
-      name: Food Manufacture
-      domain: foodmanufacture.co.uk
-    quality: 37
-    images:
-      - url: "https://www.foodmanufacture.co.uk/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodmanufacture.co.uk/article/ai-start-up-twig-secures-3m-in-funding/16798496-1-eng-GB/AI-start-up-twig-secures-3m-in-funding.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
-secured: "asyEZpKQL1G4kpsItYWPLhqAH00nmYD7NWAMpcFoi7C5J5EAJ6hZlGzJ8yFeOrcZ/FK2z8XXFLJma9jybGRmZ1ih8hgV2FCiyzGL8USBITnJ7bcfCBaids4oe6IQ0p3hSEw7R3DAr0dZi9NfIfDxyyf6ens5/pVBImJUBWZzVGzzPMWwG2L8IrsK//WtOh+zdD5gmnWwwIHBGsdBvbnoL5Ka6OMtODrsift8ZFjsmL396fHgrD/W7nEcmFkvHx4EzjCIaI9/aG50/jtslrL/usJU2Yc5Rkb6WrBs2yRyC6mmHxvi8Axa1RpYz/7E/M4Ui52McK/oDAyBaEG/MBaGpNc/+3nNonGWk1BxANXLjwE=;VUXM8Jh0IO7rmtdLoPsR3Q=="
+secured: "cvPKE0me/hyYEyR9Z0iAM720f08Kb8pRJe1dGEfjQ7TVoTXgHm3LEyCRYcBF5CMNnHsmf3GRQNjNo2Nc3D4+xWkSasgVtn2whzhyFLQTSB4vq8e/54UzZ9HmurSLg1+bSbgZgyKHR7exp9I3WFS1wYiiBL22qbdyFD23GCmGN7zIfF7HlkXo0m9oHzYU1dLL3y4TO7lTAU7FzenmasvBHOx1JKtXo8ThMG53R/vCkoaPkqgODBvVGEfbkAPi5SHJzCZSfZ3vRKTxmlv+9c20QVeZH9JY9HS9CbNneoIINm9qct2MbLcGIZDATrhY88pir5oHtJz09tEzFmlWInNqsA4jcjKTfccfjpohwDCkmtjpVTKUuMW/r6RyIFcMu11AGBWLhZGlDo+/9C0IzBtQW5WCdZWnH0ijzQzWbTwsjhaeBh6b92E+fchNRWlr9fzGNOOQd3o+ymNyBd8OwgTjAwxGfgr3NJWNtLEczd7AWR4IUI7fZKvFpCwInaEWYBdGPdoRi9sVADrAFUe9aLc0IA==;AEiRMRSDRZjHNbP4OJAhjQ=="
 ---
 

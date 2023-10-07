@@ -7,8 +7,8 @@ originalUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semicond
 webUrl: "https://cointelegraph.com/news/eu-export-controls-ai-tech-semiconductor-chips"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: CoinTelegraph
@@ -25,75 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Commerce’s CHIPS-focused semiconductor tech center expected this fall, Raimondo says"
-    excerpt: "The National Semiconductor Technology Center would be key for semiconductor research and development and could be important for emerging technologies like AI, Commerce’s top official said."
-    publishedDateTime: 2023-10-05T17:04:00Z
-    webUrl: "https://fedscoop.com/commerce-semiconductor-tech-center-expected-in-fall/"
+  - title: "European Commission to keep track of AI and semiconductor chips"
+    excerpt: "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies."
+    publishedDateTime: 2023-10-05T05:11:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 47
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/05/GettyImages-1394012992.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "EU to assess tech security risks and consider controls"
-    excerpt: "The European Union will assess whether semiconductor, artificial intelligence and quantum technologies and biotechnology pose a risk to the bloc's economic security, which could lead to curbs on exports or investments in third countries such as China."
-    publishedDateTime: 2023-10-03T13:43:00Z
-    webUrl: "https://www.aol.com/news/eu-assess-tech-security-risks-134337727.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/ce05e5060ebcb8c18157f29287fea3b4"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "EU to study tech security risks, controls with eye on China"
-    excerpt: "The EU executive says its assessment, to be completed by the end of the year, will not focus on any third countries. The economic security paper does not name China, but talks of partnering with like-minded countries and de-risking, which form part of its policy of reducing reliance on China."
-    publishedDateTime: 2023-10-03T14:45:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/EU-to-study-tech-security-risks-controls-with-eye-on-China2"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 41
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F5%252F9%252F5%252F7%252F46627595-1-eng-GB%252F2023-10-03T115911Z_379944704_RC2YK3AML3IH_RTRMADP_3_EU-EURO_2048x1152.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
-    excerpt: "In 2024, the semiconductor sector faces pivotal shifts as demand for silicon wafers varies and global equipment spending adapts. At the forefront of these changes are innovations in high-performance computing (HPC) and AI server supply chains."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20231003PR200/ai-server-digitimes-automotive-ic-generative-ai-memory-chips.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 40
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231003pr200_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
-    excerpt: "The semiconductor industry, long known for its rapid growth and innovation, encountered unexpected hurdles in 2023. However, Tony Huang highlights the role f generative AI in driving capital expenditure related to data centers. Semiconductor demand for cloud AI is expected to be a major driver of investment in 2024."
-    publishedDateTime: 2023-10-04T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9892918.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/2238663/thumbnail_image001.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Wk6pCgxlO4W/sTCkYSzpB69OIxizzPE45/nhp06PFC4I5sewXFnVq37kYw1D0eAiXfGTJWT7/7F5e7VDe1ABu746yoWWrER0lNp0B6mqYUrKYfEOR31GjXQIrdTzovZchV3G5ldDqDiCuChGParP8mNOmVG0C6a2BLDF4erz7KNIq3NL1BZ93P4A2/KKaTGPEUQfTGPKGgxH78c6raQLxzNAZOI4Y5Sy4nScM9d/BSm304G30bAd1IVfjv07s5QKHf3SNf179eu5424AycPV9senex+DQDJhRY6pq2ZjcBwFFgOhD6HE6GDxn7xBud5uSwYw3n0o5uch6CS4CimUVA2b/JGCgC2HuCuMqhXdBPjjYCalypuxp4OaqKBLtgOb/pw9KOk2Cwh+JPnlYM0TC0cZmSNqix9DnLDrhlL3mWjFsOssOmzVthXp+tZ3det4v5SwAi94Zu8lrBbvAdnZwv7rx1iyFwhSBtmrbgjYdDXJCv4WXv2vw6dIE+bEs/FR9uZRbpRRcV1WwrwTH2CYEw==;8B51HUqtB2acZPN/jhqbUQ=="

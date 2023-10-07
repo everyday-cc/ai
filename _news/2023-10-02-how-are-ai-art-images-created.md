@@ -62,6 +62,17 @@ related:
       name: C4ISRNET
       domain: c4isrnet.com
     quality: 34
+  - title: "AI-generated K-pop groups created by tech companies are ready to take over the world"
+    excerpt: "The K-pop industry is no stranger to pushing the boundaries in music, and now companies are using AI-generated stars to front bands and connect with<a class=\"excerpt-read-more\" href=\" More"
+    publishedDateTime: 2023-10-07T00:49:00Z
+    webUrl: "https://wsvn.com/entertainment/deco-drive/ai-generated-k-pop-groups-created-by-tech-companies-are-ready-to-take-over-the-world/"
+    ampWebUrl: "https://wsvn.com/entertainment/deco-drive/ai-generated-k-pop-groups-created-by-tech-companies-are-ready-to-take-over-the-world/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/entertainment/deco-drive/ai-generated-k-pop-groups-created-by-tech-companies-are-ready-to-take-over-the-world/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 32
 
 secured: "2EwdfJeLY91GqNfnFn+L0KNFw0EDN7Ed9O0uVYOae3bxxcNmrB8PKikplPTNmeYc2q4XFWeSKKrHIL6lEOGLvfXvIALEFGkzcun9wSMOSEoX6leRiYBjyu/HrvWkek3x47/WL8BpJa5LMGZX32zrJ8hXyU84H5ePRId4izoL8xaq3BMAJbAm3mxtTfPK/flQhg1MihwTx6CeqrwFHyMLhTzrNeE3NHDqeaIiSSrmhyVMgPV2qfUMuTN88fuLMmNzC2p4mv7efSmX7oniDv7x4j3KSuma0WoACwxFnjB3Uo6Y6QHmKdY8iIIlAaeeN3OPSe+HF+ufRrQb6lQfFgzSUjSZvJSkzruJ51LgrIHFr0E=;uA4o+ueI1mi+NSlspPHMHQ=="
 ---

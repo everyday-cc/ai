@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/risk/addressing-ai-and-security-challe
 webUrl: "https://www.darkreading.com/risk/addressing-ai-and-security-challenges-with-red-teams-a-google-perspective"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
   - AI in Security
-
-related:
-  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
-    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
-    publishedDateTime: 2023-10-05T05:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "qcr+os2Hq3kKNUM9A7oXXheud4qSHDDAD9ohyG1KeqfrstzICFD0Qxj00KSWc/R0+QdwilmCslo2tkZybdfIAfR+uKUVp8Xn/L+hyQ8j9jcYaT6Zh04HYtn8BB34fij+pxWZpjC0xaEsLmQ7RKclpIC2+ElnQEYP3p3Q6Mz9W5qORMbcju4ealHo78u18C5VoC0VwPZ4xLQkHa2q7sZsGjImOmeO7Fz7ra93Fix/CYjcaxrszt6dlDSpl6SvYW6mTbX6zg4ucvGPJlELJpnryEU3ULwtU/gcDy61QD6oJEC+XrjPGlgka/y+npy4lr1VdM57zPIAATWwT6njdGXQsHeWyHbN7AYex+s7FI2nDT5E7hEj7d4/aV5kfnYlyr7lkotH9lS7Ma838ZqGYliL8KHw5QilITdE8O42qV5s3nopdWglIOt+4eBU7UuoAo464VieFfrsSzjiqazet0Zhz0MIEZZtffrzVT7ZZfF9em8fyS+xlSV7wEcfL/7ErXrmRhPUKUiz41ii1S+wi066xA==;667mBVQ5IY8KCeuFmqsBGg=="
 ---

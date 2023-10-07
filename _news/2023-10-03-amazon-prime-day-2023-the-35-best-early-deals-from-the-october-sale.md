@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Amazon Prime Day 2023 - the 40+ best early deals from the October sale"
+    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
+    publishedDateTime: 2023-10-05T13:32:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3HsNaqEzHw0igpeV0xxUxgWfGcsU/VdAk1/9lE6zbSjLGQhUk8RZ0qooAGNBu5MRWftDpK9ABWVfZlNnMiZ6/eMKcO8e+zeqlXIJ3klAxoqWSu4rh8//P4q7jCD4QviYVbkRlr4fnTj5Cq0LjJP51TZFAJ63H04GzZP2l51WrPenhy0DuG25V4YmVOseBwUPaUFz3s98fK+uFy7ZphARG59io214rjZzLNzkDqW3L7QA5XDrNt9SjW2M6hcKzvP+FFGccq7HmUPslx2L2WvGtHLoxLnnw+fg+vRhL71oB8DPbOPjGlbbafpPLa/LOhHfq0x3ACASvm15eBKSClNJbqHjhIAEldJ2NDaSRZsSPEM=;Aj8O8J/YdJRHw/Y7DY0tKg=="
 ---

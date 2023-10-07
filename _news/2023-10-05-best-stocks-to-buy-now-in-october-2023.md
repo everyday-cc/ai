@@ -48,15 +48,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Best AI ETFs in October 2023"
-    excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
-    publishedDateTime: 2023-10-02T08:31:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 19
   - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at AUSA 2023 on October 9-11"
     excerpt: "One Stop Systems, Inc. (Nasdaq: OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at the Association of the United States Army (AUSA) Annual Meeting,"
     publishedDateTime: 2023-10-05T12:40:00Z

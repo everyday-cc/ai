@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-art
 webUrl: "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 2121
     height: 1414
     isCached: true
+
+related:
+  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Hedge Funds"
+    excerpt: "In this article, we will take a glance at the five best artificial intelligence (AI) stocks to acquire according to hedge funds."
+    publishedDateTime: 2023-10-06T18:02:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-hedge-funds-2-1197508/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 50
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/11074438/kaleidico-3V8xo5Gbusk-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "vAKUNu/EDJdBN4L3kJsoB52FQsvE/ZczCSJi7JoCtHlulahXifzUtCNyW+juPSCj/HPlURAYDgbpOZ3vW6Hdg8yOdAqDNIBx3iEaAzULg5YJ8tsAqYwMVVOVNFdkMsaJXQBP+Nk9qDKv51PJ4xl+dIQxZJW9Iq9ctk1cDZ0R2TplEBe4wSdiM/vNamEUl4KL/mtmxIDTJqzwqPd0rSZvyL+m3hii40dJuS66sQEJBj+3TV1UBHijTcrtLeP2Oumn9sSgbz1PoBxraMRRz/TYu/ZJau0sGAOy3xUPvpBzQUHRiqaTavgB3GT4bw97Xm/vYgStCOHtXn3bGNA/+jz9AQwqYZU0E6BmJIw+QYdHsqg=;qgS54bmj0Ug5Id1TobyGjg=="
 ---

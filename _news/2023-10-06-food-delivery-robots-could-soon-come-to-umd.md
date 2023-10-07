@@ -2,9 +2,9 @@
 category: news
 title: "Food delivery robots could soon come to UMD"
 excerpt: "If Starship establishes a partnership with this university, the robot would deliver food ordered by students via the GrubHub app."
-publishedDateTime: 2023-10-06T08:04:00Z
-originalUrl: "https://dbknews.com/2023/10/06/food-delivery-robots/"
-webUrl: "https://dbknews.com/2023/10/06/food-delivery-robots/"
+publishedDateTime: 2023-10-06T08:13:00Z
+originalUrl: "https://dbknews.com/2023/10/06/umd-campus-food-delivery-robots/"
+webUrl: "https://dbknews.com/2023/10/06/umd-campus-food-delivery-robots/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 1707
     isCached: true
 
-secured: "lQ/FSfTaIwsPLyFXi6yzaNigfU4DxOaTC5kXd5WMQjsBW/AHTKi6re5/2IaJeXXKFxCZBHGYfTdnBY0LRpNf1S8kRcCUiKNLzILqivdUJJPV6SX/FCv4RBYUUHLbnUbJViaLfb+BfwJFkwWK/HIdD46LXmXTj3vwoXh8iFAdfYm9tcKT7JvXTDH8XbFD3KJsTRyVRJQo/Qd0qmopl3UE3V+9Ndc0fg/3HUnYTo0JiEYxgfxa4S0SKdf0d/X5ZC1oXXUIL3VvoZ1NXl79AQORRzjszJ/9iy93+knwKrJTfVq9uHD26LC4dX0K+RYhX5dGL2OH1JW0cNbsDHi4MeBigjiAYs7FtBRXSj5UOel655HlyC7Qfixq53dicA7y4Nu5Zl4h9KnGI1KDSsHuDDnlXWpLAixlg5+HlXnlZzboihiPYBZI498wLPsPsnOOCvLKaUzYggCPCKWT7uGoVElNZKRPCO21B4bLxeSGfSSagjNWCOU/PtJ7RlAQNIML77owtmi+6QzufptLxcrPDMxWEA==;8lRFVj8I0JAVTbK+y9oDIg=="
+secured: "9/LiaQ/DGId48uhwoCkJtaBcMCIX5YEY2Q0jRpbV75t4j/IGgbxpaAQl3C/tVkhN1U1neJvvv0a/3L0YhS/VUnTCC+i4LLuTYLrbWu6ZAUvz3QmjVv/RsoRS4F7Fto/r5B09fE07rmDf+0tGBCZ58A95N15GUkJvyZU4/VRHE1Wkx4P0F/El/7LNgNoESXBm/UDo1FZfpKN4VCB6jorlSttNqWkziyDJcz6ztCwT0cAEjykGRxtpKReQTf7vINYTAnUg9eC/HyQDwCEh0fSwUNtBF4AJKhj/IGwcZhmn2wvh7p6o3t+sMuTO/H2uyh6quqXQ82WOLvpJrFH3wSUhxT6HKYvas0NFf9b4ZUnqFwo=;EwVBGOjMRKc+/JdXVc6o2A=="
 ---
 

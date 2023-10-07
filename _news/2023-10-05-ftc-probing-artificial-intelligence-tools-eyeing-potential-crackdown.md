@@ -38,6 +38,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
 
 secured: "PoYDTAM3378PlofKIZuzElRgAyOfOL6qeERKx8lZIEQ4zQsAH/pwCiL9zuf15Aby7INijKBmHksJB/kWZ6VnZ7XFtz8PI4LJGRFPxyOuIneUg++xM+RjoE3EgfGE5pv9vHQdrbtUMeXeVbHQDZH8oDCqRSHDnZiGf74Ag4M5pEsW9Q4eMSblEi4K+pbmhI8PK68kExajTBogyc2KJgTMJ0jGR7s17gGI5VLD8LNlaaJ74Cfwy7UBecmLmaTElBnjtEMtnCbxOMcLmRAnk7OqeBtxIqpGxMF+nIRMKhcMjk1IFr0KoZ6gNhlnSEhmP+QV9xWe/7dnsErD6rS4QUKhFg8fS8EfRqzudw1Zs+SVh3e1wyKMCLyeaQWBI3gwOBFijUBMQhhJaqh4fwr6PzVxwJPLgvvPSnG/peTnGvuOCEfEC9j1hApq8U2WeYzi1AmhWh8cNj8KFOuNqCls2xebNTxQcYqXdMh+DJDAMWoJnzbHOsCPfek7pNLA76i8Dw/wZlPWT2SQ2qmS3oVu6a9OSA==;e1k0dtornMCIkdUW3zCfqA=="
 ---

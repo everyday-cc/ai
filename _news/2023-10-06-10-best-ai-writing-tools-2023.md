@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 type: article
 quality: 69
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
   - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
     excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
     publishedDateTime: 2023-10-05T16:53:00Z

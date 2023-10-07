@@ -68,6 +68,31 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
+    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
+    publishedDateTime: 2023-10-02T17:20:00Z
+    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
+    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
+    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
+    publishedDateTime: 2023-10-04T15:41:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z
@@ -114,15 +139,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Opsera raises $12M to introduce generative AI DevOps features"
-    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
-    publishedDateTime: 2023-10-05T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "DlUDT0WXLm0os74EGjP6TaWUJeuK9xnGXLHljdfQgaEj3YuljA538IMuP1KJ8/UmpRbXLLywK5wyuCKPXIdrFlxP1nfRcd3rk+9m2N0YIV/VIR8LQJ4Kw+UhtVSaKzmhWHH/fSDK2HogQHDzxVtbjGReyIma/5gBbcdjSZahwqo+dqoesQ//jCITo2V9ey8UIamzL7PxhItXNMiCVvd4HbtNV0VQUS+YOro4W6yPSu5PR4rDlYxLlCHFmExW+71bIFpleLa5Px2SbfHHG3b2yVtW74O0puLFuqEZSl9j7skMmb5rdxJ4CsXqv31pY4m18rTdtzL8c0YEfH82MqEDsPKmCxYw1/6xL3cpfKYE7TQ=;RjbM5ry75rvC4oO35e4PMw=="
 ---

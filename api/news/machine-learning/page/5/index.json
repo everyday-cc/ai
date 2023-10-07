@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-22-alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year.md",
+      "title": "Alibaba Cloud Named a Challenger in Gartner® Magic Quadrant™ for Cloud AI Developer Services for Second Consecutive Year",
+      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year’s Gartner® Magic Quadrant™ for Cloud AI Developer Services (CAIDS) for the second consecutive year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
+      "originalUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lionheartv.net/wp-content/uploads/2023/08/Alibaba-Cloud-1.jpg",
+          "width": 1500,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LionhearTV",
+        "domain": "lionheartv.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-why-ai-is-on-the-edge.md",
       "title": "Why AI Is On The ‘Edge’",
       "excerpt": "It might be possible to find an enterprise technology vendor that isn’t currently extending its core platform with new strains of generative Artificial Intelligence ... delivering Deep Learning (DL) and neural network intelligence for users to quiz ...",
@@ -1286,59 +1329,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-to-navigate-the-age-of-ai-the-world-needs-a-new-turing-test.md",
-      "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
-      "excerpt": "There was a time in the not too distant past—say, nine months ago—when the Turing test seemed like a pretty stringent detector of machine intelligence. Chances are you’re familiar with how it works: Human judges hold text conversations with two hidden interlocutors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "originalUrl": "https://www.wired.com/story/ai-new-turing-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d3d7869ec11a2433532db5/191:100/w_1280,c_limit/Humanizing-AI-Mente_cuerpo-feature.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

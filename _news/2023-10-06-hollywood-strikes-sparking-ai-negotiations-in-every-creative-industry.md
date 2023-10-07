@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI + the Health Care Industry: Ethical Considerations"
+    excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
+    publishedDateTime: 2023-10-06T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-the-health-care-industry-ethical-5336675/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Editorial: The Hollywood writers negotiated a sensible approach to AI. Other humans should pay attention."
     excerpt: "And unlikely as it sounds, the recently concluded Hollywood writers’ strike could come to the rescue of those jobs by establishing new and exportable guidelines that ensure people have a say in how AI is used."
     publishedDateTime: 2023-10-02T10:00:00Z
@@ -72,6 +86,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "mRN4TLSSfRKUbbDmVZNIsgnGFyXHsxUSdtaPT8ZdulMZ80RxgJ+VkxaTUy1jkVaIzslj8NA4c6VI12uJZzawD6D8MdOkjOjo5wTYiwoUA/Q/e3v+VfZpab5oh/3e6fumlkeVl5vanZPi43PgZ4PtcGhHONGvAKUQnQkL1/jQyz2sQKhu+0ytljLtLw76Q/K7i8HPhOkJNhJow1229YNCtIAinaa5uRdrGDf+YXoAqgWumaxqpXTM4BVaveTHYCKBay+UqjdhmZ3y/xORK5Id3Sp+Ih8MMZpgEbEmlfFhlpYTa+s+p+UsVDcsIN9ft6efdiE1KosNrnhulJNg9kmODHIQo4Dp/d83dJfBoXSoUjg=;KF/hqRY42sV+tbNJUgKYkQ=="
 ---

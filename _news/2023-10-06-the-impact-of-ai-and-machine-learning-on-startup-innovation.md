@@ -36,15 +36,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Insights and workflow automation dominate AI solutions"
-    excerpt: "Over 40 technology leaders discussed their recent accomplishments and plans for the future, and nearly all of them involved AI in some form, mostly for insights and workflow automation."
-    publishedDateTime: 2023-10-02T19:30:00Z
-    webUrl: "https://www.accountingtoday.com/news/insights-and-workflow-automation-dominate-recent-and-planned-ai-solutions"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
   - title: "AI in the Classroom Is a Problem. Professors Are the Solution."
     excerpt: "We must embrace attention to writing in all fields and at all levels, not just in first-year composition courses."
     publishedDateTime: 2023-10-03T11:23:00Z

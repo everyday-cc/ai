@@ -68,6 +68,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI + the Health Care Industry: Ethical Considerations"
+    excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
+    publishedDateTime: 2023-10-06T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-the-health-care-industry-ethical-5336675/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "GkymAZdeKgTYHfxZMHNAwlJhodbsWj2Ti0E28UB38841mK5g8BxezGb41sBnCKAtcP/MgNvw9jEjNw6aRaq4h8cGFFgwPIWQoymTEoBh0o1fCnHhPuKAc7PTzB6W/ul44oMlksjm+Fv944vVHsx65U0gLgwsseofq3XgmtkvUmrSTlfM36VTcn15gCxxKBJGv3/WphCAkE/kVQ5kPVjkSX1bg9pn8ttEd/RSCcRUXHxv/vXtYTlYje7PKbZfB2BtnT3/qLEeYRxhWbZfgcvsNIN0Ln/lzdGKuH5Q1i4bhaRulxfzAQE2uhuc6SLzDfWprk7EGU66n+j4tO1c5JHKzn73xga1kAkUJfmY0jqg8yw=;1rJRC1agdt2TAUJxf35Zxw=="
 ---

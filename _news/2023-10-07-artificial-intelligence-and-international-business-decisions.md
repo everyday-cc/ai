@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-
 webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,20 +22,52 @@ topics:
   - AI
 
 related:
-  - title: "CISOs push for baseline AI business rules"
-    excerpt: "Key terms include keeping a register of AI projects and restricting consumer-grade AI tools, say panelists from Cybersecurity Collaborative peer group."
-    publishedDateTime: 2023-10-02T20:48:00Z
-    webUrl: "https://www.scmagazine.com/news/cisos-push-for-baseline-ai-business-rules"
+  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-06T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 73
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
+  - title: "Generative AI in the telco industry: Three waves of adoption"
+    excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
+    publishedDateTime: 2023-10-03T09:16:00Z
+    webUrl: "https://totaltele.com/generative-ai-in-the-telco-industry-three-waves-of-adoption/"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
     quality: 39
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/10/CISOs-at-InfoSec-World-2023-talk-AI.jpg"
-        width: 800
-        height: 450
+      - url: "https://totaltele.com/wp-content/uploads/2023/09/zx8pwng2wui-440x264.jpg?crop=1"
+        width: 440
+        height: 264
         isCached: true
+  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
+    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
+    publishedDateTime: 2023-10-05T05:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+  - title: "Insights and workflow automation dominate AI solutions"
+    excerpt: "Over 40 technology leaders discussed their recent accomplishments and plans for the future, and nearly all of them involved AI in some form, mostly for insights and workflow automation."
+    publishedDateTime: 2023-10-02T19:30:00Z
+    webUrl: "https://www.accountingtoday.com/news/insights-and-workflow-automation-dominate-recent-and-planned-ai-solutions"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
 secured: "ESrIjBURnWMvVX1AUkpo0KRiGl6DSPIbNqZQE1Ghm1aXDS7rZgJRZaZreA6zpGkptIGl4KsSP2eG3VGos0OoKla8PkWqZqzRIW2ha4Vs2KY49Vow4jwT+cRlGzlZ18jdmsc3vcn8PdIt6EjZ/2V3SEwAOOE/9LN7+zIbqV6N1r6RYjRRFB144UqrrsC0GZ8CcsnAanpljqthRhBADPmzXtnmAV2/6PuF3zXLEUvRGgkjnut/4w5j8SbDFQLZiUrIziX/1ZDqshTp+5dQixtr6ddKPy8S9UvbO1YbMafCWJ71nE/oGMnwyvtLFAQ5KuKwhdXfYupgxWzwyNnjgBgOgIk0MhZjSFgzEkKitynmxjD2U9t3e6f/9YjMP4bDVEjpYB51VU4YwFYXeaDN03y6czcnsVViEEsA7Z4KctcumX2KEvG1Rqyqlg7D1k77RjY2yB0qSUphI5S2k8ZODE+nW45Ek/EKUdevcquYlwvIm5tN/pe5jeqkQunKoDa+mjkTmNxFltSTe2hq+WYlQvlnKg==;PsRLarLHOrMUx6WYcH7a1A=="
 ---

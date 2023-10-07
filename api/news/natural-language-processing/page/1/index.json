@@ -10,7 +10,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -347,6 +347,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-natural-language-processing-northern-europe.md",
+      "title": "Natural Language Processing - Northern Europe",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.96bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.22%, resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/northern-europe",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/northern-europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1342,58 +1385,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-oracle-unveils-its-api-led-generative-ai-service-with-coheres-llms.md",
-      "title": "Oracle unveils its API-led generative AI service with Cohere’s LLMs",
-      "excerpt": "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
-      "originalUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/ocw-crowd2-100946179-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706878/oracle-unveils-its-api-led-generative-ai-service-with-cohere-s-llms.amp.html",
-      "publishedDateTime": "2023-09-20T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

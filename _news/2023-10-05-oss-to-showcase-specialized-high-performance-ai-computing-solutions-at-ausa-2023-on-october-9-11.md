@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best AI ETFs in October 2023"
-    excerpt: "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ..."
-    publishedDateTime: 2023-10-02T08:31:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 19
 
 secured: "bUt2UkyfC0bp91skgNlC65qNOJri58hrkQbVkuZSjWRPXr029RbySCNknpKJMUFlPnaqt+/UnnRTYpiM80F3Y8MU0Qa1SW/i1xB9Qid2w5vNIL6P6zc/XQ2tTp9CGrHnosl2yjbCCjKXsVij69rPBlYOpp4MoJJp1BRhQVIihKcPYUKHG4Qb9H7aq+eNcbIRISX3erzTUTzqa+LSyGiWryz8SxPf0dv7ZChqX9naOaUWMiS6QZafF/Yp2ZGO8QSRQVmNjjaI4O4HgOM+liG+UuArhFz9jwaWstJQkZiSKplP3/vqMZBYjqEyg5Lsyb/Dj7rNaMnDgK4+LfAMdmabVVmJpO/8Z/muGp49ILUy5gdDbZ7ocRB5ttb6gdJR7JyAjRrk/xsdBwpDFJWdYOjUJc+LGFmum/VukgthVZonhcGm7dWOaQSqRIbpAX3kU6+0SqieDsyLfKMo2vGqUE2qfalfcr+6817KZujqWn9tEa9tRbu/Yp/VBsdktpYRH0DTT2Rc9iqVaCwgEicG5ln9Gw==;ZwxhTAnh4Xh/tBVFN5kvxA=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 270
         height: 203
         isCached: true
+  - title: "AI + the Health Care Industry: Ethical Considerations"
+    excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
+    publishedDateTime: 2023-10-06T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ai-the-health-care-industry-ethical-5336675/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 54
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Editorial: The Hollywood writers negotiated a sensible approach to AI. Other humans should pay attention."
     excerpt: "And unlikely as it sounds, the recently concluded Hollywood writers’ strike could come to the rescue of those jobs by establishing new and exportable guidelines that ensure people have a say in how AI is used."
     publishedDateTime: 2023-10-02T10:00:00Z
@@ -69,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "wCCpNKDJogWlcpgSYp+76tbXdpOeA5O+oycyXnzbe7lIk+TM32IthyrxIavN39zBjYNx2BlITIsR8ooex2Qb5V/wpMQmWmd13gELLpxfprjy/lBuAs9qqOtaCd9//RElLBvO1Kj0BkWZdDUKu776poJc6a1hgdPTPqDslJlJn9Q3smvZgrvyk5yJiH3c/usbsR474ELwNEMC3kht/g6nvOiCt6vR0FgB2DG53wQeGt45zAvjusvVfrhXCrumwNdCStJXL8AFf2Libn7+UbfLr0EAa8Ti6fBeoCfGdyOfAgtP3joY0F3y/DSB/Edh0w+07nbqnSciQzFl0w/VYLb0VV/lwZbe7WlzgE1RBuo3zEU=;f7lYeLfZqK7fKnVtpcpEPA=="
 ---

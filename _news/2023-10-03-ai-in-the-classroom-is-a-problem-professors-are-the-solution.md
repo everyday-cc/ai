@@ -43,15 +43,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 56
-  - title: "Insights and workflow automation dominate AI solutions"
-    excerpt: "Over 40 technology leaders discussed their recent accomplishments and plans for the future, and nearly all of them involved AI in some form, mostly for insights and workflow automation."
-    publishedDateTime: 2023-10-02T19:30:00Z
-    webUrl: "https://www.accountingtoday.com/news/insights-and-workflow-automation-dominate-recent-and-planned-ai-solutions"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
 
 secured: "sxa3SA7Ahnqn+pEHyAR5kyXm8IYE2XDqrh8DrSGat5e0EqCo9YNc8t2WuTOjQUO57N1kXpC/rdtdtRcg/vyPYlBbn9oDujvE6p0TVeGhIc6aUOI66aX2oKEascHYH5TOr+IzGhVfY4bdHY/lF451LFoqThUYK8wZQDS6IDJbP/bFvUz/MV5wCZfJWZ4EItc67aRXnno1llzG3ligKOLau+3qOxacTHiy1l4HaKA8hTzg6t+ryb0jAjANEn6xp/09epsvcNDaAu70ftiX5JBeObkfX6NKb9SCwcTUBcXryiViT2kOZkKsvH/Co3+LlhWCBrVXXDUWGMqNQ6obDrJY4yKCvfrSh0wpDQiKX3Gf0xY=;wgWhUJdjid4WtpQHoLESxA=="
 ---
