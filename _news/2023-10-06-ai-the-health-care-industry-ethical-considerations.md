@@ -55,20 +55,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning"
-    excerpt: "Performers have warned that AI “clones” – digital doubles that could give performances on a computer that no actor ever actually did – could prove disastrous for the profession. Additional concerns have centered on the use of pre-existing footage to train AI software, which relies on vast troves of prior data to generate new content."
-    publishedDateTime: 2023-10-03T00:17:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/oct/02/tom-hanks-disavows-ai-clone-amid-hollywoods-robot-/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 54
-    images:
-      - url: "https://thumb.spokesman.com/20XXDn7DYkwHouvlbZh7VIGqAMQ=/1200x630/smart/media.spokesman.com/photos/2023/10/02/651b50e499e78.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fzHdQod+e2p6uOHyfXocB8qNDtVTBXm71Ay8mBVnpc7JlGA0y7oltNzJAvC++MQ4orwcDeqwJQS0qxHKc3eRg0iUfbpxMNXlcRUBvmK3IeU/7wm6FcjGaHs+uscB7Zec44xXrS2CmGuGyQjPaIpUXR/q9sjzELVM1aE70UOERGYMLmh39lRlsxuyvqv69RglFu40VzkdC4bPGxw36Kb7xuUeFEe54c6GC+u8S043OWTAFqkuwFhlw6Cyq74aWB74l0xt5E/raCQB0thpQ5vlMxhDKEKNccKf2lsPnAeGyGzxQ2wnk0sv44QN5MtCPBg2kKSnxBtbuVMnrrBkxyodFceM3xKuvkTMnd2qrx7zfRk=;LRjstu9z98lxn/QH7fX62w=="
 ---

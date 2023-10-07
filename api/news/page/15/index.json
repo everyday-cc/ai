@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-24-part-5-artificial-intelligence-is-here-to-help-in-healthcare-but-it-might-take-some-time.md",
+      "title": "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time",
+      "excerpt": "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html",
+      "originalUrl": "https://www.aol.com/part-5-artificial-intelligence-help-082510629.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization.md",
       "title": "How To Approach AI Adoption Ethically And Responsibly Within Your Organization",
       "excerpt": "The widespread integration of artificial intelligence technology has raised ethics questions. To avoid the challenges companies like Facebook and Google face, leaders must ensure responsible AI adoption.",
@@ -1157,49 +1200,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-cognitive-computing-market-earned-usd-269-billion-in-2021-and-to-reach-usd-2000-billion-in-2029-exhibiting-at-a-cagr-of-285-size-forecast.md",
-      "title": "Cognitive Computing Market earned USD 26.9 billion in 2021, and to reach USD 200.0 billion in 2029, exhibiting at a CAGR of 28.5% | Size & Forecast",
-      "excerpt": "Major market players such as IBM Corporation, and Microsoft Corporation are accepting cognitive services to develop security, customer experiences in payment functions, transparency, and others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34827673/cognitive-computing-market-earned-usd-26-9-billion-in-2021-and-to-reach-usd-200-0-billion-in-2029-e",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34827673/cognitive-computing-market-earned-usd-26-9-billion-in-2021-and-to-reach-usd-200-0-billion-in-2029-e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
