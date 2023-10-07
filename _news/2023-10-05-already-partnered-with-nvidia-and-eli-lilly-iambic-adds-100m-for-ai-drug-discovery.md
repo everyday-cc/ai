@@ -66,20 +66,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Nvidia vs. Super Micro Computer"
-    excerpt: "The current market is torn between the believers in artificial intelligence and the skeptics. For the believers, this year's outsize move in AI stocks is just a taste of things to come, given that we are still in the early innings of this technological sea ..."
-    publishedDateTime: 2023-10-02T17:42:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HPE-N/pressreleases/20746253/better-artificial-intelligence-stock-nvidia-vs-super-micro-computer/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 37
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/feccb48a90284c5586254f43568c80a9/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f749407%252fgettyimages-1180684429.jpg%26amp%3Bw%3D700"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
     excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
     publishedDateTime: 2023-10-04T17:25:00Z

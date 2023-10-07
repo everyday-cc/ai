@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/how-seti-astronomers-are-using-ai-to
 webUrl: "https://www.thedailybeast.com/how-seti-astronomers-are-using-ai-to-finally-find-et"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,29 @@ images:
     isCached: true
 
 related:
+  - title: "Meta’s AI stickers are here and already causing controversy"
+    excerpt: "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more."
+    publishedDateTime: 2023-10-04T09:23:00Z
+    webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Former Google and Meta Engineers Announce AI Startup"
+    excerpt: "Software engineer David Petrou along with his team of former colleagues have announced an AI start up named Continua."
+    publishedDateTime: 2023-10-06T11:52:00Z
+    webUrl: "https://analyticsindiamag.com/former-google-and-meta-engineers-announce-ai-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
   - title: "AI is already helping astronomers make incredible discoveries. Here's how"
     excerpt: "Astronomers can also use AI to remove the optical interference created by Earth's atmosphere from images of space taken by ground-based telescopes. AI has even been proposed to help us spot signatures of life on Mars, understand why the sun's corona is so hot, or reveal the ages of stars."
     publishedDateTime: 2023-10-04T18:59:00Z

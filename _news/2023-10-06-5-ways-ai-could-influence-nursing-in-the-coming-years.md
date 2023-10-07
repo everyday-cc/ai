@@ -2,17 +2,17 @@
 category: news
 title: "5 ways AI could influence nursing in the coming years"
 excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-publishedDateTime: 2023-10-06T14:11:00Z
-originalUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
-webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
+publishedDateTime: 2023-10-06T13:11:00Z
+originalUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
@@ -112,6 +112,6 @@ related:
       domain: businesstimes.com.sg
     quality: 34
 
-secured: "rI8Zi8Z5/NkdWeyGo4RGXJ+hSm9JURcryH0Ihw9O/6Mi2ybwYpwuXE/9FrLaDk0aftwsKL3DrN6oPPGmbIp7mlatEsA4d1BA/F8Z0df8FPIXUxkaL3SoIq7CIdm3RJdw/gRMm8YvjM2ZCqg8K7TxVL1TnADuO7ITbKYIxVZKn7a7P7EpE6Kug57H9kxQUobKNwZah66YWNJP2eaXHr9yiYyWGQB9dto3Lmyp/jsuMA/iICicLlQ1EMiUR+3L3R0BSGPFGiDbz6IRAEImK2tGL1eQVFcHpB3nnKmL4VKu5mTZyCVLkyubN5Jl/zWWYUcavxalRepJkyaTSX17Y8Ni7TnzfGnLhCMR+hEGslWyEGupWye2XIsfsk0kSuPJUemOYnOvfmFLHyIi5s39g/eJbdvoedpFzwT7EEknHGpecLQcPrUlbvlEPZHNMQaNf9Lu2/9m6F07gskJm47g5pazS28uhxr7RcNbgSmX9PMqxmgsekInQxfDmeyegazgwaFbdYTxvtSrPXMKSgWuWS9EWA==;3TN778VZrM+Jmuxy3t9rVg=="
+secured: "XdOjKdpo3NNMyp9x657F7h2QSxuRM4cWq0Vh5dtHRhzccjc37ZPgD8CXx1CrOHQk4JhhwTf4pwPlW12SxV9bwn0YBRtb0fMwujF1/Ib1KGyACbJ40vUoa4qJ0EiARwQ6iOS69ZhbB2M6qydYqGxWy3AVZFlzAjYYxxpu9XG18hNtDxpqM5go7LP13S1+T1KHvpJXlNE/Gb0lMHgCa0NhoIJNIL5vWdzGTrJYsOQ5cj62BtOAwQfNHgDJhs0qQ5qOsfoxVzNw64mfHfXZTaaKcpyQomsop8g2Zx4USN/lTrNG5myF6VdJuu4eoHsMRB5evH5APXSvOfMX6tHt+Fnrn4dbz4pT4tQMhMyLaOki/+vNiEv6EeYMMzKcNJgcG+Wzwm2n/zfzmW6zBZJEOuPfRH5wEhuqK7s9wwhuow0hZRAOtzTXJkhosrY9EczXMSWFAyTEsklEf7teDoxoPq4M40laxFnh1krA2fQITWMVkA1pUqQT+y0mVXpU/G3seNsh1WG9e23EdlGR95lszuD+yw==;9sBcE0w+fIMyyevaTibiVg=="
 ---
 

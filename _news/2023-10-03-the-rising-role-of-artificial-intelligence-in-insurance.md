@@ -105,12 +105,12 @@ related:
     quality: 34
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-06T14:11:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
+    publishedDateTime: 2023-10-06T13:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 19
 
 secured: "W2Tm1DlJnBKkc6LKzQNL0uXLhCr3iWrJ/f6jp55gjIGd7PJijQUEdCf5H/QqDzRSlECKAasY7A/3GoIO4rkmPgEvZflugv+KXxuyzJsD97ApW23UESth1NW/p3IlqrFFkVZuLnKFBEHjguV9ktLdW+tOv9vEa9MUV601KPeJOqQL8gEDP4MX2Ts9tkitGgKt0SC26v+Ghcvh5YqinZtg/5NQTfnUpQAD0lhveAg1KOpby/K3gP2qd+cingYPmD/Hshq6rS5sGa/HBko3d/XCM+fJFicDpS7wg7jRiZpPVaZFlreDDoE5uUOSZyBskemg1fjxkP6OGaR0ZYwwBlf2f2AS5smb2tNZM2nHizPKEI8=;pPzyd6ZvIg7+2X19j84HyQ=="

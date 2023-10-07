@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/07/263945-renewable-energy-reuters1.jpg?itok=N68yJwN0"
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/07/263969-amazonzeon.jpg?itok=Kqmg9odf"
     width: 700
     height: 394
     isCached: true
 
-secured: "iobvVOFlP0UVffiCJmzVm62ghe7/c7WgrUfA+6XcTullwIsuIxZk8WM3sDxQncWpKpSc5ClA1gZAYRIj3MJn4jqgLiF1c5p5MXVJH4G9kbGlpGSk6ZVABEtBOVbtjK11pAD7v7aA48NIlUnBMR1bcvrYS5bkze1KunvSmMnhgV2JZOKT6fmnjuIdD7Cmi3A0d3pgYe4SJK/8TkRMsMse47j49s6Q6MywZyiFx75txHPhnFNgM/rSbRm+0Mf+rKGuRO9Y70V7cOFcF4QptBqha0+VwA66iQOS0imG/bO9EThGUPFXOeTZXUazZjgimWGiL2Btsfh6wvlxhGl7S5fYk4dlwMiyiqCCHazEVtySX8o=;eWXjMzeeo66NwMm+jgHbAA=="
+secured: "AIBQ1KFIkd9Nq03vqXk5GeRFBrKry4PE3EDB8bDZONpSjtkQVRjNndop5Umz46yjNtb8098n187C5TrwPuF3utYllO3PCl6pgT2w1bI9+FCKM3KV/uAdQVeM9RH3f/P9Kh/SOcYESLzg0oCPm2a57sw0rZxaJbFLDZIuIuY2ZO9nQS9KChsKnJJEu9bMTxHW/wmIJcpgMNdPfsW+sTbHmLXdIeTMBMDwAYX1OnaHlRRH4gRKr27ZBOx8FzWaVpoayD93W64EoagqviXQelZCXFFh5XKEte4s4YMkYOn8WvHLnGa7X1D4QOc0qfk6TMbAsb1xNdoLgqQO1DW6xOKYsLHzF1/jwxayBrtF8Ik1sVs=;1xn9xW6Wr3U4b0YFedDM7w=="
 ---
 

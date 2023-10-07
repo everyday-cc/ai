@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
-    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
-    publishedDateTime: 2023-10-02T17:20:00Z
-    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
-    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z

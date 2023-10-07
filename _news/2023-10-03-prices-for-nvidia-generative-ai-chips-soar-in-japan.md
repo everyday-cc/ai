@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-fo
 webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jen-Hsun-Huan-NVIDIAs-Founder-President-and-CEO-delivered-a-keynote-speech-at-Computex-in-Taipei-Taiwan-on-May-29-2023-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Better Artificial Intelligence Stock: Nvidia vs. Super Micro Computer"
-    excerpt: "The current market is torn between the believers in artificial intelligence and the skeptics. For the believers, this year's outsize move in AI stocks is just a taste of things to come, given that we are still in the early innings of this technological sea ..."
-    publishedDateTime: 2023-10-02T17:42:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HPE-N/pressreleases/20746253/better-artificial-intelligence-stock-nvidia-vs-super-micro-computer/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 37
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/feccb48a90284c5586254f43568c80a9/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f749407%252fgettyimages-1180684429.jpg%26amp%3Bw%3D700"
-        width: 2121
-        height: 1414
         isCached: true
   - title: "Already Partnered With Nvidia and Eli Lilly, Iambic Adds $100M for AI Drug Discovery"
     excerpt: "In the span of two years, Iambic has developed four AI-discovered molecules, the most advanced of them now on the cusp of Phase 1 testing. To support those programs and develop more of them, the La Jolla, California-based startup has raised $100 million."

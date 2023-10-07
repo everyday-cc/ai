@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-adver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
 type: article
 quality: 83
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Q&A: Teaching in the age of artificial intelligence and content-generation software"
-    excerpt: "KPMG published a survey of 5,141 Canadian adult students, just over half of whom (52%) admitted to using generative artificial intelligence (AI) in their work, even when taking tests."
-    publishedDateTime: 2023-10-02T17:20:00Z
-    webUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.html"
-    ampWebUrl: "https://phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-qa-age-artificial-intelligence-content-generation.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-transform-teaching.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
     excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."

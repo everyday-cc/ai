@@ -145,6 +145,22 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Snapchat: Snap AI chatbot 'may risk children's privacy'"
+    excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
+    publishedDateTime: 2023-10-06T15:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67027282"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67027282.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67027282.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73FE/production/_131349692_gettyimages-1611746676.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "UK data watchdog issues Snapchat enforcement notice over AI chatbot"
     excerpt: "ICO inquiry provisionally finds social media app’s owner failed to assess risks to users of My AI service"
     publishedDateTime: 2023-10-06T13:25:00Z
