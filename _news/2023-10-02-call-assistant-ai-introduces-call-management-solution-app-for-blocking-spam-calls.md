@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10
 webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/02/call-assistant-ai-introduces-call-management-solution-app-for-blocking-spam-calls/71032712007/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,33 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI Innovation Or Speculation: A Guide To Understanding The Difference"
-    excerpt: "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact."
-    publishedDateTime: 2023-10-02T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "CX is a good place to start with AI-driven innovation"
-    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
-    publishedDateTime: 2023-10-05T12:51:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 17
 
 secured: "+NCAoiXdK+9cJHy10AGgKjkMrKOQYCpPkQHfPm34LPSG92CbKcJ9qGgLXuTcytqGu61AVFoP3rU0I3cyVUfWHRhqb9hvuTy6l1zSPH2dLpHpU4LoVbB4CUw0gf5oI/Mt+tE2Z9fuWYed7nTvWzDtmvITZSQGsYO/JgQLst+1q37ueFdLAjr5mLJS+i3I8jtP3byzYrHNDfXvhR4ENDkMkiUv0ypr9oayJVmZ0a3N1REQrhbQZtqIKO0EgwYs+pAhuCT3TqCQxpKLL0z+CEvMJ59OPm2uWJqwg/j8A0K3ZP3NGWFIbdkmdwmSQUDr/gYc5EXq0UohWSXQkp93GtgIFEQ6uArKMGPEGwNt/DT/0bgfIX0+rxp03wGllqXgwEY2mh/hfYdSvBgPo+2vA53G7BRWHkn3UZjduQA3T9IleEZrfvtrvg7LKVK7qvK6mr/xETU9ex1366l5My7kDsW622+Cak2kdcqOscsTZJuXOKD04xHqsDDFIBWGfVcxhV0KhRRWvK2TKVja7JxRLmt3SQ==;IK8izL/ItHhDfiaBAwG3RQ=="
 ---

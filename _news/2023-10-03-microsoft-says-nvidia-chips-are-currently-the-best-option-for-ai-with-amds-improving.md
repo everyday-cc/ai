@@ -118,22 +118,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cloudflare collaborates with Microsoft to enable AI models to run anywhere"
-    excerpt: "Building the AI railroad tracks of the future so inference tasks can move seamlessly across devices, networks, and clouds"
-    publishedDateTime: 2023-10-02T11:11:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 72
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTdkMWMwNDYtMDYxNy00/0/cloudflare-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
     publishedDateTime: 2023-10-06T21:13:00Z
@@ -217,6 +201,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 60
+  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
+    excerpt: "Domino’s announced Tuesday it’s teaming with Microsoft to “create the next generation of pizza ordering and store operations.” Through the partnership, the chain will leverage Microsoft Cloud and Azure OpenAI Service to transform guest experiences through enhanced ordering,"
+    publishedDateTime: 2023-10-03T12:21:00Z
+    webUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/10/Dominos.jpg"
+        width: 765
+        height: 446
+        isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
     publishedDateTime: 2023-10-03T15:12:00Z
@@ -287,15 +285,6 @@ related:
         width: 1051
         height: 701
         isCached: true
-  - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
-    excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://ehrintelligence.com/news/mercy-taps-microsoft-azure-openai-for-clinician-patient-experience"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 49
   - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
     excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
     publishedDateTime: 2023-10-05T05:31:00Z
@@ -330,15 +319,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
-    excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
-    publishedDateTime: 2023-10-03T12:36:00Z
-    webUrl: "https://www.qsrmagazine.com/technology/dominos-and-microsoft-create-ai-focused-innovation-lab"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 34
   - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
     excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
     publishedDateTime: 2023-10-03T11:01:00Z

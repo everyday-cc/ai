@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
 type: article
 quality: 107
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvODQwNWE3MWUtNTcwMS00MzdkLWFmNGMtY2Q2YzE5YWVjMTcyLmpwZw==.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "OpenAI is Looking to Start Producing Custom AI Chips"
+    excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
+    publishedDateTime: 2023-10-07T04:30:00Z
+    webUrl: "https://techreport.com/news/openai-is-looking-to-start-producing-custom-ai-chips/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."

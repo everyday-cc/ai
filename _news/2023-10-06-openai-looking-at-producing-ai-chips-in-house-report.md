@@ -135,6 +135,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OpenAI is Looking to Start Producing Custom AI Chips"
+    excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
+    publishedDateTime: 2023-10-07T04:30:00Z
+    webUrl: "https://techreport.com/news/openai-is-looking-to-start-producing-custom-ai-chips/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
     publishedDateTime: 2023-10-06T19:31:00Z

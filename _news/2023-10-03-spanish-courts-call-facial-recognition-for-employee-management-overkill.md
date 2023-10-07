@@ -28,14 +28,14 @@ related:
   - title: "AI facial recognition: Campaigners and MPs call for ban"
     excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
     publishedDateTime: 2023-10-05T23:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
+    webUrl: "https://www.bbc.com/news/technology-67022005"
+    ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      domain: bbc.com
+    quality: 104
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
         width: 1024

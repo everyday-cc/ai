@@ -84,15 +84,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 57
-  - title: "Fast-Tracking The Implementation Of Generative AI Into Your Software"
-    excerpt: "Integrating new technology like ChatGPT may seem daunting, but with a small team of engineers and a test-and-learn mindset, it can be accomplished successfully."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/02/fast-tracking-the-implementation-of-generative-ai-into-your-software/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Why Generative AI Will Help And Not Hinder Human Connection"
     excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
     publishedDateTime: 2023-10-06T13:30:00Z

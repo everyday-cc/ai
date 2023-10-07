@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-s
 webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "R Street Institute Launches Cybersecurity-Artificial Intelligence Working Group"
-    excerpt: "The rapid development of artificial intelligence (AI)-driven technologies has opened the floodgates to novel opportunities and"
-    publishedDateTime: 2023-10-02T12:19:00Z
-    webUrl: "https://www.datanami.com/this-just-in/r-street-institute-launches-cybersecurity-artificial-intelligence-working-group/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
   - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
     excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
     publishedDateTime: 2023-10-06T03:38:00Z

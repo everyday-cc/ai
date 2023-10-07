@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.co.uk/chinas-artificial-intelligence-programs-
 webUrl: "https://www.ibtimes.co.uk/chinas-artificial-intelligence-programs-pose-threat-us-national-security-1720218"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Security
+
+related:
+  - title: "National Security Agency to create an artificial intelligence center"
+    excerpt: "China has in recent months stepped up cyber operations focused on U.S. and allied institutions that may include pre-positioning malware."
+    publishedDateTime: 2023-10-02T18:34:00Z
+    webUrl: "https://www.c4isrnet.com/cyber/2023/10/02/national-security-agency-to-create-an-artificial-intelligence-center/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 34
 
 secured: "Ijoi6MQ2lmzhLFfizANohosP2PTWhSwlVczlkGKrnbC1QsvAmnVGhZaVdeEoXnnQ5TltPUWpNccVrExQBMP0mz1SdfVtLQBDITNRnAk8LRzz+B6run7Q+aP8SqaLnvXk902/wrQSFVG9Xtl3GgZTCnGJAwZ7V5p9yfPjZx1Zmv8xCEPDH+3FhVymxST+ZYg1llyS/dmIUXvGgpxAcp/kfzS7NR/4PJRsbRv8Tvu63SK7Gz++wiS/PSfIUEbFUvY2QXLVDtlSnY6SvwLgFh1fuxd4XCE8fkUD2bcPd5AmQ/TKLkhNomvrEiwvXQ5j/Vdb3y7h9QuPToaZ9NfDmHiSIKXdrCZ2mdXodOEEFT/303Y=;bG5I1ePwJBIn5nj3/5asXg=="
 ---

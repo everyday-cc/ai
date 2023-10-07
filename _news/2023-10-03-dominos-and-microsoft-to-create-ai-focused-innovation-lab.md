@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
-excerpt: "Domino’s noted it has “big plans” to use Microsoft’s AI capabilities, backed by Azure, to continue evolving as the guest does. As part of the alliance, Domino’s and Microsoft plan to establish an “Innovation Lab” that will pair both companies’ leaders with engineers to accelerate the time to market for smart store and ordering innovations."
-publishedDateTime: 2023-10-03T12:36:00Z
-originalUrl: "https://www.qsrmagazine.com/technology/dominos-and-microsoft-create-ai-focused-innovation-lab"
-webUrl: "https://www.qsrmagazine.com/technology/dominos-and-microsoft-create-ai-focused-innovation-lab"
+excerpt: "Domino’s announced Tuesday it’s teaming with Microsoft to “create the next generation of pizza ordering and store operations.” Through the partnership, the chain will leverage Microsoft Cloud and Azure OpenAI Service to transform guest experiences through enhanced ordering,"
+publishedDateTime: 2023-10-03T12:21:00Z
+originalUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
+webUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/10/Dominos.jpg"
+    width: 765
+    height: 446
+    isCached: true
 
 related:
   - title: "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA"
@@ -110,22 +116,6 @@ related:
       - url: "https://images.techhive.com/images/article/2017/05/microsoft_education_event_satya_nadella_close-100720633-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cloudflare collaborates with Microsoft to enable AI models to run anywhere"
-    excerpt: "Building the AI railroad tracks of the future so inference tasks can move seamlessly across devices, networks, and clouds"
-    publishedDateTime: 2023-10-02T11:11:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/cloudflare-collaborates-with-microsoft-to-enable-ai-models-to-run-anywhere-h2y7jjnh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 72
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTdkMWMwNDYtMDYxNy00/0/cloudflare-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
         isCached: true
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
@@ -294,15 +284,6 @@ related:
         width: 1051
         height: 701
         isCached: true
-  - title: "Mercy Taps Microsoft Azure OpenAI for Clinician, Patient Experience"
-    excerpt: "Mercy will launch multiple new solutions using Microsoft Azure OpenAI Service to boost the patient experience."
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://ehrintelligence.com/news/mercy-taps-microsoft-azure-openai-for-clinician-patient-experience"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 49
   - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
     excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
     publishedDateTime: 2023-10-05T05:31:00Z
@@ -392,6 +373,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "uyKbkdtEDrv4GxgO97f7pHaL6SBLJObCSS0MFg1nO5PaG4QEEHtxaO2aq24qS+Sr/6DF5x7iFG5Jqcn5RUC5i0syjkQIFqCzMx3Q57x+ZqYY81fUDO/OJNSUqPCroBnMYkoE9uXCgnIYf4IblnhRE8lfkH9CSw4vCOhyn53I9qBgy5MKviB8vK/zIzibt/lrvfzyIJ/AiV+ZvLWUOFh4ko1Hz3HMZqOoJW229XfcSpUU3bPwC90fDzOoplnDV/D0Ucq1pHIushnDFijPqMIZy+2331a3Oa3+CZfkADTHuX2rDsFG9KfheEwLKelpkpL6RAgv/t7DQWmbRqce/RsUA9gyGAFMMTEAluOIWg5tvHOvs16p85ExxIc4Xm3dQEh3mCE+O2xAje0GREeaGqX+KCuUerIpxM6/Hw8uvvhoLAByxCVTJZxj09jp2lHGqToCu/UcKjOq+AuJ3afLMHSQjttKCXaPZ5/lZ5YMBdNYhnwXNGfzQ6DiiWKzjVzovFk6r2cFMUX5zlQKPXWq2L3dPg==;Bn0JZhQDD3rk5/Owakzbow=="
+secured: "dwXEpNtPdNzHziBFCLvLvl9Jz+IHVCHX59MjvxYcQ9KWumwmlovEs0Q0rAYBGCmD1/eWuq3WXhfXokGG7jRWIgtFXhTghTzTgzOtwVq0SsLThyO/YlIDfNFPVlfHULL+Zymv7NvGVbEVYaniYQ6j9FenNFx4fmXjtNKUQYCjL+e0rlkQxpbkWO8aSL69H+o9JY9sFJN6kq6+7XhcGHrX5+y4aLWsmBVrKguagAHPL1AZmylohkC0rwV3BbM4bZZAdzAktCbY6wk/l1xeZG+XaYFhis/qr+OKz5BKC2CbdtVzIkyEvIXieLOhP2VMo+2B2HqIXTHeqeMkAGKEF1K0IiRdLU8koo3p0zOh1m72Fok=;uLM0SMUQrseghuw3xWIluQ=="
 ---
 

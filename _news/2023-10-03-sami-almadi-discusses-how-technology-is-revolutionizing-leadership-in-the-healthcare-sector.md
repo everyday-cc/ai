@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "The Future of Telemedicine: How Health Technology is Revolutionizing Patient Care"
-    excerpt: "Welcome to the future of healthcare! Picture this: a world where doctor visits no longer require sitting in crowded waiting rooms, filling out endless paperwork, and spending hours traveling. Thanks to the rapid advancements in health technology,"
-    publishedDateTime: 2023-10-02T11:10:00Z
-    webUrl: "https://techbullion.com/the-future-of-telemedicine-how-health-technology-is-revolutionizing-patient-care/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-Tech.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "5C1w+XmEWY2ALQICsugJVNYRaLc+fPyyx4zLFuyKcvl2jfkTfEM1pEsxA29tudbq65I1cKY2mR3xB0qKUk+tw65/DTD9uuB+0oCsbiFu8UVVuL2XfUU4NUAyKohtIWAzjeplkIX28teP5AOD9nkKR6ZapXj1W6YGjTFtyYb37OMBqG6+JxKKjotESsFZpoP4NQr8xoymKNDU65bHPFM53DsvMrBir3y7PEhgZNVdc85r0fREB/Voxj3QRKy0f1FMVUoTtEN6ylz0YSS25EUX6DeeIlCBGQYbPsEo0BcK7Pi/vZbQ9IskzcZsFI5ElIzWBPtzkfs86FfDDOD0DkWwNyymf2XkigqU2M0LMZPEgUzhF1I2/j56RoqSnJ4M75ngbHQRXw66X5IE1bBBFL6CgGHTS/tySCAi+T2Pq6u55fAOXK+3Ar/wrC0Lx2mSfSaUohSI7VBQv2rvhDRqDtK4BQpOFZxyPRkejlFo46YiOi/ooxNz16RKNHrMtLioanUzgFREqZo+ahvlMlQu2zf+LQ==;xGm0+1bYABI2D/6iseqMug=="
 ---

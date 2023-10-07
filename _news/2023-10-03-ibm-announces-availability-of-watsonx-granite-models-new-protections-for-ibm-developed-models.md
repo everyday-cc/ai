@@ -34,15 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 103
-  - title: "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant"
-    excerpt: "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 72
 
 secured: "+mQpXfjLIYNyAf1w6m+t1pz1SACS9d4dl+HUtXzrwoHdDC9N0CHUcJSLjR/CM7o+csbAHLDBhY+Kkbm8+8zkVIauYTRNiC6/AVxN94PuE6lLpktSCUUwSne7OPYRe65LX3AB2am4CPG0GHGToXtRXGolUVQZx06yAXKfEYpdW4v6cMJq7GzIwleMZ8YWTpIzLmmGyUpIMlkJCV7JJGzIkmNseUkoDJZkF5Tg4+k2Dfh8FZM2007LoRTUu6xBbEbn46zjUsfxifed6qE8oTrd1n5F6zJOmPnAvlGgYWmxuN40OdRNzn3Ilpj2SHEkmJnXcfHZTIoEZZZ3dAYo0h+2kDMnwiY7Z3OBlixZAoYwb/o=;k6oO4obQ3w0l1PaQQJrpIw=="
 ---

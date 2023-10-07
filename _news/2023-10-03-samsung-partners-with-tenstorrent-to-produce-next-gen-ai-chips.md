@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-wit
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung to Manufacture Chips From AI Chip Startup Tenstorrent"
-    excerpt: "As part of the deal, Tenstorrent plans to use one of Samsung's advanced manufacturing processes, known as 4nm, to produce the chips. The Tenstorrent product manufactured by Samsung is a chiplet, and is designed to sit alongside other chiplets inside a single package."
-    publishedDateTime: 2023-10-02T13:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/samsung-to-manufacture-chips-from-ai-chip-startup-tenstorrent"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Samsung to develop AI chips with Canadian startup Tenstorrent"
     excerpt: "The development comes as dominance in the AI chip market is currently held by American tech manufacturer Nvidia, which develops some of the world’s most powerful semiconductor chips for large AI models."
     publishedDateTime: 2023-10-03T11:58:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-fo
 webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nikkei Asia
@@ -25,80 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
-    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
-    publishedDateTime: 2023-10-03T01:46:00Z
-    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
+  - title: "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash"
+    excerpt: "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market."
+    publishedDateTime: 2023-10-06T11:23:00Z
+    webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Is Nvidia abusing its dominance in the AI market?"
-    excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."
-    publishedDateTime: 2023-10-02T20:08:00Z
-    webUrl: "https://techwireasia.com/2023/10/is-nvidia-abusing-its-dominance-in-the-ai-market/"
+  - title: "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive"
+    excerpt: "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money."
+    publishedDateTime: 2023-10-06T11:59:00Z
+    webUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jen-Hsun-Huan-NVIDIAs-Founder-President-and-CEO-delivered-a-keynote-speech-at-Computex-in-Taipei-Taiwan-on-May-29-2023-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Nvidia vs. Super Micro Computer"
-    excerpt: "The current market is torn between the believers in artificial intelligence and the skeptics. For the believers, this year's outsize move in AI stocks is just a taste of things to come, given that we are still in the early innings of this technological sea ..."
-    publishedDateTime: 2023-10-02T17:42:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HPE-N/pressreleases/20746253/better-artificial-intelligence-stock-nvidia-vs-super-micro-computer/"
+  - title: "Graphcore's losses grow, AI chip company seeks new funding to survive"
+    excerpt: "Graphcore reported pre-tax losses grew 11 percent to $204.6 million, its 2022 financial statements reveal. Revenue dropped 46 percent to $2.7 million. The company has laid off a number of workers, with its headcount down 21 percent to 494, and closed operations in Norway, Japan, and South Korea."
+    publishedDateTime: 2023-10-06T15:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/graphcores-losses-grow-ai-chip-company-seeks-new-funding-to-survive/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 37
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/feccb48a90284c5586254f43568c80a9/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f749407%252fgettyimages-1180684429.jpg%26amp%3Bw%3D700"
-        width: 2121
-        height: 1414
+      - url: "https://media.datacenterdynamics.com/media/images/Graphcore.width-358.png"
+        width: 358
+        height: 238
         isCached: true
-  - title: "Already Partnered With Nvidia and Eli Lilly, Iambic Adds $100M for AI Drug Discovery"
-    excerpt: "In the span of two years, Iambic has developed four AI-discovered molecules, the most advanced of them now on the cusp of Phase 1 testing. To support those programs and develop more of them, the La Jolla, California-based startup has raised $100 million."
-    publishedDateTime: 2023-10-05T00:28:00Z
-    webUrl: "https://medcitynews.com/2023/10/already-partnered-with-nvidia-and-eli-lilly-iambic-adds-100m-for-ai-drug-discovery/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 30
-    images:
-      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
-    excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
-    publishedDateTime: 2023-10-04T17:25:00Z
-    webUrl: "https://www.benzinga.com/startups/23/10/35094321/foxconn-joins-forces-with-kneron-in-49-million-bid-to-rival-nvidias-ai-dominance"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "NVIDIA, Intel and Google Alums Form Lemurian Labs, Raise $9M for 20X AI Throughput Boost"
-    excerpt: "In addition, the demand has created chip shortages, further halting development, resulting in only a select handful of massively capitalized companies that can afford to run high-end AI models. “AI models have grown in complexity and adoption at a rate ..."
-    publishedDateTime: 2023-10-04T20:44:00Z
-    webUrl: "https://insidehpc.com/2023/10/nvidia-intel-and-google-alums-form-lemurian-labs-raise-9m-for-20x-ai-throughput-boost/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 10
 
 secured: "Nw/U+yo86K/w7ltlubiFcMEnX+vshAQg+XG15+LPHQrpEooUvwfyT7znMtnqVLViOKYmpWbgCEBDhSx8c0XYnoM19BNQZJ3QdJVqhZsjj/OxCKfQbBcL9UHa0iN/MpwwyLtyjYwzLOeIefjEfq+H3lE0oLe3MlXNpMUlhYURGWyp0E+l++JASuDa6p/6x0HjgpEiEMW4wp0kdrD4ubHKEgPKX0eEeurVuig/6lGX1CvDwaVZu3yiufoEjcN77JFMNg/r+2XQtwf1j7GtjiYW3UjOPm0UFfTL40dNl7KmRgYi4eBupW5t0qyJ8WD/0qz5rNo2d58yiJO9VhqgPUUV4pkjtA/GFmOKX2R1yjO+PTA=;joTiyKqezcsBv04ulxn4fA=="
 ---

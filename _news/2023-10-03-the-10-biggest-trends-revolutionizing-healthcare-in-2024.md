@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/Sami-Almadi-healthcare-tech-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "The Future of Telemedicine: How Health Technology is Revolutionizing Patient Care"
-    excerpt: "Welcome to the future of healthcare! Picture this: a world where doctor visits no longer require sitting in crowded waiting rooms, filling out endless paperwork, and spending hours traveling. Thanks to the rapid advancements in health technology,"
-    publishedDateTime: 2023-10-02T11:10:00Z
-    webUrl: "https://techbullion.com/the-future-of-telemedicine-how-health-technology-is-revolutionizing-patient-care/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Health-Tech.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "MFKbO9rDlpKbAw9te7gB2e4JoNwgHHMZT4OQrJ75Z0sJLxxzXXVXXL4+1HeT4pmZozT6bzCRnOT8rdqqvkS+pwagq79h64O2KPpZfzYgXBbhG3gApQ4WxaAg3p0qF0rghpc+U4Th+E0ys0HsgFGL9BGMNORnIE1gwj71oT35axUW6FXBPDG7mZsumfQstCLRPqzhjRrkUEAVU/aaDY27px5T0DGGjWI15h7VorMNoTdOMJ83M41m73yeeLBo9jSwBBKpJoh3d7OcEybPM7Fwweh+uvEkooPraiaS1cQFbqfCag3gmch2Gz8ejqCxR/U6X0gDU0dEWszia+xKwiBdy6K5YwbXzsWoWVqo2cJrGOg=;nyzw0xxixcP254xzBzjqMQ=="

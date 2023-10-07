@@ -3,12 +3,12 @@ category: news
 title: "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive"
 excerpt: "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money."
 publishedDateTime: 2023-10-06T11:59:00Z
-originalUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@"
-webUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@"
+originalUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/"
+webUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg"
@@ -43,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Prices for Nvidia generative AI chips soar in Japan"
+    excerpt: "TOKYO -- Japanese prices of semiconductor devices for data centers from U.S.-based Nvidia are skyrocketing on the weak yen, driving up costs for developers of generative AI. Business solutions company GDEP Advance, an official Nvidia sales partner ..."
+    publishedDateTime: 2023-10-03T02:03:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F4%252F9%252F0%252F1%252F46621094-4-eng-GB%252FCropped-1696277070photo_SXM2023092000008379.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Graphcore's losses grow, AI chip company seeks new funding to survive"
     excerpt: "Graphcore reported pre-tax losses grew 11 percent to $204.6 million, its 2022 financial statements reveal. Revenue dropped 46 percent to $2.7 million. The company has laid off a number of workers, with its headcount down 21 percent to 494, and closed operations in Norway, Japan, and South Korea."
     publishedDateTime: 2023-10-06T15:39:00Z
@@ -58,6 +71,6 @@ related:
         height: 238
         isCached: true
 
-secured: "oxiXKQEH6uNIZD1rjZDU0hQ1pjpe5zNimE+8lYOf3qqin9XQ8TG3GB9cUc51OBqwFXdr+OC/IhN+aODXRyNQFO5g9pcHHbOtBYDl6Pf18gjYyhaWBFu6bS7g0ZI5+feSiQYmLssa3cbzdUrruNZdhCo0/EVFR7OeMcVuSw1EMjqMb+Khogy1XEX93Dp/re4hNDtzOzod9D9f3FuekSIwJIwUyaa5pX3lv9hRLeWXObPOPr34JyXFlhHZXLe2Zx35tYW7B65s0ozF/E7ZbJtjMQQoaPJ7bXsiyX7451wy4GeQUh9Tj/X4VdWAyrHvjdklczAcBQCobr/bkeNybWR2b1TamskqE1tBNSfQzajF/FSICnKysnxBybWSjuUYjaA5MeaMo4wgpHDODswdADgm3OxC60NuJoEdluhARE0hquD7SBjB7xByeYf3c8ct8K9p50ayWwBCJ07UgxAcjXMZjPT/qIKGKd8opkweslr91byIWUBmTF8nnLCdXXIQ/dH5mFY0YZUTHwK40W+9iGEwdQ==;iCl5Nlct9t7nA5g/kcwpVg=="
+secured: "DPufgoKBM6Z0v+KhwlVpxjEFA3Cr8/vMlKOhYDk67J3JmNTKLdLhiZZdKyZ4iJlnCmmJvI6nZj94aZACIMGs5q/DbLs1m0MupmWolPtSgrTbUfo3eBSWL5BXQrDFrZaRTP6wKGKNOINkF2x1twQoKBjdPa97EPonUW46fLSovXmBRvUurobE555/Wqs+SN76kq450QiaJB3pVT2XMEd84IXoZuDKMqyQ3NJENpBokhKaUUVuvSF0DzN06YJW+nZglWmtv+lTeWpqxvKSvpuztWiIHme1hx/Z9duHEhhtYgMkc+qXJmv5hqaljgia3hSg3K7I8iLYJhaL9lh+/FcBYW5viKTl+bP2wG7PDEpwJ/A=;OjL0Knobe1jYswmA8VOGlg=="
 ---
 

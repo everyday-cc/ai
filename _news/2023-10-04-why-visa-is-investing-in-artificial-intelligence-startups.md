@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Rising Role of Artificial Intelligence in Insurance"
+    excerpt: "Welcome to the future of insurance! Gone are the days of piles upon piles of paperwork and lengthy phone calls with agents. Say hello to a streamlined, efficient, and surprisingly human-like experience,"
+    publishedDateTime: 2023-10-03T13:25:00Z
+    webUrl: "https://techbullion.com/the-rising-role-of-artificial-intelligence-in-insurance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Insurance-1.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "NYSBA’s 147th annual meeting to address legal ethics in AI"
     excerpt: "While notable figures will be recognized, the event’s primary focus remains on substantive discussion, particularly around the ethical and regulatory challenges presented by artificial intelligence (AI) in the legal sector. The Presidential Summit ..."
     publishedDateTime: 2023-10-03T20:48:00Z

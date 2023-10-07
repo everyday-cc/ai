@@ -3,16 +3,16 @@ category: news
 title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
 excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
 publishedDateTime: 2023-10-04T11:14:00Z
-originalUrl: "https://6abc.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
-webUrl: "https://6abc.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+originalUrl: "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+webUrl: "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - Computer Vision
@@ -40,6 +40,6 @@ related:
         height: 342
         isCached: true
 
-secured: "626L47qHS09O2RLTT3mIcUqFpCfG/jedwnR1JYEHFB2G1GgKDdM0H0+aex+qz/bF5MXKiJYwuXSMvPor7dzw4kZ6adsFVOUsnBAf4//3buUwCdJ33v+Eq+cfljlqlTNgI1LjHJUhvFEduqfTZM1PBJ3olRCf/3uQkKxYWZlYWD6/l+httbkUl1JUxeASdgl8T7iO7SPa/ifZbW/GKIjgR/SqsUdoE3Znn+6IpNRD6kx7NctAELbyvArrfJfjSlDFiDwYuVPKc2RmUCZhbtNnq7jscAUQyAmEONoZbD1jJ10CCHSXXKkf957tE3twF6NpMQgGxMG5BGdlWlwr41cig2+GJKfc2U9XS8VIbFO/CTA=;eHOMndheHTzgDPCWv8qrLA=="
+secured: "UuaGxLn/9NR+tatXdAtjHc9mcaBJyVjV8kp2xi/1+lmoyGIXH/4+bHMkTYZUnrOrSoevL6S/LfaVMuD9tb6TBp/Jff/fqUflc9hIzHX5h+JvMkvnIuiDb4ciNAbtTnNyXz+UyAgHjtK0zvjEHJCPV6Fq7mvhk/Pmp5GX/aSZH/lT4Cs+NetmraNWtXa/SPD7EE03GHG7VNvxCoPZN4/jFVO6wb+ip7CE5xprBntx9yjYbdSY10ZkCeXWYRkkAdNt5+vXqKBrPgd1LncnuFS7mdsWEtM3uGeFaHbX+fgjZL734UdDzA/7xmVI/yZDMc6hwx55ijf+jIzcpVQ9iWn53eFY4TjDdLRMmZddGoj4Zbg=;nDcDJDTxsFXNPIet9UYZEA=="
 ---
 

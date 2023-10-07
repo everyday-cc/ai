@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "R Street Institute Launches Cybersecurity-Artificial Intelligence Working Group"
-    excerpt: "The rapid development of artificial intelligence (AI)-driven technologies has opened the floodgates to novel opportunities and"
-    publishedDateTime: 2023-10-02T12:19:00Z
-    webUrl: "https://www.datanami.com/this-just-in/r-street-institute-launches-cybersecurity-artificial-intelligence-working-group/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
   - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
     excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
     publishedDateTime: 2023-10-05T17:28:00Z

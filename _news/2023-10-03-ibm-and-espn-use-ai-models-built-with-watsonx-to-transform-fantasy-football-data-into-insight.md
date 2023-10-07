@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-f
 webUrl: "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant"
-    excerpt: "FertilityAnswers Bot is the digital front door to the network of fertility telehealth clinics that comprise Ovum Health.\nThe post Fertility care provider Ovum Health gives patients information using chat and scheduling tools with IBM watsonx Assistant appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-02T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/fertility-care-provider-ovum-health-gives-patients-information-using-chat-and-scheduling-tools-with-ibm-watsonx-assistant/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 72
   - title: "IBM Announces Availability of watsonx Granite models, New Protections for IBM-developed Models"
     excerpt: "IBM, one of the leading providers of hybrid cloud and AI, and consulting services, announced the general availability of the first models in the watsonx"
     publishedDateTime: 2023-10-02T20:27:00Z
