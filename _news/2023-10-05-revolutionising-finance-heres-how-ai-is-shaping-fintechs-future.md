@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "AI Startups Are Facing a Reckoning"
-    excerpt: "A reckoning may be coming for once-hot artificial intelligence startups. Among the most vulnerable: consumer apps (think Character.AI) and “thin wrapper” startups like CopyAI that merely provide a nice user interface on top of a third-party model from model developers like OpenAI."
-    publishedDateTime: 2023-10-02T14:35:00Z
-    webUrl: "https://www.theinformation.com/articles/ai-startups-are-facing-a-reckoning"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/11372/588d7bd6-422f-4491-b86a-10e926a9d7d4-HWvjGn.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "V2sxH1Oj/0sQ9fTIgXaKy6IfgNJC8mhmiXT1dfU+wGNmLu0EOqCPlSJrwDSi7EQFQfjfFP3tsw1+1wsuEIKJu0nP0Nem2LSXCubs8m5LeUO+8ZnJl+eiakKjp7u+7iNln5aXvAY0cjhB7rzXBeFONxEruWUl14UN8ITwab7b/b1RUWfbImgPcPEq9PNgshv31Ug0JTlCDRvmlewXSHW4I/EwQPV9bGBDCdFHCkLIQqPLVuTN9aZXoDSgvw6peq9fqzdX7zybZjSmPwI0lMuGG8ZJ63HS9p8FE0VMA+ovVbE94oe24tuEU5g5sYH+uQOuD6+u+yIAdaz1HiiYQqDrBsn1IMOQNMCd0ilx++O8Nus=;Ican8kozund0//+KzD1rLw=="
 ---

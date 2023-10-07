@@ -2,6 +2,136 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-17-automatic-speech-recognition-market-2023-2031-size-including-segments-business-revenue-insight.md",
+      "title": "Automatic Speech Recognition Market [2023-2031] Size Including Segments Business revenue Insight",
+      "excerpt": "\"Automatic Speech Recognition Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 109 Pages Report The extent and overview of the various commercial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34656261/automatic-speech-recognition-market-2023-2031-size-including-segments-business-revenue-insight",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34656261/automatic-speech-recognition-market-2023-2031-size-including-segments-business-revenue-insight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34656261",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34656261",
+      "publishedDateTime": "2023-09-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-17-the-new-kid-on-the-artificial-intelligence-block.md",
+      "title": "The new kid on the artificial intelligence block",
+      "excerpt": "Generative AI is a subset of artificial intelligence (AI) that employs deep learning and neural network techniques on massive-scale data to “create” novel content of varied types — text, images, video,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/articleshow/103719000.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/articleshow/103719000.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/amp_articleshow/103719000.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/the-new-kid-on-the-artificial-intelligence-block/amp_articleshow/103719000.cms",
+      "publishedDateTime": "2023-09-16T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-17-natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report-till-2031.md",
+      "title": "Natural Language Processing For Healthcare And Life Sciences Market Future upcoming Analysis Report till 2031",
+      "excerpt": "\"Natural Language Processing For Healthcare And Life Sciences Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34656688/natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34656688/natural-language-processing-for-healthcare-and-life-sciences-market-future-upcoming-analysis-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34656688",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34656688",
+      "publishedDateTime": "2023-09-16T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care.md",
       "title": "Have A Heart! We All Do, Actually…And AI Might Improve Cardio Care",
       "excerpt": "Collin Stultz READY TO POST Back to AI in healthcare – we’ve looked at this from a number of angles, but here in this talk we get sort of a good balance between some",
@@ -994,135 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-get-a-lifetime-of-ai-and-machine-learning-instruction-in-this-30-bundle.md",
-      "title": "Get a Lifetime of AI and Machine Learning Instruction in This $30 Bundle",
-      "excerpt": "You don't need to be an expert to start learning about AI. Instead, you can enroll in the 2023 Machine Learning for absolute Beginners E-Degree Program and start from scratch for $29.99. A lifetime of study in machine learning and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/get-a-lifetime-of-ai-and-machine-learning-instruction-in/458864",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/get-a-lifetime-of-ai-and-machine-learning-instruction-in/458864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1694448216-ENT-2023MachineLearning.jpeg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-development.md",
-      "title": "Artificial Intelligence Robotics Market [2023-2030] | Latest Report Reveals Worldwide Industry Growth & Development",
-      "excerpt": "Global Artificial Intelligence Robotics Market (2023-2030) research report provides precise information related to business development, advanced growth plans, and trends predictions. It discusses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34612071",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34612071",
-      "publishedDateTime": "2023-09-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2023-2030.md",
-      "title": "Face Recognition Technology Industry Global Market Size, Share, Supply, Demand, Segments and Forecast 2023-2030",
-      "excerpt": "Global Face Recognition Technology Market (2023-2030) research report provides industry Share, Size, CAGR, Production, Consumption, Revenue, Gross Margin, Cost, and Market Influencing factors of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612102/face-recognition-technology-industry-global-market-size-share-supply-demand-segments-and-forecast-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

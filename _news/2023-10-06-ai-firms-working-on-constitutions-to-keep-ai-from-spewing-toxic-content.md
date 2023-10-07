@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
-excerpt: "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”"
+excerpt: "To apply RLHF, companies hire large teams of contractors to look at the responses of their AI models and rate them as “good” or “bad.” By analyzing enough responses, the model becomes attuned to those judgments and filters its responses accordingly."
 publishedDateTime: 2023-10-06T13:42:00Z
-originalUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/"
-webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/"
-ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
+originalUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
+webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
+ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
 type: article
-quality: 68
-heat: 78
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -21,8 +21,13 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-list-800x450.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Voting Yes is about constitutional recognition to get better outcomes"
@@ -40,6 +45,6 @@ related:
         height: 628
         isCached: true
 
-secured: "wGW9U0maB6fentI+g/SoGDl6vldZoQI5WHmIeHTX6khg0N289Je5gsKtOmdxvpFi5Vttu+my7+CPa3gn8rlLbxwBe/7ay+56nwV/ZA0XeqAG2MJGDz6bfJd5acNdykO0tKyPlvoHL0PKJ0JDE2K241T+r65CJtPGxjIXS1m9J1EAeopC2cRb1WZ+MUx1UnhSMFPHw0OzBSs+pi5MYqzhNxc2jJB9BV1foFFrFthQGq80zt7PNTUBoDmQ9Kj0SsSNO0/M3OUaSomgurrExuVC6pp4N7mne+XZH1wlo3buoRJYXHf+JmY46xWpQG7bvwLnXZqWdWVZm0MbZ7zLZb5Bp7LAJYgkutqXDDMa0oKmNHcu+ib/xQF4loV7FQnrz9GpaE+jINBAU/uC2mgEVzur1nwFeC3TJEM3HgUG2wcNdAPHysdjpqRD+ri4RRjxJApsDkkFHSmmCiO8SUNpxWqREh8iskcPF1qluNkA0fXXjPOn7mo86suPXlv2HYY8jefpKiJ7T6FqgaV1c44G9zmzrQ==;P19N7RcEhmrmWemDlMk/aQ=="
+secured: "KxfySwgr4eb6eVF2PsXMBOYxmefGq1wgiv+ByOv6jab8asgABOHp3tJDOIBU/O49D0eGoRyocSu7mKCo11vbYb0Yq5m7X7sWJ/nHSDHGA/Go+h+0khJ94Qq6UP3v1LZVIuPhRidO2rUMscUh03uDj8KH07eD15/Sz9NZe1+sUGt0eqP6pwiSfmkev8WNk0CJ4YLXNkRq+0i5t3fkxrcFw/2mNhAN5UsEEhanL6cP3WoX3ojmLIs8QqqVqRunBRTXiJEXJWiVvh9BqZoXAh8h/d1EuPNTmapXZeV1f4JWk0j50k0LGZkOpY9ceUoTpopd76B6kRc8lG31kH+p8a12gk2CQJeQdx/YJDvflSZtL98=;Y0kcPiqOB9NuBbjvDdpXag=="
 ---
 

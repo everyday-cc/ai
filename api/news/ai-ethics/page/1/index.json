@@ -2,29 +2,90 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-06-ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content.md",
-      "title": "AI firms working on “constitutions” to keep AI from spewing toxic content",
-      "excerpt": "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”",
+      "path": "_news/2023-10-07-unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai.md",
+      "title": "UNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AI",
+      "excerpt": "Dubbed Supervising AI by Competent Authorities, the initiative will see UNESCO assemble a report on current AI supervisory practices across Europe.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/",
-      "originalUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/",
+      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 110,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6520084cff6afed1494d46b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/",
-      "publishedDateTime": "2023-10-06T06:42:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
+      "publishedDateTime": "2023-10-06T23:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-global-ai-ethics-framework-needed-to-enshrine-rules-of-a-good-corporate-citizen.md",
+      "title": "Global AI ethics framework needed to enshrine rules of a ‘good corporate citizen’",
+      "excerpt": "It followed hot on the heels of another regulation leader, the European Union, which was the first to roll out laws on ethics in AI, including the proper use of data, the removal of biases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
+      "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/09/28/0659beb2-74c3-4f27-bd75-7fb07fefbfe6_dbf05a85.jpg?itok=gngSnv3l&v=1695891447",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -94,58 +155,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-unesco-dutch-join-forces-on-ethical-ai-supervision-project.md",
-      "title": "UNESCO, Dutch join forces on ethical AI supervision project",
-      "excerpt": "The Netherlands and UNESCO have launched an AI supervision project to help EU countries prepare for the tech's safe and ethical deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-project",
-      "originalUrl": "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-2.jpg&signature=86af06e93f90321a3bfabd66dc3c93af",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

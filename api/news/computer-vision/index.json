@@ -6,11 +6,11 @@
       "title": "AI facial recognition: Campaigners and MPs call for ban",
       "excerpt": "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-67022005",
-      "originalUrl": "https://www.bbc.com/news/technology-67022005",
+      "webUrl": "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-67022005.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-67022005.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp",
       "publishedDateTime": "2023-10-05T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

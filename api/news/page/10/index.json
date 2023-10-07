@@ -2,6 +2,135 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-for-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft for generative AI",
+      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103977486,imgsize-66594,width-1200,height=765,overlay-etcio/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-infosys-and-microsoft-join-hands-to-democratize-industry-wide-adoption-of-generative-ai.md",
+      "title": "Infosys and Microsoft Join Hands To Democratize Industry-Wide Adoption of Generative AI",
+      "excerpt": "Indian IT major Infosys has announced that it is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topa",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
+      "originalUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFFLsiJOlqlptOI48CVvv-0OczpUnQhYpn0WZHLfAqik3sppqZy3_VWIbPmHOr8GZMR9VtTBBzbfCaEYXsG6uAI-F7YzTV5leJ1aSlWAY2moHi45p6DPFRrl4qlR1uZD8oKnnuZKp-p2Cu4Uvjet2m_GRpJwnfQdUpC2_DqemjLzNNNH_xb0m_w4bmXYs/s16000/infosys_microsoft.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
+      "title": "$45 million granted to NU cancer therapy device project",
+      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
+      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
+          "width": 2001,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Northwestern",
+        "domain": "dailynorthwestern.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-2031-ai-in-computer-vision-market-research-report-booming-worldwide.md",
       "title": "2031, AI In Computer Vision Market Research Report | Booming Worldwide",
       "excerpt": "Facebook, Microsoft Corporation, Intel Corporation, Apple Inc., COGNEX Corporation are one of the principal market rivals, according to the research. Global AI In Computer Vision market size is ...",
@@ -936,126 +1065,6 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expansion-strategies.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Overview and Forecast 2023-2031 | Mapping Future Expansion Strategies",
-      "excerpt": "In the dynamic landscape of the global Artificial Intelligence (AI) in Healthcare market from 2023 to 2031, a treasure trove of strategic insights awaits. This comprehensive report offers a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34912878",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34912878",
-      "publishedDateTime": "2023-09-26T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws.md",
-      "title": "Postcards from the edge | Cloud-to-edge consistency is everything, says AWS",
-      "excerpt": "How do you divvy-up 5G workloads across the edge and cloud? AWS argues for consistency across the whole lot, unsurprisingly; but its response is also measured.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
-      "originalUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/09/Critical-Edge-again.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-partnerss-with-microsoft-for-generative-ai.md",
-      "title": "Infosys Partnerss With Microsoft For Generative AI",
-      "excerpt": "This collaboration leverages Infosys Topaz and Microsoft's AI services to advance the shift to AI from digital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gbecbkr9n2sevi4j_1695737847.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
-      "publishedDateTime": "2023-09-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
         "images": null,
         "publishers": null,
         "authors": null

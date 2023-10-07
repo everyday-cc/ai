@@ -2,6 +2,153 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-09-02-i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it.md",
+      "title": "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it",
+      "excerpt": "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
+      "originalUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
+      "publishedDateTime": "2023-09-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-walmart-labor-day-sale-2023-the-19-best-deals-i-recommend.md",
+      "title": "Walmart Labor Day sale 2023 - the 19 best deals I recommend",
+      "excerpt": "COSORI Air Fryer Pro: was $99.99 now $89 at Walmart Get the top-rated Cosori Air Fryer Pro on sale for $89 at Walmart's Labor Day sale. With over 37,000 positive reviews on Amazon, the five-quart air fryer features nine different functions to whip up easy meals, and the basket is dishwasher safe for easy clean-ups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "originalUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GVjnAYtE5oyApprfoq2UwZ-1200-80.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
+      "title": "'AI can curate learning, but ethics is catchword'",
+      "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-103298237,width-1070,height-580,imgsize-914122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
+      "publishedDateTime": "2023-09-01T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
       "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
       "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
@@ -1020,152 +1167,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-donald-trump-appears-to-shut-down-ai-interview-theories.md",
-      "title": "Donald Trump Appears to Shut Down AI Interview Theories",
-      "excerpt": "The former president shared a clip of the interview after facing speculation it was faked, but did not address questions about its authenticity explicitly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
-      "originalUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2277139/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-artificial-intelligence-interview-theory-1823934?amp=1",
-      "publishedDateTime": "2023-09-01T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Size, Regional Status and Outlook 2023-2030",
-      "excerpt": "The Automated Machine Learning (AutoML) Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34168664/automated-machine-learning-automl-market-size-regional-status-and-outlook-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34168664",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34168664",
-      "publishedDateTime": "2023-09-01T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
-      "title": "Are self-driving cars already safer than human drivers?",
-      "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
-      "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
-      "publishedDateTime": "2023-09-01T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

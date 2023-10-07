@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-pr
 webUrl: "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-project"
 type: article
 quality: 84
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "UNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AI"
+    excerpt: "Dubbed Supervising AI by Competent Authorities, the initiative will see UNESCO assemble a report on current AI supervisory practices across Europe."
+    publishedDateTime: 2023-10-07T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6520084cff6afed1494d46b2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZIui7HnUvEHw2wBSo1IHKNdXNxBvR0EzSEqXfcps7DLdKw8p9PoOjlubflVm3X9kZnnZwvqwK3uhv7ErBAkp0HW9r5Csd3ZvmsPrEN4nJQryqLyyuJfp/Yla1vADJFc/axQ/E8AWagtV7NQEj6Bb4E93KW3gXZ9vUGlEvSeC+5I3X0iH/g1D5VLzwKq8ENw04zhxR7Augck96C5sjDk3BSyDoXmxvXujxsCqVHMtBUf7CpoP6FqxuB7QHp17sNQNs3xPF81uE8TZN0ij+o7quluVnPFSneu50286K8o9D+fx8VQBKf9/Zs4tX4JVXjjIidb4UwGQ+DPO4Rl1y5NWlDAMV+Wmcw43Mf24VgDg69Y=;rt1Qbar3U8Mtb0f2QeFWXw=="
 ---

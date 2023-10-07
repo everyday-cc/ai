@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-01-natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-growth-predictions.md",
+      "title": "Natural Language Processing (NLP) Market Outlook 2023-2030: Latest Trends, Opportunities, and Future Growth Predictions",
+      "excerpt": "The \"Natural Language Processing (NLP) Market\" Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Natural Language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/34148637/natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-gro",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/34148637/natural-language-processing-nlp-market-outlook-2023-2030-latest-trends-opportunities-and-future-gro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34148637",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34148637",
+      "publishedDateTime": "2023-08-31T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-speech-voice-recognition-systems-market-trends-report-2023-2030-115-pages-report.md",
       "title": "Speech & Voice Recognition Systems Market Trends Report 2023-2030 | 115 Pages Report",
       "excerpt": "The Global Speech and Voice Recognition Systems market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady ...",
@@ -1289,49 +1332,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-metas-new-ai-model-can-translate-transcribe-nearly-100-languages.md",
-      "title": "Meta’s new AI model can translate & transcribe nearly 100 languages",
-      "excerpt": "The company has publicly released SeamlessM4T under a research licence to allow researchers and developers to build on it.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/08/Meta-featured-20230824.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-seamlessm4t-ai-model-8907073/lite/",
-      "publishedDateTime": "2023-08-24T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,144 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-09-12-new-photonic-neural-networks-promise-ultrafast-computing-for-complex-tasks.md",
+      "title": "New photonic neural networks promise ultrafast computing for complex tasks",
+      "excerpt": "Neural networks, inspired by networks of biological neurons, have revolutionized artificial intelligence by providing efficient solutions to complex tasks. To further unlock their potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1001105",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1001105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a7c8801d-67a7-4675-bfa1-8accecf582e7/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-customer-service-and-sales-ais-role-alongside-its-human-counterparts.md",
+      "title": "Customer Service And Sales: AI’s Role Alongside Its Human Counterparts",
+      "excerpt": "As AI becomes more sophisticated, how will we maintain the symbiotic relationship between its technological capabilities and human expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff17f7a604d2697273b636/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/09/12/customer-service-and-sales-ais-role-alongside-its-human-counterparts/amp/",
+      "publishedDateTime": "2023-09-12T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-is-facial-recognition-technology-racist.md",
+      "title": "Is facial recognition technology racist?",
+      "excerpt": "Facial recognition technology is an increasingly common part of modern life, used for everything from unlocking iPhones to advanced surveillance technology. But concerns are being raised that face ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/95383/is-facial-recognition-racist",
+      "originalUrl": "https://theweek.com/95383/is-facial-recognition-racist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6wgqSVyu3JpU2uyRTrsd5H-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-6-skills-writers-need-to-hone-amid-the-ai-boom.md",
       "title": "6 Skills Writers Need To Hone Amid The AI Boom",
       "excerpt": "While AI is an impressive generalist with a solid base of knowledge across many domains, these models can't easily acquaint themselves with the intricacies of specific workplaces and fields of research. The writers best positioned to thrive in the AI boom are writers with specialized, industry-specific knowledge.",
@@ -1036,153 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-the-irs-is-using-artificial-intelligence-to-catch-millionaires-dodging-taxes.md",
-      "title": "The IRS Is Using Artificial Intelligence to Catch Millionaires Dodging Taxes",
-      "excerpt": "The IRS is using artificial intelligence to strengthen its efforts in cracking down on illegal tax practices. The initiative is part of a broader effort by the IRS to scrutinize wealthier taxpayers in 2024—focusing on pursuing millionaires with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
-      "originalUrl": "https://www.entrepreneur.com/business-news/irs-uses-ai-to-fight-tax-evasion-millionaires-dodging-taxes/458884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1694456730-IRS-Uses-AI.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-pwc-wins-2023-digital-innovation-of-the-year-at-international-accounting-forum-awards.md",
-      "title": "PwC wins ‘2023 Digital Innovation of the Year’ at International Accounting Forum & Awards",
-      "excerpt": "PwC was awarded the 2023 ‘Digital Innovation of the Year Award’ at the 12th annual International Accounting Forum & Awards in London, June 29, for its global suite of AI services in support of its auditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "originalUrl": "https://www.thaipr.net/en/finance_en/3381783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thaipr.net/wp-content/uploads/2023/09/พื้นที่สร้างโอกาส-1.jpg",
-          "width": 705,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-ibm-takes-the-reins-of-enterprise-ai-with-watsonx.md",
-      "title": "IBM Takes the Reins of Enterprise AI with Watsonx",
-      "excerpt": "IBM’s updated AI portfolio, “watsonx,” is an enterprise-ready AI and data platform consisting of three solution stacks: watsonx.ai, wastonx.data, watsonx.governance",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ff7f160015846d656445cc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/11/ibm-takes-the-reins-of-enterprise-ai-with-watsonx/amp/",
-      "publishedDateTime": "2023-09-11T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],
