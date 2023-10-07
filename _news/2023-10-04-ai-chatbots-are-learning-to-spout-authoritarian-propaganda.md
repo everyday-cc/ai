@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Snap AI chatbot investigation in UK over teen privacy concerns"
+    excerpt: "The U.K.'s Information Commissioner's Office has issued a preliminary enforcement notice against Snap over its generative AI chatbot."
+    publishedDateTime: 2023-10-06T21:20:00Z
+    webUrl: "https://www.cnbc.com/2023/10/06/snap-ai-chatbot-privacy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106849816-1614949749338-gettyimages-1230948220-SNAP_EARNS.jpeg?v=1696632478"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Generation AI: Meta's many chatbots"
     excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
     publishedDateTime: 2023-10-04T23:15:00Z

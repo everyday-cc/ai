@@ -481,21 +481,56 @@
       ]
     },
     {
+      "path": "_news/2023-09-29-executive-insights-artificial-intelligence-in-higher-education.md",
+      "title": "Executive Insights: Artificial intelligence in higher education",
+      "excerpt": "\"When deployed effectively, generative AI should facilitate more discussion, creativity, and give and take by actively engaging students in the learning process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
+      "originalUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
+      "publishedDateTime": "2023-09-28T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
       "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
       "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece",
+      "webUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
+      "originalUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://th-i.thgim.com/public/incoming/9enb2b/article67352868.ece/alternates/FREE_1200/2023-09-20T083013Z_1976777224_RC27C3AUUE3P_RTRMADP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG",
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--sFDhGANt--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t204110z_2_lynxmpej8r103_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=1UluD5Ph",
           "width": 1200,
-          "height": 829,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -503,13 +538,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts/article67360070.ece/amp/",
-      "publishedDateTime": "2023-09-28T20:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T19:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1069,7 +1104,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?01:01:45am",
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?03:01:48am",
           "width": 680,
           "height": 450,
           "title": null,
@@ -1096,58 +1131,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-i-watched-youtube-in-a-self-driving-mercedes-and-experienced-the-future-of-commuting.md",
-      "title": "I watched YouTube in a self-driving Mercedes and experienced the future of commuting",
-      "excerpt": "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
-      "originalUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6514798f1c099d0019ad4611?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
-      "publishedDateTime": "2023-09-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

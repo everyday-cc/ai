@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-06T19:26:00Z
 originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
-quality: 69
+quality: 73
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
@@ -122,6 +124,6 @@ related:
       domain: variety.com
     quality: 6
 
-secured: "jjJ+ENvKk7jtVfKCRr9Z10thd6vrcW9M5WS6wCxLHtKyGb8G7bhtnjTzzk730618HmjvOwlcU0wdeQPchF379nzQrfFAdIZ/xWOR506piChn1zjoYlfr9gzT7XdHdyZlLBxYaVmjagiRSVlXGtMDT7jxCdn9R6dDOa1BAuMwG6+d4oSFmf0OCz66btnue7SUDgTUlesu0tQYSQRV9LuLbupHf5zYD6dJId3E6MeRBf2QtIbiKDWoKYaHhvpkL1vWpfjm3+1qhhquRlYsma2QL9iiD2HyP7t/P+rNSGnV7fkG67mRYdwdmdsSmxM1Jd1wP/6bjjdlEJLESndhLRHA5KzJtjhIp4HnwVaaNMUTbk4=;GAYiNBnhZq3SA5O1SM3idA=="
+secured: "6lrT0SArvCOIT922eB+YnDN6kfGDaCdVujPn9aD4iyKWichG6q63U7AYEHGkc5VfQr1Nas/IlCzmkVyFoSdNvWl1GwTPW+qOWOsFAi0wyeubcr8s7rw2R+e7X/xcULyR9r5n0apFF2bSBThRPZ6qL6Waad8nCGXdGQmnbDCh++hF7ihMu7V4LVEwXReKsCNKVUOHTmrOrQIdD9AfzjUZtC9FGP+57iEfbjmZV9mmWRA84JQ6+LOZXP5wXn7XOa923p32TIHi3XhoM6HFuOZxR34dEPY98SqH8T781gBbKgipXl7k7gms1pxguU7KmSlSRzrcymaMgdhzwQcxBO8ek3LG+UmNuoGdZUvffH6P5GK7x2rnAbFxwCaDGDRLe3Fc6OsHbizo3tmhoSPfthATXHOPlU6DhjilJvPl9LaebmnbhuTlvoqpuQGFhYNgErji/eiRveZgGqRO5R4weOH5P/JUJe04uFtCTw/RS0LAby9FV3vQXZY4IT3Rh4NFrDwP1V2TcZV10lUx/NY7+xs9Jw==;6E26ccv47ezHYOu5mlLoEQ=="
 ---
 

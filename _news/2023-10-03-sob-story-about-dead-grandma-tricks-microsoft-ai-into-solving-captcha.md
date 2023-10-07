@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-abo
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
 type: article
 quality: 106
-heat: 386
+heat: 396
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTdkMWMwNDYtMDYxNy00/0/cloudflare-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
+        isCached: true
+  - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
+    excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
+    publishedDateTime: 2023-10-06T21:13:00Z
+    webUrl: "https://siliconangle.com/2023/10/06/openai-reportedly-develop-custom-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/openai.png"
+        width: 989
+        height: 520
         isCached: true
   - title: "Microsoft’s AutoGen framework allows multiple AI agents to talk to each other and complete your tasks"
     excerpt: "This collaborative approach can lead to significant efficiency gains. According to Microsoft, AutoGen can speed up coding by up to four times."

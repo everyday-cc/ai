@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Creatives across industries are strategizing together around AI concerns"
+    excerpt: "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI."
+    publishedDateTime: 2023-10-06T23:04:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/"
+    ampWebUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "C1yXQtZFlZ9vepXONlTGM4snP3B4tlwma7bTha+SJkzZDP+L/sjLo2iTaOwqBOqbinIuGtjDS1avgflv4fPqLNUxjlqVSwgMHWy9sOEZ8xgfwJfKW8MQYmEtu1mLebB1QN9dYyoGd0uBWnvD+35lpGsgE7ivareb1ghosdCnmmm46ILS8Ue2HK2GSG8ggf5bxukMgpjzhqN6suFP1rJTEEqde2FJp5/LV4e7RUzuQp0Vqscuhhe01N4iertq3dzs4zeDz8ByPQpvWvAFH5R616ocEjarN+7cxcqkSAIH0yN5CJyQ3PL3a2HhZZmUaiz+HVbcc6pUY5TqXu2HgC9Vbchnetc3QeqvJh25ZBCOuuPI6wfZaNHC17BShY5kjFRX+12AJj75/qMQz2zGCKH5dD6e2Dfdh1Jni22HSqu97UbyhFJ2ov0Uha5Krj+C/C51TvT+8OWFd/nls9bMeaydZerclRo9QR5ZVjXLn9I26ZFWE2nXFCpR3irFF3Vyhv5+9h+gjm8Sf7j1627tMlt8Pw==;3kUMJbDZ3wAG4bJlYOy9Yg=="
 ---

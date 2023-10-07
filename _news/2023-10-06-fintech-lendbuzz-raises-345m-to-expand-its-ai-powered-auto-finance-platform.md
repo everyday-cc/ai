@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-rai
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
 type: article
 quality: 71
-heat: 121
+heat: 122
 published: true
 
 provider:

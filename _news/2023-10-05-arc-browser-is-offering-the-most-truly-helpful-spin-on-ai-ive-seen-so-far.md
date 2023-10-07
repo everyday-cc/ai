@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/"
 type: article
 quality: 85
-heat: 91
+heat: 85
 published: true
 
 provider:

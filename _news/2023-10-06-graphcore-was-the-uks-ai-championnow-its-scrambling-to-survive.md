@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-06T11:59:00Z
 originalUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@"
 webUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Wired
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg"
@@ -57,6 +58,6 @@ related:
         height: 238
         isCached: true
 
-secured: "qxERHiShQXc97v0lbxqSSp6wqkB1kIZm9vX+KcFN2tk+2Byt0BzeM7L8X1ZR/5Y9AnC8kVNaJaTVAPVtCS2SAWO72IYbRXoBFRESMMcRxFcaFdf7MrIKpjukvq9v2y33ssXOs+4qBIz5b53j7vHzj3Qc64PEEULmhfxBxKbOXfsxaVEVqnidyPuXFkq+Y5HuYnjE0vQ75ZP/6dAbGpgpobQa5lh87PZMAa4gZEFl5XRtj2GhguOn1WQkG7+oOEwPL/Q2+VaqND50hHoIZj6nejgw0qFNEB0NTkPiTOLjJFjd07AxPmCgtzQMt9O3rKqYp0tdfR6ROYR4Gz99cYMSZ/jgbcCm3G4Eu6s3w1BoJ1E=;WOa3/db9EXYWEeqw9+qjkg=="
+secured: "oxiXKQEH6uNIZD1rjZDU0hQ1pjpe5zNimE+8lYOf3qqin9XQ8TG3GB9cUc51OBqwFXdr+OC/IhN+aODXRyNQFO5g9pcHHbOtBYDl6Pf18gjYyhaWBFu6bS7g0ZI5+feSiQYmLssa3cbzdUrruNZdhCo0/EVFR7OeMcVuSw1EMjqMb+Khogy1XEX93Dp/re4hNDtzOzod9D9f3FuekSIwJIwUyaa5pX3lv9hRLeWXObPOPr34JyXFlhHZXLe2Zx35tYW7B65s0ozF/E7ZbJtjMQQoaPJ7bXsiyX7451wy4GeQUh9Tj/X4VdWAyrHvjdklczAcBQCobr/bkeNybWR2b1TamskqE1tBNSfQzajF/FSICnKysnxBybWSjuUYjaA5MeaMo4wgpHDODswdADgm3OxC60NuJoEdluhARE0hquD7SBjB7xByeYf3c8ct8K9p50ayWwBCJ07UgxAcjXMZjPT/qIKGKd8opkweslr91byIWUBmTF8nnLCdXXIQ/dH5mFY0YZUTHwK40W+9iGEwdQ==;iCl5Nlct9t7nA5g/kcwpVg=="
 ---
 

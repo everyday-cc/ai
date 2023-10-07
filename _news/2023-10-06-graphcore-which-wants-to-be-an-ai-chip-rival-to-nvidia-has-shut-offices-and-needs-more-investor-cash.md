@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022
 webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -37,7 +37,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg"
         width: 1280

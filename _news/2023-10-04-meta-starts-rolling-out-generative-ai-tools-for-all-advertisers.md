@@ -46,7 +46,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 73
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
         width: 270

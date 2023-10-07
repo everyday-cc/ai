@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

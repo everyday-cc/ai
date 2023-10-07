@@ -120,6 +120,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
+    excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
+    publishedDateTime: 2023-10-06T21:13:00Z
+    webUrl: "https://siliconangle.com/2023/10/06/openai-reportedly-develop-custom-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/openai.png"
+        width: 989
+        height: 520
+        isCached: true
   - title: "Microsoft’s AutoGen framework allows multiple AI agents to talk to each other and complete your tasks"
     excerpt: "This collaborative approach can lead to significant efficiency gains. According to Microsoft, AutoGen can speed up coding by up to four times."
     publishedDateTime: 2023-10-03T15:10:00Z
@@ -380,6 +394,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "qU5n7DC6w+8go07pkQbmTQrjKTNXcQJ8tvI7q8eRIw5bJJ62t6CZMjz4FJ/s0U/e8tWGgo1YSy2bvYfUvwMa7oGF0QRUHC2SqBH5qFKdb1L35nxPE58poKWqe4cQofhHOXFA/97k0JHWwyIzXM/VCknV0c5fX4RLV2U5kqtCkV/4x07W1qwSV9P2HDzMqFKW5nmQAmM5Cd3MqxCheMFTJ93S6auf0j7QUMJwMmrvit8CUIVa3MQFJ9UskWwfp6gLCTOcbpUaRuRwkkUD3rKWd6//1jlbFlz0P5KWHUAJHwgQmLNYTiP/9hBgak1B2yU0Vdlh22U2UTJxXd9EYs3GvoiHDfFf+1biUPRo/q5my7U=;S6jSpUg6PBbjFMXOoPqCJQ=="
+secured: "1QoDtVyvhFYqirGXrNW4ql9IXp94IRjZvWXb3RQGse7A3BIOigWcuqf+2pcqISXABsjtcd/+9hLBYTITIHLj97KAMhYD1YRmvNBYmt/x8P/g2xY5ab4ov2qldDTRTosEdabL5JM2RbsE/nTMIGDMkf6Tcgl4zd0HpA9dEIfHX4NobZwVwC1zW42Hzey87aRpG/YpeHCVeJxr1Y9X2PS8W5BKeL5C4oXCIUYyYChcRLyAk+wYE9CwHmmVgNUMbPf9FqvDVzrOEJf33THk1cbYnQ1o//XPT5NgrUl3vvnbUZrtOuvG5yeZc+Nl+8B0Sfg2yXMVasMFje5HQ/NuVv/kvqosgqi4BQmLlPtySz1rbNYpukq3Zdxp6P94FFxGVw3MbY4Q0AqG0YEfKjQ5xbMV02DZPMeDT9t6b2qhquFSrwM5+zWXHgHTO6x3OhbqQprSO/HYH8FDQIijQxKJ8w9wVVQvBYO2cDfCV0JGA3246QbRVArsMprjl9w2X3ILXi+W8kIIpY0QeTqveoZHUJYTgw==;P/Uj1xkUwtxRU2T57lFcCA=="
 ---
 

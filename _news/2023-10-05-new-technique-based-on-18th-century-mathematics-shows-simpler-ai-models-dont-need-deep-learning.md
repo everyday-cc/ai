@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-technique-based-18th-century-mat
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:

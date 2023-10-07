@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Snap AI chatbot investigation in UK over teen privacy concerns"
+    excerpt: "The U.K.'s Information Commissioner's Office has issued a preliminary enforcement notice against Snap over its generative AI chatbot."
+    publishedDateTime: 2023-10-06T21:20:00Z
+    webUrl: "https://www.cnbc.com/2023/10/06/snap-ai-chatbot-privacy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106849816-1614949749338-gettyimages-1230948220-SNAP_EARNS.jpeg?v=1696632478"
+        width: 4000
+        height: 2667
         isCached: true
   - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
     excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."

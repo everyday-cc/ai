@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "The 10 Biggest Generative AI Trends For 2024 Everyone Must Be Ready For Now"
-    excerpt: "Explore the future as we delve into the top 10 generative AI trends for 2024, uncovering ground-breaking innovations and societal impacts, from more powerful AI models"
-    publishedDateTime: 2023-10-02T06:58:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/02/the-10-biggest-generative-ai-trends-for-2024-everyone-must-be-ready-for-now/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/02/the-10-biggest-generative-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/02/the-10-biggest-generative-ai-trends-for-2024-everyone-must-be-ready-for-now/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651943f2767aae150cb764aa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future of Telemedicine: How Health Technology is Revolutionizing Patient Care"
     excerpt: "Welcome to the future of healthcare! Picture this: a world where doctor visits no longer require sitting in crowded waiting rooms, filling out endless paperwork, and spending hours traveling. Thanks to the rapid advancements in health technology,"
     publishedDateTime: 2023-10-02T11:10:00Z

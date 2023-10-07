@@ -92,20 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "Artificial Intelligence Brings Remarkable Advancements to Aviation"
-    excerpt: "The aviation industry is experiencing a profound transformation thanks to Artificial Intelligence (AI) integration. AI has seamlessly integrated into aviation operations in recent years, offering innovative solutions to age-old challenges."
-    publishedDateTime: 2023-10-02T06:28:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-brings-advancements-to-aviation/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5823232302367489570_y.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
     excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
     publishedDateTime: 2023-10-06T01:35:00Z

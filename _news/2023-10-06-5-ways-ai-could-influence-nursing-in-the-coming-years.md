@@ -2,17 +2,17 @@
 category: news
 title: "5 ways AI could influence nursing in the coming years"
 excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-publishedDateTime: 2023-10-06T13:11:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
-webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+publishedDateTime: 2023-10-06T14:11:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -84,6 +84,6 @@ related:
       domain: businesstimes.com.sg
     quality: 34
 
-secured: "MuwLfPyBz4xdTff7Dsn86e5f7mrSLDdJk7J7bi8lECy2EcbH5lc9RDAXkrsoH+2n8C4oHf2diddSJReZEQHZ2z+Vmbcr+nCP0ReTjve+ZLCcPQEJvJDib3Z3THCTcwxFrMR//FW3POwHQTp47lUR7HYJZvPithJK7sVlTwg+5XwvkS/Fpet2bsfCY6mUg7j+fBMc6ITBgpby2YMfSWXLzfK48awofIdptFXblSr7XiXtQKte5s7B/YROLgbtrStUfTpIKriEKmexnBhdUB/ZqdO8COz94pJvJqbMMUsXiCEYy1sxjWnW7fiOXd/Px7geWCYDrrI6hblTUHdwDd8h3LO3M+bnCP/mR/QQmcWsiGDJgOF6UPjMI1D9SK2u6DTII0jK9NCZlJox1ncL11Wnvcc2pe0+xr6PEDNYA5kG70Z9iq+VmAdVI44yRr5DqYuuxsEThxqxHvrisVfQK9EOXdI26LAIZh3iUufeguoVQ28FCERLjXtoUoqzPdFHM1dUs4Yg2sKR05wSubzSF+6WEw==;yGb0gXUN3bTEHv3kHxEQqQ=="
+secured: "vujkkuIJkDzjQVu3AYQ32C3FL12slLPvRYMg1q6ye5kKLqDrYf37jav6y+trLWsEFHkKcv3li19sgHDln8P/S6IXfJlGTCCwKwkYdVj8Kz1kJ5KfNh/jgsgkghSO0E032Y8QI63ruy7zYZ7y6d236DhRcARLx2ous00va06vLqnJB/b12uICAwZgL/J1WGaI7QYKPHxEJ+kYjFaVIWO1EMr/8Ti1An2EEGc7c4J0+huPQIShtLtf5ofXJOPrduba6f1fvSC0YDthiGVlmvmjqU4vrQkGVX6XdoayaHqYGjtyAZyKFbSPoqTqCFvZh2ymLvXRpWRzSJ4qiR5DybHX02v0zmjmaqio3qEvKU4yyB3nLalYQHKmPSZMhOaoSTHVOpsE7BYy7icZeADtbNGvjNyJ7qvfR25E6jF8aOeyApvCfi3fYIUAdRSQ+KLgDI410lWm5pUcUF1bO+VQR7wiL4XI674fp4IUnbn7NzqY7yA98Bib6uMK1HZEO29DXCBJx7zJx3HM6x/27dPqdSWzZA==;uORN6M8ilCaLBBDjkrRUYg=="
 ---
 
