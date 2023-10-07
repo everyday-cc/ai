@@ -57,15 +57,6 @@ related:
         width: 896
         height: 448
         isCached: true
-  - title: "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring"
-    excerpt: "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-02T16:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 80
   - title: "Simplify medical image classification using Amazon SageMaker Canvas"
     excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
     publishedDateTime: 2023-10-04T18:58:00Z

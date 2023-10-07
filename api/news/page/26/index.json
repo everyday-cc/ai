@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-09-15-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
+      "title": "New research reveals weakness in Facebook’s fake news policies",
+      "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktbs.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_35d4e5db-71dc-5575-ab5c-731a539a7027.html",
+      "originalUrl": "https://www.ktbs.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_35d4e5db-71dc-5575-ab5c-731a539a7027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/e/7f/e7f99aaf-9cb9-52b7-b70a-7323c7d6e85d/6504ad5cd2366.image.jpg?crop=1280%2C672%2C0%2C66&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTBS",
+        "domain": "ktbs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-fans-startled-seeing-ai-robots-at-the-los-angeles-chargers-miami-dolphins-game.md",
       "title": "Fans startled seeing AI robots at the Los Angeles Chargers-Miami Dolphins game",
       "excerpt": "The robots were seen on the sideline, walking inside the concourse and while others sat in seats throughout the stadium.",
@@ -1172,59 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-how-teslas-new-supercomputer-could-upend-the-ai-race.md",
-      "title": "How Tesla’s New Supercomputer Could Upend the AI Race",
-      "excerpt": "Custom-Built AI Tech Is on the Rise In fact, every Big Tech firm building AI models that formerly relied on Nvidia are now developing their own custom-built chips. Amazon (AMZN) has developed two chips customized specifically to build AI models on the firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-teslas-new-supercomputer-could-upend-the-ai-race-1032631339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/09/nvda-ytd-graph-091423.png",
-          "width": 928,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

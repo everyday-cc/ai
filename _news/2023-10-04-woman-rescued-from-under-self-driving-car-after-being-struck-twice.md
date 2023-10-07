@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
+    excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
+    publishedDateTime: 2023-10-05T15:56:00Z
+    webUrl: "https://www.dcvelocity.com/articles/58779-consumers-losing-confidence-in-fully-automated-self-driving-vehicles-jd-power-says"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 16
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2023/10/05/autonomous-avt.jpeg?height=635&t=1696521498&width=1200"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Self-driving car involved in accident leaves woman in critical condition."
     excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
     publishedDateTime: 2023-10-03T23:43:00Z

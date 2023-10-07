@@ -49,22 +49,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "The Assumptions You Bring into Conversation with an AI Bot Influence What It Says"
-    excerpt: "A new study reveals an “AI placebo effect”: the same chatbot will respond differently depending on its users’ assumptions about artificial intelligence"
-    publishedDateTime: 2023-10-02T15:20:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 52
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3EF61CD8-DF43-4B3D-839801D0ED77C79E.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "4JZqt8J9WU3IE6ZJE83/LJeR56riFu5ghU9Rso9G3GE0kqhhkQgdonXV/GzfOMNlBzNPsF7FHrnamV5yfK8Rdsu3eVK/RABSHOhgL9/lo9r92M1hG9I7AQAo3j6b7hOrl3/IK2qdAEBg5r0j6W07I1Z18hyEhohDpY6PxwUTZ4o3LH2lw5a7c1iEBR9Spm5q4Thvd5hIrxz4kLA08m6yowRWriA6QJ8lM4IVBVTey2W5xeI0p13Sg1xOpjYL/0R3UJ798gDRb21vrqAmCvvGENl8lMC1WmxS9RjXxjQNly0zO08udxtTfFppRlryaqw/XI1hn0fQBu6K9Boy3o5fahT2POhpBf4Nwo4VBwVSUkT+XcHOtmM7+zIUjv6hgGJTKRJahXHrdM4L1y7FZaVM5n6cSQ9YHiif0tAvF4xSUIpC3Uvhz52Cb+rJt3wSf8knScidGB0dXF+P2bGNng3vAzFk46c3S23lJmgKrS9hFhevbGvEvnRdR/PjmUQXLn1kOCJCKwun5tI2YWegkG620g==;7V2vpEaGRhefPY9X6FkdUw=="
 ---

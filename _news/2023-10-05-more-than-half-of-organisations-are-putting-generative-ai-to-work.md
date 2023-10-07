@@ -49,15 +49,6 @@ related:
         width: 896
         height: 448
         isCached: true
-  - title: "The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring"
-    excerpt: "AI models can help learners and workers identify and recognize their skills, and convey them in the form of digital credentials.\nThe post The U.S. Chamber of Commerce Foundation and IBM explore generative AI’s applications for skills-based hiring appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-02T16:00:00Z
-    webUrl: "https://www.ibm.com/blog/the-u-s-chamber-of-commerce-foundation-and-ibm-explore-generative-ais-applications-for-skills-based-hiring/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 80
   - title: "The implications of the generative AI gold rush"
     excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
     publishedDateTime: 2023-10-02T21:21:00Z

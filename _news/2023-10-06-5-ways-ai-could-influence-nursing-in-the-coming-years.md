@@ -2,17 +2,17 @@
 category: news
 title: "5 ways AI could influence nursing in the coming years"
 excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-publishedDateTime: 2023-10-06T13:11:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
-webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+publishedDateTime: 2023-10-06T14:11:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -65,6 +65,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
   - title: "Why Visa is investing in artificial intelligence startups"
     excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
     publishedDateTime: 2023-10-03T18:24:00Z
@@ -98,6 +112,6 @@ related:
       domain: businesstimes.com.sg
     quality: 34
 
-secured: "P49flJ55ntScLlG/6cnbdacoaT1m/tQ5Gb+ffT2Yj2rmDn5k85LMCgfpedEZpOlXkevfufdsE5C8vzEl7CZs4s77dW92xgwpno3ZPnDo0ZidLdpVXDtmnmceKbTZnObdZDb27KwL/VoD/kBMmmmU17W/XnwipyoRMnj1ANSBZo3acVLTEPSoETXd2pJyF99CFIstOpBo0x5MJFtredD2Rlllj/fs79thW+tjNrxCMwn87Tmr8dLlvQsKnCGg+TwCOiNoICTQ1XQ7HNeFN1qQvmLHbgMdPCQv4D9aSQp7XnUW44J3HnrlKu23MnTrOH9t59BQEZmqn/q6BjoUh9ddVR1X6YIgf1+HiO0si/szUyWnR2FfyrA1x8Hk3Iwb+2z9z6UbMyzkVok2ScoVaXwY32P1X24OL2o+4Y9FGi/bxYQQ6NPQ58J8AJb1b7PGP/iVBWyOM/QjTCKpo2ZTmzyX6yYFtJVva4i8cX/E3XqN7wE/Vksw9e0/z4o6iL4vpDsyoDTA1zR3MHaN7HWTuks54g==;2wCDgEgRCFACP9BJW1ismQ=="
+secured: "rI8Zi8Z5/NkdWeyGo4RGXJ+hSm9JURcryH0Ihw9O/6Mi2ybwYpwuXE/9FrLaDk0aftwsKL3DrN6oPPGmbIp7mlatEsA4d1BA/F8Z0df8FPIXUxkaL3SoIq7CIdm3RJdw/gRMm8YvjM2ZCqg8K7TxVL1TnADuO7ITbKYIxVZKn7a7P7EpE6Kug57H9kxQUobKNwZah66YWNJP2eaXHr9yiYyWGQB9dto3Lmyp/jsuMA/iICicLlQ1EMiUR+3L3R0BSGPFGiDbz6IRAEImK2tGL1eQVFcHpB3nnKmL4VKu5mTZyCVLkyubN5Jl/zWWYUcavxalRepJkyaTSX17Y8Ni7TnzfGnLhCMR+hEGslWyEGupWye2XIsfsk0kSuPJUemOYnOvfmFLHyIi5s39g/eJbdvoedpFzwT7EEknHGpecLQcPrUlbvlEPZHNMQaNf9Lu2/9m6F07gskJm47g5pazS28uhxr7RcNbgSmX9PMqxmgsekInQxfDmeyegazgwaFbdYTxvtSrPXMKSgWuWS9EWA==;3TN778VZrM+Jmuxy3t9rVg=="
 ---
 

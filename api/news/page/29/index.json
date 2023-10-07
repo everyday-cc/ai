@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-09-13-isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost.md",
+      "title": "ISRO, IN-SPACe ties up with AWS to give space startups a cloud boost",
+      "excerpt": "While eligible startups will get access to Amazon Web Service's cloud technologies, the trio will also work together to train students and educators in cloud computing, AI and ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/07/ISRO.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html/amp",
+      "publishedDateTime": "2023-09-13T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator.md",
       "title": "Stability AI, gunning for a hit, launches an AI-powered music generator",
       "excerpt": "A year ago, Stability AI, the London-based startup behind the open source image-generating AI model Stable Diffusion, quietly released Dance Diffusion, a model that can generate songs and sound effects given a text description of the songs and sound effects in question.",
@@ -1096,40 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-advancing-research-to-clear-humanoid-robots-for-takeoff.md",
-      "title": "Advancing Research to Clear Humanoid Robots for Takeoff",
-      "excerpt": "Adapted to the Cockpit David Shim, one of the researchers involved in the project told EuroNews, \"Pibot is a humanoid robot that can fly an airplane just like a human pilot by manipulating all the single controls in the cockpit, which is designed for humans.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
-      "originalUrl": "https://www.goodnet.org/articles/advancing-research-clear-humanoid-robots-takeoff1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodnet",
-        "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

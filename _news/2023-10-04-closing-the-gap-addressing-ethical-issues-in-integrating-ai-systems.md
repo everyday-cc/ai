@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integ
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
   - title: "Why Visa is investing in artificial intelligence startups"
     excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
     publishedDateTime: 2023-10-03T18:24:00Z
@@ -95,12 +109,12 @@ related:
     quality: 34
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-06T13:11:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    publishedDateTime: 2023-10-06T14:11:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 19
 
 secured: "GctluWe26KIVINyFUfRULyGlrb9cKaRabr0TUffyaZNjlpuCNKrjyV92paZxYDqgklM2DP8e/zmMaE3r0aCP8rZAegxX6rfU9WWlASfxS7lP5zURM1yQtoavvYiA0UTJbE6NSHXDawXAr/v8uzwzjuchmFf7AA7dnKrZ0LJ1dHh1/6lLqAi3rDBGmr93fEJ7dFn6lFB1Jg+bcZAKv/b5j3TFIg/pV6YDOj9+toJHCSEXAZUIy1+zuw1pZNTB9j9uT85tcsyDbQGJKH2u0gpxYsGWeQebp4fGiaCx9xuxrh6w0i2TSydnu0R0t4KS2ukpx0LsaGAarUOVcaT9tHR+AC+sIfY9nKbK002fBJDW+aI=;YklVyzMr3t9mfH2gJLqZUQ=="

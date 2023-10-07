@@ -75,6 +75,22 @@ related:
         width: 477
         height: 306
         isCached: true
+  - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
+    excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
+    publishedDateTime: 2023-10-07T09:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 47
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
     excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
     publishedDateTime: 2023-10-05T15:07:00Z

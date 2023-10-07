@@ -334,6 +334,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-02-deepmb-a-deep-learning-framework-for-high-quality-optoacoustic-imaging-in-real-time.md",
+      "title": "DeepMB: A deep learning framework for high-quality optoacoustic imaging in real-time",
+      "excerpt": "A team of researchers from the Bioengineering Center and the Computational Health Center at Helmholtz Munich and the Technical University of Munich have developed a deep-learning framework (DeepMB) allowing clinicians to obtain high-quality optoacoustic ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmb-a-deep-learning.jpg",
+          "width": 1595,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
+      "publishedDateTime": "2023-10-02T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
       "title": "Efficient training for artificial intelligence",
       "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
@@ -1227,40 +1270,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall.md",
-      "title": "3 Machine Learning Stocks That Should Be on Every Investor’s Radar This Fall",
-      "excerpt": "Machine learning has become one of the most transformative technologies of the 21st century, with the potential to revolutionize everything from transportation to healthcare. As machine learning adoption accelerates, investors have a tremendous opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

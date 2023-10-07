@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-16-answering-ais-biggest-questions-requires-an-interdisciplinary-approach.md",
+      "title": "Answering AI’s biggest questions requires an interdisciplinary approach",
+      "excerpt": "building a holistic lineup is a good place to start. We have to build a more responsible future where companies are trusted stewards of people’s data and where AI-driven innovation is synonymous with good. In the past, legal teams carried the water on ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/",
+      "originalUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1349363964.jpg?resize=1200,765",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/amp/",
+      "publishedDateTime": "2023-09-15T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-fear-mongering-and-ai-questions-to-consider.md",
       "title": "Fear-Mongering And AI: Questions To Consider",
       "excerpt": "The term “artificial intelligence” is often used ubiquitously ... The topic of AI design is varied and includes topics such as deep learning, convolutional neural networks, explainability, transparent or black-box algorithms, locked systems, continuous ...",
@@ -1397,59 +1449,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-this-is-how-ai-will-shape-early-career-tech-jobs.md",
-      "title": "This is how AI will shape early-career tech jobs",
-      "excerpt": "According to the World Economic Forum (WEF), 50% of all employees will need reskilling by 2025 as the adoption of technology increases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
-      "originalUrl": "https://venturebeat.com/programming-development/this-is-how-ai-will-shape-early-career-tech-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1387361711.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

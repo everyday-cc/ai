@@ -2,6 +2,49 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-08-01-5-questions-about-generative-ai-in-healthcare.md",
+      "title": "5 Questions about Generative AI in Healthcare",
+      "excerpt": "Two healthcare and life sciences attorneys dive deeper into what the recent growth of generative artificial intelligence tools means for providers and patients.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/HTQ323_FOC_Hero4.jpg?itok=ekYOsKAU",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/5-questions-generative-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-31T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-3-reasons-artificial-intelligence-ai-stocks-may-be-in-for-a-rough-2024.md",
       "title": "3 Reasons Artificial Intelligence (AI) Stocks May Be In for a Rough 2024",
       "excerpt": "3 Reasons Artificial Intelligence (AI) Stocks May Be In for a Rough 2024",
@@ -1141,60 +1184,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
-      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
-      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-30T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Google AI"
       ]
     }
   ],

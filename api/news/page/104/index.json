@@ -2,6 +2,48 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-07-25-optimizing-energy-production-with-the-latest-smart-grid-technologies.md",
+      "title": "Optimizing energy production with the latest smart grid technologies",
+      "excerpt": "Smart grid technology promises to modernize the traditional electrical system with an infusion of digital intelligence.\nThe post Optimizing energy production with the latest smart grid technologies appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
+      "originalUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T06:08:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
       "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
       "excerpt": "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future.",

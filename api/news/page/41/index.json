@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-09-06-banks-must-promote-more-research-on-ai-usage-says-sbis-cto.md",
+      "title": "Banks must promote more research on AI usage, says SBI's CTO",
+      "excerpt": "“There is a need to promote more AI research and researchers in the banking and finance sector,” Balaji Rajagopalan, chief technical officer at the State Bank of India, told Moneycontrol on the sidelines of the Global Fintech Festival in Mumbai on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/SBI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks-must-promote-more-research-on-ai-usage-says-sbis-cto-11321311.html/amp",
+      "publishedDateTime": "2023-09-06T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-delhi-high-court-approves-stem-cell-therapy-for-autism-treatment.md",
       "title": "Delhi High Court Approves Stem Cell Therapy for Autism Treatment",
       "excerpt": "Delhi High Court has authorized stem cell therapy as a treatment option for two children diagnosed with Autism Spectrum Disorder (ASD).",
@@ -1057,58 +1100,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-robot-software-firm-mujin-raises-85m.md",
-      "title": "Robot software firm Mujin raises $85M",
-      "excerpt": "An increasing number of companies are looking to automate as a shortage of skilled workers is expected to take a toll on manufacturers through 2030.  Mujin, a Japan-based robotics platform developing company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/",
-      "originalUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Mujin-Robot-Spotlight-In-Dark.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/amp/",
-      "publishedDateTime": "2023-09-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

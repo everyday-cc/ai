@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-09-12-can-we-slice-up-a-brain-to-see-how-neural-networks-should-work.md",
+      "title": "Can We Slice Up A Brain To See How Neural Networks Should Work",
+      "excerpt": "If you can follow this, you're seeing that what you're actually doing is using artificial intelligence to help fine-tune the study of biological neural networks. So one type of neural network is allowing us to study another. Video: Some insights into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65006a5cd3f9218d80f9e2c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/12/can-we-slice-up-a-brain-to-see-how-neural-networks-should-work/amp/",
+      "publishedDateTime": "2023-09-12T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-new-photonic-neural-networks-promise-ultrafast-computing-for-complex-tasks.md",
       "title": "New photonic neural networks promise ultrafast computing for complex tasks",
       "excerpt": "Neural networks, inspired by networks of biological neurons, have revolutionized artificial intelligence by providing efficient solutions to complex tasks. To further unlock their potential ...",
@@ -1130,49 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-tim-burton-calls-out-ai-its-like-a-robot-taking-your-humanity-your-soul.md",
-      "title": "Tim Burton calls out AI: ‘It’s like a robot taking your humanity, your soul’",
-      "excerpt": "It’s like a robot taking your ... I could then start doing it.” Christopher Soto and USC poet and professor Jackie Wang have spent months talking about how AI will change writers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2023-09-11/tim-burton-ai-artificial-intelligence-robot-humanity",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2023-09-11/tim-burton-ai-artificial-intelligence-robot-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/8cd8bf4/2147483647/strip/true/crop/3000x1575+0+253/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2F3d%2F4dd45b5d43bba8f942f4c394d9d0%2F80th-annual-golden-globe-awards-arrivals-11101.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

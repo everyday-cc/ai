@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/10/brain_08.jpg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "When it comes to AI and democracy, we cannot be careful enough"
-    excerpt: "When it comes to AI and elections, I believe we cannot be careful enough. Democracies are precious experiments, with a growing set of enemies. Let us hope that 2024 will indeed be the “Year of Democracy” — and not the year that marks its decisive decline."
-    publishedDateTime: 2023-10-02T15:05:00Z
-    webUrl: "https://www.ft.com/content/39b89be7-398a-4167-9eeb-58af97b764f3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1f77b79c-0c33-43a0-8929-304bfdd6b88d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "MZC0LGwKPBslmhkIAm8GGcztV8OCkNdQueNWETCZxMvYqEDZy1XSWkr5sV9P5dZxRZCt0DC3mYZrT+6ZcZtEWhfih1/HkGdaCn0YBYVapynLuihMVAzmdYQqAoGb+aQGCgsgjF55xEPWiP5B7GvjXOgL/ti+NfPp/b2jnpiqxcgkURNuV3zpbLdMr6kGQhgUICL3iaQL8LLmSZLR1ZJtqyEx65MWIcTsJFHQ3PlEz/vIbCKV9/uv97DgKoYw2VijzmvBK0BrVPGLj/CO3xYGV5P+7mk/CHIYY5gC6zy/gkvPQcl/JZoVa2CHwusgrVcF47Z/vkqSk32KTJdu06AUZBpoqaBtudA/a40fLOxnxwhfAjGZQnXm5WO/g2rd9eUCVkByJCzu5UcPzgWGg59WU7FFy4jJhBcAq5SZPALy9RsZfzVMD/beCngMKIeSW9GHIiUjjffHjcJEF5SiZ2SOx5vwRRDQulLVFol8nsXGfUx9jbo2KGf/WX606PueSMBoAHdaVZ+zds8Xtag+BRK1vQ==;b7CbX8i0Qqa3jSw2g2hgtA=="

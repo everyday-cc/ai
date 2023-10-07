@@ -2,6 +2,58 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-08-09-feature-african-tech-startups-take-aim-at-ai-colonialism.md",
+      "title": "FEATURE-African tech startups take aim at AI 'colonialism'",
+      "excerpt": "C alled Lelapa AI, the artificial intelligence research lab headed by Pelonomi Moiloa means home in southern Africa's Sotho and Tswana languages - a name that reflects its goal of building algorithms designed by Africans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/africa-ai-tech-idUSL8N39C3M5",
+      "originalUrl": "https://www.reuters.com/article/africa-ai-tech-idUSL8N39C3M5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-08T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-how-sure-is-sure-incorporating-human-error-into-machine-learning.md",
       "title": "How sure is sure? Incorporating human error into machine learning",
       "excerpt": "Researchers are developing a way to incorporate one of the most human of characteristics -- uncertainty -- into machine learning systems. Researchers are developing a way to incorporate one of the ...",
@@ -1145,40 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city.md",
-      "title": "GM self-driving firm Cruise, rival to Tesla, is bringing robotaxis to a new city",
-      "excerpt": "One of the biggest potential off-shoots of self-driving technology is the robotaxi, a driverless, artificial-intelligence-powered car that maneuvers itself without any input or supervision from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
-      "originalUrl": "https://www.thestreet.com/electric-vehicles/gm-self-driving-firm-cruise-rival-to-tesla-is-bringing-robotaxis-to-a-new-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

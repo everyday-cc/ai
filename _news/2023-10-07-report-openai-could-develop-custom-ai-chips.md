@@ -229,6 +229,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
+    excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
+    publishedDateTime: 2023-10-07T08:50:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19218/chatgpt-developer-openai-planning-to-make-its-own-ai-chips-report.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 54
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2023/905c562ffbcfa3994bf6bc8f28becfcd.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "From AI-Driven Design To In-Vehicle Software: Growth Opportunities Amidst The Chip Crisis"
     excerpt: "( MENAFN - GlobeNewsWire - Nasdaq) Dublin, Oct. 05, 2023 (GLOBE NEWSWIRE) -- The \"OEM Risk Mitigation Strategies for the Chip Shortage\" report has been added to ResearchAndMarkets's offering."
     publishedDateTime: 2023-10-05T10:27:00Z

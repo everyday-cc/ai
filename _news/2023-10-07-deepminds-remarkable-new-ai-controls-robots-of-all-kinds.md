@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "When it comes to AI and democracy, we cannot be careful enough"
-    excerpt: "When it comes to AI and elections, I believe we cannot be careful enough. Democracies are precious experiments, with a growing set of enemies. Let us hope that 2024 will indeed be the “Year of Democracy” — and not the year that marks its decisive decline."
-    publishedDateTime: 2023-10-02T15:05:00Z
-    webUrl: "https://www.ft.com/content/39b89be7-398a-4167-9eeb-58af97b764f3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1f77b79c-0c33-43a0-8929-304bfdd6b88d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "6l/+prgfmHSSDNfJzyEVWgp83xPEosLpYRV3xpEGavg0Jz0KKdFZURkzHP6sMjSsljkOOdVR0V7cebnNdMBGizFXNEk2ahfhfouL6k3YOHjWzdM+caHwZ1OHcIPMNgVThcehIeV4N49JBcnxi5UWx4LUTk5FAugIWYfIxXVkUa6i1k5O4Xw7IUf5a0UIJY+JRw7oZoPw0ZlkfHpfUTN1xI73/7fh2Xa8fSLVt5VYPcz+n2XJMnPZTWV9V2YlO7NV3/ew6KRbu8PLDBdVLo7F0czKGPzUXTCN6FxjrN+q4dHT9sRfT4Vm2Do9DQYFJ6zEb8H9JT+0S7+hDSiedZVG6fbPwmx0W4rjbL5Nxp+xAEIXID+k4c+ibVPWynpCBSgXlZ74T0vLhLXrGxCb6rsHLk5upVbKxHqtfwHzUoHnHcq2MphGTfe2wOkE7YQlllUPetsfysKhurHvavtVduZAtXOdiie6ibm+ygQ8ri5vqnwri6k62BFs9PcFtPhnNkzgBqUVrlEcGQPzVE7HfFJdrw==;kWMR8OY1zvV6a9e3ReVPag=="
 ---

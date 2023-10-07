@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-09-22-artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030.md",
+      "title": "Artificial Intelligence Robotics Market Size, Growth & Trends Report [2023-2030]",
+      "excerpt": "The Global Artificial Intelligence Robotics Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
       "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
       "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
@@ -1137,58 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation.md",
-      "title": "IBM TechXchange underscores the importance of AI skilling and partner innovation",
-      "excerpt": "As organizations race to adopt AI for business, the importance of a global ecosystem of partners with industry expertise is growing.\nThe post IBM TechXchange underscores the importance of AI skilling and partner innovation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/techxchange-2.jpg",
-          "width": 1280,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

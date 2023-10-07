@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Assumptions You Bring into Conversation with an AI Bot Influence What It Says"
-    excerpt: "A new study reveals an “AI placebo effect”: the same chatbot will respond differently depending on its users’ assumptions about artificial intelligence"
-    publishedDateTime: 2023-10-02T15:20:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-assumptions-you-bring-into-conversation-with-an-ai-bot-influence-what-it-says/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 52
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3EF61CD8-DF43-4B3D-839801D0ED77C79E.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
     excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
     publishedDateTime: 2023-10-06T19:25:00Z

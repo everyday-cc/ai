@@ -65,6 +65,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
   - title: "Why Visa is investing in artificial intelligence startups"
     excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
     publishedDateTime: 2023-10-03T18:24:00Z
@@ -90,12 +104,12 @@ related:
     quality: 34
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-06T13:11:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    publishedDateTime: 2023-10-06T14:11:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/article280205024.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 19
 
 secured: "reFu2jhymmRFVOHeT2PV4RIwnEGVkMqJrhMSdynawbwREsjuCKaDdmS0sAKB/Fh9zQj7/xArd3tMUJuOlIeZgIqJ9VxQHyE+EviU4GtbEugu2RuM9DFEtc+eMqRCRAB9YKjb6fvz3+ZUc+ck51sJp0e5l6fq3kj+VU6b7lYGBQGIpHio2YcfnEVS3Ux//DgPSP4tHUxj5Huzxg4CjxF4vqYqlFdEzwpQxZW3y+QEFXairX/DZUfCuhG2nYiPYiAOSVqlHZAdDyjR/2jH0J8bs8Kp6+/g7sNs1qsJMk4+CcR70Atim2jwHuf1m9BXuy50H2eMyqfoR5JvLIZ14tKfMJGM9RYN5LHyOOy1JZ9jMd20hwS2Zo9fRHDDnGHQvKf9nbKqX15tPvJAzlSrcaDuFUNdVqBQUeBRGRRPo2my4oUdolFSuO8CTYvec4n2bK1TIVd27lGS2PakDAf7sjVAaFSjW8S7bIDfCcXGwk66IckYovxCt2bAYqsjRsVmI+lyWyQqkSYMo/PUulfGIhB5AQ==;sQ3vqgf/0hONyZilXjuasQ=="

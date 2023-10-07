@@ -26,21 +26,16 @@ images:
 
 related:
   - title: "AI firms working on “constitutions” to keep AI from spewing toxic content"
-    excerpt: "To apply RLHF, companies hire large teams of contractors to look at the responses of their AI models and rate them as “good” or “bad.” By analyzing enough responses, the model becomes attuned to those judgments and filters its responses accordingly."
+    excerpt: "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”"
     publishedDateTime: 2023-10-06T13:42:00Z
-    webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/amp/"
+    webUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content/2/amp/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-list-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
+    quality: 68
 
 secured: "3JAgsIJbgK9M+L76F+QlZe69TwDpeZE6DOF/mdhC+Vda9yL6cERf7A3dL74oVfK0Nhu9kjRhMWYzmH0TZam8CfUXx4yVOS10/u+TOFuiRRH79DGgj/Zew+kBgZCC3kGDXAw+J00pJjrownfJdciqrIcWSGz0TuL3nCUHngBMdPq0uC3J3qDus2tmRRkFS+BOX8Vj1TigxwuLn7dDY+1s8dWl+PMIJ68lW2VrzqkDgYSMmjsYbEB0xCxLbStZK0ZBJ8jhNpnXNw4R/4ihMJ72IWGVZginckYnLifoWEHjUiEpGQtelHecqWarjHKGuaVaUjrn1h9GBNIkmhYpakEZFDZJQ2SZLbhaAstOEP/5X8m1dB2T1k8xZnTXP+N+rw7J2t/IPDdGaUtHqmB9e1OOvTNwd5cLIEKCUViu51MKII7zW8mPTB3MWNBbva9rhe/3gy8kUvea3IcgkmIGuvLodlF7BRJCXDxrZOTifdjEjCZVlwRdojxFGwG9NpKxZIvPwPKF75nYxdoqU1B5eOJ4yw==;6jb7/Y6wcM9bG9OcEJAIxw=="
 ---
