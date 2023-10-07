@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democrat
 webUrl: "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
+    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
+    publishedDateTime: 2023-10-06T04:20:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 24
   - title: "CharmHealth Advances Provider and Patient Intelligence With AI"
     excerpt: "\"By making it remarkably simple to integrate patient health data and information into a single platform, AI uncovers richer diagnostic insights from millions of data points. This results in a care experience that is much more tailored to the individual."
     publishedDateTime: 2023-10-05T14:55:00Z

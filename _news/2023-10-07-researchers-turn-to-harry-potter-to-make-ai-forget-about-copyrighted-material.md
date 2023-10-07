@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-06T22:21:00Z
 originalUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
 webUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
 type: article
-quality: 64
+quality: 68
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
@@ -73,6 +75,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0AKOIWd7HGC9V0Ylfn0F9qwxTHB6dm302ZDScV/iFFHc8uRBGyzlQlgye/a8W1lZjWHTR4ids/KaWxFl2KycWMf4TjeZ+Q2qnnt5enqCb9Q4Mr7sfEXYagC2QPrktpu3svvS5QQx/KNaKVRzifZSptJwuZdMjjXt4ngEKVy+6cEkHkILFy9Wb2ok9ZsyViyNDz4odVFGfsXRavmNdesEtK6QflAYt1E++jE7Cqdnk3znL2IqvgOtUZa7PRFYP/lurH6TGtc4aJ3JTsAmkr1imFQu0nKhLjH37pvF/iWlYBNWiT0fnYbNhd8/C6xOkSiMemRXXWPe/jkqMOBNK2UrljfwA8cBPK1OHwEvAv4rq+w=;Ji0AQx71FvHU1yJKO2gS8A=="
+secured: "19G8qIcb15xLYA8SNguXLrDYxnYc2osLidcpo3SehLlG68bAWUOawy/AbXQ1AJnp4PIvsZTVkNe00gvb0uNolq4qSgjf1H289cu75Km5S0D3a49Y9Jy1Uf4ABcENdvpmMLN7FiUKNKzMsBb0GzluuL3rs52msYUaAz5++iknvglFWjAZfU0ildHGKy0s4dxMDkegCZ1xMCoxFhkEdmCp+P4i+eK7Wx5YVNSrzr5Lh7RipWm/rqZ0BUXNKMWZ28qMZOizl3KzznR1QrdX8BU+jeh9rvoFMqZ5TeQhM9T1W9+DHhc+LUMN9tt04LZPlDz8VcU3Jm6mzTmFObljpkPKVbJFBybgws50uqmhShQ28OPO21lEekA2HcEE9XBDDrh+mduXbqB2v3tpzCXDohCQBddL1YeCG8TEWB5npKSovAyRRe/bU3HJcT4A0DXxvaCN9eZwqZucwSaI4zVIoIxa6Izl+DfwbTrKWj/NFu/3Eno0UOFPDBHBUpHj3U8KyBr0oN/Xg/vYFFtVaTz6C9jRMQ==;8tCyCOdpZD8Lsxn0m8oEYg=="
 ---
 

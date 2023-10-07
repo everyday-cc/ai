@@ -20,66 +20,61 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Report outlines uses of AI in healthcare, education, financial systems and agriculture"
-    excerpt: "A report, titled 'South Africa and Artificial Intelligence' published by Boston Consulting Group (BCG), the University of the Witwatersrand (Wits) Business School and Microsoft South Africa has highlighted currently possible uses for artificial intelligence (AI) systems to make a positive impact on South Africa's healthcare,"
-    publishedDateTime: 2023-10-02T09:25:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
+  - title: "Atropos Health leverages AI to democratize access to real-world evidence in healthcare"
+    excerpt: "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research."
+    publishedDateTime: 2023-10-05T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 63
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001090830_resized_digitaltechinmedicine1022.jpg"
-        width: 1022
-        height: 575
-        isCached: true
-  - title: "Donghia Grant Enables Exploration of Artificial Intelligence in Interior Architecture Education"
-    excerpt: "A grant from the Angelo Donghia Foundation will be used to explore the potential of artificial intelligence, or AI, in design education and how it can help the students' creative process."
-    publishedDateTime: 2023-10-05T05:46:00Z
-    webUrl: "https://news.uark.edu/articles/66444/donghia-grant-enables-exploration-of-artificial-intelligence-in-interior-architecture-education"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+  - title: "Zoom expands healthcare reach with new AI tool"
+    excerpt: "Zoom has released its AI-powered summarization tool for free to healthcare customers. The Zoom AI Companion includes automated meeting summaries, AI-generated d"
+    publishedDateTime: 2023-10-03T21:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/zoom-expands-healthcare-reach-with-new-ai-tool.html"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 42
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2023-10-04_10-55-59-AMAN_Donghia_Huh_Tracy_Miri_IMG_3690.jpg"
-        width: 900
-        height: 674
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "US – Senate Hearing On AI And Financial Services."
-    excerpt: "US - Senate Hearing On AI And Financial Services. Legal News and Analysis - USA - Banking & Finance, Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-10-04T07:44:00Z
-    webUrl: "https://conventuslaw.com/report/us-senate-hearing-on-ai-and-financial-services/"
+  - title: "UST, Hyro announce tie-up to leverage conversational AI in healthcare"
+    excerpt: "Hyro, a leader in responsible conversational AI for healthcare, partners with UST, a digital transformation solutions company, to offer healthcare providers automation solutions for routine tasks. The partnership aims to enhance contact center efficiency by deflecting 60-85% of calls,"
+    publishedDateTime: 2023-10-04T13:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ust-hyro-announce-tie-up-to-leverage-conversational-ai-in-healthcare/article67380008.ece"
     type: article
     provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 39
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 34
+  - title: "We know how to regulate new drugs and medical devices–but we’re about to let health care AI run amok"
+    excerpt: "There’s a great deal of buzz around artificial intelligence and its potential to transform industries. Healthcare ranks high in this regard. If it’s applied properly, AI will dramatically improve patient outcomes by improving early detection and ..."
+    publishedDateTime: 2023-10-03T19:28:00Z
+    webUrl: "https://www.aol.com/finance/know-regulate-drugs-medical-devices-162304419.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2023/07/2-3.jpg"
-        width: 1748
-        height: 1240
+      - url: "https://s.yimg.com/ny/api/res/1.2/848qCIgdifhsw2LY75famg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/aol_fortune_385/0dd17a080d2ba9c16e382c041f6092b0"
+        width: 1200
+        height: 836
         isCached: true
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "Caption Guidance on the Venue Family point-of-care ultrasound systems is available in the United States. GE HealthCare plans to integrate this innovative AI technology into other ultrasound systems, including handheld systems, helping to further expand access to diagnostic care as well as the use of ultrasound in a variety of care settings."
-    publishedDateTime: 2023-10-06T13:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-launches-enhanced-venue-family-point-of-/2023/10/06/9894403.htm"
+  - title: "CharmHealth Advances Provider and Patient Intelligence With AI"
+    excerpt: "\"By making it remarkably simple to integrate patient health data and information into a single platform, AI uncovers richer diagnostic insights from millions of data points. This results in a care experience that is much more tailored to the individual."
+    publishedDateTime: 2023-10-05T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-charmhealth-advances-provider-patient-intelligence-with-ai-/2023/10/05/9893755.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 12
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
-    publishedDateTime: 2023-10-06T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
+    quality: 19
 
 secured: "/0fiAsY8vKXQ6gNdKdxjQo2fcJQ1srXlS622f4j1iquu624huncZ7nlINSGOaLAAOzwRTBbE+75GKfUx+mqSNaz13F541abNBzFYLfvZEHaNcSoILs3duz8wpfvvelYSCdQVob7V97OGrlcIqJXtOw1SQKMkHMJ8hda73Ind+7jv5iC1VC3Qdn5qWq1wBFGYCBvr4P5+jiiuF/ala06QkMxf4zBw/3AdFUDopPRtbkCsncTaTdO2ZI8g2pOiLe0yDiuGIcHIgrYIai5vu1nTuiAhnBbqgKXX9WLKue01zyqXs1CHgmvITBsw57cnZQBLWhKrpp8qhvSU+ehAdzwWpAXEpHMTLiWLZmfRq5tZNnTwJF4NVwjBR173bu73bFrVLMuo1l9X89b8Y9fqgVpnvc0wKDdI0v0Ota6s3AwUGJBwaNsYq6lYbSp+Fol7QhRvSsSfnVh1jwUDEqWMJVkym++bsJkfEDKh6iT95nUFyKoPoNRnaGhPzthYHJjXXjMLfjs7VxoNL1xnlQcfSAFHiw==;cZ7iQR1MLz1l2ltTtjLCUw=="
 ---

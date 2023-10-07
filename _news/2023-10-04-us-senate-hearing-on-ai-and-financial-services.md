@@ -7,7 +7,7 @@ originalUrl: "https://conventuslaw.com/report/us-senate-hearing-on-ai-and-financ
 webUrl: "https://conventuslaw.com/report/us-senate-hearing-on-ai-and-financial-services/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,61 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Report outlines uses of AI in healthcare, education, financial systems and agriculture"
-    excerpt: "A report, titled 'South Africa and Artificial Intelligence' published by Boston Consulting Group (BCG), the University of the Witwatersrand (Wits) Business School and Microsoft South Africa has highlighted currently possible uses for artificial intelligence (AI) systems to make a positive impact on South Africa's healthcare,"
-    publishedDateTime: 2023-10-02T09:25:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/report-outlines-uses-of-ai-in-healthcare-education-financial-systems-and-agriculture-2023-10-02"
+  - title: "Generative AI in Customer Service: A Balanced Blueprint"
+    excerpt: "For leaders ready to adopt generative AI but unsure where to start, there’s a perfect testing ground: your employees. By starting with internal people and operations, you’ll learn lessons and develop processes that can lead to immediate, impactful ..."
+    publishedDateTime: 2023-10-02T21:21:00Z
+    webUrl: "https://multichannelmerchant.com/operations/generative-ai-in-customer-service-a-balanced-blueprint/"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 63
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 37
     images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001090830_resized_digitaltechinmedicine1022.jpg"
-        width: 1022
-        height: 575
+      - url: "https://multichannelmerchant.com/wp-content/uploads/2022/11/customer-service-agent-feature.jpg"
+        width: 850
+        height: 450
         isCached: true
-  - title: "Donghia Grant Enables Exploration of Artificial Intelligence in Interior Architecture Education"
-    excerpt: "A grant from the Angelo Donghia Foundation will be used to explore the potential of artificial intelligence, or AI, in design education and how it can help the students' creative process."
-    publishedDateTime: 2023-10-05T05:46:00Z
-    webUrl: "https://news.uark.edu/articles/66444/donghia-grant-enables-exploration-of-artificial-intelligence-in-interior-architecture-education"
+  - title: "Balancing the Ledger: Navigating the Financial Costs of Artificial Intelligence and Electric Vehicles"
+    excerpt: "AI systems also consume considerable energy, especially those that rely on powerful hardware like GPUs (Graphics Processing Units) and data centers. Businesses running large-scale AI operations may face increased energy costs, which need to be considered in their budgets and sustainability efforts."
+    publishedDateTime: 2023-10-02T19:56:00Z
+    webUrl: "https://www.financialbuzz.com/balancing-the-ledger-navigating-the-financial-costs-of-artificial-intelligence-and-electric-vehicles/"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 42
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 22
     images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2023-10-04_10-55-59-AMAN_Donghia_Huh_Tracy_Miri_IMG_3690.jpg"
-        width: 900
-        height: 674
+      - url: "https://www.financialbuzz.com/wp-content/uploads/shutterstock_2198969807.jpg"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
-    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
-    publishedDateTime: 2023-10-06T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 24
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "Caption Guidance on the Venue Family point-of-care ultrasound systems is available in the United States. GE HealthCare plans to integrate this innovative AI technology into other ultrasound systems, including handheld systems, helping to further expand access to diagnostic care as well as the use of ultrasound in a variety of care settings."
-    publishedDateTime: 2023-10-06T13:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-launches-enhanced-venue-family-point-of-/2023/10/06/9894403.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
-    publishedDateTime: 2023-10-06T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "7LwZkKctJSvVin0eSOaN9D0RqCNVIcNpPGBEEvaRuxKQ7w+AZXAwI4Vx78+myaRAZCPCfJxEO9KkZ3amVSjz4PYoIprArFD7cWJT2EkaHm71VI1DdUrqJE3NHM7FsYiSxjfLp15o6SjRrt4KeotbLLZlkIbkP9k/AvCENW89EdiOmnJS7WPv/rZuxdL/z1CepIy70zK+ZjU6ZdX3X4QhtH4CLqD2tu0HOHZdp5khId0qfaCVpW4LNEkwKJTFjhr7e2pyi3/6YPdVSl5DzV63Vnk2C7gQchkVcamN0c1siDDd74NLIReLRZlo4oltksuuy1LdxuEZrycff1EUM/lBUfwEzfXgYrFPvrG91wxTG4k=;+VE3O7mg9iQtOLml2CzKCw=="
 ---

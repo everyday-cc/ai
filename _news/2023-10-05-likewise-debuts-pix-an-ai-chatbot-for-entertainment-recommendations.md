@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -188,20 +188,6 @@ related:
     quality: 39
     images:
       - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
-    excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
-    publishedDateTime: 2023-10-02T10:45:00Z
-    webUrl: "https://www.thedailybeast.com/the-alarming-way-microsoft-and-openai-want-to-power-ai-chatbots"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
         width: 1200
         height: 675
         isCached: true

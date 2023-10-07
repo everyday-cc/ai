@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Editorial: The Hollywood writers negotiated a sensible approach to AI. Other humans should pay attention."
-    excerpt: "And unlikely as it sounds, the recently concluded Hollywood writers’ strike could come to the rescue of those jobs by establishing new and exportable guidelines that ensure people have a say in how AI is used."
-    publishedDateTime: 2023-10-02T10:00:00Z
-    webUrl: "https://www.chicagotribune.com/opinion/editorials/ct-editorial-writers-strike-artificial-intelligence-wga-20231002-eurndpbutfbv3jbhmp265uunzy-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 20
-    images:
-      - url: "https://www.chicagotribune.com/resizer/KhnZYN-734eKfgEJ0acd9NEFgPU=/1200x630/filters:format(jpg):quality(70):focal(1280x565:1290x575)/cloudfront-us-east-1.images.arcpublishing.com/tronc/SFKRHRDX4JDIBLIYEBX7KBPPYM.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
     excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
     publishedDateTime: 2023-10-05T14:00:00Z

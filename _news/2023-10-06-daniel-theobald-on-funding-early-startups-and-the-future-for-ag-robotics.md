@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/daniel-theobald-on-funding-early-st
 webUrl: "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

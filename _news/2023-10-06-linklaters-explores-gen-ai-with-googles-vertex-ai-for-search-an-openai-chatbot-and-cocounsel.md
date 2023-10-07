@@ -202,20 +202,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Alarming Way Big Tech Wants to Power AI Chatbots"
-    excerpt: "Chatbots use an incredible amount of energy and the companies that make them are looking at nuclear energy as a cheaper power source"
-    publishedDateTime: 2023-10-02T10:45:00Z
-    webUrl: "https://www.thedailybeast.com/the-alarming-way-microsoft-and-openai-want-to-power-ai-chatbots"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696088965/230930-tran-nuclear-power-ai-hero_co0ln4"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
     excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
     publishedDateTime: 2023-10-05T13:27:00Z

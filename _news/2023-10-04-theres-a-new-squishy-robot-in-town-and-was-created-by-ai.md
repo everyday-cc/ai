@@ -25,47 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent"
-    excerpt: "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\""
-    publishedDateTime: 2023-10-02T10:22:00Z
-    webUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
+  - title: "Instant evolution: AI designs new robot from scratch in seconds"
+    excerpt: "Northwestern researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,"
+    publishedDateTime: 2023-10-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1003605"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
     images:
-      - url: "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9315799f-c3fc-4baa-b3c4-2d4c58566290/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
-  - title: "Tom Hanks warns dental plan ad image is AI fake"
-    excerpt: "Tom Hanks has warned an advert that appears to be fronted by him is in fact an artificial intelligence (AI) fake. \"There's a video out there promoting some dental plan with an AI version of me,\" the actor wrote on Instagram. \"I have nothing to do with it,\" he added."
-    publishedDateTime: 2023-10-02T11:17:00Z
-    webUrl: "https://bbc.co.uk/news/technology-66983194?at_campaign=KARANGA&at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66983194.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66983194.amp"
+  - title: "Robots crafted by artificial intelligence: Instant evolution"
+    excerpt: "Researchers have achieved a significant milestone by creating a artificial intelligence system capable of crafting robots from scratch."
+    publishedDateTime: 2023-10-04T10:41:00Z
+    webUrl: "https://www.openaccessgovernment.org/robots-crafted-by-artificial-intelligence-instant-evolution/167609/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 54
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6572/production/_131307952_gettyimages-1498257071.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1364859722-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
-    excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."
-    publishedDateTime: 2023-10-02T10:37:00Z
-    webUrl: "https://www.pcmag.com/news/unauthorized-tom-hanks-ai-is-promoting-dental-plans"
+  - title: "Here's how an AI can design robots from scratch"
+    excerpt: "Kriegman says that the team, \"told the AI\" that \"they wanted a robot that could walk across land\". Following the prompt, the algorithm generated a blueprint which, \"looks nothing like any animal that has ever walked the earth\". Kriegman calls the process \"instant evolution\"."
+    publishedDateTime: 2023-10-06T09:25:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-design-robots-from-scratch-11489351.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Robot-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
+  - title: "Instant Evolution: AI Designs New Robot from Scratch in Seconds"
+    excerpt: "The artificial intelligence developed by Professor Sam Kriegman is the first AI capable of intelligently designing new robots that work in the real world."
+    publishedDateTime: 2023-10-03T20:29:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 34
 
 secured: "LyTVUTSgPygjIofGvxY+n9TMwfuAjtmQckx/ka/hT4Q8HdYkWsHH4sSR7n0nqWIg9/V3NBvygVcY5Q+CBwnAVOpTIFBe8jg6in0fX8WpuKvE5Fg5S54RtUzjGvpzamBkVJdeLadBFe12wnnRmZssM//04jEPZ2oZJxrxfNMViQ1q3aSbqWA9BaC0A4gaiCYGa1WKJt80ZWwQIpmNaQA2FinUATAUK5mNWmISZdH6V49QMbRIxR0DcA+Oo8vmxAiJZ4mnHhrvd+F+d+S2HJc0zQPY0cLovN9pC8/PLj8oPmCjKj+H7IEpV5C1b4qqHzk7ZLIRUrjNh1wIOvKlcszNsB35oWlNuxWx/Bed+UYEUrE=;3JiLlT15uLSts9GNnUxv/g=="
 ---

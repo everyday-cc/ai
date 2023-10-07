@@ -53,7 +53,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
+    quality: 68
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
         width: 1200

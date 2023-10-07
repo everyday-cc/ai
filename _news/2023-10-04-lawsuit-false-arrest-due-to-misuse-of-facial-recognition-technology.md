@@ -29,11 +29,11 @@ related:
   - title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
     excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
     publishedDateTime: 2023-10-04T11:14:00Z
-    webUrl: "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+    webUrl: "https://6abc.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 39
     images:
       - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"

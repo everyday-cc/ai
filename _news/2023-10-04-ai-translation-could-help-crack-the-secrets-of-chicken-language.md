@@ -62,6 +62,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "The scary side of artificial intelligence"
+    excerpt: "Achin Sharma, CIO, MOVIN Artificial intelligence (AI), as we all know, is the simulation of human intelligence leveraging computer systems and machines. AI programs can continuously learn and evolve with experience. In technical terms, AI systems render ..."
+    publishedDateTime: 2023-10-03T09:39:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-scary-side-of-artificial-intelligence/104128779"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AI can transform health care benefits administration"
     excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
     publishedDateTime: 2023-10-06T13:01:00Z

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI is encouraging people to use ChatGPT for therapy. That’s dangerous."
-    excerpt: "Now the company appears to be encouraging users to think of this as an opportunity to use ChatGPT as a tool for therapy. Lilian Weng, head of safety systems at OpenAI, posted on X, formerly known as Twitter,"
-    publishedDateTime: 2023-10-02T10:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/chat-gpt-therapy-openai-rcna118058"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/rcna118058"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/rcna118058"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 72
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-09/230929-chat-gpt-therapy-cs-3fafee.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
     excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa ..."
     publishedDateTime: 2023-10-05T09:48:00Z

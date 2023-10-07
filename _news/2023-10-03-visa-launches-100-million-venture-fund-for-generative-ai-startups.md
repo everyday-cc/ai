@@ -68,20 +68,6 @@ related:
         width: 799
         height: 495
         isCached: true
-  - title: "What Does the Commercialization of Generative AI Mean for Society?"
-    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
-    publishedDateTime: 2023-10-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
   - title: "Visa invests $100m in Generative AI innovation for payments"
     excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
     publishedDateTime: 2023-10-03T14:34:00Z

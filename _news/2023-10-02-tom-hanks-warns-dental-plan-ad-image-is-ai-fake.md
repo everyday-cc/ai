@@ -26,45 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tom Hanks warns fans that an AI version of himself in a dental ad was created without his consent"
-    excerpt: "Taking to his Instagram page, Tom Hanks said: \"BEWARE!! There's a video out there promoting some dental plan with an AI version of me.\""
-    publishedDateTime: 2023-10-02T10:22:00Z
-    webUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tom-hanks-ai-version-ad-made-without-permission-dental-plan-2023-10?amp"
+  - title: "AI Deepfake Ads: Tom Hanks, Gayle King Sound Warning"
+    excerpt: "Don't be fooled -- that's not really the Forrest Gump star in a dental video or the TV host in a weight-loss ad."
+    publishedDateTime: 2023-10-03T23:11:00Z
+    webUrl: "https://www.cnet.com/tech/ai-deepfake-ads-tom-hanks-gayle-king-sound-warning/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/651a911b5e3a3c00199a2d19?width=1200&format=jpeg"
+      - url: "https://www.cnet.com/a/img/resize/7b93f529bf8b6dcf892d85edc891e20fb5e5118a/hub/2023/10/03/9996f13d-48d5-41c1-8eb6-aa9203c81fd1/tom-hanks.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "There's a new squishy robot in town, and was created by AI"
-    excerpt: "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch."
-    publishedDateTime: 2023-10-04T11:18:00Z
-    webUrl: "https://interestingengineering.com/innovation/squishy-robot-created-by-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Unauthorized Tom Hanks AI Is Promoting Dental Plans"
-    excerpt: "It seems likely the now outed unauthorized Tom Hanks AI will quickly stop promoting dental plans. However, how long will it be before another well-known celebrity decides to let an AI version of themselves do ads in return for a healthy pay check? That already happened in Russia."
-    publishedDateTime: 2023-10-02T10:37:00Z
-    webUrl: "https://www.pcmag.com/news/unauthorized-tom-hanks-ai-is-promoting-dental-plans"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "CCzM7jWi0hALHM6MRzVX81zvz1teUks4mmfbTrQYxeNqHhts7H/b+W0RHJPf4VTqkrGcNxWCpKWSA7QYFpTRuPbJiVTWh5wekglbvMNJpkccXLn2io2WZjMZm6M0OZ58LrGBjeRJfWcgm7kWMVGt6JMgKEZbJXmtAWgyIuy84ynTZDKz+rWaOMcmSGVldTVM3GdqJrOCjcJwLwQTBtM+EpuG6Agwg/MY5HM+/hvVEksYGvwtPJkkJisWpArjbrgIrNUuu7a+a0jCUZbVA7uRITKmWq91+OuPmsw3cNh2Sp4tHpYGM9e+SmMKDEPL/nS2SwcjHTMSFkYp00/4uMHGCjRQKs11vxZPFppDtVVaUrA=;wR9hZ/OneUvI/6J+iSv4nQ=="
 ---

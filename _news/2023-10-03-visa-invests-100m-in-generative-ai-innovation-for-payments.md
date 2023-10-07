@@ -80,20 +80,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "What Does the Commercialization of Generative AI Mean for Society?"
-    excerpt: "ACM, the Association for Computing Machinery has released \"TechBrief: Generative Artificial Intelligence.” It is the latest in the quarterly ACM TechBriefs series of short technical bulletins that present scientifically grounded perspectives on the impact and policy implications of specific technological developments in computing."
-    publishedDateTime: 2023-10-02T10:00:00Z
-    webUrl: "https://insidebigdata.com/2023/10/02/what-does-the-commercialization-of-generative-ai-mean-for-society/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
   - title: "Visa launches $10- million fund for gen AI start-ups"
     excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
     publishedDateTime: 2023-10-03T06:17:00Z
