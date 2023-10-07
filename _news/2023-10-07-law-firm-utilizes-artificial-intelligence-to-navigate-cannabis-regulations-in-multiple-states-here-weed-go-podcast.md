@@ -3,26 +3,26 @@ category: news
 title: "Law firm utilizes artificial intelligence to navigate cannabis regulations in multiple states | Here Weed Go! podcast"
 excerpt: "Mr. Cannabis Law is a cannabis and psychedelics-focused law firm based out of Florida that is pioneering the use of AI software to help navigate marijuana regulations."
 publishedDateTime: 2023-10-06T23:30:00Z
-originalUrl: "https://omaha.com/news/nation-world/mr-cannabis-law-marijuana-regulations/article_49a0d8eb-0aa3-52d2-b319-7f7e0f1cfd58.html"
-webUrl: "https://omaha.com/news/nation-world/mr-cannabis-law-marijuana-regulations/article_49a0d8eb-0aa3-52d2-b319-7f7e0f1cfd58.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/mr-cannabis-law-marijuana-regulations/article_05487b15-9f8d-50e9-b4ff-ab735ea35b1e.html"
+webUrl: "https://www.stltoday.com/news/nation-world/mr-cannabis-law-marijuana-regulations/article_05487b15-9f8d-50e9-b4ff-ab735ea35b1e.html"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/9a/49a0d8eb-0aa3-52d2-b319-7f7e0f1cfd58/6520271ce84b4.preview.png?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/54/05487b15-9f8d-50e9-b4ff-ab735ea35b1e/65202721dffd9.preview.png?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
 
-secured: "OP6RlPTPX/v1Pt6NzdUijaQNB62hWGoJEYrlekYYdPCu2D/bUqJ1a++go02gE9ZdzmsmlnzxD46dgBa47cl7oQZu+CBCAVpztEsFE6O5C9vYelpVUshNHG/HLvIQm4DkJE8f63fCDrLWJHupbrwg7SBe0SwqeZq3QqgkDpMky1FfJt4M+QP43W35ocZdEmncvU1Fkww/Kj+sVTVDsMLU2xxZCBTiEi6u5UY2MvdzGDInb0ZPibDG6ydzfs9NH4bxFnx/sGdy6yr8YC+qCn9XrWTPYXd4VLGB/nKFly5rNdEbbTWgDdeQ7tQXda4cbuG36R5KdsRGEQnboJQUCD5Oadj6MulXJrVz8qcdWOW8MQU=;jUjfFZUcdbJq0aORpFswbQ=="
+secured: "hmvELh+9klp2q/UeEzhXzD9I+B5ZMspLl3XrPzXd011Rkwks+jNgcmvzqhTkYihbWFsCtIfqaruQTqHSY6Ejg1v6/hCOjNbVXa3dXlS53WFkRtzM+aMaMhMLcj5ThkYZoLTjoLKN30T9yUVjufeo6RoNPTKMdg7L6HxT3EPbrdJILPkaUt9A00ZjNj6+sQ2G2wjNIvbYJTKS8dcvaQwAbwR1X/XKIPddgWp30YndJkhx+uEpkqbk7Jo7PI9giw5CsIiudd5oxMAYnHIhjSSnrJ6TE7Nh+lyS87gIp1OasAC0bz03D9Dw2TaZyIjI7EzMORTiZ2XpsBE6FBs/d0sY6LAZqwXjCC/ro3bUtgD++AM=;nks18g0Ip8aZslR/28hLVg=="
 ---
 

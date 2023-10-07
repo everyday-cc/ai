@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Autonomous driving remains a distant reality in Japan"
-    excerpt: "So far, Fukui Prefecture is the only place with vehicles featuring level-4 capabilities — defined when they can handle all driving tasks ... operators including Baidu to charge for fully ..."
-    publishedDateTime: 2023-10-02T22:44:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/10/02/economy/japan-autonomous-driving/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 19
-
 secured: "IhDaFwD5Fd5SjLK2IDKUvHoabX9cuB5HfJWk0G0gioj1evl9t9DAv6r+BAdywZXHCKBqx1hJoBlMfENjHEv4MfejlQlyj1NQoC6AYUkZ2NJvl4DFmcgb9aVbEDcP1Df2ZJOQCmAtLaPAxBUCoc+vBgXI8rEgEWg93jA+tOwesl7mCW63BUhsfAbM9M8P5dAyIkUifR1Gk9u+PczNyspEoR5gkeRDzobwUCokiXeLVZ2l2/QUcQPMsre+iDXC9WUpwql4eexhskRRmWBsoYTzJQku7cqSukrClAPEvU61hSk5KrOhBvPgMo0/5fhKWvtiwiQLrqMm/whlsAJpTeQ9+G3dvfHuGFRch7IKBXQrpvs=;cpULkySTPvrvntwJAGMXfw=="
 ---
 

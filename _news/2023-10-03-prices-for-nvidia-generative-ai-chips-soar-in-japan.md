@@ -7,8 +7,8 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-fo
 webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Prices-for-Nvidia-generative-AI-chips-soar-in-Japan"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nikkei Asia
@@ -25,66 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "IC design houses keen on edge computing amid Nvidia dominance in cloud AI chip market"
-    excerpt: "Nvidia may be clearly the leader in the AI chip market, but most IC design houses do not intend to challenge its dominance. Instead they are focusing their efforts on edge computing, according to industry sources."
-    publishedDateTime: 2023-10-03T01:46:00Z
-    webUrl: "https://www.digitimes.com/news/a20231002PD217/nvidia-ai-eu-probe.html"
+  - title: "How NVIDIA became a major player in robotics"
+    excerpt: "This February, the company noted, “A million developers across the globe are now using the Nvidia Jetson platform for edge AI and robotics to build innovative ... It’s not exactly right, but I don’t have to start from zero. It’s giving me 70%."
+    publishedDateTime: 2023-10-07T12:56:00Z
+    webUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 47
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+  - title: "Robotic metalworking startup Machina Labs closes $32M round backed by Nvidia"
+    excerpt: "Machina Labs Inc., a startup using robots equipped with artificial intelligence to manufacture metal products, today announced that it has raised $32 million in funding. The Series B investment was jointly led by Nvidia Corp."
+    publishedDateTime: 2023-10-05T20:27:00Z
+    webUrl: "https://siliconangle.com/2023/10/05/robotic-metalworking-startup-machina-labs-closes-32m-round-backed-nvidia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: "https://img.digitimes.com/newsshow/20231002pd217_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Machina-Labs.png"
+        width: 1011
+        height: 570
         isCached: true
-  - title: "Is Nvidia abusing its dominance in the AI market?"
-    excerpt: "French authorities have been interviewing market players on the impact of Nvidia in the AI chips market, including on price and practices."
-    publishedDateTime: 2023-10-02T20:08:00Z
-    webUrl: "https://techwireasia.com/2023/10/is-nvidia-abusing-its-dominance-in-the-ai-market/"
+  - title: "Nvidia Deepens Push Into AWS’ Turf"
+    excerpt: "Nvidia’s ambition to compete with Amazon Web Services is growing. Nvidia is best known for designing server chips for artificial intelligence, but it has been running a nascent cloud service for corporate customers that develop AI with those chips."
+    publishedDateTime: 2023-10-03T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/nvidia-deepens-push-into-aws-turf"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jen-Hsun-Huan-NVIDIAs-Founder-President-and-CEO-delivered-a-keynote-speech-at-Computex-in-Taipei-Taiwan-on-May-29-2023-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Already Partnered With Nvidia and Eli Lilly, Iambic Adds $100M for AI Drug Discovery"
-    excerpt: "In the span of two years, Iambic has developed four AI-discovered molecules, the most advanced of them now on the cusp of Phase 1 testing. To support those programs and develop more of them, the La Jolla, California-based startup has raised $100 million."
-    publishedDateTime: 2023-10-05T00:28:00Z
-    webUrl: "https://medcitynews.com/2023/10/already-partnered-with-nvidia-and-eli-lilly-iambic-adds-100m-for-ai-drug-discovery/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 30
-    images:
-      - url: "https://medcitynews.com/uploads/2022/06/GettyImages-1209662272.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
-    excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
-    publishedDateTime: 2023-10-04T17:25:00Z
-    webUrl: "https://www.benzinga.com/startups/23/10/35094321/foxconn-joins-forces-with-kneron-in-49-million-bid-to-rival-nvidias-ai-dominance"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "NVIDIA, Intel and Google Alums Form Lemurian Labs, Raise $9M for 20X AI Throughput Boost"
-    excerpt: "In addition, the demand has created chip shortages, further halting development, resulting in only a select handful of massively capitalized companies that can afford to run high-end AI models. “AI models have grown in complexity and adoption at a rate ..."
-    publishedDateTime: 2023-10-04T20:44:00Z
-    webUrl: "https://insidehpc.com/2023/10/nvidia-intel-and-google-alums-form-lemurian-labs-raise-9m-for-20x-ai-throughput-boost/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 10
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "Nw/U+yo86K/w7ltlubiFcMEnX+vshAQg+XG15+LPHQrpEooUvwfyT7znMtnqVLViOKYmpWbgCEBDhSx8c0XYnoM19BNQZJ3QdJVqhZsjj/OxCKfQbBcL9UHa0iN/MpwwyLtyjYwzLOeIefjEfq+H3lE0oLe3MlXNpMUlhYURGWyp0E+l++JASuDa6p/6x0HjgpEiEMW4wp0kdrD4ubHKEgPKX0eEeurVuig/6lGX1CvDwaVZu3yiufoEjcN77JFMNg/r+2XQtwf1j7GtjiYW3UjOPm0UFfTL40dNl7KmRgYi4eBupW5t0qyJ8WD/0qz5rNo2d58yiJO9VhqgPUUV4pkjtA/GFmOKX2R1yjO+PTA=;joTiyKqezcsBv04ulxn4fA=="
 ---

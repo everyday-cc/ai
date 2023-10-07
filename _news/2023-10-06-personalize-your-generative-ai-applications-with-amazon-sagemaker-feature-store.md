@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-gen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
 type: article
 quality: 100
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
-    publishedDateTime: 2023-10-02T21:30:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/code-llama-jumpstart.jpg"
-        width: 896
-        height: 448
-        isCached: true
-  - title: "The implications of the generative AI gold rush"
-    excerpt: "As AI labs become beholden to the interests of investors and big tech companies, they may be incentivized to focus more on research"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://venturebeat.com/ai/the-implications-of-the-generative-ai-gold-rush/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_inspects_a_gold_bar_over_a_pile_of_gold_bars_4951f5b7-4fd8-4019-af92-729fd98ed542-1.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Simplify medical image classification using Amazon SageMaker Canvas"
     excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
     publishedDateTime: 2023-10-04T18:58:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA"
-    excerpt: "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked."
-    publishedDateTime: 2023-10-02T19:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 106
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
     excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
     publishedDateTime: 2023-10-05T16:37:00Z
@@ -189,45 +173,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Microsoft Translator gets four new Indian languages"
-    excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
-    publishedDateTime: 2023-10-05T22:49:00Z
-    webUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html"
-    ampWebUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 61
-    images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Dead grandma locket request tricks Bing Chat’s AI into solving security puzzle"
-    excerpt: "Bing Chat, an AI chatbot from Microsoft similar to ChatGPT, allows users to upload images for the AI model to examine or discuss. Normally, Bing Chat refuses to solve CAPTCHAs, which are visual puzzles designed to prevent automated programs (bots) from filling out forms on the web."
-    publishedDateTime: 2023-10-02T19:58:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 60
-  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
-    excerpt: "Domino’s announced Tuesday it’s teaming with Microsoft to “create the next generation of pizza ordering and store operations.” Through the partnership, the chain will leverage Microsoft Cloud and Azure OpenAI Service to transform guest experiences through enhanced ordering,"
-    publishedDateTime: 2023-10-03T12:21:00Z
-    webUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/10/Dominos.jpg"
-        width: 765
-        height: 446
-        isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
     publishedDateTime: 2023-10-03T15:12:00Z
@@ -284,6 +229,15 @@ related:
         width: 1051
         height: 701
         isCached: true
+  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
+    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
+    publishedDateTime: 2023-10-04T14:15:00Z
+    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 52
   - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
     excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
     publishedDateTime: 2023-10-05T05:31:00Z
@@ -298,35 +252,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
-    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
-    publishedDateTime: 2023-10-04T17:16:00Z
-    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-  - title: "Microsoft adds four more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
-    publishedDateTime: 2023-10-05T11:36:00Z
-    webUrl: "https://www.business-standard.com/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
-  - title: "Microsoft CTO: Nvidia Rules AI, but AMD Will Compete Soon"
-    excerpt: "Microsoft CTO Kevin Scott discussed Microsoft's plans at the recent Code conference sponsored by Vox Media, and he opined on both Nvidia and AMD's current position in the AI market. When asked about the company's rumored plans to develop an accelerator for AI applications,"
-    publishedDateTime: 2023-10-03T11:01:00Z
-    webUrl: "https://www.extremetech.com/computing/microsoft-cto-nvidia-rules-ai-but-amd-will-compete-soon"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Domino's and Microsoft are working together on artificial intelligence"
     excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
     publishedDateTime: 2023-10-03T18:24:00Z
@@ -363,15 +288,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Microsoft Translator now supports 20 Indian languages"
-    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-    publishedDateTime: 2023-10-05T13:58:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 21
 
 secured: "bfLsyaJYTyaiHLXyUPOVO2+vJZMlf3SEIAzdbKig/VZCV4dWist4auXVK57YxRVt8QYkKcy/IM11cD4iOkEcZqIf9aFNvtFb7EtT5WXvsUPO86bLdDjv/qI+yjbv3LnReF/ESS46c7z/qPPl86cSStu/WbggAuBkPgtgg6pXg/DLAli/mXGPpmVd7c9Y6LFwC3TN7Af8JAj719sRYAlDMSMguDP7Q5tyGDVwvdc/0rIjZYRSRIEy9hZqVR1exX5FvX9R6FAAdaRRj2u6ws7bP18KwEmy2zBTy3xbR73bcTEc1CvJu+nisltwkSmtdFumIs8u500Ikg3nY+f7aCBq+gU8FdAOgI6Bp38LsJChetpa390I4/oeDAUXvv5zrrlFs19yb80uzL/9xAD1Js7sT+aTNNt71mu20010/j6Enc+DQFBtc9QcnmfcTjM0aZoy/paFRYQ58MBDVZK2pAaCmxjolf2giFp9CqCj3D9LfXgoTqbNvlLtpv0yfWjSIq3X4RXzU2VgVcftX71rNYifgQ==;q7g7nkk9uWo9us0l/+uG0Q=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solution
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
 quality: 73
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -31,14 +31,30 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence And International Business Decisions"
-    excerpt: "There has been no shortage of predictions about the different consequences of the recent Article Intelligence Boom (AI Boom)."
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
+  - title: "Current Risks Involved In Adopting Generative AI Technology"
+    excerpt: "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ..."
+    publishedDateTime: 2023-10-03T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651c2217aca56578158bcdc4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 712
+        isCached: true
+  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
+    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
+    publishedDateTime: 2023-10-04T15:41:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 47
   - title: "Generative AI in the telco industry: Three waves of adoption"
     excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
@@ -54,24 +70,29 @@ related:
         width: 440
         height: 264
         isCached: true
-  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
-    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
-    publishedDateTime: 2023-10-05T05:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
+  - title: "Visa invests $100m in Generative AI innovation for payments"
+    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
+    publishedDateTime: 2023-10-03T14:34:00Z
+    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-  - title: "Insights and workflow automation dominate AI solutions"
-    excerpt: "Over 40 technology leaders discussed their recent accomplishments and plans for the future, and nearly all of them involved AI in some form, mostly for insights and workflow automation."
-    publishedDateTime: 2023-10-02T19:30:00Z
-    webUrl: "https://www.accountingtoday.com/news/insights-and-workflow-automation-dominate-recent-and-planned-ai-solutions"
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "6lrT0SArvCOIT922eB+YnDN6kfGDaCdVujPn9aD4iyKWichG6q63U7AYEHGkc5VfQr1Nas/IlCzmkVyFoSdNvWl1GwTPW+qOWOsFAi0wyeubcr8s7rw2R+e7X/xcULyR9r5n0apFF2bSBThRPZ6qL6Waad8nCGXdGQmnbDCh++hF7ihMu7V4LVEwXReKsCNKVUOHTmrOrQIdD9AfzjUZtC9FGP+57iEfbjmZV9mmWRA84JQ6+LOZXP5wXn7XOa923p32TIHi3XhoM6HFuOZxR34dEPY98SqH8T781gBbKgipXl7k7gms1pxguU7KmSlSRzrcymaMgdhzwQcxBO8ek3LG+UmNuoGdZUvffH6P5GK7x2rnAbFxwCaDGDRLe3Fc6OsHbizo3tmhoSPfthATXHOPlU6DhjilJvPl9LaebmnbhuTlvoqpuQGFhYNgErji/eiRveZgGqRO5R4weOH5P/JUJe04uFtCTw/RS0LAby9FV3vQXZY4IT3Rh4NFrDwP1V2TcZV10lUx/NY7+xs9Jw==;6E26ccv47ezHYOu5mlLoEQ=="
 ---

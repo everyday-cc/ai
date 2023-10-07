@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empower
 webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-07T12:02:00Z
+    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
 
 secured: "UNs/TQa1tuppdmc5h33uRAYXUWyjAqNvbH7qedtj5hTNSBChdHXrofyzlleKsntFQdyLPv95zP7+ElMBU9XDl636/pDjlq34cyuriUa9FRcjBKmp+L04UcWiLOrVyGddxS3zzMI7Vz0ENZGBXx2rB+kiMdUMDJcSPRFyRhi2/CKqGs/VAh73rV7yYnl8gfUZ8HZ1V9Dad4FO7G/+lfjtIdYG1cBkhwR7GSnx/GHTDSzJlMtfuUY+4F3MxN/zSzcQKQfX+yej7ZcsOa3ZPzoAY9IZPS64AbdPjLH0KvKei+t/anUkbkZA4xYeZcHXxqVzEonzhpVNViwOxoca+nmjcgQxT/aZvH34+aJhNQQahCkiC1C9cMIPV/4NJ6xtNVRKmgg5/LpbAd1qCLwHJzkikC2AHJ/U5dOLns6p8KonPJoq5zGBJ+5RS/zHHxx3O1GKk8rcmHJhKdE75P+vofftOvE4jWWPbDjkq0p/Fd1GpnHcRQxAXJHE7zbOtYZZ1i6HSkedW9een2QcfVg5tZiHFA==;S5iAVSodZAqfnqH5swiPUA=="
 ---

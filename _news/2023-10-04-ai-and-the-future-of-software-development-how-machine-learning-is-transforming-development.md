@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/ai-and-the-future-of-software-development-
 webUrl: "https://techbullion.com/ai-and-the-future-of-software-development-how-machine-learning-is-transforming-development/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,22 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Two divergent skills that matter in an AI world: Math and business development"
-    excerpt: "For those seeking to get heavily immersed in building AI applications, it's time to shore up basic math skills. For those seeking more right-brained roles, business development skills are the top requirement."
-    publishedDateTime: 2023-10-02T20:44:00Z
-    webUrl: "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/"
+  - title: "Emotions are coming to Artificial Intelligence. Will Machines Truly Feel?"
+    excerpt: "Artificial Intelligence is revolutionizing many industries. The focus up to this point is how to leverage the seemingly unbounded \"intellectual intelligence\" that AI brings to the party. It makes sense. We're in the early evolution of the technology, and that's where it's starting out."
+    publishedDateTime: 2023-10-04T11:51:00Z
+    webUrl: "https://www.inc.com/soren-kaplan/emotions-are-coming-to-artificial-intelligence-will-machines-truly-feel.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
+      name: Inc
+      domain: inc.com
+    quality: 36
     images:
-      - url: "https://www.zdnet.com/a/img/resize/bdbde0facf0ff42db0a2012db3bc30d5b6e47a03/2023/09/26/3c2c8202-701f-403f-b22d-8d1df03a9b9d/2paths-gettyimages-1320194843.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1203852772_534024_txpubd.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
+    excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
+    publishedDateTime: 2023-10-04T00:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+  - title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
+    excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
+    publishedDateTime: 2023-10-05T13:41:00Z
+    webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 13
 
 secured: "AP7UCTAXLqOarQdsdCQwHPdJN9KvyY+uomfDwH38tT5xRoU1vjhgwZQ2tShCj0f5U4tLi/94FVfEcAxr60a7aV2KE+PqMx883/g1JDjGQcpiLM9+TZcXnOkKidfWjBXYRNP4Q0dnYE94JNbiuLSBR9r+BGOQqwcnU4cpqHqqsM8fnPN0AJz5gzKjNj9OYyNmKRxtl9//xCopmHSTtmg22WDHRYMXc1a77p9tWIOnQafcphiSSN4p08q+S6pp4vyFLzWuTNQGwLI2aJw37bYobe2TimX2Q1EGqlVH8giNvyS005jJbLaUSRPXazPmRAeKKODi+Y8M6d9QhJkVCu5zq8i5y4rjG/ig6V7y9u+DZlo=;owckRJOc3QHotvguE6o4Qg=="
 ---

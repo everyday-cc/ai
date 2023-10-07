@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Save $30 and start using AI with this ChatGPT training bundle"
+    excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."
+    publishedDateTime: 2023-10-06T18:16:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/save-30-and-start-using-ai-with-this-chatgpt-training-bundle/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 17
 
 secured: "bwTZR2hl5zDo8u8IUot+SNFCwHb4e19RggKC8CTcfhL+RKd72GUMXW1DUcpCCD5cPAIjaQAOx0Q23H87ql9eBhyaWKRhrR3HdDIKPIj5dLcvL+50FV7y+PfspM6hgk/AMX4vljIbFxiXGKrsh1E1tT6bwB7JRfcOUAzjxIceUA7Y/Tf6saA8PGLwFCqDpBUJG/XEFtf7RBB7p4vrV1nHUV5E0rrZ0SRXb7XqoghnSK4DvoyR+S0thqjS2XDrWIFnAzvDmA5SQThIRa3xAQLr4UGAsokr5qU6ougeO8U8sW1Fo/S2mU5aT3XSOanoQwjjsS0fO6V/7nfSL/cgRy4Sgp2UTfHhjVYU7ynTXBP1TbQ=;qUfesyVEyHcMD6vW8IGZsg=="
 ---

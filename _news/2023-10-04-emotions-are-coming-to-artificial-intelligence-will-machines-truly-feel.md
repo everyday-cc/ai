@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/soren-kaplan/emotions-are-coming-to-artificial
 webUrl: "https://www.inc.com/soren-kaplan/emotions-are-coming-to-artificial-intelligence-will-machines-truly-feel.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "AI and the Future of Software Development: How Machine Learning is Transforming Development"
+    excerpt: "The software world is on the cusp of a revolution. Artificial intelligence and machine learning have already started reshaping software development in major ways. Soon these technologies may become as vital for coders as knowing a programming language."
+    publishedDateTime: 2023-10-04T14:50:00Z
+    webUrl: "https://techbullion.com/ai-and-the-future-of-software-development-how-machine-learning-is-transforming-development/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/spw.jpeg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
+    excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
+    publishedDateTime: 2023-10-04T00:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+  - title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
+    excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
+    publishedDateTime: 2023-10-05T13:41:00Z
+    webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 13
 
 secured: "XdrSy18whmY7enTUedN0KLELhd95Y9gfCO3Sqqhn2vsSXNPKTN0WQ1nerwXwiiTBofQFIpPXklDh1KDjpp9+0Ud5POkb0VRzpoMUFhsQVON3kxBM6QOrUM774c3Hygqr1TchTJDTadcJCGtQZ0wZ3JNFL35zfTNlmBvxyHYMULF9KIHN0WYuvU972rwsN0iP7Pp4xuuBelTUSOEnkRPTkG3HLvor0s4pjljwTk8h+5L3VsA0rf+yn3U39kjOk9j+Q6lWDRBRiAmtH4Ua0USmi38y+/FgafBvRvNwmvI9U1yIkgpwBr6DyLUuf9e22w4Uw252Q23RZ1Yt0VfXeRZTm4LRnnNWLXnLonc4RgaQaS0/9NMicbp3Wl2aMIKqlv+pDT1O34EuIGFv+xLG+ObCWC1UJBVYfRmA0gdvWfL3aAvCK73atKi/ZK4GUtrb9O1+b7YijWpLX+PLy80zrGBgq+j3XYtIiQR0rYanxxqG/D7bkbrnLLMvxEUr5trofap9whu/mCnazxWfZOTDvkQOZA==;/mK/pP3bx/ZbucO4pMGZlw=="
 ---

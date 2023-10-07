@@ -93,15 +93,6 @@ related:
         width: 616
         height: 372
         isCached: true
-  - title: "Information Technology And Robotics: Innovations Transforming Our World"
-    excerpt: "Implementing robotics and AI can help measure behaviors and worker performance, which was previously impossible. However, it's essential to approach the adoption of these technologies responsibly to avoid dehumanizing workers or promoting discrimination in the workplace."
-    publishedDateTime: 2023-10-02T19:25:00Z
-    webUrl: "https://menafn.com/1107175558/Information-Technology-And-Robotics-Innovations-Transforming-Our-World"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "a2Wy5Y+9KC5bJMyZDYnlN6+pUf9CXyDceHZjAQU4tqqsuex/EqjoK04JeLsWdBAhF50RoMSjyFECdvJSKa2YwA3ELs3QtZj83EYFZW/xl5TvoWRZBJIG8LNykj2ZOE2xAH5RpATEgj+QVsertiE1kll6dWnRuC0714S4k8qdfsZWmNHqcr6ap9OChed1EkpCKrZwALy5cIHH6TnDvzGe1m6PuKGaVFQmK9+KmLHUARJYYoSZayEyVe4o8ou1j0m2rVdg4Xov+nUeQvvxy64U5+SwwexSScLkfYR+aKB+wjOK/MUThncq72eEo9bt+SecPjhWCLt0/AoeccSdSSMlAEPec47f6/XM2jiVSRZQ5RQ=;t0CR0zfb+jf85BMLZ7ul/A=="
 ---

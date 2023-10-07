@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Sami Almadi Discusses How Technology Is Revolutionizing Leadership In The Healthcare Sector"
-    excerpt: "Technology is rapidly reshaping leadership in the healthcare sector. These innovations, from telemedicine to data-driven decision-making and artificial intelligence, are revolutionizing how healthcare leaders operate."
-    publishedDateTime: 2023-10-02T20:05:00Z
-    webUrl: "https://techbullion.com/sami-almadi-discusses-how-technology-is-revolutionizing-leadership-in-the-healthcare-sector/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Sami-Almadi-healthcare-tech-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "MFKbO9rDlpKbAw9te7gB2e4JoNwgHHMZT4OQrJ75Z0sJLxxzXXVXXL4+1HeT4pmZozT6bzCRnOT8rdqqvkS+pwagq79h64O2KPpZfzYgXBbhG3gApQ4WxaAg3p0qF0rghpc+U4Th+E0ys0HsgFGL9BGMNORnIE1gwj71oT35axUW6FXBPDG7mZsumfQstCLRPqzhjRrkUEAVU/aaDY27px5T0DGGjWI15h7VorMNoTdOMJ83M41m73yeeLBo9jSwBBKpJoh3d7OcEybPM7Fwweh+uvEkooPraiaS1cQFbqfCag3gmch2Gz8ejqCxR/U6X0gDU0dEWszia+xKwiBdy6K5YwbXzsWoWVqo2cJrGOg=;nyzw0xxixcP254xzBzjqMQ=="
 ---

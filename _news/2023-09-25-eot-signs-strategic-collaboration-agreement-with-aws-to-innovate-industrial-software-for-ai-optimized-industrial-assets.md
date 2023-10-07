@@ -1,26 +1,20 @@
 ---
 category: news
 title: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets"
-excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing."
+excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing. (Graphic: Business Wire) EOT is working with AWS to transform how industrial customers unlock,"
 publishedDateTime: 2023-09-25T12:01:00Z
-originalUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
-webUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
+originalUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
+webUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
 type: article
 
 provider:
-  name: Charleston Gazette-Mail
-  domain: wvgazettemail.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/7/8c/78c462e7-5c0e-5ab9-9ae8-b94fb6979d10/6516a500a99e5.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "gKUMzqWF2aHEzWv6rTA6u8ARnZ7lkUKHKEiYqmuk727kwxeaYgm3/I3z8OUWfr7b+mDGtgqR1wNDqm7r8dOdSSPdY5gBUAHB+D6ZgbnUN7R+aE0ncQvGuY+eHfyVPyfzLm+TfJQ4r3JCL8cH6oJrYKawAklBrFxDuMJE0dPG9EVRBYFBnHBvvQGM63CEcgdrtsMBkLiF0s4hHFy++An46tSYdaKHvgcCw+hlFRe1csF6dAj082/b9VOBDzZvZK9qtISHMfZOvLNfMkv+AJUrfyvrQ79peoj5qvGe9RvUIGaRNFZwTHwq+3MCBw1nEhWC1qk9aJupRRpBbJ9m4BW7EKwO+wb3CWGbaQqEtGbRTkc=;+uO5W4rv9jadABHfmpAPFQ=="
+secured: "UmEBLjBQ4Sqre81ZtyVzHE4wSElvZJZozbMCKOJcjawBcVCAUtdcZAoh6Qof2mJ8erXDGwanoz/HvjU1JF9ge8yraNMnHlosCB4dODABWaxFSzV1dg4JkET6qWCXqK4FbZHqO6u8/Cqbi9GykCtk2m82XTPTloRFmefZTdSElZ/EJ5OGdzi0r/osV2v8RJltMzSyimmmUqqtQ4nC836h6U8unNWdubbf+LrMh7jSVT7bwg+1pVMYBaiNnsr1nDddml6MC2J1ZrMEIFf0UdwnLnFCnS2bbWxydtAPkDwTuKjCD/IMWWMglH4YNsGqwYiR3MMQhVfSvs1hT5XGqAXS4e+epakz/3SG1ysDki2t5Mo=;zDRcWsdmvzehVsXWl3HjBg=="
 ---
 

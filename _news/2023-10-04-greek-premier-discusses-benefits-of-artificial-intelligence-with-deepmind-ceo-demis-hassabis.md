@@ -73,6 +73,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Google DeepMind unites researchers in bid to create an ImageNet of robot actions"
+    excerpt: "Google’s DeepMind robotics team this week announced the work it’s done with 33 research institutes to create a shared database."
+    publishedDateTime: 2023-10-05T16:13:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/google-deepmind-unites-researchers-in-bid-to-create-an-imagenet-of-robot-actions/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 61
+  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
+    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
+    publishedDateTime: 2023-10-07T13:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
   - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
     excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
     publishedDateTime: 2023-10-03T09:31:00Z

@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
-    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
-    publishedDateTime: 2023-10-04T15:41:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z
@@ -124,6 +115,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Opsera raises $12M to introduce generative AI DevOps features"
+    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
+    publishedDateTime: 2023-10-05T18:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "/dpHTiMIwK43FHdRt4gAZmElfmbwlqsYW0WCDh9y30EFLkmTha151+3BIEC+Y5RmIhcya5oEkDIwD06U/UgeBU8vObo/i/WzX5kQZgHU19KJQJmmFeU8R+X2sGqXuyNd4enfNrz6TLhlaWfMK6sHQvLtuqE9P11pmz2T1olx7z1qWTk6tf1quNRN6IQ4locfL0wgliEEx01jkwCeBlalIGdB6oVrDpWg+gm0esYlb95/ihtbwMu0UrZUpy34O/eg6mZvvvylbrSqNf5GCWLpt21KO1kd4BFKNLYTGXIEwGJQiSKjycFcLPWTI+hz8DnfP/+fI2Lp2+wD0JhkEmr0HU3Djs+LVbuduTKrzGtgzupkoFJrmMRrxzvWpbQmjcz1fQhm13eLmWH8Bjf2+S1LeM2W62zyuZvNY4FWHAzcW+vCKel2puUWCo0Sb9GuRRAkM4QFVr7KdIfD9s/ZbB/Zf6XTO5wy9ywRCEjJEwnGeiror1r0FljuZki8mYjpVHrZRmjNXbg9ZcsB2w3fxCI0qQ==;JPmZmAqQuV5v2bb+SoUPWw=="
 ---

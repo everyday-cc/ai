@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/parkour-algorithm-robodog/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/parkour-algorithm-robodog/?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

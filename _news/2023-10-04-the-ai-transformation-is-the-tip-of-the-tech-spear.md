@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 616
         height: 372
         isCached: true
-  - title: "Information Technology And Robotics: Innovations Transforming Our World"
-    excerpt: "Implementing robotics and AI can help measure behaviors and worker performance, which was previously impossible. However, it's essential to approach the adoption of these technologies responsibly to avoid dehumanizing workers or promoting discrimination in the workplace."
-    publishedDateTime: 2023-10-02T19:25:00Z
-    webUrl: "https://menafn.com/1107175558/Information-Technology-And-Robotics-Innovations-Transforming-Our-World"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "nIa0XJqktQ0ZNo0QJ5u3UXnK3lvADA+u5z4+YHUykTnFHRqpXn8EJHnPzmgxYmChqtW0yTOdSvWFFY+KYe/c1ZsoriUXeSC9PGiMgxDjL/SFglMHB3mJFgQBR/tejRZQVUqP5VN4MYMvyscFaanE/or1PGNEwlBOj/rfuNgQsIfLs+43/uPsCpkwCkvSatgUs40MLTxyELTc82f7csLR8X1/fxRcqG05+w5OzwKwvtYUsCmrXXZpvoScDcxR3zVTuYktK/zHASU4PuzpBfP9ryqaoxMbsBknR/6pUenK+beqGaos9VndLA0ImtJgA/22fQZew9J2NfKzryLwIl0MT1ooT+JWj6Z4HZTgsctAo5A=;X7EG8iuSyIsxQ0EV0h+SZg=="
 ---

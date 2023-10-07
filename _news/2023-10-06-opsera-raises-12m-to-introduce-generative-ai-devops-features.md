@@ -19,98 +19,107 @@ topics:
   - AI
 
 related:
-  - title: "Visa earmarks $100M to invest in generative AI companies"
-    excerpt: "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,"
-    publishedDateTime: 2023-10-02T21:21:00Z
-    webUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/"
-    ampWebUrl: "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/"
+  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
+    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
+    publishedDateTime: 2023-10-04T23:45:00Z
+    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
+    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 816
+        height: 675
         isCached: true
-  - title: "Current Risks Involved In Adopting Generative AI Technology"
-    excerpt: "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ..."
-    publishedDateTime: 2023-10-03T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterbendorsamuel/2023/10/03/current-risks-involved-in-adopting-generative-ai-technology/amp/"
+  - title: "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation"
+    excerpt: "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks."
+    publishedDateTime: 2023-10-05T07:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c2217aca56578158bcdc4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 712
+        height: 675
         isCached: true
-  - title: "Docker dives into AI to help developers build GenAI apps"
-    excerpt: "Docker Inc. announced today it's taking a dive into the deep end of AI with a series of initiatives designed to help developers more rapidly build generative AI applications."
-    publishedDateTime: 2023-10-06T02:18:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-to-help-developers-build-genai-apps/"
+  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
+    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
+    publishedDateTime: 2023-10-05T17:48:00Z
+    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 60
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-5.20.26-PM.png?w=1200&strip=all"
-        width: 799
-        height: 495
-        isCached: true
-  - title: "Visa Launches $100 Million Venture Fund for Generative AI Startups"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs*. Margin loan rates from 5.83% to 6.83%. Get up to $700 when you open and fund a J.P. Morgan Self-Directed Investing account with qualifying new money. Generative AI is a technology that ..."
-    publishedDateTime: 2023-10-02T22:43:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-02/visa-launches-100-million-venture-fund-for-generative-ai-startups"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Visa invests $100m in Generative AI innovation for payments"
-    excerpt: "Visa commits $100m to fuel Gen AI innovation in payments and commerce, embracing transformative technologies for the future of finance."
-    publishedDateTime: 2023-10-03T14:34:00Z
-    webUrl: "https://fintechmagazine.com/articles/visa-invests-100m-in-generative-ai-innovation-for-payments"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/a0e03c622d1451048c52f9103d4dba4f:e5fc263a4160e2985969196e697c1708/visa-logo-blue.jpg.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 672
         isCached: true
-  - title: "Visa launches $10- million fund for gen AI start-ups"
-    excerpt: "Payments processor Visa has launched a US$100-million venture fund for generative artificial intelligence start-ups, joining a list of investors who have flocked to the sector this year. Several high-profile names such as Microsoft and Google have backed the AI space, a buzzword in technology circles this year, after chatbot ChatGPT’s popularity."
-    publishedDateTime: 2023-10-03T06:17:00Z
-    webUrl: "https://techcentral.co.za/visa-10-million-fund-gen-ai-start-ups/232680/"
+  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
+    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
+    publishedDateTime: 2023-10-05T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
+    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
+    publishedDateTime: 2023-10-06T19:42:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+  - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
+    excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
+    publishedDateTime: 2023-10-06T01:35:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2853"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 26
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/03/visa-2156-1120-1024x532.jpg"
-        width: 1024
-        height: 532
+      - url: "https://mma.prnasia.com/media2/2237422/Employees_Businesses_Open_Embrace_Generative_AI_Concerns_Over_Jobs_Skills.jpg?p=medium600"
+        width: 599
+        height: 422
         isCached: true
-  - title: "Visa puts $100 million behind generative AI push"
-    excerpt: "Card network Visa has earmarked $100 million to invest in generative AI companies operating in the payments and commerce space, it announced Monday. Why it matters: Major financial institutions are still treading carefully around the technology, in part due to concerns about data privacy."
-    publishedDateTime: 2023-10-03T15:24:00Z
-    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/03/visa-puts-100-million-behind-gen-ai-push"
+  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
+    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
+    publishedDateTime: 2023-10-05T22:59:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "Z6bh6X6pGzCqd72ORRyqmjKIU8gBnbH7C+OOqFh9eGosT7SUxUINBTdJM3nm93c/yaX2az7Kybo9g7KmGkbkDjhW0KSopfXnXphk16bcT3lvA5sga87Gdc2OBD4hpUB4ZWn39KTq7yL48HXdPuVnU+a5w3IkYbXnvoDHNByjiuBhg+OIfjtLRqiD+cwM3fzZ/6tjFDdZLRiQcXXhNQjkEq13v5TdyAOG3k0sCvNvWcYW99dm71XvMKZU+dwXqstjyKc7iBUW5jTrdqHZZbbtyWwZPs1QoY2ECxeu9V4KUNEKzZY5yaClwHWFDKsQcDhubFKUVknQv5C/XePN1xMsglLjwiIyxxYkFas27RBeWffXxmU+G94mDjq8mnCxXO3KkaQM7KcIToRJeswU2APNv3TfgO1Sbu4RldbEFU2LY/PuM3Nct4Y0E8qXdmuIKb5GcBXuEv7QUKKRyx9dgJ7xDTC97MvRDgU3heVYYtNsvVgndqrJmec7bTbaUVGZwxEuecZnDVRqcKydMYgGcUqoeQ==;1xkGE7hpFZiy1pPZXkikeQ=="
 ---

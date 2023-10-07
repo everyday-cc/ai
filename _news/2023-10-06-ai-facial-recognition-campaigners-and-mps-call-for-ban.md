@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
         width: 945
         height: 630
-        isCached: true
-  - title: "The rise and fall of Clearview.AI and the evolution of facial recognition"
-    excerpt: "Facial recognition software has come full circle, from tech darling to tech disaster."
-    publishedDateTime: 2023-10-02T22:16:00Z
-    webUrl: "https://siliconangle.com/2023/10/02/rise-fall-clearview-ai-evolution-facial-recognition/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/04/Surveillance.jpg"
-        width: 1600
-        height: 1200
         isCached: true
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
