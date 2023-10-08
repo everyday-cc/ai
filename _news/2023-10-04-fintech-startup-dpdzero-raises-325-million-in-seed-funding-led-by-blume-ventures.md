@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-fintech-startup-dpdzer
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/"
 type: article
 quality: 53
-heat: 93
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup DPDzero raises $3.2 million in funding round led by Blume Ventures, IndiaQuotient"
-    excerpt: "DPDzero plans to use the funds primarily to “enhance product distribution, expedite product development, and assemble a high-calibre team”."
-    publishedDateTime: 2023-10-04T05:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/articleshow/104148425.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-52360,msid-104148428/founding-teaml-r-ranjith-ramachandra-ananth-shroff-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
     excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
     publishedDateTime: 2023-10-06T02:25:00Z
@@ -70,20 +54,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
-    excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
-    publishedDateTime: 2023-10-04T04:45:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/fintech-startup-dpdzero-raises-325-mn.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 28
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItlYjUaH2zC4gnhsi95XtTk69BMPLWbU2PxeCVYucaFMpoJaP8uTsl24V4fwwiXN-j9H4BbudVWD1kuSguaa0CJ8duMwPfz-ABjXiyaKI9PQi0JRLGhbMRGfHc9ItMSUyJl7LRGmgQ01Qmnp8ED8Xxtk-XV9dMAHiSzxiCp4JZ1nC9KTVW-5bsWOFCIs/s16000/Founding%20Team_Ranjith%20Ramachandra%20&%20Ananth%20Shroff.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "FGeaou3L5KB2XsfEsqOSI4a4qjD9n8hUlKVxAvylClLYVL9JwkVu/tI4pT832Pa8M7tNhLtJVMgMc4O/xQDpTUQ9hMDD4XrsaB2/GDUmDOWcey7AvNzhDqCfx/fQHRQ2GZG8PlFfcHOUIGpCTfMTdVOBhQN3iLMSZgjqDyZJ/Wn2buHtlccb81uLCV3yD9YcUsXVKbrD3A4z/I3eDoNMXNtpFN8qDlbjYIfayblzPnCx/4xRilu5YIzRRxIG9tfLfRr0oCJH+mOOailgy86SYq7SD+dQQLwLAQ6FH3hnDJ2PK1qTVDtfjtCbGsLBM62+Fbm6m96IVb9/AcCaiKzHSTuYAgBE8cg7vgbyCcZU9ifq+FwGGLtUzKskFnopq5PgGYmve1Ihmr/hMUGX1fatF9zX59yCQIX6leSUjqwjS1hNgHGMFAds6jDDTGgTqifUoB6IpIVSPaca0nexVgYXqn9b81dQLQ/6Mrug5y8FV6Yw97FUPyITaMycRe+RhxUn0FpX7XGMzNrZn2OnHcLTDg==;xKrBTQxcRcFLlwr1WYa1GA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4506afd5d6c97006c61ff472cdbe3c1dde08cb8/0_191_5849_3509/master/5849.jpg?width=620&quality=85&auto=format&fit=max&s=8946f96664ea02c09c30113a1457c21a"
         width: 620
         height: 372
+        isCached: true
+  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
+    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
+    publishedDateTime: 2023-10-08T21:25:00Z
+    webUrl: "https://thethaiger.com/ph/news/554694/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 48
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Snap might have to withdraw its AI chatbot, watchdog says"
     excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."

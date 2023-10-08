@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/experts-officials-w
 cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/experts-officials-warn-artificial-intelligence-challenges-2024-elections-michigan/69-5c023146-5381-49f7-b3eb-ef143f7988b0"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
+    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
+    publishedDateTime: 2023-10-08T19:09:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "04Kga895aSEUHnBYxoNDlSz4S90MfZBGNLHA5Q6hG8Fqn7zGf3sSg17GlSNWWjRCj3VX0RMbQl2IztGNVAQeFZzLwA15qJ3LFjPi0Xsm3SB2GphknVopyZ9/idrFEBCWsHqCuEEnukV3sSJkhT41ZkophWD9gVr8m18xN5AvxI8Ggq6OujAblWwCQIio22wbWhujs7FO+DGtcXusAK9liWrbi3CUkpWJXmBk4iTVrLEvCvdXwrthTXhN0g/1CvrbTUI9eBFzxP5SSnd3XI06rV/C907urs9csVutzRSzmyjMmWzPXCAvRTD/JLoplv2w1JRH4og8pSjhZsxhF8IKsrmIPw3UsmRj5Uht5Dxowqd1RMRzCvW8GAZ6BtfIqJF0ZlTSi92n3GYyuLAbDaqpsoqa+rX3oYUklRjoPf6lPzQncWt5GnvW8+gYADFKu7DJ+TwHHoQNELhurCoanFZz+HJqqVheNdV72dVEfEv6A6UUXnCMUhcEN3w3Kpn/QfcqBprQ/Gs5X5YLcKzoCTDofQ==;7DpIj0yKjiGq73nSdchUcw=="
 ---

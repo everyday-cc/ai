@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI Throwdown: Open Source Vs. Proprietary Models"
+    excerpt: "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models."
+    publishedDateTime: 2023-10-08T19:40:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/"
+    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Customized test benchmarks and openness crucial as generative AI models evolve"
     excerpt: "As generative artificial intelligence (AI) models continue to evolve, industry collaboration and customized test benchmarks will be crucial amid organizations' efforts to establish the right fit for their business."
     publishedDateTime: 2023-10-06T09:24:00Z
@@ -207,6 +223,15 @@ related:
     provider:
       name: manilastandard
       domain: manilastandard.net
+    quality: 19
+  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
+    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
+    publishedDateTime: 2023-10-08T19:52:00Z
+    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
     quality: 19
 
 secured: "w/JOiCwpU63Y+pTQzeoDeRpXIRVthASKvvGhSxmf68o0HuMXshEWt/o+rE7KToG2yOCHLN86I2a3NEgqYiqo02wAwvDGIriO0jMDoN/8XUdjveqPOyewYAmKWkGAWtkBYH2Dg9ZPaDgaQfuvRvjbQ4kf42++eguikkw9zNaFplBlApxoZuZ892uePAU4cHPoVRUqqizQ0s25Z9/YKX1kA2/VrxV6yoTZ+2A55p8vON6+U3GfzQnV4ngTaC+ljsrAaDmFbNVBQXqNJX2s4WxDgmIr8SrP0FI7lVXzhn+AMfj15lWBTn5kh+WFEg6APEefd1s4RIN6N2o3DtQ2vNvth2bjH9ZGQxr8tAP80nS2agVN0dBJef/nDVZb18U9ej+JVIVOOkn4kFmIr5W0UJ6YZ/NlMKeCItb2nf5+S/m+lGSC0DAhezYYJFyTkFAMxyBM6OzZfRWuqUgM8rg8KAijrDzmlSSfJXMJ2ggu0W06QhI7UBFutn9mxHtIgh139GBwIhD+leH6lfRecrciTAEwbg==;9jSFVNFK8uedG+8YuE1lfg=="

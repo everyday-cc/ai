@@ -160,6 +160,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
+    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
+    publishedDateTime: 2023-10-08T21:25:00Z
+    webUrl: "https://thethaiger.com/ph/news/554694/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 48
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Snapchat's AI chatbot may pose privacy risk to children, says UK watchdog"
     excerpt: "Britain's data watchdog said on Friday Snapchat had been issued with a preliminary enforcement notice over a possible failure to properly assess the privacy risks of its generative AI chatbot to users,"
     publishedDateTime: 2023-10-06T10:58:00Z

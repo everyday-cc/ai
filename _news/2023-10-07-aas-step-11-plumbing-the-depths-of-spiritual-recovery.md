@@ -1,12 +1,12 @@
 ---
 category: news
 title: "A.A.’s Step 11: Plumbing The Depths of Spiritual Recovery"
-excerpt: "A.A.'s Twelve Steps outline a way of life, and step 11 addresses the spiritual side of recovery. Prayer and meditation are two sides of a dialogue with your higher power: talking and listening. Following God's will means surrendering to whatever is needed to maintaining sobriety."
+excerpt: "Once a person recovering from alcohol or other drug addiction has established the way of life suggested by the tenth step for maintaining the benefits of recovery (see A.A.’s Step 10: A Way of Life),"
 publishedDateTime: 2023-10-06T20:31:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery"
-webUrl: "https://www.psychologytoday.com/us/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery"
+webUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-from-addiction/202310/aas-step-11-plumbing-the-depths-of-spiritual-recovery?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "qtq0/Hht/MapPeQ+nBgLPAMpIuNVmAkMhYtmrbgC/xCzOlsXJSuBpdvg95HF7L8x8w2qgI2AM9D91jnIHgq5o/Zcv/O6iagdeyVdAnyj17QjFFKmJbfVA/wLeY9sNmPKwJJfmwInuQOHDBYjStIFDsOZhQ1t/OvrtTCK/eKpotnjEWChjQfq29AyKbfL58WL51emWO/IzHgYvQUEUiaSli6QlZVR6UftnAkKGxNhXfifx1cpRdtBHzS9JGybYUBJTnGBhGcKFKdgv4UHNZs0N7k98I6Cyv3QVfRNvUP37b3GmPQ06GXvBDDqVadFV9ek9K51B8gKhH4wgBHVrsnVpiV2XgEEDE5uylyP3WvUwJj2q0ilF0o6rrsD1XlReOfvGDq/qQz9423WmYS8sy48N55qC3wpyDKgOdIi+9+YoH9TMKCWF2gzM+5bBRznRud81m5ngVoBP3v6ro3ZNkVhmk/kzeLl9KUibfG4yZeuiKGtbwzcG1/i0Zxyc9/92d483iyCE+cmzkZd9xc3M7azAA==;SguIjl7zutt0o+CUn9fc4Q=="
+secured: "NH7dab3+4DyVAr4aoPrhKWnLbkX2NHeLFfcQpzOxS928jAayDdCZBV0RhQ0azReLTFnRSu6KCUQYbLd1Hhof4/4hcBVdRoLlOZa2Jg4hBfux/Ja3Y6RVxDXmx76hvSb6G2Z7z876qbC0pgpyPzNmKCqlckAClub0tt5yiunzPNlfV6+yq1nRHyQXHCnU4B9JW9hLRkv4rIbUG1rSn8Jd14qLS8Oy8yEDCZ43grpybV1wonIqVsElAM7Va3zF7IafyShmmnDcpvEGWUJ5Pb9rm6mMMVoCSQlA8j0nWbdidYdQ7KD+y/B3qEXOA88x8r9oDRsedhdiXCrD8Feh3CaZO7iaUO5XseuoCdAIctWANVc=;awupcsBJY2UBTUw8TlaVqQ=="
 ---
 

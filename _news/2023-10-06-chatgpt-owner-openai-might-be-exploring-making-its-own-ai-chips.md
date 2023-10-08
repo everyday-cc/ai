@@ -19,6 +19,66 @@ topics:
   - AI
 
 related:
+  - title: "Are Microsoft and OpenAI making moves to enter the AI chip market?"
+    excerpt: "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While"
+    publishedDateTime: 2023-10-08T13:46:00Z
+    webUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg"
+        width: 1100
+        height: 733
+        isCached: true
+  - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
+    excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
+    publishedDateTime: 2023-10-05T16:37:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
+    excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
+    publishedDateTime: 2023-10-08T10:48:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/08/microsoft-to-unveil-its-first-ai-chip-next-month/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 98
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Microsoft-AI-chip.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
+    excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
+    publishedDateTime: 2023-10-08T11:03:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 89
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/nepal-51-1696762830.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T14:04:00Z
@@ -34,6 +94,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249"
         width: 594
         height: 395
+        isCached: true
+  - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
+    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
+    publishedDateTime: 2023-10-06T20:06:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-to-debut-ai-chip-next-month-that-could-cut-nvidia-gpu-costs"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 86
+    images:
+      - url: "https://tii.imgix.net/production/articles/11418/b13870cc-3991-4322-8e1f-3cd48e02df56.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
@@ -157,6 +231,34 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
+    excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
+    publishedDateTime: 2023-10-06T21:13:00Z
+    webUrl: "https://siliconangle.com/2023/10/06/openai-reportedly-develop-custom-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/openai.png"
+        width: 989
+        height: 520
+        isCached: true
+  - title: "Microsoft prepares to unveil its AI Chips next month to reduce costs"
+    excerpt: "ALBAWABA - Microsoft is gearing up to reveal its artificial intelligence chips next month in a move aimed at cost reduction.The company, co-founded by b"
+    publishedDateTime: 2023-10-08T08:04:00Z
+    webUrl: "https://www.albawaba.com/business/microsoft-prepares-unveil-its-ai-chips-next-month-reduce-costs-1536932"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 71
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-10/Microsoft%20prepares%20to%20unveil%20its%20AI%20Chips%20next%20month%20to%20reduce%20costs.jpg?itok=w5D_NFg5"
+        width: 810
+        height: 540
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
     excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
     publishedDateTime: 2023-10-06T04:04:00Z
@@ -170,22 +272,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/06/f766d764-37e7-44a4-b8ff-55abaf92d6cc_9d899f76.jpg?itok=-r1GFiTG&v=1696564271"
         width: 1200
         height: 630
-        isCached: true
-  - title: "It’s ‘War’—CEO Of ChatGPT Developer OpenAI And AI Pioneer Issues Stark Bitcoin Warning Amid Crypto Price Swings"
-    excerpt: "Sam Altman, the chief executive of ChatGPT developer OpenAI and artificial intelligence (AI) pioneer, has warned the U.S. government is waging \"war\" on crypto and wants to \"control\""
-    publishedDateTime: 2023-10-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6492c93c9243df4befb3466b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "ChatGPT maker OpenAI plans to start making its own AI chips. Here's why it's important"
     excerpt: "OpenAI aims to resolve AI chip shortage by diversifying suppliers and testing custom chip. The company has also been exploring potential acquisition target."
@@ -203,22 +289,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "ChatGPT's Silicon Ambition: OpenAI Reportedly Eyes AI Chip Domination Amid Nvidia's Reign"
-    excerpt: "OpenAI, known for its AI chatbot ChatGPT, is reportedly contemplating developing its own AI chips or possibly acquiring a chip-making company to address the ongoing AI chip shortage and reduce dependency on Nvidia's GPUs,"
-    publishedDateTime: 2023-10-06T03:13:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35119686/chatgpts-silicon-ambition-openai-reportedly-eyes-ai-chip-domination-amid-nvidias-reign"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35119686"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35119686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ChatGPT.OpenAI.Shutterstock_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
     publishedDateTime: 2023-10-06T19:31:00Z
@@ -228,6 +298,29 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
+    excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
+    publishedDateTime: 2023-10-08T07:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 62
+  - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
+    excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
+    publishedDateTime: 2023-10-04T09:32:00Z
+    webUrl: "https://www.newfoodmagazine.com/news/195390/dominos-and-microsoft-team-up-to-use-ai-for-smarter-pizza-orders/"
+    type: article
+    provider:
+      name: New Food Magazine
+      domain: newfoodmagazine.com
+    quality: 54
+    images:
+      - url: "https://www.newfoodmagazine.com/wp-content/uploads/shutterstock_1347282647-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
     excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T04:17:00Z
@@ -284,6 +377,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
+    excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
+    publishedDateTime: 2023-10-06T14:28:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/252f5c3126fe5d8c8091b518774c5dbf/zaybb216crh9inxl.png"
+        width: 884
+        height: 640
+        isCached: true
   - title: "OpenAI Considers Own AI Chips Amidst Shortages"
     excerpt: "OpenAI, known for its brainchild ChatGPT, has a new idea on the horizon: making its own AI chips. Sources tell Reuters that OpenAI wants specific technology which is currently scarce. This move could"
     publishedDateTime: 2023-10-06T13:45:00Z
@@ -337,20 +444,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI wants to develop its own AI processors to combat GPU shortage"
-    excerpt: "OpenAI wants to develop its own AI processors to solve the shortage of specialized processors, especially GPUs. To this end, the generative AI specialist"
-    publishedDateTime: 2023-10-06T09:52:00Z
-    webUrl: "https://www.techzine.eu/news/devices/111987/openai-wants-to-develop-its-own-ai-processors-to-combat-gpu-shortage/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1458458495.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
     excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
     publishedDateTime: 2023-10-07T08:50:00Z
@@ -379,22 +472,70 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa ..."
-    publishedDateTime: 2023-10-05T09:48:00Z
-    webUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860"
-    ampWebUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
+  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
+    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
+    publishedDateTime: 2023-10-04T06:04:00Z
+    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 52
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
+        width: 1051
+        height: 701
+        isCached: true
+  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
+    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
+    publishedDateTime: 2023-10-04T14:15:00Z
+    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 52
+  - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
+    excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
+    publishedDateTime: 2023-10-08T12:37:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-may-debut-its-first-ai-chip-at-ignite-2023-to-mitigate-cost"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 51
+  - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
+    excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
+    publishedDateTime: 2023-10-08T14:41:00Z
+    webUrl: "https://www.thestreet.com/technology/microsofts-ceo-nadella-shares-fear-about-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 49
+  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
+    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
+    publishedDateTime: 2023-10-05T05:31:00Z
+    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
     quality: 48
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.724861.1696498833!/image/image.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
+  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
+    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
+    publishedDateTime: 2023-10-04T17:16:00Z
+    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z
@@ -404,29 +545,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
-  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
-    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
-    publishedDateTime: 2023-10-05T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
-  - title: "ChatGPT distracting from wider AI issues, industry body warns"
-    excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
-    publishedDateTime: 2023-10-05T09:55:00Z
-    webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "OpenAI considers making its own AI chips, acquiring hardware business"
     excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
     publishedDateTime: 2023-10-06T12:41:00Z
@@ -436,14 +554,14 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 36
-  - title: "3 ways AI is revolutionizing how health organizations serve patients. Can LLMs like ChatGPT help?"
-    excerpt: "Machine learning and AI are transforming medical treatment involving functionality, diagnostics, and more. Meanwhile, large language models -- like ChatGPT -- are still in the early stages."
-    publishedDateTime: 2023-10-05T18:51:00Z
-    webUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
+  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
+    excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
+    publishedDateTime: 2023-10-06T19:36:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SREN/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 34
   - title: "Report: OpenAI could develop custom AI chips"
     excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."
@@ -463,34 +581,15 @@ related:
       name: tech
       domain: techstory.in
     quality: 34
-  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
-    publishedDateTime: 2023-10-05T18:32:00Z
-    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+  - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
+    excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
+    publishedDateTime: 2023-10-08T19:24:00Z
+    webUrl: "https://techreport.com/news/openai-considering-manufacturing-its-own-ai-chips-amidst-shortage/"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
-    publishedDateTime: 2023-10-05T20:23:00Z
-    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
-        isCached: true
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
   - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
     excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
     publishedDateTime: 2023-10-06T12:00:00Z
@@ -500,15 +599,15 @@ related:
       name: Firstpost
       domain: firstpost.com
     quality: 26
-  - title: "Save $30 and start using AI with this ChatGPT training bundle"
-    excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."
-    publishedDateTime: 2023-10-06T18:16:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/save-30-and-start-using-ai-with-this-chatgpt-training-bundle/"
+  - title: "Peter Thiel's Multiverse Theory, Tom Hanks' AI Warning, Microsoft's Bing AI Image Creator Controversy And More: This Week In AI"
+    excerpt: "PayPal Holdings Inc. co-founder, Peter Thiel, weighed in on the longstanding debate among physicists and computer scientists about the nature of our universe. In the World of DaaS podcast, Thiel suggested that depending on who you ask, we are either living in a multiverse or a simulation. Read the full article here."
+    publishedDateTime: 2023-10-08T13:07:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35138188/peter-thiels-multiverse-theory-tom-hanks-ai-warning-microsofts-bing-ai-image-creator-controversy-and"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 17
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "WBE2udjqgYoTJJITf9wO1+wlupwF5MRsS+EvomAA9PVTyxJEDlazUXyE9KAZOEOWtWV/0JuDkEXUyLQhqUxzMz0sVTM6x18e1LJdIFnJt59HhKhmhl/fD4MxzpwNtGYBEG3VGWuJ59G9mzJx0Mp1uoXAfF3+LXf09N4TLmcj3VyNK38Akm1Fi3c427eey2A3CfCn2dU5JFNPXIkq0WlmOWSVLJW56dhbwW63dZ8r9H5xpLOAPveP3wV+Q8wqSufz/WwB/mqs0Yx4dlAWsAYzqgSslzgqaV+KEKjzZ3S/TXl0Ucgs+OPADJN8XUU3Qc3hGHgPl9Gn2heKNzNhrx+If74TJaT2uDFuoE38sPq807kIxT0LjT8hLwPv4fi63zTb4zXq8iAuDta34Rc1u6L0lovEZNMZcf5gDrwE8orXYdWQtQQXUpbXsUdK7UHT8F/h3MLObeGevCtIY8NLoUQvPHeyDGo9PK6rZQ8d9LsarRK0989nNmU2wdeW/z9BR+5bJ4WYn/CPBYj7R8WmzfZFWw==;R1eQVlV4hCxViIH5An/lGA=="
 ---

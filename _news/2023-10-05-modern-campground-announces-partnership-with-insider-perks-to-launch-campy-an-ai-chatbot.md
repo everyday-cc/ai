@@ -153,6 +153,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
+    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
+    publishedDateTime: 2023-10-08T21:25:00Z
+    webUrl: "https://thethaiger.com/ph/news/554694/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 48
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Snap might have to withdraw its AI chatbot, watchdog says"
     excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
     publishedDateTime: 2023-10-06T13:37:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fintech startup DPDzero raises $3.2 million in funding round led by Blume Ventures, IndiaQuotient"
-    excerpt: "DPDzero plans to use the funds primarily to “enhance product distribution, expedite product development, and assemble a high-calibre team”."
-    publishedDateTime: 2023-10-04T05:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/articleshow/104148425.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-dpdzero-raises-3-2-million-in-funding-round-led-by-blume-ventures-indiaquotient/amp_articleshow/104148425.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-52360,msid-104148428/founding-teaml-r-ranjith-ramachandra-ananth-shroff-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Fintech start-up DPDzero raises $3.25 million in seed funding"
     excerpt: "DPDzero, a fintech start-up, has raised $3.25M in seed funding from Blume Ventures, IndiaQuotient, banking and fintech leaders. The start-up aims to fix the root cause of delayed repayments and has partnered with NBFCs and attracted interest from private banks."
     publishedDateTime: 2023-10-04T06:56:00Z
@@ -70,20 +54,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Fintech Startup DPDzero Raises $3.25 Mn in Seed Round Led By Blume Ventures and IndiaQuotient"
-    excerpt: "DPDzero has announced raising $3.25mil in Seed Funding led by Blume Ventures and IndiaQuotient. Prominent banking and fintech leaders"
-    publishedDateTime: 2023-10-04T04:45:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/fintech-startup-dpdzero-raises-325-mn.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 28
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItlYjUaH2zC4gnhsi95XtTk69BMPLWbU2PxeCVYucaFMpoJaP8uTsl24V4fwwiXN-j9H4BbudVWD1kuSguaa0CJ8duMwPfz-ABjXiyaKI9PQi0JRLGhbMRGfHc9ItMSUyJl7LRGmgQ01Qmnp8ED8Xxtk-XV9dMAHiSzxiCp4JZ1nC9KTVW-5bsWOFCIs/s16000/Founding%20Team_Ranjith%20Ramachandra%20&%20Ananth%20Shroff.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "GaOJvnnlH1HLSzpe2YrPYXVjzKolaTLtsinqjVof/+5lV/NMvQ3fRMZzR0oTmINOeFem3m2R0pcB0fwosHPb+uwkCaiFRFLJhV50gJ6+UfIhs38EX5fHQkMOSjBZFElNlLAKb5pDN0wiWnjTUrcAv2yUUTKEZGMSdlrT+UI8wEzsGUlzd5CiWUFp4I/sC4XLab5K7j6WkgGUy4llIt/rwOVzWB4loMSwWLlo3DcifYZjkgzlM8uBL/dwbUuNxgpQjrAbltptLWhTunvVmbJLwsivH6uULkllqLCOXbVEo+4GzkoQbProKNOjHALt7xScZcVz40YoMNWdZv+4ITrreiSAZCReOroDCjvbVIl5I6INQQ3d6WoUZIc409fYGeH9nPu89jozeyJHY9wt50KF+ha7Aa6XN6qizMSl+jP1lvNC5MkRuDcPLRZBy5knhKDnHEQJdsw25P36PV6zUbrpc4sqqMuN5PepiUxYLsMlEsQJ+FTPLF4oURYqsgv70zynFS5IOqZ9NEwf/WL8D/lZQg==;9u5wbLRifQHIwlydBejd0Q=="
 ---

@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US agency, California gathering details of self-driving crash"
-    excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
-    publishedDateTime: 2023-10-04T01:49:00Z
-    webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "mGvmtV35ZvTA2u5ISTngFPKigagYBa5wmwvwkVhqE8P7+jsXL6DtjrcT00z4pxhX7AajwWECTLDVrqa5NQe/hIVXSs1uk0TU7O5VMKBR4Qqw0jeqpnFYuVB3fIdlwHQgg7JY/faPwUyTTSXDJleCACa+a7J5kqeZx8s3my6Wy40tLgKUqkS2Kno1lo8qDna/afzPZKKUGYR4/o+lxQbF/SHdFLINFEG+A54y8iRwIsLR+y/qjQOcCRTmGtGdX6uRh3jo7hWxjv9MIkDW7ZGX3czlHDm+JY+5nu4TVnc41tVZ9SmKS4urzpfWenqFSV++Z/wmJhiEBK+moPAyNbeCwUH4iq12Ucvi6Sa0lbKuDX0=;euZVDRClXZCV1dMBUZZmZw=="
 ---

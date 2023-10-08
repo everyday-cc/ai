@@ -40,15 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Softbank CEO Masayoshi Son Says Artificial General Intelligence Will Come Within 10 Years"
-    excerpt: "TOKYO (Reuters) - SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realised within 10 years."
-    publishedDateTime: 2023-10-04T01:53:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-03/softbank-ceo-masayoshi-son-says-artificial-general-intelligence-will-come-within-10-years"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 23
   - title: "SoftBank's Son says AI will surpass human intelligence in a decade, urges Japanese firms to adopt"
     excerpt: "Softbank CEO Masayoshi Son says he believes artificial intelligence will surpass human intelligence within a decade, urging Japanese companies to adopt it or be left behind."
     publishedDateTime: 2023-10-04T15:12:00Z

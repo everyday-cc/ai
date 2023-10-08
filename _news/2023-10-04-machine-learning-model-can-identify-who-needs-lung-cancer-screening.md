@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Machine learning can simplify lung cancer screening process"
+    excerpt: "Machine learning models to identify the simplest way to screen for lung cancer have been developed by researchers from UCL and the University of Cambridge, bringing personalized screening one step closer."
+    publishedDateTime: 2023-10-08T19:48:00Z
+    webUrl: "https://www.news-medical.net/news/20231006/Machine-learning-can-simplify-lung-cancer-screening-process.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
+
 secured: "qFcgat1vrubIR0YGHEAvfVdRn1SeMQ0v0yfLQHWVnS+bnnUDrJlhI1t+jvteIUrCdowW8LuhWFg1YoIHsr3ULwWnEnY0DcXplJSN7piOetbJcacgHvDDPfAYYIU1jSojDACzm9zyxfdUx4NqhsY5StQvrtlfCJ3qmqT/jXUBB8e7xs6XgS6yK5bBe0RnHaYWVon7w2BJbZDjO6lfb4i8iclZH04YqBxjQWP5QPy8Faz66sQCSxXXfomae6qpmH7/JN1G1uL0KQ3T67u1KqoBWiDy2ia6NQVao5OnDalIHw7vzuZu2Og5/CqsQji8Rl8hDtSaLiO+W0qAWcvQRvkOo7TzYR2v4kSy9c42yV+xynQ=;idjTALuq2u1UWTG6odoAgw=="
 ---
 

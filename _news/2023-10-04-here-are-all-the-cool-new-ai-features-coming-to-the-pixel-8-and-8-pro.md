@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "How generative AI is boosting the spread of disinformation and propaganda"
-    excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/easy-copies.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "i+zO9g/g3KDs2G/qMc+zpmx234QVF92UGPLD6o/YD+fdAHSuHjsccKZRMrSqHMGw01mQvwv5EyE/MUjOyksbbe7GzRVw1DIvtwjpq9YEplSlq5s2qYBOoJ04zYqYx0z3qf8BKaj1snqslqB1GuWHzMzlg8O2ev/Kf22+2OoLqwl3zeLqI8JrLFY3r9UQo0ireiESoFprFl2KH/mL3w33grnmFu8cjEB4G+OangBgK2nqk0TIUFESyye2ekOw9w9ezmhw/xrmpZ9HrsyuQ7JL7sjq3q8NecvaE3c6VB7l23DUXwp/wJzbX5nC04pPktT5Snd9/kL861f5LaKTH3vQnkyvRdNn90MtP/BVfBwtMRwqULffJXLEFHz/o3BRLlvxX7ahfhFcmrwrN/0DRUtq4mTmL/HoXxKmngEVX3Z8CNzceVy4F6IX5uc3PcMYbc1mw4L52zW5Qrf3kMTWIW81RzNQwRK23JGFRJal0zJDXzzDLP62EnB1MxOJ14wcCJqV9HTszLsxaXXaAitk0yRkCg==;pMmfM3pf0t9iwh7aysdzwA=="
 ---

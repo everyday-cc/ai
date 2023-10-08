@@ -50,22 +50,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Meet the Indian teens who raised funds from Sam Altman for their AI startup"
-    excerpt: "ChatGPT developer OpenAI’s CEO Sam Altman has invested in an artificial intelligence (AI) startup, founded by two Indian-origin teenagers Aryan Sharma and Ayush Pathak in the Silicon valley in the US."
-    publishedDateTime: 2023-10-04T04:50:00Z
-    webUrl: "https://www.businessinsider.in/business/startups/news/meet-the-silicon-valley-indian-teens-who-raised-funds-from-sam-altman-for-their-ai-startup/articleshow/104151196.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/startups/news/meet-the-silicon-valley-indian-teens-who-raised-funds-from-sam-altman-for-their-ai-startup/amp_articleshow/104151196.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/meet-the-silicon-valley-indian-teens-who-raised-funds-from-sam-altman-for-their-ai-startup/amp_articleshow/104151196.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 55
-    images:
-      - url: "https://www.businessinsider.in/thumb/104151201.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "The Indian Govt Is Planning To Build A 25,000 GPU Cluster To Support AI Startups"
     excerpt: "An AI revolution has been quietly brewing on foreign shores with innovations including ChatGPT and Stable Diffusion, but India has been largely left out of the action. But India's AI startups might ge"
     publishedDateTime: 2023-10-05T15:29:00Z

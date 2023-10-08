@@ -15,12 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--sFDhGANt--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t204110z_2_lynxmpej8r103_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=1UluD5Ph"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "f1eZvkpYk7B6yjN439fktp3RwhpASMQq3czez5kHjZy69BaS30ic1Sje1jusuHavzjyQD+a2fTPKvjWRCJ2b7h1dKReYCBYO+jOtzkr56+9eYzPKsyP+kRaqlKgPEQ0TTX3C0gWGLaBrnCMctihAqc5YCJURJ3rAdKNyP2UoE9aeifLyqlLPn8PBj/dedaXWncm9UkFNvCX8MEKUTLuNlVmmKHouh2uiEobY8yty96VUnnkUqRKaoQhTkjDZribAVUbt7hhWCLFVXsnT45GR9gofaAqRipYolH3awGX1fqdj9rVtEX3f/uksIlcrkulmYEmAbyqDlhnowExPK1Cgjvyxwugt1p10EkxPO4g22Dc=;btWo1SkCQ4zzOHRwHNLuRQ=="
+secured: "2xtyVPiD/4vXqENLCCnAAIbz35mOJlEEqmy8zQb+Q/QFAdKUeR/gVn9m7ITXPL5ZMQKfppIihd/OTb4v9/qSssOx/+74ID2+O81Q2c/Czcmmn2FIVrkdd2UMng3HC+qQanq2PGUkw1if2Ef4kTucvR+esvrHz7+RQP/g0/2Y4DL/+uE473nEiklCyw6D0qH/svYqNovXk+dCy+r10vdVSV6woqMDM5ogXmYaelo1Xo+lGs4MROjAxvyzS3eejbLxXdkc2Vv24rV16f6gtDZkizpAhPSo2b0l84PPPo3d4AFML9yqysedhMJPD49X48KGSDRkDCfZpoHnQY4eG7ZFQFCLe9HjXnwDf+d4ACtoeAg=;aVuNn3i1aClLBLSTYFKRug=="
 ---
 

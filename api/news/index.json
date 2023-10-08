@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month.md",
+      "title": "6 AI Wellbeing Tools For Work You Should Try This Mental Health Month",
+      "excerpt": "In honor of Mental Health Awareness Month and World Mental Health Day, here is a round-up of six AI-powered work wellbeing tools you should try this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652309011529a35491ac37a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "publishedDateTime": "2023-10-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-are-microsoft-and-openai-making-moves-to-enter-the-ai-chip-market.md",
+      "title": "Are Microsoft and OpenAI making moves to enter the AI chip market?",
+      "excerpt": "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
+      "originalUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 561,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise.md",
       "title": "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise",
       "excerpt": "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise.",
@@ -105,21 +209,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-08-microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs.md",
-      "title": "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs",
-      "excerpt": "Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources,",
+      "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
+      "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
+      "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
       "sourceUrl": null,
-      "webUrl": "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/",
-      "originalUrl": "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/",
+      "webUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 272,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://www.orissapost.com/wp-content/uploads/2023/10/Microsoft-Nvidia.jpg",
-          "width": 400,
-          "height": 283,
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -127,13 +231,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/",
-      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/",
-      "publishedDateTime": "2023-10-08T02:23:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35137068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068",
+      "publishedDateTime": "2023-10-07T14:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "orissapost",
-        "domain": "orissapost.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -370,6 +474,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-its-warceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings.md",
+      "title": "It’s ‘War’—CEO Of ChatGPT Developer OpenAI And AI Pioneer Issues Stark Bitcoin Warning Amid Crypto Price Swings",
+      "excerpt": "Sam Altman, the chief executive of ChatGPT developer OpenAI and artificial intelligence (AI) pioneer, has warned the U.S. government is waging \"war\" on crypto and wants to \"control\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6492c93c9243df4befb3466b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/",
+      "publishedDateTime": "2023-10-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1039,7 +1194,7 @@
       "originalUrl": "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1072,160 +1227,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-taste-tasters-deliver-verdict-on-coca-colas-new-ai-generated-recipe.md",
-      "title": "Taste-tasters deliver verdict on Coca-Cola’s new AI-generated recipe",
-      "excerpt": "Coca-Cola's new futuristic flavor was co-created using artificial intelligence. Some Americans said it tasted better than the original recipe, but others couldn't stomach a whole can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe",
-      "originalUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524562bc-a05f-414a-bb48-3fa79e7e6bd0/d63cee97-30dd-4a84-8efc-efdf0fe6646e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe.amp",
-      "publishedDateTime": "2023-10-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-the-best-movies-on-amazon-prime-video-october-2023.md",
-      "title": "The best movies on Amazon Prime Video (October 2023)",
-      "excerpt": "Amazon Prime Video‘s best movies tend to be dominated by films from other studios, as exemplified by the large number of Warner Bros. movies currently in Prime Video’s top ten. But for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/Totally-Killer-Movie.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-10-06T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-hollywood-strikes-sparking-ai-negotiations-in-every-creative-industry.md",
-      "title": "Hollywood Strikes Sparking AI Negotiations In Every Creative Industry",
-      "excerpt": "Rather than imposing strict limitations, we should advocate for regulations and guidelines that promote responsible and ethical use of AI in every creative industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65201588a7304fbf34c72d20/0x0.png?format=png&width=1200",
-          "width": 1050,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
-      "publishedDateTime": "2023-10-06T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

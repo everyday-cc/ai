@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-al
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
 type: article
 quality: 50
-heat: 50
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Guardian
@@ -28,6 +28,36 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "kGZDaQeExlsPnCnpfTOvJ+RWXZSEpULhHxTbPe7uk6YZOR3Cd+YSV2Ss7OsevQ8vE8DiOHEjnr+qJJguazlTirkOLg8F4NO9vDLGJPhRMdLAC7QZFC/ZwT+TveIRBjNTY5KOLhtaWnB/KUmfROhONcUvvLmDm/owja3logPGqi3ENipZDIPPDnWeujUBqV3vdh3hGywmdXPDNWnBUoMkBBEd7O8vhHiIhETd+8PW3q81IABnMAO900Jg5Nb9FKq9NW+wz4lRZbxaMteycF74yeIEtYYb+/mvdDLRNV+9LcRQ00iMfDvyiH6SOBXSgcMSrQsQpWuHN/ZY6TBsI+gI/HnUvq0E8iqfbIIHI3EUIgZR24EpBoqBimvCHRWTbWm5ftNaWkJ988LzKx/lX6Dk7LrzkaBhaTgS1tCzFZzNegQi/YN7A2HaOzmgIzWerHSb2sb7iyKpWGbQtcL+1iFfcq3NFEP60u47605VGcTfcxZjQDTrZ6L0NTW9Ci+tnvrIfB8RArxNVhJMTocL3bu/zQ==;QZ060eeSAltq1n9ihj28vQ=="
 ---

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI stretches its legs: NU researchers use AI to design robots"
-    excerpt: "A team led by Northwestern researchers is the first to use artificial intelligence to build robots from scratch, according to a Tuesday news release. The unique algorithm designed a successfully walking robot in mere seconds that runs on a lightweight console compared to other AI systems that require larger storage and datasets."
-    publishedDateTime: 2023-10-04T04:19:00Z
-    webUrl: "https://dailynorthwestern.com/2023/10/03/campus/ai-stretches-its-legs-nu-researchers-use-ai-to-design-robots/"
-    type: article
-    provider:
-      name: The Daily Northwestern
-      domain: dailynorthwestern.com
-    quality: 54
-    images:
-      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/10/FORD_FILE_AvaMandoli2.jpg"
-        width: 2001
-        height: 1334
-        isCached: true
   - title: "AI Designs New Robot from Scratch in Seconds"
     excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
     publishedDateTime: 2023-10-04T16:53:00Z

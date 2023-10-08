@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-wal
 webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://neurosciencenews.com/files/2023/10/ai-walking-robot-neurosicnes.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "AI stretches its legs: NU researchers use AI to design robots"
-    excerpt: "A team led by Northwestern researchers is the first to use artificial intelligence to build robots from scratch, according to a Tuesday news release. The unique algorithm designed a successfully walking robot in mere seconds that runs on a lightweight console compared to other AI systems that require larger storage and datasets."
-    publishedDateTime: 2023-10-04T04:19:00Z
-    webUrl: "https://dailynorthwestern.com/2023/10/03/campus/ai-stretches-its-legs-nu-researchers-use-ai-to-design-robots/"
-    type: article
-    provider:
-      name: The Daily Northwestern
-      domain: dailynorthwestern.com
-    quality: 54
-    images:
-      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/10/FORD_FILE_AvaMandoli2.jpg"
-        width: 2001
-        height: 1334
         isCached: true
   - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
     excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."

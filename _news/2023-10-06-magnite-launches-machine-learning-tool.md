@@ -7,7 +7,7 @@ originalUrl: "https://advanced-television.com/2023/10/06/magnite-launches-machin
 webUrl: "https://advanced-television.com/2023/10/06/magnite-launches-machine-learning-tool/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 768
     height: 527
     isCached: true
+
+related:
+  - title: "Magnite Unveils New Demand Manager Feature Powered by Machine Learning"
+    excerpt: "Little Black Book, Machine learning wrapper optimisation enables one-click A/B testing for Prebid recommendations"
+    publishedDateTime: 2023-10-08T21:31:00Z
+    webUrl: "https://www.lbbonline.com/news/magnite-unveils-new-demand-manager-feature-powered-by-machine-learning"
+    type: article
+    provider:
+      name: lbbonline
+      domain: lbbonline.com
+    quality: 39
+    images:
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/LBB_Online_-_2023-10-09T082704.067.png"
+        width: 925
+        height: 521
+        isCached: true
 
 secured: "uH9dlTes5BK8LCQrFhZgM3YYk8w7BDcuq/WUp1a93th4c5Z61aKv9LM//e5oRqnqe4cPEW4Ne6lif4/7NI8yHjoddQ2Hsa2Jl5HoaDygXUqqImzM0O7cKHoc9FXJuj1Ej2a6vm22f44zF5HJwI7Sq1DCFycY15ucAJuS3LCqTSxD40WcoBNFNknF4NB05XF1sw4yfYNNeH0FWu7YLVWdNIB/1PhGnBjcQrsrZx8gX56DhVppXUoPkiHDOuEPG9QZibj1UM3Px5vDxIsWUVas4C+dWvGs6+1knbV54DuLdXRRadgjghrKZkcYIsvq0EnzbKzykpfsLkNYztHNtWzHzeVJWoe9Z5dW4QXLgem8+rhT7bSoxR73zFH+TBjIaLb7NOWVs2eKvL4lZD4rJlpw03Yu3N8CBzhf73PzdTRYKDPzN/LFFHg4iTq5qjg0tLhC+KVblvC9A2dl5YQLknpWhuAoY22rtsr5uQbycbc7XR08TcZ/KcEX6zN+JhlO9aIwbBPhT4ageVaHRRE6Hfi4aQ==;Z/gFjtdfp/IItObdKVZ5ag=="
 ---

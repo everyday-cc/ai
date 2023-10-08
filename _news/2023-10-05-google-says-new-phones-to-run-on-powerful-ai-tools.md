@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI Throwdown: Open Source Vs. Proprietary Models"
+    excerpt: "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models."
+    publishedDateTime: 2023-10-08T19:40:00Z
+    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/"
+    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Google Home will get a generative AI boost, too"
     excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
     publishedDateTime: 2023-10-06T09:50:00Z
@@ -204,6 +220,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
+    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
+    publishedDateTime: 2023-10-08T19:52:00Z
+    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 19
 
 secured: "hv8cKdALHfoLM9Nt6WxGS4z7d16TacwamDBG/D+czDiGWaFFrD9BKcU89NnL2shz6mUfy4kSDThnVdN4oX71QHd6akfj3zdkihv5dpjYbpqS8RBC1xcAQnx+Wz+brvnWbtHndEkxOks2ESBVSX/uwRHN232jnBKO9QB/0PCLP0n+sYZVjAtQo5X0Y5SQRx6lCKJ+0Ygm2PM+Y7p73Rf4Ihm4KvFkQuxiMFqFvgFj0AlX+iAoclhaAke/u9H9gScAgGtHG9FH98SfMT7RX+/mMh81qXbEIk2Gzad6NmyxgsL9VgTBDvU3a1CzGfhc904j8+6q2gNqEF6oacNUB0O/0L9lW9jatl9XvvfIhbo+Ss9Ii94icuc1x+WwzmzNds+sCHrFnpukLY/5KJNpq44qUsJVz7NhbbkqF+pH81Pz3G7Z1BbmRcp2NN3pOX9AtflCWu21r8ckISauvIuCLlFbEjPgnbGlJLZeksUxh5S5ow5L5LvyY1eJBy6r6AllPGup1rtG3IXU0jD6K58IAhamrw==;IuLRj6byF4od4Co72cLd6w=="
 ---

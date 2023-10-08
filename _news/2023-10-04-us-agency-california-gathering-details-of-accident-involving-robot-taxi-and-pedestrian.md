@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/us-agency-california-gathering-de
 webUrl: "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/651fada175a614819d473dce/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "US agency, California gathering details of self-driving crash"
-    excerpt: "U.S. and California officials said on Tuesday they are in discussions with General Motors self-driving unit Cruise about a crash in San Francisco involving a pedestrian struck by a robot taxi after being hit by another vehicle."
-    publishedDateTime: 2023-10-04T01:49:00Z
-    webUrl: "https://www.aol.com/news/us-agency-california-gathering-details-224952488.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/8e42c74fa41778cdfda80eacafdedfa2"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "g3Gwiq1EkzctBYYYTEhKqfLUSyIY9dZe/zX17p41Rfcu6wDwiPucTOHyoPKk4B3+TwdMe6gxUfcSfRyaq8Lrmaeg79z3OVsAl3XB7btTJaeTRxunUvV5q2/NpctENrW/X3Go2wemUZNgYC8ZN55bXrDwEF1FKppZtrveREYlKRfh+FLIAUDRU+9SIy8g6jOeoAY9rGUPLOzeoFw09NG6eqt8kQy351cUWAvLMeNbac8VltnxklIxonXlxMjnnFA1rzO/qndA+HbTImmjAtJIUP7xx/9vzJRRICrKt1wG8uFWx+GKFaQMbgn5lWQq1/HT906xckPG5/kGkaJtI2Ntbcq9N/BYJaLVbKJwM7U6HRA=;MoIZiCXVJ+Ki34jer3zCGQ=="

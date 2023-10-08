@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sa
 webUrl: "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Pixel-8-and-Google-Pixel-Watch-2-Lifestyle-shot.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How generative AI is boosting the spread of disinformation and propaganda"
-    excerpt: "Funk found there were two primary factors behind these changes: the affordability and accessibility of generative AI is lowering the barrier of entry for disinformation campaigns, and automated systems are enabling governments to conduct more precise and more subtle forms of online censorship."
-    publishedDateTime: 2023-10-04T04:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/easy-copies.jpg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
 
 secured: "5bUX2+zxJ+gMsgvgbs9B42wQkxZAb9ODb5XCc5cfyksTKS7VuCX2RkDVnnBZHQsFjRNGcJM6rpAEx6FCD+9AONJJYy5nN3Ld6Pc+SlQhsyKNwwEiAhj+/CPwAXPTTFLoIb84cCNNq4/SRUKXY7Rqzsy7CSANLkNuiPbyo7NuntnT+H47uv3e/7dvSWiwufzesXysLXWzvCgSVQyoXxDGh+VsD/V/mn0Y9h3ToOuHRoWYaHeeCPh7BJbnDWFTiG3tyQxnOhTlxlz7p7+LmaLhLsP/Da4PmN200SPiSWbMvN5mZVMba/gQULlaMVygAwlkFgIYx1S3Uu2WSW+D7PLXjPjRChahX/h70p6aviRMxeUwFJvpI9MHhZl/uFQNKwkmjVC5XdX4NykZ2JI0FQ7Kr4rQcTFKfz+EwgnkZusNQjH/Gi4UYbE7o+Hy0sUN1u+bGgZ8iCGuSvcILHZDkZjhxCJRnG9zWsM6aayH9LBybk9maeV/J6wMEXq+IbWKbuQdkD8/r8jDUuqWfkZaeX/DUQ==;wkmdMVMVCl1D9Ir1Iyxsuw=="

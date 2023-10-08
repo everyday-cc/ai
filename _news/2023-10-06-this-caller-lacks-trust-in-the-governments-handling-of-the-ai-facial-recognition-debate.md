@@ -113,22 +113,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "A philosophy of recognition"
-    excerpt: "An Indigenous Voice enshrined in the Constitution is an invitation to stand with the oldest living culture in the world, says a University of Melbourne expert."
-    publishedDateTime: 2023-10-04T02:05:00Z
-    webUrl: "https://pursuit.unimelb.edu.au/articles/a-philosophy-of-recognition"
-    ampWebUrl: "https://pursuit.unimelb.edu.au/articles/a-philosophy-of-recognition.amp"
-    cdnAmpWebUrl: "https://pursuit-unimelb-edu-au.cdn.ampproject.org/c/s/pursuit.unimelb.edu.au/articles/a-philosophy-of-recognition.amp"
-    type: article
-    provider:
-      name: pursuit.unimelb
-      domain: unimelb.edu.au
-    quality: 44
-    images:
-      - url: "https://res-3.cloudinary.com/the-university-of-melbourne/image/upload/s--npJjuayx--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/084/680/d32/084680d323d42bbb3f58da769cbfeb475ec4f1ceff538a1bd65504608a62.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
     excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
     publishedDateTime: 2023-10-05T12:06:00Z

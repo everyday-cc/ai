@@ -43,6 +43,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
+    excerpt: "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state."
+    publishedDateTime: 2023-10-08T21:45:00Z
+    webUrl: "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/"
+    ampWebUrl: "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kltv-com.cdn.ampproject.org/c/s/www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/?outputType=amp"
+    type: article
+    provider:
+      name: KLTV
+      domain: kltv.com
+    quality: 56
+    images:
+      - url: "https://gray-kltv-prod.cdn.arcpublishing.com/resizer/I3UetwhPNwKp1MqBsXTU6rS9Tbs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MG4MSCYFTFH63KMRYO4Z3XXHKY.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "What you need to know about driverless cars in Texas"
     excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."
     publishedDateTime: 2023-10-06T02:21:00Z
