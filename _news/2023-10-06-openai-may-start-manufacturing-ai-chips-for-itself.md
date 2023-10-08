@@ -211,6 +211,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "OpenAI said to be considering developing its own AI chips"
+    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
+    publishedDateTime: 2023-10-06T19:31:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
     excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T04:17:00Z
@@ -378,15 +387,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "OpenAI said to be considering developing its own AI chips"
-    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
-    publishedDateTime: 2023-10-06T19:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z
@@ -454,6 +454,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 34
+  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
+    publishedDateTime: 2023-10-08T12:31:00Z
+    webUrl: "https://techstory.in/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
     quality: 34
   - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
     excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."

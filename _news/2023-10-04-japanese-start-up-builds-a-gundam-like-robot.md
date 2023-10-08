@@ -24,22 +24,6 @@ images:
     height: 1707
     isCached: true
 
-related:
-  - title: "Real Life 15-Foot Tall Giant Mechs from a Japanese Startup"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2023-10-03T19:41:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/10/real-life-15-foot-tall-giant-mechs-from-a-japanese-startup.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 24
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/10/Screen-Shot-2023-10-03-at-12.34.52-PM.jpg"
-        width: 1264
-        height: 834
-        isCached: true
-
 secured: "wfSrQz+KqtJM2VYwNLSkAmeV/okDggGhiCb8TlqPNVE9XvWlpj8VMDQsDvnOYz2VttpL9AEA35FFosIaUlRlGBU/GC/fs1W8w82g60MR5gkEoZynKSIAJx5SnP351NiXcD3JK7rFeWVs3NyGZz8sEsgoWyHwy/RClyjh5Yg33FCbPXfkBnaCDzKpdBw9xSxDKouIfJEzdjv+tLTWpM05f9r2spFcwJKe94RSccJ8XEMtMzP2wwWhAq2iOev8DtIXHHzBjSO+Cwj0O1nwxTOrcTN9+YTxJKqnU5bVanb7Uejqtu6rIESfqhRmR9sSeeW752kZBTDoXswhjLUO29rAvX+RPPWvAiOqVN8/3ILhrac=;FS9VN9Bc0TZDeHJ3EiPJMA=="
 ---
 

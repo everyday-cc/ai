@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
+        isCached: true
   - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
     excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
     publishedDateTime: 2023-10-04T10:10:00Z
@@ -91,20 +105,6 @@ related:
       - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
         width: 616
         height: 372
-        isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
         isCached: true
 
 secured: "p1cjUp4DfGKQ5sqVTUPuyxfEYPm8wCz+giFJEFsILdwD3xemgDtMffJL/HznF4Nb4JdAlJga/18UsKa4ROhH3tIatFfFJ49jkhBbvrtqWhPQUb4v4uYO2XmVlvdK8sIJPoDh9eyUmdAl8EGhJHIYWjgx10Ks3zq6vj2rl3tHzGeCCFkr01PUHy2A7fGmqEYgOVGcJY/s66j6VAPVjPks+eWl0KX7mt5Z9p1CIrmuZzUKYbWg6XpwdBYiYV3Jx/LEu61DUY20hUwimZ54m8PQyleK/fC0HygLcz7MMvyF5t2vlAS1wfOKclfwBK6z3Tqx66rKYxbbcaqngu1CetbuCQiitL7+dBkoBt6E1xS5XF8=;RXPxfYuYNK7Bu9UzfpP6/g=="

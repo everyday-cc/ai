@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-06T13:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 19
 
 secured: "tTWRn+Qc1LA0RN4NjTJb2i5YDV16o6bf8fZ1SAPtholksgAexGahYNMgXUrHbsAQZSxQGEc/aYiXCnEO3hPa2ku1kpWqj8z4zaYxA7fosN4fIR5/vDeYrz/cWjlF8RKw973aoD1uYOI9/OQhxIxqKT3M/K0EhI0RNfT+53B2Op0+bXod58GeLxC0quTBPZWO/Pajnc4P81vKy819xcwgddMGHMpYN6pz175uwmWFayknEH8HRi3YQX0VyDNM+cSB0is/a/0N4zQBfLMot0cUQlMSqyUwcV7r25VzbbF3qKnwXHgI1+7adz09wsvobBcpf3U/165Ys+Wd5zD+d3utR/cnlLcln7XZoPPswHp7ea/G/dvF6nprEGnhwWvaGBNg72kZioVBYXxRJeY7ZCJNA9kJ9rvuBY2M5LlWJ9Eky6JDQ4BbTo4MXwhGXcORiFAIWqQ4ht/vcdlGR/V9I5eX0CNknPOPAM94Sprym671l5Ejik/opnzMN3B+BPfAFGAF3VR017UtgPRKnRYLml4llA==;qUBNPSkGwTWbxLIWH/7Sig=="
 ---

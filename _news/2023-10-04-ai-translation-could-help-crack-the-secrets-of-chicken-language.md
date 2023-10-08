@@ -78,6 +78,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
+        isCached: true
   - title: "AI can transform health care benefits administration"
     excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
     publishedDateTime: 2023-10-06T13:01:00Z
@@ -91,20 +105,6 @@ related:
       - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
         width: 616
         height: 372
-        isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
         isCached: true
 
 secured: "I0dW4Zi959CrwAgfY1FlOmt6wc2NZPMSb3xyJ1jc8Yh3RMMG6D293oQ4AJl1nexx3lYhQCEL71L4+ks0K+dX1WGlQUO5AXCVW6MqwmTNoqbWC3e4xqGb0AVBPFC60FJPYbKaSdq43n/6IbXsV5rTld0goYVI3ACRbB/9cf3fWLtVmpJs2cG8oppLkcwTnp6kImStBh3p+4hMOMyIf9BV21Uo672EtMw33ghQD13gvzPNYwPKWRsdynuFKjzJZakARzRNQAlDQu44d8UKpOhPA5q8MGx3hKfsMUJWqEtstaFgvfC0nQzZpyZr+qcvnjlKUiHQvLlXiUjIomIhYB7/pdhMmxS8GlH9S99Y2Toe+5w=;aKaB9BQ4EX/CXFVyt607+Q=="

@@ -76,20 +76,6 @@ related:
         width: 2001
         height: 1334
         isCached: true
-  - title: "Researchers develop a way to hear photos using artificial intelligence"
-    excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
-    publishedDateTime: 2023-10-03T20:45:00Z
-    webUrl: "https://www.ktvq.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
-    type: article
-    provider:
-      name: ktvq
-      domain: ktvq.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6bacb83/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1696361237_IUSG3T.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Designs New Robot from Scratch in Seconds"
     excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
     publishedDateTime: 2023-10-04T16:53:00Z

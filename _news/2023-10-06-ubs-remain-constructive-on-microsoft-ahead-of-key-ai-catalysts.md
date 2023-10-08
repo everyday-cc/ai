@@ -9,7 +9,7 @@ ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructi
 cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
+    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
+    publishedDateTime: 2023-10-04T14:15:00Z
+    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 52
   - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
     excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
     publishedDateTime: 2023-10-04T17:16:00Z

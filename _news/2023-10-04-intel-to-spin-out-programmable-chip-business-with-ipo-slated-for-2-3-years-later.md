@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "Intel will separate programmable chip unit, with IPO eyed"
-    excerpt: "The Programmable Solutions Group is based on the Altera business that Intel acquired in 2015 for $16.7 billion."
-    publishedDateTime: 2023-10-03T21:51:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2023/10/03/intel-programmable-solutions-group-separate.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "VdhJyUK8qx3sSMfJnVOlBv0qGAvZsMwY6ki7vdzs+Y9mCg4xbLcI2a3hAz3iWegdcZtjhlT+Qpc5UVfMDgGBBQoIr1QLmKwsaaMmAtIWRi3/uRBt8flPVzamnlOyV+Phm/uV+S77qAo5p2MgiTi9mG5BVORgZDW9/3pk1wx28j6xitr8qjnN5yE/T6zCTkNrBLNE8zL0af1ja34AJJaDRAVP0QrlWHMS/LwHCT++I36NbAbn0jSMVwEcNh7467mWbzWoomSvtfUJlgx18Y8snwJdOlGiPBtI7GhFOEi32kfpICBiWe0f7Xxqp6Z3PcU1GAnmapxP8MTfMxb9hMhGrNi3TwSrVSfPW9R+rl+4oQc=;j5Nm8WE1u106lB8iViXJzw=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
+    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
+    publishedDateTime: 2023-10-04T14:15:00Z
+    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 52
 
 secured: "8s1c5xM/ghQTZbRm6cx9pUqbe0G727uE2IPjV/O7Cqu173Qgjl75C4r+UahSNxi/TF8ZkgD3Pf4rDeoAp4+sBTonfOLj19fq7WqPK+scrwpWdR4TRe7/2hPQR3GlQrAuLeoqlF7pFy7qS7kFqGHwDGSOVqeyNXmxmzpjwYyLIJUdpxcpJUcKN17ABZ7l1W4h9h+Oo9mi6IbWunnGjw1SemBWYq3yd0fhPi4M3OU2W0HxJD4zN4LNzH8Ea6nue4lS4IskDagS32jJYH4d/pWtj08+MfJ4oA/fPSYExDCBpjYHiHAiW6v9O0CQPIp1gW3JV9DoptQGKH082fNgSACBrBL6tGSNBNpecme6d4yn0Xq6wtD9UKw+TXrczE9FPGD+0XYo2z4+R7OGNkpDzJAAhRIJIqubbxDmTEn9Gk5EH/hKewZCUKkJaMafQbS9XaFp4jDVBsfItE1VsKVZdLOiFAgTDsU6B1XzgtROWWrbrBzaBZMq3pT/aqersi3CLn+xaYXt2+TjyjCMZeOOel97jg==;lEAuLYk18cVyUyRmODLi/A=="
 ---

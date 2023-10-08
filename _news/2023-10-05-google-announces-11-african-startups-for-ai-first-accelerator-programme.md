@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "See The Bizarre Image That Just Won an Inaugural Award For AI Art"
+    excerpt: "The Prompted Peculiar International AI Prize results are in, and a great reminder of just how mesmerizing—and absurd—AI-generation art can be."
+    publishedDateTime: 2023-10-08T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/08/see-the-surreal-image-that-just-won-an-ai-art-contest/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Kenyan startup chosen for Google’s AI accelerator program"
     excerpt: "Google has unveiled the first cohort for its 'Google for Startups Accelerator: AI First' program. The 11 startups, picked from a vast pool of innovative talent, are using cutting-edge Artificial Intelligence to address both Africa's challenges and broader global issues."
     publishedDateTime: 2023-10-06T08:27:00Z

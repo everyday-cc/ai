@@ -34,22 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Unique voice prints in parrots could help birds be recognized in a flock, no matter what they say"
-    excerpt: "A monitoring program run by Museu de Ciències Naturals de Barcelona has been marking the parakeets for 20 years, with 3000 birds individually identified so far—a boon for Smeele and his study on individual voice recognition. Armed with shotgun ..."
-    publishedDateTime: 2023-10-03T23:00:00Z
-    webUrl: "https://phys.org/news/2023-10-unique-voice-parrots-birds-flock.html"
-    ampWebUrl: "https://phys.org/news/2023-10-unique-voice-parrots-birds-flock.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-unique-voice-parrots-birds-flock.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/unique-voice-print-in.jpg"
-        width: 775
-        height: 1280
-        isCached: true
   - title: "Parrots Have a Unique Voice \"Print\""
     excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so they can be individually recognized by members of their flock."
     publishedDateTime: 2023-10-04T08:24:00Z

@@ -27,20 +27,34 @@ images:
 
 related:
   - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-    excerpt: "San Francisco, Oct 8 (IANS) Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources ..."
-    publishedDateTime: 2023-10-08T09:41:00Z
-    webUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs"
-    ampWebUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
+    excerpt: "Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources,"
+    publishedDateTime: 2023-10-08T09:23:00Z
+    webUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+    ampWebUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: orissapost
+      domain: orissapost.com
     quality: 102
     images:
-      - url: "https://secure.gravatar.com/avatar/9910c8e60a64dfa46a723cc6654158f9?s=500&d=mm&r=g"
-        width: 500
-        height: 500
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Microsoft-Nvidia.jpg"
+        width: 400
+        height: 283
+        isCached: true
+  - title: "Are Microsoft and OpenAI making moves to enter the AI chip market?"
+    excerpt: "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While"
+    publishedDateTime: 2023-10-08T13:46:00Z
+    webUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg"
+        width: 1100
+        height: 733
         isCached: true
   - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
     excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
@@ -162,20 +176,6 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "Domino’s is working with Microsoft to build a proprietary AI assistant"
-    excerpt: "Microsoft Cloud and Azure OpenAI Service are collaborating to create a generative AI tool to improve customer experience and help with back of house tasks"
-    publishedDateTime: 2023-10-03T20:54:00Z
-    webUrl: "https://www.nrn.com/quick-service/domino-s-working-microsoft-build-proprietary-ai-assistant"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 54
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/styles/article_featured_standard/public/store_lansing_0.jpg?itok=-IkEyJsU"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
     publishedDateTime: 2023-10-06T14:28:00Z
@@ -204,6 +204,24 @@ related:
         width: 1051
         height: 701
         isCached: true
+  - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
+    excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
+    publishedDateTime: 2023-10-08T12:37:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-may-debut-its-first-ai-chip-at-ignite-2023-to-mitigate-cost"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 51
+  - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
+    excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
+    publishedDateTime: 2023-10-08T14:41:00Z
+    webUrl: "https://www.thestreet.com/technology/microsofts-ceo-nadella-shares-fear-about-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 49
   - title: "Microsoft adds four more Indian languages to Microsoft Translator"
     excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
     publishedDateTime: 2023-10-05T11:36:00Z

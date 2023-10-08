@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-08T10:00:00Z
 originalUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
 webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"

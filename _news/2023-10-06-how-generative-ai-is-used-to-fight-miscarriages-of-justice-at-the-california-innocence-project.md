@@ -58,29 +58,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chinese tech startups are testing self-driving cars on California roads"
-    excerpt: "The race on American streets to develop self-driving cars has attracted increasing scrutiny in recent months, but some competitors — China-based tech startups — have received little mainstream attention."
-    publishedDateTime: 2023-10-03T21:00:00Z
-    webUrl: "https://www.aol.com/news/chinese-tech-startups-testing-self-180000843.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
 
 secured: "mGvmtV35ZvTA2u5ISTngFPKigagYBa5wmwvwkVhqE8P7+jsXL6DtjrcT00z4pxhX7AajwWECTLDVrqa5NQe/hIVXSs1uk0TU7O5VMKBR4Qqw0jeqpnFYuVB3fIdlwHQgg7JY/faPwUyTTSXDJleCACa+a7J5kqeZx8s3my6Wy40tLgKUqkS2Kno1lo8qDna/afzPZKKUGYR4/o+lxQbF/SHdFLINFEG+A54y8iRwIsLR+y/qjQOcCRTmGtGdX6uRh3jo7hWxjv9MIkDW7ZGX3czlHDm+JY+5nu4TVnc41tVZ9SmKS4urzpfWenqFSV++Z/wmJhiEBK+moPAyNbeCwUH4iq12Ucvi6Sa0lbKuDX0=;euZVDRClXZCV1dMBUZZmZw=="
 ---

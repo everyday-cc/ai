@@ -125,6 +125,15 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Self-driving car involved in accident leaves woman in critical condition."
+    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
+    publishedDateTime: 2023-10-03T23:43:00Z
+    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 3
 
 secured: "ah8qViBDg0o8zKIYbOqvi+X2FWYXY5xfHBClWL7eRppeAiDXZ3wXUh79Kx1RDwBQ8O7hLtY9H/XnOFQpz3gePc89/ofNNG/v0K74rQ+YrzpUVleQ95LmCUn3KFLmlpOv2NkZe/6M4H+M7JDPoxrcnZKXfBdqOc+MSA+NvSitVGjHSadEYzcEIC08/jwyaRsfcxKgUdj4JAN9oSdt2aLx5IxYgb8njf9io4xOClqPJQVH9Q0Oq0ttWL3O/8iu+CcXdJnsxQq6DvgAoU/BMpmvctHSOC90HjFvfm/6nlFcga9FDD/WnmHHE/sMeFoJQUpnqhMYtWYrCpgelPpeUF4zBHAU64soAVjGO8FXIX5q8XI=;WE+5vF4XxuMg+IqodJuHGg=="
 ---

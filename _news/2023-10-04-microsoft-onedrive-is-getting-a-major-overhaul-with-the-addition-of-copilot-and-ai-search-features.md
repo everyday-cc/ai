@@ -24,34 +24,31 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Tech Analyst Dan Ives: Microsoft Azure Is Seeing a \"Clear Uptick\" in Artificial Intelligence (AI) Spending. Here's What It Means for the Stock."
-    excerpt: "Ives said that based on recent checks, Microsoft's monetization of AI is \"happening quicker than expected.\" He goes on to note that \"our latest Azure checks also show a clear uptick in activity ..."
-    publishedDateTime: 2023-10-03T20:55:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/"
+  - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
+    excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
+    publishedDateTime: 2023-10-06T14:53:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530"
+    ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 78
+      name: Investing
+      domain: investing.com
+    quality: 76
     images:
-      - url: "https://g.foolcdn.com/editorial/images/749617/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor.jpg"
-        width: 2359
-        height: 1270
+      - url: "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
-    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
-    publishedDateTime: 2023-10-05T05:31:00Z
-    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
+  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
+    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
+    publishedDateTime: 2023-10-04T17:16:00Z
+    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 48
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
 
 secured: "fTKjE3qjydtac1LYd0DOABaYdmSEHjGvyemK2pFfGnuzBof0BNMyvocYscHIl1iJrdw4KzQY3edx+H+6Akb+sr7srbgbx60WnVPq9QLmriyetAM0KiyIbxig1iSYd6vof+8ujmzZA97PeZ/ThcGfbnsG0QLtTmI2KnxLRE/t2P3ikMONFa6FwjKJgpjl+/hOqrAduYo6k8Y71ZiJuSZe4Cg/15ygJO6cni4ceQz7H+ECVChFTEdc6ncvtRyQQVJR0fbOSGqNzxMZrEN5hr5PNSK4yJ4xZGQ35/ynypVhJ7ITJr4ll5Q7mD+1tqommAcHq0Gp9xgKXRKH4stDdLW+ECMqpFhoFS3J6lLlkeb2dSc=;nK2hm/0hnfQtXbEtG82/ww=="
 ---

@@ -2,17 +2,17 @@
 category: news
 title: "Meet the high school sport that builds robots — and the next generation of engineers"
 excerpt: "The FIRST Robotics Competition has evolved from a fascinating after-school activity to having an impact on the tech and engineering world, involving tens of thousands of teens across the globe."
-publishedDateTime: 2023-10-07T15:02:00Z
-originalUrl: "https://www.wuwm.com/term/education/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
-webUrl: "https://www.wuwm.com/term/education/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
+publishedDateTime: 2023-10-07T10:01:00Z
+originalUrl: "https://news.wjct.org/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
+webUrl: "https://news.wjct.org/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: WUWM
-  domain: wuwm.com
+  name: WJCT
+  domain: wjct.org
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "yHNn8r63sOEMxXozRpIbOLvSgHHnTnBKCJiTrf0ATxbxSe+UK4jLdzyV9glFd11eBKdBNfJgddcipwhrT4mk4zkkYJQx/0ny6UcDdi9VnAAVZWCiBaGGJPBV5it7XNTT+rrnQsCAdu+FW6ul0or1nT9BX64YgK/R1uqTsW36STKnu8Z4fdtbOUeqAES7OtnZT4gDsfsmZ8MefM2MSH9U3L5qBunIunXQjfKoZMDw8fC6qIneeN3unBQ1FvBvtnJQ0bo/MnibZyEOXA25/pjL3f80+DRzQ6zhNY15f8sUdCgBi9ejwPrPgasNdBHnOQJUAFKNILfX9hr7twCiiV+DZ7PBLaZTM93yJXWS2lzaTdA=;m7HnUfKyzoqW6571JQ3feA=="
+secured: "r8MqWMh8O9cOdYtMDTlIfqR7ajCfPrcSPIzUV+6t64dM1PSUCuhFBH8ZxdmvNvFR0UX0TeHt89iAf634ZLQUYUBi/MGDgkx1Gtc7BZG05VBJ486y0NTlTRbJ36FkDgR+z8NBAL7Rx794yFnDQW19Mzzt+VsURm6tZoAsBBZsrwNeR4WIo7M3bsTwKSs0ZIQy/nC3dEenKT+dH5+B6/2kx93F4noMSazWWhTmvnZXPRD3NbX/8z+t9HYd6as617wHUd8yAy4Zd1eVyeeSQIpCDkPBgoWg271Gr3cd20HDfNbxA6xkjQZowKZUzE7BZKMwjBV1WVm98lNJot5Us+xOK0cosU0HNhxi+rZH0K4998A=;9liRoMBvEMPB+SqG5ExYpA=="
 ---
 

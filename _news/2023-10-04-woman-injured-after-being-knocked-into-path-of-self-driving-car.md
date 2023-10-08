@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/woman-injured-after-being-knocked-into-pa
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car?_amp=true"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first"
-    excerpt: "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ..."
-    publishedDateTime: 2023-10-03T21:19:00Z
-    webUrl: "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first"
-    ampWebUrl: "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Cruise-driverless-car-SF-collision-2.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
     excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
     publishedDateTime: 2023-10-04T12:37:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
         width: 1920
         height: 872
-        isCached: true
-  - title: "Self-driving car mows down woman, leaving her trapped underneath vehicle: cops"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    ampWebUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 40
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000055015213.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Cruise defends safety record after woman pinned under self-driving taxi in San Francisco"
     excerpt: "Cruise, the company that operates the driverless taxi, said its vehicles are safer than rideshares operated by humans."
@@ -103,15 +71,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "San Francisco scientists use AI to help fight malaria"
-    excerpt: "A group of San Francisco scientists have discovered a real-world application of machine learning: Detecting malaria."
-    publishedDateTime: 2023-10-06T13:00:00Z
-    webUrl: "https://missionlocal.org/2023/10/ai-malaria/"
+  - title: "What happens if you get in an accident with a self-driving car in TN?"
+    excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
+    publishedDateTime: 2023-10-05T03:22:00Z
+    webUrl: "https://www.newschannel5.com/news/what-happens-if-you-get-in-an-accident-with-a-self-driving-car-in-tn"
     type: article
     provider:
-      name: Mission Local
-      domain: missionlocal.org
-    quality: 19
+      name: WTVF
+      domain: newschannel5.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d6ec3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fde%2Fd2%2Fe40be43547daaba1d5b8799f46be%2Fcruise.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving car runs over pedestrian who was hit by human driver in San Francisco"
     excerpt: "A hit-and-run driver struck a pedestrian Monday night, tossing her into the path of a Cruise self-driving car that then drove over her, according to videos."
     publishedDateTime: 2023-10-04T00:59:00Z
@@ -135,24 +108,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
 secured: "w5+cEk9rIachU9tQQl3XSNs7kcsH8jtuxSSTi/AJk9MTXaNDDM06l1i7OjWotEl5qkddU4YlREoNcmFUaMTUD9Bin4T7TUGT93VFpHo1j5rHtax1wFiZEe66JPOGmF4A+NpzBKzZOFEd3G89ZsZ0DuniBHrjV1sPqP51ck+Ow5xc1H75QVWBWIOxLscA6oyKyu7zXe2a3SQhbh48BChm/LWTqYg1cbAeFi5r6VvD5v4rkPmCGiinh3UxEA0pWt3kIlT8lfYlTRv0m5yfFfhFLUsoaguABncN0HA0DV9nEBEI/eM0cCFckOyaKr//MjmZZSywpNWRVSTjqpqFtjcSnQNRZkJONrLBWb2DsCuHukeukdDRfx57V1jSGKyEFavmnP12jafRDS3MA2j882Bqss9LeYIocQXqPRVX0oLZRLEffco41jY0/4FxGzS+f8/zqwYlyFAjuWqm0h0Jq84LHE8weWP/KY9+3WCqdsxatng6sjmtJ+my4m+YgJCNcQVLvc0kMvwZj532GdvXcbrmcQ==;9PS5ulW+S9FlRgaGdUqmPg=="
 ---

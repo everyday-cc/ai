@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/us-agency-california-gathering-de
 webUrl: "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/"
 type: article
 quality: 78
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -60,29 +60,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Chinese tech startups are testing self-driving cars on California roads"
-    excerpt: "The race on American streets to develop self-driving cars has attracted increasing scrutiny in recent months, but some competitors — China-based tech startups — have received little mainstream attention."
-    publishedDateTime: 2023-10-03T21:00:00Z
-    webUrl: "https://www.aol.com/news/chinese-tech-startups-testing-self-180000843.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
 
 secured: "g3Gwiq1EkzctBYYYTEhKqfLUSyIY9dZe/zX17p41Rfcu6wDwiPucTOHyoPKk4B3+TwdMe6gxUfcSfRyaq8Lrmaeg79z3OVsAl3XB7btTJaeTRxunUvV5q2/NpctENrW/X3Go2wemUZNgYC8ZN55bXrDwEF1FKppZtrveREYlKRfh+FLIAUDRU+9SIy8g6jOeoAY9rGUPLOzeoFw09NG6eqt8kQy351cUWAvLMeNbac8VltnxklIxonXlxMjnnFA1rzO/qndA+HbTImmjAtJIUP7xx/9vzJRRICrKt1wG8uFWx+GKFaQMbgn5lWQq1/HT906xckPG5/kGkaJtI2Ntbcq9N/BYJaLVbKJwM7U6HRA=;MoIZiCXVJ+Ki34jer3zCGQ=="
 ---

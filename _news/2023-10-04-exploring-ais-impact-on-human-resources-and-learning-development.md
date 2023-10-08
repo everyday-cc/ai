@@ -54,14 +54,19 @@ related:
         height: 576
         isCached: true
   - title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
-    excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
-    publishedDateTime: 2023-10-05T13:41:00Z
-    webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+    excerpt: "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy. This could revolutionize the way researchers acquire data and allow them to preserve the integrity of precious ..."
+    publishedDateTime: 2023-10-05T15:53:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 13
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 33
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id63783_1.jpg"
+        width: 534
+        height: 300
+        isCached: true
 
 secured: "7ZZ0gDE2YDoGs63R2+8AgY+0dm1Um2xQTNebNR+b26aNw5kDQN+ROMHHtIwLxCaR+tiPPBmO0t3TLmSLzp+cmiXhu+l9kuew/5fCo+EwkIMau7HnnKRUhe6hn0J9hnbdflWvyYwLCN3i3S21mPJAaRIO8ofC13i2KdKJ2sxZ4Ollyd+vA/8U0wEY1mz1MZTOxVPzhrpQAw+lEe9To51O+Ckj8HFaYKziSRc5k0dwE1NVTxVrQ8YuCUz4Wm8ZPa+EM/H9hD9f82/ZQblRtjjM4tl8kPVsSN4qWjlLvqkTaeqsbKw2Gno+/T7/iqp8avHlV3xjPlqhz0Um3p4AShnAkZy/KKFvYQ3Xx0mu8RPSZoU=;0jDlSqO+8ji3esm2RAXIWg=="
 ---

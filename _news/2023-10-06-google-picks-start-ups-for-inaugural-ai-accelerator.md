@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "See The Bizarre Image That Just Won an Inaugural Award For AI Art"
+    excerpt: "The Prompted Peculiar International AI Prize results are in, and a great reminder of just how mesmerizing—and absurd—AI-generation art can be."
+    publishedDateTime: 2023-10-08T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/08/see-the-surreal-image-that-just-won-an-ai-art-contest/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google announces 11 African startups for AI First Accelerator programme"
     excerpt: "Google on Thursday announced 11 African startups for the first cohort of its “Google for Startups Accelerator: AI First” programme. The Head of Startup Ecosystem, Africa, Folarin Aiyegbusi, said in a statement that the 11 startups were picked from a ..."
     publishedDateTime: 2023-10-05T15:18:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-06T19:31:00Z
 originalUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
 webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
 type: article
-quality: 47
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
@@ -457,6 +458,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
+    publishedDateTime: 2023-10-08T12:31:00Z
+    webUrl: "https://techstory.in/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
   - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
     excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
     publishedDateTime: 2023-10-05T18:32:00Z
@@ -504,6 +514,6 @@ related:
       domain: bleepingcomputer.com
     quality: 17
 
-secured: "9Uw/1FCssphR4nckodxqsFZVzEJwURVS9Ew4l4R8YgoYs3aCXqC0LMRwNrgnjClt2i74t/1vhqu+5V7DAlMReyq2WhZmE9qfDa2NQcIXIvI7rMBwyrQKRrdDVHM804SkuAEJBR3plbeDyrlXBhGdtcprkgcxQ3BmTcROtH0/RjBLk0qIk+pT6XVm8Y6+WY73toOkN0C992kgWymIJjkETPyAaPlb6sGg+v+jQujenHaqzViE9LJADixxuphvBS0wEZLKPXN73XrDT2DSEnjqybvKXA9E+50kwFxN1X9WZ0UQ+kKzLz3iTC7bSbI4j0OU+XKpL3ugXOktj7wHeeHGAF75NI3mv5xjwLi61YS0Xv4=;dI0gtMiqnlII0aIcJ5YfbQ=="
+secured: "Nrp9pHHyBWuQ5mA2+VQZZ6Pl9srlCI2Od3iOG8q2jQPontBjSpmVWccNsd1T8o/4hI8MTr4Bu0Vqftce6fFDzBNukexmKrunqi9y/B48rMsGKCIT478xgdGm6tQ9rwhKdleFHe3AiOgWHpq95F3//Qccj7EaCAg4locKWSz2dBTboW3t/j1oL7AH/nzij8spIFbNyWwll2jObT2B0IikPVXRnb2GSfutf5fyDS7m3IyBx4cbyayZlZnnZfB42cSvBbNxFVX9FEmk2dqXlHUNLktHfGZZZN10wN63sAMcc8eQQSisbjDMDRgLaCfPSCHy6oqaGR1wBgGgS2E0+3PGWAmeDKZAcR5vDdZhFoKBXUTCabkoGK9ca4U0V4LAbQiduU2WmCYe9OFjomTEcFVnlsLJqx4iehPSlz9nqkq0N9sek4idaf8YIIoKIb35dQKOADzgNlLrmtuiOOHZYGZ3+C/nxBlQZ4mDEFvX0EAMbAbFhKCU6oXL2sCkPOqXaSU2/YMtMDDAH/cKg+Only7lqQ==;NXXJfdy/TE8LuXsBcSi5Ig=="
 ---
 

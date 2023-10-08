@@ -46,6 +46,29 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-06T13:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 19
 
 secured: "cvPKE0me/hyYEyR9Z0iAM720f08Kb8pRJe1dGEfjQ7TVoTXgHm3LEyCRYcBF5CMNnHsmf3GRQNjNo2Nc3D4+xWkSasgVtn2whzhyFLQTSB4vq8e/54UzZ9HmurSLg1+bSbgZgyKHR7exp9I3WFS1wYiiBL22qbdyFD23GCmGN7zIfF7HlkXo0m9oHzYU1dLL3y4TO7lTAU7FzenmasvBHOx1JKtXo8ThMG53R/vCkoaPkqgODBvVGEfbkAPi5SHJzCZSfZ3vRKTxmlv+9c20QVeZH9JY9HS9CbNneoIINm9qct2MbLcGIZDATrhY88pir5oHtJz09tEzFmlWInNqsA4jcjKTfccfjpohwDCkmtjpVTKUuMW/r6RyIFcMu11AGBWLhZGlDo+/9C0IzBtQW5WCdZWnH0ijzQzWbTwsjhaeBh6b92E+fchNRWlr9fzGNOOQd3o+ymNyBd8OwgTjAwxGfgr3NJWNtLEczd7AWR4IUI7fZKvFpCwInaEWYBdGPdoRi9sVADrAFUe9aLc0IA==;AEiRMRSDRZjHNbP4OJAhjQ=="
 ---

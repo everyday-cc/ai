@@ -25,56 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Closing the Gap: Addressing Ethical Issues in Integrating AI Systems."
-    excerpt: "The purpose of this article is to examine the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and ..."
-    publishedDateTime: 2023-10-03T19:22:00Z
-    webUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920"
-    ampWebUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 104
-    images:
-      - url: "https://d.newsweek.com/en/full/2286759/earth-space.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Successfully Integrating AI To Address Burnout And Enhance Efficiency"
-    excerpt: "The integration of AI into the workplace is a double-edged sword that, when wielded thoughtfully, can greatly enhance productivity and promote employee well-being."
-    publishedDateTime: 2023-10-05T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/"
+  - title: "Choosing A Strategic Investment Partner In The AI Gold Rush"
+    excerpt: "Michelle Gonzalez, Corporate Vice President and Head of M12, Microsoft’s Venture Fund."
+    publishedDateTime: 2023-10-05T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651dcd086a3358713ea8dbc1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "Creatives across industries are strategizing together around AI concerns"
+    excerpt: "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI."
+    publishedDateTime: 2023-10-06T23:04:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/"
+    ampWebUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "NYSBA’s 147th annual meeting to address legal ethics in AI"
-    excerpt: "While notable figures will be recognized, the event’s primary focus remains on substantive discussion, particularly around the ethical and regulatory challenges presented by artificial intelligence (AI) in the legal sector. The Presidential Summit ..."
-    publishedDateTime: 2023-10-03T20:48:00Z
-    webUrl: "https://brooklyneagle.com/articles/2023/10/03/nysbas-147th-annual-meeting-to-address-legal-ethics-in-ai/"
-    type: article
-    provider:
-      name: Brooklyn Daily Eagle
-      domain: brooklyneagle.com
-    quality: 34
-  - title: "Understanding the ethics of artificial intelligence"
-    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
     publishedDateTime: 2023-10-06T13:11:00Z

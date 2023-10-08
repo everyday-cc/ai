@@ -28,34 +28,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
-  - title: "Zoom expands healthcare reach with new AI tool"
-    excerpt: "Zoom has released its AI-powered summarization tool for free to healthcare customers. The Zoom AI Companion includes automated meeting summaries, AI-generated d"
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/zoom-expands-healthcare-reach-with-new-ai-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "We know how to regulate new drugs and medical devices–but we’re about to let health care AI run amok"
-    excerpt: "There’s a great deal of buzz around artificial intelligence and its potential to transform industries. Healthcare ranks high in this regard. If it’s applied properly, AI will dramatically improve patient outcomes by improving early detection and ..."
-    publishedDateTime: 2023-10-03T19:28:00Z
-    webUrl: "https://www.aol.com/finance/know-regulate-drugs-medical-devices-162304419.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/848qCIgdifhsw2LY75famg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/aol_fortune_385/0dd17a080d2ba9c16e382c041f6092b0"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
     excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
     publishedDateTime: 2023-10-06T04:20:00Z

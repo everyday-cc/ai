@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,65 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Closing the Gap: Addressing Ethical Issues in Integrating AI Systems."
-    excerpt: "The purpose of this article is to examine the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and ..."
-    publishedDateTime: 2023-10-03T19:22:00Z
-    webUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920"
-    ampWebUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 104
-    images:
-      - url: "https://d.newsweek.com/en/full/2286759/earth-space.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-07T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
-        width: 1080
-        height: 770
-        isCached: true
-  - title: "NYSBA’s 147th annual meeting to address legal ethics in AI"
-    excerpt: "While notable figures will be recognized, the event’s primary focus remains on substantive discussion, particularly around the ethical and regulatory challenges presented by artificial intelligence (AI) in the legal sector. The Presidential Summit ..."
-    publishedDateTime: 2023-10-03T20:48:00Z
-    webUrl: "https://brooklyneagle.com/articles/2023/10/03/nysbas-147th-annual-meeting-to-address-legal-ethics-in-ai/"
-    type: article
-    provider:
-      name: Brooklyn Daily Eagle
-      domain: brooklyneagle.com
-    quality: 34
-  - title: "Understanding the ethics of artificial intelligence"
-    excerpt: "THE digital revolution has transformed many facets of human life, none more strikingly so than the advance of artificial intelligence (AI). Read more at The Business Times."
-    publishedDateTime: 2023-10-03T21:16:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/understanding-ethics-artificial-intelligence"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-06T13:11:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 19
 
 secured: "jJh7kaa5L4cmvxtnMhWapSnpvMBAzFzalJgss+0zs+BTrHBH4bB8P5Fpsp+2NlqtEwwVM5F8eo8oDAwgnAFaWoY9ykXhnIBD+UjC487WtC44x41bIM2Gtd7x735A+bZVdyN33EQoGh4Ewz8XjiNMsbT58kf3sVaFfEoGh7R6sA5iMV9aL5nITh3QZvurIwt/Nuu11cywnahFHiMcxNFEmixDXHpKQ431e/ukMqkbdydandfVqQU4B9d8W6M7ACDpRoRMYjqxS/2Lr/10pZGkI2tTmYZ/mOiH3gYIU0nAdqtA4L9pdfvDf7lruGWgYc96Lr87znI+t2QcCE7H4V6i6NACW3eDoUbUzw/0g2xkNYE=;fihXn+2ZfEv/qNrY4HJL2g=="
 ---

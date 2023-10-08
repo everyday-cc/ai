@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Researchers develop a way to hear photos using artificial intelligence"
-    excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
-    publishedDateTime: 2023-10-03T20:45:00Z
-    webUrl: "https://www.ktvq.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
-    type: article
-    provider:
-      name: ktvq
-      domain: ktvq.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6bacb83/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1696361237_IUSG3T.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hgJTzlHTb1PPvds+GVxZqyuSTFkTvl/vuZGfhgjsnyiHfN81/692f9zzd9BRpF79uhYEP8GG0ngt9Q18ozjvhn+isKf4gj04os+7iD5vN7Hos1TDMAjkfhXOKHy2WlhI3ZGuTMh21/T7zxLbP+55MnPjpZgv1K82u7RsceNiPWCVoaPN/fRhcyRhneS4f3szgW4ad6s+HnimF45rUphBLZcl4NFAjpqCv9Z8oJ+cW8C8ZZ6FcDfWund+wWWNc+00jana7fyTk7r7SXQ/s4C6iFZm06RQ4G3wkzEHZw/KpJvFHbkwe8Wqze23iIQ+zQ4E547awVEP/sz3qyqe5W2qsMdRXSDL1lXcI9s88KrkpU4E1bH7Wp6Pd7o97hyRsrxtkUv6HhfCIsmpoJG9E9nIaUt0KBDPuQZvjCd0fRJoldtSJ2ArOpRzUHuWy+Tc87FOIKarXzkpzlND3halzwT93XIyWt9JUa4jL06irv2iMWKO5tKrb9atE2nQPLt/5XCFztaa0IJ0iNYGTB9hnpZ19g==;+IPHwhymIPs67jer5mE2FA=="
 ---
