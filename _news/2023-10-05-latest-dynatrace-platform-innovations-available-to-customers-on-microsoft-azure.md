@@ -49,20 +49,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
-    excerpt: "Domino’s announced Tuesday it’s teaming with Microsoft to “create the next generation of pizza ordering and store operations.” Through the partnership, the chain will leverage Microsoft Cloud and Azure OpenAI Service to transform guest experiences through enhanced ordering,"
-    publishedDateTime: 2023-10-03T12:21:00Z
-    webUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/10/Dominos.jpg"
-        width: 765
-        height: 446
-        isCached: true
   - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
     excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
     publishedDateTime: 2023-10-04T17:16:00Z

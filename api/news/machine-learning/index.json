@@ -54,7 +54,7 @@
       "originalUrl": "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -316,34 +316,25 @@
     },
     {
       "path": "_news/2023-10-02-deepmb-a-deep-learning-framework-for-high-quality-optoacoustic-imaging-in-real-time.md",
-      "title": "DeepMB: A deep learning framework for high-quality optoacoustic imaging in real-time",
-      "excerpt": "A team of researchers from the Bioengineering Center and the Computational Health Center at Helmholtz Munich and the Technical University of Munich have developed a deep-learning framework (DeepMB) allowing clinicians to obtain high-quality optoacoustic ...",
+      "title": "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time",
+      "excerpt": "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/1003410",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1003410",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmb-a-deep-learning.jpg",
-          "width": 1595,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
-      "publishedDateTime": "2023-10-02T08:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

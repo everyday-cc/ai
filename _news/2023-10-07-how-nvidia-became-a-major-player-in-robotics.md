@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player
 webUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/"
 type: article
 quality: 64
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1011
         height: 570
         isCached: true
-  - title: "Nvidia Deepens Push Into AWS’ Turf"
-    excerpt: "Nvidia’s ambition to compete with Amazon Web Services is growing. Nvidia is best known for designing server chips for artificial intelligence, but it has been running a nascent cloud service for corporate customers that develop AI with those chips."
-    publishedDateTime: 2023-10-03T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/nvidia-deepens-push-into-aws-turf"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "yqrNgONhEpz8tPNjg29Vjq7MbdUBw5/F42oFEVFYMBMznnLD+5kgK/93RaG4v9oUfOmFaRpUc/etcfU2NMNWxrpgL85psoVOuHvdjqwQDgMEAjwaAJpeC71QbDJ3k/JSTukRlc6xMTdFjzREwY008YKBORqpeOUrno5BGZZWY2+BKIK+N9IGf73T/58iKHM/V9882hXlRYbH7ULS8eWHfxh7yoYh3O1qMJyycqkdyZKAZZx7vO0tQ0VbgUQ+P5ZVTaiO0USWvRkfs7oGtJlzZGvatMNsyKoEXPucZMFdlHrL6i7i8B6/p6tLkgcZQV9+EAxB3XyETzV9p6WgTlgmlQ2Ra5GvojPjZdbVpVjR1+I=;TUR/u4x+PMfi7mp6ejYxAA=="
 ---

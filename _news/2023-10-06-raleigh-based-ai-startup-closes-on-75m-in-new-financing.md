@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WRAL TechWire
@@ -35,15 +35,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Bringing AI to applications, saving money: RTP software startup PerfectScale lands $7.1M"
-    excerpt: "The RTP-headquartered SaaS company PerfectScale announced a seed funding raise of $7.1M today, taking the firm's total funding to $10M since its founding in March 2022. Hear why they made space in this round for a specific Triangle-area fund."
-    publishedDateTime: 2023-10-03T12:09:00Z
-    webUrl: "https://wraltechwire.com/2023/10/03/bringing-ai-to-applications-saving-money-rtp-software-startup-perfectscale-lands-7-1m/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 8
 
 secured: "9e3F4o60lmXzSyhnsimR6+thM+VuUd8qE4c2Kanz4W0Pus5cN70kZKXMB3b3fFGGYO9h1/sAWblhbyP//TLTeVytrfLrtWzvV3TmUexOIpGjxmenPBuRsZPe81L2VUrsBuBUK9sGBp/SVNt0wD9fM1sFlMMQSBA8xrXP4DGkle1tTaVJVuzh8zuuqUjryy6ax9fUjWSbGSi2WnbmxJZEN/Xt6ToykgvkKja0FNYt8b8C7m+8o3mUVxjTSBbVQFUcZYnmayCx83Ode2wLF6yV6Kp8HA0ahp70cFQndY1RzziYdQCp9AOircNpS29jjhbkBFLMuCyoCR7Zt8TH4lcgTuNVck9X0g7Ul4g6Uj8BLLzjBaHEbFtK4qWe5u6qKessqQKhumIX0P9vvYJaryyoLu8q8gawt+HJQw5v1ihcaJ07koenQ9sRqvi20gcZYxuNSr96Y7I/CKHg9qOCHXWqfzY1hdsofcDNC/ovlF5ls370qonyBJk6dD2s+zBPhXvg5xAycYpbxVQMKoKpWs+NrA==;Me369Rq72spwwfKXukgKoA=="
 ---

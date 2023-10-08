@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Woman rescued from under self-driving car after being struck twice"
-excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-publishedDateTime: 2023-10-03T19:09:00Z
-originalUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+title: "Mass market self-driving cars unlikely by 2035, industry experts say"
+excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
+publishedDateTime: 2023-10-08T04:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
+    width: 1240
+    height: 826
+    isCached: true
 
 related:
   - title: "Consumers losing confidence in self-driving cars, study says"
@@ -89,20 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
-    excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
-    publishedDateTime: 2023-10-08T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
     excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
     publishedDateTime: 2023-10-05T15:56:00Z
@@ -117,6 +109,15 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Woman rescued from under self-driving car after being struck twice"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
   - title: "Self-driving car involved in accident leaves woman in critical condition."
     excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
     publishedDateTime: 2023-10-03T23:43:00Z
@@ -127,6 +128,6 @@ related:
       domain: kalw.org
     quality: 3
 
-secured: "hxmjoMkGDam7URkyGP0dwUKj0S5Hc3VQI+SpbnWZrIVJL5h0IYDjpmc/RUrG+QC3VEEmq8Xww8aeuz2Hi2ZYWhRcQEBFa9VYUbDb5Zm8jWhcgvL2i86u2gmYPoc6qanUuyMjNo/9MeudSVKrfV66cKg2Fy6ue85TVZKIWw0nTVV7w7T5e8IdPLNO8e1vnz2G1SljCC0ZT5jDP5tIBHIMoFQu2lkkoYCfNtXQywAOVOg2ENm0qNp+FiJToyeFgaJnf8yD3M7Js/WwAN7GNsbf1ucr4e7BjvdOOZFYuxM42yio1ObI7o6Zk9p7XhfyXzwC+K+r0r3TzOFmqn1F2H+ZtjDNLkJM5i4hZtrWZmfzQy0=;dL+o54k2BmKpM4aDj/pYEQ=="
+secured: "btcmreZtM/gmtNzyC0aeJQee6MvzPsbJEhZGxaykOveH7SP1cTwrqae+TLkaAVb6zVjDdG+qVrTggxLWdfLhWHuVmmFNeUMlGlBUPh/pU4ndcM5lI/KLPSnwu9zkXdIWC7dXkoGgpCCFT3pIwul9Uy9IczUlfl5lgfHkfdqm6LW87sB37yeAkNNUC7WK0PSaVfmviPO6sLXDsh7uiUVWqpkliucQTZNj0R1U/q9fzeoizEXgAC+kV0f5ZYCAS58NM96HmswhOOKSwMrE7yMV8jmLnXa0GBgk4tQndliSU55iFjoK7NAIerhM9TZPLlCe9e78E/RHW1DIxepEvMPUemyovnKMyFyUSzMmuiYN8EA=;UrEvHyf8Aj6D9Xoq4NJiHA=="
 ---
 

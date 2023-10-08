@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-c
 webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
+    excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
+    publishedDateTime: 2023-10-08T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
     excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"

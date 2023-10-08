@@ -43,15 +43,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 19
-  - title: "Rekor Systems, Inc.: Rekor Joins AWS ISV Accelerate Program"
-    excerpt: "Global Technology Leaders Deepen Relationship to Simplify Adoption and Deployment of State-of-the-Art AI Solutions for Government Agencies and Commercial Entities COLUMBIA, MD / ACCESSWIRE / October 3, 2023 / Rekor Systems, Inc. (NASDAQ:REKR), a trusted ..."
-    publishedDateTime: 2023-10-03T11:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60269136-rekor-systems-inc-rekor-joins-aws-isv-accelerate-program-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
 
 secured: "7nrWJVFd6HPRDkDdQQbbngZQYkgCRgeTS9Id6dt5D4HW3usNkoqwQiMVH3mXl6DRoPX3bxccr3cvIJRnG9fPHa321bhcQoS3t2BYPkyaD6ohPf3/Wxia1Can/toHTflolzngVcZDJRmdoYPe9q/koKHiyIhSqGh6knHiUF88oifGNQB0tsUkOZ0XUSbtOR8H7XrH25f+lHZuL1P/0jli56MY5xGMIppKcWWCReCz0t/fijFvPcIlW0mO6530XJiCXuppXHrWQOObt7x5u9Pt1ZwD8vvwYFDBEnwjLblcYCrdH81mSQvsu9ia69ahTA2KciInW4RjWAq91+KFbQiY6CFFDwHtiO82B1m0TntiO2c=;82xOCBFXBr2cDc03aQt+vA=="
 ---

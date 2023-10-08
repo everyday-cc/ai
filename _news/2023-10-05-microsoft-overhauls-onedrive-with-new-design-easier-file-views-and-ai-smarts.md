@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedriv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
 type: article
 quality: 100
-heat: 280
+heat: 270
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
-    excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
-    publishedDateTime: 2023-10-03T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/domino-s-and-microsoft-cook-up-ai-driven-innovation-alliance-for-smarter-pizza-orders-and-seamless-operations-1032673986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2236722/Dominos_Microsoft.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."

@@ -2,40 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2023-09-22-3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall.md",
-      "title": "3 Machine Learning Stocks That Should Be on Every Investor’s Radar This Fall",
-      "excerpt": "Machine learning has become one of the most transformative technologies of the 21st century, with the potential to revolutionize everything from transportation to healthcare. As machine learning adoption accelerates, investors have a tremendous opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-that-should-be-on-every-investors-radar-this-fall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-22-ai-driven-autonomous-needle-robot-aims-to-revolutionize-lung-cancer-treatment.md",
       "title": "AI-Driven Autonomous Needle Robot Aims to Revolutionize Lung Cancer Treatment",
       "excerpt": "A recent study published in Science Robotics examines how a tiny robot can maneuver through lung tissue with the goal of attacking cancerous tumors that su | Technology",
@@ -1187,6 +1153,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-computer-vision-reveals-the-working-of-lithium-ion-batteries-in-detail.md",
+      "title": "Computer vision reveals the working of lithium-ion batteries in detail",
+      "excerpt": "A rechargeable lithium-ion battery consists of electrodes- responsible for storing charge and making it available when needed to do work. As shown in X-ray movies, these electrodes pack billions of tiny particles inside,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
+      "originalUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bahrainthisweek.com/wp-content/uploads/2023/09/computer-vision-1.jpg",
+          "width": 1280,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bahrainthisweek",
+        "domain": "bahrainthisweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

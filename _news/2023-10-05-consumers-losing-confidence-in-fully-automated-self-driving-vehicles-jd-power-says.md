@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
+    excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
+    publishedDateTime: 2023-10-08T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Woman rescued from under self-driving car after being struck twice"
     excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
     publishedDateTime: 2023-10-03T19:09:00Z

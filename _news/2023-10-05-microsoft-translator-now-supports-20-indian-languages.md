@@ -50,20 +50,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Domino’s and Microsoft to Create AI-Focused ‘Innovation Lab’"
-    excerpt: "Domino’s announced Tuesday it’s teaming with Microsoft to “create the next generation of pizza ordering and store operations.” Through the partnership, the chain will leverage Microsoft Cloud and Azure OpenAI Service to transform guest experiences through enhanced ordering,"
-    publishedDateTime: 2023-10-03T12:21:00Z
-    webUrl: "https://www.qsrmagazine.com/operations/fast-food/dominos-and-microsoft-to-create-ai-focused-innovation-lab/"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.qsrmagazine.com/wp-content/uploads/2023/10/Dominos.jpg"
-        width: 765
-        height: 446
-        isCached: true
   - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
     excerpt: "Dynatrace (NYSE: DT), the leader in unified observability and security, today announced the availability of its latest core innovations for customers"
     publishedDateTime: 2023-10-05T12:00:00Z

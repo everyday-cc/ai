@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-07T12:00:00Z
 originalUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
 webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"

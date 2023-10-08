@@ -129,20 +129,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Domino's® and Microsoft Cook Up AI-Driven Innovation Alliance for Smarter Pizza Orders and Seamless Operations"
-    excerpt: "Work on modernizing Domino's store systems has evolved into the early stages of developing a generative AI assistant powered by Azure OpenAI Service intended to help store managers save time on daily tasks such as inventory management, ingredient ordering ..."
-    publishedDateTime: 2023-10-03T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/domino-s-and-microsoft-cook-up-ai-driven-innovation-alliance-for-smarter-pizza-orders-and-seamless-operations-1032673986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/2236722/Dominos_Microsoft.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
     excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
     publishedDateTime: 2023-10-04T09:32:00Z

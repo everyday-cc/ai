@@ -1,30 +1,30 @@
 ---
 category: news
 title: "UC Berkeley professor using artificial intelligence to help identify domestic violence"
-excerpt: "Artificial intelligence or AI is one of the hottest topics going. AI has also been described as revolutionary with the promise to do everything from curing cancer to changing how we drive. Now, a UC Berkeley study suggest the tech may actually be able to ..."
-publishedDateTime: 2023-10-07T01:18:00Z
-originalUrl: "https://www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/"
-webUrl: "https://www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/"
-ampWebUrl: "https://www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/?amp=1"
+excerpt: "A UC Berkeley study suggest artificial intelligence may actually be able to help predict if a patient is being abused by their partner."
+publishedDateTime: 2023-10-07T08:15:00Z
+originalUrl: "https://www.nbcsandiego.com/news/california/uc-berkeley-professor-artificial-intelligence-domestic-violence/3322635/"
+webUrl: "https://www.nbcsandiego.com/news/california/uc-berkeley-professor-artificial-intelligence-domestic-violence/3322635/"
+ampWebUrl: "https://www.nbcsandiego.com/news/california/uc-berkeley-professor-artificial-intelligence-domestic-violence/3322635/?amp=1"
+cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/california/uc-berkeley-professor-artificial-intelligence-domestic-violence/3322635/?amp=1"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2023/10/UC-Berkeley-professor-using-artificial-intelligence-to-help-identify-domestic-violence.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcsandiego.com/2023/10/UC-Berkeley-professor-using-artificial-intelligence-to-help-identify-domestic-violence.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
 
-secured: "Cl54r9J6xTKrmetTZ9IbVIM6Yf5SVbQgrs1XxnVBw9+AQ7nSfABPZLbVpAUrouJ5M2mJLsE1gUDtxg4PCOrpWTDMhldrewFCO1G0if+r08CAt9e1RM1ylrHxObmLLA4XGtI9eyMyrVNn1B5m6mAuExr8yF75urkWMUdcyFNXxIKPcfeAx59XGGM7qb9FZ4GB5bwtuOtc0AP49RQFRj21DMB5H0NaYHoEByJhRwxMMVVtsM1Svo7yqeE5oQJQnpuI+h11hN9G369N4GAXUciYz4X2oNT7tQtp2N5WBpvWrc1beasXyO7BLt4sL6fyaMFOwiqbPG2kY7axTRO/Rm2VG0FmJDRaKV6YbiBDy9gJMSQ=;zUg4wZJ3PDLyEMGOcIMJUA=="
+secured: "RybQ/G3H8YrzeQwK5obpgZn+U6oz1F8L4uNqwM/bGydznrGoaF17IDHTXxSdwme+n7iligqbRMIkDWW1Bgfenb+1NJsTOd1HMwra28x86+aE8gd78POB1IuqqvUzvTQRBGwSFYC8WYPRo+J2keJnornbetV4kOrUnD3+ZogRg8l/PqA2KseGvETpl+fJQmw30kLjk5tm/JhOUU0FF5mxm9+OxbDH48A/ThgYqCgTrRgbhOYT6BbRpvxJzYiUXYiyW+SxrW/R4Kx8oWe1C0lZutzn/ne+0Z14tcE8R2VO5P3J47QR+ZuM2krYBLVJx1u05VfZMGuAuE233dA/igVnWruNbTKJ8RBhvX8xt2LeKR8=;jl0oLsvjEXXZVHsvCUpbBQ=="
 ---
 

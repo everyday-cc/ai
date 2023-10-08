@@ -55,7 +55,7 @@ related:
     provider:
       name: Daily Utah Chronicle
       domain: dailyutahchronicle.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
         width: 2001
