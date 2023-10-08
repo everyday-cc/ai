@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Revolutionising banking: The role of AI in shaping the future"
-    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
-    publishedDateTime: 2023-10-06T05:31:00Z
-    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
-    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
   - title: "AI-driven fintech is key for Korea to become global financial hub"
     excerpt: "Syuka, a renowned influencer in the Korean economic and financial sector, emphasized the importance of Korean fintech startups developing AI-driven financial services that are easily accessible, Thursday, adding this strategic move could help position ..."
     publishedDateTime: 2023-10-05T08:13:00Z

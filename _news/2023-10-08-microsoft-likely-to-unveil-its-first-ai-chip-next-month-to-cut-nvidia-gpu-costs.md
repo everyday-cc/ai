@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-excerpt: "Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources,"
-publishedDateTime: 2023-10-08T09:23:00Z
-originalUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
-webUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
-ampWebUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
-cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+excerpt: "San Francisco, Oct 8 (IANS) Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources ..."
+publishedDateTime: 2023-10-08T09:41:00Z
+originalUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs"
+webUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs"
+ampWebUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
+cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
 type: article
 quality: 102
-heat: 252
+heat: 262
 published: true
 
 provider:
-  name: orissapost
-  domain: orissapost.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI Hardware
@@ -22,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Microsoft-Nvidia.jpg"
-    width: 400
-    height: 283
+  - url: "https://secure.gravatar.com/avatar/9910c8e60a64dfa46a723cc6654158f9?s=500&d=mm&r=g"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -43,6 +43,36 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
+    excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
+    publishedDateTime: 2023-10-08T10:48:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/08/microsoft-to-unveil-its-first-ai-chip-next-month/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 98
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Microsoft-AI-chip.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
+    excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
+    publishedDateTime: 2023-10-08T11:03:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 89
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/nepal-51-1696762830.jpg"
+        width: 360
+        height: 202
         isCached: true
   - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
@@ -185,15 +215,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino's and Microsoft are working together on artificial intelligence"
-    excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
-    publishedDateTime: 2023-10-03T18:24:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/dominos-microsoft-are-working-together-artificial-intelligence"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 34
   - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
     excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
     publishedDateTime: 2023-10-03T23:24:00Z
@@ -222,6 +243,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "atB0Gcs+h32zk2htSBCcR+yKrkHDxjDZclFoGjVTwpNh1+Po0EcvGIRuA7LMmCO9C4Z2ZF53+N5Epo3rMBv3A4FpfOUsmL8cyyV1NzWUjN2miZvrl6ocAWjh80H9PHkrBhrHLr2imcSUynpY5x6uW1NZrCWUSrZ811ksT/DEBREhiGOyNBdPAK0HFOkNv0BE8ZLYN/QnGq2wsR6B9ggKFTtpegV4pTL6CoTnARaPS1e3oz3ME1xMk7QZ6pEgMlxtBpZTY709zT8YC4DEkPbn2z/qhnHEuO9vR3x048gKzg3J/YTxoBcYhnyD4Zc3dHlUDXNFm/Sum9EkS7pu+yMcUG3xf3V/nMlwSPy87jqysqc=;jmd6HN91nAqF60+xtD/9Ew=="
+secured: "CQpe2l/gcjO+DbQhNjVSwjrLzp4TflEj4dKJYuVRz5gdzDHTeQ+J5/gQFbgNWb6Y+XtZ1TMMn8raR0CK+6OTaGGYsAOwp5ef/wGrPkavCm/SwjdVxzRbIMXjLnBXqofeGpyxSstCOydVJX6vZKrg4opmA01vJ6+NgmtcanqD5RJ3bQs7tGjrUT7KKY1MRm8KXMZO1PVt48M/H1RIt1bwrbLhUvTnBU/+0mX+LjMlESbH18RYcvcj7bowODbXmXwEqnKIs8XMVBRbWab2RxLhmD9JrKIwqQfhX/cwjnBU80Wuss4XaLjqvLb4OX8s1tZT+VJwGjuvNHHNcKT2tijlQta+y4XGj3O4B+rOcxofuVE=;ej3CV1eUzyQg8Kf8SrJ9iA=="
 ---
 

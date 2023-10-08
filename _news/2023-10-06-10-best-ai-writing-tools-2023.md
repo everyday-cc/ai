@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock"
+    excerpt: "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI)."
+    publishedDateTime: 2023-10-08T10:46:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg"
+        width: 5530
+        height: 3111
+        isCached: true
   - title: "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock"
     excerpt: "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ..."
     publishedDateTime: 2023-10-04T09:34:00Z

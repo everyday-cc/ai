@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integ
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
         width: 1080
         height: 770
-        isCached: true
-  - title: "Why Visa is investing in artificial intelligence startups"
-    excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
-    publishedDateTime: 2023-10-03T18:24:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/why-visa-is-investing-in-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/3518ecc/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F14%2F2a%2Fc21ab2204e25859bc0438ac7f0ee%2F384724421.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "NYSBA’s 147th annual meeting to address legal ethics in AI"
     excerpt: "While notable figures will be recognized, the event’s primary focus remains on substantive discussion, particularly around the ethical and regulatory challenges presented by artificial intelligence (AI) in the legal sector. The Presidential Summit ..."

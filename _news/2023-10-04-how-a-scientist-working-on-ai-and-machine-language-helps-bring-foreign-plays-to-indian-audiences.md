@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman backs teens’ AI startup automating browser-native workflows"
-    excerpt: "Sam Altman, Peak XV, Eric Schmidt’s trust, and Daniel Gross and Nat Friedman’s AI grant are among backers of an AI startup, founded by two teenagers, that’s aiming to assist businesses in automating numerous workflows in previously unexplored ways."
-    publishedDateTime: 2023-10-03T18:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/03/induced-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "OpenAI's Sam Altman invests $2.3 million in Indian teens' AI startup. But what are they doing?"
     excerpt: "Two Indian-origin teenagers, Aryan Sharma (18) and Ayush Pathak (19), recently secured $2.3 million in seed funding from OpenAI co-founder Sam Altman for their AI startup, Induced AI."
     publishedDateTime: 2023-10-05T07:38:00Z

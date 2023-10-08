@@ -5,10 +5,12 @@ excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) w
 publishedDateTime: 2023-10-06T19:42:00Z
 originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
 webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
+ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
 type: article
-quality: 45
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
@@ -38,36 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation"
-    excerpt: "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks."
-    publishedDateTime: 2023-10-05T07:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
-    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
-    publishedDateTime: 2023-10-05T17:48:00Z
-    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
     excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
     publishedDateTime: 2023-10-04T15:41:00Z
@@ -77,53 +56,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
-    excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
-    publishedDateTime: 2023-10-06T01:35:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2853"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 26
-    images:
-      - url: "https://mma.prnasia.com/media2/2237422/Employees_Businesses_Open_Embrace_Generative_AI_Concerns_Over_Jobs_Skills.jpg?p=medium600"
-        width: 599
-        height: 422
-        isCached: true
-  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
-    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
-    publishedDateTime: 2023-10-05T22:59:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Opsera raises $12M to introduce generative AI DevOps features"
-    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
-    publishedDateTime: 2023-10-05T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
-secured: "L435IvNLAIMCLMnfc7mxr+hCCT3YFa/s1AT6mDsw7Ah0T/FTppxfvlgmoyQa83Nz53oRS1hyYjJ2GLdLIVxE7QR6mK5od43GSyNbVFMIIi+kabGT2s68TIiwREXvK0RQwrU4blJlWL7VnhLDPooQBhILSFDI5Z1APPThOgYl1JBNMs6rDWD5qQ0iO9AiPdCuEk5wXDckbxxfqPdckzIi+YVlPQA87ke987xxWkCvZk22S/wLUBy7kVBV2c2kUw9WMVj4zN13+SbYXJHEQLGWfR/kV317oQwLYp5rhRGwm4yqJpJR6iHHe71Hw9kTohidEPu1LuZxAACgDUjcJfaOpbnKpch4en0e0ZU+ZakzVjvO+p3f5Gf3Wxhd88CM2lKWjxu/X85RAjtab0qIu23xeqruRMCFlZNmVDraJqG+3ro/vq7iqMzvfO21PkXgcuWz8rmyQwgNdE7ERNKjyGG1OxUa4Yzh+NVFAUoVL34fA0MpIzVhQM5FXsw0ODp3dBj6kOOWI+V+66Kvxgd4r0+f2w==;655uWw0E+/pTvpwtR9/suQ=="
+secured: "AlDpU/hJfWsG1WE03HjNlQLP8p2T86Q9IehMHmTUy9MFFxVamgyLindOb7w/z+0elU4wb8bfM4VATfqT3b3L0jJBmzbYlc0CooPv/qL9o5seURMBKFdPQVurkqBnB6O7bwoSENxEp770jsorZckRRuJZfq5Y50FvMH4Pu/qrC+EIaBqnwk7lPddWX7z3381T6BIAyzl1/OYfoGtOOyEk5fHGBRc1EO5+BAu0xC5+9NC/dr6B/QOkOvTykSVJbGlrgBf6gOv46GMzbp5Qtgb2Bt2LPsJo1ClP2aCuARmRerdsrI+KrSR7RcnPgDdr9QfJtcrUMaGHeuwI0fqFjOO5y99emAxdkeHf88ckOcOc0B8=;kZHW94dn22+6SypnMl+uAQ=="
 ---
 

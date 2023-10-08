@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman backs teens’ AI startup automating browser-native workflows"
-    excerpt: "Sam Altman, Peak XV, Eric Schmidt’s trust, and Daniel Gross and Nat Friedman’s AI grant are among backers of an AI startup, founded by two teenagers, that’s aiming to assist businesses in automating numerous workflows in previously unexplored ways."
-    publishedDateTime: 2023-10-03T18:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/03/induced-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "How a scientist working on AI and machine language helps bring foreign plays to Indian audiences"
     excerpt: "Niranjan Pedanekar has adapted important texts, such as 'God of Carnage', 'A Hunger Artist' and Steiner’s 'Lemons Lemons Lemons Lemons Lemons' into Marathi."
     publishedDateTime: 2023-10-04T06:41:00Z

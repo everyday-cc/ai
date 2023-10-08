@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Forbes
@@ -30,100 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
-    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
-    publishedDateTime: 2023-10-04T23:45:00Z
-    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
-    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
+  - title: "Revolutionising banking: The role of AI in shaping the future"
+    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
+    publishedDateTime: 2023-10-06T05:31:00Z
+    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
+    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
+      name: Zawya
+      domain: zawya.com
+    quality: 74
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
+        width: 799
+        height: 533
         isCached: true
-  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
-    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
-    publishedDateTime: 2023-10-05T17:48:00Z
-    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
-    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
-    publishedDateTime: 2023-10-04T15:41:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
-    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
-    publishedDateTime: 2023-10-06T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
-  - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
-    excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
-    publishedDateTime: 2023-10-06T01:35:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2853"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 26
-    images:
-      - url: "https://mma.prnasia.com/media2/2237422/Employees_Businesses_Open_Embrace_Generative_AI_Concerns_Over_Jobs_Skills.jpg?p=medium600"
-        width: 599
-        height: 422
-        isCached: true
-  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
-    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
-    publishedDateTime: 2023-10-05T22:59:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Opsera raises $12M to introduce generative AI DevOps features"
-    excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
-    publishedDateTime: 2023-10-05T18:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/opsera-raises-12m-introduce-generative-ai-devops-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "kOHGGmmtvnk7RWWnnA1Xj/41eQpfgadorxc4s6fQ318ZxF5Lfcu4Pq80CR8UPPX43o/OJZEwL1CNC/nsoFUo1ltBvApVDhfJtDn0YlcEmXAm6kkxDTLwHEEwlySiq4iDNvt0N5hTYuVnXilh52TErEywTn+kPp6VyN9FErmxaZwa8AxEfvlYh99OZlo1oPjgrD9Ldi9/R6/yzLxBI+cfMXk55PAFEWwSxjfpUbPXQgCAKX3Txv/lkTc4YOu0DgHeargKxDRW/BgYGYq64Aj5fOlkPl9RDwrmrv3+Y4e5vO35LyW8JD/MpJAcOW9/aCBpRcpKBYkpKl2OxlIafz69fpMdjwGPiyfpNiFGKNnASBRvSJA9dWrUTemMUXOZQqkvaZiWVYqlmJinK/hXjehnF9FXsNchyH4+SKEZhSLX5Cbn1kTcwULgl/TWik0+m9HhXYlnP2sFNLrmr/aw0jfEd8AMx/8QbtdF5iFICNFLv4Mw/+dcaiPM4yl31ZLes3PZ4oKixq591XKDFncDHkjSpQ==;kKfHyRIkPvbjSr4zoVi39Q=="
 ---

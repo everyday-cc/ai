@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "The Defects of Human and Artificial Intelligence"
-    excerpt: "Regarding Joshua Ben Rosen’s “AI Can Do as Bad a Job as Your PR Department” (op-ed, Sept. 21): Human communication is mostly imperfect, even in well-thought-through text. It has unintentional “defects” in logic or aesthetics, and such subtleties ..."
-    publishedDateTime: 2023-10-03T18:00:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8?mod=tech_trendingnow_opn_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-861763/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Undetectable AI Writes Like A Human"
     excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
     publishedDateTime: 2023-10-05T14:31:00Z

@@ -19,106 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
-    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
-    publishedDateTime: 2023-10-04T23:45:00Z
-    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
-    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation"
-    excerpt: "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks."
-    publishedDateTime: 2023-10-05T07:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Observe raises $50M, adds generative AI to help enterprises visualize all their data"
-    excerpt: "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024."
-    publishedDateTime: 2023-10-05T17:48:00Z
-    webUrl: "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/"
+  - title: "Docker dives into AI to help developers build GenAI apps"
+    excerpt: "Docker Inc. announced today it's taking a dive into the deep end of AI with a series of initiatives designed to help developers more rapidly build generative AI applications."
+    publishedDateTime: 2023-10-06T02:18:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-to-help-developers-build-genai-apps/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 60
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
-    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
-    publishedDateTime: 2023-10-04T15:41:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
-    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
-    publishedDateTime: 2023-10-06T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
-  - title: "Employees and Businesses Open to Embrace Generative AI, but Concerns Over Jobs and Skills Remain"
-    excerpt: "Almost three in four employees (7% very comfortable, 67% somewhat comfortable) are comfortable working alongside generative AI technologies, with 68% using generative AI technologies in their day-to-day work (5% to a large extent, 26% to a moderate extent, 37% to a small extent)."
-    publishedDateTime: 2023-10-06T01:35:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2853"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 26
-    images:
-      - url: "https://mma.prnasia.com/media2/2237422/Employees_Businesses_Open_Embrace_Generative_AI_Concerns_Over_Jobs_Skills.jpg?p=medium600"
-        width: 599
-        height: 422
-        isCached: true
-  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
-    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
-    publishedDateTime: 2023-10-05T22:59:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-5.20.26-PM.png?w=1200&strip=all"
+        width: 799
+        height: 495
         isCached: true
 
 secured: "Z6bh6X6pGzCqd72ORRyqmjKIU8gBnbH7C+OOqFh9eGosT7SUxUINBTdJM3nm93c/yaX2az7Kybo9g7KmGkbkDjhW0KSopfXnXphk16bcT3lvA5sga87Gdc2OBD4hpUB4ZWn39KTq7yL48HXdPuVnU+a5w3IkYbXnvoDHNByjiuBhg+OIfjtLRqiD+cwM3fzZ/6tjFDdZLRiQcXXhNQjkEq13v5TdyAOG3k0sCvNvWcYW99dm71XvMKZU+dwXqstjyKc7iBUW5jTrdqHZZbbtyWwZPs1QoY2ECxeu9V4KUNEKzZY5yaClwHWFDKsQcDhubFKUVknQv5C/XePN1xMsglLjwiIyxxYkFas27RBeWffXxmU+G94mDjq8mnCxXO3KkaQM7KcIToRJeswU2APNv3TfgO1Sbu4RldbEFU2LY/PuM3Nct4Y0E8qXdmuIKb5GcBXuEv7QUKKRyx9dgJ7xDTC97MvRDgU3heVYYtNsvVgndqrJmec7bTbaUVGZwxEuecZnDVRqcKydMYgGcUqoeQ==;1xkGE7hpFZiy1pPZXkikeQ=="

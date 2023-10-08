@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Armilla offers verification and warranties for enterprises using AI models"
-    excerpt: "The goal is to give both vendors and customers greater confidence in AI solutions by directly addressing issues of quality, accuracy and risk."
-    publishedDateTime: 2023-10-03T17:56:00Z
-    webUrl: "https://venturebeat.com/ai/armilla-offers-verification-and-warranties-for-enterprises-using-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
     excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
     publishedDateTime: 2023-10-05T18:36:00Z

@@ -3,16 +3,16 @@ category: news
 title: "Meet the high school sport that builds robots — and the next generation of engineers"
 excerpt: "The FIRST Robotics Competition has evolved from a fascinating after-school activity to having an impact on the tech and engineering world, involving tens of thousands of teens across the globe."
 publishedDateTime: 2023-10-07T15:02:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
+originalUrl: "https://www.wuwm.com/term/education/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
+webUrl: "https://www.wuwm.com/term/education/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ddrorujhXjcO3uiXzur6VnpMSticcW3z60BzER3a1X3QrQwyD87kvzEwnloA0ndfh558/FhVaBr+GT7CYDDUiM15uMOb/m1bnUE020AlifxyMEB0rwTGxXfqpkk6aXFIQUDxp6/tfPGZqNEuDCqnL/6PAiIXlxcc72KY5w3jAMDTUefqm2l9HrH0n4YKfwiSzjE4zZgIPsnC1f8fY1039XCTHhrwEJFXGZggje99B0c3CQEVsbyi1keZuvRj9VFn9uws5+DYQeuznatJLxsD1pYguu+S3o9rGYppDxPcMq/1ZzDdyAJv3Jwu3xpUmDshsq/9UIxAg5varpLncVaKSLpsMw56bv8MJaIZtMi8Hr8=;YaUKVC+4NQVW+BFYqe1b0A=="
+secured: "yHNn8r63sOEMxXozRpIbOLvSgHHnTnBKCJiTrf0ATxbxSe+UK4jLdzyV9glFd11eBKdBNfJgddcipwhrT4mk4zkkYJQx/0ny6UcDdi9VnAAVZWCiBaGGJPBV5it7XNTT+rrnQsCAdu+FW6ul0or1nT9BX64YgK/R1uqTsW36STKnu8Z4fdtbOUeqAES7OtnZT4gDsfsmZ8MefM2MSH9U3L5qBunIunXQjfKoZMDw8fC6qIneeN3unBQ1FvBvtnJQ0bo/MnibZyEOXA25/pjL3f80+DRzQ6zhNY15f8sUdCgBi9ejwPrPgasNdBHnOQJUAFKNILfX9hr7twCiiV+DZ7PBLaZTM93yJXWS2lzaTdA=;m7HnUfKyzoqW6571JQ3feA=="
 ---
 

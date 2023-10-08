@@ -32,20 +32,50 @@ images:
 
 related:
   - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-    excerpt: "Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources,"
-    publishedDateTime: 2023-10-08T09:23:00Z
-    webUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
-    ampWebUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+    excerpt: "San Francisco, Oct 8 (IANS) Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources ..."
+    publishedDateTime: 2023-10-08T09:41:00Z
+    webUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs"
+    ampWebUrl: "https://glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs?amp=1"
     type: article
     provider:
-      name: orissapost
-      domain: orissapost.com
+      name: glamsham.com
+      domain: glamsham.com
     quality: 102
     images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Microsoft-Nvidia.jpg"
-        width: 400
-        height: 283
+      - url: "https://secure.gravatar.com/avatar/9910c8e60a64dfa46a723cc6654158f9?s=500&d=mm&r=g"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
+    excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
+    publishedDateTime: 2023-10-08T10:48:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/08/microsoft-to-unveil-its-first-ai-chip-next-month/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 98
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Microsoft-AI-chip.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
+    excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
+    publishedDateTime: 2023-10-08T11:03:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 89
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/nepal-51-1696762830.jpg"
+        width: 360
+        height: 202
         isCached: true
   - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
@@ -188,15 +218,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino's and Microsoft are working together on artificial intelligence"
-    excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
-    publishedDateTime: 2023-10-03T18:24:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/dominos-microsoft-are-working-together-artificial-intelligence"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 34
   - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
     excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
     publishedDateTime: 2023-10-03T23:24:00Z

@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "San Francisco FFs rescue woman pinned under self-driving car"
-    excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
-    publishedDateTime: 2023-10-03T17:53:00Z
-    webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
-    type: article
-    provider:
-      name: EMS1
-      domain: ems1.com
-    quality: 24
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/SFFD-3.jpg?w=1600&format=jpg&quality=87&crop=232%2C0%2C1536%2C864"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "Pedestrian Found Critically Injured Under Self-Driving Car"
     excerpt: "A woman was found trapped and injured underneath a self-driving car — but the autonomous vehicle (AV) doesn't seem to be the one to hit her."
     publishedDateTime: 2023-10-04T17:39:00Z
@@ -138,20 +124,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/jBUIf35lmB2aM1jlQsdXpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/4b27c684cef9c69b28cbbfdbf24eba49"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Woman hospitalized after a car hits her and a self-driving vehicle pins her in San Francisco"
-    excerpt: "A woman was hospitalized after being hit by two cars, one of them self-driving, on Monday night in San Francisco, according to authorities. The woman was hit at 9:31 p.m. at 5th and Market Streets ..."
-    publishedDateTime: 2023-10-03T18:41:00Z
-    webUrl: "https://www.latimes.com/california/story/2023-10-03/woman-hospitalized-after-being-hit-by-two-cars-one-self-driving-in-san-francisco"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 13
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/100a4c1/2147483647/strip/true/crop/3556x1867+0+252/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2F96%2Fe104d3e5401ea9198b3089d6d7b1%2Fcruise-robotaxis-09649.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "San Francisco Self-driving Car Involved In Serious Accident"
     excerpt: "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed."

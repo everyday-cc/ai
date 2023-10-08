@@ -20,17 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "How AI Could Help China and Russia Meddle in U.S. Elections"
-    excerpt: "ChatGPT and similar AI programs give propagandists and intelligence agents a powerful new tool for interfering in politics. The clock is ticking on learning to spot this disinformation before the 2024"
-    publishedDateTime: 2023-10-03T19:03:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 19
-
 secured: "miJDPfei2p/TqhGxLgIgrBw6pqEygIIJ2snMiL7fplY6IYWUiR3fPvKswme19dcxstO78Q1UAcWQNDAW0+A6KNmJb+8Cp5r+Fgj4eILkdWU5+e04xKQcp4XZcsCbAi5nH13C9+uP6fQKEcDm3Yl/gIKvU27EJOMax0T+NoeY1ZuASlD0/1AeKEPVaYeQuL8UrGlzJ5lTPD/bTedpqealUHmbKIT622BUhp+BVqcG1DWwbGboRrvv59hIwEi/cOkIEY+WslQOehGwFnoVTKXJvlTxrGYMKhHTSVP7ut8RnC0e2XX3kK38E5dqjGbKpe8Gy2KPh7GAihMYn45y5vsdsGf2dYI3viTg8q2La/xSoGc=;B/vCiHrp8iDZzQUX0ohsLg=="
 ---
 

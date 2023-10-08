@@ -43,22 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Terrorists will hack driverless cars and use them for horrific attacks, report warns"
-    excerpt: "TERRORISTS will hack into driverless cars and use them for mass casualty attacks, a report is warning. They may also hijack drones and use them to drop bombs, it says. The bleak forecasts are"
-    publishedDateTime: 2023-10-03T19:00:00Z
-    webUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/"
-    ampWebUrl: "https://www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/24254005/terrorists-hack-driverless-cars-attacks/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 52
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/newspress-collage-24254005-1696359271576.jpg?1696362873&strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "What you need to know about driverless cars in Texas"
     excerpt: "Multiple businesses are testing and operating autonomous vehicles \"as passenger, freight, and personal delivery devices\" in the state, according to the Texas Department of Transportation."
     publishedDateTime: 2023-10-06T02:21:00Z

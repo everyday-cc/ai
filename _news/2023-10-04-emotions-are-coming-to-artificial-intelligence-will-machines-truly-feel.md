@@ -52,15 +52,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
-    excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
-    publishedDateTime: 2023-10-04T00:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
   - title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
     excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
     publishedDateTime: 2023-10-05T13:41:00Z

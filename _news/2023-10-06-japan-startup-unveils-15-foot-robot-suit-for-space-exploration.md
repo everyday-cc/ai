@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Japan’s Space Startup Unveils Innovative 15-Foot Robot Suit for Pioneering Space Exploration"
-    excerpt: "This innovation is not without its challenges. The sheer complexity of the AstroMech Explorer demands meticulous testing and validation processes to ensure its reliability and safety."
-    publishedDateTime: 2023-10-03T19:03:00Z
-    webUrl: "https://techstory.in/japans-space-startup-unveils-innovative-15-foot-robot-suit-for-pioneering-space-exploration/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 8
-
 secured: "ajYWhanP2WcqZhne0xw/p3x9ZvoV7JBUs3hdxuBkgY7JP1Wu4PfHIEFHFZtrpuzAerIN8ZtYciJy4bxjhiwOEOKX5tf7/C4nTOKJOqzB/xaSJNXMAv8thVc8K5qDYJ7J0b/n3lNeHDSHMjNAAYI4jN2AGI6bycxUME+lfV1JPuPXm3pTNuIDzjXdNc+gKwI0KfS2PDayLwgjPgeAEeWG6aDjTmu3xEz9HDQx0OTDFoSfZDnhSxIrYlgdWQhdrG0PziBw3CmJiD9nY6ZY03kE2OFmO7UuFrVumQKnKHiz79GXlr7vA00Bzl2xYHYaZ/g7HgrPCgaXVJMzoVTtqLJWsGL5H/BE8NqNzfbU2E629abzeYhLUf9A6wdp283UkS2klJNeoWGm2cyofsMmLB0LIuXs0SgmaBmpxT4pgGQQ0w6Rsxa5odBCBtiqJYuzMq1ZyKh4Z4++7hYD+eSK6EU5pQ7+TeSJh1jtbDwmuVOPjfdQtZpTref6jjdvVzVYPQ+iVMjDYMMuOOG4d/ddPTU77A==;bGajCtXy79uXEwaxDWpu+Q=="
 ---
 

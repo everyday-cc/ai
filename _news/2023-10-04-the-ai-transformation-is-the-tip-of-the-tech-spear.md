@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
         width: 616
         height: 372
+        isCached: true
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
         isCached: true
 
 secured: "nIa0XJqktQ0ZNo0QJ5u3UXnK3lvADA+u5z4+YHUykTnFHRqpXn8EJHnPzmgxYmChqtW0yTOdSvWFFY+KYe/c1ZsoriUXeSC9PGiMgxDjL/SFglMHB3mJFgQBR/tejRZQVUqP5VN4MYMvyscFaanE/or1PGNEwlBOj/rfuNgQsIfLs+43/uPsCpkwCkvSatgUs40MLTxyELTc82f7csLR8X1/fxRcqG05+w5OzwKwvtYUsCmrXXZpvoScDcxR3zVTuYktK/zHASU4PuzpBfP9ryqaoxMbsBknR/6pUenK+beqGaos9VndLA0ImtJgA/22fQZew9J2NfKzryLwIl0MT1ooT+JWj6Z4HZTgsctAo5A=;X7EG8iuSyIsxQ0EV0h+SZg=="
