@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Rising Role of Artificial Intelligence in Insurance"
-    excerpt: "Welcome to the future of insurance! Gone are the days of piles upon piles of paperwork and lengthy phone calls with agents. Say hello to a streamlined, efficient, and surprisingly human-like experience,"
-    publishedDateTime: 2023-10-03T13:25:00Z
-    webUrl: "https://techbullion.com/the-rising-role-of-artificial-intelligence-in-insurance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Insurance-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Why Visa is investing in artificial intelligence startups"
     excerpt: "Visa has launched a $100 million initiative that will invest in companies focused on generative artificial intelligence — a technology that is attracting a lot interest throughout the financial services industry. Generative AI refers to the use of large ..."
     publishedDateTime: 2023-10-03T18:24:00Z

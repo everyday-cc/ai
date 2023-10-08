@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Defects of Human and Artificial Intelligence"
+    excerpt: "With AI, there is nothing to be read between the lines.’"
+    publishedDateTime: 2023-10-03T16:57:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-861763/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
     excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
     publishedDateTime: 2023-10-05T16:33:00Z
@@ -59,29 +73,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
         width: 1528
         height: 800
-        isCached: true
-  - title: "The Defects of Human and Artificial Intelligence"
-    excerpt: "With AI, there is nothing to be read between the lines.’"
-    publishedDateTime: 2023-10-03T16:57:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "How humans can absorb artificial intelligence biases"
-    excerpt: "Research at Deusto University reveals that people can inherit artificial intelligence biases, potentially leading to systemic errors"
-    publishedDateTime: 2023-10-03T13:54:00Z
-    webUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artificial-intelligence-biases/167567/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1486818906-scaled.jpg"
-        width: 2000
-        height: 1257
         isCached: true
   - title: "Undetectable AI Writes Like A Human"
     excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."

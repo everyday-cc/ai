@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "SoftBank's Son says AI will surpass human intelligence in a decade, urges Japanese firms to adopt"
-    excerpt: "Softbank CEO Masayoshi Son says he believes artificial intelligence will surpass human intelligence within a decade, urging Japanese companies to adopt it or be left behind."
-    publishedDateTime: 2023-10-04T15:12:00Z
-    webUrl: "https://www.newsday.com/business/softbanks-son-says-ai-will-surpass-human-intelligence-in-a-decade-urges-japanese-firms-to-adopt-qvueclva"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 6
-
 secured: "J7Ah/QZiyA7r+Uh4me6gS/a/FC5OKunrxyA678dC56N7HlVyoqsxoO7adzRRyBlCVVNK5pe5CoHfI912cLK/al0K347SB7mkjl1WpXdV31I+bq7+pEgFoviWyZrwbWOz8Bi/Mx7kOfUm0CpoEUlkMuzD7L+t4I233dLQY2P/DmE6rKLiLzoCopUMdpUVXqy1u111jMcSf9YjrVvddW/hF5OzJqn7kPN0zK5h6OYPwgUzuTMzJBjezvJgsSVgfOxgRRBkPrt+gixy1F9Wi6HYt9ho0MHUGvJdz/rBT/rN8uh4k2XuI+MZ7HI1Hx94QAXrbUieG4aedPskSwNh7pUe3IvLUmibSmvtEVmdLlLwBXaTMitO5MvYyy+pry/hIGesx1ZWB8MO+XALmq/ZmOrcgPUawt8kVBJs/bg9BO/Oy21gsXKONbCE3HbNcyfZydvQm66MNDtFzsDFYu6vIkyY5VAvo++kX6IqhQXaE1iS0nbGLAfw33vFgwr7Te6RYKz9UFdC8tN92a0KJxnWqoUnVA==;xxfMVv9jAdpaVT6jX1f6Cg=="
 ---
 

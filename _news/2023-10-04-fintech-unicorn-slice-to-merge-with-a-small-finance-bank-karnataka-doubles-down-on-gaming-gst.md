@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unic
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Ecobank Fintech Challenge Grand Finale to crown winner of Challenge prize"
-    excerpt: "African fintech industry players to converge in Lomé, Togo, for the 2023 Ecobank Fintech Challenge Grand Finale"
-    publishedDateTime: 2023-10-03T15:01:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize"
-    ampWebUrl: "https://www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2616590-2023-ecobank-fintech-challenge-grand-finale-to-crown-winner-of-challenge-prize?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 55
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_03_2019_17_56_36_524669.png?width=1280"
-        width: 1280
-        height: 671
-        isCached: true
   - title: "Fintech unicorn Slice to merge with North East SFB; Karnataka doubles down on GST"
     excerpt: "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB)."
     publishedDateTime: 2023-10-04T13:38:00Z

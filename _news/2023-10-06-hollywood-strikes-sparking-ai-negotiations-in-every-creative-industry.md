@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
+    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 6
 
 secured: "mRN4TLSSfRKUbbDmVZNIsgnGFyXHsxUSdtaPT8ZdulMZ80RxgJ+VkxaTUy1jkVaIzslj8NA4c6VI12uJZzawD6D8MdOkjOjo5wTYiwoUA/Q/e3v+VfZpab5oh/3e6fumlkeVl5vanZPi43PgZ4PtcGhHONGvAKUQnQkL1/jQyz2sQKhu+0ytljLtLw76Q/K7i8HPhOkJNhJow1229YNCtIAinaa5uRdrGDf+YXoAqgWumaxqpXTM4BVaveTHYCKBay+UqjdhmZ3y/xORK5Id3Sp+Ih8MMZpgEbEmlfFhlpYTa+s+p+UsVDcsIN9ft6efdiE1KosNrnhulJNg9kmODHIQo4Dp/d83dJfBoXSoUjg=;KF/hqRY42sV+tbNJUgKYkQ=="
 ---

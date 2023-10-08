@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-s
 webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boardroom Blueprint: AI's Cybersecurity Risks"
-    excerpt: "fostering the development of AI ethics. To steer organizations safely through the AI revolution, boards should consider the following action items: Develop AI Security Protocols: Implement appropriate AI security protocols to safeguard against potential ..."
-    publishedDateTime: 2023-10-03T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/boardroom-blueprint-ais-cybersecurity-risks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How Deep Learning Is Moving Cybersecurity From A Reactive Response To Proactive Prevention"
     excerpt: "In the battle against cybercrime, AI automation and deep learning models are crucial elements that are important to understand."
     publishedDateTime: 2023-10-06T13:15:00Z

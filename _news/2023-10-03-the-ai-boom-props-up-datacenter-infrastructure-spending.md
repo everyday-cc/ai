@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacen
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/03/the-ai-boom-props-up-datacenter-infrastructure-spending/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Platform
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Confluent - ‘scalable generative AI requires a different kind of data infrastructure’"
-    excerpt: "Confluent’s generative AI pitch is somewhat different to other vendors in the market. Its focus on the fundamentals of making data an asset is worth considering."
-    publishedDateTime: 2023-10-03T14:13:00Z
-    webUrl: "https://diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure"
-    ampWebUrl: "https://diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_1794601321.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "How AI is changing data center design"
     excerpt: "Data centers have historically been built around CPU-powered racks to tackle traditional computing workloads. However, AI compute instead requires GPU-powered racks, which consume more power, emit more heat, and occupy more space than an equivalent CPU capacity."
     publishedDateTime: 2023-10-05T15:54:00Z

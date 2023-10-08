@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovatio
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Exploring AI’s impact on human resources and learning development"
+    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
+    publishedDateTime: 2023-10-04T08:41:00Z
+    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+    type: article
+    provider:
+      name: International Training Centre of the International Labour Organization
+      domain: itcilo.org
+    quality: 39
+    images:
+      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Cold Open: The Impact of Artificial Intelligence on Authorship in Film and Television Writing"
     excerpt: "Last week, the Writers Guild of America reached a tentative three-year deal to resolve a writer’s strike following a labor dispute with the Alliance of Motion Picture and Television Producers. A major point of contention between writers and producers was the use of artificial intelligence in the screenwriting process."
     publishedDateTime: 2023-10-03T16:15:00Z

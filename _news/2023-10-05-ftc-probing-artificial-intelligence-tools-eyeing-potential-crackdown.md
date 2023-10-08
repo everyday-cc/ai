@@ -56,6 +56,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
+    excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
+    publishedDateTime: 2023-10-03T18:36:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-just-added-ai-powered-coaching-and-recruiting-tools-to-make-your-job-easier/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
 
 secured: "PoYDTAM3378PlofKIZuzElRgAyOfOL6qeERKx8lZIEQ4zQsAH/pwCiL9zuf15Aby7INijKBmHksJB/kWZ6VnZ7XFtz8PI4LJGRFPxyOuIneUg++xM+RjoE3EgfGE5pv9vHQdrbtUMeXeVbHQDZH8oDCqRSHDnZiGf74Ag4M5pEsW9Q4eMSblEi4K+pbmhI8PK68kExajTBogyc2KJgTMJ0jGR7s17gGI5VLD8LNlaaJ74Cfwy7UBecmLmaTElBnjtEMtnCbxOMcLmRAnk7OqeBtxIqpGxMF+nIRMKhcMjk1IFr0KoZ6gNhlnSEhmP+QV9xWe/7dnsErD6rS4QUKhFg8fS8EfRqzudw1Zs+SVh3e1wyKMCLyeaQWBI3gwOBFijUBMQhhJaqh4fwr6PzVxwJPLgvvPSnG/peTnGvuOCEfEC9j1hApq8U2WeYzi1AmhWh8cNj8KFOuNqCls2xebNTxQcYqXdMh+DJDAMWoJnzbHOsCPfek7pNLA76i8Dw/wZlPWT2SQ2qmS3oVu6a9OSA==;e1k0dtornMCIkdUW3zCfqA=="
 ---

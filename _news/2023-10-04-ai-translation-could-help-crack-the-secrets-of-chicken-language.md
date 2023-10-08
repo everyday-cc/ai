@@ -53,6 +53,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Wordly Launches Trusted AI Translation"
+    excerpt: "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ..."
+    publishedDateTime: 2023-10-04T17:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35088030/wordly-launches-trusted-ai-translation"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35088030"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35088030"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Entrepreneurs Use AI To Transform Clinical Trials"
     excerpt: "Establishing trust in the research community is difficult, especially from the institutional review boards (IRBs) that monitor a study’s ethics. IRBs and the FDA already control so many aspects of clinical trials that convincing them of AI’s benefits ..."
     publishedDateTime: 2023-10-04T12:01:00Z

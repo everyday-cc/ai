@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
 
 secured: "UMBg74lu1Kmzj7pkp5CtARBU9jaURwpOk9hZHd15jt5j5fu077/Hk5S5osJzQhABhNaxS4o6/wBQ3emxsm0pW74G/bOYZXiyXczOVaBjcd2FS9IaqvQhRrJf2vPekpdPjbOHQw6K06pQhU3+YEYRqQ4u2AbdG1ZMY6YCJVOMWm1ae6PBdDe+mmsBr5EgQsQlChEmyz819VrEBZiHjb4Su3n8P63BQwUxQJ1iIYYvSI6rX7veJBb8qY/u44zWDygTuHLlMVhcuEQbgWIjCNdnJj/JP8FSarjNdVPGEPtRN0vNl84wlcJgr13dg7MYZmJ9y9EWb5sLapezuzLkNcUb1uitESc7RIAf9Oj6X5haIRo=;2zlKT9xaYVeBfiaWU82yrg=="
 ---

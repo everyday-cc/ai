@@ -7,7 +7,7 @@ originalUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artific
 webUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
+    excerpt: "Google on Wednesday unveiled a next-generation Pixel smartphones lineup that will be infused with more artificial intelligence tools capable of writing captions about photos that can also be altered b"
+    publishedDateTime: 2023-10-08T07:00:00Z
+    webUrl: "https://www.normantranscript.com/news/business/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-for-devices-by-100/article_e5c1b694-63c3-11ee-97a9-c7c0ad4618d4.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 38
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319"
+        width: 600
+        height: 319
+        isCached: true
   - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
     excerpt: "Google on Wednesday unveiled a next-generation Pixel smartphones lineup that will be infused with more artificial intelligence tools capable of writing captions about photos that can also be altered b"
     publishedDateTime: 2023-10-07T07:30:00Z

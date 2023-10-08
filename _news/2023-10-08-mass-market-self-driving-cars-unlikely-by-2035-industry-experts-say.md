@@ -109,25 +109,7 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
-secured: "btcmreZtM/gmtNzyC0aeJQee6MvzPsbJEhZGxaykOveH7SP1cTwrqae+TLkaAVb6zVjDdG+qVrTggxLWdfLhWHuVmmFNeUMlGlBUPh/pU4ndcM5lI/KLPSnwu9zkXdIWC7dXkoGgpCCFT3pIwul9Uy9IczUlfl5lgfHkfdqm6LW87sB37yeAkNNUC7WK0PSaVfmviPO6sLXDsh7uiUVWqpkliucQTZNj0R1U/q9fzeoizEXgAC+kV0f5ZYCAS58NM96HmswhOOKSwMrE7yMV8jmLnXa0GBgk4tQndliSU55iFjoK7NAIerhM9TZPLlCe9e78E/RHW1DIxepEvMPUemyovnKMyFyUSzMmuiYN8EA=;UrEvHyf8Aj6D9Xoq4NJiHA=="
+secured: "ABYdYjuYksjNKKl0Hbc8C4LNS4KWCS6rc7mTPxG1mdRvhFdQc7VhMqV4ohUl6cS2lbaj1jIINQ/c2YBEu4vCl6K0XSzu1aggwj189UcPlh3HEGgZLml/DxEIuKAN+ZtxYnID6Fj9dyXvobuDzUVW5dUVf372fOaYMhebwHkqKT5zhcDkTy6oUFQLjJLDDNZmI+Nkr1csrBcj79tIp8NhMA76UXjvLay7zbUGffKP1xQ6QAlkMquefFBhJwS4c+Xm2x7H14wAZTczJo2OrZV8ecr4ub5VaYUZhJgI5Fki9/JApttbx/V0A4v9C5fcENw3VWSMpY4e3FBOvpH/P6u4OMxGqEqrF7pX+suFGlXB824jYwcc5pCzjrwVrt03ZArUb0WH7i0K1bAx7fsJP3dyeDB9yKfpb5Q6/r96sFoY6vGGguQX4Fn9JuZilvf7smWfjat8UzXjtmWM/HWTfeMiYmEdRzGaXGHPtH9V7ExY1V73gjMtDwKQOoVCK1F7d/bMTmBnUDK0IV4gjUu8t90jDA==;jir6wY5N8u/sqD2LA+OEPw=="
 ---
 

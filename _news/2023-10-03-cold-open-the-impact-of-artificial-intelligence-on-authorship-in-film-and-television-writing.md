@@ -35,6 +35,20 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 56
+  - title: "Exploring AI’s impact on human resources and learning development"
+    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
+    publishedDateTime: 2023-10-04T08:41:00Z
+    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+    type: article
+    provider:
+      name: International Training Centre of the International Labour Organization
+      domain: itcilo.org
+    quality: 39
+    images:
+      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "LTN Startup Spotlight: Paxton AI Founder Sees Startups Having Advantage in the Crowded Marketplace"
     excerpt: "Legaltech News caught up with Paxton AI’s co-founder and CEO, Tanguy Chau, to discuss the company’s approach to large language models and retrieval augmented generation, and how it stands out in the market."
     publishedDateTime: 2023-10-05T21:08:00Z

@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-05-baidu-ceo-says-more-than-70-large-ai-language-models-released-in-china.md",
+      "title": "Baidu CEO says more than 70 large AI language models released in China",
+      "excerpt": "BEIJING, Sept 5 (Reuters) - More than 70 large artificial intelligence language models with over 1 billion parameters have been released in China, Baidu Inc (9888.HK) CEO Robin Li told an industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-ceo-says-more-than-70-large-ai-language-models-released-china-2023-09-05/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-ceo-says-more-than-70-large-ai-language-models-released-china-2023-09-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/cT4qevmCF-BmX8vdCNSBpWJYiHc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SPZO4X3ZNFZHGO6EG2HDES7Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-artificial-intelligence-transforming-healthcare-cybersecurity-and-communications.md",
+      "title": "Artificial Intelligence: Transforming Healthcare, Cybersecurity, and Communications",
+      "excerpt": "Artificial intelligence (AI) systems aim to reproduce human characteristics and processing power in a machine and outperform human speed and constraints. Machine learning and natural language processing, which are already commonplace in our daily lives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f654488751487eecb0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/04/artificial-intelligence-transforming-healthcare-cybersecurity-and-communications/amp/",
+      "publishedDateTime": "2023-09-04T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-labor-day-protest-against-cruise-robotaxis-in-san-francisco.md",
       "title": "Labor Day protest against Cruise robotaxis in San Francisco",
       "excerpt": "A Labor Day protest in San Francisco focused on robotaxis and threats from artificial intelligence. Taxi drivers and Muni workers organized by a \"united front committee for labor party\" rallied outside the headquarters of Cruise driverless cars on Bryant Street.",
@@ -1260,102 +1369,6 @@
       "provider": {
         "name": "BBC",
         "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "A.I. Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "The emergence of artificial intelligence is helping to spawn a new generation ... “I’m not going to have this robot go out and just start shooting at things,” General Jobe said during a briefing with Pentagon reporters late last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-self-driving-comes-to-san-francisco.md",
-      "title": "Self Driving Comes To San Francisco",
-      "excerpt": "California regulators vote on allowing self-driving taxis in major cities, presenting a huge market opportunity in the industry. Waymo and Cruise are leading the self-driving market, while Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "originalUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1391088190/image_1391088190.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

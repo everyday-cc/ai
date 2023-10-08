@@ -19,104 +19,167 @@ topics:
   - AI
 
 related:
-  - title: "Consumers losing confidence in self-driving cars, study says"
-    excerpt: "Automobile industry advances; self-driving popularity grows; J.D. Power shows declining confidence; experience boosts trust."
-    publishedDateTime: 2023-10-06T00:19:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
+  - title: "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first"
+    excerpt: "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ..."
+    publishedDateTime: 2023-10-03T21:19:00Z
+    webUrl: "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first"
+    ampWebUrl: "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
+      name: Fox News
+      domain: foxnews.com
+    quality: 76
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/self-driving-cars-traffic-violations-hangzhou.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Legal Dilemmas Around Self-Driving Cars"
-    excerpt: "The automobile and technology industries have grown exponentially in the past few decades. With cutting-edge technology, more features are being added to vehicles to make them stand out in the market and more secure for users."
-    publishedDateTime: 2023-10-04T10:33:00Z
-    webUrl: "https://techbullion.com/the-legal-dilemmas-around-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/20231004140213_fpdl.in_asian-man-sitting-new-car-showing-car-keys-young-attractive-man-sitting-salon-automobile-looking-out-open-window_33741-386_medium.jpg"
-        width: 793
-        height: 595
-        isCached: true
-  - title: "How auto insurance will navigate a world with self-driving cars"
-    excerpt: "Self-driving cars have been a part of visions of the future for decades, and what was once only imaginary has started to become reality. Not only do self-driving cars exist, but five U.S. states (Arizona, California, Michigan, New Hampshire and Ohio ..."
-    publishedDateTime: 2023-10-04T17:36:00Z
-    webUrl: "https://www.canadianunderwriter.ca/insurance/how-auto-insurance-will-navigate-a-world-with-self-driving-cars-1004238734/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 24
-    images:
-      - url: "https://media.canadianunderwriter.ca/uploads/2023/10/young-man-riding-autonomous-car.jpg_s1024x1024wisk20cX3esIyKFli_xsrYxu_7DZaja12QSMDhx0s-SnBvwN4.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Maybe People Don't Want Self-Driving Cars After All"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Cruise-driverless-car-SF-collision-2.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "People Are Souring On Self-Driving Cars"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
+  - title: "Woman Injured After Being Knocked Into Path of Self-Driving Car"
+    excerpt: "A female pedestrian was severely injured after being struck by an alleged hit-and-run driver and then thrown into the path of a Cruise driverless vehicle that ran over her in downtown San Francisco on Monday."
+    publishedDateTime: 2023-10-04T16:32:00Z
+    webUrl: "https://www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car"
+    ampWebUrl: "https://www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/woman-injured-after-being-knocked-into-path-of-self-driving-car?_amp=true"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/9d0e100/2147483647/strip/true/crop/977x509+0+60/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F8e%2F5e%2F49a4e71bf123cead254a01922e11%2Fshutterstock-4458509441.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
+    excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
+    publishedDateTime: 2023-10-04T12:37:00Z
+    webUrl: "https://www.techspot.com/news/100377-cruise-self-driving-car-runs-over-stops-pedestrian.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
+        width: 1920
+        height: 872
+        isCached: true
+  - title: "Self-driving car mows down woman, leaving her trapped underneath vehicle: cops"
+    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
+    publishedDateTime: 2023-10-03T19:09:00Z
+    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
+    ampWebUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 40
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000055015213.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Cruise defends safety record after woman pinned under self-driving taxi in San Francisco"
+    excerpt: "Cruise, the company that operates the driverless taxi, said its vehicles are safer than rideshares operated by humans."
+    publishedDateTime: 2023-10-04T00:01:00Z
+    webUrl: "https://www.cbsnews.com/news/cruise-av-hits-woman-hit-and-run-san-francisco/?ftag=YHF4eb9d17"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 35
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/03/51a486c5-16be-48a3-a422-bba2a808c826/thumbnail/1200x630/013cebc868298c9c8f21e7b24a85cb7f/cruise-av.png?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "San Francisco FFs rescue woman pinned under self-driving car"
+    excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
+    publishedDateTime: 2023-10-03T17:53:00Z
+    webUrl: "https://www.ems1.com/pedestrian/articles/san-francisco-ffs-rescue-woman-pinned-under-self-driving-car-HSgSiYZpKUxqJVdd/"
+    type: article
+    provider:
+      name: EMS1
+      domain: ems1.com
     quality: 24
     images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.cdn.lexipol.com/article-images/SFFD-3.jpg?w=1600&format=jpg&quality=87&crop=232%2C0%2C1536%2C864"
+        width: 1536
+        height: 864
         isCached: true
-  - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
-    excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
-    publishedDateTime: 2023-10-08T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
+  - title: "Pedestrian Found Critically Injured Under Self-Driving Car"
+    excerpt: "A woman was found trapped and injured underneath a self-driving car — but the autonomous vehicle (AV) doesn't seem to be the one to hit her."
+    publishedDateTime: 2023-10-04T17:39:00Z
+    webUrl: "https://futurism.com/the-byte/pedestrian-under-self-driving-car"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Futurism
+      domain: futurism.com
     quality: 24
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
-        width: 1240
-        height: 826
+      - url: "https://wp-assets.futurism.com/2023/10/pedestrian-under-self-driving-car.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
-    excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
-    publishedDateTime: 2023-10-05T15:56:00Z
-    webUrl: "https://www.dcvelocity.com/articles/58779-consumers-losing-confidence-in-fully-automated-self-driving-vehicles-jd-power-says"
+  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
+    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
+    publishedDateTime: 2023-10-03T19:30:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 16
+      name: Forbes
+      domain: forbes.com
+    quality: 21
+  - title: "San Francisco scientists use AI to help fight malaria"
+    excerpt: "A group of San Francisco scientists have discovered a real-world application of machine learning: Detecting malaria."
+    publishedDateTime: 2023-10-06T13:00:00Z
+    webUrl: "https://missionlocal.org/2023/10/ai-malaria/"
+    type: article
+    provider:
+      name: Mission Local
+      domain: missionlocal.org
+    quality: 19
+  - title: "Self-driving car runs over pedestrian who was hit by human driver in San Francisco"
+    excerpt: "A hit-and-run driver struck a pedestrian Monday night, tossing her into the path of a Cruise self-driving car that then drove over her, according to videos."
+    publishedDateTime: 2023-10-04T00:59:00Z
+    webUrl: "https://www.aol.com/news/driver-hits-pedestrian-pushing-her-173132868.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 18
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/10/05/autonomous-avt.jpeg?height=635&t=1696521498&width=1200"
+      - url: "https://s.yimg.com/ny/api/res/1.2/jBUIf35lmB2aM1jlQsdXpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/4b27c684cef9c69b28cbbfdbf24eba49"
         width: 1200
-        height: 631
+        height: 800
         isCached: true
+  - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
+    excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
+    publishedDateTime: 2023-10-03T16:05:00Z
+    webUrl: "https://www.cbsnews.com/losangeles/video/authorities-investigate-after-a-woman-was-run-over-by-a-self-driving-car-in-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 15
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/03/af69d6a8-2569-40e6-bc2e-d666bcd121db/thumbnail/1200x630/0f91edabff91c4d870e163fc29cc9d45/27f5a6bf5fa6fe9a5b1df8dec2ae2335.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "San Francisco Self-driving Car Involved In Serious Accident"
+    excerpt: "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed."
+    publishedDateTime: 2023-10-03T23:20:00Z
+    webUrl: "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
   - title: "Woman rescued from under self-driving car after being struck twice"
     excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
     publishedDateTime: 2023-10-03T19:09:00Z

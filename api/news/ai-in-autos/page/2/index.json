@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-23-look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-over-at-asian-games.md",
+      "title": "Look: From blushing plastic-and-metal receptionist to driverless ice-cream trucks, machines take over at Asian Games",
+      "excerpt": "Driverless minibuses are set to shuttle ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
+      "originalUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=f16b9880-69ee-52b1-b3f3-90b5c8d10652&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.1573.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
+      "publishedDateTime": "2023-09-23T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
+      "title": "Hi, Robot: Machines Take Over At China's Asian Games",
+      "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "originalUrl": "https://www.barrons.com/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6708811508915942826090481929289977995099---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/hi-robot-machines-take-over-at-china-s-asian-games-5f6be4ea",
+      "publishedDateTime": "2023-09-23T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-artificial-intelligence-ai-chips-market-2023-2030-a-business-intelligence-solution-99-pages-report.md",
       "title": "Artificial Intelligence (AI) Chips Market [2023-2030]| A Business Intelligence Solution| 99 Pages Report",
       "excerpt": "The Artificial Intelligence (AI) Chips Market experienced substantial growth, increasing from USD million to USD million between 2017 and 2022. Projections suggest a CAGR of Percent, expected to ...",
@@ -1237,102 +1324,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-pitfalls-in-artificial-intelligence-at-least-for-now.md",
-      "title": "Pitfalls In Artificial Intelligence (At Least, For Now)",
-      "excerpt": "AI makes stuff up. It starts with one word and then predicts – based on biased data – what the next word should be ad infinitum. That’s what’s called a dumb system. But when you ask AI to explain how it arrived at its answer, it can’t. That requires intelligence, and it exposes AI as an impostor in the field of intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650223b233682072663e675b/0x0.jpg?format=jpg&width=1200",
-          "width": 619,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/09/13/pitfalls-in-artificial-intelligence-at-least-for-now/amp/",
-      "publishedDateTime": "2023-09-13T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-teslas-driverless-route-to-dominance.md",
-      "title": "Tesla’s (Driverless) Route to Dominance?",
-      "excerpt": "In 2016, Elon Musk promised every Tesla (TSLA) shipped would “have the hardware needed for full self-driving capability at a safety level substantially greater than that of a human driver.” It sounded grand. But who’s fooling who?",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "originalUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/12/Tesla-Cell-Phone.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/09/13/teslas-driverless-course-to-dominance/amp/",
-      "publishedDateTime": "2023-09-13T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
         "images": null,
         "publishers": null,
         "authors": null

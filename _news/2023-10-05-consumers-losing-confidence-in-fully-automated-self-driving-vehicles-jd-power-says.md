@@ -109,24 +109,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
 secured: "0RjbyAWduyTMTZClotA4B1z00RS/z7rt5msNEMquK1zo4wCboeyBQtJOIPCpkGtCkmwJ2bDUb3ZVU0HeK12RCCjZxRWW2akQyK3JB0Z8HCg6Ws1ZqIm8xuVGZbd6j1cRk3Y5Yz7LMAn3x0NPs+7JW+akcDqeY68hpyubRinvshC4Nz5piRIKAdW69sycfEddm/3UaQykGlt6ZEJh38Idd/E2AQd8lb2fl+DmNV+oa7F51sgYe3ctoAK2yIkA/XQdliNJ+wpMCmH1VTJ1IXh9BJFwGGDMe82ygAsD9D7d/5kyxXIk8v4nibrXSPHo24s/uwtUPRhh0fCsSMQTAjfFPNSfd8TJsA8AU84CpYaAEzMZIYZ2c3JCmfrpZPYD+1MyLomL0s7+cS7i8WAiNPF7pBY3q117Qu62VLQYu0+QjI0oPm9ytuWKamaWHgoBig+gFQ267kso8VMu98nmpKKCaMz4mcCd+c4yaMa1blmPP7Xd6Pj4wuZEK82MVib7QYK2fVwn4XOPLHbus9K9ScrY5A==;mo+CZ4in9uFpfVH+1zvoWw=="
 ---

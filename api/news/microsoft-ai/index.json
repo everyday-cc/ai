@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
-      "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
-      "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
+      "path": "_news/2023-10-08-microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs.md",
+      "title": "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs",
+      "excerpt": "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 252,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74694,msid-104256825/microsoft-ai-chip.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35137068",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068",
-      "publishedDateTime": "2023-10-07T14:10:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms",
+      "publishedDateTime": "2023-10-08T00:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +42,60 @@
       "topics": [
         "AI Hardware",
         "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
+      "title": "Survey: Challenges and Solutions in Generative AI Adoption",
+      "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
+      "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
+          "width": 270,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
         "Microsoft AI"
       ]
     },
@@ -98,6 +152,50 @@
       ]
     },
     {
+      "path": "_news/2023-10-06-ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts.md",
+      "title": "UBS remain constructive on Microsoft ahead of 'key AI catalysts'",
+      "excerpt": "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1",
+      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1",
+      "publishedDateTime": "2023-10-06T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.md",
       "title": "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure",
       "excerpt": "Empower teams across organisations to collaborate, create, and share AI-driven analytics, apps, and automations for any business, development, security, or operations use case Dynatrace (NYSE: DT), is the leader in unified observability and security,",
@@ -106,7 +204,7 @@
       "originalUrl": "https://itwire.com/guest-articles/company-news/latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -189,58 +287,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts.md",
-      "title": "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts",
-      "excerpt": "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 270,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/",
-      "publishedDateTime": "2023-10-05T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]
@@ -332,6 +378,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-tech-analyst-dan-ives-microsoft-azure-is-seeing-a-clear-uptick-in-artificial-intelligence-ai-spending-heres-what-it-means-for-the-stock.md",
+      "title": "Tech Analyst Dan Ives: Microsoft Azure Is Seeing a \"Clear Uptick\" in Artificial Intelligence (AI) Spending. Here's What It Means for the Stock.",
+      "excerpt": "Ives said that based on recent checks, Microsoft's monetization of AI is \"happening quicker than expected.\" He goes on to note that \"our latest Azure checks also show a clear uptick in activity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749617/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1285,92 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-ties-with-microsoft-for-industry-wide-adoption-of-generative-artificial-intelligence.md",
-      "title": "Infosys ties with Microsoft for industry-wide adoption of generative artificial intelligence",
-      "excerpt": "Infosys collaborates with Microsoft to develop AI solutions, leveraging Infosys Topaz, Azure OpenAI Service, and Azure Cognitive Services. The integrated solutions aim to enhance enterprise functions and accelerate the democratization of data and intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a-11695728678066.html",
-      "originalUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a-11695728678066.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/09/26/1600x900/INFOSYS-ORDERS--0_1695728957174_1695729066963.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a/amp-11695728678066.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-a/amp-11695728678066.html",
-      "publishedDateTime": "2023-09-26T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-coles-accelerates-application-deployments-with-microsoft-azure.md",
-      "title": "Coles accelerates application deployments with Microsoft Azure",
-      "excerpt": "When it comes to customer feedback, Coles wanted to integrate productive updates and changes as quickly as possible to address friction points, add new features, and streamline processes. With Azure DevOps, Coles has been able to achieve efficiency by shifting from monthly to weekly deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retailbiz.com.au/topics/omnichannel/coles-accelerates-application-deployments-with-microsoft-azure/",
-      "originalUrl": "https://www.retailbiz.com.au/topics/omnichannel/coles-accelerates-application-deployments-with-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbiz.com.au/wp-content/uploads/2023/09/Coles-accelerates-application-deployments-with-Microsoft-Azure.jpg",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "retailbiz.com.au",
-        "domain": "retailbiz.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

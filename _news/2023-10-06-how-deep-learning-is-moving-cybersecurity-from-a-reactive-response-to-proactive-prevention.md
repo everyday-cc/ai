@@ -37,15 +37,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Boardroom Blueprint: AI's Cybersecurity Risks"
-    excerpt: "fostering the development of AI ethics. To steer organizations safely through the AI revolution, boards should consider the following action items: Develop AI Security Protocols: Implement appropriate AI security protocols to safeguard against potential ..."
-    publishedDateTime: 2023-10-03T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/boardroom-blueprint-ais-cybersecurity-risks/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Axis execs talk AI regulation, cloud economics, cybersecurity and more"
     excerpt: "Axis co-founder Martin Gren, and Tom Nilsson, Vice President of the Americas for Axis, talked about the future of artificial intelligence, the prospects for regulation in the"
     publishedDateTime: 2023-10-06T17:34:00Z

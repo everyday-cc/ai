@@ -217,6 +217,20 @@ related:
         width: 1180
         height: 585
         isCached: true
+  - title: "Voice to Parliament about ‘practical recognition’ to ‘deliver better results’"
+    excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
+    publishedDateTime: 2023-10-08T07:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 21
+    images:
+      - url: "https://content.api.news/v3/images/bin/6b50a77b19e5141965e5fc37295d2113"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
     publishedDateTime: 2023-10-04T21:17:00Z

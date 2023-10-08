@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-06T13:50:00Z
 originalUrl: "https://gizmodo.com/everything-thats-happened-in-ai-since-open-letter-1850891057"
 webUrl: "https://gizmodo.com/everything-thats-happened-in-ai-since-open-letter-1850891057"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8ec06484de0af495a370106c79f7ba9d.jpg"

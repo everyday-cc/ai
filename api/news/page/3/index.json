@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-05-network-security-gurus-5-bets-on-azure-aws-and-cisco-splunk.md",
+      "title": "Network Security Guru’s 5 Bets On Azure, AWS And Cisco-Splunk",
+      "excerpt": "Microsoft Azure, AWS and Cisco’s acquisition of Splunk are big bets for Sentinel Technologies around increasing network security and services sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
+      "originalUrl": "https://www.crn.com/news/cloud/network-security-guru-s-5-bets-on-azure-aws-and-cisco-splunk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0286-19249d9d056d-3a61f7e24af0-1000/bob-keblusek-sentinel.jpeg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-amd-stock-falls-an-analyst-says-the-ai-chip-boom-could-take-longer.md",
       "title": "AMD Stock Falls. An Analyst Says the AI Chip Boom Could Take Longer.",
       "excerpt": "Dell DELL –3.02% Technologies expects annual revenue growth of 3% to 4% going forward, with adjusted profit growth of 8% or better, the PC and enterprise-hardware company said Thursday at a meeting with securities an...",
@@ -294,7 +339,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -569,57 +614,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-05-reka-launches-yasa-1-a-multimodal-ai-assistant-to-take-on-chatgpt.md",
-      "title": "Reka launches Yasa-1, a multimodal AI assistant to take on ChatGPT",
-      "excerpt": "Yasa-1 can be customized with private datasets of any modality and used for different enterprise-centric use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/reka-launches-yasa-1-a-multimodal-ai-assistant-to-take-on-chatgpt/",
-      "originalUrl": "https://venturebeat.com/ai/reka-launches-yasa-1-a-multimodal-ai-assistant-to-take-on-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_representation_of_sound_waves_film_strips_and__96931419-9a47-4314-91df-e0fb713b91b9.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-05-ai-voice-cloning-tech-emerges-in-sudan-civil-war.md",
       "title": "AI: Voice cloning tech emerges in Sudan civil war",
       "excerpt": "A campaign using artificial intelligence to impersonate Omar al-Bashir, the former leader of Sudan, has received hundreds of thousands of views on TikTok, adding online confusion to a country torn apart by civil war.",
@@ -773,7 +767,7 @@
       "originalUrl": "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -972,6 +966,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
+      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
+      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "publishedDateTime": "2023-10-04T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
       "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
       "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
@@ -1083,7 +1129,7 @@
       "originalUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1175,49 +1221,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
-      "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
-      "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/msid-104160797,width-280,height-210,imgsize-36962/what-is-aap-mp-sanjay-singhs-link-to-the-delhi-excise-policy-case.jpg",
-          "width": 280,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
-      "publishedDateTime": "2023-10-04T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

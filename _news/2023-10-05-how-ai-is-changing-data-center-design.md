@@ -41,22 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Confluent - ‘scalable generative AI requires a different kind of data infrastructure’"
-    excerpt: "Confluent’s generative AI pitch is somewhat different to other vendors in the market. Its focus on the fundamentals of making data an asset is worth considering."
-    publishedDateTime: 2023-10-03T14:13:00Z
-    webUrl: "https://diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure"
-    ampWebUrl: "https://diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/confluent-scalable-generative-ai-requires-different-kind-data-infrastructure?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_1794601321.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "qDblbZj3KiwTVK4MQtMs7R+l7Gead9H8s/mZlEWV4jx/Uw6mB3QmEkKWJ4WQJ6tM6lvJVp1J8z5EPjR5/R9tBcWMIpaVX6EmX7AuaPurYZ2xs273t0Qw9s5NWdaUDWMlz9g3b6MjUASczZHF3pNtDZ4X2ml3sMTq44c4z2Hue8hWCcVCROZdp8GVdQLTX+UM5rGPFH4vZp/bZC6SwPC3Az9xy2qllIUKxF3dUQvHrt8s7z7sYpcIZb69DOYG1ArMOSAsqOP1y+tTlmKTITIJD2Md0XUiFWqFnES4GK8XiPrZcpJscs09Ck9WHwkJncLvexdORclDJEeR/Nbm2Dazaqx/KrR2tTFBzvA2OGKJHcw=;G6JFP4W3dT/foTW8VUJpjA=="
 ---

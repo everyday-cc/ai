@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
+    excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
+    publishedDateTime: 2023-10-08T07:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 102
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74694,msid-104256825/microsoft-ai-chip.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
     excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
     publishedDateTime: 2023-10-05T16:37:00Z
@@ -42,35 +58,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft CTO Kevin Scott on how AI and art will coexist in the future"
-    excerpt: "Kevin and I talked about how things are going with Bing and Microsoft’s AI efforts in general now that the initial hype has subsided — I really wanted to know if Bing was actually stealing users from Google."
-    publishedDateTime: 2023-10-03T15:00:00Z
-    webUrl: "https://www.theverge.com/23900198/microsoft-kevin-scott-ai-art-bing-google-nvidia-decoder-interview"
+  - title: "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip"
+    excerpt: "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip."
+    publishedDateTime: 2023-10-07T21:10:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35137068"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35137068"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 84
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/1nU002FuqGvs5h2bLxxyvxrwiAE=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24971211/KevinScott_Decoder.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
-    excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
-    publishedDateTime: 2023-10-06T14:53:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530"
-    ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 76
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia,Investment,Growth,And,Profit,Trading,Concept.,Nvidia,Company,Logo.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
         isCached: true
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
@@ -86,35 +88,21 @@ related:
         width: 989
         height: 520
         isCached: true
-  - title: "Microsoft’s AutoGen framework allows multiple AI agents to talk to each other and complete your tasks"
-    excerpt: "This collaborative approach can lead to significant efficiency gains. According to Microsoft, AutoGen can speed up coding by up to four times."
-    publishedDateTime: 2023-10-03T15:10:00Z
-    webUrl: "https://venturebeat.com/ai/microsofts-autogen-framework-allows-multiple-ai-agents-to-talk-to-each-other-and-complete-your-tasks/"
+  - title: "Microsoft Translator gets four new Indian languages"
+    excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
+    publishedDateTime: 2023-10-05T22:49:00Z
+    webUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html"
+    ampWebUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: FoneArena
+      domain: fonearena.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/826150be-bb00-41f7-9952-47ba53104d76.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "Milleniumchain Broker Talks About Microsoft and its AI-Driven Surge: Gains for Investors"
-    excerpt: "Summary: Analysts foresee even more positive developments, including the potential stabilization of Azure cloud computing, the upcoming Microsoft Ignite event, and the AI-driven Microsoft 365 Copilot."
-    publishedDateTime: 2023-10-06T19:02:00Z
-    webUrl: "https://www.benzinga.com/content/35131479/milleniumchain-broker-talks-about-microsoft-and-its-ai-driven-surge-gains-for-investors"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35131479"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35131479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
     excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
@@ -186,29 +174,17 @@ related:
         width: 1051
         height: 701
         isCached: true
-  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
-    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
-    publishedDateTime: 2023-10-04T14:15:00Z
-    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
+  - title: "Microsoft adds four more Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
+    publishedDateTime: 2023-10-05T11:36:00Z
+    webUrl: "https://www.business-standard.com/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 52
-  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
-    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
-    publishedDateTime: 2023-10-05T05:31:00Z
-    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 48
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
   - title: "Domino's and Microsoft are working together on artificial intelligence"
     excerpt: "The pizza delivery giant and the technology company will join forces to develop AI strategies to improve operations and customer service."
     publishedDateTime: 2023-10-03T18:24:00Z
@@ -236,15 +212,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
-  - title: "Baking Tech Into Pizza: Domino's And Microsoft Cook Up An AI-Driven Future For Store Operations"
-    excerpt: "Domino's Pizza Inc (NYSE: DPZ) has partnered with Microsoft Corp (NASDAQ: MSFT) to utilize generative AI technology and cloud computing power"
-    publishedDateTime: 2023-10-03T13:23:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/10/35061660/baking-tech-into-pizza-dominos-and-microsoft-cook-up-an-ai-driven-future-for-store-operations"
+  - title: "Microsoft Translator now supports 20 Indian languages"
+    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
+    publishedDateTime: 2023-10-05T13:58:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 21
 
 secured: "1QoDtVyvhFYqirGXrNW4ql9IXp94IRjZvWXb3RQGse7A3BIOigWcuqf+2pcqISXABsjtcd/+9hLBYTITIHLj97KAMhYD1YRmvNBYmt/x8P/g2xY5ab4ov2qldDTRTosEdabL5JM2RbsE/nTMIGDMkf6Tcgl4zd0HpA9dEIfHX4NobZwVwC1zW42Hzey87aRpG/YpeHCVeJxr1Y9X2PS8W5BKeL5C4oXCIUYyYChcRLyAk+wYE9CwHmmVgNUMbPf9FqvDVzrOEJf33THk1cbYnQ1o//XPT5NgrUl3vvnbUZrtOuvG5yeZc+Nl+8B0Sfg2yXMVasMFje5HQ/NuVv/kvqosgqi4BQmLlPtySz1rbNYpukq3Zdxp6P94FFxGVw3MbY4Q0AqG0YEfKjQ5xbMV02DZPMeDT9t6b2qhquFSrwM5+zWXHgHTO6x3OhbqQprSO/HYH8FDQIijQxKJ8w9wVVQvBYO2cDfCV0JGA3246QbRVArsMprjl9w2X3ILXi+W8kIIpY0QeTqveoZHUJYTgw==;P/Uj1xkUwtxRU2T57lFcCA=="
 ---

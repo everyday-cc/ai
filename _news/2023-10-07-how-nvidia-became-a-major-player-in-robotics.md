@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player
 webUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/"
 type: article
 quality: 64
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI"
-excerpt: "Americans have heard a lot about the potential for artificial intelligence to take over jobs now handled by humans. And like it or not (for the record, we don’t) journalism has been at the top of many of those lists."
-publishedDateTime: 2023-10-03T12:30:00Z
-originalUrl: "https://www.aol.com/editorial-why-artificial-intelligence-t-093000623.html"
-webUrl: "https://www.aol.com/editorial-why-artificial-intelligence-t-093000623.html"
+excerpt: "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ..."
+publishedDateTime: 2023-10-03T11:26:00Z
+originalUrl: "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/"
+webUrl: "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
+  - AI in Healthcare
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/6zvmdPLHknn7kEGvXhJCSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/orlando_sentinel_local_122/8f8324c3f7402f1d8852a8b25073c5d1"
-    width: 1200
-    height: 800
+  - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683"
+    width: 1024
+    height: 682
     isCached: true
 
-secured: "0cnWN00YsyzSpm3cW3a005k1lUZuaobYwm4iqlrmY1i44ABoXcGo/0qrmRmqJ05tvJl7qGpyB5lX+dzaDTuFhULy7wpxQg5XFjM10XmD/DVdhydUbFSuEDDGABQYcm7jbmphutFzK6hZb7dzn989yW7opxe0TnUqSoSiNW1qBulNRPdq/9dit5w+iRsxuvmEU/4/TpBVlEuZy+KLS5j5pvu9eaqZcbUd6MXM3cxrNtCyXgoERFVShXYuHHRdDyFfh/AeixWThD92lP3sVQf7P4MOs70Tm5klmrX61HOZBuwM1U0T2IL2pwD3i8tURLMKekRJEEEe3DTD93h95CNVrV7xDL3V4UTH59D0hgBqyotdclfKhM3msAS6rCzhDjiQ74sJSZVqsGBu/+nZx0HzY6zhR+ILc9MwKJnlyAdB9Wh2wvR5pc1FQDMBR9qGSPTpmKQB57GQpgsUD2FMRVyPBGqTQJ315jBOgEwuFQP1HBwbrgjNDmkoSn7VZnm2+aifCqDb5KeKI1uaFwfO8J6z3w==;pOqQ4baQ/8eK2U8iR9ncCw=="
+secured: "QJC5Mwrnmu6z0r+XayQp4b0eozE4WKl1D10k1RtiHpo+yrNWdqk8iClPbPc6MdeXt971u6cFEq2QX+UWyPT2Xd63t3UwiFbPSALpE05CsXPUFf+LGFrV1en3vg2Wuk1wOCtswwu/ATQ5MVKhHOgMWB7CQu5J94rX23nWyCKH4S+7VHHFT5RTyV6AMFPzOcTBLvXEPhLx5LSM+FwvIN562bwZgypZ7UtNe+7/PHCZAlYtZj1R5yziYc8i/8Gwe4CMj/xGaoFPs4i9byJQElUqPhLm5Rj23nVSVapM45VjlsAG0U9oHKYlLYA889OyO/SBXLUvr7Oufza/2vMtVvmEjpLprWxeS+wPCE5AELH43Wo=;GxLqe7/RmHQNcT/5FRHC9Q=="
 ---
 

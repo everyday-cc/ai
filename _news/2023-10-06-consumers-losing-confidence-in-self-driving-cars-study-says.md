@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-c
 webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
 type: article
 quality: 54
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -113,24 +113,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Woman rescued from under self-driving car after being struck twice"
-    excerpt: "A woman suffered “life-threatening injuries” after getting trapped under a self-driving vehicle Monday night when a car being driven by a human allegedly struck her, launching her into"
-    publishedDateTime: 2023-10-03T19:09:00Z
-    webUrl: "https://nypost.com/2023/10/03/woman-rescued-from-under-self-driving-car-after-being-struck-twice/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
-  - title: "Self-driving car involved in accident leaves woman in critical condition."
-    excerpt: "A woman is in critical condition after being pinned under a self-driving car in downtown San Francisco on Monday night."
-    publishedDateTime: 2023-10-03T23:43:00Z
-    webUrl: "https://www.kalw.org/2023-10-03/self-driving-car-involved-in-accident-leaves-woman-in-critical-condition"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 3
 
 secured: "E2ZonXAFPVqej4o2BO5xs2WbDnj+1PD6ReJJfFUMU1fSEIwUBRPdOB8Wzi6D9qkWDOmQ5i5s7Oj+FDhPWIyn7otDDgexS3i/E5fOivecdKBHymgRsl5HtBnM5iR/vr6zwR+dBpQjuTfUIv5seuT+yP+pWUkeScj1unA+i4BvQkknqegIpPUV5Vf1NV/gYhqKcuHVtUpFvn4MeWNlXhhaFV0RPr3hXfTy1jNI1URlTusL4fnBEc89KB8YFIfAhdBN+n1lL/5m5GiS+8E/HqhnBVRckcloScTsMuvZdCoKHLaf5ZdVy98GaQZYWWDUPHaW+OQxn+/TyUnyuUrsb3Xr261OxmsA+XV9i2yL6uEJeJmrKeJ5DTTmHdY9LQwn9/7WkXKR0yjPTQemS5judrP8MqzQrpS6pEPb3Dmx74hRVF/tMhQWUhmGD71fB3P8ZMRNby+Xg6aJNH9l7ALzUfciuIAdWDw2JNFkQaTk/11+iqRpUAtc5kIG5hgFoBC36BY6IfN5Ztt3NGJWdob3s39vXw==;b0L3A4pSvh7Y3aB3YsJCNg=="
 ---

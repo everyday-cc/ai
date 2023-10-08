@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
+    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
+    publishedDateTime: 2023-10-04T15:41:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
     publishedDateTime: 2023-10-06T11:27:00Z

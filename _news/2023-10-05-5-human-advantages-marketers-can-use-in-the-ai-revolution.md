@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-huma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Defects of Human and Artificial Intelligence"
+    excerpt: "With AI, there is nothing to be read between the lines.’"
+    publishedDateTime: 2023-10-03T16:57:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-861763/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The Defects of Human and Artificial Intelligence"
     excerpt: "Regarding Joshua Ben Rosen’s “AI Can Do as Bad a Job as Your PR Department” (op-ed, Sept. 21): Human communication is mostly imperfect, even in well-thought-through text. It has unintentional “defects” in logic or aesthetics, and such subtleties ..."
     publishedDateTime: 2023-10-03T18:00:00Z
@@ -59,29 +73,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
         width: 1528
         height: 800
-        isCached: true
-  - title: "The Defects of Human and Artificial Intelligence"
-    excerpt: "With AI, there is nothing to be read between the lines.’"
-    publishedDateTime: 2023-10-03T16:57:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "How humans can absorb artificial intelligence biases"
-    excerpt: "Research at Deusto University reveals that people can inherit artificial intelligence biases, potentially leading to systemic errors"
-    publishedDateTime: 2023-10-03T13:54:00Z
-    webUrl: "https://www.openaccessgovernment.org/how-humans-can-absorb-artificial-intelligence-biases/167567/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1486818906-scaled.jpg"
-        width: 2000
-        height: 1257
         isCached: true
   - title: "Undetectable AI Writes Like A Human"
     excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."

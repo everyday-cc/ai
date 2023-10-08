@@ -41,6 +41,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
+    excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
+    publishedDateTime: 2023-10-03T18:36:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-just-added-ai-powered-coaching-and-recruiting-tools-to-make-your-job-easier/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
     excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
     publishedDateTime: 2023-10-05T16:53:00Z

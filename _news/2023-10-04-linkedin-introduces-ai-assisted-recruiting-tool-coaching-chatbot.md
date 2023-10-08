@@ -24,212 +24,208 @@ images:
     isCached: true
 
 related:
-  - title: "LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI"
-    excerpt: "Given that AI sales of this kind are well established in the world at large — I’ve even heard VCs complain that they can’t consider “yet another AI sales startup” — this seems somewhat overdue for LinkedIn to add."
-    publishedDateTime: 2023-10-03T14:41:00Z
-    webUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/"
+  - title: "Likewise debuts Pix, an AI chatbot for entertainment recommendations"
+    excerpt: "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own"
+    publishedDateTime: 2023-10-05T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/"
+    ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 107
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434.jpg?resize=1200,800"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642"
         width: 1200
-        height: 800
+        height: 642
         isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T14:04:00Z
-    webUrl: "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
+  - title: "Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns"
+    excerpt: "Snap’s AI chatbot has landed the company on the radar of the UK’s data protection watchdog which has raised concerns the tool may be a risk to children’s privacy."
+    publishedDateTime: 2023-10-06T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/"
+    ampWebUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/snap-ico-notice/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Snap AI chatbot investigation in UK over teen privacy concerns"
+    excerpt: "The U.K.'s Information Commissioner's Office has issued a preliminary enforcement notice against Snap over its generative AI chatbot."
+    publishedDateTime: 2023-10-06T21:20:00Z
+    webUrl: "https://www.cnbc.com/2023/10/06/snap-ai-chatbot-privacy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
     quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249"
-        width: 594
-        height: 395
+      - url: "https://image.cnbcfm.com/api/v1/image/106849816-1614949749338-gettyimages-1230948220-SNAP_EARNS.jpeg?v=1696632478"
+        width: 4000
+        height: 2667
         isCached: true
-  - title: "OpenAI To Join The Custom AI Chip Club?"
-    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
-    publishedDateTime: 2023-10-06T19:28:00Z
-    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
-    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
+  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
+    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
+    publishedDateTime: 2023-10-04T12:00:00Z
+    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
+      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "OpenAI explores in-house AI chip making: Report"
-    excerpt: "OpenAI, the ChatGPT maker that has been behind the recent AI surge, is now looking for alternatives to avert the shortage of expensive AI chips it needs, to run those advanced AI models. These chips,"
-    publishedDateTime: 2023-10-06T06:28:00Z
-    webUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/"
-    ampWebUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
+  - title: "Generation AI: Meta's many chatbots"
+    excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
+    publishedDateTime: 2023-10-04T23:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRW634102102023RP1"
     type: article
     provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/05/48838377432_d109be2066_b.jpg"
+      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RW634102102023RP1&r=RW634102102023RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
+    excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
+    publishedDateTime: 2023-10-05T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/modern-campground-announces-partnership-with-insider-perks-to-launch-campy-an-ai-chatbot-1032664766"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://thenewsfront.com/wp-content/uploads/2023/09/campy-original-high-300x300.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
+    excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
+    publishedDateTime: 2023-10-05T16:58:00Z
+    webUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/"
+    ampWebUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8F55F0EE-179B-4E3C-BD4FF56C2F58D717.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Snapchat: Snap AI chatbot 'may risk children's privacy'"
+    excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
+    publishedDateTime: 2023-10-06T15:45:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67027282"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67027282.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67027282.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73FE/production/_131349692_gettyimages-1611746676.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
-  - title: "OpenAI May Start Manufacturing AI Chips for Itself"
-    excerpt: "OpenAI, the company popularly known for its AI chatbot ChatGPT, is reportedly interested in manufacturing custom AI chips."
-    publishedDateTime: 2023-10-06T11:10:00Z
-    webUrl: "https://www.coinspeaker.com/openai-ai-chips/"
-    ampWebUrl: "https://www.coinspeaker.com/openai-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-ai-chips/amp/"
+  - title: "UK data watchdog issues Snapchat enforcement notice over AI chatbot"
+    excerpt: "ICO inquiry provisionally finds social media app’s owner failed to assess risks to users of My AI service"
+    publishedDateTime: 2023-10-06T13:25:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/openai-class-action-lawsuit.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.guim.co.uk/img/media/f4506afd5d6c97006c61ff472cdbe3c1dde08cb8/0_191_5849_3509/master/5849.jpg?width=620&quality=85&auto=format&fit=max&s=8946f96664ea02c09c30113a1457c21a"
+        width: 620
+        height: 372
         isCached: true
-  - title: "ChatGPT maker OpenAI plans to start making its own AI chips. Here's why it's important"
-    excerpt: "OpenAI aims to resolve AI chip shortage by diversifying suppliers and testing custom chip. The company has also been exploring potential acquisition target."
-    publishedDateTime: 2023-10-06T06:45:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important-11696569243350.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
+  - title: "Snap might have to withdraw its AI chatbot, watchdog says"
+    excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
+    publishedDateTime: 2023-10-06T13:37:00Z
+    webUrl: "https://www.bbc.com/news/technology-67027282"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 66
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/06/1600x900/OPENAI-FUNDING--1_1696569546695_1696569602090.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI is considering making its own AI chips"
-    excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
-    publishedDateTime: 2023-10-06T04:30:00Z
-    webUrl: "https://www.newsbytesapp.com/news/business/openai-is-weighing-options-for-securing-ai-chip-supply/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l16820231006095044.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "OpenAI looking at producing AI chips in-house : Report"
-    excerpt: "OpenAI reportedly weighed up a chip making firm as an acquisition target so it could produce its own AI chips. OpenAI, the company behind artificial intelligence chatbot ChatGPT, is reportedly exploring the possibility of manufacturing processing chips in ..."
-    publishedDateTime: 2023-10-06T04:24:00Z
-    webUrl: "https://cointelegraph.com/news/openai-looks-at-making-in-house-chips"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvODQwNWE3MWUtNTcwMS00MzdkLWFmNGMtY2Q2YzE5YWVjMTcyLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "OpenAI is Looking to Start Producing Custom AI Chips"
-    excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
-    publishedDateTime: 2023-10-07T04:30:00Z
-    webUrl: "https://techreport.com/news/openai-is-looking-to-start-producing-custom-ai-chips/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI said to be considering developing its own AI chips"
-    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
-    publishedDateTime: 2023-10-06T19:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: BBC
+      domain: bbc.com
     quality: 47
-  - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T01:12:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
+  - title: "Snapchat's AI chatbot may pose privacy risk to children, says UK watchdog"
+    excerpt: "Britain's data watchdog said on Friday Snapchat had been issued with a preliminary enforcement notice over a possible failure to properly assess the privacy risks of its generative AI chatbot to users,"
+    publishedDateTime: 2023-10-06T10:58:00Z
+    webUrl: "https://www.reuters.com/technology/uk-regulator-issues-notice-snapchat-over-privacy-risks-posed-by-ai-chatbot-2023-10-06/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
-    excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
-    publishedDateTime: 2023-10-03T18:36:00Z
-    webUrl: "https://www.zdnet.com/article/linkedin-just-added-ai-powered-coaching-and-recruiting-tools-to-make-your-job-easier/"
+      name: Reuters
+      domain: reuters.com
+    quality: 46
+  - title: "Bill Gates-Backed Startup Launches AI Chatbot for Personalized Movie, Book Picks"
+    excerpt: "The chatbot, called Pix, runs on OpenAI language-processing tech and will learn user preferences over time."
+    publishedDateTime: 2023-10-05T12:00:00Z
+    webUrl: "https://www.wsj.com/tech/ai/bill-gates-backed-startup-launches-ai-chatbot-for-personalized-movie-book-picks-3badd854"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
-  - title: "Exploring AI’s impact on human resources and learning development"
-    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
-    publishedDateTime: 2023-10-04T08:41:00Z
-    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 42
+  - title: "Meta Is Paying Creators Millions for AI Chatbots"
+    excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
+    publishedDateTime: 2023-10-05T22:01:00Z
+    webUrl: "https://www.theinformation.com/articles/meta-is-paying-creators-millions-for-ai-chatbots"
     type: article
     provider:
-      name: International Training Centre of the International Labour Organization
-      domain: itcilo.org
+      name: The Information
+      domain: theinformation.com
     quality: 39
     images:
-      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
-        width: 3840
-        height: 2160
+      - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "OpenAI considers making its own AI chips, acquiring hardware business"
-    excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
-    publishedDateTime: 2023-10-06T12:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/"
+  - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
+    excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://legaltechnology.com/2023/10/06/linklaters-explores-gen-ai-with-googles-vertex-ai-for-search-an-openai-chatbot-and-cocounsel/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 36
-  - title: "ChatGPT-owner OpenAI might be exploring making its own AI chips"
-    excerpt: "The effort to get more chips is tied to two major concerns Altman has identified: a shortage of the advanced processors that power OpenAI's software and the “eye-watering” costs associated with running the hardware necessary to power its efforts and products."
-    publishedDateTime: 2023-10-06T11:51:00Z
-    webUrl: "https://www.cnbctv18.com/technology/chatgpt-owner-openai-might-be-exploring-making-its-own-ai-chips-17974651.htm"
+      name: Legal Technology
+      domain: legaltechnology.com
+    quality: 27
+    images:
+      - url: "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
+    excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
+    publishedDateTime: 2023-10-05T13:27:00Z
+    webUrl: "https://variety.com/vip/celebrity-just-might-be-metas-edge-in-ai-chatbot-war-1235745299/?n=@"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 34
-  - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
-    excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
-    publishedDateTime: 2023-10-06T12:00:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/fed-up-with-expensive-ai-chips-openai-is-now-planning-to-start-making-its-own-ai-chips-13213102.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 26
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "/bsTJ8ApinAyjqw0NjHtpTyZRqXMLH1Ef/1179Si0eDVj5NBC3XzL29JhaxHmNAqOeSkI1bduhZ7die7Cjyra5ZuKwwq5ubVaJja21OFGCn4gfZnSHGhxgghJZGihQwl05yif3/KgtWpjqIOI1XMla85Tc2tYclmoAM/6MgtsouXc7CIoieMrqURjCxszYxHVcytRXBTobWU5KfU4P278SmjVndwqalVDRW3X96BGSbzP/N9e+HT+MzNUEFBSBl8jF89c8kaSOzjNuFYLlIf5dIBadojGnwwpg90JyPCTjX2AZRs33+9x8dsnXYMLWvKwJ8WezVHCqVnWIAF8rOUBOElUzj3n9y9hQaoQmRQKyY=;BSrPprBLY0RL6pZGxYIcIA=="
 ---

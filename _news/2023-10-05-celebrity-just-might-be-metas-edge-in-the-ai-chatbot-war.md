@@ -94,20 +94,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Nearly 10% of people ask AI chatbots for explicit content. Will it lead LLMs astray?"
-    excerpt: "Beyond programming tips and writing help, a million conversations reflect people's desires for other kinds of 'usafe' information. Here's what researchers are doing about it."
-    publishedDateTime: 2023-10-03T14:49:00Z
-    webUrl: "https://www.zdnet.com/article/nearly-10-of-people-ask-ai-chatbots-for-explicit-content-will-it-lead-llms-astray/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 60
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d93c52e1b29060811a7bcd10b1f0ee65e05a99b4/2023/10/02/ec9f3a70-79ed-420a-8108-a969f43bf685/serious-gettyimages-891315918.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
     excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
     publishedDateTime: 2023-10-05T13:43:00Z
@@ -210,6 +196,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "LinkedIn introduces AI-assisted recruiting tool, coaching chatbot"
+    excerpt: "New AI-based tools will improve efficiency so recruiters can focus on strategy and people-centric work, the company says."
+    publishedDateTime: 2023-10-04T05:11:00Z
+    webUrl: "https://www.hrdive.com/news/linkedin-introduces-ai-assisted-recruiting-tool/695471/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/imgproxy/8eatHHWLQzgI-WxN4QUkSzWnOtbulmSJq7P3qkVCwUI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMzA1Mzc4NTVfT25jbmxnQi5qcGc.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
     excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"

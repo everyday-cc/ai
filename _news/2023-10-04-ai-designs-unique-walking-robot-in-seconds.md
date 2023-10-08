@@ -39,6 +39,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Instant evolution: AI designs new robot from scratch in seconds"
+    excerpt: "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ..."
+    publishedDateTime: 2023-10-06T10:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "AI stretches its legs: NU researchers use AI to design robots"
     excerpt: "A team led by Northwestern researchers is the first to use artificial intelligence to build robots from scratch, according to a Tuesday news release. The unique algorithm designed a successfully walking robot in mere seconds that runs on a lightweight console compared to other AI systems that require larger storage and datasets."
     publishedDateTime: 2023-10-04T04:19:00Z
