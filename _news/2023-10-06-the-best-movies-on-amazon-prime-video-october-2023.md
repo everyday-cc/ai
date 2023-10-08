@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -70,29 +70,6 @@ related:
     quality: 54
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon Prime Day 2023 - the 35 best early deals from the October sale"
-    excerpt: "Browse all early deals at Amazon Standout deals so far include Amazon devices such as the Fire TV Stick, Echo Pop and Fire TVs, which are all available for record-low prices. There are a number of ..."
-    publishedDateTime: 2023-10-03T16:11:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 34
-  - title: "Best Stocks To Buy Now in October 2023"
-    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
-    publishedDateTime: 2023-10-05T00:24:00Z
-    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
         width: 1200
         height: 675
         isCached: true

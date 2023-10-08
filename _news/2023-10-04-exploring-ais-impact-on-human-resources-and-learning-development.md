@@ -25,54 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact of AI and Machine Learning on Startup Innovation"
-    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
-    publishedDateTime: 2023-10-06T14:57:00Z
-    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
-    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+  - title: "AI and the Future of Software Development: How Machine Learning is Transforming Development"
+    excerpt: "The software world is on the cusp of a revolution. Artificial intelligence and machine learning have already started reshaping software development in major ways. Soon these technologies may become as vital for coders as knowing a programming language."
+    publishedDateTime: 2023-10-04T14:50:00Z
+    webUrl: "https://techbullion.com/ai-and-the-future-of-software-development-how-machine-learning-is-transforming-development/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 56
-  - title: "Cold Open: The Impact of Artificial Intelligence on Authorship in Film and Television Writing"
-    excerpt: "Last week, the Writers Guild of America reached a tentative three-year deal to resolve a writer’s strike following a labor dispute with the Alliance of Motion Picture and Television Producers. A major point of contention between writers and producers was the use of artificial intelligence in the screenwriting process."
-    publishedDateTime: 2023-10-03T16:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/10/03/cold-open-impact-artificial-intelligence-authorship-film-television-writing/id=167780/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 26
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
     images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/10/Depositphotos_668326526_XL.jpg"
-        width: 600
-        height: 371
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/spw.jpeg"
+        width: 740
+        height: 493
         isCached: true
-  - title: "LTN Startup Spotlight: Paxton AI Founder Sees Startups Having Advantage in the Crowded Marketplace"
-    excerpt: "Legaltech News caught up with Paxton AI’s co-founder and CEO, Tanguy Chau, to discuss the company’s approach to large language models and retrieval augmented generation, and how it stands out in the market."
-    publishedDateTime: 2023-10-05T21:08:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/05/ltn-startup-spotlight-paxton-ai-founder-sees-startups-having-advantage-in-the-crowded-marketplace/"
+  - title: "Emotions are coming to Artificial Intelligence. Will Machines Truly Feel?"
+    excerpt: "Artificial Intelligence is revolutionizing many industries. The focus up to this point is how to leverage the seemingly unbounded \"intellectual intelligence\" that AI brings to the party. It makes sense. We're in the early evolution of the technology, and that's where it's starting out."
+    publishedDateTime: 2023-10-04T11:51:00Z
+    webUrl: "https://www.inc.com/soren-kaplan/emotions-are-coming-to-artificial-intelligence-will-machines-truly-feel.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 23
+      name: Inc
+      domain: inc.com
+    quality: 36
     images:
-      - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"
-        width: 716
-        height: 372
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1203852772_534024_txpubd.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "CX is a good place to start with AI-driven innovation"
-    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
-    publishedDateTime: 2023-10-05T12:51:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
+  - title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
+    excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
+    publishedDateTime: 2023-10-04T00:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 17
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+  - title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
+    excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
+    publishedDateTime: 2023-10-05T13:41:00Z
+    webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 13
 
 secured: "7ZZ0gDE2YDoGs63R2+8AgY+0dm1Um2xQTNebNR+b26aNw5kDQN+ROMHHtIwLxCaR+tiPPBmO0t3TLmSLzp+cmiXhu+l9kuew/5fCo+EwkIMau7HnnKRUhe6hn0J9hnbdflWvyYwLCN3i3S21mPJAaRIO8ofC13i2KdKJ2sxZ4Ollyd+vA/8U0wEY1mz1MZTOxVPzhrpQAw+lEe9To51O+Ckj8HFaYKziSRc5k0dwE1NVTxVrQ8YuCUz4Wm8ZPa+EM/H9hD9f82/ZQblRtjjM4tl8kPVsSN4qWjlLvqkTaeqsbKw2Gno+/T7/iqp8avHlV3xjPlqhz0Um3p4AShnAkZy/KKFvYQ3Xx0mu8RPSZoU=;0jDlSqO+8ji3esm2RAXIWg=="
 ---

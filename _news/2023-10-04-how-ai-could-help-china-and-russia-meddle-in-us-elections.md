@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china
 webUrl: "https://www.scientificamerican.com/article/how-ai-could-help-china-and-russia-meddle-in-u-s-elections/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Russian combat robots to employ artificial intelligence in special military operation area"
+    excerpt: "MOSCOW, October 4. /TASS/. Artificial intelligence will be installed on Russian BR-1 and BRG-1 ground-based robotic vehicles to lay mines and evacuate wounded personnel in the zone of the special ..."
+    publishedDateTime: 2023-10-04T04:56:00Z
+    webUrl: "https://tass.com/defense/1684137"
+    ampWebUrl: "https://tass.com/defense/1684137/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1684137/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 44
 
 secured: "aay2Fox2KXUpqxPKceSc5aau5Rx9Qt5KRDO7j7nQ66Idm6/m+bznJNTHIQlHqeeCjw2MwMEdPEBwiNI09Iy9e3v5a7f+oWiuvYrCd5DceuS07q3aWDv7J3G8pTTl822G2qpMMqW212lFimu8iVebghUTCI7a3Kf8vWslHNAvvnSwBHrigjkU5mdwWSCZ9Pfviy7SrgsN7ohQ+l9y83IMgJTsw8lAy2wfdzDzr0ABr5v3KrArFIr1+Iey4wvx4WTt9JLKmT/o0YXLhW7Z54RBZnbohOWINMFkeFLcxc99NaYycdVxAJMUh2fAR45/UP8nAhsSIHupb9EuTRvYcBwnxFmqDFPQbZLYdJR9eB8I2xClH7jO/RKJKoCx6G8UfLJWMxIhWDCkXNUY0AyX7RRHwRN9IVstYtzpsilfylpSEnlacFkDZEN+2oXxx48G4DWeCNFSN0myUslCEWNL7qMmbfjm86GkoOqQxlfv2cGnBtLxipcmjyrqunmQx5899l/S8aDuwGdWErd7lP7+NHARRw==;WiRpAIF0S1hhBDrTE9l0cQ=="
 ---

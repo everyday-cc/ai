@@ -55,6 +55,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Swedish artist takes out Australia’s inaugural AI art prize"
+    excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."
+    publishedDateTime: 2023-10-08T08:59:00Z
+    webUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1"
+    ampWebUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "In Australia's Outback, Indigenous Voice Proposal Struggles to Inspire"
     excerpt: "AREYONGA, Australia (Reuters) - In this dusty corner of the Outback, Tarna Andrews sat in the local schoolyard and rolled off a catalogue of problems afflicting her largely Indigenous community: Lack of jobs. Inadequate health services. Spotty internet."
     publishedDateTime: 2023-10-04T23:02:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring AI’s impact on human resources and learning development"
+    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
+    publishedDateTime: 2023-10-04T08:41:00Z
+    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
+    type: article
+    provider:
+      name: International Training Centre of the International Labour Organization
+      domain: itcilo.org
+    quality: 39
+    images:
+      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Emotions are coming to Artificial Intelligence. Will Machines Truly Feel?"
     excerpt: "Artificial Intelligence is revolutionizing many industries. The focus up to this point is how to leverage the seemingly unbounded \"intellectual intelligence\" that AI brings to the party. It makes sense. We're in the early evolution of the technology, and that's where it's starting out."
     publishedDateTime: 2023-10-04T11:51:00Z

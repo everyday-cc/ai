@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Asana Announces New AI Capabilities To Increase Productivity And Innovation"
-    excerpt: "I had the privilege of interviewing Dr. Rebecca Hinds, Head of The Work Innovation Lab at Asana to learn more about their research on productivity, innovation and AI."
-    publishedDateTime: 2023-10-03T16:51:00Z
-    webUrl: "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2023/10/03/asana-announces-new-ai-capabilities-to-increase-productivity-and-innovation/amp/"
+  - title: "Thought Industries Expands AI Capabilities to Power the Business of Learning"
+    excerpt: "The Use of Generative AI in the Ti Platform Builds on Years of Company Experience Using Machine Learning to Create Personalized, Differentiated Learning Experiences. BOSTON, /PRNewswire/ -- Thought"
+    publishedDateTime: 2023-10-04T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35093922"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c451313a33fa8fa34ad6f/0x0.jpg?format=jpg&width=1200"
-        width: 1044
-        height: 696
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Asana adds new AI smarts to simplify project management"
-    excerpt: "Asana's new AI features drive greater levels of clarity, accountability and impact in different areas for enterprise teams."
-    publishedDateTime: 2023-10-03T19:04:00Z
-    webUrl: "https://venturebeat.com/ai/asana-adds-new-ai-smarts-to-simplify-project-management/"
+  - title: "Generative AI in commerce: 5 ways industries are changing how they do business"
+    excerpt: "Generative AI can assist commerce-based organizations in several impactful ways. A recent business report highlights five key examples."
+    publishedDateTime: 2023-10-05T19:32:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-in-commerce-5-ways-industries-are-changing-how-they-do-business/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1371339943-e1675104302184.jpg?w=1200&strip=all"
-        width: 1198
-        height: 599
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
 
 secured: "i64XCV4gLUrtrnNfWzixsMHBHwK5pP73vUOp/kJ10rgQcHVq7cThOc9ZAGyJ3fpQ85pXAJwhn58Nag3RgB8J6FkIA5gfa3vJKkr91+NqmfdHAtCa22Qm5EF+5JK5LpXcECSzoliieFV94MGjEOErQ4hv1yM3g/TIsspDa1vj+IyCO8ps9kblggfBc9TQdQv+1lIqYfbH87Bo4z8WSV7kg/3caI9vQhR+9zebI496r/D1gmAgtVTbTBIn68rLnlFMXkIIOajGwQVRYRT0sM76PhUlIc9gOyECeuhnWcQk+TYPUEoa9NXY4vqAECv2RdJ2n81MI2WBjRXQ+IdL9GzQPL1kthQHduZSmNkddndDMXg=;oGLQeUHz90cECesl4Zww4A=="
 ---

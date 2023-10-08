@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "The Defects of Human and Artificial Intelligence"
-    excerpt: "With AI, there is nothing to be read between the lines.’"
-    publishedDateTime: 2023-10-03T16:57:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-861763/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
     excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
     publishedDateTime: 2023-10-05T16:33:00Z

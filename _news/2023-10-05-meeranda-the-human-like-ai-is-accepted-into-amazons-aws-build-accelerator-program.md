@@ -33,15 +33,6 @@ related:
         width: 300
         height: 600
         isCached: true
-  - title: "Rekor Joins AWS ISV Accelerate Program"
-    excerpt: "Global Technology Leaders Deepen Relationship to Simplify Adoption and Deployment of State-of-the-Art AI Solutions for Government Agencies and Commercial Entities COLUMBIA, MD / ACCESSWIRE / October 3, 2023 / Rekor Systems, Inc. (NASDAQ:REKR), a trusted ..."
-    publishedDateTime: 2023-10-03T16:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/REKR/pressreleases/20784191/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
 
 secured: "/IlEPMw3JfXINJXepGzW/V0kY4+7naVDX/AuhL9x7yVh5WCer8Muhksab1Rb/4ZthOyknjzhmYErQwaM7jLZSruo/DQGlrO7cKzxQCBBPiHxDZeToFgXW8/aXAqXKloinOYSz0rDN+6knZuGme/xlAHlSWLwJ4ygoMJt98eV8wnfbTYYVtwNdGHzErdMCYCUQWhp6ekuEssNru3XmNa+Q/WUbkyUmudNsrjiayIKQ34tTDwhLAPFHx2/1QnWmixVYej1+G6TJHt1ufCRYcjPZ7/EBVMpJBthfSm1rEqbHF1K+bDLzHdB3E8r1py4RfHgwHtS/Z8p16kimad7n13KOVK9q6sjSG1LV8oCLfmoY5M=;tPoRcIVzgJGEuJ90dH9FJg=="
 ---

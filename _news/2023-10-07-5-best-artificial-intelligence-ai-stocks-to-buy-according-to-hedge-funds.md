@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023"
+    excerpt: "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ..."
+    publishedDateTime: 2023-10-05T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock"
     excerpt: "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ..."
     publishedDateTime: 2023-10-04T09:34:00Z
@@ -37,6 +51,70 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/749351/investor-considering-new-dividend-stocks.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "10 Best AI Writing Tools 2023"
+    excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
+    publishedDateTime: 2023-10-05T22:23:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
+    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
+    publishedDateTime: 2023-10-05T15:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
+    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
+    publishedDateTime: 2023-10-06T13:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 58
+  - title: "3 ways to secure the best AI partner for your business"
+    excerpt: "Here's how to sort the wheat from the chaff and uncover an IT partner that can help your organization make the most of AI technology."
+    publishedDateTime: 2023-10-05T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-to-find-a-great-ai-partner-for-your-enterprise/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "Best Stocks To Buy Now in October 2023"
+    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
+    publishedDateTime: 2023-10-05T00:24:00Z
+    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "h/g9tTvxCZ+CjeOeerfJB/DPk6oZ9u0mAuWqtCFfCy8DxCrh/fieDwmYyevpU+lbwuajB8S5U/5ljhoa7OyRQapyCWf+AS+aw1iWERj6Talmi7VCoSmXvblg/QZGjP/DDBKLK+LdsrLXcUGZcRWaD86Bt30sdz/fw8v4okQv3JMvTvT5Qx+4kYGhtceBrsM3UyDPcNu54BaVdOKQzZVWria3dD2/JEQcrQxv9R/HrhmbH7+OJH9YNNf2Km/LkuWh7eZYz2cwlAsJl6PcPqZEXjV7Ybs6KTunVZxoW9rhoV/9s8CsDmONyRn3BoIiuKvxDfTJRp9CMjFBvKCZu33QqPocf26mxiTWG6E0E+fgayZnbDBQT6P/2/416raJXNorZzqSmgFylMVI85nFM9rfaeo9CMqm3Y9MZLsC/haHwMPVqR5rrpGrf4z0ne2MBqfxuqYYYyOAfxJ9Pkn6DrYFjc0a19HQAfGCRIHadPjn6ndrwSXqh9yfm0RN0CwnqFIyJu1YXSSccoxlbcErVWfCdg==;gQ07whZvh3vO6JkL5Lw04w=="

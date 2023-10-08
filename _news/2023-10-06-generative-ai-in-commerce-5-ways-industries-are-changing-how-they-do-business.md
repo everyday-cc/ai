@@ -38,6 +38,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
+    excerpt: "The updates include improved cyber risk assessments and new external attack surface, cloud posture and Azure Active Directory (AD ... Further, it addresses the emergence of artificial intelligence (AI), with generative AI capabilities enabling SOC teams ..."
+    publishedDateTime: 2023-10-06T03:55:00Z
+    webUrl: "https://www.arnnet.com.au/article/709043/trend-micro-expands-partner-program-new-assessments-ai-capabilities/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 38
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "xVsUuz/byeNX6P1Ky5q9aOuuFook/Lge2fg/nlkB1s6ardhuzlIqAupqHq6uDbCs4nR1emak5xesT9buCx2gESAbrXdMuEhd7Wr5ODUBS3dNPSAErcGmqV9xRm9+77vZSFoKlJJ2sRWyDYuhW4qLEqGQQPutb03MWYn8gfO+QC4kkDjYeBtx0ET4wAYAg/0gDADot6avB4/SLs7A1UkOXkOOSey7DuWX//c1VyMbh05RtliGiJl5X45HU3hsaz7N2z1FFPpYeY6/hWrYXju+hHQTGfTH2IcHnqxpEhakuNrEw+itROAAVpu5BycwGl/gjCtB/IcVIfQ01ltzU75NB+ieN0nRUkhEna9Fm2DjDsEwa5I5idg7A1CnND3QgP8n/zpxUcoY3x8q7QAlUwDrvm5W44ufiEVp13uCXDU7mtc9DmI2yXcvGW1UT5TNiJp6XqyqlU63QQIEA4J7ms0lTzaFx36gGxTq/ZGIr8VIfHnKlYUpv6UuAqrIFzxcuqrP467zcjm3DsLjdvInQT7kcQ==;Y1glAdlBXQ1aBNH3AG4H/w=="
 ---

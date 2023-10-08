@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-excerpt: "Demonstrates commitment to transparency and responsible AI with newly published details of its training data sets for Granite models ARMONK, N.Y., Sept. 28, 2023 /PRNewswire/ -- Today, IBM (NYSE ..."
-publishedDateTime: 2023-09-28T14:32:00Z
-originalUrl: "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/"
-webUrl: "https://www.cmswire.com/the-wire/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/"
+excerpt: "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ..."
+publishedDateTime: 2023-09-28T11:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode"
 type: article
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "WTvnGMU8gFoJ7ztswe5Juvx60IGd7TJa6tKk2J9g29HuJj5eZGsn51DQ7RcejEhYMrU+bMzhffn1xgcYrSUbZL2GGfDA6qjB6Jvxj6zzVxi7rP8FLVfL2Biqkm/NbB8HKyobCHck/wdOVaxuZy4Ec+OJO5W/0Zz4gD3BvUbkgwnkst6fztpP19QC17oKfW0nbPrdi6NtJ3mggt0DplVtJb7HM7w1wiqluOz+cYks3T8RtwLuAHUakDbuESu59PaX7BY7PnnPemqBH7ND/+S5MVdYaGF2ZU8cyEiS7Y7C1Wxfs1Ct8kO6A0xvOzfLNuRJdv9cmXq0FjnTG2pDt3Y+w/yNKacvHUhoAQmdT0jM7/E=;10KCdiwkNAxQxgxcU7WL0g=="
+secured: "fH0PJAUcbgqa5N+A1kB6vQirp4YqRr90/ut8v7kRzwxYkKQ+tIZyCEhLSMwTUzvD3/MKshvzsN3z+OxodxDXTRLZtcE2P2XG9YrgPnh2mBmFNWx25HvKV2qMeie2cZigIFUv8642M2Mz6j/JMtOWXa33Gu2pQBiHxe1vT9xI391Fa99gU79uZGm/n0+HibE2KevSJ8z98ULFeLk4e1X3UdH4s7R/78YcijkMo2bzUQ9oi/oC5OC+6MwUM0Y2twT9W1seOhQdQkCwYtVPainTBuWNhKnquA084F7v58u7PufTzE6H/lPkNmyTRnoevhS6WtdLhGHTUGOIhOu+UYiM8yMwkCGiEUmcMBnBRG8aL3c=;SuTyNZFafsethTC9CnKeSg=="
 ---
 

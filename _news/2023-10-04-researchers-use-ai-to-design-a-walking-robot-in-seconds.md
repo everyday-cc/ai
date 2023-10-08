@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-wal
 webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
     quality: 54
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/6/40/6403be31-be64-53ac-b581-9723ba5c3df4/65200c4fc86f8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Researchers develop a way to hear photos using artificial intelligence"
+    excerpt: "The technology uses image stabilization and artificial intelligence to extract audio from still images and muted videos."
+    publishedDateTime: 2023-10-03T20:45:00Z
+    webUrl: "https://www.ktvq.com/researchers-develop-a-way-to-hear-photos-using-artificial-intelligence"
+    type: article
+    provider:
+      name: ktvq
+      domain: ktvq.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6bacb83/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1696361237_IUSG3T.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -36,20 +36,6 @@ related:
         height: 900
         isCached: true
   - title: "The Defects of Human and Artificial Intelligence"
-    excerpt: "With AI, there is nothing to be read between the lines.’"
-    publishedDateTime: 2023-10-03T16:57:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-861763/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Defects of Human and Artificial Intelligence"
     excerpt: "Regarding Joshua Ben Rosen’s “AI Can Do as Bad a Job as Your PR Department” (op-ed, Sept. 21): Human communication is mostly imperfect, even in well-thought-through text. It has unintentional “defects” in logic or aesthetics, and such subtleties ..."
     publishedDateTime: 2023-10-03T18:00:00Z
     webUrl: "https://www.wsj.com/articles/artificial-intelligence-human-ai-corporate-pr-language-c4c740a8?mod=tech_trendingnow_opn_pos1"

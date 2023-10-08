@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target."
+excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
 publishedDateTime: 2023-10-06T10:00:00Z
-originalUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com"
-webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com"
+originalUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/"
+webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/"
 type: article
 quality: 84
 heat: -1
@@ -506,6 +506,6 @@ related:
       domain: bleepingcomputer.com
     quality: 17
 
-secured: "xPTAizOegCiQdrDxyYstsDssVMYY0BkJf1eXa9wzCkPYaiFxq7Li4B+bsO1mLWtpAMpUxyYknzw06VlCF6wUBaTwvJJewnKYVygptEsUUe3nZnh9A7bzZFl9c3kP4OhFfmjEbopTaxMEG4AHnznvm2F5ak7ZYzejbyx1ALRpnKZJj3IClBlaS/XS05EYkmpflTQ8ixR9AUhjOLIu0Y8HuZcAPYHJFZ4IbiNwkfZR41R3Pvvd5V5lz8yPgD3dC7cBxcEc8+8KqV9wx7ThpqqcTrKq0imWb97QwkD2ndVYrVaosuTYB+diSxTePRuKkkZ8qVRQZO2DyfcioXq+5vgnlWqwgR+/yCxuRzPlZ+xdJJz+Iii33dOhOMd3B4+m4Kqisik/heHd8J7hMWm00XL1+uVRUfnuQ1LbfyzaindilhWFSvVsD53d9Ib3TIJS7xBx9w6ReePPA1GWBfV460cKohCR7Glx8X3/DzKtVL2xFaIUIwoFJPGwPdR5GUg6Nwce55zi0hvi98jMszq4/AVLkg==;r7pn7PEJdwHVnNf4/NvP8w=="
+secured: "Wkdpfn+CLXpGItXNsJD4LvSzE4RG/5fauY68fYckglQZNjaArfQVCcsWywEdUsuzd/5cvIFXn/0X0ZVZDrHhARNQvHxxlPW5FMP3/8ARSAdwEW2grPxrHq2cAzce5FrCPoFkiXDRFKZQZLQnpdRuCVSYgVkuSY9lBowPHCfgvyLGE2++kjIluQP/c7mPkMgVLFCVHxsCjCubKiePbDx/n+NjYwZ6LofB/Gdpu2n6+LGIcKGJikZ+i3lq9JibBMYwTOFvfRiwk+mnqu9Dw6K0hSufD+OqnFPzhlfc7X0NfrZVrZaDhKDK3P3Kvr3SuYV1HyOQDIoH/xny0GydCdIf5FqVFjNXSYMLCTSMrbtdfno=;fPN9nuFt+2ULidA6bWMtWg=="
 ---
 

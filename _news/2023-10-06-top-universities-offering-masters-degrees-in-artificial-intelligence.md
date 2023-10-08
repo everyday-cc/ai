@@ -33,15 +33,6 @@ related:
         width: 401
         height: 600
         isCached: true
-  - title: "Tome Adds Key Machine Learning and Engineering Leaders To Shape AI-Powered Communication"
-    excerpt: "SAN FRANCISCO, Oct. 5, 2023 /PRNewswire/ -- Tome — The AI-powered medium for shaping and sharing ideas, announced today the hire of two key machine learning leaders, Sachs, former head of natural language processing and generative AI at Robinhood, and Archana Sankaranarayanan, former engineering leader at Google and Netflix."
-    publishedDateTime: 2023-10-05T18:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9894005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "NuuyyJ4Ej5j2OkqOWTEd5pP53ujAftLg7+HRGq2F9GpBKKRoKHaV/srL/WClS5fB5kXOiitUY3kh9/C+X+lnq+H38zktMfFKstpsw/zf3P7y6rdcwqa+TL0u13p8J2Z3Dm5tyw/SvSOaPoOx99+ZOLdKt0h8PpvHruOxBAvSJQFzV/rslsw5qbwgEMpNCZFM5a6ZQvO3R4V683lV1Z6w8vSNe7/0m6VUvJzu92TIYivff22XS2DSkLIc3vkjm3CDF6aWxa1Y7KB+WaaMNA8AWdkocmKNfK2RjRx965Vg5h6iYrc1dqdI4RttbkQcbxt9/+4a+tcwgzpWiYupzWeq1fddBrJIcz/GK+zeMHajufA=;+1woMSasaLEX0ph4LaOHHw=="
 ---

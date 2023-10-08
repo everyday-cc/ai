@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
-    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
-    publishedDateTime: 2023-10-03T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
   - title: "San Francisco scientists use AI to help fight malaria"
     excerpt: "A group of San Francisco scientists have discovered a real-world application of machine learning: Detecting malaria."
     publishedDateTime: 2023-10-06T13:00:00Z
@@ -153,17 +144,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
-    excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
-    publishedDateTime: 2023-10-03T16:05:00Z
-    webUrl: "https://www.cbsnews.com/losangeles/video/authorities-investigate-after-a-woman-was-run-over-by-a-self-driving-car-in-san-francisco/"
+  - title: "Woman hospitalized after a car hits her and a self-driving vehicle pins her in San Francisco"
+    excerpt: "A woman was hospitalized after being hit by two cars, one of them self-driving, on Monday night in San Francisco, according to authorities. The woman was hit at 9:31 p.m. at 5th and Market Streets ..."
+    publishedDateTime: 2023-10-03T18:41:00Z
+    webUrl: "https://www.latimes.com/california/story/2023-10-03/woman-hospitalized-after-being-hit-by-two-cars-one-self-driving-in-san-francisco"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 15
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 13
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/03/af69d6a8-2569-40e6-bc2e-d666bcd121db/thumbnail/1200x630/0f91edabff91c4d870e163fc29cc9d45/27f5a6bf5fa6fe9a5b1df8dec2ae2335.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/100a4c1/2147483647/strip/true/crop/3556x1867+0+252/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fca%2F96%2Fe104d3e5401ea9198b3089d6d7b1%2Fcruise-robotaxis-09649.jpg"
         width: 1200
         height: 630
         isCached: true

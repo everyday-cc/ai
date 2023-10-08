@@ -185,20 +185,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Spanish courts call facial recognition for employee management overkill"
-    excerpt: "A Spanish legal ruling on facial recognition could have ramifications for businesses using biometrics to monitor workers."
-    publishedDateTime: 2023-10-03T15:45:00Z
-    webUrl: "https://www.biometricupdate.com/202310/spanish-courts-call-facial-recognition-for-employee-management-overkill"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
     excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
     publishedDateTime: 2023-10-06T15:54:00Z
@@ -212,6 +198,20 @@ related:
       - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
         width: 1180
         height: 585
+        isCached: true
+  - title: "Facial-Recognition Tools Banned for Boston Police"
+    excerpt: "This graphic appears in a June 4, 2019, audit on how the FBI and Justice Department use of facial-recognition technology. BOSTON (CN) — The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology ..."
+    publishedDateTime: 2023-10-06T00:00:00Z
+    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 24
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png"
+        width: 1240
+        height: 1021
         isCached: true
   - title: "Voice to Parliament about ‘practical recognition’ to ‘deliver better results’"
     excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."

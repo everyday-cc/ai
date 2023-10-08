@@ -25,50 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers show how easy it is to defeat AI watermarks"
-    excerpt: "“Watermarking at first sounds like a noble and promising solution, but its real-world applications fail from the onset when they can be easily faked, removed, or ignored,” Ben Colman, the CEO of AI-detection startup Reality Defender, says. “Watermark ..."
-    publishedDateTime: 2023-10-03T16:01:00Z
-    webUrl: "https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com"
-    ampWebUrl: "https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com&amp"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/?ref=upstract.com&amp"
+  - title: "Researchers use AI to design a walking \"robot\" in seconds"
+    excerpt: "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it"
+    publishedDateTime: 2023-10-04T15:38:00Z
+    webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-watermark-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-8.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Researchers turn to Harry Potter to make AI forget about copyrighted material"
-    excerpt: "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more"
-    publishedDateTime: 2023-10-06T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
+  - title: "Instant evolution: AI designs new robot from scratch in seconds"
+    excerpt: "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ..."
+    publishedDateTime: 2023-10-06T10:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "AI Designs Unique Walking Robot in Seconds"
+    excerpt: "Pioneering artificial intelligence (AI) has astoundingly synthesized the design of a functional walking robot in a matter of seconds, illustrating a rapid-fire evolution in stark contrast to nature's billion-year journey."
+    publishedDateTime: 2023-10-04T13:51:00Z
+    webUrl: "https://neurosciencenews.com/ai-walking-robot-24911/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
+      - url: "https://neurosciencenews.com/files/2023/10/ai-walking-robot-neurosicnes.jpg"
         width: 1200
-        height: 672
+        height: 799
         isCached: true
-  - title: "Researchers turn to Harry Potter to make AI forget about copyright material"
-    excerpt: "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more"
-    publishedDateTime: 2023-10-06T22:21:00Z
-    webUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
+  - title: "AI stretches its legs: NU researchers use AI to design robots"
+    excerpt: "A team led by Northwestern researchers is the first to use artificial intelligence to build robots from scratch, according to a Tuesday news release. The unique algorithm designed a successfully walking robot in mere seconds that runs on a lightweight console compared to other AI systems that require larger storage and datasets."
+    publishedDateTime: 2023-10-04T04:19:00Z
+    webUrl: "https://dailynorthwestern.com/2023/10/03/campus/ai-stretches-its-legs-nu-researchers-use-ai-to-design-robots/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://dailynorthwestern.com/wp-content/uploads/2023/10/FORD_FILE_AvaMandoli2.jpg"
+        width: 2001
+        height: 1334
         isCached: true
+  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
+    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
+    publishedDateTime: 2023-10-06T13:03:00Z
+    webUrl: "https://www.eastoregonian.com/news/nation_world/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_6403be31-be64-53ac-b581-9723ba5c3df4.html"
+    type: article
+    provider:
+      name: East Oregonian
+      domain: eastoregonian.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/6/40/6403be31-be64-53ac-b581-9723ba5c3df4/65200c4fc86f8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Designs New Robot from Scratch in Seconds"
+    excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
+    publishedDateTime: 2023-10-04T16:53:00Z
+    webUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
 secured: "sXz+3l09M6eg57nrpjUwXnHh1mp3m9V4//+c2PkZUWq5JRoVsWYztnJYcWy2RwD7IWpqXeyvvX6Nw5lOBWr317SEVbWnGtNEWpCFqtYPXSrHbIAHhxyRygcd0xaB3Z5Qaa2f0ijmMfUBoGbohpLgJUjXIZD7DXYS20x/9dvAjgfvsRS/txU329PLYOp/iW9eFRKwYKzWk7EZok7AFMG0ncJ2J/SD1pyncJBxIRfSTwcXs9YXZq5Qw3zXQsVi1qTwLIrvuz3aCqGvmoEMah9b86a3FFDBEgCYP0a7q5lIo/6S0FCoB+ouv9ByjgudcysL0HTd6vvRXtNbtXFWRvmZ/x0x7xXiPius0Hl3iEymklgu5GPI6rsFDJH6Izh+AjwWiPBCDZ0I1I+67jdeTM6p390uxVkEpL+Hm131AkjryjTLq/NTXmcbCbKhWvdcy7zf3B/oA1H3KJjyGUtBbohlvNbj7etFxtO7JGwVJJatLftDqAud9LzZymerXGHZtum2keE3e7Vydgi5j/YkB5nf0A==;r1zCdZ9C+f+BwPFJgpavyA=="
 ---

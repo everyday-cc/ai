@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "US agency, California gathering details of accident involving robot taxi and pedestrian"
+    excerpt: "WASHINGTON, Oct 3 (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors' (GM.N) self-driving unit Cruise about an accident in San Francisco ..."
+    publishedDateTime: 2023-10-04T15:14:00Z
+    webUrl: "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 78
+    images:
+      - url: "https://www.reuters.com/resizer/ykik3dJ9wjhMeC_4EUzKuyCb4w4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QK7U3OJNNLLPB2AFH4YL47PXU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Generative AI Is Used To Fight Miscarriages Of Justice At The California Innocence Project"
     excerpt: "Discover how the California Innocence Project is utilizing groundbreaking generative AI technology to expedite the review of complex legal cases"
     publishedDateTime: 2023-10-06T06:49:00Z
@@ -55,6 +69,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "California Woman In Critical Condition After Hit-And-Run Throws Her Into Self-Driving Car’s Path"
+    excerpt: "A woman is in critical condition after a hit-and-run accident pushed her into the path of a self-driving car in San Francisco that trapped her underneath, multiple outlets reported Tuesday, the first serious injury involving one of the city’s autonomous ..."
+    publishedDateTime: 2023-10-03T19:30:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/10/03/california-woman-in-critical-condition-after-hit-and-run-throws-her-into-self-driving-cars-path/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
 
 secured: "UMBg74lu1Kmzj7pkp5CtARBU9jaURwpOk9hZHd15jt5j5fu077/Hk5S5osJzQhABhNaxS4o6/wBQ3emxsm0pW74G/bOYZXiyXczOVaBjcd2FS9IaqvQhRrJf2vPekpdPjbOHQw6K06pQhU3+YEYRqQ4u2AbdG1ZMY6YCJVOMWm1ae6PBdDe+mmsBr5EgQsQlChEmyz819VrEBZiHjb4Su3n8P63BQwUxQJ1iIYYvSI6rX7veJBb8qY/u44zWDygTuHLlMVhcuEQbgWIjCNdnJj/JP8FSarjNdVPGEPtRN0vNl84wlcJgr13dg7MYZmJ9y9EWb5sLapezuzLkNcUb1uitESc7RIAf9Oj6X5haIRo=;2zlKT9xaYVeBfiaWU82yrg=="
 ---

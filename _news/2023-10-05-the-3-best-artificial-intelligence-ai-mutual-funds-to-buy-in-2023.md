@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023"
+    excerpt: "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ..."
+    publishedDateTime: 2023-10-05T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock"
+    excerpt: "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ..."
+    publishedDateTime: 2023-10-04T09:34:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 70
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/749351/investor-considering-new-dividend-stocks.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "10 Best AI Writing Tools 2023"
     excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
     publishedDateTime: 2023-10-05T22:23:00Z
@@ -42,28 +70,51 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
-  - title: "LinkedIn just added AI-powered coaching and recruiting tools to make your job easier"
-    excerpt: "From coaching you on leadership skills to shortlisting a list of ideal candidates, LinkedIn's new AI tools have you covered."
-    publishedDateTime: 2023-10-03T18:36:00Z
-    webUrl: "https://www.zdnet.com/article/linkedin-just-added-ai-powered-coaching-and-recruiting-tools-to-make-your-job-easier/"
+  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
+    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
+    publishedDateTime: 2023-10-06T13:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 58
+  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Hedge Funds"
+    excerpt: "In this article, we will take a glance at the five best artificial intelligence (AI) stocks to acquire according to hedge funds."
+    publishedDateTime: 2023-10-06T18:02:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-hedge-funds-2-1197508/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 50
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/11074438/kaleidico-3V8xo5Gbusk-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "3 ways to secure the best AI partner for your business"
+    excerpt: "Here's how to sort the wheat from the chaff and uncover an IT partner that can help your organization make the most of AI technology."
+    publishedDateTime: 2023-10-05T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-to-find-a-great-ai-partner-for-your-enterprise/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 40
-  - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
-    excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
-    publishedDateTime: 2023-10-05T16:53:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/5/ftc-probing-artificial-intelligence-tools-eyeing-p/"
+    quality: 49
+  - title: "Best Stocks To Buy Now in October 2023"
+    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
+    publishedDateTime: 2023-10-05T00:24:00Z
+    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 37
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/08/10/Election_2024_Artificial_Intelligence_70000_c0-246-5908-3692_s1200x700.jpg?574e1805b88ac814ff041f1a4a4a1d72545b0d17"
+      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
 
 secured: "lqQ+Hcg8NOG5/a5rj/zxLG/ZC3j7zWBn/B1Dvlxo1FH373kc/nsrB+RI2tS+QUTWxWmUP09GoUjdyHpB4U5lz2Y9/3d3aC4X/34qGLsHOYNYFrZIpqCeWHjXeSoYDMfVR7RKY3qIQo6VRk+dkhcqJAszViQqcSXeZYHPlcpdNfDNUbgleJ8gnHjJrY0IL0CHb4yXDyQGH8wiRqCnEG158nvV6pNY7zDzsyX4DYQHlscBlmOlj3USTR1ZHJnLx+HC9Xy3X7RtnuJHldZBi9a7REgj27aDmeeD325eBwlnOTITtf0TelgO3/OQ4ADoZAtyosHN/Pcycezpgi9Yslvmt+4YTW7Rhd0DE0JX9KX7M1lF6675JINjsNbhzImmzlcFmZPNAymxbPQvn6EZJGXEleKPmKaD8iPii/JyrbQoAlauxM1TSkojuDAHQLnryZyY8M686PKhRD9cn7LxA8wN0D7lZVL9l9EqReNNoNVL6TwOF9SQDZLG/xDYDVxzKvgLgzR7JSbp2iqkPG/bj31Yvw==;f+K7DjcFaHTV1UApT2Lrgg=="

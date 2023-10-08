@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893557.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893557.htm"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
-    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
-    publishedDateTime: 2023-10-06T13:54:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 58
-  - title: "Signal Says Avoid This Chip Stock in October"
-    excerpt: "Schaeffer's Senior Quantitative Analyst Rocky White just released his list of the worst S&P 500 Index (SPX) stocks to own in October. AMD is the only semiconductor stock to land on the list, averaging a loss of 3.7% in October and ending the month lower 60% of the time."
-    publishedDateTime: 2023-10-05T14:18:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 39
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/sectors/bigstock-global-semiconductor-shortage--437330732.jpg?sfvrsn=e875d306_4"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "bUt2UkyfC0bp91skgNlC65qNOJri58hrkQbVkuZSjWRPXr029RbySCNknpKJMUFlPnaqt+/UnnRTYpiM80F3Y8MU0Qa1SW/i1xB9Qid2w5vNIL6P6zc/XQ2tTp9CGrHnosl2yjbCCjKXsVij69rPBlYOpp4MoJJp1BRhQVIihKcPYUKHG4Qb9H7aq+eNcbIRISX3erzTUTzqa+LSyGiWryz8SxPf0dv7ZChqX9naOaUWMiS6QZafF/Yp2ZGO8QSRQVmNjjaI4O4HgOM+liG+UuArhFz9jwaWstJQkZiSKplP3/vqMZBYjqEyg5Lsyb/Dj7rNaMnDgK4+LfAMdmabVVmJpO/8Z/muGp49ILUy5gdDbZ7ocRB5ttb6gdJR7JyAjRrk/xsdBwpDFJWdYOjUJc+LGFmum/VukgthVZonhcGm7dWOaQSqRIbpAX3kU6+0SqieDsyLfKMo2vGqUE2qfalfcr+6817KZujqWn9tEa9tRbu/Yp/VBsdktpYRH0DTT2Rc9iqVaCwgEicG5ln9Gw==;ZwxhTAnh4Xh/tBVFN5kvxA=="
 ---

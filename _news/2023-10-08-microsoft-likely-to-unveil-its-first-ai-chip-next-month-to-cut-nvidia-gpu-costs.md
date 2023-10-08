@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
-publishedDateTime: 2023-10-08T07:39:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/amp_articleshow/104256710.cms"
+excerpt: "Tech giant Microsoft is likely to unveil its first chip designed for artificial intelligence (AI) at its annual developers’ conference ‘Ignite’ next month. According to a report in The Information, citing sources,"
+publishedDateTime: 2023-10-08T09:23:00Z
+originalUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+webUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+ampWebUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
+cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
 type: article
 quality: 102
 heat: 252
 published: true
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: orissapost
+  domain: orissapost.com
 
 topics:
   - AI Hardware
@@ -22,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74694,msid-104256825/microsoft-ai-chip.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.orissapost.com/wp-content/uploads/2023/10/Microsoft-Nvidia.jpg"
+    width: 400
+    height: 283
     isCached: true
 
 related:
@@ -88,6 +88,20 @@ related:
         width: 989
         height: 520
         isCached: true
+  - title: "Microsoft prepares to unveil its AI Chips next month to reduce costs"
+    excerpt: "ALBAWABA - Microsoft is gearing up to reveal its artificial intelligence chips next month in a move aimed at cost reduction.The company, co-founded by b"
+    publishedDateTime: 2023-10-08T08:04:00Z
+    webUrl: "https://www.albawaba.com/business/microsoft-prepares-unveil-its-ai-chips-next-month-reduce-costs-1536932"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 71
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-10/Microsoft%20prepares%20to%20unveil%20its%20AI%20Chips%20next%20month%20to%20reduce%20costs.jpg?itok=w5D_NFg5"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Microsoft Translator gets four new Indian languages"
     excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
     publishedDateTime: 2023-10-05T22:49:00Z
@@ -103,20 +117,6 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "Domino’s, Microsoft partner to bring AI to restaurants, online ordering"
-    excerpt: "The two companies will work together to create technology with Azure OpenAI to help managers handle inventory, staff scheduling and customer experience, with the first iteration of the generative AI set to roll out by March."
-    publishedDateTime: 2023-10-03T15:12:00Z
-    webUrl: "https://www.restaurantdive.com/news/dominos-microsoft-partnership-generative-artificial-intelligence-ai-operations-customer-experience/695450/"
-    type: article
-    provider:
-      name: restaurantdive
-      domain: restaurantdive.com
-    quality: 54
-    images:
-      - url: "https://www.restaurantdive.com/imgproxy/x5Sak_tdplFC4VVpOtv1ScTzqv_MQQ0R-XjGT1DrObQ/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0RvbWlub3NfTWljcm9zb2Z0LmpwZw.jpg"
-        width: 770
-        height: 435
         isCached: true
   - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
     excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
@@ -222,6 +222,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "FOYpKtjsoBKF+Ooy+gnpHQsoUnbaitn8HQViyOc6kSmyB1Bu/clcpgMVrWu1KitrCbhcTSR9H0j9b6vhh0GAHaUQZn3RJo0PBdv7vn8PJ0kKnA57yTEzN6JrBUEZJUUKmqYrMTB4jW1WEeCkitGKMAe2hbd87C5UVoEh34RHMoVTcTThwimM/BKXjajaJNgDf9ExqGU6XQsnFE2G23uvIFXv8aqkF5ytOnyqlCOeAeR6ilBHKezLYzBQaQ1qQOg3eRWqxbyywU+gImP4SJIYdGJOMI5YAxvXOVnnI7Dy2yXHeMtY6YcZ/wVCWdpPy4+bJXvep10IytLuoRPMG1Ln2IimXkNkHZFDnqAFvBHzzTQ=;4ir+CcNR8XsFr150TusIyQ=="
+secured: "atB0Gcs+h32zk2htSBCcR+yKrkHDxjDZclFoGjVTwpNh1+Po0EcvGIRuA7LMmCO9C4Z2ZF53+N5Epo3rMBv3A4FpfOUsmL8cyyV1NzWUjN2miZvrl6ocAWjh80H9PHkrBhrHLr2imcSUynpY5x6uW1NZrCWUSrZ811ksT/DEBREhiGOyNBdPAK0HFOkNv0BE8ZLYN/QnGq2wsR6B9ggKFTtpegV4pTL6CoTnARaPS1e3oz3ME1xMk7QZ6pEgMlxtBpZTY709zT8YC4DEkPbn2z/qhnHEuO9vR3x048gKzg3J/YTxoBcYhnyD4Zc3dHlUDXNFm/Sum9EkS7pu+yMcUG3xf3V/nMlwSPy87jqysqc=;jmd6HN91nAqF60+xtD/9Ew=="
 ---
 

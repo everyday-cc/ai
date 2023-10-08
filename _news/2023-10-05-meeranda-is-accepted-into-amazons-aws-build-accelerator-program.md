@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
-  - title: "Rekor Joins AWS ISV Accelerate Program"
-    excerpt: "Global Technology Leaders Deepen Relationship to Simplify Adoption and Deployment of State-of-the-Art AI Solutions for Government Agencies and Commercial Entities COLUMBIA, MD / ACCESSWIRE / October 3, 2023 / Rekor Systems, Inc. (NASDAQ:REKR), a trusted ..."
-    publishedDateTime: 2023-10-03T16:11:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/REKR/pressreleases/20784191/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
 
 secured: "7nrWJVFd6HPRDkDdQQbbngZQYkgCRgeTS9Id6dt5D4HW3usNkoqwQiMVH3mXl6DRoPX3bxccr3cvIJRnG9fPHa321bhcQoS3t2BYPkyaD6ohPf3/Wxia1Can/toHTflolzngVcZDJRmdoYPe9q/koKHiyIhSqGh6knHiUF88oifGNQB0tsUkOZ0XUSbtOR8H7XrH25f+lHZuL1P/0jli56MY5xGMIppKcWWCReCz0t/fijFvPcIlW0mO6530XJiCXuppXHrWQOObt7x5u9Pt1ZwD8vvwYFDBEnwjLblcYCrdH81mSQvsu9ia69ahTA2KciInW4RjWAq91+KFbQiY6CFFDwHtiO82B1m0TntiO2c=;82xOCBFXBr2cDc03aQt+vA=="
 ---

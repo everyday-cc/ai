@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-c
 webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
 type: article
 quality: 54
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study: Public's trust in self-driving cars on the decline"
+    excerpt: "According to a combined study by MIT & JD Power, there is a growing distrust in self-driving cars among the public. The study mentions that for the second year in a row, the public's trust in self-driving"
+    publishedDateTime: 2023-10-08T08:23:00Z
+    webUrl: "https://www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline"
+    ampWebUrl: "https://www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Robotaxi.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Legal Dilemmas Around Self-Driving Cars"
     excerpt: "The automobile and technology industries have grown exponentially in the past few decades. With cutting-edge technology, more features are being added to vehicles to make them stand out in the market and more secure for users."
     publishedDateTime: 2023-10-04T10:33:00Z

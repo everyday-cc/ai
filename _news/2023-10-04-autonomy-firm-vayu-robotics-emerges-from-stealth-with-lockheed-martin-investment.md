@@ -7,7 +7,7 @@ originalUrl: "https://www.aviationtoday.com/2023/10/04/autonomy-firm-vayu-roboti
 webUrl: "https://www.aviationtoday.com/2023/10/04/autonomy-firm-vayu-robotics-emerges-from-stealth-with-lockheed-martin-investment/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1260
     height: 1258
     isCached: true
-
-related:
-  - title: "Lockheed investment arm backs AI autonomy start-up Vayu Robotics"
-    excerpt: "Lockheed Martin's venture capital arm has teamed with other investors to provide $12.7 million to Vayu Robotics -- a \"non-traditional robotics company\" that is making its public debut with this development -- to scale development of artificial intelligence-backed autonomy technologies for potential use across a wide range of markets."
-    publishedDateTime: 2023-10-03T16:17:00Z
-    webUrl: "https://insidedefense.com/daily-news/lockheed-investment-arm-backs-ai-autonomy-start-vayu-robotics"
-    type: article
-    provider:
-      name: InsideDefense
-      domain: insidedefense.com
-    quality: 49
 
 secured: "N7XNFc9bjvb5pNqNuwqJBW4uh/1odoRjT4ubRydXHzqOz9br2nplCUYZdDkwE4unM1SNavFM6chooT8Fzzb5l0+na2KAdA6kkSxvVyf8lHAdCyKiFNOoYwvdhMYUV3AjQTJT5lyxW2Ir2L6nzjbx/bdDTA0DNNtrrb15qPmMY7Zk6MqbFruDy2eQTdriSTv1+GTx4TlnKsndc4QxYVej/waDsnNUPryPDJ6O56eaJV8+VGJnV9I1/I4pYnMKU4219giTHjmqGC8NDgL3U8Bh/AzZKO7zEBt8+CBFrhZbcQsQlAgaEkV3VGtKE53EgUGnIDc3hU5kmDoliNI6U84w+PEnH0iVKFXi8xUXLR/H+3IW9gWpGtOyL61Lw1fenN8Q/mFkVUNdqR3I5hV+4/L6iuO3K336DRI96/jGzXy/l5BJHKv0DHmlESXJuzdyGNcVdp0qUf5/MIYa3tfYx+fzAkvsnaNiRSmMwd9MhY/cIwUahoSzw17p44CbbxhSiKKAeHNFLxbcGMWex+tVEwSywA==;kiK7GHUif1toCj0RbBoosg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/sig
 webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,24 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
-    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
-    publishedDateTime: 2023-10-06T13:54:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
+  - title: "14 things to know about the Voice to Parliament ahead of October 14 referendum"
+    excerpt: "In just over a week, Australians will know whether they are to have an Aboriginal and Torres Strait Islander Voice enshrined in the country’s constitution."
+    publishedDateTime: 2023-10-08T02:48:00Z
+    webUrl: "https://www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed"
+    ampWebUrl: "https://www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 58
-  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at AUSA 2023 on October 9-11"
-    excerpt: "One Stop Systems, Inc. (Nasdaq: OSS), a leader in AI Transportable solutions on the edge, will showcase its specialized high-performance AI computing solutions at the Association of the United States Army (AUSA) Annual Meeting,"
-    publishedDateTime: 2023-10-05T12:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9893557.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Couriermail
+      domain: news.com.au
+    quality: 20
 
 secured: "pFlasO3ipNIn/D8PuqmAsQZGiloGgMG/JsSzhEhx0RI8Y/HWSsOUCutMkYQffJoZ/UHn4RckIN4k1AZpQHMnEUNksajMwnV3kod08oxlgxhWy1hEaIkPF+VPsI1FmqTI/zsInBhf6VA/gTlEHtr8BgOlHJ5ZBlGgAzXAZ2etr/uaA1idPhLnCQSwk53T/zRATt+z+gvqwc/QCf79QGWjB0rB4goIx4zdXk0wOeZx9Yx6F7RdiF/HvrUWVJcSpxPwHZ016HygkKQWKi+zFesG7ZEdiyHjjhbz2VxaJqPs6o8QB72cYw2T3UzbEz+qKfjU2Y+JFoCtvp7NHinRkGEC6+qpzIgxaQCNdpnFsrpqMt0=;KjbUHFodOtKqVboLijgWMQ=="
 ---

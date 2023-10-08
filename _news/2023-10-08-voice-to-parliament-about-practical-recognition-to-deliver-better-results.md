@@ -185,20 +185,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Spanish courts call facial recognition for employee management overkill"
-    excerpt: "A Spanish legal ruling on facial recognition could have ramifications for businesses using biometrics to monitor workers."
-    publishedDateTime: 2023-10-03T15:45:00Z
-    webUrl: "https://www.biometricupdate.com/202310/spanish-courts-call-facial-recognition-for-employee-management-overkill"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Privacy Commission: Facial Recognition Technology not justified"
     excerpt: "The Privacy Commission says it is not yet convinced that facial recognition technology is a \"justified and proportionate response\" to combat retail crime. Retail NZ is calling for a coordinated and \"sector-wide\" roll out of the technology in a bid to cut down on repeat offences."
     publishedDateTime: 2023-10-05T21:11:00Z
@@ -226,6 +212,20 @@ related:
       - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
         width: 1180
         height: 585
+        isCached: true
+  - title: "Facial-Recognition Tools Banned for Boston Police"
+    excerpt: "This graphic appears in a June 4, 2019, audit on how the FBI and Justice Department use of facial-recognition technology. BOSTON (CN) — The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology ..."
+    publishedDateTime: 2023-10-06T00:00:00Z
+    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 24
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png"
+        width: 1240
+        height: 1021
         isCached: true
   - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
     excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
@@ -255,6 +255,6 @@ related:
       domain: express.co.uk
     quality: 19
 
-secured: "FRNbUDNc2KEYh9m1vISFiXXOmQQr34Viy4t1Mo6nobFpAVUfKkGioKHOErfV2OZS9eFHl1IG430LguVYhv/J86bNrNdE9YJM6QMWdwCAFuGFZGMqW5l+dfGQZ8MiLjUay2HJGlItVgzhUR7/TJdws4A8l+47acKFmhizzLLl0hW+EEE29guerNL5sWlD3KABA8ZKWRphCmleaS+i7CBrqKQ0MX1ONc8S9/D0GjJUN6zjxvX6zjLnpw+84bfoZmlwh6vPzwM+wbVifukkVayj6nveCD9fgcctoj4kjuI605u8WoLehTKZ8kB5YwJpiiosgZSCM0sPV7K88EP57I9gLRH6oMx1NDBG4JLeqR0VFm0=;R0Zzi0TErFCeHrh2HWSZcQ=="
+secured: "7dSwmELiMDbjRC6E8UH8INj50H9DCZDJIu9j8W6+tFRyfkDE0Wefe6r3BjB0u2sHqQDQD0SzyOr1A63rM7oTwYZWvRlBbiCz8jEpeAHg5984EHnURo6IuYbkUhxdlXrsPoNwpuNcJdXyIPDihKLi+MtmX9213qpq8+Jp4ha9QdZoypk8FewMauTy4lJRn/jiZJ7VUY0Jnpe/lRBxVDaD/RKcfBVVdNv44XItYpwmeaa6J73PR9rmtOkv4t8BUjCZr/vCyr7JrGXdkBbeAsO0G16980kDRXpy1OSm08jH9Tiim5oj8njQTfVbsj9v3M1mSppEtOOEl/G3RL4aI5lQIyzqgNZq6oZHqsza4ICgdI/qdCrkkk2OuJgJID2SoxumQNVAnuq/dxnvmbrYxPpp6Y2osKhXVI9KYkDEbhxjiaIksci2fA5NvmpXH1ww21OmYGcyvjSAQUsbxi07xhBldgZOY7+eeTxLwJ9G3g8fum2dzmiXdTPHnnJcjZJ8IWZ0iSiKc+3bpcAx0ODswjg1Cg==;4T/997XqhidIOv1xd7om1A=="
 ---
 

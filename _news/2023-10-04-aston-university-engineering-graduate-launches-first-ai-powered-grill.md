@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tome Adds Key Machine Learning and Engineering Leaders To Shape AI-Powered Communication"
-    excerpt: "SAN FRANCISCO, Oct. 5, 2023 /PRNewswire/ -- Tome — The AI-powered medium for shaping and sharing ideas, announced today the hire of two key machine learning leaders, Sachs, former head of natural language processing and generative AI at Robinhood, and Archana Sankaranarayanan, former engineering leader at Google and Netflix."
-    publishedDateTime: 2023-10-05T18:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/05/9894005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
   - title: "Top universities offering Master's Degrees in Artificial Intelligence"
     excerpt: "Artificial Intelligence (AI) is a pivotal force today, reshaping industries and transforming our daily lives and professional endeavors. For those seeking to unlock a world of opportunities, pursuing a Master's degree in AI is a significant step."
     publishedDateTime: 2023-10-05T21:45:00Z

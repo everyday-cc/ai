@@ -25,73 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "The best movies on Amazon Prime Video (October 2023)"
-    excerpt: "Amazon Prime Video‘s best movies tend to be dominated by films from other studios, as exemplified by the large number of Warner Bros. movies currently in Prime Video’s top ten. But for the ..."
-    publishedDateTime: 2023-10-06T14:31:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
+  - title: "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023"
+    excerpt: "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ..."
+    publishedDateTime: 2023-10-05T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/Totally-Killer-Movie.jpg?resize=1200%2C630&p=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Amazon Prime Day 2023 - the 40+ best early deals from the October sale"
-    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
-    publishedDateTime: 2023-10-05T13:32:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+  - title: "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock"
+    excerpt: "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ..."
+    publishedDateTime: 2023-10-04T09:34:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 70
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://g.foolcdn.com/editorial/images/749351/investor-considering-new-dividend-stocks.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Amazon Prime Day 2023: 30 best early deals from the October sale"
-    excerpt: "The second Amazon Prime Day event for the year – the somewhat awkwardly named Prime Big Deal Days – is scheduled for October 10 - 11. But you don't have to wait until next week to bag a ..."
-    publishedDateTime: 2023-10-06T11:13:00Z
-    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
+  - title: "10 Best AI Writing Tools 2023"
+    excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
+    publishedDateTime: 2023-10-05T22:23:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "Amazon Prime Day 2023 - the 45+ best early deals from the October sale"
-    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
-    publishedDateTime: 2023-10-06T17:10:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
+    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
+    publishedDateTime: 2023-10-05T15:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
+    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
+    publishedDateTime: 2023-10-06T13:54:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 58
+  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Hedge Funds"
+    excerpt: "In this article, we will take a glance at the five best artificial intelligence (AI) stocks to acquire according to hedge funds."
+    publishedDateTime: 2023-10-06T18:02:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-hedge-funds-2-1197508/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 50
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/11074438/kaleidico-3V8xo5Gbusk-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Amazon Prime Day 2023 - the 35 best early deals from the October sale"
-    excerpt: "Browse all early deals at Amazon Standout deals so far include Amazon devices such as the Fire TV Stick, Echo Pop and Fire TVs, which are all available for record-low prices. There are a number of ..."
-    publishedDateTime: 2023-10-03T16:11:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+  - title: "3 ways to secure the best AI partner for your business"
+    excerpt: "Here's how to sort the wheat from the chaff and uncover an IT partner that can help your organization make the most of AI technology."
+    publishedDateTime: 2023-10-05T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-to-find-a-great-ai-partner-for-your-enterprise/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 34
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "j1AlHaJdy7DYxia2h5oOGMzbDp/XO+gqWUoPqXfjxkba/8T+JQD4WKzqIydNYw/AAtwq0rx3Rn66j4xmXVGy0Xlrq9BOqC+O4rbpSNobMt+AS1kPgoBUqhUCsdkLWTeLN/hpPl7m3PROKWkEsB3S0FpHDdE8KWCsqIMd2itea51fOYmeCAtDoslAE5omfG3W6WYh+lfRS/GaUFcdnFWBmeu1e0IVXGqVt6XsMx9IZfcwqZcRuqBLISJwpwCnJWg8MsIZ9+QeD7KcUqxD8LOEl3ZY+8/b9KMtjecnBBAoCBtXSYBQogjDs2cX4FuFkeutsroTpY+83A8NCq39zBF62wP/DAmYhRsG2Rz/13uGEyChg3DlqDHGAIXlPlmTMdZGO4x5osHmFiHkine3GPKFB1Ja25QgzcAr+ExIizPILRY5n6hG3feYLRbYyLIFkpWRKrBwGGk8iqyYDF6cvdH6uU9ebsK/BdD8QJ8xd/FkbjckNIy8+qJe1G36PYOd0GhE2ednmZY6q/KWBujhoI0k8w==;PRAvVCn6/GGDjGb+lGIAtw=="
 ---

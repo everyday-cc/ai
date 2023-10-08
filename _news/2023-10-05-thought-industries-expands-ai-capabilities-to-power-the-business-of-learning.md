@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35093922"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
+  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
+    excerpt: "The updates include improved cyber risk assessments and new external attack surface, cloud posture and Azure Active Directory (AD ... Further, it addresses the emergence of artificial intelligence (AI), with generative AI capabilities enabling SOC teams ..."
+    publishedDateTime: 2023-10-06T03:55:00Z
+    webUrl: "https://www.arnnet.com.au/article/709043/trend-micro-expands-partner-program-new-assessments-ai-capabilities/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 38
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "wfgjL01/H3Suuflpzsj2AkVu2AIgw5HdLGb7zdi81VXqmA+57kYs497tUXo1RRRQsSx2XkSV0jx9+T7B0YEA2y6c5mZdFT/NApjOZxY/tZMhKfhOZ+fFMfHm9Ir/FrURj3oscwftmaUSNkKUzECwc2rcG1LkzbhFbCVWZfQuRLm3OppUb5pHEVbLJksVFBXJwkk9jotS54Xzbz0bJit9Mwr8lw3W9DrPg8CiQn2VfXTKHIzEMbXnYQTZ8Rmm0Q52G8e6AnyTnmheeoceOMw7rq4Go5bjjA6q12v3lre0yXvlyAXhZ6M9J92UADSe6RUquZIQ+OgA9IFvRvHr3FKSBrU9SmWwj9vOlF4jwHnJlxI=;R/3Ywi4MFXbImJysHHs/4w=="
 ---

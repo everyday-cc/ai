@@ -29,7 +29,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill"
         width: 800

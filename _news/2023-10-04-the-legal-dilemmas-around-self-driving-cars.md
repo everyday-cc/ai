@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Study: Public's trust in self-driving cars on the decline"
+    excerpt: "According to a combined study by MIT & JD Power, there is a growing distrust in self-driving cars among the public. The study mentions that for the second year in a row, the public's trust in self-driving"
+    publishedDateTime: 2023-10-08T08:23:00Z
+    webUrl: "https://www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline"
+    ampWebUrl: "https://www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Robotaxi.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How auto insurance will navigate a world with self-driving cars"
     excerpt: "Self-driving cars have been a part of visions of the future for decades, and what was once only imaginary has started to become reality. Not only do self-driving cars exist, but five U.S. states (Arizona, California, Michigan, New Hampshire and Ohio ..."
     publishedDateTime: 2023-10-04T17:36:00Z
