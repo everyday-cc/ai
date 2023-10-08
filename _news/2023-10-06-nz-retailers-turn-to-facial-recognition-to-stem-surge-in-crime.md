@@ -1,27 +1,27 @@
 ---
 category: news
-title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
-excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
-publishedDateTime: 2023-10-06T14:55:00Z
-originalUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
-webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+title: "NZ retailers turn to facial recognition to stem surge in crime"
+excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
+publishedDateTime: 2023-10-05T20:07:00Z
+originalUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
+webUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: LBC
-  domain: lbc.co.uk
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
-    width: 1200
-    height: 675
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -85,20 +85,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "NZ retailers turn to facial recognition to stem surge in crime"
-    excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
-    publishedDateTime: 2023-10-05T20:07:00Z
-    webUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
     publishedDateTime: 2023-10-06T00:08:00Z
@@ -142,6 +128,20 @@ related:
       - url: "https://res-3.cloudinary.com/the-university-of-melbourne/image/upload/s--npJjuayx--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/084/680/d32/084680d323d42bbb3f58da769cbfeb475ec4f1ceff538a1bd65504608a62.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
+    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
+    publishedDateTime: 2023-10-06T14:55:00Z
+    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+    type: article
+    provider:
+      name: LBC
+      domain: lbc.co.uk
+    quality: 44
+    images:
+      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
+        width: 1200
+        height: 675
         isCached: true
   - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
     excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
@@ -241,6 +241,6 @@ related:
       domain: express.co.uk
     quality: 19
 
-secured: "RiIt6qMCa5cSSBitn934wGoGZkzMn4BIH9NslZ3iRwt0LS4YsJmGeL9mQ6D50FI9PZuDKBbwmebmNW+nKJQVIjsfWjttn8oViOtfd20EUbKvegjp/OpAuJoPUo7gKOju20Orrz7OXN7ObaN3y6LxmE9fmRKPRhaQLzDq+UcZwh4VmJVqDpCPaYGCNbUWOD7FftqUNrnH+xjL+no/geLAkNBANudxXmqpivtn3WIIvMwqEScCuDqTF5k77JdoX+kIIKRDNHdrBMc+hvuO6FCqxyeiRu56Qhy4ldnWW6pZkDQk6/UGC0pbjSHvQCp/xV7r2fXukJVa1bPye68GPEZ1CGA+7u4f4XUlT+eOyvuxR94=;PdWbXduH8oPGapmD/KohWw=="
+secured: "pj0RKXik3z1/IQJq1RzDTB/lWZd2RdeuwswjZZRNlOrqvFsfrztE3N6xuXXVpTCAeaffeMRLmcDu7amcM3whYN1GeieXHbmBOi2pcySm0SeQu82CJWtrFZIoHiecMIhrBBjHTN57pBsNRiLZxm3TO43TpNQAXKY5EUUHPryP/VzA4/8RVOxOBgxeuULuLGV+kaWM1zkygUfHmN1AikFLoKGc8veA9rSKx47cOIYOIZnNN4hjPmbnlF4Mxs5BJnD3wnXU9wY/QFgS0+HqgsRZ3GG+GVa/iO/faMNKc+f72xB4pfi9j3C4G8IwzkaVbNRE7Un78cuX7aPTDCYa8FX/4ar65JUwFB340+s4Uj6B878=;sgZe2/MgBPgx9wmnVv1bqQ=="
 ---
 

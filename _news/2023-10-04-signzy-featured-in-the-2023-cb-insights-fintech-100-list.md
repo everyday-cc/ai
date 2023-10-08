@@ -33,20 +33,6 @@ related:
         width: 5977
         height: 3985
         isCached: true
-  - title: "Forbes Cyprus to host Future of Fintech Summit 2023"
-    excerpt: "With technologies such as AI and blockchain reimagining investment strategies ... all revolutionising the way we conduct transactions. Fintech in Everywhere: Explore how fintech permeates diverse sectors, from gaming to the creator economy, and ..."
-    publishedDateTime: 2023-10-05T07:53:00Z
-    webUrl: "https://cyprus-mail.com/2023/10/05/forbes-cyprus-to-host-future-of-fintech-summit-2023/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 24
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/10/TFOFS_Cover.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "k1F8voPRrjT5P6rni/32lEknZEurL+5JWZ72jaHdGXxlY/sOuJHDfnK+q1Qcukz8EZ4LFWPRam/QDddwIw2PxYfY+EdUHDVD+jQiL9XrpSHM9Dhek6Tc+ddHMrRCsO4yEjROydMkt3MtYTXEvmyGWTt4MNuZkyiRbSwO9XhS7E5k3oHdASsc4zxgOCkLUncDcKoyRFGq0k52CN9jfmdG6sw0mrjyLhJSlnAOtpxLZPU885vxUMxc8WJP+htWdLI1avS1PdROFCqpAez4dmkjvE/mZWMCWPa/jt9HyW199i26OWLaHBcKjxnAao4PjN9qqIG84A2pOFyi6yOsO49KJbYfF6UNCOSeUGKG8/1RKgo=;hNiyKJ8ppkvz5+XUXtAzgQ=="
 ---

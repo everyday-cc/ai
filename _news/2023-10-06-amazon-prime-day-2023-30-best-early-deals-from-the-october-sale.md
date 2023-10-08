@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Prime Day 2023 - the 45+ best early deals from the October sale"
+    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
+    publishedDateTime: 2023-10-06T17:10:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Prime Day 2023 - the 35 best early deals from the October sale"
     excerpt: "Browse all early deals at Amazon Standout deals so far include Amazon devices such as the Fire TV Stick, Echo Pop and Fire TVs, which are all available for record-low prices. There are a number of ..."
     publishedDateTime: 2023-10-03T16:11:00Z

@@ -42,6 +42,17 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 18
+  - title: "Anthony Albanese says race division argument the ‘great lie’ ahead of Voice referendum"
+    excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-08T00:04:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
 
 secured: "zoCn/HcIPlE5Q3rACezzJAChEDSHhgr3tG9gv4/lzWDEW8D7nIOKmpzkPhTLBdTqc/IZ9P2zUwnrLwYij7Nz2CWIuCUe7t2fbMBbG1YCsLWxr4K0HYHpfqpmxVB+riv8B3EILx7AcSwQfKxCCTrfUwy6wi28ajZ9+00zTFi96V/f1tHYROmGrxPDXcfTnkcIYDLU/e/mMpffphd11tr1q5kZh44TcbX/Q6lAlCn9A3N5FYfzCwnmi+zdFOtmgqvuiJc4NKSQv4MOb50wQKSCv11qn1FYlvJ1udxcdvesjNg5xD+Tp1mXbshUS7UjCM7vJTpVzJdNcs9vQklK0XOn7WB5K/I8za7NyYN4zwK9IqU=;Ef2vbZMDsY1COYdWVM0JRA=="
 ---

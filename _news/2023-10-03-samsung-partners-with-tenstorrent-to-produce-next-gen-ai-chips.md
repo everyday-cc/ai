@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-partners-wit
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-partners-with-tenstorrent-to-produce-next-gen-ai-chips-2023-10-03-895999"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -40,34 +40,6 @@ related:
       - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvZmUyMTNkZTgtM2RhNS00YjcxLWI1OTEtY2NkZDBlOTE5MzllLmpwZw==.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Samsung to manufacture next-gen AI chips for Canada's Tenstorrent"
-    excerpt: "Samsung Electronics, the world's largest maker of memory chips, will build next-generation artificial intelligence (AI) chiplets for the computing startup Tenstorrent, the Canadian company has said."
-    publishedDateTime: 2023-10-03T08:54:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/samsung-to-manufacture-next-gen-ai-chips-for-canadas-tenstorrent-827170"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/03/1386147-samsung.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Tenstorrent selects Samsung Foundry to manufacture AI chips"
-    excerpt: "Tenstorrent, a startup that sells AI processors and licenses AI and RISC-V IP, has announced that Samsung Foundry has been chosen to deliver Tenstorrent's next generation of AI chiplets to market."
-    publishedDateTime: 2023-10-03T07:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20231003VL202/ai-chips-samsung-foundry.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231003vl202_files/3_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Samsung unveils AI-focused Exynos 2400 with a 70% faster CPU"
     excerpt: "Samsung has announced the Exynos 2400, its next-gen flagship chipset for smartphones. It is heavily focused on AI performance."

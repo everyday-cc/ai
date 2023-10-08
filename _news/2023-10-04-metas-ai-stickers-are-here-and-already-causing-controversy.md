@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-
 webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Astronomers Are Using AI to Finally Find ET"
-    excerpt: "SETI typically involves astronomers pointing powerful radio receivers at a distant star and recording the resulting electromagnetic noise. The goal is to find, inside the noise, any broadcasts that might come from an alien civilization."
-    publishedDateTime: 2023-10-07T01:09:00Z
-    webUrl: "https://www.thedailybeast.com/how-seti-astronomers-are-using-ai-to-finally-find-et"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696609972/231007-Axe-AI-Aliens-tease_vybrqg"
-        width: 1480
-        height: 832
-        isCached: true
   - title: "Former Google and Meta Engineers Announce AI Startup"
     excerpt: "Software engineer David Petrou along with his team of former colleagues have announced an AI start up named Continua."
     publishedDateTime: 2023-10-06T11:52:00Z

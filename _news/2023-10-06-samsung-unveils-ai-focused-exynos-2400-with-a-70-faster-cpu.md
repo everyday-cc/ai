@@ -49,34 +49,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Samsung to manufacture next-gen AI chips for Canada's Tenstorrent"
-    excerpt: "Samsung Electronics, the world's largest maker of memory chips, will build next-generation artificial intelligence (AI) chiplets for the computing startup Tenstorrent, the Canadian company has said."
-    publishedDateTime: 2023-10-03T08:54:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/samsung-to-manufacture-next-gen-ai-chips-for-canadas-tenstorrent-827170"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 54
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/03/1386147-samsung.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Tenstorrent selects Samsung Foundry to manufacture AI chips"
-    excerpt: "Tenstorrent, a startup that sells AI processors and licenses AI and RISC-V IP, has announced that Samsung Foundry has been chosen to deliver Tenstorrent's next generation of AI chiplets to market."
-    publishedDateTime: 2023-10-03T07:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20231003VL202/ai-chips-samsung-foundry.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231003vl202_files/3_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "vHGJzYo6HYBhMKbPLgrpgg68WHDp1h7jMdSxYgCKWaGRoE7sYM8xgIiP+/CXeqvCOwA/rE9ZYMc0tWpk+HMxtTtFG9Ws4RLmKczypJRL494dV1fNoiw/DvE+OE9uOdw6BBmhRiG5QuOAPSEa5vKY17BCMasjyvXiaWyXwK8nZuEXZtyUkWCQ1lYDIRn/7Tz0a7I947QHE7CQ3z+PWq3q+zbjobs3fKgDSNQKndN8eEJyQdu4qtPV/dGwswz2L5ovt/9xi4W0LhTxnQ/p32D/rKqWT+A1KlMq9jvSy+doXE+uaFk5NKONrju8O/gCLsbfNnHzQxu9CT1ms1LP6rpp672alsV2UolQ3PgrzwYPrmShonMuNqQormWp5quv6xNkMUUs7WV36/JjnAfoT7OKZXk6e3bcOK6gi0t4qVhEAJpNrBtai5Tm5raa4V+YD7qxMdFtWKZ4d8IRFA21mh1oD7bgcLYghpLAcPXr/x+Znic7wRaaoUM0OXboBAWsmeMvuvdQPG1Ch4bil7LFwhEFHQ==;ghQQbyQgenRUFsttZgSe8g=="
 ---

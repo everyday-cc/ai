@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Prime Day 2023 - the 45+ best early deals from the October sale"
+    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
+    publishedDateTime: 2023-10-06T17:10:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Best Stocks To Buy Now in October 2023"
     excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
     publishedDateTime: 2023-10-05T00:24:00Z

@@ -22,17 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Bringing AI to applications, saving money: RTP software startup PerfectScale lands $7.1M"
-    excerpt: "The RTP-headquartered SaaS company PerfectScale announced a seed funding raise of $7.1M today, taking the firm's total funding to $10M since its founding in March 2022. Hear why they made space in this round for a specific Triangle-area fund."
-    publishedDateTime: 2023-10-03T12:09:00Z
-    webUrl: "https://wraltechwire.com/2023/10/03/bringing-ai-to-applications-saving-money-rtp-software-startup-perfectscale-lands-7-1m/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 8
-
 secured: "V9uAHPZ6ylNa+lWislCzXfuQSMlPqtXs0tXwt/Rtjvrf8WNSh75me+DzEPr6uh1Sd0kGV/eQALcNOunnRzMzDXXPEdq8uTRuuBDUHpk73hKiyv6kK9gj83pTpZGKFbbtZhrjGOg6oNFh/yHfHnOiF2yza91bMgRNWkQU1ApT/avRlKh0S+TNeVBpzFwGF8q7+b5vBa+ko4qNiLJ81cA185IXIGmW1fz1SOtJiov6zzbkn5CDtne+iaxJDtZorSFaGg6QcKNSUl52+V/l7tTQ6D9LqTbx88l0SAQnicUfp0+z+lJxoixXI0zJE8v/v/q8t026jIGd17MXHIQBwlz+LQU9XrMsCbPJeyVH+PsooSQ=;uTK1wbKWAtPkpBFf+jB2Fg=="
 ---
 

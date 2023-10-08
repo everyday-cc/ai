@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-neural-network-genomics-accurate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-neural-network-genomics-accurate.amp"
 type: article
 quality: 60
-heat: 70
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers create a neural network for genomics -- one that explains how it achieves accurate predictions"
+    excerpt: "A team of computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks--the engines that drive artificial intelligence and machine learning--thereby illuminating a process that has largely been concealed from users."
+    publishedDateTime: 2023-10-08T01:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231006104521.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
   - title: "Researchers create a neural network for genomics—one that explains how it achieves accurate predictions"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
     publishedDateTime: 2023-10-06T00:00:00Z

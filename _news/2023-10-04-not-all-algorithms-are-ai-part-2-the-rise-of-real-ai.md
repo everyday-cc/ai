@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-al
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/IMG_1801.jpg"
         width: 1256
         height: 1299
+        isCached: true
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 37
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
         isCached: true
 
 secured: "TQ5CzLtVJ3yJ2tWY6dTERMryyz3XHSDSZs2tWk/cbQgqkmDxFFhHvcM4rqA/v0JWJRvJ03K/a0Vuj+dZD5r17bhJXr8JpCEXdzZkoSoaxBzq4wADytTebGFPliWGksGlbPP1OMD+FIriUwE+7Np8JZKqJbhQzhbFMyRwZnb3Hropp6Er6njXdfHa3nt6+Zp5T9VAw7HmcUd18tRInaZvNvcJHA6uSZ2MpRGPrcgkAhL8JcbZOd2zHQqybOqHExHlHs0r5kiNIqrTe3GKLs6FHUR2gqs+qqxSbjzRCk4+4Zi3PGcFhq0VBIo9ZItUefF57YJtISDIwJG61OGCJfu5R4wUmonO/AdGVzL/RGYb5VGMRvh9sJfd+OzUpe78llSfeupTO5ABBLJSDRmbpQG62MsNP9ykZ+/Emeyzk8MisDVB00dw7sLqM+w2VsKtXhZcL+szpuR3AmglfH0vkbK1wtWWOuch33rSfvgta1Iy1NskvSfXCOvVmZZyaWl3Ibh0826t5AaE0UzT9aGeSdfDyg==;FzZ9W4pym6/kguyaP/PhEg=="

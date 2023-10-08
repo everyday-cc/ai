@@ -1,27 +1,27 @@
 ---
 category: news
-title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
-excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
-publishedDateTime: 2023-10-06T14:55:00Z
-originalUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
-webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+title: "Legal expert warns of privacy implications as retailers drawn to facial recognition tech"
+excerpt: "More Kiwi retailers are drawn towards facial recognition technology, as crime continues to surge. A recent Retail NZ report shows the sector has suffered o"
+publishedDateTime: 2023-10-08T00:21:00Z
+originalUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/campbell-featherstone-dentons-kensington-swan-lawyer-on-more-kiwi-retailers-turning-to-facial-recognition-tech-to-stop-crime/"
+webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/campbell-featherstone-dentons-kensington-swan-lawyer-on-more-kiwi-retailers-turning-to-facial-recognition-tech-to-stop-crime/"
 type: article
-quality: 44
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: LBC
-  domain: lbc.co.uk
+  name: Newstalk ZB
+  domain: newstalkzb.co.nz
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
-    width: 1200
-    height: 675
+  - url: "https://www.newstalkzb.co.nz/media/b1bj0j4n/gettyimages-1411095765.jpg?rmode=crop&rnd=133412441160730000&height=395&width=635&quality=95&scale=both"
+    width: 635
+    height: 395
     isCached: true
 
 related:
@@ -113,20 +113,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Legal expert warns of privacy implications as retailers drawn to facial recognition tech"
-    excerpt: "More Kiwi retailers are drawn towards facial recognition technology, as crime continues to surge. A recent Retail NZ report shows the sector has suffered o"
-    publishedDateTime: 2023-10-08T00:21:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/campbell-featherstone-dentons-kensington-swan-lawyer-on-more-kiwi-retailers-turning-to-facial-recognition-tech-to-stop-crime/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 45
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/b1bj0j4n/gettyimages-1411095765.jpg?rmode=crop&rnd=133412441160730000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "A philosophy of recognition"
     excerpt: "An Indigenous Voice enshrined in the Constitution is an invitation to stand with the oldest living culture in the world, says a University of Melbourne expert."
     publishedDateTime: 2023-10-04T02:05:00Z
@@ -142,6 +128,20 @@ related:
       - url: "https://res-3.cloudinary.com/the-university-of-melbourne/image/upload/s--npJjuayx--/c_fill,f_auto,h_630,q_75,w_1200/v1/pursuit-uploads/084/680/d32/084680d323d42bbb3f58da769cbfeb475ec4f1ceff538a1bd65504608a62.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
+    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
+    publishedDateTime: 2023-10-06T14:55:00Z
+    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
+    type: article
+    provider:
+      name: LBC
+      domain: lbc.co.uk
+    quality: 44
+    images:
+      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
+        width: 1200
+        height: 675
         isCached: true
   - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
     excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
@@ -241,6 +241,6 @@ related:
       domain: express.co.uk
     quality: 19
 
-secured: "RiIt6qMCa5cSSBitn934wGoGZkzMn4BIH9NslZ3iRwt0LS4YsJmGeL9mQ6D50FI9PZuDKBbwmebmNW+nKJQVIjsfWjttn8oViOtfd20EUbKvegjp/OpAuJoPUo7gKOju20Orrz7OXN7ObaN3y6LxmE9fmRKPRhaQLzDq+UcZwh4VmJVqDpCPaYGCNbUWOD7FftqUNrnH+xjL+no/geLAkNBANudxXmqpivtn3WIIvMwqEScCuDqTF5k77JdoX+kIIKRDNHdrBMc+hvuO6FCqxyeiRu56Qhy4ldnWW6pZkDQk6/UGC0pbjSHvQCp/xV7r2fXukJVa1bPye68GPEZ1CGA+7u4f4XUlT+eOyvuxR94=;PdWbXduH8oPGapmD/KohWw=="
+secured: "SPex+mkUs/aGqiUPSHwhrXADm4vd6H3YR4aiZVM7okHP6+RXY5qSufuUzAwadNXJeclPhMHYPPnRX7UwYS09drN36mEgVaJQ3LbglQ4Up9jcyt213v2L+KkMEti3P5MVxlbxxvzqEE32BG9FDfJRqjh6u6CFsPPQ6SLC6asEv0r5HqXwKuSAx8UjRvwtaCzf7NZczCzR6XI7SRGtGhn7IqHYbeESEMYZDJ6lLrVLmISHCyZiQ5GBLwrhEFyMs0AXG2CGEI+BbeyFqSUMPrhPlvw2BZVUGKYXjVusJYSA4pbDDW2WScYUeyyOA8+NWBei8vskL5mctYISTmclUdqojBm2yMmBOfTDHRlzJUEvsp0=;HQ5BKEgHnGWorf0o5rAZ9g=="
 ---
 

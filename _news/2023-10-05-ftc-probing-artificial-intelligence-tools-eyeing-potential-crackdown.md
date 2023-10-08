@@ -38,6 +38,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
+    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
+    publishedDateTime: 2023-10-05T15:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
     excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
     publishedDateTime: 2023-10-05T12:06:00Z

@@ -86,6 +86,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "NZ retailers turn to facial recognition to stem surge in crime"
+    excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
+    publishedDateTime: 2023-10-05T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
     publishedDateTime: 2023-10-06T00:08:00Z
@@ -99,6 +113,20 @@ related:
       - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/banner-71125_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Legal expert warns of privacy implications as retailers drawn to facial recognition tech"
+    excerpt: "More Kiwi retailers are drawn towards facial recognition technology, as crime continues to surge. A recent Retail NZ report shows the sector has suffered o"
+    publishedDateTime: 2023-10-08T00:21:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/campbell-featherstone-dentons-kensington-swan-lawyer-on-more-kiwi-retailers-turning-to-facial-recognition-tech-to-stop-crime/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 45
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/b1bj0j4n/gettyimages-1411095765.jpg?rmode=crop&rnd=133412441160730000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
         isCached: true
   - title: "A philosophy of recognition"
     excerpt: "An Indigenous Voice enshrined in the Constitution is an invitation to stand with the oldest living culture in the world, says a University of Melbourne expert."

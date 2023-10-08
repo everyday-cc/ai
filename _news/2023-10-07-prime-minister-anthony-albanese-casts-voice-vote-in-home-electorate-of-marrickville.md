@@ -37,6 +37,17 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Anthony Albanese says race division argument the ‘great lie’ ahead of Voice referendum"
+    excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-08T00:04:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
 
 secured: "hkRZfqxPwGm90e8eVb9npOH4UEbm4cFhS6+E7YqrdA8+VujkH3Gb99GMwkfXWFHAQT/M/ZXc5aeMW0pCQ9ljtOgU1p+V9hs7EtahdmYTLpRHjl1xvcLDwD0Aalz5qNNUp4windlMl5XeUE1VJOhEq191vo3DOXwemaX9W4Pm/mxJv0tTPXP3C5bluUUJETuXefFXvp7y1PloJfG8FfOkLRt5xxHlLLIrr6liqX/3wsny1EEt6vn55UCwVMeDrcB2P4v8lxjLP4Tl9GHSv4M8QKa7Tdm1Nzg1TWRP+0siQfC2TSiOm4L5YzHh5RVw+ekN2VaGksqGi3/zFOUagS7XpJAD9VEJMAywrZqMqc/BBi1aCEfNCU1KNDiM4/L7bkh+b5NgIPXSS+PjbMJv3hkdsykIBGu0mXO0VCPERB7QDj1bIvgSYigZtcfTsSk6HdRJPbw1fkZ69CXOAclFbJUfhA9l8nWfy9KykZa0DO2kt0Ude+xM19Ss3UI9E1wc5VSyP3rBI9CCZBCYshbP9koczQ==;J/4HGLIsc/k41kOO7RpFFA=="
 ---

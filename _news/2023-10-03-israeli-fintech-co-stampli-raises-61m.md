@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
+    excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
+    publishedDateTime: 2023-10-05T15:07:00Z
+    webUrl: "https://fintechmagazine.com/articles/ai-powered-ap-automation-fintech-stampli-gets-60m-in-funds"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/51c2ca8e33a492b66d9d514236202d0f:e9a329251a0dd808ab62ce9cd73ef70d/stampli-closes-its-series-d.png.jpg"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "AI-Powered Payments Startup Stampli Scores $61M In Blackstone-Led Venture Capital Round"
     excerpt: "Stampli, a key provider in accounts payable automation, received $61 million in its Series D venture funding round."
     publishedDateTime: 2023-10-05T12:42:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
-excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
-publishedDateTime: 2023-10-05T12:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
-webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
+excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
+publishedDateTime: 2023-10-05T15:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: nasdaq.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -32,15 +33,15 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
-    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
-    publishedDateTime: 2023-10-05T15:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 64
+    quality: 62
   - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
     excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
     publishedDateTime: 2023-10-05T16:53:00Z
@@ -56,6 +57,6 @@ related:
         height: 700
         isCached: true
 
-secured: "S0OrCrOj8OrCgg8uMZDMeu6NAJtln9bzT1mK+H3yTW/p83NLbxQ4/LjgR7O51S4V6t5g8W0Fd0tWnXEmRzrUTrojqtbgS4x02cD9vu6LBUcE6y+/ilpR3ewMSf7QDbNucKDMsJyqer+2l1s4rdCA6S2biDe54ePZfRz/Ti6sCjU3nol6tZtKdCZeouAsyxlZG10ELV0VgnRCXj/gC2dcYfqQvt7ne8krGjEacfC3y7/bxRO6fsHT5T2PtyGJhH1gZdApeVkz/8Yfg3lPmBtu40U2B3hsJl05V1JHYZ1/CbC1jKZ2uUt//wuluy3DMdUEdYRXPk2DkXM4Fpjcl50xvfN7gWlFLOsxOo1/gvYM0vANNMoPALZ8UetrKepdJPldYwNtaO2w3wH6vpLNcXBX/96xloE5mn3PDjjlsL0N2jJowsAX5SmybgLmoyc3pbcL6N9tkfvOKuuRxsKxZtzhrSPJ7IMiPjEuvea6F0SkMaUKTV00jIZnJ38AWo9I+D2S4GpgWT2akKcLgTvrN1E+zA==;orgbO8TnBc9p0Z51EfM/Lg=="
+secured: "lqQ+Hcg8NOG5/a5rj/zxLG/ZC3j7zWBn/B1Dvlxo1FH373kc/nsrB+RI2tS+QUTWxWmUP09GoUjdyHpB4U5lz2Y9/3d3aC4X/34qGLsHOYNYFrZIpqCeWHjXeSoYDMfVR7RKY3qIQo6VRk+dkhcqJAszViQqcSXeZYHPlcpdNfDNUbgleJ8gnHjJrY0IL0CHb4yXDyQGH8wiRqCnEG158nvV6pNY7zDzsyX4DYQHlscBlmOlj3USTR1ZHJnLx+HC9Xy3X7RtnuJHldZBi9a7REgj27aDmeeD325eBwlnOTITtf0TelgO3/OQ4ADoZAtyosHN/Pcycezpgi9Yslvmt+4YTW7Rhd0DE0JX9KX7M1lF6675JINjsNbhzImmzlcFmZPNAymxbPQvn6EZJGXEleKPmKaD8iPii/JyrbQoAlauxM1TSkojuDAHQLnryZyY8M686PKhRD9cn7LxA8wN0D7lZVL9l9EqReNNoNVL6TwOF9SQDZLG/xDYDVxzKvgLgzR7JSbp2iqkPG/bj31Yvw==;f+K7DjcFaHTV1UApT2Lrgg=="
 ---
 

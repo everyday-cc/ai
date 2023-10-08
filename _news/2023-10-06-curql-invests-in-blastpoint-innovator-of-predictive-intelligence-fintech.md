@@ -35,20 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Experts Convene On Impact Of Fintech Sector"
-    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law enforcement agencies and regulators can fully harness the potentiality of FinTech in order to successfully counter the threat of financial crime."
-    publishedDateTime: 2023-10-05T09:15:00Z
-    webUrl: "https://menafn.com/1107194574/Experts-Convene-On-Impact-Of-Fintech-Sector"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/05/TP_39013image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "cBKhjDOns4qbHwJqsK1LIROzr2Dq/v++5ZLZ8E4jQC+vB3ZTrcB9EocUikpbBwR2JshR2DGRbqqw/EYaX27lg1jYdl1ZdeR5Pjsjr+qdrLnOMX2Y8CvUbM8S09eVN1324ryrx7yDEWjO0bduLV8NlWO0RcjMQebx/d80TmqT+3vTRLgWgew3ziY5hkx0AB+Fj9sr3ZMtCKMsKz21SyA0xJE79PyaLYXZWjQ2kuuRbNn/t0ZmqP1j2x8VfYEfwfHdK1BCgti5s9N+kPra6g60Dn3ojdMCXr8TJnMupaKSBRu2TWyij7vdfAzB2SWQVyk9Nqy1fHEeWXecAN8eLrGDffcfPXV7WWkbGMVQhZhB7s8=;+hWE+T7/+KmYVG1I/qDqLg=="
 ---

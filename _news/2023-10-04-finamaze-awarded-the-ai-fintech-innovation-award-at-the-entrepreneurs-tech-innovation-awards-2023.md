@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Convene On Impact Of Fintech Sector"
-    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law enforcement agencies and regulators can fully harness the potentiality of FinTech in order to successfully counter the threat of financial crime."
-    publishedDateTime: 2023-10-05T09:15:00Z
-    webUrl: "https://menafn.com/1107194574/Experts-Convene-On-Impact-Of-Fintech-Sector"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/05/TP_39013image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Curql invests in BlastPoint, innovator of predictive Intelligence Fintech"
     excerpt: "Curql Collective, a Credit Union Service Organization spurring innovation for the credit union industry, recently announced it has welcomed BlastPoint to"
     publishedDateTime: 2023-10-05T19:01:00Z
