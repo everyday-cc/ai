@@ -7,7 +7,7 @@ originalUrl: "https://ipwatchdog.com/2023/10/03/cold-open-impact-artificial-inte
 webUrl: "https://ipwatchdog.com/2023/10/03/cold-open-impact-artificial-intelligence-authorship-film-television-writing/id=167780/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,42 @@ images:
     width: 600
     height: 371
     isCached: true
+
+related:
+  - title: "The Impact of AI and Machine Learning on Startup Innovation"
+    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
+    publishedDateTime: 2023-10-06T14:57:00Z
+    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
+    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 56
+  - title: "LTN Startup Spotlight: Paxton AI Founder Sees Startups Having Advantage in the Crowded Marketplace"
+    excerpt: "Legaltech News caught up with Paxton AI’s co-founder and CEO, Tanguy Chau, to discuss the company’s approach to large language models and retrieval augmented generation, and how it stands out in the market."
+    publishedDateTime: 2023-10-05T21:08:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/05/ltn-startup-spotlight-paxton-ai-founder-sees-startups-having-advantage-in-the-crowded-marketplace/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"
+        width: 716
+        height: 372
+        isCached: true
+  - title: "CX is a good place to start with AI-driven innovation"
+    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
+    publishedDateTime: 2023-10-05T12:51:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 17
 
 secured: "Z5urEDDcKK0Bn1IBz4Zcca2X6RPuCpWPmWP9cTUp1xMRgbEgWSHFzVxemJPFA3zhuA4r4SHt+PqA48XqVquMKaW/qU494ZXMJqkjwRCi1lHwBUH/UGL2iX/WA0fnUrHdfwVh9b/4E8AWgdsZEyypk44McjuLkFJ+lGLWWfvGKKvxnoap1ZDSCzjPRrQT0cbwR3raP9l9yzzV737qHx+KSq/UoBX8cTazLm25BvwQQOPdfM8EuIQF1IBfiCp8ul9FyI0xBEmFn0YftzTvrfQVQqkbYNL7XrMxEOXuQxgHpGQTOmqcMPlOSD2D6L7FBP7K1r+nxPC/RQjAlrZDekt+MA8osc3hYhpwWXrTu5SUISs=;lDNYnxtNwSl/igHb9i2q6A=="
 ---

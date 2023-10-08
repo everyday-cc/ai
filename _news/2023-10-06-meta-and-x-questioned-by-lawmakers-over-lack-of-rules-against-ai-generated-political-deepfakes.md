@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy"
-    excerpt: "Fact-checkers scrambled to deal with faked audio recordings released days before a tight election, in a warning for other countries with looming votes."
-    publishedDateTime: 2023-10-03T11:01:00Z
-    webUrl: "https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/651bef2d057aae56f7d274cf/191:100/w_1280,c_limit/slovakia-deepfake-biz-GettyImages-1710142957.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Meta, X questioned by lawmakers over lack of rules against AI-generated political deepfakes"
     excerpt: "Two Democratic members of Congress sent a letter Thursday to Meta CEO Mark Zuckerberg and X CEO Linda Yaccarino expressing \"serious concerns\" about the emergence of AI-generated political ads on their platforms."
     publishedDateTime: 2023-10-05T15:49:00Z

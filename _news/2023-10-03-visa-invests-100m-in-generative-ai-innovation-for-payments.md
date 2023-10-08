@@ -64,20 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Generative AI in the telco industry: Three waves of adoption"
-    excerpt: "Anticipated growth is substantial. In fact, our own survey of telco leaders, facilitated with Altman Solon, found that adoption of generative AI use cases will grow from the current 19% adoption to 48% within the next two years. While there are many use cases for how telcos can embrace generative AI, we see adoptions occurring in three waves."
-    publishedDateTime: 2023-10-03T09:16:00Z
-    webUrl: "https://totaltele.com/generative-ai-in-the-telco-industry-three-waves-of-adoption/"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://totaltele.com/wp-content/uploads/2023/09/zx8pwng2wui-440x264.jpg?crop=1"
-        width: 440
-        height: 264
-        isCached: true
   - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
     excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
     publishedDateTime: 2023-10-05T14:00:00Z

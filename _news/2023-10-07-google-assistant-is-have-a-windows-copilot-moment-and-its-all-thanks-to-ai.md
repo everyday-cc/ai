@@ -22,88 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Less is a lot more when it comes to AI, says Google's DeepMind"
-    excerpt: "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size."
-    publishedDateTime: 2023-10-03T09:17:00Z
-    webUrl: "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/"
+  - title: "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
+    excerpt: "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now."
+    publishedDateTime: 2023-10-04T14:31:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 106
+    quality: 81
     images:
-      - url: "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ad698d33b7c8e0e75df21ffc651e7430f7318a87/2023/10/03/90e02f4e-395f-4536-861c-5bb54304fc5e/google-assistant-screen-read.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind Open-Sources Largest-Ever Robotics Dataset"
-    excerpt: "Google DeepMind has launched a new set of resources for general-purpose robotics learning after teaming up with 33 academic labs"
-    publishedDateTime: 2023-10-04T11:47:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-open-sources-largest-ever-robotics-dataset/"
+  - title: "Google supercharges its Assistant voice app with AI, hinting at how the company sees the future of chatbots"
+    excerpt: "The new \"Assistant with Bard\" will reboot the Google Assistant with generative-AI capabilities."
+    publishedDateTime: 2023-10-04T14:30:00Z
+    webUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-assistant-with-bard-new-app-chatbot-ai-voice-text-2023-10?amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-5.15.44-PM-1300x737.png"
-        width: 1300
-        height: 737
-        isCached: true
-  - title: "DeepMind cofounder is tired of ‘knee-jerk bad takes’ about AI"
-    excerpt: "Suleyman, the DeepMind cofounder who is now cofounder and CEO of Inflection AI (which set off fireworks in June for its $1.3 billion funding), may reasonably be all-talked-out after a slew of interviews about his warnings about ‘unprecedented’ AI risks ..."
-    publishedDateTime: 2023-10-05T13:54:00Z
-    webUrl: "https://venturebeat.com/ai/deepmind-cofounder-is-tired-of-knee-jerk-bad-takes-about-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "DeepMind’s ‘remarkable’ new AI controls robots of all kinds"
-    excerpt: "Compared to specialized models developed for each robot, RT-1-X had a 50% higher success rate at various tasks."
-    publishedDateTime: 2023-10-06T18:27:00Z
-    webUrl: "https://venturebeat.com/ai/deepminds-remarkable-new-ai-controls-robots-of-all-kinds/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "Google DeepMind unites researchers in bid to create an ImageNet of robot actions"
-    excerpt: "Google’s DeepMind robotics team this week announced the work it’s done with 33 research institutes to create a shared database."
-    publishedDateTime: 2023-10-05T16:13:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/google-deepmind-unites-researchers-in-bid-to-create-an-imagenet-of-robot-actions/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
-  - title: "Greek premier discusses benefits of artificial intelligence with DeepMind CEO Demis Hassabis"
-    excerpt: "Greece can benefit in several fields from the use of AI, highlighting its advantages in economy, education, tourism, culture and productivity"
-    publishedDateTime: 2023-10-04T12:30:00Z
-    webUrl: "https://hellenicnews.com/greek-premier-discusses-benefits-of-artificial-intelligence-with-deepmind-ceo-demis-hassabis/"
-    type: article
-    provider:
-      name: Hellenic News of America
-      domain: hellenicnews.com
-    quality: 43
-    images:
-      - url: "https://hellenicnews.com/wp-content/uploads/2023/10/w03-202909w1284651ai.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "How Google DeepMind’s OPRO Transforms LLMs into Problem-Solving Tools"
-    excerpt: "Google DeepMind's OPRO technique holds the key to transform Large Language Models (LLMs) into potent optimization and problem-solving tools."
-    publishedDateTime: 2023-10-03T09:31:00Z
-    webUrl: "https://www.techopedia.com/how-google-deepminds-opro-transforms-llms-into-problem-solving-tools"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/10/brain_08.jpg"
+      - url: "https://i.insider.com/651d516f2ce014759e74557f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

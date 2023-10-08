@@ -44,22 +44,6 @@ related:
         width: 1044
         height: 696
         isCached: true
-  - title: "Asana unveils new AI capabilities to help teams work smarter"
-    excerpt: "Work management software provider Asana is set to roll out a host of new AI capabilities, powered by the company’s Work Graph, working to ensure that clarity and accountability is baked into the new tools."
-    publishedDateTime: 2023-10-03T10:02:00Z
-    webUrl: "https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.html"
-    ampWebUrl: "https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/29/11/shutterstock_402194665-100939116-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trend Micro expands partner program with new assessments, AI capabilities"
     excerpt: "The updates include improved cyber risk assessments and new external attack surface, cloud posture and Azure Active Directory (AD ... Further, it addresses the emergence of artificial intelligence (AI), with generative AI capabilities enabling SOC teams ..."
     publishedDateTime: 2023-10-06T03:55:00Z

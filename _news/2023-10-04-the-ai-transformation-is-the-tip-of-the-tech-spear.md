@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The scary side of artificial intelligence"
-    excerpt: "Achin Sharma, CIO, MOVIN Artificial intelligence (AI), as we all know, is the simulation of human intelligence leveraging computer systems and machines. AI programs can continuously learn and evolve with experience. In technical terms, AI systems render ..."
-    publishedDateTime: 2023-10-03T09:39:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-scary-side-of-artificial-intelligence/104128779"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
     excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
     publishedDateTime: 2023-10-04T10:10:00Z

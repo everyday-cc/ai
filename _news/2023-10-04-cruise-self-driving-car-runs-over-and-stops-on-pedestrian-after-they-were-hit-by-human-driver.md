@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Cruise Car Accident Leaves Pedestrian Trapped And Injured In San Francisco"
-    excerpt: "The emergency responders found the woman pinned beneath the left rear axle of the vehicle, the report said, citing department Captain Justin Schorr."
-    publishedDateTime: 2023-10-03T09:20:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35052444/self-driving-cruise-car-accident-leaves-pedestrian-trapped-and-injured-in-san-francisco"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/San,Francisco,,Ca,,Usa,-,Feb,23,,2020:,A,Cruise_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Authorities investigate after a woman was run over by a self-driving car in San Francisco"
     excerpt: "A hit-and-run driver struck the woman first, throwing her into the path of an oncoming driverless car, which then ran her over"
     publishedDateTime: 2023-10-03T16:05:00Z

@@ -55,22 +55,6 @@ related:
         width: 1198
         height: 599
         isCached: true
-  - title: "Asana unveils new AI capabilities to help teams work smarter"
-    excerpt: "Work management software provider Asana is set to roll out a host of new AI capabilities, powered by the company’s Work Graph, working to ensure that clarity and accountability is baked into the new tools."
-    publishedDateTime: 2023-10-03T10:02:00Z
-    webUrl: "https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.html"
-    ampWebUrl: "https://www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707733/asana-unveils-new-ai-capabilities-to-help-teams-work-smarter.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/29/11/shutterstock_402194665-100939116-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "i64XCV4gLUrtrnNfWzixsMHBHwK5pP73vUOp/kJ10rgQcHVq7cThOc9ZAGyJ3fpQ85pXAJwhn58Nag3RgB8J6FkIA5gfa3vJKkr91+NqmfdHAtCa22Qm5EF+5JK5LpXcECSzoliieFV94MGjEOErQ4hv1yM3g/TIsspDa1vj+IyCO8ps9kblggfBc9TQdQv+1lIqYfbH87Bo4z8WSV7kg/3caI9vQhR+9zebI496r/D1gmAgtVTbTBIn68rLnlFMXkIIOajGwQVRYRT0sM76PhUlIc9gOyECeuhnWcQk+TYPUEoa9NXY4vqAECv2RdJ2n81MI2WBjRXQ+IdL9GzQPL1kthQHduZSmNkddndDMXg=;oGLQeUHz90cECesl4Zww4A=="
 ---

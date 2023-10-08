@@ -46,22 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why Big Tech’s bet on AI assistants is so risky"
-    excerpt: "OpenAI unveiled new ChatGPT features that include the ability to have a conversation with the chatbot as if you were making a call, allowing you to instantly get responses to your spoken questions in a lifelike synthetic voice, as my colleague Will Douglas Heaven reported. OpenAI also revealed that ChatGPT will be able to search the web ."
-    publishedDateTime: 2023-10-03T09:42:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/03/1080659/why-big-techs-bet-on-ai-assistants-is-so-risky/amp/"
+  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
+    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
+    publishedDateTime: 2023-10-07T13:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/09/ai-assistant2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
 
 secured: "aNx1Q/8O0YreNG8tYOvYglgfhwWLxJ5Uy4lKBQJQ0BAUR1LyyFQhTd3xxUgPWspnYyVbz29qaxZTdI60PlGO3u7wQal3xvn/osikWTGCyb7Mk2vpe1w6+rvTH1tOV+SQKNtvpWIojTIGEZgK6DjyLQipQ9eWpcYEGhE/loAcpIiDbvUsR544H+5SACIRwdiOtljvZ0ggAEg90X+PVhRHZie25rVFEK2GoEqMglgEGWXIhFe/ETpyjuqLE+/zEWQP2JE40UXKd0hVu4h90UhiQr0757MN1jnxZkccbFRYKLkmxN5htfDqUEpNCYClxxd1qY9tLqVFWuo3xQl5mf2Z/hXBXeUe7DMx6Ic4uZLoE51KQhGwwwQUZU6viblrz2jOtkJbAdT90bMpdsWqdihWJGsdSy9sUl3vxchBL5mmXw3rlDWx41gZ+NsXlwHoPO4t30NYW0mHcz4rm0Bi2hWphmefXtY4g+UMCO6unSmE08XFK3c0JC16beDTOnUdApjnhIiiNPZmwIRAIAe8H/vZXw==;0QeLAmlnEpEVM/XwJsWcbw=="
 ---

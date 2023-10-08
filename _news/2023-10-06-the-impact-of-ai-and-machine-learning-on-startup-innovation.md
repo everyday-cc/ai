@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovatio
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: TechRound
@@ -22,28 +22,42 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Social media has new moderation problems. This AI startup has a solution"
-    excerpt: "Unitary's AI-based content moderation system could help social media platforms comply with strict new European laws."
-    publishedDateTime: 2023-10-03T09:29:00Z
-    webUrl: "https://thenextweb.com/news/unitary-ai-social-media-content-moderation"
+  - title: "Cold Open: The Impact of Artificial Intelligence on Authorship in Film and Television Writing"
+    excerpt: "Last week, the Writers Guild of America reached a tentative three-year deal to resolve a writer’s strike following a labor dispute with the Alliance of Motion Picture and Television Producers. A major point of contention between writers and producers was the use of artificial intelligence in the screenwriting process."
+    publishedDateTime: 2023-10-03T16:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/10/03/cold-open-impact-artificial-intelligence-authorship-film-television-writing/id=167780/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 26
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design4.jpg&signature=0780397fe23ddbc32f4db7141cc508fb"
-        width: 1280
-        height: 640
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/10/Depositphotos_668326526_XL.jpg"
+        width: 600
+        height: 371
         isCached: true
-  - title: "AI in the Classroom Is a Problem. Professors Are the Solution."
-    excerpt: "We must embrace attention to writing in all fields and at all levels, not just in first-year composition courses."
-    publishedDateTime: 2023-10-03T11:23:00Z
-    webUrl: "https://www.chronicle.com/article/ai-in-the-classroom-is-a-problem-professors-are-the-solution"
+  - title: "LTN Startup Spotlight: Paxton AI Founder Sees Startups Having Advantage in the Crowded Marketplace"
+    excerpt: "Legaltech News caught up with Paxton AI’s co-founder and CEO, Tanguy Chau, to discuss the company’s approach to large language models and retrieval augmented generation, and how it stands out in the market."
+    publishedDateTime: 2023-10-05T21:08:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/05/ltn-startup-spotlight-paxton-ai-founder-sees-startups-having-advantage-in-the-crowded-marketplace/"
     type: article
     provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"
+        width: 716
+        height: 372
+        isCached: true
+  - title: "CX is a good place to start with AI-driven innovation"
+    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
+    publishedDateTime: 2023-10-05T12:51:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
     quality: 17
 
 secured: "h9cjvxq4Qxgjs+nS7CLLzA385i5XU3lqSy5ldlpcWbTJgt6VQKhuSVcOTTUcmI0mq30UXWOGoCITkpRsBrsyf1JL6LNuq5YxAGGkX/q/OZmiSSPEcXVgrpGaEGyS0JIv3TqaDz8zdAbM2RJmZ3XD6A/nF3JQfGjsWmxUvLvXnG0DpzSWB2+DeN8S6QessBa2j1ifixc2kfKAKYKn8pP1TYgcd07JXUZK2d90AkiZVkZwg05vNCO5Kq2FVL6Uv/mdRdEcx6aMfNJObaet/0+TkeGLOOOmBf4B5EToLRLNSYScyMF0E5HS1eGs9q5yYhR+F8MQCQ80hhs711/GjkQtrq6sgZV7C2IKAZdyJE2kSTmoBDYbMBYCoOC59bVfyInhx6aK40cuB81C6f9mRnFVugHeI1TzaJN9P5XQkgj+MxsaC9uuK9olT33dFu8Eb3kWblpXd0mnQbSWcX7/UpawxanLCVKTI+Rg+rnt9takh1hr0CLoR2Vqz2ueGh3u2v2PssONx0xn1NzIcgqpC8i32w==;uJ3Nu26KxZuMlw2Nu7BKSA=="
