@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-24-text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency-connection-and-recognition.md",
+      "title": "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition",
+      "excerpt": "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ...",
+      "sourceUrl": null,
+      "webUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "originalUrl": "https://wacotrib.com/ap/state/text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency/article_3dcc667e-690f-540d-b47e-7b7bf787e42c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wacotrib",
+        "domain": "wacotrib.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting.md",
       "title": "Contextual Is Here: Does That Mean Goodbye To Interest-Based Targeting?",
       "excerpt": "Contextual and interest-based solutions take entirely different approaches to increasing advertising’s relevance to target audiences.",
@@ -1310,61 +1344,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
-      "title": "The World Isn’t Ready for the Next Decade of AI",
-      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

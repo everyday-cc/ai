@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-09-13-cybercriminals-feasting-on-artificial-intelligence.md",
+      "title": "Cybercriminals Feasting On Artificial Intelligence",
+      "excerpt": "The latest MGM Resort attack is a harbinger of the future of cybersecurity in the age of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenpanetta/2023/09/12/cybercriminals-feasting-on-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2023/09/12/cybercriminals-feasting-on-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6500b4205c7e3b50d84f3f1e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2023/09/12/cybercriminals-feasting-on-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2023/09/12/cybercriminals-feasting-on-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-09-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-spend-on-generative-ai-will-increase-36-annually-to-2030.md",
       "title": "Spend On Generative AI Will Increase 36% Annually To 2030",
       "excerpt": "These include a lack of regulatory clarity, questions around intellectual property rights, model ethics and bias, and model “hallucinations.” But eventually, generative AI’s usage and effectiveness will slingshot it forward. In turn, this will impact ...",
@@ -1165,49 +1217,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets.md",
-      "title": "Facing supply glut for chips, Apple-supplier IQE targets Asian and AI markets",
-      "excerpt": "IQE offers GaN Power electronics which aims to serve power hungry AI infrastructure as the likes of generative AI ChatGPT consumes a lot more energy.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78466,msid-103604505/chips-istock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
-      "publishedDateTime": "2023-09-12T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

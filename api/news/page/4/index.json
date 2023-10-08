@@ -438,7 +438,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -584,48 +584,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens.md",
-      "title": "Sam Altman, Peak XV fund AI startup founded by two Indian-origin teens",
-      "excerpt": "Induced is an AI-backed browser (RPA) robotic process automation platform that allows automation of workflows that require real-time reasoning or dynamic judgement (filtering leads, cross-referencing documents,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/articleshow/104155912.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-50156,msid-104155893/induced-ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/sam-altman-peak-xv-fund-ai-startup-founded-by-two-indian-origin-teens/amp_articleshow/104155912.cms",
-      "publishedDateTime": "2023-10-04T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
       "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
       "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
@@ -717,6 +675,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
+      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
+      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
+      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
+      "publishedDateTime": "2023-10-04T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

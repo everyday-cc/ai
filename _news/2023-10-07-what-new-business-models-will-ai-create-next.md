@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-busin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

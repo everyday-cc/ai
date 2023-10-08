@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unle
 ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6521b9ec75d709eee0dd5adb/0x0.jpg?format=jpg&width=1200"
@@ -40,6 +41,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "7RITmVSGE7CyEim+JXWFZWN2qevqhGoiH5UKaAs4L+TkeNIy65KIYsq9aQGAyn+jT8jb6ZWyxmoPkdqdFhk4zWaKMSR4Wm4JvlSVLxhM3Yb3I3y0ZXcTeJQ34XKnhgN0LN7DscmlZqoWVw28N9W+5xJLp/tMTAoj/gYjpRHVPkES1MCnUeG+8izpX6rFbUMAJQ8A3P1AA9UR/GLNZKyV3aEPTWmtT9JJQdxshF6Emi4SkRrygnneD8Gr36nfd91G0Kle4zVjuMaBST2jbLmup075X1VYDfqVxyIH7Ygh7O1qDObx9gmf/IxPqlOXUg3Fs11zMbHznjhM61A2StMdtbvl0OyZYFK2GZelGjQnKhw=;txBmqLfnIT/BPf9NqTlb7g=="
+secured: "APzFm4HwY742ZgVqrB7aTrhCN5CAxEa+M1VDSTJvkiJOJUrgt8Vf1lwroi5cJXtjMxZAomJiLG4WzuLUuTgtugauCziW7Yb6zsJZPAC76t/XyZMeaoWWdQtpjD8DgSI2XbRdUhsFalM/N+UPruddmL06+FaCFQSlA/l7IxGEIuPW3RICgVyl0BAJdM5ezenrLUjzdqy4Kp5KwLopxcY6xRJtG79o6AnPkYOkJ86piiDs9WNvqf08//ma1p+SBAuGAac7JUBfJztUbITWLC7FsSG5mOd7w4UUqWX6qgd9VtyBwixBS93Fe5j0UccXutevHwFIriFQZMAgfxfP1giDK1aVudkXJXT07HJvh/J1Ypff5qNEvChizQhYPPAwrDoH23Dfb+eUvUefZX/awrQTRBTcGGsaTiK4YMgI8tjmhp6N7YM03alXZbWJfej/KN3QHgzt8SfCQfCN39yYVQTSEgzgDIpUU9bkX6R8BXkJazejntptQ1ROQ5GZnSdD7fu6Qx99wvPi5t0RhO5fuvx8Wg==;FYmjCyoDUNM2oJQVfuD76w=="
 ---
 

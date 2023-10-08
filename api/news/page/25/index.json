@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-09-16-object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030.md",
+      "title": "Object Recognition Imaging Systems Market Research Report on Regional Size and Status 2023-2030",
+      "excerpt": "The Object Recognition Imaging Systems Market Report is an impressive PDF 115 pages long document that includes a comprehensive table of contents, a list of figures, tables, and charts, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34637875/object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34637875/object-recognition-imaging-systems-market-research-report-on-regional-size-and-status-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34637875",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34637875",
+      "publishedDateTime": "2023-09-15T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
       "title": "Honda planning self-driving electric vehicle fitted with AI",
       "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
@@ -1106,59 +1149,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-fear-mongering-and-ai-questions-to-consider.md",
-      "title": "Fear-Mongering And AI: Questions To Consider",
-      "excerpt": "The term “artificial intelligence” is often used ubiquitously ... The topic of AI design is varied and includes topics such as deep learning, convolutional neural networks, explainability, transparent or black-box algorithms, locked systems, continuous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d24a5ca55da9197765f247/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/fear-mongering-and-ai-questions-to-consider/amp/",
-      "publishedDateTime": "2023-09-15T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

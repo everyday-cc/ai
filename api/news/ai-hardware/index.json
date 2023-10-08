@@ -89,21 +89,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-06-openai-plans-in-house-ai-chip-production-amidst-industry-challenges.md",
-      "title": "OpenAI plans In-House AI Chip Production amidst industry challenges",
-      "excerpt": "To combat a shortage of advanced processors , OpenAI, is actively considering the development of its own AI chips.",
+      "path": "_news/2023-10-06-exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.md",
+      "title": "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips",
+      "excerpt": "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/",
-      "originalUrl": "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/",
+      "webUrl": "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-174910.png",
-          "width": 1022,
-          "height": 659,
+          "url": "https://www.reuters.com/resizer/AYDTLmV1LPipfgBXyKlapFZSymk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCPUZRTQHBPT3A36QWC7ZIBZZU.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -113,14 +113,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T05:24:00-07:00",
+      "publishedDateTime": "2023-10-06T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

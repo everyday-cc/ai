@@ -96,21 +96,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
-      "title": "Autonomous driving remains a distant reality in Japan",
-      "excerpt": "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ...",
+      "path": "_news/2023-10-02-artificial-intelligence-risk-factors.md",
+      "title": "Artificial Intelligence Risk Factors",
+      "excerpt": "A discussion of public company risk factor disclosure relating to artificial intelligence (AI), machine learning, and generative AI, including ChatGPT, Google Bard, and similar technologies ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
+      "webUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
+      "originalUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2314095.jpg",
-          "width": 1240,
-          "height": 826,
+          "url": "https://www.reuters.com/resizer/KB7Be1g0wU5DvkxyUxj8DEGBok0=/1340x701/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVAIZBXPTND3JDYGB2S4ZRCRLE.jpg",
+          "width": 1340,
+          "height": 701,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,12 +120,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T21:33:00-07:00",
+      "publishedDateTime": "2023-10-01T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -134,7 +143,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -188,6 +197,40 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
+      "title": "Autonomous driving remains a distant reality in Japan",
+      "excerpt": "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
+      "originalUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
+      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
+      "publishedDateTime": "2023-10-01T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1161,48 +1204,6 @@
         "AI Ethics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-what-humans-lose-when-ai-writes-for-us.md",
-      "title": "What Humans Lose When AI Writes for Us",
-      "excerpt": "In  Who Wrote This?  linguist Naomi S. Baron discusses how artificial intelligence threatens our ability to express ourselves",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
-      "originalUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/52B06311-23CE-4ED6-BB477C2A55AF5B62.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/what-humans-lose-when-ai-writes-for-us/?amp=true",
-      "publishedDateTime": "2023-09-29T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

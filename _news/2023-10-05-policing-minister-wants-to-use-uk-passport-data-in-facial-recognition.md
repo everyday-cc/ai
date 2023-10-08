@@ -24,22 +24,6 @@ images:
     height: 354
     isCached: true
 
-related:
-  - title: "Police to use 'game-changing' facial recognition tech to check thieves against passport and immigration databases"
-    excerpt: "Thieves caught on CCTV will be cross-referenced against official databases as part of a new crackdown on crime, the policing minister has said."
-    publishedDateTime: 2023-10-03T06:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/police-use-facial-recognition-cctv-footage-thieves-immigration-passport-databses/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 33
-    images:
-      - url: "https://images.lbc.co.uk/images/607216?width=1200&crop=16_9&signature=rTwTErZzZ4zoJh81WAU1NmCyUIY="
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "Ejkb7wFUiHU3OqwsJmL9OisD/abKRHia3IMdmf3zuZyogByDuddzdIfD3BVOgtoVuhtm3spWJwz9m3gUDCTBfFZYciPnstVjYVeirJcLQP7uDPn71l9UbXDJ/bRAPGPW6XZNrp5lYWhCZEDMITWicIT4PQGPgmdMc5PnLald0yjKNTi9H8Dy0tUO2TWl08EdQYc5fWl53ZBEVmZa2csbqXEnHiB7k3VpC2Yu4UOuncqQSGhCQI7YDPLznIRkEaLeF3EWXHA7E8GIclOiEWhh2d6mDBucVXIBiKIMb/hpOy7lOrTkJ66JiGBJMh5QVMyu3e4YkP6vzN7lzlTeuMhOalhxQ556X6n1r4kkPzPjGVs4RXCfcBKgji+o8qvW19sWD4bh6MOUOtvF/piko2vTnofeYgcTTSJZIzu5sgnqV7mxDmD+Lt2k8AzCXZ7wZQOkmLtExIMKBVYPNzU9ntH2ab8XHnuBhYnkDeqZP72DeGyPdJnqhQ86RqKiiC73ldCJPHvb4+N4+5NuKU7EQafi0g==;o1VIGU6SV30MxBbuQWMMTg=="
 ---
 

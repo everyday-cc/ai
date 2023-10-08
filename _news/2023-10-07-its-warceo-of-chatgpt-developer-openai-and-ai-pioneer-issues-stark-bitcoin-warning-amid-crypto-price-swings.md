@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
+    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target."
+    publishedDateTime: 2023-10-06T10:00:00Z
+    webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/AYDTLmV1LPipfgBXyKlapFZSymk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCPUZRTQHBPT3A36QWC7ZIBZZU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "OpenAI plans In-House AI Chip Production amidst industry challenges"
     excerpt: "To combat a shortage of advanced processors , OpenAI, is actively considering the development of its own AI chips."
     publishedDateTime: 2023-10-06T12:24:00Z
@@ -119,31 +133,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/ChatGPT.OpenAI.Shutterstock_3.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
-    publishedDateTime: 2023-10-06T10:00:00Z
-    webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "OpenAI's Sam Altman invests in Indian startup Induced AI"
-    excerpt: "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”."
-    publishedDateTime: 2023-10-04T07:07:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 57
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA"
-        width: 700
-        height: 394
         isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
     excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
@@ -254,6 +243,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "ChatGPT distracting from wider AI issues, industry body warns"
+    excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
+    publishedDateTime: 2023-10-05T09:55:00Z
+    webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Report: OpenAI could develop custom AI chips"
     excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."
     publishedDateTime: 2023-10-06T18:12:00Z
@@ -263,24 +266,52 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
-  - title: "From AI-Driven Design To In-Vehicle Software: Growth Opportunities Amidst The Chip Crisis"
-    excerpt: "( MENAFN - GlobeNewsWire - Nasdaq) Dublin, Oct. 05, 2023 (GLOBE NEWSWIRE) -- The \"OEM Risk Mitigation Strategies for the Chip Shortage\" report has been added to ResearchAndMarkets's offering."
-    publishedDateTime: 2023-10-05T10:27:00Z
-    webUrl: "https://menafn.com/1107194769/From-AI-Driven-Design-To-In-Vehicle-Software-Growth-Opportunities-Amidst-The-Chip-Crisis"
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
-    publishedDateTime: 2023-10-04T12:33:00Z
-    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Save $30 and start using AI with this ChatGPT training bundle"
+    excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."
+    publishedDateTime: 2023-10-06T18:16:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/save-30-and-start-using-ai-with-this-chatgpt-training-bundle/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
     quality: 17
+  - title: "EXCLUSIVE: Tim Draper On Artificial Intelligence, Bitcoin, His Best Investment Return"
+    excerpt: "In an exclusive interview, Tim Draper shares his current thoughts on Bitcoin and why he's excited for the future. Along with his investments, Draper launched Draper Nation and Draper University to help change the world."
+    publishedDateTime: 2023-10-06T19:00:00Z
+    webUrl: "https://www.benzinga.com/markets/cryptocurrency/23/10/35128236/exclusive-tim-draper-on-artificial-intelligence-bitcoin-his-best-investment-return"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
 secured: "JCVH9xF7/1CHDeVEwo97eeX7Wp7JbYrVIVrlQvgEpiRWQC6aZT9WP3Q9x4y13uBZm52RrN6p4MuIbRTzSWwsx4cgp4B4tcztdw0RW42CHNrZh8FapaJ4PKvzPPET6br0a7zCNQ9zqxqv1rU+gCGVMeUy5iSaywkYbrdenxKuE+Gs5fv/jP1X9aJaVJ51CWq1IsU4xNbNOvHzDytxF/mtzQxNZPHeeFhdwu9cO5BZq5kg0q9zrKAFjhRi7yaO/IENR/QoWcUh14UbfGj3lrkWwBtdRmGpuLNoqaQwwN93COGKz4li1Lm1ZrTTKAQT/GJB2O4nGF54Sd5Y3kGs/PEgEc2mZyqYuN1sjm8Qfyy8qkHiRV3snzRjr/v4+zNgt6okUTwCTtK/JXdi8wdJtnZo/M6Qd0ppP0mkGWhmRRi+qXXoy99AEDdxkrk5SOe3akQXDRIwyLaXVzNtoQCubPHnM9J156Qya7qYSLcqfXH04TqE27wX7cD/wGqwctv1wo264HNxg8XbNGIlTkPZWws8Ag==;Qz3YWu4p2YROONk0tC5lMQ=="
 ---

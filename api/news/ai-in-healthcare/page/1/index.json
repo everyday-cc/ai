@@ -193,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-02-artificial-intelligence-risk-factors.md",
+      "title": "Artificial Intelligence Risk Factors",
+      "excerpt": "A discussion of public company risk factor disclosure relating to artificial intelligence (AI), machine learning, and generative AI, including ChatGPT, Google Bard, and similar technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
+      "originalUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/KB7Be1g0wU5DvkxyUxj8DEGBok0=/1340x701/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVAIZBXPTND3JDYGB2S4ZRCRLE.jpg",
+          "width": 1340,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
       "title": "Can AI Tear Down Healthcare’s Data Silos?",
       "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
@@ -1323,49 +1375,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant.md",
-      "title": "Oracle brings voice-activated AI to healthcare with Clinical Digital Assistant",
-      "excerpt": "Oracle today announced a voice-activated, generative AI-powered clinical digital assistant to improve how clinicans deliver care to patients.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
-      "originalUrl": "https://venturebeat.com/ai/oracle-brings-voice-activated-ai-to-healthcare-with-clinical-digital-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-22-natural-language-processing-nlp-market-worth-681-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Natural Language Processing (NLP) Market worth $68.1 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The deep integration of NLP with AI, enhanced comprehension of human language, and proliferation of applications across numerous",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-68-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301935892.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-68-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301935892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-deepmind-ai-hunts-down-the-dna-mutations-behind-genetic-disease.md",
       "title": "DeepMind AI Hunts Down the DNA Mutations Behind Genetic Disease",
       "excerpt": "A new DeepMind algorithm scanned 89 percent of the 71 million possible single-letter genetic typos and categorized them as either benign or pathogenic.",
@@ -1330,49 +1373,6 @@
       "provider": {
         "name": "MediaPost",
         "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-speech-and-voice-recognition-market-2023-pointing-to-capture-astonishing-growth-forecast-to-2031.md",
-      "title": "Speech and Voice Recognition Market 2023 | Pointing to Capture Astonishing Growth Forecast to 2031",
-      "excerpt": "The global Speech and Voice Recognition market size was valued at USD 10964.1 Million in 2022 and will reach USD 36619.6 Million in 2028, with a CAGR of 22.26% during 2022-2028.The Speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34373705/speech-and-voice-recognition-market-2023-pointing-to-capture-astonishing-growth-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34373705/speech-and-voice-recognition-market-2023-pointing-to-capture-astonishing-growth-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34373705",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34373705",
-      "publishedDateTime": "2023-09-09T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

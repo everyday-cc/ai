@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "How a 1986 self-driving car inspired this AI researcher"
-    excerpt: "Dr Amir Atapour-Abarghouei from Durham University discusses his machine learning and AI research to remove skin-type biases in melanoma detection."
-    publishedDateTime: 2023-10-03T06:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-research-durham-university-machine-learning-depth-estimation"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/Amir-photo.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "San Francisco FFs rescue woman pinned under self-driving car"
     excerpt: "Officials say the woman was struck by a vehicle and thrown into the path of the Cruise vehicle that ran over her"
     publishedDateTime: 2023-10-03T17:53:00Z

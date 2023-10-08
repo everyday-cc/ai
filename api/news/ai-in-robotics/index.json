@@ -4,13 +4,13 @@
     {
       "path": "_news/2023-10-08-asimovs-three-laws-of-robotics-applied-to-ai.md",
       "title": "Asimov’s Three Laws of Robotics, Applied to AI",
-      "excerpt": "Within the confluence of the modern AI ecosystem, the term \"robot\" feels rather antiquated. Instead, our engagement with AI has expanded our conception from mere physical robots to complex, omnipresent computational algorithms.",
+      "excerpt": "In the wake of transformative advancements in artificial intelligence, the venerable tenets established by Isaac Asimov—his iconic Three Laws of Robotics—are well established as a foundational reference.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
-      "publishedDateTime": "2023-10-07T10:54:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp",
+      "publishedDateTime": "2023-10-07T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI",
-        "AI Ethics"
+        "AI in Robotics"
       ]
     },
     {
@@ -54,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -217,7 +216,7 @@
       "originalUrl": "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 83,
       "tags": null,
       "images": [
         {

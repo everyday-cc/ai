@@ -159,20 +159,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Microsoft says NVIDIA chips are currently the best option for AI, with AMD's improving"
-    excerpt: "Competition is certainly a very good thing,' Microsoft says as it predominantly uses NVIDIA hardware for building new AI systems."
-    publishedDateTime: 2023-10-03T05:58:00Z
-    webUrl: "https://www.tweaktown.com/news/93551/microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-with-amds-improving/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 63
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93551_01_microsoft-says-nvidia-chips-are-currently-the-best-option-for-ai-as-amds-offerings-improve_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
     excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
     publishedDateTime: 2023-10-04T09:32:00Z
