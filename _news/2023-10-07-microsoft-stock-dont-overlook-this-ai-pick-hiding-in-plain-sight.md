@@ -240,15 +240,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
-    excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
-    publishedDateTime: 2023-10-03T23:24:00Z
-    webUrl: "https://www.mediapost.com/publications/article/389845/dominos-partners-with-microsoft-to-build-ai-assis.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 34
   - title: "Microsoft Translator now supports 20 Indian languages"
     excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
     publishedDateTime: 2023-10-05T13:58:00Z

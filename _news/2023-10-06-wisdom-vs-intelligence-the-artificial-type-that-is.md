@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Digital intelligence: challenges of the times"
+    excerpt: "Internet Citizen interviewed Anita Gurumurthy and Nandini Chami of IT for Change, India, on the challenges facing the world, and in particular the Global"
+    publishedDateTime: 2023-10-08T16:52:00Z
+    webUrl: "https://www.pressenza.com/2023/10/digital-intelligence-challenges-of-the-times/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 2
+
 secured: "8d6H8Oz3LmXlIRC6iqC0APF8bC8I2/2oEkfvJKzlJ218/fgwJ4Y2PC/lRAOCm4dOsXrwodAizX7gIjnU1L+pBZCZnvMCIqPoOQAbCe8SluYFBeXka3vX5q95V+qg2Ln3VJXfRMWqYSY0C7SEhCgFS20s1OOKEmOVtC+Sl+HlGl88hZzGGvBv+984DYKxEaq60zZK+f8QF3+S9TVHayfUOTYQYh2RgVrwbjeXDo1is4svXn/2Ws4LqsKMIbDQ/PKhFBbphWs5u8Qu7Xc6O4wHDnS9p3uUL2WFuB3kDotgB2H3V/2PbASDpntyGJKeUgJ4tYnk1qw+TP70h8f7vuoCADSAtU5s767eRqm0rN3u9DjwaLmvntxYSQJEfSwlNL8ZqZUXksDBbgGn9Xu6BhA/1ff2hw5+hXe9HAQcc5ObnT5JkKVEPfDQFT8z7vBwoBLPC6u9K1+/YHWZy56m4LqQO64Zjpw1ixpsffrs4EGgOVZ7TIwsH7cPyTaaQmnySv499Bx05ZMPk/dnLWZjO9Xq5w==;+zvFMzObpHT6kZGcdUpcbw=="
 ---
 

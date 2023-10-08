@@ -51,20 +51,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Retailers want sector-wide use of facial recognition"
-    excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
-    publishedDateTime: 2023-10-03T23:37:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/national/retailers-want-sector-wide-use-of-facial-recognition-to-fight-26b-in-crime-losses/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 54
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "MPs join campaign group’s call for facial recognition ban"
     excerpt: "MPs and peers from all sides have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies."
     publishedDateTime: 2023-10-06T06:39:00Z
@@ -253,6 +239,15 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
+  - title: "Voice to Parliament about 'practical recognition' to 'deliver better results'"
+    excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
+    publishedDateTime: 2023-10-08T17:50:00Z
+    webUrl: "https://www.theaustralian.com.au/news/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 1
 
 secured: "7ntndN2waHyNHORTydlcf3a29RS63sb//3iNBcabaqGtvLt2zAx/x1GkL3PjNXOsxJVyonYSDO+z90XN/Tj4/NBWSe5wyZHC9oi9tuNuYM+ChOzGDIzTfFeRcRkr8TEy2hbKq4Lwdd/yifc7cn01gxnYXCD9uWmJxKq1IiuVnMs/QJxco0JQib0WzZc/crLJFie8B9lNvN9IS1E+WaV5+CKyOfGYdodkEEzr61gBi2ynuUNkMp2E+qBbRAv1Ur0sP0i7OmD112jtcD+FYNTKE0ercOIWvrKexXhQ7TC7+LB0UAd68ofAwoMUkHVDoaeKBfr9V/1mDzfMIpwQARNK7baLfDXYdZjXhmaQfOmt2sQaZDDwjKQbKAh/ioXoozpYBwK+5O/tLTYYDSdfds2AcHxk4+KUK7/ZwMJcJ5NrNtPQ5J9jRBoHIIOPxUO4rsEO1TBeNer3SvI+fVYDgXmlCEUgAjZDuBweg3NMa6RyL0VAyj9MEj3y+a/McK7qumC4749IkYSFUi3AZXtLESl6JQ==;Us6zSw0HDrMnvCjP+V1EKg=="
 ---

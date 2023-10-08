@@ -55,22 +55,6 @@ related:
         width: 1920
         height: 872
         isCached: true
-  - title: "Cruise defends safety record after woman pinned under self-driving taxi in San Francisco"
-    excerpt: "Cruise, the company that operates the driverless taxi, said its vehicles are safer than rideshares operated by humans."
-    publishedDateTime: 2023-10-04T00:01:00Z
-    webUrl: "https://www.cbsnews.com/news/cruise-av-hits-woman-hit-and-run-san-francisco/?ftag=YHF4eb9d17"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cruise-av-hits-woman-hit-and-run-san-francisco/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 35
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/03/51a486c5-16be-48a3-a422-bba2a808c826/thumbnail/1200x630/013cebc868298c9c8f21e7b24a85cb7f/cruise-av.png?v=42bbcea0e3eaab3fb7d470f54c86b0bd"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What happens if you get in an accident with a self-driving car in TN?"
     excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
     publishedDateTime: 2023-10-05T03:22:00Z
@@ -85,29 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving car runs over pedestrian who was hit by human driver in San Francisco"
-    excerpt: "A hit-and-run driver struck a pedestrian Monday night, tossing her into the path of a Cruise self-driving car that then drove over her, according to videos."
-    publishedDateTime: 2023-10-04T00:59:00Z
-    webUrl: "https://www.aol.com/news/driver-hits-pedestrian-pushing-her-173132868.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 18
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/jBUIf35lmB2aM1jlQsdXpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/4b27c684cef9c69b28cbbfdbf24eba49"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "San Francisco Self-driving Car Involved In Serious Accident"
-    excerpt: "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed."
-    publishedDateTime: 2023-10-03T23:20:00Z
-    webUrl: "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "QFzT6F62vR6SjGUrfz2P1bEqzL5DaK/LEq0nk4he7r94jfLerPljE74ccDNubq6db81C/P0ZTfzicj+Y74ypYslDHpmNMqGBL+wSKz/cMjSQEbKXGh7U4DpGrmr/z+ppjacyEqSfYPp+ZVFBqm3R/WfPP9UFmM41NGq1KC/3SikTL+yzlk8TDstZJTmgQc6rrlM53YRg8C65VNquw04JiTqUUrLo87rSrND5BtSfOeLZJxQ3BS5bKGgeIVSdC8V05WoSG98I80RI7Z0EzDKv7wxpqNvMQZ8mLXIGJ53jjO3ObWm9W7yYgl6mb8JQa3Ds/2ijB/1k/Sdnw7aefKExFMqiQUJMHHY+O3fdGqprFeQ=;PU8SuzhalM5jj4tz0ohujg=="
 ---

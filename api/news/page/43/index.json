@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-09-05-chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing.md",
+      "title": "Chip Designer Arm Aims For $52 Bn Valuation In NY Stock Listing",
+      "excerpt": "British chip designer Arm, owned by Japan's Softbank, aims for a market valuation of $52 billion when it lists its shares in New York later this month, according to a document published Tuesday on the website of the US stock market regulator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
+      "originalUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
+      "publishedDateTime": "2023-09-05T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-sebi-working-on-ai-tool-to-curb-misselling-by-mutual-funds-buch.md",
       "title": "Sebi working on AI tool to curb misselling by mutual funds: Buch",
       "excerpt": "Markets regulator Sebi is building an artificial intelligence tool to help detect misselling by mutual funds, its Chairperson Madhabi Puri Buch said on Tuesday. She cited a recent incident of a 90-year-old being sold a product with a seven-year lock-in period to illustrate an instance of misselling, and said algorithms will help flag such cases.",
@@ -1105,49 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market Insights and Data Solutions for [2023-2030]",
-      "excerpt": "The global Artificial Intelligence (AI) Robots market size was valued at USD 8919.76 million in 2022 and is expected to expand at a CAGR of 33.67 Percentage during the forecast period, reaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34217473/artificial-intelligence-ai-robots-market-insights-and-data-solutions-for-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34217473",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34217473",
-      "publishedDateTime": "2023-09-04T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-09-26-canonical-steps-up-its-support-for-machine-learning-development-with-charmed-mlflow.md",
+      "title": "Canonical steps up its support for machine learning development with Charmed MLFlow",
+      "excerpt": "Charmed MLFlow is Canonical’s distribution of the popular open-source MLFlow platform, which is used to manage the end-to-end machine learning model lifecycle. It benefits from various integrations with Canonical’s software, simpler deployment and management, and regular security patches.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/09/26/canonical-steps-support-machine-learning-development-charmed-mlflow/",
+      "originalUrl": "https://siliconangle.com/2023/09/26/canonical-steps-support-machine-learning-development-charmed-mlflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/image_2023-09-22_080649346.png",
+          "width": 612,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-celfocus-at-dtw23-machine-learning-hyperautomation-and-generative-ai-to-power-telco-digital-transformation.md",
       "title": "Celfocus at DTW23: Machine Learning, Hyperautomation and Generative AI to Power Telco Digital Transformation",
       "excerpt": "In the aftermath of TM Forum’s DTW23 - Ignite, Ariana Lynn spoke to Carla Penedo, Director of Offer Development and Innovation, Celfocus",
@@ -1097,40 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031.md",
-      "title": "2023 | Artificial Intelligence Robotics Market Size, (New Report) Exclusive Data Report Forecast 2031",
-      "excerpt": "\"Artificial Intelligence Robotics Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 113 Pages Report The extent and overview of the various commercial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34873204",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873204",
-      "publishedDateTime": "2023-09-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

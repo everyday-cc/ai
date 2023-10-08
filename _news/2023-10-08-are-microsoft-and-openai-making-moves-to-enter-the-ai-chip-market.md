@@ -237,15 +237,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
-    excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
-    publishedDateTime: 2023-10-03T23:24:00Z
-    webUrl: "https://www.mediapost.com/publications/article/389845/dominos-partners-with-microsoft-to-build-ai-assis.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 34
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
     publishedDateTime: 2023-10-06T19:36:00Z
@@ -265,6 +256,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "uft34Paz+ljgCpClOTazfKxyzY01YKI/N5aphzHQuNY7pTZ3zHBRE+XQu5RhFcMcBHjL9re0M+GlNQqAx69bcNcsEZOp0wvelGqnqwOdvdQ2hWT8EE9Z26zOMdtOmqQ4z8xr5/QvxBAA3usCD08u463LIL6ps0jf1/pCbJs8YNf1q3JCu5aTomG3iV/Rm0/YNL58z876oFrx2YT1ji1h5Vm+lrZzdU/muUi5vfFHmTRsUCfYpGBtiW4u5VzYsyRpTFeU7wcp6anTWOtfDhUA8kJwvUFIYVK9iF/oP+mMAE2EgSoQIrzYF7UEzZATRJeCWq8CZ652CjVpNCFqOSmErM2la+BHRA8uxVoavb3a40I=;z32XO0hM0zKovkjQW+zfyQ=="
+secured: "zjC7CIBJdNUOH7WccpHGOaEy+yqugln1vJ5GXZ23iYWtxMcVYGkLV4ZglgmtgCNSpm+s0cKQb9gaGYv15/07ySj+DvOv12c9R2EKwo2eFRMKioTRHS3iKe6wd9oxdu9isMwrx3uSmWdCBfB2hwR4734YkxDnJlmTpZOJsRekL9I6NbGqseiv1wj7JnxYN6QaOlx9qutVPuLC7IBwwDx3cyj96OoBK8x/14Ed9y7eZ7zbxnZpkw478sfm9xW1oWU6M8m0+36MDtuZfUiQ/teLXpdm1BVeZCQCGyde5St+tJkbZJWMmBxbpj6Rf4LokGthnnlWhmaQOoVB2VDMJZMTpSh6VBw9iwHVrOWWgKd+jw26uyXTSF53m+3MhvK5xY+CffEhq1tPXEJ5FBMnWjuwFSg+NfanTZaZLXIrGIhCcPpSPMnfCuzB1jDsGn/Md4Fw6rciYadXBKjzN0uEcJhnIQZH8R7ve8Hb27mJq5Vr3YYkgH0hzPMRDPF6TMekWKgoAknSUltWNRSNkQCpXXvu6A==;K06KfD5o3ZhNaljXwivXnQ=="
 ---
 

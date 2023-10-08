@@ -57,20 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Retailers want sector-wide use of facial recognition"
-    excerpt: "Kiwi retailers want to bring in a coordinated and “sector-wide” use of facial recognition technology in a bid to catch criminals, a new report says.  Secto"
-    publishedDateTime: 2023-10-03T23:37:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/national/retailers-want-sector-wide-use-of-facial-recognition-to-fight-26b-in-crime-losses/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 54
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/qrqg321h/pak-n-save-nz-herald.jpg?rmode=crop&rnd=133408960222600000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "NZ retailers turn to facial recognition to stem surge in crime"
     excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
     publishedDateTime: 2023-10-05T20:07:00Z
@@ -254,6 +240,15 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
+  - title: "Voice to Parliament about 'practical recognition' to 'deliver better results'"
+    excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
+    publishedDateTime: 2023-10-08T17:50:00Z
+    webUrl: "https://www.theaustralian.com.au/news/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 1
 
 secured: "5xsfKLLlMAVX7TcWcdSUdqUV8HffX6bp9HYpUXc+J6hDebUQOOQe6exA1IXkmYoKMRgOsyFLcjdesRBu+IZAqpmaVbgDEnz4uey4B61QAyt0eYhZUvqbCKwt1w/2iJzhNVmLuZrljU22kxQ2Wbekk8YCvDUoLO+Y+H4LUMcdOlMWF6i2999BcywAxqoc9MTc8+RaI1ts3PdfqhAYU8xTYE0WfJWga1mEgD2TKhav0wCXKNmTRV8ZrTWXz4QiyvNSWUFsCFVNHjQiCBSd8UlZO6XCNA9r7CJbyLXU7EsDolCY35C6iUWBwk6Mnadb1p0ZUjy7wFVUnlAZcfd9ZnIIYZLxCqsZCxzUKrxp7VNF6wA=;gTXwCdCsP1xkxvzw05ZZGg=="
 ---

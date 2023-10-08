@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-techn
 webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,24 @@ images:
     width: 607
     height: 405
     isCached: true
+
+related:
+  - title: "Artificial Empathy: A Human Construct Borrowed by AI"
+    excerpt: "Within this complexity, we find empathy at a curious crossroads with artificial intelligence (AI). The incongruous idea of machine-driven empathy beckons examination. Is AI capable of 'borrowing' what fundamentally defines human social experience?"
+    publishedDateTime: 2023-10-08T16:23:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/EmpathyEye.jpg?itok=pkjnVcC7"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "VOa5R6ehwGd4J7nk+iPuFG7ZUqJcRpo7xcIFv4Gk5zLdZI3M+B+V42Z4G1l69vxNragBed32dHo0fuWZYZoT5ea4pMHkppNJRZM01CEEmsaTHnAwUuS3V6d4APL6hgNJBZYpbWAKrUSfDyCbd8Ry0I2VwdVViwRmq/0UpRuc11UWGqI9ZMIvFFAoUx2k/wpz9FNfjEzgkFJioKjIJ/lkeLcWooTEZxVbXveL7glxpJ3I0eeAGjHisS1ZxcwsBNFNMdVotW+lOi43CStO4e2Jp41i9ctA/5sqi+Zdlc+veKXM16Z3Gspou6+yZCoEic7avIGJJoV3SrUE++jF2CaIqdILmhdjIB4tIDrD+yjufifNcmuJRsUMkEaVYXmKpBb2ZsSsfzYydKjiBptmGQIhIomRi3TI8TNkmIH/KaShyLHEVQ6zNBKAiwsaSiF7cu5ViY/2++9siNB5ZVlX+UfFkNiiEUUv4DIJPn2F1Gy7kejKrdMq0rZuNcRrGPzWB1XXpzjtvCRKGuuFqnZLFZrkeQ==;JYDvibmDQgPduhsplWhwmw=="
 ---

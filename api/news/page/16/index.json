@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-09-24-ai-in-education-challenges-to-transform-learning.md",
+      "title": "AI in education: Challenges to transform learning",
+      "excerpt": "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
+      "originalUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/AI-2-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
+      "publishedDateTime": "2023-09-24T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-researchers-build-neural-networks-with-actual-neurons.md",
       "title": "Researchers Build Neural Networks With Actual Neurons",
       "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
@@ -1130,49 +1174,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
-      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
-      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
-          "width": 752,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

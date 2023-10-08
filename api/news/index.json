@@ -113,7 +113,7 @@
       "originalUrl": "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 282,
+      "heat": 272,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -334,6 +334,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-can-ai-do-empathy-even-better-than-humans-companies-are-trying-it.md",
+      "title": "Can AI Do Empathy Even Better Than Humans? Companies Are Trying It.",
+      "excerpt": "Artificial Intelligence is getting smart enough to express and measure empathy. Here’s how the new technology could change healthcare, customer service—and your performance review",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
+      "originalUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-864407/social",
+          "width": 607,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-07T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1159,57 +1210,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.md",
-      "title": "ChatGPT-owner OpenAI is exploring making its own AI chips",
-      "excerpt": "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 457,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249",
-          "width": 594,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
-      "publishedDateTime": "2023-10-06T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

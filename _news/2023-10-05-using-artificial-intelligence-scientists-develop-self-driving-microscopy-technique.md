@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
-excerpt: "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy. This could revolutionize the way researchers acquire data and allow them to preserve the integrity of precious ..."
-publishedDateTime: 2023-10-05T15:53:00Z
-originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
-webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
+excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
+publishedDateTime: 2023-10-05T13:41:00Z
+originalUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
+ampWebUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp"
 type: article
-quality: 33
-heat: -1
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/robotics/id63783_1.jpg"
-    width: 534
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel-4.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
@@ -39,35 +41,7 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Exploring AI’s impact on human resources and learning development"
-    excerpt: "Gerd Leonhard, renowned for his insights into the intersection of humanity and technology, will deliver a captivating keynote presentation. He will decode the present and future of AI in HR and learning development, exploring its impact on recruitment, talent management, learning experiences, and more."
-    publishedDateTime: 2023-10-04T08:41:00Z
-    webUrl: "https://www.itcilo.org/stories/exploring-ais-impact-human-resources-and-learning-development"
-    type: article
-    provider:
-      name: International Training Centre of the International Labour Organization
-      domain: itcilo.org
-    quality: 39
-    images:
-      - url: "https://www.itcilo.org/sites/default/files/stories/cover-images/1_1.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Emotions are coming to Artificial Intelligence. Will Machines Truly Feel?"
-    excerpt: "Artificial Intelligence is revolutionizing many industries. The focus up to this point is how to leverage the seemingly unbounded \"intellectual intelligence\" that AI brings to the party. It makes sense. We're in the early evolution of the technology, and that's where it's starting out."
-    publishedDateTime: 2023-10-04T11:51:00Z
-    webUrl: "https://www.inc.com/soren-kaplan/emotions-are-coming-to-artificial-intelligence-will-machines-truly-feel.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 36
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1203852772_534024_txpubd.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "FfQjjGhLRp8ymOXknyps6Df5TaG0lyyqcbL7SYbmfh1rHnsTZmn9a/OmpEeh77MddxwPaf0yY0qeTQ19WXyArpmiTZAm9Y5fq9dMsS54vOoiynlYAn2hapUGMS8E2MjGPxjE4rIEJ471h+xBZuMqOvW8WMK78/KcqvRsAw7QduZzk/nGYZ9AILHSfy3zqll6iH++nX68FbWLUBFaYXeqPNg1werbfAXlWRJY37z6UQ6yGS4WkWsI8XCWafVXOkKoPP2ZcUzxMk3x5tvwNY2+OnIIe2PLsCQLCuuxBlqEPqZxHtcHQ+tvavmC+qTd5f+SDOrPrqZuTR+WqVFvVDS0Ws98/37W22zs+RKjYrzDWFg=;a2b/bhtu6yLMutnvEZgL0g=="
+secured: "d0g9vYziutSGJ110Bd7tXZc86fTWHMAvJBqe0K5afyhZokhkIg+vxgz6isgwiVlke3Ky40rnSBsD47eecAOl2TIMtI7MsGTC1Vp/gxDNN9BnQvpvpE5Af5ApVgLFC87OiLBzKYrHgmzWKFJbdb2qUx8Ei4l+JSug6f5AKHDaR9hAwjPZWBrDcFBqRE+zvX/yvnxOuygpwS//YJLXRLGhnhbym1hvSm038OT1E98HFXrjDQMcWZUWVrVMRIduvNXnMBvcIgWxPNHo+hfyta8FCKbcpWtVRvYiAcO9dsCozbSjRQ15fQMPTdld+PkiIBD73bDBCaEG5gu/TUG6JsHX5vFHt3w1JbFE463fONjyERw=;m/bN+p3U4AN4jg5mnkdVvQ=="
 ---
 

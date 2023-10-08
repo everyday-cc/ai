@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austi
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
         width: 1200
         height: 804
-        isCached: true
-  - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
-    excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
-    publishedDateTime: 2023-10-03T23:19:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12591057/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/10/04/00/76138481-0-image-a-21_1696375079235.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "aDVOH3YLgIfaFYHJ88nTBLIpufrtKsg/4RMtY+BOJy+NBQ1eKiRqz+P61URUiiMESzO+3QNCtQxvbiqiJSM2miggAp8SSPkLme8cpZRG5OpLMS6mDXK5nHKaP2TOzuFexoaoOHUlb/mgsjwxtrPGwfGYfA69hCsruQYbPkREX2KwDfV+/wXcCGhFztrn7Bc2BHAZsCn2xKMjbCChAdxrb/vF0n03IoH1sKqrj6YYEoLIa8u7YAywU3xH7RLT89etL9NutguIayFQuXE2d7z948VoUV1K4qiMH8KsFbwGiUuQfegNWooiLqdEjJUUEKhD5+PfKxluj2ss1VZf2BIIGFMNP2fuIIMX22muhfa8EV0flZJo1s+lqUFML8lHrJJHpZz3Cv1UybzoZWtPmCZM2HMiXA/hojA1rdKbZi7uvd7EbnBWAeGYVHRyx/crLrDWcF5xMG2/n6iuLiFDOHXl0Xdq4tUx7j3YfXZoFEbEpw1Qhf8SBxUoh+u2kak/RMQp0YJbxC10eewUS1T51U1ToQ==;mDyGhm9WtSu4v1F/5I7uPg=="

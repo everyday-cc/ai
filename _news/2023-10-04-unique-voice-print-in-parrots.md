@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Parrots have a unique voice print similar to humans"
-    excerpt: "If you have ever been mesmerized by a parrot's ability to mimic sounds or words, you're not alone. Parrots voice print always sparks curiosity"
-    publishedDateTime: 2023-10-04T00:37:00Z
-    webUrl: "https://www.earth.com/news/parrots-have-a-unique-voice-print-similar-to-humans/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 24
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/10/03181832/monk-parakeets_1medium.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Parrots Have a Unique Voice \"Print\""
     excerpt: "Parrots are exceptional talkers. They can learn new sounds during their entire lives, amassing an almost unlimited vocal repertoire. At the same time, parrots produce calls so they can be individually recognized by members of their flock."
     publishedDateTime: 2023-10-04T08:24:00Z

@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
+      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
+      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
+          "width": 1107,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
       "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
       "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
@@ -1012,49 +1056,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-for-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft for generative AI",
-      "excerpt": "Infosys: Both organizations will bring together their respective artificial intelligence (AI) capabilities for transitioning to AI from digital, thus driving efficiency and productivity among businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai/103977486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103977486,imgsize-66594,width-1200,height=765,overlay-etcio/artificial-intelligence/infosys-collaborates-with-microsoft-for-generative-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

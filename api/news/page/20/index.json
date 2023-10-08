@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-20-ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030.md",
+      "title": "AI In Computer Vision Market Analysis Trends and Top Key Players 2023 to 2030",
+      "excerpt": "The Global AI In Computer Vision Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate and with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34753345/ai-in-computer-vision-market-analysis-trends-and-top-key-players-2023-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34753345",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34753345",
+      "publishedDateTime": "2023-09-20T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-oracle-unveils-its-api-led-generative-ai-service-with-coheres-llms.md",
       "title": "Oracle unveils its API-led generative AI service with Cohere’s LLMs",
       "excerpt": "The new generative AI service, which is built on Oracle Cloud Infrastructure, is currently in limited availability.",
@@ -1111,57 +1154,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-we-interact-with-information-the-new-era-of-search.md",
-      "title": "How we interact with information: The new era of search",
-      "excerpt": "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png",
-          "width": 720,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-25-eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial-assets.md",
+      "title": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets",
+      "excerpt": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html",
+      "originalUrl": "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/7/8c/78c462e7-5c0e-5ab9-9ae8-b94fb6979d10/6516a500a99e5.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charleston Gazette-Mail",
+        "domain": "wvgazettemail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
       "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
       "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, Louisiana, for his ordeal. “I was confused and I was angry because I ...",
@@ -1129,50 +1172,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-ai-in-education-challenges-to-transform-learning.md",
-      "title": "AI in education: Challenges to transform learning",
-      "excerpt": "AI can help stage the gambling field via imparting on hand learning substances for college kids with disabilities, providing language translation offerings and adapting content material to numerous studying needs. 5. Enabling lifelong learning: The rapidly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
-      "originalUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/AI-2-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/ai-in-education-challenges-to-transform-learning-3253119/lite/",
-      "publishedDateTime": "2023-09-24T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

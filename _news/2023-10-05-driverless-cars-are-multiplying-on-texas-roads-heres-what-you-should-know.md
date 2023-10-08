@@ -71,22 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Terrorists could hack into driverless cars to use as weapons and hijack drones to drop bombs in horrific attacks, report warns"
-    excerpt: "Terrorists could hack into driverless cars to use them as weapons and hijack ... Deep fake images created by artificial intelligence shared on social media could even be used to circumvent facial recognition security. Drones could also be used to drop ..."
-    publishedDateTime: 2023-10-03T23:19:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12591057/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12591057/amp/Terrorists-hack-driverless-cars-use-weapons-hijack-drones-drop-bombs-horrific-attacks-report-warns.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/10/04/00/76138481-0-image-a-21_1696375079235.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "PAP8m9SL0iW4YCswP72CrcdDcke7BHeKFHijWoRLtvVwA6gPostBlvlClysTTu9ArjNcdtHugZK9o3X1h+LXzS62XR/IPwb6CKxRQNz03CYnh+a8dxdlsO8InLczupI+n1km2BnN4lfVAg2RDFWfCLfMEVv/239cgc/seQY6G4dgLc/KiIiHtrwOctgY9PZkdV8qJgAGVDln7myRGK3753CREm/Po9xQ8B2vU2sPOe/KXNAzlTYhkkRMxn0kver0CP1wFpSnMJHVLrtT09Y4dL9whR74NRjp9JfLoPaVlw67i/6weLQeIgp/+Ggn2PuDCU+aDzjRkbYiezIsWmRRqTqsyisl3BZXKRLdZPmOHV2L72y9kwKG8ZbyDhT7Q6u37z3Rtsu7QJcZRd5DkRAZ/E0xDaFnOOaiNqlFkrN99FideAQdH8Nk69CCr1avv1VFUAu8VFlZavB6w9t47yW6XMhaJW8lD2NZqBEEj7FlP0Of5+kaTlNoqcdbZPdEULkhZ/Xs4y/WAQPC80aiLGmn4g==;ifT4whqCH6WFOv8iIzL8iA=="
 ---

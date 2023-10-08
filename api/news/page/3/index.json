@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-06-nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast.md",
+      "title": "NVIDIA DGX Cloud Gives CSPs And Their Customers Exactly What They Want: Fast AI, Fast",
+      "excerpt": "While some may confuse this as NVIDIA competing with cloud service providers (CSPs), the DGX Cloud AI is offered in close partnership with CSPs, who love getting revenue without the hassles. And enterprises love access to state-of-the-art hardware and software in their favorite cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651dd3aa33db71290192a6cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
+      "publishedDateTime": "2023-10-05T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-samsung-shows-off-better-ai-security-and-sustainability-for-products-at-sdc-2023.md",
       "title": "Samsung shows off better AI, security and sustainability for products at SDC 2023",
       "excerpt": "Kicking off a kind of CES in October, Samsung Electronics showcased new SmartThings appliance connectivity features.",
@@ -972,7 +1025,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1012,7 +1065,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1169,59 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
-      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
-      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "publishedDateTime": "2023-10-04T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "MemryX and Edge Impulse Integrate Tools to Accelerate AI Hardware Development"
-    excerpt: "Edge Impulse, the world's leading AI developer platform, and MemryX, the world's leading AI hardware-based accelerator, together are transforming the"
-    publishedDateTime: 2023-10-04T00:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231003576937/en/MemryX-and-Edge-Impulse-Integrate-Tools-to-Accelerate-AI-Hardware-Development"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
-
 secured: "DlUDT0WXLm0os74EGjP6TaWUJeuK9xnGXLHljdfQgaEj3YuljA538IMuP1KJ8/UmpRbXLLywK5wyuCKPXIdrFlxP1nfRcd3rk+9m2N0YIV/VIR8LQJ4Kw+UhtVSaKzmhWHH/fSDK2HogQHDzxVtbjGReyIma/5gBbcdjSZahwqo+dqoesQ//jCITo2V9ey8UIamzL7PxhItXNMiCVvd4HbtNV0VQUS+YOro4W6yPSu5PR4rDlYxLlCHFmExW+71bIFpleLa5Px2SbfHHG3b2yVtW74O0puLFuqEZSl9j7skMmb5rdxJ4CsXqv31pY4m18rTdtzL8c0YEfH82MqEDsPKmCxYw1/6xL3cpfKYE7TQ=;RjbM5ry75rvC4oO35e4PMw=="
 ---
 

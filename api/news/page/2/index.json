@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-06-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.md",
+      "title": "ChatGPT-owner OpenAI is exploring making its own AI chips",
+      "excerpt": "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 457,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249",
+          "width": 594,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html",
+      "publishedDateTime": "2023-10-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content.md",
       "title": "AI firms working on “constitutions” to keep AI from spewing toxic content",
       "excerpt": "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”",
@@ -534,7 +585,7 @@
       "originalUrl": "https://www.wfaa.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -577,7 +628,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1152,59 +1203,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast.md",
-      "title": "NVIDIA DGX Cloud Gives CSPs And Their Customers Exactly What They Want: Fast AI, Fast",
-      "excerpt": "While some may confuse this as NVIDIA competing with cloud service providers (CSPs), the DGX Cloud AI is offered in close partnership with CSPs, who love getting revenue without the hassles. And enterprises love access to state-of-the-art hardware and software in their favorite cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651dd3aa33db71290192a6cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
-      "publishedDateTime": "2023-10-05T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

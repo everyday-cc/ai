@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
+      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
+      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "publishedDateTime": "2023-10-04T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
       "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
       "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
@@ -1158,57 +1211,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
-      "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
-      "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651d0310ebb3a26f024bea02/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-03T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

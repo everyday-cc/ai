@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-09-26-2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031.md",
+      "title": "2023 | Artificial Intelligence Robotics Market Size, (New Report) Exclusive Data Report Forecast 2031",
+      "excerpt": "\"Artificial Intelligence Robotics Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 113 Pages Report The extent and overview of the various commercial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873204/2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34873204",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873204",
+      "publishedDateTime": "2023-09-25T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031.md",
       "title": "AI in Computer Vision Market Size (New Report) Forecast Report 2023-2031",
       "excerpt": "Short Summery About AI in Computer Vision Market: The AI in Computer Vision market has witnessed a growth from USD million to USD million from 2017 to 2023. With a CAGR of Persent, this market is ...",
@@ -1011,49 +1045,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial-assets.md",
-      "title": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets",
-      "excerpt": "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html",
-      "originalUrl": "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/7/8c/78c462e7-5c0e-5ab9-9ae8-b94fb6979d10/6516a500a99e5.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charleston Gazette-Mail",
-        "domain": "wvgazettemail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

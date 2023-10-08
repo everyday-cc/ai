@@ -1,28 +1,22 @@
 ---
 category: news
-title: "NZ retailers turn to facial recognition to stem surge in crime"
-excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
-publishedDateTime: 2023-10-05T20:07:00Z
-originalUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
-webUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
+title: "Voice to Parliament about 'practical recognition' to 'deliver better results'"
+excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
+publishedDateTime: 2023-10-08T17:50:00Z
+originalUrl: "https://www.theaustralian.com.au/news/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
+webUrl: "https://www.theaustralian.com.au/news/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
 type: article
-quality: 54
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "AI facial recognition: Campaigners and MPs call for ban"
@@ -70,6 +64,20 @@ related:
       - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
         width: 945
         height: 630
+        isCached: true
+  - title: "NZ retailers turn to facial recognition to stem surge in crime"
+    excerpt: "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks."
+    publishedDateTime: 2023-10-05T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
@@ -240,16 +248,7 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
-  - title: "Voice to Parliament about 'practical recognition' to 'deliver better results'"
-    excerpt: "Radical Centre Reform Lab Director Dr Shireen Morris says the Voice to Parliament referendum question is a \"very simple yes or no question\". In six days' time, Australians will head to the polls to have their say on whether to change the Constitution to recognise the First Peoples of Australia by establishing a body called the Aboriginal and Torres Strait Islander Voice."
-    publishedDateTime: 2023-10-08T17:50:00Z
-    webUrl: "https://www.theaustralian.com.au/news/voice-to-parliament-about-practical-recognition-to-deliver-better-results/video/1880119035f83f7daa1ed75ca14dac7a"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 1
 
-secured: "VcEwMgGv6wRC5LWdDjgf4VWH2pqZ/+5OawszyqNPsvK7UYhHSwHQ60I4ubcyZYtX8tbZiBqtBn3ocAgPMNW/KFawsBmTAgoO0wXA1mohDqKLyCgC5GqxkgDk9aHGqyNJcGvh0S66Crz9s0isYYVm8OLNYD7JbEabPNxkiYuqHOKJrCPSWUKx+e/JvUMOM+comOqfMvew6m0Ae0DXtmDyNmY0JDrV33TEEopSY2ZBdJapNiXQ6bq7kByr51UgCea2ajCVJTZ0RUcCzeNd24WfO2E/9gOW/GVBpbjjbNXYdFzp+36mc4yPPne4DdmiiX5O7wkMrPfJPgZEA67QchKIWf/Y2uG0CWckU1XQKCsDNY66JUm5NI0K6Cw/VYvCmqsBICb/BEkXHngxQ9OtaxdJYBRgF1epaj674G6glfzj+Y6NNg+JpH37S+kAmlXnOFI0NuiWIDfld7ckpSN3gjAVwLMWNX87e5RQ7rLx6gJXvadfh3e6nNSALq1IUtt+6JxaxQXgy9IgXAcfRTzMGDM6zQ==;iOfvXpY6G4N62Vw1sC0a/Q=="
+secured: "AZZ26UTgbTvQuUWNexcvGWtFPtxzk4+eUqCwZcZ031ECu8lo/P8jWfTisk1LfqTUVG+YsL8/rTF7P183x1zQ8AHpITLHBeeOmgnGV1+caKK1OTOwNCgC1Na8wyzqD0mYXWxE4N9n0zK/pALj/wd2N7jUu5IReXPKoV/3WDzNu9U6CS5DCTYyWpSo0cvhDD/mG7KIR4MO8+Onzocg/tJUy1bKLZPE9rrUp2Gg/O6PkBgX9YpKvlDqazhHWLqAZNaJnZWdTTdM3/ZJjLONOPcm8uqH2RYKwpJYm6k/1Ui3u45UuvOHhWBJLDf5yc5UEAJdcs61uUB3Fe/2a69ZC1BPUF40XT3ptZdg0Ckx1rlEUVNTS29Ve5kwQanmGW2z4bf/kuXnFMArnnPAoFj22kYdMDe1PGCjL3RY3aK47w+8HcoAIwQ0aiDdeWDq12fLbDb+vibYb+ELwST9qzCKmshW9EZDIzmV9kaPHd4p2scPoaEVDVMhARm8m/HuwXx4lnq/7kYfe5izeJyXuDtfdte9AA==;93H8MixcudsJ7Z5nVMtpJA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-26-spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.md",
+      "title": "Spotify won’t ban AI music, Tesla robot can now do yoga",
+      "excerpt": "Share The boss of Spotify says he has no plans to completely ban content created by artificial intelligence from the music streaming platform. Earlier this year the platform pulled a […]",
+      "sourceUrl": null,
+      "webUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
+      "originalUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techdigest.tv/wp-content/uploads/2023/09/Optimus-.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Digest",
+        "domain": "techdigest.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-a-primer-on-artificial-intelligence-and-cybersecurity.md",
       "title": "A Primer On Artificial Intelligence And Cybersecurity",
       "excerpt": "Digital generated image of artificial intelligence robot touching projected screens with data ... [+] against black background. The topic of artificial intelligence's rising involvement in our digital world and its associated opportunities and challenges ...",
@@ -1298,49 +1342,6 @@
       "provider": {
         "name": "Asian News International",
         "domain": "aninews.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-robots-are-trained-to-help-revive-coral-reefs.md",
-      "title": "Robots are trained to help revive coral reefs",
-      "excerpt": "But once you get in the water, you see all these tropical species of coral and fish.\" Corals are animals called polyps, found mostly in tropical waters. The soft-bodied polyp forms a hard outer shell by extracting calcium carbonate from the sea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "originalUrl": "https://www.daily-sun.com/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daily-sun.com/assets/news_images/2023/09/16/Coral.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/712752/Robots-are-trained-to-help-revive-coral-reefs",
-      "publishedDateTime": "2023-09-16T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sun",
-        "domain": "daily-sun.com",
         "images": null,
         "publishers": null,
         "authors": null

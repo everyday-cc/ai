@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-02-four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy.md",
+      "title": "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy",
+      "excerpt": "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
+      "publishedDateTime": "2023-10-02T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-building-trust-in-ai-ethics-and-governance-for-responsible-innovation.md",
       "title": "Building trust in AI: Ethics and governance for responsible innovation",
       "excerpt": "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ...",
@@ -1101,58 +1153,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-01-eu-examines-nvidia-dominated-ai-chip-markets-alleged-abuses-bloomberg-reports.md",
-      "title": "EU examines Nvidia-dominated AI chip market's alleged abuses, Bloomberg reports",
-      "excerpt": "The European Union is examining alleged anticompetitive practices in chips used for artificial intelligence, a market that Nvidia dominates, Bloomberg News reported on Friday, citing people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
-      "originalUrl": "https://www.reuters.com/article/nvidia-eu/corrected-eu-starts-early-stage-probe-into-alleged-abuses-in-nvidia-dominated-ai-chip-market-bloomberg-news-idUSL4N3B52SQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4kOYyzKm7xM-DNWLSeP-1NkoV2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DXSTHXNJHRMPHDTFZPWWCV3QOA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-30T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

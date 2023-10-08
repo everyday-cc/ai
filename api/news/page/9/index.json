@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-09-29-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
+      "originalUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/fe/9fea8f49-b36b-5469-8e74-03d2b355fc8c/6515a0529d38c.image.jpg?crop=785%2C412%2C23%2C0&resize=785%2C412&order=crop%2Cresize",
+          "width": 785,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
       "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
       "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
@@ -271,7 +314,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?07:01:18pm",
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?09:01:20pm",
           "width": 680,
           "height": 450,
           "title": null,
@@ -655,49 +698,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
-      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
-      "originalUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/07/264008-india-vs-australia-cricket-world-cup-2023-live-score.jpg?itok=MUEztl5Q",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-meta-unveils-ai-assistant-facebook-streaming-glasses-256596/amp",
-      "publishedDateTime": "2023-09-27T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-28-meta-ais-long-context-llms-redefining-the-landscape-of-natural-language-processing.md",
       "title": "Meta AI’s Long-Context LLMs: Redefining the Landscape of Natural Language Processing",
       "excerpt": "Large Language Models (LLMs) have revolutionized the world of Natural Language Processing (NLP) with their remarkable abilities to handle intricate and complex tasks. These models have been trained on massive datasets using immense computational power,",
@@ -913,6 +913,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram, an advancement over the previous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--l3PGUO41--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t002948z_1_lynxmpej8r00g_rtroptp_3_meta-platforms-virtual-reality.jpg?itok=MI4mysSU",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-10-top-artificial-intelligence-certifications-2023.md",
       "title": "10 Top Artificial Intelligence Certifications 2023",
       "excerpt": "It is best for Artificial Intelligence, Machine Learning, or Deep Learning enthusiasts ... Each course may have individual prerequisites. Azure AI Engineer Associate is a certification offered by Microsoft that validates an individual’s skills in ...",
@@ -1060,50 +1103,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
-      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
-          "width": 1107,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

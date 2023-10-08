@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-08-31-us-bans-sale-of-top-nvidia-and-amd-ai-chips-to-the-middle-east.md",
+      "title": "US bans sale of top Nvidia and AMD AI chips to the Middle East",
+      "excerpt": "Nvidia wrote in a regulatory filing that the US government had informed the company of a licensing requirement for a subset of A100 and H100 products",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html",
+      "originalUrl": "https://www.techspot.com/news/99984-us-bans-sale-top-nvidia-amd-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image.jpg",
+          "width": 2100,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-meta-releases-a-data-set-to-probe-computer-vision-models-for-biases.md",
       "title": "Meta releases a data set to probe computer vision models for biases",
       "excerpt": "Made up of 32,000 images containing 50,000 people labeled by human annotators, FACET — a tortured acronym for “FAirness in Computer Vision EvaluaTion” — accounts for classes related to occupations and activities like “basketball player ...",
@@ -1099,57 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-to-loom-over-hollywood-strike.md",
-      "title": "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike",
-      "excerpt": "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
-      "originalUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/FreddyBoucieguesArnoldSchwarzeneggerLindaHamilton.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
-      "publishedDateTime": "2023-08-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

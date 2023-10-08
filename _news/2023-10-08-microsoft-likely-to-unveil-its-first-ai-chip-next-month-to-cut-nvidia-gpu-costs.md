@@ -9,7 +9,7 @@ ampWebUrl: "https://www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-c
 cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/"
 type: article
 quality: 102
-heat: 282
+heat: 272
 published: true
 
 provider:
@@ -233,15 +233,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Domino's Partners WIth Microsoft To Build AI Assistant"
-    excerpt: "Domino's is working with Microsoft Cloud and Azure OpenAI Service to create a generative AI tool with the goal of improving customer experience and help with back of house tasks. \"Although the project is still in its early days,"
-    publishedDateTime: 2023-10-03T23:24:00Z
-    webUrl: "https://www.mediapost.com/publications/article/389845/dominos-partners-with-microsoft-to-build-ai-assis.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 34
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
     publishedDateTime: 2023-10-06T19:36:00Z
@@ -261,6 +252,6 @@ related:
       domain: thehansindia.com
     quality: 21
 
-secured: "fgRa3nwVoFF5qxptYpJrbSeIWbLsd4X6GdULoo69f6m3Vw/3ieQjytIl0CBI35LfeJqi8CMAw5DFCW5U8lwdfgDDLOVblGP89flhqQ/DsrztIVAtySXTPnkWEODgum6+0xa5Nf5gzXEU1B9pMaNZJusqlG614hap5AlZpLABHAfYOtWlRgxWMlUkofXU18rPBye8GxtVnOOllMSOAEqtXY5uN/k8rgHDXN/0rSCJyktSZksiKYpGbnHySbJQO0IytddG9Z/9K3Qgp7LzbNEe5wvUm6gvs6Bcuz/1zHUMKJY+guXEpeNsP4/I51KalGIcxKhz58WkERvDMj589opfdktStzKuaXJxjqwDMEPn2zk=;41jKupLl17Yawn/oHHbkTQ=="
+secured: "rNs/WiaK0GmIUTgBeagiif/zGJTyPWM9/HueD6RyCP7+9/lxJyBlasuOpWvHGRwO2TT7lbD/53oEvZn0gcJCkUVn74OV7iUczk99ATQ1qKqs+INZx8pNlvNyTd4Vp4mCFAlXGdtzVJqKZbtwIrwaZAzlSGUJpC91GizU+CTn6SNlXU9fJ3LVeEnAl+Fo4vsT9xabFB8AKCEmdDhvGkPS3rOB8rG5nCYfXpkMR3rRruGngoltiQ4WtL6dyDsMYNacauO5eZQyiOSL7C7M3/1kUu0k1skViheE6SRCcRZd+HorSn/o75orrgJhPrpB/N1XMw3Zbjg5IJA7icxp46UcfMR7RWD8gc8+mMcbOBWzl3ScwStbjlHBDt9zAXz3yH7jy0ffYp5/dEhAhoKpkeoG9uCrF9n19RhaQtcXyVVvEhA3EuolwvgDeO+Ps9r5LEWHJ9s1mkillrpYED7qVDqAidrKtv1QJeF+TmTaM5ZUbOqs0AjMNyFmb7P3f8DKtflTC0rwRzRrReIM/fCFir6F7g==;nqr1wgMfu6fjhF+j+umiuw=="
 ---
 

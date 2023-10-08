@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-18-unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market.md",
+      "title": "Unveiling The Dark Side Of Artificial Intelligence In The Job Market",
+      "excerpt": "The rapid advancement of Artificial Intelligence (AI) in the job market has brought forth a myriad of concerns and challenges that cannot be overlooked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/",
+      "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64dfa03f860bd114f10c8dfd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/08/18/unveiling-the-dark-side-of-artificial-intelligence-in-the-job-market/amp/",
+      "publishedDateTime": "2023-08-18T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-artificial-intelligence-and-robotics-updates.md",
       "title": "Artificial intelligence and robotics updates",
       "excerpt": "China put into force this week its newest regulations on artificial intelligence-generated content, a watered-downed version of stricter draft rules that seek to keep the country in the AI race ...",
@@ -1344,49 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-this-weeks-robot-vacuum-deals-include-almost-every-2022-and-2023-roborock-on-sale.md",
-      "title": "This week's robot vacuum deals include almost every 2022 and 2023 Roborock on sale",
-      "excerpt": "Compared to one of our previous-favorite hybrids, the S7, the S8 introduces AI-powered ... enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "originalUrl": "https://mashable.com/deals/best-robot-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00Mn3035vqXT3udlVYKH7UG/hero-image.fill.size_1200x675.v1638483738.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
