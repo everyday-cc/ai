@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minut
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
 quality: 68
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)"
+    publishedDateTime: 2023-10-09T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "\"Godfather of AI\" Geoffrey Hinton | Sunday on 60 Minutes"
     excerpt: "The \"Godfather of AI,\" Geoffrey Hinton, tells Scott Pelley about the promise and risks of advanced artificial intelligence his research helped make possible. This Sunday on 60 Minutes."
     publishedDateTime: 2023-10-05T21:46:00Z

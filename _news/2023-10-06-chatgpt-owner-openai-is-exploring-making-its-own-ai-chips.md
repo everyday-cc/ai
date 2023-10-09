@@ -753,20 +753,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
-  - title: "Cognitive/Artificial Intelligence Systems Market Streamlining Content Management 2023 to 2030 | IBM, Microsoft, Google"
-    excerpt: "Market Overview: Cognitive/Artificial Intelligence ... Key players in this market include companies like IBM, Microsoft, Google, Amazon Web Services (AWS), and NVIDIA, among others."
-    publishedDateTime: 2023-10-05T03:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/35082500/cognitiveartificial-intelligence-systems-market-streamlining-content-management-2023-to-2030-ibm-mi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
     excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
     publishedDateTime: 2023-10-06T12:00:00Z

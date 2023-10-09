@@ -42,9 +42,9 @@ related:
         height: 481
         isCached: true
   - title: "AI facial recognition: Campaigners and MPs call for ban"
-    excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
-    publishedDateTime: 2023-10-05T23:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
+    excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
+    publishedDateTime: 2023-10-05T23:33:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67022005"
     ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
     type: article
@@ -85,6 +85,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
+    excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
+    publishedDateTime: 2023-10-09T18:02:00Z
+    webUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+    type: article
+    provider:
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 9
 
 secured: "RiIt6qMCa5cSSBitn934wGoGZkzMn4BIH9NslZ3iRwt0LS4YsJmGeL9mQ6D50FI9PZuDKBbwmebmNW+nKJQVIjsfWjttn8oViOtfd20EUbKvegjp/OpAuJoPUo7gKOju20Orrz7OXN7ObaN3y6LxmE9fmRKPRhaQLzDq+UcZwh4VmJVqDpCPaYGCNbUWOD7FftqUNrnH+xjL+no/geLAkNBANudxXmqpivtn3WIIvMwqEScCuDqTF5k77JdoX+kIIKRDNHdrBMc+hvuO6FCqxyeiRu56Qhy4ldnWW6pZkDQk6/UGC0pbjSHvQCp/xV7r2fXukJVa1bPye68GPEZ1CGA+7u4f4XUlT+eOyvuxR94=;PdWbXduH8oPGapmD/KohWw=="
 ---

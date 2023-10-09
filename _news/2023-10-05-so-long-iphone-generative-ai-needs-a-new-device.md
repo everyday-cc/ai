@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Pixel 8 Face Unlock might be just as good as the iPhone’s Face ID, thanks to AI"
+    excerpt: "The Pixel 8 phones come with Face Unlock support, which seems to be just as secure as the iPhone's Face ID, thanks to AI."
+    publishedDateTime: 2023-10-09T17:58:00Z
+    webUrl: "https://bgr.com/tech/pixel-8-face-unlock-might-be-just-as-good-as-the-iphones-face-id-thanks-to-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 15
 
 secured: "CgGzd+TwNpuz28bkgfQtWsJFsMLfeoA3ldExoIjtGDy7liNuPh0s+hZ29od55RKtJ1OrSVEnNOuejOZX4n9MPFejWYQxKRvZ0Jr/ovupzw5PxquQI3qp+1F4l6avCN+NpnBHzX9wdjr4NL8/b05zWH8GXcIlqoISqVH1bQbjAVTrT/dtdRyTTsh6dTMda+dYQHvL+t/jvDXiM/GgRbQnnXhgk9h5DGRNPA3+WilqiXuaV/iXsaRWmQZ4fmeJ/ht0vGj8L79tyVSZDQ0omeERKYLTKr2Lg0un6N1ZlDxEalk/9hMPn+mnD9w4X3PKVzHSa5x54TtsFlSIguxueKQp0f71Y78rTSPRk655xKYGROg=;KFHHcRu4ifQHHSCv9TcBIQ=="
 ---

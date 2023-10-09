@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:34:00Z
 originalUrl: "https://www.inferse.com/748206/meta-wants-to-supercharge-wikipedia-with-an-ai-upgrade-digital-trends/"
 webUrl: "https://www.inferse.com/748206/meta-wants-to-supercharge-wikipedia-with-an-ai-upgrade-digital-trends/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Inferse

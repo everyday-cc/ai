@@ -138,6 +138,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
+    excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."
+    publishedDateTime: 2023-10-09T17:36:00Z
+    webUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-with-gpt-4vision/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
   - title: "Save $30 and start using AI with this ChatGPT training bundle"
     excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."
     publishedDateTime: 2023-10-06T18:16:00Z

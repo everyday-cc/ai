@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "Bdy8aVi0LrnnImL7qya1xpz3p+N/8ZYjuEQWKGlCK1jo2eNDKcbMzMK+z34poCda9AvLvzxGvRYnuERTwQUBZR8rU5l33A2/zDxIhe+efscJbXEfExAycuYI28MDtqMmn40luBiRUVXBzukBqT9IFSuzg92YU6AwaH1jNBRoGNmLctKXW01jSLBaDFdTFS+Aj/7PNaWDewXcWDd3Ny2rc0HD9UmsbCBwSG9VVk5sJ9M4t5uDgDBZKVw+ppQa025YOnHzGArrcDoM91bQdCWRSXyArPdTqtwauMZOTWiRWRJDuVBDV39mCfbH3vZs1iCyO6yxPFHWYBuFy1XhjUWgFxpnayuGR83eggfKDWx9qzc=;tNGnvO3qpC03Da+YJofg1A=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "v69+whUufuKiaU3wiUneUoA/l9Ntj7h1Aver1zR2JvVMzLZK1meurawY0svoYaat7btZB9lEDdO1ve6wNXK2hNXt8OoWZwEryHsgx3GZD6N6FCCKtXZlpYz3VYle0ksTPc73aPdGYzt53VUOhcj7wBUFkF4TJwOwSgiXcG1HpvkFzeCiHKI0JzEQ6H4Am1Rxu+1P/fnImR0suZDAI0vCtY5n+zzQECDwKkbvrAPplN7VqkibsBAhR20qXK6O5TUQa0vFsrwkoYFc8L0HJtq9ssjRScE1Z/mOtBl/WAaYBGypA6le4ffkpswocL2yYyl2KMy4Ms54vQYJKTWi1UKqgaELXSRPYJ4xfAsV67UW2RQ=;Zp7FQ9iVCFmpp8eoKQrl0Q=="
 ---
 

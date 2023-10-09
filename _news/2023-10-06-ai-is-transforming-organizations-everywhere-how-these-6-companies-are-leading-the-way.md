@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "More than half of organisations are putting generative AI to work"
-    excerpt: "Gartner advises organisations to have a strategy for AI trust, risk and security management as they increasingly adopt AI."
-    publishedDateTime: 2023-10-05T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "+dyV/O/4/CSNpSIFW2BN5banZc0TkVajfBnzcTmnfyhfRkNzD1qGMO1S6XvdpPcgZf4JrBXsOZtl95TR7DkRpYOfEWVwi9CXnkVMAUklS2UgUZjZGobtKT+7YQfHuW8J2G7Z5SnuN3fuZf2ClqCO8ByYEopxk0GS4Z8QPzKfbiPLW4IQnX+bvQUGH5adH46CwR2gvbQ5SwoFX3JjKgROgBHYjlpLDXgYWCrsl33QFf7NUMr+kJU9w3Tqw++LmWvfHC6FHWvx6a179WYFxUqqnKKcHs04L4Jg4jD6JYm+xrUSCFz4dr4nTHwTSuXqK4KQxsKb3nbYUSuOPeLTtYoxjWAg+6cXzWT6M9Jz1xxa3YI=;Sm8rm/gh3JWN48tA7j5FQg=="
 ---

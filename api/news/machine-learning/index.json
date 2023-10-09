@@ -45,7 +45,7 @@
       "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -188,7 +188,7 @@
       "originalUrl": "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -542,6 +542,40 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-205-awesome-chatgpt-prompts-you-need-to-try.md",
+      "title": "205 Awesome ChatGPT Prompts You Need to Try",
+      "excerpt": "When it comes to chatbots, the quality of the output is determined by the quality of the input! Use these ChatGPT prompts, tweak them to your business' unique needs, and leverage the power of AI and LLMs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/205-awesome-chatgpt-prompts-you-need-to-try-news-321422",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1221,49 +1255,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-machine-learning-unravels-mysteries-of-atomic-geometry.md",
-      "title": "Machine learning unravels mysteries of atomic geometry",
-      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "originalUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-unrav.jpg",
-          "width": 1350,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "publishedDateTime": "2023-09-25T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

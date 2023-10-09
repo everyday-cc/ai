@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-06-hollywood-strikes-sparking-ai-negotiations-in-every-creative-industry.md",
+      "title": "Hollywood Strikes Sparking AI Negotiations In Every Creative Industry",
+      "excerpt": "Rather than imposing strict limitations, we should advocate for regulations and guidelines that promote responsible and ethical use of AI in every creative industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65201588a7304fbf34c72d20/0x0.png?format=png&width=1200",
+          "width": 1050,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
+      "publishedDateTime": "2023-10-06T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-graphcore-was-the-uks-ai-championnow-its-scrambling-to-survive.md",
+      "title": "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive",
+      "excerpt": "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
+      "originalUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-assistive-intelligence-not-artificial-lets-make-it-about-serving-humans.md",
+      "title": "Assistive Intelligence, Not Artificial: Let’s Make It About Serving Humans",
+      "excerpt": "In other fields, the world is already filled with examples of how Assistive Intelligence is making—and can continue to make—the world a better place, from helping to diagnose and treat cancer, to spotting and catching human traffickers, to protecting our global environment and cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ebc0e4a8614b468841a52/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
+      "publishedDateTime": "2023-10-06T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk.md",
+      "title": "AI Is Not Your Enemy: Why Unfounded Fears Around AI Are Putting Organizations At Risk",
+      "excerpt": "While it is important to acknowledge legitimate concerns surrounding AI, like safety, privacy and equitable access, it is equally crucial to recognize that extreme AI alarmists are inadvertently doing a disservice to society. They are turning people away from a transformative technology that could vastly benefit both industries and individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/",
+      "publishedDateTime": "2023-10-06T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
+      "title": "Instant evolution: AI designs new robot from scratch in seconds",
+      "excerpt": "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-google-home-will-get-a-generative-ai-boost-too.md",
       "title": "Google Home will get a generative AI boost, too",
       "excerpt": "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new",
@@ -10,7 +260,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -61,7 +311,7 @@
       "originalUrl": "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -800,58 +1050,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-06-10-best-ai-writing-tools-2023.md",
-      "title": "10 Best AI Writing Tools 2023",
-      "excerpt": "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-06-how-researchers-trained-a-budget-robot-dog-to-do-tricks.md",
       "title": "How researchers trained a budget robot dog to do tricks",
       "excerpt": "A new 'parkour algorithm' teaches robodogs in virtual settings first.",
@@ -970,193 +1168,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime.md",
-      "title": "NZ retailers turn to facial recognition to stem surge in crime",
-      "excerpt": "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
-      "originalUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-people-are-posting-ai-generated-yearbook-pictures-with-this-viral-app.md",
-      "title": "People are posting AI-generated yearbook pictures with this viral app",
-      "excerpt": "Epik, a free-to-download photo editing app, offers a '90s-style yearbook photo edit that has gone viral on Instagram and TikTok.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107312361-1696538000665-yearbook-2.PNG?v=1696538980",
-          "width": 653,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
-      "publishedDateTime": "2023-10-05T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-the-iphone-for-ai-betting-big-on-artificial-intelligence.md",
-      "title": "The ‘iPhone For AI’: Betting Big On Artificial Intelligence",
-      "excerpt": "Despite all the hype surrounding the internet throughout the 1990s and early 2000s, the internet didn’t really take off until Steve Jobs introduced the iPhone in 2007. Until the iPhone’s release, the internet was something a few people used for work ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data.md",
-      "title": "Observe raises $50M, adds generative AI to help enterprises visualize all their data",
-      "excerpt": "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/",
-      "originalUrl": "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

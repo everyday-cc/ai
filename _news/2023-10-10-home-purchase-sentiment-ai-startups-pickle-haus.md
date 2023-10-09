@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T19:37:00Z
 originalUrl: "https://wgnradio.com/wintrust-business-lunch/wintrust-business-lunch-10-9-23-home-purchase-sentiment-ai-startups-pickle-haus/"
 webUrl: "https://wgnradio.com/wintrust-business-lunch/wintrust-business-lunch-10-9-23-home-purchase-sentiment-ai-startups-pickle-haus/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WGN Radio

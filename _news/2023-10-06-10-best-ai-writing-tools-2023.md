@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 type: article
 quality: 69
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: eWeek
@@ -29,74 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
-    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
-    publishedDateTime: 2023-10-05T15:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+  - title: "Meta Extends Its AI Messaging To The Quest 3 And More At Meta Connect 2023"
+    excerpt: "Principal Analyst, Mobility & VR, Anshel Sag dives deep on the Quest 3 AR headset, Ray-Ban Meta smart glasses and AI-related news from the Meta Connect 2023 event."
+    publishedDateTime: 2023-10-09T20:48:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
-    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
-        isCached: true
-  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
-    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
-    publishedDateTime: 2023-10-09T13:43:00Z
-    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
-    excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
-    publishedDateTime: 2023-10-05T16:53:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/5/ftc-probing-artificial-intelligence-tools-eyeing-p/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 37
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/08/10/Election_2024_Artificial_Intelligence_70000_c0-246-5908-3692_s1200x700.jpg?574e1805b88ac814ff041f1a4a4a1d72545b0d17"
-        width: 1200
-        height: 700
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65244ab654f17051ab3d619a/0x0.jpg?format=jpg&width=1200"
+        width: 936
+        height: 462
         isCached: true
 
 secured: "CcpLC9X2s4sx5CVKbrK1uCqT+JxTCCoRQtawjs/vLZn8oQDZ7x6jduhtmHzqPJy8aTkoXfrt8U9hN6P2VLbXkbHI1F7zOcEqjhUOChayrWtBxKhMPgwoDya/HC90KTZ/4eBVcwXKN1ki1bGFjkHWDJmIOJ4UHOieDO5SZ4gBiMxm8aa+pZvl6kvjXDsVzGV/m2+Y7h0vfwd3791VKhdFSsYf8+exEbEeexs79C0Ih15F+dPuCMvBgXCcMegHJ1Etx94ejUCrxA4/sLEdLkjMGY9OmkKHiyRoMfQHVTEEH5j9oC/+WzERnBIvLWP++aQSp7TuiIArLcBdFEltxQWBhyHc/Ds0cU/mQz/YbGjF5+M=;SM21AZEgCY0m7TXNZUzb4g=="

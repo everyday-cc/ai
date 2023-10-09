@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
+    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
+    publishedDateTime: 2023-10-09T18:43:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 5
 
 secured: "kOHGGmmtvnk7RWWnnA1Xj/41eQpfgadorxc4s6fQ318ZxF5Lfcu4Pq80CR8UPPX43o/OJZEwL1CNC/nsoFUo1ltBvApVDhfJtDn0YlcEmXAm6kkxDTLwHEEwlySiq4iDNvt0N5hTYuVnXilh52TErEywTn+kPp6VyN9FErmxaZwa8AxEfvlYh99OZlo1oPjgrD9Ldi9/R6/yzLxBI+cfMXk55PAFEWwSxjfpUbPXQgCAKX3Txv/lkTc4YOu0DgHeargKxDRW/BgYGYq64Aj5fOlkPl9RDwrmrv3+Y4e5vO35LyW8JD/MpJAcOW9/aCBpRcpKBYkpKl2OxlIafz69fpMdjwGPiyfpNiFGKNnASBRvSJA9dWrUTemMUXOZQqkvaZiWVYqlmJinK/hXjehnF9FXsNchyH4+SKEZhSLX5Cbn1kTcwULgl/TWik0+m9HhXYlnP2sFNLrmr/aw0jfEd8AMx/8QbtdF5iFICNFLv4Mw/+dcaiPM4yl31ZLes3PZ4oKixq591XKDFncDHkjSpQ==;kKfHyRIkPvbjSr4zoVi39Q=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "How One Top SEO Agency Is Leading The Way With AI & Delivering Unheard Of Results"
+    excerpt: "If there’s anything which is constant in the world of digital marketing, it’s change. Change is inevitable as technology continues to evolve at a faster than ever pace. As we embark on the AI revolution and the pace of change continues to accelerate, the very way we search for information, products and services will also transform."
+    publishedDateTime: 2023-10-09T20:32:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/09/how-one-top-seo-agency-is-leading-the-way-with-ai-delivering-unheard-of-results/71123571007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 12
   - title: "The Rise of Autonomous Vehicles: Key Electronics Trends for 2023"
     excerpt: "The automotive industry has been undergoing a seismic shift in recent years with the emergence and rapid development of autonomous vehicles. These self-driving cars have the potential to revolutionize transportation by increasing safety,"
     publishedDateTime: 2023-10-08T13:33:00Z

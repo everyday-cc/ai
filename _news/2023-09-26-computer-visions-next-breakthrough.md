@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "ezINqD02BmYiP2mggbKetfHKuK1My0qC9o8gLI8H61PRSBbh0YaG8lIM0OB44CPMtqkRKPustBRwIBN1oJjmzU+gcMbuocLAop1CsagD0oEJUmTgnn4DgGQMpQQMekNsfAGh/K54fC2m81sQPy2LK+DAASdO/u6kdDydKq/AeHdOcj7AJsKqZb9v0oBXmgvESpVTznMgxoUxjDyYqWaOHCeQudB8cZBDlwXgngB3L64OVBQdKd+lAe2KDHNyBUs0Z2J52fpOyS2UzhrEBjl3XfKQcmcc9bbLHk1iKmhz6IUOfW1/IILYOuBus+sm4YTIy8Bsz36lOx4+iKYtJlLW2qk9yaIyOVWmtcq/f7mtg70=;FNi1PHs+b18tkxiuqvF6Ww=="
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/computer_1.jpg"
+    width: 504
+    height: 315
+    isCached: true
+
+secured: "DucJKGpou1yddiJ7Rxh5J6zrkNRTaaLZi7FrGqtfuFJLy8gO/djq6iCt5JVU22DjS6dnglu8EqB+bEKKIasjCA2kcIg+ZZTktthWcpLPtnFeQwCXJatYoFMscPH7uTxC7X2Cwp1VH0lQEW4Krul5DCPT7723LHVP7DO61Zy8Xnw5uAwOF2mCGx0jmC5nlomSLnEIf6nhsl60XPkPq+FYuQn+FpoOBIpvqGaPKRVi7ds7BE8kajNwNqteZaP345aTERkXDogfrE2BQz38PohQxBXBYIUr2DLpo9HpOYmgDmvvwjjEt5SaqwJV8hQTrGgKnfRw+V+rqDd2YV1DJ9boIL7fbzQoRtwzi5BzQ3Q6ccU=;r6O7Ntu1SlYf9eSjQF8jDA=="
 ---
 

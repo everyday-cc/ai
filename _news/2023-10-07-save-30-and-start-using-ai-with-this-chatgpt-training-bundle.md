@@ -142,6 +142,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
+    excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."
+    publishedDateTime: 2023-10-09T17:36:00Z
+    webUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-with-gpt-4vision/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
 
 secured: "OCczhfW5l3HNJPBBiwhrAQuvYnpAP5H2MsCjFZeVU1U6BY9LVqhjRhS4iWdZ2iDZwUrFk1RZYivCdvLaEczRwZqv1paPn1PczeNdY1pKWhPd+sqik3T2ZWxFuch4pDR3Znf+imkPapFfnz6tP/jc4fIF000NLHz2eJ1PJh0GNE/NCA2FRPFa1cGLm5IStlIcGwLHeGSskSsLmrQamakSn+nhz3H5NoL2gNirbRCGeB7POnZziVuzZBgJx88vJMtsqYvMWNzNpYlqRd3V9YJJm9NnIyset0//G+KJWmwx8L30DYEaZCYnn17xBFy+VONKX8G7E0U2MOFDVnQas7nGkXt1uNbN2OjDcF93U7NBKXY=;bwdARUXISEdSOpXI1KPTrg=="
 ---

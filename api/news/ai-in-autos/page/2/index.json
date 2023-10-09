@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-25-self-driving-trucks-save-fuel-and-lives-chinese-startup-says.md",
+      "title": "Self-Driving Trucks Save Fuel, and Lives, Chinese Startup Says",
+      "excerpt": "While most attention on the development of autonomous driving has focused on passenger cars — like Tesla’s controversial Full Self-Driving — Chinese startup Inceptio Technology is concentrating on revolutionizing long-haul trucking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-09-25/self-driving-trucks-save-fuel-and-lives-chinese-start-up-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-09-25/self-driving-trucks-save-fuel-and-lives-chinese-start-up-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
+      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
+      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
+      "publishedDateTime": "2023-09-24T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-beijing-at-forefront-of-smart-vehicle-industry.md",
       "title": "Beijing at forefront of smart vehicle industry",
       "excerpt": "In April 2022, Beijing became the first Chinese city to greenlight the pilot commercial operation of self-driving passenger vehicles without anyone in the driver's seat and Baidu's autonomous driving arm, Apollo Go, was among the first to offer fully autonomous driving services in China.",
@@ -1228,101 +1315,6 @@
       "provider": {
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-artificial-intelligence-helps-doctors-predict-patients-risk-of-dying-study-finds-sense-of-urgency.md",
-      "title": "Artificial intelligence helps doctors predict patients’ risk of dying, study finds: ‘Sense of urgency’",
-      "excerpt": "With research showing that only 22% of Americans keep a written record of their end-of-life wishes, a team at OSF HealthCare in Illinois is using artificial intelligence to help physicians ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
-      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
-      "publishedDateTime": "2023-09-15T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-driving-tests-should-be-adapted-to-make-sure-motorists-know-how-to-take-control-of-a-self-driving-car-mps-warn.md",
-      "title": "Driving tests should be adapted to make sure motorists know how to take control of a self-driving car, MPs warn",
-      "excerpt": "Driving tests will have to be adapted to make sure motorists know how to take control of a self-driving car, a report by MPs has warned. The report, by the Commons Transport committee, urged the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/09/15/01/75454361-0-image-m-28_1694736253236.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
-      "publishedDateTime": "2023-09-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

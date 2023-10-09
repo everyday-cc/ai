@@ -2,6 +2,448 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-07-28-mobile-website-builder-universe-launches-ai-powered-designer.md",
+      "title": "Mobile website builder Universe launches AI-powered designer",
+      "excerpt": "Universe, the no-code mobile website builder, announced today it's launching an AI-powered website designer in beta.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/",
+      "originalUrl": "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/Universe_GUS_Beta.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/amp/",
+      "publishedDateTime": "2023-07-27T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-skilled-partners-hold-the-key-to-accelerating-ai-adoption.md",
+      "title": "Skilled partners hold the key to accelerating AI adoption",
+      "excerpt": "The most effective way to help businesses fully and quickly access the potential of generative AI is through an ecosystem of partners with access to scalable AI.\nThe post Skilled partners hold the key to accelerating AI adoption appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/",
+      "originalUrl": "https://www.ibm.com/blog/skilled-partners-hold-the-key-to-accelerating-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Skilled-partners-hold-the-key-to-accelerating-AI-adoption-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth.md",
+      "title": "Chip-equipment suppliers rally after Lam says AI servers will drive growth",
+      "excerpt": "Semiconductor-related stocks surged Thursday, and leading the pack were stocks of the companies that make the equipment used to make chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "originalUrl": "https://www.marketwatch.com/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-473098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/chip-equipment-suppliers-rally-after-lam-says-ai-servers-will-drive-growth-87ada70b",
+      "publishedDateTime": "2023-07-27T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection.md",
+      "title": "RSA Survey Reveals Identity Security Knowledge Gaps And AI's Role In Improving Protection",
+      "excerpt": "A new report from RSA highlights concerning gaps in the knowledge of self-identified identity professionals, and shares insight on the future of identity security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d402ffd3da1bf4624c5504/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/07/27/rsa-survey-reveals-identity-security-knowledge-gaps-and-ais-role-in-improving-protection/amp/",
+      "publishedDateTime": "2023-07-27T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-meta-and-microsoft-vets-land-22m-for-startup-building-shared-brain-developer-platform.md",
+      "title": "Meta and Microsoft vets land $2.2M for startup building ‘shared brain’ developer platform",
+      "excerpt": "A new artificial intelligence startup wants to help software development teams capture, store, and query their company data and knowledge. Augmend recently emerged from stealth mode with $2.2 million",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
+      "originalUrl": "https://www.geekwire.com/2023/meta-and-microsoft-vets-land-2-2m-for-startup-building-shared-brain-developer-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/AugmendTeam-1260x649.jpg",
+          "width": 1260,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws.md",
+      "title": "Amazon grows generative AI efforts with Bedrock expansion for AWS",
+      "excerpt": "AWS outlined its strategy for generative AI and announced updates and incremental new services for its Bedrock foundation model service.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/image1-4.png?w=1200&strip=all",
+          "width": 1114,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-how-to-invest-in-artificial-intelligence.md",
+      "title": "How to Invest in Artificial Intelligence",
+      "excerpt": "Here are some of the best AI ETFs to consider: Global X Robotics & Artificial Intelligence ETF (BOTZ): This fund invests in companies that are likely to benefit from the growth in robotics and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://moneymorning.com/artificial-intelligence-investing-guide/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-h100-gpu-instance-pricing-on-aws-grin-and-bear-it.md",
+      "title": "H100 GPU Instance Pricing On AWS: Grin And Bear It",
+      "excerpt": "It is funny what courses were the most fun and most useful when we look back at college. Both microeconomics and macroeconomics stand out, as does poetry writing, philosophy, and religious studies despite the focus on engineering and American literature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
+      "originalUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/07/aws-ec2-ultrascluster-logo.jpg",
+          "width": 1090,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/27/h100-gpu-instance-pricing-on-aws-grin-and-bear-it/amp/",
+      "publishedDateTime": "2023-07-27T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-3-emerging-practices-for-responsible-generative-ai.md",
+      "title": "3 emerging practices for responsible generative AI",
+      "excerpt": "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
+      "originalUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
+      "publishedDateTime": "2023-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-ai-vs-the-drive-through-customer.md",
       "title": "AI vs. the Drive-Through Customer",
       "excerpt": "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis",
@@ -765,418 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-five-ways-to-boost-cybersecurity-training-efforts-using-ai.md",
-      "title": "Five Ways To Boost Cybersecurity Training Efforts Using AI",
-      "excerpt": "A personalized, interactive and collaborative approach to training can increase security knowledge and instill a feeling of accountability and responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60d34861b0dc90f4f81bfd48/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/27/five-ways-to-boost-cybersecurity-training-efforts-using-ai/amp/",
-      "publishedDateTime": "2023-07-27T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market.md",
-      "title": "How Traders Are Seeking Bullish Opportunities in a Hype-Clouded AI and Robotics Market",
-      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 27, 2023 / Tech stocks are enjoying a strong rally driven partly by advances in artificial intelligence, robotics, and automation. But such a robust rally in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ac33420021/how-traders-are-seeking-bullish-opportunities-in-a-hype-clouded-ai-and-robotics-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33420021",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33420021",
-      "publishedDateTime": "2023-07-27T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition.md",
-      "title": "Digital rights group NOYB challenges Ryanair's use of facial recognition",
-      "excerpt": "The Irish airline, Europe's largest by passenger numbers, says on its website that in order to comply with safety and security requirements it must verify the identity of passengers' booking.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/articleshow/102176987.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-16906,msid-102177109/ryanair-facial-technology.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/digital-rights-group-noyb-challenges-ryanairs-use-of-facial-recognition/amp_articleshow/102176987.cms",
-      "publishedDateTime": "2023-07-27T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-medical-students-recognize-ais-potential-in-medicine-call-for-ethical-education.md",
-      "title": "Medical students recognize AI's potential in medicine, call for ethical education",
-      "excerpt": "A team of researchers assessed medical students' understanding, perceptions, and educational preferences related to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230727/Medical-students-recognize-AIs-potential-in-medicine-call-for-ethical-education.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_754798_16904645865162642.jpg",
-          "width": 2000,
-          "height": 1064,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-six-eam-trends-pushing-the-oil-and-gas-industries-forward.md",
-      "title": "Six EAM trends pushing the oil and gas industries forward",
-      "excerpt": "As EAM technology continues to evolve, new trends emerge, promising to transform the way oil and gas companies approach asset performance management.\nThe post Six EAM trends pushing the oil and gas industries forward appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/six-eam-trends-pushing-the-oil-and-gas-industries-forward/",
-      "originalUrl": "https://www.ibm.com/blog/six-eam-trends-pushing-the-oil-and-gas-industries-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T06:18:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners.md",
-      "title": "Computer Vision Insurtech Pioneer CompScience Raises $10M Series A Led By Valor Equity Partners",
-      "excerpt": "CompScience Insurance Services, the leading AI-powered safety analytics platform, announced a $10M Series A round led by operational growth investment firm Valor",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners/article_0d74f157-0e5c-5bfc-ba39-a32724882e5c.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/computer-vision-insurtech-pioneer-compscience-raises-10m-series-a-led-by-valor-equity-partners/article_0d74f157-0e5c-5bfc-ba39-a32724882e5c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ryanair-accused-of-invasive-facial-recognition-use.md",
-      "title": "Ryanair Accused Of 'Invasive' Facial Recognition Use",
-      "excerpt": "A prominent digital privacy campaign group on Thursday filed a complaint against Ryanair in Spain, alleging the popular budget carrier was pushing customers to undergo an \"invasive facial recognition process\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "originalUrl": "https://www.barrons.com/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ryanair-accused-of-invasive-facial-recognition-use-40c0628a",
-      "publishedDateTime": "2023-07-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-1-ai-revolution-stock-you-wont-want-to-overlook.md",
-      "title": "1 AI Revolution Stock You Won't Want to Overlook",
-      "excerpt": "Artificial Intelligence (AI) can potentially revolutionize many industries in the coming years. It could become a huge productivity and profit booster. Those catalysts could drive significant returns for investors in stocks capitalizing on AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/27/1-ai-revolution-stock-you-wont-want-to-overlook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740962/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-the-indispensable-role-of-agencies-in-the-age-of-ai.md",
-      "title": "The Indispensable Role Of Agencies In The Age Of AI",
-      "excerpt": "Marketing agencies are collectives of creatives who are, above all, tastemakers, curators and trendsetters—in other words, our expertise allows us to recognize quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1e349dad083538eb4f46/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/27/the-indispensable-role-of-agencies-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-07-27T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

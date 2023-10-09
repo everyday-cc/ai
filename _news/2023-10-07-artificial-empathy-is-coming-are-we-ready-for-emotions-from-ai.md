@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Could AI find alien life faster than humans, and would it tell us?"
+    excerpt: "Machine-learning algorithms are transforming the search for extraterrestrial intelligence, finding candidate signals faster and better than ever before, but the development of artificial general intelligence could complicate contact."
+    publishedDateTime: 2023-10-09T21:00:00Z
+    webUrl: "https://www.space.com/could-ai-find-alien-life-faster-than-humans"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gqJY6ym5VXcad6GYw8gwaa-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "F3594+g5B8FXyclpLfrADaTyrXwrS+VRVKDF8gCaHf5heJ8tYPgiIHDQR1w5eal9D/7J0tAOQRf87xwz5LH+Sjv2kvl38Q3nLytM65M+zfNEk4ycwNR1Ef1B63s+KcFPd6vkvMAu8wcznd3jgh5itTbWVM5anJgWN9RTPqDMCG7m6rw0uU/W4FTAooHm3voSnpic0OW4r7fXVNvjzsBb2ZoUEbSMuOYxBOS/4IhgzQi5SHQ4a/GWMeH/EmpfFED74sNk0ws+01dtyTp82lCErpeg/bhtKY2vHtWJ5PX9FZzNDdwZ0VKVM4ntvflbAbXPWTdrENJeMU7udqlRAi3nLcZT6QtnWapCjI6PbJnTm/DmBKA1MZRNOgOUCOke7iE2OOGr+da7LHl7Twr0TLUl0w1d0C9OP5GF8jnZH2LGWVB9EjRnXmHtpeYYOAGc3X/dIHuRpZhPtpRKR+lXmQcgdoOaGJbbpLjwFU2lhuUTQpHKQ0sYpD1xCRYNRfPOcTbynCec6QThJqCzjSHvjLSxCA==;6JpfQmdXzWXSuhAFmjPOBA=="
 ---

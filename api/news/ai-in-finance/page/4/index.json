@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
+      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
+      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
+      "publishedDateTime": "2023-08-05T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-investing-in-ai-with-john-cassidy.md",
+      "title": "Investing In AI, With John Cassidy",
+      "excerpt": "John Cassidy is a Partner at Kindred Capital, a UK-based venture capital firm. Before he became an investment professional, he co-founded CCG.ai, a precision oncology company which he sold to Dante Labs in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/08/02/investing-in-ai-with-john-cassidy/amp/",
+      "publishedDateTime": "2023-08-02T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-why-is-the-machine-learning-chips-market-expected-to-grow-by-usd-2227652-million.md",
       "title": "Why is the Machine Learning Chips Market Expected to Grow by USD 22,276.52 Million?",
       "excerpt": "In a recent report by Technavio, the machine learning chips market is projected to experience remarkable growth, expanding by USD 22,276.52 million from 2022 to 2027, with a compound annual growth rate (CAGR) of 30.",

@@ -2,6 +2,193 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-06-nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime.md",
+      "title": "NZ retailers turn to facial recognition to stem surge in crime",
+      "excerpt": "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
+      "originalUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-people-are-posting-ai-generated-yearbook-pictures-with-this-viral-app.md",
+      "title": "People are posting AI-generated yearbook pictures with this viral app",
+      "excerpt": "Epik, a free-to-download photo editing app, offers a '90s-style yearbook photo edit that has gone viral on Instagram and TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107312361-1696538000665-yearbook-2.PNG?v=1696538980",
+          "width": 653,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "publishedDateTime": "2023-10-05T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-the-iphone-for-ai-betting-big-on-artificial-intelligence.md",
+      "title": "The ‘iPhone For AI’: Betting Big On Artificial Intelligence",
+      "excerpt": "Despite all the hype surrounding the internet throughout the 1990s and early 2000s, the internet didn’t really take off until Steve Jobs introduced the iPhone in 2007. Until the iPhone’s release, the internet was something a few people used for work ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data.md",
+      "title": "Observe raises $50M, adds generative AI to help enterprises visualize all their data",
+      "excerpt": "Observe, which competes with the likes of Splunk and Grafana, will use the funding to grow its team size from 150 to 250 employees by the end of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/",
+      "originalUrl": "https://venturebeat.com/programming-development/observe-raises-50m-adds-generative-ai-to-help-enterprises-visualize-all-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_telescope_peers_at_a_night_sky_filled_with_glowing_co_8a37777e-a45e-405f-ad75-2f1239bb067f-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-every-enterprise-plans-to-increase-ai-spending-next-year.md",
       "title": "Every enterprise plans to increase AI spending next year",
       "excerpt": "An MIT Tech Review survey of 600 firms found almost half said they would boost spending on data infrastructure and AI by more than 25% in the coming year.",
@@ -399,6 +586,40 @@
         "AI",
         "AI in Security",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023",
+      "excerpt": "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -981,237 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation.md",
-      "title": "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation",
-      "excerpt": "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/",
-      "publishedDateTime": "2023-10-05T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
-      "title": "European Commission to keep track of AI and semiconductor chips",
-      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "publishedDateTime": "2023-10-04T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-south-koreas-doosan-robotics-shares-jump-127-in-trading-debut.md",
-      "title": "South Korea's Doosan Robotics shares jump 127% in trading debut",
-      "excerpt": "Shares in South Korea's Doosan Robotics opened 127% up from their initial public offering (IPO) price in the company's market debut on Thursday, based on investors' bullish outlook for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/sensex_stocks_nifty_stockmarket.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
-      "publishedDateTime": "2023-10-04T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-ai-voice-cloning-tech-emerges-in-sudan-civil-war.md",
-      "title": "AI: Voice cloning tech emerges in Sudan civil war",
-      "excerpt": "A campaign using artificial intelligence to impersonate Omar al-Bashir, the former leader of Sudan, has received hundreds of thousands of views on TikTok, adding online confusion to a country torn apart by civil war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-africa-66987869",
-      "originalUrl": "https://www.bbc.com/news/world-africa-66987869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14E9E/production/_131326658_bashir.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-africa-66987869.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-66987869.amp",
-      "publishedDateTime": "2023-10-04T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-revolutionising-finance-heres-how-ai-is-shaping-fintechs-future.md",
-      "title": "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future",
-      "excerpt": "One of the most significant ways AI is transforming the fintech industry is through personalised financial services",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
-      "originalUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
-      "publishedDateTime": "2023-10-04T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abp LIVE",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

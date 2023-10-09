@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/the-impo
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/the-importance-of-unlocking-ai-for-the-retailer-and-why-digitalization-is-the-first-step/"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging benefits of rapid advances in artificial intelligence and digitalisation, while mitigating risks underpins UN Forum on Internet Governance"
-    excerpt: "With the Internet holding a critical role in navigating these complexities, the 18 th UN Internet Governance Forum (IGF) got underway in Kyoto, Japan today under the overarching theme, ‘The Internet We Want – Empowering All People’."
-    publishedDateTime: 2023-10-09T13:28:00Z
-    webUrl: "https://www.un.org/sustainabledevelopment/blog/2023/10/leveraging-benefits-of-rapid-advances-in-ai-and-digitalisation-while-mitigating-risks/"
+  - title: "AI and data: Honing hyper-personalization to build the bank of the future"
+    excerpt: "This bank is using AI and a surfeit of information to create personalized experiences for its customers -- and there's much more to come, too."
+    publishedDateTime: 2023-10-09T20:19:00Z
+    webUrl: "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
     type: article
     provider:
-      name: webtv.un.org
-      domain: un.org
-    quality: 0
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
     images:
-      - url: "https://www.un.org/sustainabledevelopment/wp-content/uploads/2023/10/IGF2023_opening-e1696857183453.jpeg"
-        width: 2048
-        height: 1293
+      - url: "https://www.zdnet.com/a/img/resize/fda662863ef1d073e13c543085b5016d651c2491/2023/09/28/9d6479aa-492f-4628-95c3-581f7d68b1e4/gettyimages-1320874274.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler"
+    excerpt: "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared"
+    publishedDateTime: 2023-10-09T17:45:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg"
+        width: 895
+        height: 443
+        isCached: true
+  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
+    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
+    publishedDateTime: 2023-10-06T16:26:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
+        width: 1183
+        height: 630
         isCached: true
 
 secured: "exs0G1jXsUCMJex+JGlxm7nwM+YGmReuNUo9Caqfdd29vshqqCRH+nBhrunVhmmOXEu0zdgZOorModHHwxe3Ow4NrnVAFjfGzTB2d60p3lW85gC7ft7ca0btWz7GGmIoH7xm/ZPnxPpVGQKkWmbutRg+HIErZW/ZIcP/F1yG/y/iIKb+xOrEVxHQPeJ5beG3nL3yvIrQd8hRn/+fN3xBrFC15JMffwkJPEtuvAAJlYc+znRurm8f16Kg7QbkY7lR5epiNf2ITo5Nl6WZKFvPb2Qn6k78+UVEQh1EYa9O+O5nE4dWL8niNOdzcnbOqFUWDxo6vmHKdCbihXmjjvjKvWgd1auwHGQAUx3L4TtmV44=;M4Oxdf21TdSYMg4xb1QquA=="

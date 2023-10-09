@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-09-prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler",
-      "excerpt": "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared",
+      "path": "_news/2023-10-09-mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that the Mistral 7B foundation models, developed by Mistral AI, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. With 7 billion parameters, Mistral 7B can be easily customized and quickly deployed. You can",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg",
-          "width": 895,
-          "height": 443,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/mistral-7b-sagemaker-jumpstart.jpg",
+          "width": 894,
+          "height": 448,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T10:45:27-07:00",
+      "publishedDateTime": "2023-10-09T14:37:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -51,6 +51,161 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023.md",
+      "title": "Meta Extends Its AI Messaging To The Quest 3 And More At Meta Connect 2023",
+      "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag dives deep on the Quest 3 AR headset, Ray-Ban Meta smart glasses and AI-related news from the Meta Connect 2023 event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65244ab654f17051ab3d619a/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/",
+      "publishedDateTime": "2023-10-09T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain.md",
+      "title": "Gen AI a job threat? On the contrary, human workers have much to gain",
+      "excerpt": "Why show up to work when you can oversee a robot from the comfort of your own home? A new study sees increased workplace flexbility -- and more reasons for optimism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/",
+      "originalUrl": "https://www.zdnet.com/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/de474e5d9214c333fcb7c5367a7af8f0887b0af6/2023/10/09/f94bcd81-e55c-48e1-b81a-cfac17bb969f/hardhat-gettyimages-1375487979.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/",
+      "publishedDateTime": "2023-10-09T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future.md",
+      "title": "AI and data: Honing hyper-personalization to build the bank of the future",
+      "excerpt": "This bank is using AI and a surfeit of information to create personalized experiences for its customers -- and there's much more to come, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fda662863ef1d073e13c543085b5016d651c2491/2023/09/28/9d6479aa-492f-4628-95c3-581f7d68b1e4/gettyimages-1320874274.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
+      "publishedDateTime": "2023-10-09T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -114,7 +269,7 @@
       "originalUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -304,6 +459,57 @@
       ]
     },
     {
+      "path": "_news/2023-10-09-israel-hamas-war-causes-nvidia-to-cancel-ai-summit.md",
+      "title": "Israel-Hamas War Causes Nvidia To Cancel AI Summit",
+      "excerpt": "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "originalUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
       "title": "Artificial intelligence and a new era of human resources",
       "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
@@ -320,6 +526,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-10-09T06:16:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-putting-citizens-at-the-center-of-government-services-with-ai.md",
+      "title": "Putting citizens at the center of government services with AI",
+      "excerpt": "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "originalUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -734,7 +983,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -785,7 +1034,7 @@
       "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -933,7 +1182,7 @@
       "originalUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 681,
+      "heat": 671,
       "tags": null,
       "images": [
         {
@@ -975,247 +1224,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you.md",
-      "title": "AI as Your BFF? The Latest Chatbots Want to Get Personal With You",
-      "excerpt": "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise.md",
-      "title": "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise",
-      "excerpt": "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/",
-      "publishedDateTime": "2023-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-hedge-fund-investor-bill-ackman-just-loaded-up-on-this-top-artificial-intelligence-ai-stock.md",
-      "title": "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock",
-      "excerpt": "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg",
-          "width": 5530,
-          "height": 3111,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-link-building-uk-tech-veterans-connect-ai-startups-with-corporates.md",
-      "title": "Link Building: U.K. Tech Veterans Connect AI Startups With Corporates",
-      "excerpt": "AI, Quantum Computing and Blockchain startups are keen to find customers. Buyers may be more sceptical. A new initiative - TransformBase - seeks to close the gap",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
-      "originalUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651fc2ee4ad4ed5acb9501c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
-      "publishedDateTime": "2023-10-08T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
-      "title": "Google claims their AI innovation far beyond rivals",
-      "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "originalUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
-      "publishedDateTime": "2023-10-08T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

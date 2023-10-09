@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)"
+    publishedDateTime: 2023-10-09T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "Geoffrey Hinton and Fei-Fei Li draw thousands to talk about responsible AI development"
     excerpt: "A University Professor Emeritus at the University of Toronto who has been called the “godfather of AI,” Hinton has spent the past six months warning about the existential threat posed by the rapid development of large language models such as ChatGPT and Google’s PaLM – let alone nearer-term risks such as joblessness, fake news and “battle robots.”"
     publishedDateTime: 2023-10-06T15:01:00Z

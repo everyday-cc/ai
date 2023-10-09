@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T15:30:00Z
 originalUrl: "https://www.defensenews.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
 webUrl: "https://www.defensenews.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Defense News
@@ -15,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "B5g751T+l+fI6sMp8UPdkRuT8yv2Zx9whId1IlheOGH5JEErkiSmbfSjb8D2BlkWInAcRD1C2egITcWXVncr2qnVL6f8xW7LZKikBqvFJ2zpcbr0AejzKcFVZUD9JOiThG67EvF29QQfBuJGvLfkSudlcLOjJdpuFGi+Dw0CALhmcdFexFG73PYGko3ORl8OaYkDhpEv5p4GaOHVk3ykN2cSMkjWy4lwxmOsOIvzljguOQvL1eSMzBn5bg5J26tFmx6ct9lZcagMbgIxx1RDXMjBx/tb51Yi7wAb7jOY6OjvA4p/IHxJsJ9uroAQvYvaLnn5gEyGKufQryp+y9b6i3Qc58Xcd0B5AeyxoQZRyt+s6oFKsK6wai4MN7IVYuL9DkDRfDq1Anu7skY3uIDkAJHtUF8k/V6mpNhEayfQj7cIbor9nYEJ9tgFcTQJjddBlVVOihx4HHYLMKQcgY5jRoR8guPHN0BqUf+1jPXkzwCpy3Ce007sZ5L8QDR4TLCpgdI3J5Pp1b5Gdzrzi/A19w==;nxzdww3a9O1z7yOAHxwHGg=="
+images:
+  - url: "https://www.defensenews.com/resizer/LVrfObMwZF7s0jZ62KwaDIgrZug=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/FJVDRFAPHVFW5L2C6ZN2SKRPOY.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "vZsS6/XpNOWW+yUncVwKTuwmG9s0VJ5DsUupjuJQe2Ti/R2r4cKf0FI06F8MU70ymVJ6AfDyNvSY/jdv6PweOe88pLXHK3zYeE63CTu3i5turnMZsNh/X0Q2Jsz7OJASnTzm5I3MBi0xLxLqVKzYphabydCqPuCM/u3AJXQ8luJx3tWRW0safByxIJgze2ZS6dts7nOaoOqhJ8brbcHqQkbvFqcXaHjSzmHRcMKbYZbzIfWN4sNc2Vh4FKs6dFqm0jUPnZ6WKBH+LSLu8yhiJD8ZfG5CgG7zOG7QVCeZX8qj9jjHDvwDbtLO3OYjH/Jl8T4bXJrwNH8+B0JO3S/Y7u7hAyP5aqlqExCX7kBsMf0=;IcoMXmT3OEvB7z+zwgRTpg=="
 ---
 

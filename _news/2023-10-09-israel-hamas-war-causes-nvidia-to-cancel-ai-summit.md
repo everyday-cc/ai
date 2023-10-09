@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cance
 webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Column-Hamas Assault on Israel Shows Surprise Still Possible in AI Era: Peter Apps"
+    excerpt: "(Reuters) - On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
+    publishedDateTime: 2023-10-09T19:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-09/column-hamas-assault-on-israel-shows-surprise-still-possible-in-ai-era-peter-apps"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 41
 
 secured: "tuOBsubRz2Bhg2YeSiU4TS5FxdhzRZg+1mo+NdCd94ZRsdXzpgZvS7SmugjgHJltufuq9waklMIInQ817IKZ0pAdkmOGn/SeoW9Z7rdxkccpBH5uKg6+D6aDoeRrrhbtM6b37YOtvGdXAkVIfhcjeOI6hvtvtXgGEW9GRSBWeb+AYx+2GI3mZMXa34npjbYhzEZEs8uDRU6+aUo1jUa+y9LoWTCyVGBgqgsWBcRp9V2dZCPlnvdgU8hSKoqiSBYiSorR2R4YU6PPagdUby/0RVX5UjgUgepSDpL2gexXtiIS+OT6R9v9gfBXIUvRNtfgt46yaBjvVXD/5yTE6FY//z52v0c0U+GWNLDx5hlf7cdJvkdrscGVnLm5NhOq2z5+vAriC+wIDN9Znc+KH0ZoEVBqdZqp7/7BS5/UYYkm2y9f9jNT2KBIpo+TVwmCrFcEcDVUs+KBeRrRBRA7jrYsRWtIwwTCoDLTpVH99Grh1pgB4cJXnhHqoC8hwO0T4uqLP+QC92WmNCCIfbEqQuCuig==;UwN+k40vvG0Pq99sD6fooA=="
 ---

@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-09-putting-citizens-at-the-center-of-government-services-with-ai.md",
+      "title": "Putting citizens at the center of government services with AI",
+      "excerpt": "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "originalUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
       "title": "The synergy between UEM and medical device risk management",
       "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
@@ -1310,48 +1353,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-the-next-wave-of-payments-modernization-minimizing-complexity-to-elevate-customer-experience.md",
-      "title": "The next wave of payments modernization: Minimizing complexity to elevate customer experience",
-      "excerpt": "IBM aims to help clients transform modern payments architectures and maximize investments while accelerating cloud adoption for the most sensitive data.\nThe post The next wave of payments modernization: Minimizing complexity to elevate customer experience appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-next-wave-of-payments-modernization-minimizing-complexity-to-elevate-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blog/the-next-wave-of-payments-modernization-minimizing-complexity-to-elevate-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T06:44:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

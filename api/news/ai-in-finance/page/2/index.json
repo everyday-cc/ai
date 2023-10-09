@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-15-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks.md",
+      "title": "Machine Learning and AI in Algo trading: Predictive analytics for stocks",
+      "excerpt": "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
+      "publishedDateTime": "2023-09-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-ai-and-machine-learning-usage-up-155-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds.md",
+      "title": "AI and Machine Learning Usage up 15.5% Among Marketing Teams, Snowflake Modern Marketing Data Stack Report Finds",
+      "excerpt": "No-Headquarters/BOZEMAN, Mont. — Snowflake (NYSE: SNOW), the Data Cloud company, today released its Modern Marketing Data Stack 2023: How Data-Forward Marketers Are Redefining Strategies to Unify, Analyze, and Activate Data to Boost Revenue report.",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-machine-learning-usage-up-15-5-among-marketing-teams-snowflake-modern-marketing-data-stack-report-finds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/09/bw20230914222851_snowflake_mmds_2023_leaders.jpeg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-thailands-kbank-starts-100m-fund-targeting-ai-and-web3.md",
       "title": "Thailand's KBank Starts $100M Fund Targeting AI and Web3",
       "excerpt": "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services.",
@@ -1205,74 +1294,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-a-guide-to-fintech-etf-investing.md",
-      "title": "A Guide to Fintech ETF Investing",
-      "excerpt": "According to ResearchAndMarkets.com, AI in the fintech market will witness a remarkable CAGR of 23.6% from 2023 to 2028. Significant factors contributing to this expansion include the rising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing",
-      "originalUrl": "https://www.nasdaq.com/articles/a-guide-to-fintech-etf-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-provenir-named-us-fintech-awards-2023-finalist-in-two-categories-fintech-of-the-year-and-data-initiative-of-the-year.md",
-      "title": "Provenir Named US Fintech Awards 2023 Finalist in Two Categories, 'Fintech of the Year' and 'Data Initiative of the Year'",
-      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named a finalist in the \"Fintech of the Year\" and \"Data Initiative of the Year\" categories for the US Fintech Awards 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/08/22/9868268.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

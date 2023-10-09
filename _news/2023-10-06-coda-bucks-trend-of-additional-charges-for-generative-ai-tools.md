@@ -84,6 +84,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
+  - title: "Generative AI and the impact on financial services"
+    excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
+    publishedDateTime: 2023-10-09T08:00:00Z
+    webUrl: "https://www.techcentral.ie/generative-ai-and-the-impact-on-financial-services/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
+        width: 620
+        height: 351
+        isCached: true
   - title: "Addressing the Abuses of Generative AI in the Legal Profession"
     excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
     publishedDateTime: 2023-10-09T13:17:00Z

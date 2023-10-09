@@ -43,33 +43,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Voice referendum: Indigenous rights vote is a reckoning for Australia"
-    excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
-    publishedDateTime: 2023-10-05T04:08:00Z
-    webUrl: "https://www.aol.com/voice-referendum-australia-playing-catch-151705753.html"
+  - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
+    excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
+    publishedDateTime: 2023-10-07T08:00:00Z
+    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 24
+    quality: 34
     images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/631ccfa74992b516681755c5d2cc2777"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Both camps in Australia’s Voice referendum pledge to cut spending for impoverished Aborigines"
-    excerpt: "Donate today The Voice’s origins lie in the decision of then Liberal ... The gathering, which agreed to moves towards indigenous Constitutional recognition which have culminated in the current referendum, was an attempt by Abbott to suppress anger ..."
-    publishedDateTime: 2023-10-05T03:38:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/05/zttk-o05.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 13
-    images:
-      - url: "https://www.wsws.org/asset/d42b4694-e8a4-4e3a-8bc8-c25caae9b57a?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
     excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"

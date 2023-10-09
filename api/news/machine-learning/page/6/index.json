@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-13-rbi-selects-mckinsey-accenture-for-regulatory-supervision-with-ai-machine-learning.md",
+      "title": "RBI Selects McKinsey, Accenture For Regulatory Supervision With AI, Machine Learning",
+      "excerpt": "The Reserve Bank has selected global consultancy firms McKinsey and Company India LLP and Accenture Solutions Pvt Ltd India to develop systems using artificial intelligence and machine learning for its supervisory functions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1",
+      "originalUrl": "https://www.bqprime.com/rbi-governor/rbi-selects-mckinsey-company-accenture-solutions-for-regulatory-supervision-with-ai-machine-learning?src=p1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2023-04%2Fd4a0d7b4-ce76-46c3-a415-0fee6f73f394%2FRBI_DP_2.jpeg?rect=0%2C1%2C1600%2C840&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-13T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bqprime",
+        "domain": "bqprime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-now-study-machine-learning-cloud-computing-ai-at-aktu.md",
       "title": "Now, study machine learning, cloud computing, AI at AKTU",
       "excerpt": "Lucknow: APJ Abdul Kalam Technical University (AKTU) will offer students certificate courses cum summer internships in machine learning (ML), cloud co.",
@@ -1321,59 +1365,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker.md",
-      "title": "Scale training and inference of thousands of ML models with Amazon SageMaker",
-      "excerpt": "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg",
-          "width": 982,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T08:05:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

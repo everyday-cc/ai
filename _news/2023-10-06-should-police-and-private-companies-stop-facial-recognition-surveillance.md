@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/tech/police-private-facial-recognition-surve
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/"
 type: article
 quality: 58
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
+  - title: "CyberLink unveils new facial recognition integrations for POS kiosks, video surveillance"
+    excerpt: "Fintechs, banks, digital wallets, biometric POS terminals and other clients can access the faster enrollment, age verification and customer experiences."
+    publishedDateTime: 2023-10-09T18:56:00Z
+    webUrl: "https://www.biometricupdate.com/202310/cyberlink-unveils-new-facial-recognition-integrations-for-pos-kiosks-video-surveillance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 10
 
 secured: "ObHj20+swsUAtNaox4/oDtoFF0D0vutbcrNM/4P9SyNkk1tg/noAF5MHTLJeG+YkKTb9CjHpYwHVKef3CUKwfg34Op3TShuh41aaQgyr0rNSPXQhB8fg9DVbcdUuw1qKby1CMFkBNOlJ630Cf4iitthOuH/9RIjvIleqbhUGv8fwK2c0SZBNWmlWH4fozMUhqGlLRexwoI+/3OBGgg59LC1oHzJOkwSBPzWC2bPNzMVxmHxwa5RTP4IHyxLXfT9gfz5qpgxeBjQyUsZyoVcxsTtrg/5m8gTqoqsJKH2KstaXhfnzWGkVtrGWoT0tDStWbCWe+GW7aQia6crox50fiSNyBNQECagE8oX6TDmsb2Oq2Zv2ug4AhQQ29+ozcx0d5pQrLmqgovG3xXBRVizAtM8IoLvwu83QasT7m5x4MRpETIUdEvNl4VvpnboDj8q9yry39nNHrJu5NRr3CJGu/mowZXUFNF8ygsJVHkXP5QAlYtmxhNPjYBnZxVciIA7qapby2BPaBaasvQCItT/leQ==;tXlkFdvJQq5W7oT0biAYIw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI facial recognition: Campaigners and MPs call for ban"
-excerpt: "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public."
-publishedDateTime: 2023-10-05T23:00:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA"
+excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
+publishedDateTime: 2023-10-05T23:33:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-67022005"
+webUrl: "https://www.bbc.co.uk/news/technology-67022005"
 ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
 type: article
@@ -85,7 +85,16 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
+    excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
+    publishedDateTime: 2023-10-09T18:02:00Z
+    webUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+    type: article
+    provider:
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 9
 
-secured: "mCUxg2cn3aM2LcdHBJPWLqCKa1d9NDXLA/fcUpfybpI0M1o2hn1JwYktfi7ozYS2oV0idEcQVT3Pmhm+jyYZp9KqmxKaMEii+GpNuvOsaGIAMhQgvAc/go8jzcu8SYFHEsgXWrDbeNnxDS3uBLHHYo1Pr5ztwcXEnUqttiBvVSiAq2zPu0iuJfLJa+MJZycFjnfHMYyVHwuLYyAvsh8MCwUAjx8nmXJjvTHPHXubWST2K3kHlS3FpX8lpAVL/MXpLPWe3DEXZVZCknTapUzme+nbDfZ7tRUiYvzMZiMA2xc5f5bz4KUgg26keZuLyonqsp4BpcdV3modgu9EdO/zd/25iH8ZPo6TzDfED0yw/7yCHHRGkXSU2P0PpsanEsJZMbTYi+XxMl4PF9eZRKY0/xmMI4K9+UkY7EIK9X77lO0PSpS4N3u9uOXfInWt/jC/O13JT48GJbHFY2hb4NVoOaqeZexuj1/8q9w3h2sNNvUTeI7MVWMV8Z4UoWa7M+sOPs1lYriRb9V0QUHKimekNw==;vV4Z+UPEA6Fp2pIPTw8aww=="
+secured: "AlHiJHsXHoqbkL8pYzc2/lhg6uGIspmEde8bMfOB0Q9cU5zy0DHrILMuv0iDxlSGxqSfGZF2P8CcCd7LwrDdJ24GEv7LMbggNr+hwXTvh/WXU2YcrfABzBp1J16AWRxRAfl3I/nQ730I15AeM2penhF/f48FWCS96jRQdRy+5n4klsgKM6Sdd8iNkcZt+n043CKYFfIbIRZJm7BekvfVU7EScUwPOZLtteTiOgBgxIjnfLYQKLyYTe9/kBRkQhVFk9deDkeiUdn7U4Sr47Vss9X45XHu5kjwV9O+H5uHxXuzwuLLuQ++8gGOhVdauZyTmUvDZ44HAN00U6hiYgt7ghxsMggfDAKpiIjimZyCGlM=;TJMyd7m8xtq5CSW7eHyhBg=="
 ---
 

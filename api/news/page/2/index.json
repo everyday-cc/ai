@@ -2,6 +2,247 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-08-ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you.md",
+      "title": "AI as Your BFF? The Latest Chatbots Want to Get Personal With You",
+      "excerpt": "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise.md",
+      "title": "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise",
+      "excerpt": "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/",
+      "publishedDateTime": "2023-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-hedge-fund-investor-bill-ackman-just-loaded-up-on-this-top-artificial-intelligence-ai-stock.md",
+      "title": "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock",
+      "excerpt": "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg",
+          "width": 5530,
+          "height": 3111,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-link-building-uk-tech-veterans-connect-ai-startups-with-corporates.md",
+      "title": "Link Building: U.K. Tech Veterans Connect AI Startups With Corporates",
+      "excerpt": "AI, Quantum Computing and Blockchain startups are keen to find customers. Buyers may be more sceptical. A new initiative - TransformBase - seeks to close the gap",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "originalUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651fc2ee4ad4ed5acb9501c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trevorclawson/2023/10/08/link-building-uk-tech-veterans-connect-ai-startups-with-corporates/amp/",
+      "publishedDateTime": "2023-10-08T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
+      "title": "Google claims their AI innovation far beyond rivals",
+      "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
+      "originalUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp",
+      "publishedDateTime": "2023-10-08T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip.md",
       "title": "Cramer Says 'Will Not Sell' Nvidia Stock On 'Misinformation' About Microsoft AI Chip",
       "excerpt": "Cramer shrugged off a report that said Microsoft is prepping to give Nvidia a run for its money with an in-house designed AI chip.",
@@ -10,7 +251,7 @@
       "originalUrl": "https://www.benzinga.com/markets/equities/23/10/35137068/cramer-says-will-not-sell-nvidia-stock-on-misinformation-about-microsoft-ai-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -54,7 +295,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -192,7 +433,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -243,7 +484,7 @@
       "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -738,7 +979,7 @@
       "originalUrl": "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -841,7 +1082,7 @@
       "originalUrl": "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -967,256 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-hollywood-strikes-sparking-ai-negotiations-in-every-creative-industry.md",
-      "title": "Hollywood Strikes Sparking AI Negotiations In Every Creative Industry",
-      "excerpt": "Rather than imposing strict limitations, we should advocate for regulations and guidelines that promote responsible and ethical use of AI in every creative industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65201588a7304fbf34c72d20/0x0.png?format=png&width=1200",
-          "width": 1050,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/",
-      "publishedDateTime": "2023-10-06T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-graphcore-was-the-uks-ai-championnow-its-scrambling-to-survive.md",
-      "title": "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive",
-      "excerpt": "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
-      "originalUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-assistive-intelligence-not-artificial-lets-make-it-about-serving-humans.md",
-      "title": "Assistive Intelligence, Not Artificial: Let’s Make It About Serving Humans",
-      "excerpt": "In other fields, the world is already filled with examples of how Assistive Intelligence is making—and can continue to make—the world a better place, from helping to diagnose and treat cancer, to spotting and catching human traffickers, to protecting our global environment and cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ebc0e4a8614b468841a52/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/06/assistive-intelligence-not-artificial-lets-make-it-about-serving-humans/amp/",
-      "publishedDateTime": "2023-10-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk.md",
-      "title": "AI Is Not Your Enemy: Why Unfounded Fears Around AI Are Putting Organizations At Risk",
-      "excerpt": "While it is important to acknowledge legitimate concerns surrounding AI, like safety, privacy and equitable access, it is equally crucial to recognize that extreme AI alarmists are inadvertently doing a disservice to society. They are turning people away from a transformative technology that could vastly benefit both industries and individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/",
-      "publishedDateTime": "2023-10-06T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
-      "title": "Instant evolution: AI designs new robot from scratch in seconds",
-      "excerpt": "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231003173425.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

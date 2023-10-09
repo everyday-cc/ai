@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How retailers and consumer goods companies are realising the power in planning ahead"
-    excerpt: "British supermarket chain Asda serves more than 18 million customers every week via its supercentres, superstores, small grocery stores, Asda Living stores and e-commerce site. To ensure it can deliver the right products to the right customer in the right place at the right time,"
-    publishedDateTime: 2023-10-06T08:39:00Z
-    webUrl: "https://www.technologyrecord.com/article/how-retailers-and-consumer-goods-companies-are-realising-the-power-in-planning-ahead"
+  - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
+    excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
+    publishedDateTime: 2023-10-05T16:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/5/ftc-probing-artificial-intelligence-tools-eyeing-p/"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 32
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 37
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4618/retail-feature_975x548.jpg"
-        width: 975
-        height: 548
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/08/10/Election_2024_Artificial_Intelligence_70000_c0-246-5908-3692_s1200x700.jpg?574e1805b88ac814ff041f1a4a4a1d72545b0d17"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "7ntuOClTWeZEldiry9lzu2VC7GZEG1Bqu6I9Ry81yetbIDsz2D4seym7JJtyG7HBGQAaJsOm3DikP0t1v0BhA/6FgFwSR2fNGFOmjw6x+Z/seN3x7VlcPx+TH6hL85v/8VaoJ0C1R7OgND8lRtDUBQsocfCkshe1Cv/qwRowQ6dDTP+PcbOTG/FzLIcMEF8pJjPENOG4YNlT0CuboQEYtNgTaRKf97l14uyQRzuFKUlvLvz1nAIPHMZnBdNNWkHf+qU2EmoGQ973Sp8koMAoTttibpkNiJnuuNWGqcgg//42u9TAmxqkbi0qJb2UXNay7Xs6ettzSZnJew6QtT21PuSSlKRcXFq6OgHP7jn7XdlJ/z8r1bk4J/YHrYbBrnVPdJrjtldU+g+nmEhuoAutTkoAo3LwKrizk5hr1Uv3Dxk6mTYbWckVsorct1k6wcO8oOalCek7LKKx3yRNuIR0YLj6jLqrEcIjBq0qoxOenJ0aCrMqH9vQcd6Qb4Va4CMv8QX8BjJZj1xO3nXmJbQCXg==;7W47nn8uIqJSkaDTfnpDBQ=="

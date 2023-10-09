@@ -66,6 +66,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 49
+  - title: "Could AI find alien life faster than humans, and would it tell us?"
+    excerpt: "Machine-learning algorithms are transforming the search for extraterrestrial intelligence, finding candidate signals faster and better than ever before, but the development of artificial general intelligence could complicate contact."
+    publishedDateTime: 2023-10-09T21:00:00Z
+    webUrl: "https://www.space.com/could-ai-find-alien-life-faster-than-humans"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gqJY6ym5VXcad6GYw8gwaa-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "PMQSN4upqYXCkNebk9yA+9LhVhf8/uWmUkjaA4Lczt+PdDXiRx7JW2njyawCUBsj43KUt9bsAX8AoLrA8CcWASJkYBLAzyRdGY1FYuKtz0QQIQR+ZCPV7wTHmpWnSn5zNG7vyKJA74/Vpfmn3no0dN4Rh1IM5SMQOo8c6dUekSZxpT9vJ3HtLrqpxkc/w/jpJFcr+8RBGB8mQVtBYcsNWNWxifwoqYqmGJ+Qzv5V+0LO0/W+AkfTc1YgkfdGuV6hNw4xMoHGrJcyx205S6Ek9K05+YIKw1yLt81CsqqhwwlYQRhr4AngjjVvEFsEmRrm1p7V1FcgJc1U2O0ktgtNXFYucq8+AmI5c3s72ErB0GY=;J3iNI6pNvKtEaxkF8al2pg=="
 ---

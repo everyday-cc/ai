@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:30:00Z
 originalUrl: "https://www.carscoops.com/2023/10/could-chinese-self-driving-cars-go-on-a-programed-killing-spree-in-america-some-lawmakers-think-so/"
 webUrl: "https://www.carscoops.com/2023/10/could-chinese-self-driving-cars-go-on-a-programed-killing-spree-in-america-some-lawmakers-think-so/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Carscoops

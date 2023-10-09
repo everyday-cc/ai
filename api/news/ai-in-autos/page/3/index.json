@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-15-artificial-intelligence-helps-doctors-predict-patients-risk-of-dying-study-finds-sense-of-urgency.md",
+      "title": "Artificial intelligence helps doctors predict patients’ risk of dying, study finds: ‘Sense of urgency’",
+      "excerpt": "With research showing that only 22% of Americans keep a written record of their end-of-life wishes, a team at OSF HealthCare in Illinois is using artificial intelligence to help physicians ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
+      "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-helps-doctors-predict-patients-risk-dying-study-finds-sense-urgency.amp",
+      "publishedDateTime": "2023-09-15T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-15-driving-tests-should-be-adapted-to-make-sure-motorists-know-how-to-take-control-of-a-self-driving-car-mps-warn.md",
+      "title": "Driving tests should be adapted to make sure motorists know how to take control of a self-driving car, MPs warn",
+      "excerpt": "Driving tests will have to be adapted to make sure motorists know how to take control of a self-driving car, a report by MPs has warned. The report, by the Commons Transport committee, urged the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12520833/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/09/15/01/75454361-0-image-m-28_1694736253236.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12520833/amp/Driving-tests-adapted-make-sure-motorists-know-control-self-driving-car-MPs-warn.html",
+      "publishedDateTime": "2023-09-14T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-2023-self-driving-truck-technology-market-size-restricted-information-analysis-forecast-2030.md",
       "title": "2023 | Self-Driving Truck Technology Market Size, Restricted Information Analysis Forecast 2030",
       "excerpt": "\"Self-Driving Truck Technology Market\" Size, Share, Growth Report 2023-2030 | | No. of pages: 98 Report which offers an in-depth analysis Grounded on Applications (Transport, Mining, Military ...",
@@ -1200,110 +1295,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-waymo-is-using-insurance-data-about-self-driving-cars-to-bolster-its-safety-case.md",
-      "title": "Waymo is using insurance data about self-driving cars to bolster its safety case",
-      "excerpt": "Waymo is using insurance data to make the case that its self-driving cars are safer than human drivers. The report, a result of the collaboration first announced last year between the Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re",
-      "originalUrl": "https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/au2BrlIJsYbjuGSUh97wHAFrVJk=/0x0:3000x1875/1200x628/filters:focal(1500x938:1501x939)/cdn.vox-cdn.com/uploads/chorus_asset/file/24903258/1626054002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-baidu-stock-looks-attractive-despite-recent-rally.md",
-      "title": "Baidu Stock Looks Attractive Despite Recent Rally",
-      "excerpt": "Chinese search engine behemoth Baidu’s stock (NASDAQ: BIDU) has fared better than its peers, rising by about 23% year-to-date, performing slightly better than the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f803f7a4caebd82772ce0c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/09/06/baidu-stock-looks-attractive-despite-recent-rally/amp/",
-      "publishedDateTime": "2023-09-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

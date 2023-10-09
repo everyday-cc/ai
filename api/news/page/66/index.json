@@ -2,6 +2,402 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-08-22-ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization.md",
+      "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
+      "excerpt": "\"We have had excellent client response to our generative AI investments and we are intrigued by the opportunity to further our efforts by leveraging IBM watsonx Code Assistant for Z to address a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230822ny89766/ibm-unveils-watsonx-generative-ai-capabilities-to-accelerate-mainframe-application-modernization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-melatonin-and-its-derivatives-improve-long-term-memory-for-object-recognition-study.md",
+      "title": "Melatonin and its derivatives improve long-term memory for object recognition: Study",
+      "excerpt": "Talking about the studys results, Prof. Chiba concluded, Our findings suggest that melatonin is involved in promoting the formation of long-term object recognition memory by modulating the phosphorylation levels of memory-related proteins such as ERK, CaMKIIs, and CREB in both receptor-mediated and nonreceptor-mediated signalling pathways.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Health/20230822/4110943.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-cipia-uses-computer-vision-ai-to-empower-driver-monitoring-technology.md",
+      "title": "Cipia uses computer vision AI to empower driver-monitoring technology",
+      "excerpt": "Israel-based Cipia develops driver-monitoring systems enabled by computer vision AI. The company has gained a presence in China, poised to scale up in the US and Europe. Cipia, formerly Eyesight Technologies, concentrated on using computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230822VL206/cipia-israel-ai-driver-monitoring-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230822vl206_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together.md",
+      "title": "Tesla Investor Says EV Giant And Nvidia's AI-GPU Fusion Is The 'Future' Now: 'It's All Coming Together'",
+      "excerpt": "Tesla Inc TSLA investor Ross Gerber highlighted the synergy between Nvidia Corp NVDA and Tesla, emphasizing the convergence of AI autonomy and GPU technology. The tweet came amid the combined market value of the two companies matched the entire value of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
+      "originalUrl": "https://www.benzinga.com/news/23/08/33976696/tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla.Shutterstock_4.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33976696",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33976696",
+      "publishedDateTime": "2023-08-21T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-why-waymo-and-cruise-will-go-bankrupt.md",
+      "title": "Why Waymo and Cruise Will Go Bankrupt",
+      "excerpt": "Waymo started in 2009 and Cruise started in 2013 ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/08/why-waymo-and-cruise-will-go-bankrupt.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/08/why-waymo-and-cruise-will-go-bankrupt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-21-at-7.25.49-AM.jpg",
+          "width": 1142,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-about-21-million-jobs-held-by-women-and-9-million-jobs-held-by-men-could-be-replaced-by-ai-ilo.md",
+      "title": "About 21 million jobs held by women and 9 million jobs held by men could be replaced by AI: ILO",
+      "excerpt": "A new study by the ILO published on Monday finds admin workers and women face a greater risk of their jobs being replaced by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-unlikely-destroy-jobs-admin-workers-greatest-risk-chatgpt-2023-8?amp",
+      "publishedDateTime": "2023-08-21T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe.md",
+      "title": "Meta confirms AI ‘off-switch’ incoming to Facebook, Instagram in Europe",
+      "excerpt": "The bloc’s concern is that AI-driven feeds undermine user ... access to publicly-available content across Facebook and Instagram of any research tool we have built to date.”",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
+          "width": 1024,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/meta-confirms-ai-off-switch-incoming-to-facebook-instagram-in-europe/amp/",
+      "publishedDateTime": "2023-08-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud.md",
+      "title": "Sends Team visited the Fintech and AI event hosted by the Google Cloud",
+      "excerpt": "On the 18th of August, Google Cloud organised the event, which covered the topic of Fintech and AI. Representatives from leading tech companies gathered at Google London HQ to share their experiences. Sends team took part as the attendees to get insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/ab33975069/sends-team-visited-the-fintech-and-ai-event-hosted-by-the-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33975069",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33975069",
+      "publishedDateTime": "2023-08-21T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-why-ai-is-on-the-edge.md",
       "title": "Why AI Is On The ‘Edge’",
       "excerpt": "It might be possible to find an enterprise technology vendor that isn’t currently extending its core platform with new strains of generative Artificial Intelligence ... delivering Deep Learning (DL) and neural network intelligence for users to quiz ...",
@@ -728,445 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-were-adding-to-our-position-in-this-ai-software-leader-on-a-post-earnings-pullback.md",
-      "title": "We're adding to our position in this AI software leader on a post-earnings pullback",
-      "excerpt": "With the stock market still in oversold territory Monday, we remain on the hunt for stocks of high-quality companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/21/were-adding-to-our-position-in-this-ai-software-leader.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107279969-1690906498059-gettyimages-1569410256-Omarques_01082023_techPOL_8_of_21.jpeg?v=1692640426&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
-      "title": "The voice actor behind Nintendo’s Mario is retiring",
-      "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
-      "originalUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/08/Switch_SMO_ND0913_SCRN07.bmp?w=840",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
-      "publishedDateTime": "2023-08-21T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
-      "title": "Natural language processing to extract social risk factors influencing health",
-      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/health.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
-      "publishedDateTime": "2023-08-21T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-abba-star-helps-youtube-come-to-grips-with-ai-music.md",
-      "title": "Abba Star Helps YouTube Come To Grips With AI Music",
-      "excerpt": "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e37aca73c315b2510c8df7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/08/21/abba-star-helps-youtube-come-to-grips-with-ai-music/amp/",
-      "publishedDateTime": "2023-08-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.md",
-      "title": "Paytm investing in AI to build Artificial General Intelligence software stack: CEO",
-      "excerpt": "CEO Vijay Shekar Sharma said Paytms next contribution will be small mobile credit with high credit quality and fully compliant with the regulators guidelines",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/articleshow/102914952.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35592,msid-102914945/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/paytm-investing-in-ai-to-build-artificial-general-intelligence-software-stack-ceo/amp_articleshow/102914952.cms",
-      "publishedDateTime": "2023-08-21T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-ibms-new-analog-ai-chip-is-more-efficient-than-power-hungry-gpus.md",
-      "title": "IBM's new analog AI chip is more efficient than power-hungry GPUs",
-      "excerpt": "The new analogue AI chip, which is still in development, has the capability to both compute and store memory in the same location. This design emulates",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "originalUrl": "https://www.techspot.com/news/99859-ibm-new-analog-ai-chip-more-efficient-than.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-21-image-7.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
-      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
-      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "publishedDateTime": "2023-08-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-timber-construction-could-get-even-greener-with-a-little-help-from-ai.md",
-      "title": "Timber construction could get even greener with a little help from AI",
-      "excerpt": "Compared with traditional concrete construction, sustainable timber architecture is better for the environment – but there's always room for improvement. With this in mind, a new startup co-founded by Carlo Ratti says it could reduce waste in the manufacturing process of cross-laminated",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/architecture/carlo-ratti-maestro-ai/",
-      "originalUrl": "https://newatlas.com/architecture/carlo-ratti-maestro-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/ef53f3e/2147483647/strip/true/crop/2500x1313+0+226/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fcc%2F8ec7d4d44ebea89852243ebe0970%2Fmaestro-shanghai-6-credit-reed-photographic.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-does-ai-pose-an-extinction-risk-the-guardrails-to-keep-ai-on-track-without-stifling-innovation.md",
-      "title": "Does AI Pose An Extinction Risk? The Guardrails To Keep AI On Track Without Stifling Innovation",
-      "excerpt": "While many doomsday scenarios may never come to pass, AI does have the power to cause the dangers that are being discussed today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y125,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/21/does-ai-pose-an-extinction-risk/amp/",
-      "publishedDateTime": "2023-08-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

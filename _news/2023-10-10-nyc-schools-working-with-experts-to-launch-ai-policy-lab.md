@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:56:00Z
 originalUrl: "https://www.govtech.com/education/k-12/nyc-schools-working-with-experts-to-launch-ai-policy-lab"
 webUrl: "https://www.govtech.com/education/k-12/nyc-schools-working-with-experts-to-launch-ai-policy-lab"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Government Technology

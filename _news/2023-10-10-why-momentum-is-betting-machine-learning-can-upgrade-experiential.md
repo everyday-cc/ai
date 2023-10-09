@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:48:00Z
 originalUrl: "https://www.marketingdive.com/news/momentum-experiential-marketing-agency-generative-AI-machine-learning/696022/"
 webUrl: "https://www.marketingdive.com/news/momentum-experiential-marketing-agency-generative-AI-machine-learning/696022/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Marketing Dive

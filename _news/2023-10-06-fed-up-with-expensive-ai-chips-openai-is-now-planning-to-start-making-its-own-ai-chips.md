@@ -758,20 +758,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
-  - title: "Cognitive/Artificial Intelligence Systems Market Streamlining Content Management 2023 to 2030 | IBM, Microsoft, Google"
-    excerpt: "Market Overview: Cognitive/Artificial Intelligence ... Key players in this market include companies like IBM, Microsoft, Google, Amazon Web Services (AWS), and NVIDIA, among others."
-    publishedDateTime: 2023-10-05T03:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/35082500/cognitiveartificial-intelligence-systems-market-streamlining-content-management-2023-to-2030-ibm-mi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Peter Thiel's Multiverse Theory, Tom Hanks' AI Warning, Microsoft's Bing AI Image Creator Controversy And More: This Week In AI"
     excerpt: "PayPal Holdings Inc. co-founder, Peter Thiel, weighed in on the longstanding debate among physicists and computer scientists about the nature of our universe. In the World of DaaS podcast, Thiel suggested that depending on who you ask, we are either living in a multiverse or a simulation. Read the full article here."
     publishedDateTime: 2023-10-08T13:07:00Z

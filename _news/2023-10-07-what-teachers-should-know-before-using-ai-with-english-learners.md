@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Why is AI only coming for English Majors?"
-    excerpt: "What I am against is the replacement of humans with AI. As seen with the writers’ strike, companies don’t want to treat writers as valued employees. “The endgame is to allow things to drag on until union members start losing their apartments and ..."
-    publishedDateTime: 2023-10-05T04:19:00Z
-    webUrl: "https://dailycollegian.com/2023/10/why-is-ai-only-coming-for-english-majors/"
-    type: article
-    provider:
-      name: The Massachusetts Daily Collegian
-      domain: dailycollegian.com
-    quality: 37
-    images:
-      - url: "https://dailycollegian.com/wp-content/uploads/2023/10/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg"
-        width: 2001
-        height: 1572
-        isCached: true
-
 secured: "cnf6M+bkgqjD9YG3mz+GYkah1fLtmytopv4XksOWgqHI5A8QFHUXoncs/VIlTaTSg1W3rcx3YGoanBb8Svt5e57rGY7mgns7jk9aF3ccUCuxHhqSQm8kjh3fU/dGgpPL10vrK1tbE5BfwWBLSPFTnaPfkMs2pvk1tRdU8TW63g5YisWKOnfiVFp99Oyuscc9ALbdJjrLW7n5bO8R6IIqfL0smcch0/dovpo1REDtPqZYuugh/8V3ztIi1CfdaVENc579zszHDs7Bj159XSSEXgtwAYMTDbUe7fqj6Bh7SHmYSr3RHstVwvmIGsJKEuLmWU6Oi7ZQL2s3mvQ/akNmWa1J07U2+L15zs7JoCPtL6EHgkgM3dX/mRGo65eiFrfXwOHweouX/Aban3H/glKvhNR7Y7axJg/bw1y0TF3qf1pr7Xu5z7woViYRec28YV9AaQnaPAd8Hm6nIvuG3yyYa4BhEu/GwBxFX2u3ye21HzUsOcd+f3x77DXqgiQ7WB4NnsI+cFgFF1EYpTQNWMxuAg==;koYnXGMvkyHjngYcj+32ZA=="
 ---
 

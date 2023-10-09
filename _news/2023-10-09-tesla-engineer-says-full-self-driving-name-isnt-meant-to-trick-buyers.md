@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driv
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial"
+    excerpt: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial By Dan Levine and Hyunjoo Jin SAN FRANCISCO (Reuters) - A Tesla engineer in court on Wednesday rejected a lawyer's suggestion that ..."
+    publishedDateTime: 2023-10-05T19:22:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "3oSwKjj+EBWPHx3WydGJjMDJK4Wlt94AR+/DyxWxBLnzu56DNQEO+oa6cCAjbX16sxLfgmnigbEQZ6qYVGOqkgbK5rFTQQ5rWIsxV40p32Bv0GxQgpx56xtfZfxoR9xszhVaFJeq8UbAvKMgVJH5uAufroDI9hnx9Xid6+sWJoQhnThfW3PsENv4mz6bYSDOGZfJBN820aQD+j4dTeDKk52dP8UBBw9MR1xpHce8AZggnxZhgxxasgEkANOiQAWQ/Z/rKsO2rHFH+BPrBLJoTV4tz6/KfuKdKk9hmw+w8zhOWGlI2VQJaZpwk8RXrAFyC4ch0kZ5rmynu1/qlN/d35//ceCu9emI1NWvoYnIatKfwhjuXJehbPvDbPu7JHGeWIIzBRlAuzGIMP63zRB6z0tfx9POeEY3wsZJepk/Ii0QoyOxIAikc3l/4ih1yTOHmsHJKVDE4vZMwL6u3PKOc1TBRpbz1DDHj0BUcPe/5s+JicD2bfNNntFbYKi/JSgk0CFwAAJ07sadW4HsvXEX1w==;FtkhS3g5013ba1bIc7VzzQ=="
 ---

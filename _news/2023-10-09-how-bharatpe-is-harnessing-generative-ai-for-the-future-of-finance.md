@@ -72,6 +72,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
+    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
+    publishedDateTime: 2023-10-09T18:05:00Z
+    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
   - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
     excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
     publishedDateTime: 2023-10-05T18:36:00Z

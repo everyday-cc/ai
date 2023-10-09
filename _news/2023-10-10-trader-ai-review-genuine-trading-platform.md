@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:53:00Z
 originalUrl: "https://insidebitcoins.com/bitcoin-robot/trader-ai-review"
 webUrl: "https://insidebitcoins.com/bitcoin-robot/trader-ai-review"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Inside Bitcoins

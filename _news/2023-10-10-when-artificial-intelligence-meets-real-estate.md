@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T19:00:00Z
 originalUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/10/when-artificial-intelligence-meets-real-estate"
 webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/10/when-artificial-intelligence-meets-real-estate"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FloridaRealtors.org

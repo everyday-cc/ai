@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-2.jpg&signature=86af06e93f90321a3bfabd66dc3c93af"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The Ethics of AI in Political Creative"
+    excerpt: "As the industry awaits guidance for where the compliance boundaries lie with AI, practitioners will have to decide what’s acceptable for now."
+    publishedDateTime: 2023-10-09T20:30:00Z
+    webUrl: "https://campaignsandelections.com/creative/the-ethics-of-ai-in-political-creative/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 54
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
         isCached: true
 
 secured: "7oZt8fsBmrGLvrPytdrth2TKMFFKWyrHyFTK1zQD0yQqVVNSvsf2wB2nifIPBxfv1C8yxhHm7ktxjHBf3LULaQXByPhpSiTsCEn+x8XJpAUZOGXRfsJKMyytomfZ7HnpeFhTKqInKpKeJn6vZvb9PLIlpa1UL6mJ5WN3HN+RW+V8jQ2rgjTMW3P6wEik57/TrT0IfwljtHni57MN3fJQCSeK/Ej+SmgdRwMVX3ApOBXJVzcc5e/D2+dI8DDq2Kakmoj0cVdclEQH0wOxlvLHWg46WRcO1uqvEGot73RMHgPsSlwyHYKq1uE3Uz0nbW7x1eyzxZxcChYvbIt41XVHTYC5AmRNvMQHioLnD9VgncLiYJ2c9D9ud3TdjPn0MA3mH5HOLDuzobVgQflk4E+jmfsQNhl5keh7h7AeKbzmcQk0SW6jj865uDwVV5tkQcgz/Hvr4Zx8nlQAnv+oyFRwG1Y8TbEdQaSpxeIxP/mSpItaQOCDDBmyx5gwWWT8Vcu7ksrJ9R9D2IAwn5gp7Z+RAg==;PmC664iN/4Utfh+czzuwNQ=="

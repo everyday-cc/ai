@@ -39,6 +39,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Neural Network for Genomics Explains How It Achieves Accurate Predictions"
+    excerpt: "A new neural network that can explain how it reaches its predictions has been developed to examine the intricacies of RNA splicing."
+    publishedDateTime: 2023-10-09T08:09:00Z
+    webUrl: "https://www.technologynetworks.com/genomics/news/neural-network-for-genomics-explains-how-it-achieves-accurate-predictions-379630"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 53
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/379630/neural-network-for-genomics-explains-how-it-achieves-accurate-predictions-379630-640x360.jpg?cb=20231009"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Researchers create interpretable neural network to predict complex biological outcomes"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
     publishedDateTime: 2023-10-09T02:41:00Z

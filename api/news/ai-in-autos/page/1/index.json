@@ -97,6 +97,40 @@
       ]
     },
     {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023",
+      "excerpt": "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
       "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
       "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
@@ -255,6 +289,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
+      "title": "San Francisco self-driving car involved in serious accident",
+      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg",
+          "width": 1280,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
+      "publishedDateTime": "2023-10-03T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai.md",
       "title": "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI",
       "excerpt": "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ...",
@@ -387,10 +464,10 @@
     {
       "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
       "title": "Autonomous driving remains a distant reality in Japan",
-      "excerpt": "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times.",
+      "excerpt": "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
-      "originalUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -398,13 +475,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
-      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
-      "publishedDateTime": "2023-10-01T16:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T21:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1300,93 +1377,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-self-driving-trucks-save-fuel-and-lives-chinese-startup-says.md",
-      "title": "Self-Driving Trucks Save Fuel, and Lives, Chinese Startup Says",
-      "excerpt": "While most attention on the development of autonomous driving has focused on passenger cars — like Tesla’s controversial Full Self-Driving — Chinese startup Inceptio Technology is concentrating on revolutionizing long-haul trucking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-09-25/self-driving-trucks-save-fuel-and-lives-chinese-start-up-says",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-09-25/self-driving-trucks-save-fuel-and-lives-chinese-start-up-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
-      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
-      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "publishedDateTime": "2023-09-24T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

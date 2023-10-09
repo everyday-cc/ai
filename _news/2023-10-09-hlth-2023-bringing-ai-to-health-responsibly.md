@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T18:45:00Z
 originalUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/"
 webUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Google

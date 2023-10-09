@@ -112,6 +112,15 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
+  - title: "CyberLink unveils new facial recognition integrations for POS kiosks, video surveillance"
+    excerpt: "Fintechs, banks, digital wallets, biometric POS terminals and other clients can access the faster enrollment, age verification and customer experiences."
+    publishedDateTime: 2023-10-09T18:56:00Z
+    webUrl: "https://www.biometricupdate.com/202310/cyberlink-unveils-new-facial-recognition-integrations-for-pos-kiosks-video-surveillance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 10
 
 secured: "xoN6xozQvR9jG3w4s6IG20AanOdDwjlaMYbnxtgY3r9/fpndPqK1qGmMo2F8HugPEtvaPPWiD5zV2j7sRxjwbATdPpwvvqKYcksW+cUzL3XwyDlnLbbQN8zLwnK7MqOUe4/RKVV1YjwwUTYrQPHXOFFhXtJpR2pNuCa8yplAeteWuRE/FhW0/MUz3F9wHvpiCbIWnM/qRxV6VVJjEZC4E46dtAY918tkc0wQsr5NaugaoRxueeqbTn37MKHC4deEnKSkBSlk9ZuR6atUN7D/WyIC/AvF5cPIKbthmdMUIaPX+O+w0DlkNczz2aLGLEWabJZ2HMOQL3omq94NHWzYzMnkoBZOlEO7pnbaqsmEu00=;Z5ciaoGZfZrcIZL1oww3FA=="
 ---

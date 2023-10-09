@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-09T12:00:00Z
 originalUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
 webUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
 type: article
+quality: 99
+heat: 99
+published: true
 
 provider:
   name: IBM

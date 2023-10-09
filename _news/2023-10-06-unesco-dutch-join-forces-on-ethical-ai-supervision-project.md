@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Ethics of AI in Political Creative"
+    excerpt: "As the industry awaits guidance for where the compliance boundaries lie with AI, practitioners will have to decide what’s acceptable for now."
+    publishedDateTime: 2023-10-09T20:30:00Z
+    webUrl: "https://campaignsandelections.com/creative/the-ethics-of-ai-in-political-creative/"
+    type: article
+    provider:
+      name: Campaigns and Elections
+      domain: campaignsandelections.com
+    quality: 54
+    images:
+      - url: "https://campaignsandelections.com/wp-content/uploads/2023/08/iStock-1468873339-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
 
 secured: "ZIui7HnUvEHw2wBSo1IHKNdXNxBvR0EzSEqXfcps7DLdKw8p9PoOjlubflVm3X9kZnnZwvqwK3uhv7ErBAkp0HW9r5Csd3ZvmsPrEN4nJQryqLyyuJfp/Yla1vADJFc/axQ/E8AWagtV7NQEj6Bb4E93KW3gXZ9vUGlEvSeC+5I3X0iH/g1D5VLzwKq8ENw04zhxR7Augck96C5sjDk3BSyDoXmxvXujxsCqVHMtBUf7CpoP6FqxuB7QHp17sNQNs3xPF81uE8TZN0ij+o7quluVnPFSneu50286K8o9D+fx8VQBKf9/Zs4tX4JVXjjIidb4UwGQ+DPO4Rl1y5NWlDAMV+Wmcw43Mf24VgDg69Y=;rt1Qbar3U8Mtb0f2QeFWXw=="
 ---
