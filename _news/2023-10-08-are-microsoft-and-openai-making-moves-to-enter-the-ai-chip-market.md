@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves
 webUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html"
 type: article
 quality: 101
-heat: 561
+heat: 551
 published: true
 
 provider:
@@ -468,20 +468,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
-    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
-    publishedDateTime: 2023-10-04T06:04:00Z
-    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
-        width: 1051
-        height: 701
         isCached: true
   - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
     excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"

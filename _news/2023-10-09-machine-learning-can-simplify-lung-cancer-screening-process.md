@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20231006/Machine-learning-can-si
 webUrl: "https://www.news-medical.net/news/20231006/Machine-learning-can-simplify-lung-cancer-screening-process.aspx"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Machine learning model can identify who needs lung cancer screening"
-    excerpt: "A machine learning model equipped with only data on people's age, smoking duration and the number of cigarettes smoked per day can predict lung cancer risk and identify who needs lung cancer screening,"
-    publishedDateTime: 2023-10-04T06:43:00Z
-    webUrl: "https://www.news-medical.net/news/20231003/Machine-learning-model-can-identify-who-needs-lung-cancer-screening.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "qmIdzX7OgAflZ8RbocCUXb1RH8p3M1BGe1+/9IzNb+gkA4pJkJ2fvr8dNQ5WVeKxxMaM2IrhUdfgGYtemFs89B0vlYRXsdglYKNJbK0pAD+xvCu6L4bwRj7kR/7WcLhJYuYbaPyk5R7L6cUzGcMurvOrJpxcnNi8ees1W7c8DHCNq4ME1NY8N8Mig0m+yKQiv2YdWUpdeiN+4IdD4UFaeZYu0cA942+SXbkWkwmfSfXxOtvd5y/aeCayTZLvmYZ9+0uHzUt/zUxXu1suPgEDvZOobkIL12FTqfmNyUxnoy4JFpWdAPQ3JKMzVovdn7IsORHRbNj/wttJo0JfPrSmMLwaFxK4rF66xj/YDED432Q=;EvL60kpCrLN8ADg/JXZeDQ=="
 ---

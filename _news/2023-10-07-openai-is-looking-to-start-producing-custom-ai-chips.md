@@ -464,20 +464,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
-    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
-    publishedDateTime: 2023-10-04T06:04:00Z
-    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
-        width: 1051
-        height: 701
-        isCached: true
   - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
     excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
     publishedDateTime: 2023-10-04T14:15:00Z

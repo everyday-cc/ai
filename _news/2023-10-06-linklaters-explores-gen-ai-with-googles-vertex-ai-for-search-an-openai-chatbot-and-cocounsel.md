@@ -218,20 +218,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "LinkedIn introduces AI-assisted recruiting tool, coaching chatbot"
-    excerpt: "New AI-based tools will improve efficiency so recruiters can focus on strategy and people-centric work, the company says."
-    publishedDateTime: 2023-10-04T05:11:00Z
-    webUrl: "https://www.hrdive.com/news/linkedin-introduces-ai-assisted-recruiting-tool/695471/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/imgproxy/8eatHHWLQzgI-WxN4QUkSzWnOtbulmSJq7P3qkVCwUI/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMzA1Mzc4NTVfT25jbmxnQi5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
     excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
     publishedDateTime: 2023-10-05T13:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solution
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
 quality: 73
-heat: 95
+heat: 93
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/06/some-gen-ai-vendors-say-theyll-def
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/some-gen-ai-vendors-say-theyll-defend-customers-from-ip-lawsuits-others-not-so-much/amp/"
 type: article
 quality: 81
-heat: 83
+heat: 81
 published: true
 
 provider:

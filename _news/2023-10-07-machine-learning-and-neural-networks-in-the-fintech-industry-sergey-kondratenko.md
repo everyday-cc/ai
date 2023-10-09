@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fin
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
 type: article
 quality: 71
-heat: 86
+heat: 81
 published: true
 
 provider:

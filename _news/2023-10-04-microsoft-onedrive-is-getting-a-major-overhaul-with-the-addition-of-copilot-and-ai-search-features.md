@@ -477,20 +477,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
-    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
-    publishedDateTime: 2023-10-04T06:04:00Z
-    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
-        width: 1051
-        height: 701
-        isCached: true
   - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
     excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
     publishedDateTime: 2023-10-08T12:37:00Z

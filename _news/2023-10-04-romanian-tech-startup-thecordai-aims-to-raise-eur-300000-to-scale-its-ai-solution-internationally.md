@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How a scientist working on AI and machine language helps bring foreign plays to Indian audiences"
-    excerpt: "Niranjan Pedanekar has adapted important texts, such as 'God of Carnage', 'A Hunger Artist' and Steiner’s 'Lemons Lemons Lemons Lemons Lemons' into Marathi."
-    publishedDateTime: 2023-10-04T06:41:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 46
-    images:
-      - url: "https://images.indianexpress.com/2023/10/Untitled-design.png"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "OpenAI's Sam Altman invests $2.3 million in Indian teens' AI startup. But what are they doing?"
     excerpt: "Two Indian-origin teenagers, Aryan Sharma (18) and Ayush Pathak (19), recently secured $2.3 million in seed funding from OpenAI co-founder Sam Altman for their AI startup, Induced AI."
     publishedDateTime: 2023-10-05T07:38:00Z

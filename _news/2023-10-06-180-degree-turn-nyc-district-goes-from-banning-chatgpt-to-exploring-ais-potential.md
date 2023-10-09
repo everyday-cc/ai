@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Machine learning: could ChatGPT become just another tool for Australia’s year 12 – like Wikipedia?"
+    excerpt: "An International Baccalaureate student says she and her peers find the AI platform helpful for brainstorming – but that doesn’t mean safeguards aren’t needed"
+    publishedDateTime: 2023-10-08T22:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/55bda56c934945135d707b6f61e66724c3dc89a1/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=a7f5918bbd5e09a5ec9b30f533c6b0bf"
+        width: 620
+        height: 372
+        isCached: true
   - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
     excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
     publishedDateTime: 2023-10-05T20:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-al
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning: could ChatGPT become just another tool for Australia’s year 12 – like Wikipedia?"
+    excerpt: "An International Baccalaureate student says she and her peers find the AI platform helpful for brainstorming – but that doesn’t mean safeguards aren’t needed"
+    publishedDateTime: 2023-10-08T22:30:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/55bda56c934945135d707b6f61e66724c3dc89a1/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=a7f5918bbd5e09a5ec9b30f533c6b0bf"
+        width: 620
+        height: 372
+        isCached: true
   - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
     excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
     publishedDateTime: 2023-10-05T18:32:00Z

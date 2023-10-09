@@ -469,20 +469,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Cloudflare Collaborates With Microsoft To Enable AI Models To Run Anywhere"
-    excerpt: "“With Cloudflare's global network, combined with Microsoft's experience in training and deploying the world's most advanced AI workloads through our Azure cloud, businesses will gain access to a new level of flexibility and performance for AI inference."
-    publishedDateTime: 2023-10-04T06:04:00Z
-    webUrl: "https://menafn.com/1107184801/Cloudflare-Collaborates-With-Microsoft-To-Enable-AI-Models-To-Run-Anywhere"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/04/M_221dcimage_story.jpg"
-        width: 1051
-        height: 701
-        isCached: true
   - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
     excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
     publishedDateTime: 2023-10-04T14:15:00Z
@@ -615,6 +601,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "e9jiU1eE1q1KQL/fc8kgGncnz+TdTn1Gi9ITv2XP46BilQcGvlQr41UEdASwilqxi1T0pD+sSigL+VEin7T3u5SeZ0Kmowo98dWUYS2tGNBsNSZExVIu0048rjSWG6dstYHYx2J6ifFQbv/wCURJH/MeJY41XKGoNfzNBP10goMLbqazhEIXIy4/OrNmxlRXThfhjv326p3W2S9VkPg3H/VpXYutMuwihV9x9JFbdHak3MPrQkdckayjRdSVmXox2jKg+JlhU/BsBZHKD+Any4XUiRPhhJKoOsyZE4I0tLAU8wVr6QWUcGxGxyULkdE8dkiVrf4ns4btqBYOiTEujvZWYe/tZFz+F4IdEU8WAYs=;ejtZ0oqZCgo5R0IlXeLfxw=="
+secured: "DngB95wSlLt8TH+64Jd2tSSwga9mE1HA62N7x1EdxClPxyL+G8W1cFd7Ztvq3UgaLRAH2QGLnG8zGFUPWWd/vsqlMuvUAayWVgQQQxtbVnrdr+yRRVeoC91XeQETsVOe6NRTDgvURFpjhctRav4i9KWYkjfRx/jSLkWz9TJ585vx2AeI6TNWJLJ9+7aMCO9unYhOhiiPGBvzXO3LIGeuC/9CHzBn+SUELEvbyCVVQ815W52w8vuUNvh6Qq9kqf687ufGd2I7HR7JjkJFTyrsDhrezpcai2NVDcLgVUyq9XCluvEGSW3A9x1Hw1ZQxF/HrBlDfCNRlVlMFO+zouvFOmK/At91l/tsgButsBlZhh3DOajpw1t7hxYAPnUSPIYppWDsw1dOhAjQfNeXpn+ajaFH3+D5pY9L8RoTgGtISZTXl56q4Y6i5Iz/AWauf6cobtqX/DpekSTkEAK40UtGiuwXnSI2kf+JkulMYKsIDDf5AXfVFMmti98QpBpJiHRiE8utf+hww+PPaA7aT53P8A==;+4wJMP8ZUAZAznJchrm1DA=="
 ---
 

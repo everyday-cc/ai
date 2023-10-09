@@ -35,6 +35,17 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "‘It’s a disaster’: Natalie Barr grills Anthony Albanese on Voice"
+    excerpt: "Sunrise host Natalie Barr has launched a stinging attack on Anthony Albanese during a fiery interview about the Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-08T23:27:00Z
+    webUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500"
+    ampWebUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
   - title: "Prime Minister Anthony Albanese casts Voice vote in home electorate of Marrickville"
     excerpt: "Prime Minister Anthony Albanese has cast his vote early in the historic Voice to Parliament referendum from his home electorate of Marrickville."
     publishedDateTime: 2023-10-07T01:08:00Z

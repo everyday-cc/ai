@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure"
-excerpt: "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions."
-publishedDateTime: 2023-09-28T15:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
-ampWebUrl: "https://www.benzinga.com/amp/content/34980295"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295"
+excerpt: "This collaboration between Eastwall and Asher Orion Group brings clinical and technical healthcare design together, offering solutions where AI is seamlessly integrated into the clinical environment, all supported by the robustness and scalability of Microsoft Azure."
+publishedDateTime: 2023-09-28T16:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "c6NRBCVNfvc0/C0kV3f/hKo8vJAwFcZ8aH+W1/EVnvy7Yi0nIKJhXg13sFcjU5FnmzeAcvmN+Mj8UPLaNwsy+kCvNAIrUtdwlxlqPKif6JnSpem0olmgu9mwwj5soVx83JlVt4gFnD4eOsN8kQ1m63fNyqU+kFn+NmoexBcaBT2XBY4WosqJiWb+vdWuNgmNkT7QvV8Xr+o0Vrht7ctAA0/3wfKUOQBhDSBEJtAQMijjJC2SZKhkKmgEWDJrmRsLztF17WaNPo4VNmdWa8HRG3eCHGnBcXxiO6yTwyNKVdUD5qGmJ8juBoLX/L6MR5qwLWOUnDikTXtbbQMCYZb0pb8ypgPZfHMAMK7kYp7F5Mw=;PW64TNqWg0RngC6+w+SGoQ=="
+secured: "BKZRFzvglGvD3VTdgKyHzDBTgJbQOI4vJa+UErbETrok5P4K8GPekx9YhZLpiIrplIkl8zmTgq2sWNQ021c+Pggr+22zYba/TQdrUk12YEHqiFrackWsATX7F+fVwyjRNZqFjQflZ8lMylZ1UWyHobPAwwyCVn6nofw/8bPZRenYlsJSqsm/HF6aPDShIqyZ5YFrVnIk0SnNunlabOqkcIOzuXgNPXpIO7iZtOQmSAJU8yJ+hOanwc5oSmlxiXPiqla7rf9MTfR6DmCm56p7boe8obtew1sj6pw/hdrCeiU/OAABhfVVbnA8jNmQ0Sz9ogCrAsaW9697HsVKg5/2z64cGkrZNqTj1bIw9sXryU1rxd4lWAYTrTu6V1AM8SMTeDHWVjuO+ukQD/3wpcWAiSJuQKHQJdWcnfX+nP23eu4dmP6uUsqEHbwksVck2VF4oYpbYsbIi+sToGqlbxB2qISRyBShnEIv3KzZ/n+2zlZQdzG4xL+3Mue7IDv17pePA7i8FC5cBRU955T+y26CYQ==;mWiIV4OyGOJKLG5J0gaJlw=="
 ---
 

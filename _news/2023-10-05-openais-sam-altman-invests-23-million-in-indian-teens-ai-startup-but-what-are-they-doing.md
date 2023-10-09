@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How a scientist working on AI and machine language helps bring foreign plays to Indian audiences"
-    excerpt: "Niranjan Pedanekar has adapted important texts, such as 'God of Carnage', 'A Hunger Artist' and Steiner’s 'Lemons Lemons Lemons Lemons Lemons' into Marathi."
-    publishedDateTime: 2023-10-04T06:41:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/"
-    ampWebUrl: "https://indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/pune-scientist-ai-machine-language-indian-audiences-8967739/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 46
-    images:
-      - url: "https://images.indianexpress.com/2023/10/Untitled-design.png"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Romanian tech startup theCoRD.ai aims to raise EUR 300,000 to scale its AI solution internationally"
     excerpt: "Romanian tech startup theCoRD.ai, which develops the world’s first AI Team Coaching solution, launched its first round of investment, pre-seed, with a funding target of EUR 300,000. The funds will be directed towards scaling its solution internationally."
     publishedDateTime: 2023-10-04T09:47:00Z

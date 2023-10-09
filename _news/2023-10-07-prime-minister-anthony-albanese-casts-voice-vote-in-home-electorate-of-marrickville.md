@@ -37,6 +37,17 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "‘It’s a disaster’: Natalie Barr grills Anthony Albanese on Voice"
+    excerpt: "Sunrise host Natalie Barr has launched a stinging attack on Anthony Albanese during a fiery interview about the Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-08T23:27:00Z
+    webUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500"
+    ampWebUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
   - title: "Anthony Albanese says Voice won’t be legislated if referendum fails"
     excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
     publishedDateTime: 2023-10-08T11:59:00Z
