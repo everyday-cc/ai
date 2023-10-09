@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Seoul to invest W5 tril. to become fintech powerhouse"
-    excerpt: "On Thursday, the second installment of the three-day event, Syuka, a mega YouTube influencer on economic issues with over 2.8 million subscribers, will give a lecture on the impact of artificial intelligence (AI) on fintech businesses. A global fintech ..."
-    publishedDateTime: 2023-10-04T07:07:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2023/10/602_360421.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360421"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360421"
+  - title: "Payment Asia Becomes Official Payment Partner for Hong Kong FinTech Week 2023"
+    excerpt: "Payment Asia, APAC's leading payment solutions provider, is glad to announce the official exclusive payment partnership for Hong Kong FinTech Week 2023. This collaboration aims to support and enhance the seamless payment experience within Hong Kong's dynamic fintech industry."
+    publishedDateTime: 2023-10-05T04:03:00Z
+    webUrl: "https://www.asiaone.com/business/payment-asia-becomes-official-payment-partner-hong-kong-fintech-week-2023"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 44
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
     images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/80296df71b534966945e63983ecf9fb8.jpg"
-        width: 750
-        height: 468
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/FTW_Payment_Partner.jpg?h=c66d06c9&itok=J7HuMBdX"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "q72f2qiV8hc4Ill+bVoVFYkwABuJmz0yQ/2kvamjQ4gfYvroFNdENSsjKIAbW0I3M5B7ulYzzIeULrcRFVmt15iiZn2nb25uMdlB6+FL+RDBtnWFk4VjgiTjGG+Gf2CC6SC5/AZ/Pxt8gJUDvQ8PU6tpspi2nAvB3fJ/aPPa1IYU6nExCOgF3K9Ep8+yyvbNcFtuJngwgEyPZ2LvrUMBwJZVlbwHmj+TI/tAxGJVEAVp5CXkG8aipH9ZHp2EUnWwp34S2bCrCTNYcw/kbErH62ke9mCZ5CryE/pNdLGy1Bm6lAfnou9X4e+DJePLfsOib/+rMBPzeMqijNUKESJ3BSg6YLPfD1acDWCt9xGOZfQ=;hBxd7Eb4BH7MiW5HShr/0w=="

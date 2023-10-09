@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-tran
 ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
-quality: 64
-heat: 104
+quality: 68
+heat: 108
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604"
@@ -79,6 +81,6 @@ related:
       domain: castanet.net
     quality: 17
 
-secured: "6U9z0QNJPyn8f4bp4HUfwSwqC2JbD8+VeH1HS4Ux9C9KeC7VQwOkHGSWrLEWGjPyE+WoZlh4QMb/0e9MlWZNf9uFH5gwmgqoxOss/e7qRXx58njwTyiGkCe2esQrr2BdOrCHonKQXNP9papmBBAzkEFBKG+BbcSvzttTgOoSqZvzMllTOPuZ/adHC7+qGPDT8OlXfD3rUb2HWD1ebiwBpBfEyuDuX+1jA6B/qv0JiIwJl/ulekp7183+RBSSV5Q5OcuHdU94aOFxfnmujwDhM/y7JIjdl4k0gD89B11EsP8YwSFMWxvR+WeTmW0hq37j/8//7TcSbzy/d0kY9hd/Wmi/KsEreoo2qjp/zQ3i+Bk=;nRksrFeAEp1zYnny17oqCA=="
+secured: "KLwVkc453wQWkYpWDQfpNBZe+F7a9Yh4x/tPrgxdWawRUmZeuWWQ9AQQvuMVUlMGsCnumuQb2582QJjwcrHhymfcayo7e13zk1NtyY+GgJ5xuh4TGRmpJbCT5RnQl7xoeieNFN0U2BwCjyhFJ2PHcriVt+H9U1E5ZqS6waLYXnAsnnExDKI9KpNKIw8kfsKamq+3RRuV9qrUgTlV/gsKLNTZReWf/3bTzc/0lnRZknlVpyE+bVPXwvnUFAQ8nJNg/iCgSzojXBwSh+XA4t4N4OJId3UCx4gcJCYfL/awEJPaKDMi/CDO7sP/nww1nXCo2nqgOsrgLNqwPTk0rt12GKkMaU7YwN3AfR++wbp5gGYo/h2K2zUYVtDdzVRnWaSEEgraHoav9pTjxsuRY8DNpFuC0ZyoFs76eovLgpTF94bONqUHulmqau2YfBaeoGDjKtEj+vzUnTDvtpPKgKfIBG566ji4qlu5IH2QbEi2gyBwRm078byQm63pkJzoCgKVA6/DWwNeT3DBtr6/mvZPow==;OvMxk117yshvgVminKZPJw=="
 ---
 

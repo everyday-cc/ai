@@ -23,18 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "The AI-Empowered Patient Is Coming: Are Doctors Ready?"
-    excerpt: "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans."
-    publishedDateTime: 2023-10-04T08:45:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/"
+  - title: "Can AI Do Empathy Even Better Than Humans? Companies Are Trying It."
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-07T12:02:00Z
+    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651c09e514a6169a0c341388/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://images.wsj.net/im-864407/social"
+        width: 607
+        height: 405
+        isCached: true
+  - title: "Artificial Empathy: A Human Construct Borrowed by AI"
+    excerpt: "Within this complexity, we find empathy at a curious crossroads with artificial intelligence (AI). The incongruous idea of machine-driven empathy beckons examination. Is AI capable of 'borrowing' what fundamentally defines human social experience?"
+    publishedDateTime: 2023-10-08T16:23:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/EmpathyEye.jpg?itok=pkjnVcC7"
+        width: 1528
         height: 800
         isCached: true
   - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 Things CEOs Need To Know About ChatGPT And Generative AI"
+    excerpt: "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools."
+    publishedDateTime: 2023-10-09T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6522add329569a887be52b85/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 805
+        isCached: true
   - title: "It’s ‘War’—CEO Of ChatGPT Developer OpenAI And AI Pioneer Issues Stark Bitcoin Warning Amid Crypto Price Swings"
     excerpt: "Sam Altman, the chief executive of ChatGPT developer OpenAI and artificial intelligence (AI) pioneer, has warned the U.S. government is waging \"war\" on crypto and wants to \"control\""
     publishedDateTime: 2023-10-07T11:45:00Z
@@ -41,21 +57,83 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT's Silicon Ambition: OpenAI Reportedly Eyes AI Chip Domination Amid Nvidia's Reign"
-    excerpt: "OpenAI, known for its AI chatbot ChatGPT, is reportedly contemplating developing its own AI chips or possibly acquiring a chip-making company to address the ongoing AI chip shortage and reduce dependency on Nvidia's GPUs,"
-    publishedDateTime: 2023-10-06T03:13:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35119686/chatgpts-silicon-ambition-openai-reportedly-eyes-ai-chip-domination-amid-nvidias-reign"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35119686"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35119686"
+  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
+    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
+    publishedDateTime: 2023-10-06T00:34:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ChatGPT.OpenAI.Shutterstock_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
+    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa ..."
+    publishedDateTime: 2023-10-05T09:48:00Z
+    webUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860"
+    ampWebUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 48
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.724861.1696498833!/image/image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
+    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
+    publishedDateTime: 2023-10-05T19:37:00Z
+    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 43
+  - title: "3 ways AI is revolutionizing how health organizations serve patients. Can LLMs like ChatGPT help?"
+    excerpt: "Machine learning and AI are transforming medical treatment involving functionality, diagnostics, and more. Meanwhile, large language models -- like ChatGPT -- are still in the early stages."
+    publishedDateTime: 2023-10-05T18:51:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
+  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
+    publishedDateTime: 2023-10-05T18:32:00Z
+    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
+    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
+    publishedDateTime: 2023-10-05T20:23:00Z
+    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
+        width: 945
+        height: 630
         isCached: true
   - title: "Save $30 and start using AI with this ChatGPT training bundle"
     excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."

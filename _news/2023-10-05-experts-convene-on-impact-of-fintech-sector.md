@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "FinaMaze awarded the “AI Fintech Innovation” award at the Entrepreneur’s Tech Innovation Awards 2023"
-    excerpt: "DUBAI, UAE – FinaMaze, the AI Digital Wealth Manager regulated by the Financial Services Regulatory Authority in the ADGM, is pleased to announce its receipt of the “AI Fintech Innovation” Award at the Entrepreneur Tech Innovation Awards 2023, held yesterday at Sofitel the Palm, Dubai."
-    publishedDateTime: 2023-10-04T07:26:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/finamaze-awarded-the-ai-fintech-innovation-award-at-the-entrepreneurs-tech-innovation-awards-2023-r0gnaa4u"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/finamaze-awarded-the-ai-fintech-innovation-award-at-the-entrepreneurs-tech-innovation-awards-2023-r0gnaa4u?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/finamaze-awarded-the-ai-fintech-innovation-award-at-the-entrepreneurs-tech-innovation-awards-2023-r0gnaa4u?amp=1"
+  - title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
+    excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
+    publishedDateTime: 2023-10-06T02:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NmI3NTZiOGYtZDMzMC00/0/1-3-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "Curql invests in BlastPoint, innovator of predictive Intelligence Fintech"
-    excerpt: "Curql Collective, a Credit Union Service Organization spurring innovation for the credit union industry, recently announced it has welcomed BlastPoint to"
-    publishedDateTime: 2023-10-05T19:01:00Z
-    webUrl: "https://www.cuinsight.com/press-release/curql-invests-in-blastpoint-innovator-of-predictive-intelligence-fintech/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 3
 
 secured: "JzjgyT9p9ZVT7GK/UcphExlhrMBH4/m9+iZMTjbnt53k3rBlxpRwYD1j3YkCHgo2hh4lr8+OsZbOrzZtZVksqpiFkTeYw54mlibiR/64LKTL4jLGkw4SwChbUBDTNDtInn3ESb5YHsTqGtL3ilNPrzdnMdDHPwBFWsRx47ze6aHPtw180fweQMFycd6zsvz5IQvUrA7ApmIzCI8LnCgjF9w/DSeXkKrCrdmpzS8XD5CZkeEUXzXC8fR9HAZIdNWGnSp79xo6hrA6SvBvs1iy8p/XduXXrByMc//9N6IeUuB6OzicRdC4/7vJMo0iPH7uT41Y+oS4PGMV84VjIgGNZSex3UUcRljVYlU/HQIJVURPQFOXnhIeWVOGaMiomGEWCtQ5zi7iCkveSFES3k64laHrinM6ZxKZayP8vzHIp1/Zjyxh4mhCogzrWqcUErZYENGxIoZExPsJEGr6iGgSUKpBrX22fFjjp+uxxMgZccGqgSq85y0uCDK7wJaGl0fDoXp5KTvAU0QB8ffYtr7TDw==;oZxC8warnocXV+LVQlXuvw=="
 ---

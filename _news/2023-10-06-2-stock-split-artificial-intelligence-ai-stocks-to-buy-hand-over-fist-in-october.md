@@ -120,6 +120,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
+    publishedDateTime: 2023-10-08T23:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Best Stocks To Buy Now in October 2023"
     excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
     publishedDateTime: 2023-10-05T00:24:00Z

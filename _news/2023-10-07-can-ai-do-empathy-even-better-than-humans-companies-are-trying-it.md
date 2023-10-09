@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-techn
 webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
 type: article
 quality: 67
-heat: 78
+heat: 98
 published: true
 
 provider:
@@ -44,6 +44,31 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-08T14:01:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai-11696773635780.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/08/1600x900/im-864229_1696773639317_1696773702013.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-07T12:02:00Z
+    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
 
 secured: "VOa5R6ehwGd4J7nk+iPuFG7ZUqJcRpo7xcIFv4Gk5zLdZI3M+B+V42Z4G1l69vxNragBed32dHo0fuWZYZoT5ea4pMHkppNJRZM01CEEmsaTHnAwUuS3V6d4APL6hgNJBZYpbWAKrUSfDyCbd8Ry0I2VwdVViwRmq/0UpRuc11UWGqI9ZMIvFFAoUx2k/wpz9FNfjEzgkFJioKjIJ/lkeLcWooTEZxVbXveL7glxpJ3I0eeAGjHisS1ZxcwsBNFNMdVotW+lOi43CStO4e2Jp41i9ctA/5sqi+Zdlc+veKXM16Z3Gspou6+yZCoEic7avIGJJoV3SrUE++jF2CaIqdILmhdjIB4tIDrD+yjufifNcmuJRsUMkEaVYXmKpBb2ZsSsfzYydKjiBptmGQIhIomRi3TI8TNkmIH/KaShyLHEVQ6zNBKAiwsaSiF7cu5ViY/2++9siNB5ZVlX+UfFkNiiEUUv4DIJPn2F1Gy7kejKrdMq0rZuNcRrGPzWB1XXpzjtvCRKGuuFqnZLFZrkeQ==;JYDvibmDQgPduhsplWhwmw=="
 ---

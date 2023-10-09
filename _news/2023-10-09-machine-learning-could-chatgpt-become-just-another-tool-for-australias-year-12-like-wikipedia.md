@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-ch
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/09/chatgpt-ai-chatbots-in-schools-australia-measures-benefits-impacts"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -30,52 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
-    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
-    publishedDateTime: 2023-10-06T00:34:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 50
-    images:
-      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
-    publishedDateTime: 2023-10-05T18:32:00Z
-    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
-    publishedDateTime: 2023-10-05T20:23:00Z
-    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
-        isCached: true
-
-secured: "lJZhrcnfTEDO8L06bjpSSX0EM85JZq5WqDkMkuZe+KHP8AAL1bKDRvjspdIlbWmQ6H6h1aNxQzgRiCnSa3jotpS26mBbtk2T1jYz/LHgvAxT6isQ5lxJUJUBeqAVjKc7sx/r7txJwkEhOjsLa57SLknrgrbMs/ZA0pUX+/zFycNdu0UN7mjdh0pUe+eJK0OXyJixohpzBDHPBhmryeoJw2XLIlLL6nejo2zz7eDPgC7RHY/WxZZOvrqiVoVusstbpSbLu/OrTsUCzisTjduiab6Ph1u5zFnmPTTZoawv3L723Z86mG9UX1suG6WBC5x+jLCKg38h7QC3w0Cobkt62ctyDGIpwh7bqLE6To+v4B8=;Lx38ad/Aid8ReQ98eI+LFw=="
+secured: "loSY7udVIAQGglKjbCACYIt0JrOi8YYrGzDlQdWGTWCd7gMnWcCm+IAJNsJunnbadDVkoUKxcGNzQ28HNwE7qrUh1T5LuwegVPVxEgSGup1LZeXbp5ODeEPGyegq4J6mlOGBdYKhkOVQH+3rVvzqvBa7T8G7Obbc7xhgyP4wWnwTIqX157hYlEkmMVducIrjzaQYZd+87oV4oY1Aq+9yS6Ydsy1p/63ajWKbv22hz4oWtzjIWKxX4i6RDRUnxBmCSeoypQRLcQrOHPffim7HKtjdtn3Vuvkkbdok6HVbafuiQSH4cVxqG+rdqqq0PmgKIp1Ditmqier6ece5IazHNv4iO5TXe4SXBb/0KJ6XkgGJaUltcJyFj6BPZmTaBXCqpF/cMKsMHHvHwEbl2HJPLDuWKsFLXA5lpmHRxKfQ/fX+xf1rzrwR4SXcGZHV/y8JnP3Euk+rsRVATXAyFnzysjo7MidgyIg2k0zcyh1xv70LMUlB5K1pvG7FEUpdQ18EsbJ363mZMuCHZrrAZ49tnQ==;nhjkK/myYheZc3Jd9qZUcg=="
 ---
 

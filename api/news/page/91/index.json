@@ -2,57 +2,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_news/2023-08-02-ai-has-finally-become-transformative.md",
-      "title": "AI Has Finally Become Transformative",
-      "excerpt": "After a decade’s worth of innovation, new models can change the world the way the internet did.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
-      "originalUrl": "https://www.wsj.com/articles/ai-has-finally-become-transformative-humans-scale-language-model-6a67e641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-827870/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-02-tinder-tests-ai-photo-selection-feature-to-help-users-build-profiles.md",
       "title": "Tinder tests AI photo selection feature to help users build profiles",
       "excerpt": "Tinder is testing an AI photo selection feature that looks at a user’s photo album and selects the five most authentic ones for their profile.",
@@ -1211,6 +1160,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-3-cheap-ai-chip-stocks-that-smart-investors-will-snap-up-now.md",
+      "title": "3 Cheap AI Chip Stocks That Smart Investors Will Snap Up Now",
+      "excerpt": "Chatbots, personalized product recommendations and ChatGPT rely on artificial intelligence. AI chip stocks can generate strong returns for investors as the technology gains momentum. While some AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-cheap-ai-chip-stocks-that-smart-investors-will-snap-up-now",
+      "originalUrl": "https://www.nasdaq.com/articles/3-cheap-ai-chip-stocks-that-smart-investors-will-snap-up-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

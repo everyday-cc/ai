@@ -131,6 +131,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
+    publishedDateTime: 2023-10-08T23:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "j1AlHaJdy7DYxia2h5oOGMzbDp/XO+gqWUoPqXfjxkba/8T+JQD4WKzqIydNYw/AAtwq0rx3Rn66j4xmXVGy0Xlrq9BOqC+O4rbpSNobMt+AS1kPgoBUqhUCsdkLWTeLN/hpPl7m3PROKWkEsB3S0FpHDdE8KWCsqIMd2itea51fOYmeCAtDoslAE5omfG3W6WYh+lfRS/GaUFcdnFWBmeu1e0IVXGqVt6XsMx9IZfcwqZcRuqBLISJwpwCnJWg8MsIZ9+QeD7KcUqxD8LOEl3ZY+8/b9KMtjecnBBAoCBtXSYBQogjDs2cX4FuFkeutsroTpY+83A8NCq39zBF62wP/DAmYhRsG2Rz/13uGEyChg3DlqDHGAIXlPlmTMdZGO4x5osHmFiHkine3GPKFB1Ja25QgzcAr+ExIizPILRY5n6hG3feYLRbYyLIFkpWRKrBwGGk8iqyYDF6cvdH6uU9ebsK/BdD8QJ8xd/FkbjckNIy8+qJe1G36PYOd0GhE2ednmZY6q/KWBujhoI0k8w==;PRAvVCn6/GGDjGb+lGIAtw=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driver turns self in for hitting, killing motorcyclist in Sandy"
+    excerpt: "A man was arrested on several charges after hitting and killing a motorcycle rider in Sandy while allegedly driving drunk."
+    publishedDateTime: 2023-10-08T23:25:00Z
+    webUrl: "https://www.fox13now.com/news/crime/driver-turns-self-in-for-hitting-killing-motorcyclist-in-sandy"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/79a2710/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fff%2F11%2Fecc5eb8d46f48090e202927411a5%2Fmgn-1280x720-00412b00-dnqdf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QFzT6F62vR6SjGUrfz2P1bEqzL5DaK/LEq0nk4he7r94jfLerPljE74ccDNubq6db81C/P0ZTfzicj+Y74ypYslDHpmNMqGBL+wSKz/cMjSQEbKXGh7U4DpGrmr/z+ppjacyEqSfYPp+ZVFBqm3R/WfPP9UFmM41NGq1KC/3SikTL+yzlk8TDstZJTmgQc6rrlM53YRg8C65VNquw04JiTqUUrLo87rSrND5BtSfOeLZJxQ3BS5bKGgeIVSdC8V05WoSG98I80RI7Z0EzDKv7wxpqNvMQZ8mLXIGJ53jjO3ObWm9W7yYgl6mb8JQa3Ds/2ijB/1k/Sdnw7aefKExFMqiQUJMHHY+O3fdGqprFeQ=;PU8SuzhalM5jj4tz0ohujg=="
 ---

@@ -41,6 +41,31 @@ related:
         width: 607
         height: 405
         isCached: true
+  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-08T14:01:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai-11696773635780.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/08/1600x900/im-864229_1696773639317_1696773702013.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
+    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
+    publishedDateTime: 2023-10-07T12:02:00Z
+    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
 
 secured: "PMQSN4upqYXCkNebk9yA+9LhVhf8/uWmUkjaA4Lczt+PdDXiRx7JW2njyawCUBsj43KUt9bsAX8AoLrA8CcWASJkYBLAzyRdGY1FYuKtz0QQIQR+ZCPV7wTHmpWnSn5zNG7vyKJA74/Vpfmn3no0dN4Rh1IM5SMQOo8c6dUekSZxpT9vJ3HtLrqpxkc/w/jpJFcr+8RBGB8mQVtBYcsNWNWxifwoqYqmGJ+Qzv5V+0LO0/W+AkfTc1YgkfdGuV6hNw4xMoHGrJcyx205S6Ek9K05+YIKw1yLt81CsqqhwwlYQRhr4AngjjVvEFsEmRrm1p7V1FcgJc1U2O0ktgtNXFYucq8+AmI5c3s72ErB0GY=;J3iNI6pNvKtEaxkF8al2pg=="
 ---

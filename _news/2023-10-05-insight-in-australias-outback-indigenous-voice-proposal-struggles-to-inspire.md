@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australias-outback-indi
 webUrl: "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/"
 type: article
 quality: 50
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/50FC/production/_131323702_gettyimages-1671548203.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
+    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
+    publishedDateTime: 2023-10-08T23:35:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
+        width: 620
+        height: 372
         isCached: true
   - title: "Swedish artist takes out Australia’s inaugural AI art prize"
     excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."

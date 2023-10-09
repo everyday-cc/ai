@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Retail NZ CEO hopes facial recognition tech will stop 'concerning' wave in retail crime"
-    excerpt: "The retail sector wants changes to the justice system, after a concerning report. The latest Retail NZ report shows the sector has suffered just under $2.6"
-    publishedDateTime: 2023-10-04T08:06:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/carolyn-young-retail-nz-chief-executive-hopes-facial-recognition-technology-will-stop-concerning-wave-in-retail-crime/"
+  - title: "Policing minister wants to use UK passport data in facial recognition"
+    excerpt: "The policing minister’s plans to integrate the UK’s passport database with police facial-recognition systems have been met with criticism from campaigners, academics, and the biometrics commissioner for England and Wales."
+    publishedDateTime: 2023-10-05T07:16:00Z
+    webUrl: "https://www.computerweekly.com/news/366554287/Policing-minister-wants-to-use-UK-passport-data-in-facial-recognition"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 46
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
     images:
-      - url: "https://www.newstalkzb.co.nz/media/euiouf3c/shopping-groceries-supermarket-nzh.jpg?rmode=crop&rnd=133409127736130000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-031023-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
 
 secured: "wEzTxFu7rDPYAkxL6552fOmUZ/lSHv8v9Wc7sDN2YSSX7jH6Vk+0UYFiHGlR0Wmjh1T1hvZVz+evUUraCd5+eG3IFoD2XMA4Ui07iDUJWcmDyaxl/8sY01ygBFk7oDnaiL6BHkU++1BYa4y12IgZw1CA8IQrm14wT1coVP6GU+gvmWuZuDlS0Co7AV+8N5pvecfsxXf4h0XUmZqyqDOIuM1SmGTIiMVPlR2jd/PNggAQgZ7i2Ces8a0k1eKeUZ3EFqkDH5WFcgC3ZZlHDE/wI7Vbw25aGH0gjR6ip7MzbXr9h4U/htjg2oObSX/jp3sttXwWotqnXqTfVFRWofT+mAoPLJurHA3X1rSRASHu8MFf9T0cdArxGY599TD1kWp0W8yfQsOM3J9AP0r0ykRqzIVtlAgZ6RZN8To3Wf1ur9DAbEjU3AJwisdnLTDjMeeEw1iR5ahMyqSQ0n9c1hIVpTNGWnKn7fs4PHkp415FiKoTENLq/EOwaQTiLoN0CTTOGM8T1VY2f1WRc9chpMXFCQ==;sOJxObXQPi9T/c8rIbfkag=="
