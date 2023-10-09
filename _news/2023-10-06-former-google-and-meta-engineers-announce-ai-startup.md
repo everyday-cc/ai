@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/former-google-and-meta-engineers-ann
 webUrl: "https://analyticsindiamag.com/former-google-and-meta-engineers-announce-ai-startup/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,31 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Meta’s AI stickers are here and already causing controversy"
-    excerpt: "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more."
-    publishedDateTime: 2023-10-04T09:23:00Z
-    webUrl: "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all"
-        width: 1080
-        height: 608
-        isCached: true
-  - title: "AI is already helping astronomers make incredible discoveries. Here's how"
-    excerpt: "Astronomers can also use AI to remove the optical interference created by Earth's atmosphere from images of space taken by ground-based telescopes. AI has even been proposed to help us spot signatures of life on Mars, understand why the sun's corona is so hot, or reveal the ages of stars."
-    publishedDateTime: 2023-10-04T18:59:00Z
-    webUrl: "https://www.space.com/astronomy-research-ai-future"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 16
 
 secured: "sPTGN+ehTfyBZw6iYuHqihMBrfpVZZ9Q1zSKl44IylJ6aGv80Buplyg3QpQVJMN76l/U5934LZ6b4NpmupO2BQytp8YXE2us7Zq7FVekAboX+VTuKTTgaIZ4NgrGQdC8X8QH6atBqBXC+DG9BuY7AmON+UlV8EF6AU4THDwc7Xr2KfvY6gjPRV89IZL80yCRo5YoGCdE7ioJELZAbK3v0XwusQLzXev9HmfeWNB/Avs1Z7PqwgNTqr+NrwnnOYPiGdDYbciqponTnoYmEha4lWLWmMk0JOcuaZnjrbNHjMDfDHlD+OFSFW1pH2e15q4wx6porJeQNyxwxo7c/pQldnmbUzd6Lpr0JGBWXlUyDYiPqGj1/Gi1Sq+xkQyrnljR6j3WAWpCN/zlwjd235iiRjeNOwFNPFp0nQJyVaWolm/80ytvrK1JuNdN6tPTzbh/GJ7HsnZHtPrUFnO5eB7k5J8lU8M6CsQ7IYfONiCbHsEuNkYcaLbVYsQ40VHrNvOtXqf4EH5uMT7h6xjpACogsQ==;ymykUJUvH3G6vI2g2lqGvA=="
 ---

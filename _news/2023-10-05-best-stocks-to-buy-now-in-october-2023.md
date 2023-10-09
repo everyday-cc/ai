@@ -53,20 +53,6 @@ related:
         width: 5530
         height: 3111
         isCached: true
-  - title: "Gain Exposure to the Artificial Intelligence (AI) Revolution With This Towering Dividend Stock"
-    excerpt: "Artificial intelligence applications require lots of data transmission. American Tower leases space on over 200,000 mobile internet towers around the globe and dozens of data centers in North America. More data transmission related to artificial ..."
-    publishedDateTime: 2023-10-04T09:34:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/04/gain-exposure-to-the-artificial-intelligence-ai-re/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 70
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/749351/investor-considering-new-dividend-stocks.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "10 Best AI Writing Tools 2023"
     excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
     publishedDateTime: 2023-10-05T22:23:00Z
@@ -139,7 +125,16 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy Now and Hold for the Next Decade"
+    excerpt: "Artificial intelligence (AI) is already transforming huge portions of the global economy and it's only really just getting started in those efforts. As AI is incorporated into companies' operations to boost productivity and slash costs, it should also ..."
+    publishedDateTime: 2023-10-09T03:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CRWD-Q/pressreleases/20891818/3-artificial-intelligence-ai-stocks-to-buy-now-and-hold-for-the-next-decade/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
 
 secured: "j1AlHaJdy7DYxia2h5oOGMzbDp/XO+gqWUoPqXfjxkba/8T+JQD4WKzqIydNYw/AAtwq0rx3Rn66j4xmXVGy0Xlrq9BOqC+O4rbpSNobMt+AS1kPgoBUqhUCsdkLWTeLN/hpPl7m3PROKWkEsB3S0FpHDdE8KWCsqIMd2itea51fOYmeCAtDoslAE5omfG3W6WYh+lfRS/GaUFcdnFWBmeu1e0IVXGqVt6XsMx9IZfcwqZcRuqBLISJwpwCnJWg8MsIZ9+QeD7KcUqxD8LOEl3ZY+8/b9KMtjecnBBAoCBtXSYBQogjDs2cX4FuFkeutsroTpY+83A8NCq39zBF62wP/DAmYhRsG2Rz/13uGEyChg3DlqDHGAIXlPlmTMdZGO4x5osHmFiHkine3GPKFB1Ja25QgzcAr+ExIizPILRY5n6hG3feYLRbYyLIFkpWRKrBwGGk8iqyYDF6cvdH6uU9ebsK/BdD8QJ8xd/FkbjckNIy8+qJe1G36PYOd0GhE2ednmZY6q/KWBujhoI0k8w==;PRAvVCn6/GGDjGb+lGIAtw=="
 ---

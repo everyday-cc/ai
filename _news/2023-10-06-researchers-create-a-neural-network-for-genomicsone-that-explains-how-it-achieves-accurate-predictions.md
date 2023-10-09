@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
+  - title: "Researchers create interpretable neural network to predict complex biological outcomes"
+    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
+    publishedDateTime: 2023-10-09T02:41:00Z
+    webUrl: "https://www.news-medical.net/news/20231006/Researchers-create-interpretable-neural-network-to-predict-complex-biological-outcomes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 31
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "6guaKaRGT+J2Q6KLNQ16hT7bnhesQBAtyJ+Hev9Pw9KfYROI4bYqvOpINaIXwyP9za4aX4IPqaFVi2YxUFFqPYbweUPCVNnb3i4jngS2RiBYmWtbTVXP6j2VeRgyX/EshJzl/F4O8OzDZzkO4ULLNH93NUlZRm9mZ9sTafh7isi+Ka88vC77btvD0OC1TneCq6+Nn/puqujJYybQZn26g3D/VeM0x+9D7fD4sSgrq4KA8Xpdo7QZ8+GnkzD+Fr0RfKSaf/GpmnMervenAAcTbOA8m8xHypRDXkRM0oiGUY7DLfe6/R1pv3dD4a40nFNgYfvZJYecwQID9SskAf/yIL5tJnHEZeyHPnMXiRYQWsI=;nCEUz3rtCLk7OfXVqVqpGA=="
 ---

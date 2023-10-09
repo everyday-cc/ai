@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Legal Dilemmas Around Self-Driving Cars"
-    excerpt: "The automobile and technology industries have grown exponentially in the past few decades. With cutting-edge technology, more features are being added to vehicles to make them stand out in the market and more secure for users."
-    publishedDateTime: 2023-10-04T10:33:00Z
-    webUrl: "https://techbullion.com/the-legal-dilemmas-around-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/20231004140213_fpdl.in_asian-man-sitting-new-car-showing-car-keys-young-attractive-man-sitting-salon-automobile-looking-out-open-window_33741-386_medium.jpg"
-        width: 793
-        height: 595
-        isCached: true
   - title: "How auto insurance will navigate a world with self-driving cars"
     excerpt: "Self-driving cars have been a part of visions of the future for decades, and what was once only imaginary has started to become reality. Not only do self-driving cars exist, but five U.S. states (Arizona, California, Michigan, New Hampshire and Ohio ..."
     publishedDateTime: 2023-10-04T17:36:00Z

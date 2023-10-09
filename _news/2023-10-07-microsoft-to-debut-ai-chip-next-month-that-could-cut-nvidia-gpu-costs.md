@@ -300,20 +300,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 62
-  - title: "Domino’s and Microsoft team up to use AI for smarter pizza orders"
-    excerpt: "Takeaway pizza chain Domino’s is partnering with Microsoft to collaborate on generative AI solutions for orders and store logistics."
-    publishedDateTime: 2023-10-04T09:32:00Z
-    webUrl: "https://www.newfoodmagazine.com/news/195390/dominos-and-microsoft-team-up-to-use-ai-for-smarter-pizza-orders/"
-    type: article
-    provider:
-      name: New Food Magazine
-      domain: newfoodmagazine.com
-    quality: 54
-    images:
-      - url: "https://www.newfoodmagazine.com/wp-content/uploads/shutterstock_1347282647-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
     excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T04:17:00Z
@@ -464,6 +450,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "OpenAI Considers Making AI Chips In-House"
+    excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
+    publishedDateTime: 2023-10-09T02:54:00Z
+    webUrl: "https://www.lowyat.net/2023/308711/openai-considers-making-chips-in-house/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/ChatGPT-OpenAI.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
     excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"

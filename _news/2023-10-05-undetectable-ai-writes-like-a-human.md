@@ -51,6 +51,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 39
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
+        isCached: true
 
 secured: "e5856JOmbNYxPMcOF4ceXt1Lab6XIQWvBy+fOnTT7ZPsIximBIAnZLUPNxvfN6qo9i7n3fWj1cP2SoX25Yjo6tGTwYUPtHNagsd5VXw5c6culNPYFdVkGRB5OxPXWnTUA8Mmrzhaibt0tC7MWNa/kAJMQBG5DqcfbVuApT2WUyqJG3H57Fv2QBYOW3jBr3rfZm8chze5UW/8vtIK8kh0LTCpTFCiHXyOAuvnJZEoJObfEpl4ISTPI3f5uIxVY3QiIKO7Bb4FA6YHhVu0GtaFMbhi5uwMoXvmfjugPf4z8CvJ1tZ1PMSHK7oOe/GmkH2nw30EFHdRQUXqcW/E4cApvmF213/t5oW3t9D5pDHC4xjYoCdyiM6kXhSVLVhqH1eh3bbWTDlr87AIwzOPsAnLr4XapI4l7qRip0IqUnVLPfEDhBK0b1qf2FgMm5R4e6aSWqknPjIbnCC0WU/0ACxQFO9QWLmbnbVBxUYxQ7MaG4HYMdwyYE8k9aF5XXefOpylmDjRe9LsKKKQvM9jAaSdwA==;uW+Z2IzAf3n0+A/24FyE8g=="
 ---

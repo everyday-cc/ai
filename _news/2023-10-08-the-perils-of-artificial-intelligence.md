@@ -79,20 +79,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
-    excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
-    publishedDateTime: 2023-10-04T10:10:00Z
-    webUrl: "https://www.techopedia.com/ai-translation-could-help-crack-the-secrets-of-chicken-language"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/10/Farming.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI can transform health care benefits administration"
     excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
     publishedDateTime: 2023-10-06T13:01:00Z

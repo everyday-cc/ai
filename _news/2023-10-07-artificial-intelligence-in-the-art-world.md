@@ -25,38 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Not All Algorithms Are AI (Part 2): The Rise Of Real AI"
-    excerpt: "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry."
-    publishedDateTime: 2023-10-04T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/"
+  - title: "5 Human Advantages Marketers Can Use In The AI Revolution"
+    excerpt: "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content."
+    publishedDateTime: 2023-10-05T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 840
+        height: 900
         isCached: true
-  - title: "Artificial intelligence in 2023: Expanding frontiers and the promise of smart algorithms"
-    excerpt: "The dawn of the 21st century heralded the rise of digital innovations and their transformative power. Yet, among these innovations, none have evoked as much wonder, curiosity, and debate as artificial intelligence (AI)."
-    publishedDateTime: 2023-10-05T04:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/artificial-intelligence-in-2023-expanding-frontiers-and-the-promise-of-smart-algorithms/?source=app&frmapp=yes"
+  - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
+    excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
+    publishedDateTime: 2023-10-05T16:33:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/05/IMG_1801.jpg"
-        width: 1256
-        height: 1299
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
+        width: 1528
+        height: 800
         isCached: true
+  - title: "Undetectable AI Writes Like A Human"
+    excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
+    publishedDateTime: 2023-10-05T14:31:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/05/undetectable-ai-writes-like-a-human/71045778007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 19
 
 secured: "xNP3hfAnoBEeuA3eDHFn4LS2JvV5jryGa1vR4KQdSTwy8RjKyN9QmwlEeptbj1lET1/A1lGiPy+qnLUZgA5km7zLh19YelSKgAKp4veyH5xLhqb1IcyHbFCMd5GeK2or6LpAkooMtAjPpVBMGCXki5ExBPfaueZPS8Yi8asq4E2hRj6bdoIBUWkxE3Lx4eP2MnFCyAKf+0jRkcFR6qNJFXdD8nxBoj/fPrBLfr0qm4XMzjqluQo9kMQFvKqXFzr6KWcdeKFXDkgXNBOtlIGgxqDzScEs6NkF0m01PnrxK2zPn6XXbFk7Yr9TrBcY6iS+Z9/taCDO38K5qOJCym/PjFfZTAXD0gKVdpgI4pSSspX7G+vaPG5tQyGwHnmSybjw/mGbxb60ItfFkZBANWZAKb2IkOF8ebZuG2Oy3Q+spswS+23aOwJew0j7ZUhCHGxDLZkYFYNrrD3hNcgv9o/YlT6bZc394LIuCbMiKEYzZm0YL8B8INrr/kJAyHWdqv1+6lJVVV+93qjy+kry0QfxIw==;cyYrO/q4XsAYFz49R+sKpA=="
 ---

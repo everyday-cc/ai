@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-a
 webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
         width: 640
         height: 800
-        isCached: true
-  - title: "AI Translation Could Help Crack the Secrets of Chicken Language"
-    excerpt: "Everyone has heard chickens cluck, but could artificial intelligence help us understand why the chicken crossed the road?"
-    publishedDateTime: 2023-10-04T10:10:00Z
-    webUrl: "https://www.techopedia.com/ai-translation-could-help-crack-the-secrets-of-chicken-language"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/10/Farming.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AI can transform health care benefits administration"
     excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."

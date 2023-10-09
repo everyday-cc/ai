@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI’s CEO Sam Altman Backs AI Startup Founded by Indian Origin Teens"
-    excerpt: "Sam Altman, has invested in an AI startup Induced, established by two Indian-origin teenagers, Aryan Sharma and Ayush Pathak"
-    publishedDateTime: 2023-10-04T10:16:00Z
-    webUrl: "https://analyticsindiamag.com/openais-ceo-sam-altman-backs-ai-startup-founded-by-indian-origin-teens/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-3.42.51-PM.png"
-        width: 907
-        height: 503
-        isCached: true
 
 secured: "j4jYUqXvEijjSc0wRpitAZxXzQMqmn7NWmrtFxp17V6aEMe5WqqjKk5pEOAeaZ4JTOVe/F04Vtw9DSAl+3blyzFpb82x0I+Kp4sTXQ1SG3S/v/+QJICgHMiP+tfvSr0Ulc1zX/oAUxM5rR3Ly44EJon7pdwOLhMw2S3KTm5D0j/PeD9LACZ31hgFoM2A+/aZUEVnJUOqLdaJzK5Egzr/l6IENFxGfVQIB9ZZIk4L3gC7Y/JxIgMFAyVDMgHwhn2sThDRUDXZh7Rduo7/rVrfgFYGnKrLh9Zis+QMbsjkIw7u7IWelORQf2WbvLjId/SXqdlgE7FKCWYeLciAMqsneyV3e9gNG8UZmwLEZvX7lkA=;iBzN+wrBiX43QNYLeiPHjA=="
 ---
