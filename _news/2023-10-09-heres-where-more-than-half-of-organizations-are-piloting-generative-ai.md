@@ -60,6 +60,29 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
+    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
+    publishedDateTime: 2023-10-09T13:17:00Z
+    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
   - title: "Coda bucks trend of additional charges for generative AI tools"
     excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
     publishedDateTime: 2023-10-06T09:49:00Z
@@ -70,6 +93,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "2fQdPAFcUdZzY7ZG/QvVF1KfbsMY6m8a5FqAwBaAI8DvtKBtJgXNTdIV7bgh16x/6Hh05RjP++d/+6vtPIaqGIsAMIypOcA5r7o8OG/t/vti7S9rXPk+ZIp3g2TRoOOFBKyyE4UbJXOucldvstmEPI270BGck2Lx3NI61YUKFsPmLM+6fCSbM6wDEwnFJUoEz9IsT4PFgaFWNKx2Nso6/Ml6DBGH+tobZF629yv3c0Jtz7pzExlWU8I9rOOVFOfWrlsNT599IsQJxh3Avu0puXLm0j346Mdg9W9bfLIfg32MoNt+Xrg9HP19uz3Z+e7VvheRfgaPOVZhM+RFwnyBJ5ix6IoDRsA5cy8cWNFRfYE=;FCimN3KDWLLrJf/uMbfWdg=="
+secured: "Fj7lndH/eXqss9WL6MCWu5SwgVeMW6EYX5c5f3VxC3F7kL+t68dLjt5uqZSYzEblE17FyU8JHGGHXekPde2AuTN77i5UBXC1eHuoxjbWgAyPezP7Wlc3RJc7VMj+ZXwiLZssj77q9p0Z07EvdU/7Q2vU3guQvMTDmTV0EyZ0ZV6Ixmc6enN2uD0l/5emxtSl/cBk4AEoVFOvTiUmIXMgVqeT7y+akb/a0IcUdVfs4NCQ8MkrxZQejnUvnZYWvhoi9umDws0QmG+X7exutJMuBqZtwnS8eA0gBIvJP5vhDl7taOaagBuypW7OgLCzKBh8UUADsaK6J4c44XmtlLjOQMDCPrmzxgRNczz/M8OGadEFBZFlH1IwUQby2wbK50cwVeqhvVFR3Xyf2T2QcsHFpOZQ7XOn49MAUvnxVn0sFsJa2Bo96b7eqwqgOUXzjx+vP6SSmTQAkscvW1a9vRJq5x+1BNwUzs19SCR91VTqSQnRcolfO8+pNBaI1zPNVznkWzew0JZv/snILPfyyfloWg==;gSzyGgPtAcMjcQ/s9QAAvg=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-29-celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations.md",
+      "title": "Celebrity clone startup led by veteran entrepreneurs uses AI for 1-on-1 ‘human-like conversations’",
+      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots ... startup leaders with roots in Seattle, is rolling out a library of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations/",
+      "originalUrl": "https://www.geekwire.com/2023/celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/Untitled-design.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ai-robotics-centre-to-debut-at-womens-univ.md",
+      "title": "AI & robotics centre to debut at women’s univ",
+      "excerpt": "Bhubaneswar: The state government has decided to open a centre of excellence (CoE) on artificial intelligence (AI) and robotics to ensure students of .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/articleshow/103154617.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/ai-robotics-centre-to-debut-at-womens-univ/amp_articleshow/103154617.cms",
+      "publishedDateTime": "2023-08-28T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
@@ -1258,83 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-to-buy-openai-stock-a-guide.md",
-      "title": "How to Buy OpenAI Stock: A Guide",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF The Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ) is an exchange-traded fund that invests in companies associated with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/19665139/how-to-buy-openai-stock-a-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ai-robots-poised-to-take-over-english-language-instruction-for-young-students.md",
-      "title": "AI Robots Poised to Take Over English Language Instruction for Young Students",
-      "excerpt": "Share with friendsAmidst a wave of controversy over using chatbots in the classroom, real robots are now taking over. Curiosity Robotics has recently launched “Aico”— a friendly robot that uses Artificial Intelligence (AI) to help children learn English as a second language.",
-      "sourceUrl": null,
-      "webUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "originalUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/08/22112132/AP368756065526814-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "cdnAmpWebUrl": "https://gvwire-com.cdn.ampproject.org/c/s/gvwire.com/2023/08/22/ai-robots-poised-to-take-over-english-language-instruction-for-young-students/?amp=1",
-      "publishedDateTime": "2023-08-22T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bill McEwen",
-        "domain": "gvwire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

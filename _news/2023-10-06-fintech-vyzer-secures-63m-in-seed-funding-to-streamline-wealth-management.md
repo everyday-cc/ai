@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Convene On Impact Of Fintech Sector"
-    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law enforcement agencies and regulators can fully harness the potentiality of FinTech in order to successfully counter the threat of financial crime."
-    publishedDateTime: 2023-10-05T09:15:00Z
-    webUrl: "https://menafn.com/1107194574/Experts-Convene-On-Impact-Of-Fintech-Sector"
+  - title: "IIFL Fintech Fund announces maiden exit, secures 80% return"
+    excerpt: "The fund, backed by group companies IIFL Finance and IIFL Securities, has a corpus of Rs 210 crore invested in a portfolio of 13 companies including Bengaluru-based stock analytics platform Trendlyne,"
+    publishedDateTime: 2023-10-09T12:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/iifl-fintech-fund-announces-maiden-exit-secures-80-return/articleshow/104288728.cms"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/05/TP_39013image_story.jpg"
-        width: 1000
-        height: 666
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "GaOJvnnlH1HLSzpe2YrPYXVjzKolaTLtsinqjVof/+5lV/NMvQ3fRMZzR0oTmINOeFem3m2R0pcB0fwosHPb+uwkCaiFRFLJhV50gJ6+UfIhs38EX5fHQkMOSjBZFElNlLAKb5pDN0wiWnjTUrcAv2yUUTKEZGMSdlrT+UI8wEzsGUlzd5CiWUFp4I/sC4XLab5K7j6WkgGUy4llIt/rwOVzWB4loMSwWLlo3DcifYZjkgzlM8uBL/dwbUuNxgpQjrAbltptLWhTunvVmbJLwsivH6uULkllqLCOXbVEo+4GzkoQbProKNOjHALt7xScZcVz40YoMNWdZv+4ITrreiSAZCReOroDCjvbVIl5I6INQQ3d6WoUZIc409fYGeH9nPu89jozeyJHY9wt50KF+ha7Aa6XN6qizMSl+jP1lvNC5MkRuDcPLRZBy5knhKDnHEQJdsw25P36PV6zUbrpc4sqqMuN5PepiUxYLsMlEsQJ+FTPLF4oURYqsgv70zynFS5IOqZ9NEwf/WL8D/lZQg==;9u5wbLRifQHIwlydBejd0Q=="
 ---

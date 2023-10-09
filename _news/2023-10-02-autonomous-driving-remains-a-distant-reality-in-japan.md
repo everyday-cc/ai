@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Autonomous driving remains a distant reality in Japan"
-excerpt: "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times."
-publishedDateTime: 2023-10-01T23:02:00Z
-originalUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
-webUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan"
-ampWebUrl: "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
-cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp"
+excerpt: "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ..."
+publishedDateTime: 2023-10-02T04:33:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan"
 type: article
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
-secured: "RQrZysHpLt9M2rLGdLcbMhCIA3ieG7pfWz/rk/VEkmFZYFiBMecr5VY+mlpbrHj552SdgnEy3H/FQ9vk3V5ddNf0FhJeWIoo51mRSjNfoY+6bRwVv2dx/ektAycv/D5zJn5VH37JnXy7goEcEgCWZDQLKSH/nwiWSuRdUHc9Ef9oW98cZKG7oSdTraIYkRHKpoowXo11tTYWQuxXiBhp9UEb1rLiMDwCki3uLfDL1svpO6DRkE1m30+/5X7KZ1udajc7zHH+vjCJxVeElKwal+Zar52rEmi64FSlE9iy1h5ZoEt8jSf6HUH8pzXt1nJ/auVSAScO36FcaJk9lykT1lz/he096bmx8JyVtVKqVQ92d/UZpQAwho41tVp9Y+FPEIAUZ/8cCG9ed3yLkV8O2NPs2wc+zCTKmeakUaqOM1A3+tSX4yjlYjnq5LrKyWzerVhtMxZ9N1PIVXTRRXUgg9UB6rP/29lfnqiep8Uqvr1QVRIZ/X1TiA6QAArTOUA9sXLTSpHnC/IVWa5ii6b7zA==;rlIip2vABX7c2/jAEE6bkA=="
+secured: "JlSKoRrsAojqXxZtDkyueKUXbyeixRS0P+zEDHHMEItmkDulMaRmDTl74q2Qdg3dwOANEjd++HJAnaS61zhI3wVUBspOsLSp3cXKGBtEh9xYni+vxvUpG1hgVdUujFa5Ye9U5gJ9F1B/d3wbO0PVH7VRFseadSy7cp0pXT+ALxkoCB1AFPuCZujhu5Q21mbpkngjwXz2kQeZ3quo26eXKwlP19O1wIp2ltXc0FTEuF8cJpFOre6syV1halgiF8crQv1d7kYenbTH6IIZCBizvtRXIoUQ9xZpaOpB0LLvU7+gdnJQKbifTWIXBiZI7Ks+aGd6mh/zcmTCcHid54+TIvn0yVqP0kNPRxYugwIb7MIX3m5tada2QCcnC2XZ3bTMv6RvVFjKYlbt3YPY87tRj92kJqr8qfZn/DH1l8nyMJ3785yz+1ngZJ6vWG2fNiosZtL1OhlmJ2ru5oOZtQzFQAbEyKVSj7unMbcMjehOE24qiE00CbaHhv2SGtAw0gAM3IZuRZYFczdP3FHUcZ5lrw==;wglDYh6pb18dHdkv+wr4JQ=="
 ---
 

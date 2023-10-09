@@ -71,6 +71,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
+    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
+    publishedDateTime: 2023-10-09T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "tLQc6581MTqYtPEITevKzMmjvm7/vx7I+Dt515INThmFQXb5pzPhi7AaleU72PdE0uTC19c+W31C3F9XWsy66qNtTBvPZL5jrDkNwZV9ixuy8ZDb3MtdXR0HAIUmiQqMv1RsSU6/7MLIXyvwvRaC9BPK9ckWp5kge9elh5NhuZKPdiAf/XkrnXXjaTvCVgm3flMluJ7wqZl68UAH91Vc7rg7tDw2V2EiQ8l9YzRQ0RDF1AykRoEVVmdFoW2UiuQWN2ha1uRnOeV0OBLNRkE2249/9fgNj7tfAEYO7NpY2IKJncwacuTKSrSqTYAEzSCy/4i8Mpbk1mgsDyEFgW13Yf/M3WkZvrnZEslyjVjxP5AcptTsevgu8ZzKB8VdEbsNNrGib1rszJ+BEHYDm/sXY24GtfmusKc8w8DutmfkzofXg6ig+uhJtd36CpB1MJzboKYD90BaTHO2fkelvBZvEN1upws7UEFVI09UDUdfPiR0Lu0rYX/+SaG5ENmV0K25pE03MHlQUcBCGTJPe86j1w==;gwm01oYrkmz6WFCxw4EUrA=="
 ---

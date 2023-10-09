@@ -33,6 +33,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
+  - title: "AI as Your BFF? A New Wave of Chatbots Want to Get Personal With You"
+    excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
+    publishedDateTime: 2023-10-09T12:33:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-a-new-wave-of-chatbots-want-to-get-personal-with-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
 
 secured: "LZIj/2HLtywCQnXdQFYvA8JjOIhEDlIeOgPOZoLcCEygib9dP1suGezPLohZvjkjmbDOc0QM+WYCV+rgaTUOjJxYZFGO2iV2BZTrq/yjOkdrlWabip5zzoMhDIQderh3puLPL29NXBq8vx1CuNWO+Go5lr6V9UHPUvo/eWENvNrODkz1beOEW5AB4FrVdXMQWXtAKlaxHf4Pj9n+h07yIV9vavfq1bFd+UPmsMwunt30f6XxHRHwLFj/ROlaAL53Ldl74X3JEAPdLEaW/5F6unobNPem2DR5nHwcOjq6mtCRtIrUVoFBKh+3mc4v3EKovMT7ml9xdA8aeCVpf8FBVmaULPJlnPOJBad9a5IoNEU=;ajZapx93i2MEwpB7HeHJ4Q=="
 ---

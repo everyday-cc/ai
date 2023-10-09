@@ -48,6 +48,20 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI can design and build walking robots in seconds"
+    excerpt: "In just nine design cycles, the AI crafted a robot capable of walking at a pace nearly equivalent to half of an average human’s stride."
+    publishedDateTime: 2023-10-09T15:23:00Z
+    webUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-in-seconds/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 54
+    images:
+      - url: "https://cff2.earth.com/uploads/2023/10/09092351/Walking-robots-scaled.jpeg"
+        width: 2560
+        height: 2444
+        isCached: true
 
 secured: "EQkqgc/CM7opPTYoYGGtxLTyZzkECbX7OmyRp2U87nLoH6TJBRj24FZj/coqWei+mrq5MuG+PLVLTwjU7hWPNXimwp+YYioOxeyD7OSox0UtUQ4iBdaBQGQhWsSYDsiRcKmVzQ6Axuy0rLO4IghSHJBxruIbC8zEKqlWM3YMe3rmK14W4aDuYXoPSNUXTQxZuidzurfY05Kb+hQC6VY1/P8H6B21NTdsHoalwX8pqZdiXLNmWgODo+qiq8vlWPrpA3HuUm7AkuREOvcoDuy7CKv1v/NFT5mADq8WoXl8AnFob7eKPk6Stz/XkHFobQ/dZU74e1nab33brB/YzqAQ0eLktJjRHU8rHBDRT370VAU=;q64qPEvPK/nXRgvykyE/Ig=="
 ---

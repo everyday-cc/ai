@@ -150,7 +150,7 @@ related:
   - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
     publishedDateTime: 2023-10-06T10:00:00Z
-    webUrl: "https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/"
+    webUrl: "https://www.reuters.com/article/tech-ai-openai/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-idUSKBN31601X"
     type: article
     provider:
       name: Reuters
@@ -234,6 +234,22 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
+        isCached: true
+  - title: "Microsoft, Google, And Adobe Navigate AI's Profitability Challenge"
+    excerpt: "These AI technologies, capable of generating business memos and computer code, are costly due to their need for powerful servers and energy-intensive chips. Microsoft reportedly incurred losses on one of its initial generative AI products, the Wall Street ..."
+    publishedDateTime: 2023-10-09T15:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35146260/microsoft-google-and-adobe-navigate-ais-profitability-challenge"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35146260"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35146260"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/bz_briefs_tech_5.png?width=1200&height=800&fit=crop"
+        width: 945
+        height: 630
         isCached: true
   - title: "OpenAI explores in-house AI chip making: Report"
     excerpt: "OpenAI, the ChatGPT maker that has been behind the recent AI surge, is now looking for alternatives to avert the shortage of expensive AI chips it needs, to run those advanced AI models. These chips,"
@@ -339,6 +355,20 @@ related:
         width: 552
         height: 289
         isCached: true
+  - title: "Microsoft’s First In-House AI Chip Could Be Revealed Next Month"
+    excerpt: "Microsoft is reportedly working on its own AI chip to lessen its reliance on Nvidia GPUs for AI workloads. According to The Information, the new AI chip could be officially announced in November, which is when Microsoft will hold its Ignite conference for IT pros."
+    publishedDateTime: 2023-10-09T14:07:00Z
+    webUrl: "https://www.thurrott.com/cloud/290645/microsoft-first-ai-chip-could-be-revealed-november-2023"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/10/Microsoft-AI-Chip.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
     excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
     publishedDateTime: 2023-10-06T04:04:00Z
@@ -369,6 +399,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft plans to launch an AI chip similar to the Nvidia GPU"
+    excerpt: "Microsoft may present its first artificial intelligence chip that will reduce costs. Find out what Microsoft is planning."
+    publishedDateTime: 2023-10-09T11:45:00Z
+    webUrl: "https://www.thehansindia.com/tech/microsoft-plans-to-launch-an-ai-chip-similar-to-the-nvidia-gpu-828650"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 66
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
     publishedDateTime: 2023-10-06T19:31:00Z
@@ -538,6 +577,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft to compete with industry leaders NVIDIA in developing AI processors"
+    excerpt: "According to The Information, Microsoft is currently in the process of developing its own AI processors. These processors are specifically designed to handle"
+    publishedDateTime: 2023-10-09T14:18:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-to-compete-with-industial-leaders-nvidia-in-developing-ai-processors/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 53
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
     excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
     publishedDateTime: 2023-10-08T12:37:00Z
@@ -555,6 +608,15 @@ related:
     provider:
       name: thesiliconreview
       domain: thesiliconreview.com
+    quality: 51
+  - title: "The chip ‘war’: Microsoft may launch its own AI processor next month"
+    excerpt: "Microsoft is reportedly planning to unveil its first AI chip, codenamed \"Athena,\" at its annual developers' conference. The chip is designed to proces"
+    publishedDateTime: 2023-10-09T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-chip-war-microsoft-may-launch-its-own-ai-processor-next-month/articleshow/104288664.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."

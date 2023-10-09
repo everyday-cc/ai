@@ -60,6 +60,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
+    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
+    publishedDateTime: 2023-10-09T13:17:00Z
+    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
   - title: "Coda bucks trend of additional charges for generative AI tools"
     excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
     publishedDateTime: 2023-10-06T09:49:00Z

@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-19-new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology.md",
+      "title": "New York state report identifies risks in schools' use of facial recognition technology",
+      "excerpt": "The New York State Office of Information Technology Services (ITS) has determined that, when it comes to the use of facial recognition technology for security in schools, the “risks may",
+      "sourceUrl": null,
+      "webUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
+      "originalUrl": "https://www.moultrieobserver.com/news/new-york-state-report-identifies-risks-in-schools-use-of-facial-recognition-technology/article_1ec99702-867a-54c1-9348-7999a1abc296.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/moultrieobserver.com/content/tncms/custom/image/83dffb44-4d9d-11e8-b162-0f1e2c3a5297.jpg?resize=600%2C360",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-19T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Moultrie Observer",
+        "domain": "moultrieobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-19-phillies-to-start-letting-in-fans-via-facial-recognition.md",
+      "title": "Phillies to start letting in fans via facial recognition",
+      "excerpt": "Philadelphia will soon become the first city to allow fans entry into a stadium with facial recognition technology, according to the MLB. The new technology, MLB’s Go-Ahead Entry, will launch ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
+      "originalUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4159431-phillies-to-start-letting-in-fans-via-facial-recognition/amp/",
+      "publishedDateTime": "2023-08-18T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-14-intriguing-new-and-potential-uses-for-facial-recognition-technology.md",
       "title": "14 Intriguing New And Potential Uses For Facial Recognition Technology",
       "excerpt": "Many consumers interact with facial recognition technology each day when they unlock their iPhones. Before being added to smartphones, facial recognition technology—which uses biometric data to identify individuals based on their unique facial features ...",
@@ -1237,101 +1314,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend.md",
-      "title": "Innocent pregnant woman jailed amid faulty facial recognition trend",
-      "excerpt": "Woodruff's arrest, and the recent trend of false arrests, has sparked a new round in an ongoing debate about the reliability of facial recognition technology in criminal investigations. Critics say the trend highlights the weaknesses of facial recognition technology and the risks it poses to innocent people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/innocent-pregnant-woman-jailed-amid-faulty-facial-recognition-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition.md",
-      "title": "Detroit Woman Sues City Police After Being Wrongfully Arrested Due To AI Facial Recognition",
-      "excerpt": "Six police officers arrested Porcha Woodruff, who was eight months pregnant, after mistaking her for someone who had robbed a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 444,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d10b3a725fca0578d6288b/0x0.jpg?format=jpg&crop=2369,1332,x603,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irenebenedicto/2023/08/07/detroit-woman-sues-city-police-after-being-wrongfully-arrested-due-to-ai-facial-recognition/amp/",
-      "publishedDateTime": "2023-08-07T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -27,15 +27,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Object Computing Unveils Quick Start Workshops to Help Businesses Embark on AI Journey"
-    excerpt: "ST. LOUIS, Oct. 4, 2023 /PRNewswire/ -- Object Computing, Inc., announced the launch of its new Quick Start Workshops, the first of which are centered around AI. These workshops are designed to help businesses to launch or advance their AI strategies quickly and efficiently."
-    publishedDateTime: 2023-10-04T20:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9893083.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "DCNPC/1fqEJrQHxpUCqdzjkU7oDWbKydFUyUO9pDHyHZt/7kK5crZpA9rANiYsUcnBWg4a2DJAvvKS0RpB0zGLOuYxv3t+psoVIzKDnRcwzmw47sAgq0JMMI4Qcpa9tQGHble2s7imQ0uCAwnUbOmq5yENLM2WUPEcf7TQnSOfMjh8Za5E86vOUDHpCf7u6BFUD+vNpBGaPofnV6/cDbQQUqMz3M81UCtTeZPxHySU19WQWapHtT2Tl6BrRrvn9vjsoXtS/RM5Fvi3xpVpg4hrquiisK7bhr+SvTEzcWZB7K/kkIT/l99S4Wgt+w66wn179ov6d/qSYRDbXYSss6Rr0RE3WE0Sn5dwSCvhmtQQg+7k7I/xiNeWYL8z9ANbyzupTcm1VpMcX/9NuAawbO2qKFX7rQ3m966viIqc2SHZfG5sWjTxc+Hwl41bSabJ8PKaq6GT+nZ86G14eD22NEQTahQxCHGr6X8CColxB4V+Lwa2YMhGCrZcOk0gaHMk14wy4fdGk1iD2CKveo/VydTQ==;P8vrZwZ/ZTVpilT6r6Gj2g=="
 ---

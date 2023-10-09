@@ -214,15 +214,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
-    excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
-    publishedDateTime: 2023-10-04T21:17:00Z
-    webUrl: "https://mobileidworld.com/pixel-8-brings-triumphant-return-of-strong-facial-recognition/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "MPs call for 'immediate stop' to live facial recognition"
     excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
     publishedDateTime: 2023-10-06T19:02:00Z

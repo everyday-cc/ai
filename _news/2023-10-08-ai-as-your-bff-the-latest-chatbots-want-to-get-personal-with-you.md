@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chat
 webUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: CNET
@@ -24,6 +24,15 @@ topics:
   - AI Ethics
 
 related:
+  - title: "AI as Your BFF? A New Wave of Chatbots Want to Get Personal With You"
+    excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
+    publishedDateTime: 2023-10-09T12:33:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-a-new-wave-of-chatbots-want-to-get-personal-with-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
     excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
     publishedDateTime: 2023-10-08T20:36:00Z

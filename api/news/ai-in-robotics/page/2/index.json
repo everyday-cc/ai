@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-28-fedexs-new-robot-loads-delivery-trucks-like-its-playing-3d-tetris.md",
+      "title": "FedEx’s New Robot Loads Delivery Trucks Like It’s Playing 3D Tetris",
+      "excerpt": "The new robot aims to use artificial intelligence to stack rows of differently sized boxes inside a delivery truck as efficiently as possible, attempting to maximize how many will fit. That task ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fedexs-new-robot-loads-delivery-vans-like-its-playing-3d-tetris/",
+      "originalUrl": "https://www.wired.com/story/fedexs-new-robot-loads-delivery-vans-like-its-playing-3d-tetris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65148185b59699fef75aa8c1/191:100/w_1280,c_limit/Dexterity-FedEx-Robot-Business.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
+      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
+      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-one-hour-training-is-all-you-need-to-control-a-third-robotic-arm-study-finds.md",
       "title": "One-hour training is all you need to control a third robotic arm, study finds",
       "excerpt": "A new study has found that people can learn to use supernumerary robotic arms as effectively as working with a partner in just one hour of training.",
@@ -1239,111 +1344,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-worlds-first-humanoid-robot-factory-will-ship-digits-in-2024.md",
-      "title": "\"World's first humanoid robot factory\" will ship Digits in 2024",
-      "excerpt": "Agility Robotics is well into construction of a 70,000-sq-ft (6,503-sq-m) facility in Salem, Oregon, with the capacity to produce more than 10,000 units per year of the company's Digit humanoid robot – which will work alongside humans on the factory floor.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/agility-humanoid-robot-factory/",
-      "originalUrl": "https://newatlas.com/robotics/agility-humanoid-robot-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/10e5a71/2147483647/strip/true/crop/2048x1075+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0b%2Fca%2F813636924cd7a3759cf43644bd85%2F241074206-1781154865417899-2461259987337907794-n.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-chinas-capital-city-is-letting-the-public-take-fully-driverless-robotaxis-and-has-bigger-rollout-plans-startup-ponyai-says.md",
-      "title": "China's capital city is letting the public take fully driverless robotaxis — and has bigger rollout plans, startup Pony.ai says",
-      "excerpt": "As of Tuesday, the suburban Beijing city district of Yizhuang is officially letting local robotaxi operators — primarily Baidu and startup Pony.ai — charge fares for fully autonomous taxis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1695097460",
-          "width": 1919,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/chinas-capital-city-beijing-has-big-plans-for-robotaxis-ponyai-says.html",
-      "publishedDateTime": "2023-09-18T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
 type: article
 quality: 74
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -206,15 +206,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pixel 8 Brings Triumphant Return of Strong Facial Recognition"
-    excerpt: "Google’s newest Pixel smartphone, the Pixel 8, has been unveiled, and features “Class 3” facial recognition technology, according to the tech giant’s classification system."
-    publishedDateTime: 2023-10-04T21:17:00Z
-    webUrl: "https://mobileidworld.com/pixel-8-brings-triumphant-return-of-strong-facial-recognition/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
   - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
     excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
     publishedDateTime: 2023-10-06T12:07:00Z

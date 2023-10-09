@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide"
-excerpt: "The GPU Stack supports instant provisioning of the full array of NVIDIA GPUs, while the new Vultr Container Registry makes AI pre-trained NVIDIA NGC models globally available for on-demand ..."
-publishedDateTime: 2023-09-27T05:23:00Z
-originalUrl: "https://www.enidnews.com/region/vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide/article_d7b01aaa-86e7-5c56-86bb-722c214f5da5.html"
-webUrl: "https://www.enidnews.com/region/vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide/article_d7b01aaa-86e7-5c56-86bb-722c214f5da5.html"
+excerpt: "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl"
+publishedDateTime: 2023-09-26T18:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230926776516/en/"
+webUrl: "https://www.businesswire.com/news/home/20230926776516/en/"
 type: article
 
 provider:
-  name: Enid News & Eagle
-  domain: enidnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "eR6Vqt9x93PUAyY7axYsNIU00wn90zFoDTLwbbCKdW8LCV42mWi94rSAkIXguW7xl2QIdsTv72HJCM3XXeqU/vjgr+Ykz2bOGkzceKBMEfjXoYqb+pc/+Ax8btFX60pAVLPgD/sbDiR2ojvpUZCDKEef+xw7gZ5oW1NYtF3LWu5AK5wNNC1o1oYIQVDpMuJnwbiw7xPvxojAmoiME745i1gMzaR4avgLDqCPylF2vJ9BxGtnoYsfDYpAsULVHdQ8Vq3TB+8NVC1NI5ehKSTMrP8iqb+4eIehHLawaIbelxHYXxLP79rqHdxS42bv7Ng3vM8X6VDPc3iLyzgB2uPu8udlmnJMCBiFuIClWLlnb88=;DaPtRJQsPJ4rIHAkFLJqLQ=="
+secured: "toFwGQKn92O20j8oaGdwKSTXvx+JtqP3o2hhHYOdDxPXL+vu6CIA+ZFPKYCGiaiYp0kbfFBkX6mDT05PgWfZq5iClBA1FXKJxePfjKtNbgksYg6FUOOUmxhEhH61kK4lN7xDSbuuhuXXFynpcITTHQ1UsjZ5VpRJghmb2Fp/ErxZCzeTaV/f6vLGdtbWCcMMZly3SXB0tchDPvuCYRTda9HlsO9SgINFU5lCklHLSpRIEkI3sje2JvS1aUnpzZr4zYK6BdqNi8F/j9/R77CZ47TDbQJhj4CqiDnySrv7WDTHLYCNNLpFAPUO+sFc2QsiCYt5BKFrOscEQpH2ajIDE/AE7v5r1rA9DqIdfVigZRg=;E321jk0Kwij42c9B+z8a2w=="
 ---
 

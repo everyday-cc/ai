@@ -145,6 +145,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
+    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
+    publishedDateTime: 2023-10-09T13:30:00Z
+    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
+  - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
+    excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
+    publishedDateTime: 2023-10-09T11:54:00Z
+    webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 4
 
 secured: "BW/c9K6Q/7hTrgn+yT57j+bmiXM54LntvHUrA9AiiEYj7j8H9Ck/xKBEeUZv06Uer9xC1BlupOZgCAq3rZY6/cajOvKiWdsm0oWx+uCpVpqLx9NNw2W5+IhuFu+2YEEPr/YYaYu9xroFuKRIvHeCqI288p4DBKmCvYiRXjDs6eOM7GzlQAXInZUY5gse8MiDkR05NEZxxzwyQ9fC/pPhH8KqjibvSWe+Lv18XCCESQJ93KmTXoszhgol7tYdhEyO/sT12YU6djrGyuPRw80/VN3SApT2ChrpwOdW5HmaOjDymO3hLa3MA7TPTSP5BJZ0WTQDG74lYWtkgiYH0sH4LQsQ6xAkTFSzkiZDNYLV+rM=;HM758XsGKJYGS5fm2/ukYw=="
 ---

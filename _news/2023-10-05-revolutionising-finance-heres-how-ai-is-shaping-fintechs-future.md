@@ -9,7 +9,7 @@ ampWebUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s
 cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
 type: article
 quality: 74
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -145,6 +145,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
+    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
+    publishedDateTime: 2023-10-09T13:30:00Z
+    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
+  - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
+    excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
+    publishedDateTime: 2023-10-09T11:54:00Z
+    webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 4
 
 secured: "tJ+JVC6BY9sb9PnBJUQp+STROVv9UAJLTYht0N7825KSjELsX1Rg5AlqL+vcMqjMxZ4YRY6qS3Dc0sckYsuz2XJ8WIc09PHSpN0zlrUrsq6M9HI7i1MpTSHhz4wK7X1x5To+IjYlD12YG0rlAjlwWHrNrkCsD2OeNvZjWyz/wWe0ecfQ6zXZIhQDc28PDSL5I1o9FV249Vl9wYD7vqpg2flK/OkfBkcMbErl+3+XUnL6MR5TpBU1KedDcnUIs7gmP+mFNPLKcZgh6BRMcB/rGwMmVb1PPXaA3Ug5JxPVIo0+Mi+n1Q/sxG/tuCTLe1MMYGFu3SVAiau/F7c27KnfCn5VqeB8b7FE4M5CyOB9DRHG3E91X/K9UhjpvbHvhKQNWjnFjxC2SwVIN/NeCLrnLhng1hQy07R4Pf9jSGeKyvJskXM5MFbgxfY9qse6TBaac90A4B/JbR1pvuzFm+l5odZzoCAOYDPpF4hsSamNuI8uAZxEpT9rB69zOQKY5t/UsJ2j//fI90AkX8ugungKnA==;LYsaQNs9as6OKrBO1t+ryA=="
 ---

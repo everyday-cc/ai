@@ -350,6 +350,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-29-meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses.md",
+      "title": "Meta unveils artificial intellgence assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
+      "originalUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
       "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
       "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
@@ -1347,58 +1381,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-1-artificial-intelligence-ai-growth-stock-is-a-must-buy-for-most-investors-according-to-this-wall-street-analyst.md",
-      "title": "1 Artificial Intelligence (AI) Growth Stock Is a Must-Buy for Most Investors, According to This Wall Street Analyst",
-      "excerpt": "As a recognized leader in cloud computing and AI developer services, AWS is ideally positioned to benefit from the growing demand for generative AI. Straits Research says online retail sales will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/747018/market-2.jpg",
-          "width": 2101,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

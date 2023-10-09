@@ -1,23 +1,43 @@
 ---
 category: news
 title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
-excerpt: "Boca Raton, FL, Oct. 05, 2023 (GLOBE NEWSWIRE) -- Janover Inc. (Nasdaq: JNVR) (“Janover” or the “Company”), an AI-enabled B2B fintech marketplace connecting commercial property borrowers ..."
-publishedDateTime: 2023-10-05T14:19:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
+excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
+publishedDateTime: 2023-10-05T14:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
+webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "w9N884kFjNQ862V853I7gk1TxmW6wbY71sU4S/Z1gMNtQhSsAdIYz4TGmQ2xKzka2+RU07GKqRhFQ2MAec6P3QJQIJCOzDXpFUv4RsH7KhSltiBwWV/+xzCiW4SGtJWC6ZOFf14HIDWqB9773JL5Ou3RhQrbqbwXRRUhkF11yo6yVdhOz64awv5/C7jIhpvefo3IE4DV+E3FZhjJMUsOOYoScN+MsTwbCFOol0i0WpELi+bxiHcnEkW0vongSoU9GSsJyW5MPE0diJf0RS10V/Omeqidb/nZD/KjW+CqNXEimUBjrTlJya5V37kL7tLK/1EO1Dtz0ITbWAvTzN96d3/00dQ3y0C3Bcd/ff2OsEk=;BZ46hCeafNQ1NTmfl6P+Lw=="
+related:
+  - title: "Experts Convene On Impact Of Fintech Sector"
+    excerpt: "During a panel session held yesterday at the 15th MENA Regulatory Summit, industry experts uncovered a range of perspectives on how law enforcement agencies and regulators can fully harness the potentiality of FinTech in order to successfully counter the threat of financial crime."
+    publishedDateTime: 2023-10-05T09:15:00Z
+    webUrl: "https://menafn.com/1107194574/Experts-Convene-On-Impact-Of-Fintech-Sector"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/05/TP_39013image_story.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+
+secured: "WV1eGQ/44zBUoaIfEaYA52z0e61FUxF3LDAsG3HB2XlUPx0+7azux5m8GUC4pBmyOo1+g3Nq40QWuaXO5SNzIeqzgaYgodPkhIYuzCX5SYHBZCfiZnYrOc7Vv7PnELFxnFUOsSKwdj8zQpP6UEwD9wxIpACOK9BSQAsIczf/CaslJQKJzCFVkO0VYjSjIaPtmyLNBAOUFRpqJ6H3jagsxABCCoBR6nFRhTx6pGT3bDwvLhSakv8mZAB7giZ5dgMApGAKWFtKp6OSNGUiU+qYXon3cj0bHv8P8Y4c3H9ItGtSA4TZ5j9KoOe1RUhYn0lYNCgFjlyx2Pl3sWFhw1JlHwaq8iC+k+AIJTBQuQD7FCw=;vpd1wDS2EdjLIuda6vuOlg=="
 ---
 

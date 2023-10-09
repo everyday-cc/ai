@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Vyzer Secures $6.3M in Seed Funding to Streamline Wealth Management"
-    excerpt: "Vyzer, an digital wealth management platform, has successfully raised a Seed round of $6.3 million from leading VCs, angel investors, others."
-    publishedDateTime: 2023-10-06T02:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213923-fintech-vyzer-secures-6-3m-in-seed-funding-to-streamline-wealth-management/amp/"
+  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
+    excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
+    publishedDateTime: 2023-10-05T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
-        width: 1080
-        height: 1080
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "JzjgyT9p9ZVT7GK/UcphExlhrMBH4/m9+iZMTjbnt53k3rBlxpRwYD1j3YkCHgo2hh4lr8+OsZbOrzZtZVksqpiFkTeYw54mlibiR/64LKTL4jLGkw4SwChbUBDTNDtInn3ESb5YHsTqGtL3ilNPrzdnMdDHPwBFWsRx47ze6aHPtw180fweQMFycd6zsvz5IQvUrA7ApmIzCI8LnCgjF9w/DSeXkKrCrdmpzS8XD5CZkeEUXzXC8fR9HAZIdNWGnSp79xo6hrA6SvBvs1iy8p/XduXXrByMc//9N6IeUuB6OzicRdC4/7vJMo0iPH7uT41Y+oS4PGMV84VjIgGNZSex3UUcRljVYlU/HQIJVURPQFOXnhIeWVOGaMiomGEWCtQ5zi7iCkveSFES3k64laHrinM6ZxKZayP8vzHIp1/Zjyxh4mhCogzrWqcUErZYENGxIoZExPsJEGr6iGgSUKpBrX22fFjjp+uxxMgZccGqgSq85y0uCDK7wJaGl0fDoXp5KTvAU0QB8ffYtr7TDw==;oZxC8warnocXV+LVQlXuvw=="
 ---

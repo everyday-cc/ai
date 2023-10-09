@@ -66,15 +66,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "In Australia's Outback, Indigenous Voice Proposal Struggles to Inspire"
-    excerpt: "AREYONGA, Australia (Reuters) - In this dusty corner of the Outback, Tarna Andrews sat in the local schoolyard and rolled off a catalogue of problems afflicting her largely Indigenous community: Lack of jobs. Inadequate health services. Spotty internet."
-    publishedDateTime: 2023-10-04T23:02:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2023-10-04/in-australias-outback-indigenous-voice-proposal-struggles-to-inspire"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Both camps in Australia’s Voice referendum pledge to cut spending for impoverished Aborigines"
     excerpt: "Donate today The Voice’s origins lie in the decision of then Liberal ... The gathering, which agreed to moves towards indigenous Constitutional recognition which have culminated in the current referendum, was an attempt by Abbott to suppress anger ..."
     publishedDateTime: 2023-10-05T03:38:00Z

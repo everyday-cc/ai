@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Robot-770x433.jpg"
         width: 770
         height: 433
+        isCached: true
+  - title: "AI can design and build walking robots in seconds"
+    excerpt: "In just nine design cycles, the AI crafted a robot capable of walking at a pace nearly equivalent to half of an average human’s stride."
+    publishedDateTime: 2023-10-09T15:23:00Z
+    webUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-in-seconds/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 54
+    images:
+      - url: "https://cff2.earth.com/uploads/2023/10/09092351/Walking-robots-scaled.jpeg"
+        width: 2560
+        height: 2444
         isCached: true
 
 secured: "IoulrF2UINs+98dRgPZhwJ32HUkQZTLuNUJcom8Ige8N6baDtVftO1GPZWvVGdeIDmrV4AsPhVifXfdd7WMPSOfZdLhOLdHdJY4ls2dHkXC116fTdWaGx+UVz79CsJgNRQmc1UEVTS0FlNScdpO+SYMfF6Stun32av1+CeShuURN2inL7wqLOTIIqvHtO/3+fBNL4cgek/kxSXRzuCrkM3k7VNv2ykxYL1vOcNA60Z+iccl2L/QDzVhixJ1A3EbKIyv7SlCV4l+mZi9sscBf8mLgVxPljJuIKZtTsuTFIgYjoaZ9d0FVuxuWG6PvUPan1Jso8jEfkbaLDVHQDkgqGi91M5v5UaWicz5wrNb4R2Q=;vU/sa36ncpJWnMR62oURiQ=="

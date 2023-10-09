@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-1-artificial-intelligence-ai-growth-stock-is-a-must-buy-for-most-investors-according-to-this-wall-street-analyst.md",
+      "title": "1 Artificial Intelligence (AI) Growth Stock Is a Must-Buy for Most Investors, According to This Wall Street Analyst",
+      "excerpt": "As a recognized leader in cloud computing and AI developer services, AWS is ideally positioned to benefit from the growing demand for generative AI. Straits Research says online retail sales will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/12/1-ai-growth-stock-is-must-buy-for-most-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747018/market-2.jpg",
+          "width": 2101,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-3-reddit-approved-ai-stocks-for-your-buy-list.md",
       "title": "3 Reddit-Approved AI Stocks for Your Buy-List",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to identifying the pulse of contemporary stock market trends,",
@@ -1452,58 +1504,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-the-myth-of-open-source-ai.md",
-      "title": "The Myth of ‘Open Source’ AI",
-      "excerpt": "A new analysis shows that “open source” AI tools like Llama 2 are still controlled by big tech companies in a number of ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
-      "originalUrl": "https://www.wired.com/story/the-myth-of-open-source-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64e699f784e5e6bbd95a1ed4/191:100/w_1280,c_limit/The-Myth-Of-Open-Source-AI-Business-1349800127.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

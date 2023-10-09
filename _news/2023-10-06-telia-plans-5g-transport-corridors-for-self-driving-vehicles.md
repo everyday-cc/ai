@@ -27,7 +27,7 @@ images:
 related:
   - title: "China leads way with self-driving vehicle tech"
     excerpt: "Another report by global consultancy IHS Markit said that China's self-driving taxi market alone ... companies like Pony.ai and Baidu have been operating robotaxis in designated areas in Beijing ..."
-    publishedDateTime: 2023-10-05T04:16:00Z
+    publishedDateTime: 2023-10-05T09:51:00Z
     webUrl: "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
     type: article
     provider:
@@ -38,20 +38,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "What happens if you get in an accident with a self-driving car in TN?"
-    excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
-    publishedDateTime: 2023-10-05T03:22:00Z
-    webUrl: "https://www.newschannel5.com/news/what-happens-if-you-get-in-an-accident-with-a-self-driving-car-in-tn"
-    type: article
-    provider:
-      name: WTVF
-      domain: newschannel5.com
-    quality: 24
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d6ec3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fde%2Fd2%2Fe40be43547daaba1d5b8799f46be%2Fcruise.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Be prepared for epic traffic jams with self-driving cars"
     excerpt: "The biggest danger to self-driving cars is not technical errors or even hackers, but their own success. Read more at straitstimes.com."

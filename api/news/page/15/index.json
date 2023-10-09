@@ -2,6 +2,402 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-26-machine-learning-unravels-mysteries-of-atomic-shapes.md",
+      "title": "Machine learning unravels mysteries of atomic shapes",
+      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230925124814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-fbi-agents-are-using-face-recognition-without-proper-training.md",
+      "title": "FBI Agents Are Using Face Recognition Without Proper Training",
+      "excerpt": "The US Federal Bureau of Investigation (FBI) has done tens of thousands of face recognition searches using software from outside providers in recent years. Yet only 5 percent of the 200 agents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
+      "originalUrl": "https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/?mc_cid=ec579b13de&mc_eid=d63e057ad6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/650e24e46433c8cfce97f20c/191:100/w_1280,c_limit/FBI-Facial-Recognition-No-Safety-Net-Business-1279559129.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-spotify-is-testing-ai-powered-podcast-language-translation-which-mimics-the-podcasters-own-voice.md",
+      "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
+      "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000390.html",
+      "originalUrl": "https://www.aol.com/spotify-testing-ai-powered-podcast-120000390.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KbfQvKis8UncLs0mEo_dpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/variety.com/93178d697a7d0f57e5ba4995fa0530ad",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-chatgpt-can-now-talk-to-youand-look-into-your-life.md",
+      "title": "ChatGPT Can Now Talk to You—and Look Into Your Life",
+      "excerpt": "using image or speech recognition, so the chatbot can generate a response. The app then responds via either voice or text, depending on what mode the user is in. When a WIRED writer asked the new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/650e03b8051fc1c1176d09dc/191:100/w_1280,c_limit/ChatGPT-Can-Now-Speak-And-See-Business-530901253.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-new-method-helps-ai-navigate-3d-space-using-2d-images.md",
+      "title": "New method helps AI navigate 3D space using 2D images",
+      "excerpt": "Photos are two-dimensional (2D), but autonomous vehicles and other technologies have to navigate the three-dimensional (3D) world. Researchers have developed a new method to help artificial intelligence (AI) extract 3D information from 2D images,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-method-helps-ai-na.jpg",
+          "width": 2880,
+          "height": 982,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-method-ai-3d-space-2d.amp",
+      "publishedDateTime": "2023-09-25T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-the-ethics-of-artificial-intelligence-a-path-toward-responsible-ai.md",
+      "title": "The ethics of artificial intelligence: A path toward responsible AI",
+      "excerpt": "If the firms behind AI start thinking intentionally about ethics, striving to make \"AI that's more fair, that's more inclusive, that's safer, that's more secure, that's more private, then that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
+      "originalUrl": "https://www.thestreet.com/technology/the-ethics-of-artificial-intelligence-responsible-ai?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-indxx-licenses-robotics-and-ai-themed-investment-vehicle-for-korean-etf.md",
+      "title": "Indxx Licenses Robotics And AI Themed Investment Vehicle For Korean ETF",
+      "excerpt": "Indxx has gained the licensing of its Indxx Global Robotics & Artificial Intelligence Thematic Index Methodology to Mirae Asset Global Investments as the underlying benchmark for the TIGER Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
+      "originalUrl": "https://menafn.com/1107136697/Indxx-Licenses-Robotics-And-AI-Themed-Investment-Vehicle-For-Korean-ETF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-09/25/R&AN_d0f49image_story.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition.md",
+      "title": "ChatGPT has gone full virtual assistant with voice and image recognition",
+      "excerpt": "ChatGPT is uprooting that with a new update that brings an audible voice to the advanced language model. With that, it can read aloud its responses in a wildly natural voice that rivals every other virtual assistant currently available. On your end, you can use your human voice to ask questions and make conversation like you did before with text.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/",
+      "originalUrl": "https://9to5google.com/2023/09/25/chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/chatgpt-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-can-a-simple-eye-exam-help-diagnose-autism.md",
+      "title": "Can a simple eye exam help diagnose autism?",
+      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-simple-eye-exam.jpg",
+          "width": 1524,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "publishedDateTime": "2023-09-25T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031.md",
       "title": "2023 | Artificial Intelligence Robotics Market Size, (New Report) Exclusive Data Report Forecast 2031",
       "excerpt": "\"Artificial Intelligence Robotics Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 113 Pages Report The extent and overview of the various commercial ...",
@@ -650,401 +1046,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-lawsuits-by-black-plaintiffs-over-misidentification-by-facial-recognition-grow.md",
-      "title": "Lawsuits by Black plaintiffs over misidentification by facial recognition grow",
-      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, La., for his ordeal. “I was confused and I was angry because I didn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b7f637b/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5c%2F3e3aa6de4b948117b18f31902b06%2F65110882005975-19167542.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-1-billion-gamble-to-ensure-ai-doesnt-destroy-humanity.md",
-      "title": "The $1 billion gamble to ensure AI doesn’t destroy humanity",
-      "excerpt": "is describing to members of the AI startup’s “alignment” team in a conference room at its downtown San Francisco offices. Alignment means ensuring that the AI systems made by companies like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "originalUrl": "https://www.vox.com/future-perfect/23794855/anthropic-ai-openai-claude-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PMO5NtFcDVf9JdEllg9NGtnDS5o=/0x47:2400x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24788204/Vox_Anthropic_final.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-the-role-of-artificial-intelligence-in-digital-transformation.md",
-      "title": "The Role of Artificial Intelligence in Digital Transformation",
-      "excerpt": "In today’s rapidly evolving digital landscape, the term “digital transformation” has become a buzzword, and for a good reason. Companies across industries are recognizing the need to adapt and leverage technology to stay competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "originalUrl": "https://techbullion.com/the-role-of-artificial-intelligence-in-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/09/Untitled-design-2023-09-25T151443.982.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-is-investing-up-to-4-billion-in-ai-startup-anthropic-in-growing-tech-battle.md",
-      "title": "Amazon is investing up to $4 billion in AI startup Anthropic in growing tech battle",
-      "excerpt": "followed by another multibillion-dollar investment at the start of year. Amazon has been rolling out new services to keep up with the AI arms race, including an update for its popular assistant ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_72d21e6c663d506dbf968f50628e7ded_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459168",
-      "publishedDateTime": "2023-09-25T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-new-artificial-intelligence-solutions-developed-to-combat-wildfires.md",
-      "title": "New Artificial Intelligence Solutions Developed to Combat Wildfires",
-      "excerpt": "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "originalUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/3889d9d2-0cf4-4b87-ba63-771e372ecdae_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "publishedDateTime": "2023-09-25T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-takes-a-big-stake-in-the-ai-start-up-anthropic.md",
-      "title": "Amazon Takes a Big Stake in the A.I. Start-Up Anthropic",
-      "excerpt": "With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google. By Adam Satariano and Cade Metz Adam ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times.md",
-      "title": "Everything to Know About Artificial Intelligence, or AI – The New York Times",
-      "excerpt": "A.I. NewsletterPart 1 of our weeklong series.By Kevin Roose and Cade MetzKevin and Cade have covered A.I. for many years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-10656.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-invests-4-billion-in-anthropic-ai-in-exchange-for-minority-stake-and-further-aws-integration.md",
-      "title": "Amazon invests $4 billion in Anthropic AI in exchange for minority stake and further AWS integration",
-      "excerpt": "Amazon said on Monday that it’s investing $4 billion into the artificial intelligence company Anthropic in exchange for partial ownership and Anthropic’s greater use of Amazon Web Services (AWS), the e-commerce giant’s cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://kesq.com/money/cnn-business-consumer/2023/09/25/amazon-invests-4-billion-in-anthropic-ai-in-exchange-for-minority-stake-and-further-aws-integration/",
-      "originalUrl": "https://kesq.com/money/cnn-business-consumer/2023/09/25/amazon-invests-4-billion-in-anthropic-ai-in-exchange-for-minority-stake-and-further-aws-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
-          "width": 860,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-funding-wrap-tens-of-millions-raised-for-cybersecurity-ai-robots-in-hospitals.md",
-      "title": "Funding wrap: Tens of millions raised for cybersecurity AI, robots in hospitals",
-      "excerpt": "Check out who has fresh cash in Austin — these kinds of deals often precede hiring and other kinds of expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

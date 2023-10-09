@@ -119,6 +119,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "lg5tXpKN6B56+vkZWcQOV6eIPiQd09jnhifKh34VRnKhirT/qE16+8wlYwfhBELOPdNnufANrbppr8OZ9Oln4EvXPxDxeKOJk74nYx9ek8Nj6k0xyV+XZ7UahMZyfodPkEgq7Ob8SkBR7SskXMAZA6HZaqYZUWIeS3pDVs9osRa7b6fuF3RNJ/TX7Pe9Ymt0wSdcA3GDbcIU4iSxovdPUxpgE/5H0+xmyHD77tpL6xOrZsLUgh9+rxxyZtcF361akKeccVnuWNEf6NwmBGBZrK09wVCdQzD345UBZd49WX5k7c+yJfC28pjqMeq1K93lTJvtE6Xpi+pT3MCGFoOA0olD7/16ctrK7RFHYupJHu0=;iYaXjQFJrvYoHR9v8P9ixw=="
 ---

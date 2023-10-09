@@ -5,8 +5,6 @@ excerpt: "The alliance seeks to further healthcare technology services by creati
 publishedDateTime: 2023-09-28T15:37:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
 webUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
-ampWebUrl: "https://www.benzinga.com/amp/content/34980295"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "x14H0DpI4gG74rA9dv3rxSlIxjCmL4Cl1NzipRwbbYsNzUgOJUIN/HF3xl3h2kYCMLk1vN7ion7R3mtEOrYg9QGfoDvF2Wp8xSy+hck38p8PaknYuZGPagTtj3u8+HhcIzxWvM9KQTCBG8RYxrcGxpymgfMkG3lpnHaSBtz1krMxTttNBqQtQet22SUmE2t1Lf2x6Yh7rIg61oBvw77J0355av16Md6QOyG8HZHXsdqVc6EhnPmAltsJS2oHvLhwMHZyvu3NuZk4ulcHCBOtFJ3CN/A+KmaIzPuV8YFKQiktn/BMqlhErRdaiCKPTrMeN0vmwhbYN37e8TlIQK0qgGnmBq+5bQz1Hh8IEPGTH2g=;/T19Jb9pXCy/77NH6hh/3w=="
+secured: "QLbzV3fNduiM9c6yj1NtrVDcWPf5P96+Mrod7t0Wvchp6q9yrsxyb5CyqrTjuMQz0QSPA4STyqmIiWP2qK79gFJyg01YxzMf5pvI5dRH3E6I25l16xl9ARaBLkrgk5dZ+dpc/2LP0ZeKD7sLCEx/kk8RItK+luknB5OfwWpA0cXQt5V/bagyKsofkye9T4rJ+5EtzN1bqrwZtUrxjGJvbb7PLFONj6SBZ+EIH+zvbjYImazSD8Mhm9RQEnZ8dQTXFKRoWzRQslDR8IW6BqLNJ6p3Ka0mtBK8swVb7DUk9FHbLP8mZvqCMe3El4d0jKMrNjIvh7LQeVtFRb4yMkjk4G96mXGci3GM4jaR7ZcbFKE=;g55qm4D9qWexBpT+iRMTCg=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "CX is a good place to start with AI-driven innovation"
-    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
-    publishedDateTime: 2023-10-05T12:51:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 17
-
 secured: "Y7G8Qeg3fUKcCf6z4fIqfVnl5LCXu/EJeq903aBzKH6HYtSazAeobso9H5Be/ubsDvUi8OcflZY3BUkWr2xhy27pR+b2iKufCCD25xEZzGQQH3sMMk3XCoUXfgi9bpGIEfYpWPojQ4I6F4BmEh9NEC6rf6tgAcDTSkU9G/lvVeCYWyLhVDS678C1YDIYOJNTE1uMRAsHvfCL11bd31NVt66pOvnCmxCS9vxwBJbHBWbke5Fv/NCf3KtanwvJbi7aDc9daUpLlM28ZgaVrtiCc31DAe1/w1NDi3ybeXdLMD8tJQnOU6TjwvHLvzHDv4kZwgJf6+KiAo36A6J3U9765G6POlClkV+rlgvckb8CRJpD7nCLCtcAcvsnoEKoO5SxQQWix3vjnOMXd5Aq+sXddGPm+yeZoBcuyTiLelSJmWj7rmlszVz8KBb3KStRr5WnvHufP5eM9UglQLU03Mnn5LcO9tmZaGZAjomB/elP46GDCDySsHlo9YKONBTjWmBzzlk7fhK7KKZUxxB2015+7g==;xbeXi9XYJ+LQ2hzB36BQuQ=="
 ---
 

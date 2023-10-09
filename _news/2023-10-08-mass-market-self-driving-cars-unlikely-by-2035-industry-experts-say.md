@@ -55,34 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Maybe People Don't Want Self-Driving Cars After All"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "People Are Souring On Self-Driving Cars"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
     excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
     publishedDateTime: 2023-10-05T15:56:00Z

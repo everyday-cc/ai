@@ -2,6 +2,306 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
+      "title": "Meta's New AI Chatbot Trained on Public Facebook and Instagram Posts",
+      "excerpt": "MENLO PARK, California (Reuters) - Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-ai-startup-alphasense-valued-at-25-billion-after-latest-funding-round.md",
+      "title": "AI startup AlphaSense valued at $2.5 billion after latest funding round",
+      "excerpt": "Market intelligence platform AlphaSense has raised $150 million in a fresh round of funding that boosted its valuation to $2.5 billion, underscoring strong demand for artificial intelligence (AI) startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/alphasense-funding-idUSL4N3B33JO",
+      "originalUrl": "https://www.reuters.com/article/alphasense-funding-idUSL4N3B33JO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-spotify-will-use-openais-tech-to-translate-podcasts-to-more-languages.md",
+      "title": "Spotify will use OpenAI's tech to translate podcasts to more languages",
+      "excerpt": "Spotify has unveiled Voice Translation for podcasts, a new pilot service that utilizes AI to translate audio shows into various languages. Through the application of machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
+      "originalUrl": "https://www.techspot.com/news/100315-spotify-use-openai-tech-translate-podcasts-more-languages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-28-image-18.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
+      "originalUrl": "https://www.victoriaadvocate.com/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure/article_330ec06e-4a2a-5ffd-bd6c-94dd21f49bde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/fe/9fea8f49-b36b-5469-8e74-03d2b355fc8c/6515a0529d38c.image.jpg?crop=785%2C412%2C23%2C0&resize=785%2C412&order=crop%2Cresize",
+          "width": 785,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-lockport-to-abide-state-ban-on-facial-recognition-in-schools.md",
+      "title": "Lockport to Abide State Ban on Facial Recognition in Schools",
+      "excerpt": "Three years after Lockport City School District purchased a facial- and object-recognition system from Aegis, state legislation has put a moratorium on the technology, and the district is complying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
+      "originalUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/44c05f0/2147483647/strip/true/crop/940x490+0+69/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F27%2Fed%2F70a09ee0de701b81d2be08132247%2Fshutterstock-facial-recognition.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/lockport-to-abide-state-ban-on-facial-recognition-in-schools?_amp=true",
+      "publishedDateTime": "2023-09-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure.md",
+      "title": "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure",
+      "excerpt": "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-oil-and-gas-cos-increasing-machine-learning-and-ai-adoption.md",
+      "title": "Oil and Gas Cos Increasing Machine Learning and AI Adoption",
+      "excerpt": "Organizations across the oil and gas industry are increasing their adoption of machine learning and artificial intelligence, according to AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "originalUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems.md",
       "title": "Supermicro At 30: From Designing AI Chips To Selling AI Systems",
       "excerpt": "There is something about late September. Nvidia was founded 30 years ago on Tuesday this week, Google was founded 25 years ago on Wednesday, and Supermicro was founded 30 years ago today. Three decades ago,",
@@ -41,6 +341,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "20, 2023, in Atlanta. Reid says the use of facial recognition technology by a sheriff’s detective in Louisiana led to his arrest for crimes he did not commit. (AP Photo/John Bazemore ...",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
+      "originalUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2023/09/AP23263542093669.jpg?w=788&h=0&crop=1",
+          "width": 788,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -673,40 +1016,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology. Randal Quran Reid filed a lawsuit this month against the Louisiana detective who sought his arrest warrant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/facial-recognition-technology-arrest-lawsuit-black-plaintiffs/article_de3c2dfc-01ed-5108-a610-b54e70237088.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-28-fedexs-new-robot-loads-delivery-trucks-like-its-playing-3d-tetris.md",
       "title": "FedEx’s New Robot Loads Delivery Trucks Like It’s Playing 3D Tetris",
       "excerpt": "The new robot aims to use artificial intelligence to stack rows of differently sized boxes inside a delivery truck as efficiently as possible, attempting to maximize how many will fit. That task ...",
@@ -759,185 +1068,26 @@
       ]
     },
     {
-      "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
-      "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram, an advancement over the previous ...",
+      "path": "_news/2023-09-28-these-new-tools-could-make-ai-vision-systems-less-biased.md",
+      "title": "These New Tools Could Make AI Vision Systems Less Biased",
+      "excerpt": "Two new papers by researchers at Sony and Meta propose ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Both papers will be presented at the computer vision conference ICCV in October.",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
-      "originalUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
+      "webUrl": "https://cacm.acm.org/news/276785-these-new-tools-could-make-ai-vision-systems-less-biased/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/276785-these-new-tools-could-make-ai-vision-systems-less-biased/fulltext",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--l3PGUO41--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t002948z_1_lynxmpej8r00g_rtroptp_3_meta-platforms-virtual-reality.jpg?itok=MI4mysSU",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T12:29:00-07:00",
+      "publishedDateTime": "2023-09-27T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-10-top-artificial-intelligence-certifications-2023.md",
-      "title": "10 Top Artificial Intelligence Certifications 2023",
-      "excerpt": "It is best for Artificial Intelligence, Machine Learning, or Deep Learning enthusiasts ... Each course may have individual prerequisites. Azure AI Engineer Associate is a certification offered by Microsoft that validates an individual’s skills in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-certifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/09/tr_09262023-ai-certifications.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
-      "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
-      "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307592-1695838100881-gettyimages-1704491000-_jhb3989_pt5jwnsd.jpeg?v=1695847852",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "publishedDateTime": "2023-09-27T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-integration-propels-machine-vision-research-reviews-in-sensor-visual-perception-and-inference.md",
-      "title": "Integration propels machine vision: Research reviews in-sensor visual perception and inference",
-      "excerpt": "A joint research team in China wrote a review on in-sensor visual computing, a three-in-one hardware solution that is more efficient, economical and secure than conventional machine vision systems, which collect,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/integration-propels-ma.jpg",
-          "width": 1280,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
-      "publishedDateTime": "2023-09-27T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "acm.org",
+        "domain": "acm.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -948,188 +1098,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
-      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
-          "width": 1107,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
-      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
-      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-spotify-uses-ai-to-clone-and-translate-podcaster-voices-in-new-pilot-program.md",
-      "title": "Spotify uses AI to clone and translate podcaster voices in new pilot program",
-      "excerpt": "Spotify's answer is Voice Translation, which can reportedly translate English voices into Spanish, French, and German while retaining the distinctive vocal characteristics of the speaker. The feature is currently being used with only select podcasters, such as Dax Shepard, Monica Padman, Lex Fridman, Bill Simmons, and Steven Bartlett.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
-      "publishedDateTime": "2023-09-27T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
-      "title": "The Future of AI Is Wide, Deep, and Large",
-      "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
-      "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
-      "originalUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

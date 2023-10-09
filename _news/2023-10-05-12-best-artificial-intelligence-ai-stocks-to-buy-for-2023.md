@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artifici
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "3 Artificial Intelligence (AI) Stocks to Buy Now and Hold for the Next Decade"
     excerpt: "Artificial intelligence (AI) is already transforming huge portions of the global economy and it's only really just getting started in those efforts. As AI is incorporated into companies' operations to boost productivity and slash costs, it should also ..."
     publishedDateTime: 2023-10-09T03:31:00Z

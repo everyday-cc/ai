@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/asim
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/asimovs-three-laws-of-robotics-applied-to-ai?amp"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

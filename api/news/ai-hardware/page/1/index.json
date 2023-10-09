@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-nvidia-powers-first-gpu-accelerated-5g-network.md",
+      "title": "NVIDIA Powers First GPU-Accelerated 5G Network",
+      "excerpt": "NTT DOCOMO announced the world's first GPU-accelerated commercial Open RAN 5G built on NVIDIA, Fujitsu, and Wind River technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652369e27de3a0c8a978fc0c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "publishedDateTime": "2023-10-09T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
       "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
       "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 601,
+      "heat": 651,
       "tags": null,
       "images": [
         {
@@ -1387,49 +1439,6 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
-      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
-      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
-      "sourceUrl": null,
-      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KELO",
-        "domain": "kelo.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence in the Art World"
     excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
     publishedDateTime: 2023-10-07T12:00:00Z
@@ -56,15 +65,6 @@ related:
         width: 2001
         height: 814
         isCached: true
-  - title: "Undetectable AI Writes Like A Human"
-    excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
-    publishedDateTime: 2023-10-05T14:31:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/05/undetectable-ai-writes-like-a-human/71045778007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 19
 
 secured: "Hz40oGSaf6Twjlaaa3btCfzossLKURa8O0Arejlw1Py6Llauhq3sf/EJZVoa5SkHCB6npnE8tsHp6OSxIRSBOFJ7cYPxfn3tNumRTMt1rO3HhvBZJugqg1FfQbbDayJmvzpx/H4zSU3WfJvR+AgwG+OE+iig/NGphvuKDeSdC9MdpvLm0ymg/hKCyIP6AwdShXfOYU3ygl9HdWFAk6Po8XJ9uqQIOz9SM7PpRxLZrD9EPoIfPvMLsMB50/5IzLgxUOjstevSS2hmDwlJ0sdQVKhSI9nLcd2uelqiT3EVOGV+uDlG258ngb2JMWdjI7DaIQXRweInsKABtxgLPmPsJhRUlj4eBe8f4ovhqaLI4fk=;6lfY2mPTApgILbXcmDz87g=="
 ---

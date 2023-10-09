@@ -57,15 +57,15 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Undetectable AI Writes Like A Human"
-    excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
-    publishedDateTime: 2023-10-05T14:31:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/05/undetectable-ai-writes-like-a-human/71045778007/"
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "xNP3hfAnoBEeuA3eDHFn4LS2JvV5jryGa1vR4KQdSTwy8RjKyN9QmwlEeptbj1lET1/A1lGiPy+qnLUZgA5km7zLh19YelSKgAKp4veyH5xLhqb1IcyHbFCMd5GeK2or6LpAkooMtAjPpVBMGCXki5ExBPfaueZPS8Yi8asq4E2hRj6bdoIBUWkxE3Lx4eP2MnFCyAKf+0jRkcFR6qNJFXdD8nxBoj/fPrBLfr0qm4XMzjqluQo9kMQFvKqXFzr6KWcdeKFXDkgXNBOtlIGgxqDzScEs6NkF0m01PnrxK2zPn6XXbFk7Yr9TrBcY6iS+Z9/taCDO38K5qOJCym/PjFfZTAXD0gKVdpgI4pSSspX7G+vaPG5tQyGwHnmSybjw/mGbxb60ItfFkZBANWZAKb2IkOF8ebZuG2Oy3Q+spswS+23aOwJew0j7ZUhCHGxDLZkYFYNrrD3hNcgv9o/YlT6bZc394LIuCbMiKEYzZm0YL8B8INrr/kJAyHWdqv1+6lJVVV+93qjy+kry0QfxIw==;cyYrO/q4XsAYFz49R+sKpA=="
 ---

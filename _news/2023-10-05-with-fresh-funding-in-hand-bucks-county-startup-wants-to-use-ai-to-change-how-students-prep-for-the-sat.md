@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/202
 webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2023/10/04/bucks-ai-edtech-mentomind-seed-funding.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "IBM Wants to Train 2M Students for AI Careers in 3 Years"
-    excerpt: "Intending to upskill more students in artificial intelligence to address anticipated workforce demands, the tech giant is adding new AI courses and resources to a free education program called IBM SkillsBuild."
-    publishedDateTime: 2023-10-04T21:43:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/ibm-wants-to-train-2m-students-for-ai-careers-in-3-years"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "thmLJGcgJx13CjMFvqaWtiM0g3YlQT8AfTXhN4xVviDPXCD1KJjL5vmer/5LSncZCfKSco3sDBJfHZk1IACGJQYdWNvZaDoMhU/Ov3KXXxC5PHSJbtmu1m5gAgtg+4NQ1tGN5FS7zFZsvrtHkdaUXaxReZch8LmSe2tRVm7V9aiEqZ9Jyjq5KCK4DIDg1rNk0Gw3HktYcZXOKEjWpo8q8Qr7VjsMETyO6XFhBpCOeJndOYTOD0PC748izqDIw4CPTBnJB/zSquF6Yas5pt5y0tzBcekcXEPu920iFSIcfNYWJIXKiem8sKaVYARR6MTLBcfqmuL9GIV5oIcAZCU6+Lp1fkA94VRrGdKWj/ee1X7VyT3/uYYo6Ge7wBosCNeTsQGr2DB/WhDqfd9325/Rh9kenSWm9+huym560eNy9MzFRCmQhYwUxmvQdJfJ0avjtJQN3lmf5kntL5NbgcLzdooANt5ta7krWwA4hBPO8KpWkgo2zWDKdTV05fLxQ6ZqnPot4JCBG199gDkcdLspKA==;EiP6/DCtTNfAuxRbEM8cBQ=="
 ---
