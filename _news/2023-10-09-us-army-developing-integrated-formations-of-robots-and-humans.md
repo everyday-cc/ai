@@ -3,27 +3,18 @@ category: news
 title: "US Army developing integrated formations of robots and humans"
 excerpt: "WASHINGTON — The U.S. Army is using years’ worth of experimentation with robots and emerging technology to develop integrated fighting formations of both humans and robots, according to service officials in charge of modernization efforts."
 publishedDateTime: 2023-10-09T15:30:00Z
-originalUrl: "https://www.armytimes.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
-webUrl: "https://www.armytimes.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
+originalUrl: "https://www.defensenews.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
+webUrl: "https://www.defensenews.com/unmanned/2023/10/09/us-army-developing-integrated-formations-of-robots-and-humans/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.armytimes.com/resizer/LVrfObMwZF7s0jZ62KwaDIgrZug=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/FJVDRFAPHVFW5L2C6ZN2SKRPOY.jpg"
-    width: 1024
-    height: 683
-    isCached: true
-
-secured: "K8+AXS2/Y2M6fbFObHpJwWUWKmR2fjXzjXZCGFpvDMUwJua97o2agXaCEQbKHmptZxK8EyDQmTI2cCugG1Flfc/yh4fYpMD09gD1Rtl7mOrH5FBFnD5StEMhPFuq7XndkVJMtBz21OFR9VN+dQLrFV+7DMwV3sx7PHlyJCGBFcjUZ+Hm77+isf47Bg7Qx9lSG1WfxL9sECMTN5XY2muz39Kn51dOmuhYQ9N1JpCg1Q4rQd3t4QrNL0fdlNikZTuvV0sZxwUpLbDskNaDdSIiB94e7U4cGzye2aZVPrXJCSSa/Bm2gFLbM4zkMcM4IElPJYmtyL5QePlJZtRrr4u2VfPmhmqK9kn1vGEb0VVlApc=;lhteyFs3Hz6UYEp8OupTPg=="
+secured: "B5g751T+l+fI6sMp8UPdkRuT8yv2Zx9whId1IlheOGH5JEErkiSmbfSjb8D2BlkWInAcRD1C2egITcWXVncr2qnVL6f8xW7LZKikBqvFJ2zpcbr0AejzKcFVZUD9JOiThG67EvF29QQfBuJGvLfkSudlcLOjJdpuFGi+Dw0CALhmcdFexFG73PYGko3ORl8OaYkDhpEv5p4GaOHVk3ykN2cSMkjWy4lwxmOsOIvzljguOQvL1eSMzBn5bg5J26tFmx6ct9lZcagMbgIxx1RDXMjBx/tb51Yi7wAb7jOY6OjvA4p/IHxJsJ9uroAQvYvaLnn5gEyGKufQryp+y9b6i3Qc58Xcd0B5AeyxoQZRyt+s6oFKsK6wai4MN7IVYuL9DkDRfDq1Anu7skY3uIDkAJHtUF8k/V6mpNhEayfQj7cIbor9nYEJ9tgFcTQJjddBlVVOihx4HHYLMKQcgY5jRoR8guPHN0BqUf+1jPXkzwCpy3Ce007sZ5L8QDR4TLCpgdI3J5Pp1b5Gdzrzi/A19w==;nxzdww3a9O1z7yOAHxwHGg=="
 ---
 

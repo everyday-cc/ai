@@ -6,9 +6,6 @@ publishedDateTime: 2023-10-05T20:44:00Z
 originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
 webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Proactive Investors
@@ -18,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC84NDcwNTU5NDU3LTJmY2MwMmFjNzYtYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "1lUgRITpcCZmvb7QeZ1KurGB7jNDjkmjPlkWzc8zGOOl0mPJuPtv3gXRht+TTMsDvjLNHsG9WF29MKY4PlPQQDSDuQWCBibfSvAD1aOwlWdy9wba467HqGE0V1X6PhfdDEZT4XZD4AEmv6wvE7qf7PG4dN1y2JBXCe02083ALmdg+AZbTaBX+K/dW6HnL46enKD+80RW/0BOl3k/j31mIls7AH/ERX4RnYHtysqY1D7CThea2BZlXWHzNTa8ZXwbgtQ1G7eJDTFQt9qi2/uGTLP/2ELC3I2GaPx5k6/ZHqXW0eFxLnLSgqNAwNYocRpd+QCZahefRuIIprRhzXPgbDaHt41zMP84cCAcOHPe2Fs=;5hL6guMG68HrvPb6FgOyBw=="
+secured: "HoOY1fvZJzFGaXPVwxzvo40tNuWYGAdTUNAe9EGCuWOX/2nkWO4zZXBdgNvz0vIO35p9duyAx1e62RV8U3iKiTbR8bXiWPZCvR0e79j0xDFuWm+Jdeve78DKy8JHFPilRk9OQats2u277oQqmd8ASL097JB4I9ffyBPYSxbM4iABb6QYVJlHucR9OQUIEW0cCjERNsWTXZATDXCs+V9NMya6bdJgzoGYYSvZtzmnv7z3rs/8RSGSVo+CzhDmf1hDnQXLD50t3Zz5OAGVA4w4qddGSp409g+WCNmgEarHAZShIeDnV39eVmt9qNGbBr8tKI/exie0QjrehLikuHta4LzKZESB72/2mGbVjxIES+s=;mOQ6R47bEYHaF7BDq9KzTw=="
 ---
 

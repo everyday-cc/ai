@@ -6,9 +6,6 @@ publishedDateTime: 2023-10-05T15:53:00Z
 originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
   name: Nanowerk
@@ -18,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.nanowerk.com/news2/robotics/id63783_1.jpg"
-    width: 534
-    height: 300
-    isCached: true
-
-secured: "l2mrYr0ezFrfC1O5pH+e8hMhmVnWvfROCw2HYJRzWkkhNqZp6yrFZSkvPLWLrKBye2MZh5JkoUMoaDIhNGrv+IJHRb76Pr28aOUBaAIoCA6R5v2boNtwF+DSNp/le7aTlDTIuz7EF6zBoDhWJEts3JuHz51tMQwmumlWmW1htEoqvXMn1EEX401wyNB/ISwi13uDvHgAdLTu7rzc0MBHOBdEb+gc2d1wgUGv9H/y8QROoS90bUylOc+7M3eSlPLfCKjsnXpL+XaLHx4CNHxhwyswTAz/d7xt7moqpUGE6R4aQRLk6mJS6bn3Ra0j4CHBs5NcXwG5BDQClp9GZWjz3qPT4DbANpd5gVqQ8UbtEfw=;vO8CAlaclgicOM/gmIRfVQ=="
+secured: "PxBKhnTMhWBDoxuwWLwqnbxhyu33Uw3WzS+5zKLtNei/LLYdAdU2P7ML1+8hMDrE0ocD90NlTH5gDN8sQ40iq9flk7AyCiuDohtXgMBcO7tOGw0OoEgQ8NGYVItIAVy81uUt4BG49lU3FWDtf7mpQmY1EfvDYAE+6YsCBPozUp2alLXhqMcyK7Pym31r1LYQlMXK8YK+l7tt9QK1GGyiYEZQw6CcqcpHp8HImVDQVUJ+IAHRX+V4zH1KF1t+YZ0lok9WSi68NNshN2JqNErWPxDKub3lMU+AkDMC7Ht5seLpNEncIUK4RwZkboK47PXwhyRk+V2H+vYp2EAVudNnY+Lvh77Ju8iafLXPZyghQfM=;SQh56PUihsdGJcRVnF5haA=="
 ---
 
