@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-12-5-uncommon-yet-fascinating-ways-ai-can-supercharge-business-productivity.md",
+      "title": "5 Uncommon Yet Fascinating Ways AI Can Supercharge Business Productivity",
+      "excerpt": "Still, we're only in the nascent period of AI development: Data looking at technology's historical impact on productivity is less promising. The UK's National Institute of Economic and Social Research found a 1.8% drop in the rate of productivity growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418",
+      "originalUrl": "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1693594057-ai-supercharge-productivity-0923-g1133444047.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-how-ai-agents-are-already-simulating-human-civilization.md",
       "title": "How AI agents are already simulating human civilization",
       "excerpt": "Each agent in the SmallVille environment is equipped with a memory stream, a comprehensive database that records the agent's experiences.",
@@ -1434,49 +1486,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-releases-ai-model-for-translating-speech-between-dozens-of-languages.md",
-      "title": "Meta releases AI model for translating speech between dozens of languages",
-      "excerpt": "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "originalUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

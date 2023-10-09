@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Three advanced cybersecurity technologies for banks, financial services"
+    excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
+    publishedDateTime: 2023-10-09T07:59:00Z
+    webUrl: "https://vir.com.vn/three-advanced-cybersecurity-technologies-for-banks-financial-services-105837.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/102023/08/14/in_social/opswat-introduced-advanced-cybersecurity-technologies-at-smart-banking-2023-20231008143947.jpg?randTime=1696845704"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
     excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
     publishedDateTime: 2023-10-05T17:28:00Z

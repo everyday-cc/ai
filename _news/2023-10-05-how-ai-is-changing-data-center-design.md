@@ -25,29 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how an AI can design robots from scratch"
-    excerpt: "Kriegman says that the team, \"told the AI\" that \"they wanted a robot that could walk across land\". Following the prompt, the algorithm generated a blueprint which, \"looks nothing like any animal that has ever walked the earth\". Kriegman calls the process \"instant evolution\"."
-    publishedDateTime: 2023-10-06T09:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-design-robots-from-scratch-11489351.html"
+  - title: "Artificial intelligence and machine learning is a game-changer for data backup"
+    excerpt: "The expansion of the AI market within the data backup industry worldwide is propelled by the rising acceptance of cloud-centred backup remedies. These solutions harness AI and ML algorithms to mechanise and refine backup and recovery procedures."
+    publishedDateTime: 2023-10-09T04:25:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Robot-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "Your assumptions can change how an AI bot responds to you, new study suggests"
-    excerpt: "A new study suggests that an \"AI placebo effect\" can change how an AI bot responds to you based on your own assumptions about it."
-    publishedDateTime: 2023-10-07T19:11:00Z
-    webUrl: "https://bgr.com/tech/your-assumptions-can-change-how-an-ai-bot-responds-to-you-new-study-suggests/"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 52
+  - title: "Spotify's New AI Bet Could Be a Game Changer for Podcasting"
+    excerpt: "But despite these lackluster results, the company continues to believe there is a large opportunity in the podcasting industry. And last week, Spotify introduced a new program that could have big implications in the long run."
+    publishedDateTime: 2023-10-08T13:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/08/spotifys-new-ai-bet-could-be-a-game-changer-for-po/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 14
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
 
 secured: "qDblbZj3KiwTVK4MQtMs7R+l7Gead9H8s/mZlEWV4jx/Uw6mB3QmEkKWJ4WQJ6tM6lvJVp1J8z5EPjR5/R9tBcWMIpaVX6EmX7AuaPurYZ2xs273t0Qw9s5NWdaUDWMlz9g3b6MjUASczZHF3pNtDZ4X2ml3sMTq44c4z2Hue8hWCcVCROZdp8GVdQLTX+UM5rGPFH4vZp/bZC6SwPC3Az9xy2qllIUKxF3dUQvHrt8s7z7sYpcIZb69DOYG1ArMOSAsqOP1y+tTlmKTITIJD2Md0XUiFWqFnES4GK8XiPrZcpJscs09Ck9WHwkJncLvexdORclDJEeR/Nbm2Dazaqx/KrR2tTFBzvA2OGKJHcw=;G6JFP4W3dT/foTW8VUJpjA=="
 ---

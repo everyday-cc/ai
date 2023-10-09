@@ -30,31 +30,77 @@ images:
     isCached: true
 
 related:
-  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
-    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
-    publishedDateTime: 2023-10-06T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
+  - title: "Google Home will get a generative AI boost, too"
+    excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
+    publishedDateTime: 2023-10-06T09:50:00Z
+    webUrl: "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How knowledge graphs improve generative AI"
+    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
+    publishedDateTime: 2023-10-09T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta Starts Rolling Out Generative AI Tools for All Advertisers"
-    excerpt: "The rollout marks the Facebook and Instagram owner's first foray into bundling generative AI technology into its products for mining vast stores of past data to generate new content like prose, art and software code. Low commission rates start at $0 for U ..."
-    publishedDateTime: 2023-10-04T15:41:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-04/meta-starts-rolling-out-generative-ai-tools-for-all-advertisers"
+  - title: "Zoom chucks generative AI everywhere in product blitz"
+    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
+    publishedDateTime: 2023-10-05T10:36:00Z
+    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
+    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
+        width: 1844
+        height: 1246
+        isCached: true
+  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
+    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
+    publishedDateTime: 2023-10-07T13:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
+  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
+    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
+    publishedDateTime: 2023-10-04T23:57:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
 
 secured: "/dpHTiMIwK43FHdRt4gAZmElfmbwlqsYW0WCDh9y30EFLkmTha151+3BIEC+Y5RmIhcya5oEkDIwD06U/UgeBU8vObo/i/WzX5kQZgHU19KJQJmmFeU8R+X2sGqXuyNd4enfNrz6TLhlaWfMK6sHQvLtuqE9P11pmz2T1olx7z1qWTk6tf1quNRN6IQ4locfL0wgliEEx01jkwCeBlalIGdB6oVrDpWg+gm0esYlb95/ihtbwMu0UrZUpy34O/eg6mZvvvylbrSqNf5GCWLpt21KO1kd4BFKNLYTGXIEwGJQiSKjycFcLPWTI+hz8DnfP/+fI2Lp2+wD0JhkEmr0HU3Djs+LVbuduTKrzGtgzupkoFJrmMRrxzvWpbQmjcz1fQhm13eLmWH8Bjf2+S1LeM2W62zyuZvNY4FWHAzcW+vCKel2puUWCo0Sb9GuRRAkM4QFVr7KdIfD9s/ZbB/Zf6XTO5wy9ywRCEjJEwnGeiror1r0FljuZki8mYjpVHrZRmjNXbg9ZcsB2w3fxCI0qQ==;JPmZmAqQuV5v2bb+SoUPWw=="
 ---

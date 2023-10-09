@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-artificial-intelligence-and-machine-learning-is-a-game-changer-for-data-backup.md",
+      "title": "Artificial intelligence and machine learning is a game-changer for data backup",
+      "excerpt": "The expansion of the AI market within the data backup industry worldwide is propelled by the rising acceptance of cloud-centred backup remedies. These solutions harness AI and ML algorithms to mechanise and refine backup and recovery procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theedgesingapore.com/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "originalUrl": "https://www.theedgesingapore.com/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "publishedDateTime": "2023-10-08T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edge Singapore",
+        "domain": "theedgesingapore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
       "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
       "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
@@ -10,7 +45,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1365,58 +1400,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-5-uncommon-yet-fascinating-ways-ai-can-supercharge-business-productivity.md",
-      "title": "5 Uncommon Yet Fascinating Ways AI Can Supercharge Business Productivity",
-      "excerpt": "Still, we're only in the nascent period of AI development: Data looking at technology's historical impact on productivity is less promising. The UK's National Institute of Economic and Social Research found a 1.8% drop in the rate of productivity growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418",
-      "originalUrl": "https://www.entrepreneur.com/en-gb/science-technology/5-uncommon-yet-fascinating-ways-ai-can-supercharge-business/458418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1693594057-ai-supercharge-productivity-0923-g1133444047.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-11T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

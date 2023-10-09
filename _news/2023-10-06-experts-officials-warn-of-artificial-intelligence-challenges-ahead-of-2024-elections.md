@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/experts-officials-w
 cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/experts-officials-warn-artificial-intelligence-challenges-2024-elections-michigan/69-5c023146-5381-49f7-b3eb-ef143f7988b0"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-10/AI_Admissions.jpg?itok=g3dYwztO"
         width: 480
         height: 320
+        isCached: true
+  - title: "Hoaxes and AI: Communications ministry dials up combating efforts ahead of 2024 election"
+    excerpt: "As Indonesia draws closer to the 2024 general election, the Communications and Information Ministry has been working to anticipate a surge in hoaxes circulating on social media. In the first eight months of this year alone,"
+    publishedDateTime: 2023-10-09T09:50:00Z
+    webUrl: "https://www.thejakartapost.com/front-row/2023/10/09/hoaxes-and-ai-communications-ministry-dials-up-combating-efforts-ahead-of-2024-election.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 30
+    images:
+      - url: "https://img.jakpost.net/c/2023/10/09/2023_10_09_143091_1696844377._large.jpg"
+        width: 941
+        height: 529
         isCached: true
   - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
     excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."

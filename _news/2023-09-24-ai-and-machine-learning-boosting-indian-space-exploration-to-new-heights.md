@@ -5,6 +5,8 @@ excerpt: "India’s space program has the potential to achieve unparalleled heig
 publishedDateTime: 2023-09-24T12:29:00Z
 originalUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/"
 webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/"
+ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-and-machine-learning-boosting-indian-space-exploration-to-new-heights-3253372/lite/"
 type: article
 quality: 33
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design248.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AI in education: Challenges to transform learning"
@@ -50,6 +59,6 @@ related:
         height: 2880
         isCached: true
 
-secured: "ZeQcO8v/VhBJp8zeh3mKJKy3/nJReq5ZATWv8HrjhTV1vJv2wIazet3vcrLP2VT8kNw6YP4v8sSRwKR3t3UBXDrFIFsqeL+byYrXkY/LDQbT0ouPMKLozzgR+2DMie3O3ZS8Ed2G94dAQXjEnThBibL5quZAdwJ1qw/gjQYh0WDp+BW05P8b7sCjBe2UnvvskLBICwdmBorng3h6/WkVnENj2jftMQ8XjQyrE0kolEq5dhJFM0FQGjZ/3ZR5sCXPNAag5laStMw8TbRhzrKlgyEXbmIIWSc9SyGXlhJCDJRJoHTUzcaJApcrApHjI1vSSHBHBetxrZeFUavps7BSP7ht+sa3TnkIKsCwVqgsXdSJG3FZ0HcB5caNtXPX9M9yh6RYMbZdai3i4F5+JbrmaICHXsFyHu8LzKuQ+/3CiORoEIgjvB3010KNbWAtReu2CukBFR4d5ZnQ4fINKW92pZjLNMtC46JOX4J60+smALtjwjnazsPHsIOaPN4R5lJXXU6GFdYAYCQ8r9q8vluo1g==;hglNwQXc/NwZPzwtUJG4fw=="
+secured: "E1gVm5fYNuXg0iPoks/U5zyzMhmaZIItYCU2IyU/hR2XEosZ0TflPX+Kcm+RGnjr1GfJj+lSH0shs+BYv8rcPvlGfrvATopcf8jGPIF1CsD80cO/MIpY4gCq4KHfp3P2CSxbN/b2VTP6S4Ky4n+UMOUv1W/pyflb0bbMJcvCEq3wINUsX+WaAySIYIWGBs+iGRrbkQeHHLCCkt9vGFLLIemEz25SwBkjLxxP6BLPmleXraEYyODYrG7NeRbxN3Zjsl38FYb7l1Igm+nuNt9Ve3ehPRfZBHJsY5CLqyWmiqopTzcQ6r2932/FAIM+xXO8cCkpWClCG6+Drvhjc97bd8by0LxtzZCYbjRu4Otszc8=;AJ5fYpaznJ2S2GPR0GSrug=="
 ---
 

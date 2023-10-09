@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-even
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
+    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
+    publishedDateTime: 2023-10-04T23:37:00Z
+    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
+    type: article
+    provider:
+      name: Techlicious
+      domain: techlicious.com
+    quality: 39
+    images:
+      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
+        width: 700
+        height: 370
+        isCached: true
 
 secured: "ALGsvEQymFhqbE+ajxNoxsZGpfteI6AohwH7btvLAxJXsIcM8tdjVIswzotFhVIsN/LsV1jyg3qqnq7VtIM1h5KsoZqWoNwI5INhtZC5Xt2jOcoRZjWRb4wiW2zz81ujzMjzZXQDdbtv/+i2Yz3c5xHkqDn+d13m8T3iPVelm9vM1jHzUzS1BKL1aaJ4deaoZZKkt3yOFgjev1Tn7MnHhTACRSvCqfm133W21jw8eK3/wHh0Gzmf3JSoZv+nvNwC3FPZLmMPeEtIPEzBp8YE1bilnTJurVrKEGnijb+83IvNef8Ux/XSi34UiXVfgNga8RAp4IyaduCy3UbThJP+tYWDk06/NFud741d0R9Rem0=;4wVBMz61VJivLwsjtg6UUQ=="
 ---

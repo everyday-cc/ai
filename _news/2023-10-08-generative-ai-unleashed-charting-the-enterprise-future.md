@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI at the BBC"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2023-10-05T20:46:00Z
+    webUrl: "https://www.bbc.com/mediacentre/articles/2023/generative-ai-at-the-bbc"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z

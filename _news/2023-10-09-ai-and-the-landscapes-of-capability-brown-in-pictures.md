@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-
 webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,47 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Thought Industries Expands AI Capabilities to Power the Business of Learning"
-    excerpt: "The Use of Generative AI in the Ti Platform Builds on Years of Company Experience Using Machine Learning to Create Personalized, Differentiated Learning Experiences. BOSTON, /PRNewswire/ -- Thought"
-    publishedDateTime: 2023-10-04T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35093922"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Generative AI in commerce: 5 ways industries are changing how they do business"
-    excerpt: "Generative AI can assist commerce-based organizations in several impactful ways. A recent business report highlights five key examples."
-    publishedDateTime: 2023-10-05T19:32:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-in-commerce-5-ways-industries-are-changing-how-they-do-business/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
-  - title: "Trend Micro expands partner program with new assessments, AI capabilities"
-    excerpt: "The updates include improved cyber risk assessments and new external attack surface, cloud posture and Azure Active Directory (AD ... Further, it addresses the emergence of artificial intelligence (AI), with generative AI capabilities enabling SOC teams ..."
-    publishedDateTime: 2023-10-06T03:55:00Z
-    webUrl: "https://www.arnnet.com.au/article/709043/trend-micro-expands-partner-program-new-assessments-ai-capabilities/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 38
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
-        width: 504
-        height: 315
-        isCached: true
-
-secured: "HSfDixVyRBSZkzdWTfytFDg2MDmfcoZ7/Eiv543rduMV0umhh4MTcMQXfEKWmGdGzrmF92Rbs/ETu1qDiQsAHu2nMD5HF3EvqLd1PYPu+z7hdfF/hUPBUYzZOVG/bLjNs6DP6bgoOWpSjuA3CnvmdhOA3XTZgZpNwy5+VgGZznm632R2ISZtcAGt7byogvBZJ1J3deu+qutipsk4P4zxrBLojR3OFI7+LElZ4IriKDMR/7W2BBrMpcbar1SrqC/32MWd+gkswVVrSjQLonsos2ATqrCKxfe7YNtSPDk88SnmfOWpZxHNSI3hLWAkLYt1FpZ9Sq+dtPn+Vyml+RdpmorrgcA9i15sCCqUIl2WZMA=;oSJ/4mwuWRgR9YHyCxjxLw=="
+secured: "DN3plC5/tKB6we8J9jgwwV/NhYlrVG0C2viPohsLrNeiB7sCtvrfU75yLnPLGvXIAxkY15mOyoEpOoIaQyUki7dz1GcrK8GiyjulTwBFgzFtlWjaeYvwCJq5s9KSD8PLcnkp6ZAFB0W7OwqCJjcYfMVnZ7Lwz3aEiXIiNnQ1RXf5KcFzBE8Nep1C6cciaTBkbEt+FEz131d233CkVciNNH1Vduai/lfsTo4sTP5v9DFAcrbT2aeGF7zz5Rx5rMjxXXQ+dFF9uDqQmB2RReHGO4EWtJWU8S9kCJL+iWYzUEg4qcMlUm7P0UsMMfKknAR/9fFYlTXnVEr8IquSlbrBhIDnMTKqV2felHrruty5Q+7k09ggUb0ePCvsi7s/HeV/SuaprMMCiDvTS8igoB5PS7PfMbB37qow2ceWgkY+5PCDLb22YLM5PEW/2efuRSLpu7l89lKud/RjsHGMkQEIf/Rr5heD8+e9CvRObQJzFl8353uI2V379/ZKjMm2YVu8bUX1C7KMC7SIzZrY5O5YLg==;2u4++RtuVTX3TYIv9rdOAQ=="
 ---
 

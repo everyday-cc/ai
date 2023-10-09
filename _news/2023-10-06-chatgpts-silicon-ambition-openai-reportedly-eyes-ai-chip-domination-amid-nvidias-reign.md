@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35119686"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35119686"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Foxconn Joins Forces With Kneron In $49 Million Bid To Rival Nvidia's AI Dominance"
-    excerpt: "Nvidia Corp. NVDA is the most successful semiconductor manufacturer post-pandemic, with the company's shares surging more than 230% over the past year, crossing the coveted $1 trillion market cap. Nvidia's artificial intelligence computing chips have been a game changer."
-    publishedDateTime: 2023-10-04T17:25:00Z
-    webUrl: "https://www.benzinga.com/startups/23/10/35094321/foxconn-joins-forces-with-kneron-in-49-million-bid-to-rival-nvidias-ai-dominance"
+  - title: "OpenAI is reportedly developing its own chips to combat GPU shortages"
+    excerpt: "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage."
+    publishedDateTime: 2023-10-09T08:32:00Z
+    webUrl: "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 69
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93662_859_openai-is-creportedly-considering-developing-its-own-chips-to-combat-gpu-shortages_full.png"
+        width: 1500
+        height: 842
+        isCached: true
+  - title: "OpenAI wants to develop its own AI processors to combat GPU shortage"
+    excerpt: "OpenAI wants to develop its own AI processors to solve the shortage of specialized processors, especially GPUs. To this end, the generative AI specialist"
+    publishedDateTime: 2023-10-06T09:52:00Z
+    webUrl: "https://www.techzine.eu/news/devices/111987/openai-wants-to-develop-its-own-ai-processors-to-combat-gpu-shortage/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1458458495.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "cD57xM2uSO/zX10ZHwbOuSOtu9m4dEniWN6P3F/dQYA/mWKEfuTqryqLSqz9UJ5ERVr5x/ZyqN59Pm4tjXsl11ZFPldtV73L1jjV/47REwpfwJ2adIUvpNWPqz/LOJTgdvpUai+ZJMGb0rtXDhmr3fnXvYOwsE9xTb0zU//H1uMEvt5rfZ2Nk+E35TwdSGgE/una9xXBpzDnZWH3jJ5zs2dWdBOOi2Za1KttTgs41uSt5dlYxhhBY1MGUjvGscYV+ohNAoNP+JfE97Tq8sdCBksXKZc0V6NUGz5IL8es2sAyDPDxLJxksyCYIxQe6WlioIrHisaIOeRn0ib/OKhdvpUIMU0zE0KnSveiFrC4ikMa8f0fFcFo8HRE8BfdXLKtHndGqD9JfOIdWLhqhpzjKKRgDma6KJalCC7nV616pSTiww8SckEfHO8K2WeXxARQOkDS/s8iPFx4r3XnZNWNpxBy8AmohgaJGzwOidQR1+9iOepsAEz75PdovwPE1vy40K8h/prpi0Zh7eHZJ2myVQ==;u0lp/AqcsfptEBwmr01MpA=="
 ---

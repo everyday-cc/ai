@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to design a walking \"robot\" in seconds"
-    excerpt: "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it"
-    publishedDateTime: 2023-10-04T15:38:00Z
-    webUrl: "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-8.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Instant evolution: AI designs new robot from scratch in seconds"
     excerpt: "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ..."
     publishedDateTime: 2023-10-06T10:57:00Z
@@ -48,15 +34,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "AI Designs New Robot from Scratch in Seconds"
-    excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
-    publishedDateTime: 2023-10-04T16:53:00Z
-    webUrl: "https://cacm.acm.org/news/276994-ai-designs-new-robot-from-scratch-in-seconds/fulltext"
+  - title: "Here's how an AI can design robots from scratch"
+    excerpt: "Kriegman says that the team, \"told the AI\" that \"they wanted a robot that could walk across land\". Following the prompt, the algorithm generated a blueprint which, \"looks nothing like any animal that has ever walked the earth\". Kriegman calls the process \"instant evolution\"."
+    publishedDateTime: 2023-10-06T09:25:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-design-robots-from-scratch-11489351.html"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 34
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Robot-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "EQkqgc/CM7opPTYoYGGtxLTyZzkECbX7OmyRp2U87nLoH6TJBRj24FZj/coqWei+mrq5MuG+PLVLTwjU7hWPNXimwp+YYioOxeyD7OSox0UtUQ4iBdaBQGQhWsSYDsiRcKmVzQ6Axuy0rLO4IghSHJBxruIbC8zEKqlWM3YMe3rmK14W4aDuYXoPSNUXTQxZuidzurfY05Kb+hQC6VY1/P8H6B21NTdsHoalwX8pqZdiXLNmWgODo+qiq8vlWPrpA3HuUm7AkuREOvcoDuy7CKv1v/NFT5mADq8WoXl8AnFob7eKPk6Stz/XkHFobQ/dZU74e1nab33brB/YzqAQ0eLktJjRHU8rHBDRT370VAU=;q64qPEvPK/nXRgvykyE/Ig=="
 ---

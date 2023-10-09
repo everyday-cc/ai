@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Infosys partners with Microsoft to accelerate adoption of GenAI"
-excerpt: "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Photograph ..."
-publishedDateTime: 2023-09-27T15:23:00Z
-originalUrl: "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
-webUrl: "https://www.rediff.com/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
-ampWebUrl: "https://m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
-cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/money/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+excerpt: "Infosys said on Tuesday it is collaborating with Microsoft to jointly develop industry solutions that leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Both organisations are bringing together their respective artificial intelligence (AI) capabilities to enhance enterprise functions with AI-enabled solutions across multiple industries."
+publishedDateTime: 2023-09-27T09:53:00Z
+originalUrl: "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+webUrl: "https://www.rediff.com/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+ampWebUrl: "https://m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
+cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-infosys-partners-with-microsoft-to-accelerate-adoption-of-genai/20230927.htm"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 455
     isCached: true
 
-secured: "9ZM1BBOvBZaFWjG5QzjVYf9QUhtIHEgBhGJQEMO8l7maXNc33sOPCI74fAL/RgMVByr2DeQ6JNlyB1f/VnIwOb4nHuEIWwIQl3OS4u7metXYwfN19C1XNEyUQCgzDUpqvQIKKa4h8A8w87osYR6P0usbp3YfwmLcw5iTR2+PQbTVj0ejfoQFiEUT9+t26JyDuywKK3WtkX2iYpS+wFk+LExvG2QdPJQwZIlwcXBoEvmo3HvyMulvWjrBZaQHy6z+piozd0R2FLEe179OIGS4gUZvIMwLjalgaUIi/B9bqU59q0S0hOxrtRNh+8VTb76gQKranCY8oCO6FRQ5RO+VSBdq8tDo2yHIZkyNouzrASI=;XlMT2ep9x8UWtym9BP0JZQ=="
+secured: "FbJOww7OZt0Ss4QsGtDmMjr76sG97N92hY+nTrBKMofR+2fVzdQ++hay8W1mBHVDWSaabhmI0h3Ivg5ujNOkWcFsHpeLte5eKgHWziPBz1YP74tp4dkP3brNaQoyLDk7jTQNwLSxt0el6AWaJwm+i+ejKAwEqctRpR4OCUHrPcvCdaDS7rixdLxo7tdJPVoeUfeJcOSdiwppot/8SNYP+jKK6KjxdM48R2iJoTTQ0U/uexxqtg57iPrApcNFiLm/DrNR9RTxoS9dOBO+/rAX0DQ/+cCFAKIeKA5EdfzsDIPKYh0OOuU1hkfI0rX/m8g1S/zij/sKigcM9GbXwAbkMTgAUQ+xTXj5Iw2esuui1UU=;/URuKAoswt5mETPpmnWJpQ=="
 ---
 

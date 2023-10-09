@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 712
         isCached: true
+  - title: "Generative AI at the BBC"
+    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
+    publishedDateTime: 2023-10-05T20:46:00Z
+    webUrl: "https://www.bbc.com/mediacentre/articles/2023/generative-ai-at-the-bbc"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
     excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
     publishedDateTime: 2023-10-05T18:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
 type: article
 quality: 57
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google is accelerating AI on the Pixel 8 with its Tensor G3 chip"
+    excerpt: "The enhanced AI performance is the main feature upgrade of the Tensor G3 chip, the most powerful Pixel chip so far."
+    publishedDateTime: 2023-10-06T01:20:00Z
+    webUrl: "https://techwireasia.com/2023/10/tensor-g3-chip-enhances-ai-on-googles-latest-pixel/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/000_33XD9HG-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
   - title: "See The Bizarre Image That Just Won an Inaugural Award For AI Art"
     excerpt: "The Prompted Peculiar International AI Prize results are in, and a great reminder of just how mesmerizing—and absurd—AI-generation art can be."
     publishedDateTime: 2023-10-08T13:00:00Z

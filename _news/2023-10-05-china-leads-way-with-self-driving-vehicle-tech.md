@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China leads way with self-driving vehicle tech"
-excerpt: "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training."
-publishedDateTime: 2023-10-05T02:43:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
+excerpt: "Another report by global consultancy IHS Markit said that China's self-driving taxi market alone ... companies like Pony.ai and Baidu have been operating robotaxis in designated areas in Beijing ..."
+publishedDateTime: 2023-10-05T04:16:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
+webUrl: "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
 type: article
 quality: 24
 heat: 24
@@ -19,12 +19,26 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg"
     width: 720
     height: 480
     isCached: true
 
 related:
+  - title: "What happens if you get in an accident with a self-driving car in TN?"
+    excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
+    publishedDateTime: 2023-10-05T03:22:00Z
+    webUrl: "https://www.newschannel5.com/news/what-happens-if-you-get-in-an-accident-with-a-self-driving-car-in-tn"
+    type: article
+    provider:
+      name: WTVF
+      domain: newschannel5.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c4d6ec3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fde%2Fd2%2Fe40be43547daaba1d5b8799f46be%2Fcruise.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Be prepared for epic traffic jams with self-driving cars"
     excerpt: "The biggest danger to self-driving cars is not technical errors or even hackers, but their own success. Read more at straitstimes.com."
     publishedDateTime: 2023-10-05T21:00:00Z
@@ -54,6 +68,6 @@ related:
         height: 464
         isCached: true
 
-secured: "ieTG7ZOWXkpiUZ6je//BJGMxKneeo1lbhByM5V8tATYxBm2PvyOjZ/Q1tvtzx6THH6L1wx8eN9ZDr+gDkfIShIhCuSG7+9gjFlI2dOU+y1VTVG67UrXUv5jL6l5VF1C6g9o9JHtogOhyfi4P6os3dla7j2ZpxFukSmIWHn3VWsNl+ZasjYvORPJ4qgbdDQ8Z4T0NH9gIsMlTEjSKlJ7f3yLGbL1M81L1UKOHu/dqpeBA9jCBgKzRlOdY+KpAZs7U5S4Y6YUXwEZ6iI2lAvme9bNZOr6SZemF2CaOSHIY69JGmUzR0K0A6Eo9p3ceLr7tzoArhoQDxdRZAbZ1B78prASdgN//LXvAho48HnsTqGML468kuTDz1UNwj6wacDRmQ4R/1Zxx6SPqM0frfzeJvyaGXieEEL+EXvSR10Hn9LxRyQzdM0h4o3u4U+5mdrM7qfC8jU6DpIyhiMU3KARkepNiPnpb+tdWyueNavNlVE3MIPOja/davdg4cmVhDRE3uSC5lKk85iXFIuCjfAZ+lw==;P61jjzTlnQGFZiBuziYzuw=="
+secured: "lJHuTQ4GZy6EerlIrRXj+7D1cKQp5Ti/4H0iCPsQvfQJC/HKZIKgLq0QZmOX+DWDxpQbUwUi88rzZOSQTmUzj957iLQYumtINz+537gIwnqMVbc2XgniUrG4xkD/hWXMlIkDUVhHx4qAQ/LQvat77C1Apnf92FmnDvrrYE+ZuQIzkyIGcoGaEWoYwzN4z1WGr/RQiHU2Tc5cy6nrnScMB06o9d1Q35b1+TETzvfa+75FzLTbYBTWrIO7+gm//bTIvtu8mDXgBl4iuLJHfKxfvv7KQjQt6Cjzsm3POExVTBeF95LZepmHjHy0NUiZ8TRNdFhCcrP+fabc3bQBZ8QKP/3o8Heox2zH5xGT48uT774=;w6+p4tjvn7Lvty3eiAsJlg=="
 ---
 

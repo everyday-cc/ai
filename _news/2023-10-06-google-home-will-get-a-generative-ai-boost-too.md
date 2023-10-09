@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: ZDNet
@@ -30,67 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pixel 8 Pro runs Google’s generative AI models on-device"
-    excerpt: "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device."
-    publishedDateTime: 2023-10-04T15:23:00Z
-    webUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/"
-    ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
+  - title: "How knowledge graphs improve generative AI"
+    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
+    publishedDateTime: 2023-10-09T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200"
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Throwdown: Open Source Vs. Proprietary Models"
-    excerpt: "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models."
-    publishedDateTime: 2023-10-08T19:40:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/"
-    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
+    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
+    publishedDateTime: 2023-10-04T23:45:00Z
+    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
+    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Customized test benchmarks and openness crucial as generative AI models evolve"
-    excerpt: "As generative artificial intelligence (AI) models continue to evolve, industry collaboration and customized test benchmarks will be crucial amid organizations' efforts to establish the right fit for their business."
-    publishedDateTime: 2023-10-06T09:24:00Z
-    webUrl: "https://www.zdnet.com/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d039fd7760b5fe0894f985195ed1f16ac2e93d0c/2023/10/05/b3bc94d2-7bbd-4136-8189-bb8a0ed7c09b/gettyimages-1403599191.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Generative AI at the BBC"
-    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
-    publishedDateTime: 2023-10-05T20:46:00Z
-    webUrl: "https://www.bbc.com/mediacentre/articles/2023/generative-ai-at-the-bbc"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Zoom chucks generative AI everywhere in product blitz"
     excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
@@ -108,34 +78,15 @@ related:
         width: 1844
         height: 1246
         isCached: true
-  - title: "Google is accelerating AI on the Pixel 8 with its Tensor G3 chip"
-    excerpt: "The enhanced AI performance is the main feature upgrade of the Tensor G3 chip, the most powerful Pixel chip so far."
-    publishedDateTime: 2023-10-06T01:20:00Z
-    webUrl: "https://techwireasia.com/2023/10/tensor-g3-chip-enhances-ai-on-googles-latest-pixel/"
+  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
+    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
+    publishedDateTime: 2023-10-07T13:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/000_33XD9HG-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
-  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
-    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
-    publishedDateTime: 2023-10-04T23:37:00Z
-    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
-    type: article
-    provider:
-      name: Techlicious
-      domain: techlicious.com
-    quality: 39
-    images:
-      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
-        width: 700
-        height: 370
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
   - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
     excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
     publishedDateTime: 2023-10-04T23:57:00Z
@@ -150,38 +101,6 @@ related:
         width: 375
         height: 225
         isCached: true
-  - title: "So long iPhone. Generative AI needs a new device"
-    excerpt: "Moreover, it emerged that OpenAI was in talks with Sir Jony Ive, Apple’s former designer, to create a new gadget for the AI era. What form it will take is still unclear. But if the idea is to build a new consumer-electronics device better suited to the back-and-forth of seeing,"
-    publishedDateTime: 2023-10-05T15:47:00Z
-    webUrl: "https://www.aol.com/finance/long-iphone-generative-ai-needs-124755464.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google says new phones to run on powerful AI tools"
-    excerpt: "Google on Wednesday said its latest premium-priced Pixel phone would have powerful generative AI models running independently on the"
-    publishedDateTime: 2023-10-05T12:24:00Z
-    webUrl: "https://manilastandard.net/business/314377165/google-says-new-phones-to-run-on-powerful-ai-tools.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
-  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
-    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
-    publishedDateTime: 2023-10-08T19:52:00Z
-    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 19
 
 secured: "w/JOiCwpU63Y+pTQzeoDeRpXIRVthASKvvGhSxmf68o0HuMXshEWt/o+rE7KToG2yOCHLN86I2a3NEgqYiqo02wAwvDGIriO0jMDoN/8XUdjveqPOyewYAmKWkGAWtkBYH2Dg9ZPaDgaQfuvRvjbQ4kf42++eguikkw9zNaFplBlApxoZuZ892uePAU4cHPoVRUqqizQ0s25Z9/YKX1kA2/VrxV6yoTZ+2A55p8vON6+U3GfzQnV4ngTaC+ljsrAaDmFbNVBQXqNJX2s4WxDgmIr8SrP0FI7lVXzhn+AMfj15lWBTn5kh+WFEg6APEefd1s4RIN6N2o3DtQ2vNvth2bjH9ZGQxr8tAP80nS2agVN0dBJef/nDVZb18U9ej+JVIVOOkn4kFmIr5W0UJ6YZ/NlMKeCItb2nf5+S/m+lGSC0DAhezYYJFyTkFAMxyBM6OzZfRWuqUgM8rg8KAijrDzmlSSfJXMJ2ggu0W06QhI7UBFutn9mxHtIgh139GBwIhD+leH6lfRecrciTAEwbg==;9jSFVNFK8uedG+8YuE1lfg=="
 ---

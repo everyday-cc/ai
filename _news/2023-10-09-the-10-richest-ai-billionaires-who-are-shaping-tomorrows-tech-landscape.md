@@ -7,7 +7,7 @@ originalUrl: "https://www.techopedia.com/ai-billionaires"
 webUrl: "https://www.techopedia.com/ai-billionaires"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
-    excerpt: "The semiconductor industry, long known for its rapid growth and innovation, encountered unexpected hurdles in 2023. However, Tony Huang highlights the role f generative AI in driving capital expenditure related to data centers. Semiconductor demand for cloud AI is expected to be a major driver of investment in 2024."
-    publishedDateTime: 2023-10-04T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9892918.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/2238663/thumbnail_image001.jpg"
-        width: 400
-        height: 267
-        isCached: true
-
-secured: "ueqwVXs6LqC7EmY9RFTyUQDanFRjH/Lal91uJHROQQbv9YYXcmU+gbZWPmeHmmrgw6b+s/gy+c6OeZ5tHnt67bgNve8rduUZPDF8gl9yu+x9hfipiL0rKDgI2RzS3MhYGfQ2HZNHjh2tjJAC47ijDoC9D2qVIHns8B2CXxJdDUhzTHmwU4RAuDcqe/Ynt354P5cKP6K0RDP4D1pVtCdmh+bv/UlwiWHygYypmsClhUtm5RXitSV7dEDCHYlP/j0irk8qigWmEIHVE3zAzdqOXsXgY+A3Aij4yWNIY7EFoD5EA+8L4eeDkhthjF0IcelTKOpB0e0oN/4RBh99XzuyKm9XrU/YssA9azJAhkqqueE=;p2yRR8iCX7oMcqEZQpX5HA=="
+secured: "wFgF86JdA3VezKDylNc8iA9q8hVS3QEfVgbIDXhQgo+/Od2huZRJjAt7I/LXToMpcpGwwsiZnbh1tawOeOShoihBcjYKkDb7v7IfXdJe4gJ+EgVRLlDbAeAQeQvDfXO4B9Z7l4qWYNWW110b+1hiODy8YX9qnWzF8FHb2lJrAqUPG668yV0gEW9zR1Ulm00gpm1VyJNA1ncbqFqfEkYgmL2EBFyorOPNAti4lcRbi4J6RAE7soRP296F+TaLN+BSkGK5LRbqBKNLjb/fe7uDxENQWCjDqfIB1Um4xIFoeQhVqQaztnh3ihF6dkBWRBjkYb6s63WeQIw+PCxeOwXDJmv5tDTEULIs4MPs4H706UCsE8ZCgeNpl14j78OkVPryRhx4EtcgsKPNsyinb/XuUGY1wpbMQctAlapcypR2u1xH2y//qF0y0SUqTIX9cJ1vOZW4H52tiHwbK1qTGMM53nr9T5NJQ2mW88rafSSNqlRy1M6q1sDfotUE/K9Ea/K3zNPuhVbszBh7ui60DoZnWQ==;KqGErGXbbvNM3PnHVz7Nsw=="
 ---
 

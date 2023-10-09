@@ -7,8 +7,8 @@ originalUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-d
 webUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-design-robots-from-scratch-11489351.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is changing data center design"
-    excerpt: "Data centers have historically been built around CPU-powered racks to tackle traditional computing workloads. However, AI compute instead requires GPU-powered racks, which consume more power, emit more heat, and occupy more space than an equivalent CPU capacity."
-    publishedDateTime: 2023-10-05T15:54:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-ai-is-changing-data-center-design/"
+  - title: "Instant evolution: AI designs new robot from scratch in seconds"
+    excerpt: "A team led by Northwestern University researchers has developed the first artificial intelligence (AI) to date that can intelligently design robots from scratch. To test the new AI, the ..."
+    publishedDateTime: 2023-10-06T10:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231003173425.htm"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Alien Looking Silicone Robot is the First Designed Entirely by AI.mp4"
+    excerpt: "At Northwestern University, researchers have successfully used artificial intelligence to design a functional robot from scratch within seconds, a feat that has taken evolution millions of years to accomplish."
+    publishedDateTime: 2023-10-06T13:03:00Z
+    webUrl: "https://www.djournal.com/news/national/alien-looking-silicone-robot-is-the-first-designed-entirely-by-ai-mp4/video_60e213b7-f533-5e39-8249-d892145a9a2c.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 54
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/NiklasHeadshot.22fc4791.fill-1200x630.jpg"
-        width: 500
-        height: 263
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/6/0e/60e213b7-f533-5e39-8249-d892145a9a2c/65200c2a3b7c7.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Your assumptions can change how an AI bot responds to you, new study suggests"
-    excerpt: "A new study suggests that an \"AI placebo effect\" can change how an AI bot responds to you based on your own assumptions about it."
-    publishedDateTime: 2023-10-07T19:11:00Z
-    webUrl: "https://bgr.com/tech/your-assumptions-can-change-how-an-ai-bot-responds-to-you-new-study-suggests/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 14
 
 secured: "2UnDrkNPPW2BuAYtjBouwQGMfxXD/V6OinPbGv8ANmmcLVuBiTs3apZjaSeXePxwUPJkb7KYTO26LLriUw8qH2fL+ZLbKWrHTDnlzmfXWS0RlSTCJX/Tpprt5vUgHUuYG9S7ZoAXCwnvJP3VcrKsmBaM3U+qTe76TBbm1IKAUCoBGV4zZx2CBIc8jMuQ43WjJJNqVBD+pLbrZm+8okbA1xLxc61bghiCplu3XYEZoo3LezNZzSSx0WQ49punzMNpvoSY8qNW562yINta+5aS52NfCffZGg/M8/dNTy4S61dW+E+m3FDh1Y1fDDhkrouI2GC5D86v8GpeVJ4+yj89OGFF6ieMFPBymjugEAVTX7k=;8Lcar5x5gy+RvJ3sCSzNeQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-t
 webUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-to-help-developers-build-genai-apps/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI wants to develop its own AI processors to combat GPU shortage"
-    excerpt: "OpenAI wants to develop its own AI processors to solve the shortage of specialized processors, especially GPUs. To this end, the generative AI specialist"
-    publishedDateTime: 2023-10-06T09:52:00Z
-    webUrl: "https://www.techzine.eu/news/devices/111987/openai-wants-to-develop-its-own-ai-processors-to-combat-gpu-shortage/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1458458495.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Opsera raises $12M to introduce generative AI DevOps features"
     excerpt: "DevOps orchestration platform provider Opsera Inc. today announced it raised had $12 million in a funding round and introduced Hummingbird AI, a new generative artificial intelligence solution that provides unified insights into developer experience and productivity across the software lifecycle."
     publishedDateTime: 2023-10-05T18:59:00Z

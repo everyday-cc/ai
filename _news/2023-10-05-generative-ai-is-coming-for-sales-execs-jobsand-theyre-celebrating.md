@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sa
 webUrl: "https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Here are all the cool new AI features coming to the Pixel 8 and 8 Pro"
-    excerpt: "Google has added a few AI-powered features to the new Pixel 8 and Pixel 8 Pro, and they are going to remain exclusive to them for a while."
-    publishedDateTime: 2023-10-04T15:14:00Z
-    webUrl: "https://www.androidauthority.com/google-pixel-8-ai-features-3371529/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Pixel-8-and-Google-Pixel-Watch-2-Lifestyle-shot.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5bUX2+zxJ+gMsgvgbs9B42wQkxZAb9ODb5XCc5cfyksTKS7VuCX2RkDVnnBZHQsFjRNGcJM6rpAEx6FCD+9AONJJYy5nN3Ld6Pc+SlQhsyKNwwEiAhj+/CPwAXPTTFLoIb84cCNNq4/SRUKXY7Rqzsy7CSANLkNuiPbyo7NuntnT+H47uv3e/7dvSWiwufzesXysLXWzvCgSVQyoXxDGh+VsD/V/mn0Y9h3ToOuHRoWYaHeeCPh7BJbnDWFTiG3tyQxnOhTlxlz7p7+LmaLhLsP/Da4PmN200SPiSWbMvN5mZVMba/gQULlaMVygAwlkFgIYx1S3Uu2WSW+D7PLXjPjRChahX/h70p6aviRMxeUwFJvpI9MHhZl/uFQNKwkmjVC5XdX4NykZ2JI0FQ7Kr4rQcTFKfz+EwgnkZusNQjH/Gi4UYbE7o+Hy0sUN1u+bGgZ8iCGuSvcILHZDkZjhxCJRnG9zWsM6aayH9LBybk9maeV/J6wMEXq+IbWKbuQdkD8/r8jDUuqWfkZaeX/DUQ==;wkmdMVMVCl1D9Ir1Iyxsuw=="
 ---

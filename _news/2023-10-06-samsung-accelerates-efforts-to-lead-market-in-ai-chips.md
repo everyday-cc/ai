@@ -57,6 +57,15 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
+    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
+    publishedDateTime: 2023-10-08T19:52:00Z
+    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 19
 
 secured: "JzdhgJVxkr6etVCRf88VCLMf0JFYx1gMnX5A+ukhEmhRdr+yGcMkP2CLlD9w0R0DXunNSrmj9NriF3BME00q5emESKzgkRh9Z7WGE5LH9b8oQDTmBiEHpQ6/ghYEkt31iqzH0490AFUvPfrgqsmNroIXqKwbQWM4dYHd/4t3MKR9aheqnTYVo6icwf5bBe/bUyyQR4eEJO9ZAWQafdSjoUTqyieLvd8ixrNCmcOU51hFwRbgDvcb7huGCZLz/eQvL2uS6j6JtwsHBXX6fI3hMVBEWHkyJjao9UyGhW/Ost/2n3gCvrqcEzzDESLuHCwbqCyAUSjgk870ywe+RM/SQ5FqpVDnRMuIy6I+jADaphGTuzzeiGFShGrpTrv7Jy+jxl9v6g9+eSytXMjqPskzm9FwPrkvWXQxfOU/wIeF4WUUGjTP9UJecQX0YBRqARfOHQelYlVx1Ezb521G9PAH8m/cNr0PMivyYaO1YRSgzlLmRfXqTJWRRgVHB/UUJCWRrQnarcGI1uq4BkX4VK+2sA==;GdMIHrsZ0G+nB3L+0dCTrw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank's Son says AI will surpass human intelligence in a decade, urges Japanese firms to adopt"
-    excerpt: "Softbank CEO Masayoshi Son says he believes artificial intelligence will surpass human intelligence within a decade, urging Japanese companies to adopt it or be left behind."
-    publishedDateTime: 2023-10-04T15:12:00Z
-    webUrl: "https://www.newsday.com/business/softbanks-son-says-ai-will-surpass-human-intelligence-in-a-decade-urges-japanese-firms-to-adopt-qvueclva"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 6
   - title: "SoftBank CEO Predicts Advent of Artificial General Intelligence (AGI) Within 10 Years"
     excerpt: "SoftBank CEO Masayoshi Son has predicted that artificial general intelligence (AGI ... AGI could transform the healthcare, finance, and transportation industries, making them more efficient and effective. However, the development of AGI also raises ..."
     publishedDateTime: 2023-10-04T18:27:00Z

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Three advanced cybersecurity technologies for banks, financial services"
+    excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
+    publishedDateTime: 2023-10-09T07:59:00Z
+    webUrl: "https://vir.com.vn/three-advanced-cybersecurity-technologies-for-banks-financial-services-105837.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/102023/08/14/in_social/opswat-introduced-advanced-cybersecurity-technologies-at-smart-banking-2023-20231008143947.jpg?randTime=1696845704"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
     excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
     publishedDateTime: 2023-10-06T03:38:00Z

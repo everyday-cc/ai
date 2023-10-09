@@ -71,6 +71,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft could debut its AI chip next month: Report"
+    excerpt: "Microsoft to unveil own AI chip at dev conference, reducing dependence on Nvidia. OpenAI exploring own chip, AMD chips 80% as fast as Nvidia's, future path to match performance."
+    publishedDateTime: 2023-10-09T09:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/o58e1o/article67398988.ece/alternates/FREE_1200/2023-09-06T195735Z_941892624_RC2LXY9W9FXP_RTRMADP_3_CHINA-USA-CYBER.JPG"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Microsoft to Develop a Special AI Chip to Counter Nvidia"
+    excerpt: "According to a report from The Information, Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip next month. This move is"
+    publishedDateTime: 2023-10-09T08:12:00Z
+    webUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/"
+    ampWebUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 91
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/10/AI-chip-e1696837734444.jpg"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
     excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
     publishedDateTime: 2023-10-08T11:03:00Z
@@ -278,6 +310,20 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Microsoft plans to announce AI chip next month"
+    excerpt: "Microsoft plans to announce its in-house artificial intelligence chip at its annual developers’ conference next month, the Information reports. The data center chip will be used to train and run large language models as well as other AI workloads."
+    publishedDateTime: 2023-10-09T09:21:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-plans-to-announce-ai-chip-next-month/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 71
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Supercomputer.2e16d0ba.fill-1200x630.jpg"
+        width: 552
+        height: 289
         isCached: true
   - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
     excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
@@ -596,6 +642,20 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "Cognitive/Artificial Intelligence Systems Market Streamlining Content Management 2023 to 2030 | IBM, Microsoft, Google"
+    excerpt: "Market Overview: Cognitive/Artificial Intelligence ... Key players in this market include companies like IBM, Microsoft, Google, Amazon Web Services (AWS), and NVIDIA, among others."
+    publishedDateTime: 2023-10-05T03:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/35082500/cognitiveartificial-intelligence-systems-market-streamlining-content-management-2023-to-2030-ibm-mi"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
     excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
     publishedDateTime: 2023-10-06T12:00:00Z

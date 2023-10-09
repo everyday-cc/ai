@@ -25,160 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Pixel 8 Pro runs Google’s generative AI models on-device"
-    excerpt: "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device."
-    publishedDateTime: 2023-10-04T15:23:00Z
-    webUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/"
-    ampWebUrl: "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/"
+  - title: "Google picks start-ups for inaugural AI accelerator"
+    excerpt: "Google selected 11 African start-ups that are using artificial intelligence (AI) to address Africa's challenges and broader global issues. The cohort is made up of start-ups from South Africa, Kenya, Ghana, Uganda, Nigeria, Ethiopia and Senegal. According to Google, the selected start-ups will undergo a 10-week accelerator journey."
+    publishedDateTime: 2023-10-06T08:26:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdqLGzZdMX2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdqLGzZdMX2PD"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200"
+      - url: "https://www.itweb.co.za/static/pictures/2023/10/for-Startups-Google-2023.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Generative AI Throwdown: Open Source Vs. Proprietary Models"
-    excerpt: "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models."
-    publishedDateTime: 2023-10-08T19:40:00Z
-    webUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/"
-    ampWebUrl: "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/"
+  - title: "See The Bizarre Image That Just Won an Inaugural Award For AI Art"
+    excerpt: "The Prompted Peculiar International AI Prize results are in, and a great reminder of just how mesmerizing—and absurd—AI-generation art can be."
+    publishedDateTime: 2023-10-08T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/10/08/see-the-surreal-image-that-just-won-an-ai-art-contest/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Google Home will get a generative AI boost, too"
-    excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
-    publishedDateTime: 2023-10-06T09:50:00Z
-    webUrl: "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
+    quality: 47
+  - title: "Google announces 11 African startups for AI First Accelerator programme"
+    excerpt: "Google on Thursday announced 11 African startups for the first cohort of its “Google for Startups Accelerator: AI First” programme. The Head of Startup Ecosystem, Africa, Folarin Aiyegbusi, said in a statement that the 11 startups were picked from a ..."
+    publishedDateTime: 2023-10-05T15:18:00Z
+    webUrl: "https://www.pulse.ng/news/local/google-announces-11-african-startups-for-ai-first-accelerator-programme/w9yf0zk"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Customized test benchmarks and openness crucial as generative AI models evolve"
-    excerpt: "As generative artificial intelligence (AI) models continue to evolve, industry collaboration and customized test benchmarks will be crucial amid organizations' efforts to establish the right fit for their business."
-    publishedDateTime: 2023-10-06T09:24:00Z
-    webUrl: "https://www.zdnet.com/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d039fd7760b5fe0894f985195ed1f16ac2e93d0c/2023/10/05/b3bc94d2-7bbd-4136-8189-bb8a0ed7c09b/gettyimages-1403599191.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI at the BBC"
-    excerpt: "Rhodri Talfan Davies is the BBC’s Director of Nations. Recently, he’s taken on the responsibility for bringing teams together across the BBC to shape our response to an emerging area of technology called Generative AI (or Gen AI). Here he sets out the latest on our plans:"
-    publishedDateTime: 2023-10-05T20:46:00Z
-    webUrl: "https://www.bbc.com/mediacentre/articles/2023/generative-ai-at-the-bbc"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Zoom chucks generative AI everywhere in product blitz"
-    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
-    publishedDateTime: 2023-10-05T10:36:00Z
-    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
-    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
-        width: 1844
-        height: 1246
-        isCached: true
-  - title: "Google Puts AI in the Spotlight with the Pixel 8 and 8 Pro"
-    excerpt: "With the Pixel 8 and 8 Pro rollout, Google brings a myriad of advanced AI experiences to life through significant hardware and software upgrades."
-    publishedDateTime: 2023-10-04T23:37:00Z
-    webUrl: "https://www.techlicious.com/blog/google-puts-ai-in-the-spotlight-with-the-pixel-8-and-8-pro/"
-    type: article
-    provider:
-      name: Techlicious
-      domain: techlicious.com
-    quality: 39
-    images:
-      - url: "https://www.techlicious.com/images/phones/google-pixel-8-held-700px.jpg"
-        width: 700
-        height: 370
-        isCached: true
-  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
-    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
-    publishedDateTime: 2023-10-04T23:57:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
-  - title: "So long iPhone. Generative AI needs a new device"
-    excerpt: "Moreover, it emerged that OpenAI was in talks with Sir Jony Ive, Apple’s former designer, to create a new gadget for the AI era. What form it will take is still unclear. But if the idea is to build a new consumer-electronics device better suited to the back-and-forth of seeing,"
-    publishedDateTime: 2023-10-05T15:47:00Z
-    webUrl: "https://www.aol.com/finance/long-iphone-generative-ai-needs-124755464.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: Naija Gist - Latest
+      domain: pulse.ng
     quality: 37
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+      - url: "https://ocdn.eu/pulscms-transforms/1/a4FktkpTURBXy80OWU5NTMyYjQ3NzUyYzBkNDQ1YmMyNDZmZjQ2NmFiNS5wbmeSlQMMAM0CEc0BKpMFzQSwzQJ2"
         width: 1200
         height: 630
         isCached: true
-  - title: "Google says new phones to run on powerful AI tools"
-    excerpt: "Google on Wednesday said its latest premium-priced Pixel phone would have powerful generative AI models running independently on the"
-    publishedDateTime: 2023-10-05T12:24:00Z
-    webUrl: "https://manilastandard.net/business/314377165/google-says-new-phones-to-run-on-powerful-ai-tools.html"
+  - title: "Kenyan startup chosen for Google’s AI accelerator program"
+    excerpt: "Google has unveiled the first cohort for its 'Google for Startups Accelerator: AI First' program. The 11 startups, picked from a vast pool of innovative talent, are using cutting-edge Artificial Intelligence to address both Africa's challenges and broader global issues."
+    publishedDateTime: 2023-10-06T08:27:00Z
+    webUrl: "https://www.kbc.co.ke/kenyan-startup-chosen-for-googles-ai-accelerator-program/"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 19
-  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
-    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
-    publishedDateTime: 2023-10-08T19:52:00Z
-    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 19
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 37
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/For-Startups.png"
+        width: 850
+        height: 444
+        isCached: true
 
 secured: "U33hvfZ/e8iHhmWKUl+uZZN2vvsiKKCuNJTTXAMY/teTIO8hvu/qbHUgk+E2P+mgTbrbziBS6a8AuU3oY2TovXsbLI+hO/69jYjmK3DQWrHw8ynNWcMRnj1qKpqXVLsw+G3Z7rFQsOJlisbsSWTPeU1ClKGUKjfhInN7tNc/6/VcWjeXf3jNMQd0j2Fhb9Wavzwzo+Tov8ALZxizcHlTE9ENw5FQrEWKthN3b9LnFtwGNI84Xs4sAJ5fsI5kGVn/PZWdd9epxHcHFQejzYe1gjgN6DQH/C9AxOGCN8Rb0rTLvfEktrZE4YZbIjmK2KfhhItu4OFT0XTV0tIvzcwZmkBwFnrzhxOqwGy6GegiYi8inSZE1QGp0J4PTR0Am3KsVT5tdZL7Xmy++2F4ttxiOUVbLTJDXy9CpeSgrT46vzupUoWRfJP+bFH7OWy3qhrdyzVIi/Bc9Olg+8rwWOpH8H4ic6pDLhHEBwBwq1FHKwJtlUusTL1QE2fgTTyHl2yHanOB525EFvRnZR+SlEEwqA==;rn1xQyjjc2+rvZcXqLImKQ=="
 ---

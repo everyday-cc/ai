@@ -39,6 +39,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Deep learning improves earthquake forecasting"
+    excerpt: "A research team is aiming to shake up the status quo for earthquake models. Researchers from the Universities of California at Berkeley and Santa Cruz, and the Technical University of Munich have released a paper describing a new model that delivers deep learning to earthquake forecasting."
+    publishedDateTime: 2023-10-09T09:51:00Z
+    webUrl: "https://it-online.co.za/2023/10/09/deep-learning-improves-earthquake-forecasting/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/10/earthquake.jpg"
+        width: 1075
+        height: 600
+        isCached: true
 
 secured: "i5xSUegDhMqd7HYQJ0Zzj4YHCj+p/XqdV78gBubzMgmxqddZU+x46DPQI4tFtm6h7nwM9P3mUv4WS86y4HAqgNKCowc5BporrIJQKO3QvjCSALvjQlF1qhZPlpROzP25i6UNvmlgf9mx5sw14gRPeQa0m/N4VPGNkB4NdChYirxh+zxrgF0hzNmegz5ap1gVXh39mxVJUv6FOujpBygQAOcotf7EUGY1pDBdyrcHJ1qwAt+oQp/nm07gc40KBYVjMSaVnIm9XP1Dpg5CVgcObZXs6yMqfcIixcHCsYcO2ZR6dD7YLCw9QPmo/QZcTu7ITdOtKG+7Woj3r0cIaFPEUCcR5iGY7kUyadpwm37n2LHKxW4cHkVNANCZl7sJt5WmOW1QNGrs/fOoYJq8ElvVUKTyatmBMJa+7Dzgz9U7vItQYV5O8YeElY9hUxstL21VhKQpCfuOy4x0pYdrWn/k2gyLKZZyVanIv+O18LVaIhc0H/4bZ7glm12akCzsbGM82M+/ZgEcST0EVCalFSC2wA==;YVM4HKmsyO6AJUGR9n0KBg=="
 ---

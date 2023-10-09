@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -487,6 +487,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar.md",
+      "title": "A Glimpse into Data Scarce Environments: An Interview with Computer Vision Expert, Sumedh Datar",
+      "excerpt": "In the realm of Artificial Intelligence, particularly Deep Learning, data is the lifeblood that powers predictive solutions. But what happen..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Sep/26/big_thumb/1_6512460ee8565.jpg",
+          "width": 743,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
+      "publishedDateTime": "2023-09-25T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
       "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
       "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
@@ -912,15 +955,15 @@
       "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
       "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, Louisiana, for his ordeal. “I was confused and I was angry because I ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wabi.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
-      "originalUrl": "https://www.wabi.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
+      "webUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
+      "originalUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/HjSzxALpjF1240k_GYnFsnsv9EU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MJNTWJTHAZBSDFOIS2QJXL2VGY.jpg",
+          "url": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/k9QDHmYRGEBKaY0CoAOdzG3XG2k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DCT6ZBVURNFKNBKYVNPKMIFCPA.png",
           "width": 800,
           "height": 450,
           "title": null,
@@ -930,13 +973,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wabi.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
+      "ampWebUrl": "https://www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wctv-tv.cdn.ampproject.org/c/s/www.wctv.tv/2023/09/25/facial-recognition-technology-jailed-man-days-his-lawsuit-joins-others-black-plaintiffs/?outputType=amp",
       "publishedDateTime": "2023-09-25T04:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WABI-TV",
-        "domain": "wabi.tv",
+        "name": "WCTV",
+        "domain": "wctv.tv",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1248,40 +1291,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets.md",
-      "title": "Five experimentations in computer vision: seeing (through) images from Large Scale Vision Datasets",
-      "excerpt": "Using images from large-scale vision datasets (LSVDs), five practice-based studies – experimentations – were carried out to shed light on the visual content, replications of historical continuities, and precarious human labour behind computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "originalUrl": "https://www.cambridge.org/core/journals/bjhs-themes/article/five-experimentations-in-computer-vision-seeing-through-images-from-large-scale-vision-datasets/76777C2707BCA07CF346BE7102719370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
         "images": null,
         "publishers": null,
         "authors": null
