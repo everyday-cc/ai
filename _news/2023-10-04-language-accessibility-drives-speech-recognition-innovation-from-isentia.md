@@ -2,13 +2,10 @@
 category: news
 title: "Language Accessibility Drives Speech Recognition Innovation From Isentia"
 excerpt: "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff."
-publishedDateTime: 2023-10-04T09:33:00Z
-originalUrl: "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm"
-webUrl: "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm"
+publishedDateTime: 2023-10-03T21:18:00Z
+originalUrl: "https://www.scoop.co.nz/stories/BU202310/S00046.htm"
+webUrl: "https://www.scoop.co.nz/stories/BU202310/S00046.htm"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
   name: Scoop
@@ -24,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1Xsx9RjekV4AcDQBTU1TPDzyFeiwqzKvmdWo8XJz2PF46Yv8YWpxnOtSpqzigY0pps5QhnIeDAAd8h6td/aSQpmY+FQFzFpJzKdq4dEh4tYRngF/UPaWUn/gLT07ANQQJWMjXsv+s7Ez0vYtUeH1KZTW+tc9MzsbU/Mh8uTnmPZNH74zI2BYOMpinj4LU9b7G+5zgoekpM7xTD8c5eqZupry8Fd29Jy2oFLKfVR6hgGY59hIOVf5fF8+RJFgHNQ7v33i5bJ2E4/nBpLrOc00xyABY6IngzZw7hqDny0AzxnCMygPvhGUKOKUgCl1sgQGMQr5m0GUA87JGZ0CuSfSFuIxIxr31eK26hQjOnrbmwQ=;hc00vxMewdq1gZ+WOyS6xg=="
+secured: "a5hVQ3rj3BLRG/+aAwvvOCnCkcPlrE1rhpwEOhwZIZDmr6wev3mTu4WyUHLxLYSC9Pz2Xy0XrTiD/xrttsmr/+ankR6iVcH7hWu/BDTyxsj3gyLPV+s9QJSY4qD79sKHTQa7jiyi9Kv4pxk3rr716aGTxKYeg7R68qVjDxPDiWuKN79bMyDSrHKdqv+nH/5XhVa477qaBw+ZO285kh04Lq25cbfsuB4yhJMkOcyyxBFkbSYg7dJkp6+wM36g00tQRnEzEujXSxuaLs04WFfDIIUOslKcq0k/WZoo2huEGmh8bRq2FAQekoNcNEpPNNqd7jl7EGEaJGBwnveRq7z4fS3lxERPGSiqyTz3ro+Dsfo=;FQeALhhBD/FO2cm9DMF8Ww=="
 ---
 

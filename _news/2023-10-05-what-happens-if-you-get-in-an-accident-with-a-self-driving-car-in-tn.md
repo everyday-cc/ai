@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
-    excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
-    publishedDateTime: 2023-10-04T12:37:00Z
-    webUrl: "https://www.techspot.com/news/100377-cruise-self-driving-car-runs-over-stops-pedestrian.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 43
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
-        width: 1920
-        height: 872
-        isCached: true
   - title: "Pedestrian Found Critically Injured Under Self-Driving Car"
     excerpt: "A woman was found trapped and injured underneath a self-driving car — but the autonomous vehicle (AV) doesn't seem to be the one to hit her."
     publishedDateTime: 2023-10-04T17:39:00Z

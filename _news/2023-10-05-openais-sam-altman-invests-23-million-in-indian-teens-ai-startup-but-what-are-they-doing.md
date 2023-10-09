@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI’s Sam Altman invests in Indian-origin teenagers’ AI startup"
-    excerpt: "We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning, Sharma said on Wednesday."
-    publishedDateTime: 2023-10-04T12:33:00Z
-    webUrl: "https://www.thehansindia.com/hans/education-careers/openais-sam-altman-invests-in-indian-origin-teenagers-ai-startup-827399"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 17
 
 secured: "Zsj6WXPowyvxxZWSbNoBrwMxKjg5Ksc4j3hXsyEPlETbsMEA1lcJnXiu9q2tMQHfM6DG8HoVNsheQV2r/P2JxV/y381eVT4W2T7qjjBg5c4zAv+5aemQoZN6hunJKKu/5ejpfYmTDpFvenDIImU4FHbkKLGBVZxoxyDvEchUniNkDVqK9vVHRhrqoYje2/RxkhjMp6ZwVdiSOS07PVZ8FohYvOf1/YzXwWQq5SPknymcaApIAIOnW0pcgsy38KgCPRRP5U1kOZpkMa6VdYKYt484ASuCC5DUBmB7nNnGFrsUKiOqv5yWdggFi1C8AHLvBUmdFnWhvUe8JSJ1Y5SkzPw2vkhWgKQj+fvkGi4iM6A=;cJW58FXHf6nsVKBZiTVZqg=="
 ---

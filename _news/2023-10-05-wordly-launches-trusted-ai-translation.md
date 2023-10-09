@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35088030"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35088030"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,73 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "The AI Transformation Is The Tip Of The Tech Spear"
-    excerpt: "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ..."
-    publishedDateTime: 2023-10-04T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The U.S. Isn’t Ready for the New Age of AI-Fueled Disinformation—But China Is"
-    excerpt: "Thanks to generative AI, the impact of China’s social media manipulation will be both greater in volume and more convincing"
-    publishedDateTime: 2023-10-05T08:00:00Z
-    webUrl: "https://time.com/6320638/ai-disinformation-china/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 64
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1441688102.jpg?quality=85"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Entrepreneurs Use AI To Transform Clinical Trials"
-    excerpt: "Establishing trust in the research community is difficult, especially from the institutional review boards (IRBs) that monitor a study’s ethics. IRBs and the FDA already control so many aspects of clinical trials that convincing them of AI’s benefits ..."
-    publishedDateTime: 2023-10-04T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/greglicholai/2023/10/04/entrepreneur-uses-ai-to-transform-clinical-trials/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
-        isCached: true
-  - title: "AI can transform health care benefits administration"
-    excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
-    publishedDateTime: 2023-10-06T13:01:00Z
-    webUrl: "https://www.benefitspro.com/2023/10/06/ai-can-transform-health-care-benefits-administration/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
-        width: 616
-        height: 372
-        isCached: true
 
 secured: "p1cjUp4DfGKQ5sqVTUPuyxfEYPm8wCz+giFJEFsILdwD3xemgDtMffJL/HznF4Nb4JdAlJga/18UsKa4ROhH3tIatFfFJ49jkhBbvrtqWhPQUb4v4uYO2XmVlvdK8sIJPoDh9eyUmdAl8EGhJHIYWjgx10Ks3zq6vj2rl3tHzGeCCFkr01PUHy2A7fGmqEYgOVGcJY/s66j6VAPVjPks+eWl0KX7mt5Z9p1CIrmuZzUKYbWg6XpwdBYiYV3Jx/LEu61DUY20hUwimZ54m8PQyleK/fC0HygLcz7MMvyF5t2vlAS1wfOKclfwBK6z3Tqx66rKYxbbcaqngu1CetbuCQiitL7+dBkoBt6E1xS5XF8=;RXPxfYuYNK7Bu9UzfpP6/g=="
 ---

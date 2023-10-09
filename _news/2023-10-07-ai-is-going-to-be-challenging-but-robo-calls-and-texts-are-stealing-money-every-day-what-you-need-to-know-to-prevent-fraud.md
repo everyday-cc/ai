@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johnwasik/2023/10/07/ai-is-going-to-be-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwasik/2023/10/07/ai-is-going-to-be-challenging-but-robo-calls-and-texts-are-stealing-money-every-day-what-you-need-to-know-to-prevent-fraud/amp/"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Forbes
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 748
     isCached: true
-
-related:
-  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
-    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
-    publishedDateTime: 2023-10-06T19:25:00Z
-    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
-    type: article
-    provider:
-      name: wglt
-      domain: wglt.org
-    quality: 26
 
 secured: "6fzX/NxhPSZbNKKN6rukdy6iiNuLE0izwkPMdRAqyXbCBhXRcgenHIVs0adNlLcAv//7FuAsZFaOc33qbexmFX9hNgQfaPQsc7rjdYgJ1khwalZdQ0MBYkjbO7Pq5y4UwyXURHIgQbU5Vub/WTD53fSuJS6sGqmEAoefoZ30xzMH7YBY2YZbm5nUE8eq5Jlw+jabnx/d64CbJnnyiPu2oeyF4OY+svIfvU9Mffg+XGCDSbhJTxNHbszWq3dgJfZGmKKt5G0SVYeFB5hQm0AS/3NtxTYYJpVQLJPLIdPkSWZOZ4q03NG8NFMJyxIdQcOjgXFIy3UX++oVRr6ug15fdcjQ9erD0+DTrT9AaN7lLgHMFxUrv04lv36QhznuCTx7U8YS5uZgi0l4OPj02ckttEFT8PbibjlC/X8n6c8TnuU72qKGz0EpBqZ672Too58kmbK6/yLmADqHg1ikdMjay/FMIxybgGACKGFegRX4S0XmtLr1w9gGQOCjl2kTvkyEqd50T+gpGoVJ4+LHTP9IDg==;D2cKWxjkFDkS729MqrhrVQ=="
 ---

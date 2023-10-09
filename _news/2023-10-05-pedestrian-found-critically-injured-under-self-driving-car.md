@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Cruise self-driving car runs over and stops on pedestrian after they were hit by human driver"
-    excerpt: "The San Francisco Chronicle writes that the crash occurred on Monday at 9:35 p.m. at Market and Fifth streets. The Cruise car and the other car"
-    publishedDateTime: 2023-10-04T12:37:00Z
-    webUrl: "https://www.techspot.com/news/100377-cruise-self-driving-car-runs-over-stops-pedestrian.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 43
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-15-image-17.jpg"
-        width: 1920
-        height: 872
-        isCached: true
   - title: "What happens if you get in an accident with a self-driving car in TN?"
     excerpt: "NASHVILLE, Tenn. (WTVF) — An accident involving a self-driving car, a human-driven car and someone jaywalking in San Francisco highlights concerns about so-called autonomous vehicles nationwide. Cruise, the company that owned the self-driving car in San ..."
     publishedDateTime: 2023-10-05T03:22:00Z

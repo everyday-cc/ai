@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-techn
 webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

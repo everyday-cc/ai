@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 848
         isCached: true
-  - title: "Rabbit is building an AI model that understands how software works"
-    excerpt: "What if you could interact with any piece of software using natural language? Imagine typing in a prompt and having AI translate the instructions into machine-comprehendable commands, executing tasks on a PC or phone to accomplish the goal that you just ..."
-    publishedDateTime: 2023-10-04T13:01:00Z
-    webUrl: "https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "iYS8b36fFxeXJZJXkfVwYRCvFoxx5zFIxaLmsXXQcT0fANNcALzCZbzxGfmns+lQxE8v15/WEtwlBuhMrCe65MamNbyQYaJQ2RZXuVwBR3DC93LnE7oblCcAo3pKSwS2A2BoRzU3Ofm7fnHRph6ka5wzWuy+Ypjd338MTci4o34vXWQ8lM66OzlTKrmaVDSqUT4iR9RVKnWAG+Snu/MbDKcrg46Wd8PvH8YpY/pP/MI6zipCJVaBBZRXZk0L5L1peta7nn2ee/j301V4veyYX7Ps2rFmQqXjhKNUpLEgLk9q/eXSNN5HCYP8gCqjx6SQwJ6ZK/YvZlc4TxYkj7yWOCxvjzszipd6FCWNBhkLRs3cuW6YdbM7e7XM9LWJBmnpzuG9UQYlqVvmJobh9uVID5rOYqMcWni5NFoF5vPcZOaJwtlCBJx8t7oZT2/IPv0KMebq/LYuRsECs+Zvxtp8jkR3tVARzaUfpIVngOznoFV2xYnEVbxsSluuERJTx1cnrCC+SRSuQyatEN1CAVRVLA==;qra/HgIuz6xYGMnCK6Ei6w=="
 ---

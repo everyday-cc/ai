@@ -7,8 +7,8 @@ originalUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-d
 webUrl: "https://www.moneycontrol.com/news/technology/heres-how-an-ai-can-design-robots-from-scratch-11489351.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: moneycontrol.com
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "There's a new squishy robot in town, and was created by AI"
-    excerpt: "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch."
-    publishedDateTime: 2023-10-04T11:18:00Z
-    webUrl: "https://interestingengineering.com/innovation/squishy-robot-created-by-ai"
+  - title: "How AI is changing data center design"
+    excerpt: "Data centers have historically been built around CPU-powered racks to tackle traditional computing workloads. However, AI compute instead requires GPU-powered racks, which consume more power, emit more heat, and occupy more space than an equivalent CPU capacity."
+    publishedDateTime: 2023-10-05T15:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-ai-is-changing-data-center-design/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.datacenterdynamics.com/media/images/NiklasHeadshot.22fc4791.fill-1200x630.jpg"
+        width: 500
+        height: 263
         isCached: true
-  - title: "Canva's New AI Design Tools Aim to Help You Create and Edit Like a Pro"
-    excerpt: "Some tools rolled out on the Canva app within the past year, such as Magic Write, Magic Edit, Magic Eraser and Magic Design, but now they're all housed together in the Magic Studio. Here's a look at which features you can access and how they can help streamline -- or even automate -- your projects."
-    publishedDateTime: 2023-10-04T17:23:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/canvas-new-ai-design-tools-aim-to-help-you-create-and-edit-like-a-pro/"
+  - title: "Your assumptions can change how an AI bot responds to you, new study suggests"
+    excerpt: "A new study suggests that an \"AI placebo effect\" can change how an AI bot responds to you based on your own assumptions about it."
+    publishedDateTime: 2023-10-07T19:11:00Z
+    webUrl: "https://bgr.com/tech/your-assumptions-can-change-how-an-ai-bot-responds-to-you-new-study-suggests/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
+      name: BGR
+      domain: bgr.com
+    quality: 14
 
 secured: "2UnDrkNPPW2BuAYtjBouwQGMfxXD/V6OinPbGv8ANmmcLVuBiTs3apZjaSeXePxwUPJkb7KYTO26LLriUw8qH2fL+ZLbKWrHTDnlzmfXWS0RlSTCJX/Tpprt5vUgHUuYG9S7ZoAXCwnvJP3VcrKsmBaM3U+qTe76TBbm1IKAUCoBGV4zZx2CBIc8jMuQ43WjJJNqVBD+pLbrZm+8okbA1xLxc61bghiCplu3XYEZoo3LezNZzSSx0WQ49punzMNpvoSY8qNW562yINta+5aS52NfCffZGg/M8/dNTy4S61dW+E+m3FDh1Y1fDDhkrouI2GC5D86v8GpeVJ4+yj89OGFF6ieMFPBymjugEAVTX7k=;8Lcar5x5gy+RvJ3sCSzNeQ=="
 ---

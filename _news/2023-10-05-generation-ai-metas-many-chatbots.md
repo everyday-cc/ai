@@ -76,20 +76,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
-    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
-    publishedDateTime: 2023-10-04T12:00:00Z
-    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
     excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
     publishedDateTime: 2023-10-05T13:43:00Z

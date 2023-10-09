@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-co
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rabbit is building an AI model that understands how software works"
-    excerpt: "What if you could interact with any piece of software using natural language? Imagine typing in a prompt and having AI translate the instructions into machine-comprehendable commands, executing tasks on a PC or phone to accomplish the goal that you just ..."
-    publishedDateTime: 2023-10-04T13:01:00Z
-    webUrl: "https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "The threat of wildfires is rising. So are new artificial intelligence solutions to fight them"
     excerpt: "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect fires from space. Microsoft is using AI models to predict ..."
     publishedDateTime: 2023-10-04T19:21:00Z

@@ -147,6 +147,20 @@ related:
         width: 1022
         height: 659
         isCached: true
+  - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
+    excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
+    publishedDateTime: 2023-10-09T05:03:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/104273815"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 82
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104273815,imgsize-74694,width-1200,height=765,overlay-etcio/corporate-news/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "OpenAI is exploring making its own chips as AI companies scramble to overcome the global processor shortage, report says"
     excerpt: "OpenAI is considering building its own AI chips to power ChatGPT, in the latest sign that the company is diverging from its partner Microsoft."
     publishedDateTime: 2023-10-06T10:26:00Z
@@ -254,6 +268,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-10/Microsoft%20prepares%20to%20unveil%20its%20AI%20Chips%20next%20month%20to%20reduce%20costs.jpg?itok=w5D_NFg5"
         width: 810
         height: 540
+        isCached: true
+  - title: "Microsoft On The Verge Of Unveiling Its First-Ever AI Chip"
+    excerpt: "Regrettably, the tech publication did not divulge key details about the AI chip. Nevertheless, the move could be Microsoft's attempt to reduce its reliance on NVIDIA's GPU (graphics processing unit) chips. Notably, the widely popular NVIDIA GPUs have been ..."
+    publishedDateTime: 2023-10-09T05:04:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-verge-unveiling-its-first-ever-ai-chip-1720386"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 71
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
     excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."

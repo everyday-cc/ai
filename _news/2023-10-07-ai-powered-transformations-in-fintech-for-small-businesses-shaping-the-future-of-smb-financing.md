@@ -117,34 +117,6 @@ related:
         width: 1480
         height: 832
         isCached: true
-  - title: "The wonky world of regulation is actually a hot spot for fintech investing. Here are 12 compliance startups set to take off."
-    excerpt: "Startups span using AI to help investors find vulnerable spots in their portfolio, to a risk-analysis platform for the insurance industry."
-    publishedDateTime: 2023-10-04T11:50:00Z
-    webUrl: "https://www.businessinsider.com/most-promising-risk-and-compliance-fintechs-according-to-top-vcs-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/651c84a42ce014759e741ca1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Fintech Is Making Smaller Suppliers More Resilient"
-    excerpt: "Historically, smaller, lower-tier suppliers have had trouble obtaining financing. New fintech platforms are changing that. They are making it easier for them to use assets such as approved invoices, inventories,"
-    publishedDateTime: 2023-10-04T12:35:00Z
-    webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_04_1193669057.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Forbes Cyprus to host Future of Fintech Summit 2023"
     excerpt: "With technologies such as AI and blockchain reimagining investment strategies ... all revolutionising the way we conduct transactions. Fintech in Everywhere: Explore how fintech permeates diverse sectors, from gaming to the creator economy, and ..."
     publishedDateTime: 2023-10-05T07:53:00Z
@@ -173,15 +145,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clearco secures new equity financing from existing investors and an asset-backed facility as struggling FinTech executes complex recapitalization plan"
-    excerpt: "Toronto-based FinTech startup Clearco has completed a series of significant financial transactions designed to strengthen the company’s balance sheet."
-    publishedDateTime: 2023-10-04T13:01:00Z
-    webUrl: "https://betakit.com/clearco-secures-new-equity-financing-from-existing-investors-and-an-asset-backed-facility-as-struggling-fintech-executes-complex-recapitalization-plan/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 0
 
 secured: "0lBgOjMbTErzC5835pVZFEStvhRsQQYpd9HNHkNdlP8K18O9auxFowik01ekWmlQ4i1RAxH93UDZ5oyUOc4YK7t7CGkCxb6j/CkK+yi9dYvetEnFVvLCDotSm3KiDYQyQTE+eq/te9Ti/pffkyb3MEM8r6tW6KP6y3YdByel+7ueUyvnyaYzrQcaxZK5av4+VGH4gnnFULNNM2Bw9ZXbEMXZq/w2BbPuyKwOjhk4tKa6G2DZ6IE6iddTVp/eNCH2TFtseGgVW8jf9qAXslYDL6Fm8eDKx69950h7rDRjguCDOtO3FCK2yPTWyX35+zuO9rUeSr7UJ3ax8y3Gu3POJstnOa/35R7meXzRUdJoOiUSXpkmepRnbwvwITGtd4wECjw7b+xNuoW+A6FrZqWPkwpVWCp9bd5GGg8BMCdArl/1MwS2RKlxDQFYAWkXhgB6Co6Xxjm7dvsLcdvJFpI1q2hRI7kFdqyQYwXHuMyxFLFOppK+rrtbPYXUWwhSDqH/cquRoAtx91famEkqrDq29g==;UX/bckmDIj1soQVAgb5BLg=="
 ---

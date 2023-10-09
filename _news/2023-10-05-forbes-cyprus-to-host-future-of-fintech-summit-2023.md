@@ -131,34 +131,6 @@ related:
         width: 1480
         height: 832
         isCached: true
-  - title: "The wonky world of regulation is actually a hot spot for fintech investing. Here are 12 compliance startups set to take off."
-    excerpt: "Startups span using AI to help investors find vulnerable spots in their portfolio, to a risk-analysis platform for the insurance industry."
-    publishedDateTime: 2023-10-04T11:50:00Z
-    webUrl: "https://www.businessinsider.com/most-promising-risk-and-compliance-fintechs-according-to-top-vcs-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-    images:
-      - url: "https://i.insider.com/651c84a42ce014759e741ca1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Fintech Is Making Smaller Suppliers More Resilient"
-    excerpt: "Historically, smaller, lower-tier suppliers have had trouble obtaining financing. New fintech platforms are changing that. They are making it easier for them to use assets such as approved invoices, inventories,"
-    publishedDateTime: 2023-10-04T12:35:00Z
-    webUrl: "https://hbr.org/2023/10/how-fintech-is-making-smaller-suppliers-more-resilient"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 24
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_04_1193669057.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Car financing fintech Lendbuzz gets $345m funding boost"
     excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
     publishedDateTime: 2023-10-06T15:00:00Z
@@ -173,15 +145,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clearco secures new equity financing from existing investors and an asset-backed facility as struggling FinTech executes complex recapitalization plan"
-    excerpt: "Toronto-based FinTech startup Clearco has completed a series of significant financial transactions designed to strengthen the company’s balance sheet."
-    publishedDateTime: 2023-10-04T13:01:00Z
-    webUrl: "https://betakit.com/clearco-secures-new-equity-financing-from-existing-investors-and-an-asset-backed-facility-as-struggling-fintech-executes-complex-recapitalization-plan/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 0
 
 secured: "OyStwljtxS0CuOYFd0YbcY5zOtblL2xTjckb68RJqyOCsXn70KFPOZ7EiywPfLwVvT5m70Ol4R0oY4s7RRdP1tPEPaG6Zs8ViOnvqFpmFBWvOOn4hlFV1NY6FsnoHVxfOZ+0Gz/LYOn6xMXEs6UWGytl3Fm9XqeyB+5CpRTcJRrlYZ7WDSRnFIWqLJgbrQDQ22PclczqCchycjf65xkKRYu8aDNLOqMvQK+Gde3mvB/s0BMgv1u+QkU7n5GMsUIVWVSBve/80wTIOJ/3Q+AVSoFLVioZ3T2tgEB7j9x9hV8yQKdota0WUyRdrQSiHW4uzgCCr1Y0QGKzQnEUU65QrN9xfPGzsy5gcKQXi+Ps1Uo=;F7L8kk0m9+lpWqpL+9e5Ng=="
 ---

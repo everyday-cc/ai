@@ -66,20 +66,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "AI Chatbots Are Learning to Spout Authoritarian Propaganda"
-    excerpt: "Regimes in China and Russia are rushing to repress what chatbots can say. It's an early warning about a new frontier of online censorship."
-    publishedDateTime: 2023-10-04T12:00:00Z
-    webUrl: "https://www.wired.com/story/chatbot-censorship-china-freedom-house/?n=@"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/651c9b32574790876e74efcd/191:100/w_1280,c_limit/ideas_ai_chat_censor_propaganda.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Generation AI: Meta's many chatbots"
     excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
     publishedDateTime: 2023-10-04T23:15:00Z
