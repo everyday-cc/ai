@@ -48,20 +48,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "AI Designs Unique Walking Robot in Seconds"
-    excerpt: "Pioneering artificial intelligence (AI) has astoundingly synthesized the design of a functional walking robot in a matter of seconds, illustrating a rapid-fire evolution in stark contrast to nature's billion-year journey."
-    publishedDateTime: 2023-10-04T13:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-walking-robot-24911/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 54
-    images:
-      - url: "https://neurosciencenews.com/files/2023/10/ai-walking-robot-neurosicnes.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "AI Designs New Robot from Scratch in Seconds"
     excerpt: "A research team led by Northwestern University scientists created an artificial intelligence capable of designing robots from scratch almost immediately."
     publishedDateTime: 2023-10-04T16:53:00Z

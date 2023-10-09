@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-fa
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Daily Sabah
@@ -38,6 +38,20 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 56
+  - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
+    excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
+    publishedDateTime: 2023-10-09T07:10:00Z
+    webUrl: "https://menafn.com/1107210557/Google-Cloud-Accelerating-Dealmakers-AI-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
+        width: 431
+        height: 250
+        isCached: true
 
 secured: "Bl/3ozCZ9YtjE+u/rnXJTtMKHnJJwaVa22KaeZUPnot3q3gYSmPkC81CJaTdK5zyzEmDXBUOLSRbPgef0E4yGSJHnvhTDd/lO8OVV5gGKgUywK/KO3LgUewoklDm3fn2PZBS6CKYHV2gUjAX3+XuV5om4fAXN46z0ArwJICO6WiysO9ZbDffjaotW+VRxgKB0fEzZXfykx2NaUvrvibPGq3fDBqx4QQlaa0LGdy0lAF96ANZvAjVvTFBAQF9T9ItHJvG2EUxo8fY3YWCT/g6PnUKkPTNaGhlfoeEGyqHSxZe31ke7ZN/Q9WaZ356MhiVUxjSTBoQsGvQgTCSfXHez+foZYD+sF+IaIvhla/2mKo=;YgGsO/j6HCkZTPqxD2lvuA=="
 ---

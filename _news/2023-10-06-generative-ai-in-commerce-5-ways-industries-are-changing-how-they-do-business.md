@@ -52,6 +52,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI and the landscapes of Capability Brown – in pictures"
+    excerpt: "Digital artist Daniel Ambrosi has created an exhibition that interprets quintessentially English, eighteenth-century vistas with AI. The exhibition runs at the Robilant+Voena gallery in London from 6"
+    publishedDateTime: 2023-10-09T06:00:00Z
+    webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/6e9de231d72878b0c436fa21fec0fbb9acb918df/0_544_1523_913/master/1523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b020f56b11e8f96c1285eb5a2f8b7f"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xVsUuz/byeNX6P1Ky5q9aOuuFook/Lge2fg/nlkB1s6ardhuzlIqAupqHq6uDbCs4nR1emak5xesT9buCx2gESAbrXdMuEhd7Wr5ODUBS3dNPSAErcGmqV9xRm9+77vZSFoKlJJ2sRWyDYuhW4qLEqGQQPutb03MWYn8gfO+QC4kkDjYeBtx0ET4wAYAg/0gDADot6avB4/SLs7A1UkOXkOOSey7DuWX//c1VyMbh05RtliGiJl5X45HU3hsaz7N2z1FFPpYeY6/hWrYXju+hHQTGfTH2IcHnqxpEhakuNrEw+itROAAVpu5BycwGl/gjCtB/IcVIfQ01ltzU75NB+ieN0nRUkhEna9Fm2DjDsEwa5I5idg7A1CnND3QgP8n/zpxUcoY3x8q7QAlUwDrvm5W44ufiEVp13uCXDU7mtc9DmI2yXcvGW1UT5TNiJp6XqyqlU63QQIEA4J7ms0lTzaFx36gGxTq/ZGIr8VIfHnKlYUpv6UuAqrIFzxcuqrP467zcjm3DsLjdvInQT7kcQ==;Y1glAdlBXQ1aBNH3AG4H/w=="
 ---

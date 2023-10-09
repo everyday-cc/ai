@@ -493,15 +493,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
-    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
-    publishedDateTime: 2023-10-04T14:15:00Z
-    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 52
   - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
     excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
     publishedDateTime: 2023-10-08T12:37:00Z
@@ -625,6 +616,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "/oLnoa5jqf9TRnH5Frc2G0T8IVwxw/ev+r9cLhN7xfEc9fI4vaEgjTnqs1kj46OaouznDprD/iEy3rxUmorfuGgDjaH/agWYMaMaSTSpmjGMtbL5WZPVU63tuQpa7PKnsBMWRSVC02tCVAHiRR9LxCFnC0/Q825j8y40SEwWXb+RMixRNocxeCncoVHmBrqqm/hsUzNzwLLk32nGvNbpSiATrlHXDxJikLYdOemeT8lb1W+y2jRyerQCECSJP8aiSOX/pQ4J9Kddx8JM+x6qCxn8mCUB/FBTzM7BstU4cEV/jg8I3NIligP8Sbp6T7aFefPfdMLNV+haL/8ckbdiMYSSugQRUMK8wgvGnnIK6dY=;oNUxe4FIayxVKTAgJ59yxQ=="
+secured: "XXMNHuXEiU0afUYgiKfq/kiWfLzrxRUIh5PsG4caBFzsd8PkuEvBCOky8732yvYy58sZFcOl9FfZud0PTtSHTzXPTOoLpLxLJrUDXMYGnj7mDbSje7ixHsPfuatgu8/S+fEFgHdwdSWsUk9wZhtVRmCZSS/Dgf7kKxEkTjgM6D2nakge/FIl7eX7Tevs3zgrVNNe0vdMBpoU7R3ZasLB2rHG8+Mtet2WKhb/27SQ5ZcqNPckvCBa6Qy6yZ6WjlrgRfL2e+skgENFFBELoYUu776SbPgxBSaG39itxad5ylzqd0aN1T9CH97lZUo7esyhtiHPqedWPkDYUg1QHTDGPvQjxG94HvRS06EhkPBN/iVtdaGvc9IoD5ZIhKDZohWWu/NRUgCA49cyeyFMqbRgm5Ii8XJzm/DqbohBiTJaZd1qmdMajhwLJxGSDdItjlcTby0rQGLXt2urvN7trVizZQ40TdXyBH6KQWHkhVJcEX+f3Z/Zaq+BBRqGouqN7mTr9ibxnCmP/tErY/SMuplLzw==;yAK4dz+1mCwxjVYw9rtFUw=="
 ---
 

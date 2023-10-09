@@ -1,26 +1,26 @@
 ---
 category: news
 title: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets"
-excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing."
+excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing. (Graphic: Business Wire) EOT is working with AWS to transform how industrial customers unlock,"
 publishedDateTime: 2023-09-25T12:01:00Z
-originalUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
-webUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
+originalUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
+webUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
 type: article
 
 provider:
-  name: Charleston Gazette-Mail
-  domain: wvgazettemail.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/7/8c/78c462e7-5c0e-5ab9-9ae8-b94fb6979d10/6516a500a99e5.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/6/9d/69dc2d8d-5f00-5b28-87ff-72f3105cacc7/65117806aae56.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "WZEBOcd6BdI7tCNmOPCwKKFYEPtedEYFzXDQ8qLmfsqQEbRkdzIMQGB1V7lVDNlnGbkhJKerd7avHIEeOXRr52WFUbOzFjsAnPCkTM0gNr9BD3YlTqatUdheRKwOhaKqaRqPmPf12vFHjtGRj/X7Xgwp8X2V5RY7+apYR4LTU+50TZHCcAjjAEa4U1IWeBaHpo4Qd4YpZrYVgTHRZ67GrZ783/oTURoRIgyRd6EK6EnKrtF2LIdm4xdrLfwkCZQVoY76VPm3RvY9IC3ZAtDkx2yFG9v0zTliQXtNt5EqLMH1CcoetP83Zzl1LfH1SN1qeIixOIVMN6gGznxh0VCPzNN5TZ1ykX2bb/WQCsQOuAZvv8MiZdo2RuylzmDBPzBU8N+reeZbNF/FEx9DEyElZgVQwRYocJIDMMpoux/TKQ35SdcL225cTOaw21zk0K6HslzzhaVTSjNkJihqENxmG/q1VNwQgfJ1EFEIY67BSbxccfeR4+h2ycvZFOp35sUqnk2u6JGIAjc4RJM+IOIVQw==;3Imbnzjun9DHcYEKdBytiw=="
+secured: "rohJ+hA+t6UjuH2aoBqNU/DvoR0fXE8VEAlflyqWqJiLJuCBpdS1KYdMdzgLyFOjOmut8Q023jDVBmGtUIHqI9bdqRSdHzdfhSFW/6vfc8q+oeU8ad1KVFa8yF+hX32ewUO50CzkXtx0oFn7RI3dQ4VOwwK/fQyJ0dk52cjmTRW25KYT9bPfrF3AOkF2aOZzJH6uAxCLRF9rbGhgOuNNURcQB1EN5RwNJDHo6QTXBDsk35EpQmfWS6CI+vphWjmMrgfSTUYdDmvgn1tzXpPcojurvsSt7nYF6luOF795b+1WRMax9bHwGofMkXlNidJ7EZwxM3fL0+Msgzh0t6ZCNyFt7cg8OXv3chZURjsJMX4=;0xjtGmJzXDJmbsRhyS955w=="
 ---
 

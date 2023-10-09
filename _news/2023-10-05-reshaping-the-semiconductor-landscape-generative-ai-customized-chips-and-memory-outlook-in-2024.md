@@ -24,6 +24,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "The 10 Richest AI Billionaires Who Are Shaping Tomorrow’s Tech Landscape"
+    excerpt: "Explore the net worth and impact of 10 tech billionaires who are leveraging their wealth and AI expertise to reshape industries."
+    publishedDateTime: 2023-10-09T05:57:00Z
+    webUrl: "https://www.techopedia.com/ai-billionaires"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 38
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/10/brain_07.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "t5QoMlqIBdtbh+YiM7Km6hPIHhvMp2i2TxGUqdZ9fD+nh4dwS8KlkRNQGYbE7Yg1hOkmNiEqnHnqtuofnOI5ypxmzI8usO4ps8HyjeNplB/slNFeCaB3eVaqqgz3zZ/N4mWx1fHQxQFedKccjHiSTIltedMZDBG0qovMzmTPIKzloRMds6E0ouUEeL5bqDrDV7UBiHmGro3+FcmZ9fQwfejge3y944AzaPLNqMsQvGIP+SVtzJ6Jo0iUvrvS9Tj6/5XEcihcKX8CGwJp/MvZSQAmCtk7crNTGwue/pjzxwqBwxGt0m7SbBysW7NCyakHWB3vxZ0i2gZ/n/df21W22QlggKpyAcVYXXEPgi0YyTPrSkap7VrEBF2KX7sYYJcNrSGlM9jhwCnVI94s8CEUdjd8NB39OUFcZoMb4FYit9Urm8enO5rx0ICLB2Hu5WOszYo5PBLURkPPQb+J3AoxUcwMlAEytsalS2TivQ8b2g3s70728lV6bLXhSKLBBMMC92z897vKnQRUCdSudw+5iA==;WTuUq8pL2AXlTofuHl7OYQ=="
 ---
 

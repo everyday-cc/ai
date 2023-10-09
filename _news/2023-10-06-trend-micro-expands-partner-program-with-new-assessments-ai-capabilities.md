@@ -50,6 +50,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
+  - title: "AI and the landscapes of Capability Brown – in pictures"
+    excerpt: "Digital artist Daniel Ambrosi has created an exhibition that interprets quintessentially English, eighteenth-century vistas with AI. The exhibition runs at the Robilant+Voena gallery in London from 6"
+    publishedDateTime: 2023-10-09T06:00:00Z
+    webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/6e9de231d72878b0c436fa21fec0fbb9acb918df/0_544_1523_913/master/1523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b020f56b11e8f96c1285eb5a2f8b7f"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "i64XCV4gLUrtrnNfWzixsMHBHwK5pP73vUOp/kJ10rgQcHVq7cThOc9ZAGyJ3fpQ85pXAJwhn58Nag3RgB8J6FkIA5gfa3vJKkr91+NqmfdHAtCa22Qm5EF+5JK5LpXcECSzoliieFV94MGjEOErQ4hv1yM3g/TIsspDa1vj+IyCO8ps9kblggfBc9TQdQv+1lIqYfbH87Bo4z8WSV7kg/3caI9vQhR+9zebI496r/D1gmAgtVTbTBIn68rLnlFMXkIIOajGwQVRYRT0sM76PhUlIc9gOyECeuhnWcQk+TYPUEoa9NXY4vqAECv2RdJ2n81MI2WBjRXQ+IdL9GzQPL1kthQHduZSmNkddndDMXg=;oGLQeUHz90cECesl4Zww4A=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Admissions Offices Deploy AI"
+    excerpt: "Even as fears of robot-generated admissions essays abound, colleges are increasingly using AI in application reviews, raising new possibilities and ethical concerns."
+    publishedDateTime: 2023-10-09T07:15:00Z
+    webUrl: "https://www.insidehighered.com/news/admissions/traditional-age/2023/10/09/admissions-offices-turn-ai-application-reviews"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 39
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-10/AI_Admissions.jpg?itok=g3dYwztO"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "wXE6A2ddvMBE9F0Q4S1YdjFJ0Q6iuPR6CUsXgMGfHxFI1h2/w4pBaBSq+VzkfsTkwAxRsADJszHQSrUN17ihxFSRDQnj2XseFFeNngEHHPuu/pTO1wWpwJOq6v7zPRUShOD2WmxVzm6aBxK0Q6uvYc+bvKFqYY/o8sE3MGdOAdbnjeS/e6sy2m+xTZtdPMMKV6uc/2WngBFCBakv92iHIIgEOLADKldQuxngWk7WHMQ/gVqGiUN8/DWW4fEamPNKbk5RVtMtxnh9nuh1vZCOp9inAIOH/fzdX6E8Yd1e0zKLdO1+km7OdEl283uyqX6gEZyomRYJri+q3NkNMRRK4IjkR4/wrgzOHeamwIm5dlIr0/aHzgslgVNJy/VQGjo3XiTMetxFYKkOhf1UZ3oMeuymE4ZO33sy4Yp9jC87Lem6SmgRt+rQ4emQyodyyYuhq6fNu46nf/rr08DSCXvi6MroAUrTrMu7jOb7+4IOOx1jSCggqUogutw3V0NQOSW+mNG8IXsCR/I5uygOeR79lw==;T2WkQoT6GZgrXpBCpiNdXA=="
 ---

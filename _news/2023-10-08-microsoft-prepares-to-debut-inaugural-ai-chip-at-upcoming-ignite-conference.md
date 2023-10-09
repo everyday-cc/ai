@@ -493,15 +493,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Microsoft OneDrive is getting a major overhaul with the addition of Copilot and AI search features"
-    excerpt: "In an official blog post announcing the new OneDrive features, Microsoft said that the new Home experience is designed to help users easily access their files,"
-    publishedDateTime: 2023-10-04T14:15:00Z
-    webUrl: "https://www.techspot.com/news/100378-microsoft-onedrive-getting-major-overhaul-addition-copilot-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 52
   - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
     excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
     publishedDateTime: 2023-10-08T12:37:00Z

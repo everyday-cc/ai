@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35093922"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ashley_watkins_trend_micro.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "AI and the landscapes of Capability Brown – in pictures"
+    excerpt: "Digital artist Daniel Ambrosi has created an exhibition that interprets quintessentially English, eighteenth-century vistas with AI. The exhibition runs at the Robilant+Voena gallery in London from 6"
+    publishedDateTime: 2023-10-09T06:00:00Z
+    webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/6e9de231d72878b0c436fa21fec0fbb9acb918df/0_544_1523_913/master/1523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b020f56b11e8f96c1285eb5a2f8b7f"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "wfgjL01/H3Suuflpzsj2AkVu2AIgw5HdLGb7zdi81VXqmA+57kYs497tUXo1RRRQsSx2XkSV0jx9+T7B0YEA2y6c5mZdFT/NApjOZxY/tZMhKfhOZ+fFMfHm9Ir/FrURj3oscwftmaUSNkKUzECwc2rcG1LkzbhFbCVWZfQuRLm3OppUb5pHEVbLJksVFBXJwkk9jotS54Xzbz0bJit9Mwr8lw3W9DrPg8CiQn2VfXTKHIzEMbXnYQTZ8Rmm0Q52G8e6AnyTnmheeoceOMw7rq4Go5bjjA6q12v3lre0yXvlyAXhZ6M9J92UADSe6RUquZIQ+OgA9IFvRvHr3FKSBrU9SmWwj9vOlF4jwHnJlxI=;R/3Ywi4MFXbImJysHHs/4w=="

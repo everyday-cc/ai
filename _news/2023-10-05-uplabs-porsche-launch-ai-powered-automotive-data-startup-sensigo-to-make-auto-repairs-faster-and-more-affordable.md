@@ -33,6 +33,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Sensigo’s AI Tool is Porsche’s Answer to Advanced Auto Diagnostics"
+    excerpt: "In a significant leap forward for the automotive industry, Porsche, in partnership with US investment firm UP.Partners, has taken a bold step into the future with the creation of Sensigo, a start-up set to transform the way mechanics approach car diagnostics and repairs through the application of artificial intelligence (AI)."
+    publishedDateTime: 2023-10-09T04:26:00Z
+    webUrl: "https://www.cryptopolitan.com/sensigos-ai-tool-porsches-advanced-auto/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 37
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-09_09-25-26.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "I8f2KMeQcR4qIlxu4Bytfbo1cF2crrHnD2jBSXW8w9PAabScOzH6pve/GHPZSZ9uUztOHdils8PCWGZ7qIWv8q/WtpAjuAXL5MebC4j0H7D7HzGjLaJcnHuPu7h6fANk321uE2mQy9elRnG4BAo7E8etpJffZIjWB2O8PoL9w6iHpZHXIj//+zw6p+280MO5y65s/T/HNPWJQ7i3eN5SUP9g9899NPlH3h310Xf0bBdUgpNUSnB8s1PtFjyUsV2oQqsdYoXme6wkNJUGP+j53vgL/X3P5gPY31w7+4Xsl8Kt3m+rVK8kDsiv+JaDh6Z7PiD2j+NO+ZeVKEWCA8QKKaOF6pYoVaX93ejRiJw12ow=;fzLgfvmwhp3iYyS2t9tFEg=="
 ---

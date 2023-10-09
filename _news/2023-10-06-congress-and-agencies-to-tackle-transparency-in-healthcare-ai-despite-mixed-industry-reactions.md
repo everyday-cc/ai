@@ -29,15 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
-  - title: "UST, Hyro announce tie-up to leverage conversational AI in healthcare"
-    excerpt: "Hyro, a leader in responsible conversational AI for healthcare, partners with UST, a digital transformation solutions company, to offer healthcare providers automation solutions for routine tasks. The partnership aims to enhance contact center efficiency by deflecting 60-85% of calls,"
-    publishedDateTime: 2023-10-04T13:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ust-hyro-announce-tie-up-to-leverage-conversational-ai-in-healthcare/article67380008.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 34
   - title: "CharmHealth Advances Provider and Patient Intelligence With AI"
     excerpt: "\"By making it remarkably simple to integrate patient health data and information into a single platform, AI uncovers richer diagnostic insights from millions of data points. This results in a care experience that is much more tailored to the individual."
     publishedDateTime: 2023-10-05T14:55:00Z
