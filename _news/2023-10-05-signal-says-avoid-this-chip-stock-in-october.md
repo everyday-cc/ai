@@ -99,19 +99,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best Stocks To Buy Now in October 2023"
-    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
-    publishedDateTime: 2023-10-05T00:24:00Z
-    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
+  - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
+    excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
+    publishedDateTime: 2023-10-09T17:26:00Z
+    webUrl: "https://www.unite.ai/lovo-ai-review/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
-        width: 1200
-        height: 675
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/lovo-ai-review-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "14 things to know about the Voice to Parliament ahead of October 14 referendum"
     excerpt: "In just over a week, Australians will know whether they are to have an Aboriginal and Torres Strait Islander Voice enshrined in the country’s constitution."

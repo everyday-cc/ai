@@ -53,6 +53,15 @@ related:
         width: 1075
         height: 600
         isCached: true
+  - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
+    excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
+    publishedDateTime: 2023-10-09T16:23:00Z
+    webUrl: "https://scitechdaily.com/shaking-up-predictions-deep-learning-revolutionizes-earthquake-forecasts/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 18
 
 secured: "i5xSUegDhMqd7HYQJ0Zzj4YHCj+p/XqdV78gBubzMgmxqddZU+x46DPQI4tFtm6h7nwM9P3mUv4WS86y4HAqgNKCowc5BporrIJQKO3QvjCSALvjQlF1qhZPlpROzP25i6UNvmlgf9mx5sw14gRPeQa0m/N4VPGNkB4NdChYirxh+zxrgF0hzNmegz5ap1gVXh39mxVJUv6FOujpBygQAOcotf7EUGY1pDBdyrcHJ1qwAt+oQp/nm07gc40KBYVjMSaVnIm9XP1Dpg5CVgcObZXs6yMqfcIixcHCsYcO2ZR6dD7YLCw9QPmo/QZcTu7ITdOtKG+7Woj3r0cIaFPEUCcR5iGY7kUyadpwm37n2LHKxW4cHkVNANCZl7sJt5WmOW1QNGrs/fOoYJq8ElvVUKTyatmBMJa+7Dzgz9U7vItQYV5O8YeElY9hUxstL21VhKQpCfuOy4x0pYdrWn/k2gyLKZZyVanIv+O18LVaIhc0H/4bZ7glm12akCzsbGM82M+/ZgEcST0EVCalFSC2wA==;YVM4HKmsyO6AJUGR9n0KBg=="
 ---

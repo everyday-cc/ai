@@ -109,19 +109,19 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Best Stocks To Buy Now in October 2023"
-    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
-    publishedDateTime: 2023-10-05T00:24:00Z
-    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
+  - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
+    excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
+    publishedDateTime: 2023-10-09T17:26:00Z
+    webUrl: "https://www.unite.ai/lovo-ai-review/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
-        width: 1200
-        height: 675
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/lovo-ai-review-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "K3sQc4X9nkYyo69WD6IUjQoizJBFdrdL9YU8Oz3FQb7ialyESAF73xY+R7kLCfo2l6H5I+VJKCh+D/FQhP3Y1Or230ReH0ZvMttvFq2ldAcM/qYHOzkuM5RZyPkecspiPatBLLXSbIC1J+HX/KrKXAb282jGhWrZrpToviYy9xpmVYql4SbxTSWf3Ib6AGhovItvRjbj8QSuWnhyWiLaSDbDhilt6ItStz5Dkcpcf26VEZkwlLE0RSFSbddbEspBS1IXUJwGqKBmiMO8flDxiefS9Z39dR5S7E/F/bwfe2eSNUfws9a41G+DuzMJwQt5WwazO7OawJdcGdec9W485et7ta8RrovUGGrteSmgFUg4W8BwYQkKPvLc4BdAxaPqB59D8agEWrId/oxgTAJ2ui3PltHB+tHBjiTMiRQOLK8yUpUhIvRvJ9EhXi4Ts+7InRqGe/ee4KNm8r26PuSL8zeKEdgmXDp60ELuQwkVLjR/iIHYmdtIWH8rvhVihdf6O1C4e0Ac9xpi36vXc77XGw==;G9hzfnC9QGTQ+ObRWlvJdg=="

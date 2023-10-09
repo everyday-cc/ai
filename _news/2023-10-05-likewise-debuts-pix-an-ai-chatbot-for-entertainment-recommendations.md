@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106849816-1614949749338-gettyimages-1230948220-SNAP_EARNS.jpeg?v=1696632478"
         width: 4000
         height: 2667
-        isCached: true
-  - title: "Generation AI: Meta's many chatbots"
-    excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
-    publishedDateTime: 2023-10-04T23:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW634102102023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RW634102102023RP1&r=RW634102102023RP1&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
     excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"

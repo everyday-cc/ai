@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023"
-    excerpt: "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ..."
-    publishedDateTime: 2023-10-05T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock"
-    excerpt: "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI)."
-    publishedDateTime: 2023-10-08T10:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg"
-        width: 5530
-        height: 3111
-        isCached: true
   - title: "10 Best AI Writing Tools 2023"
     excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
     publishedDateTime: 2023-10-05T22:23:00Z
@@ -70,47 +42,29 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
-  - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
-    excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
-    publishedDateTime: 2023-10-06T13:54:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/06/2-stock-split-artificial-intelligence-ai-stocks-to/"
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 58
-  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Hedge Funds"
-    excerpt: "In this article, we will take a glance at the five best artificial intelligence (AI) stocks to acquire according to hedge funds."
-    publishedDateTime: 2023-10-06T18:02:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-hedge-funds-2-1197508/"
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 50
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/11074438/kaleidico-3V8xo5Gbusk-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
         isCached: true
-  - title: "3 ways to secure the best AI partner for your business"
-    excerpt: "Here's how to sort the wheat from the chaff and uncover an IT partner that can help your organization make the most of AI technology."
-    publishedDateTime: 2023-10-05T18:38:00Z
-    webUrl: "https://www.zdnet.com/article/3-ways-to-find-a-great-ai-partner-for-your-enterprise/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
-    publishedDateTime: 2023-10-08T23:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
     excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
     publishedDateTime: 2023-10-09T13:43:00Z
@@ -125,15 +79,20 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy Now and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already transforming huge portions of the global economy and it's only really just getting started in those efforts. As AI is incorporated into companies' operations to boost productivity and slash costs, it should also ..."
-    publishedDateTime: 2023-10-09T03:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CRWD-Q/pressreleases/20891818/3-artificial-intelligence-ai-stocks-to-buy-now-and-hold-for-the-next-decade/"
+  - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
+    excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
+    publishedDateTime: 2023-10-05T16:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/5/ftc-probing-artificial-intelligence-tools-eyeing-p/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 37
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/08/10/Election_2024_Artificial_Intelligence_70000_c0-246-5908-3692_s1200x700.jpg?574e1805b88ac814ff041f1a4a4a1d72545b0d17"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "lqQ+Hcg8NOG5/a5rj/zxLG/ZC3j7zWBn/B1Dvlxo1FH373kc/nsrB+RI2tS+QUTWxWmUP09GoUjdyHpB4U5lz2Y9/3d3aC4X/34qGLsHOYNYFrZIpqCeWHjXeSoYDMfVR7RKY3qIQo6VRk+dkhcqJAszViQqcSXeZYHPlcpdNfDNUbgleJ8gnHjJrY0IL0CHb4yXDyQGH8wiRqCnEG158nvV6pNY7zDzsyX4DYQHlscBlmOlj3USTR1ZHJnLx+HC9Xy3X7RtnuJHldZBi9a7REgj27aDmeeD325eBwlnOTITtf0TelgO3/OQ4ADoZAtyosHN/Pcycezpgi9Yslvmt+4YTW7Rhd0DE0JX9KX7M1lF6675JINjsNbhzImmzlcFmZPNAymxbPQvn6EZJGXEleKPmKaD8iPii/JyrbQoAlauxM1TSkojuDAHQLnryZyY8M686PKhRD9cn7LxA8wN0D7lZVL9l9EqReNNoNVL6TwOF9SQDZLG/xDYDVxzKvgLgzR7JSbp2iqkPG/bj31Yvw==;f+K7DjcFaHTV1UApT2Lrgg=="
 ---

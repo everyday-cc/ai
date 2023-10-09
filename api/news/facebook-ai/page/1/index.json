@@ -141,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-05-users-find-that-facebooks-new-ai-stickers-can-generate-elmo-with-a-knife.md",
+      "title": "Users find that Facebook’s new AI stickers can generate Elmo with a knife",
+      "excerpt": "Less than a week after Meta unveiled AI-generated stickers in its Facebook Messenger app, users are already abusing it to create awkward images of copyright-protected characters and sharing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
       "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
       "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
@@ -350,6 +402,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-30-would-you-ask-facebook-ai-snoop-dogg-for-frozen-yogurt-suggestions.md",
+      "title": "Would you ask Facebook AI Snoop Dogg for frozen yogurt suggestions?",
+      "excerpt": "Meta this week unveiled AI that lets you chat with virtual likenesses of celebrities. Real talk, would you text with Facebook AI Snoop Dogg about video games or frozen yogurt shops? Microsoft and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOCQHV6NEZDJRALBLIUSJZ6BV4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses.md",
       "title": "Meta unveils artificial intellgence assistant, Facebook-streaming glasses",
       "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
@@ -491,6 +586,58 @@
         "name": "Channel NewsAsia Singapore",
         "domain": "channelnewsasia.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-mark-zuckerberg-takes-the-stage-later-today-for-metas-annual-conference-get-ready-for-new-ai-chatbots.md",
+      "title": "Mark Zuckerberg takes the stage later today for Meta's annual conference. Get ready for new AI chatbots.",
+      "excerpt": "Meta released the next generation of its AI large language model and made the technology, known as Llama 2, free for research and commercial use. Much like tech peers Google and Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
+      "originalUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65144396eee46600193b980e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
+      "publishedDateTime": "2023-09-27T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1232,155 +1379,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-troubling-trend-of-woke-ai-is-a-big-threat-to-free-speech.md",
-      "title": "Troubling trend of woke AI is a big threat to free speech",
-      "excerpt": "The troubling trend of woke AI is a big threat to free speech. Big Tech’s AI is biased both by employees and the datasets it uses. Result endangers future of American ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
-      "originalUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07e0adc6-497f-4055-9c14-d3c3b47544ba/1261eb20-6365-4070-9874-dcf187ad6798/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/troubling-trend-woke-ai-threat-free-speech.amp",
-      "publishedDateTime": "2023-09-13T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-dreamforce-2023-supermums-aims-to-train-up-raft-of-women-ai-experts.md",
-      "title": "Dreamforce 2023 - Supermums aims to train up raft of women AI experts",
-      "excerpt": "Looking ahead, Supermums is ensuring it has training and provision across CRM, data and AI. It has appointed an instructor to deliver a CRM analytics course, and is just launching AI provision around that. The company is also looking at introducing training for MuleSoft and Tableau.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts",
-      "originalUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-09/Screenshot%202023-09-09%20at%2009.15.04.png",
-          "width": 672,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/dreamforce-2023-supermums-aims-train-raft-women-ai-experts?amp",
-      "publishedDateTime": "2023-09-13T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-sas-martech-platform-integrates-with-generative-ai.md",
-      "title": "SAS' MarTech platform integrates with generative AI",
-      "excerpt": "New marketing assistant available to SAS Customer Intelligence 360 users enables use of generative AI modelsLAS VEGAS, Sept. 12, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-martech-platform-integrates-with-generative-ai-1032624653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-martech-platform-integrates-with-generative-ai-1032624653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2207270/SAS_newswire_couple_computer.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

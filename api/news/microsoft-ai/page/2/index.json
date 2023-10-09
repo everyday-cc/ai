@@ -364,6 +364,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-infosys-microsoft-to-jointly-develop-genai-solutions.md",
+      "title": "Infosys, Microsoft to jointly develop GenAI solutions",
+      "excerpt": "Infosys partners with Microsoft for new AI solutions. Infosys, India’s second-largest IT services exporter, is collaborating with Microsoft to jointly develop industry-leading s",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
+      "originalUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/120/220356402d6d11e9aa979329348d4c3e/exp-24-1695740487293.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-partnerss-with-microsoft-for-generative-ai.md",
       "title": "Infosys Partnerss With Microsoft For Generative AI",
       "excerpt": "This collaboration leverages Infosys Topaz and Microsoft's AI services to advance the shift to AI from digital.",
@@ -822,19 +865,19 @@
     {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
       "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Through the collaboration with Microsoft, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, in order to help enterprise customers transition ...",
+      "excerpt": "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced that it",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook",
+          "width": 1997,
+          "height": 1047,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -842,13 +885,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34897804",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34897804",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-26T03:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1290,40 +1333,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog.md",
-      "title": "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready … – NVIDIA Blog",
-      "excerpt": "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/717055/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
-      "originalUrl": "https://www.inferse.com/717055/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-nvidia-blog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

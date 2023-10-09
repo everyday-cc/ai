@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Evolution of AI in Consumer Electronics: 2023 Insights"
+    excerpt: "In the rapidly evolving landscape of consumer electronics, artificial intelligence (AI) has emerged as a transformative force, revolutionizing the way we interact with our devices. As we step into the year 2023,"
+    publishedDateTime: 2023-10-09T15:49:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-ai-in-consumer-electronics-2023-insights/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Untitled-design-2023-10-09T164846.855.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "The Rise of Autonomous Vehicles: Key Electronics Trends for 2023"
     excerpt: "The automotive industry has been undergoing a seismic shift in recent years with the emergence and rapid development of autonomous vehicles. These self-driving cars have the potential to revolutionize transportation by increasing safety,"
     publishedDateTime: 2023-10-08T13:33:00Z

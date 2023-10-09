@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-10-modernizing-the-mainframeibm-introduces-watsonx-code-assistant-for-z.md",
+      "title": "Modernizing the Mainframe—IBM Introduces Watsonx Code Assistant for Z",
+      "excerpt": "The new watsonx Code Assistant for Z is a generative AI-assisted product designed to enable faster translation of COBOL to Java on IBM Z, saving developers time and enhancing their productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/it-management/modernizing-the-mainframe-ibm-introduces-watsonx-code-assistant-for-z/",
+      "originalUrl": "https://www.eweek.com/it-management/modernizing-the-mainframe-ibm-introduces-watsonx-code-assistant-for-z/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231003-modernizing-the-mainframe-ibm-introduces-watsonx-code-assistant-for-z.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
       "title": "Artificial intelligence and a new era of human resources",
       "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
@@ -1277,48 +1329,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-18T06:44:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing.md",
-      "title": "IBM Connected Trade Platform helps power the digitization of trade and supply chain financing",
-      "excerpt": "As organizations strive to optimize trade and supply finance processes, now is the time to embrace digitization to transact faster and more efficiently.\nThe post IBM Connected Trade Platform helps power the digitization of trade and supply chain financing appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T06:43:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -47,6 +47,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s where more than half of organizations are piloting generative AI"
+    excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
+    publishedDateTime: 2023-10-09T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstockdc-studio-100946840-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "More than half of organisations are putting generative AI to work"
+    excerpt: "Gartner advises organisations to have a strategy for AI trust, risk and security management as they increasingly adopt AI."
+    publishedDateTime: 2023-10-05T03:00:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
 
 secured: "xy3ShoajFFjrp7ev4jlX7G98DWaANV+gIKq0IKwd4wgHv6o1Zbg8/RPhd2nnrrQFeFkllBmCFbxV/Nrk4Gf7JVr0cK4fuErEevkLp8j2P/yKcrY6SNGDX7N/BmlqSbCHuV8voZ/eDeMlncgZsHSZH7zCv635ajwhnIW1om4bp5CAlW7DKWH7c9GepEvOfQCszQL+llsW+w1nqNGjt8Xs5iSGTrujhDWHrufUZ9KG7qpNYWMHlrBv484N91rcxaZBDQARP6J9MDHiIYYG3r/jC6YfVGkI5ac9Q0xrS856goim4Hda8Y2CcAq6EOpHEt5c7dlrixR+Q8rJKPLDfutpxwkO5mbCq/H/Rr6cSJVMtUUUO75dH893/KuhseMDNkkvbMK+6BQiBzieN1tE8HVXY7mfvyDZwLrBVPmeFwuM75YJtNHX8uMfBUcj/syRq0W3Rvm8yxyYL4pEnBDjVPRO+ZaC1gI4x4caIkae7XrkLiv1PGhtOl1LlNwOe4Vik1XP7m0fNH9ot6aDtK23sZZ/Rw==;+/+cLLwu1/yue0K0DWWyKw=="
 ---

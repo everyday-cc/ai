@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-black-man-files-lawsuit-over-misuse-of-ai-facial-recognition.md",
+      "title": "Black man files lawsuit over misuse of AI facial recognition",
+      "excerpt": "Black man files lawsuit against Atlanta area police in Dekalb County over arrest stemming from the misuse of AI facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/",
+      "originalUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2023/10/16968606202042.jpg?strip=all&quality=80",
+          "width": 726,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/",
+      "publishedDateTime": "2023-10-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
       "title": "Google claims their AI innovation far beyond rivals",
       "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
@@ -129,6 +173,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-10-best-ai-writing-tools-2023.md",
+      "title": "10 Best AI Writing Tools 2023",
+      "excerpt": "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1322,92 +1418,6 @@
         "name": "Incubators",
         "domain": "socaltech.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-speech-recognition-software-market-forecast-2024key-features-2031.md",
-      "title": "Speech Recognition Software Market Forecast 2024|Key Features 2031",
-      "excerpt": "Global \"Speech Recognition Software Market\" report identifies crucial segments and dynamics, categorizing information to enhance investor comprehension with |115 pages Latest Report| Information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34869779",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34869779",
-      "publishedDateTime": "2023-09-25T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages.md",
-      "title": "Spotify Uses AI Voice Cloning to Translate Podcasts Into Other Languages",
-      "excerpt": "The tech retains an English-speaking host's voice and style and translates their podcasts into Spanish, French, and German. Look for it on shows from Dax Shepard, Bill Simmons, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "originalUrl": "https://www.pcmag.com/news/spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03jBQZi1jbvflYpJbWgyjCg-1.fit_lim.size_1200x630.v1695652153.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

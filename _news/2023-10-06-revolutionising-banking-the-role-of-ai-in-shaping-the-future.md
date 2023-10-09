@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "Gw0iXAgPhLIegEpt+dSOoCQ/PGk/SttoWgLlhsYyNxcm5e6Ybk7HqiaE0XyJv/KJ1wxbO5cCTri9k6GxztieLeaHYNGaqJRRidREJn/OX9Huw6o5vg1S+7vkz134EfqHDODRWamUvY79ETGLhJjDJAJNUdTOgs7qcYMIVzZDPgF/geEIUQNagGrGdqc/SS76FD0PCCf1UopyN7yRmSFILpistUpB+Klsy17Sn+LonFDKgcOt/soQkwI6XXB1/bGw+qrPm1KkuP9LGqtPgyToov6k6GVQijHovWKBBMmng50EHwqy5OuNgHzPLKkETWxmgJ2K2RKqPt6iAQDmjO1VuR5Ebl33nO5mIfJyluuRI+g=;OB7bA9egSsXY1KQ66yQq0Q=="
 ---

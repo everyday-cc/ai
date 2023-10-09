@@ -33,6 +33,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The Evolution of AI in Consumer Electronics: 2023 Insights"
+    excerpt: "In the rapidly evolving landscape of consumer electronics, artificial intelligence (AI) has emerged as a transformative force, revolutionizing the way we interact with our devices. As we step into the year 2023,"
+    publishedDateTime: 2023-10-09T15:49:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-ai-in-consumer-electronics-2023-insights/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Untitled-design-2023-10-09T164846.855.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "IlcgMiExBYIqzn0S+dHQNkL+H/FyuA/3XArKlnsq1VucnlIOlZcOrWyG1ejO+aqw1rrfIUEF8lMn6Dx0addKGunWabCVYIcDnp1o+sne+OA/YCY6QLt6p1MzGgIRQewlp8iT6RQ3rMlT3RkeCWCqLTyouwaARW1pv2oudkhNqXAjjmQp0pBIVOijDwURNu1eQ9bVVDqsSkALVDiV9ePY30Cg3ylwIiYK/LxByWoNmlNKaYAAw7/nMBOFzEoeebMJrReYE8E8azFdSsqVDy3J9vjrXbQDKakQMl1Hk9J9sen0MmeQog4Vs4nVofbOnnV5l7rKlfiArrcjeLXup9hqD8InLp7hwKv8yPiOVt3VZLTi/u28Wf47lGZrOH+99b1oHnpw6dJqEV95IgVXf/IVwELGqPWLp2Q63kgwiRLNECaLfGtxYmifY4uisXlWNS77wHuALEhpMRDCvC8D5RGe3SncUPu2gc//7A03Vbe68jigGHl5MabpITVuTnyP8aej/WjR5W3w0EuZlAjlAC4BVw==;bfaXqzCHEoIxKQOv7gKWqg=="
 ---

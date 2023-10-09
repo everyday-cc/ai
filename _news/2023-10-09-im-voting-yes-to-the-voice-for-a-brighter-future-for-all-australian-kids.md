@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -31,31 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire"
-    excerpt: "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ..."
-    publishedDateTime: 2023-10-04T23:15:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/"
+  - title: "More than 70 university law professors say Voice 'not constitutionally risky' in letter to Australian public"
+    excerpt: "Dozens of constitutional and public law teachers from across the country have signed a letter in a bid to tackle \"misunderstandings and misconceptions\" about the Voice to Parliament."
+    publishedDateTime: 2023-10-05T23:19:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-06/open-letter-constitutional-law-university-voice-to-parliament/102937352"
+    ampWebUrl: "https://amp.abc.net.au/article/102937352"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102937352"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 50
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 25
     images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023"
-        width: 1200
-        height: 600
+      - url: "https://live-production.wcms.abc-cdn.net.au/62dab7690b8df7fca27b1b66dd42f541?impolicy=wcms_crop_resize&cropH=1365&cropW=2048&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
         isCached: true
-  - title: "Swedish artist takes out Australia’s inaugural AI art prize"
-    excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."
-    publishedDateTime: 2023-10-08T08:59:00Z
-    webUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1"
-    ampWebUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Voice referendum: Indigenous rights vote is a reckoning for Australia"
     excerpt: "Yet in national surveys, support is nosediving. The No campaign says that if the Voice is voted down, it shouldn't be seen as an end to the struggle for Indigenous constitutional recognition. Its messaging though, has been split, with arguments surfacing ..."
     publishedDateTime: 2023-10-05T04:08:00Z

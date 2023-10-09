@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-13-corporate-australias-support-for-indigenous-voice-fails-to-win-over-public.md",
+      "title": "Corporate Australia’s support for Indigenous Voice fails to win over public",
+      "excerpt": "Australian businesses’ support for the Voice is doing little to boost the flagging fortunes of the ‘yes’ campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat",
+      "originalUrl": "https://www.aljazeera.com/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2023/09/GettyImages-1632671710-1694568922.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2023/9/13/corporate-australia-backed-a-voice-on-indigenous-rights-it-now-faces-defeat",
+      "publishedDateTime": "2023-09-12T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-natural-language-processing-for-finance-market-share-report-2023-2030.md",
+      "title": "Natural Language Processing for Finance Market Share Report 2023-2030",
+      "excerpt": "The Global Natural Language Processing for Finance market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34515154",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34515154",
+      "publishedDateTime": "2023-09-12T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-unlocking-language-barriers-translate-application-logs-with-amazon-translate-for-seamless-support.md",
       "title": "Unlocking language barriers: Translate application logs with Amazon Translate for seamless support",
       "excerpt": "This post addresses the challenge faced by developers and support teams when application logs are presented in languages other than English, making it difficult for them to debug and provide support. The proposed solution uses Amazon Translate to automatically translate non-English logs in CloudWatch,",
@@ -1329,94 +1416,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-03-bridging-the-human-ai-coexistence-ethical-landscape.md",
-      "title": "Bridging the human-AI coexistence ethical landscape",
-      "excerpt": "Language translation: AI language translation services can help humans communicate across language barriers, but they still require human oversight to ensure accuracy and cultural sensitivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design209.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-bridging-the-human-ai-coexistence-ethical-landscape-3230866/lite/",
-      "publishedDateTime": "2023-09-02T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-03-how-apple-is-already-using-machine-learning-and-ai-in-ios.md",
-      "title": "How Apple is already using machine learning and AI in iOS",
-      "excerpt": "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence ... with the launch of iOS 17.1. Apple will improve dictation and language translation with machine learning as well. Machine learning is also present ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios",
-      "originalUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/",
-      "publishedDateTime": "2023-09-02T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

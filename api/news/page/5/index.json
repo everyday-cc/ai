@@ -2,6 +2,371 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-05-are-ai-powered-virtual-bands-the-future-of-k-pop.md",
+      "title": "Are AI-powered virtual bands the future of K-pop?",
+      "excerpt": "K-Pop girl bands Eternity and Mave's videos have racked up millions of views. None of these singers are real. CNN's Ivan Watson has more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
+      "originalUrl": "https://www.cnn.com/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230822184145-ai-kpop-watson-pkg-intldsk-00004211.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
+      "publishedDateTime": "2023-10-04T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-why-your-ceo-needs-an-ai-education-now.md",
+      "title": "Why Your CEO Needs An AI Education — Now",
+      "excerpt": "CEOs, CFOs, CHROs, and COOs should also become well-versed in the power and potential of AI, Sohigian adds. “They can provide comprehensive thinking around employee experience, business agility, privacy and security, and openness through integration and extensibility.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651df2b8214ddd9eb4621a70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "publishedDateTime": "2023-10-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-insight-in-australias-outback-indigenous-voice-proposal-struggles-to-inspire.md",
+      "title": "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire",
+      "excerpt": "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far.md",
+      "title": "Arc browser is offering the most truly helpful spin on AI I've seen so far",
+      "excerpt": "Arc browser decided it was time to throw its hat into the AI ring but opted to go a much different route than most browsers and it should pay off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "originalUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a7643cbe6ce5794abb138e6ad77042c891efc74/2023/10/04/0f7f87bc-106f-4f18-aa27-c04b19bd5404/gettyimages-1333147307.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
+      "publishedDateTime": "2023-10-04T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-users-find-that-facebooks-new-ai-stickers-can-generate-elmo-with-a-knife.md",
+      "title": "Users find that Facebook’s new AI stickers can generate Elmo with a knife",
+      "excerpt": "Less than a week after Meta unveiled AI-generated stickers in its Facebook Messenger app, users are already abusing it to create awkward images of copyright-protected characters and sharing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
+      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
+      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "publishedDateTime": "2023-10-04T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
       "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
       "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
@@ -867,348 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-not-all-algorithms-are-ai-part-2-the-rise-of-real-ai.md",
-      "title": "Not All Algorithms Are AI (Part 2): The Rise Of Real AI",
-      "excerpt": "Instead of the fixed statistics of deep learning, the probability in generative AI changes as the context changes. This is an even deeper form of human mimicry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/not-all-algorithms-are-ai-part-2-the-rise-of-real-ai/amp/",
-      "publishedDateTime": "2023-10-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-metas-ai-stickers-are-here-and-already-causing-controversy.md",
-      "title": "Meta’s AI stickers are here and already causing controversy",
-      "excerpt": "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
-      "originalUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
-      "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
-      "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c09e514a6169a0c341388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-how-shaq-and-william-became-early-investors-in-the-ai-boom.md",
-      "title": "How Shaq And Will.i.am Became Early Investors In The AI Boom",
-      "excerpt": "Google, ChatGPT-maker Open AI, Anthropic, Runway, Inflection AI and Hugging Face are just a few of the investments Shaq & Will.i.am have made as they bet on an AI future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650267b9e67a47ad659fe77b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "publishedDateTime": "2023-10-04T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
-      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
-      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "publishedDateTime": "2023-10-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fintech-startup-dpdzero-raises-325-million-in-seed-funding-led-by-blume-ventures.md",
-      "title": "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures",
-      "excerpt": "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "originalUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "publishedDateTime": "2023-10-03T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
-      "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
-      "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651d0310ebb3a26f024bea02/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-03T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

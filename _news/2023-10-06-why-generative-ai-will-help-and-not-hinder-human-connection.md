@@ -22,61 +22,63 @@ topics:
   - AI
 
 related:
-  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
-    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
-    publishedDateTime: 2023-10-06T16:26:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
+  - title: "Google Home will get a generative AI boost, too"
+    excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
+    publishedDateTime: 2023-10-06T09:50:00Z
+    webUrl: "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
-        width: 1183
-        height: 630
-        isCached: true
-  - title: "Here’s where more than half of organizations are piloting generative AI"
-    excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
-    publishedDateTime: 2023-10-09T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstockdc-studio-100946840-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "More than half of organisations are putting generative AI to work"
-    excerpt: "Gartner advises organisations to have a strategy for AI trust, risk and security management as they increasingly adopt AI."
-    publishedDateTime: 2023-10-05T03:00:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/more-half-organisations-are-putting-generative-ai-work"
+  - title: "How knowledge graphs improve generative AI"
+    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
+    publishedDateTime: 2023-10-09T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
-  - title: "Processor and Software Innovations Empower Edge AI Applications"
-    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
-    publishedDateTime: 2023-10-09T14:36:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
+  - title: "Zoom chucks generative AI everywhere in product blitz"
+    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
+    publishedDateTime: 2023-10-05T10:36:00Z
+    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
+    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
+        width: 1844
+        height: 1246
+        isCached: true
+  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
+    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
+    publishedDateTime: 2023-10-07T13:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
   - title: "Addressing the Abuses of Generative AI in the Legal Profession"
     excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
     publishedDateTime: 2023-10-09T13:17:00Z

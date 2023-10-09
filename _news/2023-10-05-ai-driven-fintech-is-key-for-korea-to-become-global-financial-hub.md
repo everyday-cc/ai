@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future"
-    excerpt: "One of the most significant ways AI is transforming the fintech industry is through personalised financial services"
-    publishedDateTime: 2023-10-05T00:55:00Z
-    webUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805"
-    ampWebUrl: "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
-    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp"
-    type: article
-    provider:
-      name: abp LIVE
-      domain: abplive.com
-    quality: 74
-    images:
-      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform"
     excerpt: "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility."
     publishedDateTime: 2023-10-06T02:29:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Raleigh based AI startup closes on $7.5M in new financing"
+    excerpt: "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020."
+    publishedDateTime: 2023-10-05T17:45:00Z
+    webUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/aampe-e1696527952618.png"
+        width: 477
+        height: 306
         isCached: true
   - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
     excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
@@ -75,61 +75,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 Open Banking platforms accelerating FinTech growth in Middle East"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-05T10:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
+  - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
+    excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
+    publishedDateTime: 2023-10-05T15:07:00Z
+    webUrl: "https://fintechmagazine.com/articles/ai-powered-ap-automation-fintech-stampli-gets-60m-in-funds"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
-        width: 2560
-        height: 1362
-        isCached: true
-  - title: "4 Open Banking platforms accelerating FinTech growth in Middle East"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-05T13:58:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
-        width: 2560
-        height: 1362
-        isCached: true
-  - title: "How Astronomers Are Using AI to Finally Find ET"
-    excerpt: "SETI typically involves astronomers pointing powerful radio receivers at a distant star and recording the resulting electromagnetic noise. The goal is to find, inside the noise, any broadcasts that might come from an alien civilization."
-    publishedDateTime: 2023-10-07T01:09:00Z
-    webUrl: "https://www.thedailybeast.com/how-seti-astronomers-are-using-ai-to-finally-find-et"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1696609972/231007-Axe-AI-Aliens-tease_vybrqg"
-        width: 1480
-        height: 832
-        isCached: true
-  - title: "Forbes Cyprus to host Future of Fintech Summit 2023"
-    excerpt: "With technologies such as AI and blockchain reimagining investment strategies ... all revolutionising the way we conduct transactions. Fintech in Everywhere: Explore how fintech permeates diverse sectors, from gaming to the creator economy, and ..."
-    publishedDateTime: 2023-10-05T07:53:00Z
-    webUrl: "https://cyprus-mail.com/2023/10/05/forbes-cyprus-to-host-future-of-fintech-summit-2023/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 24
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/10/TFOFS_Cover.png"
-        width: 1920
-        height: 1080
+      - url: "https://assets.bizclikmedia.net/1200/51c2ca8e33a492b66d9d514236202d0f:e9a329251a0dd808ab62ce9cd73ef70d/stampli-closes-its-series-d.png.jpg"
+        width: 1200
+        height: 629
         isCached: true
   - title: "Car financing fintech Lendbuzz gets $345m funding boost"
     excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
@@ -145,24 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
-    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
-    publishedDateTime: 2023-10-09T13:30:00Z
-    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
+  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
+    excerpt: "Boca Raton, FL, Oct. 05, 2023 (GLOBE NEWSWIRE) -- Janover Inc. (Nasdaq: JNVR) (“Janover” or the “Company”), an AI-enabled B2B fintech marketplace connecting commercial property borrowers ..."
+    publishedDateTime: 2023-10-05T14:19:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 8
-  - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
-    excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
-    publishedDateTime: 2023-10-09T11:54:00Z
-    webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 4
+      name: Morningstar
+      domain: morningstar.com
+    quality: 19
 
 secured: "YEsWmHCqRo3PmOB+EWpt0CBGXgn3WU08JJzizOb3O/91Gr8lbfTkD3wziTU1WjT2spNhPdJnOMDJwBCzSDufOcYZ0m7NgGwUXYiESKz80IR4ZnBJwUXG7kBKGmd5CNiI/NZ1FSLqsT4YnOG1dlh60aOIpNpgo9KnOyUzfLFaKfclDOyAR7A9hW4sk3y09doiXtzvc10uwhDlvoZElo8mhAosuztjVul26eqJZWs5wXTZaG0Fn80fD69baSPWqgZzCf3PGbPutzh8zCndg3XYT0nvz8PanhjR1EQzp85XliDkFGHg6BIGgq6VdZn0VIK08P8xegNbLF6kOOypw8WoY2ukEUOwOON+Ne2rWGhwYfB/kCe8sFWF9MBf9ApSA5CmYob6eM0lqme05TimttNaLTAS8piRXIjtUu6AqOCV+GcAkyd7Tdyh3CqyyV2iYGbZjSjbLFvmAwSml/2egIniHukYV48G7+dHQ9ck2l7XM+eZr4g4HFTFHSSw4K8ofWSjKRUPiyYyA6pmtCmj7m5X2g==;zZOB061kTIg9fgPBzk4irw=="
 ---

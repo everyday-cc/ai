@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI"
-excerpt: "Through the collaboration with Microsoft, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, in order to help enterprise customers transition ..."
+excerpt: "Infosys (NSE: INFY), (BSE: INFY), (NYSE: INFY), a global leader in next-generation digital services and consulting, today announced that it"
 publishedDateTime: 2023-09-26T10:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera"
-webUrl: "https://www.benzinga.com/pressreleases/23/09/n34897804/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-genera"
-ampWebUrl: "https://www.benzinga.com/amp/content/34897804"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34897804"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai-301938706.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/633365/Infosys_Logo.jpg?p=facebook"
+    width: 1997
+    height: 1047
     isCached: true
 
-secured: "yfhaNTqf+VnH7C6Yd59ktXBAfTKFNaluclRNt5vGXysm/sbnkTJHm9bSlAxXmut8bu3IHzJ9PR2oEjYaqb/DBw1M0fWDyLwnpoMPi60wM7+9v5pFmPxc/lRwWIK3nKnuTCqsqSDXNU8wX1QrBfFz1VRBnOoewHArpeMTAgC1f+tdQJJYKARAbkAIy+GVPyIdOQmvj5Hk5bS6g9Yud34JzoT0TpM34p8EVWWaAuJSB7u9iXaN5N8nhfaa1md8xvlF2v7xE5C2o0O+KEhJl9OnFB2RB1+EI4b8o18VFWM/9WPx5FYKrqs/7EH52e3/McEirEz+GKPBssEoxwJFLImcg2LvV4nFroGnEnO0egvYIds=;lP61OTX71bQH/zKBWuqygg=="
+secured: "5ReG0Dl/nN2qIxtPDObNQ0DMRNdmTd5Xs+Dxvfxb6aCvPqN1DpidPvH7x6nXKPr+t1kVGwxRPEk4fnyc/lDYoQxwsfKqG434ZvDGnmydyNQG54GztlLXKefVEqXk7nVzsBGi2jEtJri+/HlGKFlIeIst1X5afsid6eSS7CPBgVIANnRuZ3o3dW0UvVwAr4sS5HVUatbO8WpNXUXwCRd0iETJsimIx38djAi/68zRF6yCz5X2Db8gkeYxtQgM7D8WYXp3hW5HPrW8Ay1SqreC75jxmGsgE9whbxkjx+ylZ/XUvdn8WIUvvO1Ulg2FEXth+PEaScXH2JSXqx70EXxHz4SWk8Abh2lAcsW3df2RPdU=;mQaTdE1K/PYGZBmfvkndtQ=="
 ---
 

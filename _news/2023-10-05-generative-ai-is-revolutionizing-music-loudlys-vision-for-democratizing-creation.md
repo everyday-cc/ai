@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
         width: 799
         height: 533
+        isCached: true
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "kOHGGmmtvnk7RWWnnA1Xj/41eQpfgadorxc4s6fQ318ZxF5Lfcu4Pq80CR8UPPX43o/OJZEwL1CNC/nsoFUo1ltBvApVDhfJtDn0YlcEmXAm6kkxDTLwHEEwlySiq4iDNvt0N5hTYuVnXilh52TErEywTn+kPp6VyN9FErmxaZwa8AxEfvlYh99OZlo1oPjgrD9Ldi9/R6/yzLxBI+cfMXk55PAFEWwSxjfpUbPXQgCAKX3Txv/lkTc4YOu0DgHeargKxDRW/BgYGYq64Aj5fOlkPl9RDwrmrv3+Y4e5vO35LyW8JD/MpJAcOW9/aCBpRcpKBYkpKl2OxlIafz69fpMdjwGPiyfpNiFGKNnASBRvSJA9dWrUTemMUXOZQqkvaZiWVYqlmJinK/hXjehnF9FXsNchyH4+SKEZhSLX5Cbn1kTcwULgl/TWik0+m9HhXYlnP2sFNLrmr/aw0jfEd8AMx/8QbtdF5iFICNFLv4Mw/+dcaiPM4yl31ZLes3PZ4oKixq591XKDFncDHkjSpQ==;kKfHyRIkPvbjSr4zoVi39Q=="

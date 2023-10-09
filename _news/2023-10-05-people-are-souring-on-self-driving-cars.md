@@ -1,27 +1,27 @@
 ---
 category: news
-title: "People Are Souring On Self-Driving Cars"
-excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-publishedDateTime: 2023-10-04T20:01:00Z
-originalUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
+title: "People Are Souring on Self-Driving Cars"
+excerpt: "The U.S. public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J.D. Power and MIT. The growing distrust applies to self-driving ..."
+publishedDateTime: 2023-10-05T12:31:00Z
+originalUrl: "https://gizmodo.com.au/2023/10/people-are-souring-on-self-driving-cars/"
+webUrl: "https://gizmodo.com.au/2023/10/people-are-souring-on-self-driving-cars/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Jalopnik
-  domain: jalopnik.com
+  name: gizmodo
+  domain: gizmodo.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-    width: 1200
-    height: 675
+  - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/3749901aa3359f0f844363550c274978.jpg?quality=75"
+    width: 3999
+    height: 2249
     isCached: true
 
 related:
@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Maybe People Don't Want Self-Driving Cars After All"
-    excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
-    publishedDateTime: 2023-10-04T20:01:00Z
-    webUrl: "https://jalopnik.com/people-are-souring-on-self-driving-cars-1850899836"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3749901aa3359f0f844363550c274978.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
     excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
     publishedDateTime: 2023-10-08T04:00:00Z
@@ -98,6 +84,6 @@ related:
         height: 631
         isCached: true
 
-secured: "OHsJmPUCVBXIXQ9pNGRKUgbg7nGvGLi9yet1u7RMAGD7ejsVTFWfoW4P+EDRnbnEPQweDeovgmYQRY3RZH6CPEYOlkmm1KQ6bA4btIggvGn707S4GMGfw37LDuLF0Wq1T1zpNpfeNsEgi/lM+uQAVY+NfiIkqV2aLNjlBvRg8Nlj2Da6VVdrOBDzGzIRYCjK3iU8r4L4QLlUQ3LmTl8cFIuxWbIOaGzhhhoPqzo+dTzpSFP4pJgDAlPUfgiyI4FYqfRgOhcWCIsDwsGRo9B7tpcU3Lf7c1LQ81W517vOEblXM6P4hMecIXhNo0lE6R3a6dPqZnXBYz4E+2NktttBUUY/agTBV204BKNom2zb0AWyHRxWmb2obGi61yaCJ60cRpR4TxCkb+V/k9YzIdCRlTLRsg7ZgliHNNW1/ZDtvjlKRUoFTn6GKJlJ9RmIwP36A4/rBgHx6Ui9t6qLUhjDJt+GjS8jKHgQ1c9WXt6fyrZ9DydeUMYck/YWxJNdMXlkjfoR0LS19chXkpv5RouQag==;XgNIvLpZPTeOCDiSkKDyPw=="
+secured: "/3JFHp7pPDZ/TtAm+oMqVcLX3K6h5Kspa8jyx8kqy2IDXgNGpXgj1r6Ka1mUEau9FHQDQ2lKfF/va/VqK/LOT4kqHTnpfV+XrslyeW++/BqKuOn61lFCI8Qp/HuRbNbFmU5Tn7ZJ7a5y28K/MXPXs9TDxAZ5nJcqlRDGcQAgytRioEi8fiBRXeDiZ/6wfRWcs7SCvwwpq7j2nTw80LEFWzA5UENqsuJwR/5VtOksvzfQ2fLk7+8ttzhSeuElXGvYpKq74ykiGqSbBNUd3RAFauttkN2zo+jmFbPRFZUvgQ2iIdnWRulbSwz/iGzx2q4+xhMCt2vyypnYuIUPvI1Ou5fIdnMu2wmFGwpZMRZeP0o=;RFiJ+Cn18d7s5KNTBV0lEQ=="
 ---
 

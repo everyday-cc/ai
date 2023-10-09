@@ -2,6 +2,550 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-08-15-the-looming-battle-over-where-generative-ai-systems-will-run.md",
+      "title": "The looming battle over where generative AI systems will run",
+      "excerpt": "Putting AI on cloud versus on-premises systems may seem like a simple decision, but it's much more complex (and potentially expensive).",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
+      "originalUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/ceo_cio_battle-100648302-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704611/the-looming-battle-over-where-generative-ai-systems-will-run.amp.html",
+      "publishedDateTime": "2023-08-15T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez.md",
+      "title": "Artificial Intelligence to help chartered accountants deliver high quality audits: ICAI Prez",
+      "excerpt": "We are working with our members to train and upskill them to have the best skill sets to understand AI, he said.Over the years, the accounting profession has moved from paper ledgers to calculators to computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2558861-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2558861-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_02_2023_17_30_51_7313876.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2558861-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2558861-artificial-intelligence-to-help-chartered-accountants-deliver-high-quality-audits-icai-prez?amp",
+      "publishedDateTime": "2023-08-15T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-7-low-code-platforms-embracing-ai.md",
+      "title": "7 low code platforms embracing AI",
+      "excerpt": "Many low-code and no-code development and RPA platforms now include AI capabilities, often using a version of GPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/29/18/article-2-image-1-100932907-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704792/7-low-code-platforms-embracing-ai.amp.html",
+      "publishedDateTime": "2023-08-15T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-random-noise-generation-in-tff.md",
+      "title": "Random noise generation in TFF",
+      "excerpt": "This tutorial will discuss the recommended best practices for random noise generation in TFF. Random noise generation is an important component of many privacy protection techniques in federated learning algorithms, e.g., differential privacy. Run the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/random_noise_generation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
+      "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
+      "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-artificial-intelligence-steps-in-to-assist-dementia-patients-with-high-tech-apparel.md",
+      "title": "Artificial intelligence steps in to assist dementia patients with high-tech apparel",
+      "excerpt": "Artificial intelligence platforms are revamping health care across many disciplines, including another U.K.-based system called CognoSpeak, which can monitor speech patterns in a bid to detect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-steps-assist-dementia-patients-high-tech-apparel-smartsocks",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-steps-assist-dementia-patients-high-tech-apparel-smartsocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-steps-assist-dementia-patients-high-tech-apparel-smartsocks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-steps-assist-dementia-patients-high-tech-apparel-smartsocks.amp",
+      "publishedDateTime": "2023-08-14T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-what-does-generative-ai-mean-for-websites-and-seo.md",
+      "title": "What Does Generative AI Mean For Websites And SEO?",
+      "excerpt": "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
+      "publishedDateTime": "2023-08-14T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
+      "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
+      "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "originalUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/image1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-microsoft-azure-awards-protiviti-specialisation-in-ai.md",
+      "title": "Microsoft Azure awards Protiviti specialisation in AI",
+      "excerpt": "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "originalUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
+      "publishedDateTime": "2023-08-14T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales.md",
+      "title": "Earnings preview: Can Nvidia amaze markets with its AI chip sales?",
+      "excerpt": "Nvidia is slated to report its second-quarter earnings after the US markets closing bell on 24 August (APAC time)",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Nvidia_GettyImages-902419310_1200px_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/earnings-preview-can-nvidia-amaze-markets-with-its-ai-chip-sales_amp",
+      "publishedDateTime": "2023-08-14T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-china-wants-to-regulate-its-artificial-intelligence-sector-without-crushing-it.md",
+      "title": "China Wants to Regulate Its Artificial Intelligence Sector Without Crushing It",
+      "excerpt": "Beijing issued 24 guidelines that require platform providers to register their services and conduct a security review before they’re brought to market.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6304831/china-ai-regulations/",
+      "originalUrl": "https://time.com/6304831/china-ai-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/08/AI-convention.jpg?quality&#x3D;85",
+          "width": 1024,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-exclusive-top-chinese-ev-maker-byd-opts-out-of-deal-to-use-baidus-autonomous-driving-technology-sources-say.md",
       "title": "exclusive | Top Chinese EV maker BYD opts out of deal to use Baidu’s autonomous driving technology, sources say",
       "excerpt": "Baidu said during its third-quarter results in November 2022 that one of China’s largest carmakers intended to use the Apollo technology suite, calling the partnership a sign of “increasing appetite for its self-driving solutions from automakers”.",
@@ -635,506 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-florida-high-schools-to-teach-ai-courses-developed-by-uf.md",
-      "title": "Florida High Schools to Teach AI Courses Developed by UF",
-      "excerpt": "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
-      "originalUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
-      "publishedDateTime": "2023-08-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
-      "title": "IBM unveils an analog AI chip that works like a human brain",
-      "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
-      "originalUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-the-new-york-times-prohibits-ai-vendors-from-devouring-its-content.md",
-      "title": "The New York Times prohibits AI vendors from devouring its content",
-      "excerpt": "The New York Times updated its terms of service (TOS) to prohibit scraping its articles and images for AI training, reports Adweek. The move comes at a time when tech companies have continued to monetize AI language apps such as ChatGPT and Google Bard,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
-      "publishedDateTime": "2023-08-14T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
-      "title": "AWS cloud migration with IBM Turbonomic",
-      "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
-      "originalUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-2.20.20-PM.png",
-          "width": 2312,
-          "height": 1076,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T09:12:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million in 2022 and is expected to expand at a CAGR of 28.6 Percentage during the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33843456",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33843456",
-      "publishedDateTime": "2023-08-14T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
-      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
-      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
-      "publishedDateTime": "2023-08-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Detroit Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
-      "excerpt": "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry.md",
-      "title": "AI startup Anthropic gets $100M to build custom LLM for telecom industry",
-      "excerpt": "AI startup Anthropic with its \"constitutional AI\" approach has raised $100 million from Korean telecom major SK Telecom to build custom LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1323198492-e1653330450993.jpg?fit=750%2C493&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-uk-allocates-13m-to-boost-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "UK allocates £13m to boost use of artificial intelligence in healthcare",
-      "excerpt": "The government has allocated a £13m investment aimed at advancing research in the field of artificial intelligence (AI) within healthcare. The move, announced by Technology Secretary Michelle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html",
-      "originalUrl": "https://www.independent.co.uk/news/uk/home-news/uk-nhs-ai-healthcare-artificial-intelligence-b2390607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/08/10/00/0a48a35067bb751bb5abd6562da587f9Y29udGVudHNlYXJjaGFwaSwxNjkxNjc4NzY3-2.69139511.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-how-to-think-about-ai-a-guide-for-manufacturers.md",
-      "title": "How To Think About AI: A Guide For Manufacturers",
-      "excerpt": "The artificial intelligence revolution has arrived, and it’s here to stay. This long-awaited technology is entering a more mature—and more valuable—stage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "originalUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64da2b32ff720c51d2b1ea41/0x0.jpg?format=jpg&crop=4732,2661,x132,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2023/08/14/how-to-think-about-ai-a-guide-for-manufacturers/amp/",
-      "publishedDateTime": "2023-08-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs.md",
-      "title": "Research shows extensive use of AI contains data breaches faster and saves significant costs",
-      "excerpt": "Organizations today need new technologies and approaches to stay ahead of attackers and the latest threats.\nThe post Research shows extensive use of AI contains data breaches faster and saves significant costs appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/",
-      "originalUrl": "https://www.ibm.com/blog/research-shows-extensive-use-of-ai-contains-data-breaches-faster-and-saves-significant-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T06:27:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

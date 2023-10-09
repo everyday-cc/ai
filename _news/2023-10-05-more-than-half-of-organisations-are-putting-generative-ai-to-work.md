@@ -21,19 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
-    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
-    publishedDateTime: 2023-10-06T16:26:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
+  - title: "AI Is Not Your Enemy: Why Unfounded Fears Around AI Are Putting Organizations At Risk"
+    excerpt: "While it is important to acknowledge legitimate concerns surrounding AI, like safety, privacy and equitable access, it is equally crucial to recognize that extreme AI alarmists are inadvertently doing a disservice to society. They are turning people away from a transformative technology that could vastly benefit both industries and individuals."
+    publishedDateTime: 2023-10-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
-        width: 1183
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 639
+        isCached: true
+  - title: "AI is transforming organizations everywhere. How these 6 companies are leading the way"
+    excerpt: "From enhanced efficiency to public safety to life-changing treatments: dive deep into how companies like Ericsson, Abpro, and Hexagon are harnessing the power of AI, and even saving lives."
+    publishedDateTime: 2023-10-05T18:54:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-is-transforming-organizations-everywhere/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1eb8d00d427f9e1526620a3e83e993dc310082d3/2023/09/13/1e748f0f-8d48-4ffe-9574-7b71f77c6c8e/gettyimages-1447869082.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Here’s where more than half of organizations are piloting generative AI"
     excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
@@ -51,47 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
-    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
-    publishedDateTime: 2023-10-06T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Processor and Software Innovations Empower Edge AI Applications"
-    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
-    publishedDateTime: 2023-10-09T14:36:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
-    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
-    publishedDateTime: 2023-10-09T13:17:00Z
-    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
-  - title: "Coda bucks trend of additional charges for generative AI tools"
-    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
-    publishedDateTime: 2023-10-06T09:49:00Z
-    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "IHaqCUMgjCIozObzoiiuw+Esrmj9w99e7ctXXrSLtEynq0jvCTlIvx71J6qMrHL39hXc4r1xxtR9ow80bTIzmfCb3xBzHCEcBSPznVUl64v8hzLGmF4lxKBfCq4fmyeUs7YpSEorWjwCWjmskVp/5JL1LYsFbPg2RbaCGDp7KZpMYkOEr/4aY3xpU5fTATzD0kjPK/+Z9LqOWQNACUqCGoVtYleRHThsDflk7tTZeZARhu/PEVagqwYW8iOkanAUYZKT9EonSxgLx8GxS5FDg0DIbWks+phYGooygfeK6JFPu6Qs1YBvQ38hBN54nPLqM9nCRRz4xOZs5neHjN/p9StgN4jVWZ54HZuaCvsYbnwfpv8zV+tI7pFIElcTgBCOeUPBxddXvAnzK6ltLoUSeUX7QAYJJNf5kefQ8iD2oxl++7DkvB6EJ+gytpzAu0lFddT3cWBFGwWlAdAolBCWhYywpu1P5pDL5jaDJinX17uXq95BnpYTaiNpZgkCW+lODdNscsBB+Smup/otq0RL2A==;Xd8nWU+HiDrNsNSuq4DUoA=="
 ---

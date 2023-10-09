@@ -26,19 +26,74 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Predict the Future of Technology, AI & Humanity"
-    excerpt: "You probably don't want an AI lawyer anytime soon. that knows what the law is."
-    publishedDateTime: 2023-10-06T16:17:00Z
-    webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
+  - title: "10 Best AI Writing Tools 2023"
+    excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
+    publishedDateTime: 2023-10-05T22:23:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1696536493/wired_tech-support-w30-tech-support-compilation.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023"
+    excerpt: "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace."
+    publishedDateTime: 2023-10-05T15:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
+    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
+    publishedDateTime: 2023-10-05T12:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-06T11:27:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "FTC probing artificial intelligence tools, eyeing potential crackdown"
+    excerpt: "The Federal Trade Commission is scrutinizing artificial intelligence as the regulator known for its tussles with Big Tech looks to shape the development of new tools hitting the market. The potential for AI to turbocharge fraud, entrench the dominance of ..."
+    publishedDateTime: 2023-10-05T16:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/5/ftc-probing-artificial-intelligence-tools-eyeing-p/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 37
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/08/10/Election_2024_Artificial_Intelligence_70000_c0-246-5908-3692_s1200x700.jpg?574e1805b88ac814ff041f1a4a4a1d72545b0d17"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "9wz3QYn3WJFpbwWbqzRhBJW5XYt5/eohhWVlbd/xsu0MC7KvTcLtK2MRTUyHyh/dTxwX3SniAM4vmWeqr3L+ONfpMP8iNxa52t+sYQaxZQM0nhe37gHf3krKh6SvJHu1M63y9kddQ584IUFEfoIwBhWTB8VIi/dzdfkRrsxV+SMWIpKwfSNaFcimKoCLrGaKBN8PGvayPNeaFu/Eh6PWMKP1BFhM27Me4BHLjcbxVIv9e6RQLFQz7eR9hTH6farwaHCWKCZ7yK2AZwIVTzgK6L74jcBjQj6njnmfFLIRMHA30Zj22Z8a+eWKGVE3ctxKyzZm7ABBTPuoNOhd9aHGqtHgbj+11Lyy/FhzbhR0AWA=;Z6O5tuUalunWDX3hMXPI4g=="

@@ -77,20 +77,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Generation AI: Meta's many chatbots"
-    excerpt: "From why Mark Zuckerberg wants a chatbot that talks like Chloe Kim, to what former Apple designer Jony Ive could be cooking up, these are the week's big stories from the AI revolution. Kristy Kilburn reports."
-    publishedDateTime: 2023-10-04T23:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRW634102102023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RW634102102023RP1&r=RW634102102023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
     excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
     publishedDateTime: 2023-10-05T16:58:00Z

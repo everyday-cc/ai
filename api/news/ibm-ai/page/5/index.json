@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-09-ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform.md",
+      "title": "IBM Plans to Make Llama 2 Available within its Watsonx AI and Data Platform",
+      "excerpt": "ARMONK, N.Y., Aug. 9, 2023 /CNW/ -- As part of the continued roll-out of our enterprise-ready AI and data platform, watsonx, IBM IBM plans to host Meta's Llama 2-chat 70 billion parameter model in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33662604/ibm-plans-to-make-llama-2-available-within-its-watsonx-ai-and-data-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33662604",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33662604",
+      "publishedDateTime": "2023-08-09T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
       "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
       "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
@@ -1254,49 +1297,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ibm-report-finds-ai-and-automation-reduce-costs-of-data-breaches.md",
-      "title": "IBM Report Finds AI and Automation Reduce Costs of Data Breaches",
-      "excerpt": "A new report from IBM reveals that organizations using AI and automation are likely to suffer lower losses from data breaches.",
-      "sourceUrl": null,
-      "webUrl": "https://energycentral.com/c/iu/ibm-report-finds-ai-and-automation-reduce-costs-data-breaches",
-      "originalUrl": "https://energycentral.com/c/iu/ibm-report-finds-ai-and-automation-reduce-costs-data-breaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2023/7/1dreamstime_s_cyberhackerred83886192.jpg?itok=l_MkzwB-",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Energy Central",
-        "domain": "energycentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

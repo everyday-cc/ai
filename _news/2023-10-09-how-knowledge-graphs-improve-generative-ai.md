@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta introduces generative AI tools for advertisers to enhance content creation"
-    excerpt: "Meta Platforms, the parent company of Facebook and Instagram, announced on Wednesday that it is introducing generative artificial intelligence (AI) tools for advertisers."
-    publishedDateTime: 2023-10-04T23:45:00Z
-    webUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation"
-    ampWebUrl: "https://www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/meta-introduces-generative-ai-tools-advertisers-enhance-content-creation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59d0567a-fffd-460c-b9f6-d039427f3fbb/b751aebe-ece5-4a02-aa54-cde6a1913614/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Zoom chucks generative AI everywhere in product blitz"
     excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
     publishedDateTime: 2023-10-05T10:36:00Z
@@ -78,6 +62,15 @@ related:
         width: 1844
         height: 1246
         isCached: true
+  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
+    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
+    publishedDateTime: 2023-10-06T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
     excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
     publishedDateTime: 2023-10-07T13:19:00Z
@@ -87,20 +80,24 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
-  - title: "Google unveils Pixel 8 built for ‘the generative AI era’"
-    excerpt: "But inside, its new G3 Tensor chip unlocks an AI-powered world aimed at simplifying your life, from asking the device to summarize news articles and websites to using Google (GOOG) Assistant to field phone calls and tweaking photos to move or resize objects."
-    publishedDateTime: 2023-10-04T23:57:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2023/10/04/google-unveils-pixel-8-built-for-the-generative-ai-era/"
+  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
+    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
+    publishedDateTime: 2023-10-09T13:17:00Z
+    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2023/10/mN8bZ5et-slot0-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Coda bucks trend of additional charges for generative AI tools"
+    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
+    publishedDateTime: 2023-10-06T09:49:00Z
+    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "C/5zqxbVZeGzBBigW87rWGxURUGrtsNLTCt25wDsw7ubsC/w+SOeE41HVNsgMmy/YMvTSpPgBwzHzkATF+cO4oHyDhsYKXKoaBAfro23JfM2ANFDm2nLuUXbs900bechXX53mddOcpvii6k+lsT8oOKZ+jLrd8e+xxsRh8dQceGNQMx0PxfBYZp0k5s1EkJAtI0X8MULQq1+EacTMlAMMeoh3arat4K1rabcR8B/GqWqhBZPxRqoNAUmbiRZrTHyuQ7Ny2gAV9Mi0uwqlXMTCX4CCajcRmFRlSCDXqTVlvZOSlA+/HJYHxjB/jPaMw6wI328sU+7DvFmUVHCHYd0zPrFh4BOoXGKQHNuuebdG52bUXwf22U8OA0GThLYc5f4n/BhJ43Zl+2huN9Nuc6RFaHNAWg1sUSalOFrBlKwu918BU8ehONaircJd7HMCg6gcASnvuyRFrWsDR3JW0TsHHZuvBR9CLm7CFyeFNS/wJ24Ebc7y3xg8oK/OH16cHaC3iDE+vNn/RInQZ0wP3i6Cg==;1pCY6LyQBnBjdNIsJkf/Qg=="
 ---

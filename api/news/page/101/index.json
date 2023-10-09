@@ -2,6 +2,541 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-07-27-ai-vs-the-drive-through-customer.md",
+      "title": "AI vs. the Drive-Through Customer",
+      "excerpt": "One of the best places to see how artificial intelligence is affecting our lives and jobs may be at a fast-food drive-through. WSJ senior personal tech columnis",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/ai-vs-the-drive-through-customer/93677CD2-CF11-4461-A787-3103B6BA1D58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-824859?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-a-simpler-method-for-learning-to-control-a-robot.md",
+      "title": "A simpler method for learning to control a robot",
+      "excerpt": "(Nanowerk News) Researchers from MIT and Stanford University have devised a new machine-learning approach that could be used to control a robot, such as a drone or autonomous vehicle, more effectively and efficiently in dynamic environments where ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63411.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/smart/images/smartworlder.jpg",
+          "width": 400,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo.md",
+      "title": "Laptops will need to support growing AI and security priorities, says Lenovo",
+      "excerpt": "Machine learning and cybersecurity are among CIOs' top priorities today, so work devices should be built to support these requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
+      "originalUrl": "https://www.zdnet.com/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c4cc733699695e91521b8dca563ed9f16dcd9e46/2023/07/27/89da4a7c-8167-4487-a8d9-ae0670cec091/gettyimages-1199270450.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/laptops-will-need-to-support-growing-ai-and-security-priorities-says-lenovo/",
+      "publishedDateTime": "2023-07-27T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off.md",
+      "title": "Robot vacuum deal: Score this reviewer-loved Shark AI robot vacuum for 40% off",
+      "excerpt": "Amazon is currently offering an impressive deal on a top-rated Shark robot vacuum. Right now you can get this Shark AI robot vacuum for 40% off. But hurry -- this robot vacuum deal won't last.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/14/d229c37b-5441-4ada-9e20-437bdf0ce2bd/thumbnail/1200x630/3b4bc9d8b4342f925e9f92d06aef8499/shark-ai-robovac-header.png?v=86db2ab42e1f4996c0f037a20ce5a325",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuum-deal-score-this-reviewer-loved-shark-ai-robot-vacuum-for-40-off/",
+      "publishedDateTime": "2023-07-27T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-heres-why-im-glad-nvidia-might-kill-its-most-powerful-gpu.md",
+      "title": "Here’s why I’m glad Nvidia might kill its most powerful GPU",
+      "excerpt": "There has been a lot of speculation about a possible Nvidia RTX 4090 Ti graphics card, but it might not be happening. This is not a bad thing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/12-pin.00_00_27_21.Still007.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-rtx-4090-ti-is-not-happening/?amp",
+      "publishedDateTime": "2023-07-27T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-weaponizing-artificial-intelligence-and-the-gospel.md",
+      "title": "Weaponizing artificial intelligence and the gospel",
+      "excerpt": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.couriernews.com/opinion/columnists/weaponizing-artificial-intelligence-and-the-gospel/article_12ca6490-d1b9-5c36-9587-f6147ca15d34.html",
+      "originalUrl": "https://www.couriernews.com/opinion/columnists/weaponizing-artificial-intelligence-and-the-gospel/article_12ca6490-d1b9-5c36-9587-f6147ca15d34.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/custom/image/b21f3e0c-b390-11e9-a989-d727c4d02d97.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier Online",
+        "domain": "couriernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-aws-head-of-health-ai-on-amazons-new-clinical-documentation-play.md",
+      "title": "AWS’ head of health AI on Amazon’s new clinical documentation play",
+      "excerpt": "AWS’ Tehsin Syed shared what differentiates HealthScribe from other AI-based medical scribes and how Amazon is approaching tricky questions of accuracy and responsibility around generative AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/",
+      "originalUrl": "https://www.healthcaredive.com/news/amazon-aws-health-generative-ai-healthbridge/689099/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/53gowIaP8QxjnVDdtQ9rskIbm7xfdCn4x-I8DWwbeOs/crop:1763:996/g:nowe:34:422/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2F3cy1ueWMtc3VtbWl0LmpwZw.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-alarmed-by-ais-potential-us-senate-to-summon-experts.md",
+      "title": "Alarmed by AI's potential, U.S. Senate to summon experts",
+      "excerpt": "U.S. senators, alarmed by the malevolent potential of artificial intelligence, will summon developers, executives and experts for hearings later this year on possible legislative safeguards, Senate Majority Leader Chuck Schumer said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/alarmed-by-ais-potential-us-senate-summon-experts-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/technology/alarmed-by-ais-potential-us-senate-summon-experts-2023-07-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YgdSsnQzdxaaEVBm2_Y7zUhZc10=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWT26TEXONPTHCJPWDKPIB3CGM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows.md",
+      "title": "People are more pessimistic about AI now than before the boom, a study shows",
+      "excerpt": "Steven's Institute of Technology released its annual TechPulse report, which measures the public's attitudes toward different technologies. The findings in the 2023 report show that AI's increased popularity may have actually harmed the public's perception of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "originalUrl": "https://www.zdnet.com/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f8fd82b03ae16fa51cd6a1874e1ff534cd08796/2023/07/27/1424ede4-b9c3-4e19-9aef-baa359a9e4be/gettyimages-1377064482.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows/",
+      "publishedDateTime": "2023-07-27T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago.md",
+      "title": "Lessons Learned From Computer Conversations And Taming AI 70 Years Ago",
+      "excerpt": "To make progress in AI, one needs to significantly reduce one’s ambitions. Lessons learned from Yehoshua Bar-Hillel's pioneering work on machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2848901b07fcf4316a7fe/0x0.jpg?format=jpg&width=1200",
+          "width": 450,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/27/lessons-learned-from-computer-conversations-and-taming-ai-70-years-ago/amp/",
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-more-battlefield-ai-will-make-the-fog-of-war-more-deadly.md",
+      "title": "More Battlefield AI Will Make the Fog of War More Deadly",
+      "excerpt": "The Pentagon’s embrace of military AI raises questions about what limits should be placed on the technology—and how to keep humans in control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64c1b3dd9ec11a2433532d3d/191:100/w_1280,c_limit/AI-War-US-Fast-Forward-Business-1540566906.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-another-tesla-with-full-self-driving-beta-blasts-through-a-red-light.md",
       "title": "Another Tesla With Full Self-Driving Beta Blasts Through A Red Light",
       "excerpt": "A former Tesla employee has shared a frightening video online that shows a Tesla model equipped with the company’s Full Self-Driving beta running a red light in the U.S. John Bernal once worked as an advanced driver assistance systems test operator for Tesla but was fired last year after sharing videos on YouTube of the FSD Beta misbehaving in California.",
@@ -643,532 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-this-ai-beauty-and-wellness-stock-just-hit-the-markets-should-you-buy-oddity-stock.md",
-      "title": "This AI Beauty and Wellness Stock Just Hit the Markets. Should You Buy Oddity Stock?",
-      "excerpt": "Beauty and wellness company Oddity Tech ( ODD 7.37%) is a company with high-tech AI capabilities in a niche industry that had its initial public offering (IPO) last week. Let's check it out and see if Oddity should make it into your stock portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/27/this-ai-beauty-and-wellness-stock-just-hit-the-mar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740690/a-child-putting-blush-on-a-womans-face.jpg",
-          "width": 2122,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-yonyou-unveils-its-large-language-model-for-enterprise-services.md",
-      "title": "Yonyou unveils its large language model for enterprise services",
-      "excerpt": "Yonyou Network Technology Co Ltd, China's leading software and cloud service provider, on Thursday unveiled the first large language model in the country's enterprise service industry.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202307/27/WS64c22e09a31035260b818e06.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202307/27/64c22e09a310352610b9ae30.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-2029.md",
-      "title": "L2 Self-driving Vehicle Market 2023 Industry Outlook, Business Strategies, Trends and Forecast to 2029",
-      "excerpt": "The Global \"L2 Self-driving Vehicle Market\" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-meta-rallies-as-ai-powered-ad-sales-drive-monster-forecast.md",
-      "title": "Meta rallies as AI-powered ad sales drive 'monster' forecast",
-      "excerpt": "Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
-      "originalUrl": "https://www.reuters.com/technology/meta-rallies-ai-powered-ad-sales-drive-monster-forecast-2023-07-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QKGxuAo_1W3C9opZRPfdNE6gkEE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3SJL6Z3BBLZFA52SP7F7SQ5O4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead.md",
-      "title": "Samsung extends cut in memory chip production, will focus on high-end AI chips instead",
-      "excerpt": "Samsung Electronics extends to cut back its memory chip production and double down on its high-performance chips used in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
-      "originalUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_145519.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/amp/",
-      "publishedDateTime": "2023-07-27T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in.md",
-      "title": "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In",
-      "excerpt": "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/0de7c95e271a6f97263f6afd10ea33aa/med_20230727073922_3-autonomous-driving-stocks-to-buy-before-elon-mus.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-could-replace-politicians-and-ceos-if-they-play-by-darwinian-rules-of-evolution-expert.md",
-      "title": "AI could replace politicians and CEOs if they play by Darwinian rules of evolution: expert",
-      "excerpt": "Artificial intelligence could replace politicians and CEOs, according to a tech experts. UK politicians are already sounding the alarm that they could be replaced with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
-      "originalUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12f32090-d466-4946-8d6a-cfb9c81363bd/7511282e-5719-497f-be58-09896b59eaff/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
-      "publishedDateTime": "2023-07-26T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-as-ai-goes-global-let-the-un-control-it.md",
-      "title": "As AI goes global, let the UN control it",
-      "excerpt": "In record time, Europe produced a significant body of regulation with the ambition of getting a grip on the use of data and ensuring the tech industry behind it pivots toward Europe. The U.S. and China have similar policies in place, making the race for technological supremacy increasingly important in a changing geopolitical context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84b9ac1d-a4a4-4612-9a07-2799d6cac361/c1628bc1-adc0-42c1-92a3-b0869cf171a8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "publishedDateTime": "2023-07-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-privacy-group-challenges-ryanairs-use-of-facial-recognition.md",
-      "title": "Privacy group challenges Ryanair's use of facial recognition",
-      "excerpt": "Digital rights group NOYB on Thursday filed a complaint against Ryanair , alleging that it is violating customers' rights to data protection by using facial recognition to verify their identity when booking through online travel agents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
-      "originalUrl": "https://www.reuters.com/business/aerospace-defense/privacy-group-challenges-ryanairs-use-facial-recognition-2023-07-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/dIDyVgha2Ldzns3rcSc6hqCdXt0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FBR3K75CPFPAZMM63XCHD3ESFE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-fake-or-fact-the-disturbing-future-of-ai-generated-realities.md",
-      "title": "Fake Or Fact? The Disturbing Future Of AI-Generated Realities",
-      "excerpt": "From deepfakes to misinformation, discover the ethical implications and potential solutions in a world where AI blurs the line between truth and fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c200fd980aca1380ea0a57/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/27/fake-or-fact-the-disturbing-future-of-ai-generated-realities/amp/",
-      "publishedDateTime": "2023-07-26T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-ai-in-sales-and-marketing-its-here.md",
-      "title": "AI in sales and marketing: It’s here",
-      "excerpt": "Artificial intelligence is improving employee experience and productivity in fields such as sales, marketing and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "originalUrl": "https://www.itweb.co.za/content/JN1gPvOAr8xMjL6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/07/Paul-Mulder-Jul-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JN1gPvOAr8xMjL6m",
-      "publishedDateTime": "2023-07-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

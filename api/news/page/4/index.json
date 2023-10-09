@@ -2,6 +2,310 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-06-every-enterprise-plans-to-increase-ai-spending-next-year.md",
+      "title": "Every enterprise plans to increase AI spending next year",
+      "excerpt": "An MIT Tech Review survey of 600 firms found almost half said they would boost spending on data infrastructure and AI by more than 25% in the coming year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/every-enterprise-plans-to-increase-ai-spending-next-year/",
+      "originalUrl": "https://www.zdnet.com/article/every-enterprise-plans-to-increase-ai-spending-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/48ba9137d80ae605d00a22e565e2c1311c340b46/2023/10/05/b8d27d44-12f9-42e9-942c-288d6f76ecad/mit-tech-review-ai-survey-splash-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/every-enterprise-plans-to-increase-ai-spending-next-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/every-enterprise-plans-to-increase-ai-spending-next-year/",
+      "publishedDateTime": "2023-10-05T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend.md",
+      "title": "Improve prediction quality in custom classification models with Amazon Comprehend",
+      "excerpt": "In this post, we explain how to build and optimize a custom classification model using Amazon Comprehend. We demonstrate this using an Amazon Comprehend custom classification to build a multi-label custom classification model, and provide guidelines on how to prepare the training dataset and tune the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/14/ml-13080-image5.png",
+          "width": 824,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T10:21:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-researchers-develop-ai-solutions-for-inclusion-of-arabic-and-its-dialects-in-natural-language-processing.md",
+      "title": "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing",
+      "excerpt": "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg",
+          "width": 2880,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "publishedDateTime": "2023-10-05T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium.md",
+      "title": "Fast and cost-effective LLaMA 2 fine-tuning with AWS Trainium",
+      "excerpt": "Large language models (LLMs) have captured the imagination and attention of developers, scientists, technologists, entrepreneurs, and executives across several industries. These models can be used for question answering, summarization, translation, and more in applications such as conversational agents",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fast-and-cost-effective-llama-2-fine-tuning-with-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/05/fast-cost-effective-llama.jpg",
+          "width": 892,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T10:14:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast.md",
+      "title": "NVIDIA DGX Cloud Gives CSPs And Their Customers Exactly What They Want: Fast AI, Fast",
+      "excerpt": "While some may confuse this as NVIDIA competing with cloud service providers (CSPs), the DGX Cloud AI is offered in close partnership with CSPs, who love getting revenue without the hassles. And enterprises love access to state-of-the-art hardware and software in their favorite cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651dd3aa33db71290192a6cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/10/05/nvidia-dgx-cloud-gives-csps-and-their-customers-exactly-what-they-want-fast-ai-fast/amp/",
+      "publishedDateTime": "2023-10-05T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-samsung-shows-off-better-ai-security-and-sustainability-for-products-at-sdc-2023.md",
+      "title": "Samsung shows off better AI, security and sustainability for products at SDC 2023",
+      "excerpt": "Kicking off a kind of CES in October, Samsung Electronics showcased new SmartThings appliance connectivity features.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/samsung-shows-off-better-ai-security-and-sustainability-for-products-at-sdc-2023/",
+      "originalUrl": "https://venturebeat.com/ai/samsung-shows-off-better-ai-security-and-sustainability-for-products-at-sdc-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/samsung-dc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-jpmorgan-ceo-jamie-dimon-says-ai-could-ultimately-reduce-the-workweek-to-35-daysbut-theres-a-catch.md",
       "title": "JPMorgan CEO Jamie Dimon Says AI Could Ultimately Reduce The Workweek To 3.5 Days—But There’s A Catch",
       "excerpt": "JPMorgan CEO Jamie Dimon predicts that artificial intelligence will lead to a three-and-a-half-day workweek for the next generation of employees.",
@@ -201,7 +505,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/10/05/google-pixel-launch-event-impresses-with-new-tech-and-ai-stock-price-lifts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -296,7 +600,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -689,7 +993,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -909,319 +1213,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-are-ai-powered-virtual-bands-the-future-of-k-pop.md",
-      "title": "Are AI-powered virtual bands the future of K-pop?",
-      "excerpt": "K-Pop girl bands Eternity and Mave's videos have racked up millions of views. None of these singers are real. CNN's Ivan Watson has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
-      "originalUrl": "https://www.cnn.com/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230822184145-ai-kpop-watson-pkg-intldsk-00004211.png?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/style/2023/08/22/ai-kpop-watson-pkg-intldsk.cnn",
-      "publishedDateTime": "2023-10-04T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
-      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
-      "excerpt": "The artificial intelligence (AI) chatbot conducts nearly human-like conversations and performs language-based tasks that makes Siri look like an imbecile—from writing academic papers to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-why-your-ceo-needs-an-ai-education-now.md",
-      "title": "Why Your CEO Needs An AI Education — Now",
-      "excerpt": "CEOs, CFOs, CHROs, and COOs should also become well-versed in the power and potential of AI, Sohigian adds. “They can provide comprehensive thinking around employee experience, business agility, privacy and security, and openness through integration and extensibility.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651df2b8214ddd9eb4621a70/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
-      "publishedDateTime": "2023-10-04T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-insight-in-australias-outback-indigenous-voice-proposal-struggles-to-inspire.md",
-      "title": "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire",
-      "excerpt": "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
-      "originalUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far.md",
-      "title": "Arc browser is offering the most truly helpful spin on AI I've seen so far",
-      "excerpt": "Arc browser decided it was time to throw its hat into the AI ring but opted to go a much different route than most browsers and it should pay off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "originalUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a7643cbe6ce5794abb138e6ad77042c891efc74/2023/10/04/0f7f87bc-106f-4f18-aa27-c04b19bd5404/gettyimages-1333147307.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "publishedDateTime": "2023-10-04T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
-      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
-      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
-      "publishedDateTime": "2023-10-04T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -36,6 +36,20 @@ related:
         width: 270
         height: 203
         isCached: true
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
     excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
     publishedDateTime: 2023-10-05T05:24:00Z

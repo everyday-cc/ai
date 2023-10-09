@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-06-ai-facial-recognition-campaigners-and-mps-call-for-ban.md",
-      "title": "AI facial recognition: Campaigners and MPs call for ban",
-      "excerpt": "Members of the European Parliament agreed to ban live facial recognition using AI in a draft of its Artificial Intelligence (AI) Act - the EU's landmark legislation categorising different applications of AI according to their harm to the public.",
+      "path": "_news/2023-10-09-black-man-files-lawsuit-over-misuse-of-ai-facial-recognition.md",
+      "title": "Black man files lawsuit over misuse of AI facial recognition",
+      "excerpt": "Black man files lawsuit against Atlanta area police in Dekalb County over arrest stemming from the misuse of AI facial recognition",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-67022005?at_medium=RSS&at_campaign=KARANGA",
+      "webUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/",
+      "originalUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2023/10/16968606202042.jpg?strip=all&quality=80",
+          "width": 726,
+          "height": 481,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-67022005.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp",
-      "publishedDateTime": "2023-10-05T16:00:00-07:00",
+      "ampWebUrl": "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/",
+      "publishedDateTime": "2023-10-09T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-should-police-and-private-companies-stop-facial-recognition-surveillance.md",
+      "title": "Should Police and Private Companies Stop Facial Recognition Surveillance?",
+      "excerpt": "Should police and private companies stop the use of facial recognition surveillance? A group of politicians and privacy campaigners think so.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/",
+      "originalUrl": "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2023/10/man-5946820_1280.jpg",
+          "width": 1280,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/",
+      "publishedDateTime": "2023-10-06T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,6 +139,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime.md",
+      "title": "NZ retailers turn to facial recognition to stem surge in crime",
+      "excerpt": "Retail NZ’s report reveals that 92 percent of retailers surveyed fell victim to crime in the past year, with an increase in violent and brazen attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
+      "originalUrl": "https://www.biometricupdate.com/202310/nz-retailers-turn-to-facial-recognition-to-stem-surge-in-crime",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/06154234/walmart-cctv-facial-recognition-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1187,101 +1274,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-lenovos-vision-for-the-future-of-edge-computing.md",
-      "title": "Lenovo’s Vision For The Future Of Edge Computing",
-      "excerpt": "Lenovo is advancing edge computing with its TruScale IaaS specialized servers. Focusing on real-time analytics, data privacy, and bandwidth efficiency to democratize AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650cab4aca9f84eb9bb094e8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/09/21/lenovos-vision-for-the-future-of-edge-computing/amp/",
-      "publishedDateTime": "2023-09-21T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-computer-vision-reveals-the-working-of-lithium-ion-batteries-in-detail.md",
-      "title": "Computer vision reveals the working of lithium-ion batteries in detail",
-      "excerpt": "A rechargeable lithium-ion battery consists of electrodes- responsible for storing charge and making it available when needed to do work. As shown in X-ray movies, these electrodes pack billions of tiny particles inside,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
-      "originalUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bahrainthisweek.com/wp-content/uploads/2023/09/computer-vision-1.jpg",
-          "width": 1280,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bahrainthisweek",
-        "domain": "bahrainthisweek.com",
         "images": null,
         "publishers": null,
         "authors": null

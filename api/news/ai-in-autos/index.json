@@ -53,7 +53,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -387,10 +387,10 @@
     {
       "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
       "title": "Autonomous driving remains a distant reality in Japan",
-      "excerpt": "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ...",
+      "excerpt": "JAPAN is pushing for 50 locations with driverless services in place within three years, but fully autonomous vehicles remain nearly nonexistent in the country. Read more at The Business Times.",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
+      "webUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
+      "originalUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -398,13 +398,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T21:33:00-07:00",
+      "ampWebUrl": "https://www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
+      "cdnAmpWebUrl": "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/international/autonomous-driving-remains-distant-reality-japan?amp",
+      "publishedDateTime": "2023-10-01T16:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
         "images": null,
         "publishers": null,
         "authors": null

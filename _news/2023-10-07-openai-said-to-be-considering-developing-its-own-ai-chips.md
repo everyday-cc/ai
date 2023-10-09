@@ -115,6 +115,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "OpenAI may jump into AI hardware amid high costs, supply constraints"
+    excerpt: "OpenAI has been evaluating various options to address this issue, including potentially acquiring a chipmaking company and working more closely with other chip manufacturers like Nvidia. Currently, the AI firm has not made a final decision,"
+    publishedDateTime: 2023-10-09T16:17:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/openai_glowing_blue-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T14:04:00Z
@@ -415,6 +431,22 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 62
+  - title: "Despite OpenAI's Potential Shift, Citi Analyst Predicts Nvidia's Continued Dominance in AI GPU Market"
+    excerpt: "Similarly, he expects NVDA to maintain a ~90% share in the AI GPU market for the next 2-3 years. Pivoting to Marvell Technology, Inc MRVL, another prominent AI player such as OpenAI, looking to build its own AI accelerator, may offer a viable path."
+    publishedDateTime: 2023-10-09T17:00:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35148644/despite-openais-potential-shift-citi-analyst-predicts-nvidias-continued-dominance-in-ai-gpu-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35148644"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35148644"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/nvda_chip.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
     excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T04:17:00Z
@@ -593,6 +625,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Domino’s partners with Microsoft to launch AI assistant for store managers"
+    excerpt: "Domino’s Pizza and Microsoft have announced a joint effort to add Artificial Intelligence technology in order to support the restaurant’s store managers."
+    publishedDateTime: 2023-10-09T15:52:00Z
+    webUrl: "https://www.journal-news.com/business/dominos-partners-with-microsoft-to-launch-ai-assistant-for-store-managers/XTFTI4HSQNBCDGLOBAOAUZ7L4Y/"
+    type: article
+    provider:
+      name: Journal-News
+      domain: journal-news.com
+    quality: 52
+    images:
+      - url: "https://www.journal-news.com/resizer/XpJQP_X4wucpzwzcZuo58HQYKt0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/RIHWOJQWJJCNFB4HVCBEZQSUIU.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
     excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."

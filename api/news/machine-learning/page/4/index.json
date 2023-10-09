@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-07-fine-structure-sensitive-deep-learning-framework-for-prediction-of-catalytic-properties-with-high-precision.md",
+      "title": "Fine-structure sensitive deep learning framework for prediction of catalytic properties with high precision",
+      "excerpt": "More information: Yuzhuo Chen et al, Fine-structure sensitive deep learning framework for predicting catalytic properties with high precision, Chinese Journal of Catalysis (2023). DOI: 10.1016/S1872-2067(23)64467-5",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
+      "originalUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/fine-structure-sensiti.jpg",
+          "width": 1280,
+          "height": 953,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
+      "publishedDateTime": "2023-09-06T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-tmc-and-kongsberg-digital-announce-next-phase-of-agreement-to-bring-ai-and-hybrid-machine-learning-to-future-deep-sea-nodule-collection-operations.md",
       "title": "TMC and Kongsberg Digital Announce Next Phase of Agreement to Bring AI and Hybrid Machine Learning to Future Deep-sea Nodule Collection Operations",
       "excerpt": "Andy Jones, Chief Technology Officer for The Metals Company, said: “The hybrid machine learning capability enabled by Kongsberg ... developed by TMC and its partners, agents and/or service providers to support its operations. These forward-looking ...",
@@ -1300,49 +1343,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india.md",
-      "title": "N Chandrasekaran says best of artificial intelligence, machine learning will be deployed at Air India",
-      "excerpt": "\"In the meantime, we have to refurbish our current fleet at an acceptable level. Our aim is to have the best of machine learning and the best of AI in Air India than any other airline,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
-      "originalUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/08/Air-India-rebrainding-15-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/n-chandrasekaran-says-best-of-artificial-intelligence-machine-learning-will-be-deployed-at-air-india-17628751.htm/amp",
-      "publishedDateTime": "2023-08-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

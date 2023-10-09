@@ -2,6 +2,510 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-07-aiml-will-deliver-value-across-insurance-value-chain-debasish-panda.md",
+      "title": "AI/ML Will Deliver Value Across Insurance Value Chain: Debasish Panda",
+      "excerpt": "According to IRDAI chairperson Debasish Panda, AI and ML within the insurtech sector will be harnessed throughout the insurance value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "originalUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2023/09/Insurance-IRDAI-features-1024x768.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-ml-deliver-value-insurance-value-chain-debasish-panda/amp/",
+      "publishedDateTime": "2023-09-06T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-north-las-vegas-launching-ai-powered-translation-software-in-30-languages.md",
+      "title": "North Las Vegas launching AI-powered translation software in 30 languages",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - The City of North Las Vegas will officially launch the acquisition of over 30 languages through the previously released AI-powered, real-time translation technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "originalUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/GFG0LSWzkeLWG-meVduRX4w-qpI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JB2QIFVWHNENLAQW6NWXKYLLWQ.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2023/09/06/north-las-vegas-launching-ai-powered-translation-software-30-languages/?outputType=amp",
+      "publishedDateTime": "2023-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-inspecting-quantization-errors-with-quantization-debugger.md",
+      "title": "Inspecting Quantization Errors with Quantization Debugger",
+      "excerpt": "Although full-integer quantization provides improved model size and latency, the quantized model won't always work as expected. It's usually expected for the model quality (e.g. accuracy, mAP, WER) to be slightly lower than the original float model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/performance/quantization_debugger",
+      "originalUrl": "https://www.tensorflow.org/lite/performance/quantization_debugger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-boxfish-research-renames-to-boxfish-robotics.md",
+      "title": "Boxfish Research Renames To Boxfish Robotics",
+      "excerpt": "ARV-i, is powered by advanced Artificial Intelligence and sensor integration, facilitates automated and remote operations, while ensuring efficient and precise data collection. \"As Boxfish Robotics, we are delighted to announce the renaming, symbolising a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2309/S00100/boxfish-research-renames-to-boxfish-robotics.htm",
+      "publishedDateTime": "2023-09-06T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-artificial-intelligence-could-help-build-pollen-jigsaw-of-present-and-ancient-flora.md",
+      "title": "Artificial intelligence could help build pollen jigsaw of present and ancient flora",
+      "excerpt": "Artificial intelligence could help build pollen jigsaw of present and ancient flora. ScienceDaily . Retrieved September 10, 2023 from www.sciencedaily.com / releases / 2023 / 09 / 230907205947.htm",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230907205947.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230907205947.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-chinese-operatives-are-using-ai-photos-to-trick-american-voters-and-turn-them-against-each-other-microsoft-says.md",
+      "title": "Chinese operatives are using AI photos to trick American voters and turn them against each other, Microsoft says",
+      "excerpt": "China has since March been using generative AI to create viral content that divides ... In July, cybersecurity research firm Mandiant said that it found Chinese-affiliated operatives had paid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/china-artificial-intelligence-us-voters-microsoft-beijing-social-media-2023-9",
+      "originalUrl": "https://www.businessinsider.com/china-artificial-intelligence-us-voters-microsoft-beijing-social-media-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64fa93b5a39a1b00190b5c02?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/china-artificial-intelligence-us-voters-microsoft-beijing-social-media-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-artificial-intelligence-us-voters-microsoft-beijing-social-media-2023-9?amp",
+      "publishedDateTime": "2023-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-paradigm-shift-in-natural-language-processing.md",
+      "title": "Paradigm shift in natural language processing",
+      "excerpt": "In recent years, similar methods that reformulate a natural language processing (NLP) task as another one has achieved great success and gained increasing attention in the community. After the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1000840",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1000840",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d6bbf00d-7771-48bf-8486-11a2d1294fae/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs.md",
+      "title": "HubSpot announces a range of new AI sales and marketing tools geared toward SMBs",
+      "excerpt": "HubSpot AI is a new suite of new AI features available to users of HubSpot's social publishing and marketing tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs/",
+      "originalUrl": "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_flat_illustration_minimal_abstract_simple_stre_819b6ca2-9ddc-4afb-8758-9910be69b5f4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible.md",
+      "title": "Talk to your taxes? TurboTax’s new AI agent makes it possible",
+      "excerpt": "The AI assistant will reportedly help shorten the time it takes to file taxes and provide faster access to refunds, as well as offer personalized financial advice. Intuit Chief Data Officer Ashok Srivastava told Reuters that the company's AI models \"competed favorably\" against other AI systems in internal accuracy tests.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_piggybank-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
+      "publishedDateTime": "2023-09-06T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-microsoft-says-azure-breach-probably-due-to-account-being-cracked.md",
+      "title": "Microsoft says Azure breach 'probably' due to account being cracked",
+      "excerpt": "More than three months after its Azure cloud was breached, Microsoft says the \"probable\" cause was the cracking of a staff engineer's corporate account. The company released a blog post on Wednesday which made the surprising admission that its inability to offer a more definitive",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
+      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/ee5f0279f75ffcb53cda826bd0cbceea_M.jpg",
+          "width": 375,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-growth-in-future.md",
+      "title": "Healthcare Natural Language Processing Market Size and Trend Analysis 2023-2030| Poised for Strong Growth in Future",
+      "excerpt": "The \"Healthcare Natural Language Processing Market\" 2023 report conducts a comprehensive analysis of the diverse array of factors that impact market drivers, industry development, and future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34298531",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298531",
+      "publishedDateTime": "2023-09-06T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action.md",
       "title": "AI-generated child sex imagery has every US attorney general calling for action",
       "excerpt": "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children.",
@@ -681,504 +1185,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-emerging-non-volatile-memories-enable-iot-and-ai-growth.md",
-      "title": "Emerging Non-Volatile Memories Enable IoT And AI Growth",
-      "excerpt": "MRAM and other emerging memory revenues could approach $1B and drive capital equipment revenues to $2.2B by 2033.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8b28ea1eda175c6dcb951/0x0.png?format=png&width=1200",
-          "width": 968,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/09/06/emerging-non-volatile-memories-enable-iot-and-ai-growth/amp/",
-      "publishedDateTime": "2023-09-06T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
-      "title": "What is the vulnerability management process?",
-      "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/GettyImages-1489414966.jpg",
-          "width": 2400,
-          "height": 1266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-ai-took-my-job-literallygizmodo-fires-spanish-staff-amid-switch-to-ai-translator.md",
-      "title": "“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator",
-      "excerpt": "It's easy to imagine even more embarrassing mistakes due to autonomous translation between languages. So far, we've seen in our AI coverage that automated publishing does not tend to go well ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/amp/",
-      "publishedDateTime": "2023-09-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
-      "title": "Tennis, football, and IBM watsonx",
-      "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T09:24:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-20-effective-ways-small-businesses-can-leverage-generative-ai.md",
-      "title": "20 Effective Ways Small Businesses Can Leverage Generative AI",
-      "excerpt": "From communications to customer service to coding, tech experts see a lot of ways that generative AI can boost a small business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f89d669038c96f4a86eae0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/06/20-effective-ways-small-businesses-can-leverage-generative-ai/amp/",
-      "publishedDateTime": "2023-09-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-sil-3-certification.md",
-      "title": "FORT Robotics Endpoint Controller for Wireless Safety and Control of Machines and Robots Receives SIL 3 Certification",
-      "excerpt": "FORT Robotics, a pioneer in robotic control solutions, announces that its Endpoint Controller received SIL 3 (safety integrity level 3) functional safety certification, as defined by IEC 61508 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34292136/fort-robotics-endpoint-controller-for-wireless-safety-and-control-of-machines-and-robots-receives-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-red-hat-openshift-now-available-in-aws-marketplace-for-the-us-intelligence-community.md",
-      "title": "Red Hat OpenShift Now Available in AWS Marketplace for the U.S. Intelligence Community",
-      "excerpt": "and supports a variety of workloads and applications including Artificial Intelligence and Machine Learning (AI/ML) systems, messaging systems, databases, logging and monitoring and more. The Red Hat OpenShift listing in AWS Marketplace for the U.S. IC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "originalUrl": "https://www.01net.it/red-hat-openshift-now-available-in-aws-marketplace-for-the-u-s-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study.md",
-      "title": "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study",
-      "excerpt": "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study-1032609735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-ai-in-marketing-how-to-leverage-this-powerful-new-technology-for-your-next-campaign.md",
-      "title": "AI in marketing: How to leverage this powerful new technology for your next campaign",
-      "excerpt": "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-in-marketing/",
-      "originalUrl": "https://www.ibm.com/blog/ai-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:25:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-news-in-the-microsoft-category.md",
-      "title": "News in the Microsoft category",
-      "excerpt": "Microsoft has released Windows Subsystem for Linux (WSL) 2.0.0 with a set of new opt-in experimental features, including a new network mode and automated memory and disk size cleanup. Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/microsoft/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/comp/b/blink/blink-ai-copilot.gif",
-          "width": 400,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer.md",
-      "title": "Obsessed with privacy? Keep Tails on a USB drive and secure most any computer",
-      "excerpt": "If you're looking for protection against surveillance and censorship, this Tor-based operating system is worth a try. Here's how you get started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "originalUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/47ea9eb0c49e09b472e905c01d49372e4e40e3e7/2023/09/06/b145424d-d84b-4e54-8563-f777abaca925/gettyimages-485333161.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "publishedDateTime": "2023-09-06T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,336 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-10-02-3-robotics-stocks-set-to-explode-higher.md",
+      "title": "3 Robotics Stocks Set to Explode Higher",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI boom has been nothing short of remarkable, with companies like OpenAI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
+      "title": "Can AI Tear Down Healthcare’s Data Silos?",
+      "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
+      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6519b37e747725fd8ee62144/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/10/01/can-ai-tear-down-healthcares-data-silos/amp/",
+      "publishedDateTime": "2023-10-01T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social-email.md",
+      "title": "AI Showdown, Part 3: ChatGPT, Claude, Bing, And Bard On Social & Email",
+      "excerpt": "In this finale, four generative AI chatbots tackle content distribution by writing social content and emails to promote blog posts. Find out who won the AI Showdown!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
+      "originalUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651829d4d7d9789d5dd0259f/0x0.jpg?format=jpg&crop=3544,1995,x0,y183,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renaegregoire/2023/10/01/ai-showdown-part-3-chatgpt-claude-bing-and-bard-on-social--email/amp/",
+      "publishedDateTime": "2023-10-01T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-ai-chatbots-let-you-interview-historical-figures-like-harriet-tubman-thats-probably-not-a-good-idea.md",
+      "title": "AI chatbots let you 'interview' historical figures like Harriet Tubman. That's probably not a good idea.",
+      "excerpt": "the founder and a principal researcher at Montreal AI Ethics Institute, told Insider by email. Tiraana Bains, an assistant professor of history at Brown University, said the bots can close off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/651933ec5640b20019d795a8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbots-ethics-dangers-historical-figures-2023-10?amp",
+      "publishedDateTime": "2023-10-01T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-new-york-bans-use-of-facial-recognition-technology-in-schools.md",
+      "title": "New York bans use of facial recognition technology in schools",
+      "excerpt": "The state’s education commissioner, Betty A. Rosa, announced on Wednesday that she would be banning the use of facial recognition technology in schools across the state. It follows a 49-page ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "originalUrl": "https://www.wgrz.com/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wgrz.com/assets/WGRZ/images/b8e41be7-fb05-4843-8f1a-3030ee4de98c/b8e41be7-fb05-4843-8f1a-3030ee4de98c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "cdnAmpWebUrl": "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-bans-use-facial-recognition-technology-schools/71-2e90894c-9149-4b67-baa5-4899b5dfdf31",
+      "publishedDateTime": "2023-10-01T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGRZ",
+        "domain": "wgrz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-my-way-or-the-ai-way-companies-approach-govt-for-infra-amid-gpu-scarcity.md",
+      "title": "My way or the AI way: Companies approach govt for infra amid GPU scarcity",
+      "excerpt": "GPUs are the highways AI requires. Companies are therefore petitioning the Centre to invest in the vital compute infrastructure so that local startups can compete and win meaningfully in the frenetic global AI race.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/articleshow/104072796.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/my-way-or-the-ai-way-companies-approach-govt-for-vital-compute-infra-amid-gpu-scarcity/amp_articleshow/104072796.cms",
+      "publishedDateTime": "2023-09-30T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
       "title": "How General AI Will Eventually Reshape Everything",
       "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
@@ -391,6 +721,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-would-you-ask-facebook-ai-snoop-dogg-for-frozen-yogurt-suggestions.md",
+      "title": "Would you ask Facebook AI Snoop Dogg for frozen yogurt suggestions?",
+      "excerpt": "Meta this week unveiled AI that lets you chat with virtual likenesses of celebrities. Real talk, would you text with Facebook AI Snoop Dogg about video games or frozen yogurt shops? Microsoft and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/09/29/ai-doesnt-work-alexa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VOCQHV6NEZDJRALBLIUSJZ6BV4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -811,333 +1184,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities.md",
-      "title": "DeepMind rolls out human-style encouragement to enhance AI math abilities",
-      "excerpt": "Google DeepMind researchers have developed a new technique to improve the math ability of AI language models by using human-style encouragement. The technique, called Optimization by PROmpting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
-      "originalUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/post/deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities?amp=1",
-      "publishedDateTime": "2023-09-29T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ai-is-transformative-for-the-geopolitical-order-political-scientist-ian-bremmer-says.md",
-      "title": "‘AI is transformative for the geopolitical order,’ political scientist Ian Bremmer says",
-      "excerpt": "Political scientist Ian Bremmer said he is an \"enthusiast\" about the potential for artificial intelligence, but warned of possible risks on the horizon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107282090-1691159601236-gettyimages-1513209723-CHINA_WORLD_AI.jpeg?v=1695979393",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/29/ai-is-transformative-for-the-geopolitical-order-ian-bremmer-says.html",
-      "publishedDateTime": "2023-09-29T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia.md",
-      "title": "Former Tinder CEO’s startup to fight loneliness with AI chatbot gets backing by Sequoia",
-      "excerpt": "Former Tinder CEO Renate Nyborg's startup Meeno, said Thursday that it has raised a $3.9 million seed round led by Sequoia.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "originalUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/Meeno.jpeg?resize=1200,907",
-          "width": 1200,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/27/former-tinder-ceos-startup-to-fight-loneliness-with-ai-chatbot-gets-backing-by-sequoia/amp/",
-      "publishedDateTime": "2023-09-29T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-executive-insights-artificial-intelligence-in-higher-education.md",
-      "title": "Executive Insights: Artificial intelligence in higher education",
-      "excerpt": "\"When deployed effectively, generative AI should facilitate more discussion, creativity, and give and take by actively engaging students in the learning process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
-      "originalUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/09/29/artificial-intelligence-in-higher-education.amp.html",
-      "publishedDateTime": "2023-09-28T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses.md",
-      "title": "Meta unveils artificial intellgence assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram ... chief analyst at TECHnalysis Research. Zuckerberg also said on Wednesday that Xbox cloud gaming ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
-      "originalUrl": "https://www.telegraphindia.com/business/meta-unveils-artificial-intellgence-assistant-facebook-streaming-glasses/cid/1969762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
-      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
-      "originalUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
-      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
-      "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-new-study-digs-deep-into-neural-networks-to-improve-ai-security.md",
-      "title": "New study digs deep into neural networks to improve AI security",
-      "excerpt": "By intentionally exposing their system to potentially confusing data, researchers build resilience to protect against malicious attacks",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-760878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554441",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
