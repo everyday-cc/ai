@@ -25,15 +25,6 @@ images:
 
 related:
   - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
-    excerpt: "The injection of more artificial intelligence, or AI, into Google’s products marks another step in the company’s attempt to bring more of the technology into the mainstream."
-    publishedDateTime: 2023-10-04T17:51:00Z
-    webUrl: "https://www.wyomingnewsnow.tv/2023/10/04/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-devices-by-100/"
-    type: article
-    provider:
-      name: wyomingnewsnow
-      domain: wyomingnewsnow.tv
-    quality: 20
-  - title: "Google packs more artificial intelligence into new Pixel phones, raises prices for devices by $100"
     excerpt: "Google on Wednesday unveiled a next-generation Pixel smartphones lineup that will be infused with more artificial intelligence tools capable of writing captions about photos that can also be altered b"
     publishedDateTime: 2023-10-07T07:30:00Z
     webUrl: "https://www.postregister.com/features/smart_living/google-packs-more-artificial-intelligence-into-new-pixel-phones-raises-prices-for-devices-by-100/article_54ceea44-62f1-11ee-8c90-ab21dae66c5d.html"

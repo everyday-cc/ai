@@ -3,10 +3,12 @@ category: news
 title: "Data-driven video technologies drive proactive policing in the state of Tlaxcala, Mexico"
 excerpt: "Alarming increases in vehicle thefts, unsolved traffic collisions, and stolen cargo in the Mexican State of Tlaxcala, motivated the Executive Commission of the State Public Security System (CESESP)"
 publishedDateTime: 2023-10-09T07:50:00Z
-originalUrl: "https://www.sourcesecurity.com/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html"
+webUrl: "https://www.sourcesecurity.com/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/data-driven-video-technologies-drive-proactive-co-289-ga-co-1151-ga-co-1286-ga-co-3425-ga-co-4559-ga-co-9381-ga-co-12609-ga-co-14240-ga.1696831195.html"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
@@ -31,6 +33,6 @@ related:
       domain: sourcesecurity.com
     quality: 24
 
-secured: "fjskyMOI5MvhP66uOBLpvY/IpvxKe2h9XWgUxaRLfZwUkcuSTipKY+gOKumAQnZGZqG6FxMVOLtwWuxK+T7X84jn7vNU5QIfAeZ4isdeGI+1TWjeubiizUQQOzpzLUFf5n0D2Q94bR9l47Jq5Ld5f1a1P5QPWhlT9RVy+dfA3V/oEOgpt11owti9isrAwMbIL1mQ+rq7CqvsfV9J4d5UAN+EBcZ5Ln7MYugeNqDI5Ro+OVkevnbqOLXjV5yyVH7PO359M4lvdhGiKbu8O15sDAMk4EOn8XUUXtBFGHzcis0t7vMnI3UDZXr6kTwyrp4lSpyZ9pwC1ScE6BK3YGNpmdWYWLjaHBwFsa2mF/Otd2vpaaTWap9m11W1ma9GGBYd3dT7qI2XW6oOQV6gx9TmJxIOynv9q5PXqjV334NIpm9UnG0KQwE7S8Eo+ABZ9aE0Ll5WoIsuSCbtUx7uLLt64IpzSCdgH6n0yokEuEwROiY4s9w94QSU0fxlIWLYx1teOh9mPulj7Xz/SBv8rFP7Ug==;zfgU8HppxIurWzQZUxPcmQ=="
+secured: "jZQjtub7s+66BHMx5k+a3F+pekmNvSAgJy9gmpu01+OoyDxOoK4PyOVEC4d4rz6FucAMvHoQqPUlRb3yStzWBoekPtgheVflCZm33RT04g7SnUSPgDklaW/uCLPNeKhX8VOU19HmtTvbEAyQ23aklgWCWFF1cmDo78lLvaDq1U6LYU9kApWrUZh7d/lvHD6svVEcHpj/dfcmBQvAY7pubzg5I2dXgWIay3QvVnQNIUEb2J1fDaq3yk7hPZDh9y2p/sHHU4iKnugfu756QlNQNDKnpcXLnv/ws66eyNpip1fS2+NZ43je28E9L3UArZyHtMBR9P+2Gv+OXSSkyYIGH8WPmLGCL1OK+Yl/tLkPWwkU8s0hk+CTbsHGEiOrQIarPmPV8TY4NlWDIaBKb41ngCwcVeDKQDPdVdfnNEu9UCAl+0YJeOnQ0l2i2JmZhpr4oSHub5UPOaYFKuDwUs19+5EidXblZxP4tBjB+OinDRvU/9GDny8R5C59jHFJ/TUhg065KZCI3t3aaEj9GdBJjw==;Z00qgJfsAFrVmTsE3oIsSQ=="
 ---
 

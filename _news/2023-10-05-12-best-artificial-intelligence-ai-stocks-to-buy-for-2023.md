@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artifici
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 29
-  - title: "Best Stocks To Buy Now in October 2023"
-    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
-    publishedDateTime: 2023-10-05T00:24:00Z
-    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/ozGIeQpeUFh+bLx2PfF8tuw0LQGDf60pX+1ao8I1QsC1TitN6+SLZPRz1p7eBCu/fWm2boQLm/3oH5Z9Mss/4VQWy0HZtmagtEJJRHNPTM38HFHH5jQkT4hOr+ut/JWcP4c5xaebMzp81O3jV65Yo6Uloegtwxuz0hh7pv67TVqKqV0AHr3ETUUa1I7irLp576vmmAX3Ks58lXB+EhyuBeq7MFm0w/8ZvBgGa+On4OLhJppEI1+JdNtYYEY89fgynbYtCJuue/rCNJXJLkkObLSanL7z/FI3tDj2dMuC1jsjlgWKUmtr03QArquSFEuKDJsLwO+700630tznwRYUam0xXh8ia3BhcrHT7Hk3O8=;NoTYFE2p60ufxzUhT7waHw=="
 ---

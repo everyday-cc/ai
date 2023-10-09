@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reshaping the semiconductor landscape - generative AI, customized chips, and memory outlook in 2024"
-    excerpt: "The semiconductor industry, long known for its rapid growth and innovation, encountered unexpected hurdles in 2023. However, Tony Huang highlights the role f generative AI in driving capital expenditure related to data centers. Semiconductor demand for cloud AI is expected to be a major driver of investment in 2024."
-    publishedDateTime: 2023-10-04T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/04/9892918.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/2238663/thumbnail_image001.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
     excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
     publishedDateTime: 2023-10-05T22:59:00Z

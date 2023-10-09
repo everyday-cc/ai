@@ -85,6 +85,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance"
+    excerpt: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance By Martin Coulter LONDON (Reuters) - A cross-party coalition of 65 British lawmakers called on Friday for a pause in use of ..."
+    publishedDateTime: 2023-10-05T23:42:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-05/british-lawmakers-call-for-pause-in-live-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "Legal expert warns of privacy implications as retailers drawn to facial recognition tech"
     excerpt: "More Kiwi retailers are drawn towards facial recognition technology, as crime continues to surge. A recent Retail NZ report shows the sector has suffered o"
     publishedDateTime: 2023-10-08T00:21:00Z

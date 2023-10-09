@@ -52,6 +52,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Unleashing the power of robotics to unlock the future of automation"
+    excerpt: "In today’s rapidly evolving business landscape, manufacturers are navigating a complex terrain fraught with challenges such as labour shortages, an expanding skills gap, and intense global competition."
+    publishedDateTime: 2023-10-09T10:40:00Z
+    webUrl: "https://www.controlengeurope.com/article/200733/Unleashing-the-power-of-robotics-to-unlock-the-future-of-automation.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/214472/"
+        width: 600
+        height: 390
+        isCached: true
   - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
     excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
     publishedDateTime: 2023-10-05T18:36:00Z

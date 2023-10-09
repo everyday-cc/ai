@@ -32,24 +32,22 @@ related:
         width: 1183
         height: 630
         isCached: true
-  - title: "Simplify medical image classification using Amazon SageMaker Canvas"
-    excerpt: "Analyzing medical images plays a crucial role in diagnosing and treating diseases. The ability to automate this process using machine learning (ML) techniques allows healthcare professionals to more quickly diagnose certain cancers, coronary diseases, and ophthalmologic conditions. However, one of the"
-    publishedDateTime: 2023-10-04T18:58:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-medical-image-classification-using-amazon-sagemaker-canvas/"
+  - title: "Here’s where more than half of organizations are piloting generative AI"
+    excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
+    publishedDateTime: 2023-10-09T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
-  - title: "Create an HCLS document summarization application with Falcon using Amazon SageMaker JumpStart"
-    excerpt: "Healthcare and life sciences (HCLS) customers are adopting generative AI as a tool to get more from their data. Use cases include document summarization to help readers focus on key points of a document and transforming unstructured text into standardized formats to highlight important attributes. With"
-    publishedDateTime: 2023-10-04T18:50:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-an-hcls-document-summarization-application-with-falcon-using-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstockdc-studio-100946840-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Generative AI Will Help And Not Hinder Human Connection"
     excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
     publishedDateTime: 2023-10-06T13:30:00Z

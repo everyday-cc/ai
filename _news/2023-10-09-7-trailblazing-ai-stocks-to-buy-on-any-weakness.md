@@ -124,20 +124,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 29
-  - title: "Best Stocks To Buy Now in October 2023"
-    excerpt: "After the volatility of the past few years, you likely know how the stock market can change at the drop of a hat. Unexpected jumps and drops can create uncertainty for even the most seasoned"
-    publishedDateTime: 2023-10-05T00:24:00Z
-    webUrl: "https://www.aol.com/8-best-stocks-buy-now-174216986.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/6AuPZY4MNQBpsut15joxIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/058dc503cca8e317aa46b6a489036e9f"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "hGGzJixxcRx9+uEjrkH30F/kL6eUsl3puF91sLQqeFILrcguFdPrRg7c/SggAe3MRMSvrggBBXpJcI6aKl6AjCz4zIPpkPObvQeXhXh8jXnJc/l7Pz/iMdmt+i8BAZ9Cv+RlcN+WiHKdQxl/I6nDvElM3jt0T+631BUBNbcMmQ2gpuPtVOEtT71GtOgdK15mLqqIreY3+J9GpVMaYII2xeF0Ti2PBRpT/oP9iUjxcgdx37BAm8+4+N+izUErOnPGg8sJ2norAnnjwVdVBI7vDKKlxmAZxn2KHn6aS/z4UOpMqQu10m2wWb83QvAOIgDiDFPIoSVODOORGQmJSRAcLryHB6t0+mcatxnzXf8v1vlUHHIV3jTp1H1Teg1WXltK4WLdNWxljcLVVDpUdk4OfPy8y1jXKsAh43RKopUoTJsmg/eBIJHMaj98cDbN2JVyGXbUS/iyApPA5UuwCzf0fJU37THYZz+gptR2HOsObz8EI9dHzCPFHMTrYtZY9KkqRPBO/blUtLCJfNxAtU96eg==;i/PfCh5S0uFDS8PaT9bLxw=="
 ---

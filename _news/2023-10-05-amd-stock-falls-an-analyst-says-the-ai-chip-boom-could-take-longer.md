@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-55789d99"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AMD Could Fail in Artificial Intelligence for 1 Reason"
+    excerpt: "Analysts at Baird greatly reduced their price target for AMD stock on Thursday , with the company's AI potential being the main sticking point. While Baird kept an \"outperform\" rating on the stock, its price target was dropped from $170 all the way to $125."
+    publishedDateTime: 2023-10-09T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/750146/man-in-business-suit-pushing-boulder-uphill-like-sisyphus-hard-work-ethic-effort-challenge-businessman-1.jpg"
+        width: 2290
+        height: 1309
+        isCached: true
 
 secured: "pCAXyQhgKXJXk/LpqZ2aXnk6c9dd+L7T8EN35mAPA/RwvHdlqLcAzQJNpi8jCn8nZPd7AuKHpCO7YaT55dVsIh99coNMDJm964uSOago44QPHEcwNLWRtiB9uIXuLGtr5l5BaT89x9g1GIZ6bP7mKPRSTEziT3/aCOzvE0VN3Hc3OCu5zj28F5JhkvEzl02k1xYChPuRHdzSTBo05WzHleG4dJ9qATOZlg/tiXNDWIBjExU62WyXwXifROGf+3bK3ndZ9tQbnw2cgt0P/sVHV9Ct8LVBHvp2AQqNm+BJ5kFe86JssjI5cRxiJhpxNWW5lV1Z8cYwpQiscbxDlkieLnxrwSlpbevGEKTnDo/OkhVdOCEiYWFf04twBE1qdjtRtuims89eKRYmPvJ3Z3PCU2eu/i0dEjt6TlRVSmnqhoDbEUoBzN6pxVqoX4b91TsfL/3IJ6WvK/1bySIoMi5TDziLgK6EvDTt7kiB+nqXfYszG2swHrpoK/hcZmMCbuqRrQuCYmj+ChPHLgkgwXYlGQ==;wrLvMD1BSfy4UKK+Tfc5PQ=="
 ---

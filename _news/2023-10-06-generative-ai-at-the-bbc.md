@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 712
         isCached: true
+  - title: "Unleashing the power of robotics to unlock the future of automation"
+    excerpt: "In today’s rapidly evolving business landscape, manufacturers are navigating a complex terrain fraught with challenges such as labour shortages, an expanding skills gap, and intense global competition."
+    publishedDateTime: 2023-10-09T10:40:00Z
+    webUrl: "https://www.controlengeurope.com/article/200733/Unleashing-the-power-of-robotics-to-unlock-the-future-of-automation.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/214472/"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
     publishedDateTime: 2023-10-05T13:14:00Z

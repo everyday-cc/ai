@@ -548,6 +548,15 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 51
+  - title: "Microsoft is all set to reveal its AI chip at Ignite conference"
+    excerpt: "Microsoft's decision to create its own AI chips is a calculated strategic move. At its upcoming developers' conference, 'Ignite,' which is scheduled for next month, Microsoft is reportedly planning to introduce its first artificial intelligence (AI) chip."
+    publishedDateTime: 2023-10-09T10:27:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/microsoft-ai-chip-ignite-conference"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
     publishedDateTime: 2023-10-08T14:41:00Z
@@ -571,15 +580,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
-    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
-    publishedDateTime: 2023-10-04T17:16:00Z
-    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z
@@ -676,6 +676,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "4xagKCC2IL0Vw3x6vU/zv7AX8gccRRyFep6uyC/7qO8a/FicjiRJJksoJWqJw5soXF1P4+CcLLe7Ls/8861zZsG/lJC2lJC1FoCFTZ43yeY0udPyMXmXoesuw8/r/obWsqmiF8+QL+rzc+HyLVJ/m1T8f+Bf2ZigoA2qIg5VR70VkMNaPDJKRh/RLtegtMq2WCg0V2T2GKRu6hSzg1N10Yf9yVqOFDtWF+8LY44pvKeNyj83hFaLmaZpNLWE8uiM4bN2Q53N0HR7x8a7e37OPgx3Zepd2JCgdXdKxaVkZRxI38H8zwYhC98W/e+ZyKq/2/n2Ux7MEq8j9hXFmS4PZbscMY+xJTKPD3FVtKU9STE=;S5rcITLuwbmGsnvrWEdhqw=="
+secured: "u3XKYd2Q3cyYh6ghWapw+OmlHjpkhIDKL4n4gjgxuKsm6s7rgHZLFUGYsoDWkzBYmrG8JZu0Wg0OQFRyb3maxjomZ8iG8r2TGXSyQILmgsr+JeV1JGlI2hv+7XdHN7R9NLvAquUs+KOQ7UkA9Qi6US01vFZ31vIKpL1zXxVIfGdyJOj20Dv520zxDh8oX4Qn5mZmCAOUoPR8B3kgXSJtbvi6k8KQxzlr+TlP9KdgZQsTfvHAKVdv0L3MaVPk+rxYa9PuAfKvE43NBES4e97Rq1ADSnT/Bk+PFjNZF238fSFfTMaaJUiAVyc7wntQZVA5tcl1F3CrXbyrkdxQizJCf9NkRb+7wUH1FmlsAcYsOd5547OpsAXut1ij1fxxmfly52AGLXnBv4jRw5HIAz7rv+ycZIO4xmKw4obio34lcBLBZWhHJZqKt2z4ohitXskpGHF+9KbHmiMVgJt2i0ENsUS7Lg5SNZpccBcrKAyssR+U7tPXEDM9XtKjcpjNFOUNqIQ411Znqw+aAMp6eIGcQA==;HfmcYuuJIYMLxva1/q8Wvg=="
 ---
 

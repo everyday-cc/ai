@@ -546,6 +546,15 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 51
+  - title: "Microsoft is all set to reveal its AI chip at Ignite conference"
+    excerpt: "Microsoft's decision to create its own AI chips is a calculated strategic move. At its upcoming developers' conference, 'Ignite,' which is scheduled for next month, Microsoft is reportedly planning to introduce its first artificial intelligence (AI) chip."
+    publishedDateTime: 2023-10-09T10:27:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/microsoft-ai-chip-ignite-conference"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
     publishedDateTime: 2023-10-08T14:41:00Z
@@ -569,15 +578,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
-    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
-    publishedDateTime: 2023-10-04T17:16:00Z
-    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z

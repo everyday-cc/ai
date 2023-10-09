@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How auto insurance will navigate a world with self-driving cars"
-    excerpt: "Self-driving cars have been a part of visions of the future for decades, and what was once only imaginary has started to become reality. Not only do self-driving cars exist, but five U.S. states (Arizona, California, Michigan, New Hampshire and Ohio ..."
-    publishedDateTime: 2023-10-04T17:36:00Z
-    webUrl: "https://www.canadianunderwriter.ca/insurance/how-auto-insurance-will-navigate-a-world-with-self-driving-cars-1004238734/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 24
-    images:
-      - url: "https://media.canadianunderwriter.ca/uploads/2023/10/young-man-riding-autonomous-car.jpg_s1024x1024wisk20cX3esIyKFli_xsrYxu_7DZaja12QSMDhx0s-SnBvwN4.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "People Are Souring On Self-Driving Cars"
     excerpt: "The public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J. D. Power and MIT. The growing distrust applies to self-driving cars in general,"
     publishedDateTime: 2023-10-04T20:01:00Z

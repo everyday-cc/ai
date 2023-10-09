@@ -558,6 +558,15 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 51
+  - title: "Microsoft is all set to reveal its AI chip at Ignite conference"
+    excerpt: "Microsoft's decision to create its own AI chips is a calculated strategic move. At its upcoming developers' conference, 'Ignite,' which is scheduled for next month, Microsoft is reportedly planning to introduce its first artificial intelligence (AI) chip."
+    publishedDateTime: 2023-10-09T10:27:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/microsoft-ai-chip-ignite-conference"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
     publishedDateTime: 2023-10-08T14:41:00Z
@@ -581,15 +590,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Custom LLMs on Microsoft Azure are the focus in recent AI offering from Teradata"
-    excerpt: "The launch of Teradata’s Ask.ai for VantageCloud Lake on Azure allows users to query data in an LLM from OpenAI that runs on the Microsoft Azure cloud. The release was a culmination of a longstanding partnership between the two firms."
-    publishedDateTime: 2023-10-04T17:16:00Z
-    webUrl: "https://siliconangle.com/2023/10/04/custom-llms-on-microsoft-azure-are-the-focus-in-recent-ai-offering-from-teradata-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
   - title: "OpenAI considers making its own AI chips, acquiring hardware business"
     excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
     publishedDateTime: 2023-10-06T12:41:00Z

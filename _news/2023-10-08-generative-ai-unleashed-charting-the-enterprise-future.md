@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
 type: article
 quality: 89
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/1920x1080/p0f2ssyx.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Unleashing the power of robotics to unlock the future of automation"
+    excerpt: "In today’s rapidly evolving business landscape, manufacturers are navigating a complex terrain fraught with challenges such as labour shortages, an expanding skills gap, and intense global competition."
+    publishedDateTime: 2023-10-09T10:40:00Z
+    webUrl: "https://www.controlengeurope.com/article/200733/Unleashing-the-power-of-robotics-to-unlock-the-future-of-automation.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/214472/"
+        width: 600
+        height: 390
         isCached: true
   - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
     excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."

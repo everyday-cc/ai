@@ -75,6 +75,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance"
+    excerpt: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance By Martin Coulter LONDON (Reuters) - A cross-party coalition of 65 British lawmakers called on Friday for a pause in use of ..."
+    publishedDateTime: 2023-10-05T23:42:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-05/british-lawmakers-call-for-pause-in-live-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
     excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
     publishedDateTime: 2023-10-06T00:08:00Z
