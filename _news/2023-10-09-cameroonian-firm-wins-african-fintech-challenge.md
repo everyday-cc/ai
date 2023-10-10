@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
+    excerpt: "Ecobank declared Koree, a fintech company based in Cameroon, the overall winner of the 2023 Ecobank Fintech Challenge."
+    publishedDateTime: 2023-10-10T14:38:00Z
+    webUrl: "https://za.investing.com/news/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge-2890394"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Koree, a Cameroonian company emerges as winner of 2023 Ecobank Fintech Challenge"
     excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge."
     publishedDateTime: 2023-10-10T08:44:00Z
@@ -56,6 +70,15 @@ related:
     provider:
       name: MyJoyOnline
       domain: myjoyonline.com
+    quality: 12
+  - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
+    excerpt: "Koree from Cameroon is the competition’s first ever female-led fintech winner having beaten eight other finalists to claim the top"
+    publishedDateTime: 2023-10-10T12:20:00Z
+    webUrl: "https://www.businessghana.com/site/news/Business/295213/Koree,-a-Cameroonian-Fintech-Emerges-as-Winner-of-the-2023-Ecobank-Fintech-Challenge"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
     quality: 12
 
 secured: "si5cxOH6SB48AtkgcrWuUVdToyzKoiYFbUV9lxf2Iz2qYXg/NPmv7gRV/hsjlgfBy0r4vKM+bLA0SRzSSLNFVVD/2cAwQaDEdEBFwxGBGTwMQeBRH6JGmpjcOKc6DYWspHJrkR5X515PZ3X4HcclxwSq82af8d/6vwlt1noXkVLjNb4LGOBP4KoVdTNvTMpUdUM0FqdSGLnGHoovOJiF8d5bWXEkmtEQkBOJyLcE23du2LcFnRM62JMMRIPYFsZQAqUmyjpQzRVgt2yIrZ9ffS0g589O80swpFDR0hCsKhDGEqAh/Q+az6nVmkvX/J+ChduGT/ddib1U8IJoNWCcWwvFMAKYJ/F7i8k8fE8fYLvt2atkHDd59Hi8qTzAmHh6MzPK8uF66I144kRH3uQD2X6p6pFELTAHZ1JAbal0d0fwjyb/0G14o/KtZOwXiQYu/1BMT7yTPW5fusljT5F3wbNw7K2TL7RxL85fIJtqKCpUDx7Vtn7OOPtKLvX/+cfmR9EnRdyEZxUjX0DTqg/m2Q==;hTL+GkrwNx96H148N0aY5g=="

@@ -41,21 +41,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
-        isCached: true
 
-secured: "bLTarEL/bFemft3H6ijQbpGRkE0f8hivENDy3qI2loRwBvZgiXgIYyZ0/F1ICkKLcwCyDEvuQEx6nFbJx0gSRuSUznrhKJOYYqpccToLHG8OXJIqNwLaqYJyOgpKp1cBuEFOPhX9qT87ZTWWPEtEGD5TeNwWoFAaBoTV11yPWjsfGmuWl1hAqcAXBT3vKBQJ5JrAgE0c2r1v4u+L+qHiba+rIp/qUpFJ/DlSyDSjclCuqZ4hPKmlhrqhMJm42OLg93R+s9SDXyTgrL/+Kim6u3lBxoW9aiSkW6YiQLvGp8zir24/t9oeusWTuugwr5Auo3Orje4nU8Daldu+Sp9q9HH+zdWr4AiGLKFhn+bbUX8=;AX82miHX83/5f86tl8wNvA=="
+secured: "sI1PFE1C1yl6W7Tq7pMVYjrNylVpb6cIRqSh8kDJp+p5i5XKIA2Qx+ymrYpX7PlYio6lUvTNZK80T4UEFUzdRGc64evqd72Qx4r9EMP7h5jSIQoSSdA7du+cWEA2eqvotjCG8okm0A1n+iW44m9vff/UowIuahP+5sATkoOHLOb/aqaUKOx9/ez+u2Z2GgJWY3uT0fqOlpiPVHGMDZnVJl+Qeu5+hfCOaFrKERaIcd9cQakGQbQrF1JV7gTJrZ4jGMk8LbQXHHghZnZZ1WEGCQ876ocM2iunHAcMk1bYRq2r5y5YYSCurEBqJvfQJFirBc+JwX0vi9h7QndG7Ijls2p0De5GEMWYPntw2wRIRs8lC7Hk1xUalwmqbMh8e9tgWEkjtX5CzslkTsFGKmBGCKE3e+z8gBNTt0TdiKJmydYG8yw2pCHNfwqRTx7dEP+p0jdsWzIFkGvvubfFaMsKlI4G+7ZVSmMhG6TvcxalJC5MF7xE4TP9YHuIsGn+n2kWSgyWFfTag2haeYy39gUbqA==;GlMc69fGMKPopbEAHCK3Xw=="
 ---
 

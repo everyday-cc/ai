@@ -26,36 +26,135 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Predict the Future of Technology, AI & Humanity"
-    excerpt: "You probably don't want an AI lawyer anytime soon. that knows what the law is."
-    publishedDateTime: 2023-10-06T16:17:00Z
-    webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
+  - title: "Embracing AI In The Workplace"
+    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
+    publishedDateTime: 2023-10-10T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1696536493/wired_tech-support-w30-tech-support-compilation.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1246
+        height: 830
         isCached: true
-  - title: "The future of augmented reality is AI"
-    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
-    publishedDateTime: 2023-10-10T06:59:00Z
-    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+  - title: "How AI Is Changing The Future Of Digital Experience"
+    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 320
         isCached: true
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 39
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
+        isCached: true
+  - title: "How invisible tech and AI are working for Domino's"
+    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
+    publishedDateTime: 2023-10-10T10:03:00Z
+    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 39
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Embracing the Inevitable: The Era of AI-First Companies"
+    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
+    publishedDateTime: 2023-10-06T16:27:00Z
+    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
+    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
+    publishedDateTime: 2023-10-10T04:55:00Z
+    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 37
+    images:
+      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
+        width: 700
+        height: 371
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-06T13:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 19
+  - title: "Keeping AIs in Their Box"
+    excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
+    publishedDateTime: 2023-10-07T12:25:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/keeping-ais-in-their-box"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
 
 secured: "9wz3QYn3WJFpbwWbqzRhBJW5XYt5/eohhWVlbd/xsu0MC7KvTcLtK2MRTUyHyh/dTxwX3SniAM4vmWeqr3L+ONfpMP8iNxa52t+sYQaxZQM0nhe37gHf3krKh6SvJHu1M63y9kddQ584IUFEfoIwBhWTB8VIi/dzdfkRrsxV+SMWIpKwfSNaFcimKoCLrGaKBN8PGvayPNeaFu/Eh6PWMKP1BFhM27Me4BHLjcbxVIv9e6RQLFQz7eR9hTH6farwaHCWKCZ7yK2AZwIVTzgK6L74jcBjQj6njnmfFLIRMHA30Zj22Z8a+eWKGVE3ctxKyzZm7ABBTPuoNOhd9aHGqtHgbj+11Lyy/FhzbhR0AWA=;Z6O5tuUalunWDX3hMXPI4g=="
 ---

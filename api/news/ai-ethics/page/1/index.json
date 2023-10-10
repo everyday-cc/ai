@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-10-generative-ai-deployment-strategies-for-smooth-scaling.md",
+      "title": "Generative AI deployment: Strategies for smooth scaling",
+      "excerpt": "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/",
+      "originalUrl": "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000",
+          "width": 2999,
+          "height": 1785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/",
+      "publishedDateTime": "2023-10-10T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use.md",
       "title": "56% of professionals are unsure if their companies have ethical guidelines for AI use",
       "excerpt": "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -306,7 +349,7 @@
       "originalUrl": "https://www.zdnet.com/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -711,13 +754,22 @@
       "title": "Trends in AI ethics before and after ChatGPT",
       "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.heraldonline.com/news/business/article279840919.html",
-      "originalUrl": "https://www.heraldonline.com/news/business/article279840919.html",
+      "webUrl": "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b6/fb6eed13-3f37-56bf-862b-bac96f214e63/651491fae4ed5.image.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -725,8 +777,8 @@
       "publishedDateTime": "2023-09-27T13:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Herald SC",
-        "domain": "heraldonline.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1396,49 +1448,6 @@
       "provider": {
         "name": "Santa Clara University",
         "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report.md",
-      "title": "Data and AI Ethics Market Growth Insights by 2030 | Updated 124+ Pages Report",
-      "excerpt": "Data and AI Ethics Market (CAGR 2023 - 2030) | No. of pages: [124] | market size, share, and industry analysis, By Type [Solutions, Services], Application [BFSI, Government and Defense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34691120",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34691120",
-      "publishedDateTime": "2023-09-18T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

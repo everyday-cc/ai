@@ -73,29 +73,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
-    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
-    publishedDateTime: 2023-10-05T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
-  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
-    publishedDateTime: 2023-10-05T20:23:00Z
-    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
     excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."
     publishedDateTime: 2023-10-09T17:36:00Z
@@ -115,6 +92,6 @@ related:
       domain: bleepingcomputer.com
     quality: 17
 
-secured: "W9xwZu5sozf53dRVbmiKzsRqHeRCIJ4yzitWYp9cSDWmbE0iC0AGweR23pDYLzZsAVFo/RwxcS5LbUbgU30wNQ/7nRb9to3PQpStFtNck3MO6M86KeI4oC2oGbGSJBpyyeW8iixGPpihAZ4IgkOnpc0S2bpAVQrt97K5KNYpG1x2rVE5TejiWK22VDzi2vZbCHyMjiiVuFPQtDaEa1/CrX1go3i2TQMaYAH7buBZkzelyM2GP5M3opUEch0rKQ2R8ng8JSOJ7S5Vl8hmr9j/+WlFYheGhfGuaUIqdi5QTWFbT5fmSZvcX1NUJiyso3zfvZ0LAO6rAtVOg9UmDYF37k3cxDmV7XeTgAL1zTv8Z9o=;+tHwZd6riYRc51NhhT9k7Q=="
+secured: "6ttNPgFc2AjZCSWTWHzcW/QrtY9Dqq3nEIPeqBFgR1d/LR/qfNm4ReU6Oj0mLlVW0cxiFk+O73M3zwtJg2ran7cN5mEgJvQXyiGi1XDj1X+huRJn7GAbHKmZQBRUd2fR7lMeZ4Htwwp+Ud2oP462co5Mksgs6jI0GRFkp91yygB6+7ogxKoNks4DN+OB36q9CQ6Exp8yeNSeMxB+0ZNitqZm0TK5i8KW3Yn8IwXwgYg2xMgHCjSRU8wxCs1y2wnLl70FgwZ2c8NOXl4fkpqMvADBFKfcQ7586svBWW2Vh4ZZ2ua57yLIkLB8/I9Je5LEDTv16I6xdSNOBToVQvogaPn+OAITkfjsH2wQl0o20LnmhyyKYHvghAxI9S+mJMxYbxhGqj9ws2YZxtIOavqfFsK1dRFnuhTXyKQ3Ozulcaqh+OjmW0whGRoeAdEAWl4XkPqHl2wsH2WZrjehtf7zydCNmlgZGQ3VZO/zipL8NEb7poK+/ATWV4dO9uERI1UnVuThKAEPMMQchZ4T8EQRNg==;xQMKILmbme0/4RSMSRDoPw=="
 ---
 

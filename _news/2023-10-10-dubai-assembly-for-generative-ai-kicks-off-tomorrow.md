@@ -73,15 +73,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
-    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
-    publishedDateTime: 2023-10-06T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 49
   - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
     excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
     publishedDateTime: 2023-10-07T13:19:00Z
@@ -104,6 +104,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
         width: 620
         height: 351
+        isCached: true
+  - title: "Stability AI Releases Generative Audio Model Stable Audio"
+    excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
+    publishedDateTime: 2023-10-10T14:14:00Z
+    webUrl: "https://www.infoq.com/news/2023/10/stable-audio/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2023/10/stable-audio/en/headerimage/generatedHeaderImage-1695556023477.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Coda bucks trend of additional charges for generative AI tools"
     excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."

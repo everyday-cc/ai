@@ -1,0 +1,63 @@
+---
+category: news
+title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
+excerpt: "Razorpay launches AI-powered payments routing system 'Optimizer' - Full-stack fintech platform Razorpay launched a payment infrastructure, ‘Optimizer’, an"
+publishedDateTime: 2023-10-10T14:16:00Z
+originalUrl: "https://www.siliconindia.com/news/general/razorpay-launches-aipowered-payments-routing-system-optimizer-nid-225821-cid-1.html"
+webUrl: "https://www.siliconindia.com/news/general/razorpay-launches-aipowered-payments-routing-system-optimizer-nid-225821-cid-1.html"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: SiliconIndia
+  domain: siliconindia.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.siliconindia.com/news/newsimages/67mShJ4U.jpg"
+    width: 570
+    height: 367
+    isCached: true
+
+related:
+  - title: "Razorpay introduces 'Optimizer': AI-powered payment routing system"
+    excerpt: "The 'Optimizer' seamless integration into more than 100 payment solutions, spanning Payment Aggregators, Payment Gateways, UPI, Banks, and other payment methods, businesses can enjoy a consolidated and thorough view of their payment processes,"
+    publishedDateTime: 2023-10-10T08:35:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/razorpay-1696926402.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Razorpay Launches Optimizer — An AI Powered Payments System To Cut Transaction Failure Cost"
+    excerpt: "To protect businesses from losses incurred amid transaction failures, fintech unicorn Razorpay has launched ‘Optimizer’ — an AI-Powered payments routing system."
+    publishedDateTime: 2023-10-10T09:10:00Z
+    webUrl: "https://inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/"
+    ampWebUrl: "https://inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 49
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2023/10/Razorpay-Social-1.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "Bo3SHti94e+RbrqsRj1sFXpea8kBjbyzHio5KYXBMi5soSIcvWlZDObgDhlTl4ZWJEeyaiUnF/n6V25x9BO9Xq508w6Zpo1boh9QYgL8lSKrxI+SRyV6kytaYzkhxfrbOK5YqOmcL3zto0UABlQw1VCkXf6ckVwwGItrvpR+Zsn+M5PbkgQkaJwB+03/KnqnstTWXxE7KDnrNyn4Cn6JjcYoEpv5kJbPm4XuTJ7xXaYxd7qdlZ5j+qqln8ukqxREFz42mta1PsGwvJs/4PPbb1pJ1dstrMRvJOnBr5v4xeKYYf/ggcmqVLGUIskzxG4Y9/P8CbKoiWLYUdQXBE/80DiYBg5IO5zYwz4k+u12u9Q=;aEqwoPudzgK7sSs4tuPsLg=="
+---
+

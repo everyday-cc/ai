@@ -3,18 +3,24 @@ category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
 publishedDateTime: 2023-09-27T20:44:00Z
-originalUrl: "https://www.heraldonline.com/news/business/article279840919.html"
-webUrl: "https://www.heraldonline.com/news/business/article279840919.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
+webUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
 type: article
 
 provider:
-  name: The Herald SC
-  domain: heraldonline.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "d0MfBjyRKn+aYBxQx5ei0FwhNSS2JZ18o8S3LWE+sXDkrDztJJ/brR/reXzpMEX3FqIUHKGInohR7zrhOmQ7fhu1nlnv9u6ZB3XOQvATiH/rzhR6eBmnmbpYrs0J80fUAgSdXb/Mp/R5V6oIH4TCnVUAqx7kle4dBXQVnjygkMXhkGNXhkUc9hf6Ug8a9Gx4lJXuYPs0EkovL5ssSXNymBfdEX+GTksBJGcoCUeivOCjp9inV1TNSLaxEOs0V2sT+2fBWvotRhO2EPwMEBh4Y4fblK48MeIFddTsanJTMAFQ3V7P864X8yrjE80zvxlipqyOAdRQ2BCr7MLQ6O8YQbiRKdNK5Hr78E9Q8xP0n3A=;oUQhEfmepjH0A+Zt+uNYMQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b6/fb6eed13-3f37-56bf-862b-bac96f214e63/651491fae4ed5.image.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "b56NbmXp1CBGe0VSfganH2QE7G1ZFUqKjWYAbyurqFIkSt2JxbklGi+Xy7cyWZEr4OiGQ+ej6KtBzv5WT2dcSu6dJkcEKomX4Z8WqgQrL91t4af9218udTVv/8VTlRJmC5P4xDgtL0qjPihc9SjPgsEKCrS9ovzgP1Lvj0GSXJqeIvTsCW73n9wl08pdsl2N/JlOyR5WTclyknwklN/u7/FdunEtZ5aBxEzAi4ROB0mXsGwNsR6z5sshAG8ReWBVRZIMxtSnG9/274kzs3R2FpLXR2ct4M5v+axmV+1TKgBLVfhE1KrpgnKgEmBwomPebD833hDuJuSshiA4e+Ze03cEP4eli1yAx9KsaXTkwjY=;BXTqeLnVlbUPcnDQuY+A2Q=="
 ---
 

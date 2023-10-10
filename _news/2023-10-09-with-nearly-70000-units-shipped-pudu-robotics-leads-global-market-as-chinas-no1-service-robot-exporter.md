@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/with-nearly-70-000
 webUrl: "https://markets.businessinsider.com/news/stocks/with-nearly-70-000-units-shipped-pudu-robotics-leads-global-market-as-china-s-no-1-service-robot-exporter-1032688109"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,17 @@ images:
     width: 400
     height: 224
     isCached: true
+
+related:
+  - title: "Pudu Robotics Announces Strategic Partnership with SoftBank Robotics"
+    excerpt: "As a Chinese Start-up, Pudu Robotics is proactively expanding its global presence while maintaining a stronghold in the Chinese market. Known for its popular cat-shaped robot \"BellaBot\" in Japan, PUDU has captured a significant market share for catering service robots in Japan."
+    publishedDateTime: 2023-10-10T10:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pudu-robotics-announces-strategic-partnership-with-softbank-robotics-1032691506"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "lN9ebxy4nV2OcaXHma61UuYLlqBM8lweKBG1L+sUOQK19ho8i2sfOJ1cm3KCMUxz3OevI05tu5gAwCcfPnP/Ym+ZFIw5Ti2SC668GSdkIRT7gG1rSBd97ynSOUWCNT/OMIlRd5MF/LzYLrhQ5RdfuezJA0W4krWu96d9MlzG/U7vo8QmS2wazwOlhnHJsM+mhzuo00ISmHTRL1qK8TFUMglKbHfpVjsmVGpVap/C83T8awtW4mncDMgZASJUtnhr4Jfv0nE2d1+duOPmB2owt1SwRGULdZd385Jn9t5yPnv6lf+JlIULsK2kyL4fCuSwrabqstHW00zNuMpnX5wIeS1B8kBmgE3XnQu5/QWgy8/q4Pbgn21BQ6KUFMz3ovkXWbXc/RrZz1XqMo627fNKHxUpbN5vPkAZ/rs55ow48UI2ESoghYpe/rfzcBUy6jiA/wnvRHGwGLXYtZ0nvWfOlcP7y0JgF1cVMItFy/Jgym+bAt2M7FzX2chAJuaJFJ/e+cU7kML7M87B6vRoDPy2cg==;Zrhb5kO3MbOAYlTg19AP/w=="
 ---

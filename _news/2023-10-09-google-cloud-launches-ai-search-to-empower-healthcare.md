@@ -7,8 +7,8 @@ originalUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-sear
 webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Arab Times
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in healthcare: trends and application examples"
-    excerpt: "They are available around the clock and are ready to answer questions in real time. This is one of the major applications of artificial intelligence in healthcare, which is increasingly being used to raise awareness and improve self-management skills in ..."
-    publishedDateTime: 2023-10-09T13:47:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/10/09/457356-ai-healthcare-trends-application-examples.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 34
   - title: "Google encourages entry of AI into healthcare: Here’s all you need to know"
     excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
     publishedDateTime: 2023-10-10T10:55:00Z

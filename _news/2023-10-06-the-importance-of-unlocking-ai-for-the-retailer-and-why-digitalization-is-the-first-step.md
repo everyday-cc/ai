@@ -72,6 +72,15 @@ related:
         width: 1183
         height: 630
         isCached: true
+  - title: "QATAR FOUNDATION'S WISE SEEKS TO REVOLUTIONIZE EDUCATION IN THE AI AGE"
+    excerpt: "WISE Summit will explore the challenges and opportunities AI presents in educationDOHA, Qatar, Oct. 10, 2023 /PRNewswire/ --"
+    publishedDateTime: 2023-10-10T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qatar-foundation-s-wise-seeks-to-revolutionize-education-in-the-ai-age-1032692613"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "exs0G1jXsUCMJex+JGlxm7nwM+YGmReuNUo9Caqfdd29vshqqCRH+nBhrunVhmmOXEu0zdgZOorModHHwxe3Ow4NrnVAFjfGzTB2d60p3lW85gC7ft7ca0btWz7GGmIoH7xm/ZPnxPpVGQKkWmbutRg+HIErZW/ZIcP/F1yG/y/iIKb+xOrEVxHQPeJ5beG3nL3yvIrQd8hRn/+fN3xBrFC15JMffwkJPEtuvAAJlYc+znRurm8f16Kg7QbkY7lR5epiNf2ITo5Nl6WZKFvPb2Qn6k78+UVEQh1EYa9O+O5nE4dWL8niNOdzcnbOqFUWDxo6vmHKdCbihXmjjvjKvWgd1auwHGQAUx3L4TtmV44=;M4Oxdf21TdSYMg4xb1QquA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-po
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India TV
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.inc42.com/wp-content/uploads/2023/10/Razorpay-Social-1.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
+    excerpt: "Razorpay launches AI-powered payments routing system 'Optimizer' - Full-stack fintech platform Razorpay launched a payment infrastructure, ‘Optimizer’, an"
+    publishedDateTime: 2023-10-10T14:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/razorpay-launches-aipowered-payments-routing-system-optimizer-nid-225821-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/67mShJ4U.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "BQXJtdIr2LEdG5kLVqteadhwBm12wpVKUhcRKuuufb3X1/j9/4c/QrIaH0Uhk1EmWrmpCSIjUNtJaVdIVjfaLWNe/aPizeQeFrAnDLT7Q4imGeuDGttuDGQWkqPjvE3p24BHH/Fsa3OenBq+t/HBIbYjzR7m+JU4w03+YwNOaUJKLeL64t8/eF3WQ49gbS0wG9o5nUVWcOwC2hyaIWO9d+uO2GdcF+LEUrqfH+fr5UTAkfpiOTdyPRIcD7QM8qfxaog/DdT7Q7Cg6mEIE5wAvLHHcg3Bx5ELTjFP8brIY6YWnR5cMwu6q+tYf4kZ1HgFTORQK/xMS9c9xuA8ReKZUCsxMj4t6MKfKAJ+a01pQWA=;rLjnhVq42DiElg9wtTR2xA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/how-deep
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/how-deep-learning-is-moving-cybersecurity-from-a-reactive-response-to-proactive-prevention/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Calamu Wins \"Data Security Innovation of the Year\" in 7th Annual CyberSecurity Breakthrough Awards Program"
-    excerpt: "Data-First Security Pioneer Has Been Honored Yet Again for its Leading Solution to Double-Extortion RansomwareCLINTON, N.J., Oct. 5, 2023"
-    publishedDateTime: 2023-10-05T22:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/2240072/Calamu_Award_banner.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Axis execs talk AI regulation, cloud economics, cybersecurity and more"
     excerpt: "Axis co-founder Martin Gren, and Tom Nilsson, Vice President of the Americas for Axis, talked about the future of artificial intelligence, the prospects for regulation in the"
     publishedDateTime: 2023-10-06T17:34:00Z

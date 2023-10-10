@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-it
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/09/meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 936
     height: 462
     isCached: true
-
-related:
-  - title: "10 Best AI Writing Tools 2023"
-    excerpt: "Users can write in 30 languages with up to 20 tones. Built-in plagiarism checker. QuillBot is an AI-powered writing assistant that allows you to paraphrase and summarize texts and also functions as a translator and citation generation tool. If you need a ..."
-    publishedDateTime: 2023-10-05T22:23:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "XgsiNfJRnKR89aogr7SZLrmaZHZak/vhrAwcE5XcSfORz7qhFPp5fzXypr0uWubMwK1YzJ2+R6xtx+eMXFIqAjVZhCX+HYDknYwEpRyTsNcIHoCXw5V96kVAiU0yPD6+UUkACp1r57gX4szTJ+MBEhXhuBY1W3i7O2HXKLYmXt082TLkx7xZNVQI9zS3B8o+IWJhRaznWs18v0sBQe1z/Ke841Xuv3gZQTeCko6DLqpDUXNSTmC3lA94Ifoprs1JiVt2L0HWAxaiGnQD62yxN5vSHmfY5y7945G0m9i+jrbMWBjOo6xFLvPAHu5x05saI0HravgaJbGG0BZyiJMI7k8GVhf/z+dL9aTbc/U2sap+9z1gklaMn9MAe1SBEHWLiCRdfRPvbLrtJvjCqTYNtzijpeBUXGulQaycDnoDLJpj16zP/m/EZ1enPdln4z8PkPSdQKVYOUysZIAjSFYnuBhmI1ITfvvVviSr7NB8cjPgouqMcUAa3Q+p0nzc67mMf+v678YZuUAdoY/9SRZOpA==;VcSDprtbrhJntggoP8uVjA=="
 ---

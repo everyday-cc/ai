@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/snap-ico-notice/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
-  - title: "Meta Is Paying Creators Millions for AI Chatbots"
-    excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
-    publishedDateTime: 2023-10-05T22:01:00Z
-    webUrl: "https://www.theinformation.com/articles/meta-is-paying-creators-millions-for-ai-chatbots"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 39
-    images:
-      - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qRGAaUFCgVvJLOnl8sEd1ZcojswdMoLM/4FAnZ57WZvpoDYXxuHQgsI76zLZtOZtKvcHldMS576zRHKrrq1iES1A2BqCi1PZjI4ZUHgAiZhs+Xmq582yKNtmMO2EEeEu32F7VZFtQoKtW64i3N4QP40DZBEpnHnNluL0u7isxG5k6V6Vg+9Z7Sk35bUHlEHZmSJl0XvwsSopVQ8Qk5GRK2XyeNVEOJDBQVJV7w2asKuKQcLEIG14ql+xJRmq1lX7zkwEuJA6msEmasWVtaiPxlDOBR8i+Y3XbfanHgdbUn/Ti5zVWkA0IG39eB6nIPvNyewf+KPJzpnousrzph6wHGKCUi7p4Thmyi4ErZDD2XlOHmagrFxhUNAemzul+GQsDwpv9/+8JWepmlIJXLiKdwTa55dW7PtlxxOi+oCAkwsV9Y7ajZ/2Uh9sliNVRfr1Tl8+Tvkx1l+hiWOkx98l2sR48FjH0uLM9sBdc/EQk1S9pDrAFuvEcJ87UUj65nRMTzh8UmmJhK9bJu6EjeAG+A==;9ZEs7x2xGLq825usaL5sTA=="
 ---

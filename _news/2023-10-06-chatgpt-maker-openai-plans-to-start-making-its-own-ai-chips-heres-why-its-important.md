@@ -177,6 +177,20 @@ related:
         width: 1022
         height: 659
         isCached: true
+  - title: "The AI Revolution: How Microsoft Is Positioning Itself for the Future"
+    excerpt: "Microsoft is integrating AI into existing products and operations. AI will propel Azure Cloud to greater heights. The artificial intelligence (AI) revolution represents a transformative force ..."
+    publishedDateTime: 2023-10-06T07:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/06/the-ai-revolution-how-microsoft-is-positioning-its/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/749625/computers-office-getty-6217.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
     excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
     publishedDateTime: 2023-10-10T04:46:00Z
@@ -595,6 +609,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
+    excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
+    publishedDateTime: 2023-10-09T00:00:00Z
+    webUrl: "https://www.dmnews.com/leveling-up-ai-openais-bold-chip-endeavor/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 54
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-Endeavor.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "OpenAI Considers Making AI Chips In-House"
     excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
     publishedDateTime: 2023-10-09T02:54:00Z
@@ -608,6 +636,20 @@ related:
       - url: "https://www.lowyat.net/wp-content/uploads/2023/03/ChatGPT-OpenAI.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "OpenAI Eyes AI Chip Production Amidst Shortages"
+    excerpt: "Similar steps have already been taken by other tech giants like Apple, Google, and Tesla, who have all made progress in developing their own chips. Should OpenAI proceed, they would have better control over the AI systems’ performance and capabilities ..."
+    publishedDateTime: 2023-10-09T00:00:00Z
+    webUrl: "https://www.dmnews.com/openai-eyes-ai-chip-production-amidst-shortages/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 54
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Chip-Production.jpg"
+        width: 1000
+        height: 523
         isCached: true
   - title: "Microsoft to compete with industry leaders NVIDIA in developing AI processors"
     excerpt: "According to The Information, Microsoft is currently in the process of developing its own AI processors. These processors are specifically designed to handle"
@@ -663,6 +705,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 51
+  - title: "Microsoft to launch its new AI chip 'Athena' next month"
+    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
+    publishedDateTime: 2023-10-10T12:33:00Z
+    webUrl: "https://interestingengineering.com/innovation/microsoft-launch-new-chip-athena"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
@@ -754,6 +805,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 8
+  - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
+    excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
+    publishedDateTime: 2023-10-10T12:50:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60327355-grid-dynamics-deepens-partnership-with-microsoft-by-earning-coveted-specialization-in-the-azure-migrate-and-modernize-program-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 7
 
 secured: "vm28qznK4LPwT0jQSY7tfIopFUGxRm0djZYE+01rmXxSh2kgWSbmAO6LA4LeT4saP43MQIPIIsaIuuo8bvLUgADLyqoXOnU6b86TRL+uIZHMOqThyRFobHd/j7IIuaJGL/fINDQVRPN/lfYlvwnxH2zHIyUUKziTio4YPanLF6AyZTDSLkIwgiopGb0hRPap0AkrUdV9LY70yRQSAmYZu4o6sivwShvsK7PNwUPMdJGgvZO3+Z74Oow+qLVSM35iccifQbaa7q4R1v88XPtkjyl22nqqIB62qm7Z51t50zvsb2T93cxiMmr1CSRES8M+BuV+5fZH9iIMeMaWzY7uJtBCe9Zk37GLGMECHaPvm3lp84q74TTyrWS4OckMvV9agzwLgTs72jJq6nhceGLX55fTmP7REEjNY83OtpHBwWNryMS372jw5F8iCTnak1hF0fuYXNUBPBnYYqLRFJdg+RaCuSQKTuM2lnCRRSiNhR1cdjOymPu4Ead1eGlGvUdY3xi9yzBfZlLPOcZjVq4e0w==;36l4xYLMpdhZ5vK3Cf2dyw=="
 ---

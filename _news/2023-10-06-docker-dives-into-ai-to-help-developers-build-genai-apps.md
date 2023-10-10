@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-t
 webUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-to-help-developers-build-genai-apps/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 799
     height: 495
     isCached: true
+
+related:
+  - title: "How Human Intelligence Is Helping To Drive AI Cars"
+    excerpt: "Driverless cars are the future. But for the ordinary motorist, that future is still a way off. The AI driving autonomous vehicles is clever."
+    publishedDateTime: 2023-10-10T12:13:00Z
+    webUrl: "https://nocamels.com/2023/10/how-human-intelligence-is-helping-to-drive-ai-cars/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 21
 
 secured: "Dr8nin60DlAr20g6KkTple8Re1IPAUTQW7ue5UaSQElZUF90HXBR4GkHpRYmaTvE2Q06iHcMTptvhWuiSm/4TjxbkmIih8gg5xrFju8Y8GBfjEi5Kn8VoMs574/VcuIHxIwjXsNdb691DzcciSrnWPN2apYo1/d+jCCO2N1K1fYDsjPR7tnCu6twO8tBdNKEcHqVS3L8huUKNJIM3h8ML9r9hYLCy0hxKAIAnyw94vHKTsjzu+J8sDpSDZwx2bqOYqYha02YBS+SP7gXTd6jWmFQmeXFuM9nZmeFXVeiX2mixRCv7O15RHEs8zfgOKoMatGDtCLcU0ORENgaLN5qkb5t43O4j4wMyqa2tz4mQtgj1BWlUBGyK89nOMEm4bb73LMHnXFtpKUjRDk6x0nXHhUB1dGTl2QEEtDhAvfefnoyYgr/DkCvnh3gpdTjYDyVLzmgXxbFNiKA7S5brvJ0KFWB9/2sOlpujowTwaWdhkeHBo25sq6IPuMbSO7oWmU7Tvjh1xFVNjZ5cL6Pq/C1hQ==;IQpyWo5cvi22mB19Bmn9lA=="
 ---

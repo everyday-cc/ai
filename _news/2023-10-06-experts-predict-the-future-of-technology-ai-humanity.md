@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the
 webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
 type: article
 quality: 67
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
         isCached: true
 
 secured: "lHsk0tV9TgZq3RJNIMrqM443e+BSa6SR8SEUFAQn5YzpF2YJhDztvlEMHd9HTCpQXk++vDmoGAcJlHOxSq3kDtAj6TRgsDB1pzgBfMWJB2IbVPAkHeuf+CKizW96ARi4qvSjFiwMQLf64dDgv5MwevsH+fo8hVGhW7cwn9mEDZfwRxuuRG4/BJDOIR52sXZ2c6LDZzuHhjNYiB8vKFHVO91uZrkXL8mg2nO+gLRW1dq4CAKPk0Mey1Unh4Hz/nufR9WxAGJo8kH1p0XAwal4+2cuKmMqt7WpmmH1vcG87kn201RX37zLDKojhG1UVIvXLbFQAURk3UC0mSB1Q6Aj2ZY/7GnzYYagEqaNfyVEY34=;SavIXKAxVXUHy6r0Ma3mzQ=="

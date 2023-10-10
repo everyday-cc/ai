@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driv
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Carscoops
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial"
-    excerpt: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial By Dan Levine and Hyunjoo Jin SAN FRANCISCO (Reuters) - A Tesla engineer in court on Wednesday rejected a lawyer's suggestion that ..."
-    publishedDateTime: 2023-10-05T19:22:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Vietnam, China resume self-driving tours along frontier"
     excerpt: "Vietnam and China are set to resume their self-driving tours at border areas beginning late this month after more than three years of suspension due to Covid."
     publishedDateTime: 2023-10-10T00:17:00Z

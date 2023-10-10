@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-pe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1183
         height: 630
         isCached: true
+  - title: "QATAR FOUNDATION'S WISE SEEKS TO REVOLUTIONIZE EDUCATION IN THE AI AGE"
+    excerpt: "WISE Summit will explore the challenges and opportunities AI presents in educationDOHA, Qatar, Oct. 10, 2023 /PRNewswire/ --"
+    publishedDateTime: 2023-10-10T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qatar-foundation-s-wise-seeks-to-revolutionize-education-in-the-ai-age-1032692613"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "The Importance Of Unlocking AI For The Retailer, And Why Digitalization Is The First Step"
     excerpt: "Retailers can benefit from a digital transformation of their wholesale process in many ways. Let’s take a closer look at a few of the main perks it can unlock."
     publishedDateTime: 2023-10-06T10:45:00Z

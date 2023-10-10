@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches
 webUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -27,24 +27,6 @@ images:
     width: 400
     height: 600
     isCached: true
-
-related:
-  - title: "Dubformer Launches AI Video Dubbing Solution for Media Industry"
-    excerpt: "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI"
-    publishedDateTime: 2023-10-05T20:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/35117020/dubformer-launches-ai-video-dubbing-solution-for-media-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35117020"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35117020"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://dashboard.kingnewswire.com/uploads/press_release/1696518871651ed2d70b11a1696518871651ed2d70b11d.jpeg"
-        width: 400
-        height: 600
-        isCached: true
 
 secured: "R+9iDXfeQJmeA0Fetm/PUIAzWfBNUsp6j8p1HHD/Mbzuu2Xfni/utOwRWst/fDmdZw08XU3+AVTYwCapCB0hmghhACEVtHHHbdUNk3Ynws0F7VZXLF3NkSXHICA2L3KXT+gm5zhwv3cSnZeKNJLFJqZkKhTXI/7QwZJkafAmoh6hSSRXKBqtFDBd2hpi+dSVPjnuOKs70GsMQehxK9/BFc1dr8UHxNQT6lMRSBfyGufQP9D5NHOEpCMqqqRKCN7SYUX5R99cpDWtOpz5gChDcDrRG5QVKuwzYEBVQkGA6CdvwGnRejT5ycFBh+SrhF+ROjevlrP0utuTPJ4KsjLywl1LFN871Q1pQehK6I/OlBTRMzO9mHe7OX2cG1aAyE/9ZNgu7m+xrUYl4OVYSFepW6LJhRb0U3eNPZiLeI6N6EICLtU42NHEqw2IlnRQoEuhUBRX0bREcKqNXfSbqIwjwqng3d/tMV3jL0P9O+XVPBzkQWO8NO7uHq7aiDa9v8IFVAD7n5PrlJlbsdUadqr21Q==;V9vodNx9MFNZTCOCXcy/bg=="
 ---

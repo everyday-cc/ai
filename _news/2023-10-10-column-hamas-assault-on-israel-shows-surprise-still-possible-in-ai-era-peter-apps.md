@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
+    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "tFA8WQ/5pNEsZxHjtiElDIS2uXw/f5VnjhiAaoXh5nRbYmunss9kKlOyQjGt7H6u0NS68tMYSBUR9cU4di5Riku/NhAtua+OmVu8aC1PAx8rIjSOtbevX++GJxuXkC6NUF1dtYqYXKw9eYA7xy2QRHfNvFJUQS93mhziXmJ5aYdyJsnsbrBHzU4gteuDIza8Fra9iqR00PLQzuP2ytZllBzftZG5lfjXVzfET5sKT6thyT3SaJ5oGGySILcTvhbQc/4p1s0RwuJt41AxL2lPv+XBnCNOokwpi+Dn4+4MajGam4SHEESESeetsOGbou7iEegpgXwlvzUyF0j97Q9IFKmcrhwD5SogIvWKJSuI0gSpx9+g1DMm8K75jVZuT1m0Al2maIv9fL2rKR0RkOAKQhqTcAkkjg4JglxmsTma/QMuGZhvM/H/Yi24cujLSaZbux9nbfqQ7wnzN9fjxaKufSBXFoaqCD3EAIRNverokcnCgWt+Hwzu22ytEloS/qAhRuivjif5p8uGT/jdwsS9nA==;Mca6yLw3DmLh9QL5nU++Bg=="
 ---

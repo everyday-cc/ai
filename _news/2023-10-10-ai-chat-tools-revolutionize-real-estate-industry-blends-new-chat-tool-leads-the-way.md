@@ -7,7 +7,7 @@ originalUrl: "https://realtybiznews.com/ai-chat-tools-revolutionize-real-estate-
 webUrl: "https://realtybiznews.com/ai-chat-tools-revolutionize-real-estate-industry-blends-new-chat-tool-leads-the-way/98779663/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Artificial intelligence: who are the leaders in body measurements AI for the apparel industry?"
-    excerpt: "The apparel industry continues to be a hotbed of patent innovation. Activity is driven by digitalization, convenience and growing importance of technologies such as artificial intelligence (AI), cloud,"
-    publishedDateTime: 2023-10-10T09:45:00Z
-    webUrl: "https://www.just-style.com/data-insights/innovators-ai-body-measurements-ai-apparel/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 42
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2023/10/Apparel_body-measurements_AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "I8Nqyf8xIGqMYnubdm3GkVUa+CSreOFbcnUAJUAdJpSDFc/IldLLpwa0Y3xZqiM+wd3xg+Ih5cfL2VVM6FgQc8ighbK/PZoJYidOtVHtbwFjdNehnmRh7dVBFjTvm5mszZdDOGTSXm1FyiRVP4p01a88sOHcXC0lgnM0o0oGfpZzQtIpx8eGf2HfXuKIQPshSpt3kGokK0IxjHFEE9zV/HT84XVS9Z4fbehHERUf9DKllV9xfMVnnbFQKF3I7f1/QzO/Qp2Jb3a/N5mIFqzI2LhJnKhW15ugPrUUtKpVF0AyNAyGhtSLh/s31Vr6qpiDs8rabSh1dguKAZmB4P3vLyK4CmLlhdJ7ti9BiJXUydg=;GO3pt1peRdQo6ODF/vt4Zg=="
 ---

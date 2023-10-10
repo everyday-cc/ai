@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,52 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Experts, officials warn of artificial intelligence challenges ahead of 2024 elections"
-    excerpt: "A.I. technologies like deepfakes, designed to put out false video with false audio of candidates and others, are sparking concerns from those in charge of elections."
-    publishedDateTime: 2023-10-05T22:45:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/experts-officials-warn-artificial-intelligence-challenges-2024-elections-michigan/69-5c023146-5381-49f7-b3eb-ef143f7988b0"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/experts-officials-warn-artificial-intelligence-challenges-2024-elections-michigan/69-5c023146-5381-49f7-b3eb-ef143f7988b0"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/experts-officials-warn-artificial-intelligence-challenges-2024-elections-michigan/69-5c023146-5381-49f7-b3eb-ef143f7988b0"
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 50
-    images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/d135af1e-7f3a-42c1-a116-a890638c8b3a/d135af1e-7f3a-42c1-a116-a890638c8b3a_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Admissions Offices Deploy AI"
-    excerpt: "Even as fears of robot-generated admissions essays abound, colleges are increasingly using AI in application reviews, raising new possibilities and ethical concerns."
-    publishedDateTime: 2023-10-09T07:15:00Z
-    webUrl: "https://www.insidehighered.com/news/admissions/traditional-age/2023/10/09/admissions-offices-turn-ai-application-reviews"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 39
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-10/AI_Admissions.jpg?itok=g3dYwztO"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Hoaxes and AI: Communications ministry dials up combating efforts ahead of 2024 election"
-    excerpt: "As Indonesia draws closer to the 2024 general election, the Communications and Information Ministry has been working to anticipate a surge in hoaxes circulating on social media. In the first eight months of this year alone,"
-    publishedDateTime: 2023-10-09T09:50:00Z
-    webUrl: "https://www.thejakartapost.com/front-row/2023/10/09/hoaxes-and-ai-communications-ministry-dials-up-combating-efforts-ahead-of-2024-election.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 30
-    images:
-      - url: "https://img.jakpost.net/c/2023/10/09/2023_10_09_143091_1696844377._large.jpg"
-        width: 941
-        height: 529
-        isCached: true
 
 secured: "wXE6A2ddvMBE9F0Q4S1YdjFJ0Q6iuPR6CUsXgMGfHxFI1h2/w4pBaBSq+VzkfsTkwAxRsADJszHQSrUN17ihxFSRDQnj2XseFFeNngEHHPuu/pTO1wWpwJOq6v7zPRUShOD2WmxVzm6aBxK0Q6uvYc+bvKFqYY/o8sE3MGdOAdbnjeS/e6sy2m+xTZtdPMMKV6uc/2WngBFCBakv92iHIIgEOLADKldQuxngWk7WHMQ/gVqGiUN8/DWW4fEamPNKbk5RVtMtxnh9nuh1vZCOp9inAIOH/fzdX6E8Yd1e0zKLdO1+km7OdEl283uyqX6gEZyomRYJri+q3NkNMRRK4IjkR4/wrgzOHeamwIm5dlIr0/aHzgslgVNJy/VQGjo3XiTMetxFYKkOhf1UZ3oMeuymE4ZO33sy4Yp9jC87Lem6SmgRt+rQ4emQyodyyYuhq6fNu46nf/rr08DSCXvi6MroAUrTrMu7jOb7+4IOOx1jSCggqUogutw3V0NQOSW+mNG8IXsCR/I5uygOeR79lw==;T2WkQoT6GZgrXpBCpiNdXA=="
 ---

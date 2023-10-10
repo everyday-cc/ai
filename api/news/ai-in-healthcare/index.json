@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-09-google-cloud-launches-ai-search-to-empower-healthcare.md",
-      "title": "Google Cloud launches AI search to empower healthcare",
-      "excerpt": "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records.",
+      "path": "_news/2023-10-10-how-ge-healthcare-is-shaping-limitless-ai-driven-healthcare-possibilities-and-solutions.md",
+      "title": "How GE Healthcare Is Shaping Limitless AI-Driven Healthcare Possibilities And Solutions",
+      "excerpt": "AI, the cloud, and intelligent platforms like GE Healthcare's Edison will enable more people to access healthcare services on an ongoing basis. While this transformation is in its early stages, safe and secure AI may serve as the catalyst that accelerates this remarkable journey.",
       "sourceUrl": null,
-      "webUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
-      "originalUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
+      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg",
-          "width": 600,
-          "height": 331,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65245bc68366e2d8a028ea98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1497,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T06:33:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
+      "publishedDateTime": "2023-10-10T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Arab Times",
-        "domain": "arabtimesonline.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -157,7 +166,7 @@
       "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {

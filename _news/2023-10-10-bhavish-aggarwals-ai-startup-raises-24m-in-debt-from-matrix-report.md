@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/10/bhavish-aggarwals-ai-startup-raises-
 webUrl: "https://yourstory.com/2023/10/bhavish-aggarwals-ai-startup-raises-24-m-in-debt-funding-matrix"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1667
     height: 834
     isCached: true
+
+related:
+  - title: "Bhavish Aggarwal’s Newly Launched AI Startup Raises $24 Mn From Matrix Partners"
+    excerpt: "Bhavish Aggarwal incorporated Krutrim SI Designs in April this year with Tenneti Venugopala Krishnamurthy as its director"
+    publishedDateTime: 2023-10-10T13:29:00Z
+    webUrl: "https://inc42.com/buzz/bhavish-aggarwals-newly-launched-ai-startup-raises-24-mn-from-matrix-partners/"
+    ampWebUrl: "https://inc42.com/buzz/bhavish-aggarwals-newly-launched-ai-startup-raises-24-mn-from-matrix-partners/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/bhavish-aggarwals-newly-launched-ai-startup-raises-24-mn-from-matrix-partners/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 53
+    images:
+      - url: "https://cdn.inc42.com/wp-content/uploads/2022/07/Bhavish-Aggarwal.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "wmHieT4Vz/6KRIBF3SDdyw1wfiSfT0HmLQpDMRX7+wjACjofoqr+X0Uaw5vYOiaBAcQv+i4oZLSw+OCfaQKSP+nQoBxtEY2EgCOC3NhUfNWoYh6sKF3D8tyZnIt/lM7Em01+SeMma5+f7WN02teey6T3S8mJ0VrGn3ULN+P8XPups3Pd33lq/OXi0CgEyo3wE9ddGh446C9Eo1LOLlcxrWp4qEeltnFswsBmXLPgPt2/DFUbm3WNfmKZduU9ojwiKFA/5WLzff3q4pzryh7gkkvVwj29g5sN8+//hKyKJEIA66sZUBbZmfvEjim8DGgCyDDScQJhPfr5odWyc2zOp6G2WfBrvjND9OWWRQB6YQw=;h//5ELezIEWRI+RtGjZ+bQ=="
 ---

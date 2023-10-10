@@ -19,20 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Closing The AI Regulatory Gap: The Importance Of Involving Vertical AI Vendors In The Conversation"
-    excerpt: "A significant distinction in the AI landscape arises between horizontal large language models (LLMs) and vertical AI solutions."
-    publishedDateTime: 2023-10-10T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/amp/"
+  - title: "Embracing AI In The Workplace"
+    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
+    publishedDateTime: 2023-10-10T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 73
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1246
+        height: 830
+        isCached: true
+  - title: "How AI Is Changing The Future Of Digital Experience"
+    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
         height: 800
         isCached: true
   - title: "5 ways AI could influence nursing in the coming years"
@@ -49,15 +88,71 @@ related:
         width: 1080
         height: 770
         isCached: true
-  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
-    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
-    publishedDateTime: 2023-10-09T18:43:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 5
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 39
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
+        isCached: true
+  - title: "How invisible tech and AI are working for Domino's"
+    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
+    publishedDateTime: 2023-10-10T10:03:00Z
+    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 39
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Embracing the Inevitable: The Era of AI-First Companies"
+    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
+    publishedDateTime: 2023-10-06T16:27:00Z
+    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
+    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
+    publishedDateTime: 2023-10-10T04:55:00Z
+    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 37
+    images:
+      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
+        width: 700
+        height: 371
+        isCached: true
+  - title: "Keeping AIs in Their Box"
+    excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
+    publishedDateTime: 2023-10-07T12:25:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/keeping-ais-in-their-box"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
 
 secured: "JDJvIbYYFajUZKm082RoFMK0owekcOfN//QE5+haBzI03GsG6OqzN1FEAQnWnupT51n0K1PLp0oNXJF4tXNLJWou9DC2VQyxPTYANh1yR/i8qlb5Itl2h1c/l4Vu+HjsZprGaJV8e/NoHKMFIUI7RUwhNdNn5HTBpY2OwECuUR0ATl4XcUA2D6uNib7YTgzjAqQ6r/nNxGYlnzKI1JG9Mu1jiQqJBuqA5oL5vKgZ1wD9XGpfKCnzH0UfItEDt+DD5hebo4dT75oejC/BeRr+/9+c9/QMLXc7SbsTzYa1qDzlN7U0GKuulibdCRx+Tc+gRzT3zTgbAfkcuFWTDN5/96GU5MxO5SNHAbnL8hTQ3hVA6w52YmWc5gO9Lt08Yz/wfXqaFL37UbsXcfrsjX90VKS5EgPph8GaSMzuU3ZyT4EfjLAeBCpPaA3dyjgXgQZyPpG13axhV++VzfuM6sO/LHPIErIfp0n8WbrpcfArFR0SHGzf1qH08KBZs4xYPCcx1wxbTCwpKAylHQfKfH2paA==;+uQIaAyH4z6zoXVFBdjDAQ=="
 ---

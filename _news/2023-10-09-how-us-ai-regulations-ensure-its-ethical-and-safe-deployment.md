@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/us-ai-regulations-ensure-its-safe-de
 webUrl: "https://www.cryptopolitan.com/us-ai-regulations-ensure-its-safe-deployment/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,49 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Generative AI deployment: Strategies for smooth scaling"
+    excerpt: "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas"
+    publishedDateTime: 2023-10-10T14:12:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000"
+        width: 2999
+        height: 1785
+        isCached: true
+  - title: "63% Gen Z students fear AI will cause instability in job roles, employment: Survey"
+    excerpt: "Ethical dilemmas and privacy concerns were emphasised by 28.7 percent of participants, showcasing a heightened awareness of the ethical implications associated with AI implementation and the necessity for robust privacy safeguards."
+    publishedDateTime: 2023-10-10T05:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 51
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/BeFunky-collage-2023-10-10T110202.070.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "As Rates Popped, Generative AI Stocks Fell 3% As Demand Stays Strong"
+    excerpt: "Therefore forecasts of rapid growth in Generative AI spending seem more than mere hype to me. For instance, the generative artificial intelligence market is expected to grow at a 35.6% average annual rate from $13 billion in 2023 to $109.37 billion by the end of the decade, according to Yahoo! Finance."
+    publishedDateTime: 2023-10-06T13:37:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/06/as-rates-popped-generative-ai-stocks-fell-3-as-demand-stays-strong/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "E7Z/K1903luSzl2XQOqhgdAbaEGkk4MTqb0mXOmWv7AWLPTlBBBFpG54S8OCP0dIl8D29MKNwU1h/4j3fw1YcjjDBZttdPY5Pa/HNWUeVbG5xlLLndJsSAEfnz8nqK7yzKIWEAroMnjLEngEYPeFpcwv0Jc3tRIvkStA0aqi5YeCvM3Ss/416H2uadopCtMWqzj1M7Jhl9Cg7vDckJ5Og3m3n/gthEYLPheU3gXehnGzbBzWCANlyb7dDqICGrRZqVQRmYrGvSGdCoy0YoIMykPWn6X/RGFvI1/3REH2fLqCUOJMjV+qM5524EllQZB6jhv83dP4ngao9GuSBbKFZ+EzjUFKMbLLpEEncb2Czx4o6eldlSyLfVLlt5zhITZBPShgvWmn0sjOX9yAXozLPzhK+niLwh2US+VlvSvYcscPLhbEG+rm62xJldHrZnpMXbQMsDdM1UVksXJRC0beYk9Mw+mmTXQa/qWVCvsKiBqrOjYyh+UFIfAVQrLiWv5j2D3BzrR2V3IypZdCgNtRJA==;yvv88JupSvNMUFsOB+oR8Q=="
 ---

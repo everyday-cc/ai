@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "'Open Access' Matter Platform Lupl Announces Generative AI, Automation and Customization Updates"
-    excerpt: "Lupl’s second generation platform, available starting October 9, introduces new tools, including an AI Assistant, UI changes and broader integration capabilities, among other features"
-    publishedDateTime: 2023-10-05T22:59:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/05/open-access-matter-platform-lupl-announces-generative-ai-automation-and-customization-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/Lupl-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "nu8ZoK0PjQVQ2yg0FD1bzp5tMDJ5TWzONa5mUiwyoEvFWX38J8/qZKeT1GPz6Vxl6Beg/s97GwVvSrDd7TVtt5jglHxGttDmqdrlfpsOQXUWLEYoHP96wHujZVAwBUNSOOBriKdmXgyz17mCuBeuBlaFuvGZ6aVy15L+f1DphA+ES2vBCYbnHY5Ih8Yh/n/NLMVzW77snr4Vl+nAtxqYmkmzirCLRmZz/YYVqbGDqqf9mjR9T8X3ehByTjH/dA6Qa5Ycem5zg1uhJ4aCxW0DVrF7ESVRY2/YZ36nRC9ymN/2PAeFchXwylpn4WB+xJmCFSx2RHWYKSX1DasLI0XvRlMwGfHn6QiZnqD5cFP4CjEH5dS0vdyL6O791AOuSDaIfg4zUjOowWK/mjIL2qiJixrL2HRd2j6kLYek8IZqziptwpD0G7PV1k4kjTBXYEPQpX+uqbINaomBAvNrpASJ9nkX1nxwvMHJOJ6iHIGQ3HumQSKtsmptuEqHx6jSp1ENwwsbHfLLnm1YVjwwmLVuwA==;0bBBp0otuD0ibY1NFCXnGw=="
 ---

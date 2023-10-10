@@ -96,20 +96,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
-  - title: "Meta Is Paying Creators Millions for AI Chatbots"
-    excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
-    publishedDateTime: 2023-10-05T22:01:00Z
-    webUrl: "https://www.theinformation.com/articles/meta-is-paying-creators-millions-for-ai-chatbots"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 39
-    images:
-      - url: "https://tii.imgix.net/production/articles/11405/52d103af-a3dd-4735-9208-9dfa9bdd12d3-w1vZsQ.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "gg1nfDmkhNQh+L3pawFRiUedjTjQbZTsSrKYb7mVwu6FeH0vwOre8mfaQuaO8Oh5j/CD8JuQlUemR8hEru3bEdlR2RSRbyandJR5CzswPlOpFCgCq5RBLIQaKORbHjF/DeYquN0MunrnNtuZyKuvg12UHo9wF4LKm9IYdkiSUaPvKykOwsE5i4B2rla23VvfhGH5nKfG9SE7KFmAFXxUwjF2NMSf+5oMAfxNMLfrywbQnRculHD6ndUzPaTsPHPRdOwonaZuBYJNzXQYrW02Pxjcp3CBXNGB+rhKamr/SLyI+gkJJ28G74nLU6kBq72VsqDwbQAAbK/5szk547ov7UR8LYYfQtNCdTmyl7FK75VaR2NBzNNG7yClppd96zfmGDhc1NBrahKBmpOiuiqkMOA2xi6wIheMUgjopSBly5b7FJCpumpDCQE9VgRTb6XGOZdgitRis89/yCMa4vCcJdI+lOsF0caSHBz2eN3FnCFl9aF6hC+VWuUbbUmoSe9WsqtYByKi/vEVKRUBHnfUUw==;caclf8r8AwfnfoT3blTI2Q=="
 ---

@@ -22,47 +22,140 @@ topics:
   - AI
 
 related:
-  - title: "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management"
-    excerpt: "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now"
-    publishedDateTime: 2023-10-09T04:39:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
+  - title: "Embracing AI In The Workplace"
+    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
+    publishedDateTime: 2023-10-10T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1246
+        height: 830
         isCached: true
-  - title: "Revolutionising banking: The role of AI in shaping the future"
-    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
-    publishedDateTime: 2023-10-06T05:31:00Z
-    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
-    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+  - title: "How AI Is Changing The Future Of Digital Experience"
+    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
-        width: 799
-        height: 533
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 320
         isCached: true
-  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
-    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
-    publishedDateTime: 2023-10-06T19:25:00Z
-    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
     type: article
     provider:
-      name: wglt
-      domain: wglt.org
-    quality: 26
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-07T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
+        width: 1080
+        height: 770
+        isCached: true
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 39
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
+        isCached: true
+  - title: "How invisible tech and AI are working for Domino's"
+    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
+    publishedDateTime: 2023-10-10T10:03:00Z
+    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 39
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Embracing the Inevitable: The Era of AI-First Companies"
+    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
+    publishedDateTime: 2023-10-06T16:27:00Z
+    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
+    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
+    publishedDateTime: 2023-10-10T04:55:00Z
+    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 37
+    images:
+      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
+        width: 700
+        height: 371
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
+    publishedDateTime: 2023-10-06T13:11:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 19
+  - title: "Keeping AIs in Their Box"
+    excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
+    publishedDateTime: 2023-10-07T12:25:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/keeping-ais-in-their-box"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 19
 
 secured: "McPT4NSlbLbTLxYvEAPl1TwYnv6egcHwf9ccmgtAJMei1d9DOrs+GMJuwUWay362tRgJ2tOE8WmMwqkAmqX0bacWpm6KLPtvkO/LK5VBkOseWmtqn5wVMOJJ9yFwkSzN6FF4+Bcm8uE6rVihRcppdJ0tvq0QbSW/tp6n/VIDluwZjsWZdyFU/Nql6NFTx38Owqf1aqLWJ5Pi8HmqDd919WoWKPfgHjJXkQ2AZEK+DVy2jT1AK7w/eN/RCRWIiBbthF4EePlWwlRYrqkoJvyueHo+DIYwpBuYr3vM7WTZtXb2O1YbHo9ZgvaJr+qsQVj4T66ykxY6jYE8PIyVxVpk7VD63H/F6SvBFpYALCj58pWYApPXy6DhLStunNB/Fti9Atvy4BqEeLvjGXAhw33ZI7cLzKvr/pnHdLS69+4cgp6oHz/W7ZcydhxQOiwXAD6gozHlnl9t17gy1gkNEMq/jbssdbfh3JBnLVYDPOCDdC5m/6DWizB47Tvn2mYaMtI0hcjfv/gqX5X2fqX3v+w++w==;SweZk156HVzHWfjo0ycnbA=="
 ---

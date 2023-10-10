@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equip
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china.amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "US Curbs on Chip Tools to China Nearly Finalized-Posting"
-    excerpt: "(Reuters) - An updated rule curbing exports of U.S. chipmaking equipment to China is in the final stages of review, according to a government posting and a source, a sign the Biden administration is poised to soon tighten restrictions on Beijing."
-    publishedDateTime: 2023-10-05T20:23:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/us-curbs-on-chip-tools-to-china-nearly-finalized-posting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "YxSRzooZ0xUlPRZ61PVR/O8D5HXii3IPMT/zQ2wYO/2bMCqaak8HCT01OMAdLfHBJzdJkqvbMr4jpAwi2Ca6Kicozg9VL1jPt+IM8M0Q1L6cCuPRfOylU9O+Ili0pIgshEIAgt9htYeg/EIyC+1Ege9qg+BrMRXC2bonachW1xCpgd4hyW8BQvyUWGIvrKBltt6efGAbjkbWd6FOvRxaltF+QL6rEKMlMsz6mBkWRKiYZK8b/C8o0kJuhtKvp9r8Faolv9RIZ1GR3ajk0pl/eZCm3GHh6eXz9VbwZuNWZBZn0iMBBREtYvKpKh9zNFUYk5SiFTeLphfzEzDu5alIPCqCyA6HyJZx2H/mm7+33Z8AfNFRpEqfooLNa0YAgzXYLmetqowIXY21TPO2us28G1ce4VVVGfe1hwAfzxme1R70R2s5qGm1wHbTlUa1T7m2AWOncJvcSUhvQTMuyQO11GJMD747kJkj6T2jXFlMieDUkcXyyStzHlCyxjTWyCe5iGvY9Zr7p3xmrH3fhdBKhw==;O39d0JYpe9wiUm1uFMsM0w=="
 ---

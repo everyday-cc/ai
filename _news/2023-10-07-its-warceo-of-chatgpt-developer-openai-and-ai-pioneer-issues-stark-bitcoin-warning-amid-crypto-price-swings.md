@@ -62,15 +62,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
-    excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
-    publishedDateTime: 2023-10-05T19:37:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/future-of-ai-survey/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
     excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
     publishedDateTime: 2023-10-10T11:00:00Z
@@ -84,20 +75,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."
-    publishedDateTime: 2023-10-05T20:23:00Z
-    webUrl: "https://www.edweek.org/technology/180-degree-turn-nyc-schools-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
-    images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
         isCached: true
   - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
     excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."

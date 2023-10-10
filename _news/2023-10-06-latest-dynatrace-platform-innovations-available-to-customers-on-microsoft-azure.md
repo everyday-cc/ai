@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Translator gets four new Indian languages"
-    excerpt: "Microsoft India has expanded its Microsoft Translator platform to include four additional languages: Bhojpuri, Bodo, Dogri, and Kashmiri. This brings the total number of supported Indian languages to 20, moving closer to the goal of accommodating all 22 official Indian languages."
-    publishedDateTime: 2023-10-05T22:49:00Z
-    webUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html"
-    ampWebUrl: "https://www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/407442/microsoft-translator-4-new-indian-langagues.html/amp"
+  - title: "Wolters Kluwer Health Language Platform to Maximize the Value of Health Data for Organizations Using Microsoft Azure"
+    excerpt: "Wolters Kluwer Health Language Platform, a FHIR Terminology Server, enables interoperability to ensure quality healthcare data is leveraged across health plans, providers, and HIT vendors for analytic"
+    publishedDateTime: 2023-10-10T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35162745/wolters-kluwer-health-language-platform-to-maximize-the-value-of-health-data-for-organizations-usi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35162745"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35162745"
     type: article
     provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 61
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Amdocs Leverages Oracle Database@Azure to Support Customers' Hybrid Cloud Strategy"
     excerpt: "This development will further empower service providers to integrate their Amdocs classic applications with the latest solutions in the Amdocs portfolio, including the new Amdocs Customer Engagement Platform recently announced by Microsoft and Amdocs."

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/data-insights/innovators-ai-body-measur
 webUrl: "https://www.just-style.com/data-insights/innovators-ai-body-measurements-ai-apparel/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chat Tools Revolutionize Real Estate Industry: Blend's New Chat Tool Leads the Way"
-    excerpt: "AI chat tools are revolutionizing the real estate industry by providing a more efficient and personalized experience for consumers and businesses. These tools can automate tasks, provide insights, and answer questions 24/7."
-    publishedDateTime: 2023-10-10T06:34:00Z
-    webUrl: "https://realtybiznews.com/ai-chat-tools-revolutionize-real-estate-industry-blends-new-chat-tool-leads-the-way/98779663/"
+  - title: "HITRUST Releases the Industry's First AI Assurance Program"
+    excerpt: "The HITRUST AI Assurance Program provides a secure and sustainable strategy for trustworthy AI leveraging the HITRUST CSF, AI specific"
+    publishedDateTime: 2023-10-10T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hitrust-releases-the-industry-s-first-ai-assurance-program-1032692013"
     type: article
     provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 32
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Vanta continues to revolutionize trust management with latest AI release"
+    excerpt: "With its latest AI capabilities, Vanta is transforming trust management and emphasizing its commitment to respecting customers’ time."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://venturebeat.com/security/vanta-continues-to-revolutionize-trust-management-with-latest-ai-release/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
 
 secured: "FQE4sp379FJsMcvLGegwTEyD0mE8FgqeTOXGngBxO3RSSHIMTQ+r2Tz105jrKsSeMTN4NERH79XrJWFKmO3wrr3ID/WAWd2Vz13TaFvRgT5uiHU1XKmAnAqRY80iT1G8Yj7gng3l6VqyviHf2O9QroIBgiHLcjdLTARfap80r/wHgxkPAGXsQBDY1Rtw4ZZiTQOnmAiDLFfmZyrPUlcQGDiNez7Z6+DAGrT6QPZy6XWSSzNhKVjCi164FDwoDlpamE0zFQyus4VqYrEYT34vkJX1CqLq21f0xIJXSQ3UKaF7xN32GuypFN63s87HiQmaTitm/hJCbsXVflQ9Koyh616wj2EEETRG4JfJnqYVm90=;fU2Srpw5azUOL9Dns/KyIA=="
 ---

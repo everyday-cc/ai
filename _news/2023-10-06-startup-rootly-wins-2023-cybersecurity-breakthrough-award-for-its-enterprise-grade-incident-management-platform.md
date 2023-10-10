@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Calamu Wins \"Data Security Innovation of the Year\" in 7th Annual CyberSecurity Breakthrough Awards Program"
-    excerpt: "Data-First Security Pioneer Has Been Honored Yet Again for its Leading Solution to Double-Extortion RansomwareCLINTON, N.J., Oct. 5, 2023"
-    publishedDateTime: 2023-10-05T22:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/2240072/Calamu_Award_banner.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "How Deep Learning Is Moving Cybersecurity From A Reactive Response To Proactive Prevention"
     excerpt: "In the battle against cybercrime, AI automation and deep learning models are crucial elements that are important to understand."
     publishedDateTime: 2023-10-06T13:15:00Z

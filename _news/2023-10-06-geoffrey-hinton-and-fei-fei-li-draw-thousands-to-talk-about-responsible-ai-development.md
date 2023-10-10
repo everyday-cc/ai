@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "\"Godfather of AI\" Geoffrey Hinton | Sunday on 60 Minutes"
-    excerpt: "The \"Godfather of AI,\" Geoffrey Hinton, tells Scott Pelley about the promise and risks of advanced artificial intelligence his research helped make possible. This Sunday on 60 Minutes."
-    publishedDateTime: 2023-10-05T21:46:00Z
-    webUrl: "https://www.cbsnews.com/video/godfather-of-ai-geoffrey-hinton-sunday-on-60-minutes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/05/c19479d5-ff90-4969-808a-b80ded111d77/thumbnail/1200x630/1dab49d069aa2def77a89d3df7506b44/hinton-ai-tease-video-2348123-640x360.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
     excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."
     publishedDateTime: 2023-10-08T23:29:00Z

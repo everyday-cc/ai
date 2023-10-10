@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fin
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 500
     height: 333
     isCached: true
+
+related:
+  - title: "Sergey Kondratenko: Cybersecurity in the Fintech Industry – Modern Threats and Protective Measures"
+    excerpt: "The fintech industry continues to innovate and break the stereotypes of traditional financial services. Therefore, the issue of the need for cybersecurity has never been as acute as it is now, Sergey Kondratenko notes."
+    publishedDateTime: 2023-10-10T11:54:00Z
+    webUrl: "https://fintechnews.ch/security/sergey-kondratenko-cybersecurity-in-the-fintech-industry-modern-threats-and-protective-measures/63928/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 0
 
 secured: "splbdnYi+BXd/2tyx7308elPf9eZKruQ/IXShE60n9pLKuw5NKOWyT62ndB2irKDGGMZHryn2490NtXD+kNyIAz/hSgvDwBDVe9ziMGx2+jrhFfpRWU0ngAo/2VPnL2YeUvDn2p89TvTGI5unzAiZNIaPDqX58iKEoGv9xMSeeULchuc4iqg8EOSS5D+ybiPKRfP+MLQzfAg13pwWuue7JRLvfU/Q4fhzQcLspK4F/NPnPsccuxmCIloPC6bFgXkoa12yM34Qqu52RoD4exTULBk+TIH+1B3mEXVNeURaSvUwKiaq3+pGr9pKmeExO4d6pbnhq0hboZR7/UnxArsGxYLVbJUszEM/WxTHrEjkQouto4TpPCh0JBXLyzUPDYVTBVKcv+huTv2VTMK1vFMwgLMcISLZGRpM6oGp/agSluzx/cff7liGGt7LZlQfubUUgX6Su7Utg4HOugcKq+Or1fVIAx/Pg42wZyf5mlREix57ATWsqzuvS64dvYymGa/iThYITg+5by1VPoEvES9NQ==;HGU3x0smj1XBISZISyASTQ=="
 ---

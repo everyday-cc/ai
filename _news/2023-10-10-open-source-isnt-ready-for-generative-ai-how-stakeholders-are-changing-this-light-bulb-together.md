@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generativ
 webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Generative AI in commerce: 5 ways industries are changing how they do business"
-    excerpt: "Generative AI can assist commerce-based organizations in several impactful ways. A recent business report highlights five key examples."
-    publishedDateTime: 2023-10-05T19:32:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-in-commerce-5-ways-industries-are-changing-how-they-do-business/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
 
 secured: "AokTQMoY+9/cEJUFhpd2rFIfeTCVhsPAsBrF2/Z/vpW8wzZ6DmzLBTQTrt2u2MQeqQ4z8qUPcvpBhHLePwO6R3OG2JhUH47Ds3h0r8Uvi9JuH+rtsTzIRtpFTE0htP7pZXWfukK4ZGZWm805Kchf8bCHduoIw2buH3MWyMKp4WFJPNxTJHeDMcKsI7A5uzinj1Wyoi8ITe4SDkjIzqR+FrK63AF56kz23m84gp8yJDrRk329RpwApBXH9TJGosEYCeuiJKJkmDzEpuNNmCsLnBW2YuRmjV1vGIe7BcDOm2bbY74+LUF39frid+XyKwfJ2aihJBZXTuwUZUSFzWBuzYXOKtJ0dY0aulH1rgPRYKr7WhsAu7RdV6O7Ta+zNertTTtAA7ASPl0gkUduN9NfZOK6e6Tnzgw+G8ngGRc6lpParAAoBgt7XWWBq+8rXgdLpRk0ywpLCLxOONE11mWxDiumYPH7ufSHXRl9o918qj9xJ7FEgSHwYNOZTqNuInqLityQqS0VOja1Bz6lvK2CsQ==;3ThBMEqR4fnxwRhhU7yUhg=="
 ---

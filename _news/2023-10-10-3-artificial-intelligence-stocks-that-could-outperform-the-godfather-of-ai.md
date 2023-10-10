@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "\"Godfather of AI\" Geoffrey Hinton | Sunday on 60 Minutes"
-    excerpt: "The \"Godfather of AI,\" Geoffrey Hinton, tells Scott Pelley about the promise and risks of advanced artificial intelligence his research helped make possible. This Sunday on 60 Minutes."
-    publishedDateTime: 2023-10-05T21:46:00Z
-    webUrl: "https://www.cbsnews.com/video/godfather-of-ai-geoffrey-hinton-sunday-on-60-minutes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/05/c19479d5-ff90-4969-808a-b80ded111d77/thumbnail/1200x630/1dab49d069aa2def77a89d3df7506b44/hinton-ai-tease-video-2348123-640x360.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Geoffrey Hinton and Fei-Fei Li draw thousands to talk about responsible AI development"
     excerpt: "A University Professor Emeritus at the University of Toronto who has been called the “godfather of AI,” Hinton has spent the past six months warning about the existential threat posed by the rapid development of large language models such as ChatGPT and Google’s PaLM – let alone nearer-term risks such as joblessness, fake news and “battle robots.”"
     publishedDateTime: 2023-10-06T15:01:00Z

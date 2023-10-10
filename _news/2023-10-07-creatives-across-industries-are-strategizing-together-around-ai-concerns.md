@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Rise of AI on the Silver Screen: How Hollywood Portrays Artificial Intelligence in Movies"
+    excerpt: "Welcome to the future of cinema, where a world once confined to our imagination is now brought to life on the silver screen. From visionary filmmakers to cutting-edge visual effects, Hollywood has always pushed the boundaries of storytelling."
+    publishedDateTime: 2023-10-10T14:14:00Z
+    webUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "cvPKE0me/hyYEyR9Z0iAM720f08Kb8pRJe1dGEfjQ7TVoTXgHm3LEyCRYcBF5CMNnHsmf3GRQNjNo2Nc3D4+xWkSasgVtn2whzhyFLQTSB4vq8e/54UzZ9HmurSLg1+bSbgZgyKHR7exp9I3WFS1wYiiBL22qbdyFD23GCmGN7zIfF7HlkXo0m9oHzYU1dLL3y4TO7lTAU7FzenmasvBHOx1JKtXo8ThMG53R/vCkoaPkqgODBvVGEfbkAPi5SHJzCZSfZ3vRKTxmlv+9c20QVeZH9JY9HS9CbNneoIINm9qct2MbLcGIZDATrhY88pir5oHtJz09tEzFmlWInNqsA4jcjKTfccfjpohwDCkmtjpVTKUuMW/r6RyIFcMu11AGBWLhZGlDo+/9C0IzBtQW5WCdZWnH0ijzQzWbTwsjhaeBh6b92E+fchNRWlr9fzGNOOQd3o+ymNyBd8OwgTjAwxGfgr3NJWNtLEczd7AWR4IUI7fZKvFpCwInaEWYBdGPdoRi9sVADrAFUe9aLc0IA==;AEiRMRSDRZjHNbP4OJAhjQ=="
 ---

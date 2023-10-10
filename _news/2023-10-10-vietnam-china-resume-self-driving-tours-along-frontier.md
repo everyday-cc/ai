@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial"
-    excerpt: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial By Dan Levine and Hyunjoo Jin SAN FRANCISCO (Reuters) - A Tesla engineer in court on Wednesday rejected a lawyer's suggestion that ..."
-    publishedDateTime: 2023-10-05T19:22:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "zP5qSmB6m/IKxksji95OjsGDJU1DEIML27+bcMjt5RnAdDrWNuXOhL2TsHioiP714K9czDwSBtUWbFCa1uJyk8SPlK7m/dp0UZb0SPZ4nzKSht1s+pLLYp2S1+QcqXPnQ+eueFNvPBo13PzgnS9QVDfXSr3D6dq3eJzIsbo1fsMPujEXcD2x8cgNCpbGLPGY1TXV2D9zCcmajONgbln/ixCHSvzR2eqVjtioQh9E0zC/i99/tRNn629NUfZAI8RUPZH6GvUtmcxJNTw9VfB6eBa7J/U7AIYSjiIgj3UWIY0ylLCl1EVlY4XjCKPH5PieYM0vWxtUd7y55nHq57YrXuuZSO/ONLoZSr0AXnYZWh8=;1usYOidEAAjXSDAnE1w0hQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "The Rise of AI on the Silver Screen: How Hollywood Portrays Artificial Intelligence in Movies"
+    excerpt: "Welcome to the future of cinema, where a world once confined to our imagination is now brought to life on the silver screen. From visionary filmmakers to cutting-edge visual effects, Hollywood has always pushed the boundaries of storytelling."
+    publishedDateTime: 2023-10-10T14:14:00Z
+    webUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "mRN4TLSSfRKUbbDmVZNIsgnGFyXHsxUSdtaPT8ZdulMZ80RxgJ+VkxaTUy1jkVaIzslj8NA4c6VI12uJZzawD6D8MdOkjOjo5wTYiwoUA/Q/e3v+VfZpab5oh/3e6fumlkeVl5vanZPi43PgZ4PtcGhHONGvAKUQnQkL1/jQyz2sQKhu+0ytljLtLw76Q/K7i8HPhOkJNhJow1229YNCtIAinaa5uRdrGDf+YXoAqgWumaxqpXTM4BVaveTHYCKBay+UqjdhmZ3y/xORK5Id3Sp+Ih8MMZpgEbEmlfFhlpYTa+s+p+UsVDcsIN9ft6efdiE1KosNrnhulJNg9kmODHIQo4Dp/d83dJfBoXSoUjg=;KF/hqRY42sV+tbNJUgKYkQ=="
