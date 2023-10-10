@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "How Long Until AI Guts Hollywood? And Other Investing Insights"
+    excerpt: "It’s only a matter of time until someone builds “HollywoodGPT,” an AI bot trained on the transcripts of every film from the past 100 years that can dream up brand-new movie ideas in seconds. Trying to ignore or ban new innovations never works."
+    publishedDateTime: 2023-10-10T21:44:00Z
+    webUrl: "https://www.equities.com/news/ai-guts-hollywood-stock-market-insights/"
+    type: article
+    provider:
+      name: equities
+      domain: equities.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/equities-com/images/w_1024,h_683,c_scale/f_auto,q_auto/v1696974187/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0.jpg?_i=AA"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "mRN4TLSSfRKUbbDmVZNIsgnGFyXHsxUSdtaPT8ZdulMZ80RxgJ+VkxaTUy1jkVaIzslj8NA4c6VI12uJZzawD6D8MdOkjOjo5wTYiwoUA/Q/e3v+VfZpab5oh/3e6fumlkeVl5vanZPi43PgZ4PtcGhHONGvAKUQnQkL1/jQyz2sQKhu+0ytljLtLw76Q/K7i8HPhOkJNhJow1229YNCtIAinaa5uRdrGDf+YXoAqgWumaxqpXTM4BVaveTHYCKBay+UqjdhmZ3y/xORK5Id3Sp+Ih8MMZpgEbEmlfFhlpYTa+s+p+UsVDcsIN9ft6efdiE1KosNrnhulJNg9kmODHIQo4Dp/d83dJfBoXSoUjg=;KF/hqRY42sV+tbNJUgKYkQ=="

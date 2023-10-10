@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-29-healthcare-natural-language-processing-market-poised-to-surge-to-us-185-billion-by-2033-fueled-by-impressive-180-cagr.md",
+      "title": "Healthcare Natural Language Processing Market Poised to Surge to US$ 18.5 Billion by 2033, Fueled by Impressive 18.0% CAGR",
+      "excerpt": "Healthcare Natural Language Processing Market is anticipated to culminate at approximately US$ 3.5 Billion by the culmination of 2023, the worldwide market is poised for a compelling trajectory, exhibiting a robust CAGR of 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/28/healthcare-natural-language-processing-market-poised-to-surge-to-us-18-5-billion-by-2033-fueled-by-impressive-18-0-cagr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/Healthcare-Natural-Language-Processing-Market.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-advances-in-ai-chips-boost-voice-recognition.md",
       "title": "Advances in AI, chips boost voice recognition",
       "excerpt": "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss.",
@@ -1261,59 +1305,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
-      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
-      "excerpt": "The product is targeted at modernizing mainframe applications, running on IBM Z systems, as the number of COBOL developers starts to dwindle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
-      "originalUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/ibm_watson-100527884-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705251/ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.amp.html",
-      "publishedDateTime": "2023-08-22T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-pe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
 type: article
 quality: 103
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -54,6 +54,29 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "The Intersection of Data and Generative AI"
+    excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
+    publishedDateTime: 2023-10-10T20:19:00Z
+    webUrl: "https://redmondmag.com/articles/2023/10/10/the-intersection-of-data-and-generative-ai.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIGlobe.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Generative AI and the Future of Machine Translation"
+    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
+    publishedDateTime: 2023-10-09T21:42:00Z
+    webUrl: "https://slator.com/event/generative-ai-and-the-future-of-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 34
 
 secured: "dMJPXpRHGJ/OivnD8HmRUmiQTMlUIJS942oP8Gd2seXVBIKBjWqZNSI9I0R6O8VLdBLg4Q4q7F0NaCRcO1Sjwc+y7FcnA1O8JLad9NabICg1NZO1rQF2NhmuVug5fyfNlnjvRm+AAkRVH7/l2TVqyKzd36RMuYg+PJsj63FKcw4yIJHlvieGu0t/kecob6QZmQ7GGG54XOfHVlZYuB+z7nUz1Sct1xDVXk8K2QD6uRGxWXmirYwmXKc6OYLKjr82Ov2n0yIUvda23CaVdpko0JjNP9V/INL7fz4gXmRDeijNW0s1DlF4sIuTIeX0lT+erAvAO+XURjrUuuxskiCfaEy0K5tNgbuCoelsl9PqP0JtRPwzrBZmyCDtGncenToM6H6Mygqn8dQIlQ17eBhjkO7oOuHQkYP+OPgoFXdd9p2MyWl7Yp6x6Ne4q8arfdGPIvFEU5Nk1nU9Bz5A8O7QoAJIzSNwJTU6sGMgPZZux1EEP0IWSEiLdCWEVAZRCnER5gTtF3E+fkNsOzRy8LzXIQ==;V0uubNbmrJJCat9s7yRhKw=="
 ---

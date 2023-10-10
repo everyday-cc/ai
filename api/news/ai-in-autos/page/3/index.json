@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-18-seat-massages-smartphones-and-driverless-features-automakers-turn-to-tech-to-take-on-tesla.md",
+      "title": "Seat massages, smartphones and driverless features: Automakers turn to tech to take on Tesla",
+      "excerpt": "The company is making a big push into the automotive space, where its chips can be used to help power artificial intelligence ... automakers are ramping up the driverless features and capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107296312-1694002722665-AWS_Iaa_stand.jpg?v=1694412104",
+          "width": 4000,
+          "height": 2252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/11/automakers-tout-software-driverless-tech-to-take-on-tesla-and-china.html",
+      "publishedDateTime": "2023-09-18T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-18-israels-pm-talks-to-elon-musk-about-antisemitism-on-x-and-artificial-intelligence.md",
       "title": "Israel's PM talks to Elon Musk about antisemitism on X and artificial intelligence",
       "excerpt": "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk.",
@@ -1243,60 +1295,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-artificial-intelligence-a-love-story.md",
-      "title": "Artificial intelligence: A love story",
-      "excerpt": "It was set in a candy-colored dystopian future, one in which people murmur into wireless earbuds on the subway and rely on artificial intelligence engines to keep them organized and control their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "originalUrl": "https://www.vox.com/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dS0eMY1L-cX_HD0mzRUsgAMm8wc=/0x0:1920x1080/1400x1050/filters:focal(793x447:1099x753):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439648/illust_1_1920px_x_1080px_asya_demidova_UPD2__1_.0.png",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779067/artificial-intelligence-ai-her-movies-ex-machina-2001-blade-runner-robots",
-      "publishedDateTime": "2023-09-07T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

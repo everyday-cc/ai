@@ -2,6 +2,457 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-05-users-find-that-facebooks-new-ai-stickers-can-generate-elmo-with-a-knife.md",
+      "title": "Users find that Facebook’s new AI stickers can generate Elmo with a knife",
+      "excerpt": "Less than a week after Meta unveiled AI-generated stickers in its Facebook Messenger app, users are already abusing it to create awkward images of copyright-protected characters and sharing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
+      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
+      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "publishedDateTime": "2023-10-04T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
+      "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
+      "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-thought-industries-expands-ai-capabilities-to-power-the-business-of-learning.md",
+      "title": "Thought Industries Expands AI Capabilities to Power the Business of Learning",
+      "excerpt": "The Use of Generative AI in the Ti Platform Builds on Years of Company Experience Using Machine Learning to Create Personalized, Differentiated Learning Experiences. BOSTON, /PRNewswire/ -- Thought",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/n35093922/thought-industries-expands-ai-capabilities-to-power-the-business-of-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35093922",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35093922",
+      "publishedDateTime": "2023-10-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models.md",
+      "title": "Lemurian Labs is building a new compute paradigm to reduce cost of running AI models",
+      "excerpt": "Lemurian Labs is an early stage startup with a big ambition to build a software and chip solution to make processing LLMs more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1312904817.jpg?resize=1200,848",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
+      "publishedDateTime": "2023-10-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-researchers-use-ai-to-design-a-walking-robot-in-seconds.md",
+      "title": "Researchers use AI to design a walking \"robot\" in seconds",
+      "excerpt": "The AI identified the proposed bot's flaws and turned out a revision. By the 10th iteration, the AI had created something that seemed as if it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
+      "originalUrl": "https://www.techspot.com/news/100383-researchers-use-ai-design-walking-robot-seconds.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-8.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-pixel-8-pro-runs-googles-generative-ai-models-on-device.md",
+      "title": "Pixel 8 Pro runs Google’s generative AI models on-device",
+      "excerpt": "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "publishedDateTime": "2023-10-04T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-us-agency-california-gathering-details-of-accident-involving-robot-taxi-and-pedestrian.md",
+      "title": "US agency, California gathering details of accident involving robot taxi and pedestrian",
+      "excerpt": "WASHINGTON, Oct 3 (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors' (GM.N) self-driving unit Cruise about an accident in San Francisco ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "originalUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ykik3dJ9wjhMeC_4EUzKuyCb4w4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QK7U3OJNNLLPB2AFH4YL47PXU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
+      "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
+      "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-104160797,width-280,height-210,imgsize-36962/what-is-aap-mp-sanjay-singhs-link-to-the-delhi-excise-policy-case.jpg",
+          "width": 280,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "publishedDateTime": "2023-10-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new.md",
       "title": "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new",
       "excerpt": "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now.",
@@ -621,40 +1072,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-language-accessibility-drives-speech-recognition-innovation-from-isentia.md",
-      "title": "Language Accessibility Drives Speech Recognition Innovation From Isentia",
-      "excerpt": "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-04-metas-ai-stickers-are-here-and-already-causing-controversy.md",
       "title": "Meta’s AI stickers are here and already causing controversy",
       "excerpt": "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more.",
@@ -805,366 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
-      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
-      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "publishedDateTime": "2023-10-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fintech-startup-dpdzero-raises-325-million-in-seed-funding-led-by-blume-ventures.md",
-      "title": "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures",
-      "excerpt": "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "originalUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
-      "publishedDateTime": "2023-10-03T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
-      "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
-      "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651d0310ebb3a26f024bea02/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/04/the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-03T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lawsuit-man-claims-he-was-improperly-arrested-because-of-misuse-of-facial-recognition-technology.md",
-      "title": "Lawsuit: Man claims he was improperly arrested because of misuse of facial recognition technology",
-      "excerpt": "ACLU: False detainment from the software is more likely to affect Black people. A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
-      "originalUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-kochi-based-tech-startups-robots-are-gaining-ground-in-west.md",
-      "title": "Kochi-based tech startup’s robots are gaining ground in west",
-      "excerpt": "THIRUVANANTHAPURAM: India may still be playing catch-up in terms of advancement in robotics and artificial intelligence (AI), but a Kochi-based startup is looking to turn the tables. Sastra Robotics, registered with the Kerala Startup Mission (KSUM), has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.html",
-      "originalUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/10/4/w600X390/Kochi-based_tech_startups.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2023/oct/04/kochi-based-tech-startups-robots-are-gaining-ground-in-west-2620606.amp",
-      "publishedDateTime": "2023-10-03T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-chinese-tech-startups-are-testing-self-driving-cars-on-california-roads.md",
-      "title": "Chinese tech startups are testing self-driving cars on California roads",
-      "excerpt": "Tony Peng, a spokesperson for Baidu’s Apollo ... of stealing proprietary information about self-driving technology while applying to a “China-based autonomous vehicle company,” which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "originalUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "publishedDateTime": "2023-10-03T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-ibm-enables-safe-enterprise-ai-with-granite-foundation-models.md",
-      "title": "IBM Enables Safe Enterprise AI with Granite Foundation Models",
-      "excerpt": "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "publishedDateTime": "2023-10-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-self-driving-vehicle-runs-over-pins-woman-in-san-francisco-operator-claims-human-hit-her-first.md",
-      "title": "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first",
-      "excerpt": "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
-      "originalUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Cruise-driverless-car-SF-collision-2.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "publishedDateTime": "2023-10-03T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

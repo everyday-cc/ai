@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Amazon: Anthropic To Use AWS's Trainium Chips; Amazon To Invest In Anthropic"
-excerpt: "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI safety and research company based in San Francisco. Amazon said AWS will become Anthropic's primary cloud provider for mission critical workloads,"
-publishedDateTime: 2023-09-25T07:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazon:-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic"
-webUrl: "https://www.nasdaq.com/articles/amazon:-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic"
+excerpt: "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI"
+publishedDateTime: 2023-09-25T09:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757"
+webUrl: "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "6+YJWga6+jMxM4afxxI3eUgrq/Rwx8HKpQjXerXmcIw4RmJpAvfLEEVRb7M613B7nSXcAV3IxJuQ3Fhfjh8YytS3nDCdYmuVi9TIID+jNzE5V3rbm59HGUlHSN8RsdI7bM9KkFP7GfYxSYEEN+85vz5fqRgb76xRrMRpAp0DQSjQz1I/Y823N15h3Cwr5k59Cvh6wNd9qNqM5sV+vHhApgKAT/DI4obwZkhiY0RC41+V6rW1Y5KlUThvOWd34Ixl05OP3MbueeiaXjH9C0uaGPKQDOaMbklXAxvdGFn/MXnU6qmHRM/Tcz64Ax5AS6g9kWpmxt8hACMZidyeMDP9+kuvD6Hv6z+0fSWbQUL7aKA=;csYtZKx1WzCQtlRBHtKm4Q=="
+secured: "ec132r2pDVcm9Wydv5DCVUVBcOg2kVZ2PVK0ocqCnomH9NaLEIKkXBqI0xs6wnKNAlHCDuzsY+xUAJmdOmKhrfiJzneU1oYBZa19Ic06uf+3auh4EeqwgRNusgQcC5AjsIpMVgNsjBO+gJ9guNLrjb3rP9jmVHhZbTlFXapyDe2durOa7LwkeJ8tBWmkyvQas7rJtJpLaKg7TaXN+wxILz32AqBN7s4MjxuIvHL5igyANiZ3HTz9S2/g2XXXAyCUOzhyv2Wm68sxsWL6oSrinwTmp9er5tllPd0GBsfUV+MIJXFl2SR+DSnbNSO3iY0ZM58ORCjJmlTwSnc/5VQZKTQ6mWw4jrKqIxkYrR62gRI=;+mxHzAPj/CXPvSObU7BmtA=="
 ---
 

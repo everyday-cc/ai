@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-1
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/05/202305tech_mena_jordan_illustration.jpg?h=6c8f15e6&itok=PHwCg2gi"
         width: 374
         height: 374
+        isCached: true
+  - title: "Scholars propose unified global regulations on facial recognition"
+    excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://www.biometricupdate.com/202310/scholars-propose-unified-global-regulations-on-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "5IJtbIWAoMjRN8IVzGf+e1IPZCDZ4R6gAKPSA2U8yBOjvdrFvs/jS4MQkRUkxHW7qB9gxlXnSSNwmChMpXA/9O7eeK33TYX64gx1XvNPPz1RYPAx/zXqBNwaCTBKrjT/lNP2rPE63pwmLcd5fbYqMyxFx6gioFr66EymR8RR6Z19yAplKLrfbp5ObnHPsc4e/H/FaSbFEzr5Igic9QiJB7IWiqLv6sHdJ5l/KdPqDAg59bE5C3mz7E/kTni7IORVTN4Y8ZIhIl+dIGpXdg60nrqe+uITs1X7gX4QioOW2hCBIa67wrks3M3/rq8zzWXJsXP0/RU8dn2rHLFWIGzBaaZ0R71dr8eSm0XqPh8t+DXovYb660YTS+JTVDerc0MiOm00l/8G/KKoc9EcQ7YHFw2Sr1k5D6Lldq/m3g/HW/Cl39mE/fgZm4bOIf0GGQ2S3MfDgBvH+eCrtTNVwM4MIx91cvP53xbCSDdpUTK7MJ1a1864jUATaBAhRDRAZhAymaM8aUfhFN29bSutssLxRQ==;NbiuzYgeAPfCHe1douqiwg=="

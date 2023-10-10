@@ -2,19 +2,25 @@
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-27T20:45:00Z
-originalUrl: "https://www.centredaily.com/news/business/article279840919.html"
-webUrl: "https://www.centredaily.com/news/business/article279840919.html"
+publishedDateTime: 2023-09-27T20:44:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
+webUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
 type: article
 
 provider:
-  name: Centre Daily Times
-  domain: centredaily.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "BSdjRNPTAyd/w1SMQIL65rP2VF29enUGNKDJrwIBhkD5xSon1VP6/fClJVDqHYEEJG6DFrpRraaM+sJoSOtHO/2OmEPlhjCli69qYvqiq/EGjwn5b+2IeEg1TmB1bsSsSf6MuaRUvUrMqNTUhrRDlQ5aa3fnkrU+ckXlVRvnCnZuG5cgmeHTw0+qMYmk4M2LhuGJYT9jw0Hf9EEOHigC+TM1Q9gYrBLUlTSL2ojSd/C1Dhr1D9Yx1iL5AOwySBWhHYBkZuGl5YimxPo5wynrhZQIwr0wPIje2Uby1my5VLldVGz+7GW6aUeG+KAie6fGbsTzT048tmxwoqOrGkmqJY4lM0PO4sSDNjlfK+1T38Q=;qt17VwtSp3t7y3F/mG2v1Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b6/fb6eed13-3f37-56bf-862b-bac96f214e63/651491fae4ed5.image.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "3ObJgYVlURMr0JYUuX7QcDEJHHT/c9vJK6SF+r1GcpLKcB2ipUa/Xshzcl+oTHSDUoyKurqvKla58CxlbLA0U48587v2j9HLUcEUntc2+oAPumyM2cVgDHlYBdGHZ2W+FsS+UFL7NW00xE9A0MohFEGL/XcjkeuKKtTYeqc+z740rPFEBMvW0qGN6SivB+6ZEmzX4SMYuvkMJEn6nv+jUgKU7x3tnZzolo6TJwpdIdbamSFsYYN4E5ikOhuMsTYmJV7VVBFy0yCzhu+GC1zOnn050cArz1qDAhJaFTm73Z84Kw3QVHegUHNzNWmljz2x2HR6dEr+OMulANcjPbflT+ndjGcHELoqgpbx3qtkLqo=;wsS458fdGWD2bjj79Zk6iQ=="
 ---
 

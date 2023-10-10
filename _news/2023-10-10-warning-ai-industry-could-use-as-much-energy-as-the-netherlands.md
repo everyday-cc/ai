@@ -3,22 +3,18 @@ category: news
 title: "Warning AI industry could use as much energy as the Netherlands"
 excerpt: "The artificial intelligence (AI) industry could consume as much energy as a country the size of the Netherlands by 2027, a new study warns. Big tech firms have scrambled to add AI-powered services since ChatGPT burst onto the scene last year. They use far more power than conventional applications, making going online much more energy-intensive."
 publishedDateTime: 2023-10-10T15:00:00Z
-originalUrl: "https://www.bbc.com/news/technology-67053139"
-webUrl: "https://www.bbc.com/news/technology-67053139"
-ampWebUrl: "https://www.bbc.com/news/technology-67053139.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67053139.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-67053139?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/technology-67053139?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-67053139.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67053139.amp"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -75,6 +71,6 @@ related:
         height: 684
         isCached: true
 
-secured: "NWV0e9fSG5B1VHx/6vw//ZHceKtfekMPl7KK1q5ECHA1jbF6292FV+5urgNvqyBu7lImA1O3ytEycL7lIHOzsOPy2K2t5sJFlYI7Lyt+tK6kCO3/hYK3B2XilkU/nP1l73VFk6CmFDFtzeB6gdfOvrRY/vPE+1fUJON8HSsdqvLmE+azUk6H1dv9PidH5wwsbCX4qRvUcKvZjcHr9zFAbWQW4fIj+ZrgIERsnvTuUDyzv8xPfS0xcMwnc9Lj4w4cxSNBUKUsNyDJt40213gfKnIFzxRz/sNJ3wym0iyXP2nT7dc9b45Ss5ypGb79FjepgFblFLr8+Wq9dCnlU/PPk29iond8TEatCydTfsPgeUfzGaZ5veJTbbHI8LenS4bGhlMkPxkWGpyxx5l2zDlm/H/sSZuao6EfihqBdFVDrCJidBI/4BPLkKpu9E96xWiAgDyOQpONUeZwe4qQC3PmmQhpqU/TTwbKMRZqvLw/AF8E2UItRfAkg82GeOGQqvNQ2rjpyZJvUs0giWT2k4+NsA==;lb/bxo7HcP97LVLSHlK4mQ=="
+secured: "ysQow0OgpLHrVfGMDv3DBtIiWDE5u93Ku3ULzr4Lik6L6DYOYqEpmBnuX20dt6FNjjfI/WqRfG5OD+j7v4wBxJ17MFs47JUEMW4k4KW3hMOi9F4HwZCorHejpLNe6suVkNmf5X7tPVPFTrXKzQj+JBGCOSovELFiXhquVhteH3UBMAZx0FhFauJrhYDDmOYFqPBn8VCa4PEpjfse4v5wo+Pib639jzUozmLFwAfX39I3XHXBt7uql+iGBPE2ZkUI2Jl8L/JldX6jagYE6Jxbf4x7TWQRrj1cBFBuiucvWQnJXuIgJVmLGB+5gxOeAaKufR7exNSunT/7i0upAETrRDz4Kc8NX2Ynfv8RB2Wb3jI=;Srqq6Abi8wCcCfrhCGIIPQ=="
 ---
 

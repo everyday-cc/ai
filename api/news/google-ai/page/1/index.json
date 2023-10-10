@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-10-demand-more-from-social-with-ai-powered-ads.md",
+      "title": "Demand more from social with AI-powered ads",
+      "excerpt": "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/",
+      "originalUrl": "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content.md",
       "title": "AI firms working on “constitutions” to keep AI from spewing toxic content",
       "excerpt": "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”",
@@ -1364,59 +1407,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-inside-elon-musks-struggle-for-the-future-of-ai.md",
-      "title": "Inside Elon Musk's Struggle for the Future of AI",
-      "excerpt": "But he later agreed that I could use what he said about AI in my book. He and Zilis sat cross-legged and barefoot on the poolside patio with their twins, Strider and Azure, now 16 months old, on their laps. Zilis made coffee and then put his in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
-      "originalUrl": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/08/elon-musk-ai-isaacson-01.jpg?quality&#x3D;85",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

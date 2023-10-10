@@ -45,7 +45,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
+    excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
+    publishedDateTime: 2023-10-10T18:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-deloitte-report-emphasizes-the-gap-between-generative-ai-adoption-and-ethical-awareness-among-organizations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
-secured: "xHdp3Kj9I8trwiPOsYHY6E8Xd0yBnlgpejyiQLbnxRrMov/L9ZuQkdkM5Pn7xaKEFHqOu6KYgVttWk3yd8lHfOgThhHxEPSwg6R3JzFhZPDwPik/5K4tsE20mqdE/0T3BpFrPvObPIyQrxptunESeNZ9VlDFd+zJM0vQfuihke+zWGGqluFbvLR5jNrc08l3dFEm5DTwh4EipwUs9Wn1koPMgQTWSa3uK1pzgDaZBXvbeA3HONHbZ3BbvsWFUmEQotFabTXfjEtxTrnYVPbeb39gH70a1XjSrYpo1YNm/D18JB6wE7W68GjRt93KmOMk+F4aT1QGoX+jwH4Tzx5ZuRZs3DrXI5VDLwZqfdjqB08=;N+2jkJtIsETCVGihbQo6uw=="
+secured: "hevYBHILN0hmOKTTi1d8DFOLNuATiQz+AX+adLNPLHd7qUu640wfFpF6v3zmD2yIlntR1Sn0HbHhDB2tdp3tDxSRLto8dvcgsapT+BG324gtDDUV24JP3f7hxzQAIdmCTN+sk9ZMLP0zU8yYWltXwxM/wUWonvjaGlTM9TPangvFJM/bvZG0DU1HuxzuAXA8YY5D4MtalF5Et1rJz7WNmTTtIRBWyB1Zvw2AgC32UYGHPbnd0T9ZW9e3o3fMUYC00kawIove8CEtwab0sxXfB1APXWcpQs7EFzZS7VHtEf6PmSr32NuBNIP9uvSCaf5rRHpbuJsaS/5K2ccCehBXlDEEoVCjB3by6emeLuauCne0DMa8vNWo068obS5M5MGoFrWsOnWz+xL4vnhbkyAb45NoxkyaMoh2objm/LK6AJON5fCqUZAgn+3lgs+qusscgcat+QIwWdCA6M6lzKgQ0yDT7GyQhQExxs/BVy4vSq1kw8QNL2107rHPmgTWchS3CjgY4Gd6pqZpE0LlvXCpRw==;CTRE3mJVBlqzJHx800ABGw=="
 ---
 

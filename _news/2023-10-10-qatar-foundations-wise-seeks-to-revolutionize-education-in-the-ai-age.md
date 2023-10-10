@@ -53,6 +53,29 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "The Intersection of Data and Generative AI"
+    excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
+    publishedDateTime: 2023-10-10T20:19:00Z
+    webUrl: "https://redmondmag.com/articles/2023/10/10/the-intersection-of-data-and-generative-ai.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 39
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIGlobe.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Generative AI and the Future of Machine Translation"
+    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
+    publishedDateTime: 2023-10-09T21:42:00Z
+    webUrl: "https://slator.com/event/generative-ai-and-the-future-of-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 34
 
 secured: "gSQNLK3SzZpgbP+zOxZwdw3ow7rkNOFuf2XkE0oBZ/BaFa2Lse4/tCqyt4Dq25COyb56hRjJrdHS55AWDQTo7mbcno2HATx6OFR/LBzLUEkAAlOUQ/coaUBf/Opi94d/ApojR5RcnxD3GKbIZ8+UDJBd2J+anzS3FMns6/9oJ0aUsAqzrIpxRDP7gha8/p/5d+rpm5HBXd0fR5JcKc30MdupdHZRivG+XSsOTunzbGtF59VcMYrTPW2rwBls96XGKGJyPifpHvV9yEdIwxEG6lxLDit7xtysWAglot/cy4HOg1cCpWqw1PW+7TREZnob6J1faeWkCuetdEXoK5mKA7C3exzdu5JTwHaB/Xk0Gii0ckz1HNKa/WrJLWPobkQ+flqpmWxAtSLbBuDUOZNuQGDzJuaStQ6tcLrGyQ9JxBbNmt21o8WJ/fSV9woLsNwKnNnQh9dyE0SdyB0equ5B1r8atgPP04g/3LtZ024DNrJ3LRqVqD+wUfMivDs/JidnZ1ol/YiPc8z2+UvFxWE4WA==;dN9hoclqSpiMecrGJIDEZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-gen
 webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,40 @@ images:
     height: 628
     isCached: true
 
-secured: "kdeXC+RP1FrKg1uQtRSe3iMCfeoHt6MiInOdbg5OoFWxmO0NidfeouxpC0c3eBZBHAzYxaJZY4QQIA9UQCQ6swc6EIGLeb7ZI6Zs0SylFGCMKSWYsIX0mR+NhVwAkfboduZ35/0wpAP7h9TgvK1Rb2QBhR+ePuGLb7jevMtCvBnz+08bMzpbD5f21GaIlx+lolGa57QRRxT0VVGczC27He4AbEnUhlwM/GKMYWnTCV+rZIyC8JYsWZrekLHUvSpqTeTRHjuPJNsKuJHtvfn6n8S119PAxnIALyIlYrI/IurMewoTwl2OQeXq/iaL2liQkVGgE24E7KcBzxqDi7bcmRVVIJnB4OOTELdAPBC0jxU=;WlkL7K8eN/e3NVjAXB3gkQ=="
+related:
+  - title: "Adobe’s AI image generators get beefy updates, including vector graphics"
+    excerpt: "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill."
+    publishedDateTime: 2023-10-10T21:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Adobe Firefly’s generative AI models can now create vector graphics in Illustrator"
+    excerpt: "Illustrator is Adobe's vector graphics tool for graphic artists and it's about to join the generative AI era with the launch of the Firefly Vector Model"
+    publishedDateTime: 2023-10-10T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/"
+    ampWebUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "jLbETw49VgMx0oHsr6qIiECYHkt+DBgTrw36D/xtkcCDudDxO4a00DMS7gcq1F2RXBoYhwl5T7K2GSjH7XKkvpU0nhlXze8j3DyQNjunOSAPKPfCXTdLSDYCxtGNmO5fO0i8Eyi5wCsELMBOPPgrIazK+hzaaZv+g2Dq76QbrdUAz0VJal38poecqe3oLFbaLGgspFKriD5jRUHjywmYp/Ga+OF2mEltSt0LNcUU4eM4PrAux0RFgLdQE+MHpDYh+V8KHQ8CinAW6d+Lo8woVfd08AzkJamaLxiEZj2JZxWwjGv78OlNNIcbzneihm3M7EgK81SLgmnlB7YAB1Al8uzeQj0cP6/uiRqt2kDRx3yA1qW5suGph5H8JmVFufTrNW9eP+qlxOY5onhSOW1RHXrTbcOiAbD6zc99CCr/3Xzrb2dgsNmszgkX3GxCi/cZGNZ9v4mWybjnzN+4D0PkJ9B4lKswYakAbm3wuTtJ+FaWv6kO9/Q6jp0Cn36oX//tVdXDo9BNlaOg9YGLfRqQ6g==;HgWk+cqOU8DCnoybVNN0iQ=="
 ---
 

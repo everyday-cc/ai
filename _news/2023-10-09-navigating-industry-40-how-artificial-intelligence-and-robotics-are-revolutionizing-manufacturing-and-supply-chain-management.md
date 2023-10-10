@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "As Manufacturing Returns Home - Here Is How AI Can Help Ensure Better Collaboration Between Suppliers"
+    excerpt: "As Chinese manufacturing slows and the war in Ukraine continues, more U.S. companies are shifting their offshore operations back to reshoring or near-shoring activities."
+    publishedDateTime: 2023-10-10T18:44:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2023/10/10/as-manufacturing-returns-homehere-is-how-ai-can-help-ensure-better-collaboration-between-suppliers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 32
   - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
     excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
     publishedDateTime: 2023-10-06T19:25:00Z

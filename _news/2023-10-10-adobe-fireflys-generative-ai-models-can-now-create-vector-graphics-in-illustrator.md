@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Customized test benchmarks and openness crucial as generative AI models evolve"
-    excerpt: "As generative artificial intelligence (AI) models continue to evolve, industry collaboration and customized test benchmarks will be crucial amid organizations' efforts to establish the right fit for their business."
-    publishedDateTime: 2023-10-06T09:24:00Z
-    webUrl: "https://www.zdnet.com/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/customized-test-benchmarks-and-openness-crucial-as-generative-ai-models-evolve/"
+  - title: "Adobe’s AI image generators get beefy updates, including vector graphics"
+    excerpt: "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill."
+    publishedDateTime: 2023-10-10T21:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d039fd7760b5fe0894f985195ed1f16ac2e93d0c/2023/10/05/b3bc94d2-7bbd-4136-8189-bb8a0ed7c09b/gettyimages-1403599191.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express"
+    excerpt: "Adobe is going all in on AI, announcing three new generative AI models today that add powerful features to Illustrator and Adobe Express and vastly improve Photoshop’s text-to-image capabilities. During the company’s Adobe Max even t on Tuesday,"
+    publishedDateTime: 2023-10-10T16:12:00Z
+    webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 53
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
 
 secured: "ueVhGVudCfIff+ovI+ECnInWFrY7K50kjwmWyNd8t07BxswI4vvU0QzIn78nFTp2VZuxox/zVy+PRE90VSlPaiP+y06Rrogkt3iqvsGOiZD9yQtaZh179jUeBSkzE/WKN5cD9Gzeeon/J3ACEfS+PyEh3CJZ/K5O3vaycN7Z1vZUu2rIpLnfahXvZsd7CxphObAq2TCjEDGY3pqISfZeGMziec8lrjySMAXJmFhBSlujA8sYG6oOpS3HuZmUnE4TE0tyfr+LhShtNs4Jle92GQ01N/cVV34vV5pebgEq6VPh9LSi/ee48/6Fc1JotabBvhqXoYPG4J0ERYMDqcuZWFmQE0R+yO0fbY9ytLCIZlE=;L7Cq/+YFj0jk+BL3u2H5OA=="

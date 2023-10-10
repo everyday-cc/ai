@@ -1,28 +1,20 @@
 ---
 category: news
-title: "San Francisco self-driving car involved in serious accident"
+title: "San Francisco Self-driving Car Involved In Serious Accident"
 excerpt: "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed."
-publishedDateTime: 2023-10-03T20:18:00Z
-originalUrl: "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html"
-webUrl: "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html"
-ampWebUrl: "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp"
+publishedDateTime: 2023-10-03T23:20:00Z
+originalUrl: "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb"
+webUrl: "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg"
-    width: 1280
-    height: 820
-    isCached: true
-
-secured: "EVQm9K4f1obXerMXR/8IsSErveFm2HPXJ2BaQvumN1wzRCuiutnTZE+YFNklFvOjMu65GG4x6cA1i5vvxxuczfq2fSVXpAFQ+yrrR9BC5xCq8OB5SOA5/eCQrcncdzcHEd8bHw0Bwe4FutzVMrY1ooBYx+wzGvIMcr1LfGOx7bx2C9nYt3Q/7ON/26O69uM3XGsmEQ+RICDGbOQ8KaPWxHYkITAhuTYWl2zYvOgO+covJ05TsBQdA0X3jdCjk4CUkhIbscBRIQCQJwzXMEQ73A5pY0ali2voAQRj0iH1AGQzLJ3Jrvu8gRi0OOEpGlBtyX4p4ZKKeJx+ZcZY9IeSAC5HTI2cFMp6EItOLxjudko=;F5pUltHichNzsRSmK3FG4g=="
+secured: "bYdHAEgMkCWAd4k0a/MAkT0anQd+NkhneZ0VqNYjLi+AfjAmVRNEUZWL5SjfCG9R57rzjNhzYKwCqObQVF06CqstHCM1H8jawW/5R6tBaqyYXJtsFjOeK7ikxIQNB65oZJPNuA8SGSpW2eEXrXaf/QQmwIq9CeHGLyyT6dF+j354CoL1qiKBz38CQrCJi39l209A4ARd38fbPUO5MChW8x06vZAMh8i5qEptMxkh10PFZ9gzKvlWXMW+ah+2KgB9+G5BtruLXXFI45NgNlqd5aYQvLxJhZ84lBjvAfhXazGp3pdahKSJF6BMseSgdxIaSEN+fGLNeEOerb34n2SgCWDxkRtnE0ZWyCBNrPKl5cxk6gnQmWcgoF7YdGrZqRxVjcnmnXW+NPRUxQ+wTRoAyZEXHFuOk2+7GFRTBL3PcHd2dQ2vFp1Ip+snTBjxKFC/aMZbq83Shj0MfOdFSmNk2voVKl4U5kJXwQFIMUZix97dmwJmb4EM1dStrFAjS8B0Pt02XwnL6MVpOOWz4pjluA==;UEOL4It/uTPFs/qEhIDSog=="
 ---
 

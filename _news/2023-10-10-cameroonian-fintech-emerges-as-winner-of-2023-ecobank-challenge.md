@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
-excerpt: "Ecobank declared Koree, a fintech company based in Cameroon, the overall winner of the 2023 Ecobank Fintech Challenge."
-publishedDateTime: 2023-10-10T14:38:00Z
-originalUrl: "https://za.investing.com/news/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge-2890394"
-webUrl: "https://za.investing.com/news/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge-2890394"
+excerpt: "Koree from Cameroon is the Ecobank Fintech Challenge competition’s first ever female-led fintech winner having beaten eight other finalists"
+publishedDateTime: 2023-10-10T14:12:00Z
+originalUrl: "https://www.itnewsafrica.com/2023/10/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge/"
+webUrl: "https://www.itnewsafrica.com/2023/10/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Investing
-  domain: investing.com
+  name: IT News Africa
+  domain: itnewsafrica.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
-    isCached: true
 
 related:
   - title: "Koree, a Cameroonian company emerges as winner of 2023 Ecobank Fintech Challenge"
@@ -81,6 +75,6 @@ related:
       domain: businessghana.com
     quality: 12
 
-secured: "8SYvptSxFoHtWXFQ+XwbSHPtmbFq1cNTqwLSym5mRi1Xa8aknFJw+CjBnmuFiT6cChRg5jupEksopUuxD/qZF0DtPeDeFFvjKCA+DlD71As8sZOEGOywYcsVmM8HDdkVZ80RQzSaI5cQB2b5whQXGpDAjwTHlolMRr8lzzZjmyd/bzr94wPcsISA5fzzuDj2V1TPwB3lKDo39xTvX3fVx5hOb9t9e+WKMLu+sxzJSThFDy0N5QdX3yyiFECjGPtFm4HBNsM30p5o5k/OVRVqzFEqVtFDN+MFWkgIRQ9VBdtATZmNxQQrhCFVi7awUzKaYpMDeXJxPvtZr726Zda9UFyPD58fqpr/r/3CbyjgxVY=;w4ghepr3PojUq2hUBEVz6Q=="
+secured: "MXzSbQNSZkn48OfBmRaraJgddDdm8BYuAXUgFOAj0fTbQIVx5gyh+cOA3dg+e+IG1I3bQFK2kZf1g3eRiETHbk2uhYLCT9yD42ypqid9UkzkRIDoLKzpB0zSn2pCwJvznDvUjkMZaoRnavAD8dSvVCTNpWpupHXlSu9YL3potNtroGTIKuyz5eiakhHOHiXQxp2m7vRb6Lk4Id/dkYNHgF4mb8teQnE8lmDTNyLBGttzeCF64pjvP873KGje8NbYzVf2k3pfdrm0EI2MrZ1U9hekUrieVyqkWMmVxYkKJo3AHL1CB2vs/9Z1Bv7XQbQPDhDia87Y17Mp8OG2B5ZLk8SJGvArlPkUIwMj3+KcQp0=;SBuGtRmK78hQaYhZBPaV/Q=="
 ---
 

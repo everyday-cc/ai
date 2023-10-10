@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/ai-language-models-could-help-diagnose-
 webUrl: "https://telanganatoday.com/ai-language-models-could-help-diagnose-schizophrenia-research"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI language models could help diagnose schizophrenia, study says"
+    excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
+    publishedDateTime: 2023-10-10T13:39:00Z
+    webUrl: "https://www.deccanherald.com/science/ai-language-models-could-help-diagnose-schizophrenia-study-says-2720370"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 39
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F62b3a087-fe0b-467b-a506-e17617a565f1%2F2023newsmlRC2OL3AFLTFJ890668919.jpeg?rect=0%2C6%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI language models could help diagnose schizophrenia: Study"
     excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
     publishedDateTime: 2023-10-10T13:12:00Z

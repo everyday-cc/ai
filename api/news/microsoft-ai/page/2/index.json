@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-27-infosys-and-microsoft-join-forces-to-advance-generative-ai-across-industries.md",
+      "title": "Infosys and Microsoft Join Forces to Advance Generative AI Across Industries",
+      "excerpt": "Infosys & Microsoft forge a partnership advancing AI, unveiling potent solutions that ensure industry-wide innovation & robust business growth",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
+      "originalUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign88-1695795120482.png?fm=png&auto=format",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption.md",
+      "title": "Bain & Company and Microsoft establish strategic partnership to help clients accelerate and scale AI adoption",
+      "excerpt": "BOSTON, Sept. 27, 2023 /PRNewswire/ -- Bain & Company today announced a partnership with Microsoft which will enable Bain's client businesses to build and deploy new artificial intelligence (AI) applications across their operations faster, more effectively, and at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-infosys-and-microsoft-collaborate-to-bring-enhanced-ai-enabled-solutions.md",
       "title": "Infosys and Microsoft collaborate to bring enhanced AI-enabled solutions",
       "excerpt": "Infosys announced that it is collaborating with Microsoft to jointly develop industry solutions that will leverage their respective artificial intelligence (AI) tools and services – Infosys Topaz and Microsoft’s Azure OpenAI Service and Azure Cognitive Services.",
@@ -1205,101 +1291,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-orca-security-expands-relationship-with-google-cloud-adds-generative-ai-features.md",
-      "title": "Orca Security Expands Relationship with Google Cloud & Adds Generative AI Features",
-      "excerpt": "It's been a busy year for Orca. Back in June, the company announced an expanded relationship with Google Cloud. Earlier this month, Orca released a new generative AI-based tool for asset discovery. Between the two events, Forbes named Orca Security to its 2023 Forbes Cloud 100 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/20/orca-security-expands-relationship-with-google-cloud--adds-generative-ai-features/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/20/orca-security-expands-relationship-with-google-cloud--adds-generative-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-how-we-interact-with-information-the-new-era-of-search.md",
-      "title": "How we interact with information: The new era of search",
-      "excerpt": "In today's rapidly evolving technological landscape, generative AI, and especially Large Language Models (LLMs), are ushering in a significant inflection point.\nThe post How we interact with information: The new era of search appeared first on Azure Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/how-we-interact-with-information-the-new-era-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/09/Picture2.png",
-          "width": 720,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Microsoft AI"
       ]
     }

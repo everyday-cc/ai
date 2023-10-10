@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Scholars propose unified global regulations on facial recognition"
+    excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://www.biometricupdate.com/202310/scholars-propose-unified-global-regulations-on-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "oIxXZMtzGXqYxrUMEehkZbdRIXUh/ZenmyLFgf3ptpoIr4kTitI85c61yPxVu74eNI8QrK4FmD5pUV+4zGEml2oJSJtQrQM2bkZzGMGRWXkjL0dmvGZjMI4mMXguQBY8vYUu33YnxqWCH1vBzVLBUhdaS9p2eYE1nzwY6bSACmA+jFtMBHxa+UVmIGNqgjnoThvKeJg2RpIIXld3GQYJoMaDiMCkNhytMBMV/5upbUlEYIXVUC3rfKvRaLz1WvuQ/6O2NMYs3hcRSzKW6403MoOLpJBX5tqYYNmQT5cbnn9Bn841d2dkfOkTyx9oTwVNSQR/gbThoQaDMxgACAEkr/X+Nk47DVEf2G4p6CLpFIA=;eJ3H4pFloRzlzN565G+BRg=="
 ---

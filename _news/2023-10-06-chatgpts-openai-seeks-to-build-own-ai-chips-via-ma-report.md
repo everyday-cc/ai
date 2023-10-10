@@ -55,50 +55,6 @@ related:
         width: 1022
         height: 659
         isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
-    excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
-    publishedDateTime: 2023-10-06T04:04:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3237002/chatgpt-owner-openai-exploring-designing-ai-chips-through-acquisition-or-working-closely-nvidia"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 68
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/06/f766d764-37e7-44a4-b8ff-55abaf92d6cc_9d899f76.jpg?itok=-r1GFiTG&v=1696564271"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Docker dives into AI to help developers build GenAI apps"
-    excerpt: "Docker Inc. announced today it's taking a dive into the deep end of AI with a series of initiatives designed to help developers more rapidly build generative AI applications."
-    publishedDateTime: 2023-10-06T02:18:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/docker-dives-into-ai-to-help-developers-build-genai-apps/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-5.20.26-PM.png?w=1200&strip=all"
-        width: 799
-        height: 495
-        isCached: true
-  - title: "ChatGPT's Silicon Ambition: OpenAI Reportedly Eyes AI Chip Domination Amid Nvidia's Reign"
-    excerpt: "OpenAI, known for its AI chatbot ChatGPT, is reportedly contemplating developing its own AI chips or possibly acquiring a chip-making company to address the ongoing AI chip shortage and reduce dependency on Nvidia's GPUs,"
-    publishedDateTime: 2023-10-06T03:13:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35119686/chatgpts-silicon-ambition-openai-reportedly-eyes-ai-chip-domination-amid-nvidias-reign"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35119686"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35119686"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ChatGPT.OpenAI.Shutterstock_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Despite OpenAI's Potential Shift, Citi Analyst Predicts Nvidia's Continued Dominance in AI GPU Market"
     excerpt: "Similarly, he expects NVDA to maintain a ~90% share in the AI GPU market for the next 2-3 years. Pivoting to Marvell Technology, Inc MRVL, another prominent AI player such as OpenAI, looking to build its own AI accelerator, may offer a viable path."
     publishedDateTime: 2023-10-09T17:00:00Z

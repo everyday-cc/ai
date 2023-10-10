@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
+      "excerpt": "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/",
+      "originalUrl": "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kltv-prod.cdn.arcpublishing.com/resizer/I3UetwhPNwKp1MqBsXTU6rS9Tbs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/MG4MSCYFTFH63KMRYO4Z3XXHKY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kltv-com.cdn.ampproject.org/c/s/www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/?outputType=amp",
+      "publishedDateTime": "2023-10-08T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLTV",
+        "domain": "kltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
       "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
       "excerpt": "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing.",
@@ -228,29 +271,20 @@
     {
       "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
       "title": "China leads way with self-driving vehicle tech",
-      "excerpt": "Another report by global consultancy IHS Markit said that China's self-driving taxi market alone ... companies like Pony.ai and Baidu have been operating robotaxis in designated areas in Beijing ...",
+      "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T02:51:00-07:00",
+      "publishedDateTime": "2023-10-04T19:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",
@@ -418,6 +452,40 @@
       ]
     },
     {
+      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
+      "title": "San Francisco Self-driving Car Involved In Serious Accident",
+      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb",
+      "originalUrl": "https://www.barrons.com/news/san-francisco-self-driving-car-involved-in-serious-accident-aec595bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-self-driving-vehicle-runs-over-pins-woman-in-san-francisco-operator-claims-human-hit-her-first.md",
       "title": "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first",
       "excerpt": "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ...",
@@ -457,49 +525,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
-      "title": "San Francisco self-driving car involved in serious accident",
-      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "publishedDateTime": "2023-10-03T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1327,49 +1352,6 @@
       "provider": {
         "name": "bbntimes",
         "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-driverless-ice-cream-trucks-3d-avatar-booths-hangzhou-shows-off-tech-innovations-at-asian-games.md",
-      "title": "Driverless ice cream trucks, 3D avatar booths: Hangzhou shows off tech innovations at Asian Games",
-      "excerpt": "The city of 12 million is using the Asian Games as a window to showcase China’s cutting-edge technologies, including big data, artificial intelligence, and virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "originalUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--DOOQoOm4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/26/screenshot_2198.png?itok=8MYxyMd8",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null

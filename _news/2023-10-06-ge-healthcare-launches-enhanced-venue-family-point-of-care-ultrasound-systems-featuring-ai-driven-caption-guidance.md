@@ -44,15 +44,6 @@ related:
       name: HealthTech
       domain: healthtechzone.com
     quality: 34
-  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
-    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
-    publishedDateTime: 2023-10-06T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 24
   - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
     excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
     publishedDateTime: 2023-10-06T17:00:00Z

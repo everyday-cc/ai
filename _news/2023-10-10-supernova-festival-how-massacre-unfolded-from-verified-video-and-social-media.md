@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Supernova festival: How massacre unfolded from verified video and social media"
-excerpt: "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing."
-publishedDateTime: 2023-10-10T16:01:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
-webUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
-ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp"
+excerpt: "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\"."
+publishedDateTime: 2023-10-10T05:22:00Z
+originalUrl: "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/"
+webUrl: "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/"
 type: article
-quality: 40
-heat: 40
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: The Star
+  domain: the-star.co.ke
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png"
-    width: 1024
-    height: 576
+  - url: "https://lh3.googleusercontent.com/0TTOXyzGWzvAifUvS_zT1u8lWdDxPBHORhVW6FqrU2UCgYbY2J2_l43RcAr7VGXM_A0Vkk63tZvauc7K3W2IOvM-0rcA7DNnHDEBDgwUBQ=s1000"
+    width: 1000
+    height: 496
     isCached: true
 
-secured: "+K6FFWxi4JMPMDIJKeq8hUxjv3zUKB7zCtayfeoVpnAaFh/vV5QaMuIAdDyDkcayM3RLqelm1TO25TD4cNjqQ18/09n5uj1iaQK5j6o7tl4Fh5F9XT0s9vs24E9/qBb7AxH/4cxyW5AFhrp0KgOwgKhMZyClnreJwGmpcEu+otb5/JhaGTr7hSFdMe5Ak5M1yhp9mhoGVzQV0xBEzQOHJGAXRDZAe6ioVXpk0kxXi6kiOqQO9pQYmy+ro3LcCkyr5E3ZnMW8rUF6eFVUAf3L8MvIiRrrr09TuCsCGq9EiekfLbfO4AL9ot6UjxhBiI/S+DDE6oG/jF+GZO9+jb8O+7rC8nFSK5XZW8bMxnME0Dg=;VhRcm0PwHs+AGi8E5sOaRg=="
+secured: "A0StVb/dxPMqWB2D0vjxVguJBfDRgwGL8J8X/DoAoZym3+OsYQL3geWqV3g3zGBXIFIgEjtgnw1r++yx4YfqFTOIXC0lhBUa+V3LP4TeZzFewWtJ3h3yu94MYBK41PqEykXsJ5fIvPxuh2rJ/I5IM3at+jJ9NWvJN29Vb7/k9pryU/IWN9cCSDp0mESMJJSWCsAPIOuqLAv9y06zzHPHxHpHw8jN17twpeY3SbE+ghklUyU9yJS2SatYRi0KosOph0OJgveSjv5kDa2pLwHUn2h4eN4Jl84HnCN7dfHzBoZG9MAHCk2KshZQBoiUm8ZTqv1RSPsg4snL/5MdesdKinosbGFsvffWGctMkoV71t4=;19GIMkmANkJszdh6QvDCyw=="
 ---
 

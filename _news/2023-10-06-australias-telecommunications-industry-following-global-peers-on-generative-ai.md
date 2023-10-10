@@ -74,6 +74,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "How Long Until AI Guts Hollywood? And Other Investing Insights"
+    excerpt: "It’s only a matter of time until someone builds “HollywoodGPT,” an AI bot trained on the transcripts of every film from the past 100 years that can dream up brand-new movie ideas in seconds. Trying to ignore or ban new innovations never works."
+    publishedDateTime: 2023-10-10T21:44:00Z
+    webUrl: "https://www.equities.com/news/ai-guts-hollywood-stock-market-insights/"
+    type: article
+    provider:
+      name: equities
+      domain: equities.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/equities-com/images/w_1024,h_683,c_scale/f_auto,q_auto/v1696974187/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0.jpg?_i=AA"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "UNwhNRYQFXMVRiNvQQOmdzq2RjzrRt12nQcSLq6TPRs1u3BwKhrfq7yPMy9BZJpeMQH6WUloEdsZAok/X8WVug8mxd6WwYpv2owy0eCa2jXoS9uQs+fsgb0goe8/BmoVNCIutF1QsJQ1mnttG/O8k9HrXMVC3Ox+nrDnNYZ06yJcENoxbAgQHzZucUNibGOIe5CmfAwaEM3HK76ZPvkymh5uNOYQ69ThZpBMuLeWD24DdpIetu+lW4YgFLGQycsz7nzI3HNwu8q874MLzSt20dSpBHssM35D2f00Fl3tT/N1yL5jIQPbF/BoQ89X/uH94dQCX3UNV/mxtNbQG6U8QJxTiUVL4cKr+iQNedkU4i1MkFpKUaMuOaqFhc51A5ZH5Xy2t1odc/yvuM1+ZVIqcST4oXyH4P3czsfTCDXeE+x3rSamLuK5QbiwR9Ku0so2w21e/MsoNwtAlqVlU+BALteiTooTCN0xwX0wZq54j4Abwz5YbSo8F24XRZYyhFRCbCb94x3t9fbEiw8hXl4vhw==;FyZlufRIWss68j1wHzeRoA=="
 ---

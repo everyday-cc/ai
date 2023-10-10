@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/56-of-professionals-are-uns
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
+    excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
+    publishedDateTime: 2023-10-10T18:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-deloitte-report-emphasizes-the-gap-between-generative-ai-adoption-and-ethical-awareness-among-organizations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
 secured: "9gZN1Fq0ao7SvEBkacsuvxUEDAASXQ4dfaJ1fnoJTuPe0Clhq6xvxa/LQVdp3kd16uRiH8/kPhZLzDg0Fbmq3TyR5H5hGy1dLURGHpIfcLO0WnSkghyLUw4HmVP3c5jRLdD23p+CWgM3zZyTwUcShKcaoKqWjXF0f/crlvCa4HiazezHgjDK8dQHvdbX3lUNiAaIRUakUzTUDYsrKAO9uyKu4v0bBMYx9gW4+xzI+Nj0OiZdUPtYOJ6gSu3bnFx3LVFhQ2tLowW8B524beD7mv8czupl01A7azJuXWe/71/rTo2+gANvJb+avt3iCWAgUMZ9yp6c/UssmvkUgFaR7CUcIQYaoYGmJBcaKfr1LjOd55alyXHqVgTz68WE6+l6/JwT4B4SlfupfwFfdEYcDiQZkgMKUn4Aaza0ZjYRnPPN6O5xl4YXzuADuFhf4+0GYGCYuoT0gweVosQNpc111YsV4wJ7r3UQfnrzExMELukB+ihN4FGRfE30DcY2fTd78CcZ8jWoB8BOC14jFQ6GTQ==;ztXKHDxoesLEezcVTDV37A=="
 ---

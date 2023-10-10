@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Voice: through the disinformation to the source of opposition"
+    excerpt: "Australians will vote on a seemingly inoffensive change to their Constitution. Why is it meeting such opposition?"
+    publishedDateTime: 2023-10-10T17:54:00Z
+    webUrl: "https://johnmenadue.com/the-voice-through-the-disinformation-to-the-source-of-opposition/"
+    type: article
+    provider:
+      name: johnmenadue.com
+      domain: johnmenadue.com
+    quality: 4
 
 secured: "VWLFGGKq+OsvUchFZ2lj+MpAVkMDxv8dPwubTYm9XQ4YwmBo3MynB8t4Mf1d76AczGEQ7ZVCK7tagtZqvTWA13kIMC2ty3eYWXPzNmsdpCrCt/3+/ClQw1c/JkuNxQ+Z4EMdsyYplmyRWw/VHfhPFN2Bz1f6V5DewBRgPoqpqyoadwV0pNr+dv18iAvATmlmp6dfgWOucY6V02ILHHhQ7rLOBXdiUsuFcy4/YCmFCrAubMkqhOI+az3EIUxT8yr4I9rX+crD9JmL/kTGWM5MSNJaog6jZmjahJ8xdfOIruQHw4Rr8bWmaHYngzHihX29e9GlMo8tpmI5tTNhtmurtb+mW1KNGvBbm0D/h6JZyQ3MnjdANFDXjxF98uJ9RIj7wuELLPMJtKktckCg4iuJVivrK5pjn1ME3H+Ti4SiZfzL+fIwVMJwD+8WWmofay+9oK42zTMmXJLlL9AB8PT9IyPEGDYmmESydS3+dMCuYVaq+WDPz8sAwYm10mgnjzYiKBJMjYGwJ6kBeDYv4aMRZQ==;CCedsI/Y9OtXvA62u5BF4g=="
 ---

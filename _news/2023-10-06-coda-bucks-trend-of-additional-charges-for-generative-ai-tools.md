@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
+    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "2fV+1sMxqOLWuZyAAxwtIpeS06537IkYFBpiU6Q/oEDUg+qe0EcehcRrPntOBIIgjLA3O78HaB271sarGjOHpUAxMgKL3e0Zz3G5qMoAXB2P2N/VUd029scqev4W20xGETGnJR+71LkLw1MRRt3q/qCZMp2mBULEAqPyeerUdwWSLNbkuCs/ShZFSUdaZDdldRk2lSZRXNLCSQcXlvANWRK16S+p+kVZt73W+fW6qZeBA5unaJACn6FFO1P7Mz1evcWcO0RFrqput6AB3Kp2rwnllTb8IdSBMebdPV9JFASbgIB6L6Dy2QsJlC16RLjDVBDDHHaxyh1EUGFvTcwFKtz6QigUN0BpEf1PlPHeMXCXDQMxi6I4Vpeup9qaR0yxSwImj0QzW8EBsdpb+nDzgWKsANN/K8Ddbil8EK8d5VaA3DoYXawhd/8bt4nKzP7f5GBgBaHAdi37waGadl3fWDB1q7DF7qClZR+xdHpGlTR65uRiJGVf1kbBD65fG9sMxSIYeLKTlH9d2YhhXfsMXw==;licmn4g3jag4ZFBouJMQrw=="
 ---

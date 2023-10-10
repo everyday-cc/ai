@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial intelligence and the future of humanity"
+    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
+    publishedDateTime: 2023-10-10T19:00:00Z
+    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
+    quality: 41
+    images:
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "AI technology may outgrow global energy demands, expert says"
     excerpt: "Training alone consumes a lot of energy, with de Vries noting how some large language models use anywhere from 324 to 1,287 megawatt-hours of electricity during that stage. For context, an AI tool consuming 433 megawatt-hours is enough to power 40 average American homes annually."
     publishedDateTime: 2023-10-10T17:48:00Z

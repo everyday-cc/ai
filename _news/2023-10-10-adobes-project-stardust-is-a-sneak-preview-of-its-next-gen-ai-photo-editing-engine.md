@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 725
     isCached: true
 
-secured: "C/bjJJ04iOS91Ih/YxhwX3OH1aQEEH3pyyTxhDvdnq4VnQFxifDpwdqMcZ/L/w2FwvOFTD6RLTmDYkI8EFCz9UG7vsEOEP1h2SssuB/4hQa2lQeIBPX5Rgq6T7zJ0W2tB5QrQXeWfMO8E4SEovF949YEzc7wa7HHkIbpgnd6p3F/2B6zG087nWdztkReqkLo8Drur3HvbiEvpvO+jbI0r3Psnoi0wbZRWe1iyn2hQclK8bsA8Fiw/VSmPDnLT1psGQnlqkHRZHprN/LZy6uVaALPv6JesIYU0PzEAcNaGOPh+Y4AkfYHzhqieXRdxM3L/5l9sAx4evqk4nbodkSBu7oMIAeUx/deDKxEkqXxm0Q=;L29AaS4E/CM7wRJ6W7EViQ=="
+secured: "q3nUNfY2US2uykUG65ObAA83YdLxcmcw3NHLrg4Awb4KuiZhDRLowHFcJubtyxtLiPOsQ9E8WsXV2jfoWVrUMIwiInh5SQcogL/O5HhDYsA19BC0zgA1dRX7KuxBwFCvSlk7IDu0HtITFQ18IUIvP+zdivQcdMVMFa9CQxrEn1T7pe2E5C04ZtoxTqKOiemc3aGEFHNf0uZs45oWCCHUh41TgGCnK3ldpr185aQXf9f6c+hT6X/bxeoT1lp6UneD0BY5TnKjbvqSV37H+mdtoE9uXQ8QB1WpNxOpvL73AwALVQG8+flVjVnfmXLCgpv0zQ9Xwr0A/w7NEhuiU0zVDXLND1JF6Uaj48pdT0FY29lNwA07hrsjS837UkbpiRrSmJM85MDWuUjBZWlbE+FdrPwDurpB/kzC+Dh98EM31zE3Ih877TFWXhxZt70T7ZYO5fL2I/nkcTKhOoYa7pWIntiVURAUdiKSMN/moLPrMZWJSDXi8CmXloorKcBZiR0y/Kut4eSSV8LBzlDyJFOFEA==;GZPfWyKZ4P+3PD88szfulQ=="
 ---
 

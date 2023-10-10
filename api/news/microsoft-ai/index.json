@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-11-informatica-embraces-ai-to-help-companies-manage-their-data.md",
+      "title": "Informatica Embraces AI To Help Companies Manage Their Data",
+      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer explains how Informatica is boosting its capabilities in enterprise data management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525ad99e4d5af599c004829/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 920,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/informatica-embraces-ai-to-help-companies-manage-their-data/amp/",
+      "publishedDateTime": "2023-10-10T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.md",
       "title": "Why are OpenAI, Microsoft and others looking to make their own chips?",
       "excerpt": "As demand for generative AI technology grows, chip shortages are not the main reason behind developing custom silicon, experts say.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 451,
+      "heat": 491,
       "tags": null,
       "images": [
         {
@@ -783,6 +835,40 @@
       ]
     },
     {
+      "path": "_news/2023-09-30-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
+      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
+      "excerpt": "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business",
+      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Net India 123",
+        "domain": "netindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
       "title": "Infosys collaborates with Microsoft to develop generative AI",
       "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
@@ -1281,92 +1367,6 @@
         "name": "The Financial Express",
         "domain": "financialexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-forces-to-advance-generative-ai-across-industries.md",
-      "title": "Infosys and Microsoft Join Forces to Advance Generative AI Across Industries",
-      "excerpt": "Infosys & Microsoft forge a partnership advancing AI, unveiling potent solutions that ensure industry-wide innovation & robust business growth",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "originalUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign88-1695795120482.png?fm=png&auto=format",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption.md",
-      "title": "Bain & Company and Microsoft establish strategic partnership to help clients accelerate and scale AI adoption",
-      "excerpt": "BOSTON, Sept. 27, 2023 /PRNewswire/ -- Bain & Company today announced a partnership with Microsoft which will enable Bain's client businesses to build and deploy new artificial intelligence (AI) applications across their operations faster, more effectively, and at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bain-company-and-microsoft-establish-strategic-partnership-to-help-clients-accelerate-and-scale-ai-adoption-1032657675",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

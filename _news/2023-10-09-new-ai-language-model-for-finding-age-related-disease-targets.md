@@ -7,7 +7,7 @@ originalUrl: "https://www.azorobotics.com/News.aspx?newsID=14359"
 webUrl: "https://www.azorobotics.com/News.aspx?newsID=14359"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI language models could help diagnose schizophrenia, study says"
-    excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
-    publishedDateTime: 2023-10-10T13:39:00Z
-    webUrl: "https://www.deccanherald.com/science/ai-language-models-could-help-diagnose-schizophrenia-study-says-2720370"
+  - title: "Researchers develop age prediction model for human brain tissue using artificial intelligence"
+    excerpt: "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs."
+    publishedDateTime: 2023-10-10T20:10:00Z
+    webUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 61
     images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F62b3a087-fe0b-467b-a506-e17617a565f1%2F2023newsmlRC2OL3AFLTFJ890668919.jpeg?rect=0%2C6%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg"
+        width: 2030
+        height: 1259
+        isCached: true
+  - title: "Researchers Introduce AI, Deep Learning Model for Improved Earthquake Forecasting"
+    excerpt: "Researchers recently introduced the Recurrent Earthquake foreCAST (RECAST), a deep learning model for earthquake forecasting and explore its performan"
+    publishedDateTime: 2023-10-09T04:22:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/researchers-introduce-ai-deep-learning.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 49
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5fKM4nWv9UoKxA7r8STYCFyeZwBxG8p5IXozuIRoIPxTRCaQBvwNqgkgdNaEfvc0b2bwPDIT9pxRh5CkeYNLWbzUFzn7n05Iu1WdFxUsy-NPBbhhVJYNwValFx_uaK2xVzhq4fzuncJNTVEBNMfXCJFrIk5G9-VGHs2gGT_uFnwfgaK_Mq0oaTEnO8Y/w938-h624/parker-johnson-cf72vgi3d6s-unsplash.jpg"
+        width: 936
+        height: 624
         isCached: true
 
 secured: "XWmk87agYdbxcTFqP3/tL0GyTDx36yvX46hJX6j6ai8phqFAYttxpQNgcjvgZipLkhGQvALJulu3tEqMYkEABumlDZAZv0iPVoi8QHhd1r2gwzTpU4FWRIsmXFY+/rP6Iyh8y16dPA8wf+zl7VvBccpZoeN01jdAsTJv9z+BUgSDlbj5HfiSpBpDcLUEdEl/XWsYLqHjGV9mXvz93RAEn6X4/3yEyt0h7jJeesRQMxBNJXNLnC6uKko+9Gnamn1VX6eXpD21AJ/NIat4kQ3Ym6TyypPNBVZtvWi1lYMjZYEOzRoRWUsqUARH47AAoPhiw//Vnl5xW+hrDdF2/4yvevZL+QM58ccrPjDitD2Cfq6U5AKPuZR00GF0tcK1iy12/W49tW0TspAv4XP2IYg/iJioHFaFTMu7KBCsEehRtuHVJ7SYGigboFrVEg73n/W3TSDf2e7eQWecWDrDKSSH6nnMVLqFlpsiIaFyA4Gj0mJGi+fH83YO4QeJhylhTJptUPVPTieMsu+BuEzEhnl6fA==;WMzAtqZjmlix1gb/ssxC5Q=="

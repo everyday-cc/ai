@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-104128779,imgsize-44554,width-1200,height=765,overlay-etcio/artificial-intelligence/the-scary-side-of-artificial-intelligence.jpg"

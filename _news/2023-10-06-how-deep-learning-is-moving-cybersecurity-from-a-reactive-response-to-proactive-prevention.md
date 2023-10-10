@@ -51,15 +51,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Startup Rootly Wins 2023 CyberSecurity Breakthrough Award for its Enterprise-Grade Incident Management Platform"
-    excerpt: "The AI-powered platform learns over time, helping companies understand the root cause of incidents so they can be prevented in the future. Backed by leading investors including Y Combinator, Renegade Partners, and Gradient Ventures, Rootly is already in ..."
-    publishedDateTime: 2023-10-06T03:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/startup-rootly-wins-2023-cybersecurity-breakthrough-award-for-its-enterprise-grade-incident-management-platform-1032682358"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
 
 secured: "jaVV7DhM8mU0oZD0bJjhJnaFNvGnFLB88kd7OoNt8B7Z0xbkqmzfTdLxGMrEG+FSEuRQj0uLpV66XvXfj8OIq66YF5EdpeKSkG9DIBi6fY970cFnD1QIzIf3OM9kowq6gmyl2T/b2VLvCXorc0ZrB/BzRWqF5Z72/lMQbEgSXfFfhmctsgwvln/tVEEVQnmhpRnqv2aohy5NlfOOAqWu6bW/1tJ5IIO/G45TSweB8UfFi/zI3SoWehAH+vlDxfs3xW7+lo+nitHSev5EJ/Rs6lvlfnJwgTSqY9I3LFfbQwNIE5vb0gYTXtMcW7qvsVB+ZXbQPCOD2CtegtTrOfPJcMPdd+gr14dRy66TzjdqVqZ5fV6g/KfX4AOxypBzwLO8Pb0CRoFCfym7p0ELCHKbQwKVd5UUn4ToKGeV1H6OQBiXl8eg6L+iUQ5x1mZNb61TYo1bOsju+9uI6j/Zgjb72TCoSE98eNuB0Lx6Mneb+Izj4zeek+/w9iv5QMpMyXXZayX38+crR8RbxbcpwC+xAg==;kDxCu+zahKUvXsZZo7b9dA=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
-    excerpt: "Ecobank declared Koree, a fintech company based in Cameroon, the overall winner of the 2023 Ecobank Fintech Challenge."
-    publishedDateTime: 2023-10-10T14:38:00Z
-    webUrl: "https://za.investing.com/news/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge-2890394"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "Koree, a Cameroonian company emerges as winner of 2023 Ecobank Fintech Challenge"
     excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge."
     publishedDateTime: 2023-10-10T08:44:00Z
@@ -61,6 +47,15 @@ related:
         width: 1492
         height: 840
         isCached: true
+  - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
+    excerpt: "Koree from Cameroon is the Ecobank Fintech Challenge competition’s first ever female-led fintech winner having beaten eight other finalists"
+    publishedDateTime: 2023-10-10T14:12:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/10/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 19
   - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
     excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge. The announcement was made by a distinguished panel of judges during the competition’s Grand Finale at the bank’s headquarters at the Pan African Centre in Lomé, Togo."
     publishedDateTime: 2023-10-09T12:13:00Z

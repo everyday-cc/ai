@@ -7,7 +7,7 @@ originalUrl: "https://www.deccanherald.com/science/ai-language-models-could-help
 webUrl: "https://www.deccanherald.com/science/ai-language-models-could-help-diagnose-schizophrenia-study-says-2720370"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Language Model for Finding Age-Related Disease Targets"
-    excerpt: "A brand-new study named “Biomedical generative pre-trained based transformer language model for age-related disease target discovery” was published in the journal Aging (listed by MEDLINE/PubMed as “Aging (Albany NY)” and “Aging-US” by Web of Science)."
-    publishedDateTime: 2023-10-09T12:05:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14359"
+  - title: "AI language models could help diagnose schizophrenia: Research"
+    excerpt: "Researchers at University College London in the UK developed new tools, based on AI language models, that can characterise subtle signatures in the speech of patients diagnosed with schizophrenia"
+    publishedDateTime: 2023-10-10T12:51:00Z
+    webUrl: "https://telanganatoday.com/ai-language-models-could-help-diagnose-schizophrenia-research"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14359_16968488295792769.jpg"
-        width: 639
-        height: 444
-        isCached: true
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 19
+  - title: "AI language models could help diagnose schizophrenia: Study"
+    excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
+    publishedDateTime: 2023-10-10T13:12:00Z
+    webUrl: "https://www.hindustantimes.com/technology/ai-language-models-could-help-diagnose-schizophrenia-study-101696942752361.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "TtT2gOZU2Lco3CO54PeGDncy/MAxdE6MOoZH27O0PeFjxWrEaT8wCKeaj/DQ1iNGCky0iYH+LA7cJroSAdGDDpYiO/dy4JQwYkhG1NSDZUycjSHt4yeSDpAIhOmbBxyr7PMyQYxuIluqX8Q9rsxxeCV0GvWGiy3B1bQOK5YxkpMQciOIJxAoPNHHK04Cm58crON7Ya7+KlyyztSyv53xb22p+SuvgDs+I8TBovdGDwkRausMLzh/K5XlrOrd2JfiX0wO3w7iOLzcMB+OcbKO4tYIR7WGPE0GN4UjT/qjWx63URnITmO1hTp4SNFUFBtaPn5xM7b4ggyYOIZUy1VIjopT6FVt2TdD94B+o5dre+c=;jF028nulJ2RQJhcbUy5kOA=="
 ---

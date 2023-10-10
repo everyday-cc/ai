@@ -298,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-07-dubformer-launches-ai-video-dubbing-solution-for-media-industry.md",
+      "title": "Dubformer Launches AI Video Dubbing Solution for Media Industry",
+      "excerpt": "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI video dubbing service. The solution supports 70+ languages and language variants, and 1000+ voices.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-dubformer-launches-a-1696626906.jpeg",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-improve-prediction-quality-in-custom-classification-models-with-amazon-comprehend.md",
       "title": "Improve prediction quality in custom classification models with Amazon Comprehend",
       "excerpt": "In this post, we explain how to build and optimize a custom classification model using Amazon Comprehend. We demonstrate this using an Amazon Comprehend custom classification to build a multi-label custom classification model, and provide guidelines on how to prepare the training dataset and tune the",
@@ -586,40 +638,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-04-language-accessibility-drives-speech-recognition-innovation-from-isentia.md",
-      "title": "Language Accessibility Drives Speech Recognition Innovation From Isentia",
-      "excerpt": "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
       "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
       "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
@@ -659,6 +677,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-language-accessibility-drives-speech-recognition-innovation-from-isentia.md",
+      "title": "Language Accessibility Drives Speech Recognition Innovation From Isentia",
+      "excerpt": "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU202310/S00046.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU202310/S00046.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1350,58 +1411,6 @@
         "name": "TechNewsWorld",
         "domain": "technewsworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-is-launching-an-eerie-new-ai-led-feature-that-mimics-podcasters-voices-and-translates-them-into-different-languages.md",
-      "title": "Spotify is launching an eerie new AI-led feature that mimics podcasters' voices and translates them into different languages",
-      "excerpt": "Spotify is working with podcasters like Lex Fridman, Bill Simmons, and Steven Bartlett to release AI-generated translations of some podcast episodes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
-      "originalUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6512999b82a83a00194b76de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spotify-ai-podcasters-clone-voices-translate-different-languages-2023-9?amp",
-      "publishedDateTime": "2023-09-26T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

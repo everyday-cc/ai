@@ -2,6 +2,469 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
+      "title": "Enabot EBO X review: A smart, but flawed robot companion",
+      "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
+      "originalUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/EBO-X-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
+      "publishedDateTime": "2023-09-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple.md",
+      "title": "Google's new tool can detect AI-generated images, but it's not that simple",
+      "excerpt": "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "publishedDateTime": "2023-09-01T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
+      "title": "Elon Musk's X will use public data to train AI models",
+      "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "originalUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
+      "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
+      "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-us-government-denies-blocking-sales-of-ai-chips-to-middle-east.md",
+      "title": "US Government Denies Blocking Sales of AI Chips to Middle East",
+      "excerpt": "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
+      "originalUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg",
+          "width": 5650,
+          "height": 3560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-types-of-cyberthreats.md",
+      "title": "Types of cyberthreats",
+      "excerpt": "From malware attacks to zero-day exploits, unpack the cybersecurity threats organizations face today—and the threat actors behind them.\nThe post Types of cyberthreats appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "originalUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T11:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-vettafis-artificial-intelligence-symposium-recap.md",
+      "title": "VettaFi’s Artificial Intelligence Symposium Recap",
+      "excerpt": "Nadig believes we are still learning about the capabilities of artificial intelligence. However, he ultimately thinks that it will make a significant impact in several different industries long term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "originalUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
+      "title": "Seismologists use deep learning to forecast earthquakes",
+      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
+          "width": 2128,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "publishedDateTime": "2023-09-01T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai.md",
+      "title": "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI",
+      "excerpt": "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1608618399.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/amp/",
+      "publishedDateTime": "2023-09-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-the-problem-with-intuits-ai-strategy.md",
+      "title": "The Problem With Intuit's AI Strategy",
+      "excerpt": "Intuit's AI strategy is fine for Intuit. But QuickBooks customers need to know how AI will solve their problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f1c75d5647e288b55d6d56/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "publishedDateTime": "2023-09-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-fmopsllmops-operationalize-generative-ai-and-differences-with-mlops.md",
       "title": "FMOps/LLMOps: Operationalize generative AI and differences with MLOps",
       "excerpt": "Nowadays, the majority of our customers is excited about large language models (LLMs) and thinking how generative AI could transform their business. However, bringing such solutions and models to the business-as-usual operations is not an easy task. In this post, we discuss how to operationalize generative",
@@ -721,486 +1184,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai.md",
-      "title": "The True Cost Of Bad Data And How It Can Hinder The Benefits Of AI",
-      "excerpt": "As AI becomes more sophisticated, it is imperative for organizations to develop standards for ethics within AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0c1d38a74946c489f530e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
-      "publishedDateTime": "2023-09-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries.md",
-      "title": "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries",
-      "excerpt": "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "originalUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png",
-          "width": 1008,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-smbs-can-cut-through-the-generative-ai-hype.md",
-      "title": "How SMBs Can Cut Through the Generative AI Hype",
-      "excerpt": "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-generative-ai-interview/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
-      "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
-      "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107000275-1642015028719-gettyimages-1046078096-US_STOCKS.jpeg?v=1693567467&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-natural-language-processing-market-size-analysis-insights-and-forecast-to-2030.md",
-      "title": "Natural Language Processing Market Size Analysis: Insights and Forecast to 2030",
-      "excerpt": "The global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34165912",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34165912",
-      "publishedDateTime": "2023-09-01T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies.md",
-      "title": "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies",
-      "excerpt": "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef5c7368a912b40c1e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
-      "publishedDateTime": "2023-09-01T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards - FT",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's NVDA.Oartificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-morgan-stanley-names-this-tech-stock-a-top-pick-says-ai-server-demand-could-boost-it-by-nearly-25.md",
-      "title": "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%",
-      "excerpt": "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-samsung-electronics-stock-price-soars-on-foldable-phones-ai-chips.md",
-      "title": "Samsung Electronics stock price soars on foldable phones, AI chips",
-      "excerpt": "Samsung Electronics' stock price surged in Friday's trading session, closing at 71,000 won ($53.8), marking a 6.13 percent increase from the previous day. This is the first time in a month that the stock price has surpassed 70,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2023/09/602_358318.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2023/09/602_358318.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202309/be95262e4d474dcfa802f70d3db69295.jpg",
-          "width": 540,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=358318",
-      "publishedDateTime": "2023-09-01T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-googles-ai-powered-search-summary-now-points-you-to-its-online-sources.md",
-      "title": "Google's AI-powered search summary now points you to its online sources",
-      "excerpt": "The experimental AI-based search tool will lead you directly to the website sources it used to generate the summary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "originalUrl": "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ee4cdf1aeacfba197204895b43393fc35c119d9e/2023/08/31/b154fec8-34c8-4326-9de9-ad59b7c47478/gettyimages-1609716922.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "publishedDateTime": "2023-09-01T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

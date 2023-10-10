@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
+    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Coda bucks trend of additional charges for generative AI tools"
     excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
     publishedDateTime: 2023-10-06T09:49:00Z

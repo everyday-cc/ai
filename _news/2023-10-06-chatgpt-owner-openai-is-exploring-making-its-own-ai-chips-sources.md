@@ -149,22 +149,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Sources: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential"
-    publishedDateTime: 2023-10-06T01:17:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 74
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/06/152495.JPG?v=1696557960"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "ChatGPT maker OpenAI plans to start making its own AI chips. Here's why it's important"
     excerpt: "OpenAI aims to resolve AI chip shortage by diversifying suppliers and testing custom chip. The company has also been exploring potential acquisition target."
     publishedDateTime: 2023-10-06T06:45:00Z
@@ -190,20 +174,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
-    excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T04:17:00Z
-    webUrl: "https://www.deccanherald.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-report-2715018"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 54
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F63302664-37f4-4e0b-a85c-8b6fc2ac8611%2F2023newsmlRC2R3Z9F6OUK821735775.jpeg?rect=0%2C0%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatGPT owner OpenAI wants to make its own AI chips - report"
     excerpt: "OpenAI, the AI startup behind ChatGPT, is reportedly exploring the possibility of creating its own high-end chips and has considered potential acquisition targets to address the shortage of expensive AI chips it relies on, according to Reuters."
     publishedDateTime: 2023-10-06T10:42:00Z
@@ -229,34 +199,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 54
-  - title: "OpenAI is considering making its own AI chips"
-    excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
-    publishedDateTime: 2023-10-06T04:30:00Z
-    webUrl: "https://www.newsbytesapp.com/news/business/openai-is-weighing-options-for-securing-ai-chip-supply/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l16820231006095044.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "OpenAI looking at producing AI chips in-house : Report"
-    excerpt: "OpenAI reportedly weighed up a chip making firm as an acquisition target so it could produce its own AI chips. OpenAI, the company behind artificial intelligence chatbot ChatGPT, is reportedly exploring the possibility of manufacturing processing chips in ..."
-    publishedDateTime: 2023-10-06T04:24:00Z
-    webUrl: "https://cointelegraph.com/news/openai-looks-at-making-in-house-chips"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvODQwNWE3MWUtNTcwMS00MzdkLWFmNGMtY2Q2YzE5YWVjMTcyLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
     excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
     publishedDateTime: 2023-10-07T08:50:00Z
@@ -327,15 +269,6 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T01:12:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
   - title: "OpenAI considers making its own AI chips, acquiring hardware business"
     excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
     publishedDateTime: 2023-10-06T12:41:00Z
@@ -372,6 +305,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "Battle of the Chips: Will OpenAI’s New Venture Chip Away at Nvidia’s Market Lead?"
+    excerpt: "In the heart of the tech hub, where giants like Apple and Hewlett Packard emerged from humble garages, Nvidia’s narrative begins somewhat differently—at a local diner. The tale unfolds in 1993, with Nvidia’s co-founders sketching their vision on a diner napkin."
+    publishedDateTime: 2023-10-10T18:17:00Z
+    webUrl: "https://techbullion.com/battle-of-the-chips-will-openais-new-venture-chip-away-at-nvidias-market-lead/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 29
   - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
     excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
     publishedDateTime: 2023-10-06T12:00:00Z

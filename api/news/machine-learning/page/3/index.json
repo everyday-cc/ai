@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-15-get-a-lifetime-of-ai-and-machine-learning-instruction-in-this-30-bundle.md",
+      "title": "Get a Lifetime of AI and Machine Learning Instruction in This $30 Bundle",
+      "excerpt": "You don't need to be an expert to start learning about AI. Instead, you can enroll in the 2023 Machine Learning for absolute Beginners E-Degree Program and start from scratch for $29.99. A lifetime of study in machine learning and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/get-a-lifetime-of-ai-and-machine-learning-instruction-in/458864",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/get-a-lifetime-of-ai-and-machine-learning-instruction-in/458864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1694448216-ENT-2023MachineLearning.jpeg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-fear-mongering-and-ai-questions-to-consider.md",
       "title": "Fear-Mongering And AI: Questions To Consider",
       "excerpt": "The term “artificial intelligence” is often used ubiquitously ... The topic of AI design is varied and includes topics such as deep learning, convolutional neural networks, explainability, transparent or black-box algorithms, locked systems, continuous ...",
@@ -1326,49 +1378,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-machine-learning-contributes-to-better-quantum-error-correction.md",
-      "title": "Machine learning contributes to better quantum error correction",
-      "excerpt": "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step for making these ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
-      "originalUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-contr-1.jpg",
-          "width": 1280,
-          "height": 1113,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-contributes-quantum-error.amp",
-      "publishedDateTime": "2023-09-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

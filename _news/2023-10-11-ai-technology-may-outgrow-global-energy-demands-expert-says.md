@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence and the future of humanity"
+    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
+    publishedDateTime: 2023-10-10T19:00:00Z
+    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
+    quality: 41
+    images:
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "UPSR5W6ieTqhtWwuAncBFGaccCovdJY3ysKTR1Cs2xAbOCjdvxxihj9ypdvq6IYxyRAXRyGFrE9FC7VLfi77dw5nAkLZagbNqUX4pdSaoQp8fftLgvNPJ4fu1ptpFqlpNibWWbNBLsB+RVaPcWE9e+kxO7ABsZhkylwHOsoVK5w6LEaR5u63ZdLX0cyxBFeBSzFXH0RukNEHopkMxvdeqmIMtFDuSuXNvs1C2Q9GtbbRMwoDlZE+WOvByEW6u1BCfWuJJN2TQO2rg/q6bzIVvtOhBHIiyBBrlL/fg6uR176FuHSVVIyyHie/XZKBqhpNsu3nR6PKWoW76GCu/P0WfePBYn8LL4bjnNvBOVATS5g=;2eEFMEwbzRFvsoBFrsNwMQ=="
 ---

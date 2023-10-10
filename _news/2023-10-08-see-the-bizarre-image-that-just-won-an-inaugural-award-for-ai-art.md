@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google is accelerating AI on the Pixel 8 with its Tensor G3 chip"
-    excerpt: "The enhanced AI performance is the main feature upgrade of the Tensor G3 chip, the most powerful Pixel chip so far."
-    publishedDateTime: 2023-10-06T01:20:00Z
-    webUrl: "https://techwireasia.com/2023/10/tensor-g3-chip-enhances-ai-on-googles-latest-pixel/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/10/000_33XD9HG-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
   - title: "Kenyan startup chosen for Google’s AI accelerator program"
     excerpt: "Google has unveiled the first cohort for its 'Google for Startups Accelerator: AI First' program. The 11 startups, picked from a vast pool of innovative talent, are using cutting-edge Artificial Intelligence to address both Africa's challenges and broader global issues."
     publishedDateTime: 2023-10-06T08:27:00Z

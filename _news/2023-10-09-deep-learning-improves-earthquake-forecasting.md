@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Introduce AI, Deep Learning Model for Improved Earthquake Forecasting"
-    excerpt: "Researchers recently introduced the Recurrent Earthquake foreCAST (RECAST), a deep learning model for earthquake forecasting and explore its performan"
-    publishedDateTime: 2023-10-09T04:22:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/researchers-introduce-ai-deep-learning.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 49
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5fKM4nWv9UoKxA7r8STYCFyeZwBxG8p5IXozuIRoIPxTRCaQBvwNqgkgdNaEfvc0b2bwPDIT9pxRh5CkeYNLWbzUFzn7n05Iu1WdFxUsy-NPBbhhVJYNwValFx_uaK2xVzhq4fzuncJNTVEBNMfXCJFrIk5G9-VGHs2gGT_uFnwfgaK_Mq0oaTEnO8Y/w938-h624/parker-johnson-cf72vgi3d6s-unsplash.jpg"
-        width: 936
-        height: 624
-        isCached: true
   - title: "Using Active Machine Learning for Chemical Engineering Research"
     excerpt: "Chemical engineering researchers have a powerful new tool at their disposal: active machine learning. In a recent perspective article published in Engineering, the research team at Ghent University lead by Kevin M. Van Geem explores the potential of active machine learning (AML) in revolutionizing the field of chemical engineering."
     publishedDateTime: 2023-10-06T14:49:00Z
@@ -53,15 +39,20 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
-    excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
-    publishedDateTime: 2023-10-09T16:23:00Z
-    webUrl: "https://scitechdaily.com/shaking-up-predictions-deep-learning-revolutionizes-earthquake-forecasts/"
+  - title: "Businesses Are Boosting Online Presence and Pursuing Tech-Forward AI Projects, According to Internal Research From Fiverr"
+    excerpt: "Fiverr.com in the news! Fiverr's 8th Business Trends Index revealed that even traditionally offline businesses like shipping and construction are investin"
+    publishedDateTime: 2023-10-09T15:56:00Z
+    webUrl: "https://www.fiverr.com/news/businesstrends-fall-2023"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 18
+      name: Fiverr
+      domain: fiverr.com
+    quality: 12
+    images:
+      - url: "https://assetsv2.fiverrcdn.com/assets/v2_globals/fiverr_logo/fiverr-og-logo-4953e4763ba1d66b9a44f3b285abda43.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jfOgF7mV7Z0AvyvCVnPRJ0JohCENelnR5t7bFPi1mg4euRUuLwO492PX4QsvSg532VUyvaGop0ywa0vpJmQ7bCKUQ4aSXL3+JobLwvZZlP8TWZyIRvN60mreULbTMhrTRQBGQwEhF5dQgNbWyq1uTVszp/Hfnp1MKAG+sMjLAYkdZt/rYgKc0TNhjMSZ9iOepFJA6azrh+Rr9Cv2Ds8d4/av5e88VcGz2WvZMCqc6kYL4TN6qV3leEAZuPoHM5nv8oUGxmUynx3hE4o6pYAQmP/HUAyocXl+NEWLkyEWVPmmCQUG0Ekshh1dtRVr8fAqGAFK226J+cxCKqeVMFLutH+Eqyhycp1WVpcMArfp2MgH0/qUphdP8mfXeqP0QerXQ3tRFl8VZkm9Cz9bdvMiFNZ0csp7oNhsswwIg3kIOV0prM4AuNHB517yeI0/zfvvjUQdqu0dtMprgVaqO9mN26kUEINqCk9s0aYnhUsoVul6znzzJISaLL8Z3XY0+EAubHZy8upziaMYI95Kp433qw==;s8Qyf6F+2FcH54jSL7Kb6w=="
 ---

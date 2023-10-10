@@ -321,6 +321,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 62
+  - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
+    excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
+    publishedDateTime: 2023-10-10T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-alignment-boosts-investor-confidence-according-to-morgan-stanley-1032693688"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
     publishedDateTime: 2023-10-06T14:28:00Z
@@ -429,6 +438,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
+    excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."
+    publishedDateTime: 2023-10-10T19:09:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35167588/microsofts-new-ai-tools-set-to-transform-healthcare-data-management"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
     publishedDateTime: 2023-10-08T14:41:00Z
@@ -438,6 +456,24 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 49
+  - title: "3 health systems adopt new Microsoft AI tools"
+    excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
+    publishedDateTime: 2023-10-10T17:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/3-health-systems-adopt-new-microsoft-ai-tools.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Docgility Announces Integration With Microsoft Azure Openai Service To Provide Generative AI Suggestions To Contracts"
+    excerpt: "Microsoft Docgility announces Integration with Microsoft Azure OpenAI Service to Provide Attorneys with Generative AI-Assisted S"
+    publishedDateTime: 2023-10-10T19:36:00Z
+    webUrl: "https://menafn.com/1107220256/Docgility-Announces-Integration-With-Microsoft-Azure-Openai-Service-To-Provide-Generative-AI-Suggestions-To-Contracts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
   - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
     excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
     publishedDateTime: 2023-10-06T12:18:00Z

@@ -35,15 +35,6 @@ related:
         width: 1497
         height: 900
         isCached: true
-  - title: "Congress and agencies to tackle transparency in healthcare AI, despite mixed industry reactions"
-    excerpt: "Federal agencies and Congress are both taking further steps to regulate AI and curb issues that have already started to emerge."
-    publishedDateTime: 2023-10-06T04:20:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/congress-and-agencies-to-tackle-transparency-in-healthcare-ai-despite-mixed-industry-reactions/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 24
   - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
     excerpt: "Caption Guidance on the Venue Family point-of-care ultrasound systems is available in the United States. GE HealthCare plans to integrate this innovative AI technology into other ultrasound systems, including handheld systems, helping to further expand access to diagnostic care as well as the use of ultrasound in a variety of care settings."
     publishedDateTime: 2023-10-06T13:23:00Z

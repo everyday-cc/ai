@@ -56,6 +56,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Seven therapy chatbot apps to help support your mental health"
+    excerpt: "Chatbot apps have become the go-to sources to confide in when you feeling sad, anxious or overwhelmed with your mental wellness journey."
+    publishedDateTime: 2023-10-10T19:24:00Z
+    webUrl: "https://www.thesouthafrican.com/news/seven-therapy-chatbot-apps-help-support-mental-health-breaking-10-october-2023/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 19
 
 secured: "LZIj/2HLtywCQnXdQFYvA8JjOIhEDlIeOgPOZoLcCEygib9dP1suGezPLohZvjkjmbDOc0QM+WYCV+rgaTUOjJxYZFGO2iV2BZTrq/yjOkdrlWabip5zzoMhDIQderh3puLPL29NXBq8vx1CuNWO+Go5lr6V9UHPUvo/eWENvNrODkz1beOEW5AB4FrVdXMQWXtAKlaxHf4Pj9n+h07yIV9vavfq1bFd+UPmsMwunt30f6XxHRHwLFj/ROlaAL53Ldl74X3JEAPdLEaW/5F6unobNPem2DR5nHwcOjq6mtCRtIrUVoFBKh+3mc4v3EKovMT7ml9xdA8aeCVpf8FBVmaULPJlnPOJBad9a5IoNEU=;ajZapx93i2MEwpB7HeHJ4Q=="
 ---

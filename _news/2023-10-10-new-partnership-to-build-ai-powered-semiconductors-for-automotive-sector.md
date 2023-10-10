@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-10T15:57:00Z
 originalUrl: "https://www.cbtnews.com/new-partnership-to-build-ai-powered-semiconductors-for-automotive-sector/"
 webUrl: "https://www.cbtnews.com/new-partnership-to-build-ai-powered-semiconductors-for-automotive-sector/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/10/shutterstock_2262331365.jpg"
@@ -23,6 +24,6 @@ images:
     height: 563
     isCached: true
 
-secured: "2a14RT7NyrwpdJ0GgCQhXeINVRKqzqWUaLpwItMivUujSJS4+vkrDi7FfVzr7LaODAJvGQ006+pu066TpnYRGdshsKdpmJ+T16ZRM6YsTGN8Xbou/cHhQc5wJZ6qMNxc9DJR2W97Kv7tbAlz7IMCSfLzdNfiK+TfPrRrD0bAcqoBvGqZ3dohNh6TqrFEXrBi59acJlf5U0CCt52cJWBV8G2FE8fLIH0h4Squ3g/Vll8GOV6dZ5h5LaISs9NSJK1n9Ft0J/Bh8uelI/Iqh/mpBY6ZDBfZnioxc/EMnjqzt5uHfx9yN6gC1gTzMYu+ElSOmxVbbV+rMMZjpRkrcoTDjYZWsyF2U1H0cR4Fs0ms4yg=;afWyTN9ZJuC37Nt7F5ZOCQ=="
+secured: "MqRIoYhJzgseK7NmCh16x/0EOPhJoRdIIYA8vJhHLA/IpgZ33D7E82kb3Ra5t6EHKC3Y/hJxDK6EbZN15Rk75TD6FZ9R80TLj9+Fzp1LxFUHugUnVK0kYaoB7N2cRDqIplqdqKVV441ker/zF3yN9L8cIYTjdmGZl8Tka/RSkudydFYJBY8wgVF3nzpEMGjVxkH9Wd5s/pYD8xGd8zjdwHE9AQf9aUqu0pMcev3yzp9WkEK638zFmr7krtB3uCPZTmiI0J32ZLuSlxbXRu0Q2dtIcjpzp8GYdQQM1gbUbo1DBDMSrXMtuq8uBJ2h8eUnHmPMHjU7Jj7mb5P8+D43YWPYBe1ReYOeJBbkaETY5MwDPwBpVpOwoKK7pHxjXvfsmwd7IIREbIBTFU5ogdZ/i7txgShZlB44HhwouH+nFUh1sBFwdhATLqm6jI0vyNiRwjb3wDGEqSYeVCYQWceJPMpyI0JgOcjB5+gawKzfXDHZk++9ma6ozt1waXXVBgJdhFOtEAu/uLtFACPwkTe+iw==;XCOTbDf4z9lFA9jzeHrzqg=="
 ---
 
