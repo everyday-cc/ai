@@ -62,6 +62,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
+  - title: "Amdocs Leverages Oracle Database@Azure to Support Customers' Hybrid Cloud Strategy"
+    excerpt: "This development will further empower service providers to integrate their Amdocs classic applications with the latest solutions in the Amdocs portfolio, including the new Amdocs Customer Engagement Platform recently announced by Microsoft and Amdocs."
+    publishedDateTime: 2023-10-10T02:53:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33460-amdocs-leverages-oracle-database-azure-to-support-customers-hybrid-cloud-strategy"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/da8866aa99a1e9a4e3f51a0214388f13.jpg?t=20231010_023350"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Translator now supports 20 Indian languages"
     excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
     publishedDateTime: 2023-10-05T13:58:00Z

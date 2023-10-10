@@ -62,22 +62,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water"
-    excerpt: "The cost of building an artificial intelligence product like ChatGPT can be hard to measure. But one thing Microsoft-backed OpenAI needed for its technology was plenty of water, pulled from the watershed of the Raccoon and Des Moines rivers in central Iowa ..."
-    publishedDateTime: 2023-10-05T09:48:00Z
-    webUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860"
-    ampWebUrl: "https://www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/artificial-intelligence-technology-behind-chatgpt-was-built-in-iowa-with-a-lot-of-water-2023-10-05-1.724860?ot=ot.AMPPageLayout"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 48
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.724861.1696498833!/image/image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "10 investors talk about the future of AI and what lies beyond the ChatGPT hype"
     excerpt: "And what’s true for the average company is even more true for startups: Failing to give at least some thought to AI would be a mistake. But a startup also needs to be ahead of the game more than the average company does, and in some areas of AI ..."
     publishedDateTime: 2023-10-05T19:37:00Z
@@ -87,20 +71,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 43
-  - title: "ChatGPT distracting from wider AI issues, industry body warns"
-    excerpt: "Noise around generative artificial intelligence is distracting from more serious matters, such as ethics and governance"
-    publishedDateTime: 2023-10-05T09:55:00Z
-    webUrl: "https://www.businesspost.ie/news/chatgpt-distracting-from-wider-ai-issues-industry-body-warns/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=b470f1b9-ca77-5ea7-bf50-5554aa01d4be&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84428&width=1600&height=900&x=1.0E-5&y=0.02814"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "3 ways AI is revolutionizing how health organizations serve patients. Can LLMs like ChatGPT help?"
     excerpt: "Machine learning and AI are transforming medical treatment involving functionality, diagnostics, and more. Meanwhile, large language models -- like ChatGPT -- are still in the early stages."
     publishedDateTime: 2023-10-05T18:51:00Z

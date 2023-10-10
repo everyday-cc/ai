@@ -1,44 +1,32 @@
 ---
 category: news
-title: "Researchers create a neural network for genomics -- one that explains how it achieves accurate predictions"
-excerpt: "A team of computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks--the engines that drive artificial intelligence and machine learning--thereby illuminating a process that has largely been concealed from users."
-publishedDateTime: 2023-10-08T01:14:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/10/231006104521.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/10/231006104521.htm"
+title: "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy"
+excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—"
+publishedDateTime: 2023-10-09T21:23:00Z
+originalUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+webUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+ampWebUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 61
+heat: 121
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png"
+    width: 620
+    height: 464
+    isCached: true
+
 related:
-  - title: "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—"
-    publishedDateTime: 2023-10-09T21:23:00Z
-    webUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
-    ampWebUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 61
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Researchers create a neural network for genomics that explains how it achieves accurate predictions"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
     publishedDateTime: 2023-10-06T15:15:00Z
@@ -69,6 +57,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Researchers create a neural network for genomics -- one that explains how it achieves accurate predictions"
+    excerpt: "A team of computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks--the engines that drive artificial intelligence and machine learning--thereby illuminating a process that has largely been concealed from users."
+    publishedDateTime: 2023-10-08T01:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231006104521.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
   - title: "Researchers create interpretable neural network to predict complex biological outcomes"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
     publishedDateTime: 2023-10-09T02:41:00Z
@@ -102,6 +99,6 @@ related:
       domain: eurekalert.org
     quality: 18
 
-secured: "LjnvyFaTJXY29v9y0QV5wvoXSludv7HOw4WtOGjPinUivblAsxxp0Nm297/5KavRINeFzAh9cycmeDXOlKAejzlqp5Cu7SMQk9YM0ZBOx9iywtLhdfmQs3p9e8uoCI2vE8MarYdiuuSJRga3lJxwz7UlGEi7X5K/CwIT+8puXDc2BR9sST4XeLAGOq/jIJIlfQa2rV+OQgQQfylgZc2b3mSRLf8Z0oFcYF8y7eGYKUZSeZQ8hivV/pZ2QEfPH8lR7itWsJH3twKYAlX8hAp9N+0QhBs13QyZVfe/B7QnKtx/rogNAr4WId6ouFZxV+RZx77mAqCpQRu6zyM53ca/RKQH13vGwwRXz7YNFhFWtr8=;C8AgzBY0XNWg15AAmwB3Fw=="
+secured: "HAFccqh3Ae2xn9uqgfevWjU4iH2uPA+Ih/kQeIOlm69CstGWTw67BBo0xG64gKuKttw6TsRbDGdjrSxRVqqJkqIh+2uY6LajNWFZKvbuSNe+7Ut4VRJVFfl6sVH5CtSyJFaeX75PP/KRI6fK55bmCXj1f3zFEtLPp1tAHpNkoioNsZN1EzH7y9tkw0zq5YcpirKnGihoThuukqinVS3v4eHb+jSqGYqlPeF8+dX3Zbkj7jzmTwyHIlfEwKDDOOxV39cmATmIzyBD7zlORoi+svQczelJ/qCNxLpJVVKnjrrCpEbpwTS77ZCmNq25oQ5xcSMdoPFW1K771pEISnJLDTTCS4D+k1InlAOPDNxn4KQ=;tAX3lnzezvLWGHQZOGZ8Gw=="
 ---
 

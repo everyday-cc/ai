@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/4-open-banking-platforms-acc
 webUrl: "https://ibsintelligence.com/ibsi-news/4-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Open Banking platforms accelerating FinTech growth in Middle East"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-05T10:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
-        width: 2560
-        height: 1362
-        isCached: true
   - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
     excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
     publishedDateTime: 2023-10-09T11:54:00Z

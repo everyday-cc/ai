@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-10-neural-network-genomics-accurate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-neural-network-genomics-accurate.amp"
 type: article
 quality: 60
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy"
+    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—"
+    publishedDateTime: 2023-10-09T21:23:00Z
+    webUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    ampWebUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 61
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Neural Network for Genomics Explains How It Achieves Accurate Predictions"
     excerpt: "A new neural network that can explain how it reaches its predictions has been developed to examine the intricacies of RNA splicing."
     publishedDateTime: 2023-10-09T08:09:00Z

@@ -47,6 +47,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Sensigo’s AI Tool is Porsche’s Answer to Advanced Auto Diagnostics"
+    excerpt: "In a significant leap forward for the automotive industry, Porsche, in partnership with US investment firm UP.Partners, has taken a bold step into the future with the creation of Sensigo, a start-up set to transform the way mechanics approach car diagnostics and repairs through the application of artificial intelligence (AI)."
+    publishedDateTime: 2023-10-09T04:26:00Z
+    webUrl: "https://www.cryptopolitan.com/sensigos-ai-tool-porsches-advanced-auto/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 37
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-09_09-25-26.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "How One Top SEO Agency Is Leading The Way With AI & Delivering Unheard Of Results"
     excerpt: "If there’s anything which is constant in the world of digital marketing, it’s change. Change is inevitable as technology continues to evolve at a faster than ever pace. As we embark on the AI revolution and the pace of change continues to accelerate, the very way we search for information, products and services will also transform."
     publishedDateTime: 2023-10-09T20:32:00Z

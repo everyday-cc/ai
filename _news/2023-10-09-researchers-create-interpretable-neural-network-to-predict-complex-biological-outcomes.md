@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy"
+    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—"
+    publishedDateTime: 2023-10-09T21:23:00Z
+    webUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    ampWebUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 61
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Researchers create a neural network for genomics that explains how it achieves accurate predictions"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
     publishedDateTime: 2023-10-06T15:15:00Z

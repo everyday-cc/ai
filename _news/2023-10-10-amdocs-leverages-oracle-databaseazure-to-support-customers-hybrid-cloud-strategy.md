@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Microsoft Translator now supports 20 Indian languages"
-excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-publishedDateTime: 2023-10-05T13:58:00Z
-originalUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
-webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
+title: "Amdocs Leverages Oracle Database@Azure to Support Customers' Hybrid Cloud Strategy"
+excerpt: "This development will further empower service providers to integrate their Amdocs classic applications with the latest solutions in the Amdocs portfolio, including the new Amdocs Customer Engagement Platform recently announced by Microsoft and Amdocs."
+publishedDateTime: 2023-10-10T02:53:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/33460-amdocs-leverages-oracle-database-azure-to-support-customers-hybrid-cloud-strategy"
+webUrl: "https://www.thefastmode.com/technology-solutions/33460-amdocs-leverages-oracle-database-azure-to-support-customers-hybrid-cloud-strategy"
 type: article
-quality: 21
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/da8866aa99a1e9a4e3f51a0214388f13.jpg?t=20231010_023350"
+    width: 752
+    height: 408
+    isCached: true
 
 related:
   - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
@@ -70,21 +75,16 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 41
-  - title: "Amdocs Leverages Oracle Database@Azure to Support Customers' Hybrid Cloud Strategy"
-    excerpt: "This development will further empower service providers to integrate their Amdocs classic applications with the latest solutions in the Amdocs portfolio, including the new Amdocs Customer Engagement Platform recently announced by Microsoft and Amdocs."
-    publishedDateTime: 2023-10-10T02:53:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33460-amdocs-leverages-oracle-database-azure-to-support-customers-hybrid-cloud-strategy"
+  - title: "Microsoft Translator now supports 20 Indian languages"
+    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
+    publishedDateTime: 2023-10-05T13:58:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 33
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/da8866aa99a1e9a4e3f51a0214388f13.jpg?t=20231010_023350"
-        width: 752
-        height: 408
-        isCached: true
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 21
 
-secured: "Z48zOVf/E4ttWcJyDSC5Bu3/tiO4c2VlxpTv3jDxU2fHHrUTiXbSRD3sya+uSD234PH30Cw6wKZXJBT921Q6vRYcJE+3sRomhS31epCC2kgwq1eVklZ66NQ+sbo2RlJ6yQEozBpSYfdztE8BbEK/o0y5WCIFQV7C7xR8PPfyzOehaKk7ADKYXIY3MuGYCqS+miLefKvszbVVPhKam40Ooc4xQlJCtEYqXbLIPk7FjxsLtGtxZ3a+2G4j5/ScsGBKvTvfTJEClYUEeLpYKaEg+mm5sudA2MgSSV4jTCLfAzcupfmZQdvMhXTwR6KzE8Sf0ZnFtDzZzsJxZNFHTD45F9xGHIhgBFSMhCXAHpZSdzwk//YaP6TyxWpVJx9W4H8U34Q709dlUObFyXZTzYoMez/lScHr/IxhZmY/F/2nVTkeCSSrE/sCXqlle5F0UcniifoHyVlnsRhqWDdIrvjmCIF5g/a5DmMjB6jL2w3+J7ODSCpKqhNfZU+8/78bNN0hMqT12ZijNfr1qZQRuL+SSA==;MhAXfxMSoOW8Jy54d1hPeA=="
+secured: "JNj6nCva4tBYkjO+sR8itik+bgPkKV4814v+njEpBmyqP0Ful5e93CfC3isDmt1LIq7u693Jmco3VKBbqOksm38HE9CFBKSTbvjTinUHO7nXbrWMWE0J8XCSKMYbEMNuSOItQ26mbR7aIWnKWTvWODrBaWUyx7um45K0A4msFso05V8C5fIgIflVHuDGCtA7jEBdVOV3cArZK8tW4b1tx12V/ffWnawIROIfGkFuFejM0mQhPXxBw1tlCVxoCXcx5pyBCLKx6y+vi22TV/+tsAISzD8EZlPqmpWT8l3nzbKLbtVPU0pN/067/91cOrmNLDYCcKW3e91UlTLmW7TzxfcOkJ5Gggu6vKv5eDwpILE=;X08/Qp4dSBzFISU6m3QL6g=="
 ---
 

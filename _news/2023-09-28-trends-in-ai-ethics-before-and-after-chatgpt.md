@@ -2,25 +2,25 @@
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-27T20:44:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
-webUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
+publishedDateTime: 2023-09-28T02:45:00Z
+originalUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
+webUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b6/fb6eed13-3f37-56bf-862b-bac96f214e63/651491fae4ed5.image.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://ktvz.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
     width: 1200
-    height: 630
+    height: 855
     isCached: true
 
-secured: "DG/oW916ujA4faMpQfdN9/nndRSOWSH9sQoi87QVCfILPBFQlEvXrKVYml7rNtpBfDrrulJaAZoLORvVdpN/auQO60Y/MNeUbPAZXYLXVw1HumeEVTAr3cOQMrOokilH4g+NUCCsieUFd3UcvZmxWARRhTTvWLV2m81irqD2+6aroUCDXZX7Ac6OBf6+QSxa4QnPT+Nu2MtutW6GcWAwuXcLOzNCoE4dm8eZY7O7j7h2Ht6lmqPm2PTwW1YuDobP64JV2wP9Zagepa7hIdHVGqkaWPSAG2cHwE+1Gb89nC/4AsGL2AAouqREGE+AiSUt9rd+9IW/X0IoSesr/m+oioMNLbiOmG5dIBdxmYQ2wvY=;vnE04R5Hcucsg4UsNzuY0w=="
+secured: "Tu5P2iPDZ+0gGWpdqytiORZ0SnQc/lwCgTELWNzy8D/dTTj1wcJXp0lkaFs8c7g6Lg19dIcVPcwPJXaZ8pAGpOhA2za2aOO4Ejf4QTArtjOt706ZcINY1ISfraEKh8GLzcfoV3hI72tYZEdhXUVMI451WvmtGCoueFC6h/kO7qC/YBp4oc9zbKWZEWSLLC76chouoFrt64mNNZZq4vMdOAmc+su0i9myXufLYpjlxrCOnf8UiZ2vIKm8Eyn78ysjPTxCQ+5TBcC4PK0nICe4eNNsfBXglv35JF4xV2fHCGFa3NKwQGrnshassE/GYleD/KFrJi5e2cAVUXFDw24hbJyqaNPgybFQKX06QdDHyxY=;Xc/+WJNzNbFtDf8u2T2Hag=="
 ---
 

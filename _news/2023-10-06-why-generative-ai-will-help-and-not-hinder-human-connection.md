@@ -68,22 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Zoom chucks generative AI everywhere in product blitz"
-    excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
-    publishedDateTime: 2023-10-05T10:36:00Z
-    webUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz"
-    ampWebUrl: "https://diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/zoom-chucks-generative-ai-everywhere-product-blitz?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-06/zoom.jpg"
-        width: 1844
-        height: 1246
-        isCached: true
   - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
     excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
     publishedDateTime: 2023-10-07T13:19:00Z

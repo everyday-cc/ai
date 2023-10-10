@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/opinion/be-prepared-for-epic-traffic-
 webUrl: "https://www.straitstimes.com/opinion/be-prepared-for-epic-traffic-jams-with-self-driving-cars"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 860
     height: 573
     isCached: true
-
-related:
-  - title: "China leads way with self-driving vehicle tech"
-    excerpt: "Another report by global consultancy IHS Markit said that China's self-driving taxi market alone ... companies like Pony.ai and Baidu have been operating robotaxis in designated areas in Beijing ..."
-    publishedDateTime: 2023-10-05T09:51:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Telia plans 5G transport corridors for self-driving vehicles"
-    excerpt: "Telia said that the 5G initiative is being developed within the framework of the NorthStar innovation program and with EU funding"
-    publishedDateTime: 2023-10-06T14:42:00Z
-    webUrl: "https://www.rcrwireless.com/20231006/5g/telia-plans-5g-transport-corridors-seft-driving-vehicles"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 24
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2021/02/Telia-696x464.jpg?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 464
-        isCached: true
 
 secured: "o3irm4iNnBxCGeXQShR3TCgldTzg8TVgm/rdaLMpjprzNR7vBA6yHz/F5ufMqtsI9qdFoVjBd2xcTGuTMyQ8NMj+/ML2Gz4u8v5BzPnHmOgFLvQoYOy4Vsm1g1z/wJlAQYfTprPlBXIZ+PgAqyA0P1unjmaURgYxPkcWXHwUqj/NKKWfmfpnJLjsPUIhtysVsYDkm3TowYAFVbOuZqQeiIgTZKzRIA4UJFE3usgHQ2jOV+1E7HJZmfmm2aBBEzs9xR4+66xj+MNlBfmWEQj4j0krinF4GVPeeJKb6SSGqoffGZW6ZKrQYlHbcmwvxVpfqOmOcPRidVu/0q0O4mHzBBEGFQ1PTyvOGlSkapoSE9o=;4uUVBs6WW1staLGVqbP2LA=="
 ---

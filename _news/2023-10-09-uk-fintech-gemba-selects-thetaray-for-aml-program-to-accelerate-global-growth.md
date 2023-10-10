@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Open Banking platforms accelerating FinTech growth in Middle East"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-05T10:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-open-banking-platforms-accelerating-fintech-growth-in-middle-east/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/shutterstock_1354886600-scaled.jpg"
-        width: 2560
-        height: 1362
-        isCached: true
   - title: "4 Open Banking platforms accelerating FinTech growth in Middle East"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-10-05T13:58:00Z
