@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the
 webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
 type: article
 quality: 67
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI technology may outgrow global energy demands, expert says"
+    excerpt: "Training alone consumes a lot of energy, with de Vries noting how some large language models use anywhere from 324 to 1,287 megawatt-hours of electricity during that stage. For context, an AI tool consuming 433 megawatt-hours is enough to power 40 average American homes annually."
+    publishedDateTime: 2023-10-10T17:48:00Z
+    webUrl: "https://www.courthousenews.com/ai-technology-may-outgrow-global-energy-demands-expert-says/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/06/chatgpt.jpeg/w=3000"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "lHsk0tV9TgZq3RJNIMrqM443e+BSa6SR8SEUFAQn5YzpF2YJhDztvlEMHd9HTCpQXk++vDmoGAcJlHOxSq3kDtAj6TRgsDB1pzgBfMWJB2IbVPAkHeuf+CKizW96ARi4qvSjFiwMQLf64dDgv5MwevsH+fo8hVGhW7cwn9mEDZfwRxuuRG4/BJDOIR52sXZ2c6LDZzuHhjNYiB8vKFHVO91uZrkXL8mg2nO+gLRW1dq4CAKPk0Mey1Unh4Hz/nufR9WxAGJo8kH1p0XAwal4+2cuKmMqt7WpmmH1vcG87kn201RX37zLDKojhG1UVIvXLbFQAURk3UC0mSB1Q6Aj2ZY/7GnzYYagEqaNfyVEY34=;SavIXKAxVXUHy6r0Ma3mzQ=="

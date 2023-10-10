@@ -3,16 +3,16 @@ category: news
 title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
 excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
 publishedDateTime: 2023-10-09T18:01:00Z
-originalUrl: "https://abc7news.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
-webUrl: "https://abc7news.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+originalUrl: "https://6abc.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+webUrl: "https://6abc.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - Computer Vision
@@ -40,22 +40,6 @@ related:
       - url: "https://bossip.com/wp-content/uploads/sites/28/2023/10/16968606202042.jpg?strip=all&quality=80"
         width: 726
         height: 481
-        isCached: true
-  - title: "AI facial recognition: Campaigners and MPs call for ban"
-    excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
-    publishedDateTime: 2023-10-05T23:33:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
     excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
@@ -86,6 +70,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "D9/9AXGk+M+uA0eZc1rFi70qgGeoVBz6fIsvP+7GkHwpzEfdFQadyr7UisYa5YDMY6U3RCT7FPiLbShMhu3z/fyT7bzJ8K6iv1tf/xgeJIL/fU2TbuqeHIMMRhLc1bL6GTJv8Gk6qGiKx6wlX05ibYbt8pwnH6Uy8x7lh7mrcKxfq2QpHyegz6yGUGX2QwPAvk9q87snXtQw8U5wm0NwJY6BsI8OLeGhF4sYKekS/iIrQSW0/eIrLUGcpG5KmOhUZ3fwYpYC4S3d/oBWTlbLBSFe6tl54HTeVWt+PWFlSYsOyKu5jH9PSUga3c+ky32uv/Bmr/shBS4U5RWEWjqbz8c6yodSepCiTinZ2WBH4MQ=;ATMTyDvAzmnjkIA7mB10AA=="
+secured: "CMao/BHR+M2+A64yA1edcSofakLLSNCEOIni7TIz6zlYDz1db52GjmhY0i/5iIpikyfGrsMB6xUi4yIhhEFjJ22J/Nf9NndjX0If9+87OuwBRyx/ZrLC9WNKoU7stsK/CY0SbAxWCt5hkXxs4EWQ7pYUCq1DOsL6jFwO2j/le/7BQFDVuGN1PIW6CX642p/wPjNAgF4xZYAITKRTs++3ELWk82xW//w2Xt3v0wyOtyhrX7lkbC0fHnYV5D/ZJ1TeLDmnM2//jjs0AchFgIZrrOrVZuGB9i2yRdM3BuiBBcf0i3TXV68QQClN/UhIecMvITz7RrcJ0snj5yw5qTB+Ujm17qr+XZaeVD/R6wGQi8g=;n7lnBH7Y70HRf1Ftjl5EQA=="
 ---
 

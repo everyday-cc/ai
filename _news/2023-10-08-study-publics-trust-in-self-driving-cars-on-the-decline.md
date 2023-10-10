@@ -9,7 +9,7 @@ ampWebUrl: "https://www.team-bhp.com/news/study-publics-trust-self-driving-cars-
 cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/study-publics-trust-self-driving-cars-decline?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumers losing confidence in self-driving cars, study says"
-    excerpt: "Automobile industry advances; self-driving popularity grows; J.D. Power shows declining confidence; experience boosts trust."
-    publishedDateTime: 2023-10-06T00:19:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/self-driving-cars-traffic-violations-hangzhou.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
     excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
     publishedDateTime: 2023-10-08T04:00:00Z

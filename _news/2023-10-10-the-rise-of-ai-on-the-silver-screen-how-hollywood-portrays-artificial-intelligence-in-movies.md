@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-10T14:14:00Z
 originalUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
 webUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
@@ -70,20 +71,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
         width: 270
         height: 203
-        isCached: true
-  - title: "AI + the Health Care Industry: Ethical Considerations"
-    excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
-    publishedDateTime: 2023-10-06T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-the-health-care-industry-ethical-5336675/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "VU0EIwThp2A3xqUwOZbFsJ9WRPdGmukO2EuU7O56oL2D63dj/O8BVOgRK1JlPnJNbglFVeTfhd+mQDyAc4Mq66Kdath7anQCJqfMv1gWqyNmchG62j4A9C6g/jV3sqFAB64pwPZPPpe1BmXGKBfiULjOKlKOap9WXB19dM2j+hjyA93mv0qcWo8FCPc0ZD1Q/RL1/W8FPVhGKP854mgvNWzhTytqVVAl4WKgtNeN2OZoW8f+qW6llJnY1eYTvkGDArGvSei+kP4wULwdvUnbc+24qnAVYBfnm4ZUOSPlcpfHrWNenXlnZf+5w+lLrmjb5LipkFYOubhmNx6IpBjNgBZcK9GIrgyVDNc3yprGXtQ=;RHBLQPkAfaH3bE9bb/03WA=="

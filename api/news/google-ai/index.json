@@ -819,6 +819,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-19-deepminds-new-ai-can-predict-genetic-diseases.md",
+      "title": "DeepMind’s New AI Can Predict Genetic Diseases",
+      "excerpt": "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-google-deepmind-ai-speeds-up-search-for-disease-genes.md",
       "title": "Google DeepMind AI speeds up search for disease genes",
       "excerpt": "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments.",
@@ -1372,58 +1415,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-questions-shrugs-and-what-comes-next-a-quarter-century-of-change.md",
-      "title": "Questions, shrugs and what comes next: A quarter century of change",
-      "excerpt": "Since Google was founded, we’ve worked to answer hard questions, help people get answers to theirs, and move technology forward for the world.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/",
-      "originalUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Option-2.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/message-ceo/google-25th-birthday-sundar-pichai/amp/",
-      "publishedDateTime": "2023-09-05T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Google AI"
       ]

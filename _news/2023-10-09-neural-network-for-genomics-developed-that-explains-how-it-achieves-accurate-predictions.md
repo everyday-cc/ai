@@ -88,15 +88,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers create a neural network for genomics—one that explains how it achieves accurate predictions"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
-    publishedDateTime: 2023-10-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003950"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 18
 
 secured: "WqstkrUjv5pJ7E6hHCdXNFJxto/2oaC+fvtMXHP2J7ctvfoBJr/nU1WXV9XhJEBGD1cTyoxfrpb+g7Oj5f1E2EWg7KDCXmCIHZSLQNYI6IvbHcjJDdrEv7g5gKbk32dh01sQQN4/g0JU6tJp0sS3J193wRUUWiw4T4G0fK2A8404v/4OfptA916bLBabTmbPlFFqdZ172NM4sJ9RQmZbm6kiHjt6LlTboFz21DsXzCkvAuAkQwjKvBO7yGitUSxBhDGF6yeBTmFk2YvJHKZl/Toi6kfXX6T5J+rVV1WEP6ZtIVioP38H1S7UQ3MOrAGvTuLCssFS1/B4mT0abh4gV/oxG+LbSovEvTBfw/0Vm1ThU+kVEteT7iI97+wbhrNziUh1q+YY7H4caLUF8QSS5ppCgggHHVShy0g7pG6lZrIbo6WAWsMNMdPDEiJhtsWIDwxcfsNpcbnFFbac4q1zSzpKRxxOP5/bvypyBgPKZ+kXnLQUwUHDppUs2/7eLHJR6NPeB2bZGEsJfKFbVID/EQ==;+47gkb6CkoWV6Z9qMqxGjQ=="
 ---

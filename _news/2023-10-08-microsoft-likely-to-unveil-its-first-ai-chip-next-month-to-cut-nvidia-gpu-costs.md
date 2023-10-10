@@ -20,6 +20,38 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft Targets Healthcare with New Cloud-Based Data & AI Solutions"
+    excerpt: "Microsoft introduces cloud-based health care analytics platform, healthcare-focused AI models, and AI-driven tools to simplify the clinician experience."
+    publishedDateTime: 2023-10-10T16:28:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65257b0646d71b3ec7eeeaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1352
+        height: 900
+        isCached: true
+  - title: "Microsoft Launches New AI Solutions To Help Unlock The Power Of Healthcare Data"
+    excerpt: "Earlier this year, the company announced Microsoft Fabric, “an end-to-end, unified analytics platform” which integrates multiple technologies (e.g., Azure Data Factory, Power BI) to enable organizations to unlock the potential of their data."
+    publishedDateTime: 2023-10-10T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fa74183c7cb8abdab3af/0x0.jpg?format=jpg&crop=2824,1992,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1276
+        height: 900
+        isCached: true
   - title: "Are Microsoft and OpenAI making moves to enter the AI chip market?"
     excerpt: "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While"
     publishedDateTime: 2023-10-08T13:46:00Z
@@ -96,38 +128,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "OpenAI may jump into AI hardware amid high costs, supply constraints"
-    excerpt: "OpenAI has been evaluating various options to address this issue, including potentially acquiring a chipmaking company and working more closely with other chip manufacturers like Nvidia. Currently, the AI firm has not made a final decision,"
-    publishedDateTime: 2023-10-09T16:17:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/openai_glowing_blue-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T14:04:00Z
-    webUrl: "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249"
-        width: 594
-        height: 395
-        isCached: true
   - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
     publishedDateTime: 2023-10-06T20:06:00Z
@@ -141,34 +141,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/11418/b13870cc-3991-4322-8e1f-3cd48e02df56.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential acquisition target, according to people familiar with the company’s plans."
-    publishedDateTime: 2023-10-06T10:00:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-openai/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-idUSKBN31601X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/AYDTLmV1LPipfgBXyKlapFZSymk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LCPUZRTQHBPT3A36QWC7ZIBZZU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "OpenAI plans In-House AI Chip Production amidst industry challenges"
-    excerpt: "To combat a shortage of advanced processors , OpenAI, is actively considering the development of its own AI chips."
-    publishedDateTime: 2023-10-06T12:24:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-174910.png"
-        width: 1022
-        height: 659
         isCached: true
   - title: "The AI Revolution: How Microsoft Is Positioning Itself for the Future"
     excerpt: "Microsoft is integrating AI into existing products and operations. AI will propel Azure Cloud to greater heights. The artificial intelligence (AI) revolution represents a transformative force ..."
@@ -214,51 +186,21 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "OpenAI Apparently Wants to Make Its Own AI Chips on Top of the 'iPhone for AI'"
-    excerpt: "The AI development boom has resulted in chip shortages and skyrocketing prices creating an opportunity for a new player."
-    publishedDateTime: 2023-10-06T15:35:00Z
-    webUrl: "https://gizmodo.com/openai-wants-to-make-its-own-ai-chips-1850906306"
+  - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
+    excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
+    publishedDateTime: 2023-10-06T14:53:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530"
+    ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f3035c0abb92d35190311a97ccfb936.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI is exploring making its own chips as AI companies scramble to overcome the global processor shortage, report says"
-    excerpt: "OpenAI is considering building its own AI chips to power ChatGPT, in the latest sign that the company is diverging from its partner Microsoft."
-    publishedDateTime: 2023-10-06T10:26:00Z
-    webUrl: "https://www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-is-considering-making-its-own-ai-chips-chatgpt-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/651fd1b86e038039826b41eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OpenAI To Join The Custom AI Chip Club?"
-    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
-    publishedDateTime: 2023-10-06T19:28:00Z
-    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
-    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: Investing
+      domain: investing.com
     quality: 76
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
+      - url: "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Microsoft, Google, And Adobe Navigate AI's Profitability Challenge"
     excerpt: "These AI technologies, capable of generating business memos and computer code, are costly due to their need for powerful servers and energy-intensive chips. Microsoft reportedly incurred losses on one of its initial generative AI products, the Wall Street ..."
@@ -275,54 +217,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/bz_briefs_tech_5.png?width=1200&height=800&fit=crop"
         width: 945
         height: 630
-        isCached: true
-  - title: "OpenAI explores in-house AI chip making: Report"
-    excerpt: "OpenAI, the ChatGPT maker that has been behind the recent AI surge, is now looking for alternatives to avert the shortage of expensive AI chips it needs, to run those advanced AI models. These chips,"
-    publishedDateTime: 2023-10-06T06:28:00Z
-    webUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/"
-    ampWebUrl: "https://thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/10/06/openai-explores-in-house-ai-chip-making-report/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 74
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/05/48838377432_d109be2066_b.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "OpenAI May Start Manufacturing AI Chips for Itself"
-    excerpt: "OpenAI, the company popularly known for its AI chatbot ChatGPT, is reportedly interested in manufacturing custom AI chips."
-    publishedDateTime: 2023-10-06T11:10:00Z
-    webUrl: "https://www.coinspeaker.com/openai-ai-chips/"
-    ampWebUrl: "https://www.coinspeaker.com/openai-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-ai-chips/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/openai-class-action-lawsuit.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Sources: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the company behind ChatGPT, is exploring making its own artificial intelligence chips and has gone as far as evaluating a potential"
-    publishedDateTime: 2023-10-06T01:17:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/2023/10/06/sources-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/94695"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 74
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/06/152495.JPG?v=1696557960"
-        width: 1000
-        height: 666
         isCached: true
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
@@ -394,36 +288,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring designing AI chips through acquisition or working closely with Nvidia"
-    excerpt: "However, since at least last year it discussed various options to solve the shortage of expensive AI chips that OpenAI relies on, according to people familiar with the matter. These options have included building its own AI chip, working more closely with ..."
-    publishedDateTime: 2023-10-06T04:04:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3237002/chatgpt-owner-openai-exploring-designing-ai-chips-through-acquisition-or-working-closely-nvidia"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 68
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/06/f766d764-37e7-44a4-b8ff-55abaf92d6cc_9d899f76.jpg?itok=-r1GFiTG&v=1696564271"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT maker OpenAI plans to start making its own AI chips. Here's why it's important"
-    excerpt: "OpenAI aims to resolve AI chip shortage by diversifying suppliers and testing custom chip. The company has also been exploring potential acquisition target."
-    publishedDateTime: 2023-10-06T06:45:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important-11696569243350.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/chatgpt-maker-openai-plans-to-start-making-its-own-ai-chips-heres-why-its-important/amp-11696569243350.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 66
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/06/1600x900/OPENAI-FUNDING--1_1696569546695_1696569602090.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft plans to launch an AI chip similar to the Nvidia GPU"
     excerpt: "Microsoft may present its first artificial intelligence chip that will reduce costs. Find out what Microsoft is planning."
     publishedDateTime: 2023-10-09T11:45:00Z
@@ -433,86 +297,21 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 66
-  - title: "OpenAI said to be considering developing its own AI chips"
-    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
-    publishedDateTime: 2023-10-06T19:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
-  - title: "Despite OpenAI's Potential Shift, Citi Analyst Predicts Nvidia's Continued Dominance in AI GPU Market"
-    excerpt: "Similarly, he expects NVDA to maintain a ~90% share in the AI GPU market for the next 2-3 years. Pivoting to Marvell Technology, Inc MRVL, another prominent AI player such as OpenAI, looking to build its own AI accelerator, may offer a viable path."
-    publishedDateTime: 2023-10-09T17:00:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35148644/despite-openais-potential-shift-citi-analyst-predicts-nvidias-continued-dominance-in-ai-gpu-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35148644"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35148644"
+  - title: "Milleniumchain Broker Talks About Microsoft and its AI-Driven Surge: Gains for Investors"
+    excerpt: "Summary: Analysts foresee even more positive developments, including the potential stabilization of Azure cloud computing, the upcoming Microsoft Ignite event, and the AI-driven Microsoft 365 Copilot."
+    publishedDateTime: 2023-10-06T19:02:00Z
+    webUrl: "https://www.benzinga.com/content/35131479/milleniumchain-broker-talks-about-microsoft-and-its-ai-driven-surge-gains-for-investors"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35131479"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35131479"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
+    quality: 65
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/nvda_chip.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: Report"
-    excerpt: "OpenAI declined to comment. CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80 per cent of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T04:17:00Z
-    webUrl: "https://www.deccanherald.com/business/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-report-2715018"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 54
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F63302664-37f4-4e0b-a85c-8b6fc2ac8611%2F2023newsmlRC2R3Z9F6OUK821735775.jpeg?rect=0%2C0%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: sources"
-    excerpt: "Obstacles include a shortage of the advanced processors and the 'eye-watering' costs associated with running the hardware."
-    publishedDateTime: 2023-10-06T08:17:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/10/06/companies/chatgpt-openai-chips/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256139.JPG"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "ChatGPT owner OpenAI wants to make its own AI chips - report"
-    excerpt: "OpenAI, the AI startup behind ChatGPT, is reportedly exploring the possibility of creating its own high-end chips and has considered potential acquisition targets to address the shortage of expensive AI chips it relies on, according to Reuters."
-    publishedDateTime: 2023-10-06T10:42:00Z
-    webUrl: "https://za.investing.com/news/chatgpt-owner-openai-wants-to-make-its-own-ai-chips--report-432SI-2887529"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://i-invdn-com.investing.com/news/AI_800x533_L_1688636864.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "ChatGPT’s OpenAI Seeks To Build Own AI Chips Via M&A: Report"
-    excerpt: "ChatGPT owner OpenAI to build AI chips and GPUs with Microsoft investments as the semiconductor market is led by startups like Anthropic via AWS."
-    publishedDateTime: 2023-10-06T13:49:00Z
-    webUrl: "https://www.crn.com/news/cloud/chatgpt-s-openai-seeks-to-build-own-ai-chips-via-m-a-report"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027e-17465da7137e-5c78c13f1a2b-1000/openai.jpeg"
-        width: 611
-        height: 458
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
@@ -528,128 +327,19 @@ related:
         width: 884
         height: 640
         isCached: true
-  - title: "OpenAI Considers Own AI Chips Amidst Shortages"
-    excerpt: "OpenAI, known for its brainchild ChatGPT, has a new idea on the horizon: making its own AI chips. Sources tell Reuters that OpenAI wants specific technology which is currently scarce. This move could"
-    publishedDateTime: 2023-10-06T13:45:00Z
-    webUrl: "https://techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/"
-    ampWebUrl: "https://techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/amp/"
+  - title: "Microsoft unveils new generative AI products for health systems"
+    excerpt: "The launches tie in with Microsoft’s ethos of developing high-impact but low-risk use cases for AI in healthcare, according to Microsoft’s VP of healthcare."
+    publishedDateTime: 2023-10-10T16:47:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsoft-generative-ai-healthcare-hlth-launch/695930/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 54
-  - title: "OpenAI is considering making its own AI chips"
-    excerpt: "OpenAI is considering creating its own AI chips to address the global shortage of advanced processors and high operational costs"
-    publishedDateTime: 2023-10-06T04:30:00Z
-    webUrl: "https://www.newsbytesapp.com/news/business/openai-is-weighing-options-for-securing-ai-chip-supply/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 54
     images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l16820231006095044.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "OpenAI looking at producing AI chips in-house : Report"
-    excerpt: "OpenAI reportedly weighed up a chip making firm as an acquisition target so it could produce its own AI chips. OpenAI, the company behind artificial intelligence chatbot ChatGPT, is reportedly exploring the possibility of manufacturing processing chips in ..."
-    publishedDateTime: 2023-10-06T04:24:00Z
-    webUrl: "https://cointelegraph.com/news/openai-looks-at-making-in-house-chips"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvODQwNWE3MWUtNTcwMS00MzdkLWFmNGMtY2Q2YzE5YWVjMTcyLmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "OpenAI may produce the hottest commodity in tech: AI chips"
-    excerpt: "As per a new report, OpenAI may soon become a competitor with NVIDIA – as it seeks to produce high-end AI chips."
-    publishedDateTime: 2023-10-06T11:35:00Z
-    webUrl: "https://interestingengineering.com/innovation/openai-may-produce-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/06/image/jpeg/HmeSRzjUwicPmMpGRoTl6WHf11NHIHj4x5NdBiaa.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
-    excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
-    publishedDateTime: 2023-10-07T08:50:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19218/chatgpt-developer-openai-planning-to-make-its-own-ai-chips-report.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 54
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/905c562ffbcfa3994bf6bc8f28becfcd.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "OpenAI is Looking to Start Producing Custom AI Chips"
-    excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
-    publishedDateTime: 2023-10-07T04:30:00Z
-    webUrl: "https://techreport.com/news/openai-is-looking-to-start-producing-custom-ai-chips/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
-    excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/leveling-up-ai-openais-bold-chip-endeavor/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-Endeavor.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "OpenAI Considers Making AI Chips In-House"
-    excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
-    publishedDateTime: 2023-10-09T02:54:00Z
-    webUrl: "https://www.lowyat.net/2023/308711/openai-considers-making-chips-in-house/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/ChatGPT-OpenAI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "OpenAI Eyes AI Chip Production Amidst Shortages"
-    excerpt: "Similar steps have already been taken by other tech giants like Apple, Google, and Tesla, who have all made progress in developing their own chips. Should OpenAI proceed, they would have better control over the AI systems’ performance and capabilities ..."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/openai-eyes-ai-chip-production-amidst-shortages/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Chip-Production.jpg"
-        width: 1000
-        height: 523
+      - url: "https://www.healthcaredive.com/imgproxy/mswlRq327pxjnvWL1K8wl1y84vfbQrgjFoMsnTaAiyw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01pY3Jvc28uanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Microsoft to compete with industry leaders NVIDIA in developing AI processors"
     excerpt: "According to The Information, Microsoft is currently in the process of developing its own AI processors. These processors are specifically designed to handle"
@@ -715,6 +405,22 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 51
+  - title: "Wolters Kluwer Health Language Platform to Maximize the Value of Health Data for Organizations Using Microsoft Azure"
+    excerpt: "Wolters Kluwer Health Language Platform, a FHIR Terminology Server, enables interoperability to ensure quality healthcare data is leveraged across health plans, providers, and HIT vendors for analytic"
+    publishedDateTime: 2023-10-10T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35162745/wolters-kluwer-health-language-platform-to-maximize-the-value-of-health-data-for-organizations-usi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35162745"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35162745"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
     excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
     publishedDateTime: 2023-10-08T14:41:00Z
@@ -724,33 +430,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 49
-  - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T01:12:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-05/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "OpenAI considers making its own AI chips, acquiring hardware business"
-    excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
-    publishedDateTime: 2023-10-06T12:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 36
-  - title: "ChatGPT-owner OpenAI might be exploring making its own AI chips"
-    excerpt: "The effort to get more chips is tied to two major concerns Altman has identified: a shortage of the advanced processors that power OpenAI's software and the “eye-watering” costs associated with running the hardware necessary to power its efforts and products."
-    publishedDateTime: 2023-10-06T11:51:00Z
-    webUrl: "https://www.cnbctv18.com/technology/chatgpt-owner-openai-might-be-exploring-making-its-own-ai-chips-17974651.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 34
   - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
     excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
     publishedDateTime: 2023-10-06T19:36:00Z
@@ -760,51 +439,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
-  - title: "Report: OpenAI could develop custom AI chips"
-    excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."
-    publishedDateTime: 2023-10-06T18:12:00Z
-    webUrl: "https://siliconangle.com/2023/10/06/report-openai-develop-custom-ai-chips/"
+  - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
+    excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
+    publishedDateTime: 2023-10-06T12:18:00Z
+    webUrl: "https://www.digit.in/news/apps/microsoft-translator-gets-updated-with-new-indian-languages-here-are-all-of-them.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
-    publishedDateTime: 2023-10-08T12:31:00Z
-    webUrl: "https://techstory.in/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
-  - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
-    excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
-    publishedDateTime: 2023-10-08T19:24:00Z
-    webUrl: "https://techreport.com/news/openai-considering-manufacturing-its-own-ai-chips-amidst-shortage/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
-  - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
-    excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
-    publishedDateTime: 2023-10-06T12:00:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/fed-up-with-expensive-ai-chips-openai-is-now-planning-to-start-making-its-own-ai-chips-13213102.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 26
-  - title: "Peter Thiel's Multiverse Theory, Tom Hanks' AI Warning, Microsoft's Bing AI Image Creator Controversy And More: This Week In AI"
-    excerpt: "PayPal Holdings Inc. co-founder, Peter Thiel, weighed in on the longstanding debate among physicists and computer scientists about the nature of our universe. In the World of DaaS podcast, Thiel suggested that depending on who you ask, we are either living in a multiverse or a simulation. Read the full article here."
-    publishedDateTime: 2023-10-08T13:07:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35138188/peter-thiels-multiverse-theory-tom-hanks-ai-warning-microsofts-bing-ai-image-creator-controversy-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
+      name: Digit
+      domain: digit.in
+    quality: 16
   - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
     excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
     publishedDateTime: 2023-10-10T12:50:00Z

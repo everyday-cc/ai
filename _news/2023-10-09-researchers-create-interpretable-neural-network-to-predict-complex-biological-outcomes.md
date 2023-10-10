@@ -89,15 +89,6 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 25
-  - title: "Researchers create a neural network for genomics—one that explains how it achieves accurate predictions"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
-    publishedDateTime: 2023-10-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1003950"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 18
 
 secured: "AfUU73kVd7DWs7gCXVagRZowsZJLWhSqjSfFSoAnGN1wxK6Qr3IrtRcC3LqxWi7bYuUXW7j245dlHfOJ3NEkt6BgvOextuAHQMEpXQ8pfEuvnU1t6bfUlbujgYCBWMadsbfCNGdNQ8i2io/OubkTqZTQ1/t9AN7ao/6KTNG1GkEQNn++nn6aYTGSNX9ptcJSrFo2KFG8FY9F+xSNRnWSp0aNg8VjHonMtReRc1cu85DQTzWdFdYC1rPbF5BBHMeYIZVA6b/D5sjfEsKxbtIw1rM6Lo6bJT1l0zAYMk9ONPGMQdozUeOnybiJK5kXWkjQtv1su0wX/YudBjkKl6lC8WEPA2MHorxUJ9/P7yli3CI=;UCljONnnM9Nvr4V8tRfk9A=="
 ---

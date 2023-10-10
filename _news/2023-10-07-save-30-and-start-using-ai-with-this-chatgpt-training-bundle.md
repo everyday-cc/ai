@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence such as ChatGPT to be allowed in Australian schools from 2024"
-    excerpt: "‘Kids are using it right across the country. We’re playing catch-up,’ federal education minister says as states back national framework Artificial intelligence including ChatGPT will be allowed in all Australian schools from 2024 after education ..."
-    publishedDateTime: 2023-10-06T00:34:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/06/chatgpt-ai-allowed-australian-schools-2024"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 50
-    images:
-      - url: "https://i.guim.co.uk/img/media/3306a525ead3dce85e5dd2d1050edf48134221eb/0_244_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=bae67e3c34a293a933f02e3999a98e40"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
     excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
     publishedDateTime: 2023-10-10T11:00:00Z
@@ -79,6 +63,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Q&A: Writer CEO May Habib on competing with ChatGPT, AI opportunities, and regulation"
+    excerpt: "AI startup Writer is looking to win in what's probably the most obvious place to make money in artificial intelligence right now: enterprise. The generative AI company made headlines in September when, in a still-slow VC environment, it raised $100 million ..."
+    publishedDateTime: 2023-10-10T17:33:00Z
+    webUrl: "https://www.aol.com/finance/q-writer-ceo-may-habib-171507396.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/W_Do_5PWiBu38Gzb7B2hpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ede2313e5b8746831fe43a2ad274ff8"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
     excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."

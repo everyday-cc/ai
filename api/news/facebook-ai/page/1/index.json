@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-11-deloitte-digitals-latest-research-forecasts-generative-ais-transformation-of-content-marketing.md",
+      "title": "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing",
+      "excerpt": "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
       "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
       "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -479,35 +523,35 @@
     },
     {
       "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's new AI chatbot trained on public Facebook and Instagram posts",
-      "excerpt": "Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy,",
+      "title": "Meta's New AI Chatbot Trained on Public Facebook and Instagram Posts",
+      "excerpt": "MENLO PARK, California (Reuters) - Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
       "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_01_2022_11_33_05_988689.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp",
-      "publishedDateTime": "2023-09-28T11:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T11:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1342,51 +1386,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
-      "title": "AI language models need to shrink; here’s why smaller may be better",
-      "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "originalUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/shutterstock-llm-image-100945775-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3706510/ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.amp.html",
-      "publishedDateTime": "2023-09-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     }
   ],

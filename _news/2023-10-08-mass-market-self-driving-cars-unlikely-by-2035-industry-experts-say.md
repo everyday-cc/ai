@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Consumers losing confidence in self-driving cars, study says"
-    excerpt: "Automobile industry advances; self-driving popularity grows; J.D. Power shows declining confidence; experience boosts trust."
-    publishedDateTime: 2023-10-06T00:19:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/08/self-driving-cars-traffic-violations-hangzhou.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Study: Public's trust in self-driving cars on the decline"
     excerpt: "According to a combined study by MIT & JD Power, there is a growing distrust in self-driving cars among the public. The study mentions that for the second year in a row, the public's trust in self-driving"
     publishedDateTime: 2023-10-08T08:23:00Z

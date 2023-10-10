@@ -52,6 +52,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Israel’s AI startups carry on as employees mobilize for war, run to shelters"
+    excerpt: "AI startups in Israel are trying to carry on while supporting employees being called to the front lines of the newly-declared war with Gaza."
+    publishedDateTime: 2023-10-10T15:42:00Z
+    webUrl: "https://venturebeat.com/ai/israels-ai-startups-carry-on-as-employees-mobilize-for-war-run-to-shelters/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-10T112629.231.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "The chipmaker powering the AI revolution has canceled a 2,500 person conference in Tel Aviv due to the Israel-Hamas war"
+    excerpt: "Nvidia's AI Summit was scheduled for 15 and 16 October with speakers from Microsoft, Amazon Web Services, and Lenovo."
+    publishedDateTime: 2023-10-10T15:57:00Z
+    webUrl: "https://www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/652532a668f1d46f52acc7b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Column-Hamas Assault on Israel Shows Surprise Still Possible in AI Era: Peter Apps"
     excerpt: "(Reuters) - On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
     publishedDateTime: 2023-10-09T19:36:00Z
@@ -61,6 +91,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 41
+  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
+    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
+    publishedDateTime: 2023-10-10T16:05:00Z
+    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
+        width: 800
+        height: 553
+        isCached: true
 
 secured: "f64CDT1XkPzC2h8PUKHeIP0S5J9CscfI+SdZwZxfTAAXjYL+0ynUdKO2Io/zqQjDa5AKzP4uoPqvU7sGiKHA/xZ/vwYQPres6mJmfoRIclLH16XxosOJOqCM4cs89iiuRaI7uDhy5zy8692s7DuJWS6TuKPxaHmjBI5GuEEM18fn3bCTFE9LEPGnKj5h6IyMe8FZhr9R0PpLz3yWCDffKQFVpekcvn08wvlv/ug+1jNjT0Y6c4g2dM+NAAQ2QV+osAmBDkH7sVOQVFnF/zQoGREY9jZT5J+nP9FvobM/CqjglCRuSrQH04p73QqQ7Z+gzhPOmX+nsBlF2RIZr5UdGBWjowzNpwqoFchXouIRiK0=;sdm9OypSOq92vZyTHsTASA=="
 ---

@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler"
-    excerpt: "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared"
-    publishedDateTime: 2023-10-09T17:45:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg"
-        width: 895
-        height: 443
-        isCached: true
-  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
-    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
-    publishedDateTime: 2023-10-06T16:26:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
-        width: 1183
-        height: 630
-        isCached: true
   - title: "The Importance Of Unlocking AI For The Retailer, And Why Digitalization Is The First Step"
     excerpt: "Retailers can benefit from a digital transformation of their wholesale process in many ways. Let’s take a closer look at a few of the main perks it can unlock."
     publishedDateTime: 2023-10-06T10:45:00Z

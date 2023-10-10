@@ -71,29 +71,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance"
-    excerpt: "British Lawmakers Call for Pause in Live Facial Recognition Surveillance By Martin Coulter LONDON (Reuters) - A cross-party coalition of 65 British lawmakers called on Friday for a pause in use of ..."
-    publishedDateTime: 2023-10-05T23:42:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-05/british-lawmakers-call-for-pause-in-live-facial-recognition-surveillance"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
-  - title: "UK Politicians and Privacy Campaigners Call for Halt to Facial Recognition Surveillance"
-    excerpt: "UK politicians, privacy campaigners call for halt to facial recognition surveillance due to concerns over human rights and discrimination."
-    publishedDateTime: 2023-10-06T00:08:00Z
-    webUrl: "https://thethaiger.com/world/news/556922/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 46
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/banner-71125_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
     excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
     publishedDateTime: 2023-10-06T12:07:00Z

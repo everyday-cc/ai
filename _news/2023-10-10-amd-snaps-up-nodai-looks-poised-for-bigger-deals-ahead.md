@@ -52,6 +52,20 @@ related:
         width: 609
         height: 458
         isCached: true
+  - title: "AMD is buying an AI software startup Nod.AI"
+    excerpt: "AMD did not reveal what it's spending on buying Nod.AI or Nod Labs. Nod.AI will help expand the multinational's footprint in AI software."
+    publishedDateTime: 2023-10-10T17:02:00Z
+    webUrl: "https://invezz.com/news/2023/10/10/amd-is-buying-ai-software-startup-nod-ai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 37
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/01/vladimir-malyutin-sw8-yizppms-unsplash-1024x645.jpg"
+        width: 1024
+        height: 645
+        isCached: true
 
 secured: "/o4PHa+01uDl+04qWLHwGVaNpNor+Frbah2csnXLXs+rWU72/u7Jh32AgI/yY8USzsiFd7/uM6CHCpWqCvu7N0kMnh2tHJ4RgboVUEdbMVchaOIncHw3Y5YKN5gLCi2/6U7EntZj2UUoaE5EKP0nGQOEszMAv6MVRTgo8gbO/+r1AJ7L2/mZNH3PAhFJzLbnJGGBpM5cHNVPJwOg1hFyHrO/bfEA0wbSkddskXB7DtxdlQ30iacZhPgwjHl/3vEketjZ5502FmhR9IFoi/d1aecisGcbgKCHBsBTTyiHwAKxPedQb0odyacTnJBk5j0KjehCeFGtpAF4PWQeHwf2C51agD3329IiZjfrDc7jU1s=;qc6FGgmT2JSTca27xOe0ZQ=="
 ---

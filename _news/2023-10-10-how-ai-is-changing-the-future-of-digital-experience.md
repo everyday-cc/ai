@@ -97,19 +97,33 @@ related:
         width: 2001
         height: 814
         isCached: true
-  - title: "How invisible tech and AI are working for Domino's"
-    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
-    publishedDateTime: 2023-10-10T10:03:00Z
-    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
+  - title: "Sunrise and sunset industries in the age of AI"
+    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
+    publishedDateTime: 2023-10-10T16:50:00Z
+    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
+      name: manilatimes
+      domain: manilatimes.net
     quality: 39
     images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
-        width: 1540
-        height: 800
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
+        width: 1200
+        height: 806
+        isCached: true
+  - title: "How AI is revolutionising business contracts"
+    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
+    publishedDateTime: 2023-10-10T17:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Embracing the Inevitable: The Era of AI-First Companies"
     excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"

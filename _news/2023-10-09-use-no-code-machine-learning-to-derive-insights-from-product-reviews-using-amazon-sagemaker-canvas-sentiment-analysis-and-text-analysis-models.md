@@ -30,6 +30,62 @@ images:
     isCached: true
 
 related:
+  - title: "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart"
+    excerpt: "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate"
+    publishedDateTime: 2023-10-10T17:09:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 111
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/ML-15311-image001-1225x630.jpg"
+        width: 1225
+        height: 630
+        isCached: true
+  - title: "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler"
+    excerpt: "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared"
+    publishedDateTime: 2023-10-09T17:45:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg"
+        width: 895
+        height: 443
+        isCached: true
+  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
+    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
+    publishedDateTime: 2023-10-06T16:26:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
+        width: 1183
+        height: 630
+        isCached: true
+  - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
+    excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
+    publishedDateTime: 2023-10-10T17:20:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-no-code-generative-ai-capabilities-now-available-in-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/l-ml-15314-image001-881x630.png"
+        width: 881
+        height: 630
+        isCached: true
   - title: "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart"
     excerpt: "Today, we are excited to announce that the Mistral 7B foundation models, developed by Mistral AI, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. With 7 billion parameters, Mistral 7B can be easily customized and quickly deployed. You can"
     publishedDateTime: 2023-10-09T21:37:48Z

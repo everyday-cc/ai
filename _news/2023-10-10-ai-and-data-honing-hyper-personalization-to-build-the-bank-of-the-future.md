@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-pe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
 type: article
 quality: 103
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -31,34 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler"
-    excerpt: "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared"
-    publishedDateTime: 2023-10-09T17:45:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg"
-        width: 895
-        height: 443
-        isCached: true
-  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
-    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
-    publishedDateTime: 2023-10-06T16:26:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
-        width: 1183
-        height: 630
-        isCached: true
   - title: "QATAR FOUNDATION'S WISE SEEKS TO REVOLUTIONIZE EDUCATION IN THE AI AGE"
     excerpt: "WISE Summit will explore the challenges and opportunities AI presents in educationDOHA, Qatar, Oct. 10, 2023 /PRNewswire/ --"
     publishedDateTime: 2023-10-10T13:43:00Z

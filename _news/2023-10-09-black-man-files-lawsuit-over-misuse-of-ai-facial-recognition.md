@@ -9,7 +9,7 @@ ampWebUrl: "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai
 cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI facial recognition: Campaigners and MPs call for ban"
-    excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
-    publishedDateTime: 2023-10-05T23:33:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67022005"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
     excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
     publishedDateTime: 2023-10-06T14:55:00Z
@@ -75,11 +59,11 @@ related:
   - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
     excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
     publishedDateTime: 2023-10-09T18:01:00Z
-    webUrl: "https://abc7news.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+    webUrl: "https://6abc.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 27
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"

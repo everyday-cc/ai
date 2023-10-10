@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI technology may outgrow global energy demands, expert says"
+    excerpt: "Training alone consumes a lot of energy, with de Vries noting how some large language models use anywhere from 324 to 1,287 megawatt-hours of electricity during that stage. For context, an AI tool consuming 433 megawatt-hours is enough to power 40 average American homes annually."
+    publishedDateTime: 2023-10-10T17:48:00Z
+    webUrl: "https://www.courthousenews.com/ai-technology-may-outgrow-global-energy-demands-expert-says/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2023/06/chatgpt.jpeg/w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "sI1PFE1C1yl6W7Tq7pMVYjrNylVpb6cIRqSh8kDJp+p5i5XKIA2Qx+ymrYpX7PlYio6lUvTNZK80T4UEFUzdRGc64evqd72Qx4r9EMP7h5jSIQoSSdA7du+cWEA2eqvotjCG8okm0A1n+iW44m9vff/UowIuahP+5sATkoOHLOb/aqaUKOx9/ez+u2Z2GgJWY3uT0fqOlpiPVHGMDZnVJl+Qeu5+hfCOaFrKERaIcd9cQakGQbQrF1JV7gTJrZ4jGMk8LbQXHHghZnZZ1WEGCQ876ocM2iunHAcMk1bYRq2r5y5YYSCurEBqJvfQJFirBc+JwX0vi9h7QndG7Ijls2p0De5GEMWYPntw2wRIRs8lC7Hk1xUalwmqbMh8e9tgWEkjtX5CzslkTsFGKmBGCKE3e+z8gBNTt0TdiKJmydYG8yw2pCHNfwqRTx7dEP+p0jdsWzIFkGvvubfFaMsKlI4G+7ZVSmMhG6TvcxalJC5MF7xE4TP9YHuIsGn+n2kWSgyWFfTag2haeYy39gUbqA==;GlMc69fGMKPopbEAHCK3Xw=="
 ---

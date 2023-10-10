@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/06/hollywood-strikes-set-the-stage-for-ai-negotiations-in-each-creative-industry/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "AI + the Health Care Industry: Ethical Considerations"
-    excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
-    publishedDateTime: 2023-10-06T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-the-health-care-industry-ethical-5336675/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Rise of AI on the Silver Screen: How Hollywood Portrays Artificial Intelligence in Movies"
     excerpt: "Welcome to the future of cinema, where a world once confined to our imagination is now brought to life on the silver screen. From visionary filmmakers to cutting-edge visual effects, Hollywood has always pushed the boundaries of storytelling."
     publishedDateTime: 2023-10-10T14:14:00Z
@@ -82,7 +68,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
         width: 800

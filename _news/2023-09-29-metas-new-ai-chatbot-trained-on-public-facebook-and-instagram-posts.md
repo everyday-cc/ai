@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Meta's new AI chatbot trained on public Facebook and Instagram posts"
-excerpt: "Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy,"
-publishedDateTime: 2023-09-28T18:25:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
-webUrl: "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp"
+title: "Meta's New AI Chatbot Trained on Public Facebook and Instagram Posts"
+excerpt: "MENLO PARK, California (Reuters) - Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview."
+publishedDateTime: 2023-09-28T18:26:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
+webUrl: "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts"
 type: article
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_01_2022_11_33_05_988689.png?width=1280"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "XgtjALvma9Gh7HxrGau1Inoew6UuTK6lFLvWlzvP7GuPL2/mkx3mdJV2doFs75HPABLW1RWkkenpg1YZ6sBbTv0QOAhYh0Q9w376J2g5UYgSYmrf9pnqEu5ekakyvH5G5cngFxPtZVSekiTleukFq8cBPg0Av2jh95qY33SLDRyP2FMci8DUxS+HJsQEyHga187KTRJi0TpAmJJIhc/QQ3/BKGQtSe6jKh4a9x4sxdUfd2opgkFxj3qb9SxJoxGoCQOgGQLRYrdKkILH10Qx5WT2eoRFsK7m3Aazf8XjMpRNTAU9gGUokj/RpY+PZJTUzVw9uc11WgYTw6anNviJjqQ6smJ1V5CLvppoOJDsvok=;2ptg6cm4f9JQ78317a4zZw=="
+secured: "5bneI0np+u1HzKZCwtRXCXi1y50Effb4vP7m9HpPQ720gYbbqUHIvmltaGqtA8vGTVjnKE76nsF/vt1ietKzukJdU32Y269cWm2Qmkhje+7MhyVRf6B9TCQTSlOJM1LJ6EBW5BFyhtERHJQpIOSZTwABzxIN8QXyHnF5/qKdFfdRzd2tL+RB5BdAT6XOYqZ6eashF8tC9mJw77Sm8XBerzSkbdFvKy13GUITZXsgekoj0S7RxouufEYFeHnDL+igWQho6w9mLPEIU0ss8NrPoeBgciMniM6+CzyWaIbnNvOdX5T4FMVKmzhNRfODwTKXflpR3svX3wdHysv6HcY43eXoLBviRzZ+IrMW3oE6E7PrWDSE2FxYbef7jH8qA3tiGaFA0ybYiWFkbImerKp8MaFaJLi1dI0kysKMkYMzFt+GV+guk8sdtiBJDSYgrtQKLsbSe8Q6BMJKTnbzQJNHq5Zv/eUXadjo0bJwcJH2VBbwwguwnNalIxUa2YEAo8W8BmUOyeiIFxCHB7e7uJC6dQ==;sGTomJwK5/ui8YtXw/OH4w=="
 ---
 

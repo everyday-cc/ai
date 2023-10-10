@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/56-of-professionals-are-uns
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
 type: article
 quality: 97
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI"
+    excerpt: "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk."
+    publishedDateTime: 2023-10-10T16:28:00Z
+    webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 72
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "9gZN1Fq0ao7SvEBkacsuvxUEDAASXQ4dfaJ1fnoJTuPe0Clhq6xvxa/LQVdp3kd16uRiH8/kPhZLzDg0Fbmq3TyR5H5hGy1dLURGHpIfcLO0WnSkghyLUw4HmVP3c5jRLdD23p+CWgM3zZyTwUcShKcaoKqWjXF0f/crlvCa4HiazezHgjDK8dQHvdbX3lUNiAaIRUakUzTUDYsrKAO9uyKu4v0bBMYx9gW4+xzI+Nj0OiZdUPtYOJ6gSu3bnFx3LVFhQ2tLowW8B524beD7mv8czupl01A7azJuXWe/71/rTo2+gANvJb+avt3iCWAgUMZ9yp6c/UssmvkUgFaR7CUcIQYaoYGmJBcaKfr1LjOd55alyXHqVgTz68WE6+l6/JwT4B4SlfupfwFfdEYcDiQZkgMKUn4Aaza0ZjYRnPPN6O5xl4YXzuADuFhf4+0GYGCYuoT0gweVosQNpc111YsV4wJ7r3UQfnrzExMELukB+ihN4FGRfE30DcY2fTd78CcZ8jWoB8BOC14jFQ6GTQ==;ztXKHDxoesLEezcVTDV37A=="
 ---

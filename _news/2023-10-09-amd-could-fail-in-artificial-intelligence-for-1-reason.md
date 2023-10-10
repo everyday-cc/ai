@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artifi
 webUrl: "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/Money_Stack.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "AMD is buying an AI software startup Nod.AI"
+    excerpt: "AMD did not reveal what it's spending on buying Nod.AI or Nod Labs. Nod.AI will help expand the multinational's footprint in AI software."
+    publishedDateTime: 2023-10-10T17:02:00Z
+    webUrl: "https://invezz.com/news/2023/10/10/amd-is-buying-ai-software-startup-nod-ai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 37
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/01/vladimir-malyutin-sw8-yizppms-unsplash-1024x645.jpg"
+        width: 1024
+        height: 645
         isCached: true
 
 secured: "yF1Y23GfJdKWNX/uo5XgTELXNABIVGM43Pnzmy7T+G8MYp6HBUIzIgp+8A+JtcQ3tXbIOtaPTqu/dGSVVdMfH7MPqIdW8GixM4uQQkmTB7kVXO0Aijf3D7v7rIeQXHhroOEjlo4b07FkvFpJe3wFnu/bJIUO723SAx33yY65zREN++vOVtdUGlN79Qi7qCZgp8awuKEis4mCqH4bgmgyA+lcVztrTrFcRRmClTaEwYQNiy+ntSeD6QwYO0Njiz3RWkAAu2ne40f9n0/CC6+dS4hU6ThnY2aW7HXsRQVckJdCrTc4906B05TOTv2JAIo/YKpjJWMVQdUeNRQZecsxIzBoY0mGiONSUHyLxFV3sRZz9OvZkNSHJsTw88qF0DvCzqTS5it0NhlB7raV1P35Ao8L/Fl+5WLLa6LQ3rSDOo+BctJDgfkFSHfDCyuSmBRHSZHExSBJchxOtLJsdX2KDoF0y9vfHgk9ZJn4i4FcLFW/ghoZszkljIPiGJyDF5nW4Y1uPu2sR0+5/JaNqE+P5A==;Ddwi3SqaD42sl+/eLgIOVw=="

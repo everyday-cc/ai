@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chat with Colleagues or Chat with Data? Inside Nomad Data’s AI Revolution"
+    excerpt: "Nomad Data is presenting a new AI-native platform that enables employees to interact with corporate data as if they were conversing with a person."
+    publishedDateTime: 2023-10-10T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/10/chat-with-colleagues-or-chat-with-data-inside-nomad-datas-ai-revolution/71131482007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 18
 
 secured: "6laiqRWpRx0nZwRuRIQdUWz5kPc/rsWfDkYrT+ONa3V1HCTVGtAr7VJpyc/k754GVz0bQQev0x5uYSxvMtLlPuCPyz9m/UvwjAiN5VWJ800JkKf9XowdOpXNbK0BHGjQwrgl7BSW2uSnnqzJaJifqqH5EaS2kaXq4GoqaMh07hV1D6ev2q4Dv6tQZSwiDP/ewNOAjCf5kKpWhQVailSg7kvDLNCNK5RUk6Jrrgon5W9RJXVA4T/lOE6mAnjpIuN06C0KpjRZO/cepYN0JUWfHl01JcrEQw1/3lvdgvvaFCmwDv616IWhdfDMa7bJC7cT+aXF+xpP+TlbQz6UwXjpXQ8D5fnIikjGTD3+GkaLHTc=;zxSlwpD3LlAYtOnlVOzvUA=="
 ---

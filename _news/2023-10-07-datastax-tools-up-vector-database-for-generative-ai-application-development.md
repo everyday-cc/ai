@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 375
         height: 256
         isCached: true
+  - title: "Chat with Colleagues or Chat with Data? Inside Nomad Data’s AI Revolution"
+    excerpt: "Nomad Data is presenting a new AI-native platform that enables employees to interact with corporate data as if they were conversing with a person."
+    publishedDateTime: 2023-10-10T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/10/chat-with-colleagues-or-chat-with-data-inside-nomad-datas-ai-revolution/71131482007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 18
 
 secured: "cQIbA6G7AR0oveDm+em0qzjQdBcnIcuTVm3k61QmQ11zARBaQJ5Wcx3ZuSKe/NOr0m2535OetZTgzZ2CDbX9Ha4NRoNUn3zyXjC9YpCTAtZ7n4lFlMO+XATjF3hye6gve9CfqGeZeXE7NIIrNeACHmgXSDmAFRqcygYBofzr5WnMOYd308JRuHHJeYmDnkrnyUe6iZj0kn0l2Z/GZf/o6y2C0r5X+S03ITYQ+OI2oBoBYe2ioPHtqOl7sexhypIjKxwEzl9MQSNVVzF6DElhRT6fm4ZIVKjIYVx7ydqWKYUsgU4ifgyqbE5IPNAUpWvcQl84fQSwi1h3yCNRqsseBPdCHgfJ+HwbU+l6mnQp4NuZpQBZp8mQhhGIOw2PkTQdJa6vlxETGUigQVIwNdPhz1oL2LqMx8sI0Bt0obQFSax07DyWY+kmLXOHHEZ2p5/ezTdgUBgG8j5RjvO7i3yzfm+q8NsDd2wWQgwyZT9sZ7ZJE1qXXlrzKxdpj0N/fotheM6hd491SnJ3fZt38Bkd4g==;kfsCNjzELUcMOhXpCGgRAQ=="
 ---
