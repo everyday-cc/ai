@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-
 webUrl: "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "CX is a good place to start with AI-driven innovation"
-    excerpt: "B usinesses should embrace artificial intelligence (AI) to automate and innovate their workflows, leading to improved customer experience (CX). These insights were shared by Douglas McNeilage, regional director of Verint South Africa, during his presentation at the ITWeb CX Summit 2023."
-    publishedDateTime: 2023-10-05T12:51:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpEv4YeQP7V8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 17
 
 secured: "9KV0PmeKTGDrOuGzTi5cjrSy1ujSDlFQIENug4wJ7nc4eKZ/PB76HOP1Xv2QAGwN+C1sOtbS0QKA8GoxlFoX2eLcU7JT1raREZGWujqkIQBUm6mHHHrgQqjmjYGOOm4SYJuIpoGl5FDPjw2T6nYQBarb+k/GD0l2GlUN/30sPy3veLSzfTJUOcl42mLylt2GTB1qae1Q+qHmA94wuuRUYa+PxjTs4MapnUcdt2cpUXKH2+j+5L6mE6iiukygI5gkmauiqIS4MqNdtrf/BYx6h2XnEurZSDBwo3ys1kqHlPtOe/4sdI8vKBUae7lW6KWOb+JujFHU8kNnjskSvizpeNOcMigJi9XbGiYgx95fUao=;E8SupHodqv+j9QSVro/lnA=="
 ---

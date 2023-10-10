@@ -2,6 +2,195 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
+      "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
+      "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
+      "originalUrl": "https://uk.pcmag.com/processors/148711/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/intels-met/intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated_cq7q.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-intel-announces-new-core-ultra-cpu-with-ai-processing-engine-coming-in-december.md",
+      "title": "Intel announces new Core Ultra CPU with AI processing engine coming in December",
+      "excerpt": "Intel announced its newest processors, the Intel Core Ultra series, during the Intel Innovation keynote on Tuesday, which it says will usher in the age of the \"AI PC\" later this year when the chip hits the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
+      "originalUrl": "https://www.techradar.com/computing/cpu/intel-announces-new-core-ultra-cpu-with-ai-processing-engine-to-launch-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HAvq6okpT4ZUYNJxoz4KsL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-meta-tells-court-ai-software-does-not-violate-author-copyrights.md",
+      "title": "Meta tells court AI software does not violate author copyrights",
+      "excerpt": "Meta Platforms has asked a federal judge in San Francisco to dismiss most of a lawsuit filed by comedian Sarah Silverman and other authors who say the company violated their copyrights by training its artificial intelligence-based large language model Llama with their books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/meta-tells-court-ai-software-does-not-violate-author-copyrights-2023-09-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/KSed-zNBxlFYV96EMKPg0uvH0kU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ARLLOU3TBNYRA24G5TOH5TUHA.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-deepmind-uses-ai-to-predict-harmful-genetic-mutations-in-humans.md",
+      "title": "DeepMind uses AI to predict harmful genetic mutations in humans",
+      "excerpt": "First example of artificial intelligence helping to accelerate diagnosis of diseases caused by genetic variants",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
+      "originalUrl": "https://www.ft.com/content/f8f5184c-0945-408d-8bcf-c101fa801dec?sharetype=gift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-google-deepmind-ai-speeds-up-search-for-disease-genes.md",
       "title": "Google DeepMind AI speeds up search for disease genes",
       "excerpt": "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments.",
@@ -970,179 +1159,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design.md",
-      "title": "NVIDIA's next-generation Blackwell GPUs for HPC and AI will use chiplet design",
-      "excerpt": "NVIDIA's next generation of GPU hardware for high-performance computing will see the company adopt a chiplet design for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93346/nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93346/nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93346_01_nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design_full.jpg",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-the-future-of-transportation-nc-at-develops-launches-trial-of-driverless-electric-shuttles.md",
-      "title": "'The future of transportation': NC A&T develops, launches trial of driverless electric shuttles",
-      "excerpt": "The space-age comparison came as the mayor and other dignitaries took spins in driverless electric ... to live in an era where autonomy and artificial intelligence are changing our world ...",
-      "sourceUrl": null,
-      "webUrl": "https://journalnow.com/news/local/the-future-of-transportation-nc-a-t-develops-launches-trial-of-driverless-electric-shuttles/article_5c4a29a4-5672-11ee-b017-a7336a8b0949.html",
-      "originalUrl": "https://journalnow.com/news/local/the-future-of-transportation-nc-a-t-develops-launches-trial-of-driverless-electric-shuttles/article_5c4a29a4-5672-11ee-b017-a7336a8b0949.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/3/1c/31cc0958-8d29-52e6-aed3-10a0eed47c84/6508b11796b55.image.jpg?crop=1661%2C872%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winston-Salem Journal",
-        "domain": "journalnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity.md",
-      "title": "Generative AI Can Impact Jobs By Enhancing Creativity And Productivity",
-      "excerpt": "And as LLMs are adopted more widely, new roles – AI developers, AI content creators and specialists in AI ethics, to name a few – will emerge as well. These are the findings of an extensive analysis examining 19,000 tasks across 867 occupations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650801ec10cb53503a01661d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2023/09/19/generative-ai-can-impact-jobs-by-enhancing-creativity-and-productivity/amp/",
-      "publishedDateTime": "2023-09-19T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ibm-seeks-to-offer-enhanced-ai-service-to-enterprises-with-watsonx.md",
-      "title": "IBM seeks to offer enhanced AI service to enterprises with Watsonx",
-      "excerpt": "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

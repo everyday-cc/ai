@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-24-part-5-artificial-intelligence-is-here-to-help-in-healthcare-but-it-might-take-some-time.md",
+      "title": "Part 5: Artificial Intelligence is here to help in healthcare but it might take some time",
+      "excerpt": "Artificial intelligence has been utilized ... \"When will AI enter the healthcare field?\" This was a topic the Texas Tech Health Sciences Center explored at its Telehealth Week Conference last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
+      "originalUrl": "https://www.aol.com/lifestyle/part-5-artificial-intelligence-help-082510629.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/v76Kv33AEhoHb5nJQAUBXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/lubbock-avalanche-journal/bf45f7fb19d0d827a3ca061beb38b545",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-24T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-artificial-intelligence-ai-chips-market-2023-2030-a-business-intelligence-solution-99-pages-report.md",
       "title": "Artificial Intelligence (AI) Chips Market [2023-2030]| A Business Intelligence Solution| 99 Pages Report",
       "excerpt": "The Artificial Intelligence (AI) Chips Market experienced substantial growth, increasing from USD million to USD million between 2017 and 2022. Projections suggest a CAGR of Percent, expected to ...",
@@ -1269,49 +1312,6 @@
       "provider": {
         "name": "MyNorthwest.com",
         "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-artificial-intelligence-ai-in-healthcare-market-insights-report-2023-2030-100-pages-report.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Insights Report 2023-2030 | 100 Pages Report",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34221806/artificial-intelligence-ai-in-healthcare-market-insights-report-2023-2030-100-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34221806/artificial-intelligence-ai-in-healthcare-market-insights-report-2023-2030-100-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34221806",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34221806",
-      "publishedDateTime": "2023-09-05T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

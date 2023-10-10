@@ -34,6 +34,22 @@ related:
         width: 1050
         height: 1008
         isCached: true
+  - title: "Creatives across industries are strategizing together around AI concerns"
+    excerpt: "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI."
+    publishedDateTime: 2023-10-06T23:04:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/"
+    ampWebUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Australia’s Telecommunications Industry Following Global Peers on Generative AI"
     excerpt: "Global telcos are already deploying generative AI. Chatbots are likely the first use cases in Australia, but data security challenges remain."
     publishedDateTime: 2023-10-06T16:19:00Z

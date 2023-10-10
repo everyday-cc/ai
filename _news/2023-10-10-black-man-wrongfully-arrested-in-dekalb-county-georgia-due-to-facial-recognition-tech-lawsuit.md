@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
-    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
-    type: article
-    provider:
-      name: gijn.org
-      domain: gijn.org
-    quality: 41
-    images:
-      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
-        width: 771
-        height: 512
-        isCached: true
   - title: "British lawmakers call for pause on use of live facial recognition"
     excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
     publishedDateTime: 2023-10-06T15:19:00Z
@@ -101,6 +87,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "4lBts9j+pahVGDYy0wqZCCR5hF9Qr3LXlmnhcCbXmkt4mXcSa3vchcIsG33q4qRAX7OQIzsnjCYZlu4t5WlaMLSrV4ZmyI4zVYnlStl50PQ4pbRTG/MENTwYsgFMsxcaYknzEtzqDJGOQ4DhCwYtniSogkrhDdXsvmeVrJ1GsC5eG/A5TB2Syg9gLK+yqKlnsOqJ+BCrkq8ADYqwdlVVJiA1LlPhMxNO+riVENz0RUnwx2gxwki8JgqZPm+QKdYq7fv4SX5TXgHKlJYPHhL1SsxF7f60qJw5jmehI3ezZqjJNv/LQR5zwS5hDD8p+r/ksOQPUf5/ai6RC7je986aqwhQgHT5oYFKeovlwG1B2X8=;kgkLPs21aFPEWZ+R2LOwGw=="
+secured: "PTfCvamAngMrAIv8mUxfTFfg71Nrx19uOoCy3ssf9Q7E3Scr2N9Dj2VJjxc+Kxb1iQORHPe/8jKLptm5DflAWNR+JMYMgqXohwyrWtIJz6Z89RmqbcYQ3V99zJyLjs7az54izKJfAvk1p55DhwdW5cDzToTsfvpYuzZ2JmdoZxN2grdIRW/3fFrARSMVXjG9Vfdf6S0lIKYlaCj3nk/YeOt/+YpRmAdlBRE/HOpfhUd+N1zVvfGojeheXg2cXZt1pem7wcmhRqJBhRO7UBkNG5Hed8ooqIQHcoMPpCUKQSmgDGSN74+LskCPVLpv1sWZzjz98kueYgfa+UwNsYqV7t/DmeJbmwciy0jFCMDXLo3kTRDXi/4cbcLvXFKcNrzJe9NiEu/dtGbx4/6Kz8p8rTaAr5+TvgtJYHCoA0rYN/CZsfaJxr7J0JCgiJLjeBFHMUqA010rZfRAZK16WkHIBGmprBySgYiY364OiCbrud9fYnK0nm72bDGmFAxh5exJdzfjUHwpD7yzxOw0zfhs0A==;55x4i3mylaq3DSXQUWq/0g=="
 ---
 

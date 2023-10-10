@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 620
         height: 351
         isCached: true
-  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
-    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
-    publishedDateTime: 2023-10-09T13:17:00Z
-    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
   - title: "Coda bucks trend of additional charges for generative AI tools"
     excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
     publishedDateTime: 2023-10-06T09:49:00Z

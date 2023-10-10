@@ -44,6 +44,22 @@ related:
         width: 1050
         height: 1008
         isCached: true
+  - title: "Creatives across industries are strategizing together around AI concerns"
+    excerpt: "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI."
+    publishedDateTime: 2023-10-06T23:04:00Z
+    webUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/"
+    ampWebUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI + the Health Care Industry: Ethical Considerations"
     excerpt: "Another consideration for the healthcare industry was recently thoughtfully outlined by Carrie Pallardy of Information Week in her post entitled “How AI Ethics Are Being Shaped in Health Care Today.” She posits that as AI is used in health care decisio ..."
     publishedDateTime: 2023-10-06T00:00:00Z

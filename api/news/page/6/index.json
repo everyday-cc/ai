@@ -2,6 +2,203 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
+      "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
+      "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/articleshow/104162928.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-104160797,width-280,height-210,imgsize-36962/what-is-aap-mp-sanjay-singhs-link-to-the-delhi-excise-policy-case.jpg",
+          "width": 280,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/tech-top-5/fintech-unicorn-slice-to-merge-with-north-east-sfb-karnataka-doubles-down-on-gst/amp_articleshow/104162928.cms",
+      "publishedDateTime": "2023-10-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new.md",
+      "title": "Google Assistant is finally getting the AI upgrades it deserves. Here's what's new",
+      "excerpt": "Voice assistants were the pinnacle of AI about a decade ago, but with the rise of generative AI, they have remained somewhat obsolete. Despite needing an upgrade, Google has neglected its voice assistant to pursue more ambitious projects like its Google Bard chatbot -- until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/",
+      "originalUrl": "https://www.zdnet.com/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad698d33b7c8e0e75df21ffc651e7430f7318a87/2023/10/03/90e02f4e-395f-4536-861c-5bb54304fc5e/google-assistant-screen-read.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-assistant-is-finally-getting-the-ai-upgrades-it-deserves-heres-whats-new/",
+      "publishedDateTime": "2023-10-04T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-android-14-more-customization-control-and-accessibility-features.md",
+      "title": "Android 14: More customization, control and accessibility features",
+      "excerpt": "Android 14 is here with personal, protective and accessible features that put users first and celebrate their individuality.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/android/android-14/",
+      "originalUrl": "https://blog.google/products/android/android-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_14-Hero_image-P8P.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-the-new-ai-photo-tricks-on-the-pixel-8-are-blowing-my-mind.md",
+      "title": "The New AI Photo Tricks on the Pixel 8 Are Blowing My Mind",
+      "excerpt": "Magic Editor and Audio Magic Eraser give you exciting (and kind of scary) new powers over your photos and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-pixel-8-magic-editor-audio-magic-eraser-best-take/",
+      "originalUrl": "https://www.wired.com/story/google-pixel-8-magic-editor-audio-magic-eraser-best-take/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651d744423339ccd9867d712/191:100/w_1280,c_limit/Pixel-8-Pro_Bay-SOURCE-Google-Gear.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-money-machines-and-meeting-goals-healthier-cash-flow-with-ai.md",
       "title": "Money, Machines And Meeting Goals: Healthier Cash Flow With AI",
       "excerpt": "Plus, predictive analytics provided by AI and ML further fortify the company’s financial position through accurate forecasting. Samuel’s approach—combining traditional financial acumen with modern fintech solutions—illustrates how I believe you can ...",
@@ -994,205 +1191,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
-      "title": "San Francisco self-driving car involved in serious accident",
-      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "publishedDateTime": "2023-10-03T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-closing-the-gap-addressing-ethical-issues-in-integrating-ai-systems.md",
-      "title": "Closing the Gap: Addressing Ethical Issues in Integrating AI Systems.",
-      "excerpt": "The purpose of this article is to examine the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "originalUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2286759/earth-space.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/closing-gap-addressing-ethical-issues-integrating-ai-systems-1829920?amp=1",
-      "publishedDateTime": "2023-10-03T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
-      "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
-      "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-03-at-2.45.29-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-ai-has-always-had-a-hardware-problemuntil-now.md",
-      "title": "AI Has Always Had A Hardware Problem...Until Now",
-      "excerpt": "With such an unprecedented show of how generative AI can conduct very human-like conversations and provide (mostly) accurate answers, every other tech company from Microsoft to Google to Salesforce suddenly jumped into the fray with their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651bebb5e15343b946b1459d/0x0.jpg?format=jpg&width=1200",
-          "width": 994,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/10/03/ai-has-always-had-a-hardware-problemuntil-now/amp/",
-      "publishedDateTime": "2023-10-03T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

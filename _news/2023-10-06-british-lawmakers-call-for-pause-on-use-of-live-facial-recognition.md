@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
-    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
-    type: article
-    provider:
-      name: gijn.org
-      domain: gijn.org
-    quality: 41
-    images:
-      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
-        width: 771
-        height: 512
-        isCached: true
   - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
     excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
     publishedDateTime: 2023-10-09T18:02:00Z

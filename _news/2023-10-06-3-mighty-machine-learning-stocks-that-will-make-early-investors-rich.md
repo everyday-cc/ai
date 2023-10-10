@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Unstoppable Robotics Stocks That Will Make Early Investors Rich"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics does not necessarily have to look like in the movies, where you have"
-    publishedDateTime: 2023-10-05T12:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-unstoppable-robotics-stocks-that-will-make-early-investors-rich-1032681222"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "3 Machine Learning Stocks Ready to Make a Move Higher"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent weeks, there have been many discussions about artificial"
     publishedDateTime: 2023-10-06T15:47:00Z

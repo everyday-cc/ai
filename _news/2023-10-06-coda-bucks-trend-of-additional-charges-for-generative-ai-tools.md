@@ -96,15 +96,6 @@ related:
         width: 620
         height: 351
         isCached: true
-  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
-    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
-    publishedDateTime: 2023-10-09T13:17:00Z
-    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "2fV+1sMxqOLWuZyAAxwtIpeS06537IkYFBpiU6Q/oEDUg+qe0EcehcRrPntOBIIgjLA3O78HaB271sarGjOHpUAxMgKL3e0Zz3G5qMoAXB2P2N/VUd029scqev4W20xGETGnJR+71LkLw1MRRt3q/qCZMp2mBULEAqPyeerUdwWSLNbkuCs/ShZFSUdaZDdldRk2lSZRXNLCSQcXlvANWRK16S+p+kVZt73W+fW6qZeBA5unaJACn6FFO1P7Mz1evcWcO0RFrqput6AB3Kp2rwnllTb8IdSBMebdPV9JFASbgIB6L6Dy2QsJlC16RLjDVBDDHHaxyh1EUGFvTcwFKtz6QigUN0BpEf1PlPHeMXCXDQMxi6I4Vpeup9qaR0yxSwImj0QzW8EBsdpb+nDzgWKsANN/K8Ddbil8EK8d5VaA3DoYXawhd/8bt4nKzP7f5GBgBaHAdi37waGadl3fWDB1q7DF7qClZR+xdHpGlTR65uRiJGVf1kbBD65fG9sMxSIYeLKTlH9d2YhhXfsMXw==;licmn4g3jag4ZFBouJMQrw=="
 ---

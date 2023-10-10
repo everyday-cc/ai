@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Meeranda, the Human-Like AI, is Accepted into Amazon's AWS Build Accelerator Program"
-    excerpt: "TORONTO, Oct. 5, 2023 /CNW/ - Meeranda, a privately held Artificial Intelligence (AI) solutions provider, serving both Small and Medium Businesses (SMBs) and Global Multinational Corporations (MNCs), announced today its acceptance into the Amazon's AWS Build Accelerator program."
-    publishedDateTime: 2023-10-05T12:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meeranda-human-like-ai-accepted-into-amazons-aws-/2023/10/05/9893527.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-
 secured: "7nrWJVFd6HPRDkDdQQbbngZQYkgCRgeTS9Id6dt5D4HW3usNkoqwQiMVH3mXl6DRoPX3bxccr3cvIJRnG9fPHa321bhcQoS3t2BYPkyaD6ohPf3/Wxia1Can/toHTflolzngVcZDJRmdoYPe9q/koKHiyIhSqGh6knHiUF88oifGNQB0tsUkOZ0XUSbtOR8H7XrH25f+lHZuL1P/0jli56MY5xGMIppKcWWCReCz0t/fijFvPcIlW0mO6530XJiCXuppXHrWQOObt7x5u9Pt1ZwD8vvwYFDBEnwjLblcYCrdH81mSQvsu9ia69ahTA2KciInW4RjWAq91+KFbQiY6CFFDwHtiO82B1m0TntiO2c=;82xOCBFXBr2cDc03aQt+vA=="
 ---
 

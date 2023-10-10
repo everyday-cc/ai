@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "People Are Souring on Self-Driving Cars"
-    excerpt: "The U.S. public’s trust in self-driving cars has declined for the second year in a row, according to a study conducted by J.D. Power and MIT. The growing distrust applies to self-driving ..."
-    publishedDateTime: 2023-10-05T12:31:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/people-are-souring-on-self-driving-cars/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/3749901aa3359f0f844363550c274978.jpg?quality=75"
-        width: 3999
-        height: 2249
-        isCached: true
   - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
     excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
     publishedDateTime: 2023-10-05T15:56:00Z

@@ -25,38 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Choosing A Strategic Investment Partner In The AI Gold Rush"
-    excerpt: "Michelle Gonzalez, Corporate Vice President and Head of M12, Microsoft’s Venture Fund."
-    publishedDateTime: 2023-10-05T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/05/choosing-a-strategic-investment-partner-in-the-ai-gold-rush/amp/"
+  - title: "Generative AI in commerce: 5 ways industries are changing how they do business"
+    excerpt: "Generative AI can assist commerce-based organizations in several impactful ways. A recent business report highlights five key examples."
+    publishedDateTime: 2023-10-05T19:32:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-in-commerce-5-ways-industries-are-changing-how-they-do-business/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "Creatives across industries are strategizing together around AI concerns"
-    excerpt: "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI."
-    publishedDateTime: 2023-10-06T23:04:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/"
-    ampWebUrl: "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
     publishedDateTime: 2023-10-06T13:11:00Z

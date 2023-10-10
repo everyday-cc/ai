@@ -9,7 +9,7 @@ ampWebUrl: "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai
 cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
         width: 1200
         height: 675
-        isCached: true
-  - title: "Beyond Facial Recognition: State-of-the-Art Research Techniques"
-    excerpt: "In the fast-evolving landscape of investigative journalism, knowledge of the latest tools and cutting edge techniques can help newsrooms and reporters stay ahead of the curve and tell impactful stories."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://gijn.org/beyond-facial-recognition-state-of-the-art-research-techniques/"
-    type: article
-    provider:
-      name: gijn.org
-      domain: gijn.org
-    quality: 41
-    images:
-      - url: "https://gijn.org/wp-content/uploads/2023/09/DSC_0201-771x512.jpg"
-        width: 771
-        height: 512
         isCached: true
   - title: "British lawmakers call for pause on use of live facial recognition"
     excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."

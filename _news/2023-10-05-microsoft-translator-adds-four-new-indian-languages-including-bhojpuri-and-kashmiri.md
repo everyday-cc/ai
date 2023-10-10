@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2619452-microsoft-tr
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
-  - title: "Microsoft Translator gets supports for 20 Indian languages: All the details"
-    excerpt: "Microsoft Translator has added support for 20 more Indian languages, bringing the total to 23. This includes major languages such as Hindi, Bengali, T"
-    publishedDateTime: 2023-10-05T12:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-gets-supports-for-20-indian-languages-all-the-details/articleshow/104189572.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
   - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
     excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
     publishedDateTime: 2023-10-06T12:18:00Z

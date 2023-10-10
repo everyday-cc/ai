@@ -2,25 +2,19 @@
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-28T02:45:00Z
-originalUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
-webUrl: "https://ktvz.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/"
+publishedDateTime: 2023-09-27T20:44:00Z
+originalUrl: "https://www.heraldonline.com/news/business/article279840919.html"
+webUrl: "https://www.heraldonline.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: The Herald SC
+  domain: heraldonline.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://ktvz.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg"
-    width: 1200
-    height: 855
-    isCached: true
-
-secured: "Tu5P2iPDZ+0gGWpdqytiORZ0SnQc/lwCgTELWNzy8D/dTTj1wcJXp0lkaFs8c7g6Lg19dIcVPcwPJXaZ8pAGpOhA2za2aOO4Ejf4QTArtjOt706ZcINY1ISfraEKh8GLzcfoV3hI72tYZEdhXUVMI451WvmtGCoueFC6h/kO7qC/YBp4oc9zbKWZEWSLLC76chouoFrt64mNNZZq4vMdOAmc+su0i9myXufLYpjlxrCOnf8UiZ2vIKm8Eyn78ysjPTxCQ+5TBcC4PK0nICe4eNNsfBXglv35JF4xV2fHCGFa3NKwQGrnshassE/GYleD/KFrJi5e2cAVUXFDw24hbJyqaNPgybFQKX06QdDHyxY=;Xc/+WJNzNbFtDf8u2T2Hag=="
+secured: "3Obim6CSLFypQNry1gOQ+jG357EODeMCon+HUuXhNLM+j8JOVKSEWjIZcfT4vhAnU4ctRvQXt/qFnvbsiUWK6s7EGVbhz42zwLJDA0a4tMJDMeI3vs7268ndkxUt3THG8RxAWjDXdiQpfuePDs1loxO0KSUqHun6kcFkbRIExhXf8IdMCPdMbpMHL2637nIHBXA5xsU8h8FJPlaMhZaPZT9I8WjnWOP4dKqNztbpkKAFcmDKkH3FDpIaVDodXuTR3xa9va2qtDC4gSqufsGJPaSa6tsa26v/TtXwvxIxgF8ekxxZMz+HwaH3jK0J/SXMrUtFoBs7z4kT/EJr+T+IPC48cwgPWQ9VZxKIT/fBXcY=;5WXxMp7lZ6xUL/Dj+cXx+Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence
 webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023"
-    excerpt: "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction about which companies are trendy and which are transformative."
-    publishedDateTime: 2023-10-05T12:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
   - title: "2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Hand-Over Fist in October"
     excerpt: "But despite these efforts, shares remain pricey at $435 a pop. They could become even more valuable as the chipmaker fully exploits its massive long-term opportunity in artificial intelligence hardware. Nvidia specializes in graphics processing units ..."
     publishedDateTime: 2023-10-06T13:54:00Z

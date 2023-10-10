@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-pl
 webUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.html"
 type: article
 quality: 65
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -41,26 +41,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
-    excerpt: "Dynatrace (NYSE: DT), the leader in unified observability and security, today announced the availability of its latest core innovations for customers"
-    publishedDateTime: 2023-10-05T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231005651888/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 45
-  - title: "Microsoft adds four more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India announced today the introduction of four new languages to Microsoft Translator: Bhojpuri, Bodo, Dogri, and Kashmiri. This new update will benefit nearly 61 million people, the company stated."
-    publishedDateTime: 2023-10-05T11:36:00Z
-    webUrl: "https://www.business-standard.com/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/microsoft-adds-four-more-indian-languages-to-microsoft-translator-123100500851_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
   - title: "Amdocs Leverages Oracle Database@Azure to Support Customers' Hybrid Cloud Strategy"
     excerpt: "This development will further empower service providers to integrate their Amdocs classic applications with the latest solutions in the Amdocs portfolio, including the new Amdocs Customer Engagement Platform recently announced by Microsoft and Amdocs."
     publishedDateTime: 2023-10-10T02:53:00Z

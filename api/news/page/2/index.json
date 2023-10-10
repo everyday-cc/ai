@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-09-artificial-intelligence-and-machine-learning-is-a-game-changer-for-data-backup.md",
+      "title": "Artificial intelligence and machine learning is a game-changer for data backup",
+      "excerpt": "The expansion of the AI market within the data backup industry worldwide is propelled by the rising acceptance of cloud-centred backup remedies. These solutions harness AI and ML algorithms to mechanise and refine backup and recovery procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theedgesingapore.com/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "originalUrl": "https://www.theedgesingapore.com/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/artificial-intelligence-and-machine-learning-game-changer-data-backup",
+      "publishedDateTime": "2023-10-08T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edge Singapore",
+        "domain": "theedgesingapore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-5-things-ceos-need-to-know-about-chatgpt-and-generative-ai.md",
+      "title": "5 Things CEOs Need To Know About ChatGPT And Generative AI",
+      "excerpt": "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6522add329569a887be52b85/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-godfather-of-artificial-intelligence-geoffrey-hinton-on-the-promise-risks-of-advanced-ai.md",
       "title": "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI",
       "excerpt": "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with.",
@@ -158,7 +244,7 @@
       "originalUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 661,
+      "heat": 671,
       "tags": null,
       "images": [
         {
@@ -1102,108 +1188,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-what-new-business-models-will-ai-create-next.md",
-      "title": "What New Business Models Will AI Create Next?",
-      "excerpt": "How to thrive in the new AI business world. AI is likely to generate many disruptive business models. How to thrive? How to survive?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65203bd9cad7db72c330b81b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/",
-      "publishedDateTime": "2023-10-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-experts-predict-the-future-of-technology-ai-humanity.md",
-      "title": "Experts Predict the Future of Technology, AI & Humanity",
-      "excerpt": "You probably don't want an AI lawyer anytime soon. that knows what the law is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity",
-      "originalUrl": "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1696536493/wired_tech-support-w30-tech-support-compilation.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

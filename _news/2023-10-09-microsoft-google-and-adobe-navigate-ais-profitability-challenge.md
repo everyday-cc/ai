@@ -194,6 +194,22 @@ related:
         width: 1022
         height: 659
         isCached: true
+  - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
+    excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
+    publishedDateTime: 2023-10-10T04:46:00Z
+    webUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html"
+    ampWebUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 83
+    images:
+      - url: "https://static.digit.in/Untitled-design-28.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
     excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
     publishedDateTime: 2023-10-09T05:03:00Z

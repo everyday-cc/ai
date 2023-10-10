@@ -54,6 +54,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Artificial Intelligence in the Art World"
     excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
     publishedDateTime: 2023-10-07T12:00:00Z

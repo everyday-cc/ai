@@ -66,6 +66,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "xNP3hfAnoBEeuA3eDHFn4LS2JvV5jryGa1vR4KQdSTwy8RjKyN9QmwlEeptbj1lET1/A1lGiPy+qnLUZgA5km7zLh19YelSKgAKp4veyH5xLhqb1IcyHbFCMd5GeK2or6LpAkooMtAjPpVBMGCXki5ExBPfaueZPS8Yi8asq4E2hRj6bdoIBUWkxE3Lx4eP2MnFCyAKf+0jRkcFR6qNJFXdD8nxBoj/fPrBLfr0qm4XMzjqluQo9kMQFvKqXFzr6KWcdeKFXDkgXNBOtlIGgxqDzScEs6NkF0m01PnrxK2zPn6XXbFk7Yr9TrBcY6iS+Z9/taCDO38K5qOJCym/PjFfZTAXD0gKVdpgI4pSSspX7G+vaPG5tQyGwHnmSybjw/mGbxb60ItfFkZBANWZAKb2IkOF8ebZuG2Oy3Q+spswS+23aOwJew0j7ZUhCHGxDLZkYFYNrrD3hNcgv9o/YlT6bZc394LIuCbMiKEYzZm0YL8B8INrr/kJAyHWdqv1+6lJVVV+93qjy+kry0QfxIw==;cyYrO/q4XsAYFz49R+sKpA=="
 ---

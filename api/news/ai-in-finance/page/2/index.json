@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-15-theres-one-wall-street-investment-bank-thats-not-buying-the-ai-hype.md",
+      "title": "There's one Wall Street investment bank that's not buying the AI hype",
+      "excerpt": "Excitement around artificial intelligence has dominated 2023, but not everyone on Wall Street is acknowledging the near-term hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/15/theres-one-wall-street-investment-bank-thats-not-buying-the-ai-hype.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/15/theres-one-wall-street-investment-bank-thats-not-buying-the-ai-hype.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107270651-16891871352023-07-12t065357z_76281055_rc2gx1amogo7_rtrmadp_0_china-regulation-ai.jpeg?v=1694799036&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks.md",
       "title": "Machine Learning and AI in Algo trading: Predictive analytics for stocks",
       "excerpt": "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage.",
@@ -1250,50 +1302,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023.md",
-      "title": "These Are the ONLY 3 Machine Learning Stocks to Consider in August 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning (ML) is a branch of artificial intelligence (AI) that enables",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

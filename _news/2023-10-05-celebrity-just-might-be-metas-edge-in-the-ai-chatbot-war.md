@@ -160,15 +160,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
-  - title: "Bill Gates-Backed Startup Launches AI Chatbot for Personalized Movie, Book Picks"
-    excerpt: "The chatbot, called Pix, runs on OpenAI language-processing tech and will learn user preferences over time."
-    publishedDateTime: 2023-10-05T12:00:00Z
-    webUrl: "https://www.wsj.com/tech/ai/bill-gates-backed-startup-launches-ai-chatbot-for-personalized-movie-book-picks-3badd854"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 42
   - title: "Meta Is Paying Creators Millions for AI Chatbots"
     excerpt: "Meta Platforms’ decision to create artificial intelligence characters based on the likeness of some of the most famous people on the planet is paying off handsomely—for the stars themselves.Last week,"
     publishedDateTime: 2023-10-05T22:01:00Z
