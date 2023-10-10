@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
+      "title": "AI and ML: The two biggest trends in robotics today",
+      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-deep-learning-for-new-protein-design.md",
       "title": "Deep learning for new protein design",
       "excerpt": "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates verified in the lab for binding a designed protein with its target protein.",

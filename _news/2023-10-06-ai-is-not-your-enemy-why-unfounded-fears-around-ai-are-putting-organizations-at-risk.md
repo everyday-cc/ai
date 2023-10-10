@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/06/ai-is-not-your-enemy-why-unfounded-fears-around-ai-are-putting-organizations-at-risk/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is transforming organizations everywhere. How these 6 companies are leading the way"
-    excerpt: "From enhanced efficiency to public safety to life-changing treatments: dive deep into how companies like Ericsson, Abpro, and Hexagon are harnessing the power of AI, and even saving lives."
-    publishedDateTime: 2023-10-05T18:54:00Z
-    webUrl: "https://www.zdnet.com/article/how-ai-is-transforming-organizations-everywhere/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1eb8d00d427f9e1526620a3e83e993dc310082d3/2023/09/13/1e748f0f-8d48-4ffe-9574-7b71f77c6c8e/gettyimages-1447869082.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Here’s where more than half of organizations are piloting generative AI"
     excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
     publishedDateTime: 2023-10-09T07:00:00Z

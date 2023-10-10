@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI in commerce: 5 ways industries are changing how they do business"
-    excerpt: "Generative AI can assist commerce-based organizations in several impactful ways. A recent business report highlights five key examples."
-    publishedDateTime: 2023-10-05T19:32:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-in-commerce-5-ways-industries-are-changing-how-they-do-business/"
+  - title: "Closing The AI Regulatory Gap: The Importance Of Involving Vertical AI Vendors In The Conversation"
+    excerpt: "A significant distinction in the AI landscape arises between horizontal large language models (LLMs) and vertical AI solutions."
+    publishedDateTime: 2023-10-10T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
-  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
-    publishedDateTime: 2023-10-09T19:46:00Z
-    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 ways AI could influence nursing in the coming years"
     excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
     publishedDateTime: 2023-10-06T13:11:00Z
@@ -52,6 +50,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 19
+  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
+    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
+    publishedDateTime: 2023-10-09T18:43:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 5
 
 secured: "r4ju2Mj1wn5M9dDhq7k9+CbDobu3kUY/yPPHgKe20W415la26d9n3BbMuKKa4yI6+CK2ZY8hXYDZt4pXCdxd8riY2mnZMTpoc6DDtK582wzhu9EGevosZxDmK5Y8nLlmTwQIlzmoQDsud5E+kznLy25B0RP7jPGflMqeWdU7APabz09d0NjPqCsziwlGX8bJ1t/Cs4Kj6mKtL7IauoVbS2aurpA+H44Dh2u/00VUI+BFs6dmkK8C/uioznmGTQzNE9XMDq3Dwfv7QfCTD8lM7MMO0rSapIOiHX/Gg6lL9KATo5HcFYpHk9/0jBVkRPdOhDKTuy29vFcN2FbIECBPnF3G8HSRoQWrOUx4Wij2spo=;iI78xoZY+irsYa0/TpioEw=="
 ---

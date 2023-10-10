@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-google-cloud-launches-ai-search-to-empower-healthcare.md",
+      "title": "Google Cloud launches AI search to empower healthcare",
+      "excerpt": "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
+      "originalUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg",
+          "width": 600,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arab Times",
+        "domain": "arabtimesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
       "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
       "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
@@ -1352,58 +1395,6 @@
         "name": "Voice of America",
         "domain": "voanews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging.md",
-      "title": "Artificial Intelligence Is Rapidly Changing The World Of Medical Imaging",
-      "excerpt": "Among the most powerful tools that enable modern day healthcare delivery are advanced imaging techniques. Often, these tools are used to validate physical exams, visualize internal anatomy, or triangulate pathology based on subjective symptoms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6510db66d9d548e5fd06fedb/0x0.jpg?format=jpg&crop=5856,3292,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/09/24/artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging/amp/",
-      "publishedDateTime": "2023-09-24T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

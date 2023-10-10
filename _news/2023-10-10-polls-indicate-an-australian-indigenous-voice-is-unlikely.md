@@ -51,6 +51,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
+    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
+    publishedDateTime: 2023-10-09T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

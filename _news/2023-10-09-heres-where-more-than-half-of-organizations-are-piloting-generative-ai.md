@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 639
         isCached: true
-  - title: "AI is transforming organizations everywhere. How these 6 companies are leading the way"
-    excerpt: "From enhanced efficiency to public safety to life-changing treatments: dive deep into how companies like Ericsson, Abpro, and Hexagon are harnessing the power of AI, and even saving lives."
-    publishedDateTime: 2023-10-05T18:54:00Z
-    webUrl: "https://www.zdnet.com/article/how-ai-is-transforming-organizations-everywhere/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-transforming-organizations-everywhere/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1eb8d00d427f9e1526620a3e83e993dc310082d3/2023/09/13/1e748f0f-8d48-4ffe-9574-7b71f77c6c8e/gettyimages-1447869082.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Fj7lndH/eXqss9WL6MCWu5SwgVeMW6EYX5c5f3VxC3F7kL+t68dLjt5uqZSYzEblE17FyU8JHGGHXekPde2AuTN77i5UBXC1eHuoxjbWgAyPezP7Wlc3RJc7VMj+ZXwiLZssj77q9p0Z07EvdU/7Q2vU3guQvMTDmTV0EyZ0ZV6Ixmc6enN2uD0l/5emxtSl/cBk4AEoVFOvTiUmIXMgVqeT7y+akb/a0IcUdVfs4NCQ8MkrxZQejnUvnZYWvhoi9umDws0QmG+X7exutJMuBqZtwnS8eA0gBIvJP5vhDl7taOaagBuypW7OgLCzKBh8UUADsaK6J4c44XmtlLjOQMDCPrmzxgRNczz/M8OGadEFBZFlH1IwUQby2wbK50cwVeqhvVFR3Xyf2T2QcsHFpOZQ7XOn49MAUvnxVn0sFsJa2Bo96b7eqwqgOUXzjx+vP6SSmTQAkscvW1a9vRJq5x+1BNwUzs19SCR91VTqSQnRcolfO8+pNBaI1zPNVznkWzew0JZv/snILPfyyfloWg==;gSzyGgPtAcMjcQ/s9QAAvg=="
 ---

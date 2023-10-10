@@ -2,6 +2,615 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-09-20-spear-phishing-vs-phishing-whats-the-difference.md",
+      "title": "Spear phishing vs. phishing: what’s the difference?",
+      "excerpt": "Learn what sets apart a spear phishing attack from a bulk phishing attack—and how you can better protect your organization against these threats.\nThe post Spear phishing vs. phishing: what’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
+      "originalUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/181015_Bohler_WorkingWorld_1122.jpg",
+          "width": 2389,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics.md",
+      "title": "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics",
+      "excerpt": "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly",
+      "sourceUrl": null,
+      "webUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
+      "originalUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hoteltechnologynews",
+        "domain": "hoteltechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-google-deepminds-ai-tool-could-pinpoint-our-genetic-faults.md",
+      "title": "Google DeepMind's AI Tool Could Pinpoint Our Genetic Faults",
+      "excerpt": "It’s becoming increasingly clear that scientists are only scratching the surface of what artificial intelligence can teach us about human biology and disease. Case in point: new work by Alphabet's AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-09-20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-09-20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch.md",
+      "title": "AI-Infused RPG Studio Spectarium Raises Over $5 Million, Eyes 2024 Launch",
+      "excerpt": "Spectarium aims to harness the power of AI to offer a TikTok-style individualized approach to the action RPG genre.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/",
+      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650a0570b6f293d0c40c8740/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/amp/",
+      "publishedDateTime": "2023-09-20T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-artificial-intelligence-and-the-boardroom-immediate-action-items.md",
+      "title": "Artificial Intelligence And The Boardroom: Immediate Action Items",
+      "excerpt": "For business leaders, AI is an unstoppable game-changer. It is the ability to improve productivity and performance and discover new products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
+      "originalUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650af1d514fa9125c2bba903/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
+      "publishedDateTime": "2023-09-20T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-artificial-intelligence-and-the-boardroom-immediate-actions-items.md",
+      "title": "Artificial Intelligence And The Boardroom: Immediate Actions Items",
+      "excerpt": "For business leaders, AI is an unstoppable game-changer. It is the ability to improve productivity and performance and discover new products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/?n=_Z%5CK",
+      "originalUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/?n=_Z%5CK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650af1d514fa9125c2bba903/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
+      "publishedDateTime": "2023-09-20T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall.md",
+      "title": "3 AI Chip Stocks That Should Be on Every Investor’s Radar This Fall",
+      "excerpt": "Nvidia’s (NASDAQ: NVDA) dominance in 2023 on the emergence of its AI chips has investors seeking the next AI chip stock that can provide similar returns. Pretty much every tech firm and every chipmaker is addressing the opportunity in some form or another. This has led to the rise of AI stocks to buy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
+      "originalUrl": "https://www.nasdaq.com/articles/3-ai-chip-stocks-that-should-be-on-every-investors-radar-this-fall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m.md",
+      "title": "Corti, an AI ‘co-pilot’ for healthcare clinicians, raises $60M",
+      "excerpt": "Artificial intelligence continues to be a major force in the world of healthcare, and in one of the latest developments, a Copenhagen startup called Corti has raised $60 million to expand its contribution to the field: an AI assistant designed to support ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/",
+      "originalUrl": "https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-edtech-plus-ai-whats-going-on-and-whats-next.md",
+      "title": "EdTech Plus AI: What’s Going On And What’s Next?",
+      "excerpt": "Recent developments in AI may change education as we know it, and while you’re reading these lines, it’s already happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/20/edtech-plus-ai-whats-going-on-and-whats-next/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/20/edtech-plus-ai-whats-going-on-and-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6509c64aa864cfa91459e643/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/20/edtech-plus-ai-whats-going-on-and-whats-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/20/edtech-plus-ai-whats-going-on-and-whats-next/amp/",
+      "publishedDateTime": "2023-09-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-ai-robotics-southern-asia.md",
+      "title": "AI Robotics - Southern Asia",
+      "excerpt": "The market size in the AI Robotics market is projected to reach US$370.40m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.52%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment.md",
+      "title": "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment",
+      "excerpt": "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
+      "originalUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
+      "publishedDateTime": "2023-09-20T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-why-generative-ai-must-be-transformative-not-just-innovative.md",
+      "title": "Why Generative AI Must Be Transformative, Not Just Innovative",
+      "excerpt": "If we can help SMBs understand the right use case for generative AI and get it into their hands at scale, it’ll be transformative. Early wins in AI, in general, have provided big wins—so we push onward into the newest techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/20/why-generative-ai-must-be-transformative-not-just-innovative/amp/",
+      "publishedDateTime": "2023-09-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.md",
+      "title": "Infosys expands pact with Nvidia, to train 50,000 on chipmakers' AI tech",
+      "excerpt": "The alliance will bring the Nvidia AI Enterprise ecosystem of models, tools, runtimes and graphics processing units (GPU) systems to Infosys Topaz. Through the integration, Infosys will create offerings customers can adopt,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103810911,imgsize-18970,width-1200,height=765,overlay-ettelecom/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/infosys-expands-pact-with-nvidia-to-train-50000-on-chipmakers-ai-tech/103810911",
+      "publishedDateTime": "2023-09-20T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-the-financial-costs-of-deep-learning-what-businesses-should-consider.md",
       "title": "The Financial Costs Of Deep Learning: What Businesses Should Consider",
       "excerpt": "The moral of the story is that businesses shouldn’t buy into the hype around LLMs and start using them without identifying business problems.",
@@ -518,642 +1127,6 @@
         "AI in Finance",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-startup-speeds-up-the-creation-of-climate-resilient-crops.md",
-      "title": "AI startup speeds up the creation of climate-resilient crops",
-      "excerpt": "Avalo is betting its machine learning models can speed up the process of creating climate-resilient crops, and make it way cheaper too.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/",
-      "originalUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/avalo.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/",
-      "publishedDateTime": "2023-09-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-you-and-ai-techs-role-in-the-world-of-health-care.md",
-      "title": "You and AI: Tech's role in the world of health care",
-      "excerpt": "“Artificial intelligence, it can be a great friend, but it also can be something that can harm us,” said Dr. Marshall Chin, Richard Parrillo Family Professor of Healthcare Ethics in the Department of Medicine at the University of Chicago. Chin is an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/",
-      "originalUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcchicago.com/2023/09/web-health-ai-9-19.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1",
-      "publishedDateTime": "2023-09-19T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Chicago",
-        "domain": "nbcchicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-tiktok-to-more-clearly-label-videos-that-are-ai-generated.md",
-      "title": "TikTok to More Clearly Label Videos That Are AI-Generated",
-      "excerpt": "TikTok is creating a new set of labels for videos that use AI and says it improved its algorithm when it comes to automatically tagging videos as AI-generated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated",
-      "originalUrl": "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04SY1CQxofUAEiWDQdOHbxU-1.fit_lim.size_1200x630.v1695160604.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-facial-recognition-market-size-report-2023-2031-124-pages-report.md",
-      "title": "Facial Recognition Market Size Report 2023-2031 | 124 Pages Report",
-      "excerpt": "Global \"Facial Recognition Market\" offers a detailed Report of |124 Pages| which is expected to witness remarkable growth in the coming years. The implementation of new technologies and innovative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study.md",
-      "title": "Telling AI model to “take a deep breath” causes math scores to soar in study",
-      "excerpt": "Rather than relying on formal mathematical definitions to perform this task, OPRO uses \"meta-prompts\" described in natural language to set the stage for the optimization process. The LLM then generates candidate solutions based on the problem’s description and previous solutions, and it tests them by assigning each a quality score.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/worried_robot_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
-      "publishedDateTime": "2023-09-19T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-5-ways-to-incorporate-ai-into-your-career-plans.md",
-      "title": "5 Ways To Incorporate AI Into Your Career Plans",
-      "excerpt": "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
-      "originalUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650a0df6c94fbefd10bba901/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/09/19/5-ways-to-incorporate-ai-into-your-career-plans/amp/",
-      "publishedDateTime": "2023-09-19T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-health-care-flat-amid-inflation-bets-health-care-roundup.md",
-      "title": "Health Care Flat Amid Inflation Bets -- Health Care Roundup",
-      "excerpt": "Health-care companies were more or less flat as traders sought out sectors less susceptible to fears about interest rates and inflation. Drug",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-flat-amid-inflation-bets-health-care-roundup-fb62ad65",
-      "publishedDateTime": "2023-09-19T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.md",
-      "title": "TikTok is launching new tool that will help creators label AI content on the app",
-      "excerpt": "In its bid to curb misinformation, TikTok said on Tuesday it will begin launching a new tool that will help creators label AI-generated content they produce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107089484-gettyimages-1241770681-RAFAPRESS_06072022-01580.jpeg?v=1695157186",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/19/tiktok-is-launching-new-tool-that-will-help-creators-label-ai-content-on-the-app.html",
-      "publishedDateTime": "2023-09-19T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform.md",
-      "title": "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform",
-      "excerpt": "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
-      "originalUrl": "https://insidebigdata.com/2023/09/19/sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2023/06/AI_shutterstock_2287025875_special-1.jpg",
-          "width": 1100,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech.md",
-      "title": "Project Gutenberg puts 5,000 audiobooks online for free using synthetic speech",
-      "excerpt": "They come from various sources, often error-ridden optical character recognition processes ... the team has put together multiple machine learning and synthetic speech tools that have improved and become more accessible over the last few years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
-      "originalUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1397220250.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/project-gutenberg-puts-5000-audiobooks-online-for-free-using-synthetic-speech/amp/",
-      "publishedDateTime": "2023-09-19T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers.md",
-      "title": "Google’s AI assistant can now read your emails, plan trips, “double-check” answers",
-      "excerpt": "On Tuesday, Google announced updates to its Google Bard AI assistant—its version of ChatGPT—including integration with Google apps (such as Gmail, Docs, Drive, Google Maps, YouTube, and Google Flights) and a feature to double-check Bard's answers against web content. It also added language support for over 40 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/truth_telling_robot-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/googles-ai-assistant-can-now-read-your-emails-plan-trips-double-check-answers/amp/",
-      "publishedDateTime": "2023-09-19T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform.md",
-      "title": "SambaNova unveils new AI chip to power full-stack AI platform",
-      "excerpt": "SambaNova Systems unveiled a new AI chip, the SN40L, which will power its full-stack LLM platform, the SambaNova Suite.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/sambanova-unveils-new-ai-chip-to-power-full-stack-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/SN40-Launch-PR-2.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets.md",
-      "title": "Generative AI and multi-modal agents in AWS: The key to unlocking new value in financial markets",
-      "excerpt": "Multi-modal data is a valuable component of the financial industry, encompassing market, economic, customer, news and social media, and risk data. Financial organizations generate, collect, and use this data to gain insights into financial operations, make better decisions, and improve performance. However,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/08/Picture1-6-1203x630.png",
-          "width": 1203,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T09:23:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

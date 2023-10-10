@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-10-leveraging-fintech-and-blockchain-innovations-in-finance.md",
+      "title": "Leveraging Fintech And Blockchain Innovations In Finance",
+      "excerpt": "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648c692be04ec815a53b363e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/",
+      "publishedDateTime": "2023-10-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future.md",
       "title": "AI and data: Honing hyper-personalization to build the bank of the future",
       "excerpt": "This bank is using AI and a surfeit of information to create personalized experiences for its customers -- and there's much more to come, too.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -150,7 +202,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1329,41 +1381,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-the-3-best-machine-learning-stocks-to-buy-now-september-2023.md",
-      "title": "The 3 Best Machine Learning Stocks to Buy Now: September 2023",
-      "excerpt": "Machine learning has been the stuff of science fiction for longer than most of us have been alive. The 20th century was filled with stories of robots who could think and feel just like us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

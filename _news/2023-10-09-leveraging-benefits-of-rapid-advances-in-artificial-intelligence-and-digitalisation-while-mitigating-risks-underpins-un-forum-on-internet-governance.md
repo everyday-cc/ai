@@ -7,7 +7,7 @@ originalUrl: "https://www.un.org/sustainabledevelopment/blog/2023/10/leveraging-
 webUrl: "https://www.un.org/sustainabledevelopment/blog/2023/10/leveraging-benefits-of-rapid-advances-in-ai-and-digitalisation-while-mitigating-risks/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2048
     height: 1293
     isCached: true
+
+related:
+  - title: "Fintech’s Resilient Ride to Spur Digitalisation Despite Recession, Banking Crisis"
+    excerpt: "The world has undergone significant changes since the onset of the pandemic, especially in the financial industry’s journey towards digitalisation. The pandemic expedited the transformation of custome"
+    publishedDateTime: 2023-10-10T09:41:00Z
+    webUrl: "https://fintechnews.sg/78684/sponsoredpost/fintechs-resilient-ride-to-spur-digitalisation-despite-recession-banking-crisis/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/10/Fintechs-resilient-ride.jpg?x41783"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "FE7CYRGpzCxvFq0SW6RRy8lRurE1f2fr8wSpTSCMPoAzR9gDJTSzoojfNrK1/2Ib+3SfrvFHN+RbCZi7KVpEr9l7qT8N+QXyGqL/fvmB+MUqf4i4dOIEDBsQFJsbHvn35IbBnMaKse91jm8Sq2552RF8gxk8epRStgfG0U1yco/297OOQgkzsHnMv89dI/LsJGVu/ZW2/y5MYIdY5y+vOXDWrIBHte4DreBqO0tRIFRLo9T43t95oZYRyvpATcJxEyUocaZTfotpYSxF/CFBJi1YezvkdPfkCD3WggYWo1l5TPUrM3pO4XHTo5VHRhT7TC1jn+vPDceF+EzhFN5dRUHf1Rt1YRZUQStRiQMUI1K2HHXMK37jzaXuI2a7Z5c/D8k63u4DnG/oVua15KyLoGQQuzPEhNrzvEb0rDlxqvY+e4uvCo7KlntBQ4K3VZpTHSsSolRg387otRZKUKbdU9jlM3ugZsPS18KvxhhrcMZBeJkl3k5UDNNYyc/An4/unt98m0rC864tVcTzNOT1Ng==;V+SfV1Isfz4cP+MrdxPI7w=="
 ---

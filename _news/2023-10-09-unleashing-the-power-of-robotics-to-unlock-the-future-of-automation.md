@@ -73,15 +73,6 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 19
-  - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
-    excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
-    publishedDateTime: 2023-10-05T18:36:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/ais-tectonic-shift-blueprint-ai-integration-modern-enterprise-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "ooFP1sxQxILhVmWAmSivoIfJnGUJLb5HT4BeyeOkVumMsyS3O4VIYaazcOX7ki77ixXmzJhhmUdgfbpXVyckHTZNkijCnc2CNkMDNKA0tfYxQw6RCvG6ZFaA4tmFC4lcZmtH1O11YFVI3Zk1nYKfKFFsBwMN52JKS04pVfHy8ULcgW02TpRqRv5ddbHRcDXon45cWWMrDVl5j2hphS775dAKCUAh8evBGgzMjbBhMDnWs/7X06ICjzDmXfT5L4mXJVQZ1vXyl1WiTxZOWVP26I/j17sQRg9KFXbABYaXZrZijWqCCef7c4L/4rMotVQlNCLm0UzoNAG2UAhlS7b6KPUG8LnImiWnIVBR8Vx8sjog8Ez8bc5HoUDk5xHM6sp1/IVyaDEg2brsoGKtyiybTY1vSJYDsTkG4wUof7UBQJe2rJYxjAJyQq3+8wOF5FyXGeqML+XqSP0OWqz8bLN1ncitmI1W/ieGUSi25Et4uE1aqr9zqK6oEGQ8Env29zXMMXoq3mWTIn2txuvGZGzGCQ==;BXNxPYeeRm9SY6fcazn6Jg=="
 ---

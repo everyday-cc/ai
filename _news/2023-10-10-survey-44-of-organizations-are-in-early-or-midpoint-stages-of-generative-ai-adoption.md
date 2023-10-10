@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-09T20:30:00Z
 originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
-quality: 61
+quality: 65
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"

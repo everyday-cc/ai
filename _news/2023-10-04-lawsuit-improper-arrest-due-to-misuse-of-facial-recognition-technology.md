@@ -3,27 +3,25 @@ category: news
 title: "Lawsuit: Improper arrest due to misuse of facial recognition technology"
 excerpt: "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers."
 publishedDateTime: 2023-10-04T11:14:00Z
-originalUrl: "https://6abc.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
-webUrl: "https://6abc.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+originalUrl: "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
+webUrl: "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://s.abcnews.com/images/US/randal-quran-reid-ht-lv-231001-3_1696373387776_hpMain_16x9_608.jpg?w=1600"
-    width: 608
-    height: 342
+  - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "I7FsrkFBtaKaeh0Ju06RSikzY7rnaIkb3lwdvLhr9R3zSM+q0NFA40VpvQvJUfKVdf8SkO5zrBeVscN5s+h3GWL06yNDOvyLYdwPos8M1viO5mgFOaAA+I+55c0IcNlCggOG4Xm17WVUkBITIxElpXAMEItB8BvXJAi3FOgBTkejQQpNzMPFKqKDeDAf5QyKvR+JAhDXXC+2syzevL9J9BcHCDlYMJWEGu1ZpvbHw3GpUnuFScZWEHSuEvRkW6wf8kEHHsK7MtF88RxHhZ6n4Nsu55Fg6mPlV1MOdO7XUm97HveU3rG2q+4WcCAVuHsje7A3LKJQ84GijU03wTZSFydpi+f/OF9HY/dV1boFt2o=;jB2Ry/YdRCATs/3aTETCaA=="
+secured: "Saw/IAvbabHePMaMhx58kdz2Z3mSyJmepNIGuDH3uM1PTDQaWHBiFVa9NSYIAB9XcdFr/K4ZFTOesYXtFvFchxD0swKQmLmmBndidTf9WTPQUXiE/bm0iblgEm3QsL9R0GljcGqoesf7GOSnboo8F0y7pKVh9Hg1sTdZBJaKIu4rVAmqRxE2RrvVnqeV0o0THQiqCq4Cfl6GTNwnEUh61s3A5gVbNucwTZ902wbNmUGOLqXyO+CxXDmHrx1nTguSK1/sqImx/57C6P9NCtYvsLVjBVBisJjUjNTikvxaHp0Ea8hiXvEIiGVQ3HP4qBISEFanfY9KpHeds7p3wGiSz6i9oR38PDYw9sXgwCKr3gQ=;iMJ9HShh5DtQmPC/XGRoAQ=="
 ---
 

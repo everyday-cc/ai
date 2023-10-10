@@ -2,17 +2,17 @@
 category: news
 title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
 excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
-publishedDateTime: 2023-10-09T23:00:00Z
-originalUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
-webUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+publishedDateTime: 2023-10-09T18:01:00Z
+originalUrl: "https://abc7.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+webUrl: "https://abc7.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - Natural Language Processing
@@ -87,6 +87,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "P4gno0Zy3qcNmsJZcS7FRiArmHZu/KULe8Wor1jiG+RFL/4qKQnT2OICE8nsbxLzYygM/tqave/ZpGjeinbu4LCxhWiW7tupJ2MzComBkAQ8Ays5CTob7K+HwuA/ByGFMs/Z57D9TUd1Bdm7aalArmzAsI+uBrHmkcX95fOKsJQCffsLagRT1MkQDmHyLLZhUmFIqX6fG5/rjGlZz+IoMFVxDSuT/OBoinsPD3CjkQxRc57v+rhWTC+iBuCDltD8RiR0AbJZD41jctYDuwNZ6b3Qv+B2gB6UDm7al1Zwj3O/Gy6iVeUYizq4zL5/nsKYbd+dhVfiENwyyVTy6ZJsaNebvRZbQEfgZo6k406Ye7c=;wgwVO8+rGK5Qh5jgo/SRcg=="
+secured: "gg/zXtD4ROmv0/ysBRUwptvLHK1L9Qq9UGrivMh66w+jAcFCKtNdoraz3hce4qDWXTrIZhZu7ooifAKJ8ZAPka3biFEaCAim0Z7W5CGxghgnGJrMKIxS7cpEmSNN1MG+buF87NjTe/tS8FLuWFwgiVgp/DcVTt1ucxVBBnjDFRSuhdDjrEnE2VuvAHOBeF2zxWaiNsRQ8Tuyu+5JVeFYZoD8PJaWjslAEmCuu+izsHgf9Py6Arps+tvX42feIQlFW6rmUFPMTUFc1hWVEn4js/n9WZWNWcwuPegeWtmpiE5yPMOS3yW6tTIgRbsO432uBKI6POF+C7NXjg7Fc17P1mNL7BaV9bm/VAXA7FVI9xE=;C5Bg4hifCD3WJpa3+qcpDA=="
 ---
 

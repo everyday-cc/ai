@@ -75,7 +75,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 61
+    quality: 65
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
         width: 1400

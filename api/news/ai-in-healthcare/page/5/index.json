@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-04-artificial-intelligence-is-changing-the-way-mercy-delivers-care.md",
+      "title": "Artificial intelligence is changing the way Mercy delivers care",
+      "excerpt": "Together with the Mayo Clinic and three recently announced health care organizations in Israel, Brazil, and Canada, Mercy has entered into a partnership in which it will use artificial intelligence and de-identified patient data to try to improve outcomes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "originalUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Best BBQ in St. Louis",
+        "domain": "stlmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029.md",
       "title": "Artificial Intelligence In Healthcare Sector Market Status and Outlook 2023-2029",
       "excerpt": "The Artificial Intelligence In Healthcare Sector market report highlights information regarding the current and future industry trends, growth patterns, as well as it offers business strategies to ...",

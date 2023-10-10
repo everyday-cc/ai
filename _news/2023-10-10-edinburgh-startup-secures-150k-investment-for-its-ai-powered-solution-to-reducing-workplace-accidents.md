@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2023/10/10/edinburgh-startup-secures
 webUrl: "https://bdaily.co.uk/articles/2023/10/10/edinburgh-startup-secures-150k-investment-for-its-ai-powered-solution-to-reducing-workplace-accidents"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Danish startup secures $2.4M seed to revolutionize sustainable procurement with AI-driven platform"
+    excerpt: "Copenhagen-based startup Responsibly has secured $2.4 million in a seed funding, with leading investments from Hambro Perks and Pi Labs, as well as support"
+    publishedDateTime: 2023-10-09T06:47:00Z
+    webUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 23
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/responsibly-raises-2-4m-seed.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KzEeODrOGE4EUQAajG/WY2eHa0jqI25fBX3RUFr+5ZXKb4jpohz9wgS/6bNJUJsq/C1txwxW1vYzguRGku5niZ//FmyN6dcTz/HUAvoyT9Gv1HBVaERFunzwS26Vya4pUy8Z3kZRYL9L/QTprSyi/mlYedN7uYxW+bawcEvpws25h+bFC48e9Od5ZYhOE7+TfGS60XLMBMXky43zzTtwjzHLYKbr0wmQ8gE6EXIltfUQ4PjKe2nwPi1XMd06QbzfwGs0MY7hfFlL9sSfmK/9QL0mRED9Ojm0/rNrMTdFaTE2aY290Z9VfprMdAjTZCU9B9vJIGTGh8iFVpDtKez5qJrnSBrxMWgMpnOgbI6SwGM=;BovR4B4A2VvU6DqLawC3Lw=="
 ---

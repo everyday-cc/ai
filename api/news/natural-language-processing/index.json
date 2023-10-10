@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -382,6 +382,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-technology.md",
+      "title": "Lawsuit: Improper arrest due to misuse of facial recognition technology",
+      "excerpt": "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
+      "originalUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1137,6 +1181,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-voice-and-image-recognition-added-to-chatgpt-openais-exciting-update.md",
+      "title": "Voice and image recognition added to ChatGPT: OpenAI’s exciting update",
+      "excerpt": "Many individuals enjoy interacting with ChatGPT for various purposes, whether it's for playful experimentation, acing college",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabtimesonline.com/news/voice-and-image-recognition-added-to-chatgpt-openais-exciting-update/",
+      "originalUrl": "https://www.arabtimesonline.com/news/voice-and-image-recognition-added-to-chatgpt-openais-exciting-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/10oct-310x205.jpg",
+          "width": 310,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arab Times",
+        "domain": "arabtimesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues.md",
       "title": "Spotify AI-Powered Translation Tool Has Podcasters Speaking in Global Tongues",
       "excerpt": "The Spotify pilot program called Voice Translation for podcasts not only translates a podcast from one language to another but will retain the podcaster's voice as it does it.",
@@ -1307,92 +1394,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-is-testing-ai-powered-podcast-language-translation-which-mimics-the-podcasters-own-voice.md",
-      "title": "Spotify Is Testing AI-Powered Podcast Language Translation — Which Mimics the Podcaster’s Own Voice",
-      "excerpt": "Spotify is testing out a way for podcasters to reach listeners in different languages ... AI-generated translations into Spanish, below.) Other shows Spotify expects to include in the voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/spotify-testing-ai-powered-podcast-120000390.html",
-      "originalUrl": "https://www.aol.com/finance/spotify-testing-ai-powered-podcast-120000390.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-chatgpt-can-now-talk-to-youand-look-into-your-life.md",
-      "title": "ChatGPT Can Now Talk to You—and Look Into Your Life",
-      "excerpt": "using image or speech recognition, so the chatbot can generate a response. The app then responds via either voice or text, depending on what mode the user is in. When a WIRED writer asked the new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/650e03b8051fc1c1176d09dc/191:100/w_1280,c_limit/ChatGPT-Can-Now-Speak-And-See-Business-530901253.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -33,6 +33,15 @@ related:
         width: 600
         height: 331
         isCached: true
+  - title: "Google encourages entry of AI into healthcare: Here’s all you need to know"
+    excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
+    publishedDateTime: 2023-10-10T10:55:00Z
+    webUrl: "https://www.medianama.com/2023/10/223-google-ai-healthcare-all-you-need-to-know/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 34
 
 secured: "6/xPlu3ZYX4dF1rk6g4DwBHFtLabx6vsCdHeQx9HzPZDT5UlQUEjWmbMpLy7AZKt3pdvj/6OoohfOmCpcdhUiE6DbmEjhm4Eo5GXlQ4Hn3gj9nWDSawdo2kqKeUjHYjaxLHh7xs2TQw6q1xk5iL4jVawfZcG0tdAqrmfQ+fx+apXrQK7ShC3uKO4UFuBIuVO1ST2xK+YgA6dGTYKz62KQAo1IMmKmTQEC0ZuFpYsWeWyWBq0oCy6BKb2rLDxxnVU2Yf80AVRwQA89iMbYflvNGQXfx+baQ8sRBbdXAhNTg7YkJFFmMXJ7MHU/XNXtSX6ZOg0f3cAEcmLwFzT/XC1kKVIpmYBeG8xxh0cF7eNaBY=;vixK012c24BK/ne1ptnoZg=="
 ---

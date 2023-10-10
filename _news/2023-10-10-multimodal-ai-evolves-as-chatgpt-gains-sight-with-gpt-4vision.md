@@ -76,28 +76,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 43
-  - title: "3 ways AI is revolutionizing how health organizations serve patients. Can LLMs like ChatGPT help?"
-    excerpt: "Machine learning and AI are transforming medical treatment involving functionality, diagnostics, and more. Meanwhile, large language models -- like ChatGPT -- are still in the early stages."
-    publishedDateTime: 2023-10-05T18:51:00Z
-    webUrl: "https://www.zdnet.com/article/3-ways-ai-is-revolutionizing-how-health-organizations-serve-patients-can-llms-like-chatgpt-help/"
+  - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
+    excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
+    publishedDateTime: 2023-10-10T11:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03144-w"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
-  - title: "180 Degree Turn: NYC District Goes From Banning ChatGPT to Exploring AI’s Potential"
-    excerpt: "A new lab created by the school system aims to help districts around the country find a smart approach to a rapidly evolving technology."
-    publishedDateTime: 2023-10-05T18:32:00Z
-    webUrl: "https://www.edweek.org/180-degree-turn-nyc-district-goes-from-banning-chatgpt-to-exploring-ais-potential/2023/10"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 33
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/69fd961/2147483647/strip/true/crop/1720x1147+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F14%2F25%2Ff1427b6e4f08bed127c09c0fede4%2Fhuman-ai-handshake-102023-1466280758.jpg"
-        width: 945
-        height: 630
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "180 Degree Turn: NYC Schools Goes From Banning ChatGPT to Exploring AI’s Potential"
     excerpt: "New York City Public Schools will launch an Artificial Intelligence Policy Lab to guide the nation’s largest school district’s approach to this rapidly evolving technology. That development—announced Oct. 4—is quite a turnabout for a district that ..."

@@ -2,19 +2,19 @@
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
 excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-27T20:45:00Z
-originalUrl: "https://www.centredaily.com/news/business/article279840919.html"
-webUrl: "https://www.centredaily.com/news/business/article279840919.html"
+publishedDateTime: 2023-09-27T20:44:00Z
+originalUrl: "https://www.heraldonline.com/news/business/article279840919.html"
+webUrl: "https://www.heraldonline.com/news/business/article279840919.html"
 type: article
 
 provider:
-  name: Centre Daily Times
-  domain: centredaily.com
+  name: The Herald SC
+  domain: heraldonline.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "B5Pb/+GCsv/6d0GM+1tTwYAduya3R4eyurVHIKWGt9jV/GFsFY2OD7ydO+EiEz32xLT4G+8WxZzpwcNzD4Qx6IeNNxFhNqvlF7wtMUp1u69SEJ9CuJnaUQp0G/Pa/rx2uO7UywtbdenVTYyLUvBBah0qzUStSy4cmxoV5z1Ty+Y8vrP2ZbpEd9YOH8PwbOSM1df2+w+530Vy30fLub/eScAYfwR84UBe83AhBzrq+mBodb+2ZfNryWXMh227/0+3vlpRUNgOkasJqaEwAJl5/1LHbYWqEZxbPvrCiDxUEEtXWIq1V3eYSUGRkCvIQu94qW+LTM7qy+pvi9QBrUE0MG3Kg3KXOJNuhXqWEpKKm3c=;n6TznveYoL+kD+GfX2yFOA=="
+secured: "d0MfBjyRKn+aYBxQx5ei0FwhNSS2JZ18o8S3LWE+sXDkrDztJJ/brR/reXzpMEX3FqIUHKGInohR7zrhOmQ7fhu1nlnv9u6ZB3XOQvATiH/rzhR6eBmnmbpYrs0J80fUAgSdXb/Mp/R5V6oIH4TCnVUAqx7kle4dBXQVnjygkMXhkGNXhkUc9hf6Ug8a9Gx4lJXuYPs0EkovL5ssSXNymBfdEX+GTksBJGcoCUeivOCjp9inV1TNSLaxEOs0V2sT+2fBWvotRhO2EPwMEBh4Y4fblK48MeIFddTsanJTMAFQ3V7P864X8yrjE80zvxlipqyOAdRQ2BCr7MLQ6O8YQbiRKdNK5Hr78E9Q8xP0n3A=;oUQhEfmepjH0A+Zt+uNYMQ=="
 ---
 

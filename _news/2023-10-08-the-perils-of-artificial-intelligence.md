@@ -40,6 +40,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The future of augmented reality is AI"
+    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
+    publishedDateTime: 2023-10-10T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9wz3QYn3WJFpbwWbqzRhBJW5XYt5/eohhWVlbd/xsu0MC7KvTcLtK2MRTUyHyh/dTxwX3SniAM4vmWeqr3L+ONfpMP8iNxa52t+sYQaxZQM0nhe37gHf3krKh6SvJHu1M63y9kddQ584IUFEfoIwBhWTB8VIi/dzdfkRrsxV+SMWIpKwfSNaFcimKoCLrGaKBN8PGvayPNeaFu/Eh6PWMKP1BFhM27Me4BHLjcbxVIv9e6RQLFQz7eR9hTH6farwaHCWKCZ7yK2AZwIVTzgK6L74jcBjQj6njnmfFLIRMHA30Zj22Z8a+eWKGVE3ctxKyzZm7ABBTPuoNOhd9aHGqtHgbj+11Lyy/FhzbhR0AWA=;Z6O5tuUalunWDX3hMXPI4g=="
 ---

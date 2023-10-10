@@ -68,6 +68,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Dubai Assembly for Generative AI kicks off tomorrow"
+    excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
+    publishedDateTime: 2023-10-10T10:20:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
+        width: 636
+        height: 424
+        isCached: true
   - title: "Why Generative AI Will Help And Not Hinder Human Connection"
     excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
     publishedDateTime: 2023-10-06T13:30:00Z

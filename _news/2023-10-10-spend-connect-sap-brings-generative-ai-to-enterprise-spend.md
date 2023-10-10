@@ -72,15 +72,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
-  - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
-    excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
-    publishedDateTime: 2023-10-05T18:36:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/ais-tectonic-shift-blueprint-ai-integration-modern-enterprise-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "TUtQl4t6jvUFSj03TMbWDUMF6CaO+7OSgFAcm4oYdyrsx+bsnn1gLE4cPoF26wtUyjNSqGJGUa6Dy6FNA8AdnjpE6o81Gps2JtwaLWPMzmSsG9+X/wMYFydKS4XStlp2hAB+GXHBE3d7r3dJimPNQi2wP4EuKr4qbQTBAgQuAMMKH93onSJk8ApCnLBnssIWiCMgO7JLLjdXiSJtT3+YFolKFfYYrbfGnr/eIxVGeqCezDXm0zMpKAihwRfeo68M7I+SsztP6/l/jlc5fKivXXg6q/OgMmhhoACqojUlyB4Qc+aXuT/++vxTL4lAMGA2ZrbvmSrM8GFOv8hwKnjRZreX8tHy6lXyL/NxhxBk1JSsTdGcgySBmSNl6NOCp27StkPhLD7Am6CEaPndsMV/TVX947s9uO2OG/oR+5zjZtZ6huQCTRNPsxwL5gCno+NHPbGswZWUQbsbULFGDQEnu1PhKhgJVv72vvM5mDwYpUSFcv/f9kqwpRg2Um1L6IqB7U75iW3h+ZKxtNEcUcDjTA==;c9VxyzVq5CPzJ787DAHVJw=="
 ---

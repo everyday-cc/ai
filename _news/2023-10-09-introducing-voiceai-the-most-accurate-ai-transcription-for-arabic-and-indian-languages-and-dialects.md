@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing"
-    excerpt: "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),"
-    publishedDateTime: 2023-10-05T17:17:00Z
-    webUrl: "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg"
-        width: 2880
-        height: 1617
-        isCached: true
   - title: "Arabic-language AI breakthroughs pave the way for linguistic diversity"
     excerpt: "In recent times, the world has witnessed the rise of large language model AI platforms like Chat-GPT, which have garnered"
     publishedDateTime: 2023-10-06T20:32:00Z

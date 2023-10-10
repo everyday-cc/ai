@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform"
-    excerpt: "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility."
-    publishedDateTime: 2023-10-06T02:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/"
+  - title: "Leveraging Fintech And Blockchain Innovations In Finance"
+    excerpt: "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers."
+    publishedDateTime: 2023-10-10T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
-        width: 1280
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648c692be04ec815a53b363e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Raleigh based AI startup closes on $7.5M in new financing"
-    excerpt: "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020."
-    publishedDateTime: 2023-10-05T17:45:00Z
-    webUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/"
-    ampWebUrl: "https://wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/05/raleigh-based-ai-startup-closes-on-7-5m-in-new-financing/?amp=1"
+  - title: "Forefront Finance: Revolutionizing Banking With AI and Blockchain Integration, Secures $160 Million Seed Investment From Cyberdyne and Stabila"
+    excerpt: "Forefront Finance, the pioneering neobank at the forefront of innovation, is proud to announce a game-changing development in the world of digital banking. Through strategic integration of Artificial"
+    publishedDateTime: 2023-10-09T22:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35152596/forefront-finance-revolutionizing-banking-with-ai-and-blockchain-integration-secures-160-million-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35152596"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35152596"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/aampe-e1696527952618.png"
-        width: 477
-        height: 306
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
     excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
@@ -73,6 +73,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
+    excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
+    publishedDateTime: 2023-10-10T06:08:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/budget-constraints-are-holding-back-fintech-innovation-finds-report/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/10/Harry-Stahl.jpeg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
+    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
+    publishedDateTime: 2023-10-09T13:30:00Z
+    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
+  - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
+    excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
+    publishedDateTime: 2023-10-09T11:54:00Z
+    webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 4
 
 secured: "gjyo/QV/QKb+TQdZhnT1iohOeioQEG7qDV/HMTEbOsVEHkGJxZNo0/MuuG82VrdC/hvAwg+I4YfGd9g85P5JdqW3CFjfuwd6plgWD9RW805Ru/0fkTBo/+4VKPyqRbiH5YCFePglxTP/rgbnfqnKZ8Q6vXf2JG+tAOs4pVFH86vD5I1fRRBhHliIggpJ4GtJMkdWbpzD++r/jRucW+invGrNA71R354SlPwT017eEO26hpMgO2rDJYTKCfmd7DtCZQwCLclUfr9d0YeaA5pb5WN9LIJeD7jouZ+G/s/18fTclMwCSvN0MCTOXNBbmnF/ip3ZyiCTT3M/Do0eNls6L5g8goWLITc0dXJZ18bFDgMaZ5MbzInDwnpNoqaNI/d0cRccKwDsZAzNJ/G3/J1+PzEuAjqdXGwGip7xMuxX6YMOsN6XmA+guNNFzWbiJcP7UspzHHvvFYDCAooXn8lnYE6htDKxy6X8mbh9+ZHVexAhdoZEisVsRO/S21fY4CpRZdiE6+/ZAQLR6TlnYDB4Yg==;l+XcH7dHUn7TBY9SBOULyg=="
 ---

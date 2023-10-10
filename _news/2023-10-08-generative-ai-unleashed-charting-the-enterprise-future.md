@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 19
-  - title: "AI’s tectonic shift: A blueprint for AI integration in the modern enterprise"
-    excerpt: "Companies need to learn about AI and restructure their management accordingly, before its advances overwhelm them, McKnight. “If we don’t start getting in front of that, it’s going to hit us like a ton of bricks in the future,” he said. When asked ..."
-    publishedDateTime: 2023-10-05T18:36:00Z
-    webUrl: "https://siliconangle.com/2023/10/05/ais-tectonic-shift-blueprint-ai-integration-modern-enterprise-teradatapossible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "APzFm4HwY742ZgVqrB7aTrhCN5CAxEa+M1VDSTJvkiJOJUrgt8Vf1lwroi5cJXtjMxZAomJiLG4WzuLUuTgtugauCziW7Yb6zsJZPAC76t/XyZMeaoWWdQtpjD8DgSI2XbRdUhsFalM/N+UPruddmL06+FaCFQSlA/l7IxGEIuPW3RICgVyl0BAJdM5ezenrLUjzdqy4Kp5KwLopxcY6xRJtG79o6AnPkYOkJ86piiDs9WNvqf08//ma1p+SBAuGAac7JUBfJztUbITWLC7FsSG5mOd7w4UUqWX6qgd9VtyBwixBS93Fe5j0UccXutevHwFIriFQZMAgfxfP1giDK1aVudkXJXT07HJvh/J1Ypff5qNEvChizQhYPPAwrDoH23Dfb+eUvUefZX/awrQTRBTcGGsaTiK4YMgI8tjmhp6N7YM03alXZbWJfej/KN3QHgzt8SfCQfCN39yYVQTSEgzgDIpUU9bkX6R8BXkJazejntptQ1ROQ5GZnSdD7fu6Qx99wvPi5t0RhO5fuvx8Wg==;FYmjCyoDUNM2oJQVfuD76w=="
 ---

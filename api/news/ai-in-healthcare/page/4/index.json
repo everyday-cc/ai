@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-22-insights-into-the-evolving-landscape-of-computer-vision-in-the-healthcare-market-comprehensive-report-researchandmarketscom.md",
+      "title": "Insights into the Evolving Landscape of Computer Vision in the Healthcare Market - Comprehensive Report - ResearchAndMarkets.com",
+      "excerpt": "The \"Computer Vision in Healthcare - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The report offers a comprehensive analysis of the global computer vision in healthcare market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230822516945/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230822516945/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-19-thumbay-institute-discusses-ai-potential-in-healthcare.md",
       "title": "Thumbay institute discusses AI potential in healthcare",
       "excerpt": "The discussion focused on using data to understand disease patterns in ageing population, the associated costs, and how healthcare professionals can quickly turn patient interactions into clinician notes using new platforms.",
@@ -1319,40 +1354,6 @@
       "provider": {
         "name": "KGW8",
         "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-artificial-intelligence-is-changing-the-way-mercy-delivers-care.md",
-      "title": "Artificial intelligence is changing the way Mercy delivers care",
-      "excerpt": "Together with the Mayo Clinic and three recently announced health care organizations in Israel, Brazil, and Canada, Mercy has entered into a partnership in which it will use artificial intelligence and de-identified patient data to try to improve outcomes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
-      "originalUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Best BBQ in St. Louis",
-        "domain": "stlmag.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -71,15 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
-  - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
-    excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
-    publishedDateTime: 2023-10-05T17:28:00Z
-    webUrl: "https://www.koaa.com/news/covering-colorado/learn-from-and-connect-with-experts-this-weekend-at-bsides-cybersecurityconference"
-    type: article
-    provider:
-      name: koaa
-      domain: koaa.com
-    quality: 0
 
 secured: "2Z1WdvvhFUZWV5qywAdT++Z/Xf6fVf9N2hZ9HCqeuofVAOtnpx8VpwS/ra1PG3Ze4tfs05oaTQiELs7U4cTMSuccVxXrSrKitYT/uK+/iDuJVAPFiGYIPzpK43VEpFhIsxlSOL+wVIbbiYbo8Dp3R2Asf7O+nRc2Eb2jDw4X78Mb7KtWHVpRYoFccTKJf3p+YnGtPe+0kYEHXEHt74LAu3LJngreFruzvdReIggTNaoVGVxxMKFiosyEqD10ZIjjqWv3tH3o47pR3bhUKyzo6Ob94iU3FAheMP4rlVUmxlys7eLXJOqJWqQdBQj4ioEzjFvetepuzK1QnpLWWAKvYlnu2CT0JzF4B6m7h3LhOKAD87EjTAL2ArYZSEyJIZ0tsrTXCJQo93P9R07la+H9jBqyA/rbr4z/jZ7XQlSa4SOxu9i4PVK188NLfffvIAIVZQBkS9nn95p8p7oOlXIkgZVaKW/N+xVGri9XZeWIF/XzmLZPBj3rnFjiNGw1wK367cRpqED4Saj4WSfL11Do8g==;7Fy22NkRVxgT57ZXFy+myQ=="
 ---

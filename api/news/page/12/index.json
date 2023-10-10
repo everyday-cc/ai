@@ -2,6 +2,488 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-09-28-supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems.md",
+      "title": "Supermicro At 30: From Designing AI Chips To Selling AI Systems",
+      "excerpt": "There is something about late September. Nvidia was founded 30 years ago on Tuesday this week, Google was founded 25 years ago on Wednesday, and Supermicro was founded 30 years ago today. Three decades ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/08/supermicro-server-rack-logo.jpg",
+          "width": 1457,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/28/supermicro-at-30-from-designing-ai-chips-to-selling-ai-systems/amp/",
+      "publishedDateTime": "2023-09-28T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
+      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
+      "excerpt": "20, 2023, in Atlanta. Reid says the use of facial recognition technology by a sheriff’s detective in Louisiana led to his arrest for crimes he did not commit. (AP Photo/John Bazemore ...",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
+      "originalUrl": "https://thegrio.com/2023/09/26/facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2023/09/AP23263542093669.jpg?w=788&h=0&crop=1",
+          "width": 788,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
+      "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
+      "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-biden-teases-forthcoming-executive-order-on-ai.md",
+      "title": "Biden teases forthcoming executive order on AI",
+      "excerpt": "The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence, President Joe Biden said Wednesday. “This fall, I’m going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "originalUrl": "https://www.cnn.com/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230927191755-joe-biden-file-092723.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/09/27/tech/joe-biden-executive-order-artificial-intelligence/index.html",
+      "publishedDateTime": "2023-09-28T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses.md",
+      "title": "Meta Connect 2023: Mark Zuckerberg unveils AI assistant, Facebook-streaming glasses",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/09/28/1600x900/Mark_Zuckerberg_1695874891506_1695874891796.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
+      "publishedDateTime": "2023-09-28T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-uaes-advanced-falcon-180b-available-on-amazon-sagemaker.md",
+      "title": "UAE’s advanced Falcon 180B available on Amazon SageMaker",
+      "excerpt": "Trained on a cluster of nearly 4,000 A100 GPUs, Falcon 180B is finely tuned to work seamlessly with the Amazon SageMaker environment. The use of Amazon Simple Storage Service (Amazon S3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tradearabia.com/news/IT_413880.html",
+      "originalUrl": "https://www.tradearabia.com/news/IT_413880.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tradearabia.com/source/2023/09/28/tii4.jpg?11:01:14am",
+          "width": 680,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trade Arabia",
+        "domain": "tradearabia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-i-watched-youtube-in-a-self-driving-mercedes-and-experienced-the-future-of-commuting.md",
+      "title": "I watched YouTube in a self-driving Mercedes and experienced the future of commuting",
+      "excerpt": "Mercedes' first-of-its-kind self-driving tech lets you watch TV and play games while your car does all the work. I put it to the test in LA traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
+      "originalUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6514798f1c099d0019ad4611?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mercedes-drive-pilot-self-driving-review-level-3-traffic-2023-9?amp",
+      "publishedDateTime": "2023-09-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
+      "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
+      "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-a-one-year-old-uk-startup-says-its-achieved-a-major-breakthrough-in-ai-safety-by-scoring-high-on-a-video-game.md",
+      "title": "A one-year-old U.K. startup says it’s achieved a major breakthrough in AI safety by scoring high on a video game",
+      "excerpt": "A small startup in Oxford, England says it has achieved an important breakthrough in AI safety that could make self driving cars, robots, and other AI-based products far more reliable for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
+      "originalUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/GSTae735_pJbqF6Oy4GFIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTY-/https://media.zenfs.com/en/aol_fortune_385/a8ae5f95851a4e8186eb4ba5db50bfc5",
+          "width": 1200,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ai-chip-crunch-startups-vie-for-nvidias-vital-component.md",
+      "title": "AI chip crunch: Startups vie for Nvidia's vital component",
+      "excerpt": "The artificial intelligence revolution is fully underway, but soaring demand for its most crucial component has startups scratching their heads on how they can deliver on AI's promise.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/nvidias-ceo-and-founde.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-ai-chip-crunch-startups-vie.amp",
+      "publishedDateTime": "2023-09-28T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-274-million-from-state-linked-investors-others.md",
+      "title": "Tencent-backed AI chip startup Enflame raises $274 million from state-linked investors, others",
+      "excerpt": "The deal came as the development of generative AI, boosted by the success of OpenAI's ChatGPT, raises investor interest in companies working on AI-related infrastructure such as AI chips. Enflame said the latest fundraising was co-led by investors including a few funds backed by Shanghai International Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/tencent-backed-ai-chip-startup-041156077.html",
+      "originalUrl": "https://www.aol.com/tencent-backed-ai-chip-startup-041156077.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/tencent-backed-ai-chip-startup-041156077.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/tencent-backed-ai-chip-startup-041156077.html",
+      "publishedDateTime": "2023-09-28T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-chip-industry-strains-to-meet-ai-fueled-demands-will-smaller-llms-help.md",
       "title": "Chip industry strains to meet AI-fueled demands — will smaller LLMs help?",
       "excerpt": "Large language models are growing in size, as is the number of companies using generative AI technology. The more the models grow, the more CPUs they consume — exacerbating an already-strained chip supply chain.",
@@ -325,8 +807,8 @@
       "title": "Trends in AI ethics before and after ChatGPT",
       "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.centredaily.com/news/business/article279840919.html",
-      "originalUrl": "https://www.centredaily.com/news/business/article279840919.html",
+      "webUrl": "https://www.heraldonline.com/news/business/article279840919.html",
+      "originalUrl": "https://www.heraldonline.com/news/business/article279840919.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -336,11 +818,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T13:45:00-07:00",
+      "publishedDateTime": "2023-09-27T13:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Centre Daily Times",
-        "domain": "centredaily.com",
+        "name": "The Herald SC",
+        "domain": "heraldonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -623,516 +1105,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-mark-zuckerberg-takes-the-stage-later-today-for-metas-annual-conference-get-ready-for-new-ai-chatbots.md",
-      "title": "Mark Zuckerberg takes the stage later today for Meta's annual conference. Get ready for new AI chatbots.",
-      "excerpt": "Meta released the next generation of its AI large language model and made the technology, known as Llama 2, free for research and commercial use. Much like tech peers Google and Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
-      "originalUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65144396eee46600193b980e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
-      "publishedDateTime": "2023-09-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-exclusive-meta-executive-leading-ai-chip-efforts-to-leave-position.md",
-      "title": "Exclusive: Meta executive leading AI chip efforts to leave position",
-      "excerpt": "A Meta Platforms executive overseeing the company's efforts to develop its own chips for artificial intelligence work is leaving her position at the end of the month, according to two sources familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "originalUrl": "https://www.reuters.com/article/idUSL1N3B323C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/aoUZMVb6pDSasZvbGgmwff5uems=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5IQF5AUTJO2HAVPELXVAOWRQM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-spotify-uses-ai-to-clone-and-translate-podcaster-voices-in-new-pilot-program.md",
-      "title": "Spotify uses AI to clone and translate podcaster voices in new pilot program",
-      "excerpt": "Spotify's answer is Voice Translation, which can reportedly translate English voices into Spanish, French, and German while retaining the distinctive vocal characteristics of the speaker. The feature is currently being used with only select podcasters, such as Dax Shepard, Monica Padman, Lex Fridman, Bill Simmons, and Steven Bartlett.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_translator_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/spotify-tests-using-ai-to-automatically-clone-and-translate-podcast-voices/amp/",
-      "publishedDateTime": "2023-09-27T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
-      "title": "The Future of AI Is Wide, Deep, and Large",
-      "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
-      "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
-      "originalUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
-      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
-      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
-      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-one-hour-training-is-all-you-need-to-control-a-third-robotic-arm-study-finds.md",
-      "title": "One-hour training is all you need to control a third robotic arm, study finds",
-      "excerpt": "A new study has found that people can learn to use supernumerary robotic arms as effectively as working with a partner in just one hour of training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230927003048.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-real-time-global-language-translation-solution-that-does-not-use-ai-launched.md",
-      "title": "Real-Time Global Language Translation Solution That Does Not Use AI Launched",
-      "excerpt": "NEW YORK, NY, UNITED STATES , September 27, 2023 /EINPresswire.com/ -- 1Voice.AI has officially launched a real-time language translation solution (available here ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/ein-presswire/658133907/real-time-global-language-translation-solution-that-does-not-use-ai-launched/",
-      "originalUrl": "https://fox59.com/business/press-releases/ein-presswire/658133907/real-time-global-language-translation-solution-that-does-not-use-ai-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/02/cropped-download.jpeg?strip=1&#038;w=250",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-artificial-intelligence-is-already-taking-over-grocery-stores.md",
-      "title": "Artificial Intelligence Is Already Taking Over Grocery Stores",
-      "excerpt": "past. Artificial intelligence has the potential to help retailers personalize shopping, streamline customer service and put what consumers want right in front of them. Lindsey Mazza, Global Retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65106ff80a77c424eb88f65f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2023/09/27/artificial-intelligence-isnt-coming-to-supermarkets-its-there/amp/",
-      "publishedDateTime": "2023-09-27T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape.md",
-      "title": "Cognitive Collaboration Market Outlook Report 2023-2030 | Cisco, Microsoft , Bluescape",
-      "excerpt": "id=728177&Mode=SS Key Player Spotlight for Cognitive Collaboration Market: Cisco (US), Microsoft (US), Slack ... We are specialized in offering services in various industry verticals to recognize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34944795/cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34944795/cognitive-collaboration-market-outlook-report-2023-2030-cisco-microsoft-bluescape",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34944795",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34944795",
-      "publishedDateTime": "2023-09-27T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived.md",
-      "title": "Mercedes-Benz Drive Pilot: The Self-Driving Car Has (Sort Of) Arrived",
-      "excerpt": "Drive Pilot is the first publicly-available system to achieve Level 3 on the 5-level “autonomous vehicle” scale, allowing drivers to completely disengage from driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/",
-      "originalUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6510ca1e6b47cbe244c36910/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kbrauer/2023/09/27/mercedes-benz-drive-pilot-the-self-driving-car-has-sort-of-arrived/amp/",
-      "publishedDateTime": "2023-09-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-vijayawada-stress-on-creating-strong-artificial-intelligence.md",
-      "title": "Vijayawada: Stress on creating strong Artificial Intelligence",
-      "excerpt": "An cultural fest was organised on INNOVURA-2023 by the Department of Artificial intelligence of Andhra Loyola College Assistant professor at VIT-AP Dr Kandala NVPS Rajesh attends the programme",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/andhra-pradesh/vijayawada-stress-on-creating-strong-artificial-intelligence-825738",
-      "originalUrl": "https://www.thehansindia.com/andhra-pradesh/vijayawada-stress-on-creating-strong-artificial-intelligence-825738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2023/06/20/1359319-ai.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/andhra-pradesh/vijayawada-stress-on-creating-strong-artificial-intelligence-825738",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/andhra-pradesh/vijayawada-stress-on-creating-strong-artificial-intelligence-825738",
-      "publishedDateTime": "2023-09-27T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

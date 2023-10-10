@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-s
 webUrl: "https://markets.businessinsider.com/news/stocks/calamu-wins-data-security-innovation-of-the-year-in-7th-annual-cybersecurity-breakthrough-awards-program-1032682971"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
-  - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
-    excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
-    publishedDateTime: 2023-10-05T17:28:00Z
-    webUrl: "https://www.koaa.com/news/covering-colorado/learn-from-and-connect-with-experts-this-weekend-at-bsides-cybersecurityconference"
-    type: article
-    provider:
-      name: koaa
-      domain: koaa.com
-    quality: 0
 
 secured: "2zr//Os/e3QVux43rcD0D7mOV7i+Gh8DfrfSZxsxiqhlOO/2+LT9wMcTcQROwSaUPeXMnR4wbA8ssZ46sIBRGFhK3sEfHplXLFxMpb/SF+RwLHoZmcNaTvep/2TH4XeO6mKI6lS6S071DxJ5ksSHGRPAExRzoIU16bFJMys2SLbRLDhgsSsgfMsXeKnuj1yhmOfRk3aEF+V3wqpU2zMAECtz169IWAVMW+8pJGvdwj46NMXTy4mLTRIx6QnhkgHkhI3kMAOe6pBqb8W631ZmRUAKpyKnT892397KzPv6t2piD3E56Vs1/co0Vr1YXGI8JQFgWUbsNF8ixZel74/Z/u7mlEkLJlKF/rMKzmDlyzFffBTTgr/r7A3CYVMuVYoXP2yFDFjCwKfdvIQFt++hOwhHX1jrTzhL69SHos7g/bIAZMOTRc7Ly9p20Ly/P/ym7aANyWx+ntHYqZhacFd1dyDxpCFfMeXNDCFvZLIqQwJvFoeb/lCCPfMRe9Y73TBapsL415xhkKFPj31eaQRdTA==;8r4JvLJvwfCYycfaoGOYBw=="
 ---

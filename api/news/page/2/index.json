@@ -2,6 +2,487 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-09-clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation.md",
+      "title": "Clio Unveils Clio Duo: Empowering Legal Professionals with AI-Driven Innovation",
+      "excerpt": "\"The future of AI powered solutions start with privacy and security at their core,\" said Jonathan Watson, Chief Technology Officer at Clio. \"We are confident that with responsible data privacy guardrails in place, AI will transform every aspect of how ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2241332/Clio_Clio_Unveils_Clio_Duo__Empowering_Legal_Professionals_with.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-israel-hamas-war-causes-nvidia-to-cancel-ai-summit.md",
+      "title": "Israel-Hamas War Causes Nvidia To Cancel AI Summit",
+      "excerpt": "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "originalUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
+      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
+      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "publishedDateTime": "2023-10-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-google-cloud-launches-ai-search-to-empower-healthcare.md",
+      "title": "Google Cloud launches AI search to empower healthcare",
+      "excerpt": "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
+      "originalUrl": "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg",
+          "width": 600,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arab Times",
+        "domain": "arabtimesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
+      "title": "Artificial intelligence and a new era of human resources",
+      "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T06:16:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-putting-citizens-at-the-center-of-government-services-with-ai.md",
+      "title": "Putting citizens at the center of government services with AI",
+      "excerpt": "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "originalUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
+      "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
+      "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750147/artificial-intelligence-ai-data-deep-processing-3.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-amd-could-fail-in-artificial-intelligence-for-1-reason.md",
+      "title": "AMD Could Fail in Artificial Intelligence for 1 Reason",
+      "excerpt": "Analysts at Baird greatly reduced their price target for AMD stock on Thursday , with the company's AI potential being the main sticking point. While Baird kept an \"outperform\" rating on the stock, its price target was dropped from $170 all the way to $125.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750146/man-in-business-suit-pushing-boulder-uphill-like-sisyphus-hard-work-ethic-effort-challenge-businessman-1.jpg",
+          "width": 2290,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-the-best-october-prime-day-robot-vacuum-deals-happening-now.md",
+      "title": "The best October Prime Day robot vacuum deals happening now",
+      "excerpt": "Amazon's Prime Early Access Sale is almost over, so don't miss the best Prime Day robot vacuum deals to shop today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Digital-Trends-Best-Prime-Day-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp",
+      "publishedDateTime": "2023-10-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds.md",
+      "title": "Why Is Virtual Care Rehab Modernizing Healthcare In Leaps And Bounds?",
+      "excerpt": "This article discusses Virtual Care Rehab servicing patients at home and in rehabilitation centers, using advanced digital and AI technologies improving healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6522e9d9bf30e7138aed8b61/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "publishedDateTime": "2023-10-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
       "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
       "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
@@ -147,7 +628,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -632,7 +1113,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -716,493 +1197,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-how-nvidia-became-a-major-player-in-robotics.md",
-      "title": "How NVIDIA became a major player in robotics",
-      "excerpt": "This February, the company noted, “A million developers across the globe are now using the Nvidia Jetson platform for edge AI and robotics to build innovative ... It’s not exactly right, but I don’t have to start from zero. It’s giving me 70%.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/",
-      "originalUrl": "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-07T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-can-ai-do-empathy-even-better-than-humans-companies-are-trying-it.md",
-      "title": "Can AI Do Empathy Even Better Than Humans? Companies Are Trying It.",
-      "excerpt": "Artificial Intelligence is getting smart enough to express and measure empathy. Here’s how the new technology could change healthcare, customer service—and your performance review",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
-      "originalUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-864407/social",
-          "width": 607,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-07T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai.md",
-      "title": "UNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AI",
-      "excerpt": "Dubbed Supervising AI by Competent Authorities, the initiative will see UNESCO assemble a report on current AI supervisory practices across Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520084cff6afed1494d46b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
-      "publishedDateTime": "2023-10-06T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-dubformer-launches-ai-video-dubbing-solution-for-media-industry.md",
-      "title": "Dubformer Launches AI Video Dubbing Solution for Media Industry",
-      "excerpt": "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI video dubbing service. The solution supports 70+ languages and language variants, and 1000+ voices.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-dubformer-launches-a-1696626906.jpeg",
-          "width": 400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-researchers-turn-to-harry-potter-to-make-ai-forget-about-copyrighted-material.md",
-      "title": "Researchers turn to Harry Potter to make AI forget about copyrighted material",
-      "excerpt": "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
-      "originalUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-global-ai-ethics-framework-needed-to-enshrine-rules-of-a-good-corporate-citizen.md",
-      "title": "Global AI ethics framework needed to enshrine rules of a ‘good corporate citizen’",
-      "excerpt": "It followed hot on the heels of another regulation leader, the European Union, which was the first to roll out laws on ethics in AI, including the proper use of data, the removal of biases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
-      "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/09/28/0659beb2-74c3-4f27-bd75-7fb07fefbfe6_dbf05a85.jpg?itok=gngSnv3l&v=1695891447",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
-      "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
-      "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "publishedDateTime": "2023-10-06T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
-      "title": "Survey: Challenges and Solutions in Generative AI Adoption",
-      "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-robotics-companies-raise-851m-in-august-2023.md",
-      "title": "Robotics companies raise $851M in August 2023",
-      "excerpt": "Robotics funding reached $851 million in August 2023, the result of 62 investments (See Table 1 below or download Table 1 HERE ). The total amount of funding for 2023 to date is about $8.85 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "originalUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-machine-learning-and-neural-networks-in-the-fintech-industry-sergey-kondratenko.md",
-      "title": "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko",
-      "excerpt": "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "originalUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "publishedDateTime": "2023-10-06T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

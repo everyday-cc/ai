@@ -7,7 +7,7 @@ originalUrl: "https://www.arabtimesonline.com/news/arabic-language-ai-breakthrou
 webUrl: "https://www.arabtimesonline.com/news/arabic-language-ai-breakthroughs-pave-the-way-for-linguistic-diversity/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing"
-    excerpt: "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),"
-    publishedDateTime: 2023-10-05T17:17:00Z
-    webUrl: "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg"
-        width: 2880
-        height: 1617
-        isCached: true
   - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
     excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
     publishedDateTime: 2023-10-09T08:28:00Z

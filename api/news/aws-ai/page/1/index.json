@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
+      "title": "AWS releases Cloud Institute virtual program to train developers",
+      "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/04/11/shutterstock_editorial_2329866433-100944305-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "publishedDateTime": "2023-10-10T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart.md",
       "title": "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart",
       "excerpt": "Today, we are excited to announce that the Mistral 7B foundation models, developed by Mistral AI, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. With 7 billion parameters, Mistral 7B can be easily customized and quickly deployed. You can",
@@ -10,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -589,6 +641,49 @@
       "provider": {
         "name": "Hart Energy",
         "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-302-trillion-economic-uplift-by-2033-new-study-reveals.md",
+      "title": "AWS report: Cloud adoption in Nigeria set to yield NGN $30.2 trillion economic uplift by 2033, new study reveals",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), commissioned a new report quantifying the",
+      "sourceUrl": null,
+      "webUrl": "https://ynaija.com/aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-30-2-trillion-economic-uplift-by-2033-new-study-reveals/",
+      "originalUrl": "https://ynaija.com/aws-report-cloud-adoption-in-nigeria-set-to-yield-ngn-30-2-trillion-economic-uplift-by-2033-new-study-reveals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ynaija.com/wp-content/uploads/2023/09/IMG-20230926-WA0004.jpg",
+          "width": 683,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YNaija",
+        "domain": "ynaija.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,92 +1341,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-optimize-generative-ai-workloads-for-environmental-sustainability.md",
-      "title": "Optimize generative AI workloads for environmental sustainability",
-      "excerpt": "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png",
-          "width": 906,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:48:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws.md",
-      "title": "Edtech ConveGenius builds SwiftChat conversational AI platform on AWS",
-      "excerpt": "India on Thursday announced that edtech social enterprise ConveGenius has built a conversational artificial intelligence (AI) chatbot on its platform for government schools and low-free private schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
-      "originalUrl": "https://www.business-standard.com/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/edtech-convegenius-builds-swiftchat-conversational-ai-platform-on-aws-123092100667_1.html",
-      "publishedDateTime": "2023-09-21T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

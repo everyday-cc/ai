@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-takin
 webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,93 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Leveraging Fintech And Blockchain Innovations In Finance"
+    excerpt: "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers."
+    publishedDateTime: 2023-10-10T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648c692be04ec815a53b363e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Forefront Finance: Revolutionizing Banking With AI and Blockchain Integration, Secures $160 Million Seed Investment From Cyberdyne and Stabila"
+    excerpt: "Forefront Finance, the pioneering neobank at the forefront of innovation, is proud to announce a game-changing development in the world of digital banking. Through strategic integration of Artificial"
+    publishedDateTime: 2023-10-09T22:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35152596/forefront-finance-revolutionizing-banking-with-ai-and-blockchain-integration-secures-160-million-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35152596"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35152596"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
+    excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
+    publishedDateTime: 2023-10-07T09:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 47
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
+    excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
+    publishedDateTime: 2023-10-10T06:08:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/budget-constraints-are-holding-back-fintech-innovation-finds-report/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/10/Harry-Stahl.jpeg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Car financing fintech Lendbuzz gets $345m funding boost"
+    excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
+    publishedDateTime: 2023-10-06T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/car-financing-fintech-lendbuzz-gets-345m-funding-boost"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/db4f84c6423b84fd88b5c6fdc4d228aa:42aeed92c0b38ec787a3b0a16b0526b2/gettyimages-1186093106.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
+    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
+    publishedDateTime: 2023-10-09T13:30:00Z
+    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
 
 secured: "lEDrp/4f3F75bLzal7svEbVNsz6sC6BWNb7Pj/+KDy55FBXX31LDAW+1A6aIWuu1GSkkHiLiq+FndjDyy9pBx3SwRK/KY/GVU0bjqaGZq6ck9Cp1cBqHUlD+PW5OmkHZNTdUwhM8fD3nVm9i/7Gs/gnNg6dIYaFyFxkRvSqI5M+J05s9ns+Th9hik7qJdM6c8Zs4srB3oZCT+dY1vKeKtm3Qb4IARmTB5G3FsCdpvdf9nt31KJdRIrf9DEoEheNUW+84SvHgWVwnCgNUsp4OkZv/YdZFiNiDKE6KWHzM9OeCeuUncXWtjQYuKH+qqQJkiPOFglJlcpTtgksfKF+XJNQtzmGsVFL3GPAUdgEgBsokeefYFLLcvoxlXxRHo1nKG15JUNQr5QQmUCCG8LbiHOXr2o/s/v9TQwkKogAanr8xMsWh6h4XAk/1yPEgS+rggLDRXK3+vgfgJMeIIpe8EypNHxGK6HgpHFJ7B+H4vAywS7inOj7xh9L7/Q7GWvxhlmxRJ0w+yvIm1zdanRMcEw==;NBzLsnmZVy0oTgrvD7aSMQ=="
 ---

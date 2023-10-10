@@ -7,7 +7,7 @@ originalUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturin
 webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
         width: 620
         height: 372
+        isCached: true
+  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
+    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
+    publishedDateTime: 2023-10-09T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the
 webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
 type: article
 quality: 67
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of augmented reality is AI"
+    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
+    publishedDateTime: 2023-10-10T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The perils of artificial intelligence"
     excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
     publishedDateTime: 2023-10-08T10:00:00Z

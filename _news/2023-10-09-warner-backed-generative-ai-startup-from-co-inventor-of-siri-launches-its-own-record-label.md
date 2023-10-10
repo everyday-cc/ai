@@ -7,7 +7,7 @@ originalUrl: "https://www.musicbusinessworldwide.com/warner-backed-generative-ai
 webUrl: "https://www.musicbusinessworldwide.com/warner-backed-generative-ai-startup-from-co-inventor-of-siri-launches-its-own-record-label/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "AI music startup LifeScore is launching its own record label"
+    excerpt: "LifeScore Music is the AI music startup that emerged in 2019 as part of the Abbey Road Red incubator. Now it’s launching a label."
+    publishedDateTime: 2023-10-10T09:39:00Z
+    webUrl: "https://musically.com/2023/10/10/ai-music-startup-lifescore-is-launching-its-own-record-label/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/lifescore-kaleidoscope.jpg?fit=1200%2C675&#038;ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2q98HzGENkWQazusXo6KGwR9CkpyMCxsWyWLLWU/9vqB6Is0DmKPKo4lgBATD7ppOamirRmnYZDw/vyJWvIMGFj+DPUyQKVuTv/dPUh85W7ETzVQ9CJK+aTD+5knpFB9PYFSLHjLQS9HISwZUw1lg1u7i40EQnaF8Tw1hPUWW/r2dDSzeP/yinGMjHlvtYbr4wPUb6RRdcwAYnLEs9LdqKFN6zk99EYVS2abUvrHY+6rl4oehiEz4mjhaJ2cthiJoYORJYG0BgyoyzLEcPNeJ5xS47/eEqwPvtdMlScMlF+xA33AHKMPwYN5D0AKYjSIE/YPYwk4Mw/kB/llaNMID32qvHQ//xIWbarZhcjaas/6m1Fy4FkI4jtGIBeFXRuSPE5DalhC2VF3tWCBY0GMY+Ythc4Oxu4hQREEi0WJM7WcFC3QNPf3HAwafqGOr7W8kPoUPcYCw26I2RlQLWEcVCHUc8vTY3No96XBOQ5i8gBQ73ZcbrCz4MZzXrzPh+nzeM0pwOVl77KW6vI2BhUi9g==;PMUIq3Gyy/Egy0dTjOd9+A=="
 ---

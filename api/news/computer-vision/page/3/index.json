@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-09-sci-fi-fans-meet-their-heroes-at-wiltshire-reme-museum.md",
+      "title": "Sci-fi fans meet their heroes at Wiltshire REME museum",
+      "excerpt": "Science fiction fans have been meeting their favourite film and TV heroes at a special event. The Sci-Fi Day was hosted at the Royal Electrical And Mechanical Engineers (REME) museum at Lyneham in Wiltshire. Fans marvelled at the \"real-life\" creatures and movie memorabilia from franchises such as Star Wars and Doctor Who.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "originalUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/23B8/production/_131044190_reme5.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-wiltshire-66763292.amp",
+      "publishedDateTime": "2023-09-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-computer-vision-market-economic-impacts-expected-to-extend-to-broader-by-2030.md",
       "title": "Computer Vision Market Economic Impacts Expected to Extend to Broader by 2030",
       "excerpt": "\"Computer Vision Market| Outlook 2023-2030 | Pre and Post-COVID Research is Covered, Report Information | Newest 108 Pages Report The extent and overview of the various commercial opportunities ...",
@@ -1251,49 +1303,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-melatonin-and-its-derivatives-found-to-enhance-long-term-object-recognition-memory.md",
-      "title": "Melatonin and its derivatives found to enhance long-term object recognition memory",
-      "excerpt": "Multiple studies have demonstrated the memory-enhancing effects of melatonin and its derivatives in animal models. It is also known that the formation of both short- and long-term memories require the phosphorylation of certain memory-related proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/melatonin-and-its-deri.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-melatonin-derivatives-long-term-recognition-memory.amp",
-      "publishedDateTime": "2023-08-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

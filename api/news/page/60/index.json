@@ -2,6 +2,594 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-08-27-facial-recognition-at-welcome-back-concert-raises-concern.md",
+      "title": "Facial recognition at Welcome Back Concert raises concern",
+      "excerpt": "allowing transactions to take place seamlessly through facial recognition. The system boasts its low processing fees, contactless payment format and reduced transaction time. In a statement to the Daily Trojan, PopPay wrote that it is “a paid sponsor of ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
+      "originalUrl": "https://dailytrojan.com/2023/08/25/poppay-welcome-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytrojan.com/wp-content/uploads/2023/08/Screenshot_2023-08-23_at_10.42.40_AM-1030x661.png",
+          "width": 1030,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Trojan",
+        "domain": "dailytrojan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-lost-in-translation-europes-quest-to-speak-ai.md",
+      "title": "Lost in translation: Europe’s quest to speak AI",
+      "excerpt": "So-called AI language models like the American GTP-3 are systems that understand and generate text. The models have triggered a flurry of innovative tools, including multilingual search apps, robot-written news articles, automatic translation and chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-26T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving.md",
+      "title": "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving",
+      "excerpt": "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
+      "publishedDateTime": "2023-08-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-robotics-and-coding-being-taught-at-durbar-high-school.md",
+      "title": "Robotics and Coding being taught at Durbar High School",
+      "excerpt": "Robotics and Coding classes have been launched at the historical Durbar High School, popularly known as Bhanu Secondary School.",
+      "sourceUrl": null,
+      "webUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "originalUrl": "https://myrepublica.nagariknetwork.com/news/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myrepublica.nagariknetwork.com/uploads/media/DurbarHighSchool_20230826095609.jpg",
+          "width": 1200,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "cdnAmpWebUrl": "https://myrepublica-nagariknetwork-com.cdn.ampproject.org/c/myrepublica.nagariknetwork.com/amp/robotics-and-coding-being-taught-at-durbar-high-school/",
+      "publishedDateTime": "2023-08-25T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myrepublica.nagariknetwork",
+        "domain": "nagariknetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition.md",
+      "title": "UW-Madison researchers fool voice recognition",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition/article_a65c5c77-8fe9-5a6c-b7bd-bf8e7228a492.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uw-madison-researchers-fool-voice-recognition-with-pvc-pipes.md",
+      "title": "UW-Madison researchers fool voice recognition with PVC pipes",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
+      "originalUrl": "https://wiscnews.com/uw-madison-researchers-fool-voice-recognition-with-pvc-pipes/article_462055af-67c3-573d-8321-660961b624b8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/5/8c/58c57300-6052-5c88-8310-96dce17808b4/64e995e411d49.image.jpg?crop=809%2C425%2C0%2C57&resize=809%2C425&order=crop%2Cresize",
+          "width": 809,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a jolt well beyond the technology industry. From helping with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
+      "originalUrl": "https://www.bbc.com/news/business-65675027?_hsenc=p2ANqtz-_OXvPbB5OTcb4VOT8euMaUYOdPBQ8og_VvWVSqpoykag1eTr7iwukIzS5xLhS3UELtxO6T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp",
+      "publishedDateTime": "2023-08-25T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians.md",
+      "title": "Driverless cars ‘worse at detecting children and darker-skinned pedestrians’",
+      "excerpt": "Dr Jie Zhang from the Department of Informatics at King’s College London, in collaboration with colleagues, assessed eight artificial intelligence ... which tell a driverless car whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
+      "originalUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/AI-autonomous-fleet-platooning.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence.md",
+      "title": "Empowering Confidence: Overcoming Math Anxiety In The Age Of Artificial Intelligence",
+      "excerpt": "Grasping mathematical concepts has been one struggle that eventually leads to avoidance. Math will be part of how we transform ALL our futures and more than ever, requires a different approach to engender confidence and resilience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e909ccf9546499753b0614/0x0.jpg?format=jpg&width=1200",
+          "width": 940,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/08/25/empowering-confidence-overcoming-math-anxiety-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-08-25T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-pharmaceutical-industry-enlists-packaging-robotics.md",
+      "title": "Pharmaceutical Industry Enlists Packaging Robotics",
+      "excerpt": "Two new packaging robotics pick-and-place systems for pharma applications use a cobot and a 6-axis robot, respectively, to load blisters and to cap primary aseptic pharma packs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
+      "originalUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.healthcarepackaging.com/files/base/pmmi/all/image/2023/08/ESS_Packaging_Robotics.64caf6c126cce.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcarepackaging",
+        "domain": "healthcarepackaging.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-10x-coders-beware-metas-new-ai-model-boosts-coding-and-debugging-for-free.md",
+      "title": "10X coders beware: Meta’s new AI model boosts coding and debugging for free",
+      "excerpt": "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/code_llamas_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/amp/",
+      "publishedDateTime": "2023-08-25T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-uk-putting-100m-toward-ai-chips.md",
+      "title": "UK Putting £100m Toward AI Chips",
+      "excerpt": "NVIDIA, AMD and Intel are in the spotlight in the proposed deal. The global competition for semiconductor chips makes investment in innovation a priority for the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
+      "originalUrl": "https://www.techrepublic.com/article/uk-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08252023-uk-ai-chips.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-26-azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportunity.md",
+      "title": "Azure and AI in Focus: Oppenheimer Bullish on Microsoft's Scalability, Security, and $200B Market Opportunity",
+      "excerpt": "It is expanding its ecosystem to commercialize advances in AI on top of Azure. Microsoft is leveraging its scale to roll out AI applications like Office 365 Copilot to the masses (1.0 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
+      "originalUrl": "https://www.benzinga.com/news/23/08/34045380/azure-and-ai-in-focus-oppenheimer-bullish-on-microsofts-scalability-security-and-200b-market-opportu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/25/azure-rainer_stropek_via_flickr.jpg?width=1200&height=800&fit=crop",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34045380",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34045380",
+      "publishedDateTime": "2023-08-25T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-baidu-becomes-first-in-china-to-offer-driverless-airport-rides.md",
       "title": "Baidu Becomes First in China to Offer Driverless Airport Rides",
       "excerpt": "Baidu has launched driverless airport transportation services in Wuhan, becoming China's first-ever provider of autonomous rides to and from airports. - As the world's largest autonomous driving ride-hailing service provider, Baidu stands as the sole ...",
@@ -577,616 +1165,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-if-youre-neurodivergent-here-are-steps-to-make-your-workplace-more-inclusive.md",
-      "title": "If you're neurodivergent, here are steps to make your workplace more inclusive",
-      "excerpt": "Whether you do or don't disclose to an employer that you're neurodivergent, here are steps you can take to make your workplace more inclusive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
-      "originalUrl": "https://www.azcentral.com/story/money/2023/08/25/neurodiversity-workplace-inclusion/70663558007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/24/USAT/f4dcb51e-7e98-4be8-9ec9-ace73785c349-XXX_IMG_LEGOLAND_QUIET_ROOM__1_1_ESIVCL7P.JPG?auto=webp&crop=6387,3593,x0,y115&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZ Central",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-i-actually-felt-like-they-heard-me-companies-work-to-include-neurodivergent-employees.md",
-      "title": "'I actually felt like they heard me:' Companies work to include neurodivergent employees",
-      "excerpt": "More companies are making it a priority to hire employees who are autistic or have other diagnoses that lead them to behave or think differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/money/2023/08/25/neurodiversity-in-the-workplace-rising/70595259007/",
-      "originalUrl": "https://www.jsonline.com/story/money/2023/08/25/neurodiversity-in-the-workplace-rising/70595259007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever.md",
-      "title": "AI-powered brain implants help paralyzed patients communicate faster than ever",
-      "excerpt": "The other had suffered a stroke in her brain stem. Though they can’t enunciate clearly, they remember how to formulate words. Now, after volunteering to receive brain implants, both are able to communicate through a computer at a speed approaching the tempo of normal conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
-      "originalUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/?view=mobile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/implant-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/health/2023/08/ai-powered-brain-implants-help-paralyzed-patients-communicate-faster-than-ever/amp/",
-      "publishedDateTime": "2023-08-25T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades.md",
-      "title": "Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades",
-      "excerpt": "Planning and managing your cloud ecosystem and environments is critical for reducing production downtime and maintaining a functioning workload.\nThe post Managing your cloud ecosystems: Maintaining workload continuity during worker node upgrades appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-maintaining-workload-continuity-during-worker-node-upgrades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:48:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-in-the-game-of-ai-think-ladders-not-snakes.md",
-      "title": "In The Game Of AI, Think Ladders, Not Snakes",
-      "excerpt": "When we shift from a mindset of AI replacing jobs to AI enhancing jobs, we start to see its true potential. It's not about what we’re losing, but what we’re gaining.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64355e00d7bd6767a2eb482e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/25/in-the-game-of-ai-think-ladders-not-snakes/amp/",
-      "publishedDateTime": "2023-08-25T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023.md",
-      "title": "These Are the ONLY 3 Machine Learning Stocks to Consider in August 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning (ML) is a branch of artificial intelligence (AI) that enables",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/these-are-the-only-3-machine-learning-stocks-to-consider-in-august-2023-1032582703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-meta-introduces-seamlessm4t-ai-system-to-help-you-translate-100-languages.md",
-      "title": "Meta introduces SeamlessM4T AI system to help you translate 100 languages",
-      "excerpt": "unlike traditional language translation tools, which have issues with limited language coverage, the SeamlessM4T open-source AI model effortlessly handles speech-to-text and text-to-text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/01/Meta-logo-image-103.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/08/meta-introduces-seamlessm4t-ai-system-translate-100-languages.html?amp",
-      "publishedDateTime": "2023-08-25T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-ethics-and-transparency-in-ai-powered-political-advertising.md",
-      "title": "Ethics And Transparency In AI-Powered Political Advertising",
-      "excerpt": "Love it or hate it, there’s no question AI is emerging as a powerful tool in every arena, and advertising is no exception. As we rapidly head toward the 2024 election year, I’m deeply aware of the advantages AI offers political campaigns through audience targeting and campaign optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/25/ethics-and-transparency-in-ai-powered-political-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/25/ethics-and-transparency-in-ai-powered-political-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642ece0e8e78bdcf295a2d72/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact.md",
-      "title": "Is AI The Future Of HR? 3 Areas Where This Tech Can Make An Impact",
-      "excerpt": "As HR teams grapple with the increasing presence of AI, there are some key areas where they can be mindful of this technology's pros and cons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626161fe4b1eadb6e1e58f6e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/08/25/is-ai-the-future-of-hr-3-areas-where-this-tech-can-make-an-impact/amp/",
-      "publishedDateTime": "2023-08-25T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
-      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
-      "excerpt": "The research suggests security systems within voice recognition software, frequently used to protect people's bank accounts and other sensitive information, aren't entirely safe from would-be thieves.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
-      "originalUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/ab/5abc588e-41f3-11ee-9bce-4fa93f74193d/64e6ae349c49c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-how-to-choose-an-artificial-intelligence-etf.md",
-      "title": "How to choose an Artificial Intelligence ETF",
-      "excerpt": "There is a myriad of choice for investors who want to grab a slice of the boom in Artificial Intelligence. Bryan Armour of Morningstar gives his insights into how to decide which AI ETF might be right for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRCV00CBX6",
-      "originalUrl": "https://www.reuters.com/video/watch/idRCV00CBX6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230824&i=RCV00CBX6&r=RCV00CBX6&t=2",
-          "width": 1637,
-          "height": 1065,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence.md",
-      "title": "Five UK Companies Set To Make A Huge Splash In Artificial Intelligence",
-      "excerpt": "With the UK Government investing heavily in support for AI development, innovative new companies in the fields are mushrooming in number",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e87f5597824c7ea53b0612/0x0.jpg?format=jpg&crop=4000,1875,x0,y248,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/08/25/five-uk-companies-set-to-make-a-huge-splash-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-25T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-is-baidu-stock-a-buy-now.md",
-      "title": "Is Baidu Stock a Buy Now?",
-      "excerpt": "Baidu’s Q2 numbers easily beat analysts’ expectations. Its revenue growth is accelerating and its margins are expanding. The stock still looks cheap relative to its growth potential. Baidu's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/25/is-baidu-stock-a-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/745130/two-friends-phones.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -73,15 +73,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Learn from and connect with experts this weekend at BSides Cybersecurity Conference"
-    excerpt: "BSides Colorado Springs is hosting a family-friendly event this weekend with the opportunity to learn from and connect with cybersecurity experts."
-    publishedDateTime: 2023-10-05T17:28:00Z
-    webUrl: "https://www.koaa.com/news/covering-colorado/learn-from-and-connect-with-experts-this-weekend-at-bsides-cybersecurityconference"
-    type: article
-    provider:
-      name: koaa
-      domain: koaa.com
-    quality: 0
 
 secured: "17j0e+H+exi6WFgd+rMx6Pb2eJsuwuOJdXfNrvNgZ1sNtUH1pDKQJRxcFuM5wZv7ZSmrJ+MtNYnTfFuyDUDD3NmR/V3XqNVq0OHpDQ8ODtkljqC2LNI7+HIjmJfKz5KKsla/5icV7okqGI1JR2+a+L9Ac3SVgEZVyKnT+MjdpAAGmeMSHB8/Lk0aUBjNluf7fI7na9b4h7yQUl/cq+e33vpBg8eO6dDtzA/8rAfc5li63bxj/r4M7owZM5ByZ3k9ekUjBWUQGWDVAS7Bn3YZNLpM3ZyxBOC329yAELJhhpsAAqtRAQNXUaGTM0NrNTUWRcGo7g3kkEdMn17VThy0v0CFHuFkJQoQ1F4Nvf0gKGk=;kz/PUXLwl4BOGcOAO4WcTQ=="
 ---
