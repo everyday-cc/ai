@@ -73,6 +73,15 @@ related:
         width: 477
         height: 306
         isCached: true
+  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
+    excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
+    publishedDateTime: 2023-10-05T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
     excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
     publishedDateTime: 2023-10-07T09:45:00Z
@@ -103,15 +112,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
-    excerpt: "Boca Raton, FL, Oct. 05, 2023 (GLOBE NEWSWIRE) -- Janover Inc. (Nasdaq: JNVR) (“Janover” or the “Company”), an AI-enabled B2B fintech marketplace connecting commercial property borrowers ..."
-    publishedDateTime: 2023-10-05T14:19:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 19
 
 secured: "gjyo/QV/QKb+TQdZhnT1iohOeioQEG7qDV/HMTEbOsVEHkGJxZNo0/MuuG82VrdC/hvAwg+I4YfGd9g85P5JdqW3CFjfuwd6plgWD9RW805Ru/0fkTBo/+4VKPyqRbiH5YCFePglxTP/rgbnfqnKZ8Q6vXf2JG+tAOs4pVFH86vD5I1fRRBhHliIggpJ4GtJMkdWbpzD++r/jRucW+invGrNA71R354SlPwT017eEO26hpMgO2rDJYTKCfmd7DtCZQwCLclUfr9d0YeaA5pb5WN9LIJeD7jouZ+G/s/18fTclMwCSvN0MCTOXNBbmnF/ip3ZyiCTT3M/Do0eNls6L5g8goWLITc0dXJZ18bFDgMaZ5MbzInDwnpNoqaNI/d0cRccKwDsZAzNJ/G3/J1+PzEuAjqdXGwGip7xMuxX6YMOsN6XmA+guNNFzWbiJcP7UspzHHvvFYDCAooXn8lnYE6htDKxy6X8mbh9+ZHVexAhdoZEisVsRO/S21fY4CpRZdiE6+/ZAQLR6TlnYDB4Yg==;l+XcH7dHUn7TBY9SBOULyg=="
 ---

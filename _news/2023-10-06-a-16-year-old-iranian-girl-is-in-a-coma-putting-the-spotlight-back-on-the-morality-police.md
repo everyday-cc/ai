@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6320956/teen-girl-coma-armita-iran-morality-polic
 webUrl: "https://time.com/6320956/teen-girl-coma-armita-iran-morality-police/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "With Iranian Girl in Coma, Suspicion Falls on Government"
-    excerpt: "Exactly what happened to 16-year-old Armita Geravand is unclear, but the circumstances have fueled accusations that Iran’s morality police must have harmed her."
-    publishedDateTime: 2023-10-05T05:57:00Z
-    webUrl: "https://www.nytimes.com/2023/10/05/world/middleeast/iran-armita-geravand.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/04/multimedia/04iran-armita-jhqp/04iran-armita-jhqp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "E6ChpUGWnWK7lAhGZ+keOk45WdeqGJzLhBIMxHNRWs1Rpv5u4ZjFzvVBfqUaSeFlCCQos1lAI8fOkWBF6MLC0npVkwtXx8/LdyjaqQj0sHCRJDvKYXr7nx5fIqSNt6XHAUkxxfWosEsIShmMRpm8L8tS9bS3oOuiD5DZysluf4ULqOR96vxZq4UGEO93VBZ3nqTec68hI1wqOE+7W2NnF4VgHfg8KnLxxySA/3KqONNDT++qhXXgsSeOoZlJuW4mQ3Z3wgEvmWnsFJxYxFgneL2Tq3WtI0fyXsBS2H9wiHLy2WULUReeP6YE5VwHRM4V9DCHaDth4NaUVwHk4qv8jKuLyxJSrTs5j/U9wD/LpKo=;Re5VfxgZEmHs7pjC6g7Abw=="
 ---

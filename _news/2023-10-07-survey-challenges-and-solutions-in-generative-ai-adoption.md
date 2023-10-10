@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solution
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AMD’s Promising Gaming Outlook and AI Market Challenges: An Analyst’s Buy Rating Justification"
-    excerpt: "Robert W. Baird analyst Tristan Gerra has maintained their bullish stance on AMD stock, giving a Buy rating on October 2. Tristan Gerra has"
-    publishedDateTime: 2023-10-05T05:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-s-promising-gaming-outlook-and-ai-market-challenges-an-analyst-s-buy-rating-justification-1032679909"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "6lrT0SArvCOIT922eB+YnDN6kfGDaCdVujPn9aD4iyKWichG6q63U7AYEHGkc5VfQr1Nas/IlCzmkVyFoSdNvWl1GwTPW+qOWOsFAi0wyeubcr8s7rw2R+e7X/xcULyR9r5n0apFF2bSBThRPZ6qL6Waad8nCGXdGQmnbDCh++hF7ihMu7V4LVEwXReKsCNKVUOHTmrOrQIdD9AfzjUZtC9FGP+57iEfbjmZV9mmWRA84JQ6+LOZXP5wXn7XOa923p32TIHi3XhoM6HFuOZxR34dEPY98SqH8T781gBbKgipXl7k7gms1pxguU7KmSlSRzrcymaMgdhzwQcxBO8ek3LG+UmNuoGdZUvffH6P5GK7x2rnAbFxwCaDGDRLe3Fc6OsHbizo3tmhoSPfthATXHOPlU6DhjilJvPl9LaebmnbhuTlvoqpuQGFhYNgErji/eiRveZgGqRO5R4weOH5P/JUJe04uFtCTw/RS0LAby9FV3vQXZY4IT3Rh4NFrDwP1V2TcZV10lUx/NY7+xs9Jw==;6E26ccv47ezHYOu5mlLoEQ=="
 ---

@@ -514,35 +514,35 @@
     },
     {
       "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's New AI Chatbot Trained on Public Facebook and Instagram Posts",
-      "excerpt": "MENLO PARK, California (Reuters) - Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
+      "title": "Meta's new AI chatbot trained on public Facebook and Instagram posts",
+      "excerpt": "Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy,",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "webUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/08_01_2022_11_33_05_988689.png?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T11:26:00-07:00",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2611810-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?amp",
+      "publishedDateTime": "2023-09-28T11:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

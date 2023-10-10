@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-neural-network-genomics-accurate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-neural-network-genomics-accurate.amp"
 type: article
 quality: 60
-heat: 111
+heat: 110
 published: true
 
 provider:

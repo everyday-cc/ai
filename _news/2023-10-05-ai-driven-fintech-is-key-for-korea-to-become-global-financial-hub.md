@@ -59,6 +59,15 @@ related:
         width: 477
         height: 306
         isCached: true
+  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
+    excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
+    publishedDateTime: 2023-10-05T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
     excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
     publishedDateTime: 2023-10-07T09:45:00Z
@@ -103,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
-    excerpt: "Boca Raton, FL, Oct. 05, 2023 (GLOBE NEWSWIRE) -- Janover Inc. (Nasdaq: JNVR) (“Janover” or the “Company”), an AI-enabled B2B fintech marketplace connecting commercial property borrowers ..."
-    publishedDateTime: 2023-10-05T14:19:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 19
 
 secured: "YEsWmHCqRo3PmOB+EWpt0CBGXgn3WU08JJzizOb3O/91Gr8lbfTkD3wziTU1WjT2spNhPdJnOMDJwBCzSDufOcYZ0m7NgGwUXYiESKz80IR4ZnBJwUXG7kBKGmd5CNiI/NZ1FSLqsT4YnOG1dlh60aOIpNpgo9KnOyUzfLFaKfclDOyAR7A9hW4sk3y09doiXtzvc10uwhDlvoZElo8mhAosuztjVul26eqJZWs5wXTZaG0Fn80fD69baSPWqgZzCf3PGbPutzh8zCndg3XYT0nvz8PanhjR1EQzp85XliDkFGHg6BIGgq6VdZn0VIK08P8xegNbLF6kOOypw8WoY2ukEUOwOON+Ne2rWGhwYfB/kCe8sFWF9MBf9ApSA5CmYob6eM0lqme05TimttNaLTAS8piRXIjtUu6AqOCV+GcAkyd7Tdyh3CqyyV2iYGbZjSjbLFvmAwSml/2egIniHukYV48G7+dHQ9ck2l7XM+eZr4g4HFTFHSSw4K8ofWSjKRUPiyYyA6pmtCmj7m5X2g==;zZOB061kTIg9fgPBzk4irw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
 webUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Forefront Finance: Revolutionizing Banking With AI and Blockchain Integration, Secures $160 Million Seed Investment From Cyberdyne and Stabila"
+    excerpt: "Forefront Finance, the pioneering neobank at the forefront of innovation, is proud to announce a game-changing development in the world of digital banking. Through strategic integration of Artificial"
+    publishedDateTime: 2023-10-09T22:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35152596/forefront-finance-revolutionizing-banking-with-ai-and-blockchain-integration-secures-160-million-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35152596"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35152596"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "Y7G8Qeg3fUKcCf6z4fIqfVnl5LCXu/EJeq903aBzKH6HYtSazAeobso9H5Be/ubsDvUi8OcflZY3BUkWr2xhy27pR+b2iKufCCD25xEZzGQQH3sMMk3XCoUXfgi9bpGIEfYpWPojQ4I6F4BmEh9NEC6rf6tgAcDTSkU9G/lvVeCYWyLhVDS678C1YDIYOJNTE1uMRAsHvfCL11bd31NVt66pOvnCmxCS9vxwBJbHBWbke5Fv/NCf3KtanwvJbi7aDc9daUpLlM28ZgaVrtiCc31DAe1/w1NDi3ybeXdLMD8tJQnOU6TjwvHLvzHDv4kZwgJf6+KiAo36A6J3U9765G6POlClkV+rlgvckb8CRJpD7nCLCtcAcvsnoEKoO5SxQQWix3vjnOMXd5Aq+sXddGPm+yeZoBcuyTiLelSJmWj7rmlszVz8KBb3KStRr5WnvHufP5eM9UglQLU03Mnn5LcO9tmZaGZAjomB/elP46GDCDySsHlo9YKONBTjWmBzzlk7fhK7KKZUxxB2015+7g==;xbeXi9XYJ+LQ2hzB36BQuQ=="
 ---

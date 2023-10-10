@@ -86,14 +86,19 @@ related:
         height: 1152
         isCached: true
   - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
-    excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
-    publishedDateTime: 2023-10-09T18:02:00Z
-    webUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+    excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
+    publishedDateTime: 2023-10-09T23:00:00Z
+    webUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
     type: article
     provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 9
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 27
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "RiIt6qMCa5cSSBitn934wGoGZkzMn4BIH9NslZ3iRwt0LS4YsJmGeL9mQ6D50FI9PZuDKBbwmebmNW+nKJQVIjsfWjttn8oViOtfd20EUbKvegjp/OpAuJoPUo7gKOju20Orrz7OXN7ObaN3y6LxmE9fmRKPRhaQLzDq+UcZwh4VmJVqDpCPaYGCNbUWOD7FftqUNrnH+xjL+no/geLAkNBANudxXmqpivtn3WIIvMwqEScCuDqTF5k77JdoX+kIIKRDNHdrBMc+hvuO6FCqxyeiRu56Qhy4ldnWW6pZkDQk6/UGC0pbjSHvQCp/xV7r2fXukJVa1bPye68GPEZ1CGA+7u4f4XUlT+eOyvuxR94=;PdWbXduH8oPGapmD/KohWw=="
 ---

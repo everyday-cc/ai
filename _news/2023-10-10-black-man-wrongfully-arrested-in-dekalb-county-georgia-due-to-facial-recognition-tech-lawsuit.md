@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
-excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
-publishedDateTime: 2023-10-09T18:02:00Z
-originalUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
-webUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
+publishedDateTime: 2023-10-09T23:00:00Z
+originalUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+webUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 type: article
-quality: 9
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Black man files lawsuit over misuse of AI facial recognition"
@@ -95,6 +100,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "jnGsNhtXYPE7TdbpJtj22e87BHCMxpTDR/NMREv19VR4MmGGnz5P0AL6pMzGqzVZnwM7OtwIxtgDz2A5JI8l/VaBJCcMba2OhLEMZ2wtAuLH2rBhVcWnCRN5jBq02E4XhqCcKgvIxdOCkwxakLCiqeqLpOLs4mVyA2XhREnvrCWsEOduVQ2w0je9twA82jEIxOHTCfMxoyWQb4lGuv7YUE7Gj6R2pSuoQB5Cu/tO8KeoAdiPUEzH4btXMcsev9stMcCWn58ztvWIHAyVwxXs03MgLwcBI43LisNgxA7bOsw14Pq6V7ls7BuxviqEnHE7HECHiJCNfUQ0N6GzKOLG+56YKIPXEEpdEK8xWq+e0K8KWuo0Yoh3uVupPHD8p3db8rc2VR1/ahkUNWO6tuZbNGc+aXv3uy1AKNkVwFVtKj95MYjxePFaUgunegbTnuGtZvTP9+FKIzjHDz6lgzMnv0LJqNqy3wU+sswFoOPlT4sPQ9SsnBaSpAtYaStmswj51HqY9PbtKRFRSW5dIsMb4g==;jPqjNO7TAhv5rKcpm29i3g=="
+secured: "LP+Cq1kl6g8nBpBcHmFBOaF9OJ60LREnFsscETFK22eNAIbm7HTZQpvNjeWg0L4Jepr6zFq3CqbI1sRyR9y5TZeYZmWbiItaBbSq4C5E0+KPvOExuiCvIlUQmG2P4bMVJ+V1AxAWVe4DnWYhi1xcW7cXEgI2qO02a6DHiFiVzkWDef9404Epp1JZB5qI2Bmn0W0sgB+yaUEsd29pG5wC/J7Qk2i8tUgnGZ0ueD8oVDsJvbSThQ/PJaXKxNo6iZMvkgEvXEG5LgGK69NOTjjkTF9tcjMYRQiF0nLCjBbU/TlAjTN5fPyiNUTjObBpJlnRzgoSd8yTsq11fJonJuO3/YadlOedhDJKlrNteziRRzg=;w1R+Y+XcjJlROi+XOYE8pw=="
 ---
 

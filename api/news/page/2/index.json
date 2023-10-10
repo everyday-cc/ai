@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-08-are-microsoft-and-openai-making-moves-to-enter-the-ai-chip-market.md",
+      "title": "Are Microsoft and OpenAI making moves to enter the AI chip market?",
+      "excerpt": "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
+      "originalUrl": "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 661,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you.md",
       "title": "AI as Your BFF? The Latest Chatbots Want to Get Personal With You",
       "excerpt": "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend.",
@@ -295,7 +348,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -745,7 +798,7 @@
       "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1135,7 @@
       "originalUrl": "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1158,57 +1211,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-taste-tasters-deliver-verdict-on-coca-colas-new-ai-generated-recipe.md",
-      "title": "Taste-tasters deliver verdict on Coca-Cola’s new AI-generated recipe",
-      "excerpt": "Coca-Cola's new futuristic flavor was co-created using artificial intelligence. Some Americans said it tasted better than the original recipe, but others couldn't stomach a whole can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe",
-      "originalUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524562bc-a05f-414a-bb48-3fa79e7e6bd0/d63cee97-30dd-4a84-8efc-efdf0fe6646e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/taste-tasters-deliver-verdict-coca-colas-new-ai-generated-recipe.amp",
-      "publishedDateTime": "2023-10-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

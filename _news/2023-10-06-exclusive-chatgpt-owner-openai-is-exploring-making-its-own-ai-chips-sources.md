@@ -684,20 +684,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 49
-  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
-    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
-    publishedDateTime: 2023-10-05T05:31:00Z
-    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 48
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "OpenAI considers making its own AI chips, acquiring hardware business"
     excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
     publishedDateTime: 2023-10-06T12:41:00Z

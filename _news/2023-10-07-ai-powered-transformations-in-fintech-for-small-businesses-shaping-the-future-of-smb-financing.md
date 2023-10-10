@@ -75,6 +75,15 @@ related:
         width: 477
         height: 306
         isCached: true
+  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
+    excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
+    publishedDateTime: 2023-10-05T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI-powered AP automation fintech Stampli gets $60m in funds"
     excerpt: "Stampli, which uses AI to automate the accounts payable (AP) function, has raised US$60m in funding from the likes of Blackstone and Insight Partners"
     publishedDateTime: 2023-10-05T15:07:00Z
@@ -103,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
-    excerpt: "Boca Raton, FL, Oct. 05, 2023 (GLOBE NEWSWIRE) -- Janover Inc. (Nasdaq: JNVR) (“Janover” or the “Company”), an AI-enabled B2B fintech marketplace connecting commercial property borrowers ..."
-    publishedDateTime: 2023-10-05T14:19:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8944115/janover-ai-drives-lender-growth-on-its-fintech-marketplace"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 19
 
 secured: "0lBgOjMbTErzC5835pVZFEStvhRsQQYpd9HNHkNdlP8K18O9auxFowik01ekWmlQ4i1RAxH93UDZ5oyUOc4YK7t7CGkCxb6j/CkK+yi9dYvetEnFVvLCDotSm3KiDYQyQTE+eq/te9Ti/pffkyb3MEM8r6tW6KP6y3YdByel+7ueUyvnyaYzrQcaxZK5av4+VGH4gnnFULNNM2Bw9ZXbEMXZq/w2BbPuyKwOjhk4tKa6G2DZ6IE6iddTVp/eNCH2TFtseGgVW8jf9qAXslYDL6Fm8eDKx69950h7rDRjguCDOtO3FCK2yPTWyX35+zuO9rUeSr7UJ3ax8y3Gu3POJstnOa/35R7meXzRUdJoOiUSXpkmepRnbwvwITGtd4wECjw7b+xNuoW+A6FrZqWPkwpVWCp9bd5GGg8BMCdArl/1MwS2RKlxDQFYAWkXhgB6Co6Xxjm7dvsLcdvJFpI1q2hRI7kFdqyQYwXHuMyxFLFOppK+rrtbPYXUWwhSDqH/cquRoAtx91famEkqrDq29g==;UX/bckmDIj1soQVAgb5BLg=="
 ---

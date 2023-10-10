@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Embracing the Inevitable: The Era of AI-First Companies"
-    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
-    publishedDateTime: 2023-10-06T16:27:00Z
-    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
+  - title: "Fact check: AI doctors on social media spreading fake claims"
+    excerpt: "Videos of AI-generated doctors giving health and beauty tips on social media are becoming hugely popular, generating millions of clicks. How accurate are their claims? And how dangerous is AI in the m"
+    publishedDateTime: 2023-10-09T06:30:00Z
+    webUrl: "https://www.thedailystar.net/news/health/news/fact-check-ai-doctors-social-media-spreading-fake-claims-3438586"
+    ampWebUrl: "https://www.thedailystar.net/news/health/news/fact-check-ai-doctors-social-media-spreading-fake-claims-3438586?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/health/news/fact-check-ai-doctors-social-media-spreading-fake-claims-3438586?amp"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
-        width: 942
-        height: 600
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/10/09/211.png"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "SKPwi4yLJLYF/u0O+4GN7KiEeACPSn3TJRDBLUrdqpku/JRxkdlFCay8ZAl0KCqlW5qA/K9f2pWdokW/kB2Sy+n6TBJ8Z7Yv1yLrP8GQeu6gcbm7Z4Z66n+ELJzQCHuNtEmEpXzD2gG+OZgmP/GRuIruQiHW8CgRh9myenYNW4R/iopTsN8/pP1rVHbNtTjMur29VPVjodRzeSOobgSxccNqP/mZlRYYHD9D/tgZyYZIXmd3xNwkusffNoATMXr89MozdnZEqGqFS+w/cNoLLF8/me6OLRd8zuzMPzNIZByWD+pXMTZ8C2N0HKio44Z91PFt21hKs+fbe7ZTERkNAtKynowfcByWnHQtjO+Y8pc=;7Fb3GmVexdSnMSrq0Dfdeg=="

@@ -36,22 +36,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Translator Now Supports 20 Indian Languages: Adds Bhojpuri, Bodo, Dogri, Kashmiri"
-    excerpt: "Microsoft Translator expands its linguistic capabilities by adding support for four new Indian languages, aiming to bridge linguistic gaps and empower nearly 61 million more people in India., Technology & Science News,"
-    publishedDateTime: 2023-10-05T06:50:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/microsoft-translator-expands-to-20-indian-languages-article-104179837"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/microsoft-translator-expands-to-20-indian-languages-article-104179837/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-translator-expands-to-20-indian-languages-article-104179837/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 51
-    images:
-      - url: "https://static.tnn.in/thumb/msid-104179953,thumbsize-35926,width-1280,height-720,resizemode-75/104179953.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Translator now supports 20 Indian languages: All the details"
     excerpt: "Microsoft Translator has added support for 20 more Indian languages, bringing the total to 23. This includes major languages such as Hindi, Bengali, T"
     publishedDateTime: 2023-10-06T06:06:00Z

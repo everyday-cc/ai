@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves
 webUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html"
 type: article
 quality: 101
-heat: 671
+heat: 661
 published: true
 
 provider:
@@ -678,20 +678,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 49
-  - title: "Latest Windows 11 update with Microsoft's AI Copilot is breaking AMD Adrenalin software"
-    excerpt: "It looks like Microsoft's new AI assistant isn't playing nice with AMD's Radeon software, resetting user settings and customization after every reboot."
-    publishedDateTime: 2023-10-05T05:31:00Z
-    webUrl: "https://www.tweaktown.com/news/93585/latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 48
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93585_01_latest-windows-11-update-with-microsofts-ai-copilot-is-breaking-amd-adrenalin-software_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Exclusive-ChatGPT-Owner OpenAI Is Exploring Making Its Own AI Chips -Sources"
     excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
     publishedDateTime: 2023-10-06T01:12:00Z
