@@ -42,6 +42,15 @@ related:
         width: 1080
         height: 770
         isCached: true
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
 
 secured: "JDJvIbYYFajUZKm082RoFMK0owekcOfN//QE5+haBzI03GsG6OqzN1FEAQnWnupT51n0K1PLp0oNXJF4tXNLJWou9DC2VQyxPTYANh1yR/i8qlb5Itl2h1c/l4Vu+HjsZprGaJV8e/NoHKMFIUI7RUwhNdNn5HTBpY2OwECuUR0ATl4XcUA2D6uNib7YTgzjAqQ6r/nNxGYlnzKI1JG9Mu1jiQqJBuqA5oL5vKgZ1wD9XGpfKCnzH0UfItEDt+DD5hebo4dT75oejC/BeRr+/9+c9/QMLXc7SbsTzYa1qDzlN7U0GKuulibdCRx+Tc+gRzT3zTgbAfkcuFWTDN5/96GU5MxO5SNHAbnL8hTQ3hVA6w52YmWc5gO9Lt08Yz/wfXqaFL37UbsXcfrsjX90VKS5EgPph8GaSMzuU3ZyT4EfjLAeBCpPaA3dyjgXgQZyPpG13axhV++VzfuM6sO/LHPIErIfp0n8WbrpcfArFR0SHGzf1qH08KBZs4xYPCcx1wxbTCwpKAylHQfKfH2paA==;+uQIaAyH4z6zoXVFBdjDAQ=="
 ---

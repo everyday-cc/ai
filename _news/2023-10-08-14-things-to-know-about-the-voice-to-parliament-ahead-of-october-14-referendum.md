@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Prime Day 2023 - the 50+ best early deals from the October sale"
+    excerpt: "Prime Big Deal Days is nearly here. Amazon's latest sales event - which is effectively another Prime Day - starts tomorrow (October 10) and runs until the end of Wednesday (October 11), with 48 ..."
+    publishedDateTime: 2023-10-09T10:56:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
     excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
     publishedDateTime: 2023-10-09T17:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.premiumtimesng.com/news/top-news/632077-cameroonian-fi
 webUrl: "https://www.premiumtimesng.com/news/top-news/632077-cameroonian-firm-wins-african-fintech-challenge.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Koree, a Cameroonian company emerges as winner of 2023 Ecobank Fintech Challenge"
+    excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge."
+    publishedDateTime: 2023-10-10T08:44:00Z
+    webUrl: "https://www.myjoyonline.com/koree-a-cameroonian-company-emerges-as-winner-of-2023-ecobank-fintech-challenge/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 34
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2023/10/Koree-wins-2023-Ecobank-fintech.jpg"
+        width: 1760
+        height: 1200
+        isCached: true
+  - title: "Cameroon’s Koree wins Ecobank Fintech Challenge"
+    excerpt: "Koree, a fintech company based in Cameroon, has been declared the overall winner of the 2023 Ecobank Fintech Challenge at the competition’s grande finale held at the bank’s headquarters in Lome, Togo."
+    publishedDateTime: 2023-10-10T09:22:00Z
+    webUrl: "https://it-online.co.za/2023/10/10/cameroons-koree-wins-ecobank-fintech-challenge/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
     excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge. The announcement was made by a distinguished panel of judges during the competition’s Grand Finale at the bank’s headquarters at the Pan African Centre in Lomé, Togo."
     publishedDateTime: 2023-10-09T12:13:00Z

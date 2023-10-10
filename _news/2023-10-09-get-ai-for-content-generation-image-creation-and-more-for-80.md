@@ -57,21 +57,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
-    excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
-    publishedDateTime: 2023-10-05T16:33:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+  - title: "Survey: 44% of Organizations Are in Early or Midpoint Stages of Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-09T20:30:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 61
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
-        width: 1528
-        height: 800
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
+        width: 1400
+        height: 939
         isCached: true
   - title: "Processor and Software Innovations Empower Edge AI Applications"
     excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"

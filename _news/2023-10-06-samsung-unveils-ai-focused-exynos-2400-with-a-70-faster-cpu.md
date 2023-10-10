@@ -19,36 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "Samsung Exynos 2400 detailed – 70% faster CPU, Xclipse 940 GPU with AMD RDNA 3 graphics"
-    excerpt: "The upcoming flagship chipset was introduced at Samsung System LSI Tech Day in San Jose, California. Samsung Semiconductor held its System LSI Tech"
-    publishedDateTime: 2023-10-06T08:52:00Z
-    webUrl: "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php"
+  - title: "Samsung accelerates efforts to lead AI chip market"
+    excerpt: "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT."
+    publishedDateTime: 2023-10-06T05:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
     type: article
     provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 66
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
     images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/23/10/samsung-details-exynos-2400/-1220x526/gsmarena_00.jpg"
-        width: 1220
-        height: 526
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg"
+        width: 750
+        height: 468
         isCached: true
-  - title: "Samsung Announces Exynos 2400 SoC With Xclipse 940 GPU"
-    excerpt: "Samsung officially pulled back the curtain on its latest homegrown chipset, the Exynos 2400. The future Exynos chipset was unveiled"
-    publishedDateTime: 2023-10-06T10:46:00Z
-    webUrl: "https://www.lowyat.net/2023/308680/samsung-announces-exynos-2400-soc-with-xclipse-940-gpu/"
+  - title: "Samsung accelerates efforts to lead market in AI chips"
+    excerpt: "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT."
+    publishedDateTime: 2023-10-06T05:57:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/419_360591.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
     type: article
     provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 39
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
     images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Samsung-Exynos-2400-1.jpg"
-        width: 1200
-        height: 800
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg"
+        width: 750
+        height: 468
         isCached: true
+  - title: "Samsung reveals the chip that could power the Galaxy S24"
+    excerpt: "Samsung has announced the Exynos 2400 while also revealing a few features. Expect a major GPU upgrade and generative AI smarts."
+    publishedDateTime: 2023-10-06T09:32:00Z
+    webUrl: "https://www.androidauthority.com/samsung-exynos-2400-announced-3372890/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/05/Samsung-Galaxy-logo-macro.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "TSMC Sales Slump Less Than Expected. It Isn’t Just AI Buoying the Chip Market."
+    excerpt: "Taiwan Semiconductor Manufacturing makes the main processors inside Apple iPhones, Qualcomm mobile chipsets, and processors made by Advanced Micro Devices."
+    publishedDateTime: 2023-10-06T11:43:00Z
+    webUrl: "https://www.barrons.com/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 47
+  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
+    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
+    publishedDateTime: 2023-10-08T19:52:00Z
+    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 19
 
 secured: "vHGJzYo6HYBhMKbPLgrpgg68WHDp1h7jMdSxYgCKWaGRoE7sYM8xgIiP+/CXeqvCOwA/rE9ZYMc0tWpk+HMxtTtFG9Ws4RLmKczypJRL494dV1fNoiw/DvE+OE9uOdw6BBmhRiG5QuOAPSEa5vKY17BCMasjyvXiaWyXwK8nZuEXZtyUkWCQ1lYDIRn/7Tz0a7I947QHE7CQ3z+PWq3q+zbjobs3fKgDSNQKndN8eEJyQdu4qtPV/dGwswz2L5ovt/9xi4W0LhTxnQ/p32D/rKqWT+A1KlMq9jvSy+doXE+uaFk5NKONrju8O/gCLsbfNnHzQxu9CT1ms1LP6rpp672alsV2UolQ3PgrzwYPrmShonMuNqQormWp5quv6xNkMUUs7WV36/JjnAfoT7OKZXk6e3bcOK6gi0t4qVhEAJpNrBtai5Tm5raa4V+YD7qxMdFtWKZ4d8IRFA21mh1oD7bgcLYghpLAcPXr/x+Znic7wRaaoUM0OXboBAWsmeMvuvdQPG1Ch4bil7LFwhEFHQ==;ghQQbyQgenRUFsttZgSe8g=="
 ---

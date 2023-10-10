@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,15 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
-    publishedDateTime: 2023-10-09T19:46:00Z
-    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+  - title: "The world's first real AI rules are coming soon. Here's what they will look like."
+    excerpt: "As generative AI develops at a rapid pace, lawmakers in the US, EU, Brazil and China are moving ahead with new regulations on the tech."
+    publishedDateTime: 2023-10-10T09:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10"
+    ampWebUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/651c3d1142ecf94db476a210?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "EU: Artificial Intelligence Regulation Should Ban Social Scoring"
+    excerpt: "Human Rights Watch, La Quadrature Du Net and EDRi shared a proposal with the European Council and the European Parliament to strengthen the regulation’s prohibition on social scoring."
+    publishedDateTime: 2023-10-09T13:30:00Z
+    webUrl: "https://www.hrw.org/news/2023/10/09/eu-artificial-intelligence-regulation-should-ban-social-scoring"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/05/202305tech_mena_jordan_illustration.jpg?h=6c8f15e6&itok=PHwCg2gi"
+        width: 374
+        height: 374
+        isCached: true
 
 secured: "9PBumYOfoXsK6/4pch01rXw0V6WDVCVg8Sozdvy0/xqX4VSSDrHaf8/O6UsUcre5oHo3l5QuJk4GH3j6T4/1rhIuUef5sXLb6to3+gL8yz6upraMoJG6jz7J5o22S4YWEn+yOoRNhPmvUPsGorejy5sNqyCwV3lGKJhfcWh2m34/RpXxFztARLIlmcgKhvKmdc0vzKefzYHvjX4kCvDeyz8HiGJVOU7583BepZuj5FelGfhKtPLu3YA9p1rYj36+czaa972P4XYNmuLSbuvm7pvWwOy17nSoVFG7wCUGfXR9t4HdeqCQT66jgmAz72Ik1ZH4VvxO+sEeJzeexigyNbprTwoReSGT/dbpu9KhxoWdNxn4Z0SfeGSt1Gol879Hiuj161FrU7MTAD8EQxvEKG+6fP3G2fzBEwN8LtoEssfArmC7Et29DXMUipgDXmzS/NdaDUtYbaS2gEEd/w39DmQAoozRuyr1Ll7l3kwv63DRmYkyE1VUZaQ/5e1eEaDBMuIol8QFL8ZbECfL3dfuEQ==;E8h66DlKNuAzNlx23/0qDA=="
 ---

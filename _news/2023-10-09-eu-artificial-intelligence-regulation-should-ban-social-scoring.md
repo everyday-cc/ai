@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2023/10/09/eu-artificial-intelligence-reg
 webUrl: "https://www.hrw.org/news/2023/10/09/eu-artificial-intelligence-regulation-should-ban-social-scoring"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 374
     height: 374
     isCached: true
+
+related:
+  - title: "The world's first real AI rules are coming soon. Here's what they will look like."
+    excerpt: "As generative AI develops at a rapid pace, lawmakers in the US, EU, Brazil and China are moving ahead with new regulations on the tech."
+    publishedDateTime: 2023-10-10T09:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10"
+    ampWebUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/651c3d1142ecf94db476a210?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
+    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
+    publishedDateTime: 2023-10-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "oIxXZMtzGXqYxrUMEehkZbdRIXUh/ZenmyLFgf3ptpoIr4kTitI85c61yPxVu74eNI8QrK4FmD5pUV+4zGEml2oJSJtQrQM2bkZzGMGRWXkjL0dmvGZjMI4mMXguQBY8vYUu33YnxqWCH1vBzVLBUhdaS9p2eYE1nzwY6bSACmA+jFtMBHxa+UVmIGNqgjnoThvKeJg2RpIIXld3GQYJoMaDiMCkNhytMBMV/5upbUlEYIXVUC3rfKvRaLz1WvuQ/6O2NMYs3hcRSzKW6403MoOLpJBX5tqYYNmQT5cbnn9Bn841d2dkfOkTyx9oTwVNSQR/gbThoQaDMxgACAEkr/X+Nk47DVEf2G4p6CLpFIA=;eJ3H4pFloRzlzN565G+BRg=="
 ---

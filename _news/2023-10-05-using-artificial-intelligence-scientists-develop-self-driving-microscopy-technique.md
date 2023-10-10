@@ -6,9 +6,6 @@ publishedDateTime: 2023-10-05T15:53:00Z
 originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
   name: Nanowerk
@@ -24,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "4UKULY46066cR8pUs0VjWeYbZ55FiP7omUCvLWT+ZF32aysD51x2/ceYD0FKgroGXhwLa4KGePviDr4SFouBRzxYF4qx1yLvHwTm8Wjx9AAjmYlANfXQkxBbBXDo/p0rvrclpfmW3gEzN0ZCoErPO9Jr0MULMYWvytV7jTKjVwxkfWK33B3IrFTC2QB6dA5o59XaY7FCf4zNB754FqSHBYahAmjKtKUcTyCNYlJwudr/9pNUm+F3FyW/tfazTg0x065nyUUkhJK+MuboXTqeVFsZqYudavN2LR/dYK40BY9KppYXJZtwpNplI3MjyXOmYCXqtQl7LIgTrBzkPik+iL/nHuSWFoqnyDMvsSwN8/U=;kBjY/6HohfdNsu8IPATPSQ=="
+secured: "PzBYT+1zxbdWhdzDHzB2eYRg6d2y+214kCi3/bYn4QZSizAPlsbuv7TA1YErlfmgCO24NDmWeMigii9Fgcr/p0cUQV+Q2mLnJArKpu4ZciHiNhRm5MpzK7PcLtk/fo6c0fogow4H3TIlZHlOXgkn5pSP/ORF7eM4bZ9CEPCvBVi51HorZIOAhTz+3YM+44myUEDzUyDz794LO4ZnAEAoFF6ybLmCYQ72N/4SkqS0OSuFH7SOZwnxPCI8a7ULyZScSL7V6nW5FF00SvIvl5dGrPZZh/GVaoytjyXy4DertMKpGeqAJ4mktAWOF3KvUNXazOjJZUbYF+pG2cHPq5OdpeHWr9u0EZXx15Fi0Dc9Cxs=;+nS5hPHfHCDNhqWCeklr0g=="
 ---
 

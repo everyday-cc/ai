@@ -34,22 +34,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
-    excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
-    publishedDateTime: 2023-10-05T16:37:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
     excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
     publishedDateTime: 2023-10-08T10:48:00Z

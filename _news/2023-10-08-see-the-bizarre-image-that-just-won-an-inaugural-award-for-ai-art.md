@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1703
         isCached: true
-  - title: "Google announces 11 African startups for AI First Accelerator programme"
-    excerpt: "Google on Thursday announced 11 African startups for the first cohort of its “Google for Startups Accelerator: AI First” programme. The Head of Startup Ecosystem, Africa, Folarin Aiyegbusi, said in a statement that the 11 startups were picked from a ..."
-    publishedDateTime: 2023-10-05T15:18:00Z
-    webUrl: "https://www.pulse.ng/news/local/google-announces-11-african-startups-for-ai-first-accelerator-programme/w9yf0zk"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 37
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/a4FktkpTURBXy80OWU5NTMyYjQ3NzUyYzBkNDQ1YmMyNDZmZjQ2NmFiNS5wbmeSlQMMAM0CEc0BKpMFzQSwzQJ2"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Kenyan startup chosen for Google’s AI accelerator program"
     excerpt: "Google has unveiled the first cohort for its 'Google for Startups Accelerator: AI First' program. The 11 startups, picked from a vast pool of innovative talent, are using cutting-edge Artificial Intelligence to address both Africa's challenges and broader global issues."
     publishedDateTime: 2023-10-06T08:27:00Z

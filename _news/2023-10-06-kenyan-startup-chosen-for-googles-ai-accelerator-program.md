@@ -63,20 +63,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google announces 11 African startups for AI First Accelerator programme"
-    excerpt: "Google on Thursday announced 11 African startups for the first cohort of its “Google for Startups Accelerator: AI First” programme. The Head of Startup Ecosystem, Africa, Folarin Aiyegbusi, said in a statement that the 11 startups were picked from a ..."
-    publishedDateTime: 2023-10-05T15:18:00Z
-    webUrl: "https://www.pulse.ng/news/local/google-announces-11-african-startups-for-ai-first-accelerator-programme/w9yf0zk"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 37
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/a4FktkpTURBXy80OWU5NTMyYjQ3NzUyYzBkNDQ1YmMyNDZmZjQ2NmFiNS5wbmeSlQMMAM0CEc0BKpMFzQSwzQJ2"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ElQQPpRqhvIkFTJncSVapnwVX1aKIkhzqqo5t9VpdcLq2eDy2yLN5jtTTxpOx+zY7vxl7FMCVzKP8pwR9PdhtQCH6TbRbjEtX94WrZxYURtRQovolZxEJoXEyfjSYg4Z1Ycu4rNnxgDIDlA/FxMSvQTu3lJRh62M9qexOhDmkM1QJ890q14yK/fAqRC46kG6WyONHHnA9Hs4mZAF8+zun6CXYFj6eTunJHR6P0hjV8JcbvQxRkoXAVHm/ziBgQ372g8deR12zTzV5F4vxFn2nKvTCzbmtCq2v05Z6x4s46RFaNG6isFLPmGLdDOJcIsYByzNNy//HzTQpzOMk6Rpqq2apnk0QWh9cx7NQTpLRn0=;F1dXCUgHfrV74xxW5s6YPQ=="
 ---

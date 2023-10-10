@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
-    excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
-    publishedDateTime: 2023-10-05T16:58:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8F55F0EE-179B-4E3C-BD4FF56C2F58D717.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "AI as Your BFF? The Latest Chatbots Want to Get Personal With You"
     excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
     publishedDateTime: 2023-10-08T12:00:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://iblnews.org/wp-content/uploads/2023/10/metachatbot.jpg"
         width: 860
         height: 477
-        isCached: true
-  - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
-    excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://legaltechnology.com/2023/10/06/linklaters-explores-gen-ai-with-googles-vertex-ai-for-search-an-openai-chatbot-and-cocounsel/"
-    type: article
-    provider:
-      name: Legal Technology
-      domain: legaltechnology.com
-    quality: 27
-    images:
-      - url: "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "SwXrwK1WvNE79bBJ08pdcLcKpI6l10FHava/4opVMF17gZor2ivePLVZekW0U7ppM0Z+nYuNC5Zj8Ze/3H7Rc/M+p5no/6noZB5qmhtz9k6Zrv3xOCCSkUk0vc2yn+5FgaZYH6hhvqCq5vtezTfOxfwuoPRe2+x5HzsbB83dL826ptGAzfGLdOob9UnqLq0yoQ49bdkn1/FwC+70MBL/65CnDKk3RjY9M1NqPnhxr0QdlCXg8MpB9NvDgEN/fQbyAQ0PIK4H5yUN3ctDNv3Oxn+tGTrDnoDALOMygnXWfBc8LuiMgcLXJ3M1+McEnN9kzkgD/wDfk7gyxqGYRrWePAWM/L0aIcpEFRb1pgzxXXU=;NkowWh2tDuf0y6ntKK/UXA=="

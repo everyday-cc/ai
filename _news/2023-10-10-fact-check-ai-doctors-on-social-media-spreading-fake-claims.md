@@ -37,15 +37,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "10 Leading Social Media Companies In The Artificial Intelligence Theme"
-    excerpt: "Facebook is no stranger to AI either ... which is the next-generation AI efforts that we’ve talked about around advanced research and Gen AI and that’s a place where we’re already standing of training clusters and inference capacity, but we don ..."
-    publishedDateTime: 2023-10-05T16:37:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-leading-social-media-companies-in-the-artificial-intelligence-theme-1196752/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 19
 
 secured: "nUMaO55Qwt55iheqVlalyGc5bqBqJYGn5rrOuesz4dWjzXSEOJ/QxoZC8gJk71cn0DB4dg0J3pcMXynS+xw0l5v6945DQQPXmxw+2MY4X8ayj+80JQGuck8ydYinZ2OFPwRwcgVpV8Q5Dez5+q49BOCQBNLan/Pk3uJFVbFKrinnhjHF4QTgGGq2Dk714bUIE6igWcyTm83aGgfZX0ehYo7S30xyA1iM3hahM1HcL3b1GehZ0Cyh1LVDVPzMHXdoGdqiTdqkDO2GM8OPBbnMm/NZQTQsedreySS8VtLVPTMYjx72J7lsx67gJxBFcZEhVQY3H53NvbQsh1MK9y0HSiJ8mGGhFmoq8qotX8DwGuDTYZX6BE4jJbdYz/Eix0mxWkSR53vbU586XvgWjz806hLG/kX1JpOzXa7t02HgGUidFUcrRDOY3gdrLdWN0RvBRANpT71Pyt8WCDpO0Xy5wGCq+k5AgxqOdbZVEupoXoo0vhoxp8ya1eIYSpzhNYZMHJoO+fU8nlFN8PXrR0mOUQ==;sxQCaqPbDT1hbEHFpK2SWw=="
 ---

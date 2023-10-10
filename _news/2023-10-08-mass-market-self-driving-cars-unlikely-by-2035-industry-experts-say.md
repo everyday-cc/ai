@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
-    excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
-    publishedDateTime: 2023-10-05T15:56:00Z
-    webUrl: "https://www.dcvelocity.com/articles/58779-consumers-losing-confidence-in-fully-automated-self-driving-vehicles-jd-power-says"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 16
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/10/05/autonomous-avt.jpeg?height=635&t=1696521498&width=1200"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "ABYdYjuYksjNKKl0Hbc8C4LNS4KWCS6rc7mTPxG1mdRvhFdQc7VhMqV4ohUl6cS2lbaj1jIINQ/c2YBEu4vCl6K0XSzu1aggwj189UcPlh3HEGgZLml/DxEIuKAN+ZtxYnID6Fj9dyXvobuDzUVW5dUVf372fOaYMhebwHkqKT5zhcDkTy6oUFQLjJLDDNZmI+Nkr1csrBcj79tIp8NhMA76UXjvLay7zbUGffKP1xQ6QAlkMquefFBhJwS4c+Xm2x7H14wAZTczJo2OrZV8ecr4ub5VaYUZhJgI5Fki9/JApttbx/V0A4v9C5fcENw3VWSMpY4e3FBOvpH/P6u4OMxGqEqrF7pX+suFGlXB824jYwcc5pCzjrwVrt03ZArUb0WH7i0K1bAx7fsJP3dyeDB9yKfpb5Q6/r96sFoY6vGGguQX4Fn9JuZilvf7smWfjat8UzXjtmWM/HWTfeMiYmEdRzGaXGHPtH9V7ExY1V73gjMtDwKQOoVCK1F7d/bMTmBnUDK0IV4gjUu8t90jDA==;jir6wY5N8u/sqD2LA+OEPw=="
 ---

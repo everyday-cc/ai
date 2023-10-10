@@ -33,15 +33,15 @@ images:
 related:
   - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
     excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
-    publishedDateTime: 2023-10-07T08:00:00Z
-    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
+    publishedDateTime: 2023-10-07T11:00:00Z
+    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000662.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
     quality: 34
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/89a5101613a5558f58b5a96b09632bf9"
         width: 1200
         height: 800
         isCached: true

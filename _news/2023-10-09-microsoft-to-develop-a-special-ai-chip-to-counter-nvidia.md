@@ -42,22 +42,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Microsoft overhauls OneDrive with new design, easier file views, and AI smarts"
-    excerpt: "The next version of OneDrive will offer new ways to access and share your files, better integration with other Microsoft apps, and an AI-enabled copilot."
-    publishedDateTime: 2023-10-05T16:37:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-overhauls-onedrive-with-new-design-easier-file-views-and-ai-smarts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ef8c196ac8816b4b25f24896aa15b842bb4e112d/2023/10/05/4b0ebccb-8954-4edb-a5e0-8373c18b14ae/gettyimages-1232120148-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
     excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
     publishedDateTime: 2023-10-08T10:48:00Z
@@ -772,6 +756,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "6fwRRbPyAeYEH71i3PaEP0bdaeR3hIfaETt6zcqqZt+QfoumtI0S8p92HDlWx3vDJjIWX5gf8d+ZwauzgVjM+S0JGTwIztw2NR3PiISIHTMHtRfVj3Mau8uXnpafF1cATSM3Ax4rv9GVnZJ+JVK2CUZJRDVgSgD0a7FzchRLzLytNSNv4jgdmMJ/g4+3QYYnrI/ykmb0Bs17nQI2u4sqRL0F18gJa5dGhT/8X8bNHdQhguQfoSahlmosbOrRi2WZmxfIvJmHeJWKm4hHSMegOTdPY+NuH1PMFnFV0Sv5oX5eiUUuawhW5mZ3gYYo7wGHqgP2YhMpKCSkrBESvn7p9vDuS4jJWEMLZX2GLUfE22g=;ZlOzIf5B+z0PjHRd2TwjAA=="
+secured: "aA/N0Wol3YX2CYruP+T9SFdpgKz2kFbp9TK75d4MVKqGfft/mM9mIO0FAFl8QxfIUmNgLYzNMNkMdfqYUcDAOJn2uMvgt+r/fqVQDQYFQjp89HCJvnPCkaoGvcQHn7d3rynarXCfJ9V+c+yX/mnMsq31NJ9MQTZD5BSdNYAPkvasu0RxyxRWkMwfvnUP+cMfyXgzQxv7LjCBd6he+fjp111/i8z+IT7DbmWwRTZxsr3p9WtsfYByOmKlB5oEt9dup2siA0DjJzrWX/dkmD+uyV3mU3eYdPd55PfXOPPsFSZcVSy8rym6J/tV0+T8/ExlJ+rbZPGPDXZ9tG8Jf32C1yL8qUVRwxUebNengDxRw0fb0Sb+bZTL1AKHcwbc8EVT0qQ/lxNgummTbmNT7zgpGckVogw0MsCPTecjAtNjvUa7/OeBOYqNb11pu8QOygUjw8UWMAx1uroVBtYNpSZJjJWCKm/Cg8tgy4UOC+1O3G7CQqFezW636MFM5wUklkXWpJepvbhxIFAD1eHSwgql4g==;0n+XADrsbor5BEntSCsEeQ=="
 ---
 

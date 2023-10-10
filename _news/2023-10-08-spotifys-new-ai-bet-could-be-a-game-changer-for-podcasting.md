@@ -34,20 +34,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 52
-  - title: "How AI is changing data center design"
-    excerpt: "Data centers have historically been built around CPU-powered racks to tackle traditional computing workloads. However, AI compute instead requires GPU-powered racks, which consume more power, emit more heat, and occupy more space than an equivalent CPU capacity."
-    publishedDateTime: 2023-10-05T15:54:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/how-ai-is-changing-data-center-design/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/NiklasHeadshot.22fc4791.fill-1200x630.jpg"
-        width: 500
-        height: 263
-        isCached: true
 
 secured: "M0RwWmpMNx/Ssyaih6lUAuJy38wQoxgzzu9ECv0DxpLhYjdjGlojZ0PV0YkfzylQHmC+2XxzSKnqC9OmtbCa8x+nNFIiqx93UOrz/cjl8VFXBj/Ic5UFbq1Zqi56XotNbPCl3yPv5lzV5mBfgzZH+vWVugGa+IJDYf+7ELo8xrJWRBPFLdkWL1uoylx6y9nz0jucS87QIjS6UG4M7yawnVcdc1o+AEa48paVP+QB2NKXyERID0M44S/RYVCv+bzwvlimixv4mxz3TAEuA4YlfDnqtktXZFl/qlay2M5J1yHQvcUiZRZZg1zaaLymKJdVlxq9cA/6dcdy2b3hrjfO8A8cLOBbjj7ghaTyJPCT1qnKKwJHRbq8r4cEv6APCITuAgmZzWzrQACewkjnhtqcI4HmLI0MRPvvu+7hVEK6FdgkSPNXUhsk4Are3zI3g/tUj2gIekP0YtxjnsSk8RR9VDSpqO6GqeC8lHkSEqbldcBdYtsPQ3Iiy1nryLEbDC0aK056yNtzPD+zhmFmRNGYLA==;SkIcF+eNzFfleQLccb0eBw=="
 ---

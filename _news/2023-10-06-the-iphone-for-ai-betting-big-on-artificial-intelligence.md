@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "So long iPhone. Generative AI needs a new device"
-    excerpt: "Moreover, it emerged that OpenAI was in talks with Sir Jony Ive, Apple’s former designer, to create a new gadget for the AI era. What form it will take is still unclear. But if the idea is to build a new consumer-electronics device better suited to the back-and-forth of seeing,"
-    publishedDateTime: 2023-10-05T15:47:00Z
-    webUrl: "https://www.aol.com/finance/long-iphone-generative-ai-needs-124755464.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pixel 8 Face Unlock might be just as good as the iPhone’s Face ID, thanks to AI"
     excerpt: "The Pixel 8 phones come with Face Unlock support, which seems to be just as secure as the iPhone's Face ID, thanks to AI."
     publishedDateTime: 2023-10-09T17:58:00Z

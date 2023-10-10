@@ -2,9 +2,9 @@
 category: news
 title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
 excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
-publishedDateTime: 2023-10-07T08:00:00Z
-originalUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
-webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
+publishedDateTime: 2023-10-07T11:00:00Z
+originalUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000662.html"
+webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000662.html"
 type: article
 quality: 34
 heat: 34
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
+  - url: "https://media.zenfs.com/en/aol_the_independent_us_877/89a5101613a5558f58b5a96b09632bf9"
     width: 1200
     height: 800
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: abc.net.au
     quality: 0
 
-secured: "+kAYKFoXQ8YQ58HpC6hYio/jJ1tROsnaYNsAAd5a1MIoJTRZfNRRPuFMrb6ZAh4iKOtPaV0TwK1VwNO+NWXxz1S4eYu4ERGyN8kzHKbFHWGfo6c/oxnt0BhB3yl5M8WNnhnuaU4aOv5aZ0GV/Hv+sdfoFvH+v3xwt7sU/x0qEgPOunJtt+yvvqyvE5J8cPKRrkPhw3lEplJb5Ydzu4CyUggNzzW3fBzc8o6K1sqmalSXKjb0irWxp9EyAAMxmArfR8yzUHR/amo4NNPRGPnyFfQLS/OOwc6EfTttbBOPp4qRuMs0+b04BlWRqiycsZIBsiY00PJahWl1iC0SpoehUnxKICz+Ca0df9vDqs0xDK97LHc78EzDFTKELp841RVlon8ZamiJ4WVNyu3RPA/p3He8TmEn0TtKY8uI4sse+y4/1iGaqr0CR0yDTroI0o9Jz1wRef78azr2neZ+fAP2MsOSuNL+bbYZOM7cUXEhtW6gkKvTlETpjzCl6Qmpv6weWCFpwRoHhKN7FZoV/SzU9Q==;onBp4/W25Xcn2U/nhaxUkQ=="
+secured: "rBpQZkoxXIgAy6b4nD7zmYWcRyMtGEgKHK4l0s1Bf06JBuQm+XBe2XLw3RQEqRqN8z2JAbi0MOQ5cl5z1c3sxQhbavJmptFo81J6dKW/scXCuc8ZtRucPvu5D0j/VdconCVScH0MtymFCyLeGQ2dmB/YvzytbHqyiD7zmG0druK93YD8U3PDwYOhDPWlqmj6klCUuL75uBN93jSti4QGWuP4gT1fYfPk4ZBjAdEd7I3ozBp/szvQbHdM1ts0ur1ZgmGP94O/A3AWq2AQ2/rjHOywiU211cUdgxf0W4Ru7HJrTQljnCARdRy4mSZatZ5QDgz4slzUYhVUbvS02naUrsI8mlhnOqAiBGdp0nn++XU=;i5102YYVOtZkY/AJS1Sv1A=="
 ---
 

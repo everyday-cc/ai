@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-c
 webUrl: "https://www.gizmochina.com/2023/10/06/self-driving-cars-consumer-confidence/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "Consumers losing confidence in fully automated, self-driving vehicles, J.D. Power says"
-    excerpt: "But survey results were better in the West, where more people have ridden in robotaxi tests in Phoenix and San Francisco"
-    publishedDateTime: 2023-10-05T15:56:00Z
-    webUrl: "https://www.dcvelocity.com/articles/58779-consumers-losing-confidence-in-fully-automated-self-driving-vehicles-jd-power-says"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 16
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/10/05/autonomous-avt.jpeg?height=635&t=1696521498&width=1200"
-        width: 1200
-        height: 631
         isCached: true
 
 secured: "E2ZonXAFPVqej4o2BO5xs2WbDnj+1PD6ReJJfFUMU1fSEIwUBRPdOB8Wzi6D9qkWDOmQ5i5s7Oj+FDhPWIyn7otDDgexS3i/E5fOivecdKBHymgRsl5HtBnM5iR/vr6zwR+dBpQjuTfUIv5seuT+yP+pWUkeScj1unA+i4BvQkknqegIpPUV5Vf1NV/gYhqKcuHVtUpFvn4MeWNlXhhaFV0RPr3hXfTy1jNI1URlTusL4fnBEc89KB8YFIfAhdBN+n1lL/5m5GiS+8E/HqhnBVRckcloScTsMuvZdCoKHLaf5ZdVy98GaQZYWWDUPHaW+OQxn+/TyUnyuUrsb3Xr261OxmsA+XV9i2yL6uEJeJmrKeJ5DTTmHdY9LQwn9/7WkXKR0yjPTQemS5judrP8MqzQrpS6pEPb3Dmx74hRVF/tMhQWUhmGD71fB3P8ZMRNby+Xg6aJNH9l7ALzUfciuIAdWDw2JNFkQaTk/11+iqRpUAtc5kIG5hgFoBC36BY6IfN5Ztt3NGJWdob3s39vXw==;b0L3A4pSvh7Y3aB3YsJCNg=="

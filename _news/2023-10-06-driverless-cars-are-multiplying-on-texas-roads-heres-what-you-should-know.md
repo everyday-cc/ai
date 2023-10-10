@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austi
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/13869252_100523-ktrk-driverless-cars-texas-img.jpg?w=1600"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Driverless Rides in LA"
+    excerpt: "Waymo One, a driverless taxi service, will be available to the public in locations across the L.A. area, starting with Santa Monica on Oct. 11. Why it matters: You can hail Waymo's driverless cars in places like Phoenix, San Francisco, and now L.A. However, the cars have been a source of controversy for sometimes stalling in the middle of the road."
+    publishedDateTime: 2023-10-07T13:51:00Z
+    webUrl: "https://laist.com/brief/news/transportation/driverless-taxi-service-waymo-one-is-coming-to-santa-monica"
+    type: article
+    provider:
+      name: LAist
+      domain: laist.com
+    quality: 39
+    images:
+      - url: "https://scpr.brightspotcdn.com/dims4/default/88a66da/2147483647/strip/true/crop/4316x2266+0+266/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F1b%2Fed1f7c6e468b956b356332cadaf0%2Fgettyimages-1470596477.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aDVOH3YLgIfaFYHJ88nTBLIpufrtKsg/4RMtY+BOJy+NBQ1eKiRqz+P61URUiiMESzO+3QNCtQxvbiqiJSM2miggAp8SSPkLme8cpZRG5OpLMS6mDXK5nHKaP2TOzuFexoaoOHUlb/mgsjwxtrPGwfGYfA69hCsruQYbPkREX2KwDfV+/wXcCGhFztrn7Bc2BHAZsCn2xKMjbCChAdxrb/vF0n03IoH1sKqrj6YYEoLIa8u7YAywU3xH7RLT89etL9NutguIayFQuXE2d7z948VoUV1K4qiMH8KsFbwGiUuQfegNWooiLqdEjJUUEKhD5+PfKxluj2ss1VZf2BIIGFMNP2fuIIMX22muhfa8EV0flZJo1s+lqUFML8lHrJJHpZz3Cv1UybzoZWtPmCZM2HMiXA/hojA1rdKbZi7uvd7EbnBWAeGYVHRyx/crLrDWcF5xMG2/n6iuLiFDOHXl0Xdq4tUx7j3YfXZoFEbEpw1Qhf8SBxUoh+u2kak/RMQp0YJbxC10eewUS1T51U1ToQ==;mDyGhm9WtSu4v1F/5I7uPg=="
